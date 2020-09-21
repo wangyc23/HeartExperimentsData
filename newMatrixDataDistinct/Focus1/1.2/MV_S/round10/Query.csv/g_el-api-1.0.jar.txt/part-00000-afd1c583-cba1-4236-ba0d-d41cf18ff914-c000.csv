@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/beans/PropertyDescriptor/getPropertyType()
+java/beans/PropertyDescriptor/getReadMethod()
+java/beans/Introspector/getBeanInfo(java.lang.Class)

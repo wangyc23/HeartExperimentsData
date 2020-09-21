@@ -1,0 +1,4 @@
+com/healthmarketscience/jackcess/impl/OfficeCryptCodecHandler/isBlankKey(byte[])
+java/lang/StringBuilder/append(java.lang.String)
+com/healthmarketscience/jackcess/impl/ByteUtil/getBytes(java.nio.ByteBuffer,int,int)
+java/nio/ByteBuffer/getInt()

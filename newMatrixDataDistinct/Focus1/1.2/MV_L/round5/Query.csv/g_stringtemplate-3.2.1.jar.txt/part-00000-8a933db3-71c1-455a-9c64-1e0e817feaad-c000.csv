@@ -1,0 +1,4 @@
+java/lang/String/String(char[],int,int)
+org/antlr/stringtemplate/language/DefaultTemplateLexer/getLine()
+antlr/Token/setText(java.lang.String)
+org/antlr/stringtemplate/language/DefaultTemplateLexer/matchNot(char)

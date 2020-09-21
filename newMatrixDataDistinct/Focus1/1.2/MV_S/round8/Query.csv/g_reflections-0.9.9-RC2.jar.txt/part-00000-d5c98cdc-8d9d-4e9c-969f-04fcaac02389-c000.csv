@@ -1,0 +1,4 @@
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+org/dom4j/Element/getName()
+java/util/Iterator/next()
+java/lang/Class/getDeclaredConstructor(java.lang.Class[])

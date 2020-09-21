@@ -1,0 +1,5 @@
+org/apache/maven/scm/provider/svn/SvnConfigFileReader/getProperty(java.lang.String,java.lang.String)@g_maven-scm-provider-svn-commons-1.4.jar.txt	4
+org/apache/maven/scm/provider/svn/AbstractSvnScmProvider/parseScmUrl(java.lang.String)@g_maven-scm-provider-svn-commons-1.4.jar.txt	1
+org/apache/maven/shared/invoker/MavenCommandLineBuilder/findMavenExecutable()@g_maven-invoker-2.0.11.jar.txt	3
+org/apache/maven/scm/provider/svn/repository/SvnScmProviderRepository/getParent()@g_maven-scm-provider-svn-commons-1.4.jar.txt	2
+org/apache/maven/scm/provider/svn/repository/SvnScmProviderRepository/parseUrl(java.lang.String)@g_maven-scm-provider-svn-commons-1.4.jar.txt	0

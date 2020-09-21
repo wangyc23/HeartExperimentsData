@@ -1,0 +1,5 @@
+edu/cmu/cs/lti/ark/util/ds/graph/RootedDAGNode/addParent(N)@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	0
+edu/cmu/cs/lti/ark/util/optimization/LogFormula/getParameters()@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	1
+edu/cmu/cs/lti/ark/util/nlp/parse/DependencyParse/getLeftAndRightDescendants()@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	4
+edu/cmu/cs/lti/ark/fn/evaluation/ParseUtils/getRightInputForFrameIdentification(java.util.List)@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	2
+edu/cmu/cs/lti/ark/fn/parsing/DataPrep/getTrainData(java.lang.String,java.util.List,edu.cmu.cs.lti.ark.fn.data.prep.formats.Sentence)@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	3

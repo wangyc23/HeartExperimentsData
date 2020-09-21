@@ -1,0 +1,5 @@
+com/netflix/ribbon/proxy/RibbonDynamicProxy/newInstance(java.lang.Class,com.netflix.ribbon.RibbonResourceFactory,com.netflix.client.config.ClientConfigFactory,com.netflix.ribbon.RibbonTransportFactory,com.netflix.ribbon.proxy.processor.AnnotationProcessorsProvider)@g_ribbon-2.1.0.jar.txt	2
+com/netflix/ribbon/proxy/RibbonDynamicProxy/newInstance(java.lang.Class,com.netflix.ribbon.http.HttpResourceGroup)@g_ribbon-2.1.0.jar.txt	1
+com/netflix/ribbon/template/TemplateParser/toData(java.util.Map,java.lang.String,java.util.List)@g_ribbon-2.1.0.jar.txt	3
+rx/internal/operators/OnSubscribeJoin/ResultSink/RightSubscriber/onNext(java.lang.Object)@g_ribbon-2.1.0.jar.txt	4
+com/netflix/ribbon/proxy/processor/ClientPropertiesProcessor/exportPropertiesToArchaius(java.lang.String,com.netflix.client.config.IClientConfig,java.lang.String)@g_ribbon-2.1.0.jar.txt	0

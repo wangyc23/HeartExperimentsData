@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xpath/regex/Token/getRange(java.lang.String,boolean)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	1
+org/apache/xerces/jaxp/datatype/XMLGregorianCalendarImpl/toString(java.math.BigDecimal)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	0
+org/apache/xerces/dom/DOMMessageFormatter/formatMessage(java.lang.String,java.lang.String,java.lang.Object[])@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	3
+org/apache/xml/serialize/HTMLSerializer/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	4
+org/apache/xml/serialize/BaseMarkupSerializer/printCDATAText(java.lang.String)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	2

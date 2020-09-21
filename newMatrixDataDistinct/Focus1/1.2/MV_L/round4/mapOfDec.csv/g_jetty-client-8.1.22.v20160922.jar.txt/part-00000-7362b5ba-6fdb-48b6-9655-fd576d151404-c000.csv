@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/handler/ContextHandler/toString()@g_jetty-server-8.1.22.v20160922.jar.txt	2
+org/eclipse/jetty/server/handler/ContextHandler/toString()@g_jetty-server-7.6.5.v20120716.jar.txt	0
+org/eclipse/jetty/server/AbstractConnector/Acceptor/run()@g_jetty-server-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/server/session/JDBCSessionIdManager/cleanExpiredSessions()@g_jetty-server-8.1.22.v20160922.jar.txt	1
+org/eclipse/jetty/server/Server/handleAsync(org.eclipse.jetty.server.AbstractHttpConnection)@g_jetty-server-7.6.5.v20120716.jar.txt	3

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/springframework/metadata/Attributes/getAttributes(java.lang.reflect.Method,java.lang.Class)
+java/lang/StringBuffer/append(java.lang.Object)
+java/util/Collection/size()

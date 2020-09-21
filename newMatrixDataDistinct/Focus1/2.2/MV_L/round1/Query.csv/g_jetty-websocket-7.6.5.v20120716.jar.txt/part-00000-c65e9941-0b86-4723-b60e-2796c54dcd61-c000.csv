@@ -1,0 +1,4 @@
+org/eclipse/jetty/io/Buffer/getIndex()
+org/eclipse/jetty/io/ByteArrayBuffer/clear()
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+org/eclipse/jetty/util/Utf8StringBuilder/toString()

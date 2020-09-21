@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blocktree/BlockTreeTermsWriter/TermsWriter/writeBlock(int,boolean,int,int,int,boolean,boolean)@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/search/BooleanWeight/booleanScorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-core-7.0.0.jar.txt	1
+org/apache/lucene/index/IndexWriter/addIndexes(org.apache.lucene.store.Directory[])@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/search/MultiTermQueryConstantScoreWrapper/1/rewrite(org.apache.lucene.index.LeafReaderContext)@g_lucene-core-7.0.0.jar.txt	0
+org/apache/lucene/util/QueryBuilder/analyzeGraphPhrase(org.apache.lucene.analysis.TokenStream,java.lang.String,int)@g_lucene-core-7.0.0.jar.txt	2

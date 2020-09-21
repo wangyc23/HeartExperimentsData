@@ -1,0 +1,5 @@
+org/isisaddons/module/excel/fixture/scripts/DeleteAllToDoItems/execute(org.apache.isis.applib.fixturescripts.FixtureScript.ExecutionContext)@07f158586ec20dfd3e349faf1915b26ae200dd26.txt	0
+org/isisaddons/module/excel/fixture/app/ExcelModuleDemoToDoItemBulkUpdateManager/currentUserName()@07f158586ec20dfd3e349faf1915b26ae200dd26.txt	4
+org/isisaddons/module/excel/fixture/scripts/RecreateToDoItems/execute(org.apache.isis.applib.fixturescripts.FixtureScript.ExecutionContext)@07f158586ec20dfd3e349faf1915b26ae200dd26.txt	2
+org/isisaddons/module/excel/fixture/app/ExcelModuleDemoToDoItemBulkUpdateLineItem/apply()@07f158586ec20dfd3e349faf1915b26ae200dd26.txt	3
+org/isisaddons/module/excel/fixture/scripts/CreateAllToDoItems/execute(org.apache.isis.applib.fixturescripts.FixtureScript.ExecutionContext)@07f158586ec20dfd3e349faf1915b26ae200dd26.txt	1

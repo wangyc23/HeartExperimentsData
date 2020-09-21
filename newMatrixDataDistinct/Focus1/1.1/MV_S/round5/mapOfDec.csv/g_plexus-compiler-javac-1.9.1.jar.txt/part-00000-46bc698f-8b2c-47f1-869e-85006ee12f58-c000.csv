@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getClasspath()@g_maven-scm-provider-svnexe-1.4.jar.txt	4
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getBootclassPath()@g_maven-scm-provider-svnexe-1.4.jar.txt	2
+org/apache/maven/plugin/javadoc/options/io/xpp3/JavadocOptionsXpp3Reader/parseJavadocOptions(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-scm-provider-svnexe-1.4.jar.txt	3
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getTagletPath()@g_maven-scm-provider-svnexe-1.4.jar.txt	1
+org/apache/maven/scm/provider/svn/svnexe/command/checkout/SvnCheckOutConsumer/getFiles()@g_maven-scm-provider-svnexe-1.4.jar.txt	0

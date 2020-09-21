@@ -1,0 +1,4 @@
+com/hp/hpl/jena/ontology/OntModel/getOntProperty(java.lang.String)
+ch/fhnw/cbr/service/data/LiteralPropertyValueVO/getUri()
+java/util/Iterator/hasNext()
+ch/fhnw/cbr/service/data/IndividualVO/setUri(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/graphics/blend/BlendComposite/BlendCompositeContext/compose(java.awt.image.Raster,java.awt.image.Raster,java.awt.image.WritableRaster)@g_filters-2.0.235.jar.txt	4
+org/apache/pdfbox/pdmodel/interactive/form/AppearanceGeneratorHelper/insertGeneratedSelectionHighlight(org.apache.pdfbox.pdmodel.PDPageContentStream,org.apache.pdfbox.pdmodel.interactive.annotation.PDAppearanceStream,org.apache.pdfbox.pdmodel.font.PDFont,float)@g_filters-2.0.235.jar.txt	1
+org/apache/pdfbox/pdmodel/font/TrueTypeEmbedder/subset()@g_filters-2.0.235.jar.txt	0
+org/apache/pdfbox/text/PDFTextStripper/processTextPosition(org.apache.pdfbox.text.TextPosition)@g_filters-2.0.235.jar.txt	3
+org/apache/pdfbox/pdmodel/font/FileSystemFontProvider/addType1Font(java.io.File)@g_filters-2.0.235.jar.txt	2

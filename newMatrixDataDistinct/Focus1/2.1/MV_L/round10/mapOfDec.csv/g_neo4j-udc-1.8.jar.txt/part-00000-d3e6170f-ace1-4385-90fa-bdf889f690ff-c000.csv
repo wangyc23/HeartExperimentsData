@@ -1,0 +1,5 @@
+org/neo4j/ext/udc/impl/DefaultUdcInformationCollector/determineTags(java.util.Map,java.lang.String)@g_neo4j-udc-2.0.1.jar.txt	1
+org/neo4j/ext/udc/impl/UdcExtensionImpl/loadConfig(org.neo4j.kernel.KernelData)@g_neo4j-udc-2.0.1.jar.txt	4
+org/neo4j/ext/udc/impl/UdcKernelExtensionFactory/loadConfig(org.neo4j.kernel.configuration.Config)@g_neo4j-udc-2.1.5.jar.txt	2
+org/neo4j/ext/udc/impl/UdcKernelExtensionFactory/loadConfig(org.neo4j.kernel.configuration.Config)@g_neo4j-udc-2.0.1.jar.txt	0
+org/neo4j/ext/udc/impl/DefaultUdcInformationCollector/determineTags(java.util.Map,java.lang.String)@g_neo4j-udc-2.1.5.jar.txt	3

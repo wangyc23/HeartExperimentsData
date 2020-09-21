@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/resource/Resource/getFile()
+org/eclipse/jetty/webapp/WebAppClassLoader/addURL(java.net.URL)
+org/eclipse/jetty/util/log/Log/debug(java.lang.String)
+org/eclipse/jetty/util/log/Log/isDebugEnabled()

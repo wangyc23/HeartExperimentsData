@@ -1,0 +1,4 @@
+0	java/lang/StringBuilder/StringBuilder()
+1	java/lang/String/format(java.lang.String,java.lang.Object[])
+2	java/lang/management/ThreadInfo/getStackTrace()
+3	java/lang/management/ThreadInfo/getThreadState()

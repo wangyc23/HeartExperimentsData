@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/engine/emfvm/lib/TransientLinkSet/addLink2(org.eclipse.m2m.atl.engine.emfvm.lib.TransientLink,boolean)@g_engine.emfvm-3.4.0.jar.txt	1
+org/eclipse/m2m/atl/engine/emfvm/ASM/run(org.eclipse.m2m.atl.engine.emfvm.launch.ITool[],java.util.Map,java.util.Map,java.util.List,java.util.Map,org.eclipse.core.runtime.IProgressMonitor,org.eclipse.m2m.atl.engine.emfvm.adapter.IModelAdapter)@g_engine.emfvm-3.4.0.jar.txt	3
+org/eclipse/m2m/atl/engine/emfvm/ASMXMLReader/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_engine.emfvm-3.4.0.jar.txt	2
+org/eclipse/m2m/atl/engine/emfvm/lib/Bag/iterator()@g_engine.emfvm-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/engine/emfvm/ASM/addAllTypesExtensions(java.util.Map)@g_engine.emfvm-3.4.0.jar.txt	0

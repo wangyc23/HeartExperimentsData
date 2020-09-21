@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/loader/impl/ImageConverterBitmap2G2D/1/paint(java.awt.Graphics2D,java.awt.geom.Rectangle2D)@g_xmlgraphics-commons-1.5.jar.txt	4
+org/apache/batik/ext/awt/image/codec/png/PNGImageEncoder/writeIDAT()@g_batik-codec-1.8.jar.txt	2
+org/apache/xmlgraphics/ps/ImageEncodingHelper/encodeRenderedImageAsRGB(java.awt.image.RenderedImage,java.io.OutputStream)@g_xmlgraphics-commons-1.5.jar.txt	3
+org/apache/batik/ext/awt/image/codec/png/PNGImageEncoder/encode(java.awt.image.RenderedImage)@g_batik-codec-1.8.jar.txt	1
+org/apache/batik/ext/awt/image/codec/tiff/TIFFImageEncoder/encode(java.awt.image.RenderedImage,org.apache.batik.ext.awt.image.codec.tiff.TIFFEncodeParam,int,boolean)@g_batik-codec-1.8.jar.txt	0

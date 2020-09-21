@@ -1,0 +1,4 @@
+java/lang/String/split(java.lang.String)
+java/lang/String/length()
+java/lang/String/toUpperCase(java.util.Locale)
+java/lang/String/substring(int,int)

@@ -1,0 +1,7 @@
+0	java/util/List/get(int)
+1	java/util/Arrays/asList(T[])
+2	java/lang/Object/getClass()
+3	java/lang/Class/getMethod(java.lang.String,java.lang.Class<?>[])
+4	cucumber/runtime/ParameterInfo/convert(java.lang.String,cucumber.runtime.xstream.LocalizedXStreams.LocalizedXStream,java.util.Locale)
+5	cucumber/runtime/ParameterInfo/fromMethod(java.lang.reflect.Method)
+6	cucumber/runtime/ParameterInfo/convert(java.lang.String,cucumber.runtime.xstream.LocalizedXStreams.LocalizedXStream)

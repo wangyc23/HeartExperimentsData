@@ -1,0 +1,5 @@
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/populateAnnotationCache(java.lang.reflect.Field)@g_spring-data-commons-1.9.2.RELEASE.jar.txt	3
+org/springframework/data/mapping/context/AbstractMappingContext/addPersistentEntity(org.springframework.data.util.TypeInformation)@g_spring-data-commons-1.9.2.RELEASE.jar.txt	1
+org/springframework/data/convert/MappingContextTypeInformationMapper/safelyAddToCache(org.springframework.data.util.ClassTypeInformation,java.lang.Object)@g_spring-data-commons-1.9.2.RELEASE.jar.txt	4
+org/springframework/data/util/ClassTypeInformation/getTypeVariableMap(java.lang.Class,java.util.Collection)@g_spring-data-commons-1.9.2.RELEASE.jar.txt	2
+org/springframework/data/repository/query/EvaluationContextExtensionInformation/RootObjectInformation/getFunctions(java.lang.Object)@g_spring-data-commons-1.9.2.RELEASE.jar.txt	0

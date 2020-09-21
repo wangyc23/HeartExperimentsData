@@ -1,0 +1,5 @@
+org/apache/maven/project/artifact/MavenMetadataSource/createArtifacts(org.apache.maven.artifact.factory.ArtifactFactory,java.util.List,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.project.MavenProject)@g_maven-project-3.0-alpha-2.jar.txt	2
+org/apache/maven/profiles/injection/DefaultProfileInjector/injectModules(org.apache.maven.model.Profile,org.apache.maven.model.Model)@g_maven-project-3.0-alpha-2.jar.txt	4
+org/apache/maven/profiles/injection/DefaultProfileInjector/injectPluginDefinition(org.apache.maven.model.Plugin,org.apache.maven.model.Plugin)@g_maven-project-3.0-alpha-2.jar.txt	0
+org/apache/maven/project/MavenProject/getManagedVersionMap()@g_maven-project-3.0-alpha-2.jar.txt	1
+org/apache/maven/profiles/DefaultProfileManager/getActiveProfiles(org.apache.maven.model.Model)@g_maven-project-3.0-alpha-2.jar.txt	3

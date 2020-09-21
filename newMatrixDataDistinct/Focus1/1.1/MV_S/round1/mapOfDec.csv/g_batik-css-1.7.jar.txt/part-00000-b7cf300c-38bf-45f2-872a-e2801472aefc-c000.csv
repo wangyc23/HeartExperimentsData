@@ -1,0 +1,5 @@
+org/eclipse/osgi/baseadaptor/BaseAdaptor/listEntryPaths(java.util.List,java.lang.String,java.lang.String,int)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/framework/internal/core/FrameworkConsole/runConsole()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/apache/xerces/impl/xs/traversers/XSDHandler/parseSchema(org.apache.xerces.xni.parser.XMLInputSource,org.apache.xerces.impl.xs.XSDDescription,java.util.Hashtable)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/apache/xerces/impl/xs/traversers/XSDHandler/traverseSchemas(java.util.ArrayList)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/osgi/framework/internal/core/ManifestLocalization/getHeaders(java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1

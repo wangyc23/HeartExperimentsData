@@ -1,0 +1,5 @@
+org/glassfish/grizzly/servlet/ApplicationDispatcher/wrapRequest(org.glassfish.grizzly.servlet.ApplicationDispatcher$State)@g_grizzly-http-servlet-2.3.19.jar.txt	2
+org/bson/codecs/PatternCodec/getOptionsAsInt(org.bson.BsonRegularExpression)@g_mongo-java-driver-3.4.2.jar.txt	3
+org/bson/BsonBinaryReader/doSkipValue()@g_mongo-java-driver-3.4.2.jar.txt	0
+org/bson/BsonBinaryReader/readBsonType()@g_mongo-java-driver-3.4.2.jar.txt	1
+org/bson/json/JsonWriter/doWriteTimestamp(org.bson.BsonTimestamp)@g_mongo-java-driver-3.4.2.jar.txt	4

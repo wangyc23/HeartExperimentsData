@@ -1,0 +1,5 @@
+org/junit/experimental/max/MaxCore/findLeaves(org.junit.runner.Description,org.junit.runner.Description,java.util.List)@g_junit-4.12.jar.txt	3
+org/junit/runners/model/MultipleFailureException/getMessage()@g_junit-4.12.jar.txt	4
+org/junit/runners/model/TestClass/getAnnotatedMethodValues(java.lang.Object,java.lang.Class,java.lang.Class)@g_junit-4.12.jar.txt	0
+org/junit/internal/runners/MethodValidator/validateTestMethods(java.lang.Class,boolean)@g_junit-4.12.jar.txt	1
+org/junit/ComparisonFailure/ComparisonCompactor/compact(java.lang.String)@g_junit-4.12.jar.txt	2

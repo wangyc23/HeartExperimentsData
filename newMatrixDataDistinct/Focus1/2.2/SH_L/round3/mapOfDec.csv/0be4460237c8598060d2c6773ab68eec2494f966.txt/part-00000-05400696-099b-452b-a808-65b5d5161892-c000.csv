@@ -1,0 +1,5 @@
+wikibooks/hadoop/chapter07/ReduceSideJoin/run(java.lang.String[])@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	3
+wikibooks/hadoop/chapter07/ReduceSideJoin/main(java.lang.String[])@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	2
+wikibooks/hadoop/chapter05/DelayCountMapperWithCounter/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	1
+wikibooks/hadoop/chapter05/DelayCountMapperWithMultipleOutputs/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	0
+wikibooks/hadoop/chapter07/CarrierCodeMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	4

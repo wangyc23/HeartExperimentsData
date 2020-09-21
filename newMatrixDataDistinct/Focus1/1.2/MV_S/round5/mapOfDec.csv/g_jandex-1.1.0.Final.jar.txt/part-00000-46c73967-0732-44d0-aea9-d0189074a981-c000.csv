@@ -1,0 +1,5 @@
+au/com/redhillconsulting/simian/SimianMain/B()@g_simian-2.2.4.jar.txt	3
+org/jboss/jandex/Main/indexDirectory(java.io.File,org.jboss.jandex.Indexer)@g_simian-2.2.4.jar.txt	4
+au/com/redhillconsulting/simian/u/startCheck(au.com.redhillconsulting.simian.Options)@g_simian-2.2.4.jar.txt	2
+au/com/redhillconsulting/simian/SimianTask/A(au.com.redhillconsulting.simian.Checker)@g_simian-2.2.4.jar.txt	1
+com/sun/tools/localizer/resourcegen/ResourceGenTask/execute()@g_comresrcgen-1.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/frontend/v3_1/parser/Literals/anonfun/SignedIntegerLiteral/1/apply()@g_neo4j-cypher-frontend-3.2-3.2.5.jar.txt	2
+org/neo4j/cypher/internal/frontend/v3_0/parser/Patterns/anonfun/org/n/72d4ab42cdb2acaba7de234e692c6ae3/ns/RelationshipTypes/1/apply()@g_neo4j-cypher-frontend-3.2-3.2.5.jar.txt	4
+org/neo4j/cypher/internal/frontend/v3_2/ast/Pattern/anonfun/ensureNoDuplicateRelationships/1/apply(scala.Function1,scala.collection.Seq)@g_neo4j-cypher-frontend-3.2-3.2.5.jar.txt	3
+org/neo4j/cypher/internal/frontend/v3_0/parser/Clauses/anonfun/Foreach/1/apply()@g_neo4j-cypher-frontend-3.2-3.2.5.jar.txt	0
+org/neo4j/cypher/internal/frontend/v3_0/ast/ExpressionCallTypeChecker/anonfun/checkTypes/1/apply(org.neo4j.cypher.internal.frontend.v3_0.SemanticState)@g_neo4j-cypher-frontend-3.2-3.2.5.jar.txt	1

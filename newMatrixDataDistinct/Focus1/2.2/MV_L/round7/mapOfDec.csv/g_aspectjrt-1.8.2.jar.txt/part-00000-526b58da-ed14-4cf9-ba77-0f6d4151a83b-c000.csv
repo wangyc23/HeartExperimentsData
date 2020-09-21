@@ -1,0 +1,5 @@
+org/aspectj/runtime/reflect/Factory/makeEncSJP(java.lang.reflect.Member)@g_aspectjrt-1.6.11.jar.txt	0
+org/aspectj/lang/Aspects14/checkAspectOf(java.lang.reflect.Method,java.lang.Class)@g_aspectjrt-1.6.11.jar.txt	3
+org/aspectj/runtime/reflect/Factory/makeEncSJP(java.lang.reflect.Member)@g_aspectjrt-1.6.12.jar.txt	1
+org/aspectj/lang/Aspects14/checkHasAspect(java.lang.reflect.Method,java.lang.Class)@g_aspectjrt-1.6.11.jar.txt	2
+org/aspectj/lang/Aspects/checkHasAspect(java.lang.reflect.Method,java.lang.Class)@g_aspectjrt-1.6.11.jar.txt	4

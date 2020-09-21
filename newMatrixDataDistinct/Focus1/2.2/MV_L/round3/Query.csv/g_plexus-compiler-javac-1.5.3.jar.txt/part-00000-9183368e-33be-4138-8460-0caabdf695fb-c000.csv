@@ -1,0 +1,4 @@
+java/io/PrintWriter/write(java.lang.String)
+java/io/PrintWriter/flush()
+java/lang/String/replace(char,char)
+java/io/PrintWriter/PrintWriter(java.io.Writer)

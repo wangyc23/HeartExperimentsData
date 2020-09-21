@@ -1,0 +1,5 @@
+org/ranksys/formats/index/Utils/readElemens(java.io.InputStream,org.ranksys.formats.parsing.Parser)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+es/uam/eps/ir/ranksys/rec/fast/basic/PopularityRecommender/getRecommendation(int,int,java.util.function.IntPredicate)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2
+es/uam/eps/ir/ranksys/core/preference/SimplePreferenceData/numUsers()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1
+es/uam/eps/ir/ranksys/fast/feature/SimpleFastFeatureData/numFeatures(int)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3
+org/ranksys/compression/preferences/RatingCODECPreferenceData/ul(es.uam.eps.ir.ranksys.fast.preference.FastPreferenceData)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0

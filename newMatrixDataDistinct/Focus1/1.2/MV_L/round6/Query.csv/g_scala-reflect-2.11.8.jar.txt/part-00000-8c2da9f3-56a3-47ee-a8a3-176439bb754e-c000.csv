@@ -1,0 +1,4 @@
+scala/reflect/internal/Types$Type/bounds()
+scala/reflect/internal/Types$$anonfun$specializesSym$3/3(scala.reflect.internal.SymbolTable,scala.reflect.internal.Types$Type,scala.reflect.internal.Types$Type,scala.reflect.internal.Symbols$Symbol)
+scala/reflect/internal/Types$Type/memberType(scala.reflect.internal.Symbols$Symbol)
+scala/reflect/internal/Types$Type/isWildcard()

@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+java/util/List/addAll(java.util.Collection)
+java/lang/System/exit(int)
+java/util/Map/containsKey(java.lang.Object)

@@ -1,0 +1,5 @@
+com/netflix/governator/guice/LoadersBootstrapModule/configure(com.netflix.governator.guice.BootstrapBinder)@g_governator-1.10.4.jar.txt	3
+com/netflix/governator/guice/ModuleListBuilder/ModuleProvider/getIncludeList()@g_governator-1.10.4.jar.txt	1
+com/netflix/governator/guice/InternalAutoBindModule/bindAutoBindSingletons()@g_governator-1.10.4.jar.txt	2
+com/netflix/governator/lifecycle/LifecycleMethods/addLifeCycleMethods(java.lang.Class,com.google.common.collect.Multimap)@g_governator-1.10.4.jar.txt	0
+com/netflix/governator/guice/InternalAutoBindModuleBootstrapModule/bindAutoBindSingletons(com.netflix.governator.guice.BootstrapBinder)@g_governator-1.10.4.jar.txt	4

@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+org/coode/owlapi/obo12/parser/SynonymTypeDefTagHandler/getIRIFromOBOId(java.lang.String)
+org/coode/owlapi/obo12/parser/SynonymTypeDefTagHandler/applyChange(org.semanticweb.owlapi.model.OWLOntologyChange)
+org/semanticweb/owlapi/model/OWLDataFactory/getOWLLiteral(java.lang.String)

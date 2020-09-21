@@ -1,0 +1,4 @@
+org/slf4j/Logger/warn(java.lang.String,java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+java/util/Map/get(java.lang.Object)

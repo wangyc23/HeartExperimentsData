@@ -1,0 +1,5 @@
+com/mchange/v2/naming/JavaBeanObjectFactory/createPropertyMap(java.lang.Class,java.util.Map)@g_c3p0-0.9.1.1.jar.txt	2
+com/mchange/v2/cfg/CombinedMultiPropertiesConfig/getPropertiesByPrefix(java.lang.String)@g_c3p0-0.9.1.1.jar.txt	1
+com/mchange/v2/cfg/BasicMultiPropertiesConfig/extractPrefixMapFromRsrcPathMap(java.lang.String[],java.util.Map)@g_c3p0-0.9.1.1.jar.txt	3
+com/mchange/v2/cfg/BasicMultiPropertiesConfig/extractPropsByKey(java.lang.String[],java.util.Map)@g_c3p0-0.9.1.1.jar.txt	4
+com/mchange/v2/c3p0/cfg/C3P0ConfigUtils/findAllC3P0SystemProperties()@g_c3p0-0.9.1.1.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/String/length()
+org/glassfish/jersey/uri/UriComponent$Type/ordinal()
+java/lang/String/codePointAt(int)
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,5 @@
+io/corbel/iam/api/TokenResource/upgradeToken(io.corbel.lib.ws.auth.AuthorizationInfo,java.lang.String,java.lang.String)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	2
+io/corbel/evci/api/EventResource/registerJsonEvent(io.corbel.lib.ws.auth.AuthorizationInfo,java.lang.String,com.fasterxml.jackson.databind.JsonNode)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	0
+io/corbel/oauth/api/UserResource/getUserProfile(java.lang.String,io.corbel.lib.token.reader.TokenReader)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	3
+io/corbel/iam/api/EmailResource/existsUserByEmailInDomain(java.lang.String,java.lang.String)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	1
+io/corbel/resources/rem/resmi/AbstractResmiRem/created(java.net.URI)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	4

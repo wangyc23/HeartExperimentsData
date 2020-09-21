@@ -1,0 +1,5 @@
+uk/ac/ic/wlgitbridge/snapshot/getforversion/GetForVersionResult/toJson()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	3
+uk/ac/ic/wlgitbridge/snapshot/servermock/util/FileUtilTest/returnsFalseIfInnerDirectoryNamesAreNotEqual()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	2
+uk/ac/ic/wlgitbridge/git/handler/hook/WriteLatexPutHook/onPreReceive(org.eclipse.jgit.transport.ReceivePack,java.util.Collection)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	4
+uk/ac/ic/wlgitbridge/server/PostbackContents/setException(com.google.gson.JsonObject,java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	1
+uk/ac/ic/wlgitbridge/util/Log/warn(java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	0

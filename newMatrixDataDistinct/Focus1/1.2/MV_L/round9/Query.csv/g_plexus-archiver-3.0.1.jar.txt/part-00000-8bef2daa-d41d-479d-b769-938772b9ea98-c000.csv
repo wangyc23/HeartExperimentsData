@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/io/PrintWriter/PrintWriter(java.io.Writer)
+java/lang/String/String(byte[],java.lang.String)
+java/util/Iterator/next()

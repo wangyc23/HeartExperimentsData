@@ -1,0 +1,5 @@
+com/commafeed/backend/feed/FeedRefreshWorker/updateFeed(com.commafeed.backend.feed.FeedRefreshContext)@1d1322c15e3df6be46e8c58e9950e05dccb92a4f.txt	4
+com/commafeed/backend/dao/FeedEntryStatusDAO/buildQuery(com.commafeed.backend.model.User,com.commafeed.backend.model.FeedSubscription,boolean,java.util.List,java.util.Date,int,int,com.commafeed.backend.model.UserSettings.ReadingOrder,java.util.Date,java.lang.String)@1d1322c15e3df6be46e8c58e9950e05dccb92a4f.txt	0
+com/commafeed/backend/service/FeedEntryFilteringServiceTest/cannotLoopForever()@1d1322c15e3df6be46e8c58e9950e05dccb92a4f.txt	1
+com/commafeed/backend/rome/OPML11Parser/parse(org.jdom2.Document,boolean,java.util.Locale)@1d1322c15e3df6be46e8c58e9950e05dccb92a4f.txt	2
+com/commafeed/backend/dao/GenericDAO/findById(java.lang.Long)@1d1322c15e3df6be46e8c58e9950e05dccb92a4f.txt	3

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/Class/getAnnotation(java.lang.Class)
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/getQualifiersFromObject(java.lang.Object)
+java/lang/annotation/Annotation/annotationType()

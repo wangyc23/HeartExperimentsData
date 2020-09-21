@@ -1,0 +1,5 @@
+io/netty/channel/LoggingHandler/channelActive(io.netty.channel.ChannelHandlerContext)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	0
+io/netty/test/udt/util/EchoByteHandler/channelActive(io.netty.channel.ChannelHandlerContext)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	2
+io/netty/util/internal/chmv8/ConcurrentHashMapV8/TreeBin/removeTreeNode(io.netty.util.internal.chmv8.ConcurrentHashMapV8.TreeNode)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	1
+io/netty/buffer/AbstractDerivedByteBuf/retain()@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	4
+io/netty/buffer/UnpooledDirectByteBuf/setLong(int,long)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	3

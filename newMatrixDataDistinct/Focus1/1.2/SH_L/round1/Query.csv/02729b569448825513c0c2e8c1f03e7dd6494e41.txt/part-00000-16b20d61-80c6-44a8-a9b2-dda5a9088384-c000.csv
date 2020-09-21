@@ -1,0 +1,4 @@
+xie/animeshotsite/db/entity/ImageUrl/ImageUrl()
+xie/animeshotsite/db/entity/BaseTietukuUrl/setTietukuUrlPrefix(java.lang.String)
+xie/base/service/BaseService/findOne(ID)
+xie/animeshotsite/db/entity/BaseTietukuUrl/setTietukuUrlId(java.lang.String)

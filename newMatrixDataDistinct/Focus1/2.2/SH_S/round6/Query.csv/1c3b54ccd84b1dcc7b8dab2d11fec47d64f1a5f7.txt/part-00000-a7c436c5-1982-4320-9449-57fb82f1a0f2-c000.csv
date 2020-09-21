@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/apache/hadoop/hbase/KeyValue/getQualifier()
+org/apache/hadoop/hbase/KeyValue/getKeyString()
+org/apache/hadoop/hbase/KeyValue/getValue()

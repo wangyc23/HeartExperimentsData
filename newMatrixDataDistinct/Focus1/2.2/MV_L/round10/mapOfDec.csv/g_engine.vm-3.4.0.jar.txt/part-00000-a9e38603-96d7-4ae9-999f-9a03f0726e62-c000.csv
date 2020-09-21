@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/profile/DefaultProfileLogger/accumLogExit(java.lang.String)@g_org.eclipse.osgi-3.7.1.jar.txt	1
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistry/addServiceListener(org.eclipse.osgi.framework.internal.core.BundleContextImpl,org.osgi.framework.ServiceListener,java.lang.String)@g_org.eclipse.osgi-3.7.1.jar.txt	4
+org/osgi/framework/AdaptPermissionCollection/add(java.security.Permission)@g_org.eclipse.osgi-3.7.1.jar.txt	0
+org/eclipse/core/runtime/internal/adaptor/EclipseLazyStarter/postFindLocalClass(java.lang.String,java.lang.Class,org.eclipse.osgi.baseadaptor.loader.ClasspathManager)@g_org.eclipse.osgi-3.7.1.jar.txt	2
+org/osgi/framework/CapabilityPermissionCollection/add(java.security.Permission)@g_org.eclipse.osgi-3.7.1.jar.txt	3

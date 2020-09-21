@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/fromConfiguration/CopyMojo/execute()@g_maven-dependency-plugin-2.3.jar.txt	4
+org/apache/maven/plugin/dependency/AnalyzeDepMgt/checkDependencyManagement()@g_maven-dependency-plugin-2.2.jar.txt	3
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/createArtifactMap(org.apache.maven.project.MavenProject)@g_maven-dependency-plugin-2.2.jar.txt	2
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/createArtifactMap(org.apache.maven.project.MavenProject)@g_maven-dependency-plugin-2.3.jar.txt	0
+org/apache/maven/plugin/dependency/AnalyzeDepMgt/checkDependencyManagement()@g_maven-dependency-plugin-2.3.jar.txt	1

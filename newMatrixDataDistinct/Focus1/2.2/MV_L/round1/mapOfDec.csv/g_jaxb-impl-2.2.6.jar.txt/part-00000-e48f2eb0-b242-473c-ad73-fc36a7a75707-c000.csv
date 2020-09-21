@@ -1,0 +1,5 @@
+com/sun/xml/bind/v2/schemagen/XmlSchemaGenerator/Namespace/writeTo(javax.xml.transform.Result,java.util.Map)@g_jaxb-impl-2.2.3-1.jar.txt	4
+com/sun/xml/bind/marshaller/XMLWriter/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jaxb-impl-2.2.2.jar.txt	2
+com/sun/xml/bind/marshaller/XMLWriter/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jaxb-impl-2.2.3-1.jar.txt	0
+com/sun/xml/txw2/output/XMLWriter/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jaxb-impl-2.2.2.jar.txt	3
+com/sun/xml/txw2/output/XMLWriter/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jaxb-impl-2.2.3-1.jar.txt	1

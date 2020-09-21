@@ -1,0 +1,5 @@
+org/eclipse/acceleo/common/utils/ModelUtils/load(java.io.InputStream,java.lang.String,org.eclipse.emf.ecore.resource.ResourceSet)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	1
+org/eclipse/m2m/atl/engine/parser/AtlParser/<clinit>()@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	4
+org/eclipse/m2m/atl/engine/MarkerMaker/eObjectToPbmMarker(org.eclipse.core.resources.IResource,org.eclipse.m2m.atl.common.AtlNbCharFile,org.eclipse.emf.ecore.EObject,int)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	3
+org/eclipse/acceleo/common/internal/utils/workspace/AcceleoModelManager/saving(org.eclipse.core.resources.ISaveContext)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	2
+org/eclipse/acceleo/common/internal/utils/workspace/AcceleoWorkspaceUtil/getServiceInstance(java.lang.Class)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	0

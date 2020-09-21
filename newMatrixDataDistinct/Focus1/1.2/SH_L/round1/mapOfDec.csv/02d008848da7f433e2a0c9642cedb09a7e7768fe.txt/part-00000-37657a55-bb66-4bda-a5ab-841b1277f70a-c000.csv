@@ -1,0 +1,5 @@
+com/adobe/acs/commons/workflow/bulk/removal/impl/WorkflowInstanceRemoverImpl/forceQuit(com.adobe.acs.commons.oak.impl.ResourceResolver)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	1
+com/adobe/acs/commons/workflow/bulk/removal/impl/WorkflowInstanceRemoverImpl/start(com.adobe.acs.commons.oak.impl.ResourceResolver)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	2
+com/adobe/acs/commons/workflow/bulk/removal/impl/WorkflowInstanceRemoverImpl/error(com.adobe.acs.commons.oak.impl.ResourceResolver)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	4
+com/adobe/acs/commons/workflow/bulk/removal/impl/WorkflowInstanceRemoverImpl/batchComplete(com.adobe.acs.commons.oak.impl.ResourceResolver,int,int)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	3
+com/adobe/acs/commons/workflow/bulk/removal/impl/WorkflowInstanceRemoverImpl/internalForceQuit()@28d69a69e31e29c95f20d8169265faa680168571.txt	0

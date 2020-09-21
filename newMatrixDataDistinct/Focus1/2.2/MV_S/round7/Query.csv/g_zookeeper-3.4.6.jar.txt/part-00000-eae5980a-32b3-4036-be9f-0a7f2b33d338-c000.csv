@@ -1,0 +1,4 @@
+java/net/DatagramSocket/send(java.net.DatagramPacket)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Map/size()

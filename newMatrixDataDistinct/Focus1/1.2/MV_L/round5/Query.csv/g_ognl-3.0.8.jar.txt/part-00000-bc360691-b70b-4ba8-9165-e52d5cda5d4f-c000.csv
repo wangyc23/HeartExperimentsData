@@ -1,0 +1,4 @@
+java/lang/Class/getSuperclass()
+java/lang/Class/getDeclaredMethods()
+java/lang/reflect/Method/getName()
+java/util/HashMap/HashMap(int)

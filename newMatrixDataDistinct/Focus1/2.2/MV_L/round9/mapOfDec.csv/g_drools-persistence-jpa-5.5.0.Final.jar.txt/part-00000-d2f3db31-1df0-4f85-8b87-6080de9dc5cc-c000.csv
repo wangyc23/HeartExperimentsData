@@ -1,0 +1,5 @@
+net/sf/ehcache/store/DiskStore/writeElement(net.sf.ehcache.Element,java.io.Serializable)@g_ehcache-core-1.7.2.jar.txt	3
+net/sf/ehcache/hibernate/EhCacheProvider/start(java.util.Properties)@g_ehcache-core-1.7.2.jar.txt	2
+net/sf/ehcache/distribution/RMIBootstrapCacheLoader/doLoad(net.sf.ehcache.Ehcache)@g_ehcache-core-1.7.2.jar.txt	0
+net/sf/ehcache/util/ClassLoaderUtil/createNewInstance(java.lang.String,java.lang.Class[],java.lang.Object[])@g_ehcache-core-1.7.2.jar.txt	4
+net/sf/ehcache/management/sampled/SampledMBeanRegistrationProvider/dispose()@g_ehcache-core-1.7.2.jar.txt	1

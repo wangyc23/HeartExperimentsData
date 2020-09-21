@@ -1,0 +1,5 @@
+org/sonatype/nexus/client/internal/rest/jersey/subsystem/security/JerseyPrivilege/create()@g_nexus-client-core-2.7.2-01.jar.txt	1
+org/sonatype/nexus/client/rest/jersey/NexusClientFactoryImpl/applyProxyIfAny(org.sonatype.nexus.client.rest.ConnectionInfo,com.sun.jersey.client.apache4.config.ApacheHttpClient4Config)@g_nexus-client-core-2.7.2-01.jar.txt	0
+org/sonatype/nexus/client/rest/jersey/NexusClientFactoryImpl/applyAuthenticationIfAny(org.sonatype.nexus.client.rest.ConnectionInfo,com.sun.jersey.client.apache4.config.ApacheHttpClient4Config)@g_nexus-client-core-2.7.2-01.jar.txt	2
+org/sonatype/nexus/client/internal/rest/jersey/subsystem/JerseyContent/download(org.sonatype.nexus.client.core.subsystem.content.Location,java.lang.String,java.io.OutputStream,com.google.common.collect.Range)@g_nexus-client-core-2.7.2-01.jar.txt	4
+org/sonatype/nexus/client/internal/rest/jersey/subsystem/repository/JerseyGroupRepository/removeMember(java.lang.String[])@g_nexus-client-core-2.7.2-01.jar.txt	3

@@ -1,0 +1,5 @@
+com/ibm/taste/example/movie/model/table/UserTable/getUserByEmail(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	4
+com/ibm/taste/example/movie/model/table/MovieTable/getMovies(java.util.Collection)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	1
+com/ibm/taste/example/movie/servlet/MovieRecommenderServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	3
+net/lr/tasklist/persistence/impl/TaskServiceImpl/deleteTask(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	2
+com/ibm/taste/example/movie/utils/DBUtil/getConnectionFromDataSource()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	0

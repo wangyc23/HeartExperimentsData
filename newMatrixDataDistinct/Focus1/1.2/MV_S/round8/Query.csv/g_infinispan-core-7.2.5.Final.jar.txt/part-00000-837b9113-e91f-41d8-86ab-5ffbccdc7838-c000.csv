@@ -1,0 +1,4 @@
+org/infinispan/commons/util/StringPropertyReplacer/replaceProperties(java.lang.String)
+org/infinispan/configuration/parsing/XMLExtendedStreamReader/nextTag()
+org/infinispan/commons/util/Util/getInstance(java.lang.String,java.lang.ClassLoader)
+org/infinispan/configuration/parsing/XMLExtendedStreamReader/hasNext()

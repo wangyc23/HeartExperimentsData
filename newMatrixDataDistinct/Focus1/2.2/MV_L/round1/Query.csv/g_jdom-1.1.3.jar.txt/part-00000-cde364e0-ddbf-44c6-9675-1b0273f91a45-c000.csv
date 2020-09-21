@@ -1,0 +1,4 @@
+org/w3c/dom/Document/createComment(java.lang.String)
+org/w3c/dom/Element/setAttribute(java.lang.String,java.lang.String)
+org/w3c/dom/Document/createProcessingInstruction(java.lang.String,java.lang.String)
+org/w3c/dom/Document/createCDATASection(java.lang.String)

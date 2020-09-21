@@ -1,0 +1,5 @@
+org/javaee7/servlet/nonblocking/ReadTestServlet/processRequest(org.javaee7.ejb.stateless.remote.HttpServletRequest,org.javaee7.ejb.stateless.remote.HttpServletResponse)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	3
+org/javaee7/jaxrs/request/binding/MyResource/getList(int,int)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	1
+org/javaee7/websocket/endpoint/MyEndpointByteBuffer/echoBinary(java.nio.ByteBuffer)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	4
+org/javaee7/jaxrs/singleton/AnnotatedSingletonResource/postString(java.lang.String)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	2
+org/javaee7/cdi/built/in/TestServlet/doGet(org.javaee7.ejb.stateless.remote.HttpServletRequest,org.javaee7.ejb.stateless.remote.HttpServletResponse)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	0

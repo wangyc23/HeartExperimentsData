@@ -1,0 +1,5 @@
+com/google/gwt/i18n/linker/LocalePropertyProviderGenerator/generate(com.google.gwt.core.ext.TreeLogger,java.util.SortedSet,java.lang.String,java.util.SortedSet)@g_vaadin-shared-7.4.5.jar.txt	1
+com/google/gwt/resources/css/Spriter/endVisit(com.google.gwt.resources.css.ast.CssSprite,com.google.gwt.resources.css.ast.Context)@g_vaadin-shared-7.4.5.jar.txt	4
+com/google/gwt/http/client/UrlBuilder/buildString()@g_vaadin-shared-7.4.5.jar.txt	2
+com/google/web/bindery/requestfactory/shared/impl/AbstractRequestContext/JsonRpcPayloadDialect/makePayload()@g_vaadin-shared-7.4.5.jar.txt	0
+com/google/gwt/user/cellview/client/AbstractCellTable/Impl/replaceChildren(com.google.gwt.user.cellview.client.AbstractCellTable,com.google.gwt.dom.client.TableSectionElement,com.google.gwt.safehtml.shared.SafeHtml,int,int)@g_vaadin-shared-7.4.5.jar.txt	3

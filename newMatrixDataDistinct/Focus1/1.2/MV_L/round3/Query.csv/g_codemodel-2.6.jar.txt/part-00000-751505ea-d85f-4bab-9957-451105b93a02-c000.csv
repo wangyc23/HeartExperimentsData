@@ -1,0 +1,4 @@
+com/sun/codemodel/JFormatter$Mode/ordinal()
+com/sun/codemodel/JFormatter$ReferenceList/ReferenceList(com.sun.codemodel.JFormatter)
+java/util/Iterator/hasNext()
+java/util/HashMap/containsKey(java.lang.Object)

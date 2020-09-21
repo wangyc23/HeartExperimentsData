@@ -1,0 +1,5 @@
+org/linkeddata/triplegeo/Configuration/wrtieFile(java.lang.String,java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	4
+org/linkeddata/triplegeo/TripleGeoTest/testGml()@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	3
+org/linkeddata/utils/QueryChunks/generateInsertChunks(java.lang.String,org.linkeddata.utils.Model,java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	0
+org/linkeddata/triplegeo/rest/TripleGeoService/run(org.linkeddata.triplegeo.Configuration)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	2
+org/linkeddata/triplegeo/TripleGeoTest/testShapeToRdf()@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	1

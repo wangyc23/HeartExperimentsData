@@ -1,0 +1,5 @@
+org/dyrda/javabrains/service/ProfileService/getAllProfiles()@168b9c337aa0ae603654638f3f03a641bffc221e.txt	4
+com/ibm/taste/example/movie/model/table/MovieTable/getAllMovies()@168b9c337aa0ae603654638f3f03a641bffc221e.txt	3
+com/ibm/taste/example/movie/model/MovieList/toJSON()@168b9c337aa0ae603654638f3f03a641bffc221e.txt	2
+org/dyrda/jersey/date/converter/MyDateStringConverter/getConverter(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[])@168b9c337aa0ae603654638f3f03a641bffc221e.txt	1
+org/dyrda/javabrains/resourses/CommentResource/updateComment(javax.ws.rs.core.UriInfo,long,long,org.dyrda.javabrains.model.Comment)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	0

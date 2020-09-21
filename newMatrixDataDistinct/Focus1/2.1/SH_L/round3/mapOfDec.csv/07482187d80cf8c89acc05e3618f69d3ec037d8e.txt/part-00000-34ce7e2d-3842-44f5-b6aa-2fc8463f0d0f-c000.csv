@@ -1,0 +1,5 @@
+com/vaadin/demo/dashboard/data/dummy/DummyDataGenerator/randomNotifications()@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	0
+com/galilsoftware/AF/core/utilities/WebdriverUtils/waitForVisibilityofElement(org.openqa.selenium.WebDriver,org.openqa.selenium.WebElement,int)@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	1
+com/galilsoftware/AF/core/utilities/WebdriverUtils/isElementPresent(org.openqa.selenium.WebDriver,org.openqa.selenium.WebElement)@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	4
+com/vaadin/demo/dashboard/data/dummy/DummyDataGenerator/randomFirstName()@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	3
+com/galilsoftware/AF/core/utilities/WebElementUtils/dragAndDropSliderToPercentage(org.openqa.selenium.WebDriver,org.openqa.selenium.WebElement,java.lang.String)@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	2

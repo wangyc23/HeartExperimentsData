@@ -1,0 +1,4 @@
+java/util/LinkedList/toString()
+java/util/LinkedList/isEmpty()
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/util/LinkedList/add(java.lang.Object)

@@ -1,0 +1,5 @@
+org/apache/batik/dom/AbstractNode/isDefaultNamespace(java.lang.String)@g_batik-dom-1.8.jar.txt	1
+org/apache/batik/dom/AbstractNode/lookupNamespacePrefix(java.lang.String,org.w3c.dom.Element)@g_batik-dom-1.8.jar.txt	2
+org/apache/batik/dom/util/DOMUtilities/writeNode(org.w3c.dom.Node,java.io.Writer,org.apache.batik.dom.util.DOMUtilities$NSMap,boolean)@g_batik-dom-1.8.jar.txt	3
+org/apache/xerces/dom/CoreDocumentImpl/importNode(org.w3c.dom.Node,boolean,boolean,java.util.Hashtable)@g_xercesImpl-2.9.1.jar.txt	4
+org/apache/batik/dom/AbstractNode/lookupNamespaceURI(java.lang.String)@g_batik-dom-1.8.jar.txt	0

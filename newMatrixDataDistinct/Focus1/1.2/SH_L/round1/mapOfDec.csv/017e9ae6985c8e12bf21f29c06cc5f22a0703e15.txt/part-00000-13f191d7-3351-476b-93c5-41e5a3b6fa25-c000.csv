@@ -1,0 +1,5 @@
+cn/com/paladintyrion/client/dao/CollectPlayInfoDaoImpl/deleteCollectPlayInfoByWhere(java.lang.String)@2e7abc22b98798effe4fe1c729ebbe0c80108c76.txt	4
+cn/com/paladintyrion/client/dao/VideoCollectCommentDaoImpl/batchDeleteVideoCollectCommentByExample(java.util.List)@2e7abc22b98798effe4fe1c729ebbe0c80108c76.txt	2
+cn/com/paladintyrion/client/dao/UserInfoDaoImpl/deleteUserInfoByWhere(java.lang.String)@2e7abc22b98798effe4fe1c729ebbe0c80108c76.txt	0
+cn/com/paladintyrion/client/dao/CommentDaoImpl/deleteCommentByExample(cn.com.paladintyrion.client.bean.Comment)@2e7abc22b98798effe4fe1c729ebbe0c80108c76.txt	1
+cn/com/paladintyrion/client/dao/VideoPropertyDaoImpl/deleteVideoPropertyByExample(cn.com.paladintyrion.client.bean.VideoProperty)@2e7abc22b98798effe4fe1c729ebbe0c80108c76.txt	3

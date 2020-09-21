@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/xml/Xpp3Dom/getChild(int)
+java/lang/String/equals(java.lang.Object)
+org/codehaus/plexus/util/xml/Xpp3Dom/getChildCount()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

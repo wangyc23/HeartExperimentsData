@@ -1,0 +1,4 @@
+org/eclipse/jetty/servlet/ServletHolder/isAsyncSupported()
+org/eclipse/jetty/server/Request/getResolvedUserIdentity()
+javax/servlet/UnavailableException/UnavailableException(java.lang.String)
+org/eclipse/jetty/servlet/ServletHolder/getName()

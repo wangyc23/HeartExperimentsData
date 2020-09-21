@@ -1,0 +1,5 @@
+org/eclipse/jgit/internal/storage/file/PackFile/extFile(org.eclipse.jgit.internal.storage.pack.PackExt)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	3
+org/eclipse/jgit/internal/storage/file/GC/prunePacked()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	1
+org/eclipse/jgit/api/InitCommand/call()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	0
+org/eclipse/jgit/lib/RebaseTodoFile/writeRebaseTodoFile(java.lang.String,java.util.List,boolean)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	2
+org/eclipse/jgit/internal/storage/file/ObjectDirectory/resolve(java.util.Set,org.eclipse.jgit.lib.AbbreviatedObjectId)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	4

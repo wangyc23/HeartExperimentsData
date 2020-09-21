@@ -1,0 +1,4 @@
+0	it/gruppopbdmng5/shortlink/entity/Statistiche/getBasicDBObjectClass()
+1	com/mongodb/DBCollection/insert(com.mongodb.DBObject[])
+2	com/mongodb/BasicDBObject/BasicDBObject(java.lang.String,java.lang.Object)
+3	com/mongodb/BasicDBObject/append(java.lang.String,java.lang.Object)

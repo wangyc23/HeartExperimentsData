@@ -1,0 +1,4 @@
+org/apache/lucene/analysis/TokenStream/close()
+org/apache/lucene/analysis/TokenStream/end()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Throwable/addSuppressed(java.lang.Throwable)

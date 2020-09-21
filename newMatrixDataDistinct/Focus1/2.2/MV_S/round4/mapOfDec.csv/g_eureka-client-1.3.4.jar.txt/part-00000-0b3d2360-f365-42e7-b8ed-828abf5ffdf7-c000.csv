@@ -1,0 +1,5 @@
+com/netflix/eureka/InstanceRegistry/getApplicationDeltasFromMultipleRegions(java.lang.String[])@g_eureka-core-1.1.147.jar.txt	3
+com/netflix/eureka/resources/InstanceResource/updateMetadata(javax.ws.rs.core.UriInfo)@g_eureka-core-1.1.147.jar.txt	2
+net/sf/ehcache/Cache/initialise()@g_ehcache-core-2.6.2.jar.txt	4
+com/netflix/eureka/InstanceRegistry/initRemoteRegionRegistry()@g_eureka-core-1.1.147.jar.txt	1
+com/netflix/eureka/InstanceRegistry/getApplicationDeltas()@g_eureka-core-1.1.147.jar.txt	0

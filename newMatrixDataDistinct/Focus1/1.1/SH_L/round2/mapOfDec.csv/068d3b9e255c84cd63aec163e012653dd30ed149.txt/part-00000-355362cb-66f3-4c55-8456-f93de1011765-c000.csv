@@ -1,0 +1,5 @@
+org/jboss/weld/tests/contexts/request/postConstruct/singleton/complicated/ValueChangeListener/getValues()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	0
+org/jboss/weld/annotated/enhanced/jlr/EnhancedAnnotatedConstructorImpl/isGeneric()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	2
+org/jboss/solder/servlet/http/CookieParamProducer/getCookieName(org.jboss.solder.logging.InjectionPoint)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	1
+org/jboss/weld/tests/unit/reflection/util/EventTypeAssignabilityTest/testVariableFooMatchesStringFoo()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	3
+org/jboss/weld/resolution/CovariantTypes/matches(java.lang.reflect.ParameterizedType,org.jboss.weld.util.reflection.HierarchyDiscovery)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	4

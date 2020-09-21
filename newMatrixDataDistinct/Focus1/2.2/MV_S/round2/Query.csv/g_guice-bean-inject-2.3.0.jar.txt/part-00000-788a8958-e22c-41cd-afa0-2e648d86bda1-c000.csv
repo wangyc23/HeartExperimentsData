@@ -1,0 +1,4 @@
+com/google/inject/spi/TypeEncounter/addError(java.lang.Throwable)
+java/util/List/size()
+java/util/Iterator/next()
+org/sonatype/guice/bean/reflect/BeanProperties/iterator()

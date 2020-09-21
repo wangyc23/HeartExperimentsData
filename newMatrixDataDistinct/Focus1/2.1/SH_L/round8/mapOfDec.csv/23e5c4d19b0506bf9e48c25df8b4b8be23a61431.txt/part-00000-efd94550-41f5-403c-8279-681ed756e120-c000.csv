@@ -1,0 +1,5 @@
+org/apache/spark/network/netty/FileClient/connect(java.lang.String,int)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	3
+org/hoteia/qalingo/core/service/pojo/CustomerPojoService/getCustomerByPermalink(java.lang.String)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	4
+org/hoteia/qalingo/core/domain/TaxCountry/setCodeCountry(java.lang.String)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	2
+org/hoteia/qalingo/core/service/WebManagementService/buildAndSaveNewCustomer(org.hoteia.qalingo.core.web.resolver.RequestData,org.hoteia.qalingo.core.domain.Market,org.hoteia.qalingo.core.domain.MarketArea,org.hoteia.qalingo.core.domain.Customer)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	1
+org/hoteia/qalingo/core/domain/Tag/hashCode()@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	0

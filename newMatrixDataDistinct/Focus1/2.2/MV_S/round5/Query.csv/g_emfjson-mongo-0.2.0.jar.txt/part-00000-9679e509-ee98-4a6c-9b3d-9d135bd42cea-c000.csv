@@ -1,0 +1,4 @@
+com/fasterxml/jackson/databind/JsonNode/get(java.lang.String)
+org/emfjson/jackson/streaming/StreamReader/StreamReader(org.emfjson.common.Options)
+com/fasterxml/jackson/databind/JsonNode/has(java.lang.String)
+com/fasterxml/jackson/databind/ObjectMapper/ObjectMapper()

@@ -1,0 +1,4 @@
+org/springframework/cloud/consul/bus/ConsulInboundChannelAdapter/getMessageBuilderFactory()
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+org/springframework/util/Base64Utils/decodeFromString(java.lang.String)

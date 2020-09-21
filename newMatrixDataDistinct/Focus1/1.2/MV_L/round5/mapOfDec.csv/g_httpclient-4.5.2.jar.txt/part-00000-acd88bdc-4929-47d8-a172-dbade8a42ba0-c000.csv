@@ -1,0 +1,5 @@
+org/apache/http/impl/conn/SingleClientConnManager/releaseConnection(org.apache.http.conn.ManagedClientConnection,long,java.util.concurrent.TimeUnit)@g_httpclient-4.4.1.jar.txt	0
+org/apache/http/impl/conn/DefaultClientConnection/shutdown()@g_httpclient-4.4.1.jar.txt	4
+org/apache/http/impl/conn/DefaultClientConnectionOperator/openConnection(org.apache.http.conn.OperatedClientConnection,org.apache.http.HttpHost,java.net.InetAddress,org.apache.http.protocol.HttpContext,org.apache.http.params.HttpParams)@g_httpclient-4.4.1.jar.txt	2
+org/apache/http/impl/conn/SingleClientConnManager/releaseConnection(org.apache.http.conn.ManagedClientConnection,long,java.util.concurrent.TimeUnit)@g_httpclient-4.4.jar.txt	1
+org/apache/http/client/protocol/ResponseProcessCookies/processCookies(org.apache.http.HeaderIterator,org.apache.http.cookie.CookieSpec,org.apache.http.cookie.CookieOrigin,org.apache.http.client.CookieStore)@g_httpclient-4.4.1.jar.txt	3

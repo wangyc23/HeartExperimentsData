@@ -1,0 +1,5 @@
+org/openrdf/sail/helpers/SailBase/shutDown()@g_onejar-2.7.9.jar.txt	4
+org/openrdf/query/QueryResults/report(org.openrdf.query.GraphQueryResult,org.openrdf.rio.RDFHandler)@g_onejar-2.7.9.jar.txt	1
+org/openrdf/rio/rdfxml/RDFXMLWriter/writeHeader()@g_onejar-2.7.9.jar.txt	0
+org/openrdf/rio/rdfjson/RDFJSONWriter/modelToRdfJsonInternal(org.openrdf.model.Model,org.openrdf.rio.WriterConfig,com.fasterxml.jackson.core.JsonGenerator)@g_onejar-2.7.9.jar.txt	3
+org/openrdf/query/resultio/sparqlxml/SPARQLXMLWriterBase/startDocument()@g_onejar-2.7.9.jar.txt	2

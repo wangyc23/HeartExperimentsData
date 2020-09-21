@@ -1,0 +1,4 @@
+java/util/concurrent/locks/Lock/unlock()
+org/osgi/framework/BundleEvent/getType()
+java/lang/Long/valueOf(long)
+org/osgi/framework/BundleEvent/getBundle()

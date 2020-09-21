@@ -1,0 +1,5 @@
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/assembleRepositoryMetadata(org.apache.maven.artifact.resolver.ArtifactResolutionResult,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.artifact.repository.ArtifactRepository,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-archiver-2.2.jar.txt	2
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/addPomWithAncestry(org.apache.maven.artifact.Artifact,java.util.List,org.apache.maven.artifact.repository.ArtifactRepository,org.apache.maven.artifact.repository.ArtifactRepository,java.util.Map,org.apache.maven.project.MavenProject)@g_maven-repository-builder-1.0-alpha-2.jar.txt	1
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/contextualize(org.codehaus.plexus.context.Context)@g_maven-archiver-2.2.jar.txt	4
+org/apache/maven/archiver/MavenArchiver/getManifest(org.apache.maven.project.MavenProject,org.apache.maven.archiver.ManifestConfiguration,java.util.Map)@g_maven-archiver-2.2.jar.txt	0
+org/apache/maven/shared/repository/utils/DigestUtils/verifyChecksum(java.io.File,java.lang.String,java.lang.String)@g_maven-archiver-2.2.jar.txt	3

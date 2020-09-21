@@ -1,0 +1,4 @@
+java/io/File/canWrite()
+java/lang/Runnable/run()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Iterator/next()

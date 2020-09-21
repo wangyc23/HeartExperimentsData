@@ -1,0 +1,5 @@
+org/javaee7/jaspic/ejbpropagation/ProtectedEJBPropagationTest/testPublicServletWithLoginCallingEJB()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	3
+org/javaee7/batch/samples/scheduling/ManagedScheduledBatchTest/createDeployment()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	4
+org/javaee7/cdi/built/in/TestServlet/doGet(org.javaee7.ejb.stateless.remote.HttpServletRequest,org.javaee7.ejb.stateless.remote.HttpServletResponse)@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	0
+org/javaee7/jaxrs/invocation/MyResource/get()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	2
+org/javaee7/jaxrs/request/binding/MyResource/getList(int,int)@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	1

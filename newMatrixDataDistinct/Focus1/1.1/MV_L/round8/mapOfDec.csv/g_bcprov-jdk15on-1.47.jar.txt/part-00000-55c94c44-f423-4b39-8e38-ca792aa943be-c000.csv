@@ -1,0 +1,5 @@
+org/bouncycastle/x509/extension/AuthorityKeyIdentifierStructure/fromCertificate(java.security.cert.X509Certificate)@g_bcprov-jdk15on-1.49.jar.txt	2
+org/bouncycastle/jce/examples/PKCS12Example/createIntermediateCert(java.security.PublicKey,java.security.PrivateKey,java.security.cert.X509Certificate)@g_bcprov-jdk15on-1.49.jar.txt	4
+org/bouncycastle/ocsp/CertificateID/createCertID(org.bouncycastle.asn1.x509.AlgorithmIdentifier,java.security.cert.X509Certificate,org.bouncycastle.asn1.ASN1Integer,java.lang.String)@g_bcprov-jdk15on-1.49.jar.txt	3
+org/bouncycastle/jce/provider/CertPathValidatorUtilities/getNextWorkingKey(java.util.List,int)@g_bcprov-jdk15on-1.49.jar.txt	1
+org/bouncycastle/x509/PKIXCertPathReviewer/checkSignatures()@g_bcprov-jdk15on-1.49.jar.txt	0

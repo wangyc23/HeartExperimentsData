@@ -1,0 +1,5 @@
+org/apache/hadoop/security/authentication/util/KerberosName/printRules()@g_hadoop-auth-2.6.0.jar.txt	1
+org/apache/hadoop/security/authentication/util/KerberosUtil/getPrincipalNames(java.lang.String)@g_hadoop-auth-2.6.0.jar.txt	0
+org/apache/zookeeper/server/WatchManager/triggerWatch(java.lang.String,org.apache.zookeeper.Watcher$Event$EventType,java.util.Set)@g_zookeeper-3.4.6.jar.txt	4
+org/apache/zookeeper/MultiResponse/serialize(org.apache.jute.OutputArchive,java.lang.String)@g_zookeeper-3.4.6.jar.txt	3
+org/apache/hadoop/security/authentication/client/AuthenticatedURL/extractToken(java.net.HttpURLConnection,org.apache.hadoop.security.authentication.client.AuthenticatedURL$Token)@g_hadoop-auth-2.6.0.jar.txt	2

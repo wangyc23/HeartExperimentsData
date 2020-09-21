@@ -1,0 +1,4 @@
+0	ru/at_consulting/itsm/device/Device/getParentID()
+1	ru/at_consulting/itsm/device/Device/getHostName()
+2	ru/at_consulting/itsm/device/Device/getName()
+3	ru/at_consulting/itsm/device/Device/getDeviceState()

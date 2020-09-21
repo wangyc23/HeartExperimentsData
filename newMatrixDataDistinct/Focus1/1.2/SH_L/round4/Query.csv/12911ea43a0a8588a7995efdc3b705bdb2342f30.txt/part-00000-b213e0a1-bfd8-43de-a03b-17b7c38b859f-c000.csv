@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/bukkit/Bukkit/getPlayer(java.lang.String)
+eu/matejkormuth/rpgdavid/money/Currency/getName()
+eu/matejkormuth/rpgdavid/money/Money/add(eu.matejkormuth.rpgdavid.money.Money)

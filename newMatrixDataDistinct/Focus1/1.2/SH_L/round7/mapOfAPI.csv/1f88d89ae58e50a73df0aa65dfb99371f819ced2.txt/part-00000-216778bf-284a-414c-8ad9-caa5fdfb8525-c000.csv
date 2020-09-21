@@ -1,0 +1,4 @@
+0	java/lang/StringBuffer/toString()
+1	java/lang/StringBuffer/append(char)
+2	com/mulesoft/jaxrs/raml/annotation/model/Path/encodeSegment(java.lang.String,java.lang.StringBuffer)
+3	java/lang/StringBuffer/StringBuffer(int)

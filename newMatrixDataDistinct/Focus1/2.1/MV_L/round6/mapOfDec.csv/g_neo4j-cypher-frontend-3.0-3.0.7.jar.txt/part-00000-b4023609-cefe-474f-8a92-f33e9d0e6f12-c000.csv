@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_1/docbuilders/queryProjectionDocBuilder/anonfun/newNestedDocGenerator/1/applyOrElse(java.lang.Object,scala.Function1)@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_1/parser/Literals/anonfun/MapLiteral/1/apply()@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	2
+org/neo4j/cypher/internal/compiler/v2_1/mutation/MergeNodeAction/rewrite(scala.Function1)@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	3
+org/neo4j/cypher/internal/frontend/v3_0/parser/Patterns/anonfun/PatternPart/1/apply()@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	0
+org/neo4j/cypher/internal/compiler/v2_1/docbuilders/astExpressionDocBuilder/anonfun/newNestedDocGenerator/1/anonfun/applyOrElse/20/apply(scala.PartialFunction)@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	4

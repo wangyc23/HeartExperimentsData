@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Copy/doFileOperations()@g_maven-verifier-1.2.jar.txt	1
+org/apache/tools/ant/taskdefs/Expand/expandFile(org.apache.tools.ant.util.FileUtils,java.io.File,java.io.File)@g_maven-verifier-1.2.jar.txt	2
+org/apache/ivy/osgi/core/ExecutionEnvironmentProfileProvider/loadProfile(java.util.Properties,java.util.Map,java.lang.String)@g_maven-verifier-1.2.jar.txt	4
+org/apache/tools/ant/types/PatternSet/readPatterns(java.io.File,java.util.Vector,org.apache.tools.ant.Project)@g_maven-verifier-1.2.jar.txt	3
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_maven-verifier-1.2.jar.txt	0

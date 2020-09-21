@@ -1,0 +1,5 @@
+eu/learnpad/transformations/model2model/ATLTransformation/compile(java.io.InputStream)@g_lp-cw-bridge-transformer-0.0.1-SNAPSHOT.jar.txt	3
+eu/learnpad/transformations/launchers/ATLTransformationLauncher/lazyMetamodelRegistration(java.lang.String)@g_lp-cw-bridge-transformer-0.0.1-SNAPSHOT.jar.txt	0
+eu/learnpad/transformations/model2text/generator/AcceleoStandaloneStarter/registerLibraries()@g_lp-cw-bridge-transformer-0.0.1-SNAPSHOT.jar.txt	2
+eu/learnpad/mt/rest/BridgeImpl/transform(eu.learnpad.me.rest.data.ModelSetType,java.io.InputStream)@g_lp-cw-bridge-transformer-0.0.1-SNAPSHOT.jar.txt	4
+eu/learnpad/transformations/preprocessing/Alignment/sanitizer(java.lang.String)@g_lp-cw-bridge-transformer-0.0.1-SNAPSHOT.jar.txt	1

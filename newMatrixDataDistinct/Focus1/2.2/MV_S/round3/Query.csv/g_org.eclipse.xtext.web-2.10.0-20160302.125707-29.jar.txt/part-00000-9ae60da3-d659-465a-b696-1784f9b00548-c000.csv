@@ -1,0 +1,4 @@
+org/eclipse/xtext/util/ITextRegion/getLength()
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+org/eclipse/xtext/util/Wrapper/get()
+org/eclipse/xtext/formatting/INodeModelFormatter$IFormattedRegion/getFormattedText()

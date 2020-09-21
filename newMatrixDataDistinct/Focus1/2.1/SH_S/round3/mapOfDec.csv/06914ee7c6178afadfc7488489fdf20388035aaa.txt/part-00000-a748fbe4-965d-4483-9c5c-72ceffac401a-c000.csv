@@ -1,0 +1,5 @@
+org/commoncrawl/warc/WARCFileInputFormat/createRecordReader(org.apache.hadoop.mapreduce.InputSplit,org.apache.hadoop.mapreduce.TaskAttemptContext)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	1
+wikibooks/hadoop/chapter07/MapperWithMapSideJoin/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	2
+com/aliyun/emr/example/ODPSJavaSample/SaveRecord/call(java.util.List,com.aliyun.emr.example.Record,com.aliyun.emr.example.TableSchema)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	0
+com/aliyun/emr/example/EMapReduceOSSUtil/buildOSSCompleteUri(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	3
+wikibooks/hadoop/chapter05/DepartureDelayCountMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	4

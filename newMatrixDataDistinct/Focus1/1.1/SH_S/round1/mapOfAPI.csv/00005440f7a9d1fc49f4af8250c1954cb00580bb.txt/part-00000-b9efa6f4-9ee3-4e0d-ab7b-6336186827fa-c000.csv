@@ -1,0 +1,6 @@
+0	net/lr/tutorial/karaf/cxf/personservice/impl/PersonServiceRestTest/assertCorrectPerson(net.lr.tutorial.karaf.cxf.personservice.person.Person)
+1	java/lang/Object/getClass()
+2	net/lr/tutorial/karaf/cxf/personservice/impl/PersonServiceImpl/PersonServiceImpl()
+3	net/lr/tutorial/karaf/cxf/personservice/impl/PersonServiceRestTest/startPersonService(net.lr.tutorial.karaf.cxf.personservice.person.PersonService)
+4	net/lr/tutorial/karaf/cxf/personservice/person/PersonService/getPerson(java.lang.String)
+5	java/lang/Class/getResourceAsStream(java.lang.String)

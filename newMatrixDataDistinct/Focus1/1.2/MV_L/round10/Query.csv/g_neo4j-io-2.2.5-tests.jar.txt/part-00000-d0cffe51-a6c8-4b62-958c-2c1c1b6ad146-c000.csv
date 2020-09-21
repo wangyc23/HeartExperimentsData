@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Throwable/addSuppressed(java.lang.Throwable)
+java/lang/StringBuilder/StringBuilder()
+java/lang/Integer/valueOf(int)

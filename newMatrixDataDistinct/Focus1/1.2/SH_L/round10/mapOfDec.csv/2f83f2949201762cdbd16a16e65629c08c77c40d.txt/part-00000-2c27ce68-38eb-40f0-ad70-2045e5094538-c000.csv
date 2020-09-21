@@ -1,0 +1,5 @@
+protocol/protobuf/CanalEntry/RowData/Builder/getPropsList()@0ccc591538b809689a848c7adbb36cc25968a667.txt	3
+protocol/protobuf/CanalEntry/Pair/Builder/mergeFrom(protocol.protobuf.CanalEntry.Pair)@0ccc591538b809689a848c7adbb36cc25968a667.txt	1
+protocol/protobuf/CanalEntry/Header/newBuilder()@0ccc591538b809689a848c7adbb36cc25968a667.txt	0
+org/jboss/seam/faces/examples/tinyurl/LinkBean/format(java.lang.String)@0ccc591538b809689a848c7adbb36cc25968a667.txt	4
+org/jboss/seam/faces/test/event/PhaseEventBridgeTest/testAllBeforeEventsObserver()@0ccc591538b809689a848c7adbb36cc25968a667.txt	2

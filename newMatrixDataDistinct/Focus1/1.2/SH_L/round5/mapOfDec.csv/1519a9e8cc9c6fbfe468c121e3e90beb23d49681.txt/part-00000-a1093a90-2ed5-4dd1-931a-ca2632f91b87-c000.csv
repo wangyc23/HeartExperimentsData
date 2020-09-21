@@ -1,0 +1,5 @@
+io/kraken/client/impl/DefaultKrakenIoClientFunctionalTest/testImageUrlUploadCallbackUrl_403()@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	3
+io/kraken/client/impl/DefaultKrakenIoClientFunctionalTest/internalTestDirectUploadCallbackUrl(io.kraken.client.model.request.DirectUploadCallbackUrlRequest,java.lang.String)@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	4
+io/kraken/client/impl/DefaultKrakenIoClientFunctionalTest/internalTestDirectUpload(io.kraken.client.model.request.DirectUploadRequest,java.lang.String)@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	1
+io/kraken/client/impl/DefaultKrakenIoClientFunctionalTest/internalTestImageUrlUploadCallbackUrl(io.kraken.client.model.request.ImageUrlUploadCallbackUrlRequest,java.lang.String)@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	0
+io/kraken/client/impl/DefaultKrakenIoClientFunctionalTest/testImageUrlUpload_415()@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	2

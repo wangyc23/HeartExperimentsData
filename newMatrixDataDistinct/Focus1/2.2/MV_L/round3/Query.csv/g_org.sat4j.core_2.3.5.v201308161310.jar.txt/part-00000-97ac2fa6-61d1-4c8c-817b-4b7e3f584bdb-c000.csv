@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+org/sat4j/tools/Minimal4CardinalityModel/removeConstr(org.sat4j.specs.IConstr)
+java/util/SortedSet/size()
+java/util/Iterator/hasNext()

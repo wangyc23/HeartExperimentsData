@@ -1,0 +1,5 @@
+net/sourceforge/segment/srx/legacy/MergedPattern/createNonBreakingPattern(java.util.List)@g_java-cup-11b-runtime-2015.03.26.jar.txt	3
+java_cup/runtime/lr_parser/report_expected_token_ids()@g_java-cup-11b-runtime-2015.03.26.jar.txt	1
+net/sourceforge/segment/srx/legacy/ScannerSrxTextIterator/createExceptions(java.util.List)@g_java-cup-11b-runtime-2015.03.26.jar.txt	4
+java_cup/runtime/XMLElement/NonTerminal/toString()@g_java-cup-11b-runtime-2015.03.26.jar.txt	0
+net/sourceforge/segment/util/Util/transform(javax.xml.transform.Templates,javax.xml.validation.Schema,java.io.Reader,java.io.Writer,java.util.Map)@g_java-cup-11b-runtime-2015.03.26.jar.txt	2

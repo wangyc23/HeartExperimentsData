@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/ClassUtils/getResources(java.lang.String,java.lang.Object)@g_commons-beanutils-core-1.8.3.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/LocaleUtils/languagesByCountry(java.lang.String)@g_commons-beanutils-core-1.8.3.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_commons-beanutils-core-1.8.3.jar.txt	0
+org/apache/commons/jxpath/util/BasicTypeConverter/allocateCollection(java.lang.Class)@g_commons-beanutils-core-1.8.3.jar.txt	2
+org/apache/commons/beanutils/BeanUtilsBean/getArrayProperty(java.lang.Object,java.lang.String)@g_commons-beanutils-core-1.8.3.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/tika/parser/external/ExternalParsersConfigReader/readMetadataPatterns(org.w3c.dom.Element)@g_tika-core-1.4.jar.txt	4
+org/apache/tika/language/LanguageProfile/add(java.lang.String,long)@g_tika-core-1.4.jar.txt	0
+org/apache/tika/mime/MediaType/parse(java.lang.String)@g_tika-core-1.4.jar.txt	3
+org/apache/tika/parser/CompositeParser/findDuplicateParsers(org.apache.tika.parser.ParseContext)@g_tika-core-1.4.jar.txt	2
+org/apache/tika/language/LanguageProfilerBuilder/load(java.io.InputStream)@g_tika-core-1.4.jar.txt	1

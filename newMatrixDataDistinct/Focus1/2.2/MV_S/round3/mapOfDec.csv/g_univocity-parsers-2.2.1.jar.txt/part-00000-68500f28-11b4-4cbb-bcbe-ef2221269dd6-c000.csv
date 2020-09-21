@@ -1,0 +1,5 @@
+org/springframework/util/ClassUtils/getMethod(java.lang.Class,java.lang.String,java.lang.Class[])@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	4
+org/carrot2/util/attribute/AttributeBinder/BindingTracker/canBind(java.lang.Object,java.lang.String,int)@g_attributes-binder-1.3.1.jar.txt	1
+org/springframework/util/ReflectionUtils/doWithFields(java.lang.Class,org.springframework.util.ReflectionUtils$FieldCallback,org.springframework.util.ReflectionUtils$FieldFilter)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	3
+org/carrot2/util/attribute/AttributeBinder/bind(java.util.Set,org.carrot2.util.attribute.AttributeBinder$BindingTracker,int,java.lang.Object,org.carrot2.util.attribute.AttributeBinder$IAttributeBinderAction[],org.carrot2.shaded.guava.common.base.Predicate,java.lang.Class)@g_attributes-binder-1.3.1.jar.txt	2
+org/carrot2/util/attribute/AttributeBinder/ConsistencyCheckImplementingClasses/apply(java.lang.reflect.Field)@g_attributes-binder-1.3.1.jar.txt	0

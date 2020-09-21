@@ -1,0 +1,4 @@
+org/xwiki/query/jpql/node/ARangeVariableDeclaration/getVariable()
+java/lang/String/equals(java.lang.Object)
+org/xwiki/query/jpql/node/Node/parent()
+org/xwiki/query/jpql/node/AXObjectDecl/parent()

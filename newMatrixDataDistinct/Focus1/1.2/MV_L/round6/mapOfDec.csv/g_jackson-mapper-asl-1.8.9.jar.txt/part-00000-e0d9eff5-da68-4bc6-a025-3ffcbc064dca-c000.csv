@@ -1,0 +1,5 @@
+org/codehaus/jackson/map/ser/BasicSerializerFactory/<clinit>()@g_jackson-mapper-asl-1.7.4.jar.txt	1
+org/codehaus/jackson/map/deser/SettableBeanProperty/ManagedReferenceProperty/set(java.lang.Object,java.lang.Object)@g_jackson-mapper-asl-1.7.4.jar.txt	3
+org/codehaus/jackson/map/ser/BasicSerializerFactory/<clinit>()@g_jackson-mapper-asl-1.8.3.jar.txt	0
+org/codehaus/jackson/map/deser/SettableBeanProperty/ManagedReferenceProperty/set(java.lang.Object,java.lang.Object)@g_jackson-mapper-asl-1.8.3.jar.txt	2
+org/codehaus/jackson/map/deser/BeanDeserializer/resolve(org.codehaus.jackson.map.DeserializationConfig,org.codehaus.jackson.map.DeserializerProvider)@g_jackson-mapper-asl-1.8.3.jar.txt	4

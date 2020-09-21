@@ -1,0 +1,4 @@
+java/lang/String/charAt(int)
+java/lang/String/length()
+java/io/Writer/write(java.lang.String,int,int)
+java/io/Writer/write(java.lang.String)

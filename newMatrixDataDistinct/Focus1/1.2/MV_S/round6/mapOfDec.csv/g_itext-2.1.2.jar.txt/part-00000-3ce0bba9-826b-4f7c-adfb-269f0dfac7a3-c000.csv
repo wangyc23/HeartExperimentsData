@@ -1,0 +1,5 @@
+com/itextpdf/text/pdf/PdfDocument/PdfCatalog/addNames(java.util.TreeMap,java.util.HashMap,java.util.HashMap,com.itextpdf.text.pdf.PdfWriter)@g_itextpdf-5.5.13.jar.txt	2
+com/itextpdf/testutils/CompareTool/compare(java.lang.String,java.lang.String,java.util.Map,java.util.List)@g_itextpdf-5.5.13.jar.txt	1
+com/itextpdf/text/pdf/PdfWriter/addSharedObjectsToBody()@g_itextpdf-5.5.13.jar.txt	0
+com/itextpdf/text/pdf/PdfWriter/addLocalDestinations(java.util.TreeMap)@g_itextpdf-5.5.13.jar.txt	4
+com/itextpdf/text/pdf/PdfCopy/fixTaggedStructure()@g_itextpdf-5.5.13.jar.txt	3

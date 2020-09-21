@@ -1,0 +1,5 @@
+org/carrot2/matrix/factorization/PartialSingularValueDecomposition/compute()@g_morfologik-fsa-1.10.0.jar.txt	3
+org/carrot2/util/attribute/constraint/ConstraintFactory/createImplementation(java.lang.annotation.Annotation)@g_morfologik-fsa-1.10.0.jar.txt	4
+org/carrot2/source/yahoo/XMLResponseParser/endElement(java.lang.String,java.lang.String,java.lang.String)@g_morfologik-fsa-1.10.0.jar.txt	2
+morfologik/util/ResourceUtils/openInputStream(java.lang.String)@g_morfologik-fsa-1.10.0.jar.txt	0
+org/carrot2/text/preprocessing/filter/MinLengthLabelFilterDescriptor/<clinit>()@g_morfologik-fsa-1.10.0.jar.txt	1

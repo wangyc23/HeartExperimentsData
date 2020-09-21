@@ -1,0 +1,5 @@
+org/yaml/snakeyaml/extensions/compactnotation/CompactConstructor/getSequencePropertyName(java.lang.Class)@g_jackson-annotations-2.7.0.jar.txt	4
+org/apache/commons/csv/CSVPrinter/printAndQuote(java.lang.Object,java.lang.CharSequence,int,int)@g_jackson-annotations-2.7.0.jar.txt	3
+org/yaml/snakeyaml/scanner/ScannerImpl/fetchMoreTokens()@g_jackson-annotations-2.7.0.jar.txt	1
+org/yaml/snakeyaml/extensions/compactnotation/CompactConstructor/getCompactData(java.lang.String)@g_jackson-annotations-2.7.0.jar.txt	2
+org/yaml/snakeyaml/composer/Composer/composeSequenceNode(java.lang.String)@g_jackson-annotations-2.7.0.jar.txt	0

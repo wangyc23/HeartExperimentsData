@@ -1,0 +1,5 @@
+org/springframework/http/converter/FormHttpMessageConverter/writePart(java.lang.String,org.springframework.http.HttpEntity,java.io.OutputStream)@g_spring-web-3.1.4.RELEASE.jar.txt	1
+org/springframework/web/bind/WebDataBinder/bindMultipart(java.util.Map,org.springframework.beans.MutablePropertyValues)@g_spring-web-3.1.4.RELEASE.jar.txt	4
+org/springframework/http/MediaType/compareTo(org.springframework.http.MediaType)@g_spring-web-3.1.4.RELEASE.jar.txt	2
+org/springframework/http/converter/BufferedImageHttpMessageConverter/read(java.lang.Class,org.springframework.http.HttpInputMessage)@g_spring-web-3.1.4.RELEASE.jar.txt	0
+org/springframework/web/util/HierarchicalUriComponents/PathSegmentComponent/expand(org.springframework.web.util.UriComponents$UriTemplateVariables)@g_spring-web-3.1.4.RELEASE.jar.txt	3

@@ -1,0 +1,5 @@
+org/sonatype/aether/util/graph/transformer/JavaEffectiveScopeCalculator/resolve(org.sonatype.aether.util.graph.transformer.JavaEffectiveScopeCalculator$ConflictGroup,java.util.Map,java.util.Set)@g_maven-core-3.0.jar.txt	3
+org/apache/maven/toolchain/DefaultToolchain/matchesRequirements(java.util.Map)@g_maven-core-3.0.jar.txt	2
+org/apache/maven/DefaultProjectDependenciesResolver/resolveImpl(java.util.Collection,java.util.Collection,java.util.Collection,org.apache.maven.execution.MavenSession,java.util.Set)@g_maven-core-3.0.jar.txt	0
+org/apache/maven/plugin/internal/DefaultMavenPluginManager/createPluginRealm(org.apache.maven.plugin.descriptor.PluginDescriptor,org.apache.maven.execution.MavenSession,java.lang.ClassLoader,java.util.List,org.sonatype.aether.graph.DependencyFilter)@g_maven-core-3.0.jar.txt	1
+org/apache/maven/model/plugin/DefaultLifecycleBindingsInjector/LifecycleBindingsMerger/mergePluginContainer_Plugins(org.apache.maven.model.PluginContainer,org.apache.maven.model.PluginContainer,boolean,java.util.Map)@g_maven-core-3.0.jar.txt	4

@@ -1,0 +1,4 @@
+org/neo4j/gis/spatial/Neo4jTestCase/printDatabaseStats()
+org/neo4j/gis/spatial/TestOSMImport/checkOSMLayer(org.neo4j.gis.spatial.GraphDatabaseService,java.lang.String)
+org/neo4j/gis/spatial/TestOSMImport/loadTestOsmData(java.lang.String,java.lang.String,boolean,boolean,int)
+org/neo4j/gis/spatial/Neo4jTestCase/graphDb()

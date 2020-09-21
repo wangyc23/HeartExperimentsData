@@ -1,0 +1,5 @@
+org/slf4j/impl/SimpleLogger/log(java.lang.String,java.lang.String,java.lang.Throwable)@g_batik-rasterizer-1.8.jar.txt	4
+org/apache/batik/apps/rasterizer/Main/<clinit>()@g_batik-rasterizer-1.8.jar.txt	2
+org/apache/batik/apps/rasterizer/SVGConverter/transcode(org.apache.batik.apps.rasterizer.SVGConverterSource,java.io.File,org.apache.batik.transcoder.Transcoder)@g_batik-rasterizer-1.8.jar.txt	3
+org/apache/batik/apps/rasterizer/SVGConverter/computeDstFiles(java.util.List)@g_batik-rasterizer-1.8.jar.txt	1
+org/apache/batik/apps/rasterizer/Main/execute()@g_batik-rasterizer-1.8.jar.txt	0

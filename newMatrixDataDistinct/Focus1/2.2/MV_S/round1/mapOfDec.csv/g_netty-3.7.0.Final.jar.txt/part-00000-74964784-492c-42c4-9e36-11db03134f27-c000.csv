@@ -1,0 +1,5 @@
+hidden/io/netty/handler/codec/spdy/DefaultSpdyHeadersFrame/toString()@g_xwiki-contrib-websocket-1.7.jar.txt	4
+hidden/io/netty/handler/codec/spdy/DefaultSpdySynReplyFrame/toString()@g_xwiki-contrib-websocket-1.7.jar.txt	3
+hidden/io/netty/handler/codec/http/multipart/DiskFileUpload/toString()@g_xwiki-contrib-websocket-1.7.jar.txt	1
+hidden/io/netty/handler/codec/http/multipart/MemoryFileUpload/toString()@g_xwiki-contrib-websocket-1.7.jar.txt	2
+hidden/io/netty/handler/codec/spdy/DefaultSpdySynStreamFrame/toString()@g_xwiki-contrib-websocket-1.7.jar.txt	0

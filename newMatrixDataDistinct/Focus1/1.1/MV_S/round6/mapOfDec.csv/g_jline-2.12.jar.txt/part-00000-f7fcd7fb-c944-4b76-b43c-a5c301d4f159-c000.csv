@@ -1,0 +1,5 @@
+org/apache/catalina/core/StandardContext/checkUnusualURLPattern(java.lang.String)@g_tomcat-embed-core-8.5.11.jar.txt	2
+org/apache/catalina/ssi/ExpressionParseTree/CompareNode/compareBranches()@g_tomcat-embed-core-8.5.11.jar.txt	1
+org/apache/coyote/http2/HpackEncoder/encode(org.apache.tomcat.util.http.MimeHeaders,java.nio.ByteBuffer)@g_tomcat-embed-core-8.5.11.jar.txt	4
+org/apache/catalina/webresources/AbstractArchiveResourceSet/getResource(java.lang.String)@g_tomcat-embed-core-8.5.11.jar.txt	0
+org/apache/catalina/webresources/DirResourceSet/listWebAppPaths(java.lang.String)@g_tomcat-embed-core-8.5.11.jar.txt	3

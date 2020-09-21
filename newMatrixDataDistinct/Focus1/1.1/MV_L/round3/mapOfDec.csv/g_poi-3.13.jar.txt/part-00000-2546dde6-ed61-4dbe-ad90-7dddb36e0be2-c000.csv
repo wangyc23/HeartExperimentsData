@@ -1,0 +1,5 @@
+org/apache/poi/hpsf/MutableSection/setProperty(int,java.lang.Object)@g_poi-3.14.jar.txt	1
+org/apache/poi/ss/usermodel/FractionFormat/format(java.lang.Number)@g_poi-3.14.jar.txt	4
+org/apache/poi/ddf/EscherClientDataRecord/toXml(java.lang.String)@g_poi-3.14.jar.txt	3
+org/apache/poi/ddf/EscherSimpleProperty/toString()@g_poi-3.14.jar.txt	2
+org/apache/poi/hssf/util/HSSFColor/createColorsByHexStringMap()@g_poi-3.14.jar.txt	0

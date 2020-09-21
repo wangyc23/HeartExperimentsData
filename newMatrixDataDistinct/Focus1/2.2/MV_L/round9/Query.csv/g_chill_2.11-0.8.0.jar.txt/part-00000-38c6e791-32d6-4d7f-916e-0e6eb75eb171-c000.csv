@@ -1,0 +1,4 @@
+scala/collection/immutable/List/tail()
+scala/collection/mutable/Set/$minus$minus(scala.collection.GenTraversableOnce)
+scala/collection/mutable/Set/foreach(scala.Function1)
+com/twitter/chill/ClosureCleaner$$anonfun$com$twitter$chill$ClosureCleaner$$getInnerClassesFn$1/1(scala.collection.mutable.Set,scala.runtime.ObjectRef)

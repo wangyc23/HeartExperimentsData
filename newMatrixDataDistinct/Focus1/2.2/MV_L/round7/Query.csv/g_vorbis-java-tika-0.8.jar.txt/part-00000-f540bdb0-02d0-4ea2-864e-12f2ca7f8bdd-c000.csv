@@ -1,0 +1,4 @@
+org/apache/tika/sax/XHTMLContentHandler/endDocument()
+org/gagravarr/theora/TheoraFile/getSkeleton()
+org/gagravarr/theora/TheoraFile/getInfo()
+org/apache/tika/metadata/Metadata/set(java.lang.String,java.lang.String)

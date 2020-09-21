@@ -1,0 +1,4 @@
+org/codehaus/jackson/impl/ReaderBasedParser/parseNumberText(int)
+org/codehaus/jackson/impl/JsonReadContext/getTypeDesc()
+java/lang/StringBuilder/StringBuilder()
+org/codehaus/jackson/impl/ReaderBasedParser/_reportUnexpectedChar(int,java.lang.String)

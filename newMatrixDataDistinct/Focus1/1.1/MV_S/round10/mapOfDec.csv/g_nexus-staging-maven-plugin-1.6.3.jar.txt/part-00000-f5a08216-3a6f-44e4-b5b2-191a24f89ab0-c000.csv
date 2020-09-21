@@ -1,0 +1,5 @@
+org/sonatype/nexus/maven/staging/workflow/rc/RcDropStageRepositoryMojo/doExecute(com.sonatype.nexus.staging.client.StagingWorkflowV2Service)@g_maven-repository-metadata-2.2.1.jar.txt	4
+org/sonatype/nexus/maven/staging/deploy/strategy/StagingDeployStrategy/releaseAfterClose(org.sonatype.nexus.maven.staging.remote.Parameters,org.sonatype.nexus.maven.staging.remote.RemoteNexus,java.util.List)@g_maven-repository-metadata-2.2.1.jar.txt	1
+com/sonatype/nexus/staging/client/internal/StagingWorkflowV3ServiceImpl/collectRepositoryTransitionFailures(com.sonatype.nexus.staging.api.dto.StagingProfileRepositoryDTO)@g_maven-repository-metadata-2.2.1.jar.txt	0
+org/sonatype/nexus/maven/staging/deploy/strategy/AbstractStagingDeployStrategy/getArtifactRepositoryForDirectory(java.io.File)@g_maven-repository-metadata-2.2.1.jar.txt	3
+org/sonatype/nexus/maven/staging/workflow/rc/RcReleaseStageRepositoryMojo/doExecute(com.sonatype.nexus.staging.client.StagingWorkflowV2Service)@g_maven-repository-metadata-2.2.1.jar.txt	2

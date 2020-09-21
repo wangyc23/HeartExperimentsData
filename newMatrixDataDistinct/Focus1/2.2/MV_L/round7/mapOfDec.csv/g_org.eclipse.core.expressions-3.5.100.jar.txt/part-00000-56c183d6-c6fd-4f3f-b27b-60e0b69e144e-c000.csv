@@ -1,0 +1,5 @@
+org/eclipse/core/internal/expressions/TestExpression/toString()@g_org.eclipse.core.expressions-3.6.0.jar.txt	0
+org/eclipse/m2m/atl/core/service/CoreService/getLauncher(java.lang.String)@g_core-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/core/service/CoreService/getExtractor(java.lang.String)@g_core-3.4.0.jar.txt	3
+org/eclipse/core/internal/expressions/TypeExtensionManager/getProperty(java.lang.Object,java.lang.String,java.lang.String,boolean)@g_org.eclipse.core.expressions-3.6.0.jar.txt	1
+org/eclipse/core/expressions/ExpressionConverter/getDebugPath(org.eclipse.core.runtime.IConfigurationElement)@g_org.eclipse.core.expressions-3.6.0.jar.txt	2

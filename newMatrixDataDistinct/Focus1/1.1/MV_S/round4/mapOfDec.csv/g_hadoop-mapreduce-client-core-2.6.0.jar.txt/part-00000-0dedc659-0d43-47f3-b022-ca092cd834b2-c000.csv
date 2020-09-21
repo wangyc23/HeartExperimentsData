@@ -1,0 +1,5 @@
+org/apache/hadoop/security/NetgroupCache/getNetgroups(java.lang.String,java.util.List)@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/ipc/RPC/Server/getSupportedProtocolVersions(org.apache.hadoop.ipc.RPC$RpcKind,java.lang.String)@g_hadoop-common-2.6.0.jar.txt	3
+org/apache/hadoop/ha/ActiveStandbyElector/getNewZooKeeper()@g_hadoop-common-2.6.0.jar.txt	1
+org/apache/hadoop/conf/Configuration/dumpConfiguration(org.apache.hadoop.conf.Configuration,java.io.Writer)@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/service/CompositeService/serviceStart()@g_hadoop-common-2.6.0.jar.txt	4

@@ -1,0 +1,5 @@
+scala/xml/parsing/MarkupParserCommon/class/takeUntilChar(scala.xml.parsing.MarkupParserCommon,scala.collection.Iterator,char)@g_parboiled-scala_2.10-1.1.6.jar.txt	2
+scala/xml/parsing/FactoryAdapter/characters(char[],int,int)@g_parboiled-scala_2.10-1.1.6.jar.txt	4
+org/parboiled/scala/Parser/class/rule(org.parboiled.scala.Parser,java.lang.String,java.lang.StackTraceElement,scala.collection.Seq,scala.Function0,scala.Function1)@g_parboiled-scala_2.10-1.1.6.jar.txt	1
+scala/xml/dtd/ContentModelParser/contentspec()@g_parboiled-scala_2.10-1.1.6.jar.txt	3
+org/parboiled/scala/rules/Rule/anonfun/exec/7/apply(org.parboiled.Context)@g_parboiled-scala_2.10-1.1.6.jar.txt	0

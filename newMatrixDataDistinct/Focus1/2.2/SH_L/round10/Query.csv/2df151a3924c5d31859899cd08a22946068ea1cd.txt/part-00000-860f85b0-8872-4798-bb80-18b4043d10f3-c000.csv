@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/efaps/esjp/sales/document/AbstractDocumentSum_Base/add2Map4UpdateField(org.efaps.esjp.sales.document.Parameter,java.util.Map,java.util.List,org.efaps.esjp.sales.Calculator,boolean)
+org/efaps/esjp/sales/document/AbstractDocument_Base/analyseTable(org.efaps.esjp.sales.document.Parameter,java.lang.Integer)
+java/util/HashMap/HashMap()

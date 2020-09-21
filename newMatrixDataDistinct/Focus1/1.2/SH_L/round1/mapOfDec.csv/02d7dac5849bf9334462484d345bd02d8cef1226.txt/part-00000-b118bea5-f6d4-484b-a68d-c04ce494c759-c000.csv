@@ -1,0 +1,5 @@
+io/netty/buffer/Unpooled/wrappedBuffer(int,java.nio.ByteBuffer[])@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	1
+io/netty/buffer/Unpooled/wrappedBuffer(int,java.nio.ByteBuffer[])@0bf3a12356913a65595bfeea00850a5683b05f41.txt	3
+io/netty/buffer/Unpooled/wrappedBuffer(int,byte[][])@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	0
+io/netty/buffer/Unpooled/wrappedBuffer(int,byte[][])@0bf3a12356913a65595bfeea00850a5683b05f41.txt	2
+io/netty/handler/codec/http/CookieDecoder/decode(java.lang.String)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	4

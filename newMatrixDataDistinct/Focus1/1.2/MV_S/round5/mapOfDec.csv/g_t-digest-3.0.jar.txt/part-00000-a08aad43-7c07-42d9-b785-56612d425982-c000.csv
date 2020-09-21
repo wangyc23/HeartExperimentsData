@@ -1,0 +1,5 @@
+cc/mallet/topics/ParallelTopicModel/printState(java.io.PrintStream)@g_mallet-2.0.7.jar.txt	3
+cc/mallet/grmm/learning/templates/SimilarTokensTemplate/addInstantiatedCliques(cc.mallet.grmm.learning.ACRF$UnrolledGraph,cc.mallet.types.FeatureVectorSequence,cc.mallet.grmm.util.LabelsAssignment)@g_mallet-2.0.7.jar.txt	0
+cc/mallet/grmm/types/AbstractTableFactor/initVars(cc.mallet.grmm.types.Variable[])@g_mallet-2.0.7.jar.txt	2
+cc/mallet/fst/semi_supervised/GELattice/runForward(cc.mallet.fst.CRF,java.util.ArrayList,java.util.ArrayList,double[][],double[][][],int[][],cc.mallet.types.FeatureVectorSequence)@g_mallet-2.0.7.jar.txt	4
+cc/mallet/grmm/test/TestAbstractBeliefPropagation/createBoltzmannChain(int)@g_mallet-2.0.7.jar.txt	1

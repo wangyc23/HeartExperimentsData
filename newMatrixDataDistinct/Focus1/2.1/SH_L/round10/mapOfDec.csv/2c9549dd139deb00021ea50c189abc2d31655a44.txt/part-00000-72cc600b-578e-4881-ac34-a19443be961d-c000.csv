@@ -1,0 +1,5 @@
+org/jboss/resteasy/skeleton/key/jaxrs/JaxrsBearerTokenFilter/challengeResponse(javax.ws.rs.container.ContainerRequestContext,java.lang.String,java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+org/jboss/resteasy/plugins/cache/server/ServerCacheHitFilter/handleGET(javax.ws.rs.container.ContainerRequestContext,java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+org/jboss/resteasy/test/nextgen/resource/SetRequestUriTest/RequestFilter/abortWithEntity(javax.ws.rs.container.ContainerRequestContext,java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+org/jboss/resteasy/core/interception/ContainerRequestFilterRegistry/ContainerRequestFilterFacade/filter(javax.ws.rs.container.ContainerRequestContext)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+org/jboss/resteasy/plugins/interceptors/RoleBasedSecurityFilter/filter(javax.ws.rs.container.ContainerRequestContext)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3

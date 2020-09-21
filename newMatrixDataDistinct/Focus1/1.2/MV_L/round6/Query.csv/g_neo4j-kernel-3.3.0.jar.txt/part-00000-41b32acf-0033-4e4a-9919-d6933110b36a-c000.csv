@@ -1,0 +1,4 @@
+java/util/Map$Entry/getKey()
+org/neo4j/helpers/collection/Pair/of(java.lang.Object,java.lang.Object)
+java/util/Iterator/next()
+java/util/Set/iterator()

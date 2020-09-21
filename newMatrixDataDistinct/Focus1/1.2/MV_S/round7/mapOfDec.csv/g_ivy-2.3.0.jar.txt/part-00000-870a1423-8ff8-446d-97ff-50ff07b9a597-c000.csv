@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/bidimap/TreeBidiMap/insertValue(org.carrot2.util.preprocessor.shaded.apache.commons.collections.bidimap.TreeBidiMap$Node)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/velocity/util/introspection/UberspectImpl/getIterator(java.lang.Object,org.carrot2.util.preprocessor.shaded.apache.velocity.util.introspection.Info)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/qdox/qdox/JavaDocBuilder/addMethodOrConstructor(java.lang.reflect.Member,org.carrot2.util.preprocessor.shaded.qdox.qdox.model.ModelBuilder)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationGreaterThan(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationGreaterThan)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/JavaField/toString()@g_attributes-processor-1.0.1.jar.txt	4

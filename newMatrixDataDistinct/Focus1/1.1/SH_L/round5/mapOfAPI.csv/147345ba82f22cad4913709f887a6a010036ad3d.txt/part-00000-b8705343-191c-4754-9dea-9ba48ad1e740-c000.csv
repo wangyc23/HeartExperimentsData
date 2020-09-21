@@ -1,0 +1,6 @@
+0	java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+1	java/lang/String/String(byte[])
+2	java/io/PrintStream/println(java.lang.String)
+3	com/ning/http/client/providers/netty/NettyResponseFuture/setNettyRequest(com.ning.http.client.providers.netty_4.HttpRequest)
+4	java/util/Arrays/equals(byte[],byte[])
+5	java/nio/file/Files/readAllBytes(java.nio.file.Path)

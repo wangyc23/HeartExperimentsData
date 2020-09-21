@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/apache/maven/artifact/Artifact/getArtifactId()
+org/codehaus/mojo/exec/ExecJavaMojo/collectProjectArtifactsAndClasspath(java.util.List,java.util.List)
+java/util/Iterator/hasNext()

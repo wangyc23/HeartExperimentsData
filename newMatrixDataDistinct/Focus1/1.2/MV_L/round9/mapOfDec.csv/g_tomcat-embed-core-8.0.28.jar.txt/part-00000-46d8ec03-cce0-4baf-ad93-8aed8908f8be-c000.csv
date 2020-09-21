@@ -1,0 +1,5 @@
+org/apache/coyote/http11/upgrade/AprServletOutputStream/doWriteInternal(byte[],int,int)@g_tomcat-embed-core-8.0.26.jar.txt	4
+org/apache/catalina/servlets/CGIServlet/CGIRunner/run()@g_tomcat-embed-core-8.0.26.jar.txt	0
+org/apache/tomcat/util/net/SecureNioChannel/write(java.nio.ByteBuffer)@g_tomcat-embed-core-8.0.26.jar.txt	2
+org/apache/catalina/servlets/CGIServlet/CGIRunner/run()@g_tomcat-embed-core-8.0.23.jar.txt	1
+org/apache/tomcat/util/net/SecureNio2Channel/GatherCompletionHandler/completed(java.lang.Integer,org.apache.tomcat.util.net.SecureNio2Channel$GatherState)@g_tomcat-embed-core-8.0.26.jar.txt	3

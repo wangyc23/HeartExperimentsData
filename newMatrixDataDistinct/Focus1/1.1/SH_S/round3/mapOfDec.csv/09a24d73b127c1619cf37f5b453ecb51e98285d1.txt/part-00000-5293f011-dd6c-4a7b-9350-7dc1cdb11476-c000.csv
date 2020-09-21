@@ -1,0 +1,5 @@
+pl/com/sages/hbase/api/dao/UsersDao/findAll()@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	2
+pl/com/sages/hadoop/mapreduce/HousesStatsAvro/Reduce/reduce(pl.com.sages.hadoop.mapreduce.AvroKey,java.lang.Iterable,pl.com.sages.hadoop.mapreduce.hadoopinaction.Context)@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	3
+vaeke/restcountries/v1/CountryServiceTest/getByAlpha3()@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	0
+pl/com/sages/hadoop/cascading/WordCountHadoop/ScrubFunction/operate(pl.com.sages.hadoop.cascading.FlowProcess,pl.com.sages.hadoop.cascading.FunctionCall)@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	4
+pl/com/sages/hadoop/mapreduce/hadoopinaction/join/JoinJobTest/shouldJoinCustomersAndOrders()@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	1

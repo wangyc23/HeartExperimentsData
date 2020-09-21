@@ -1,0 +1,5 @@
+com/sun/xml/dtdparser/XmlReader/useEncodingDecl(java.io.PushbackInputStream,java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	1
+com/sun/xml/xsom/parser/JAXPParser/XMLReaderEx/resolveEntity(java.lang.String,java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	2
+com/sun/xml/xsom/impl/util/SchemaTreeTraverser/unionSimpleType(com.sun.xml.xsom.XSUnionSimpleType)@g_jaxb-xjc-2.2.6.jar.txt	3
+org/relaxng/datatype/helpers/DatatypeLibraryLoader/Service/parseConfigFile(java.net.URL)@g_jaxb-xjc-2.2.6.jar.txt	0
+com/sun/xml/xsom/impl/util/SchemaWriter/unionSimpleType(com.sun.xml.xsom.XSUnionSimpleType)@g_jaxb-xjc-2.2.6.jar.txt	4

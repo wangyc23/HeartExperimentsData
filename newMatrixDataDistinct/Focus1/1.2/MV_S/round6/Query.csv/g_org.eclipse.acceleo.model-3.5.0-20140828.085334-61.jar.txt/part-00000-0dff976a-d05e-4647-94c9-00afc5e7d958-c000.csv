@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/util/Iterator/hasNext()
+org/eclipse/emf/ecore/xmi/impl/URIHandlerImpl$PlatformSchemeAware/deresolve(org.eclipse.emf.common.util.URI)
+java/util/Map$Entry/getKey()

@@ -1,0 +1,5 @@
+aQute/lib/osgi/Instruction/getPattern(java.lang.String)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	4
+org/eclipse/core/internal/preferences/EclipsePreferences/save(org.eclipse.core.runtime.IPath)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	0
+aQute/lib/osgi/Jar/createDirectories(java.util.Set,java.util.jar.JarOutputStream,java.lang.String)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	1
+org/eclipse/core/internal/preferences/PreferencesService/trimTree(org.eclipse.core.runtime.preferences.IEclipsePreferences,org.eclipse.core.runtime.preferences.IPreferenceFilter)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	2
+aQute/lib/osgi/Verifier/isDynamicImport(java.lang.String)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	3

@@ -1,0 +1,4 @@
+ch/hsr/geohash/BoundingBox/getMaxLat()
+java/util/HashSet/HashSet(int)
+ch/hsr/geohash/BoundingBox/getMaxLon()
+java/util/Set/add(E)

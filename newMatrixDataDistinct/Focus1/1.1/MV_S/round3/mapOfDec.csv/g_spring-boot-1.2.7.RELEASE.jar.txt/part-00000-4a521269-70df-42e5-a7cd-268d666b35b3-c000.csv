@@ -1,0 +1,5 @@
+org/springframework/boot/SpringApplication/convertToStandardEnvironment(org.springframework.core.env.ConfigurableEnvironment)@g_spring-boot-1.3.0.BUILD-20151114.062217-808.jar.txt	4
+org/springframework/boot/bind/PropertiesConfigurationFactory/validate(org.springframework.boot.bind.RelaxedDataBinder)@g_spring-boot-1.3.0.BUILD-20151114.062217-808.jar.txt	1
+org/springframework/boot/context/embedded/AbstractEmbeddedServletContainerFactory/getCodeSourceArchive()@g_spring-boot-1.3.0.BUILD-20151114.062217-808.jar.txt	0
+org/springframework/boot/test/SpringApplicationContextLoader/extractEnvironmentProperties(java.lang.String[])@g_spring-boot-1.3.0.BUILD-20151114.062217-808.jar.txt	3
+org/springframework/boot/cloud/CloudFoundryVcapEnvironmentPostProcessor/addWithPrefix(java.util.Properties,java.util.Properties,java.lang.String)@g_spring-boot-1.3.0.BUILD-20151114.062217-808.jar.txt	2

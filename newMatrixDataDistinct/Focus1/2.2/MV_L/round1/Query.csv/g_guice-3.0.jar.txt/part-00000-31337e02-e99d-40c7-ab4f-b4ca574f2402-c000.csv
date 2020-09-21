@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/lang/reflect/Modifier/isProtected(int)
+java/lang/reflect/Member/getModifiers()
+com/google/inject/internal/asm/$Type/getType(java.lang.Class)

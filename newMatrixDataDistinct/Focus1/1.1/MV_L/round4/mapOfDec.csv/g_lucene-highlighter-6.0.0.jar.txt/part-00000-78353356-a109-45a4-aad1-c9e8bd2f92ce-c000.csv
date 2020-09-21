@@ -1,0 +1,5 @@
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extractWeightedTerms(java.util.Map,org.apache.lucene.search.Query,float)@g_lucene-highlighter-6.2.1.jar.txt	3
+org/apache/lucene/search/postingshighlight/PostingsHighlighter/highlightFields(java.lang.String[],org.apache.lucene.search.Query,org.apache.lucene.search.IndexSearcher,int[],int[])@g_lucene-highlighter-6.2.1.jar.txt	1
+org/apache/lucene/search/postingshighlight/PostingsHighlighter/highlightField(java.lang.String,java.lang.String[],java.text.BreakIterator,org.apache.lucene.util.BytesRef[],int[],java.util.List,int,org.apache.lucene.search.Query)@g_lucene-highlighter-6.2.1.jar.txt	4
+org/apache/lucene/search/postingshighlight/PostingsHighlighter/highlightFieldsAsObjects(java.lang.String[],org.apache.lucene.search.Query,org.apache.lucene.search.IndexSearcher,int[],int[])@g_lucene-highlighter-6.2.1.jar.txt	0
+org/apache/lucene/search/vectorhighlight/BaseFragmentsBuilder/discreteMultiValueHighlighting(java.util.List,org.apache.lucene.document.Field[])@g_lucene-highlighter-6.2.1.jar.txt	2

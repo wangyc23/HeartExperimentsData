@@ -1,0 +1,5 @@
+0	java/util/Map/containsKey(java.lang.Object)
+1	es/uam/eps/ir/ranksys/core/util/Lazy/get()
+2	java/lang/Math/pow(double,double)
+3	java/util/Map/get(java.lang.Object)
+4	es/uam/eps/ir/ranksys/core/model/UserModel/get(U)

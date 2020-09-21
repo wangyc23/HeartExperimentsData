@@ -1,0 +1,5 @@
+com/amazonaws/services/ec2/model/transform/GetPasswordDataResultStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	1
+com/amazonaws/services/securitytoken/model/transform/CredentialsStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-sts-1.9.3.jar.txt	0
+com/amazonaws/services/ec2/model/transform/BundleTaskStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	4
+com/amazonaws/services/ec2/model/transform/VolumeAttachmentStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	2
+com/amazonaws/services/ec2/model/transform/SpotPriceStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	3

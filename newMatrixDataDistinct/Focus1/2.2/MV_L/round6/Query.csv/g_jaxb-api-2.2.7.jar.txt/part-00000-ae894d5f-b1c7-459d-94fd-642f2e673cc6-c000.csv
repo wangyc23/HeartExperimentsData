@@ -1,0 +1,4 @@
+javax/xml/namespace/QName/QName(java.lang.String,java.lang.String,java.lang.String)
+java/lang/Object/toString()
+java/lang/String/length()
+java/lang/CharSequence/charAt(int)

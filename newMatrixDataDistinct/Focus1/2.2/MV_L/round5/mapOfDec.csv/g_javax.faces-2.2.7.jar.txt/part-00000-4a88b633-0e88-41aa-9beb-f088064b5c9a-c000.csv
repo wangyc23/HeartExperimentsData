@@ -1,0 +1,5 @@
+javax/faces/webapp/UIComponentClassicTagBase/printTree(javax.faces.component.UIComponent,java.lang.String,java.io.Writer,int)@g_javax.faces-api-2.2.jar.txt	0
+javax/faces/validator/BeanValidator/validate(javax.faces.context.FacesContext,javax.faces.component.UIComponent,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	2
+javax/faces/component/UIData/invokeOnComponent(javax.faces.context.FacesContext,java.lang.String,javax.faces.component.ContextCallback)@g_javax.faces-api-2.2.jar.txt	3
+javax/faces/FactoryFinder/releaseFactories()@g_javax.faces-api-2.2.jar.txt	1
+com/sun/jersey/core/impl/provider/entity/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-core-1.11.jar.txt	4

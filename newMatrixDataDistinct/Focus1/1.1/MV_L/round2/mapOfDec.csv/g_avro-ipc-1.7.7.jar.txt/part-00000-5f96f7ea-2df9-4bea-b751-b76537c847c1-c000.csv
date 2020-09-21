@@ -1,0 +1,5 @@
+org/apache/avro/specific/TestSpecificRecordBuilder/testBuilderPerformance()@g_avro-ipc-1.7.7-tests.jar.txt	3
+org/apache/avro/ipc/trace/TraceClientServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_avro-ipc-1.7.7-tests.jar.txt	4
+org/apache/avro/io/Perf/FooBarSpecificRecordTest/genSingleRecord(java.util.Random)@g_avro-ipc-1.7.7-tests.jar.txt	0
+org/apache/avro/TestProtocolGeneric/testEchoBytes()@g_avro-ipc-1.7.7-tests.jar.txt	2
+org/apache/avro/TestSchema/checkJson(org.apache.avro.Schema,java.lang.Object,org.apache.avro.io.DatumWriter,org.apache.avro.io.DatumReader)@g_avro-ipc-1.7.7-tests.jar.txt	1

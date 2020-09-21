@@ -1,0 +1,5 @@
+org/apache/http/impl/client/cache/RequestProtocolCompliance/decrementOPTIONSMaxForwardsIfGreaterThen0(org.apache.http.HttpRequest)@g_httpclient-cache-4.5.2.jar.txt	1
+org/apache/http/impl/client/cache/BasicHttpCache/generateIncompleteResponseError(org.apache.http.HttpResponse,org.apache.http.client.cache.Resource)@g_httpclient-cache-4.2.6.jar.txt	4
+org/apache/http/impl/client/cache/RequestProtocolCompliance/decrementOPTIONSMaxForwardsIfGreaterThen0(org.apache.http.HttpRequest)@g_httpclient-cache-4.2.6.jar.txt	0
+org/apache/http/impl/client/cache/RequestProtocolCompliance/stripOtherFreshnessDirectivesWithNoCache(org.apache.http.HttpRequest)@g_httpclient-cache-4.5.2.jar.txt	3
+org/apache/http/impl/client/cache/RequestProtocolCompliance/stripOtherFreshnessDirectivesWithNoCache(org.apache.http.HttpRequest)@g_httpclient-cache-4.2.6.jar.txt	2

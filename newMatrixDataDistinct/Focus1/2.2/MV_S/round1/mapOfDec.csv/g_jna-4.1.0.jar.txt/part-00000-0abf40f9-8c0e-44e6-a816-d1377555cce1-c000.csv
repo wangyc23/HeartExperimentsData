@@ -1,0 +1,5 @@
+com/kenai/jffi/Platform/determineCPU()@g_jffi-1.0.8.jar.txt	3
+com/kenai/jffi/Init/getStubLibraryStream()@g_jffi-1.0.8.jar.txt	2
+com/kenai/jffi/Foreign/getVersionField(java.lang.String)@g_jffi-1.0.8.jar.txt	4
+com/kenai/jffi/MemoryIO/verifyAccessor(java.lang.Class,java.lang.Class)@g_jffi-1.0.8.jar.txt	0
+org/bytedeco/javacpp/Pointer/deallocator(org.bytedeco.javacpp.Pointer$Deallocator)@g_javacpp-1.3.1.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/log4j/jmx/LayoutDynamicMBean/setAttribute(javax.management.Attribute)@g_log4j-1.2.14.jar.txt	2
+org/apache/log4j/jmx/AppenderDynamicMBean/setAttribute(javax.management.Attribute)@g_log4j-1.2.17.jar.txt	1
+org/apache/log4j/jmx/AppenderDynamicMBean/setAttribute(javax.management.Attribute)@g_log4j-1.2.14.jar.txt	3
+org/apache/log4j/jmx/LayoutDynamicMBean/getAttribute(java.lang.String)@g_log4j-1.2.17.jar.txt	4
+org/apache/log4j/jmx/LayoutDynamicMBean/setAttribute(javax.management.Attribute)@g_log4j-1.2.17.jar.txt	0

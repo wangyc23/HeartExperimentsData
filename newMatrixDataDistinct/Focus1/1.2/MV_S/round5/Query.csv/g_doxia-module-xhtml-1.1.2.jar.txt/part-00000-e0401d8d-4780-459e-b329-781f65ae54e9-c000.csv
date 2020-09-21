@@ -1,0 +1,4 @@
+javax/swing/text/MutableAttributeSet/addAttribute(java.lang.Object,java.lang.Object)
+org/apache/maven/doxia/util/HtmlTools/escapeHTML(java.lang.String)
+org/apache/maven/doxia/module/xhtml/XhtmlSink/writeSimpleTag(javax.swing.text.html.HTML$Tag,javax.swing.text.MutableAttributeSet)
+java/lang/StringBuffer/length()

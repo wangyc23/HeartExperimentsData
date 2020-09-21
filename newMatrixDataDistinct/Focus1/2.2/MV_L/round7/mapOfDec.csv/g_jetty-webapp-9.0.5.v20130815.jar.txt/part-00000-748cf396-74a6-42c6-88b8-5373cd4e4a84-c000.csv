@@ -1,0 +1,5 @@
+org/eclipse/jetty/webapp/Configuration/ClassList/addAfter(java.lang.String,java.lang.String[])@g_jetty-webapp-9.2.4.v20141103.jar.txt	3
+org/eclipse/jetty/webapp/Configuration/ClassList/addBefore(java.lang.String,java.lang.String[])@g_jetty-webapp-9.2.4.v20141103.jar.txt	2
+org/eclipse/jetty/webapp/StandardDescriptorProcessor/addServletMapping(java.lang.String,org.eclipse.jetty.xml.XmlParser$Node,org.eclipse.jetty.webapp.WebAppContext,org.eclipse.jetty.webapp.Descriptor)@g_jetty-webapp-9.2.4.v20141103.jar.txt	4
+org/eclipse/jetty/webapp/Configuration/ClassList/addAfter(java.lang.String,java.lang.String[])@g_jetty-webapp-9.0.2.v20130417.jar.txt	1
+org/eclipse/jetty/webapp/Configuration/ClassList/addBefore(java.lang.String,java.lang.String[])@g_jetty-webapp-9.0.2.v20130417.jar.txt	0

@@ -1,0 +1,5 @@
+com/netflix/hystrix/contrib/javanica/command/AbstractHystrixCommandFactory/createFallbackAction(com.netflix.hystrix.contrib.javanica.command.MetaHolder,java.util.Collection)@g_hystrix-javanica-1.4.20.jar.txt	2
+com/netflix/hystrix/contrib/javanica/command/CommandExecutor/execute(com.netflix.hystrix.HystrixExecutable,com.netflix.hystrix.contrib.javanica.command.ExecutionType)@g_hystrix-javanica-1.4.20.jar.txt	4
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_hystrix-javanica-1.4.20.jar.txt	0
+com/netflix/hystrix/contrib/javanica/command/CommandExecutor/execute(com.netflix.hystrix.HystrixExecutable,com.netflix.hystrix.contrib.javanica.command.ExecutionType,com.netflix.hystrix.contrib.javanica.command.MetaHolder)@g_hystrix-javanica-1.4.20.jar.txt	1
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclarePrecedence()@g_hystrix-javanica-1.4.20.jar.txt	3

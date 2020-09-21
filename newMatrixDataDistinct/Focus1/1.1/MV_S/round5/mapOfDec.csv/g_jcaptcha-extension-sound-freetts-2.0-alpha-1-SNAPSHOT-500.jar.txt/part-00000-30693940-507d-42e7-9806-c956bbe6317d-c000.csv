@@ -1,0 +1,5 @@
+com/octo/captcha/component/image/textpaster/MutableAttributedString/moveToRandomSpot(java.awt.image.BufferedImage,java.awt.geom.Point2D)@g_javax.servlet-2.5.0.v201103041518.jar.txt	4
+com/octo/captcha/module/config/CaptchaModuleConfig/validate()@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	2
+com/octo/captcha/service/AbstractManageableCaptchaService/setCaptchaEngineClass(java.lang.String)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	1
+com/octo/captcha/engine/image/utils/ImageCaptchaToJPEG/clearOutputDirectory(java.io.File)@g_javax.servlet-2.5.0.v201103041518.jar.txt	3
+com/octo/captcha/engine/image/utils/ImageCaptchaToJPEG/main(java.lang.String[])@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	0

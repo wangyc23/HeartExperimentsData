@@ -1,0 +1,5 @@
+jersey/repackaged/com/google/common/util/concurrent/MoreExecutors/invokeAnyImpl(jersey.repackaged.com.google.common.util.concurrent.ListeningExecutorService,java.util.Collection,boolean,long)@g_jersey-guava-2.21.jar.txt	1
+jersey/repackaged/com/google/common/util/concurrent/Futures/CombinedFuture/init(java.util.concurrent.Executor)@g_jersey-guava-2.21.jar.txt	4
+jersey/repackaged/com/google/common/util/concurrent/MoreExecutors/invokeAnyImpl(jersey.repackaged.com.google.common.util.concurrent.ListeningExecutorService,java.util.Collection,boolean,long)@g_jersey-guava-2.19.jar.txt	0
+jersey/repackaged/com/google/common/util/concurrent/Futures/CombinedFuture/init(java.util.concurrent.Executor)@g_jersey-guava-2.19.jar.txt	2
+jersey/repackaged/com/google/common/collect/FilteredEntryMultimap/AsMap/remove(java.lang.Object)@g_jersey-guava-2.19.jar.txt	3

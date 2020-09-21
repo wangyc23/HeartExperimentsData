@@ -1,0 +1,5 @@
+org/apache/shiro/config/ReflectionBuilder/buildObjects(java.util.Map)@g_shiro-core-1.2.2.jar.txt	1
+org/apache/shiro/realm/text/TextConfigurationRealm/processUserDefinitions(java.util.Map)@g_shiro-core-1.2.2.jar.txt	2
+org/apache/shiro/realm/text/TextConfigurationRealm/processRoleDefinitions(java.util.Map)@g_shiro-core-1.2.2.jar.txt	3
+org/apache/shiro/subject/SimplePrincipalCollection/byType(java.lang.Class)@g_shiro-core-1.2.2.jar.txt	0
+org/apache/shiro/subject/SimplePrincipalCollection/asSet()@g_shiro-core-1.2.2.jar.txt	4

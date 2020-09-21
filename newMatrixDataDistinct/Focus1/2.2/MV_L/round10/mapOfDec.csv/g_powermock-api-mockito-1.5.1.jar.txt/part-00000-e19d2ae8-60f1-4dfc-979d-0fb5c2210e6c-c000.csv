@@ -1,0 +1,5 @@
+org/xwiki/component/util/ReflectionUtils/setFieldValue(java.lang.Object,java.lang.String,java.lang.Object)@g_xwiki-commons-component-api-7.0.jar.txt	3
+org/powermock/api/mockito/internal/invocation/InvocationControlAssertionError/removeAndReplaceText(java.lang.StringBuilder,java.lang.String,char)@g_xwiki-commons-component-api-7.0.jar.txt	2
+org/powermock/api/mockito/internal/invocation/MockitoMethodInvocationControl/performIntercept(org.mockito.internal.creation.MethodInterceptorFilter,java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_xwiki-commons-component-api-7.0.jar.txt	1
+org/powermock/api/mockito/internal/mockcreation/MockCreator/toInstanceName(java.lang.Class)@g_xwiki-commons-component-api-7.0.jar.txt	4
+org/powermock/api/mockito/internal/invocation/InvocationControlAssertionError/throwAssertionErrorForNewSubstitutionFailure(java.lang.AssertionError,java.lang.Class)@g_xwiki-commons-component-api-7.0.jar.txt	0

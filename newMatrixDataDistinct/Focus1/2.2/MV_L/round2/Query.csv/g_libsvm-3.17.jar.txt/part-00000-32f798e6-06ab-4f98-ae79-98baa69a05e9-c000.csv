@@ -1,0 +1,4 @@
+java/io/BufferedReader/close()
+java/lang/String/substring(int)
+java/io/BufferedReader/readLine()
+java/lang/String/startsWith(java.lang.String)

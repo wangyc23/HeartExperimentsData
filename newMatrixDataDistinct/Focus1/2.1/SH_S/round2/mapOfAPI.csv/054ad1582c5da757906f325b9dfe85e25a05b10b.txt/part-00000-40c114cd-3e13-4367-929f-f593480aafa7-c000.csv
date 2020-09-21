@@ -1,0 +1,4 @@
+0	models/Pet/setId(long)
+1	java/lang/String/equalsIgnoreCase(java.lang.String)
+2	java/lang/String/equals(java.lang.Object)
+3	java/lang/Boolean/parseBoolean(java.lang.String)

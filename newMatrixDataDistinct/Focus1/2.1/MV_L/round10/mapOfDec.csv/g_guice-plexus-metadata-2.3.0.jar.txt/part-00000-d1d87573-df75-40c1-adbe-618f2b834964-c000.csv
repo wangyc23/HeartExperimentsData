@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/ComponentValueSetter/setValueUsingSetter(java.lang.Object)@g_sisu-inject-plexus-2.1.1.jar.txt	3
+org/sonatype/guice/plexus/locators/GlobalPlexusBeans/getPlexusBeans(java.lang.Iterable,java.util.List)@g_sisu-inject-plexus-2.1.1.jar.txt	4
+org/sonatype/guice/plexus/locators/RealmPlexusBeans/getVisibleBeans(org.codehaus.plexus.classworlds.realm.ClassRealm)@g_sisu-inject-plexus-2.1.1.jar.txt	2
+org/sonatype/guice/plexus/config/Roles/camelizeName(java.lang.String)@g_sisu-inject-plexus-2.1.1.jar.txt	0
+org/sonatype/guice/plexus/config/Roles/camelizeName(java.lang.String)@g_sisu-inject-plexus-1.4.2.jar.txt	1

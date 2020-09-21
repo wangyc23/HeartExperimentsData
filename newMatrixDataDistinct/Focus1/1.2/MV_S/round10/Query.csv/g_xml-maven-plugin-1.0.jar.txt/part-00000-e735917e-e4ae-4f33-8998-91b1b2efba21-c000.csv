@@ -1,0 +1,4 @@
+java/lang/Boolean/valueOf(java.lang.String)
+org/apache/maven/plugin/MojoFailureException/MojoFailureException(java.lang.String)
+java/lang/StringBuffer/append(java.lang.Object)
+javax/xml/transform/TransformerFactory/setURIResolver(javax.xml.transform.URIResolver)

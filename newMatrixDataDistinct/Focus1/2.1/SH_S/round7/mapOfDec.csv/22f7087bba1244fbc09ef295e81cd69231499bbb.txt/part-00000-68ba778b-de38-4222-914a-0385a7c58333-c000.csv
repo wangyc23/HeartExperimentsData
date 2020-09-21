@@ -1,0 +1,5 @@
+org/edr/services/impl/StandaardBoekingService/findBoekingen(int)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	2
+org/edr/services/impl/StandaardBoekrekeningService/findBoekrekeningen()@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	1
+com/nikolas/wicketsecurity/business/core/AbstractDao/findAll()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	0
+org/edr/services/impl/StandaardJournaalService/findJournaal(int)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	4
+org/edr/services/impl/StandaardBankrekeningService/findBankrekeningen()@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	3

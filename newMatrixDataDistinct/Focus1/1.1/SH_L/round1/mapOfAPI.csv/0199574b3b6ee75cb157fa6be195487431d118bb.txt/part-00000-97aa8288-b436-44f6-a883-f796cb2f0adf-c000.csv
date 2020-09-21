@@ -1,0 +1,4 @@
+0	org/streaminer/util/hash/SpookyHash32/packPartial(java.lang.CharSequence,int,int)
+1	org/mwg/chunk/ChunkSpace/getAndMark(byte,long,long,long)
+2	org/streaminer/util/hash/SpookyHash32/smallHash(java.lang.CharSequence,int,int,long[])
+3	org/streaminer/util/hash/SpookyHash32/packLong(java.lang.CharSequence,int)

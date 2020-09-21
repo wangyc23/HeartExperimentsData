@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+ch/fhnw/cbr/model/CBRConcern/getIndividual()
+com/hp/hpl/jena/query/QueryExecution/execSelect()
+com/hp/hpl/jena/query/ParameterizedSparqlString/toString()

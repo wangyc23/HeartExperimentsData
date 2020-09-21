@@ -1,0 +1,4 @@
+java/lang/Enum/name()
+java/util/concurrent/atomic/AtomicInteger/getAndAdd(int)
+java/util/Iterator/hasNext()
+java/util/EnumSet/size()

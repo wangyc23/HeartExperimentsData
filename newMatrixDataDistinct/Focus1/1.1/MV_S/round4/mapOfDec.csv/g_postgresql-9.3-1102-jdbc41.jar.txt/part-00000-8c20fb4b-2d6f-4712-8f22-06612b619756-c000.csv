@@ -1,0 +1,5 @@
+com/mysql/jdbc/MysqlIO/doHandshake(java.lang.String,java.lang.String,java.lang.String)@g_mysql-connector-java-5.1.18.jar.txt	4
+com/mysql/jdbc/CallableStatement/setOutParams()@g_mysql-connector-java-5.1.18.jar.txt	2
+com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_mysql-connector-java-5.1.18.jar.txt	0
+org/postgresql/jdbc2/AbstractJdbc2ResultSet/deleteRow()@g_mysql-connector-java-5.1.18.jar.txt	3
+com/mysql/jdbc/Messages/<clinit>()@g_mysql-connector-java-5.1.18.jar.txt	1

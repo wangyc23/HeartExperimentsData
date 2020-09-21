@@ -1,0 +1,5 @@
+net/sf/cglib/reflect/FastMethod/helper(net.sf.cglib.reflect.FastClass,java.lang.reflect.Method)@g_cglib-nodep-2.1_3.jar.txt	3
+net/sf/cglib/reflect/ConstructorDelegate/Generator/generateClass(net.sf.cglib.asm.ClassVisitor)@g_cglib-nodep-2.1_3.jar.txt	4
+net/sf/cglib/proxy/BridgeMethodResolver/resolveAll()@g_cglib-2.2.2.jar.txt	0
+net/sf/cglib/transform/impl/AddDelegateTransformer/addDelegate(java.lang.reflect.Method)@g_cglib-nodep-2.1_3.jar.txt	2
+net/sf/cglib/beans/BeanMap/toString()@g_cglib-nodep-2.1_3.jar.txt	1

@@ -1,0 +1,4 @@
+org/apache/http/message/ParserCursor/atEnd()
+java/util/ArrayList/ArrayList()
+org/apache/http/util/CharArrayBuffer/length()
+java/lang/String/length()

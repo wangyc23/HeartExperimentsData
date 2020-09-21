@@ -1,0 +1,5 @@
+com/opencsv/bean/HeaderColumnNameMappingStrategy/captureHeader(com.opencsv.CSVReader)@g_opencsv-3.5.jar.txt	2
+com/opencsv/bean/BeanFieldPrimitiveTypes/convert(java.lang.String)@g_opencsv-3.5.jar.txt	3
+com/opencsv/RFC4180Parser/handleQuotes(java.lang.String)@g_opencsv-3.5.jar.txt	1
+com/opencsv/bean/AbstractBeanField/write(java.lang.Object)@g_opencsv-3.5.jar.txt	4
+com/opencsv/bean/HeaderColumnNameTranslateMappingStrategy/setColumnMapping(java.util.Map)@g_opencsv-3.5.jar.txt	0

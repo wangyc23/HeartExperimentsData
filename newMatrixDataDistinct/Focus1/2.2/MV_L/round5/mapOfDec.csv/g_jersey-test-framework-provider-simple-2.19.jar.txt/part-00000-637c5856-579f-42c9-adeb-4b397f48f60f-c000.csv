@@ -1,0 +1,5 @@
+com/sun/jersey/api/uri/UriBuilderImpl/uri(java.net.URI)@g_jersey-core-1.13.jar.txt	2
+org/glassfish/jersey/test/grizzly/GrizzlyTestContainerFactory/GrizzlyTestContainer/start()@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	0
+org/glassfish/jersey/test/grizzly/GrizzlyWebTestContainerFactory/GrizzlyWebTestContainer/start()@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	1
+com/sun/jersey/api/uri/UriBuilderImpl/schemeSpecificPart(java.lang.String)@g_jersey-core-1.13.jar.txt	3
+org/glassfish/jersey/test/grizzly/GrizzlyWebTestContainerFactory/GrizzlyWebTestContainer/instantiateGrizzlyWebServer()@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	4

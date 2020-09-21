@@ -1,0 +1,8 @@
+0	java/lang/Object/Object()
+1	java/util/Arrays/asList(T[])
+2	com/kyip/api/buildstartportal/external/modules/BuildStartModule/BuildStartModule(com.kyip.api.buildstartportal.external.MainConfiguration)
+3	java/io/PrintStream/println(char[])
+4	java/io/PrintStream/println(java.lang.Object)
+5	java/util/logging/Logger/getLogger(java.lang.String)
+6	com/kyip/api/buildstartportal/external/MainConfiguration/setProfileRegistries(java.lang.String)
+7	com/kyip/api/buildstartportal/external/MainApplication/getSettings(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/JDBCTask/getDriver()@g_ant-1.6.5.jar.txt	2
+org/xmlpull/v1/XmlPullParserFactory/newPullParser()@g_xpp3-1.1.4c.jar.txt	0
+org/xmlpull/v1/XmlPullParserFactory/newSerializer()@g_xpp3-1.1.4c.jar.txt	4
+org/apache/tools/ant/taskdefs/email/EmailTask/execute()@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/AntStructure/printElementDecl(java.io.PrintWriter,java.lang.String,java.lang.Class)@g_ant-1.6.5.jar.txt	1

@@ -1,0 +1,5 @@
+org/sample/concurrency/deadlock/GastonAlphonseDeadlockSolution/Friend/bow(org.sample.concurrency.deadlock.GastonAlphonseDeadlockSolution.Friend)@190f14a918e377b89b636ace80065049be99727d.txt	3
+org/sample/concurrency/producer_consumer/ProducerConsumerWithBlockingQueue/Consumer/consume(java.lang.String)@190f14a918e377b89b636ace80065049be99727d.txt	4
+org/sample/concurrency/CountDownLatchTest/shouldTestStartAndDoneLatches()@190f14a918e377b89b636ace80065049be99727d.txt	2
+org/sample/concurrency/livelock/BankAccountLivelock/Transaction/run()@190f14a918e377b89b636ace80065049be99727d.txt	1
+org/sample/concurrency/wait_notify/ProducerConsumerExample/MailConsumer/run()@190f14a918e377b89b636ace80065049be99727d.txt	0

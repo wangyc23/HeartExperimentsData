@@ -1,0 +1,5 @@
+org/xwiki/xml/internal/html/filter/FontFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-commons-xml-7.4.jar.txt	4
+org/xwiki/xml/stax/SAXEventWriter/handleStartElement(javax.xml.stream.events.StartElement)@g_xwiki-commons-xml-7.4.jar.txt	3
+org/xwiki/xml/html/HTMLUtils/XWikiXMLOutputter/escapeElementEntities(java.lang.String)@g_xwiki-commons-xml-7.4.jar.txt	0
+org/xwiki/xml/stax/SAXEventWriter/getAttributes(javax.xml.stream.events.StartElement)@g_xwiki-commons-xml-7.4.jar.txt	2
+org/xwiki/xml/html/HTMLUtils/XWikiXMLOutputter/escapeElementEntities(java.lang.String)@g_xwiki-commons-xml-7.0.jar.txt	1

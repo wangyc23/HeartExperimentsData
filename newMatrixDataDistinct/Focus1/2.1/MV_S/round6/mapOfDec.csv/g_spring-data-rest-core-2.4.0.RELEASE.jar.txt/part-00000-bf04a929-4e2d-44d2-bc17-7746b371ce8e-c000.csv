@@ -1,0 +1,5 @@
+org/springframework/web/util/HierarchicalUriComponents/verifyUriComponent(java.lang.String,org.springframework.web.util.HierarchicalUriComponents$Type)@g_spring-web-4.1.7.RELEASE.jar.txt	0
+org/springframework/data/rest/core/UriToEntityConverter/convert(java.lang.Object,org.springframework.core.convert.TypeDescriptor,org.springframework.core.convert.TypeDescriptor)@g_spring-web-4.1.7.RELEASE.jar.txt	1
+org/springframework/http/converter/xml/SourceHttpMessageConverter/readStAXSource(java.io.InputStream)@g_spring-web-4.1.7.RELEASE.jar.txt	4
+org/springframework/http/server/ServletServerHttpRequest/getURI()@g_spring-web-4.1.7.RELEASE.jar.txt	3
+org/springframework/http/converter/json/Jackson2ObjectMapperBuilder/configure(com.fasterxml.jackson.databind.ObjectMapper)@g_spring-web-4.1.7.RELEASE.jar.txt	2

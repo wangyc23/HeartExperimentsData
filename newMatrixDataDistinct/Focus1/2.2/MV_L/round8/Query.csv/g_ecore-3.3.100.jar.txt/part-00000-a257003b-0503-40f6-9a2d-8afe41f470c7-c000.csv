@@ -1,0 +1,4 @@
+org/eclipse/ocl/util/CollectionUtil/createNewCollection(org.eclipse.ocl.expressions.CollectionKind)
+org/eclipse/ocl/ecore/OppositePropertyCallExp/getType()
+org/eclipse/ocl/ecore/OppositePropertyCallExp/getSource()
+java/util/Collection/add(java.lang.Object)

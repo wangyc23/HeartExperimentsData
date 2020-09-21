@@ -1,0 +1,5 @@
+org/apache/falcon/regression/core/bundle/Bundle/setProcessInputStartEnd(java.lang.String,java.lang.String)@07f855760151be2597b3ec7d6236958c7e8599da.txt	4
+org/apache/falcon/extensions/Extension/getWFPath(java.util.Map,java.lang.String)@07f855760151be2597b3ec7d6236958c7e8599da.txt	2
+com/yahoo/ycsb/StringByteIterator/nextByte()@07f855760151be2597b3ec7d6236958c7e8599da.txt	1
+org/apache/falcon/regression/core/util/Util/restartService(org.apache.falcon.regression.core.helpers.entity.AbstractEntityHelper)@07f855760151be2597b3ec7d6236958c7e8599da.txt	3
+org/apache/falcon/resource/extensions/ExtensionManager/validateExtensionName(java.lang.String)@07f855760151be2597b3ec7d6236958c7e8599da.txt	0

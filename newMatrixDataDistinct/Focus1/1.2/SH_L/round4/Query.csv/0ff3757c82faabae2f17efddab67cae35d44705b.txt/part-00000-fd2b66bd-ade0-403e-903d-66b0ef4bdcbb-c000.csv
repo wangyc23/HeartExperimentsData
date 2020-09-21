@@ -1,0 +1,4 @@
+org/apache/sling/event/impl/jobs/config/InternalQueueConfiguration/getName()
+org/apache/sling/event/impl/jobs/config/InternalQueueConfiguration/getThreadPriority()
+org/apache/sling/event/impl/jobs/config/InternalQueueConfiguration/getType()
+org/apache/sling/api/request/ResponseUtil/escapeXml(java.lang.String)

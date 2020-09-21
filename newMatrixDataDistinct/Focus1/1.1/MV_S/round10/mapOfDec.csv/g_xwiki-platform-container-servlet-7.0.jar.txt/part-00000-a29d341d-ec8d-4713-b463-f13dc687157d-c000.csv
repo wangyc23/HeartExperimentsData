@@ -1,0 +1,5 @@
+org/xwiki/container/servlet/filters/SavedRequestManager/getOriginalUrl(javax.servlet.http.HttpServletRequest)@g_spring-social-security-1.1.2.RELEASE.jar.txt	2
+org/springframework/social/security/provider/OAuth2AuthenticationService/getAuthToken(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-social-security-1.1.2.RELEASE.jar.txt	0
+org/xwiki/job/internal/DefaultJobManager/runJob()@g_spring-social-security-1.1.2.RELEASE.jar.txt	3
+org/springframework/social/security/provider/OAuth1AuthenticationService/buildReturnToUrl(javax.servlet.http.HttpServletRequest)@g_spring-social-security-1.1.2.RELEASE.jar.txt	1
+org/xwiki/job/internal/AbstractJob/run()@g_spring-social-security-1.1.2.RELEASE.jar.txt	4

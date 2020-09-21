@@ -1,0 +1,5 @@
+com/mysql/jdbc/ResultSetImpl/getNativeConvertToString(int,com.mysql.jdbc.Field)@g_mysql-connector-java-5.1.18.jar.txt	1
+com/mysql/jdbc/DatabaseMetaData/1/forEach(java.lang.Object)@g_mysql-connector-java-5.1.18.jar.txt	0
+org/postgresql/jdbc2/AbstractJdbc2Statement/parseSql(java.lang.String,int,java.lang.StringBuffer,boolean,boolean)@g_postgresql-9.3-1102-jdbc41.jar.txt	3
+com/mysql/jdbc/NonRegisteringDriver/parseURL(java.lang.String,java.util.Properties)@g_mysql-connector-java-5.1.18.jar.txt	2
+org/postgresql/jdbc2/AbstractJdbc2DatabaseMetaData/parseACLArray(java.lang.String)@g_postgresql-9.3-1102-jdbc41.jar.txt	4

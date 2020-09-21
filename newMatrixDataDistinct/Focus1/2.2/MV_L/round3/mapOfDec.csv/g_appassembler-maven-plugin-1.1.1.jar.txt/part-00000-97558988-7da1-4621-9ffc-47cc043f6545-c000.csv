@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/introspection/MethodMap/getMostSpecific(java.util.List,java.lang.Class[])@g_plexus-utils-1.5.8.jar.txt	4
+hidden/org/codehaus/plexus/interpolation/StringSearchInterpolator/interpolate(java.lang.String,hidden.org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-utils-1.5.8.jar.txt	2
+org/codehaus/plexus/util/cli/CommandLineUtils/1/run()@g_plexus-utils-1.5.8.jar.txt	1
+hidden/org/codehaus/plexus/interpolation/reflection/MethodMap/getMostSpecific(java.util.List,java.lang.Class[])@g_plexus-utils-1.5.8.jar.txt	3
+org/codehaus/plexus/util/cli/Commandline/getEnvironmentVariables()@g_plexus-utils-1.5.8.jar.txt	0

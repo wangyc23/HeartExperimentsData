@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/traversal/TraversalTestBase/assertLevels(org.neo4j.graphdb.traversal.Traverser,java.util.Stack)@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	3
+org/neo4j/kernel/impl/store/TestGrowingFileMemoryMapping/shouldGrowAFileWhileContinuingToMemoryMapNewRegions()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	2
+org/neo4j/kernel/impl/transaction/TransactionMetadataCacheTest/shouldThrowWhenCachingATxWithNegativeOffsetPosition()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	0
+org/neo4j/kernel/impl/transaction/PhysicalLogFilesTest/shouldThrowIfThereIsNoVersionInTheFileName()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	1
+org/neo4j/kernel/impl/store/TestOsSpecificLocks/sanityCheck()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	4

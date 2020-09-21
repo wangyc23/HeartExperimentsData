@@ -1,0 +1,5 @@
+org/jvnet/ws/wadl/ast/WadlAstBuilder/addMethodToParent(java.lang.Object,org.jvnet.ws.wadl.Method,java.net.URI)@g_wadl-core-1.1.6.jar.txt	0
+org/jvnet/ws/wadl2java/GeneratorUtil/getJavaType(org.jvnet.ws.wadl.Param,com.sun.codemodel.JCodeModel,com.sun.codemodel.JDefinedClass,org.jvnet.ws.wadl2java.JavaDocUtil)@g_wadl-core-1.1.6.jar.txt	4
+org/jvnet/ws/wadl2java/GeneratorUtil/makeParamName(java.lang.String)@g_wadl-core-1.1.6.jar.txt	3
+org/jvnet/ws/wadl/util/AbstractMultivaluedMap/equalsIgnoreValueOrder(javax.ws.rs.core.MultivaluedMap)@g_wadl-core-1.1.6.jar.txt	2
+org/jvnet/ws/wadl/ast/ResourceNode/getAllResourceUriTemplate()@g_wadl-core-1.1.6.jar.txt	1

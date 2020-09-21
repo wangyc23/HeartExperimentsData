@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/apache/commons/logging/Log/isDebugEnabled()
+org/springframework/core/io/Resource/getInputStream()
+java/lang/StringBuffer/toString()

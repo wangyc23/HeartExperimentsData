@@ -1,0 +1,5 @@
+net/java/truevfs/driver/file/FileNode/getMembers()@g_neo4j-io-3.3.0.jar.txt	0
+org/xwiki/xff/core/model/Class/orderedPaths()@g_neo4j-io-3.3.0.jar.txt	1
+org/neo4j/io/pagecache/impl/muninn/MuninnPagedFile/flushAndForceInternal(org.neo4j.io.pagecache.tracing.FlushEventOpportunity,boolean,org.neo4j.io.pagecache.IOLimiter)@g_neo4j-io-3.3.0.jar.txt	4
+org/xwiki/xff/core/model/Object/store(java.nio.file.Path)@g_neo4j-io-3.3.0.jar.txt	2
+org/neo4j/io/fs/FileUtils/isEmptyDirectory(java.io.File)@g_neo4j-io-3.3.0.jar.txt	3

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+java/util/Map$Entry/getValue()
+java/util/Map/entrySet()

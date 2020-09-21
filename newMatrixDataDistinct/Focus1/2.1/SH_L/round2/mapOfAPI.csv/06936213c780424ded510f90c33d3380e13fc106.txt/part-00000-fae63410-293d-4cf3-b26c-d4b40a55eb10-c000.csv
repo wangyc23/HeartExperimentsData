@@ -1,0 +1,4 @@
+0	com/ibm/taste/example/movie/model/RecommendMovieList/getRecommendMovies()
+1	com/ibm/taste/example/movie/model/RecommendMovie/toString()
+2	java/io/PrintWriter/println(java.lang.String)
+3	java/lang/Runtime/addShutdownHook(java.lang.Thread)

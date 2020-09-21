@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/IOUtil/close(java.io.InputStream)
+java/io/IOException/getMessage()
+java/util/Properties/Properties()
+java/lang/StringBuilder/StringBuilder()

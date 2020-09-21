@@ -1,0 +1,4 @@
+com/github/fge/msgsimple/bundle/MessageBundle/checkNotNull(java.lang.Object,java.lang.String)
+com/github/fge/msgsimple/bundle/MessageBundle/getMessage(java.lang.String)
+java/lang/String/substring(int)
+java/util/List/add(java.lang.Object)

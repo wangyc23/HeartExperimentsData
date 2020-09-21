@@ -1,0 +1,5 @@
+org/apache/poi/hslf/usermodel/HSLFSlideShow/reorderSlide(int,int)@g_poi-scratchpad-3.17.jar.txt	4
+org/apache/poi/hslf/dev/PPTXMLDump/main(java.lang.String[])@g_poi-scratchpad-3.17.jar.txt	3
+org/apache/poi/hwpf/model/CHPFormattedDiskPage/toByteArray(org.apache.poi.hwpf.model.CharIndexTranslator)@g_poi-scratchpad-3.17.jar.txt	2
+org/apache/poi/hslf/usermodel/HSLFSlideShow/addEmbed(org.apache.poi.poifs.filesystem.POIFSFileSystem)@g_poi-scratchpad-3.17.jar.txt	0
+org/apache/poi/hslf/usermodel/HSLFSlideShow/buildSlidesAndNotes()@g_poi-scratchpad-3.17.jar.txt	1

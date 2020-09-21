@@ -1,0 +1,5 @@
+org/eclipse/core/internal/content/ContentTypeCatalog/getAllContentTypes()@g_org.eclipse.core.contenttype-3.5.100.jar.txt	3
+org/eclipse/core/internal/content/ContentType/getFileSpecs(int)@g_org.eclipse.core.contenttype-3.5.100.jar.txt	0
+org/eclipse/core/internal/content/ContentTypeCatalog/getChildren(org.eclipse.core.internal.content.ContentType)@g_org.eclipse.core.contenttype-3.5.100.jar.txt	2
+org/eclipse/core/internal/content/ContentType/getFileSpecs(int)@g_org.eclipse.core.contenttype-3.4.100.jar.txt	1
+org/eclipse/core/internal/content/ContentTypeCatalog/getChildren(org.eclipse.core.internal.content.ContentType)@g_org.eclipse.core.contenttype-3.4.100.jar.txt	4

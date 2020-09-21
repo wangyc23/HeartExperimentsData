@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/getRootOntology()
+org/semanticweb/owlapi/model/OWLDataPropertyExpression/asOWLDataProperty()
+java/util/Iterator/hasNext()
+java/util/Iterator/next()

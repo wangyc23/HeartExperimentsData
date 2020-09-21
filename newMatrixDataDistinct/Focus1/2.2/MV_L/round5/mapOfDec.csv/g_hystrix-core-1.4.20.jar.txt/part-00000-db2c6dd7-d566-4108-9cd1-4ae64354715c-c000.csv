@@ -1,0 +1,5 @@
+com/netflix/hystrix/HystrixCollapser/execute()@g_hystrix-core-1.4.10.jar.txt	0
+com/netflix/hystrix/collapser/RequestBatch/shutdown()@g_hystrix-core-1.4.10.jar.txt	3
+com/netflix/hystrix/strategy/HystrixPlugins/getPluginImplementationViaArchaius(java.lang.Class)@g_hystrix-core-1.4.10.jar.txt	2
+com/netflix/hystrix/AbstractCommand/getFallbackOrThrowException(com.netflix.hystrix.HystrixEventType,com.netflix.hystrix.exception.HystrixRuntimeException$FailureType,java.lang.String,java.lang.Exception)@g_hystrix-core-1.4.10.jar.txt	4
+com/netflix/hystrix/HystrixCollapser/execute()@g_hystrix-core-1.4.3.jar.txt	1

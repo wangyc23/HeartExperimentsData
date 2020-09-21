@@ -1,0 +1,4 @@
+org/eclipse/jetty/server/handler/ContextHandler$Context/getAttributeNames()
+javax/servlet/ServletContextListener/contextDestroyed(javax.servlet.ServletContextEvent)
+javax/servlet/ServletContextEvent/ServletContextEvent(javax.servlet.ServletContext)
+java/lang/ThreadLocal/set(java.lang.Object)

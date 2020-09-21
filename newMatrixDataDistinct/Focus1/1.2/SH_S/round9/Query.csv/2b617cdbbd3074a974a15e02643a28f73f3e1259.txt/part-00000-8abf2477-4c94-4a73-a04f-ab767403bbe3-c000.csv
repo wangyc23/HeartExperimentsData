@@ -1,0 +1,4 @@
+java/net/URLConnection/setDoInput(boolean)
+java/io/PrintStream/println(java.lang.String)
+java/net/URLConnection/getInputStream()
+org/apache/servicemix/examples/camel/rest/client/Client/connect(java.lang.String)

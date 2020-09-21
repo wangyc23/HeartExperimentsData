@@ -1,0 +1,4 @@
+java/util/List/isEmpty()
+java/lang/Boolean/valueOf(boolean)
+java/lang/reflect/Method/getDeclaringClass()
+java/lang/Object/getClass()

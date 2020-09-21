@@ -1,0 +1,4 @@
+org/xml/sax/helpers/XMLReaderFactory/createXMLReader()
+javax/xml/parsers/SAXParserFactory/newInstance()
+javax/xml/parsers/SAXParserFactory/setFeature(java.lang.String,boolean)
+org/xml/sax/XMLReader/parse(org.xml.sax.InputSource)

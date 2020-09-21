@@ -1,0 +1,5 @@
+org/jdom2/output/Format/escapeAttribute(org.jdom2.output.EscapeStrategy,java.lang.String)@g_stax-utils-20070216.jar.txt	4
+org/jdom2/ProcessingInstruction/parseData(java.lang.String)@g_stax-utils-20070216.jar.txt	0
+org/codehaus/stax2/ri/evt/Stax2EventAllocatorImpl/allocate(javax.xml.stream.XMLStreamReader)@g_stax-utils-20070216.jar.txt	2
+org/jdom2/input/StAXEventBuilder/processElement(org.jdom2.JDOMFactory,javax.xml.stream.events.StartElement)@g_stax-utils-20070216.jar.txt	3
+org/jdom2/input/StAXStreamBuilder/processElementFragment(org.jdom2.JDOMFactory,javax.xml.stream.XMLStreamReader)@g_stax-utils-20070216.jar.txt	1

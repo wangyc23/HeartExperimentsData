@@ -1,0 +1,4 @@
+com/google/gwt/thirdparty/guava/common/cache/LocalCache$ReferenceEntry/getHash()
+com/google/gwt/thirdparty/guava/common/cache/LocalCache$Segment/setValue(com.google.gwt.thirdparty.guava.common.cache.LocalCache$ReferenceEntry,java.lang.Object,java.lang.Object,long)
+com/google/gwt/thirdparty/guava/common/cache/LocalCache$ReferenceEntry/getKey()
+com/google/gwt/thirdparty/guava/common/cache/LocalCache$Segment/unlock()

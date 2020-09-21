@@ -1,0 +1,4 @@
+org/languagetool/rules/spelling/morfologik/MorfologikSpellerRule/ignoreToken(org.languagetool.AnalyzedTokenReadings[],int)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/regex/Matcher/matches()
+java/lang/String/equals(java.lang.Object)

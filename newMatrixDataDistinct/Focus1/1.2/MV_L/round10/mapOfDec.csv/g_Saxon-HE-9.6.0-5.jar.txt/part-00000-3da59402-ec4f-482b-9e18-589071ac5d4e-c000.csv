@@ -1,0 +1,5 @@
+net/sf/saxon/style/XSLAttributeSet/prepareAttributes()@g_Saxon-HE-9.6.0-6.jar.txt	2
+org/apache/commons/lang3/reflect/MethodUtils/getOverrideHierarchy(java.lang.reflect.Method,org.apache.commons.lang3.ClassUtils$Interfaces)@g_Saxon-HE-9.6.0-6.jar.txt	3
+net/sf/saxon/style/XSLAttributeSet/validate(net.sf.saxon.style.ComponentDeclaration)@g_Saxon-HE-9.6.0-6.jar.txt	1
+net/sf/saxon/style/XSLAttributeSet/compileDeclaration(net.sf.saxon.style.Compilation,net.sf.saxon.style.ComponentDeclaration)@g_Saxon-HE-9.6.0-6.jar.txt	0
+org/apache/commons/lang3/StringEscapeUtils/CsvUnescaper/translate(java.lang.CharSequence,int,java.io.Writer)@g_Saxon-HE-9.6.0-6.jar.txt	4

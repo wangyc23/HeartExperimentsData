@@ -1,0 +1,5 @@
+org/eclipse/core/internal/filesystem/local/nio/PosixHandler/fetchFileInfo(java.lang.String)@g_org.eclipse.core.filesystem-1.6.1.jar.txt	1
+org/eclipse/core/internal/filesystem/local/nio/DefaultHandler/fetchFileInfo(java.lang.String)@g_org.eclipse.core.filesystem-1.6.1.jar.txt	0
+org/xwiki/xff/core/model/Class/orderedPaths()@g_org.eclipse.core.filesystem-1.6.1.jar.txt	3
+org/eclipse/core/internal/filesystem/local/nio/DosHandler/fetchFileInfo(java.lang.String)@g_org.eclipse.core.filesystem-1.6.1.jar.txt	2
+org/xwiki/xff/core/model/Class/store(java.nio.file.Path)@g_org.eclipse.core.filesystem-1.6.1.jar.txt	4

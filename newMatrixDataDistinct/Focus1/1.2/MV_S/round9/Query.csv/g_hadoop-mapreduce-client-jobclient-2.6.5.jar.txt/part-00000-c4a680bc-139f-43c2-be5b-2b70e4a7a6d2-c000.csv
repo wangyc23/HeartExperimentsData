@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+org/apache/hadoop/conf/Configuration/getPattern(java.lang.String,java.util.regex.Pattern)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/hadoop/yarn/api/records/ApplicationSubmissionContext/getReservationID()

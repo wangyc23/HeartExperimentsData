@@ -1,0 +1,5 @@
+io/netty/handler/codec/spdy/SpdyHeaderBlockJZlibEncoder/encode(io.netty.buffer.ByteBufAllocator,io.netty.handler.codec.spdy.SpdyHeadersFrame)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	1
+io/netty/channel/LoggingHandler/channelActive(io.netty.channel.ChannelHandlerContext)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	3
+io/netty/handler/codec/spdy/SpdyHeaderBlockZlibEncoder/encode(io.netty.buffer.ByteBufAllocator,io.netty.handler.codec.spdy.SpdyHeadersFrame)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	0
+io/netty/handler/ssl/JettyNpnSslEngine/wrap(java.nio.ByteBuffer[],int,int,java.nio.ByteBuffer)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	2
+io/netty/test/udt/util/EchoByteHandler/channelActive(io.netty.channel.ChannelHandlerContext)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	4

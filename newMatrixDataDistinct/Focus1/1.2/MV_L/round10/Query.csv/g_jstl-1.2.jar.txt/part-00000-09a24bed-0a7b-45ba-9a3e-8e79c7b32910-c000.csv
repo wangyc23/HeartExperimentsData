@@ -1,0 +1,4 @@
+java/io/PrintStream/println()
+java/io/DataInput/readLine()
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/startsWith(java.lang.String)

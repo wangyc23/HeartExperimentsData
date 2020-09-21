@@ -1,0 +1,5 @@
+org/apache/maven/surefire/booter/ForkedBooter/main(java.lang.String[])@g_neo4j-collections-3.1.0.jar.txt	3
+org/neo4j/helpers/collection/MapUtil/store(java.util.Map,java.io.OutputStream)@g_neo4j-collections-3.1.0.jar.txt	2
+org/neo4j/helpers/collection/CachingIterator/position(int)@g_neo4j-collections-3.1.0.jar.txt	1
+org/apache/maven/surefire/booter/TypeEncodedValue/getDecodedValue(java.lang.ClassLoader)@g_neo4j-collections-3.1.0.jar.txt	4
+org/neo4j/helpers/collection/LruCache/resize(int)@g_neo4j-collections-3.1.0.jar.txt	0

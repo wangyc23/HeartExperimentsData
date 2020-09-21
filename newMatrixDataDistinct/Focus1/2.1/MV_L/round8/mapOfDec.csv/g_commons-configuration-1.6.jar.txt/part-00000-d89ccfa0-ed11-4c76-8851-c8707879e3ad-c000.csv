@@ -1,0 +1,5 @@
+org/apache/commons/configuration/beanutils/ConfigurationDynaClass/getDynaProperties()@g_commons-configuration-1.8.jar.txt	0
+org/apache/commons/configuration/CombinedConfiguration/constructCombinedNode()@g_commons-configuration-1.8.jar.txt	4
+org/apache/commons/configuration/AbstractConfiguration/getList(java.lang.String,java.util.List)@g_commons-configuration-1.8.jar.txt	2
+org/apache/commons/configuration/XMLConfiguration/XMLNode/findTextNodeForUpdate()@g_commons-configuration-1.8.jar.txt	3
+org/apache/commons/configuration/beanutils/ConfigurationDynaBean/set(java.lang.String,java.lang.Object)@g_commons-configuration-1.8.jar.txt	1

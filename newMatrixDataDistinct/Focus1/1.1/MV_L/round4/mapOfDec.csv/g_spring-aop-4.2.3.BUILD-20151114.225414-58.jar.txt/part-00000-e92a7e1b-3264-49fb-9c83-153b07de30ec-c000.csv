@@ -1,0 +1,5 @@
+org/springframework/aop/framework/adapter/ThrowsAdviceInterceptor/getExceptionHandler(java.lang.Throwable)@g_spring-aop-4.2.3.BUILD-20151114.143958-56.jar.txt	2
+org/springframework/aop/framework/CglibAopProxy/doValidateClass(java.lang.Class,java.lang.ClassLoader)@g_spring-aop-4.2.3.BUILD-SNAPSHOT.jar.txt	4
+org/springframework/aop/framework/CglibAopProxy/getProxy(java.lang.ClassLoader)@g_spring-aop-4.2.3.BUILD-20151114.143958-56.jar.txt	1
+org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactory/validate(java.lang.Class)@g_spring-aop-4.2.3.BUILD-20151114.143958-56.jar.txt	3
+org/springframework/aop/framework/CglibAopProxy/doValidateClass(java.lang.Class,java.lang.ClassLoader)@g_spring-aop-4.2.3.BUILD-20151114.143958-56.jar.txt	0

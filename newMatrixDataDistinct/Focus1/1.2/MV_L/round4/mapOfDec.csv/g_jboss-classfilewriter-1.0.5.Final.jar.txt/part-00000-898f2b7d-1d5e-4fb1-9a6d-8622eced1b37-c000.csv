@@ -1,0 +1,5 @@
+org/hibernate/validator/engine/ConfigurationImpl/buildValidatorFactory()@g_hibernate-validator-4.0.2.GA.jar.txt	4
+org/hibernate/validator/metadata/ConstraintDescriptorImpl/findConstraintValidatorClasses()@g_hibernate-validator-4.0.2.GA.jar.txt	2
+org/hibernate/validator/xml/ValidationXmlParser/setMappingStreamsFromXml(org.hibernate.validator.xml.ValidationConfigType,org.hibernate.validator.xml.ValidationBootstrapParameters)@g_hibernate-validator-4.0.2.GA.jar.txt	3
+org/hibernate/validator/engine/ConfigurationImpl/applyXmlSettings(org.hibernate.validator.xml.ValidationBootstrapParameters)@g_hibernate-validator-4.0.2.GA.jar.txt	0
+org/hibernate/validator/metadata/ConstraintDescriptorImpl/createComposingConstraintDescriptor(java.util.Map,int,java.lang.annotation.Annotation,java.lang.Class)@g_hibernate-validator-4.0.2.GA.jar.txt	1

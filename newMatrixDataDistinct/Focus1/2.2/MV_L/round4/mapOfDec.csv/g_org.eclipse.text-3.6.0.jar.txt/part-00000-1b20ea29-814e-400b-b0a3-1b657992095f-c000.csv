@@ -1,0 +1,5 @@
+org/eclipse/jface/text/templates/TemplateTranslator/parse(java.lang.String)@g_org.eclipse.text-3.6.100.jar.txt	1
+org/apache/commons/cli/HelpFormatter/renderOptions(java.lang.StringBuffer,int,org.apache.commons.cli.Options,int,int)@g_commons-cli-1.2.jar.txt	2
+org/apache/commons/cli/HelpFormatter/printUsage(java.io.PrintWriter,int,java.lang.String,org.apache.commons.cli.Options)@g_org.eclipse.text-3.6.100.jar.txt	4
+org/eclipse/jface/text/TreeLineTracker/toString()@g_org.eclipse.text-3.6.100.jar.txt	0
+org/eclipse/jface/text/source/AnnotationModel/getAnnotationIterator(boolean,boolean)@g_org.eclipse.text-3.6.100.jar.txt	3

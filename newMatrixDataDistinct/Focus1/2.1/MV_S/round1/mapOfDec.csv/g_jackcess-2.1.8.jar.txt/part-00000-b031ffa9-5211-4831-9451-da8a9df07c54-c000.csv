@@ -1,0 +1,5 @@
+com/healthmarketscience/jackcess/impl/TableImpl/readColumnDefinitions(java.nio.ByteBuffer,short)@g_jmatio-1.0.jar.txt	4
+com/healthmarketscience/jackcess/impl/IndexData/DataPage/toString()@g_jmatio-1.0.jar.txt	2
+com/coremedia/iso/boxes/fragment/TrackFragmentRandomAccessBox/_parseDetails(java.nio.ByteBuffer)@g_jmatio-1.0.jar.txt	0
+com/googlecode/mp4parser/authoring/builder/FragmentedMp4Builder/createPdin(com.googlecode.mp4parser.authoring.Movie)@g_jmatio-1.0.jar.txt	1
+com/healthmarketscience/jackcess/impl/TableImpl/writeTableDefinition(com.healthmarketscience.jackcess.impl.TableCreator)@g_jmatio-1.0.jar.txt	3

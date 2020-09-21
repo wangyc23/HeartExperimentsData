@@ -1,0 +1,4 @@
+java/util/Collections/emptyList()
+java/util/Iterator/next()
+java/lang/Iterable/iterator()
+com/google/common/collect/Sets/newLinkedHashSet()

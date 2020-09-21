@@ -1,0 +1,5 @@
+org/apache/jena/sparql/util/FmtUtils/stringForLiteral(java.lang.StringBuilder,org.apache.jena.graph.Node_Literal,org.apache.jena.sparql.serializer.SerializationContext)@g_jena-arq-3.4.0.jar.txt	3
+org/apache/jena/sparql/resultset/XMLOutputResultSet/printResource(org.apache.jena.rdf.model.Resource)@g_jena-arq-3.4.0.jar.txt	2
+org/apache/jena/sparql/util/ResultSetUtils/resultSetToStringList(org.apache.jena.query.ResultSet,java.lang.String,java.lang.String)@g_jena-arq-3.4.0.jar.txt	1
+org/apache/jena/riot/tokens/Token/tokenForNode(org.apache.jena.graph.Node,java.lang.String,org.apache.jena.riot.system.PrefixMap)@g_jena-arq-3.4.0.jar.txt	4
+org/apache/jena/sparql/resultset/JSONOutputResultSet/printResource(org.apache.jena.rdf.model.Resource)@g_jena-arq-3.4.0.jar.txt	0

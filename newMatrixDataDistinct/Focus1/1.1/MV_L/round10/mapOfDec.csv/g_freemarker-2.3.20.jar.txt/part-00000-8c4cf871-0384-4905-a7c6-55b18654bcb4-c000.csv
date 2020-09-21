@@ -1,0 +1,5 @@
+freemarker/core/_CoreStringUtils/camelCaseToUnderscored(java.lang.String)@g_freemarker-2.3.22.jar.txt	3
+freemarker/template/utility/StringUtil/FTLStringLiteralEnc(java.lang.String,char,boolean)@g_freemarker-2.3.22.jar.txt	1
+freemarker/core/Configurable/SettingStringParser/parseAsImportList()@g_freemarker-2.3.22.jar.txt	4
+freemarker/core/UnifiedCall/dump(boolean)@g_freemarker-2.3.22.jar.txt	0
+freemarker/core/_ErrorDescriptionBuilder/toString(freemarker.core.TemplateElement,boolean)@g_freemarker-2.3.22.jar.txt	2

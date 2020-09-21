@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/apache/maven/artifact/versioning/ManagedVersionMap/get(java.lang.Object)
+java/util/Iterator/next()
+java/lang/StringBuffer/toString()

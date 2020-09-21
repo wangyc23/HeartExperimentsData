@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Map/get(java.lang.Object)
+io/netty/util/concurrent/EventExecutor/isShuttingDown()
+io/netty/resolver/AddressResolverGroup$1/1(io.netty.resolver.AddressResolverGroup,io.netty.util.concurrent.EventExecutor,io.netty.resolver.AddressResolver)

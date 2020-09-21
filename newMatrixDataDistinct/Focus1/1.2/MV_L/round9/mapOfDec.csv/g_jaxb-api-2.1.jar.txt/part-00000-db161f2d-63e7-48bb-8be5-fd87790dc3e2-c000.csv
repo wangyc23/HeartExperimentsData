@@ -1,0 +1,5 @@
+javax/xml/bind/ContextFinder/loadJAXBProperties(java.lang.ClassLoader,java.lang.String)@g_jaxb-api-2.2.7.jar.txt	4
+javax/xml/bind/JAXB/toResult(java.lang.Object)@g_jaxb-api-2.2.2.jar.txt	3
+javax/xml/bind/JAXB/toSource(java.lang.Object)@g_jaxb-api-2.2.2.jar.txt	1
+javax/xml/bind/JAXB/toResult(java.lang.Object)@g_jaxb-api-2.2.7.jar.txt	2
+javax/xml/bind/JAXB/toSource(java.lang.Object)@g_jaxb-api-2.2.7.jar.txt	0

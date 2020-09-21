@@ -1,0 +1,5 @@
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/contextualize(org.codehaus.plexus.context.Context)@g_maven-repository-builder-1.0.jar.txt	3
+org/apache/maven/shared/artifact/filter/collection/ScopeFilter/filter(java.util.Set)@g_maven-repository-builder-1.0.jar.txt	0
+org/apache/maven/shared/artifact/filter/PatternIncludesArtifactFilter/match(org.apache.maven.artifact.Artifact,java.util.List)@g_maven-repository-builder-1.0.jar.txt	4
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/assembleRepositoryArtifacts(org.apache.maven.artifact.resolver.ArtifactResolutionResult,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository,org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.util.Map)@g_maven-repository-builder-1.0.jar.txt	2
+org/apache/maven/shared/artifact/filter/ScopeArtifactFilter/reportFilteredArtifacts(org.codehaus.plexus.logging.Logger)@g_maven-repository-builder-1.0.jar.txt	1

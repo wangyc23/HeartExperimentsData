@@ -1,0 +1,5 @@
+org/mozilla/javascript/tools/shell/Main/readFileOrUrl(java.lang.String,boolean)@g_yuicompressor-2.4.7.jar.txt	2
+org/mozilla/javascript/tools/shell/Main/readFileOrUrl(java.lang.String,boolean)@g_js-1.6R7.jar.txt	4
+org/mozilla/javascript/tools/SourceReader/readFileOrUrl(java.lang.String,boolean,java.lang.String)@g_yuicompressor-2.4.7.jar.txt	3
+org/mozilla/javascript/tools/shell/Global/readUrl(java.lang.String,java.lang.String,boolean)@g_js-1.6R7.jar.txt	1
+org/mozilla/javascript/tools/shell/Global/readUrl(java.lang.String,java.lang.String,boolean)@g_yuicompressor-2.4.7.jar.txt	0

@@ -1,0 +1,4 @@
+org/apache/ant/compress/taskdefs/ArchiveBase$ResourceWithFlags/getName()
+org/apache/tools/ant/util/FileUtils/close(java.io.OutputStream)
+org/apache/ant/compress/taskdefs/ArchiveBase$ResourceWithFlags/getResource()
+org/apache/tools/ant/types/Resource/getInputStream()

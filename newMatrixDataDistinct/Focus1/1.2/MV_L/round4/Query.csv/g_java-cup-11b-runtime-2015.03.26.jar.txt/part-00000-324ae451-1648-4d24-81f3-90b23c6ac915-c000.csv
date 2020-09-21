@@ -1,0 +1,4 @@
+java_cup/runtime/XMLElement$NonTerminal/left()
+java/util/LinkedList/iterator()
+java/util/Iterator/hasNext()
+java_cup/runtime/ComplexSymbolFactory$Location/toXML(javax.xml.stream.XMLStreamWriter,java.lang.String)

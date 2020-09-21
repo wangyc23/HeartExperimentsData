@@ -1,0 +1,5 @@
+ucar/unidata/util/StringUtil/stringMatch(java.lang.String,java.lang.String,boolean,boolean)@g_unidataCommon-4.2.20.jar.txt	0
+org/rrd4j/core/jrrd/Archive/printInfo(java.io.PrintStream,java.text.NumberFormat,int)@g_unidataCommon-4.2.20.jar.txt	4
+org/rrd4j/core/timespec/Epoch/constructUI()@g_unidataCommon-4.2.20.jar.txt	1
+org/rrd4j/graph/PrintText/resolveText(java.util.Locale,org.rrd4j.data.DataProcessor,org.rrd4j.graph.ValueScaler)@g_unidataCommon-4.2.20.jar.txt	3
+ucar/unidata/util/Format/formatDouble(double,int,int)@g_unidataCommon-4.2.20.jar.txt	2

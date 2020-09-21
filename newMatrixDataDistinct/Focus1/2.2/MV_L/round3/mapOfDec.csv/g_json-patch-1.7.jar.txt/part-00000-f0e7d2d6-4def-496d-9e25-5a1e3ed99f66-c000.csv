@@ -1,0 +1,5 @@
+com/github/fge/jsonpatch/AddOperation/addToArray(com.github.fge.jackson.jsonpointer.JsonPointer,com.fasterxml.jackson.databind.JsonNode)@g_jackson-coreutils-1.6.jar.txt	0
+com/github/fge/jsonpatch/diff/JsonDiff/generateObjectDiffs(java.util.List,com.github.fge.jackson.jsonpointer.JsonPointer,com.fasterxml.jackson.databind.JsonNode,com.fasterxml.jackson.databind.JsonNode)@g_jackson-coreutils-1.6.jar.txt	4
+org/eclipse/xtend/lib/macro/file/Path/normalize(java.lang.Iterable)@g_jackson-coreutils-1.6.jar.txt	1
+com/github/fge/jackson/JsonLoader/fromResource(java.lang.String)@g_jackson-coreutils-1.6.jar.txt	3
+com/github/fge/jackson/jsonpointer/ReferenceToken/asCooked(java.lang.String)@g_jackson-coreutils-1.6.jar.txt	2

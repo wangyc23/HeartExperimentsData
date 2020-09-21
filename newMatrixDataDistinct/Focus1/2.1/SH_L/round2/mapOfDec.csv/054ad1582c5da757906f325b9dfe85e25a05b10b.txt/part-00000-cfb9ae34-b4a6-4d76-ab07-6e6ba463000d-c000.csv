@@ -1,0 +1,5 @@
+com/cdoframework/cdolib/database/xsd/DataServiceChoice/iterateDataServiceChoiceItem()@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	3
+com/cdoframework/cdolib/data/cdo/LongArrayField/getLength()@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	1
+com/cdo/util/common/BytesStream/readStream(java.io.InputStream)@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	4
+com/cdoframework/cdolib/database/xsd/SQLTransChoice/setSQLTransChoiceItem(com.cdoframework.cdolib.database.xsd.SQLTransChoiceItem[])@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	2
+com/cdoframework/cdolib/service/framework/transfilter/xsd/CreteriasType/setCreteriasTypeItem(int,com.cdoframework.cdolib.service.framework.transfilter.xsd.CreteriasTypeItem)@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	0

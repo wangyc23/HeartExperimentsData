@@ -1,0 +1,4 @@
+org/springframework/orm/hibernate4/LocalSessionFactoryBuilder/addInputStream(java.io.InputStream)
+org/springframework/orm/hibernate4/LocalSessionFactoryBuilder/addDirectory(java.io.File)
+org/springframework/orm/hibernate4/LocalSessionFactoryBuilder/addJar(java.io.File)
+org/springframework/orm/hibernate4/LocalSessionFactoryBuilder/setInterceptor(org.hibernate.Interceptor)

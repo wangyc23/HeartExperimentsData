@@ -1,0 +1,5 @@
+org/apache/http/nio/protocol/HttpAsyncService/completeResponse(org.apache.http.nio.protocol.HttpAsyncService$Outgoing,org.apache.http.nio.NHttpServerConnection,org.apache.http.nio.protocol.HttpAsyncService$State)@g_httpcore-osgi-4.4.6.jar.txt	2
+org/apache/http/impl/nio/reactor/IOReactorConfig/copy(org.apache.http.impl.nio.reactor.IOReactorConfig)@g_httpcore-osgi-4.4.6.jar.txt	4
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/checkForImportsChange(org.semanticweb.owlapi.model.OWLOntologyChange)@g_httpcore-osgi-4.4.6.jar.txt	3
+uk/ac/manchester/cs/owl/owlapi/OWLImmutableOntologyImpl/getAxioms(org.semanticweb.owlapi.model.OWLObjectPropertyExpression,org.semanticweb.owlapi.model.parameters.Imports)@g_httpcore-osgi-4.4.6.jar.txt	1
+org/apache/http/impl/io/AbstractSessionInputBuffer/appendDecoded(org.apache.http.util.CharArrayBuffer,java.nio.ByteBuffer)@g_httpcore-osgi-4.4.6.jar.txt	0

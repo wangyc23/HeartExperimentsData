@@ -1,0 +1,4 @@
+org/apache/avalon/framework/configuration/ConfigurationException/ConfigurationException(java.lang.String)
+java/lang/Double/parseDouble(java.lang.String)
+java/lang/StringBuffer/toString()
+org/apache/avalon/framework/configuration/AbstractConfiguration/getValue()

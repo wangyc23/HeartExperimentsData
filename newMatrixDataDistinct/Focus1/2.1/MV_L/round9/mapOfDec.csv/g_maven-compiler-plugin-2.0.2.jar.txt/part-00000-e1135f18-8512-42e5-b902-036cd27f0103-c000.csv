@@ -1,0 +1,5 @@
+org/apache/maven/plugin/AbstractCompilerMojo/execute()@g_maven-compiler-plugin-2.1.jar.txt	2
+org/apache/maven/plugin/AbstractCompilerMojo/execute()@g_maven-compiler-plugin-2.3.1.jar.txt	4
+org/apache/maven/plugin/AbstractCompilerMojo/computeStaleSources(org.codehaus.plexus.compiler.CompilerConfiguration,org.codehaus.plexus.compiler.Compiler,org.codehaus.plexus.compiler.util.scan.SourceInclusionScanner)@g_maven-compiler-plugin-2.3.1.jar.txt	1
+org/apache/maven/plugin/AbstractCompilerMojo/computeStaleSources(org.codehaus.plexus.compiler.CompilerConfiguration,org.codehaus.plexus.compiler.Compiler,org.codehaus.plexus.compiler.util.scan.SourceInclusionScanner)@g_maven-compiler-plugin-2.1.jar.txt	0
+org/apache/maven/plugin/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-compiler-plugin-2.1.jar.txt	3

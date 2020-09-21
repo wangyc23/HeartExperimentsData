@@ -1,0 +1,4 @@
+org/springframework/beans/factory/ListableBeanFactory/getBeansOfType(java.lang.Class)
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+java/util/Iterator/next()

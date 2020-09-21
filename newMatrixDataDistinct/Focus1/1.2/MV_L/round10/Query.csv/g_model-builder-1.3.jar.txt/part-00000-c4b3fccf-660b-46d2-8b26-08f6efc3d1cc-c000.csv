@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.Throwable)
+java/util/List/size()
+java/util/Iterator/next()

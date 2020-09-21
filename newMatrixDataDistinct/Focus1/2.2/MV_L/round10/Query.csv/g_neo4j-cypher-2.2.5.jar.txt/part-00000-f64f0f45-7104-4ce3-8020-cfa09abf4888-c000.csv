@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+scala/Predef$/wrapRefArray(java.lang.Object[])
+scala/StringContext/StringContext(scala.collection.Seq)
+org/neo4j/cypher/internal/compatibility/CompatibilityFor2_0$ExecutionPlanWrapper/profile(org.neo4j.kernel.GraphDatabaseAPI,org.neo4j.cypher.internal.TransactionInfo,scala.collection.immutable.Map,org.neo4j.kernel.impl.query.QuerySession)

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuffer/append(java.lang.Object)
+com/jmatio/types/MLChar/getM()
+com/jmatio/types/MLChar/getN()

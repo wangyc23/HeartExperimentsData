@@ -1,0 +1,4 @@
+java/lang/String/valueOf(java.lang.Object)
+java/lang/Class/getName()
+java/lang/String/substring(int,int)
+java/lang/Object/getClass()

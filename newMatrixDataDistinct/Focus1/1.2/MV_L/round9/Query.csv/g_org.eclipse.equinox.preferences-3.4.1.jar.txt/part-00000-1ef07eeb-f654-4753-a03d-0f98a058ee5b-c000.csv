@@ -1,0 +1,4 @@
+java/util/Properties/isEmpty()
+java/lang/String/valueOf(char)
+org/osgi/service/prefs/BackingStoreException/getMessage()
+java/util/Properties/put(java.lang.Object,java.lang.Object)

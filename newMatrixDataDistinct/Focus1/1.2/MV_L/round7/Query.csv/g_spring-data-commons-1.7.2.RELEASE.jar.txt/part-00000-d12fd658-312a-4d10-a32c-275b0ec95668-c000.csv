@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String)
+java/util/ArrayList/ArrayList()
+org/springframework/beans/factory/parsing/BeanComponentDefinition/BeanComponentDefinition(org.springframework.beans.factory.config.BeanDefinition,java.lang.String)
+org/springframework/beans/factory/support/BeanDefinitionBuilder/getBeanDefinition()

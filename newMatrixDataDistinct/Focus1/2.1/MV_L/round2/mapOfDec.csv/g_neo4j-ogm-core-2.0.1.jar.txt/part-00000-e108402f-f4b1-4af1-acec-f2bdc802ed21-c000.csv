@@ -1,0 +1,5 @@
+org/neo4j/ogm/metadata/ClassUtils/getType(java.lang.String)@g_neo4j-ogm-1.1.2.jar.txt	3
+org/neo4j/ogm/metadata/ClassUtils/getUniqueClasspathElements(java.util.List)@g_neo4j-ogm-1.1.2.jar.txt	2
+org/neo4j/ogm/session/response/GraphRowModelResponse/next()@g_neo4j-ogm-1.1.2.jar.txt	1
+org/neo4j/ogm/metadata/info/ClassInfo/findIterableFields(java.lang.Class)@g_neo4j-ogm-1.1.2.jar.txt	4
+org/neo4j/ogm/metadata/ClassPathScanner/scan(java.util.List,org.neo4j.ogm.metadata.info.ClassFileProcessor)@g_neo4j-ogm-1.1.2.jar.txt	0

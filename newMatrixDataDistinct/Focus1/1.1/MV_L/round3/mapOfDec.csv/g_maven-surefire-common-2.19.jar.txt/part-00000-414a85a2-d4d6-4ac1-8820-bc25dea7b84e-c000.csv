@@ -1,0 +1,5 @@
+org/apache/maven/shared/utils/StringUtils/swapCase(java.lang.String)@g_maven-shared-utils-0.1.jar.txt	0
+org/apache/maven/shared/utils/StringUtils/mid(java.lang.String,int,int)@g_maven-shared-utils-0.1.jar.txt	1
+org/apache/maven/shared/utils/StringUtils/unifyLineSeparators(java.lang.String,java.lang.String)@g_maven-shared-utils-0.1.jar.txt	2
+org/apache/maven/shared/utils/io/FileUtils/loadFile(java.io.File)@g_maven-shared-utils-0.1.jar.txt	4
+org/apache/maven/shared/utils/io/FileUtils/toFile(java.net.URL)@g_maven-shared-utils-0.1.jar.txt	3

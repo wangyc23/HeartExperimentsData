@@ -1,0 +1,5 @@
+io/selendroid/standalone/server/model/SelendroidStandaloneDriverTest/shouldCreateNewTestSession()@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+org/jboss/as/quickstarts/kitchensink/spring/matrixvariables/controller/MemberController/filteredMembers(java.lang.String,java.lang.String)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+io/selendroid/standalone/server/model/SelendroidStandaloneDriverFixture/getSelendroidStandaloneDriver(io.selendroid.standalone.builder.SelendroidServerBuilder)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+io/selendroid/server/model/Factories/set(io.selendroid.server.model.PredicatesFactory)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3

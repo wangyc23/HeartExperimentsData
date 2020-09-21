@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/framework/OSGiFrameworkHooks/CoreResolverHookFactory/CoreResolverHook/filterResolvable(java.util.Collection)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/closeOutputFile(java.util.zip.Checksum)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	0
+org/sat4j/reader/JSONReader/handleCard(java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2
+org/eclipse/osgi/internal/location/BasicLocation/set(java.net.URL,boolean,java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	1
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistry/getServiceReferences(org.eclipse.osgi.internal.framework.BundleContextImpl,java.lang.String,java.lang.String,boolean)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4

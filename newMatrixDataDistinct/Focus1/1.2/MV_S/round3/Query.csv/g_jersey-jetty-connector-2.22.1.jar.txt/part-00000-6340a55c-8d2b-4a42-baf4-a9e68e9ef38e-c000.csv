@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+org/glassfish/jersey/client/ClientRequest/resolveProperty(java.lang.String,java.lang.Object)
+java/util/Map/get(java.lang.Object)
+org/glassfish/jersey/client/ClientRequest/getConfiguration()

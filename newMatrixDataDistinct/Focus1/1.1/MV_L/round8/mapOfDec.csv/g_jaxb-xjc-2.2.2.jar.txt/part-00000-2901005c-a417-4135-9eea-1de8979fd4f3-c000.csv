@@ -1,0 +1,5 @@
+com/sun/xml/dtdparser/XmlReader/useEncodingDecl(java.io.PushbackInputStream,java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	0
+com/sun/xml/xsom/impl/util/SchemaWriter/attributeUse(com.sun.xml.xsom.XSAttributeUse)@g_jaxb-xjc-2.2.6.jar.txt	3
+org/relaxng/datatype/helpers/DatatypeLibraryLoader/Service/parseConfigFile(java.net.URL)@g_jaxb-xjc-2.2.6.jar.txt	1
+com/sun/tools/jxc/model/nav/ApNavigator/getSuperClass(javax.lang.model.element.TypeElement)@g_jaxb-xjc-2.2.6.jar.txt	2
+com/sun/tools/jxc/apt/InlineAnnotationReaderImpl/getClassValue(java.lang.annotation.Annotation,java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/search/spell/SpellChecker/suggestSimilar(java.lang.String,int,org.apache.lucene.index.IndexReader,java.lang.String,org.apache.lucene.search.spell.SuggestMode,float)@g_lucene-suggest-6.4.1.jar.txt	4
+org/apache/lucene/search/suggest/analyzing/AnalyzingInfixSuggester/lookup(java.lang.CharSequence,org.apache.lucene.search.BooleanQuery,int,boolean,boolean)@g_lucene-suggest-6.4.1.jar.txt	0
+org/apache/lucene/search/suggest/analyzing/AnalyzingInfixSuggester/toQuery(java.util.Map)@g_lucene-suggest-6.4.1.jar.txt	3
+org/apache/lucene/payloads/PayloadSpanUtil/queryToSpanQuery(org.apache.lucene.search.Query,java.util.Collection)@g_lucene-sandbox-6.0.0.jar.txt	2

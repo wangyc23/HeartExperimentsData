@@ -1,0 +1,5 @@
+org/eclipse/jetty/websocket/api/util/WSURI/toHttp(java.net.URI)@g_org.eclipse.equinox.common-3.8.0.jar.txt	3
+org/eclipse/jetty/websocket/api/util/WSURI/toWebsocket(java.net.URI)@g_org.eclipse.equinox.common-3.8.0.jar.txt	4
+org/eclipse/core/internal/boot/PlatformURLConnection/debug(java.lang.String)@g_org.eclipse.equinox.common-3.8.0.jar.txt	0
+org/eclipse/core/internal/boot/PlatformURLConnection/copyToCache()@g_org.eclipse.equinox.common-3.8.0.jar.txt	1
+org/eclipse/core/internal/runtime/FindSupport/find(java.net.URL)@g_org.eclipse.equinox.common-3.8.0.jar.txt	2

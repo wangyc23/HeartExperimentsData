@@ -1,0 +1,5 @@
+org/commoncrawl/examples/mapreduce/WETWordCount/run(java.lang.String[])@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	3
+ca/ulaval/ift/graal/pagerank/drivers/PagerankMRDriver/runTopKJob(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	2
+org/commoncrawl/examples/mapreduce/WARCTagCounter/run(java.lang.String[])@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	4
+ca/ulaval/ift/graal/pagerank/drivers/PagerankMRDriver/runPagerankIterationJob(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	1
+ca/ulaval/ift/graal/pagerank/drivers/PagerankMRDriver/runParseUrlJob(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	0

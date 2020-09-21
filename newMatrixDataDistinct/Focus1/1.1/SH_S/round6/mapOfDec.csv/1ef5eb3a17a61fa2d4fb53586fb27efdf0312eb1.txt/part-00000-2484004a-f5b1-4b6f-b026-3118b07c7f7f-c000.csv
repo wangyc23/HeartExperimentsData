@@ -1,0 +1,5 @@
+au/com/ibm/bluecoin/service/impl/UserSvc/delete(au.com.ibm.bluecoin.model.relational.AppUser)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	4
+au/com/ibm/bluecoin/service/ApplicationConfig/networkServiceStarter()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	0
+com/nikolas/wicketsecurity/business/security/boundary/SecurityService/createUser(java.lang.String,java.lang.String,java.util.List)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	3
+au/com/ibm/bluecoin/service/NetworkServiceStarter/preDestroy()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	2
+au/com/ibm/bluecoin/web/forms/NavigationBean/appuserlist()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	1

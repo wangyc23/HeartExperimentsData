@@ -1,0 +1,5 @@
+org/xwiki/gwt/wysiwyg/client/WysiwygEditorTabSwitchHandler/onBeforeSelection(com.google.gwt.event.logical.shared.BeforeSelectionEvent)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	4
+aQute/lib/osgi/Verifier/verifyInvalidImports()@g_xwiki-platform-gwt-api-7.4.2.jar.txt	3
+org/xwiki/gwt/wysiwyg/client/plugin/style/exec/BlockStyleNameExecutable/getStyleNames(com.google.gwt.dom.client.Node)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	2
+aQute/lib/osgi/Analyzer/calculateExportsFromContents(aQute.lib.osgi.Jar)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	1
+aQute/lib/osgi/Jar/createDirectories(java.util.Set,java.util.jar.JarOutputStream,java.lang.String)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	0

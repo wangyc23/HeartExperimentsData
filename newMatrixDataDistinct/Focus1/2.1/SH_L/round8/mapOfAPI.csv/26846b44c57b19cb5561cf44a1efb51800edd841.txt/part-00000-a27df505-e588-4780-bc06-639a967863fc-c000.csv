@@ -1,0 +1,5 @@
+0	javax/crypto/KeyGenerator/init(int)
+1	javax/crypto/KeyGenerator/generateKey()
+2	javax/crypto/spec/SecretKeySpec/SecretKeySpec(byte[],java.lang.String)
+3	javax/crypto/KeyGenerator/getInstance(java.lang.String)
+4	java/security/Key/getEncoded()

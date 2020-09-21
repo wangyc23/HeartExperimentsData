@@ -1,0 +1,4 @@
+org/springframework/beans/factory/config/ConfigurableListableBeanFactory/getBeanPostProcessorCount()
+java/util/Iterator/hasNext()
+org/springframework/beans/factory/config/ConfigurableListableBeanFactory/getBeanNamesForType(java.lang.Class,boolean,boolean)
+org/springframework/core/OrderComparator/sort(java.util.List)

@@ -1,0 +1,5 @@
+com/mongodb/util/JSONSerializers/addCommonSerializers()@g_mongo-java-driver-3.4.2.jar.txt	4
+org/bson/BsonBinaryReader/readBsonType()@g_mongo-java-driver-3.4.2.jar.txt	2
+com/mongodb/client/model/Sorts/CompoundSort/toBsonDocument(java.lang.Class,org.bson.codecs.configuration.CodecRegistry)@g_mongo-java-driver-3.4.2.jar.txt	0
+com/mongodb/DBCollection/createWriteConcernException(com.mongodb.MongoWriteConcernException)@g_mongo-java-driver-3.4.2.jar.txt	3
+com/mongodb/ConnectionString/parseOptions(java.lang.String)@g_mongo-java-driver-3.4.2.jar.txt	1

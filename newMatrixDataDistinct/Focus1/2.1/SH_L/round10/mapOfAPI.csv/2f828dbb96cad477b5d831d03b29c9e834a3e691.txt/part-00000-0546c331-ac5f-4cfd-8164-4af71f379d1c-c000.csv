@@ -1,0 +1,2 @@
+0	java/lang/String/split(java.lang.String)
+1	at/mfpjn/workflow/dao/LoggingDao/insertLog(at.mfpjn.workflow.model.Logging)

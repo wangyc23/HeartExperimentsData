@@ -1,0 +1,5 @@
+org/apache/tools/ant/XmlLogger/taskStarted(org.apache.tools.ant.BuildEvent)@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/XmlLogger/buildFinished(org.apache.tools.ant.BuildEvent)@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/XmlLogger/targetStarted(org.apache.tools.ant.BuildEvent)@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/XmlLogger/taskFinished(org.apache.tools.ant.BuildEvent)@g_ant-1.6.5.jar.txt	2
+org/xmlpull/v1/dom2_builder/DOM2XmlPullBuilder/BuildProcess/parseSubTree()@g_xpp3-1.1.4c.jar.txt	1

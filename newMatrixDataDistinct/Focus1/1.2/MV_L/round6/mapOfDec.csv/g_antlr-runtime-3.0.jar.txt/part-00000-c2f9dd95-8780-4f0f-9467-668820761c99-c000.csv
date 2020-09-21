@@ -1,0 +1,5 @@
+org/antlr/runtime/TokenRewriteStream/reduceToSingleOperationPerIndex(java.util.List)@g_antlr-runtime-3.4.jar.txt	2
+org/antlr/runtime/tree/BufferedTreeNodeStream/toString(java.lang.Object,java.lang.Object)@g_antlr-runtime-3.2.jar.txt	0
+org/antlr/runtime/tree/BufferedTreeNodeStream/toString(java.lang.Object,java.lang.Object)@g_antlr-runtime-3.4.jar.txt	1
+org/antlr/runtime/TokenRewriteStream/toString(java.lang.String,int,int)@g_antlr-runtime-3.2.jar.txt	4
+org/antlr/runtime/TokenRewriteStream/reduceToSingleOperationPerIndex(java.util.List)@g_antlr-runtime-3.2.jar.txt	3

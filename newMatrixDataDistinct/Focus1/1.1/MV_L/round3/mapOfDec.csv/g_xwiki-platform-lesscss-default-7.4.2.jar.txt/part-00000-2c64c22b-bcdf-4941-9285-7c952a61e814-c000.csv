@@ -1,0 +1,5 @@
+org/xwiki/wiki/internal/descriptor/builder/DefaultWikiDescriptorBuilder/buildDescriptorObject(java.util.List,com.xpn.xwiki.doc.XWikiDocument)@g_xwiki-platform-wiki-default-7.0.jar.txt	2
+org/xwiki/wiki/internal/descriptor/DefaultWikiDescriptorManager/getAllIds()@g_xwiki-platform-wiki-default-7.0.jar.txt	1
+org/xwiki/panels/internal/PanelWikiUIExtensionComponentBuilder/buildComponents(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-wiki-default-7.0.jar.txt	3
+org/xwiki/lesscss/internal/compiler/CachedLESSCompiler/compute(org.xwiki.lesscss.resources.LESSResourceReference,boolean,boolean,boolean,java.lang.String)@g_xwiki-platform-wiki-default-7.0.jar.txt	4
+org/xwiki/wiki/internal/descriptor/migrator/WikiDescriptorMigrator/fixDocument(java.lang.String)@g_xwiki-platform-wiki-default-7.0.jar.txt	0

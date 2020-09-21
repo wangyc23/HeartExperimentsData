@@ -1,0 +1,5 @@
+org/hibernate/cfg/HbmBinder/bindSimpleValueType(org.dom4j.Element,org.hibernate.mapping.SimpleValue,org.hibernate.cfg.Mappings)@g_hibernate-core-4.3.6.Final.jar.txt	0
+org/hibernate/action/internal/EntityDeleteAction/postCommitDelete(boolean)@g_hibernate-core-4.3.6.Final.jar.txt	3
+org/hibernate/hql/spi/PersistentTableBulkIdStrategy/release(org.hibernate.engine.jdbc.spi.JdbcServices,org.hibernate.engine.jdbc.spi.JdbcConnectionAccess)@g_hibernate-core-4.3.6.Final.jar.txt	2
+org/hibernate/cfg/AnnotationBinder/processIdPropertiesIfNotAlready(java.util.Map,org.hibernate.cfg.Mappings,org.hibernate.mapping.PersistentClass,org.hibernate.cfg.annotations.EntityBinder,org.hibernate.cfg.PropertyHolder,java.util.HashMap,org.hibernate.cfg.InheritanceState$ElementsToProcess,boolean,java.util.Set)@g_hibernate-core-4.3.6.Final.jar.txt	4
+org/hibernate/mapping/Set/createPrimaryKey()@g_hibernate-core-4.3.6.Final.jar.txt	1

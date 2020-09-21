@@ -1,0 +1,1 @@
+com/rabbitmq/client/Channel/basicPublish(java.lang.String,java.lang.String,com.rabbitmq.client.AMQP.BasicProperties,byte[])

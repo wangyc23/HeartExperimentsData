@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/InstallMojo/installProjectArtifacts(org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-invoker-plugin-2.0.0.jar.txt	3
+org/apache/maven/plugin/dependency/fromDependencies/CopyDependenciesMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getInvokerProperties(java.io.File)@g_maven-invoker-plugin-2.0.0.jar.txt	2
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/runBuild(java.io.File,java.io.File,java.io.File,java.io.File,org.apache.maven.plugin.invoker.InvokerProperties)@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/cloneProjects(java.util.Collection)@g_maven-invoker-plugin-2.0.0.jar.txt	1

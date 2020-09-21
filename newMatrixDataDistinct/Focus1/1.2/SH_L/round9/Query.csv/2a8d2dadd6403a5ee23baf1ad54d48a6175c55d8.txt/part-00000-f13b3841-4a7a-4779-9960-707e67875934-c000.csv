@@ -1,0 +1,4 @@
+org/danielli/xultimate/core/serializer/protostuff/util/LinkedBufferUtils/getCurrentLinkedBuffer(int)
+java/util/List/add(E)
+org/danielli/xultimate/core/io/support/RpcProtobufObjectOutput/RpcProtobufObjectOutput(int,org.danielli.xultimate.core.serializer.LinkedBuffer,org.danielli.xultimate.core.io.support.Kryo)
+org/danielli/xultimate/core/io/support/RpcProtobufObjectOutput/writeObject(java.lang.Object)

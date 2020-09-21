@@ -1,0 +1,5 @@
+org/springframework/web/context/support/ServletContextResourcePatternResolver/doRetrieveMatchingJarEntries(java.lang.String,java.lang.String,java.util.Set)@g_spring-security-acl-4.0.1.RELEASE.jar.txt	1
+org/springframework/web/util/HierarchicalUriComponents/verifyUriComponent(java.lang.String,org.springframework.web.util.HierarchicalUriComponents$Type)@g_spring-security-acl-4.0.1.RELEASE.jar.txt	0
+org/springframework/web/util/HierarchicalUriComponents/expandInternal(org.springframework.web.util.UriComponents$UriTemplateVariables)@g_spring-security-acl-4.0.1.RELEASE.jar.txt	2
+org/springframework/web/jsf/el/WebApplicationContextFacesELResolver/getType(javax.el.ELContext,java.lang.Object,java.lang.Object)@g_spring-security-acl-4.0.1.RELEASE.jar.txt	3
+org/springframework/http/server/ServletServerHttpRequest/getURI()@g_spring-security-acl-4.0.1.RELEASE.jar.txt	4

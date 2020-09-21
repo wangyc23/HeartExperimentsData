@@ -1,0 +1,4 @@
+org/jboss/forge/spec/javaee/jpa/api/JPADataSource/hasJdbcConnectionInfo()
+org/jboss/shrinkwrap/descriptor/api/spec/jpa/persistence/PersistenceUnitDef/jtaDataSource(java.lang.String)
+org/jboss/forge/spec/javaee/jpa/api/JPADataSource/getJndiDataSource()
+org/jboss/forge/shell/ShellMessages/info(org.jboss.forge.shell.ShellPrintWriter,java.lang.String)

@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BlockingBuffer/get(long)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BlockingBuffer/remove()@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BlockingBuffer/get()@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BlockingBuffer/remove(long)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BoundedBuffer/timeoutWait(int)@g_attributes-processor-1.0.1.jar.txt	4

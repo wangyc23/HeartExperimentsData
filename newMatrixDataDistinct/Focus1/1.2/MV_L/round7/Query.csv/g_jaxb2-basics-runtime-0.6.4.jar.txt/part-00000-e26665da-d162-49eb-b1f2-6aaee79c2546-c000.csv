@@ -1,0 +1,4 @@
+com/sun/xml/bind/v2/model/core/Element/getElementName()
+java/util/ArrayList/ArrayList()
+com/sun/xml/bind/v2/model/core/ReferencePropertyInfo/isCollection()
+com/sun/xml/bind/v2/model/core/ReferencePropertyInfo/isMixed()

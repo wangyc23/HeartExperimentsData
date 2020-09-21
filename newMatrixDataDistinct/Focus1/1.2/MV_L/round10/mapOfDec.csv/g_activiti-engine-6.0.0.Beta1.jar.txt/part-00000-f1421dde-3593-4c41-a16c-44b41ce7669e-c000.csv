@@ -1,0 +1,5 @@
+org/activiti/engine/impl/juel/NumberOperations/neg(org.activiti.engine.impl.juel.TypeConverter,java.lang.Object)@g_activiti-engine-5.17.0.jar.txt	0
+org/activiti/engine/impl/pvm/runtime/AtomicOperationTransitionNotifyListenerTake/execute(org.activiti.engine.impl.pvm.runtime.InterpretableExecution)@g_activiti-engine-5.17.0.jar.txt	2
+org/activiti/engine/impl/calendar/CronExpression/getTimeAfter(java.util.Calendar)@g_activiti-engine-5.17.0.jar.txt	3
+org/activiti/engine/impl/juel/NumberOperations/neg(org.activiti.engine.impl.juel.TypeConverter,java.lang.Object)@g_activiti-engine-5.16.4.jar.txt	1
+org/activiti/engine/impl/bpmn/behavior/ParallelMultiInstanceBehavior/leave(org.activiti.engine.impl.pvm.delegate.ActivityExecution)@g_activiti-engine-5.17.0.jar.txt	4

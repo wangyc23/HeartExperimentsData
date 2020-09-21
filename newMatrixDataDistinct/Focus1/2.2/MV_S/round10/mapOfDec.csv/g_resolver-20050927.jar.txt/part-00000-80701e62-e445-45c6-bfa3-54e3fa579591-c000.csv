@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/ExecuteOn/getCommandline(java.lang.String[],java.io.File[])@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/DependSet/execute()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/util/ResourceUtils/selectOutOfDateSources(org.apache.tools.ant.ProjectComponent,org.apache.tools.ant.types.Resource[],org.apache.tools.ant.util.FileNameMapper,org.apache.tools.ant.types.ResourceFactory,long)@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/taskdefs/Javadoc/execute()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/AntStructure/printElementDecl(java.io.PrintWriter,java.lang.String,java.lang.Class)@g_ant-1.6.5.jar.txt	3

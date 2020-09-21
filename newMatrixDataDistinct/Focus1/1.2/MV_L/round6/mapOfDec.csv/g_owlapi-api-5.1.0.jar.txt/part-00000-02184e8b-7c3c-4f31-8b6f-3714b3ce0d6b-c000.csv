@@ -1,0 +1,5 @@
+org/coode/owlapi/rdf/rdfxml/RDFXMLNamespaceManager/getEntitiesThatRequireNamespaces()@g_skos-api-3.1.jar.txt	4
+org/semanticweb/owlapi/util/AnnotationValueShortFormProvider/getShortForm(org.semanticweb.owlapi.model.OWLEntity)@g_owlapi-distribution-5.1.0.jar.txt	1
+org/semanticweb/owlapi/util/PropertyAssertionValueShortFormProvider/getShortForm(org.semanticweb.owlapi.model.OWLEntity)@g_owlapi-distribution-5.1.0.jar.txt	0
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/getObjectPropertyValues(org.semanticweb.owlapi.model.OWLNamedIndividual,org.semanticweb.owlapi.model.OWLObjectPropertyExpression)@g_skos-api-3.1.jar.txt	3
+uk/ac/manchester/cs/skos/SKOSDatasetImpl/getSKOSObjectRelationAssertions(org.semanticweb.skos.SKOSEntity)@g_skos-api-3.1.jar.txt	2

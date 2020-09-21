@@ -1,0 +1,4 @@
+org/apache/maven/surefire/util/TestsToRun/iterator()
+java/util/Iterator/hasNext()
+org/apache/maven/surefire/providerapi/ProviderParameters/getReporterFactory()
+java/lang/System/getProperty(java.lang.String)

@@ -1,0 +1,5 @@
+org/springframework/cloud/netflix/zuul/filters/ProxyRequestHelper/buildZuulRequestQueryParams(javax.servlet.http.HttpServletRequest)@g_spring-cloud-netflix-core-1.0.2.RELEASE.jar.txt	1
+org/springframework/cloud/netflix/zuul/filters/ProxyRouteLocator/addConfiguredRoutes(java.util.Map)@g_spring-cloud-netflix-core-1.0.2.RELEASE.jar.txt	2
+org/springframework/cloud/netflix/zuul/filters/ProxyRouteLocator/getRoutes()@g_spring-cloud-netflix-core-1.0.2.RELEASE.jar.txt	4
+org/springframework/cloud/netflix/hystrix/HystrixCircuitBreakerConfiguration/HystrixMetricsPollerConfiguration/addMetrics(java.util.Map,java.lang.String)@g_spring-cloud-netflix-core-1.1.0.BUILD-20151113.115659-165.jar.txt	0
+org/springframework/cloud/netflix/feign/support/SpringEncoder/encode(java.lang.Object,java.lang.reflect.Type,feign.RequestTemplate)@g_spring-cloud-netflix-core-1.0.2.RELEASE.jar.txt	3

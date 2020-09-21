@@ -1,0 +1,4 @@
+org/glassfish/hk2/utilities/cache/Cache$OriginThreadAwareFuture/access$100(org.glassfish.hk2.utilities.cache.Cache$OriginThreadAwareFuture)
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+java/util/concurrent/ConcurrentHashMap/putIfAbsent(java.lang.Object,java.lang.Object)
+java/lang/Thread/currentThread()

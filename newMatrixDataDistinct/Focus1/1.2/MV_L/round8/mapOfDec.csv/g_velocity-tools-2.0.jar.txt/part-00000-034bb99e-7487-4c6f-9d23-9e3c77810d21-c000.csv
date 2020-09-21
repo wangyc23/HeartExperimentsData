@@ -1,0 +1,5 @@
+org/apache/velocity/tools/view/UiDependencyTool/addDependencies(java.util.Map)@g_maven-plugin-api-2.2.1.jar.txt	2
+org/apache/velocity/tools/view/VelocityView/getProperties(java.lang.String,boolean)@g_maven-plugin-api-2.2.1.jar.txt	4
+org/apache/velocity/tools/generic/ClassTool/getTypes()@g_maven-plugin-api-2.2.1.jar.txt	3
+org/apache/velocity/tools/ClassUtils/getIterator(java.lang.Object)@g_maven-plugin-api-2.2.1.jar.txt	0
+org/apache/velocity/tools/config/EasyFactoryConfiguration/EasyWrap/tool(java.lang.String,java.lang.String)@g_maven-plugin-api-2.2.1.jar.txt	1

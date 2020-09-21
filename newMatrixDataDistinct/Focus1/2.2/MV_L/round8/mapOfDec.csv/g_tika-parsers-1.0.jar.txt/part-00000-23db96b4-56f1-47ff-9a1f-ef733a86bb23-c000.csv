@@ -1,0 +1,5 @@
+org/apache/tika/parser/microsoft/HSLFExtractor/parse(org.apache.poi.poifs.filesystem.DirectoryNode,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.2.jar.txt	2
+org/apache/tika/parser/image/MetadataFields/setKnownForClass(java.lang.Class)@g_tika-parsers-1.2.jar.txt	0
+org/apache/tika/parser/microsoft/HSLFExtractor/parse(org.apache.poi.poifs.filesystem.DirectoryNode,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.7.jar.txt	4
+org/apache/tika/parser/image/MetadataFields/setKnownForClass(java.lang.Class)@g_tika-parsers-1.7.jar.txt	1
+org/apache/tika/parser/mp3/Mp3Parser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.2.jar.txt	3

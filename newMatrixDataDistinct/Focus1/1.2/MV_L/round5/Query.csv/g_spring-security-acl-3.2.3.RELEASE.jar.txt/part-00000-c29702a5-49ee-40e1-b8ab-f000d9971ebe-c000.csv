@@ -1,0 +1,4 @@
+org/springframework/jdbc/core/JdbcTemplate/queryForLong(java.lang.String)
+java/util/List/isEmpty()
+org/springframework/util/Assert/isTrue(boolean,java.lang.String)
+org/springframework/jdbc/core/JdbcTemplate/update(java.lang.String,java.lang.Object[])

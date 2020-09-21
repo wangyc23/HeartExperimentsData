@@ -1,0 +1,5 @@
+edu/stanford/nlp/util/StringUtils/argsToProperties(java.lang.String[],java.util.Map)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/trees/EnglishGrammaticalStructure/collapsePrepAndPoss(java.util.Collection)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/trees/GrammaticalStructure/dependenciesToString(edu.stanford.nlp.trees.GrammaticalStructure,java.util.Collection,edu.stanford.nlp.trees.Tree,boolean,boolean)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/trees/TreePrint/toString(java.util.Collection,boolean,boolean)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/ExhaustivePCFGParser/extractBestParses(int,int,int)@g_stanford-parser-3.5.2.jar.txt	4

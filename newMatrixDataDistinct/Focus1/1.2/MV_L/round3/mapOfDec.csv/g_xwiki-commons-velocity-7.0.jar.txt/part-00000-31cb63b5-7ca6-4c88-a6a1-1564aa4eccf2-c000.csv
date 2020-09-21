@@ -1,0 +1,5 @@
+org/xwiki/velocity/internal/jmx/JMXVelocityEngine/getTemplates()@g_xwiki-commons-velocity-7.4.jar.txt	0
+org/xwiki/velocity/internal/jmx/JMXVelocityEngine/getTemplates()@g_xwiki-commons-velocity-7.4.2.jar.txt	3
+org/xwiki/velocity/tools/EscapeTool/url(java.util.Map)@g_xwiki-commons-velocity-7.4.jar.txt	1
+org/xwiki/velocity/internal/jmx/JMXVelocityEngine/getInternalTemplates()@g_xwiki-commons-velocity-7.4.jar.txt	2
+org/xwiki/velocity/tools/EscapeTool/url(java.util.Map)@g_xwiki-commons-velocity-7.4.2.jar.txt	4

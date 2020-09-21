@@ -1,0 +1,5 @@
+org/eclipse/core/internal/commands/util/Util/safeCopy(java.util.Map,java.lang.Class,java.lang.Class,boolean,boolean)@g_org.eclipse.core.commands-3.8.1.jar.txt	0
+org/eclipse/core/commands/ParameterizedCommand/expandParameters(int,org.eclipse.core.commands.IParameter[])@g_org.eclipse.core.commands-3.8.1.jar.txt	2
+javax/faces/FactoryFinder/releaseFactories()@g_javax.faces-api-2.2.jar.txt	4
+org/eclipse/core/commands/ParameterizedCommand/generateCommand(org.eclipse.core.commands.Command,java.util.Map)@g_org.eclipse.core.commands-3.8.1.jar.txt	1
+javax/faces/component/ComponentStateHelper/saveMap(javax.faces.context.FacesContext,java.util.Map)@g_javax.faces-api-2.2.jar.txt	3

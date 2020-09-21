@@ -1,0 +1,5 @@
+io/seldon/semvec/CompareItems/compareItem(java.lang.Long,pitt.search.semanticvectors.VectorStoreRAM,pitt.search.semanticvectors.FlagConfig,java.io.BufferedWriter)@g_semvec-lucene-tools-1.4.jar.txt	1
+io/seldon/util/GetAvgTermFreq/getDocAvgTermFreqs()@g_semvec-lucene-tools-1.4.jar.txt	0
+edu/cmu/lti/jawjaw/db/SenseDAO/findSensesBySynsetAndLang(java.lang.String,edu.cmu.lti.jawjaw.pobj.Lang)@g_jawjaw-0.1.0.jar.txt	4
+io/seldon/semvec/CompareItems/compare()@g_semvec-lucene-tools-1.4.jar.txt	3
+io/seldon/semvec/CreateLuceneIndexFromDb/updateComments(org.apache.lucene.search.IndexSearcher,org.apache.lucene.index.IndexWriter,int,boolean,java.io.BufferedWriter)@g_semvec-lucene-tools-1.4.jar.txt	2

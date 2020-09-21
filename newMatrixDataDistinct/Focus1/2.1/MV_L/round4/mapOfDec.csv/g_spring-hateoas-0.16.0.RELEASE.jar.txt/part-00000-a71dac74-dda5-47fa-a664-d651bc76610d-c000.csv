@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/deser/std/CollectionDeserializer/CollectionReferringAccumulator/resolveForwardReference(java.lang.Object,java.lang.Object)@g_spring-hateoas-0.19.0.RELEASE.jar.txt	2
+org/springframework/hateoas/hal/Jackson2HalModule/HalLinkListDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_spring-hateoas-0.19.0.RELEASE.jar.txt	1
+com/fasterxml/jackson/databind/deser/std/ArrayBlockingQueueDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext,java.util.Collection)@g_spring-hateoas-0.19.0.RELEASE.jar.txt	3
+org/springframework/hateoas/config/HypermediaSupportBeanDefinitionRegistrar/registerBeanDefinitions(org.springframework.core.type.AnnotationMetadata,org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-hateoas-0.19.0.RELEASE.jar.txt	0
+org/springframework/hateoas/UriTemplate/with(org.springframework.hateoas.TemplateVariables)@g_spring-hateoas-0.19.0.RELEASE.jar.txt	4

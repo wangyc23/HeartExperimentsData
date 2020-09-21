@@ -1,0 +1,5 @@
+org/apache/flume/sink/AbstractRpcSink/destroyConnection()@17806a9a04ba977e85316ad35f94850b10d0af96.txt	4
+org/apache/flume/clients/log4jappender/Log4jAppender/close()@17806a9a04ba977e85316ad35f94850b10d0af96.txt	2
+org/apache/flume/api/TestLoadBalancingRpcClient/testLbDefaultClientTwoHosts()@17806a9a04ba977e85316ad35f94850b10d0af96.txt	0
+org/apache/flume/api/TestLoadBalancingRpcClient/testCreatingLbClientSingleHost()@17806a9a04ba977e85316ad35f94850b10d0af96.txt	1
+org/apache/flume/api/TestLoadBalancingRpcClient/testTwoHostFailoverBatch()@17806a9a04ba977e85316ad35f94850b10d0af96.txt	3

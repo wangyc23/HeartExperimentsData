@@ -1,0 +1,5 @@
+org/apache/lucene/search/ChainedFilter/doChain(org.apache.lucene.util.OpenBitSetDISI,int,org.apache.lucene.search.DocIdSet)@g_lucene-sandbox-4.5.0.jar.txt	1
+org/apache/lucene/search/similar/MoreLikeThis/addTermFrequencies(java.io.Reader,java.util.Map,java.lang.String)@g_lucene-sandbox-4.5.0.jar.txt	0
+org/apache/lucene/search/BooleanFilter/getDocIdSet(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-4.5.0.jar.txt	2
+org/apache/lucene/sandbox/queries/DuplicateFilter/correctBits(org.apache.lucene.index.AtomicReader,org.apache.lucene.util.Bits)@g_lucene-sandbox-4.5.0.jar.txt	3
+org/apache/lucene/search/similar/MoreLikeThis/createQueue(java.util.Map)@g_lucene-sandbox-4.5.0.jar.txt	4

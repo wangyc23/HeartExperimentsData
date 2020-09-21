@@ -1,0 +1,5 @@
+org/springframework/web/bind/annotation/support/HandlerMethodResolver/init(java.lang.Class)@g_spring-web-3.0.5.RELEASE.jar.txt	0
+org/springframework/http/converter/FormHttpMessageConverter/writePart(java.lang.String,org.springframework.http.HttpEntity,java.io.OutputStream)@g_spring-web-3.0.5.RELEASE.jar.txt	3
+org/springframework/http/MediaType/compareTo(org.springframework.http.MediaType)@g_spring-web-3.0.5.RELEASE.jar.txt	4
+org/springframework/web/bind/annotation/support/HandlerMethodResolver/init(java.lang.Class)@g_spring-web-3.2.2.RELEASE.jar.txt	1
+org/springframework/web/method/HandlerMethodSelector/selectMethods(java.lang.Class,org.springframework.util.ReflectionUtils$MethodFilter)@g_spring-web-3.2.2.RELEASE.jar.txt	2

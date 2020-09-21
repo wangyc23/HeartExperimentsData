@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntax/keyword()
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl$ExceptionBuilder/withKeyword(org.semanticweb.owlapi.manchestersyntax.parser.ManchesterOWLSyntax[])
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl$ExceptionBuilder/withOnto()
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntax/matches(java.lang.String)

@@ -1,0 +1,4 @@
+org/isisaddons/wicket/svg/fixture/scripts/todo/SvgWicketToDoItemsFixture/SvgWicketToDoItemsFixture()
+org/apache/isis/applib/DomainObjectContainer/getUser()
+org/apache/isis/applib/AbstractContainedObject/getContainer()
+org/isisaddons/wicket/svg/fixture/scripts/SvgWicketAppTearDownFixture/SvgWicketAppTearDownFixture(java.lang.String)

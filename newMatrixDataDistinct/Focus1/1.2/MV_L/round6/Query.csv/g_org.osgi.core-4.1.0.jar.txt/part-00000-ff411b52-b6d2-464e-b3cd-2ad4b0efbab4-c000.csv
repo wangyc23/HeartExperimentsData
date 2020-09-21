@@ -1,0 +1,4 @@
+java/lang/reflect/InvocationTargetException/getTargetException()
+java/lang/StringBuffer/append(int)
+java/lang/StringBuffer/append(java.lang.String)
+java/lang/reflect/Method/invoke(java.lang.Object,java.lang.Object[])

@@ -1,0 +1,4 @@
+org/apache/crunch/test/TemporaryPath/copyResourceFile(java.lang.String)
+org/apache/crunch/io/At/avroFile(java.lang.String,org.apache.crunch.types.PType)
+org/apache/crunch/types/avro/Avros/generics(org.apache.crunch.types.avro.Schema)
+org/apache/crunch/io/At/avroFile(java.lang.String,java.lang.Class)

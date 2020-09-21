@@ -1,0 +1,5 @@
+org/aspectj/bridge/context/PinpointingMessageHandler/handleMessage(org.aspectj.bridge.IMessage)@g_aspectjweaver-1.8.5.jar.txt	1
+org/aspectj/bridge/MessageUtil/addExtraSourceLocations(org.aspectj.bridge.IMessage,java.lang.String)@g_aspectjweaver-1.8.5.jar.txt	3
+org/aspectj/apache/bcel/classfile/ConstantPool/lookupMethodref(java.lang.String,java.lang.String,java.lang.String)@g_aspectjweaver-1.8.4.jar.txt	4
+org/aspectj/bridge/MessageUtil/addExtraSourceLocations(org.aspectj.bridge.IMessage,java.lang.String)@g_aspectjweaver-1.8.4.jar.txt	2
+org/aspectj/bridge/context/PinpointingMessageHandler/handleMessage(org.aspectj.bridge.IMessage)@g_aspectjweaver-1.8.4.jar.txt	0

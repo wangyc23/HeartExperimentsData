@@ -1,0 +1,5 @@
+com/github/dockerjava/core/TestDockerCmdExecFactory/createCommitCmdExec()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1
+com/github/dockerjava/core/command/ListImagesCmdImplTest/afterMethod(org.testng.ITestResult)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+com/github/dockerjava/core/TestDockerCmdExecFactory/createMetricContainerCmdExec()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0
+com/github/dockerjava/api/model/ExposedPort/Serializer/serialize(com.github.dockerjava.api.model.ExposedPort,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+com/github/dockerjava/core/CompressArchiveUtil/archiveTARFiles(java.io.File,java.lang.Iterable,java.lang.String)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3

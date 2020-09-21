@@ -1,0 +1,5 @@
+org/springframework/security/web/servletapi/HttpServlet3RequestFactory/Servlet3SecurityContextHolderAwareRequestWrapper/login(java.lang.String,java.lang.String)@g_spring-security-web-4.0.0.RELEASE.jar.txt	4
+org/springframework/security/web/session/HttpSessionEventPublisher/sessionCreated(javax.servlet.http.HttpSessionEvent)@g_spring-security-web-4.0.0.RELEASE.jar.txt	2
+org/springframework/security/web/authentication/SavedRequestAwareAuthenticationSuccessHandler/onAuthenticationSuccess(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.security.core.Authentication)@g_spring-security-web-4.1.0.RELEASE.jar.txt	1
+org/springframework/security/web/jaasapi/JaasApiIntegrationFilter/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain)@g_spring-security-web-4.0.0.RELEASE.jar.txt	3
+org/springframework/security/web/authentication/SavedRequestAwareAuthenticationSuccessHandler/onAuthenticationSuccess(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.security.core.Authentication)@g_spring-security-web-4.0.0.RELEASE.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/IllegalArgumentException/getMessage()
+java/lang/NullPointerException/getMessage()
+java/lang/Class/getName()

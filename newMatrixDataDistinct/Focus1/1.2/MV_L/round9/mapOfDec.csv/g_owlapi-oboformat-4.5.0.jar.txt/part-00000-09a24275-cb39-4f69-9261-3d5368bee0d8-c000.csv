@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLClass)@g_owlapi-distribution-4.5.0.jar.txt	1
+org/semanticweb/owlapi/profiles/OWL2ELProfile/OWL2ELProfileObjectVisitor/visit(org.semanticweb.owlapi.model.OWLSubPropertyChainOfAxiom)@g_owlapi-distribution-4.5.0.jar.txt	3
+org/semanticweb/owlapi/rdf/RDFRendererBase/1/visit(org.semanticweb.owlapi.model.OWLClass)@g_owlapi-distribution-4.5.0.jar.txt	0
+org/semanticweb/owlapi/rdf/RDFRendererBase/1/visit(org.semanticweb.owlapi.model.OWLNamedIndividual)@g_owlapi-distribution-4.5.0.jar.txt	4
+org/obolibrary/macro/ManchesterSyntaxTool/AdvancedEntityChecker/getOWLClass(org.semanticweb.owlapi.model.IRI)@g_owlapi-oboformat-5.1.0.jar.txt	2

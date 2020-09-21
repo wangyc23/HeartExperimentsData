@@ -1,0 +1,5 @@
+org/linkeddata/triplegeo/Configuration/wrtieFile(java.lang.String,java.lang.String)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	3
+org/opencloudb/parser/util/ParseUtil/parseAlias(java.lang.String,int)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	4
+org/opencloudb/mysql/StreamUtil/readFloat(java.io.InputStream)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	2
+org/opencloudb/backend/ConMap/getActiveCountForSchema(java.lang.String,org.opencloudb.backend.PhysicalDatasource)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	0
+org/opencloudb/net/FrontendConnection/stmtPrepare(byte[])@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	1

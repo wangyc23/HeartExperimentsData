@@ -1,0 +1,5 @@
+org/jaggeryjs/integration/common/utils/ServiceDeploymentUtil/isWSDLAvailable(java.lang.String)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0
+demo/oauth/client/controllers/AuthorizeResourceOwnerController/handleRequest(demo.oauth.client.model.OAuthParams,demo.oauth.client.controllers.HttpServletResponse)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+demo/jaxrs/client/WebSocketTestClient/makeString(byte[],int,int)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+demo/oauth/server/spring/AuthenticationFailureHandler/onAuthenticationFailure(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse,demo.oauth.server.spring.AuthenticationException)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4

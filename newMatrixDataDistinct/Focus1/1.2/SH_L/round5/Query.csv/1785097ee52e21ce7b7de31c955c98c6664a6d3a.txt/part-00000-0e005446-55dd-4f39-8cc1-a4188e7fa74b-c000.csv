@@ -1,0 +1,4 @@
+com/pangratz/derstandardatcomments/model/ForumEntry/getPosting()
+com/pangratz/derstandardatcomments/model/ForumEntry/getHeader()
+java/net/URL/openStream()
+com/pangratz/derstandardatcomments/model/Rating/getUnnecessary()

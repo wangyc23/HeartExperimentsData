@@ -1,0 +1,4 @@
+com/github/fishio/multiplayer/server/FishServerHandler/handleClientUpdate(com.github.fishio.multiplayer.client.FishClientPlayerFishMessage)
+com/github/fishio/logging/Log/getLogger()
+java/lang/Object/getClass()
+com/github/fishio/multiplayer/server/FishServerHandler/handlePlayerRequest(com.github.fishio.multiplayer.client.FishClientRequestPlayerMessage,com.github.fishio.multiplayer.client.ChannelHandlerContext)

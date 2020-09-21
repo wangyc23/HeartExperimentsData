@@ -1,0 +1,5 @@
+org/apache/commons/logging/LogFactory/implementsLogFactory(java.lang.Class)@g_commons-logging-1.1.1.jar.txt	4
+org/apache/commons/logging/impl/WeakHashtable/entrySet()@g_commons-logging-1.1.1.jar.txt	3
+org/apache/commons/logging/impl/LogFactoryImpl/handleFlawedHierarchy(java.lang.ClassLoader,java.lang.Class)@g_commons-logging-1.1.1.jar.txt	2
+org/apache/commons/logging/LogFactory/createFactory(java.lang.String,java.lang.ClassLoader)@g_org.apache.commons.logging_1.1.1.v201101211721.jar.txt	1
+org/apache/commons/logging/LogFactory/createFactory(java.lang.String,java.lang.ClassLoader)@g_commons-logging-1.1.1.jar.txt	0

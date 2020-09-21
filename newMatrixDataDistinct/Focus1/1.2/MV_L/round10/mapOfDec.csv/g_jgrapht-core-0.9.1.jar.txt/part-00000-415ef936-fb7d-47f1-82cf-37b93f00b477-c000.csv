@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/bhig/util/MutableTree/dump(java.io.PrintWriter,int)@g_skos-api-3.1.jar.txt	4
+org/semanticweb/owlapi/util/ImportsStructureObjectSorter/getObjects()@g_skos-api-3.1.jar.txt	3
+uk/ac/manchester/cs/owl/owlapi/OWLSameIndividualAxiomImpl/asOWLSubClassOfAxioms()@g_skos-api-3.1.jar.txt	1
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/getEquivalentObjectProperties(java.util.Set)@g_skos-api-3.1.jar.txt	0
+org/coode/owlapi/obo/renderer/OBOFlatFileRenderer/writeTypeDefStanza(org.semanticweb.owlapi.model.OWLObjectProperty,org.semanticweb.owlapi.model.OWLOntology,java.io.Writer)@g_skos-api-3.1.jar.txt	2

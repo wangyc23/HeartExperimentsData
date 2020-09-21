@@ -1,0 +1,5 @@
+org/hibernate/ejb/EventListenerConfigurator/configure()@g_hibernate-entitymanager-3.5.5-Final.jar.txt	3
+org/hibernate/ejb/AbstractQueryImpl/setHint(java.lang.String,java.lang.Object)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	4
+org/hibernate/ejb/packaging/NativeScanner/getFilesInJar(java.net.URL,java.util.Set)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	2
+org/hibernate/ejb/QueryImpl/getParameter(java.lang.String)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	1
+org/hibernate/ejb/QueryImpl/getParameter(int)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	0

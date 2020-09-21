@@ -1,0 +1,4 @@
+java/io/File/File(java.io.File,java.lang.String)
+java/io/File/isDirectory()
+java/lang/String/length()
+java/util/LinkedList/add(java.lang.Object)

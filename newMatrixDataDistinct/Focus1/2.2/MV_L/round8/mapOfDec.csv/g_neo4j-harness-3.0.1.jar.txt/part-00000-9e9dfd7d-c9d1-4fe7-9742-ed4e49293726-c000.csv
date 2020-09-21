@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/traversal/TreeGraphTest/relationshipsIteratorReturnAllNodes()@g_neo4j-kernel-3.0.1-tests.jar.txt	2
+org/neo4j/unsafe/impl/batchimport/input/csv/InputGroupsDeserializerTest/1/entityDeserializer(org.neo4j.csv.reader.CharSeeker,org.neo4j.unsafe.impl.batchimport.input.csv.Header,java.util.function.Function)@g_neo4j-kernel-3.0.1-tests.jar.txt	4
+org/neo4j/kernel/impl/core/TestProperties/loadManyProperties()@g_neo4j-kernel-3.0.1-tests.jar.txt	0
+org/neo4j/kernel/impl/store/RecordStoreConsistentReadTest/PropertyStoreConsistentReadTest/assertPropertyBlocksEqual(int,org.neo4j.kernel.impl.store.record.PropertyBlock,org.neo4j.kernel.impl.store.record.PropertyBlock)@g_neo4j-kernel-3.0.1-tests.jar.txt	3
+org/neo4j/kernel/impl/store/TestPropertyBlocks/testAdditionHappensInTheMiddleIfItFits()@g_neo4j-kernel-3.0.1-tests.jar.txt	1

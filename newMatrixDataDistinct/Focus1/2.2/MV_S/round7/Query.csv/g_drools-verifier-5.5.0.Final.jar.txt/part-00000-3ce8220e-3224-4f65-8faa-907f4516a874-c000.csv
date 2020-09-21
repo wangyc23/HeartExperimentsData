@@ -1,0 +1,4 @@
+org/drools/runtime/rule/Activation/getRule()
+java/util/Iterator/hasNext()
+java/lang/String/trim()
+java/util/Iterator/next()

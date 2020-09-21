@@ -1,0 +1,4 @@
+java/lang/String/toUpperCase()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/isEnum()
+java/lang/StringBuilder/append(java.lang.Object)

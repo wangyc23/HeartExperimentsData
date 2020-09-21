@@ -1,0 +1,4 @@
+org/apache/jena/vocabulary/RDFS$Init/comment()
+org/apache/jena/vocabulary/RDFS$Init/Resource()
+org/apache/jena/rdf/model/Resource/asNode()
+org/apache/jena/vocabulary/RDFS$Init/Literal()

@@ -1,0 +1,5 @@
+org/springframework/boot/maven/RepackageMojo/execute()@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	4
+org/springframework/boot/maven/HelpMojo/execute()@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	3
+org/springframework/boot/maven/StartMojo/runWithMavenJvm(java.lang.String,java.lang.String[])@g_spring-boot-maven-plugin-1.3.0.BUILD-SNAPSHOT.jar.txt	1
+org/springframework/boot/maven/RepackageMojo/getTargetFile()@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	2
+org/springframework/boot/maven/StartMojo/runWithMavenJvm(java.lang.String,java.lang.String[])@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	0

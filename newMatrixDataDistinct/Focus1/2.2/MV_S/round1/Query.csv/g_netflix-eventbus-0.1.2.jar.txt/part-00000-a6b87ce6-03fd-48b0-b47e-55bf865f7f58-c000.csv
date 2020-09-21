@@ -1,0 +1,4 @@
+java/lang/Class/getInterfaces()
+java/util/List/remove(int)
+java/util/List/isEmpty()
+com/google/common/collect/Sets/newHashSet()

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.5.jar.txt	2
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handeWebAppSourceDirectory(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.5.jar.txt	1
+org/apache/maven/plugin/war/util/WebappStructureSerializer/toXml(org.apache.maven.plugin.war.util.WebappStructure,java.io.File)@g_maven-war-plugin-2.5.jar.txt	3
+org/apache/maven/plugin/war/AbstractWarMojo/getExcludes()@g_maven-war-plugin-2.5.jar.txt	0
+org/apache/maven/plugin/war/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-war-plugin-2.5.jar.txt	4

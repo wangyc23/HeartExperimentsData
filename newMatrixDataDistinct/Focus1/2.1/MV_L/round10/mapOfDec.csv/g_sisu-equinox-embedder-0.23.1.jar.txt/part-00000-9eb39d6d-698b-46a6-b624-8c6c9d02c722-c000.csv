@@ -1,0 +1,5 @@
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/tryActivateBundle(java.lang.String)@g_sisu-equinox-embedder-0.14.1.jar.txt	1
+org/apache/maven/shared/utils/io/DirectoryScanner/scandir(java.io.File,java.lang.String,boolean)@g_sisu-equinox-embedder-0.14.1.jar.txt	2
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/dispose()@g_sisu-equinox-embedder-0.14.1.jar.txt	0
+org/apache/maven/shared/utils/xml/XmlWriterUtil/writeComment(org.apache.maven.shared.utils.xml.XMLWriter,java.lang.String,int,int,int)@g_sisu-equinox-embedder-0.14.1.jar.txt	3
+org/apache/maven/shared/utils/PathTool/getRelativeFilePath(java.lang.String,java.lang.String)@g_sisu-equinox-embedder-0.14.1.jar.txt	4

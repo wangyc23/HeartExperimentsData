@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/MultiHashMap/readObject(java.io.ObjectInputStream)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/map/ListOrderedMap/toString()@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/FastHashMap/equals(java.lang.Object)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/functors/SwitchTransformer/getInstance(java.util.Map)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/attribute/BindableDescriptor/only(com.google.common.base.Predicate)@g_attributes-processor-1.0.1.jar.txt	3

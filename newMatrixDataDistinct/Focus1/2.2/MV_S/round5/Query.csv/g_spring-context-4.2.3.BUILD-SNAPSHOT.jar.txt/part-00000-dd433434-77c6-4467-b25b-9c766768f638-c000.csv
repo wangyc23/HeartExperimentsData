@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/springframework/jndi/JndiLocatorSupport/getJndiTemplate()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/logging/Log/isDebugEnabled()

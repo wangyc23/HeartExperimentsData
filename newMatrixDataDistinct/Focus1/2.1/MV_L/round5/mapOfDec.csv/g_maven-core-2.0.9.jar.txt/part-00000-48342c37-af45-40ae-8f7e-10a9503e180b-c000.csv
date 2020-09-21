@@ -1,0 +1,5 @@
+org/apache/maven/lifecycle/DefaultLifecycleExecutor/forkProjectLifecycle(org.apache.maven.plugin.descriptor.MojoDescriptor,java.util.Stack,org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject)@g_maven-core-2.0.8.jar.txt	1
+org/apache/maven/cli/MavenCli/buildSettings(org.apache.commons.cli.CommandLine)@g_maven-core-2.2.1.jar.txt	2
+org/apache/maven/plugin/PluginConfigurationException/addParameterUsageInfo(java.lang.String,java.lang.StringBuffer)@g_maven-core-2.0.8.jar.txt	4
+org/apache/maven/cli/MavenCli/buildSettings(org.apache.commons.cli.CommandLine)@g_maven-core-2.0.8.jar.txt	0
+org/apache/maven/lifecycle/DefaultLifecycleExecutor/forkProjectLifecycle(org.apache.maven.plugin.descriptor.MojoDescriptor,java.util.Stack,org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,java.lang.String)@g_maven-core-2.2.1.jar.txt	3

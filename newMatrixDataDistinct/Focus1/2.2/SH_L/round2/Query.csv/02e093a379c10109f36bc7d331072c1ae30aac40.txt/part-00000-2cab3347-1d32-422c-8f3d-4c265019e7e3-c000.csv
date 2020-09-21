@@ -1,0 +1,4 @@
+com/iluwatar/command/Wizard/undoLastSpell()
+com/iluwatar/command/Wizard/redoLastSpell()
+com/iluwatar/command/CommandTest/verifyGoblin(com.iluwatar.command.Goblin,java.lang.String,com.iluwatar.command.Size,com.iluwatar.command.Visibility)
+com/iluwatar/command/Wizard/castSpell(com.iluwatar.command.Command,com.iluwatar.command.Target)

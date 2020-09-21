@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/util/Iterator/hasNext()
+java/nio/ByteBuffer/putLong(int,long)

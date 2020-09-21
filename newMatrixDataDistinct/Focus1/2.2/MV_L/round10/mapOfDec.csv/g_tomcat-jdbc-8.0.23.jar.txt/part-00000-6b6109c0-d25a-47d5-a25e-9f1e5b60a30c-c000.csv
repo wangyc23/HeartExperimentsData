@@ -1,0 +1,5 @@
+org/apache/coyote/http11/Http11NioProtocol/Http11ConnectionHandler/release(java.nio.channels.SocketChannel)@g_tomcat-embed-core-8.0.20.jar.txt	1
+org/apache/catalina/startup/WebappServiceLoader/load(java.lang.Class)@g_tomcat-embed-core-8.0.20.jar.txt	0
+org/apache/catalina/loader/WebappClassLoaderBase/clearReferencesStaticFinal()@g_tomcat-embed-core-8.0.20.jar.txt	4
+org/apache/coyote/http11/Http11NioProtocol/Http11ConnectionHandler/release(java.nio.channels.SocketChannel)@g_tomcat-embed-core-8.0.28.jar.txt	3
+org/apache/catalina/startup/WebappServiceLoader/load(java.lang.Class)@g_tomcat-embed-core-8.0.28.jar.txt	2

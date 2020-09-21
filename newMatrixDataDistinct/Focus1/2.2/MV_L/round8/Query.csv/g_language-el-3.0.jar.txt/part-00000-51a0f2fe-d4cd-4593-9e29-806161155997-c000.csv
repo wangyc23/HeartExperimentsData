@@ -1,0 +1,4 @@
+org/languagetool/rules/DoublePunctuationRule/DoublePunctuationRule(java.util.ResourceBundle)
+java/util/Arrays/asList(java.lang.Object[])
+org/languagetool/rules/CommaWhitespaceRule/CommaWhitespaceRule(java.util.ResourceBundle)
+org/languagetool/rules/GenericUnpairedBracketsRule/GenericUnpairedBracketsRule(java.lang.String,java.util.ResourceBundle,java.util.List,java.util.List)

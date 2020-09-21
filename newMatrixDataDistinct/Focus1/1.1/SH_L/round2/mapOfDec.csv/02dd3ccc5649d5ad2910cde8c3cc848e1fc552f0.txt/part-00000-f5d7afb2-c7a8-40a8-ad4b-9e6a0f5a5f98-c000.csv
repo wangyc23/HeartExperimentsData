@@ -1,0 +1,5 @@
+org/kie/remote/services/rest/RestStartProcessEveryStrategyTest/setupTestMocks()@19cb6d390647f566f39e9212c650f96c2b332e57.txt	2
+org/drools/osgi/compiler/OsgiKieModule/getFileNames()@19cb6d390647f566f39e9212c650f96c2b332e57.txt	1
+org/jbpm/persistence/processinstance/ProcessInstanceResolverStrategyTest/testWithDatabaseAndStartProcessInstance()@19cb6d390647f566f39e9212c650f96c2b332e57.txt	4
+org/kie/aries/blueprint/mocks/MockProcessEventListener/beforeNodeTriggered(org.kie.spring.mocks.ProcessNodeTriggeredEvent)@19cb6d390647f566f39e9212c650f96c2b332e57.txt	3
+org/drools/simulation/fluent/simulation/impl/DefaultSimulationFluent/runSimulation()@19cb6d390647f566f39e9212c650f96c2b332e57.txt	0

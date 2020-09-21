@@ -1,0 +1,5 @@
+se/unlogic/eagledns/EagleDNS/setConfigClassPath(java.lang.String)@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	3
+org/jboss/resteasy/test/providers/jaxb/OrderResource/getOrderFromFileSystem(java.lang.String)@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	4
+se/unlogic/standardutils/logging/LogUtils/releaseCommonsLogging()@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	0
+org/jboss/resteasy/test/providers/jaxb/TestXmlJAXBProviders/testUpdateOrder()@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	2
+org/jboss/resteasy/test/security/doseta/EagleDnsTest/testBoot()@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	1

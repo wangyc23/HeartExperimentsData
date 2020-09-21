@@ -1,0 +1,4 @@
+java/util/jar/JarFile/entries()
+org/springframework/boot/loader/tools/JarWriter$InputStreamEntryWriter/InputStreamEntryWriter(java.io.InputStream,boolean)
+org/springframework/boot/loader/tools/JarWriter$ZipHeaderPeekInputStream/hasZipHeader()
+java/util/jar/JarEntry/getMethod()

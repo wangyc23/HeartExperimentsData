@@ -1,0 +1,5 @@
+org/gagravarr/vorbis/TestVorbisComments/testRead()@g_vorbis-java-core-0.1-tests.jar.txt	3
+org/gagravarr/ogg/TestReadWrite/testPackets()@g_vorbis-java-core-0.1-tests.jar.txt	4
+org/gagravarr/ogg/TestBasicWrite/testInterleaved()@g_vorbis-java-core-0.1-tests.jar.txt	2
+org/gagravarr/ogg/TestReadWrite/copy(org.gagravarr.ogg.OggFile,org.gagravarr.ogg.OggFile)@g_vorbis-java-core-0.1-tests.jar.txt	0
+org/gagravarr/ogg/TestWriteBoundaries/testMix()@g_vorbis-java-core-0.1-tests.jar.txt	1

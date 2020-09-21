@@ -1,0 +1,5 @@
+morfologik/stemming/DictionaryLookup/lookup(java.lang.CharSequence)@g_morfologik-stemming-2.1.2.jar.txt	4
+morfologik/stemming/BufferUtils/bytesToChars(java.nio.charset.CharsetDecoder,java.nio.ByteBuffer,java.nio.CharBuffer)@g_morfologik-stemming-2.1.2.jar.txt	1
+net/java/truevfs/comp/zip/AbstractZipFile/mountCentralDirectory(java.nio.channels.SeekableByteChannel,int)@g_morfologik-stemming-2.1.2.jar.txt	2
+morfologik/stemming/TrimPrefixAndSuffixEncoder/decode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	0
+morfologik/stemming/BufferUtils/charsToBytes(java.nio.charset.CharsetEncoder,java.nio.CharBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	3

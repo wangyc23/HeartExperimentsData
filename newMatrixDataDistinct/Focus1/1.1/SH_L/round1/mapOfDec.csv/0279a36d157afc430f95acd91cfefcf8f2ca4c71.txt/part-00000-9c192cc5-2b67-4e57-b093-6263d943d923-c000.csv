@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/thrift/generated/Hbase/AsyncClient/scannerOpenWithPrefix(java.nio.ByteBuffer,java.nio.ByteBuffer,java.util.List,java.util.Map,org.apache.thrift.async.AsyncMethodCallback)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+org/apache/hadoop/hbase/thrift2/generated/THBaseService/Client/send_exists(java.nio.ByteBuffer,org.apache.hadoop.hbase.thrift2.generated.TGet)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+eu/stratosphere/sopremo/type/ObjectNode/equals(java.lang.Object)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+eu/stratosphere/sopremo/io/SopremoFormat/setProjection(eu.stratosphere.sopremo.expressions.EvaluationExpression)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2

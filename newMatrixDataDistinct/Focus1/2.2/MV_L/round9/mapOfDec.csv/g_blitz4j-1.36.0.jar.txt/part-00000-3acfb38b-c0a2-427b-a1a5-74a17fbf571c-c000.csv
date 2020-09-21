@@ -1,0 +1,5 @@
+com/netflix/blitz4j/LoggingContext/getLocationInfo(java.lang.Class)@g_slf4j-api-1.7.2.jar.txt	0
+com/netflix/blitz4j/AsyncAppender/append(org.apache.log4j.spi.LoggingEvent)@g_slf4j-api-1.7.2.jar.txt	1
+com/netflix/blitz4j/AsyncAppender/setOriginalAppenderName(java.lang.String)@g_slf4j-api-1.7.2.jar.txt	4
+org/slf4j/helpers/MessageFormatter/safeObjectAppend(java.lang.StringBuffer,java.lang.Object)@g_slf4j-api-1.7.2.jar.txt	3
+com/netflix/blitz4j/AsyncAppender/LogSummary/createEvent()@g_slf4j-api-1.7.2.jar.txt	2

@@ -1,0 +1,4 @@
+java/util/logging/Logger/fine(java.lang.String)
+java/lang/Class/getResourceAsStream(java.lang.String)
+java/nio/channels/FileChannel/transferFrom(java.nio.channels.ReadableByteChannel,long,long)
+java/io/File/getAbsoluteFile()

@@ -1,0 +1,5 @@
+optimization/Uncmin_f77/optchk_f77(int,double[],double[],double[],double[],double[],int[],int[],double,double[],int[],int[],int[],int[],double[],int[])@g_optimization-1.0.jar.txt	4
+optimization/Uncmin_f77/heschk_f77(int,double[],optimization.Uncmin_methods,double[],double[],double[][],double[],double[],double,double,int[],double[],double[],double[])@g_optimization-1.0.jar.txt	0
+optimization/Uncmin_f77/grdchk_f77(int,double[],optimization.Uncmin_methods,double[],double[],double[],double[],double[],double,double,double[])@g_optimization-1.0.jar.txt	3
+edu/emory/mathcs/jplasma/tdouble/corelapack/Dlamc2/dlamc2(org.netlib.util.intW,org.netlib.util.intW,org.netlib.util.booleanW,org.netlib.util.doubleW,org.netlib.util.intW,org.netlib.util.doubleW,org.netlib.util.intW,org.netlib.util.doubleW)@g_core-lapack-0.1.jar.txt	2
+optimization/Uncmin_f77/optdrv_f77(int,double[],optimization.Uncmin_methods,double[],double[],int[],int[],int[],int[],int[],int[],int[],double[],double[],double[],double[],double[],double[],double[],int[],double[][],double[],double[],double[],double[],double[],double[],double[],double[])@g_optimization-1.0.jar.txt	1

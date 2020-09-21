@@ -1,0 +1,5 @@
+org/obolibrary/macro/MacroExpansionVisitor/Visitor/expandObject(java.lang.Object,org.semanticweb.owlapi.model.OWLObjectPropertyExpression)@g_owlapi-oboformat-4.5.0.jar.txt	0
+org/obolibrary/macro/MacroExpansionVisitor/MacroExpansions/expand(org.semanticweb.owlapi.model.OWLAnnotationAssertionAxiom)@g_owlapi-oboformat-4.5.0.jar.txt	2
+org/obolibrary/oboformat/parser/OBOFormatParser/parseDirectXref(org.obolibrary.oboformat.model.Clause)@g_owlapi-oboformat-4.5.0.jar.txt	1
+org/obolibrary/obo2owl/IdTranslator/translateIdToIRIString(java.lang.String)@g_owlapi-oboformat-4.5.0.jar.txt	4
+org/obolibrary/macro/MacroExpansionGCIVisitor/MacroExpansions/expand(org.semanticweb.owlapi.model.OWLAnnotationAssertionAxiom)@g_owlapi-oboformat-4.5.0.jar.txt	3

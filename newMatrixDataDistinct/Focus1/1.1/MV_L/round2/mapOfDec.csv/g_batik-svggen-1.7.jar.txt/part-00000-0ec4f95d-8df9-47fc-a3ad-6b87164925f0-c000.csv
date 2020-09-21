@@ -1,0 +1,5 @@
+org/apache/batik/svggen/SVGGraphics2D/stream(org.w3c.dom.Element,java.io.Writer,boolean,boolean)@g_batik-svggen-1.8.jar.txt	0
+org/apache/batik/svggen/SVGTexturePaint/toSVG(java.awt.TexturePaint)@g_batik-svggen-1.8.jar.txt	1
+org/apache/ws/commons/schema/XmlSchemaCollection/getGroupByQName(javax.xml.namespace.QName)@g_batik-svggen-1.8.jar.txt	3
+org/apache/ws/commons/schema/XmlSchemaSerializer/appendElement(org.w3c.dom.Document,org.w3c.dom.Element,org.w3c.dom.Node,org.apache.ws.commons.schema.XmlSchema)@g_batik-svggen-1.8.jar.txt	2
+org/apache/batik/svggen/SVGLookupOp/toSVG(java.awt.image.LookupOp)@g_batik-svggen-1.8.jar.txt	4

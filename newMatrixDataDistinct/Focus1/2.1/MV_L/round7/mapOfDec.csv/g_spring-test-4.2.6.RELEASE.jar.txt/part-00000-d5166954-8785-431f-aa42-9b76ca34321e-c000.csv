@@ -1,0 +1,5 @@
+org/springframework/test/web/servlet/result/PrintingResultHandler/printCookies(javax.servlet.http.Cookie[])@g_spring-test-4.2.3.BUILD-SNAPSHOT.jar.txt	1
+org/springframework/test/web/servlet/result/PrintingResultHandler/printCookies(javax.servlet.http.Cookie[])@g_spring-test-4.2.3.BUILD-20151114.225414-58.jar.txt	0
+org/springframework/test/web/servlet/request/MockHttpServletRequestBuilder/postProcessRequest(org.springframework.mock.web.MockHttpServletRequest)@g_spring-test-4.2.3.BUILD-20151114.225414-58.jar.txt	3
+org/springframework/test/context/support/AbstractTestContextBootstrapper/buildMergedContextConfiguration()@g_spring-test-4.2.3.BUILD-20151114.225414-58.jar.txt	4
+org/springframework/test/web/ModelAndViewAssert/assertModelAttributeValues(org.springframework.web.servlet.ModelAndView,java.util.Map)@g_spring-test-4.2.3.BUILD-20151114.225414-58.jar.txt	2

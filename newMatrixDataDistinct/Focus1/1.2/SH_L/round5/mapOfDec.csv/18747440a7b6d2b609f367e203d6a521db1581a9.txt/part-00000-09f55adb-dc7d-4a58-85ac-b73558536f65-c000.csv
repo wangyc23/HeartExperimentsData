@@ -1,0 +1,5 @@
+io/dropwizard/jackson/Jackson/newObjectMapper(io.dropwizard.jackson.JsonFactory)@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	4
+io/dropwizard/jersey/jackson/JacksonMessageBodyProvider/validate(java.lang.annotation.Annotation[],java.lang.Object)@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	1
+io/dropwizard/migrations/DbDumpCommand/run(io.dropwizard.cli.Namespace,io.dropwizard.migrations.Liquibase)@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	3
+io/dropwizard/views/freemarker/FreemarkerViewRenderer/render(io.dropwizard.views.View,java.util.Locale,java.io.OutputStream)@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	2
+io/dropwizard/views/ViewMessageBodyWriter/writeTo(io.dropwizard.views.View,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],io.dropwizard.servlets.assets.MediaType,io.dropwizard.views.MultivaluedMap,java.io.OutputStream)@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	0

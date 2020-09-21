@@ -1,0 +1,8 @@
+0	com/example/restapp/db/ConnectionManager/deregisterDrivers()
+1	java/util/Enumeration/hasMoreElements()
+2	ch/presentit/service/PresentationService/findAll()
+3	java/sql/DriverManager/getDrivers()
+4	org/mentabean/BeanException/BeanException(java.lang.Throwable)
+5	java/sql/DriverManager/deregisterDriver(java.sql.Driver)
+6	com/zaxxer/hikari/HikariDataSource/close()
+7	java/util/Enumeration/nextElement()

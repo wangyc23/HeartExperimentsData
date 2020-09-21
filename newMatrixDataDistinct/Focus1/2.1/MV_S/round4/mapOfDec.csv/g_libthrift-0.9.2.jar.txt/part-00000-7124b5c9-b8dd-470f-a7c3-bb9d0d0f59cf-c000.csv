@@ -1,0 +1,5 @@
+shaded/parquet/org/apache/thrift/transport/TSaslServerTransport/handleSaslStartMessage()@g_parquet-format-2.3.1.jar.txt	2
+shaded/parquet/org/apache/thrift/transport/THttpClient/flushUsingHttpClient()@g_parquet-format-2.3.1.jar.txt	0
+shaded/parquet/org/apache/thrift/transport/THttpClient/flush()@g_parquet-format-2.3.1.jar.txt	1
+shaded/parquet/org/apache/thrift/async/TAsyncClientManager/SelectThread/timeoutMethods()@g_parquet-format-2.3.1.jar.txt	4
+shaded/parquet/org/apache/thrift/server/TNonblockingServer/SelectThread/select()@g_parquet-format-2.3.1.jar.txt	3

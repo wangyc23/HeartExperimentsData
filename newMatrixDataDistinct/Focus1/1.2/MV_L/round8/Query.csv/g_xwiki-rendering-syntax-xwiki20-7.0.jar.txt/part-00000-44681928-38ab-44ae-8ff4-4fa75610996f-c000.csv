@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/util/Deque/peek()
+org/xwiki/rendering/internal/renderer/xwiki20/XWikiSyntaxEscapeWikiPrinter/print(java.lang.String)
+java/util/Deque/size()

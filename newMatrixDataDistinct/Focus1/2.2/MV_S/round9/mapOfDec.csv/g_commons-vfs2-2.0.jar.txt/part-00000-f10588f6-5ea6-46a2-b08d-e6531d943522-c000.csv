@@ -1,0 +1,5 @@
+org/springframework/orm/jpa/persistenceunit/PersistenceUnitReader/validateResource(org.xml.sax.ErrorHandler,java.io.InputStream)@g_spring-2.5.6.jar.txt	3
+org/springframework/beans/factory/xml/ResourceEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_spring-2.5.6.jar.txt	4
+org/springframework/beans/propertyeditors/URIEditor/setAsText(java.lang.String)@g_spring-2.5.6.jar.txt	2
+org/apache/hadoop/http/HttpServer2/getWebAppsPath(java.lang.String)@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/http/HttpServer/getWebAppsPath(java.lang.String)@g_hadoop-common-2.6.0.jar.txt	1

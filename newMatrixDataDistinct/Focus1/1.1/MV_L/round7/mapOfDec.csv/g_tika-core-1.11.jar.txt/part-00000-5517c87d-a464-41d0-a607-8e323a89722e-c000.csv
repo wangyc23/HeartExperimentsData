@@ -1,0 +1,5 @@
+org/apache/tika/io/TemporaryResources/close()@g_tika-core-1.7.jar.txt	3
+org/apache/tika/fork/MemoryURLStreamHandler/openConnection(java.net.URL)@g_tika-core-1.7.jar.txt	2
+org/apache/tika/mime/MimeTypesReader/endElement(java.lang.String,java.lang.String,java.lang.String)@g_tika-core-1.7.jar.txt	1
+org/apache/tika/language/LanguageProfile/add(java.lang.String,long)@g_tika-core-1.7.jar.txt	0
+org/apache/tika/config/TikaConfig/detectorFromDomElement(org.w3c.dom.Element,org.apache.tika.mime.MimeTypes,org.apache.tika.config.ServiceLoader)@g_tika-core-1.7.jar.txt	4

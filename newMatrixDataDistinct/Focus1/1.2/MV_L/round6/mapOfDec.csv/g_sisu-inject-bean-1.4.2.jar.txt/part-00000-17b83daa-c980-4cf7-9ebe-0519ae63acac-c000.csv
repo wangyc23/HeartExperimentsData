@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/binders/QualifiedTypeBinder/bindQualifiedType(java.lang.Class,com.google.inject.Binder)@g_sisu-inject-bean-2.1.1.jar.txt	4
+org/sonatype/guice/bean/binders/ImportBinder/bindBeanImport(com.google.inject.Key)@g_sisu-inject-bean-2.1.1.jar.txt	0
+org/sonatype/guice/bean/containers/Main/selectScanning(java.util.Map)@g_sisu-inject-bean-2.1.1.jar.txt	3
+org/sonatype/guice/bean/binders/QualifiedTypeBinder/getBindingName(java.lang.Class)@g_guice-bean-binders-2.3.0.jar.txt	1
+org/sonatype/guice/bean/binders/LocatorWiring/bindImplicitType(com.google.inject.TypeLiteral)@g_guice-bean-binders-2.3.0.jar.txt	2

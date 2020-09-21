@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/xmi/impl/XMLParserPoolImpl/get(java.util.Map,java.util.Map,boolean)@g_ecore.xmi-2.10.0.jar.txt	1
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/getPrefix(org.eclipse.emf.ecore.EPackage,boolean)@g_ecore.xmi-2.10.0.jar.txt	3
+org/eclipse/emf/ecore/xmi/impl/XMLHandler/resolveEntity(java.lang.String,java.lang.String)@g_ecore.xmi-2.10.0.jar.txt	2
+org/eclipse/emf/ecore/xmi/impl/XMLMapImpl/getClassifier(java.lang.String,java.lang.String)@g_ecore.xmi-2.10.0.jar.txt	0
+org/eclipse/emf/ecore/xmi/impl/ResourceEntityHandlerImpl/setBaseURI(org.eclipse.emf.common.util.URI)@g_ecore.xmi-2.10.0.jar.txt	4

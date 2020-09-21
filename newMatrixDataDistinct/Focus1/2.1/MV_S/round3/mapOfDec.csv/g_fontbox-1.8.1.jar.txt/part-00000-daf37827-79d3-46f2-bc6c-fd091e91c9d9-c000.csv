@@ -1,0 +1,5 @@
+org/springframework/security/core/authority/mapping/MapBasedAttributes2GrantedAuthoritiesMapper/preProcessMap(java.util.Map)@g_spring-security-core-3.2.3.RELEASE.jar.txt	0
+org/springframework/security/authentication/jaas/AbstractJaasAuthenticationProvider/handleLogout(org.springframework.security.core.session.SessionDestroyedEvent)@g_spring-security-core-3.2.3.RELEASE.jar.txt	2
+org/springframework/security/access/vote/UnanimousBased/decide(org.springframework.security.core.Authentication,java.lang.Object,java.util.Collection)@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/access/expression/method/DefaultMethodSecurityExpressionHandler/filter(java.lang.Object,org.springframework.expression.Expression,org.springframework.expression.EvaluationContext)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/access/intercept/AfterInvocationProviderManager/setProviders(java.util.List)@g_spring-security-core-3.2.3.RELEASE.jar.txt	1

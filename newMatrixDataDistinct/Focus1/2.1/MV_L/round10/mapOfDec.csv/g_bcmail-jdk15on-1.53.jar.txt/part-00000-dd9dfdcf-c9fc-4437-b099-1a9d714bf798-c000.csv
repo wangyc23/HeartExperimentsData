@@ -1,0 +1,5 @@
+org/bouncycastle/mail/smime/examples/CreateLargeSignedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.54.jar.txt	2
+org/bouncycastle/mail/smime/examples/CreateSignedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.54.jar.txt	3
+org/bouncycastle/mail/smime/examples/CreateSignedMultipartMail/main(java.lang.String[])@g_bcmail-jdk15on-1.54.jar.txt	4
+org/bouncycastle/mail/smime/validator/SignedMailValidator/createCertPath(java.security.cert.X509Certificate,java.util.Set,java.util.List,java.util.List)@g_bcmail-jdk15on-1.54.jar.txt	0
+org/bouncycastle/mail/smime/examples/SendSignedAndEncryptedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.54.jar.txt	1

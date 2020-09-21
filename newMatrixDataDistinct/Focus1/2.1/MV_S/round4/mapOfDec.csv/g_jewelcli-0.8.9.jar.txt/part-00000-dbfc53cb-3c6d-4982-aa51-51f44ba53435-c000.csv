@@ -1,0 +1,5 @@
+net/sf/cglib/proxy/Enhancer/generateClass(net.sf.cglib.asm.ClassVisitor)@g_cglib-nodep-2.1_3.jar.txt	0
+com/lexicalscope/jewel/cli/ArgumentPresenterImpl/presentArguments(com.lexicalscope.jewel.cli.validation.OptionCollection)@g_spring-asm-3.1.4.RELEASE.jar.txt	2
+com/lexicalscope/jewelcli/internal/cglib/core/TypeUtils/parseSignature(java.lang.String)@g_spring-asm-3.1.4.RELEASE.jar.txt	1
+com/lexicalscope/jewelcli/internal/cglib/proxy/FixedValueGenerator/generate(com.lexicalscope.jewelcli.internal.cglib.core.$ClassEmitter,com.lexicalscope.jewelcli.internal.cglib.proxy.$CallbackGenerator$Context,java.util.List)@g_spring-asm-3.1.4.RELEASE.jar.txt	3
+net/sf/cglib/asm/ClassReader/readConst(int,char[])@g_spring-asm-3.1.4.RELEASE.jar.txt	4

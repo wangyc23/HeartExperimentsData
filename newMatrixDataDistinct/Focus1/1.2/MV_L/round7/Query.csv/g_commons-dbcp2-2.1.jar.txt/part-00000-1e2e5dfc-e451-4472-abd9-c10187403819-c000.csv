@@ -1,0 +1,4 @@
+java/lang/Integer/parseInt(java.lang.String)
+javax/naming/Reference/get(java.lang.String)
+java/lang/Object/getClass()
+javax/naming/Reference/getClassName()

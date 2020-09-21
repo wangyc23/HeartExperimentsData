@@ -1,0 +1,5 @@
+io/swagger/sample/data/PetData/findPetByTags(java.lang.String)@1870dc272c4e9625e4dede6b97f70a6354507886.txt	1
+io/swagger/sample/data/PetData/findPetByStatus(java.lang.String)@1870dc272c4e9625e4dede6b97f70a6354507886.txt	0
+io/swagger/sample/bean/JavaRestResourceUtil/getBoolean(boolean,java.lang.String)@1870dc272c4e9625e4dede6b97f70a6354507886.txt	2
+io/swagger/sample/resource/PetResource/updatePetWithForm(java.lang.Long,java.lang.String,java.lang.String)@1870dc272c4e9625e4dede6b97f70a6354507886.txt	4
+io/swagger/sample/util/ApiAuthorizationFilterImpl/checkKey(java.util.Map,java.util.Map)@1870dc272c4e9625e4dede6b97f70a6354507886.txt	3

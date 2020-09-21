@@ -1,0 +1,5 @@
+org/springframework/security/config/http/FormLoginBeanDefinitionParser/createFilterBean(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_spring-security-config-4.1.0.RELEASE.jar.txt	3
+org/springframework/security/config/method/GlobalMethodSecurityBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.1.0.RELEASE.jar.txt	0
+org/springframework/security/config/http/HttpConfigurationBuilder/createSessionManagementFilters()@g_spring-security-config-4.1.0.RELEASE.jar.txt	4
+org/springframework/security/config/method/InternalInterceptMethodsBeanDefinitionDecorator/createInterceptorDefinition(org.w3c.dom.Node)@g_spring-security-config-4.1.0.RELEASE.jar.txt	1
+org/springframework/security/config/authentication/AuthenticationManagerBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.1.0.RELEASE.jar.txt	2

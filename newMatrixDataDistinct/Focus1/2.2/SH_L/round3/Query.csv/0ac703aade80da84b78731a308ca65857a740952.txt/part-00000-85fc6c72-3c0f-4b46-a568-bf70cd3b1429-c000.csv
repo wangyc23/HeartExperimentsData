@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+org/apache/tez/common/RPCUtil/instantiateRuntimeException(java.lang.Class,org.apache.tez.dag.app.taskcomm.RemoteException)
+org/apache/tez/common/RPCUtil/instantiateIOException(java.lang.Class,org.apache.tez.dag.app.taskcomm.RemoteException)
+java/lang/Class/asSubclass(java.lang.Class)

@@ -1,0 +1,5 @@
+org/apache/pdfbox/encryption/PDFEncryption/getUserPassword(byte[],byte[],int,long)@g_pdfbox-1.6.0.jar.txt	1
+org/apache/pdfbox/pdmodel/encryption/StandardSecurityHandler/computeEncryptedKey(byte[],byte[],int,byte[],int,int,boolean)@g_pdfbox-1.6.0.jar.txt	4
+org/apache/pdfbox/pdmodel/encryption/SecurityHandler/encryptData(long,long,java.io.InputStream,java.io.OutputStream,boolean)@g_pdfbox-1.6.0.jar.txt	2
+org/sonatype/plexus/components/cipher/PBECipher/createCipher(byte[],byte[],int)@g_plexus-cipher-1.7.jar.txt	0
+org/apache/pdfbox/encryption/PDFEncryption/computeOwnerPassword(byte[],byte[],int,int)@g_pdfbox-1.6.0.jar.txt	3

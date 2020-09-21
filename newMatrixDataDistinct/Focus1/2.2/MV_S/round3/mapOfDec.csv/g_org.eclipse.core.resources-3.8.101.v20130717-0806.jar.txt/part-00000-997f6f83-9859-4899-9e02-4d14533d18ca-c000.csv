@@ -1,0 +1,5 @@
+org/eclipse/core/internal/resources/ResourceException/printStackTrace(java.io.PrintWriter)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	4
+org/eclipse/core/internal/resources/PathVariableUtil/convertFromUserEditableFormatInternal(org.eclipse.core.resources.IPathVariableManager,java.lang.String,boolean)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	2
+org/eclipse/core/internal/events/AutoBuildJob/build(boolean)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	0
+org/eclipse/core/internal/events/AutoBuildJob/build(boolean)@g_org.eclipse.core.resources-3.11.1.jar.txt	1
+org/eclipse/core/internal/utils/StringPoolJob/run(org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	3

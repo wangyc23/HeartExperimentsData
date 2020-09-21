@@ -1,0 +1,5 @@
+org/springframework/orm/jpa/persistenceunit/ClassFileTransformerAdapter/transform(java.lang.ClassLoader,java.lang.String,java.lang.Class,java.security.ProtectionDomain,byte[])@g_spring-2.5.6.jar.txt	1
+org/springframework/jdbc/core/metadata/GenericCallMetaDataProvider/processProcedureColumns(java.sql.DatabaseMetaData,java.lang.String,java.lang.String,java.lang.String)@g_spring-2.5.6.jar.txt	0
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/processTableColumns(java.sql.DatabaseMetaData,org.springframework.jdbc.core.metadata.GenericTableMetaDataProvider$TableMetaData)@g_spring-2.5.6.jar.txt	3
+org/springframework/jdbc/core/simple/AbstractJdbcInsert/executeInsertAndReturnKeyHolderInternal(java.util.List)@g_spring-2.5.6.jar.txt	2
+org/springframework/jdbc/core/simple/AbstractJdbcCall/executeCallInternal(java.util.Map)@g_spring-2.5.6.jar.txt	4

@@ -1,0 +1,4 @@
+java/lang/Long/parseLong(java.lang.String)
+org/bson/BasicBSONObject/put(java.lang.String,java.lang.Object)
+java/lang/Double/parseDouble(java.lang.String)
+java/util/Date/Date()

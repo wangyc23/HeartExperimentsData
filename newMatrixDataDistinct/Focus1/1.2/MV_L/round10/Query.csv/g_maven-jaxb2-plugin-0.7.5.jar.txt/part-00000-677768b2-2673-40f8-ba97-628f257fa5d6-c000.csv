@@ -1,0 +1,4 @@
+java/net/URL/toExternalForm()
+java/util/Iterator/hasNext()
+org/jvnet/jaxb2/maven2/OptionsConfiguration/getGeneratePackage()
+com/sun/tools/xjc/Options/setSchemaLanguage(com.sun.tools.xjc.Language)

@@ -1,0 +1,5 @@
+org/elasticsearch/transport/netty4/Netty4Transport/lambda$stopInternal$5()@g_transport-netty4-client-5.2.2.jar.txt	2
+org/elasticsearch/http/netty4/Netty4HttpServerTransport/resolvePublishPort(org.elasticsearch.common.settings.Settings,java.util.List,java.net.InetAddress)@g_transport-netty4-client-5.2.2.jar.txt	3
+org/elasticsearch/transport/netty4/Netty4Utils/closeChannels(java.util.Collection)@g_transport-netty4-client-5.2.2.jar.txt	4
+org/elasticsearch/transport/netty4/Netty4Transport/connectToChannels(org.elasticsearch.cluster.node.DiscoveryNode,org.elasticsearch.transport.ConnectionProfile)@g_transport-netty4-client-5.2.2.jar.txt	1
+org/elasticsearch/transport/netty4/Netty4Transport/doStart()@g_transport-netty4-client-5.2.2.jar.txt	0

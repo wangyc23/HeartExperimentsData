@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/reflect/Field/set(java.lang.Object,java.lang.Object)
+bsh/ReflectError/getMessage()
+java/lang/Object/getClass()

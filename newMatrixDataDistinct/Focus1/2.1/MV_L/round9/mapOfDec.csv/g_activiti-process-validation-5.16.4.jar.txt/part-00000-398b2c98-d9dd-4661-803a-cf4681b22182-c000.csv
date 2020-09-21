@@ -1,0 +1,5 @@
+org/activiti/validation/validator/impl/SendTaskValidator/verifyWebservice(org.activiti.bpmn.model.BpmnModel,org.activiti.bpmn.model.Process,org.activiti.bpmn.model.SendTask,java.util.List)@g_activiti-process-validation-6.0.0.Beta1.jar.txt	3
+org/activiti/validation/validator/impl/SendTaskValidator/executeValidation(org.activiti.bpmn.model.BpmnModel,org.activiti.bpmn.model.Process,java.util.List)@g_activiti-process-validation-5.17.0.jar.txt	2
+org/activiti/validation/validator/impl/ServiceTaskValidator/verifyWebservice(org.activiti.bpmn.model.BpmnModel,org.activiti.bpmn.model.Process,org.activiti.bpmn.model.ServiceTask,java.util.List)@g_activiti-process-validation-6.0.0.Beta1.jar.txt	4
+org/activiti/validation/validator/impl/SendTaskValidator/verifyWebservice(org.activiti.bpmn.model.BpmnModel,org.activiti.bpmn.model.Process,org.activiti.bpmn.model.SendTask,java.util.List)@g_activiti-process-validation-5.17.0.jar.txt	0
+org/activiti/validation/validator/impl/ServiceTaskValidator/verifyWebservice(org.activiti.bpmn.model.BpmnModel,org.activiti.bpmn.model.Process,org.activiti.bpmn.model.ServiceTask,java.util.List)@g_activiti-process-validation-5.17.0.jar.txt	1

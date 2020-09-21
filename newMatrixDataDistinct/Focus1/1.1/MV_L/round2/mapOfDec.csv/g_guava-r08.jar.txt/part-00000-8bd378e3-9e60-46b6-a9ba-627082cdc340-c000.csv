@@ -1,0 +1,5 @@
+com/google/common/collect/CustomConcurrentHashMap/Impl/Segment/remove(java.lang.Object,int)@g_guava-r06.jar.txt	1
+com/google/common/collect/ImmutableSortedMap/copyOfInternal(java.util.Map,java.util.Comparator)@g_guava-r06.jar.txt	2
+com/google/common/collect/CustomConcurrentHashMap/Segment/put(java.lang.Object,int,java.lang.Object,boolean)@g_guava-r06.jar.txt	3
+com/google/common/collect/ComputingConcurrentHashMap/ComputingSegment/setComputedValue(com.google.common.collect.CustomConcurrentHashMap$ReferenceEntry,java.lang.Object)@g_guava-r06.jar.txt	4
+com/google/common/io/Files/deleteDirectoryContents(java.io.File)@g_guava-r06.jar.txt	0

@@ -1,0 +1,5 @@
+storm/trident/operation/impl/ReducerAggStateUpdater/updateState(storm.trident.state.snapshot.Snapshottable,java.util.List,storm.trident.operation.TridentCollector)@1871b40c45fc6fdc9e301112b8739980be6cfe5f.txt	4
+storm/starter/TweetSpout/nextTuple()@1691d10126ccad1047718f55f8e88691573c7ccc.txt	0
+storm/kafka/bolt/KafkaBoltTest/generateTestTuple(java.lang.Object)@1871b40c45fc6fdc9e301112b8739980be6cfe5f.txt	3
+storm/starter/ReachTopology/CountAggregator/finishBatch()@1871b40c45fc6fdc9e301112b8739980be6cfe5f.txt	2
+storm/starter/SentimentBolt/execute(backtype.storm.tuple.Tuple)@1691d10126ccad1047718f55f8e88691573c7ccc.txt	1

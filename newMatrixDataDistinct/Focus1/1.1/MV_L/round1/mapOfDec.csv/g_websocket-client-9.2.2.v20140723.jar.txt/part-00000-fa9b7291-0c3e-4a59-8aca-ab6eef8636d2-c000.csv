@@ -1,0 +1,5 @@
+org/eclipse/jetty/client/HttpDestination/ConnectExchange/onResponseComplete()@g_websocket-server-9.2.2.v20140723.jar.txt	3
+org/eclipse/jetty/websocket/server/WebSocketServerFactory/createWebSocket(org.eclipse.jetty.websocket.servlet.ServletUpgradeRequest,org.eclipse.jetty.websocket.servlet.ServletUpgradeResponse)@g_websocket-server-9.2.2.v20140723.jar.txt	2
+org/eclipse/jetty/websocket/server/WebSocketServerFactory/isUpgradeRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_websocket-server-9.2.2.v20140723.jar.txt	1
+org/eclipse/jetty/client/security/SecurityListener/onRequestComplete()@g_websocket-server-9.2.2.v20140723.jar.txt	4
+org/eclipse/jetty/client/HttpDestination/returnConnection(org.eclipse.jetty.client.AbstractHttpConnection,boolean)@g_websocket-server-9.2.2.v20140723.jar.txt	0

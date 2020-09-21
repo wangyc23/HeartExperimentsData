@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])
+io/netty/util/internal/ThreadLocalRandom/current()
+io/netty/util/internal/ThreadLocalRandom/nextInt()

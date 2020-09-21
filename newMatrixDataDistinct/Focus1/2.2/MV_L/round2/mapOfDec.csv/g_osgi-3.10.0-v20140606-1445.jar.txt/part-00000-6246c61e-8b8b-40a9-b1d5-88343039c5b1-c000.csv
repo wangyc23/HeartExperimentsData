@@ -1,0 +1,5 @@
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/filterFailedToResolve(java.util.List)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	0
+org/eclipse/osgi/internal/framework/OSGiFrameworkHooks/CoreResolverHookFactory/CoreResolverHook/filterResolvable(java.util.Collection)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	4
+org/eclipse/osgi/container/ModuleContainer/unresolve0(java.util.Collection)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2
+org/apache/felix/resolver/Candidates/checkSubstitutes(java.util.List)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	1

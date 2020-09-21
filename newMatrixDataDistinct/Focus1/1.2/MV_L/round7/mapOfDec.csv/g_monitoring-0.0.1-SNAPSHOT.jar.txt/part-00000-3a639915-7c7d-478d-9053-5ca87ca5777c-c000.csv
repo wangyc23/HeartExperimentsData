@@ -1,0 +1,5 @@
+io/seldon/db/SeldonMySQLDocumentStore/getIdFromName(java.lang.String)@g_semvec-lucene-tools-1.4.jar.txt	3
+io/seldon/db/SeldonMySQLDocumentStore/getDimTextual(long,java.util.Set,int)@g_semvec-lucene-tools-1.4.jar.txt	4
+io/seldon/db/SeldonMySQLDocumentStore/getUserItemsUsingItemNames(long)@g_semvec-lucene-tools-1.4.jar.txt	0
+io/seldon/db/SeldonMySQLDocumentStore/getItemTextualById(long,java.util.Set)@g_semvec-lucene-tools-1.4.jar.txt	2
+io/seldon/db/SeldonMySQLDocumentStore/getUserDim(java.util.Set)@g_semvec-lucene-tools-1.4.jar.txt	1

@@ -1,0 +1,5 @@
+org/languagetool/tagging/eo/EsperantoTagger/loadWords(java.io.InputStream)@g_language-eo-3.0.jar.txt	4
+org/languagetool/language/Esperanto/getRelevantRules(java.util.ResourceBundle)@g_language-eo-3.0.jar.txt	0
+org/languagetool/tagging/eo/EsperantoTagger/tag(java.util.List)@g_language-eo-3.0.jar.txt	1
+org/languagetool/language/Greek/getRelevantRules(java.util.ResourceBundle)@g_language-eo-3.0.jar.txt	3
+org/languagetool/tagging/eo/EsperantoTagger/findTransitivity(java.lang.String)@g_language-eo-3.0.jar.txt	2

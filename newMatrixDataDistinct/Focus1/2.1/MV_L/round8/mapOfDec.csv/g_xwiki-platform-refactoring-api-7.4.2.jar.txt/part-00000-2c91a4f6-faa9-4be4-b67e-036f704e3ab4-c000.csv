@@ -1,0 +1,5 @@
+org/xwiki/refactoring/internal/splitter/DefaultDocumentSplitter/split(org.xwiki.refactoring.WikiDocument,java.util.List,int,java.util.List,org.xwiki.refactoring.splitter.criterion.SplittingCriterion,org.xwiki.refactoring.splitter.criterion.naming.NamingCriterion)@g_xwiki-platform-refactoring-api-7.4.jar.txt	0
+org/xwiki/refactoring/internal/splitter/DefaultDocumentSplitter/updateAnchors(java.util.List)@g_xwiki-platform-refactoring-api-7.4.jar.txt	3
+org/xwiki/refactoring/splitter/criterion/naming/HeadingNameNamingCriterion/getDocumentName(org.xwiki.rendering.block.XDOM)@g_xwiki-platform-refactoring-7.0.jar.txt	2
+org/xwiki/refactoring/script/RefactoringScriptService/convertToTerminalDocument(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-api-7.4.jar.txt	4
+org/xwiki/refactoring/splitter/criterion/naming/HeadingNameNamingCriterion/getDocumentName(org.xwiki.rendering.block.XDOM)@g_xwiki-platform-refactoring-api-7.4.jar.txt	1

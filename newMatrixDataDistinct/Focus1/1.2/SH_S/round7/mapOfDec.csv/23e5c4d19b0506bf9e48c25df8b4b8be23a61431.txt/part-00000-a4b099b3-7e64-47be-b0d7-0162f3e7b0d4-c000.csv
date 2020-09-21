@@ -1,0 +1,5 @@
+camelinaction/InventoryUpdater/toSql(camelinaction.Inventory)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	4
+eu/scape_project/archiventory/identifiers/Identification/identifyFileList(org.apache.commons.collections.bidimap.DualHashBidiMap)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	0
+eu/scape_project/archiventory/identifiers/DroidIdentification/identify(java.io.File)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	2
+camelinaction/InventoryUpdaterAnnotatedWithProduce/toSql(camelinaction.Inventory)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	3
+eu/scape_project/archiventory/identifiers/UnixFileIdentification/identifyFileList(org.apache.commons.collections.bidimap.DualHashBidiMap)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	1

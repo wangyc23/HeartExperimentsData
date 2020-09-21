@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/parser/pygments/PygmentsParser/highlight(java.lang.String,java.lang.String)@g_xwiki-platform-localization-macro-7.0.jar.txt	1
+org/xwiki/rendering/internal/parser/pygments/PygmentsParser/highlight(java.lang.String,java.io.Reader)@g_xwiki-platform-localization-macro-7.0.jar.txt	3
+org/xwiki/localization/macro/internal/TranslationMacro/execute(org.xwiki.localization.macro.TranslationMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-localization-macro-7.0.jar.txt	0
+org/xwiki/rendering/internal/parser/pygments/PygmentsParser/initialize()@g_xwiki-platform-localization-macro-7.0.jar.txt	4
+org/xwiki/rendering/internal/parser/pygments/BlocksGeneratorPygmentsListener/format(java.lang.String,java.lang.String,java.util.Map)@g_xwiki-platform-localization-macro-7.0.jar.txt	2

@@ -1,0 +1,5 @@
+de/danielnaber/jwordsplitter/tools/FastObjectSaver/load(java.lang.String)@g_jwordsplitter-4.1.jar.txt	2
+org/apache/commons/codec/language/DaitchMokotoffSoundex/parseRules(java.util.Scanner,java.lang.String,java.util.Map,java.util.Map)@g_commons-codec-1.10.jar.txt	4
+de/danielnaber/jwordsplitter/tools/FileTools/loadFileToSet(java.io.InputStream,java.lang.String)@g_jwordsplitter-4.1.jar.txt	1
+org/apache/commons/codec/language/bm/PhoneticEngine/applyFinalRules(org.apache.commons.codec.language.bm.PhoneticEngine$PhonemeBuilder,java.util.Map)@g_commons-codec-1.10.jar.txt	3
+de/danielnaber/jwordsplitter/tools/FileTools/loadFile(java.io.InputStream,java.lang.String)@g_jwordsplitter-4.1.jar.txt	0

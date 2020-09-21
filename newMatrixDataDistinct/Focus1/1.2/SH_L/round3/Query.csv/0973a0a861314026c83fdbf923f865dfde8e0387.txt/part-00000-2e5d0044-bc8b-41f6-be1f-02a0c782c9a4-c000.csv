@@ -1,0 +1,4 @@
+org/bson/BSONObject/get(java.lang.String)
+com/mongodb/DBCollection/findOne(com.mongodb.DBObject)
+com/mongodb/BasicDBObject/BasicDBObject()
+org/graylog2/SystemSetting/getCollection()

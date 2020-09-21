@@ -1,0 +1,5 @@
+org/apache/lucene/demo/facet/DistanceFacetsExample/getBoundingBoxQuery(double,double,double)@g_lucene-demo-6.6.0.jar.txt	0
+org/apache/lucene/demo/facet/SimpleFacetsExample/drillSideways()@g_lucene-demo-6.6.0.jar.txt	1
+org/apache/lucene/demo/facet/ExpressionAggregationFacetsExample/search()@g_lucene-demo-6.6.0.jar.txt	3
+org/apache/lucene/demo/IndexFiles/main(java.lang.String[])@g_lucene-demo-6.6.0.jar.txt	2
+org/apache/lucene/demo/IndexFiles/indexDoc(org.apache.lucene.index.IndexWriter,java.nio.file.Path,long)@g_lucene-demo-6.6.0.jar.txt	4

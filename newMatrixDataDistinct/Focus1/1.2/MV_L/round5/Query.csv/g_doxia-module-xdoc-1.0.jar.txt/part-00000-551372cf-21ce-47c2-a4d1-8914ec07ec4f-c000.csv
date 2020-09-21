@@ -1,0 +1,4 @@
+org/apache/maven/doxia/parser/AbstractXmlParser/parse(java.io.Reader,org.apache.maven.doxia.sink.Sink)
+java/io/IOException/getMessage()
+java/io/StringReader/StringReader(java.lang.String)
+java/io/StringWriter/StringWriter()

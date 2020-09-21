@@ -1,0 +1,5 @@
+japa/parser/ast/visitor/ModifierVisitorAdapter/visit(japa.parser.ast.body.ClassOrInterfaceDeclaration,java.lang.Object)@g_xwiki-rendering-wikimodel-7.4.jar.txt	2
+org/xwiki/rendering/wikimodel/internal/mediawiki/javacc/TokenMgrError/addEscapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	4
+japa/parser/ParseException/getMessage()@g_xwiki-rendering-wikimodel-7.4.jar.txt	3
+net/sf/jsqlparser/parser/CCJSqlParser/CreateTable()@g_jsqlparser-0.9.4.jar.txt	0
+net/sf/jsqlparser/statement/update/Update/toString()@g_jsqlparser-0.9.4.jar.txt	1

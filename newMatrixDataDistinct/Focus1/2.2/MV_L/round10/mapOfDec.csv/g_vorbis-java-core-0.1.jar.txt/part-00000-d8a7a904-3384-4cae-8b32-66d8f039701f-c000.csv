@@ -1,0 +1,5 @@
+org/gagravarr/ogg/OggPacketReader/getNextPacket()@g_vorbis-java-core-0.8.jar.txt	3
+org/apache/pdfbox/ExtractImages/extractImages(java.lang.String[])@g_pdfbox-1.6.0.jar.txt	2
+org/gagravarr/vorbis/VorbisStyleComments/write()@g_vorbis-java-core-0.8.jar.txt	0
+org/apache/pdfbox/pdmodel/font/PDType1CFont/load()@g_pdfbox-1.6.0.jar.txt	1
+org/gagravarr/theora/TheoraFile/getNextAudioVisualPacket(java.util.Set)@g_vorbis-java-core-0.8.jar.txt	4

@@ -1,0 +1,4 @@
+org/codehaus/classworlds/ClassRealm/findResources(java.lang.String)
+java/util/ArrayList/ArrayList()
+java/net/URL/toString()
+java/lang/StringBuffer/append(java.lang.Object)

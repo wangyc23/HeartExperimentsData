@@ -1,0 +1,5 @@
+org/springframework/boot/configurationprocessor/MetadataStore/writeMetadata(org.springframework.boot.configurationprocessor.metadata.ConfigurationMetadata)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	3
+org/springframework/boot/loader/tools/TestJarFile/copyToFile(java.io.InputStream,java.io.File)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	2
+org/springframework/boot/loader/tools/RepackagerTests/mainClassFromManifest()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	4
+org/springframework/boot/loader/archive/JarFileArchive/unpack(org.springframework.boot.loader.jar.JarEntryData,java.io.File)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	1
+org/springframework/boot/loader/tools/TestJarFile/addManifest(java.util.jar.Manifest)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	0

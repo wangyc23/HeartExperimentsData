@@ -1,0 +1,4 @@
+org/neo4j/shell/kernel/apps/Rmrel/assertCurrentIsNode(org.neo4j.shell.Session)
+java/lang/StringBuilder/append(java.lang.String)
+org/neo4j/graphdb/Relationship/delete()
+org/neo4j/graphdb/Relationship/getOtherNode(org.neo4j.graphdb.Node)

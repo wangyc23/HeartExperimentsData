@@ -1,0 +1,5 @@
+org/xwiki/wiki/internal/descriptor/DefaultWikiDescriptorManager/getAllIds()@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	0
+org/xwiki/extension/repository/internal/core/DefaultCoreExtensionScanner/toDependency(java.lang.String,java.lang.String,java.lang.String)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	1
+org/xwiki/refactoring/internal/DefaultModelBridge/getDocumentReferences(org.xwiki.model.reference.SpaceReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	4
+org/xwiki/extension/job/internal/AbstractInstallPlanJob/checkAlreadyInstalledExtensions(java.lang.String,org.xwiki.extension.version.Version,java.lang.String)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	3
+org/xwiki/extension/repository/internal/DefaultExtensionRepositoryManager/initialize()@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	2

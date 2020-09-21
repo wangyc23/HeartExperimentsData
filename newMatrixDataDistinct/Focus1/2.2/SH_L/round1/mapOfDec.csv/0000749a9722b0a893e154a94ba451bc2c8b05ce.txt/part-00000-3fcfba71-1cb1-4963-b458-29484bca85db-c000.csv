@@ -1,0 +1,5 @@
+org/apache/hadoop/mapred/MesosScheduler/start()@2a0218ec639391b82c04660b7732bfc54fcf219b.txt	4
+org/apache/hadoop/mapred/ResourcePolicy/resourceOffers(org.apache.mesos.SchedulerDriver,java.util.List)@0410c48ebc177c0a770da020cabfe2151f29f449.txt	0
+org/apache/hadoop/mapred/MesosScheduler/start()@0410c48ebc177c0a770da020cabfe2151f29f449.txt	2
+org/apache/hadoop/mapred/ResourcePolicy/resourceOffers(org.apache.mesos.SchedulerDriver,java.util.List)@2a0218ec639391b82c04660b7732bfc54fcf219b.txt	1
+org/apache/hadoop/mapred/ResourcePolicy/computeNeededSlots(java.util.List,java.util.Collection)@0410c48ebc177c0a770da020cabfe2151f29f449.txt	3

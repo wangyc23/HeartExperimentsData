@@ -1,0 +1,4 @@
+com/mongodb/client/model/FindOneAndReplaceOptions/getReturnDocument()
+com/mongodb/client/model/FindOneAndReplaceOptions/getProjection()
+com/mongodb/operation/FindAndReplaceOperation/collation(com.mongodb.client.model.Collation)
+com/mongodb/operation/FindAndReplaceOperation/bypassDocumentValidation(java.lang.Boolean)

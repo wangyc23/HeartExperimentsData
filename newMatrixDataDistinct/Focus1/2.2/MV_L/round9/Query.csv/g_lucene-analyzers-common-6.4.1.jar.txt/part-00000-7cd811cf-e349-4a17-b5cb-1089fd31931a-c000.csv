@@ -1,0 +1,4 @@
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/restoreState(org.apache.lucene.util.AttributeSource$State)
+org/apache/lucene/analysis/tokenattributes/OffsetAttribute/setOffset(int,int)
+org/apache/lucene/analysis/tokenattributes/OffsetAttribute/startOffset()
+org/apache/lucene/analysis/tokenattributes/CharTermAttribute/length()

@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/reasoner/impl/DefaultNode/toString()@g_owlapi-impl-4.5.0.jar.txt	2
+uk/ac/manchester/cs/owl/owlapi/OWLImmutableOntologyImpl/getAxioms(org.semanticweb.owlapi.model.OWLDataProperty,org.semanticweb.owlapi.model.parameters.Imports)@g_owlapi-impl-4.5.0.jar.txt	0
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/getDirectImports(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-impl-4.5.0.jar.txt	4
+org/semanticweb/owlapi/reasoner/impl/OWLReasonerBase/computeDiff(java.util.Set,java.util.Set)@g_owlapi-impl-4.5.0.jar.txt	3
+uk/ac/manchester/cs/owl/owlapi/OWLImmutableOntologyImpl/getAxioms(org.semanticweb.owlapi.model.OWLObjectPropertyExpression,org.semanticweb.owlapi.model.parameters.Imports)@g_owlapi-impl-4.5.0.jar.txt	1

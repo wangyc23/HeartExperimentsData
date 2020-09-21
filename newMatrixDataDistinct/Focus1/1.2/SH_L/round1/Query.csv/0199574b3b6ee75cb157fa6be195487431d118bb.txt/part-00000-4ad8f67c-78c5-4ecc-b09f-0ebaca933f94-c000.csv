@@ -1,0 +1,4 @@
+org/mwg/chunk/ChunkSpace/getAndMark(byte,long,long,long)
+org/mwg/chunk/Chunk/time()
+org/mwg/chunk/WorldOrderChunk/magic()
+org/mwg/base/BaseNode/id()

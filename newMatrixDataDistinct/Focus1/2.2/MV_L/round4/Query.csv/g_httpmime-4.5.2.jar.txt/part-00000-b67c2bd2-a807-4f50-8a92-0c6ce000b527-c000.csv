@@ -1,0 +1,4 @@
+java/io/ByteArrayOutputStream/flush()
+java/lang/StringBuilder/append(java.lang.String)
+java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])
+org/apache/http/ContentTooLongException/ContentTooLongException(java.lang.String)

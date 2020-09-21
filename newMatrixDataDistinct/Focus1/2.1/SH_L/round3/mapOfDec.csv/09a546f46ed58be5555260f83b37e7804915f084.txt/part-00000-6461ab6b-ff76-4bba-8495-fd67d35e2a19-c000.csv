@@ -1,0 +1,5 @@
+io/undertow/servlet/test/security/ssl/ConfidentialityConstraintUrlMappingTestCase/setup()@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	2
+io/undertow/servlet/test/security/constraint/SecurityConstraintUrlMappingTestCase/setup()@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	1
+io/undertow/servlet/test/security/constraint/EmptyRoleSemanticTestCase/setup()@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	4
+io/undertow/servlet/test/errorpage/SecurityErrorPageTestCase/setup()@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	3
+io/undertow/servlet/test/defaultservlet/WelcomeFileSecurityTestCase/setup()@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	0

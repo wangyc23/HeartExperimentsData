@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+java/util/Comparator/compare(T,T)
+java/util/Iterator/hasNext()
+java/util/List/isEmpty()

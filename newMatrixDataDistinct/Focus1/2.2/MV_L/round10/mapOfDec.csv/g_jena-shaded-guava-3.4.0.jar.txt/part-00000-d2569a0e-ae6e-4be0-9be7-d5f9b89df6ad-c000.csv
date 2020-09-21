@@ -1,0 +1,5 @@
+org/apache/jena/ext/com/google/common/collect/FilteredEntryMultimap/removeEntriesIf(org.apache.jena.ext.com.google.common.base.Predicate)@g_jena-shaded-guava-3.5.0.jar.txt	4
+org/apache/jena/ext/com/google/common/collect/FilteredEntryMultimap/AsMap/1ValuesImpl/remove(java.lang.Object)@g_jena-shaded-guava-3.5.0.jar.txt	2
+org/apache/jena/ext/com/google/common/collect/FilteredEntryMultimap/AsMap/remove(java.lang.Object)@g_jena-shaded-guava-3.5.0.jar.txt	0
+org/apache/jena/ext/com/google/common/collect/FilteredEntryMultimap/AsMap/remove(java.lang.Object)@g_jena-shaded-guava-3.0.0.jar.txt	1
+org/apache/jena/ext/com/google/common/util/concurrent/ServiceManager/ServiceManagerState/startupTimes()@g_jena-shaded-guava-3.5.0.jar.txt	3

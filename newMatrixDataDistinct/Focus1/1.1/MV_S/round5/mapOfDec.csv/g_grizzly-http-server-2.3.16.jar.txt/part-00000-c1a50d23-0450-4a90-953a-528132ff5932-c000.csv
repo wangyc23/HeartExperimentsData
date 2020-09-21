@@ -1,0 +1,5 @@
+org/glassfish/grizzly/servlet/WebappContext/registerDefaultServlet(org.glassfish.grizzly.http.server.HttpServer)@g_javax.faces-2.2.7.jar.txt	1
+org/glassfish/grizzly/servlet/HttpServletRequestImpl/getCookies()@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/taglib/jsf_core/PhaseListenerTag/doStartTag()@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/renderkit/html_basic/HtmlBasicRenderer/getParamList(javax.faces.component.UIComponent)@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/taglib/jsf_core/ConvertNumberTag/evaluateExpressions()@g_javax.faces-2.2.7.jar.txt	0

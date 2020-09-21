@@ -1,0 +1,4 @@
+io/netty/channel/socket/DatagramChannelConfig/getAllocator()
+io/netty/channel/RecvByteBufAllocator$Handle/lastBytesRead(int)
+java/net/SocketException/getMessage()
+java/net/MulticastSocket/receive(java.net.DatagramPacket)

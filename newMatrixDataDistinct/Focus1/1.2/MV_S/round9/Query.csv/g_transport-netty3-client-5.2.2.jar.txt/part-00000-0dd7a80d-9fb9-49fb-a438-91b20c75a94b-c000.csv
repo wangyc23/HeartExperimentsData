@@ -1,0 +1,4 @@
+org/elasticsearch/common/transport/InetSocketTransportAddress/address()
+java/lang/Integer/intValue()
+org/elasticsearch/common/transport/InetSocketTransportAddress/getPort()
+java/util/Iterator/hasNext()

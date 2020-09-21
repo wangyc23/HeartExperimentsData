@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater/update(java.io.InputStream,org.apache.ivy.plugins.repository.Resource,java.io.File,org.apache.ivy.plugins.parser.xml.UpdateOptions)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	3
+org/apache/ivy/core/deliver/DeliverEngine/deliver(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,java.lang.String,org.apache.ivy.core.deliver.DeliverOptions)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	4
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	0
+org/apache/ivy/core/settings/IvySettings/load(java.io.File)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	2
+org/apache/ivy/core/publish/PublishEngine/publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor,java.util.Collection,org.apache.ivy.plugins.resolver.DependencyResolver,org.apache.ivy.core.publish.PublishOptions)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	1

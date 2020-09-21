@@ -1,0 +1,4 @@
+org/bson/BSONObject/get(java.lang.String)
+org/bson/BasicBSONObject/get(java.lang.String)
+java/lang/String/equals(java.lang.Object)
+java/util/ArrayList/size()

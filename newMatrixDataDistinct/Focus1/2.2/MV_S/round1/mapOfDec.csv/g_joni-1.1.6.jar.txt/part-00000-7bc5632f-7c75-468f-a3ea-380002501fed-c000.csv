@@ -1,0 +1,5 @@
+org/jacoco/core/runtime/AgentOptions/toString()@g_org.jacoco.core-0.7.5.201505241946.jar.txt	1
+org/jacoco/core/instr/Instrumenter/instrumentZip(java.io.InputStream,java.io.OutputStream,java.lang.String)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	0
+org/joni/Lexer/fetchToken()@g_org.jacoco.core-0.7.5.201505241946.jar.txt	2
+org/joni/Lexer/fetchNameWithLevel(int,int[],int[])@g_org.jacoco.core-0.7.5.201505241946.jar.txt	4
+org/jacoco/core/internal/analysis/BundleCoverageImpl/groupByPackage(java.util.Collection,java.util.Collection)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	3

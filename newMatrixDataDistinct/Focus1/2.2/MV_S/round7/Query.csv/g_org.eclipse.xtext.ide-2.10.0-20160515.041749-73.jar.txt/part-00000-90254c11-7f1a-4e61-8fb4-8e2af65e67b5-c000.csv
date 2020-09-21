@@ -1,0 +1,4 @@
+org/apache/log4j/Logger/isDebugEnabled()
+org/eclipse/xtext/ide/editor/contentassist/antlr/ObservableXtextTokenStream$StreamListener/announceEof(int)
+org/apache/log4j/Logger/debug(java.lang.Object)
+java/lang/StringBuilder/append(int)

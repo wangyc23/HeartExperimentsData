@@ -1,0 +1,5 @@
+com/google/common/collect/SparseImmutableTable/createSerializedForm()@g_guava-21.0.jar.txt	1
+com/google/common/cache/LocalCache/getAll(java.lang.Iterable)@g_guava-11.0.2.jar.txt	3
+com/google/common/collect/RegularImmutableTable/forCellsInternal(java.lang.Iterable,java.util.Comparator,java.util.Comparator)@g_guava-11.0.2.jar.txt	0
+com/google/common/io/Files/simplifyPath(java.lang.String)@g_guava-11.0.2.jar.txt	4
+com/google/common/collect/ImmutableSetMultimap/copyOf(com.google.common.collect.Multimap,java.util.Comparator)@g_guava-11.0.2.jar.txt	2

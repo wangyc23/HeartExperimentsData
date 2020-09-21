@@ -1,0 +1,5 @@
+org/apache/jena/ext/com/google/common/collect/MapMakerInternalMap/AbstractSerializationProxy/writeMapTo(java.io.ObjectOutputStream)@g_jena-shaded-guava-3.4.0.jar.txt	1
+org/apache/jena/ext/com/google/common/collect/FilteredEntryMultimap/AsMap/1ValuesImpl/remove(java.lang.Object)@g_jena-shaded-guava-3.4.0.jar.txt	2
+org/apache/jena/ext/com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_jena-shaded-guava-3.4.0.jar.txt	4
+org/apache/jena/ext/com/google/common/reflect/ClassPath/getTopLevelClassesRecursive(java.lang.String)@g_jena-shaded-guava-3.4.0.jar.txt	3
+org/apache/jena/ext/com/google/common/cache/LocalCache/loadAll(java.util.Set,org.apache.jena.ext.com.google.common.cache.CacheLoader)@g_jena-shaded-guava-3.4.0.jar.txt	0

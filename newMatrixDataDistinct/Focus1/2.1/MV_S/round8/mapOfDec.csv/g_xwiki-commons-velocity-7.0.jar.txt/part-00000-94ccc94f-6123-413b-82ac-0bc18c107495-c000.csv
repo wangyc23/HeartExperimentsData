@@ -1,0 +1,5 @@
+org/xwiki/velocity/internal/jmx/JMXVelocityEngine/getTemplates()@g_thymeleaf-2.1.5.RELEASE.jar.txt	2
+org/thymeleaf/context/WrappingVariablesMap/entrySet()@g_thymeleaf-2.1.5.RELEASE.jar.txt	1
+org/thymeleaf/processor/attr/AbstractAttributeModifierAttrProcessor/processAttribute(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	4
+org/thymeleaf/standard/processor/attr/AbstractStandardAttributeModifierAttrProcessor/getModifiedAttributeValues(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	3
+org/thymeleaf/standard/expression/StandardExpressionPreprocessor/preprocess(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	0

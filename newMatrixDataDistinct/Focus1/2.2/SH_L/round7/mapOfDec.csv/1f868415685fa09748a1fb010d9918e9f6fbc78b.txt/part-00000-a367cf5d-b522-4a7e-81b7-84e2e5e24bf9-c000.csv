@@ -1,0 +1,5 @@
+org/apache/spark/unsafe/types/CalendarInterval/fromSingleUnitString(java.lang.String,java.lang.String)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	3
+org/apache/hive/service/CookieSigner/verifyAndExtract(java.lang.String)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	4
+org/apache/spark/unsafe/types/CalendarInterval/fromYearMonthString(java.lang.String)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	0
+org/apache/spark/unsafe/types/CalendarInterval/fromDayTimeString(java.lang.String)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	2
+org/apache/hive/service/cli/operation/SQLOperation/getSerDe()@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	1

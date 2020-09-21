@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xs/traversers/XSDHandler/checkForDuplicateNames(java.lang.String,int,java.util.Hashtable,java.util.Hashtable,org.w3c.dom.Element,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	3
+org/apache/xerces/impl/xpath/regex/Token/getRange(java.lang.String,boolean)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	0
+org/apache/xerces/impl/xs/traversers/XSDHandler/parseSchema(org.apache.xerces.xni.parser.XMLInputSource,org.apache.xerces.impl.xs.XSDDescription,java.util.Hashtable)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	2
+org/apache/xerces/impl/xs/traversers/XSDHandler/constructTrees(org.w3c.dom.Element,java.lang.String,org.apache.xerces.impl.xs.XSDDescription,boolean)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	4
+org/apache/xerces/impl/XMLEntityManager/reset()@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	1

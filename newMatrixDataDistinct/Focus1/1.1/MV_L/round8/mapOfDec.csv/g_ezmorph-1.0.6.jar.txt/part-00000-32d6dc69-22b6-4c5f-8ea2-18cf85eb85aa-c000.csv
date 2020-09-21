@@ -1,0 +1,5 @@
+org/eclipse/osgi/baseadaptor/BaseAdaptor/listEntryPaths(java.util.List,java.lang.String,java.lang.String,int)@g_org.eclipse.osgi-3.7.1.jar.txt	1
+org/eclipse/osgi/internal/service/security/KeyStoreTrustEngine/getAliases()@g_org.eclipse.osgi-3.7.1.jar.txt	4
+org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStreamHandler/getHostAddress(java.net.URL)@g_org.eclipse.osgi-3.7.1.jar.txt	0
+org/eclipse/osgi/storagemanager/StorageManager/lookup(java.lang.String,boolean)@g_org.eclipse.osgi-3.7.1.jar.txt	3
+org/eclipse/osgi/internal/resolver/StateBuilder/getGenericCapabilities(java.util.Dictionary,java.lang.String[][])@g_org.eclipse.osgi-3.7.1.jar.txt	2

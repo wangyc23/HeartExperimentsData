@@ -1,0 +1,5 @@
+org/jsoup/helper/HttpConnection/Response/processResponseHeaders(java.util.Map)@g_jsoup-1.10.3.jar.txt	4
+org/jsoup/nodes/Entities/load(org.jsoup.nodes.Entities$EscapeMode,java.lang.String,int)@g_jsoup-1.10.3.jar.txt	3
+org/jsoup/examples/HtmlToPlainText/FormattingVisitor/append(java.lang.String)@g_jsoup-1.10.3.jar.txt	0
+org/jsoup/safety/Whitelist/testValidProtocol(org.jsoup.nodes.Element,org.jsoup.nodes.Attribute,java.util.Set)@g_jsoup-1.10.3.jar.txt	2
+org/jsoup/examples/HtmlToPlainText/FormattingVisitor/append(java.lang.String)@g_jsoup-1.8.1.jar.txt	1

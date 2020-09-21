@@ -1,0 +1,5 @@
+org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactory/validate(java.lang.Class)@g_spring-aop-3.0.5.RELEASE.jar.txt	1
+org/springframework/aop/support/RegexpMethodPointcutAdvisor/toString()@g_spring-aop-3.0.5.RELEASE.jar.txt	3
+org/springframework/aop/config/AbstractInterceptorDrivenBeanDefinitionDecorator/decorate(org.w3c.dom.Node,org.springframework.beans.factory.config.BeanDefinitionHolder,org.springframework.beans.factory.xml.ParserContext)@g_spring-aop-3.0.5.RELEASE.jar.txt	0
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-aop-3.0.5.RELEASE.jar.txt	4
+org/springframework/aop/interceptor/CustomizableTraceInterceptor/invokeUnderTrace(org.aopalliance.intercept.MethodInvocation,org.apache.commons.logging.Log)@g_spring-aop-3.0.5.RELEASE.jar.txt	2

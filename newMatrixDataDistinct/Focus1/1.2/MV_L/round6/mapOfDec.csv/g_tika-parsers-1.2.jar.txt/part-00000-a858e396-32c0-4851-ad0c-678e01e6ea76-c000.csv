@@ -1,0 +1,5 @@
+org/apache/tika/parser/image/ImageParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.4.jar.txt	4
+org/apache/tika/parser/mat/MatParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.7.jar.txt	2
+org/apache/tika/parser/pkg/CompressorParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.4.jar.txt	1
+org/apache/tika/parser/pkg/CompressorParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.7.jar.txt	3
+org/apache/tika/parser/mbox/MboxParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.4.jar.txt	0

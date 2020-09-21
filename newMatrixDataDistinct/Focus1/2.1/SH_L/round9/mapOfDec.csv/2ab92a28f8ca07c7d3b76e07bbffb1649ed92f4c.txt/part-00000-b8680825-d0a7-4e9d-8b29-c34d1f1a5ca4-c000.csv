@@ -1,0 +1,5 @@
+com/hbasebook/hush/DomainManager/deleteShortDomain(java.lang.String)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	1
+com/hbasebook/hush/schema/SchemaManager/createOrChangeTable(com.hbasebook.hush.schema.TableSchema)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	0
+client/BatchExample/main(java.lang.String[])@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	3
+filters/FilterListExample/main(java.lang.String[])@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	2
+coprocessor/RowCountEndpoint/getCount(org.apache.hadoop.hbase.filter.Filter,boolean)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	4

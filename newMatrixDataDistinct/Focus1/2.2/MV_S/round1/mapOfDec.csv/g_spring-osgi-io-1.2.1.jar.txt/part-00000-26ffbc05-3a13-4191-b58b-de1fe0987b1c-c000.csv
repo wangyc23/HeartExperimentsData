@@ -1,0 +1,5 @@
+org/apache/commons/beanutils/LazyDynaList/toArray(java.lang.Object[])@g_spring-osgi-core-1.2.1.jar.txt	4
+org/springframework/osgi/io/internal/OsgiHeaderUtils/parseRequiredBundleString(java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	0
+org/springframework/osgi/config/AbstractReferenceDefinitionParser/parseInternal(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-osgi-core-1.2.1.jar.txt	2
+org/apache/commons/beanutils/BeanUtilsBean/getArrayProperty(java.lang.Object,java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	1
+org/springframework/osgi/service/dependency/internal/DefaultMandatoryDependencyManager/discoverDependentImporterFor(java.lang.String,java.lang.Object)@g_spring-osgi-core-1.2.1.jar.txt	3

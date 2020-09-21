@@ -1,0 +1,4 @@
+org/xwiki/bridge/DocumentAccessBridge/pushDocumentInContext(java.util.Map,org.xwiki.model.reference.DocumentReference)
+org/xwiki/rendering/block/XDOM/getChildren()
+org/xwiki/rendering/transformation/MacroTransformationContext/getCurrentMacroBlock()
+org/xwiki/bridge/DocumentAccessBridge/hasProgrammingRights()

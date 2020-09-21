@@ -1,0 +1,4 @@
+org/apache/commons/beanutils/ConvertUtils/lookup(java.lang.Class)
+java/lang/reflect/Array/getLength(java.lang.Object)
+java/util/Collection/size()
+java/util/Iterator/next()

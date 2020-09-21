@@ -1,0 +1,4 @@
+scala/collection/Seq$/canBuildFrom()
+scala/collection/Seq$/empty()
+org/neo4j/cypher/internal/frontend/v2_3/perty/recipe/PrintableDocRecipe$eval$FlatTopLevelDocFrame/FlatTopLevelDocFrame(scala.collection.Seq)
+scala/collection/Seq$/apply(scala.collection.Seq)

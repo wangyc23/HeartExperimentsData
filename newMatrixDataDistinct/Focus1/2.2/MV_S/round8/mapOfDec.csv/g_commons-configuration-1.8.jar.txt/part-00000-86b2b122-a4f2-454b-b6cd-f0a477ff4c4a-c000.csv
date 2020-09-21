@@ -1,0 +1,5 @@
+org/apache/commons/beanutils/PropertyUtilsBean/copyProperties(java.lang.Object,java.lang.Object)@g_commons-beanutils-1.9.2.jar.txt	4
+org/springframework/beans/TypeConverterDelegate/convertToTypedCollection(java.util.Collection,java.lang.String,org.springframework.core.MethodParameter)@g_spring-2.5.6.jar.txt	1
+org/apache/commons/beanutils/WrapDynaClass/introspect()@g_commons-beanutils-1.9.2.jar.txt	3
+org/springframework/beans/propertyeditors/CustomCollectionEditor/setValue(java.lang.Object)@g_spring-2.5.6.jar.txt	2
+org/springframework/beans/factory/xml/BeanDefinitionParserDelegate/parseMapElement(org.w3c.dom.Element,org.springframework.beans.factory.config.BeanDefinition)@g_spring-2.5.6.jar.txt	0

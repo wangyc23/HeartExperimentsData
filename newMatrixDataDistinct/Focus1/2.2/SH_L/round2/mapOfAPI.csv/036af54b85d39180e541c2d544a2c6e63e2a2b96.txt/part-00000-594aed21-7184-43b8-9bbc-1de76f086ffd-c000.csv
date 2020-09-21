@@ -1,0 +1,4 @@
+0	at/mfpjn/workflow/routebuilder/ReceiverRouteBuilder/configure()/$anonymous2/()
+1	at/mfpjn/workflow/aggregation/ReceiverJSPAggregationStrategy/ReceiverJSPAggregationStrategy()
+2	at/mfpjn/workflow/routebuilder/ReceiverRouteBuilder/configure()/$anonymous1/()
+3	org/apache/camel/builder/ValueBuilder/contains(java.lang.Object)

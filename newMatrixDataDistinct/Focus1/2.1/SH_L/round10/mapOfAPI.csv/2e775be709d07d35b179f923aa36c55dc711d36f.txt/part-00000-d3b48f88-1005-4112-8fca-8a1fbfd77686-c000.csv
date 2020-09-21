@@ -1,0 +1,4 @@
+0	omw/dao/AnnonceDao/insertRecherche(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+1	omw/dao/UtilisateurDao/listerUsers()
+2	java/sql/DatabaseMetaData/getURL()
+3	omw/dao/UtilisateurDao/countUsersMailUsed(java.lang.String)

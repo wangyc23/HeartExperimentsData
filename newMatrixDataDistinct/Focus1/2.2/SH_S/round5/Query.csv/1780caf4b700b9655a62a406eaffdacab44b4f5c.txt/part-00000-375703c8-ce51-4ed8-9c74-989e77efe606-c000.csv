@@ -1,0 +1,4 @@
+org/hamcrest/CoreMatchers/is(T)
+java/util/ArrayList/ArrayList()
+com/google/appengine/api/NamespaceManager/set(java.lang.String)
+org/slim3/tester/ControllerTester/getController()

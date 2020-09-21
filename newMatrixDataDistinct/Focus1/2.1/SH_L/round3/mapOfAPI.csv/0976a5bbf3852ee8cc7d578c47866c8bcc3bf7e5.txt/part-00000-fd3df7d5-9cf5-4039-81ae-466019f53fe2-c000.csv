@@ -1,0 +1,8 @@
+0	org/apache/lens/ml/impl/MLUtils/getServiceProvider()
+1	java/io/PrintStream/println(boolean)
+2	java/lang/Integer/Integer(int)
+3	oops/chapter3/section7/TestEquals/Obj/Obj()
+4	java/lang/String/String(java.lang.String)
+5	java/lang/String/equals(java.lang.Object)
+6	java/lang/Integer/equals(java.lang.Object)
+7	oops/chapter3/section7/TestEquals/Obj/equals(java.lang.Object)

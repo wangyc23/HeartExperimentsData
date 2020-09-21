@@ -1,0 +1,5 @@
+org/apache/deltaspike/core/util/HierarchyDiscovery/getTypeClosure()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	0
+org/apache/deltaspike/test/jpa/api/transactional/readonly/nested/norollback/NestedMultiTransactionReadOnlyNoRollbackTest/init()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	2
+org/apache/deltaspike/core/util/AggregatedClassLoader/getResource(java.lang.String)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	1
+org/apache/deltaspike/test/core/api/config/ConfigSourceTest/testConfigViaSystemProperty()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	4
+oops/chapter21/section5/p4/Butterer/run()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	3

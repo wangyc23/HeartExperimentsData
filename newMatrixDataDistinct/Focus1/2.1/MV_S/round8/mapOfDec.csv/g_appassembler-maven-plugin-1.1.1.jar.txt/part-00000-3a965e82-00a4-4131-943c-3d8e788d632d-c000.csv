@@ -1,0 +1,5 @@
+org/apache/maven/it/util/FileUtils/copyURLToFile(java.net.URL,java.io.File)@g_maven-verifier-1.2.jar.txt	3
+org/codehaus/mojo/appassembler/daemon/script/Platform/getAppArguments(org.codehaus.mojo.appassembler.model.Daemon)@g_maven-verifier-1.2.jar.txt	1
+org/apache/ivy/core/repository/RepositoryManagementEngine/analyze()@g_maven-verifier-1.2.jar.txt	4
+org/apache/ivy/osgi/core/BundleInfoAdapter/getConfigurations(org.apache.ivy.osgi.core.BundleInfo)@g_maven-verifier-1.2.jar.txt	2
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_maven-verifier-1.2.jar.txt	0

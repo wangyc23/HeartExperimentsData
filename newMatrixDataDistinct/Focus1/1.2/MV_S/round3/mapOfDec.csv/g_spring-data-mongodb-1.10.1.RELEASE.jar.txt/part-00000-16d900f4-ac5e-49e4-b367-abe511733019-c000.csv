@@ -1,0 +1,5 @@
+org/springframework/security/config/http/AuthenticationConfigBuilder/createBasicFilter(org.springframework.beans.factory.config.BeanReference)@g_spring-security-config-4.0.1.RELEASE.jar.txt	2
+org/springframework/security/config/authentication/AuthenticationManagerBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.0.1.RELEASE.jar.txt	3
+org/springframework/security/config/http/AuthenticationConfigBuilder/createOpenIDLoginFilter(org.springframework.beans.factory.config.BeanReference,org.springframework.beans.factory.config.BeanReference)@g_spring-security-config-4.0.1.RELEASE.jar.txt	4
+org/springframework/security/config/http/HttpConfigurationBuilder/createSessionManagementFilters()@g_spring-security-config-4.0.1.RELEASE.jar.txt	0
+org/springframework/security/config/http/HttpConfigurationBuilder/createSecurityContextPersistenceFilter()@g_spring-security-config-4.0.1.RELEASE.jar.txt	1

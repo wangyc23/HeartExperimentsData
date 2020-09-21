@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/transaction/ReadOnlyTransactionImpl/doBeforeCompletion()@g_neo4j-kernel-2.1.5.jar.txt	2
+org/neo4j/kernel/impl/nioneo/xa/NeoStoreTransaction/rollbackTokenRecordChanges(org.neo4j.kernel.impl.nioneo.xa.RecordChanges,org.neo4j.kernel.impl.nioneo.store.TokenStore,boolean,org.neo4j.kernel.impl.nioneo.xa.NeoStoreTransaction$CacheRemover)@g_neo4j-kernel-2.1.5.jar.txt	1
+org/neo4j/kernel/impl/core/WritableTransactionState/populateRelationshipPropertyEvents(org.neo4j.kernel.impl.core.WritableTransactionState$PrimitiveElement,org.neo4j.kernel.impl.core.TransactionDataImpl)@g_neo4j-kernel-2.1.5.jar.txt	4
+org/neo4j/kernel/impl/nioneo/xa/NeoStoreTransaction/doRollback()@g_neo4j-kernel-2.1.5.jar.txt	3
+org/neo4j/kernel/configuration/Config/applyChanges(java.util.Map)@g_neo4j-kernel-2.1.5.jar.txt	0

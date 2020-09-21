@@ -1,0 +1,4 @@
+java/lang/String/split(java.lang.String)
+java/lang/StringBuilder/append(int)
+java/util/Map/putAll(java.util.Map)
+java/util/HashMap/HashMap()

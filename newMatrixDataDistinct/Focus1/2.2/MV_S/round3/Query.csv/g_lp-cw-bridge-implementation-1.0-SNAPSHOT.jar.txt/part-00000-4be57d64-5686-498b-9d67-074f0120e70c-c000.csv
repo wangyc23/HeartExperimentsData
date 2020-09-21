@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWikiContext/getUserReference()
+org/xwiki/model/reference/DocumentReference/getName()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)

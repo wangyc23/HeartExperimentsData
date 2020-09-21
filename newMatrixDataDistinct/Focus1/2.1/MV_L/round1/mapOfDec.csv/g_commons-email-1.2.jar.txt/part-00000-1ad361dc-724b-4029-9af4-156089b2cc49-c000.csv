@@ -1,0 +1,5 @@
+org/bouncycastle/mail/smime/examples/ReadEncryptedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.49.jar.txt	1
+org/bouncycastle/mail/smime/handlers/multipart_signed/writeTo(java.lang.Object,java.lang.String,java.io.OutputStream)@g_bcmail-jdk15on-1.49.jar.txt	4
+org/bouncycastle/mail/smime/SMIMEGenerator/makeContentBodyPart(javax.mail.internet.MimeBodyPart)@g_bcmail-jdk15on-1.49.jar.txt	3
+org/bouncycastle/mail/smime/SMIMESignedGenerator/ContentSigner/write(java.io.OutputStream)@g_bcmail-jdk15on-1.49.jar.txt	0
+org/springframework/core/io/support/PropertiesLoaderUtils/loadAllProperties(java.lang.String,java.lang.ClassLoader)@g_bcmail-jdk15on-1.49.jar.txt	2

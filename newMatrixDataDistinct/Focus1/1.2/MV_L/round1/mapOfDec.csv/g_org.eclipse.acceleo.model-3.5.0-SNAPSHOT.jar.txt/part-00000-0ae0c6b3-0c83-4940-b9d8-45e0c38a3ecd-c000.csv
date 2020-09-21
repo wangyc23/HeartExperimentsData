@@ -1,0 +1,5 @@
+org/eclipse/acceleo/model/mtl/resource/AcceleoXMIURIHandler/resolve(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.model-3.5.1.201409021433.jar.txt	3
+org/eclipse/acceleo/model/mtl/resource/AcceleoXMIURIHandler/deresolve(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.model-3.5.1.201409021433.jar.txt	1
+org/eclipse/acceleo/model/mtl/resource/AcceleoXMIURIHandler/deresolve(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.model-3.5.0-20140828.085334-61.jar.txt	0
+org/eclipse/acceleo/model/mtl/resource/AcceleoXMIURIHandler/resolve(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.model-3.5.0-20140828.085334-61.jar.txt	2
+org/eclipse/acceleo/model/mtl/resource/EMtlResourceImpl/restorePositions(org.eclipse.emf.ecore.EAnnotation)@g_org.eclipse.acceleo.model-3.5.0-20140828.085334-61.jar.txt	4

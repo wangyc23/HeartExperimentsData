@@ -1,0 +1,5 @@
+org/apache/lucene/search/suggest/analyzing/AnalyzingInfixSuggester/getChildResources()@g_lucene-sandbox-6.0.0.jar.txt	3
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/TermsWriter/write(org.apache.lucene.util.BytesRef,org.apache.lucene.index.TermsEnum)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/search/suggest/tst/TSTLookup/build(org.apache.lucene.search.suggest.InputIterator)@g_lucene-sandbox-6.0.0.jar.txt	2
+org/apache/lucene/search/suggest/analyzing/AnalyzingInfixSuggester/lookup(java.lang.CharSequence,org.apache.lucene.search.BooleanQuery,int,boolean,boolean)@g_lucene-suggest-6.4.1.jar.txt	0
+org/apache/lucene/search/suggest/analyzing/FreeTextSuggester/lookup(java.lang.CharSequence,java.util.Set,int)@g_lucene-sandbox-6.0.0.jar.txt	4

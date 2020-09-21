@@ -1,0 +1,5 @@
+org/springside/examples/showcase/demos/utilities/json/JsonDemo/fromJson()@068e67c8723b1ccfd6dcfe31b8717502deee065a.txt	2
+org/springside/modules/metrics/report/GraphiteReporter/reportHistogram(java.lang.String,org.springside.modules.metrics.HistogramMetric,long)@068e67c8723b1ccfd6dcfe31b8717502deee065a.txt	4
+org/springside/modules/metrics/MetricRegistry/getMetrics(java.lang.Class)@068e67c8723b1ccfd6dcfe31b8717502deee065a.txt	3
+org/springside/modules/metrics/report/Slf4jReporter/buildPcts(java.util.Map)@068e67c8723b1ccfd6dcfe31b8717502deee065a.txt	1
+org/springside/modules/mapper/JsonMapperTest/fromJson()@068e67c8723b1ccfd6dcfe31b8717502deee065a.txt	0

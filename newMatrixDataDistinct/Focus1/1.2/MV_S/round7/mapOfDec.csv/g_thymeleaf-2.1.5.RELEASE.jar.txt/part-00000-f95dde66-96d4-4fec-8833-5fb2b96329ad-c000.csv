@@ -1,0 +1,5 @@
+org/apache/shiro/cache/AbstractCacheManager/toString()@g_shiro-core-1.2.2.jar.txt	4
+org/apache/shiro/subject/SimplePrincipalMap/byType(java.lang.Class)@g_shiro-core-1.2.2.jar.txt	1
+org/apache/shiro/config/IniSecurityManagerFactory/getRealms(java.util.Map)@g_shiro-core-1.2.2.jar.txt	0
+org/apache/shiro/util/StringUtils/split(java.lang.String,char,char,char,boolean,boolean)@g_shiro-core-1.2.2.jar.txt	3
+org/apache/shiro/authz/permission/WildcardPermission/setParts(java.lang.String,boolean)@g_shiro-core-1.2.2.jar.txt	2

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/StringBuilder()
+org/codehaus/plexus/util/xml/pull/XmlPullParser/nextText()
+org/codehaus/plexus/util/xml/pull/XmlPullParserException/XmlPullParserException(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,java.lang.Throwable)
+java/lang/StringBuilder/toString()

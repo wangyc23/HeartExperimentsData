@@ -1,0 +1,5 @@
+scala/collection/immutable/RedBlack/NonEmpty/balLeft$1(java.lang.Object,java.lang.Object,scala.collection.immutable.RedBlack$Tree,scala.collection.immutable.RedBlack$Tree)@g_scala-library-2.9.0-1.jar.txt	4
+scala/actors/Actor/class/receiveWithin(scala.actors.Actor,long,scala.PartialFunction)@g_scala-library-2.9.0-1.jar.txt	3
+scala/collection/immutable/HashMap/HashTrieMap/merge0(scala.collection.immutable.HashMap,int,scala.Function2)@g_scala-library-2.9.0-1.jar.txt	1
+scala/xml/dtd/ContentModelParser/particle()@g_scala-library-2.9.0-1.jar.txt	0
+scala/collection/immutable/RedBlack/NonEmpty/balRight$1(java.lang.Object,java.lang.Object,scala.collection.immutable.RedBlack$Tree,scala.collection.immutable.RedBlack$Tree)@g_scala-library-2.9.0-1.jar.txt	2

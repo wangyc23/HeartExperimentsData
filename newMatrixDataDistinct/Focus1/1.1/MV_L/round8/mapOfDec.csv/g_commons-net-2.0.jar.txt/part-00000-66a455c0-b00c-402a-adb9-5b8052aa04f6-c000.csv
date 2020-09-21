@@ -1,0 +1,5 @@
+org/apache/commons/net/bsd/RExecClient/rexec(java.lang.String,java.lang.String,java.lang.String,boolean)@g_commons-net-3.1.jar.txt	2
+org/apache/commons/net/finger/FingerClient/getInputStream(boolean,java.lang.String,java.lang.String)@g_commons-net-3.2.jar.txt	1
+org/apache/commons/net/ftp/FTPHTTPClient/tunnelHandshake(java.lang.String,int,java.io.InputStream,java.io.OutputStream)@g_commons-net-3.1.jar.txt	4
+org/apache/commons/net/finger/FingerClient/getInputStream(boolean,java.lang.String,java.lang.String)@g_commons-net-3.1.jar.txt	0
+org/apache/commons/net/ftp/FTPHTTPClient/connect(java.lang.String,int)@g_commons-net-3.1.jar.txt	3

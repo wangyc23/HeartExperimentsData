@@ -1,0 +1,4 @@
+com/nzannino/web/data/SpringTransaction/SpringTransaction(org.springframework.transaction.TransactionStatus)
+org/springframework/transaction/support/DefaultTransactionDefinition/DefaultTransactionDefinition(int)
+org/springframework/transaction/support/AbstractPlatformTransactionManager/getTransaction(org.springframework.transaction.TransactionDefinition)
+org/jooq/TransactionContext/transaction(org.jooq.Transaction)

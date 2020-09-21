@@ -1,0 +1,5 @@
+com/salesforce/phoenix/jdbc/PhoenixResultSet/moveToCurrentRow()@068a166cf64f19ffbc4492554d2ebef3450c0f0b.txt	1
+com/salesforce/phoenix/parse/RHSLiteralStatementRewriter/visitLeave(com.salesforce.phoenix.parse.DivideParseNode,java.util.List)@068a166cf64f19ffbc4492554d2ebef3450c0f0b.txt	2
+com/salesforce/phoenix/expression/AndExpression/toString()@068a166cf64f19ffbc4492554d2ebef3450c0f0b.txt	4
+com/salesforce/phoenix/expression/function/RegexpReplaceFunction/evaluate(com.salesforce.phoenix.schema.tuple.Tuple,org.apache.hadoop.hbase.io.ImmutableBytesWritable)@068a166cf64f19ffbc4492554d2ebef3450c0f0b.txt	0
+com/salesforce/phoenix/end2end/ProductMetricsTest/testDegenerateAggregation()@068a166cf64f19ffbc4492554d2ebef3450c0f0b.txt	3

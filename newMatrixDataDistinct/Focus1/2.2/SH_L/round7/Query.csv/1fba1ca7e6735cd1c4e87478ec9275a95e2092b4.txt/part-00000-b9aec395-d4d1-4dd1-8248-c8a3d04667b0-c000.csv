@@ -1,0 +1,4 @@
+org/apache/hadoop/conf/Configuration/getStrings(java.lang.String,java.lang.String[])
+java/lang/String/split(java.lang.String)
+java/lang/String/trim()
+java/util/HashMap/HashMap()

@@ -1,0 +1,4 @@
+org/apache/maven/artifact/handler/ArtifactHandler/getExtension()
+org/apache/maven/artifact/Artifact/getArtifactId()
+java/io/File/getName()
+org/codehaus/plexus/util/StringUtils/isNotEmpty(java.lang.String)

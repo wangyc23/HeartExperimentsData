@@ -1,0 +1,5 @@
+scala/collection/immutable/LongMap/updateWith(long,java.lang.Object,scala.Function2)@g_scala-library-2.11.11.jar.txt	4
+scala/collection/immutable/LongMap/intersectionWith(scala.collection.immutable.LongMap,scala.Function3)@g_scala-library-2.9.0-1.jar.txt	3
+scala/collection/immutable/LongMap/updateWith(long,java.lang.Object,scala.Function2)@g_scala-library-2.9.0-1.jar.txt	0
+scala/collection/immutable/LongMap/updated(long,java.lang.Object)@g_scala-library-2.9.0-1.jar.txt	1
+scala/collection/immutable/LongMap/modifyOrRemove(scala.Function2)@g_scala-library-2.9.0-1.jar.txt	2

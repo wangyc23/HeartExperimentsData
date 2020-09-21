@@ -1,0 +1,5 @@
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_ws-commons-util-1.0.2.jar.txt	0
+org/apache/tika/language/LanguageProfile/add(java.lang.String,long)@g_ws-commons-util-1.0.2.jar.txt	1
+org/apache/tika/sax/xpath/XPathParser/parse(java.lang.String)@g_ws-commons-util-1.0.2.jar.txt	4
+org/apache/tika/language/LanguageProfilerBuilder/toString()@g_ws-commons-util-1.0.2.jar.txt	3
+org/apache/jempbox/xmp/XMPSchema/setLanguageProperty(java.lang.String,java.lang.String,java.lang.String)@g_ws-commons-util-1.0.2.jar.txt	2

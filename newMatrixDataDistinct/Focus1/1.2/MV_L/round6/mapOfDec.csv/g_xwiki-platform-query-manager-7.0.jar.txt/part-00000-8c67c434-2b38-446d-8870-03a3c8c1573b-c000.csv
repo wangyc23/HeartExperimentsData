@@ -1,0 +1,5 @@
+org/xwiki/query/internal/AbstractWhereQueryFilter/insertWhereClause(java.lang.String,java.lang.String,java.lang.String)@g_xwiki-platform-query-manager-7.4.jar.txt	1
+org/xwiki/query/internal/UniqueDocumentFilter/filterStatement(java.lang.String,java.lang.String)@g_xwiki-platform-query-manager-7.4.jar.txt	3
+org/xwiki/query/internal/AbstractQueryFilter/getOrderByColumns(java.lang.String)@g_xwiki-platform-query-manager-7.4.2.jar.txt	4
+org/xwiki/query/internal/UniqueDocumentFilter/filterStatement(java.lang.String,java.lang.String)@g_xwiki-platform-query-manager-7.4.2.jar.txt	2
+org/xwiki/query/internal/AbstractWhereQueryFilter/insertWhereClause(java.lang.String,java.lang.String,java.lang.String)@g_xwiki-platform-query-manager-7.4.2.jar.txt	0

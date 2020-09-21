@@ -1,0 +1,5 @@
+org/apache/activemq/transport/stomp/FrameTranslator/Helper/copyStandardHeadersFromMessageToFrame(org.apache.activemq.transport.stomp.ProtocolConverter,org.apache.activemq.command.ActiveMQMessage,org.apache.activemq.transport.stomp.StompFrame,org.apache.activemq.transport.stomp.FrameTranslator)@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/jndi/ActiveMQInitialContextFactory/createTopics(java.util.Map,java.util.Hashtable)@g_activemq-all-5.7.0.jar.txt	3
+org/apache/log4j/rewrite/PropertyRewritePolicy/rewrite(org.apache.log4j.spi.LoggingEvent)@g_activemq-all-5.7.0.jar.txt	4
+org/apache/log4j/rewrite/MapRewritePolicy/rewrite(org.apache.log4j.spi.LoggingEvent)@g_activemq-all-5.7.0.jar.txt	2
+org/apache/activemq/jndi/ReadOnlyContext/internalBind(java.lang.String,java.lang.Object)@g_activemq-all-5.7.0.jar.txt	1

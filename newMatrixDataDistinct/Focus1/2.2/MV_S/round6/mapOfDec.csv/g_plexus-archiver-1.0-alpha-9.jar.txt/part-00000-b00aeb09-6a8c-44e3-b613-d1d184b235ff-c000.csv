@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Copyfile/execute()@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/BZip2/pack()@g_ant-1.6.5.jar.txt	0
+org/codehaus/plexus/archiver/bzip2/BZip2Compressor/compress()@g_plexus-archiver-2.1.jar.txt	1
+org/apache/tools/ant/Main/getAntVersion()@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/Diagnostics/doReportTasksAvailability(java.io.PrintStream)@g_ant-1.6.5.jar.txt	2

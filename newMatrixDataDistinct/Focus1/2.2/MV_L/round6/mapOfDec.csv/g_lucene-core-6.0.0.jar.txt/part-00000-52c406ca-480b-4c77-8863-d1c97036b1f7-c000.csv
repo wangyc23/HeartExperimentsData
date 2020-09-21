@@ -1,0 +1,5 @@
+org/apache/lucene/index/ConcurrentMergeScheduler/initDynamicDefaults(org.apache.lucene.index.IndexWriter)@g_lucene-core-6.2.1.jar.txt	2
+org/apache/lucene/index/IndexFileDeleter/checkpoint(org.apache.lucene.index.SegmentInfos,boolean)@g_lucene-core-6.2.1.jar.txt	3
+org/apache/lucene/util/automaton/Operations/determinize(org.apache.lucene.util.automaton.Automaton,int)@g_lucene-core-6.2.1.jar.txt	4
+org/apache/lucene/codecs/compressing/CompressionMode/DeflateDecompressor/decompress(org.apache.lucene.store.DataInput,int,int,int,org.apache.lucene.util.BytesRef)@g_lucene-core-5.5.0.jar.txt	1
+org/apache/lucene/codecs/compressing/CompressionMode/DeflateDecompressor/decompress(org.apache.lucene.store.DataInput,int,int,int,org.apache.lucene.util.BytesRef)@g_lucene-core-6.2.1.jar.txt	0

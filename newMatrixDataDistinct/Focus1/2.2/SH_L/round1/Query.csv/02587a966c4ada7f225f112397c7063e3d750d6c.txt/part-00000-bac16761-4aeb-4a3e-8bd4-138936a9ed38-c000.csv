@@ -1,0 +1,4 @@
+org/xwiki/test/wysiwyg/framework/AbstractWysiwygTestCase/clickButtonWithText(java.lang.String)
+org/xwiki/test/wysiwyg/ImageTest/waitForStepToLoad(java.lang.String)
+org/xwiki/test/selenium/framework/AbstractXWikiTestCase/getSelenium()
+org/xwiki/test/wysiwyg/ImageTest/clickTab(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/sis/math/Line/doFit(java.lang.Iterable)@g_sis-utility-0.5.jar.txt	0
+org/apache/sis/util/collection/DefaultTreeTable/Node/toString()@g_sis-utility-0.5.jar.txt	3
+org/apache/sis/math/Plane/fit(java.lang.Iterable,boolean,boolean,boolean)@g_sis-utility-0.5.jar.txt	1
+org/apache/sis/metadata/PropertyAccessor/getGetters(java.lang.Class,java.lang.Class)@g_sis-metadata-0.6.jar.txt	2
+org/apache/sis/util/Utilities/deepEquals(java.lang.Object,java.lang.Object,org.apache.sis.util.ComparisonMode)@g_sis-utility-0.5.jar.txt	4

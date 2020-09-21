@@ -1,0 +1,5 @@
+org/xwiki/localization/wiki/internal/AbstractDocumentTranslationBundle/loadDocumentLocaleBundle(java.util.Locale)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	1
+com/xpn/xwiki/gwt/api/server/XWikiServiceImpl/deleteObject(java.lang.String,java.lang.String,int)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	3
+org/xwiki/localization/wiki/internal/DocumentTranslationBundleFactory/getComponentManager(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.localization.wiki.internal.TranslationDocumentModel$Scope,boolean)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	0
+org/xwiki/rendering/wikimacro/internal/DefaultWikiMacroInitializer/registerMacro(org.xwiki.model.reference.DocumentReference,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	4
+org/xwiki/localization/wiki/internal/DocumentTranslationBundleFactory/loadTranslations(java.lang.String)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	2

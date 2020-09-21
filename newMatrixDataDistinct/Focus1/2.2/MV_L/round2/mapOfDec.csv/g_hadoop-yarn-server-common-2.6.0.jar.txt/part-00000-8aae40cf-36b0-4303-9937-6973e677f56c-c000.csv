@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/proto/YarnProtos/URLProto/hashCode()@g_hadoop-yarn-api-2.6.0.jar.txt	2
+org/apache/hadoop/yarn/proto/YarnProtos/ContainerStatusProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.0.jar.txt	1
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos/SystemCredentialsForAppsProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.0.jar.txt	0
+org/apache/hadoop/yarn/proto/ApplicationHistoryServerProtos/ApplicationAttemptStartDataProto/Builder/buildPartial()@g_hadoop-yarn-api-2.6.0.jar.txt	3
+org/apache/hadoop/yarn/proto/YarnServerCommonProtos/NodeHealthStatusProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.YarnServerCommonProtos$NodeHealthStatusProto)@g_hadoop-yarn-api-2.6.0.jar.txt	4

@@ -1,0 +1,4 @@
+com/sun/syndication/fetcher/impl/HttpClientFeedFetcher$CredentialSupplier/getCredentials(java.lang.String,java.lang.String)
+org/apache/commons/httpclient/HttpState/setAuthenticationPreemptive(boolean)
+java/net/URL/toString()
+com/sun/syndication/fetcher/impl/HttpClientFeedFetcher/handleErrorCodes(int)

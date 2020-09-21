@@ -1,0 +1,5 @@
+org/apache/lucene/index/memory/MemoryIndex/toString()@g_lucene-memory-6.0.0.jar.txt	3
+org/apache/lucene/index/memory/MemoryIndex/storeDocValues(org.apache.lucene.index.memory.MemoryIndex$Info,org.apache.lucene.index.DocValuesType,java.lang.Object)@g_lucene-memory-6.2.1.jar.txt	4
+org/apache/lucene/index/memory/MemoryIndex/storeDocValues(org.apache.lucene.index.memory.MemoryIndex$Info,org.apache.lucene.index.DocValuesType,java.lang.Object)@g_lucene-memory-6.0.0.jar.txt	2
+org/apache/lucene/index/memory/MemoryIndex/addField(org.apache.lucene.index.IndexableField,org.apache.lucene.analysis.Analyzer,float)@g_lucene-memory-6.0.0.jar.txt	0
+org/apache/lucene/index/memory/MemoryIndex/addField(org.apache.lucene.index.IndexableField,org.apache.lucene.analysis.Analyzer,float)@g_lucene-memory-6.2.1.jar.txt	1

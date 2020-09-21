@@ -1,0 +1,5 @@
+org/junit/runners/BlockJUnit4ClassRunner/validateRuleField(java.lang.reflect.Field,java.util.List)@g_junit-4.7.jar.txt	0
+org/junit/experimental/theories/Theories/validateDataPointFields(java.util.List)@g_junit-4.7.jar.txt	2
+org/junit/experimental/max/MaxCore/findLeaves(org.junit.runner.Description,org.junit.runner.Description,java.util.List)@g_junit-4.7.jar.txt	4
+org/junit/runners/BlockJUnit4ClassRunner/validateRuleField(java.lang.reflect.Field,java.util.List)@g_junit-4.8.1.jar.txt	1
+org/junit/experimental/theories/Theories/validateDataPointFields(java.util.List)@g_junit-4.8.1.jar.txt	3

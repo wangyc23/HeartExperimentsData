@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/LinkedHashMap/put(java.lang.Object,java.lang.Object)
+java/util/LinkedHashMap/values()
+com/fasterxml/classmate/members/ResolvedField/applyOverride(java.lang.annotation.Annotation)

@@ -1,0 +1,4 @@
+org/eclipse/core/runtime/IConfigurationElement/getName()
+org/eclipse/core/runtime/IConfigurationElement/getAttribute(java.lang.String)
+java/lang/String/equals(java.lang.Object)
+org/eclipse/core/runtime/IExtension/getConfigurationElements()

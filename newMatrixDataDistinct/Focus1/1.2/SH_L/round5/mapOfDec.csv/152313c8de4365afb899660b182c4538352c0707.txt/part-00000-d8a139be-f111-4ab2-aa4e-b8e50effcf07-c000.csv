@@ -1,0 +1,5 @@
+com/onslyde/domain/AttendeeHome/remove(com.onslyde.domain.Attendee)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	2
+com/onslyde/util/PasswordHash/validatePassword(java.lang.String,java.lang.String)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	3
+com/onslyde/domain/AttendeeHome/persist(com.onslyde.domain.Attendee)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	0
+com/onslyde/domain/AttendeeHome/findById(java.lang.Integer)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	4
+org/edr/resource/BudgetResource/deleteBudget(java.lang.Long)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	1

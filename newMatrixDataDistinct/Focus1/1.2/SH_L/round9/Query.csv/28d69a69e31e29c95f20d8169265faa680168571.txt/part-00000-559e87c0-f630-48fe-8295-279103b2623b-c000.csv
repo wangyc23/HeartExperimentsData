@@ -1,0 +1,4 @@
+org/apache/commons/lang3/StringUtils/stripEnd(java.lang.String,java.lang.String)
+org/apache/commons/lang3/StringUtils/lowerCase(java.lang.String)
+com/adobe/acs/commons/util/datadefinitions/impl/BasicResourceDefinition/BasicResourceDefinition(java.lang.String)
+org/apache/commons/lang3/StringUtils/replace(java.lang.String,java.lang.String,java.lang.String)

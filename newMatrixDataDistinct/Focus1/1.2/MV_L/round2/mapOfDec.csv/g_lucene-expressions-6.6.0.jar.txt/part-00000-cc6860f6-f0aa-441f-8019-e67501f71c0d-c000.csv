@@ -1,0 +1,5 @@
+net/sf/cglib/core/EmitUtils/member_helper_type(net.sf.cglib.core.CodeEmitter,java.util.List,net.sf.cglib.core.ObjectSwitchCallback,net.sf.cglib.core.EmitUtils$ParameterTyper,org.objectweb.asm.Label,org.objectweb.asm.Label,java.util.BitSet)@g_cglib-2.2.0-b21.jar.txt	1
+net/sf/cglib/transform/AbstractTransformTask/process(byte[])@g_cglib-2.2.jar.txt	4
+net/sf/cglib/transform/AbstractTransformTask/process(byte[])@g_cglib-2.2.0-b21.jar.txt	0
+net/sf/cglib/transform/AbstractClassLoader/loadClass(java.lang.String)@g_cglib-2.2.0-b21.jar.txt	3
+net/sf/cglib/transform/AbstractTransformTask/processClassFile(java.io.File)@g_cglib-2.2.0-b21.jar.txt	2

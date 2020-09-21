@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_commons-lang3-3.1.jar.txt	0
+edu/stanford/nlp/parser/lexparser/EvaluateTreebank/getInputSentence(edu.stanford.nlp.trees.Tree)@g_commons-lang3-3.1.jar.txt	2
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_commons-lang3-3.1.jar.txt	1
+edu/stanford/nlp/international/arabic/pipeline/LDCPosMapper/setup(java.io.File,java.lang.String[])@g_commons-lang3-3.1.jar.txt	4
+edu/stanford/nlp/io/IOUtils/getInputStreamFromURLOrClasspathOrFileSystem(java.lang.String)@g_commons-lang3-3.1.jar.txt	3

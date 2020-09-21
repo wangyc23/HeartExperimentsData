@@ -1,0 +1,4 @@
+java/lang/Long/valueOf(long)
+java/lang/String/length()
+java/lang/Double/valueOf(java.lang.String)
+java/lang/String/substring(int)

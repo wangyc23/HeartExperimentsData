@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/SQLExec/runStatements(java.io.Reader,java.io.PrintStream)@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/DirectoryScanner/checkIncludePatterns()@g_ant-1.6.5.jar.txt	0
+org/apache/maven/it/util/StringUtils/mid(java.lang.String,int,int)@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/it/Verifier/replaceArtifacts(java.lang.String,boolean)@g_maven-verifier-1.2.jar.txt	3
+org/apache/maven/it/util/FileUtils/copyDirectoryStructure(java.io.File,java.io.File,java.io.File,boolean)@g_maven-verifier-1.2.jar.txt	2

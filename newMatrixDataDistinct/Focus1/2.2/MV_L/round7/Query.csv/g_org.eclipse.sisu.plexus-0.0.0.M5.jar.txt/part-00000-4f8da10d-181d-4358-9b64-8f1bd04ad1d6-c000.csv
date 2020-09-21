@@ -1,0 +1,4 @@
+org/codehaus/plexus/component/annotations/Component/configurator()
+org/codehaus/plexus/component/annotations/Component/version()
+java/lang/Object/equals(java.lang.Object)
+org/codehaus/plexus/component/annotations/Component/description()

@@ -1,0 +1,5 @@
+org/springframework/web/jsf/el/WebApplicationContextFacesELResolver/getValue(javax.el.ELContext,java.lang.Object,java.lang.Object)@g_spring-2.5.6.jar.txt	1
+org/springframework/instrument/classloading/weblogic/WebLogicClassPreProcessorAdapter/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	2
+org/springframework/context/annotation/AnnotationBeanNameGenerator/determineBeanNameFromAnnotation(org.springframework.beans.factory.annotation.AnnotatedBeanDefinition)@g_spring-2.5.6.jar.txt	4
+org/springframework/web/jsf/el/WebApplicationContextFacesELResolver/getType(javax.el.ELContext,java.lang.Object,java.lang.Object)@g_spring-2.5.6.jar.txt	3
+org/springframework/orm/jpa/SharedEntityManagerCreator/SharedEntityManagerInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	0

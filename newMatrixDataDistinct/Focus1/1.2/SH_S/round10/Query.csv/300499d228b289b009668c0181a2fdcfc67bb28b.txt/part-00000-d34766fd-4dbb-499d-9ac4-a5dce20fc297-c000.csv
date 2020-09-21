@@ -1,0 +1,4 @@
+org/apache/wicket/Component/onConfigure()
+org/apache/wicket/Application/get()
+org/apache/wicket/authroles/authentication/AuthenticatedWebSession/get()
+org/apache/wicket/authroles/authentication/AuthenticatedWebSession/isSignedIn()

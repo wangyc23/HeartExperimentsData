@@ -1,0 +1,4 @@
+org/apache/lucene/index/LeafReaderContext/reader()
+org/apache/lucene/index/memory/MemoryIndex/addField(java.lang.String,org.apache.lucene.analysis.TokenStream)
+org/apache/lucene/index/memory/MemoryIndex/MemoryIndex(boolean,boolean)
+org/apache/lucene/index/Terms/hasOffsets()

@@ -1,0 +1,5 @@
+org/xwiki/query/xwql/internal/hql/PropertyPrinter/print(org.xwiki.query.xwql.internal.QueryContext$PropertyInfo,org.xwiki.query.xwql.internal.hql.Printer)@g_xwiki-platform-query-xwql-7.4.2.jar.txt	1
+org/xwiki/query/xwql/internal/QueryAnalyzer/caseAXObjectDecl(org.xwiki.query.jpql.node.AXObjectDecl)@g_xwiki-platform-query-xwql-7.4.2.jar.txt	0
+org/xwiki/query/xwql/internal/XWQLQueryExecutor/execute(org.xwiki.query.Query)@g_xwiki-platform-query-xwql-7.4.2.jar.txt	2
+org/xwiki/messagestream/internal/DefaultMessageStream/deleteMessage(java.lang.String)@g_xwiki-platform-query-xwql-7.4.2.jar.txt	4
+org/xwiki/messagestream/internal/DefaultMessageStream/getRecentDirectMessages(int,int)@g_xwiki-platform-query-xwql-7.4.2.jar.txt	3

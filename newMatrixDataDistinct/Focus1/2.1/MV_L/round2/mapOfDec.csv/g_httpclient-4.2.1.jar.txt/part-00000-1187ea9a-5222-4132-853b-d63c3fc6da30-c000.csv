@@ -1,0 +1,5 @@
+org/apache/http/impl/cookie/NetscapeDraftHeaderParser/parseHeader(org.apache.http.util.CharArrayBuffer,org.apache.http.message.ParserCursor)@g_httpclient-4.2.5.jar.txt	3
+org/apache/http/client/utils/URLEncodedUtils/parse(java.lang.String,java.nio.charset.Charset)@g_httpclient-4.2.3.jar.txt	0
+org/apache/http/client/utils/URLEncodedUtils/parse(java.lang.String,java.nio.charset.Charset)@g_httpclient-4.2.5.jar.txt	2
+org/apache/http/impl/conn/DefaultClientConnectionOperator/openConnection(org.apache.http.conn.OperatedClientConnection,org.apache.http.HttpHost,java.net.InetAddress,org.apache.http.protocol.HttpContext,org.apache.http.params.HttpParams)@g_httpclient-4.2.3.jar.txt	4
+org/apache/http/impl/cookie/NetscapeDraftHeaderParser/parseHeader(org.apache.http.util.CharArrayBuffer,org.apache.http.message.ParserCursor)@g_httpclient-4.2.3.jar.txt	1

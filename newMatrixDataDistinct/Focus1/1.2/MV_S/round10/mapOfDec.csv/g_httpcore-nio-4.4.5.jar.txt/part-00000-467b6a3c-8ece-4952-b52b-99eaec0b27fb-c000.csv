@@ -1,0 +1,5 @@
+org/apache/http/pool/AbstractConnPool/shutdown()@g_httpcore-osgi-4.4.6.jar.txt	2
+org/apache/http/impl/bootstrap/ServerBootstrap/create()@g_httpcore-osgi-4.4.6.jar.txt	4
+org/apache/http/impl/nio/reactor/AbstractMultiworkerIOReactor/doShutdown()@g_httpcore-osgi-4.4.6.jar.txt	0
+org/apache/http/entity/ContentType/withParameters(org.apache.http.NameValuePair[])@g_httpcore-osgi-4.4.6.jar.txt	3
+org/apache/http/nio/pool/AbstractNIOConnPool/shutdown(long)@g_httpcore-osgi-4.4.6.jar.txt	1

@@ -1,0 +1,4 @@
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getCrc()
+java/lang/Math/min(long,long)
+java/nio/ByteBuffer/position()
+java/nio/ByteBuffer/arrayOffset()

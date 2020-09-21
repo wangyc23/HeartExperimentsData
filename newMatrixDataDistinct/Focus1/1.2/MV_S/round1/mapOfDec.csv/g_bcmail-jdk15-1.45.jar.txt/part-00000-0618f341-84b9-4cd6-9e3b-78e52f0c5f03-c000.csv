@@ -1,0 +1,5 @@
+org/bouncycastle/cms/CMSSignedDataStreamGenerator/SignerInf/toSignerInfo(org.bouncycastle.asn1.DERObjectIdentifier)@g_bcmail-jdk14-138.jar.txt	4
+org/bouncycastle/cms/KeyTransRecipientInformation/getContentStream(java.security.Key,java.lang.String)@g_bcmail-jdk14-138.jar.txt	2
+org/bouncycastle/cms/CMSEnvelopedGenerator/RecipientInf/toRecipientInfo(javax.crypto.SecretKey,java.lang.String)@g_bcmail-jdk14-138.jar.txt	0
+org/bouncycastle/cms/CMSSignedData/getSignerInfos()@g_bcmail-jdk14-138.jar.txt	1
+org/bouncycastle/cms/RecipientInformation/getContentFromSessionKey(java.security.Key,java.lang.String)@g_bcmail-jdk14-138.jar.txt	3

@@ -1,0 +1,5 @@
+com/cybozu/labs/langdetect/util/Util/unicodeEncode(java.lang.String)@g_segment-1.4.2.jar.txt	4
+be/frma/langguess/GenProfile/generate(java.lang.String,java.io.File)@g_segment-1.4.2.jar.txt	3
+com/cybozu/labs/langdetect/CommandLineInterface/detectLang()@g_segment-1.4.2.jar.txt	1
+org/eclipse/core/commands/operations/TriggeredOperations/remove(org.eclipse.core.commands.operations.IUndoableOperation)@g_segment-1.4.2.jar.txt	2
+net/sourceforge/segment/srx/SrxTextIterator/init(net.sourceforge.segment.srx.SrxDocument,java.lang.String,net.sourceforge.segment.srx.TextManager,java.util.Map)@g_segment-1.4.2.jar.txt	0

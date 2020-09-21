@@ -1,0 +1,4 @@
+0	java/nio/file/Path/toString()
+1	java/net/URI/URI(java.lang.String)
+2	net/java/truevfs/access/TPath/TPath(java.net.URI)
+3	java/lang/String/format(java.lang.String,java.lang.Object[])

@@ -1,0 +1,5 @@
+org/hibernate/metamodel/source/annotations/entity/EntityClass/createDefaultCallback(java.lang.Class,org.jboss.jandex.DotName,java.lang.String,java.util.Map)@g_hibernate-annotations-3.5.5-Final.jar.txt	4
+org/hibernate/hql/internal/antlr/HqlSqlBaseWalker/count(antlr.collections.AST)@g_hibernate-annotations-3.5.5-Final.jar.txt	1
+org/hibernate/cfg/AnnotationConfiguration/ExtendedMappingsImpl/addUniqueConstraints(org.hibernate.mapping.Table,java.util.List)@g_hibernate-annotations-3.5.5-Final.jar.txt	3
+org/hibernate/cfg/beanvalidation/TypeSafeActivator/applyLength(org.hibernate.mapping.Property,javax.validation.metadata.ConstraintDescriptor,javax.validation.metadata.PropertyDescriptor)@g_hibernate-annotations-3.5.5-Final.jar.txt	0
+org/hibernate/cfg/HbmBinder/bindSimpleValueType(org.dom4j.Element,org.hibernate.mapping.SimpleValue,org.hibernate.cfg.Mappings)@g_hibernate-annotations-3.5.5-Final.jar.txt	2

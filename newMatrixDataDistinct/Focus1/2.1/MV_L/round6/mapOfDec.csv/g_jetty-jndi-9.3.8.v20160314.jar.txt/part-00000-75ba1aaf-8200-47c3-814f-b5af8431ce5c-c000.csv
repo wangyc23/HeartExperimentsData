@@ -1,0 +1,5 @@
+org/eclipse/jetty/plus/jaas/JAASLoginService/getGroups(javax.security.auth.Subject)@g_jetty-jndi-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/webapp/TagLibConfiguration/TagLibListener/contextInitialized(javax.servlet.ServletContextEvent)@g_jetty-jndi-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/jndi/ContextFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_jetty-jndi-7.6.5.v20120716.jar.txt	0
+org/apache/jasper/compiler/Generator/GenerateVisitor/visit(org.apache.jasper.compiler.Node$CustomTag)@g_jetty-jndi-7.6.5.v20120716.jar.txt	4
+org/eclipse/jdt/internal/compiler/parser/Parser/buildFileForReadableName(java.lang.String,char[],char[],java.lang.String[],java.lang.String[])@g_jetty-jndi-7.6.5.v20120716.jar.txt	3

@@ -1,0 +1,4 @@
+ch/qos/logback/classic/spi/ILoggingEvent/getMessage()
+org/slf4j/Logger/debug(java.lang.String,java.lang.Object)
+ch/qos/logback/classic/spi/ILoggingEvent/getThrowableProxy()
+java/lang/Class/getName()

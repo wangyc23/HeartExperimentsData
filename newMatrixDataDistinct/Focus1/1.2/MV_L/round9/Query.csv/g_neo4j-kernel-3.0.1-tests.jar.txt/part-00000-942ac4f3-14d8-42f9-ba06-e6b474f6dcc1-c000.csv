@@ -1,0 +1,4 @@
+java/lang/Short/Short(short)
+org/neo4j/graphdb/Node/getProperty(java.lang.String)
+org/neo4j/graphdb/Node/hasProperty(java.lang.String)
+java/lang/Short/valueOf(short)

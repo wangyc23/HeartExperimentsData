@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/util/MRApps/parseDistributedCacheArtifacts(org.apache.hadoop.conf.Configuration,java.util.Map,org.apache.hadoop.yarn.api.records.LocalResourceType,java.net.URI[],long[],long[],boolean[])@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	4
+org/apache/hadoop/mapreduce/TypeConverter/fromYarn(org.apache.hadoop.yarn.api.records.QueueInfo,org.apache.hadoop.conf.Configuration)@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	3
+org/apache/hadoop/mapred/LocalJobRunner/Job/run()@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	1
+org/apache/hadoop/mapred/LocalDistributedCacheManager/setup(org.apache.hadoop.mapred.JobConf)@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	2
+org/apache/hadoop/mapred/LocalDistributedCacheManager/close()@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	0

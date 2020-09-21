@@ -1,0 +1,4 @@
+org/eclipse/acceleo/common/utils/AcceleoASTNodeAdapter/getLine()
+org/eclipse/emf/ecore/util/EcoreUtil/getRootContainer(org.eclipse.emf.ecore.EObject)
+java/lang/Object/toString()
+java/lang/String/valueOf(java.lang.Object)

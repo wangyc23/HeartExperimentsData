@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String)
+javax/xml/parsers/DocumentBuilder/parse(java.io.InputStream)
+javax/servlet/http/HttpServletRequest/getInputStream()
+java/io/InputStream/reset()

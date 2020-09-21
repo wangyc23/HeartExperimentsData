@@ -1,0 +1,4 @@
+java/sql/Connection/prepareStatement(java.lang.String)
+java/lang/Integer/intValue()
+org/apache/commons/dbcp2/PoolingConnection/getDelegate()
+java/sql/Connection/prepareCall(java.lang.String,int,int)

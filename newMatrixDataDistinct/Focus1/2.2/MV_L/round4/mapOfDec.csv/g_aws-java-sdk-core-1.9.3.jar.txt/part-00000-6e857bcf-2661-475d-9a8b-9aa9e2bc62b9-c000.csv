@@ -1,0 +1,5 @@
+org/jets3t/service/Jets3tProperties/loadAndReplaceProperties(java.util.Properties,java.lang.String)@g_jets3t-0.9.0.jar.txt	1
+org/jets3t/service/multi/ThreadedStorageService/fireServiceEvent(org.jets3t.service.multi.event.ServiceEvent)@g_jets3t-0.9.0.jar.txt	2
+org/jets3t/service/utils/FileComparer/buildDiscrepancyLists(java.util.Map,java.util.Map,org.jets3t.service.io.BytesProgressWatcher,boolean)@g_jets3t-0.9.0.jar.txt	4
+org/jets3t/service/S3Service/putObjectMaybeAsMultipart(java.lang.String,org.jets3t.service.model.StorageObject,long)@g_jets3t-0.9.0.jar.txt	3
+org/jets3t/service/StorageService/renameMetadataKeys(java.util.Map)@g_jets3t-0.9.0.jar.txt	0

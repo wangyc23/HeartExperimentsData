@@ -1,0 +1,4 @@
+java/util/Map/Entry/getValue()
+java/io/PrintStream/println(java.lang.String)
+java/util/Map/Entry/getKey()
+java/io/PrintStream/println(java.lang.Object)

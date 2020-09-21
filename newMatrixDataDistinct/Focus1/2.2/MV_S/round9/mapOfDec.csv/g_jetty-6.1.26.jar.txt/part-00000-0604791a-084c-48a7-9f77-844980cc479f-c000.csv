@@ -1,0 +1,5 @@
+org/apache/ivy/osgi/repo/AbstractOSGiResolver/findNames(java.util.Map,java.lang.String)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/osgi/util/ParseUtil/parseDelimitedString(java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/util/url/ApacheURLLister/retrieveListing(java.net.URL,boolean,boolean)@g_ivy-2.3.0.jar.txt	3
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/JavaPackage/getSubPackages()@g_attributes-processor-1.0.1.jar.txt	4
+org/apache/ivy/plugins/report/XmlReportParser/SaxXmlReportParser/XmlReportParserHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_ivy-2.3.0.jar.txt	1

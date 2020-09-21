@@ -1,0 +1,5 @@
+io/seldon/util/GetAvgTermFreq/getDocAvgTermFreqs()@g_lucene-demo-6.6.0.jar.txt	1
+org/apache/lucene/demo/facet/AssociationsFacetsExample/drillDown()@g_lucene-demo-6.6.0.jar.txt	3
+io/seldon/semvec/CompareItems/compareItem(java.lang.Long,pitt.search.semanticvectors.VectorStoreRAM,pitt.search.semanticvectors.FlagConfig,java.io.BufferedWriter)@g_lucene-demo-6.6.0.jar.txt	4
+edu/cmu/lti/jawjaw/db/SynlinkDAO/findSynlinksBySynset(java.lang.String)@g_lucene-demo-6.6.0.jar.txt	2
+edu/cmu/lti/jawjaw/util/CollectionUtil/synsetToOffset(java.lang.String)@g_lucene-demo-6.6.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/jfree/chart/plot/PiePlot3D/draw(java.awt.Graphics2D,java.awt.geom.Rectangle2D,java.awt.geom.Point2D,org.jfree.chart.plot.PlotState,org.jfree.chart.plot.PlotRenderingInfo)@g_jcommon-1.0.23.jar.txt	4
+org/jfree/chart/util/TextUtils/deriveTextBoundsAnchorOffsets(java.awt.Graphics2D,java.lang.String,org.jfree.ui.TextAnchor,java.awt.geom.Rectangle2D)@g_jcommon-1.0.23.jar.txt	3
+org/jfree/chart/renderer/xy/XYStepRenderer/drawItem(java.awt.Graphics2D,org.jfree.chart.renderer.xy.XYItemRendererState,java.awt.geom.Rectangle2D,org.jfree.chart.plot.PlotRenderingInfo,org.jfree.chart.plot.XYPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.axis.ValueAxis,org.jfree.data.xy.XYDataset,int,int,org.jfree.chart.plot.CrosshairState,int)@g_jcommon-1.0.23.jar.txt	1
+org/jfree/io/SerialUtilities/readShape(java.io.ObjectInputStream)@g_jcommon-1.0.23.jar.txt	0
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer/drawDomainMarker(java.awt.Graphics2D,org.jfree.chart.plot.XYPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.plot.Marker,java.awt.geom.Rectangle2D)@g_jcommon-1.0.23.jar.txt	2

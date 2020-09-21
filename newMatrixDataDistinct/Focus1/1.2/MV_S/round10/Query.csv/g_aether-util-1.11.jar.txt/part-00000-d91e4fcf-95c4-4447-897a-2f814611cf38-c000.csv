@@ -1,0 +1,4 @@
+java/util/Iterator/remove()
+java/lang/Object/equals(java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Map/get(java.lang.Object)

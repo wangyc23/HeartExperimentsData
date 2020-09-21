@@ -1,0 +1,4 @@
+org/apache/lucene/search/BooleanQuery/clauses()
+org/apache/lucene/search/BooleanQuery$Builder/build()
+org/apache/lucene/search/BooleanQuery/iterator()
+java/util/Iterator/next()

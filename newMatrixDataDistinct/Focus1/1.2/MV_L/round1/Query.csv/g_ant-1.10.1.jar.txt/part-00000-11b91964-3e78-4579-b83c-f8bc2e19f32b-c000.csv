@@ -1,0 +1,4 @@
+java/io/File/File(java.io.File,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/tools/ant/taskdefs/Replace$Replacefilter/setToken(java.lang.String)
+java/lang/StringBuffer/toString()

@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/util/Iterator/hasNext()
+java/lang/String/toUpperCase(java.util.Locale)
+java/util/Iterator/next()

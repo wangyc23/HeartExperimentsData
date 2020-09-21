@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xs/traversers/XSAttributeChecker/checkAttributes(org.w3c.dom.Element,boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo,boolean)@g_batik-dom-1.8.jar.txt	4
+org/apache/xerces/dom/RangeImpl/insertNode(org.w3c.dom.Node)@g_xercesImpl-2.9.1.jar.txt	0
+org/apache/xerces/dom/DOMNormalizer/isAttrValueWF(org.w3c.dom.DOMErrorHandler,org.apache.xerces.dom.DOMErrorImpl,org.apache.xerces.dom.DOMLocatorImpl,org.w3c.dom.NamedNodeMap,org.w3c.dom.Attr,java.lang.String,boolean)@g_xercesImpl-2.9.1.jar.txt	3
+org/apache/xerces/parsers/AbstractDOMParser/endGeneralEntity(java.lang.String,org.apache.xerces.xni.Augmentations)@g_xercesImpl-2.9.1.jar.txt	2
+org/apache/xerces/parsers/AbstractDOMParser/endElement(org.apache.xerces.xni.QName,org.apache.xerces.xni.Augmentations)@g_xercesImpl-2.9.1.jar.txt	1

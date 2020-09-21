@@ -1,0 +1,4 @@
+java/lang/ProcessBuilder/directory(java.io.File)
+java/util/Iterator/hasNext()
+java/lang/ProcessBuilder/redirectErrorStream(boolean)
+java/util/Iterator/next()

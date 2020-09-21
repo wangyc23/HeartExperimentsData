@@ -1,0 +1,5 @@
+com/iluwatar/reader/writer/lock/Writer/run()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	2
+com/iluwatar/doublechecked/locking/Inventory/addItem(com.iluwatar.doublechecked.locking.Item)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	0
+com/iluwatar/reader/writer/lock/Reader/run()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	1
+org/jboss/resteasy/jsapi/JSAPIWriter/writeJavaScript(java.lang.String,java.io.PrintWriter,org.jboss.resteasy.jsapi.ServiceRegistry)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	4
+se/unlogic/eagledns/EagleDNS/addRRset(se.unlogic.eagledns.Name,se.unlogic.eagledns.Message,se.unlogic.eagledns.RRset,int,int)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	3

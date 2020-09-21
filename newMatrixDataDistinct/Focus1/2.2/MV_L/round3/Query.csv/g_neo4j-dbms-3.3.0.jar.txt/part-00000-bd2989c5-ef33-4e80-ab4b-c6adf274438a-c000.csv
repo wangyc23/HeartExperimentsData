@@ -1,0 +1,4 @@
+org/neo4j/unsafe/impl/batchimport/input/Collectors/collect(boolean,boolean,boolean)
+org/neo4j/tooling/ImportTool/doImport(java.io.PrintStream,java.io.PrintStream,java.io.File,java.io.File,java.io.File,org.neo4j.io.fs.FileSystemAbstraction,java.util.Collection,java.util.Collection,boolean,org.neo4j.unsafe.impl.batchimport.input.Input,org.neo4j.kernel.configuration.Config,java.io.OutputStream,org.neo4j.unsafe.impl.batchimport.Configuration)
+org/neo4j/commandline/admin/OutsideWorld/fileSystem()
+java/io/File/File(java.lang.String)

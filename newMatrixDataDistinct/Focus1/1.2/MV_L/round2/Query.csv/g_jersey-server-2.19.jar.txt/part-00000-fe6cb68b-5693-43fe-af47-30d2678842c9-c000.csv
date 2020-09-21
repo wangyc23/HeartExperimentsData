@@ -1,0 +1,4 @@
+org/glassfish/jersey/model/internal/ComponentBag/getInstances(jersey.repackaged.com.google.common.base.Predicate)
+java/util/Iterator/hasNext()
+jersey/repackaged/com/google/common/collect/Sets/newHashSet()
+java/util/Set/contains(java.lang.Object)

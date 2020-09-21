@@ -1,0 +1,5 @@
+tfidf/WordCountCombiner/reduce(org.apache.hadoop.io.Text,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@07f0961a9a1642392507df55e63ac17f2572eca2.txt	3
+com/manning/hip/ch3/StockWritableSerDe/checkType(java.util.List,java.util.List,int,org.apache.hadoop.hive.serde2.typeinfo.TypeInfo)@07f0961a9a1642392507df55e63ac17f2572eca2.txt	4
+com/manning/hip/ch3/csv/CSVInputFormat/CSVRecordReader/nextKeyValue()@07f0961a9a1642392507df55e63ac17f2572eca2.txt	1
+com/manning/hip/ch3/avro/gen/Stock/Builder/setOpen(double)@07f0961a9a1642392507df55e63ac17f2572eca2.txt	0
+hiveudf/DSPCategoryDecode_ext/main(java.lang.String[])@07f0961a9a1642392507df55e63ac17f2572eca2.txt	2

@@ -1,0 +1,4 @@
+se/sics/kompics/network/Address/asSocket()
+se/sics/kompics/network/netty/DirectMessage/getSource()
+java/net/InetSocketAddress/InetSocketAddress(java.net.InetAddress,int)
+se/sics/kompics/network/Address/getIp()

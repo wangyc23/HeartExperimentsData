@@ -1,0 +1,5 @@
+at/mfpjn/workflow/dao/UserMediaChannelsParametersDaoImpl/deleteTwitterParameters(int)@0000954c8c98624dd08a76264e3f50115e80574c.txt	4
+at/mfpjn/workflow/controller/CustomerController/updateInfo(org.springframework.ui.Model)@0000954c8c98624dd08a76264e3f50115e80574c.txt	3
+at/mfpjn/workflow/controller/CustomerController/updateUserInfo(javax.servlet.http.HttpServletRequest)@0000954c8c98624dd08a76264e3f50115e80574c.txt	2
+at/mfpjn/workflow/controller/HomeController/storeAccessToken(at.mfpjn.workflow.model.Customer,long,twitter4j.auth.AccessToken)@0000954c8c98624dd08a76264e3f50115e80574c.txt	0
+at/mfpjn/workflow/routebuilder/TwitterReceiverRouteBuilder/configure()@0000954c8c98624dd08a76264e3f50115e80574c.txt	1

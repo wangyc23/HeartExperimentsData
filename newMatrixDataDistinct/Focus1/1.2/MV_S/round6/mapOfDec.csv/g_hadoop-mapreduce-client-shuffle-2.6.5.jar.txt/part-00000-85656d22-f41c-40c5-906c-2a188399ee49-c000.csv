@@ -1,0 +1,5 @@
+org/springframework/jdbc/core/metadata/CallMetaDataContext/reconcileParameters(java.util.List)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	4
+org/springframework/jdbc/core/metadata/CallMetaDataContext/matchInParameterValuesWithCallParameters(java.util.Map)@g_spring-2.5.6.jar.txt	3
+org/springframework/jdbc/core/metadata/CallMetaDataContext/reconcileParameters(java.util.List)@g_spring-2.5.6.jar.txt	1
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	0
+org/springframework/jdbc/core/metadata/CallMetaDataContext/matchInParameterValuesWithCallParameters(org.springframework.jdbc.core.namedparam.SqlParameterSource)@g_spring-2.5.6.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/lucene/expressions/js/JavascriptCompiler/1/visitBooleqne(org.apache.lucene.expressions.js.JavascriptParser$BooleqneContext)@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	3
+org/xwiki/rendering/internal/renderer/xwiki20/XWikiSyntaxEscapeHandler/escape(java.lang.StringBuffer,org.xwiki.rendering.internal.renderer.xwiki20.XWikiSyntaxListenerChain,boolean,java.util.regex.Pattern)@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	4
+org/apache/lucene/expressions/js/JavascriptCompiler/1/visitBoolor(org.apache.lucene.expressions.js.JavascriptParser$BoolorContext)@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	0
+org/apache/lucene/expressions/js/JavascriptCompiler/1/pushBoolean(boolean)@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	1
+org/apache/lucene/expressions/js/JavascriptCompiler/1/visitMuldiv(org.apache.lucene.expressions.js.JavascriptParser$MuldivContext)@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	2

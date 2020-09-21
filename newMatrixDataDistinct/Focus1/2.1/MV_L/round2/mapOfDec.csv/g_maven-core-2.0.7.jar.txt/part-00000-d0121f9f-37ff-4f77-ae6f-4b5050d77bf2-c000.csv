@@ -1,0 +1,5 @@
+org/apache/maven/cli/MavenCli/buildSettings(org.apache.commons.cli.CommandLine)@g_maven-core-2.0.6.jar.txt	0
+org/apache/maven/plugin/PluginConfigurationException/addParameterUsageInfo(java.lang.String,java.lang.StringBuffer)@g_maven-core-2.0.6.jar.txt	2
+org/apache/maven/cli/MavenCli/buildSettings(org.apache.commons.cli.CommandLine)@g_maven-core-2.0.8.jar.txt	1
+org/apache/maven/cli/ConsoleDownloadMonitor/transferInitiated(org.apache.maven.wagon.events.TransferEvent)@g_maven-core-2.0.6.jar.txt	4
+org/apache/maven/extension/DefaultExtensionManager/addExtension(org.apache.maven.model.Extension,org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-core-2.0.6.jar.txt	3

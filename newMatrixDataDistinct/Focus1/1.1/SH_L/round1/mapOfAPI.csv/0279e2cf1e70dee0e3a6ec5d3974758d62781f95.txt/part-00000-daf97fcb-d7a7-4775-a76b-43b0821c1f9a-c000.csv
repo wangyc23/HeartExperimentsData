@@ -1,0 +1,4 @@
+0	com/baeldung/orika/Source/Source(java.lang.String,int)
+1	java/io/PrintStream/println(java.lang.String)
+2	org/baeldung/persistence/model/Foo/getId()
+3	org/baeldung/persistence/model/Foo/getName()

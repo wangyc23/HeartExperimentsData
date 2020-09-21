@@ -1,0 +1,4 @@
+org/apache/maven/artifact/Artifact/getArtifactId()
+java/util/Iterator/hasNext()
+java/lang/String/equals(java.lang.Object)
+java/util/Set/iterator()

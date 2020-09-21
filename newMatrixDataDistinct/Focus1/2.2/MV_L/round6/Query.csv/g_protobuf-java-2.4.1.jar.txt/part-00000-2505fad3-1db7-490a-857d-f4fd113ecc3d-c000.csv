@@ -1,0 +1,4 @@
+com/google/protobuf/DescriptorProtos$SourceCodeInfo$Location$Builder/parseUnknownField(com.google.protobuf.CodedInputStream,com.google.protobuf.UnknownFieldSet$Builder,com.google.protobuf.ExtensionRegistryLite,int)
+com/google/protobuf/DescriptorProtos$SourceCodeInfo$Location$Builder/ensureSpanIsMutable()
+com/google/protobuf/DescriptorProtos$SourceCodeInfo$Location$Builder/setUnknownFields(com.google.protobuf.UnknownFieldSet)
+com/google/protobuf/DescriptorProtos$SourceCodeInfo$Location$Builder/ensurePathIsMutable()

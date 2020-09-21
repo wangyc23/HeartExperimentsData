@@ -1,0 +1,5 @@
+org/assertj/core/util/DateUtil/formatTimeDifference(java.util.Date,java.util.Date)@g_cglib-nodep-2.1_3.jar.txt	1
+org/mockito/asm/util/TraceClassVisitor/visitField(int,java.lang.String,java.lang.String,java.lang.String,java.lang.Object)@g_cglib-nodep-2.1_3.jar.txt	0
+org/assertj/core/internal/DeepDifference/deepHashCode(java.lang.Object)@g_cglib-nodep-2.1_3.jar.txt	4
+org/assertj/core/internal/cglib/core/ReflectUtils/<clinit>()@g_cglib-nodep-2.1_3.jar.txt	2
+org/mockito/cglib/core/DebuggingClassWriter/1/run()@g_cglib-nodep-2.1_3.jar.txt	3

@@ -1,0 +1,5 @@
+org/springframework/data/util/ClassTypeInformation/getTypeVariableMap(java.lang.Class,java.util.Collection)@g_spring-data-commons-1.11.0.RELEASE.jar.txt	1
+org/springframework/data/repository/support/ReflectionRepositoryInvoker/invokeQueryMethod(java.lang.reflect.Method,java.util.Map,org.springframework.data.domain.Pageable,org.springframework.data.domain.Sort)@g_spring-data-commons-1.11.0.RELEASE.jar.txt	3
+org/springframework/data/repository/support/Repositories/cacheRepositoryFactory(java.lang.String)@g_spring-data-commons-1.11.0.RELEASE.jar.txt	4
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/toString()@g_spring-data-commons-1.11.0.RELEASE.jar.txt	2
+org/springframework/data/querydsl/binding/QuerydslPredicateBuilder/convertToPropertyPathSpecificType(java.util.List,org.springframework.data.mapping.PropertyPath)@g_spring-data-commons-1.11.0.RELEASE.jar.txt	0

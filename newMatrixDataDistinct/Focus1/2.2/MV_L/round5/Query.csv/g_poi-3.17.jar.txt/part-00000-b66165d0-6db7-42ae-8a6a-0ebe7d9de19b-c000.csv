@@ -1,0 +1,4 @@
+java/lang/String/toUpperCase(java.util.Locale)
+java/lang/StringBuffer/append(int)
+java/lang/StringBuffer/StringBuffer(java.lang.String)
+java/lang/StringBuffer/append(java.lang.String)

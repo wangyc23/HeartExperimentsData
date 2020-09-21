@@ -1,0 +1,5 @@
+org/springframework/jmx/export/MBeanExporter/autodetect(org.springframework.jmx.export.MBeanExporter$AutodetectCallback)@g_spring-2.5.6.jar.txt	0
+org/springframework/remoting/support/SimpleHttpServerFactoryBean/afterPropertiesSet()@g_spring-2.5.6.jar.txt	3
+org/springframework/orm/toplink/support/CommonsLoggingSessionLog/log(oracle.toplink.logging.SessionLogEntry)@g_spring-2.5.6.jar.txt	4
+org/springframework/beans/factory/support/DefaultListableBeanFactory/preInstantiateSingletons()@g_spring-2.5.6.jar.txt	1
+org/springframework/ui/velocity/VelocityEngineFactory/createVelocityEngine()@g_spring-2.5.6.jar.txt	2

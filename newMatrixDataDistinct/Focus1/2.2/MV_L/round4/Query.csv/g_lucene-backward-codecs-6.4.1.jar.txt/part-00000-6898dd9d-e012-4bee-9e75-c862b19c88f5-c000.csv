@@ -1,0 +1,4 @@
+org/apache/lucene/store/IndexOutput/writeVInt(int)
+org/apache/lucene/util/MathUtil/gcd(long,long)
+java/lang/Long/valueOf(long)
+java/util/Collections/max(java.util.Collection)

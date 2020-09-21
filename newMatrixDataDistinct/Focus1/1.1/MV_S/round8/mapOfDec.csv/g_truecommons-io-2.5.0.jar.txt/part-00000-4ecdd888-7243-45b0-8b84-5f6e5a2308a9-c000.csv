@@ -1,0 +1,5 @@
+io/netty/buffer/Unpooled/wrappedBuffer(java.nio.ByteBuffer)@g_netty-buffer-4.0.25.Final.jar.txt	1
+hidden/io/netty/handler/ssl/SslHandler/unwrap(hidden.io.netty.channel.ChannelHandlerContext,java.nio.ByteBuffer,int)@g_xwiki-contrib-websocket-1.7.jar.txt	4
+io/netty/buffer/ByteBufUtil/encodeString0(io.netty.buffer.ByteBufAllocator,boolean,java.nio.CharBuffer,java.nio.charset.Charset)@g_netty-buffer-4.0.25.Final.jar.txt	0
+hidden/io/netty/handler/ssl/OpenSslEngine/readEncryptedData(java.nio.ByteBuffer,int)@g_xwiki-contrib-websocket-1.7.jar.txt	2
+hidden/io/netty/buffer/Unpooled/wrappedBuffer(java.nio.ByteBuffer)@g_xwiki-contrib-websocket-1.7.jar.txt	3

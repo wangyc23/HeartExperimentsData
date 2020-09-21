@@ -1,0 +1,4 @@
+java/util/concurrent/locks/Lock/unlock()
+org/eclipse/emf/common/util/Pool/newEntries(int)
+java/util/concurrent/locks/Lock/lock()
+org/eclipse/emf/common/util/Pool/index(int,int)

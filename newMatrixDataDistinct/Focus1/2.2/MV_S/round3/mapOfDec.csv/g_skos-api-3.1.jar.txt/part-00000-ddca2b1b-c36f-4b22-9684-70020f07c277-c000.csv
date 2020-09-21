@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/getHierarchyReflexiveTransitiveClosure()@g_owlapi-api-4.5.0.jar.txt	2
+org/semanticweb/owlapi/util/AutoIRIMapper/processFile(java.io.File)@g_owlapi-api-4.5.0.jar.txt	3
+org/semanticweb/owlapi/util/OWLLiteralReplacer/changeLiteral(org.semanticweb.owlapi.model.OWLLiteral,org.semanticweb.owlapi.model.OWLLiteral)@g_owlapi-api-4.5.0.jar.txt	1
+org/semanticweb/owlapi/util/PropertyAssertionValueShortFormProvider/getShortForm(org.semanticweb.owlapi.model.OWLEntity)@g_owlapi-api-4.5.0.jar.txt	4
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/getPropertyPartialOrdering()@g_owlapi-api-4.5.0.jar.txt	0

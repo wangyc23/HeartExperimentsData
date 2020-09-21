@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/ClusterStatus/readFields(java.io.DataInput)@178304f8a5eced8a7a1715859086d23429f71a2c.txt	0
+org/apache/hadoop/hbase/ipc/ConnectionHeader/readFields(java.io.DataInput)@178304f8a5eced8a7a1715859086d23429f71a2c.txt	1
+org/apache/hadoop/hbase/ipc/Invocation/readFields(java.io.DataInput)@178304f8a5eced8a7a1715859086d23429f71a2c.txt	2
+org/apache/hadoop/hbase/filter/CompareFilter/readFields(java.io.DataInput)@178304f8a5eced8a7a1715859086d23429f71a2c.txt	4
+org/apache/hadoop/hbase/client/coprocessor/Exec/readFields(java.io.DataInput)@178304f8a5eced8a7a1715859086d23429f71a2c.txt	3

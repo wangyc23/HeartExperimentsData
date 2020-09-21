@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)

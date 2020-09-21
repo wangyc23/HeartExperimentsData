@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/Os/isFamily(java.lang.String)
+java/util/Properties/getProperty(java.lang.String)
+java/io/IOException/IOException(java.lang.String)
+java/io/File/isDirectory()

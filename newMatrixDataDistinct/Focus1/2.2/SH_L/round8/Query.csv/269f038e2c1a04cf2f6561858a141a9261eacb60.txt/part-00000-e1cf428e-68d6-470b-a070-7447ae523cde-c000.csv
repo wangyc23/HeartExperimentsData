@@ -1,0 +1,4 @@
+org/jboss/forge/shell/test/MockAbortingPlugin/isExecuted()
+org/jboss/forge/shell/Shell/execute(java.lang.String)
+org/jboss/forge/shell/test/MockAbortingPlugin/isAborted()
+org/jboss/forge/test/AbstractShellTest/getShell()

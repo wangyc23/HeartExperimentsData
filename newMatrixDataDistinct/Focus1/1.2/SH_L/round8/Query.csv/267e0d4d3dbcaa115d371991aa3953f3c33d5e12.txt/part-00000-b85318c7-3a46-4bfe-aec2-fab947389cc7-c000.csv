@@ -1,0 +1,4 @@
+org/apache/spark/api/java/JavaPairRDD/reduceByKey(org.apache.spark.api.java.function.Function2)
+org/apache/hadoop/conf/Configuration/Configuration()
+org/apache/spark/api/java/JavaPairRDD/join(org.apache.spark.api.java.JavaPairRDD)
+org/apache/spark/api/java/JavaPairRDD/saveAsNewAPIHadoopFile(java.lang.String,java.lang.Class,java.lang.Class,java.lang.Class,org.apache.hadoop.conf.Configuration)

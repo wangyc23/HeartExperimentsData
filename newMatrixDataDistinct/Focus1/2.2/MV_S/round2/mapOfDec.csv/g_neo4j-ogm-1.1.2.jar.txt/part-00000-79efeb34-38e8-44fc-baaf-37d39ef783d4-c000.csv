@@ -1,0 +1,5 @@
+org/neo4j/ogm/metadata/ClassInfo/findIterableGetters(java.lang.Class)@g_neo4j-ogm-core-2.0.1.jar.txt	2
+org/neo4j/ogm/metadata/ClassInfo/findGetters(java.lang.Class)@g_neo4j-ogm-core-2.0.1.jar.txt	1
+org/neo4j/ogm/session/request/strategy/VariableDepthQuery/constructQuery(java.lang.String,org.neo4j.ogm.cypher.Filters,java.util.Map)@g_neo4j-ogm-core-2.0.1.jar.txt	3
+org/neo4j/ogm/session/request/strategy/VariableDepthRelationshipQuery/constructQuery(java.lang.String,org.neo4j.ogm.cypher.Filters,java.util.Map)@g_neo4j-ogm-core-2.0.1.jar.txt	0
+org/neo4j/ogm/metadata/ClassInfo/findIterableSetters(java.lang.Class)@g_neo4j-ogm-core-2.0.1.jar.txt	4

@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlet/ServletHandler/doStop()@g_jetty-server-9.4.5.v20170502.jar.txt	0
+org/eclipse/jetty/server/HttpChannelState/onError(java.lang.Throwable)@g_jetty-server-9.4.5.v20170502.jar.txt	2
+org/eclipse/jetty/servlet/JspPropertyGroupServlet/service(javax.servlet.ServletRequest,javax.servlet.ServletResponse)@g_jetty-server-9.4.5.v20170502.jar.txt	4
+org/eclipse/jetty/server/HttpChannel/sendResponse(org.eclipse.jetty.http.MetaData$Response,java.nio.ByteBuffer,boolean,org.eclipse.jetty.util.Callback)@g_jetty-server-9.4.5.v20170502.jar.txt	3
+org/eclipse/jetty/server/handler/gzip/GzipHandler/handle(java.lang.String,org.eclipse.jetty.server.Request,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jetty-server-9.4.5.v20170502.jar.txt	1

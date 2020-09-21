@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/node/ObjectNode/findValuesAsText(java.lang.String,java.util.List)@g_jackson-databind-2.8.8.jar.txt	2
+com/fasterxml/jackson/databind/node/ObjectNode/findParents(java.lang.String,java.util.List)@g_jackson-databind-2.8.8.jar.txt	4
+com/fasterxml/jackson/databind/deser/BeanDeserializerFactory/addBeanProps(com.fasterxml.jackson.databind.DeserializationContext,com.fasterxml.jackson.databind.BeanDescription,com.fasterxml.jackson.databind.deser.BeanDeserializerBuilder)@g_jackson-databind-2.8.8.jar.txt	1
+com/fasterxml/jackson/databind/ser/BeanSerializerFactory/constructBeanSerializer(com.fasterxml.jackson.databind.SerializerProvider,com.fasterxml.jackson.databind.BeanDescription)@g_jackson-databind-2.8.8.jar.txt	3
+com/fasterxml/jackson/databind/deser/std/ArrayBlockingQueueDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext,java.util.Collection)@g_jackson-databind-2.8.8.jar.txt	0

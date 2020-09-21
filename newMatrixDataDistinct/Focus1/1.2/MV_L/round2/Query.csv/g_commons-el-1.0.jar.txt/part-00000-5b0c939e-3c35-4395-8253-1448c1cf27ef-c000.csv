@@ -1,0 +1,4 @@
+java/beans/IndexedPropertyDescriptor/getIndexedReadMethod()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/beans/IndexedPropertyDescriptor/getName()
+java/beans/IndexedPropertyDescriptor/getIndexedWriteMethod()

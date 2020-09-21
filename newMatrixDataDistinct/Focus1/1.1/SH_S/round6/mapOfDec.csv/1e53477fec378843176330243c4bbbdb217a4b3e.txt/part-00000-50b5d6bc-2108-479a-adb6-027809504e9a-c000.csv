@@ -1,0 +1,5 @@
+org/apache/spark/sql/api/java/JavaSideDataTypeConversionSuite/createDataTypes()@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	3
+org/apache/spark/JavaAPISuite/countApproxDistinctByKey()@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	4
+org/apache/spark/JavaAPISuite/sortBy()@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	1
+com/gs/Classifier/BayesClassifier/classify(java.lang.String)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+org/apache/spark/JavaAPISuite/sparkContextUnion()@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	2

@@ -1,0 +1,5 @@
+org/apache/aries/samples/ariestrader/persist/jdbc/TradeJdbc/updateAccountProfile(java.sql.Connection,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	0
+com/adobe/acs/commons/packaging/impl/PackageHelperImplTest/testRemovePackage()@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	3
+com/adobe/acs/commons/workflow/synthetic/impl/SyntheticWorkflowSession/getDelegatees(com.adobe.acs.commons.email.process.impl.WorkItem)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	2
+org/sakaiproject/nakamura/profile/ProfileServiceImplTest/setupProfileService()@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	1
+org/apache/aries/ejb/modelling/impl/EJBLocatorTest/testUnavailable()@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	4

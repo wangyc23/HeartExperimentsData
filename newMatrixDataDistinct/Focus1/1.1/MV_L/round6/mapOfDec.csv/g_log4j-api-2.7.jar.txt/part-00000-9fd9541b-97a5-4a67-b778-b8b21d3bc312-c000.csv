@@ -1,0 +1,5 @@
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_securesm-1.1.jar.txt	0
+org/jgroups/jmx/JmxConfigurator/getObjectName(java.lang.Object,java.lang.String)@g_securesm-1.1.jar.txt	3
+org/jgroups/protocols/MPING/bindToInterfaces(java.util.List,java.net.MulticastSocket,java.net.InetAddress)@g_securesm-1.1.jar.txt	4
+org/jgroups/blocks/LazyRemovalCache/contents(boolean)@g_securesm-1.1.jar.txt	2
+org/jgroups/tests/CheckToaOrder/ComparingFiles/run()@g_securesm-1.1.jar.txt	1

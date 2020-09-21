@@ -1,0 +1,4 @@
+info/aduna/net/ParsedURI/isRelative()
+info/aduna/net/ParsedURI/ParsedURI(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/openrdf/rio/ParserConfig/get(org.openrdf.rio.RioSetting)

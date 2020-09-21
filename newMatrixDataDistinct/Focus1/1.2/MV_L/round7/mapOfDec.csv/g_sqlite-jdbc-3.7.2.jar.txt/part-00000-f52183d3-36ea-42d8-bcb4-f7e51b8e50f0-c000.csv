@@ -1,0 +1,5 @@
+org/ibex/nestedvm/Interpreter/runSome()@g_sqlite-jdbc-3.6.20.jar.txt	3
+org/ibex/nestedvm/UnixRuntime/_exited()@g_sqlite-jdbc-3.6.20.jar.txt	0
+org/ibex/nestedvm/UnixRuntime/sys_waitpid(int,int,int)@g_sqlite-jdbc-3.6.20.jar.txt	2
+org/ibex/nestedvm/UnixRuntime/exec(java.lang.String,java.lang.String[],java.lang.String[])@g_sqlite-jdbc-3.6.20.jar.txt	4
+org/apache/tools/ant/taskdefs/ExecuteOn/runExec(org.apache.tools.ant.taskdefs.Execute)@g_ant-1.6.5.jar.txt	1

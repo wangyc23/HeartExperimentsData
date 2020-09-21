@@ -1,0 +1,5 @@
+org/codehaus/janino/tools/HprofScrubber/dumpSamples(org.codehaus.janino.tools.HprofScrubber$Sample[],java.util.Map)@g_spring-asm-3.0.5.RELEASE.jar.txt	2
+org/codehaus/janino/UnitCompiler/assignSyntheticParametersToSyntheticFields(org.codehaus.janino.Java$ConstructorDeclarator)@g_spring-asm-3.0.5.RELEASE.jar.txt	0
+org/codehaus/janino/UnitCompiler/compileGet2(org.codehaus.janino.Java$ClassLiteral)@g_spring-asm-3.0.5.RELEASE.jar.txt	4
+org/codehaus/janino/UnitCompiler/findIMethod(org.codehaus.janino.Java$MethodInvocation)@g_spring-asm-3.0.5.RELEASE.jar.txt	1
+org/codehaus/janino/UnitCompiler/compile2(org.codehaus.janino.Java$SwitchStatement)@g_spring-asm-3.0.5.RELEASE.jar.txt	3

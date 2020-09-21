@@ -1,0 +1,4 @@
+org/springframework/util/NumberUtils/convertNumberToTargetClass(java.lang.Number,java.lang.Class)
+java/lang/Number/floatValue()
+java/lang/Double/compare(double,double)
+java/lang/Comparable/compareTo(java.lang.Object)

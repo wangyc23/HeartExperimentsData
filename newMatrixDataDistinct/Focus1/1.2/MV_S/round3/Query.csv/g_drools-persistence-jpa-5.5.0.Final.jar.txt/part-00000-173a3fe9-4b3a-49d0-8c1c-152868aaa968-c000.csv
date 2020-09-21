@@ -1,0 +1,4 @@
+java/io/IOException/printStackTrace()
+java/lang/StringBuilder/append(java.lang.String)
+java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])
+java/io/IOException/getMessage()

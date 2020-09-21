@@ -1,0 +1,5 @@
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-security-core-3.2.3.RELEASE.jar.txt	0
+org/springframework/security/access/prepost/PrePostAnnotationSecurityMetadataSource/getAttributes(java.lang.reflect.Method,java.lang.Class)@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/access/event/LoggerListener/onApplicationEvent(org.springframework.security.access.event.AbstractAuthorizationEvent)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/access/method/DelegatingMethodSecurityMetadataSource/getAttributes(java.lang.reflect.Method,java.lang.Class)@g_spring-security-core-3.2.3.RELEASE.jar.txt	1
+org/springframework/security/provisioning/JdbcUserDetailsManager/addGroupAuthority(java.lang.String,org.springframework.security.core.GrantedAuthority)@g_spring-security-core-3.2.3.RELEASE.jar.txt	2

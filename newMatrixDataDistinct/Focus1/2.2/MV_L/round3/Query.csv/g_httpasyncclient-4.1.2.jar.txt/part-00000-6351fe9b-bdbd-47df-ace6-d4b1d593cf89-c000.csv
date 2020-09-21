@@ -1,0 +1,4 @@
+org/apache/http/client/protocol/HttpClientContext/setAttribute(java.lang.String,java.lang.Object)
+org/apache/http/nio/NHttpClientConnection/setSocketTimeout(int)
+org/apache/http/client/protocol/HttpClientContext/getProxyAuthState()
+java/lang/StringBuilder/append(java.lang.Object)

@@ -1,0 +1,7 @@
+0	org/javaee7/ejb/stateful/remote/Cart/getItems()
+1	java/util/Arrays/asList(T[])
+2	org/neo4j/bolt/v1/runtime/Session/Callbacks/noop()
+3	org/neo4j/bolt/v1/runtime/Session/init(java.lang.String,A,org.neo4j.bolt.v1.runtime.Session.Callback)
+4	org/javaee7/ejb/stateful/remote/Cart/addItem(java.lang.String)
+5	org/neo4j/bolt/v1/runtime/Session/run(java.lang.String,java.util.Map,A,org.neo4j.bolt.v1.runtime.Session.Callback)
+6	org/neo4j/bolt/v1/runtime/Session/pullAll(A,org.neo4j.bolt.v1.runtime.Session.Callback)

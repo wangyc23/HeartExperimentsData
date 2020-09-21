@@ -1,0 +1,5 @@
+org/neo4j/graphdb/traversal/LevelSelectorOrderer/next(org.neo4j.graphdb.traversal.TraversalContext)@g_neo4j-graphdb-api-3.1.0-M01.jar.txt	0
+org/neo4j/graphdb/impl/OrderedByTypeExpander/reverse()@g_neo4j-graphdb-api-3.1.0-M01.jar.txt	4
+org/neo4j/graphdb/impl/StandardExpander/toTypeMap(java.util.Map)@g_neo4j-graphdb-api-3.1.0-M01.jar.txt	3
+com/github/rvesse/airline/io/printers/UsagePrinter/appendWords(java.lang.Iterable,boolean)@g_airline-io-2.1.1.jar.txt	2
+com/github/rvesse/airline/io/printers/UsagePrinter/appendTable(java.lang.Iterable,int)@g_airline-io-2.1.1.jar.txt	1

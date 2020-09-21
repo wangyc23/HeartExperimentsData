@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector/useParameter(org.apache.tools.ant.types.Parameter)@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/taskdefs/Jar/getManifestFromJar(java.io.File)@g_ant-1.6.5.jar.txt	2
+org/apache/maven/it/util/ResourceExtractor/extractResourcePath(java.lang.Class,java.lang.String,java.io.File,boolean)@g_maven-verifier-1.2.jar.txt	0
+org/apache/maven/it/util/ResourceExtractor/getJarFileFromUrl(java.net.URL)@g_maven-verifier-1.2.jar.txt	1
+org/apache/tools/ant/taskdefs/Manifest/Section/merge(org.apache.tools.ant.taskdefs.Manifest$Section)@g_ant-1.6.5.jar.txt	3

@@ -1,0 +1,4 @@
+org/xhtmlrenderer/css/parser/property/PrimitivePropertyBuilders$LengthLikeWithIdent/isNegativeValuesAllowed()
+java/util/List/size()
+org/xhtmlrenderer/css/parser/property/PrimitivePropertyBuilders$LengthLikeWithIdent/checkInheritAllowed(org.w3c.dom.css.CSSPrimitiveValue,boolean)
+java/lang/StringBuffer/append(java.lang.String)

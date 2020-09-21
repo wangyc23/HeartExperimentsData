@@ -1,0 +1,5 @@
+org/woelker/telemetrion/core/sensors/MemorySensor/getCurrentValues()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	2
+org/woelker/telemetrion/core/sensors/CpuSensor/getCurrentValues()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	1
+io/dropwizard/views/mustache/PerClassMustacheFactory/getReader(java.lang.String)@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	0
+org/woelker/telemetrion/core/engine/Engine/runTickForSensor(long,org.woelker.telemetrion.core.Sensor)@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	3
+org/woelker/telemetrion/core/sensors/NetworkSensor/lines()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	4

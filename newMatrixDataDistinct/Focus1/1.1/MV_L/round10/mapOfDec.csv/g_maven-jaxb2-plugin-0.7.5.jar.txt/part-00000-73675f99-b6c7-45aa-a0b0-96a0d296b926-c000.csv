@@ -1,0 +1,5 @@
+org/jvnet/jaxb2/maven2/RawXJC2Mojo/setupDirectories()@g_maven-jaxb22-plugin-0.7.5.jar.txt	1
+org/jvnet/mjiip/v_2_2/OptionsFactory/createOptions(org.jvnet.jaxb2.maven2.OptionsConfiguration)@g_maven-jaxb22-plugin-0.7.5.jar.txt	0
+org/jvnet/jaxb2/maven2/RawXJC2Mojo/createCatalogResolver()@g_maven-jaxb22-plugin-0.7.5.jar.txt	3
+org/jvnet/jaxb2/maven2/AbstractXJC2Mojo/logApiConfiguration()@g_maven-jaxb22-plugin-0.7.5.jar.txt	4
+org/jvnet/mjiip/v_2_2/LoggingCodeWriter/openSource(com.sun.codemodel.JPackage,java.lang.String)@g_maven-jaxb22-plugin-0.7.5.jar.txt	2

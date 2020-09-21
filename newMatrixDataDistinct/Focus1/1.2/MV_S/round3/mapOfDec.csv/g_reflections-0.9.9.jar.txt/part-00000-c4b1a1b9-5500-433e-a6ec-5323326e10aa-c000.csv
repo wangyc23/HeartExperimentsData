@@ -1,0 +1,5 @@
+org/reflections/util/ClasspathHelper/forResource(java.lang.String,java.lang.ClassLoader[])@g_reflections-0.9.9-RC2.jar.txt	4
+org/reflections/vfs/Vfs/findFiles(java.util.Collection,com.google.common.base.Predicate)@g_reflections-0.9.9-RC2.jar.txt	2
+org/reflections/util/FilterBuilder/parsePackages(java.lang.String)@g_reflections-0.9.9-RC2.jar.txt	1
+org/reflections/util/ClasspathHelper/forManifest(java.net.URL)@g_reflections-0.9.9-RC2.jar.txt	0
+org/reflections/serializers/JavaCodeSerializer/toString(org.reflections.Reflections)@g_reflections-0.9.9-RC2.jar.txt	3

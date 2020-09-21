@@ -1,0 +1,4 @@
+java/lang/Package/getName()
+java/lang/Boolean/parseBoolean(java.lang.String)
+javax/servlet/FilterConfig/getInitParameter(java.lang.String)
+javax/servlet/ServletContext/getMajorVersion()

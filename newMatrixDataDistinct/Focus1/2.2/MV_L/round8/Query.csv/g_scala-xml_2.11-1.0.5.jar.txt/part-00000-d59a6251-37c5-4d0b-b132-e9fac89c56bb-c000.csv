@@ -1,0 +1,4 @@
+scala/xml/dtd/impl/Base$Alt$/unapplySeq(scala.xml.dtd.impl.Base$Alt)
+scala/xml/dtd/ContentModel$/buildString(scala.xml.dtd.impl.Base$RegExp,scala.collection.mutable.StringBuilder)
+scala/collection/mutable/StringBuilder/append(java.lang.String)
+scala/Some/isEmpty()

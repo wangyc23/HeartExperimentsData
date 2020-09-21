@@ -1,0 +1,5 @@
+org/apache/maven/plugin/assembly/io/DefaultAssemblyReader/addAssemblyFromDescriptor(java.lang.String,org.apache.maven.shared.io.location.Locator,org.apache.maven.plugin.assembly.AssemblerConfigurationSource,java.util.List)@g_maven-assembly-plugin-2.2.1.jar.txt	4
+org/apache/maven/plugin/assembly/filter/ComponentsXmlArchiverFileFilter/isSelected(org.codehaus.plexus.components.io.fileselectors.FileInfo)@g_maven-assembly-plugin-2.2.1.jar.txt	3
+org/apache/maven/plugin/assembly/io/DefaultAssemblyReader/addAssemblyForDescriptorReference(java.lang.String,org.apache.maven.plugin.assembly.AssemblerConfigurationSource,java.util.List)@g_maven-assembly-plugin-2.2.1.jar.txt	0
+org/apache/maven/plugin/assembly/archive/ManifestCreationFinalizer/finalizeArchiveCreation(org.codehaus.plexus.archiver.Archiver)@g_maven-assembly-plugin-2.2.1.jar.txt	1
+org/apache/maven/plugin/assembly/io/DefaultAssemblyReader/addAssemblyFromDescriptorFile(java.io.File,org.apache.maven.plugin.assembly.AssemblerConfigurationSource,java.util.List)@g_maven-assembly-plugin-2.2.1.jar.txt	2

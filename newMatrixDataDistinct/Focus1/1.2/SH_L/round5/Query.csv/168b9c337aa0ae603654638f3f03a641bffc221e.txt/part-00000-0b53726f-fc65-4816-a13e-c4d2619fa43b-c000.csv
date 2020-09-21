@@ -1,0 +1,4 @@
+javax/ws/rs/client/Invocation/Builder/buildGet()
+javax/ws/rs/client/Client/target(java.lang.String)
+javax/ws/rs/client/WebTarget/queryParam(java.lang.String,java.lang.Object[])
+javax/ws/rs/client/WebTarget/request()

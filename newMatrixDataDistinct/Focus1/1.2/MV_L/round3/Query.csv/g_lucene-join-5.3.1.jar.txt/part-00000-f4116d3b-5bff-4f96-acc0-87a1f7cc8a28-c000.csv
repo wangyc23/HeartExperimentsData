@@ -1,0 +1,4 @@
+org/apache/lucene/index/DocValues/getSorted(org.apache.lucene.index.LeafReader,java.lang.String)
+org/apache/lucene/search/Explanation/match(float,java.lang.String,org.apache.lucene.search.Explanation[])
+org/apache/lucene/index/LeafReaderContext/reader()
+java/lang/StringBuilder/StringBuilder()

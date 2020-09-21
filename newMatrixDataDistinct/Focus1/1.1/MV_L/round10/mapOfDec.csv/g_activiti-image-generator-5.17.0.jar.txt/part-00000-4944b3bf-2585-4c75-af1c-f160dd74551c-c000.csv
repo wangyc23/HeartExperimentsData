@@ -1,0 +1,5 @@
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawStartEvent(org.activiti.bpmn.model.GraphicInfo,java.awt.image.BufferedImage,double)@g_activiti-image-generator-5.16.4.jar.txt	2
+org/activiti/image/impl/DefaultProcessDiagramCanvas/initialize(java.lang.String)@g_activiti-image-generator-5.16.4.jar.txt	4
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawExpandedSubProcess(java.lang.String,org.activiti.bpmn.model.GraphicInfo,java.lang.Boolean,double)@g_activiti-image-generator-5.16.4.jar.txt	3
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawCatchingEvent(org.activiti.bpmn.model.GraphicInfo,boolean,java.awt.image.BufferedImage,java.lang.String,double)@g_activiti-image-generator-5.16.4.jar.txt	0
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawConditionalSequenceFlowIndicator(java.awt.geom.Line2D$Double,double)@g_activiti-image-generator-5.16.4.jar.txt	1

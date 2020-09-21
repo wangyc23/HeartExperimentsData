@@ -1,0 +1,4 @@
+io/netty/channel/epoll/AbstractEpollStreamChannel$EpollStreamUnsafe/recvBufAllocHandle()
+java/util/Queue/peek()
+io/netty/channel/epoll/AbstractEpollStreamChannel$EpollStreamUnsafe/clearEpollIn0()
+io/netty/channel/epoll/AbstractEpollStreamChannel/shouldBreakEpollInReady(io.netty.channel.ChannelConfig)

@@ -1,0 +1,5 @@
+com/github/jsonldjava/sesame/SesameJSONLDWriter/endRDF()@g_jsonld-java-sesame-0.5.1.jar.txt	2
+com/github/jsonldjava/sesame/SesameTripleCallback/call(com.github.jsonldjava.core.RDFDataset)@g_jsonld-java-sesame-0.5.1.jar.txt	0
+org/eclipse/rdf4j/rio/jsonld/JSONLDParser/parse(java.io.Reader,java.lang.String)@g_jsonld-java-sesame-0.5.1.jar.txt	3
+org/eclipse/rdf4j/rio/jsonld/JSONLDInternalRDFParser/parse(java.lang.Object)@g_jsonld-java-sesame-0.5.1.jar.txt	1
+com/github/jsonldjava/sesame/SesameRDFParser/handleStatement(com.github.jsonldjava.core.RDFDataset,org.openrdf.model.Statement)@g_jsonld-java-sesame-0.5.1.jar.txt	4

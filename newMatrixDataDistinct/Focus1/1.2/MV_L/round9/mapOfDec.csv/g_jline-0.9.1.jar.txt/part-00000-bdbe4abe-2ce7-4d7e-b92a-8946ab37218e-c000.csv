@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/PathTool/buildRelativePath(java.lang.String,java.lang.String,char)@g_plexus-utils-1.5.6.jar.txt	3
+jline/UnixTerminal/getTerminalProperty(java.lang.String)@g_jline-1.0.jar.txt	2
+jline/SimpleCompletor/getStrings(java.io.Reader)@g_jline-1.0.jar.txt	0
+hidden/org/codehaus/plexus/interpolation/reflection/ReflectionValueExtractor/evaluate(java.lang.String,java.lang.Object,boolean)@g_plexus-utils-1.5.6.jar.txt	4
+jline/ConsoleRunner/main(java.lang.String[])@g_jline-1.0.jar.txt	1

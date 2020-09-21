@@ -1,0 +1,5 @@
+io/swagger/sample/data/PetData/findPetByTags(java.lang.String)@1870dc272c4e9625e4dede6b97f70a6354507886.txt	2
+com/wicketinaction/charts/ChartsResourceReference/getDependencies()@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	4
+io/swagger/sample/data/PetData/findPetByStatus(java.lang.String)@1870dc272c4e9625e4dede6b97f70a6354507886.txt	1
+io/swagger/sample/data/PetData/createPet(long,io.swagger.sample.model.Category,java.lang.String,java.lang.String[],java.lang.String[],java.lang.String)@1870dc272c4e9625e4dede6b97f70a6354507886.txt	0
+com/wicketinaction/resourcemanagement/bundles/BundlesPage/MyBundle/getResources()@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	3

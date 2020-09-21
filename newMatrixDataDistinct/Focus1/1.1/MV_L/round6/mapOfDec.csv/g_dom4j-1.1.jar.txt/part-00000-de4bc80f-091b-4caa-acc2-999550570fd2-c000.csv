@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/resolver/StateBuilder/getGenericCapabilities(java.util.Dictionary,java.lang.String[][])@g_jdom-1.0.jar.txt	2
+org/osgi/framework/AdaptPermissionCollection/add(java.security.Permission)@g_jdom-1.0.jar.txt	3
+org/eclipse/osgi/baseadaptor/BaseAdaptor/listEntryPaths(java.util.List,java.lang.String,java.lang.String,int)@g_jdom-1.0.jar.txt	1
+org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStreamHandler/getHostAddress(java.net.URL)@g_jdom-1.0.jar.txt	0
+org/eclipse/osgi/internal/signedcontent/SignedBundleFile/getEntry(java.lang.String)@g_jdom-1.0.jar.txt	4

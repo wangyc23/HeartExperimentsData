@@ -1,0 +1,5 @@
+edu/washington/cs/knowitall/commonlib/StringUtils/splitInto(java.lang.String,java.util.regex.Pattern)@g_hamcrest-core-1.1.jar.txt	2
+org/hamcrest/core/DescribedAs/describeTo(org.hamcrest.Description)@g_hamcrest-core-1.1.jar.txt	1
+org/hamcrest/core/DescribedAs/describeTo(org.hamcrest.Description)@g_hamcrest-core-1.3.jar.txt	4
+edu/washington/cs/knowitall/commonlib/StringUtils/tokenize(java.lang.String,java.util.regex.Pattern[],java.util.regex.Pattern)@g_hamcrest-core-1.1.jar.txt	0
+edu/washington/cs/knowitall/commonlib/StringUtils/tokenize(java.lang.String,java.util.regex.Pattern[],java.util.regex.Pattern)@g_hamcrest-core-1.3.jar.txt	3

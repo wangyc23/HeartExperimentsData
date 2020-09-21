@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/Job/getTaskFailureEventString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapred/MapTask/MapOutputBuffer/init(org.apache.hadoop.mapred.MapOutputCollector$Context)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3
+org/apache/hadoop/mapred/StatisticsCollector/createStat(java.lang.String,org.apache.hadoop.mapred.StatisticsCollector$TimeWindow[])@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorReducer/reduce(org.apache.hadoop.io.Text,java.util.Iterator,org.apache.hadoop.mapred.OutputCollector,org.apache.hadoop.mapred.Reporter)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapred/join/Parser/parse(java.lang.String,org.apache.hadoop.mapred.JobConf)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0

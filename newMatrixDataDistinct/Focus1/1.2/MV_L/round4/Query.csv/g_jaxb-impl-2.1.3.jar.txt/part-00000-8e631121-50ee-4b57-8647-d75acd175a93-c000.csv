@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+java/util/Iterator/hasNext()
+com/sun/xml/bind/v2/schemagen/Tree$Group/Group(com.sun.xml.bind.v2.schemagen.GroupKind,com.sun.xml.bind.v2.schemagen.Tree[],com.sun.xml.bind.v2.schemagen.Tree$1)
+java/util/Arrays/asList(java.lang.Object[])

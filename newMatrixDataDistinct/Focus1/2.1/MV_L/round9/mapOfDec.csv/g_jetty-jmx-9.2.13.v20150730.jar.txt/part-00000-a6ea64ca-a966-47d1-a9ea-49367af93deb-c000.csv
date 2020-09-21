@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/Server/doStop()@g_jetty-jmx-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/server/handler/gzip/GzipHttpOutputInterceptor/commit(java.nio.ByteBuffer,boolean,org.eclipse.jetty.util.Callback)@g_jetty-jmx-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/server/Dispatcher/push(javax.servlet.ServletRequest)@g_jetty-jmx-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/server/Server/getURI()@g_jetty-jmx-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/jmx/ObjectMBean/setAttributes(javax.management.AttributeList)@g_jetty-jmx-7.6.5.v20120716.jar.txt	0

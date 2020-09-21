@@ -1,0 +1,4 @@
+java/lang/ClassLoader/getResource(java.lang.String)
+java/io/File/File(java.net.URI)
+java/net/URL/toURI()
+java/nio/file/Files/createTempDirectory(java.lang.String,java.nio.file.attribute.FileAttribute<?>[])

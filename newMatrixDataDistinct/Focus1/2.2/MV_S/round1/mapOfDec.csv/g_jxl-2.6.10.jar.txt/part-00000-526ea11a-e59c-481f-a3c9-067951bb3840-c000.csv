@@ -1,0 +1,5 @@
+jxl/biff/drawing/SheetDrawingWriter/writeUnmodified(jxl.write.biff.File)@g_ictclas4j-1.0.1.jar.txt	3
+jxl/read/biff/SheetImpl/readSheet()@g_ictclas4j-1.0.1.jar.txt	4
+jxl/write/biff/WritableSheetImpl/removeColumn(int)@g_ictclas4j-1.0.1.jar.txt	1
+jxl/demo/BiffDump/writeRecord(jxl.read.biff.Record)@g_ictclas4j-1.0.1.jar.txt	0
+jxl/write/biff/HyperlinkRecord/setLocation(jxl.write.WritableSheet,int,int,int,int)@g_ictclas4j-1.0.1.jar.txt	2

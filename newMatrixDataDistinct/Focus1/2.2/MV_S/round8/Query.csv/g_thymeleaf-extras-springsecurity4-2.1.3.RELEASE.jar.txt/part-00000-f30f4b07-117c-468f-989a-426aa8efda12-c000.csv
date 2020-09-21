@@ -1,0 +1,4 @@
+java/lang/Class/getDeclaredMethods()
+java/lang/StringBuilder/append(java.lang.String)
+org/springframework/security/core/SpringSecurityCoreVersion/getVersion()
+java/lang/ExceptionInInitializerError/ExceptionInInitializerError(java.lang.String)

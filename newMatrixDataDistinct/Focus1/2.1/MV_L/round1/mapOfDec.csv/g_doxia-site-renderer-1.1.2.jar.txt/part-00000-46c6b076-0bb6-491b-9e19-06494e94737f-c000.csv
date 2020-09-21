@@ -1,0 +1,5 @@
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/copyResources(org.apache.maven.doxia.siterenderer.SiteRenderingContext,java.io.File,java.io.File)@g_doxia-site-renderer-1.4.jar.txt	1
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/renderDocument(java.io.Writer,org.apache.maven.doxia.module.xhtml.decoration.render.RenderingContext,org.apache.maven.doxia.siterenderer.SiteRenderingContext)@g_doxia-site-renderer-1.4.jar.txt	4
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/createVelocityContext(org.apache.maven.doxia.siterenderer.sink.SiteRendererSink,org.apache.maven.doxia.siterenderer.SiteRenderingContext)@g_doxia-site-renderer-1.4.jar.txt	3
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/renderModule(java.util.Collection,org.apache.maven.doxia.siterenderer.SiteRenderingContext,java.io.File)@g_doxia-site-renderer-1.4.jar.txt	0
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/copyDirectory(java.io.File,java.io.File)@g_doxia-site-renderer-1.4.jar.txt	2

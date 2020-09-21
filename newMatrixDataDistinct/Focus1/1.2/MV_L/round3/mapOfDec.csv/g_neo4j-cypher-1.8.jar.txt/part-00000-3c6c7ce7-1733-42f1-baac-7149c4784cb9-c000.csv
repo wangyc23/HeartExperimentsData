@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v1_9/mutation/CreateUniqueAction/runUpdateCommands(scala.collection.Seq,org.neo4j.cypher.internal.compiler.v1_9.ExecutionContext,org.neo4j.cypher.internal.compiler.v1_9.pipes.QueryState)@g_neo4j-cypher-1.7.jar.txt	4
+org/neo4j/cypher/internal/commands/CoalesceFunction/compute(scala.collection.Map)@g_neo4j-cypher-1.7.jar.txt	3
+org/neo4j/cypher/internal/pipes/matching/PatternGraph/anonfun/checkForUnsupportedPatterns/1/apply(org.neo4j.cypher.internal.pipes.matching.DoubleOptionalPath)@g_neo4j-cypher-1.7.jar.txt	2
+org/neo4j/cypher/internal/compiler/v1_9/executionplan/builders/SortingPreparations/anonfun/5/apply(org.neo4j.cypher.internal.compiler.v1_9.executionplan.builders.QueryToken)@g_neo4j-cypher-1.7.jar.txt	1
+org/neo4j/cypher/internal/pipes/EagerAggregationPipe/anonfun/createResults/1/apply(org.neo4j.cypher.internal.pipes.ExecutionContext)@g_neo4j-cypher-1.7.jar.txt	0

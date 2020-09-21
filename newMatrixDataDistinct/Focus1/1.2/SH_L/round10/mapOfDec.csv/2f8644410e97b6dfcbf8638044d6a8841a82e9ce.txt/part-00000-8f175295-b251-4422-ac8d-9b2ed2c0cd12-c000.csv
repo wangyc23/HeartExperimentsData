@@ -1,0 +1,5 @@
+org/apache/sling/scripting/jsp/jasper/compiler/TextOptimizer/TextCatVisitor/collectText()@0ff3757c82faabae2f17efddab67cae35d44705b.txt	1
+org/apache/sling/scripting/jsp/jasper/compiler/Node/NamedAttribute/getText()/AttributeVisitor/visit(org.apache.sling.scripting.jsp.jasper.compiler.Node.TemplateText)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	3
+org/apache/sling/scripting/jsp/jasper/compiler/TextOptimizer/TextCatVisitor/visit(org.apache.sling.scripting.jsp.jasper.compiler.Node.TemplateText)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	0
+org/apache/sling/scripting/jsp/jasper/compiler/PageDataImpl/SecondPassVisitor/visit(org.apache.sling.scripting.jsp.jasper.compiler.Node.TemplateText)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	4
+org/apache/sling/scripting/jsp/jasper/compiler/PageDataImpl/SecondPassVisitor/visit(org.apache.sling.scripting.jsp.jasper.compiler.Node.ELExpression)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	2

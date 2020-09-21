@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/selectors/SizeSelector/setParameters(org.apache.tools.ant.types.Parameter[])@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/DirectoryScanner/findFile(java.io.File,java.util.Vector,boolean)@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/Redirector/createStreams()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/DirectoryScanner/checkIncludePatterns()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/loader/AntClassLoader2/definePackage(java.io.File,java.lang.String,java.util.jar.Manifest)@g_ant-1.6.5.jar.txt	4

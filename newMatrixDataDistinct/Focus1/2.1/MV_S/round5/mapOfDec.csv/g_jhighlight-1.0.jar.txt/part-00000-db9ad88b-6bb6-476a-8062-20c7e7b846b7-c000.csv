@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/selectors/ExtendSelector/selectorCreate()@g_maven-verifier-1.2.jar.txt	3
+org/apache/tools/ant/taskdefs/Copydir/execute()@g_maven-verifier-1.2.jar.txt	2
+org/apache/tools/ant/Project/tsort(java.lang.String,java.util.Hashtable,java.util.Hashtable,java.util.Stack,java.util.Vector)@g_maven-verifier-1.2.jar.txt	4
+org/apache/tools/ant/Main/runBuild(java.lang.ClassLoader)@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/Checksum/validateAndExecute()@g_maven-verifier-1.2.jar.txt	1

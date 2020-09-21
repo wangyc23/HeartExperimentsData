@@ -1,0 +1,5 @@
+org/apache/servicemix/examples/drools/simple/osgi/SimpleRuleActivator/start(org.osgi.framework.BundleContext)@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	3
+org/apache/servicemix/examples/camel/sql/ListenerBean/onUnbind(java.lang.Object,java.util.Map)@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	4
+org/apache/servicemix/examples/camel/sql/DatabaseBeanPgSQL/create()@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	1
+org/apache/servicemix/examples/camel/sql/ListenerBean/onBind(java.lang.Object,java.util.Map)@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	0
+org/apache/servicemix/activemq/camel/ActiveMQComponentResolver/resolveComponent(java.lang.String,org.apache.camel.CamelContext)@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	2

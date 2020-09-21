@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/writers/EclipseClasspathWriter/addDependency(org.codehaus.plexus.util.xml.XMLWriter,org.apache.maven.plugin.ide.IdeDependency)@g_maven-eclipse-plugin-2.9.jar.txt	4
+org/apache/maven/plugin/eclipse/reader/ReadWorkspaceLocations/getProjectLocation(java.io.File,java.io.File)@g_maven-eclipse-plugin-2.9.jar.txt	0
+org/apache/maven/plugin/eclipse/EclipsePlugin/buildDirectoryList(org.apache.maven.project.MavenProject,java.io.File,java.io.File)@g_maven-eclipse-plugin-2.9.jar.txt	3
+org/apache/maven/plugin/eclipse/writers/wtp/AbstractWtpResourceWriter/addDependency(org.codehaus.plexus.util.xml.XMLWriter,org.apache.maven.plugin.ide.IdeDependency,org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.lang.String)@g_maven-eclipse-plugin-2.9.jar.txt	1
+org/apache/maven/plugin/eclipse/writers/AbstractEclipseManifestWriter/areManifestsEqual(java.util.jar.Manifest,java.util.jar.Manifest)@g_maven-eclipse-plugin-2.9.jar.txt	2

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/replace(char,char)
+java/io/File/isFile()

@@ -1,0 +1,5 @@
+com/sun/star/lib/uno/helper/PropertySet/convertPropertyValue(com.sun.star.beans.Property,java.lang.Object[],java.lang.Object[],java.lang.Object)@g_juh-3.2.1.jar.txt	3
+com/sun/star/lib/uno/helper/UnoUrl/parseUnoUrl(java.lang.String)@g_juh-3.2.1.jar.txt	2
+com/sun/star/lib/uno/helper/PropertySet/registerProperty(java.lang.String,java.lang.String,short)@g_juh-3.2.1.jar.txt	1
+com/sun/star/lib/uno/helper/InterfaceContainer/addAll(int,java.util.Collection)@g_juh-3.2.1.jar.txt	4
+com/sun/star/comp/helper/Bootstrap/bootstrap()@g_juh-3.2.1.jar.txt	0

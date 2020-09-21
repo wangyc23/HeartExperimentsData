@@ -1,0 +1,5 @@
+org/springframework/integration/config/xml/ApplicationEventMulticasterParser/doParse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext,org.springframework.beans.factory.support.BeanDefinitionBuilder)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	0
+org/springframework/integration/config/xml/AbstractOutboundChannelAdapterParser/doParse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext,java.lang.String)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	4
+org/springframework/integration/config/xml/PublishingInterceptorParser/parseInternal(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	2
+org/springframework/integration/config/xml/PollerParser/configureTrigger(org.w3c.dom.Element,org.springframework.beans.factory.support.BeanDefinitionBuilder,org.springframework.beans.factory.xml.ParserContext)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	3
+org/springframework/integration/config/xml/WireTapParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	1

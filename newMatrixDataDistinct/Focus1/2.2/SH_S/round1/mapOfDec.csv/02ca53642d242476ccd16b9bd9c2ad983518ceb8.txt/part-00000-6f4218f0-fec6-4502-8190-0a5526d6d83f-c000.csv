@@ -1,0 +1,5 @@
+ungp/sampleng/backend/util/Application/getRepository(java.lang.Class)@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	1
+vaeke/restcountries/v1/CountryRestTest/getBorders()@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	2
+jp/ac/shinshu/u/common/dao/AbstractDAO/findThrowSQLException(java.lang.String,java.lang.Object[])@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	3
+vaeke/restcountries/v1/CountryServiceTest/getByAlpha3()@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	0
+vaeke/restcountries/v1/rest/CountryRest/getByCapital(java.lang.String)@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	4

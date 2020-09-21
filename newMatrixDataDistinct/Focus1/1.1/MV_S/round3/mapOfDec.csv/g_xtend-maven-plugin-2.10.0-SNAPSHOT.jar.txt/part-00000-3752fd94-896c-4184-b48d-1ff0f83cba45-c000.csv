@@ -1,0 +1,5 @@
+org/eclipse/xtend/maven/XtendCompile/getClassPath()@g_xtend-maven-plugin-2.10.0-20160515.044616-51.jar.txt	1
+org/eclipse/xtend/lib/macro/file/Path/getAbsolutePath(org.eclipse.xtend.lib.macro.file.Path)@g_xtend-maven-plugin-2.10.0-20160515.044616-51.jar.txt	4
+org/eclipse/xtend/maven/XtendTestCompile/getTestClassPath()@g_xtend-maven-plugin-2.10.0-20160515.044616-51.jar.txt	3
+org/eclipse/xtend/maven/AbstractXtendCompilerMojo/getBootClassPath()@g_xtend-maven-plugin-2.10.0-20160515.044616-51.jar.txt	2
+org/eclipse/xtend/maven/XtendCompile/internalExecute()@g_xtend-maven-plugin-2.10.0-20160515.044616-51.jar.txt	0

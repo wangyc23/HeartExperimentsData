@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/kitchensinkjsp/servlet/MemberRegistrationServlet/doPost(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	3
+org/jboss/as/quickstarts/datagrid/rest/Base64/encodeBytes(byte[],int,int,int)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	1
+org/jboss/as/quickstarts/datagrid/rest/Base64/encodeObject(java.io.Serializable,int)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	2
+org/jboss/as/quickstarts/wsat/simple/servlet/WSATSimpleServletClient/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	0
+org/jboss/as/quickstarts/cdi/alternative/Demo/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	4

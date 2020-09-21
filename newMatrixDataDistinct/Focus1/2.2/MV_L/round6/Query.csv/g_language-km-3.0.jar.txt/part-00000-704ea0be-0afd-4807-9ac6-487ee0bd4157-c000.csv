@@ -1,0 +1,4 @@
+org/languagetool/AnalyzedTokenReadings/getStartPos()
+org/languagetool/rules/RuleMatch/setSuggestedReplacements(java.util.List)
+java/lang/StringBuilder/StringBuilder()
+java/util/List/add(java.lang.Object)

@@ -1,0 +1,5 @@
+org/apache/maven/repository/internal/RemoteSnapshotMetadata/merge(org.apache.maven.artifact.repository.metadata.Metadata)@g_maven-aether-provider-3.0.5.jar.txt	2
+org/apache/maven/repository/internal/DefaultVersionRangeResolver/resolveVersionRange(org.sonatype.aether.RepositorySystemSession,org.sonatype.aether.resolution.VersionRangeRequest)@g_maven-aether-provider-3.0.5.jar.txt	4
+org/apache/maven/repository/internal/DefaultVersionResolver/resolveVersion(org.sonatype.aether.RepositorySystemSession,org.sonatype.aether.resolution.VersionRequest)@g_maven-aether-provider-3.0.3.jar.txt	3
+org/apache/maven/repository/internal/RemoteSnapshotMetadata/merge(org.apache.maven.artifact.repository.metadata.Metadata)@g_maven-aether-provider-3.0.3.jar.txt	1
+org/apache/maven/repository/internal/DefaultVersionResolver/merge(org.sonatype.aether.artifact.Artifact,java.util.Map,org.apache.maven.artifact.repository.metadata.Versioning,org.sonatype.aether.repository.ArtifactRepository)@g_maven-aether-provider-3.0.3.jar.txt	0

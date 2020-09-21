@@ -1,0 +1,5 @@
+org/antlr/v4/runtime/atn/PredictionContext/toStrings(org.antlr.v4.runtime.Recognizer,org.antlr.v4.runtime.atn.PredictionContext,int)@g_antlr4-runtime-4.3.jar.txt	4
+org/apache/lucene/codecs/lucene50/Lucene50PostingsWriter/finishTerm(org.apache.lucene.codecs.BlockTermState)@g_antlr4-runtime-4.3.jar.txt	3
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_antlr4-runtime-4.3.jar.txt	1
+org/antlr/v4/runtime/ParserInterpreter/visitState(org.antlr.v4.runtime.atn.ATNState)@g_antlr4-runtime-4.3.jar.txt	0
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_antlr4-runtime-4.3.jar.txt	2

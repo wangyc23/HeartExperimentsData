@@ -1,0 +1,5 @@
+org/apache/avro/compiler/specific/SpecificCompiler/addStringType(org.apache.avro.Protocol)@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	2
+org/apache/avro/compiler/specific/TestSpecificCompiler/testManglingForProtocols()@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	3
+org/apache/avro/reflect/ReflectData/getProtocol(java.lang.Class)@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	4
+org/apache/avro/TestProtocolParsing/parseMessage(java.lang.String)@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	0
+org/apache/avro/ipc/stats/TestStatsPluginAndServlet/main(java.lang.String[])@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	1

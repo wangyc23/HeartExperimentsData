@@ -1,0 +1,5 @@
+org/xwiki/store/serialization/xml/internal/DeletedAttachmentMetadataSerializer/serialize(org.xwiki.store.legacy.doc.internal.DeletedFilesystemAttachment,org.xwiki.store.serialization.xml.internal.XMLWriter)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	2
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentStore/saveAttachmentsContent(java.util.List,com.xpn.xwiki.doc.XWikiDocument,boolean,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/activitystream/impl/ActivityStreamImpl/deleteActivityEvent(com.xpn.xwiki.plugin.activitystream.api.ActivityEvent,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	4
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentVersioningStore/loadArchive(com.xpn.xwiki.doc.XWikiAttachment,org.xwiki.store.filesystem.internal.AttachmentFileProvider)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	3
+com/xpn/xwiki/plugin/activitystream/eventstreambridge/BridgeEventStream/convertEventToActivity(org.xwiki.eventstream.Event)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	0

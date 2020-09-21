@@ -1,0 +1,5 @@
+org/apache/http/impl/client/cache/RequestProtocolCompliance/stripOtherFreshnessDirectivesWithNoCache(org.apache.http.HttpRequest)@g_httpclient-osgi-4.5.3.jar.txt	1
+org/apache/http/impl/client/ProxyClient/tunnel(org.apache.http.HttpHost,org.apache.http.HttpHost,org.apache.http.auth.Credentials)@g_httpclient-osgi-4.5.3.jar.txt	4
+org/apache/http/client/utils/URIUtils/normalizeSyntax(java.net.URI)@g_httpclient-osgi-4.5.3.jar.txt	2
+org/apache/http/impl/client/cache/RequestProtocolCompliance/decrementOPTIONSMaxForwardsIfGreaterThen0(org.apache.http.HttpRequest)@g_httpclient-osgi-4.5.3.jar.txt	0
+org/apache/http/impl/cookie/RFC2965DomainAttributeHandler/validate(org.apache.http.cookie.Cookie,org.apache.http.cookie.CookieOrigin)@g_httpclient-osgi-4.5.3.jar.txt	3

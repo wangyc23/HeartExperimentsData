@@ -1,0 +1,5 @@
+javax/el/ResourceBundleELResolver/getFeatureDescriptors(javax.el.ELContext,java.lang.Object)@g_jsp-api-2.1-glassfish-2.1.v20100127.jar.txt	3
+javax/servlet/jsp/el/ScopedAttributeELResolver/getFeatureDescriptors(javax.el.ELContext,java.lang.Object)@g_jsp-api-2.1-glassfish-2.1.v20100127.jar.txt	2
+javax/el/MapELResolver/getFeatureDescriptors(javax.el.ELContext,java.lang.Object)@g_jsp-api-2.1-glassfish-2.1.v20100127.jar.txt	0
+javax/el/MapELResolver/getFeatureDescriptors(javax.el.ELContext,java.lang.Object)@g_jboss-el-api_3.0_spec-1.0.0.Alpha1.jar.txt	1
+javax/el/ResourceBundleELResolver/getFeatureDescriptors(javax.el.ELContext,java.lang.Object)@g_jboss-el-api_3.0_spec-1.0.0.Alpha1.jar.txt	4

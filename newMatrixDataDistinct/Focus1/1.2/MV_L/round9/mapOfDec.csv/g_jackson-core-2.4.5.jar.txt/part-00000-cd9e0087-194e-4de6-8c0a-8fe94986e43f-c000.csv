@@ -1,0 +1,5 @@
+com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_handleOddValue(int)@g_jackson-core-2.4.6.jar.txt	1
+com/fasterxml/jackson/core/Base64Variant/_reportInvalidBase64(char,int,java.lang.String)@g_jackson-core-2.4.4.jar.txt	2
+com/fasterxml/jackson/core/json/UTF8StreamJsonParser/_handleUnexpectedValue(int)@g_jackson-core-2.4.4.jar.txt	4
+com/fasterxml/jackson/core/json/ReaderBasedJsonParser/getBinaryValue(com.fasterxml.jackson.core.Base64Variant)@g_jackson-core-2.4.4.jar.txt	3
+com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_handleOddValue(int)@g_jackson-core-2.4.4.jar.txt	0

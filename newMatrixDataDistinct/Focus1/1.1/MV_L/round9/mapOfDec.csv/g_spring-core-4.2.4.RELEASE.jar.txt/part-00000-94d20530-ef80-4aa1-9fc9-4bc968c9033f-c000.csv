@@ -1,0 +1,5 @@
+org/springframework/core/type/StandardAnnotationMetadata/getAnnotatedMethods(java.lang.String)@g_spring-core-4.2.6.RELEASE.jar.txt	2
+org/springframework/core/annotation/AnnotationUtils/retrieveAnnotationAttributes(java.lang.reflect.AnnotatedElement,java.lang.annotation.Annotation,boolean,boolean)@g_spring-core-4.2.6.RELEASE.jar.txt	1
+org/springframework/core/annotation/AnnotatedElementUtils/getMetaAnnotationTypes(java.lang.reflect.AnnotatedElement,java.lang.String)@g_spring-core-4.2.6.RELEASE.jar.txt	4
+org/springframework/core/annotation/AnnotatedElementUtils/getMetaAnnotationTypes(java.lang.reflect.AnnotatedElement,java.lang.Class)@g_spring-core-4.2.6.RELEASE.jar.txt	3
+org/springframework/core/GenericTypeResolver/resolveReturnTypeForGenericMethod(java.lang.reflect.Method,java.lang.Object[],java.lang.ClassLoader)@g_spring-core-4.2.6.RELEASE.jar.txt	0

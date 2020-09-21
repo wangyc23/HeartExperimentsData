@@ -1,0 +1,5 @@
+org/mozilla/javascript/TokenStream/getToken()@g_yuicompressor-2.4.7.jar.txt	4
+org/mozilla/javascript/tools/shell/JavaPolicySecurity/getUrlObj(java.lang.String)@g_yuicompressor-2.4.7.jar.txt	0
+org/mozilla/javascript/DToA/JS_dtobasestr(int,double)@g_yuicompressor-2.4.7.jar.txt	3
+org/mozilla/javascript/xmlimpl/XmlProcessor/beautifyElement(org.w3c.dom.Element,int)@g_yuicompressor-2.4.7.jar.txt	2
+org/mozilla/javascript/tools/shell/JavaPolicySecurity/getUrlObj(java.lang.String)@g_rhino-1.7R4.jar.txt	1

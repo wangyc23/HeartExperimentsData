@@ -1,0 +1,4 @@
+org/xwiki/security/SecurityReference/getOriginalReference()
+org/xwiki/security/SecurityReference/getType()
+org/xwiki/security/authorization/EntityTypeNotSupportedException/EntityTypeNotSupportedException(org.xwiki.model.EntityType,org.xwiki.security.authorization.SecurityEntryReader)
+org/xwiki/model/reference/DocumentReference/DocumentReference(org.xwiki.model.reference.EntityReference)

@@ -1,0 +1,5 @@
+com/cybozu/labs/langdetect/CommandLineInterface/detectLang()@g_py4j-0.10.4.jar.txt	2
+py4j/Gateway/invoke(java.lang.String,java.lang.String,java.util.List)@g_py4j-0.10.4.jar.txt	4
+py4j/reflection/ReflectionEngine/getPublicStaticFieldNames(java.lang.Class)@g_py4j-0.10.4.jar.txt	3
+py4j/CallbackConnection/start()@g_py4j-0.10.4.jar.txt	0
+com/optimaize/langdetect/LanguageDetectorBuilder/withProfile(com.optimaize.langdetect.profiles.LanguageProfile)@g_language-detector-0.5.jar.txt	1

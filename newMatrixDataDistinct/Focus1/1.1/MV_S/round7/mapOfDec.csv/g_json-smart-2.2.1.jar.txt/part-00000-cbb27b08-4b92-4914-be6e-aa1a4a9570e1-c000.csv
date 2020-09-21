@@ -1,0 +1,5 @@
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/internalGetQualifierAnnotations(java.lang.reflect.AnnotatedElement)@g_xwiki-platform-resource-api-7.4.2.jar.txt	0
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/addMetadata(java.util.Map,java.lang.String,java.lang.String)@g_xwiki-platform-resource-api-7.4.2.jar.txt	4
+net/minidev/json/reader/BeansWriter/writeJSONString(java.lang.Object,java.lang.Appendable,net.minidev.json.JSONStyle)@g_xwiki-platform-resource-api-7.4.2.jar.txt	3
+net/minidev/json/writer/JsonReader/getMapper(java.lang.Class)@g_xwiki-platform-resource-api-7.4.2.jar.txt	2
+net/minidev/json/JSONUtil/convertToStrict(java.lang.Object,java.lang.Class)@g_xwiki-platform-resource-api-7.4.2.jar.txt	1

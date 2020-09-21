@@ -1,0 +1,5 @@
+org/apache/drill/exec/physical/impl/TestHashToRandomExchange/twoBitTwoExchangeTwoEntryRun()@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	2
+org/apache/drill/exec/physical/impl/mergereceiver/TestMergingReceiver/twoBitTwoExchange()@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	1
+org/apache/drill/exec/physical/impl/TestDistributedFragmentRun/oneBitOneExchangeOneEntryRun()@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	0
+org/apache/drill/exec/physical/impl/TestExtractFunctions/testFrom(java.lang.String,java.lang.String,java.lang.String,long[][])@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	3
+org/apache/drill/BaseTestQuery/openClient()@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	4

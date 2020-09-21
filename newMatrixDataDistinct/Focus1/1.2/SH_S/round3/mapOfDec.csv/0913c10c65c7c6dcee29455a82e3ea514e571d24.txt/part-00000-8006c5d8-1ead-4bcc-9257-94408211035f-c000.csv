@@ -1,0 +1,5 @@
+kafka/New/Producer/DemoCallBack/onCompletion(kafka.New.RecordMetadata,java.lang.Exception)@027b53237cd3203173d61e9dbe56571d1745224e.txt	4
+getui/HttpUtil/httpPostJSON1(java.lang.String,java.util.Map)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	1
+hbase/HttpRequest/sendGet(java.lang.String,java.lang.String)@027b53237cd3203173d61e9dbe56571d1745224e.txt	3
+hbase/HttpRequest/sendPost(java.lang.String,java.lang.String)@027b53237cd3203173d61e9dbe56571d1745224e.txt	2
+getui/HttpUtil/httpPostJSON(java.lang.String,java.util.Map,java.lang.String)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	0

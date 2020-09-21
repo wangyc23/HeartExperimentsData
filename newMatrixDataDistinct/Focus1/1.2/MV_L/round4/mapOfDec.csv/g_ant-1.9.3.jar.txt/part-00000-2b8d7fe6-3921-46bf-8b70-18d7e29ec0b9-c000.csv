@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Copyfile/execute()@g_ant-1.10.1.jar.txt	4
+org/apache/tools/ant/types/Path/addExisting(org.apache.tools.ant.types.Path,boolean)@g_ant-1.10.1.jar.txt	1
+org/apache/tools/ant/types/XMLCatalog/filesystemLookup(org.apache.tools.ant.types.ResourceLocation)@g_ant-1.10.1.jar.txt	3
+org/apache/tools/ant/taskdefs/Untar/expandFile(org.apache.tools.ant.util.FileUtils,java.io.File,java.io.File)@g_ant-1.10.1.jar.txt	2
+org/apache/tools/ant/taskdefs/Replace/processFile(java.io.File)@g_ant-1.10.1.jar.txt	0

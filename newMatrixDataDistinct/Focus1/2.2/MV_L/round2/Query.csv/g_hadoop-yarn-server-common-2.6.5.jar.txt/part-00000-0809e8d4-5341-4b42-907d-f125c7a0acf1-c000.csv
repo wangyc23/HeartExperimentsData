@@ -1,0 +1,4 @@
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$NMContainerStatusProto/access$8502(org.apache.hadoop.yarn.proto.YarnServerCommonServiceProtos$NMContainerStatusProto,int)
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$NMContainerStatusProto$Builder/onBuilt()
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$NMContainerStatusProto/access$8302(org.apache.hadoop.yarn.proto.YarnServerCommonServiceProtos$NMContainerStatusProto,org.apache.hadoop.yarn.proto.YarnProtos$PriorityProto)
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$NMContainerStatusProto/access$8602(org.apache.hadoop.yarn.proto.YarnServerCommonServiceProtos$NMContainerStatusProto,long)

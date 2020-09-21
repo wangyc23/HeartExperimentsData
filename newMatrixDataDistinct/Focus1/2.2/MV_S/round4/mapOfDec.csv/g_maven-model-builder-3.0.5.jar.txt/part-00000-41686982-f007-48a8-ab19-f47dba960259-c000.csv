@@ -1,0 +1,5 @@
+org/apache/maven/project/injection/DefaultProfileInjector/mergeReportPlugins(org.apache.maven.model.ReportPlugin,org.apache.maven.model.ReportPlugin)@g_maven-project-2.0.7.jar.txt	3
+org/apache/maven/project/ModelUtils/mergeReportPluginLists(org.apache.maven.model.Reporting,org.apache.maven.model.Reporting,boolean)@g_maven-project-2.0.7.jar.txt	0
+org/apache/maven/project/DefaultMavenProjectBuilder/buildInternal(java.lang.String,org.apache.maven.model.Model,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List,java.io.File,org.apache.maven.profiles.ProfileManager,boolean)@g_maven-project-2.0.7.jar.txt	4
+org/apache/maven/project/ModelUtils/mergeReportPluginDefinitions(org.apache.maven.model.ReportPlugin,org.apache.maven.model.ReportPlugin,boolean)@g_maven-project-2.0.7.jar.txt	2
+org/apache/maven/project/ModelUtils/mergePluginDefinitions(org.apache.maven.model.Plugin,org.apache.maven.model.Plugin,boolean)@g_maven-project-2.0.7.jar.txt	1

@@ -1,0 +1,4 @@
+javax/json/JsonReader/readObject()
+javax/json/Json/createReader(java.io.InputStream)
+com/amazonaws/http/HttpResponse/getStatusCode()
+com/amihaiemil/charles/rest/model/ElasticSearchResults/ElasticSearchResults(javax.json.JsonObject)

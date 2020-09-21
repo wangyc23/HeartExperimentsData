@@ -1,0 +1,5 @@
+ucar/nc2/dt/point/WriterCFPointDataset/writePointFeatureCollection(ucar.nc2.ft.FeatureDatasetPoint,java.lang.String)@g_cdm-4.5.5.jar.txt	3
+ucar/nc2/iosp/netcdf3/N3header/read(ucar.unidata.io.RandomAccessFile,ucar.nc2.NetcdfFile,java.util.Formatter)@g_cdm-4.5.5.jar.txt	0
+ucar/nc2/iosp/hdf5/H5header/makeVariable(ucar.nc2.Group,ucar.nc2.iosp.hdf5.H5header$DataObjectFacade)@g_cdm-4.5.5.jar.txt	1
+ucar/nc2/stream/CdmRemote/writeToFile(java.lang.String)@g_cdm-4.5.5.jar.txt	2
+ucar/nc2/wmo/CommonCodeTable/readCommonCodes(ucar.nc2.wmo.CommonCodeTable$Table)@g_cdm-4.5.5.jar.txt	4

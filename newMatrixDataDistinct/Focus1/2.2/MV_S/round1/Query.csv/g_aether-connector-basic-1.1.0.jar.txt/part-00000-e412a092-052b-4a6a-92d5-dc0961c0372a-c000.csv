@@ -1,0 +1,4 @@
+org/eclipse/aether/connector/basic/PartialFile$LockFile/tryLock(java.io.File)
+java/lang/Thread/sleep(long)
+java/io/IOException/IOException(java.lang.String)
+org/eclipse/aether/connector/basic/PartialFile$RemoteAccessChecker/checkRemoteAccess()

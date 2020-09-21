@@ -1,0 +1,5 @@
+com/sun/faces/config/ConfigManager/ParseTask/getDocument()@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/config/FacesConfigInfo/extractOrdering(org.w3c.dom.Document)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/application/view/ViewScopeContextManager/getName(java.lang.Object)@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/application/annotation/ResourceHandler/applyToField(javax.faces.context.FacesContext,java.lang.reflect.Field,javax.annotation.Resource,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/el/CompositeComponentAttributesELResolver/getType(javax.el.ELContext,java.lang.Object,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	3

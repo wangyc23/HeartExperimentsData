@@ -1,0 +1,4 @@
+org/apache/avro/data/Json$JsonType/values()
+org/codehaus/jackson/node/ObjectNode/put(java.lang.String,org.codehaus.jackson.JsonNode)
+org/codehaus/jackson/node/LongNode/LongNode(long)
+org/codehaus/jackson/node/ArrayNode/add(org.codehaus.jackson.JsonNode)

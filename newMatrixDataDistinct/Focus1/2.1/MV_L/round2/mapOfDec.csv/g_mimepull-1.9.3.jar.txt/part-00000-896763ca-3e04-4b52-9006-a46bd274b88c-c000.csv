@@ -1,0 +1,5 @@
+com/sun/faces/renderkit/RenderKitUtils/renderUnhandledMessages(javax.faces.context.FacesContext)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/config/processor/ResourceLibraryContractsConfigProcessor/process(javax.servlet.ServletContext,com.sun.faces.config.DocumentInfo[])@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/config/ConfigManager/getConfigDocuments(javax.servlet.ServletContext,java.util.List,java.util.concurrent.ExecutorService,boolean)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/context/ExceptionHandlerImpl/handle()@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/taglib/jsf_core/ConvertNumberTag/evaluateExpressions()@g_javax.faces-2.2.7.jar.txt	0

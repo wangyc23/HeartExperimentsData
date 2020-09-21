@@ -1,0 +1,4 @@
+0	java/lang/StringBuffer/StringBuffer(java.lang.String)
+1	java/lang/StringBuffer/append(java.lang.String)
+2	java/lang/StringBuffer/append(java.lang.Object)
+3	net/paoding/analysis/analyzer/PaodingAnalyzerBean/tokenStream(java.lang.String,java.io.Reader)

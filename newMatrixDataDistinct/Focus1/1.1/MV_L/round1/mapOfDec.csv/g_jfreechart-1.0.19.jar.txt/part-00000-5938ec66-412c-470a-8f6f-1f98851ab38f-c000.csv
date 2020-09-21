@@ -1,0 +1,5 @@
+org/apache/batik/gvt/text/GlyphLayout/getStrikethroughShape()@g_batik-gvt-1.7.jar.txt	1
+org/jfree/chart/renderer/xy/XYStepRenderer/drawItem(java.awt.Graphics2D,org.jfree.chart.renderer.xy.XYItemRendererState,java.awt.geom.Rectangle2D,org.jfree.chart.plot.PlotRenderingInfo,org.jfree.chart.plot.XYPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.axis.ValueAxis,org.jfree.data.xy.XYDataset,int,int,org.jfree.chart.plot.CrosshairState,int)@g_batik-gvt-1.7.jar.txt	3
+org/apache/batik/gvt/text/GlyphLayout/getUnderlineShape()@g_batik-gvt-1.7.jar.txt	0
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer/drawDomainMarker(java.awt.Graphics2D,org.jfree.chart.plot.XYPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.plot.Marker,java.awt.geom.Rectangle2D)@g_batik-gvt-1.7.jar.txt	4
+org/apache/batik/gvt/text/GlyphLayout/getOverlineShape()@g_batik-gvt-1.7.jar.txt	2

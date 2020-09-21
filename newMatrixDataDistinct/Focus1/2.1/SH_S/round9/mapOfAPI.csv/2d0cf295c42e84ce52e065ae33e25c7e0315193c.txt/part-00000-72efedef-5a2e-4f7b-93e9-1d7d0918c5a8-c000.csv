@@ -1,0 +1,8 @@
+0	java/util/Map/put(K,V)
+1	java/util/HashMap/HashMap()
+2	java/lang/StringBuffer/StringBuffer(java.lang.String)
+3	java/lang/StringBuffer/append(java.lang.String)
+4	org/sifarish/util/Entity/getIdField()
+5	java/lang/StringBuffer/append(java.lang.Object)
+6	com/waimai/ops/service/AppLogService/getOnlineError(java.lang.String,java.lang.String)
+7	java/lang/Integer/parseInt(java.lang.String)

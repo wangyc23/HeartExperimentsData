@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/module/ResolverImpl/checkCycle(java.util.List)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/osgi/internal/module/ResolverImpl/resolveGenericReq(org.eclipse.osgi.internal.module.GenericConstraint,java.util.List)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/internal/module/ResolverImpl/checkUsesConstraints(org.eclipse.osgi.internal.module.ResolverBundle[],java.util.Dictionary[])@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/osgi/internal/resolver/BaseDescriptionImpl/toString(java.util.Map,boolean)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/internal/module/ResolverImpl/resolveImport(org.eclipse.osgi.internal.module.ResolverImport,java.util.List)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3

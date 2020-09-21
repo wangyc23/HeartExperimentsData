@@ -1,0 +1,5 @@
+net/rootdev/javardfa/Parser/parse(net.rootdev.javardfa.EvalContext,javax.xml.stream.events.StartElement)@g_java-rdfa-0.4.2.jar.txt	3
+javanet/staxutils/events/StartElementEvent/processQName(javax.xml.namespace.QName)@g_stax-utils-20070216.jar.txt	1
+javanet/staxutils/XMLStreamUtils/mergeAttributes(javax.xml.stream.events.StartElement,java.util.Iterator,javax.xml.stream.XMLEventFactory)@g_stax-utils-20070216.jar.txt	0
+rdfa/parse/main(java.lang.String[])@g_java-rdfa-0.4.2.jar.txt	4
+javanet/staxutils/StAXEventContentHandler/createStartEvents(org.xml.sax.Attributes,java.util.Collection[])@g_stax-utils-20070216.jar.txt	2

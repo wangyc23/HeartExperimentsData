@@ -1,0 +1,5 @@
+org/apache/log4j/chainsaw/MyTableModel/updateFilteredEvents(boolean)@g_log4j-1.2.17.jar.txt	2
+org/apache/log4j/varia/Roller/roll()@g_log4j-1.2.17.jar.txt	3
+org/apache/log4j/chainsaw/LoggingReceiver/run()@g_log4j-1.2.17.jar.txt	0
+org/apache/log4j/net/SocketServer/configureHierarchy(java.net.InetAddress)@g_log4j-1.2.17.jar.txt	1
+org/apache/log4j/net/SocketNode/run()@g_log4j-1.2.17.jar.txt	4

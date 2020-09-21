@@ -1,0 +1,5 @@
+io/netty/channel/epoll/EpollDatagramChannel/EpollDatagramChannelUnsafe/epollInReady()@g_netty-transport-native-epoll-4.0.27.Final.jar.txt	3
+io/netty/channel/epoll/EpollDatagramChannel/doWriteMessage(java.lang.Object)@g_netty-transport-native-epoll-4.0.27.Final.jar.txt	2
+io/netty/channel/epoll/AbstractEpollChannel/doWriteBytes(io.netty.buffer.ByteBuf,int)@g_netty-transport-native-epoll-4.0.27.Final.jar.txt	0
+io/netty/channel/epoll/AbstractEpollChannel/doReadBytes(io.netty.buffer.ByteBuf)@g_netty-transport-native-epoll-4.0.27.Final.jar.txt	1
+io/netty/channel/local/LocalChannel/doBeginRead()@g_netty-transport-native-epoll-4.0.27.Final.jar.txt	4

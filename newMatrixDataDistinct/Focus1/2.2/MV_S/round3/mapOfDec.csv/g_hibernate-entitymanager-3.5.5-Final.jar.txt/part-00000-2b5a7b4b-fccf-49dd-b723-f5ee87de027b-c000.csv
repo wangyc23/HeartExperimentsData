@@ -1,0 +1,5 @@
+org/hibernate/jpa/boot/internal/EntityManagerFactoryBuilderImpl/addJaccDefinition(java.lang.String,java.lang.Object)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	3
+org/hibernate/jpa/spi/AbstractEntityManagerImpl/CriteriaQueryTransformer/TupleImpl/get(java.lang.String)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	2
+org/hibernate/cfg/beanvalidation/TypeSafeActivator/applyDDL(java.util.Collection,java.util.Properties)@g_hibernate-annotations-3.5.5-Final.jar.txt	4
+org/hibernate/jpa/boot/archive/internal/StandardArchiveDescriptorFactory/buildArchiveDescriptor(java.net.URL,java.lang.String)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	1
+org/hibernate/jpa/boot/archive/internal/ArchiveHelper/getJarURLFromURLEntry(java.net.URL,java.lang.String)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	0

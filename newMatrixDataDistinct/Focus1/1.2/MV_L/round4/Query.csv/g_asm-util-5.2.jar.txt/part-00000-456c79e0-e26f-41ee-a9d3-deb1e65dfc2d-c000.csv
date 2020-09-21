@@ -1,0 +1,4 @@
+org/objectweb/asm/ClassReader/accept(org.objectweb.asm.ClassVisitor,int)
+java/io/PrintStream/println(java.lang.String)
+org/objectweb/asm/ClassReader/ClassReader(java.lang.String)
+java/io/FileInputStream/FileInputStream(java.lang.String)

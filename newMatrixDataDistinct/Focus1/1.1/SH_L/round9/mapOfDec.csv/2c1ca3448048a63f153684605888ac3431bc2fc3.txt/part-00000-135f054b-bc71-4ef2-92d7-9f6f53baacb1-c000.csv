@@ -1,0 +1,5 @@
+com/adobe/acs/commons/workflow/bulk/impl/BulkWorkflowEngineImpl/deactivate(java.util.Map)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	0
+com/adobe/acs/commons/contentfinder/querybuilder/impl/viewhandler/QueryBuilderViewQuery/createHit(com.adobe.acs.commons.packaging.impl.Hit)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	1
+com/adobe/acs/commons/util/TypeUtil/toValueMap(java.util.Map)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	3
+com/adobe/acs/commons/packaging/impl/PackageHelperImpl/createPackageFromPathFilterSets(java.util.Collection,com.adobe.acs.commons.packaging.impl.Session,java.lang.String,java.lang.String,java.lang.String,com.adobe.acs.commons.packaging.PackageHelper.ConflictResolution,java.util.Map)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	4
+com/adobe/acs/commons/workflow/process/impl/DamMetadataPropertyResetProcess/execute(com.adobe.acs.commons.email.process.impl.WorkItem,com.adobe.acs.commons.dam.impl.WorkflowSession,com.adobe.acs.commons.dam.MetaDataMap)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	2

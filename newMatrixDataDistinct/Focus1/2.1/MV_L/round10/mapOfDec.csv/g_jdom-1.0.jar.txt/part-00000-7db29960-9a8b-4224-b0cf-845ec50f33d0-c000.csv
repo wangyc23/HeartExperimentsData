@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStreamHandler/getHostAddress(java.net.URL)@g_jdom-1.1.3.jar.txt	2
+org/jdom/output/DOMOutputter/output(org.jdom.Document)@g_jdom-1.1.3.jar.txt	0
+org/jdom/adapters/XercesDOMAdapter/createDocument()@g_jdom-1.1.3.jar.txt	4
+org/eclipse/osgi/baseadaptor/BaseAdaptor/listEntryPaths(java.util.List,java.lang.String,java.lang.String,int)@g_jdom-1.1.3.jar.txt	3
+org/jdom/output/DOMOutputter/output(org.jdom.Element,org.w3c.dom.Document,org.jdom.output.NamespaceStack)@g_jdom-1.1.3.jar.txt	1

@@ -1,0 +1,5 @@
+org/hf/mls/cf/hadoop/seqtotxt/SeqToTextJob/run(java.lang.String[])@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	0
+org/hf/mls/ar/hadoop/CountJob/run(java.lang.String[])@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	2
+org/hf/mls/pref/hadoop/PreProcessJob/run(java.lang.String[])@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	4
+org/hf/mls/pref/hadoop/zscore/ZscoreJob/run(java.lang.String[])@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	3
+org/hf/mls/mahout/cf/taste/hadoop/similarity/item/ItemSimilarityJob/run(java.lang.String[])@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	1

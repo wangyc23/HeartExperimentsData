@@ -1,0 +1,4 @@
+java/lang/StringBuffer/delete(int,int)
+java/lang/Character/isWhitespace(char)
+java/lang/Class/newInstance()
+java/io/BufferedWriter/BufferedWriter(java.io.Writer)

@@ -1,0 +1,5 @@
+scala/reflect/internal/TreeGen/ValFrom/unapply(scala.reflect.internal.Trees$Tree)@g_scala-reflect-2.11.8.jar.txt	3
+scala/reflect/internal/Types/class/$init$(scala.reflect.internal.SymbolTable)@g_scala-reflect-2.10.5.jar.txt	1
+scala/reflect/internal/Types/class/$init$(scala.reflect.internal.SymbolTable)@g_scala-reflect-2.11.8.jar.txt	0
+scala/reflect/internal/Internals/SymbolTableInternal/class/subpatterns(scala.reflect.internal.Internals$SymbolTableInternal,scala.reflect.internal.Trees$Tree)@g_scala-reflect-2.11.8.jar.txt	2
+scala/reflect/internal/Printers/RawTreePrinter/print(scala.collection.Seq)@g_scala-reflect-2.11.8.jar.txt	4

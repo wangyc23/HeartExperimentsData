@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+org/apache/maven/model/InputLocation/merge(org.apache.maven.model.InputLocation,org.apache.maven.model.InputLocation,java.util.Collection)
+java/util/List/size()
+java/util/List/addAll(java.util.Collection)

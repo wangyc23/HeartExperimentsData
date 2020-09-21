@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/resolver/BundleDescriptionImpl/DescriptionWiring/getRequiredWires(java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/osgi/framework/FrameworkUtil/FilterImpl/Parser/parse_substring()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/framework/internal/core/FilterImpl/Parser/parse_substring()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/osgi/util/ManifestElement/parseHeader(java.lang.String,java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/internal/resolver/BaseDescriptionImpl/toString(java.util.Map,boolean)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3

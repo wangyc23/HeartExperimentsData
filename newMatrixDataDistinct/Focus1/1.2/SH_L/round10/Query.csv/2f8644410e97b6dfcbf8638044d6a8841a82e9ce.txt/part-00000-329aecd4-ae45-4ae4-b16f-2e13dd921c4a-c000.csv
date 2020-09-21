@@ -1,0 +1,4 @@
+org/apache/sling/scripting/jsp/jasper/compiler/PageInfo/isTrimDirectiveWhitespaces()
+org/apache/sling/scripting/jsp/jasper/compiler/Node/TemplateText/isAllSpace()
+org/apache/sling/scripting/jsp/jasper/compiler/Node/TemplateText/setText(java.lang.String)
+org/apache/sling/scripting/jsp/jasper/compiler/Node/getText()

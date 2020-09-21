@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+org/drools/eclipse/flow/common/editor/core/DefaultElementWrapper/notifyListeners(int)
+org/drools/eclipse/flow/ruleflow/core/EndNodeWrapper/getEndNode()
+org/drools/eclipse/flow/ruleflow/core/AbstractNodeWrapper/setPropertyValue(java.lang.Object,java.lang.Object)

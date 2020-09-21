@@ -1,0 +1,5 @@
+org/springframework/boot/bind/RelaxedDataBinder/getPropertyValuesForNamePrefix(org.springframework.beans.MutablePropertyValues)@g_spring-boot-1.3.0.BUILD-20151114.062217-808.jar.txt	3
+org/springframework/boot/bind/RelaxedDataBinder/getPropertyValuesForNamePrefix(org.springframework.beans.MutablePropertyValues)@g_spring-boot-1.3.1.RELEASE.jar.txt	2
+org/springframework/boot/bind/RelaxedDataBinder/modifyProperties(org.springframework.beans.MutablePropertyValues,java.lang.Object)@g_spring-boot-1.3.0.BUILD-20151114.062217-808.jar.txt	1
+org/springframework/boot/ResourceBanner/printBanner(org.springframework.core.env.Environment,java.lang.Class,java.io.PrintStream)@g_spring-boot-1.3.1.RELEASE.jar.txt	4
+org/springframework/boot/bind/RelaxedDataBinder/modifyProperties(org.springframework.beans.MutablePropertyValues,java.lang.Object)@g_spring-boot-1.3.1.RELEASE.jar.txt	0

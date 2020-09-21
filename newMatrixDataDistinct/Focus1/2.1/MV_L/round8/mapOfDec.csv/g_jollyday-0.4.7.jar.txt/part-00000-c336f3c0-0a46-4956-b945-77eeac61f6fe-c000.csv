@@ -1,0 +1,5 @@
+com/sun/faces/renderkit/html_basic/MessageRenderer/encodeEnd(javax.faces.context.FacesContext,javax.faces.component.UIComponent)@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/renderkit/html_basic/MenuRenderer/getCurrentSelectedValues(javax.faces.component.UIComponent)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/lifecycle/LifecycleFactoryImpl/addLifecycle(java.lang.String,javax.faces.lifecycle.Lifecycle)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/config/FacesConfigInfo/extractOrdering(org.w3c.dom.Document)@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/renderkit/html_basic/MenuRenderer/isSelected(javax.faces.context.FacesContext,javax.faces.component.UIComponent,java.lang.Object,java.lang.Object,javax.faces.convert.Converter)@g_javax.faces-2.2.7.jar.txt	0

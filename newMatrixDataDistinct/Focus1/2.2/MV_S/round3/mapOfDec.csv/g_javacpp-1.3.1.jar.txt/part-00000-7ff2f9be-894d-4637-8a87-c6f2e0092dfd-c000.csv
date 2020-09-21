@@ -1,0 +1,5 @@
+com/sun/jna/Native/extractFromResourcePath(java.lang.String,java.lang.ClassLoader)@g_jna-4.1.0.jar.txt	0
+com/sun/jna/Structure/validateField(java.lang.String,java.lang.Class)@g_aspectjrt-1.8.5.jar.txt	4
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_aspectjrt-1.8.5.jar.txt	3
+com/sun/jna/Platform/getNativeLibraryResourcePrefix(int,java.lang.String,java.lang.String)@g_jna-4.1.0.jar.txt	2
+com/sun/jna/Native/loadNativeDispatchLibrary()@g_jna-4.1.0.jar.txt	1

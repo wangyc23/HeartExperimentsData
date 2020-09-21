@@ -1,0 +1,3 @@
+0	java/lang/management/ThreadMXBean/isThreadContentionMonitoringEnabled()
+1	java/lang/RuntimeException/RuntimeException(java.lang.String)
+2	java/io/PrintWriter/print(java.lang.String)

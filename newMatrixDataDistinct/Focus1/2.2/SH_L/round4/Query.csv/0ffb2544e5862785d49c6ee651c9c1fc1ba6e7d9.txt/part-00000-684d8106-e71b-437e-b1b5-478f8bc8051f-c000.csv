@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/Job/setMapperClass(java.lang.Class)
+org/apache/hadoop/mapreduce/lib/output/SequenceFileOutputFormat/setOutputCompressionType(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.io.SequenceFile.CompressionType)
+org/apache/hadoop/mapreduce/lib/output/FileOutputFormat/setCompressOutput(org.apache.hadoop.mapreduce.Job,boolean)
+org/apache/hadoop/conf/Configuration/Configuration()

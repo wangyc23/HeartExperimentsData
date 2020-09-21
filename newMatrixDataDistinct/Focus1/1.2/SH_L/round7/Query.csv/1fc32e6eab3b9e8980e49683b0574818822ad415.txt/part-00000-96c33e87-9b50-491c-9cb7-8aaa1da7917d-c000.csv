@@ -1,0 +1,4 @@
+fr/opensagres/eclipse/jsbuild/core/IJSBuildFileNode/getBuildFile()
+fr/opensagres/eclipse/jsbuild/core/Location/getLength()
+fr/opensagres/eclipse/jsbuild/internal/ui/Logger/logException(java.lang.String,java.lang.Throwable)
+java/text/MessageFormat/format(java.lang.String,java.lang.Object[])

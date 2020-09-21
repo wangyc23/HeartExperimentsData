@@ -1,0 +1,5 @@
+org/springframework/boot/autoconfigure/h2/H2ConsoleAutoConfiguration/H2ConsoleSecurityConfiguration/H2ConsoleSecurityConfigurer/configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)@g_spring-boot-autoconfigure-1.5.2.RELEASE.jar.txt	4
+org/springframework/boot/autoconfigure/data/redis/RedisAutoConfiguration/RedisConnectionConfiguration/configureConnectionFromUrl(org.springframework.data.redis.connection.jedis.JedisConnectionFactory)@g_spring-boot-autoconfigure-1.5.2.RELEASE.jar.txt	1
+org/springframework/boot/autoconfigure/info/ProjectInfoAutoConfiguration/loadFrom(org.springframework.core.io.Resource,java.lang.String)@g_spring-boot-autoconfigure-1.5.2.RELEASE.jar.txt	0
+org/springframework/boot/autoconfigure/template/AbstractTemplateViewResolverProperties/applyToViewResolver(java.lang.Object)@g_spring-boot-autoconfigure-1.5.2.RELEASE.jar.txt	3
+org/springframework/test/web/servlet/request/MockHttpServletRequestBuilder/updatePathRequestProperties(org.springframework.mock.web.MockHttpServletRequest,java.lang.String)@g_spring-test-4.1.6.RELEASE.jar.txt	2

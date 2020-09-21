@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+sun/misc/BASE64Encoder/encode(byte[])
+sun/misc/BASE64Encoder/BASE64Encoder()
+javax/crypto/Cipher/doFinal(byte[])

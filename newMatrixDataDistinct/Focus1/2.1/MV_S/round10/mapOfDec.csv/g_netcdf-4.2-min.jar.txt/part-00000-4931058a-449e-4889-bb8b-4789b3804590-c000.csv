@@ -1,0 +1,5 @@
+ucar/nc2/iosp/hdf5/H5header/HeaderMessage/read(long,int,boolean,java.lang.String)@g_netcdf-4.2.20.jar.txt	0
+thredds/cataloggen/config/DatasetNamer/nameDatasetDodsAttrib(thredds.catalog.InvDatasetImpl)@g_netcdf-4.2.20.jar.txt	4
+ucar/nc2/ft/FeatureDatasetFactoryManager/registerFactory(java.lang.Class)@g_netcdf-4.2.20.jar.txt	3
+edu/stanford/nlp/parser/lexparser/TueBaDZParserParams/transformTree(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.Tree)@g_netcdf-4.2.20.jar.txt	2
+ucar/nc2/iosp/gempak/GempakParameterTable/getInputStream(java.lang.String)@g_netcdf-4.2.20.jar.txt	1

@@ -1,0 +1,5 @@
+edu/cmu/lti/jawjaw/util/CollectionUtil/synsetToOffset(java.lang.String)@g_jawjaw-0.1.0.jar.txt	0
+org/springframework/classify/PatternMatcher/match(java.lang.String)@g_jawjaw-0.1.0.jar.txt	4
+edu/cmu/lti/ws4j/util/OverlapFinder/getOverlaps(java.lang.String,java.lang.String)@g_jawjaw-0.1.0.jar.txt	3
+org/springframework/retry/interceptor/StatefulRetryOperationsInterceptor/invoke(org.aopalliance.intercept.MethodInvocation)@g_jawjaw-0.1.0.jar.txt	1
+edu/cmu/lti/ws4j/util/Traverser/getUpwardSynsets(java.lang.String)@g_jawjaw-0.1.0.jar.txt	2

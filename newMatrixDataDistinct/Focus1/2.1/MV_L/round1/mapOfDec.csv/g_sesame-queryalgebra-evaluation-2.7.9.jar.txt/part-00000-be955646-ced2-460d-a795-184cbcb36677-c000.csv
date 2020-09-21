@@ -1,0 +1,5 @@
+org/openrdf/query/algebra/evaluation/function/datetime/Month/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-rio-ntriples-2.7.9.jar.txt	3
+org/openrdf/query/algebra/evaluation/impl/EvaluationStrategyImpl/evaluate(org.openrdf.query.algebra.StatementPattern,org.openrdf.query.BindingSet)@g_sesame-rio-ntriples-2.7.9.jar.txt	4
+org/openrdf/query/algebra/evaluation/function/datetime/Tz/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-rio-ntriples-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/iterator/GroupIterator/buildEntries()@g_sesame-rio-ntriples-2.7.9.jar.txt	0
+org/openrdf/query/algebra/evaluation/impl/ConjunctiveConstraintSplitter/ConstraintVisitor/meet(org.openrdf.query.algebra.Filter)@g_sesame-rio-ntriples-2.7.9.jar.txt	2

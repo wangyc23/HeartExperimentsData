@@ -1,0 +1,5 @@
+org/eclipse/jetty/io/nio/SslConnection/process(org.eclipse.jetty.io.Buffer,org.eclipse.jetty.io.Buffer)@g_jetty-io-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/io/nio/SelectorManager/SelectSet/renewSelector()@g_jetty-io-8.1.22.v20160922.jar.txt	3
+org/eclipse/jetty/io/nio/DirectNIOBuffer/poke(int,byte[],int,int)@g_jetty-io-8.1.22.v20160922.jar.txt	4
+org/eclipse/jetty/io/nio/SslConnection/process(org.eclipse.jetty.io.Buffer,org.eclipse.jetty.io.Buffer)@g_jetty-io-8.1.22.v20160922.jar.txt	0
+org/eclipse/jetty/io/AbstractBuffer/toDetailString()@g_jetty-io-8.1.22.v20160922.jar.txt	2

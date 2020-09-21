@@ -1,0 +1,5 @@
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getCollapserJson(com.netflix.hystrix.HystrixCollapserMetrics)@g_hystrix-metrics-event-stream-1.4.4.jar.txt	3
+com/codahale/metrics/json/MetricsModule/MeterSerializer/serialize(com.codahale.metrics.Meter,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-json-3.1.2.jar.txt	0
+com/codahale/metrics/json/MetricsModule/HistogramSerializer/serialize(com.codahale.metrics.Histogram,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-json-3.1.2.jar.txt	4
+com/codahale/metrics/json/MetricsModule/MetricRegistrySerializer/serialize(com.codahale.metrics.MetricRegistry,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-json-3.1.2.jar.txt	2
+com/codahale/metrics/json/MetricsModule/TimerSerializer/serialize(com.codahale.metrics.Timer,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-json-3.1.2.jar.txt	1

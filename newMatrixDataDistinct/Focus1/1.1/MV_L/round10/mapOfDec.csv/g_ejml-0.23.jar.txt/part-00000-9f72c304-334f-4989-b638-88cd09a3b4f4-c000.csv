@@ -1,0 +1,5 @@
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/util/ArrayCoreMap/toShortString(char,java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/io/IOUtils/tail(java.io.File,int,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/trees/tregex/TregexPattern/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	3

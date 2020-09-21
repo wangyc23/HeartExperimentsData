@@ -1,0 +1,5 @@
+com/amazonaws/services/ec2/model/transform/NetworkInterfaceAttachmentStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	3
+com/amazonaws/services/ec2/model/transform/SnapshotStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	1
+com/amazonaws/services/ec2/model/transform/InstanceStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	4
+com/amazonaws/services/ec2/model/transform/ReservedInstancesStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	0
+com/amazonaws/services/ec2/model/transform/VgwTelemetryStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	2

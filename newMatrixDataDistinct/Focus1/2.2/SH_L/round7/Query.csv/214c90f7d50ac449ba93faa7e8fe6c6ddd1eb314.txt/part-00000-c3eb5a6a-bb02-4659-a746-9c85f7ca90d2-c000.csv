@@ -1,0 +1,4 @@
+org/jboss/arquillian/testenricher/ejb/EJBInjectionEnricher/resolveJNDINames(java.lang.Class,java.lang.String,java.lang.String)
+org/jboss/arquillian/testenricher/ejb/EJBInjectionEnricherTestCase/getField(java.util.List,java.lang.String)
+org/jboss/arquillian/testenricher/ejb/SecurityActions/getFieldsWithAnnotation(java.lang.Class,java.lang.Class)
+java/lang/reflect/Field/getType()

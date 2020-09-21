@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String,java.lang.Throwable)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Map/get(java.lang.Object)
+org/apache/lucene/analysis/synonym/FSTSynonymFilterFactory/getBoolean(java.lang.String,boolean)

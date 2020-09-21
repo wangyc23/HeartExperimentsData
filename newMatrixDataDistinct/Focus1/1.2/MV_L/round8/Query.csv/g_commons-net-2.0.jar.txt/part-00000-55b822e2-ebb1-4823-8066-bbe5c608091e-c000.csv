@@ -1,0 +1,4 @@
+java/io/DataOutputStream/write(byte[],int,int)
+java/lang/StringBuffer/toString()
+java/io/DataOutputStream/DataOutputStream(java.io.OutputStream)
+java/lang/StringBuffer/setLength(int)

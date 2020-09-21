@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-war-plugin-2.2.jar.txt	1
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handeWebAppSourceDirectory(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-source-plugin-3.0.0.jar.txt	2
+org/apache/maven/plugins/source/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-source-plugin-3.0.0.jar.txt	0
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handleDeploymentDescriptors(org.apache.maven.plugin.war.packaging.WarPackagingContext,java.io.File,java.io.File)@g_maven-source-plugin-3.0.0.jar.txt	4
+org/apache/maven/plugin/war/util/WebappStructureSerializer/toXml(org.apache.maven.plugin.war.util.WebappStructure,java.io.File)@g_maven-source-plugin-3.0.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/xwiki/component/wiki/internal/DefaultWikiComponentInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_xwiki-platform-cache-infinispan-7.4.jar.txt	3
+org/xwiki/component/wiki/internal/DefaultWikiComponentInvocationHandler/injectComponentDependencies(java.util.Map)@g_xwiki-platform-cache-infinispan-7.4.jar.txt	2
+org/xwiki/cache/infinispan/internal/InfinispanConfigurationLoader/customizeEviction(org.infinispan.configuration.cache.ConfigurationBuilder,org.infinispan.configuration.cache.Configuration)@g_xwiki-platform-cache-infinispan-7.4.jar.txt	1
+org/xwiki/component/wiki/internal/DefaultWikiComponentMethodExecutor/castRenderedContent(org.xwiki.rendering.block.XDOM,java.lang.reflect.Method)@g_xwiki-platform-cache-infinispan-7.4.jar.txt	4
+org/xwiki/component/wiki/internal/ObjectMethodsProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_xwiki-platform-cache-infinispan-7.4.jar.txt	0

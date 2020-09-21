@@ -1,0 +1,4 @@
+com/xpn/xwiki/doc/XWikiDocument/isNew()
+org/xwiki/localization/internal/DefaultLocalizedTranslationBundle/DefaultLocalizedTranslationBundle(org.xwiki.localization.TranslationBundle,java.util.Locale)
+com/xpn/xwiki/doc/XWikiDocument/getDocumentReference()
+com/xpn/xwiki/doc/XWikiDocument/getContent()

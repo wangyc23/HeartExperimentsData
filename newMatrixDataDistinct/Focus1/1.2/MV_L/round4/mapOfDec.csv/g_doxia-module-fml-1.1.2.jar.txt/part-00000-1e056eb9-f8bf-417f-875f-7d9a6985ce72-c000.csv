@@ -1,0 +1,5 @@
+org/apache/maven/doxia/module/fml/FmlContentParser/handleStartTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-module-fml-1.4.jar.txt	4
+org/apache/maven/doxia/module/fml/FmlParser/handleStartTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-module-fml-1.4.jar.txt	3
+org/apache/maven/doxia/module/fml/FmlParser/handleEndTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-module-fml-1.4.jar.txt	1
+org/apache/maven/doxia/module/fml/FmlParser/handleParamStart(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-module-fml-1.4.jar.txt	0
+org/apache/maven/doxia/module/fml/FmlParser/handleMacroStart(org.codehaus.plexus.util.xml.pull.XmlPullParser)@g_doxia-module-fml-1.4.jar.txt	2

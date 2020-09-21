@@ -1,0 +1,4 @@
+javax/jcr/Node/getProperties()
+javax/jcr/Node/hasProperties()
+javax/jcr/PropertyIterator/hasNext()
+java/util/List/size()

@@ -1,0 +1,5 @@
+org/h2/server/web/WebApp/executeLoop(java.sql.Connection,int,java.lang.String)@g_h2-1.4.178.jar.txt	2
+org/h2/server/web/WebServer/getSession(java.lang.String)@g_h2-1.4.178.jar.txt	0
+org/h2/util/Utils/loadResource(java.lang.String)@g_h2-1.4.178.jar.txt	4
+org/h2/tools/Recover/createTemporaryTable(java.io.PrintWriter)@g_h2-1.4.178.jar.txt	1
+org/h2/jdbc/JdbcConnection/prepareCall(java.lang.String,int,int,int)@g_h2-1.4.178.jar.txt	3

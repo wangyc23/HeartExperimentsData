@@ -1,0 +1,4 @@
+javax/xml/namespace/QName/QName(java.lang.String,java.lang.String)
+javax/xml/namespace/QName/QName(java.lang.String,java.lang.String,java.lang.String)
+javax/xml/soap/SOAPElement/addChildElement(java.lang.String)
+javax/xml/soap/SOAPBody/addBodyElement(javax.xml.namespace.QName)

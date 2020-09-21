@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+com/sun/tools/xjc/outline/Outline/getModel()
+com/sun/tools/xjc/model/Model/getAllElements()
+java/lang/Iterable/iterator()

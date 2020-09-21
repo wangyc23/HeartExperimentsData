@@ -1,0 +1,5 @@
+org/osgi/dto/DTO/appendMap(java.lang.StringBuilder,java.util.Map,java.lang.String,java.util.Map)@g_htrace-core-3.0.4.jar.txt	2
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistry/getServicesInUse(org.eclipse.osgi.internal.framework.BundleContextImpl)@g_htrace-core-3.0.4.jar.txt	4
+org/eclipse/osgi/storage/ManifestLocalization/getHeaders(java.lang.String)@g_htrace-core-3.0.4.jar.txt	3
+org/eclipse/osgi/internal/location/BasicLocation/set(java.net.URL,boolean,java.lang.String)@g_htrace-core-3.0.4.jar.txt	0
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/filterPermissions(org.osgi.framework.wiring.BundleRequirement,java.util.ListIterator)@g_htrace-core-3.0.4.jar.txt	1

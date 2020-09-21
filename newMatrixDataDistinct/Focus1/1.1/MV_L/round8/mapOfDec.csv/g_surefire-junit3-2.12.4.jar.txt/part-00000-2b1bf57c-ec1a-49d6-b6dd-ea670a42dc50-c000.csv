@@ -1,0 +1,5 @@
+org/apache/maven/surefire/report/SmartStackTraceParser/toString(java.lang.Throwable,java.lang.Iterable)@g_surefire-junit4-2.12.4.jar.txt	1
+org/apache/maven/surefire/junit4/JUnit4Provider/executeTestSet(java.lang.Class,org.apache.maven.surefire.report.RunListener,org.junit.runner.notification.RunNotifier)@g_surefire-junit4-2.12.4.jar.txt	4
+org/apache/maven/surefire/junit4/JUnit4Provider/invoke(java.lang.Object)@g_surefire-junit4-2.17.jar.txt	0
+org/apache/maven/surefire/junit/PojoTestSet/executeTestMethod(java.lang.reflect.Method,java.lang.Object[],org.apache.maven.surefire.report.RunListener)@g_surefire-junit4-2.12.4.jar.txt	3
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/StringUtils/swapCase(java.lang.String)@g_surefire-junit4-2.12.4.jar.txt	2

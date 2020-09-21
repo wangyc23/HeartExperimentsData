@@ -1,0 +1,5 @@
+org/apache/spark/launcher/CommandBuilderUtils/quoteForBatchScript(java.lang.String)@1f868415685fa09748a1fb010d9918e9f6fbc78b.txt	1
+org/apache/spark/launcher/CommandBuilderUtils/quoteForBatchScript(java.lang.String)@1fcf43c819ea4db77eebe9ad81c803a69c30da08.txt	4
+org/apache/spark/launcher/CommandBuilderUtils/quoteForCommandString(java.lang.String)@1f868415685fa09748a1fb010d9918e9f6fbc78b.txt	3
+org/apache/spark/unsafe/types/UTF8String/translate(java.util.Map)@1f868415685fa09748a1fb010d9918e9f6fbc78b.txt	2
+org/apache/hive/service/cli/CLIServiceUtils/patternToRegex(java.lang.String)@1f868415685fa09748a1fb010d9918e9f6fbc78b.txt	0

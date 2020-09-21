@@ -1,0 +1,4 @@
+javax/ws/rs/WebApplicationException/WebApplicationException()
+java/io/InputStream/reset()
+javax/ws/rs/ext/MessageBodyReader/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)
+java/io/InputStream/mark(int)

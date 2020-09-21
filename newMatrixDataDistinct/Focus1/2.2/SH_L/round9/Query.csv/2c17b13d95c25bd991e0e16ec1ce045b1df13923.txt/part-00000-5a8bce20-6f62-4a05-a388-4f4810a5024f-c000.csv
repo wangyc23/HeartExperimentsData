@@ -1,0 +1,4 @@
+org/springframework/boot/SpringApplication/getInitializers()
+org/springframework/boot/builder/SpringApplicationBuilder/run(java.lang.String[])
+org/springframework/boot/builder/SpringApplicationBuilder/SpringApplicationBuilder(java.lang.Object[])
+org/springframework/boot/builder/SpringApplicationBuilder/web(boolean)

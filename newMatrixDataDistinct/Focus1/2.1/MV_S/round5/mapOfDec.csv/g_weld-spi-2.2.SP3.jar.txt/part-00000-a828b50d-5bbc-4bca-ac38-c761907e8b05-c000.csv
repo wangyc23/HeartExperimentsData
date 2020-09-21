@@ -1,0 +1,5 @@
+org/jboss/weld/bootstrap/Validator/validateInjectionPointForDefinitionErrors(javax.enterprise.inject.spi.InjectionPoint,javax.enterprise.inject.spi.Bean,org.jboss.weld.manager.BeanManagerImpl)@g_weld-core-impl-2.2.9.Final.jar.txt	0
+org/eclipse/jetty/annotations/AnnotationConfiguration/getJarFor(javax.servlet.ServletContainerInitializer)@g_weld-core-impl-2.2.9.Final.jar.txt	4
+org/jboss/weld/resolution/ResolvableBuilder/addQualifier(java.lang.annotation.Annotation,javax.enterprise.inject.spi.InjectionPoint)@g_weld-core-impl-2.2.9.Final.jar.txt	1
+org/jboss/weld/bean/AbstractProducerBean/checkReturnValue(java.lang.Object)@g_weld-core-impl-2.2.9.Final.jar.txt	2
+org/eclipse/jetty/annotations/AnnotationParser/parseJar(java.util.Set,org.eclipse.jetty.util.resource.Resource,org.eclipse.jetty.annotations.ClassNameResolver)@g_weld-core-impl-2.2.9.Final.jar.txt	3

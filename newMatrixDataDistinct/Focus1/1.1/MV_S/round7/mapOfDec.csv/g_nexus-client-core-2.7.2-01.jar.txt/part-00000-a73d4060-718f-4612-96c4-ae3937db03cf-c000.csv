@@ -1,0 +1,5 @@
+org/sonatype/plexus/components/cipher/shaded/DefaultPlexusCipher/getServiceTypes()@g_nexus-staging-maven-plugin-1.6.3.jar.txt	1
+com/sonatype/nexus/staging/client/internal/StagingWorkflowV3ServiceImpl/collectRepositoryTransitionFailures(com.sonatype.nexus.staging.api.dto.StagingProfileRepositoryDTO)@g_siesta-client-1.5.2.jar.txt	3
+org/sonatype/nexus/maven/staging/deploy/strategy/StagingDeployStrategy/releaseAfterClose(org.sonatype.nexus.maven.staging.remote.Parameters,org.sonatype.nexus.maven.staging.remote.RemoteNexus,java.util.List)@g_siesta-client-1.5.2.jar.txt	4
+org/sonatype/plexus/components/sec/dispatcher/shaded/SecUtil/toStream(java.lang.String)@g_nexus-staging-maven-plugin-1.6.3.jar.txt	2
+org/sonatype/plexus/components/sec/dispatcher/shaded/DefaultSecDispatcher/stripAttributes(java.lang.String)@g_nexus-staging-maven-plugin-1.6.3.jar.txt	0

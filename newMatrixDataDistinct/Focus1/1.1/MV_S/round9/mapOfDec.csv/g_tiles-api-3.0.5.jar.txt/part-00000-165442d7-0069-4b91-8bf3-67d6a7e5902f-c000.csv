@@ -1,0 +1,5 @@
+gnu/trove/list/linked/TIntLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	4
+gnu/trove/map/hash/TLongByteHashMap/putAll(java.util.Map)@g_trove4j-3.0.3.jar.txt	3
+org/neo4j/cineasts/controller/ImportController/extractRanges(java.lang.String)@g_sdn4-cineasts-1.0-SNAPSHOT.jar.txt	0
+gnu/trove/map/hash/TByteIntHashMap/putAll(java.util.Map)@g_trove4j-3.0.3.jar.txt	2
+org/neo4j/cineasts/movieimport/MovieDbImportService/importMovies(java.util.Map)@g_sdn4-cineasts-1.0-SNAPSHOT.jar.txt	1

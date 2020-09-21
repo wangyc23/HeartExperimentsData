@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/tar/TarUtils/parseBinaryBigInteger(byte[],int,int,boolean)@g_commons-compress-1.4.jar.txt	2
+org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/putArchiveEntry(org.apache.commons.compress.archivers.ArchiveEntry)@g_commons-compress-1.4.jar.txt	4
+org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream/init(boolean)@g_commons-compress-1.4.jar.txt	0
+org/apache/commons/compress/archivers/ar/ArArchiveOutputStream/writeEntryHeader(org.apache.commons.compress.archivers.ar.ArArchiveEntry)@g_commons-compress-1.4.jar.txt	3
+org/apache/commons/compress/archivers/zip/ExtraFieldUtils/parse(byte[],boolean,org.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField)@g_commons-compress-1.4.jar.txt	1

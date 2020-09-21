@@ -1,0 +1,5 @@
+br/com/geladaonline/servlets/CervejaServlet/doPost(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@22fe31966716b8fee05f7dc3606f2a0764436dfa.txt	4
+br/com/cervejaria/servlet/ClientesServlet/init()@22fe31966716b8fee05f7dc3606f2a0764436dfa.txt	3
+edu/ben/coursemanager/servlet/RegistrationServlet/doPost(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	1
+edu/ben/coursemanager/util/PasswordUtil/generatePass()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	0
+br/com/geladaonline/services/AuthorizeOAuth/authorizeApp(java.lang.String,java.lang.String,java.lang.String)@22fe31966716b8fee05f7dc3606f2a0764436dfa.txt	2

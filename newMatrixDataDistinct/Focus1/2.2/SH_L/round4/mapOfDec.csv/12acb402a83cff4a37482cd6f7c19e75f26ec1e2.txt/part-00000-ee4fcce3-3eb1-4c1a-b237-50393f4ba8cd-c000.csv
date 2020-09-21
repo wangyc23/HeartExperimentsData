@@ -1,0 +1,5 @@
+org/atmosphere/util/IntrospectionUtils/setProperty(java.lang.Object,java.lang.String)@0410ebd2dbf0261f87260a81253640692b65673a.txt	2
+org/atmosphere/util/IntrospectionUtils/hasHook(java.lang.Object,java.lang.String)@0410ebd2dbf0261f87260a81253640692b65673a.txt	0
+org/atmosphere/socketio/transport/WebSocketTransport/SocketIOWebSocketSessionWrapperImpl/handle(org.atmosphere.cpr.AtmosphereRequest,org.atmosphere.cpr.AtmosphereResponse,org.atmosphere.socketio.SocketIOSession)@0410ebd2dbf0261f87260a81253640692b65673a.txt	4
+org/atmosphere/util/IntrospectionUtils/invokeProperty(java.lang.Object,java.lang.String,java.lang.String,java.lang.String)@0410ebd2dbf0261f87260a81253640692b65673a.txt	3
+org/atmosphere/util/IntrospectionUtils/getProperty(java.lang.Object,java.lang.String)@0410ebd2dbf0261f87260a81253640692b65673a.txt	1

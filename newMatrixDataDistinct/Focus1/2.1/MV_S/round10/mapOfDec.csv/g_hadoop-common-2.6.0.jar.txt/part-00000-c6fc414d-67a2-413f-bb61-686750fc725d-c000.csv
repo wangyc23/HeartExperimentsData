@@ -1,0 +1,5 @@
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	1
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	0
+org/apache/activemq/transport/WireFormatNegotiator/negociate(org.apache.activemq.command.WireFormatInfo)@g_spring-2.5.6.jar.txt	2
+org/apache/hadoop/http/HttpServer2/defineFilter(org.mortbay.jetty.servlet.Context,java.lang.String,java.lang.String,java.util.Map,java.lang.String[])@g_spring-2.5.6.jar.txt	3
+org/springframework/context/support/ReloadableResourceBundleMessageSource/calculateAllFilenames(java.lang.String,java.util.Locale)@g_spring-2.5.6.jar.txt	4

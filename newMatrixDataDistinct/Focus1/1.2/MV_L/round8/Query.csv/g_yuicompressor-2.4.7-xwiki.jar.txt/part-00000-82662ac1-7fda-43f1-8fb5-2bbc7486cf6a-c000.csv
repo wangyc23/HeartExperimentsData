@@ -1,0 +1,4 @@
+java/net/URL/openConnection()
+java/io/IOException/IOException(java.lang.String)
+java/net/URLConnection/getContentLength()
+java/lang/StringBuilder/append(java.lang.String)

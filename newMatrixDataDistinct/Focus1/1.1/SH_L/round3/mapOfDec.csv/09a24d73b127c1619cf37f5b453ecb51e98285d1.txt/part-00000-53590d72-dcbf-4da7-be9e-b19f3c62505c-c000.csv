@@ -1,0 +1,5 @@
+com/dayatang/jpa/EntityRepositoryJpa/findByNamedQuery(java.lang.String,java.util.Map,java.lang.Class)@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	1
+com/dayatang/domain/InstanceFactory/bind(java.lang.Class,T,java.lang.String)@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	0
+org/dayatang/persistence/jpa/EntityRepositoryJpa/getQuery(org.dayatang.domain.SqlQuery)@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	3
+com/dayatang/dsrouter/context/memory/ContextHolder/getContextType()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	2
+org/dayatang/datasource4saas/dscreator/TenantDbMappingStrategyTest/testProcessByDbname()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	4

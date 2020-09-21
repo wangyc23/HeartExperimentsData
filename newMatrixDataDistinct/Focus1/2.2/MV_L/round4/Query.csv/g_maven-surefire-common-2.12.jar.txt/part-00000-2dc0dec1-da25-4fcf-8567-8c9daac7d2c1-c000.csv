@@ -1,0 +1,4 @@
+org/apache/maven/plugin/surefire/report/XMLReporter/getNumFailures()
+org/apache/maven/plugin/surefire/report/XMLReporter/getNumErrors()
+java/util/Iterator/hasNext()
+java/io/BufferedWriter/BufferedWriter(java.io.Writer)

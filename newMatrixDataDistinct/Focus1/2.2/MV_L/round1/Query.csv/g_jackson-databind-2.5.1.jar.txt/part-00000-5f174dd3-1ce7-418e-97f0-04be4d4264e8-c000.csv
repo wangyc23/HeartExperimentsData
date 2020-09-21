@@ -1,0 +1,4 @@
+com/fasterxml/jackson/databind/DeserializationConfig/getRootName()
+java/lang/StringBuilder/append(java.lang.String)
+com/fasterxml/jackson/core/JsonParser/getCurrentName()
+com/fasterxml/jackson/core/JsonParser/getCurrentToken()

@@ -1,0 +1,5 @@
+ucar/httpservices/CustomSSLProtocolSocketFactory/createSSLContext(org.apache.http.params.HttpParams)@g_rxnetty-contexts-0.4.6.jar.txt	0
+org/neo4j/ogm/metadata/ClassPathScanner/scan(java.util.List,org.neo4j.ogm.metadata.info.ClassFileProcessor)@g_rxnetty-contexts-0.4.6.jar.txt	1
+org/neo4j/ogm/session/request/strategy/VariableDepthQuery/constructQuery(java.lang.String,org.neo4j.ogm.cypher.Filters,java.util.Map)@g_rxnetty-contexts-0.4.6.jar.txt	3
+org/neo4j/ogm/metadata/info/DomainInfo/getClassInfo(java.lang.String,java.util.Map)@g_rxnetty-contexts-0.4.6.jar.txt	4
+org/neo4j/ogm/session/transaction/TransactionManager/executeRequest(org.apache.http.client.methods.HttpRequestBase)@g_rxnetty-contexts-0.4.6.jar.txt	2

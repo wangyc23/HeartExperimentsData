@@ -1,0 +1,5 @@
+org/woelker/telemetrion/core/engine/EngineTest/after()@0b4a91fab9d89a28c7d366c5a969fee898aa3f51.txt	4
+at/ac/tuwien/service/impl/DBServiceImpl/fetchProfileData(java.lang.String)@0b4a91fab9d89a28c7d366c5a969fee898aa3f51.txt	2
+org/woelker/telemetrion/core/engine/EngineTest/testRunTick()@0b4a91fab9d89a28c7d366c5a969fee898aa3f51.txt	0
+org/woelker/telemetrion/core/sensors/CpuSensorTest/testGetCurrentValuesHandleCounterWraps()@0b4a91fab9d89a28c7d366c5a969fee898aa3f51.txt	3
+at/ac/tuwien/service/impl/APIServiceImpl/getFacebookQuery(java.lang.String)@0b4a91fab9d89a28c7d366c5a969fee898aa3f51.txt	1

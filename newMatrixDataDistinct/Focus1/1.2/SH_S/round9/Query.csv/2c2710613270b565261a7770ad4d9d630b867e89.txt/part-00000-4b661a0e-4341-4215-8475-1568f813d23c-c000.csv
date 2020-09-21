@@ -1,0 +1,4 @@
+javax/crypto/CipherOutputStream/close()
+javax/crypto/CipherOutputStream/CipherOutputStream(java.io.OutputStream,javax.crypto.Cipher)
+javax/crypto/Cipher/init(int,java.security.Key)
+mark/conover/crypto/FileEncryption/copy(java.io.InputStream,java.io.OutputStream)

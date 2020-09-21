@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/engine/emfvm/adapter/EMFModelAdapter/11/exec(org.eclipse.m2m.atl.engine.emfvm.lib.AbstractStackFrame)@g_engine.emfvm-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/engine/emfvm/adapter/EMFModelAdapter/registerVMTypeOperations(java.util.Map)@g_engine.emfvm-3.4.0.jar.txt	0
+org/eclipse/m2m/atl/engine/emfvm/lib/TransientLinkSet/addLink2(org.eclipse.m2m.atl.engine.emfvm.lib.TransientLink,boolean)@g_engine.emfvm-3.4.0.jar.txt	1
+org/eclipse/m2m/atl/engine/emfvm/ASMXMLReader/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_engine.emfvm-3.4.0.jar.txt	2
+org/eclipse/core/internal/expressions/TypeExtensionManager/loadTesters(java.lang.Class)@g_org.eclipse.core.expressions-3.5.100.jar.txt	3

@@ -1,0 +1,4 @@
+org/slf4j/Logger/warn(java.lang.String,java.lang.Object[])
+org/slf4j/Logger/debug(java.lang.String,java.lang.Object[])
+java/util/Iterator/hasNext()
+org/apache/commons/lang3/exception/ExceptionUtils/getRootCauseMessage(java.lang.Throwable)

@@ -1,0 +1,5 @@
+org/netlib/lapack/Sgeesx/sgeesx(java.lang.String,java.lang.String,java.lang.Object,java.lang.String,int,float[],int,int,org.netlib.util.intW,float[],int,float[],int,float[],int,int,org.netlib.util.floatW,org.netlib.util.floatW,float[],int,int,int[],int,int,boolean[],int,org.netlib.util.intW)@g_core-lapack-0.1.jar.txt	0
+optimization/Uncmin_f77/optchk_f77(int,double[],double[],double[],double[],double[],int[],int[],double,double[],int[],int[],int[],int[],double[],int[])@g_core-lapack-0.1.jar.txt	4
+optimization/Uncmin_f77/grdchk_f77(int,double[],optimization.Uncmin_methods,double[],double[],double[],double[],double[],double,double,double[])@g_core-lapack-0.1.jar.txt	2
+optimization/Uncmin_f77/heschk_f77(int,double[],optimization.Uncmin_methods,double[],double[],double[][],double[],double[],double,double,int[],double[],double[],double[])@g_core-lapack-0.1.jar.txt	1
+org/netlib/util/Util/pause(java.lang.String)@g_core-lapack-0.1.jar.txt	3

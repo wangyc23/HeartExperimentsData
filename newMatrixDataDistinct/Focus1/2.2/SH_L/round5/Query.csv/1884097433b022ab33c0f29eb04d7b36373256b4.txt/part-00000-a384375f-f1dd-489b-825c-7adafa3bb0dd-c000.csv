@@ -1,0 +1,4 @@
+org/elasticsearch/index/query/QueryBuilders/templateQuery(java.lang.String,org.elasticsearch.script.ScriptService.ScriptType,java.util.Map)
+org/elasticsearch/index/query/QueryBuilders/moreLikeThisQuery(java.lang.String[])
+org/elasticsearch/script/Script/Script(java.lang.String)
+org/elasticsearch/index/query/MoreLikeThisQueryBuilder/maxQueryTerms(int)

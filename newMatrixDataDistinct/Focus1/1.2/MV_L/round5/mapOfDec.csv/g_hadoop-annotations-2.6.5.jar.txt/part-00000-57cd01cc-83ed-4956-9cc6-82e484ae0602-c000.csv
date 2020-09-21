@@ -1,0 +1,5 @@
+org/netlib/generate/JavaGenerator/parseJavadocDescription(java.lang.reflect.Method,java.lang.String)@g_hadoop-annotations-2.6.0.jar.txt	4
+org/apache/hadoop/classification/tools/RootDocProcessor/ExcludeHandler/exclude(com.sun.javadoc.Doc)@g_hadoop-annotations-2.6.0.jar.txt	0
+org/netlib/generate/JNIGenerator/initArgs(int,java.lang.String)@g_netlib-java-0.9.3.jar.txt	2
+org/apache/hadoop/classification/tools/RootDocProcessor/ExcludeHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_hadoop-annotations-2.6.0.jar.txt	1
+org/netlib/generate/JavaGenerator/createJNICode(java.lang.reflect.Method,java.util.List)@g_netlib-java-0.9.3.jar.txt	3

@@ -1,0 +1,5 @@
+ognl/ArrayPropertyAccessor/getProperty(java.util.Map,java.lang.Object,java.lang.Object)@g_easymock-2.4.jar.txt	3
+ognl/OgnlRuntime/getPointerString(int)@g_easymock-2.4.jar.txt	1
+ognl/OgnlRuntime/getPermission(java.lang.reflect.Method)@g_easymock-2.4.jar.txt	2
+ognl/OgnlRuntime/callConstructor(ognl.OgnlContext,java.lang.String,java.lang.Object[])@g_ognl-2.6.11.jar.txt	0
+com/sun/star/uno/UnoRuntime/reset()@g_easymock-2.4.jar.txt	4

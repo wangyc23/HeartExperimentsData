@@ -1,0 +1,5 @@
+org/recipesearch/hibernatesearch/po/SearchableEntityBase/toString()@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	2
+org/sindice/siren/search/TestSirenNumericRangeQuery32/testEnum(int,int)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	0
+org/sindice/siren/qparser/keyword/query/processors/AnalyzerQueryNodeProcessor/postProcessNode(org.apache.lucene.queryParser.core.nodes.QueryNode)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	4
+org/sindice/siren/search/SirenCellReqExclScorer/score()@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	3
+org/sindice/siren/search/TestSirenCellQuery/testShould()@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	1

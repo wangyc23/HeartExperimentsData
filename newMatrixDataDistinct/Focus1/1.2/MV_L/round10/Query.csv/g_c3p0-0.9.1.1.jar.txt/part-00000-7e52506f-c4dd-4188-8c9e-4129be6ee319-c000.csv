@@ -1,0 +1,4 @@
+java/lang/Boolean/valueOf(java.lang.String)
+java/lang/Float/Float(java.lang.String)
+java/lang/Byte/Byte(byte)
+java/lang/Integer/Integer(java.lang.String)

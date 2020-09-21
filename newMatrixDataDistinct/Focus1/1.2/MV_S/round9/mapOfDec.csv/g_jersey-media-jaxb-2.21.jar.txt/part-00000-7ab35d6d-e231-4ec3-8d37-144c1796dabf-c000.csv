@@ -1,0 +1,5 @@
+com/sun/jersey/core/util/StringKeyStringValueIgnoreCaseMultivaluedMap/get(java.lang.String,java.lang.Class)@g_jersey-core-1.11.jar.txt	3
+com/sun/jersey/core/spi/factory/ContextResolverFactory/1/getResolver(com.sun.jersey.core.spi.component.ComponentContext,java.lang.reflect.Type)@g_jersey-core-1.11.jar.txt	4
+com/sun/jersey/core/spi/component/ComponentConstructor/getInstance()@g_jersey-core-1.11.jar.txt	2
+com/sun/jersey/core/impl/provider/entity/XMLListElementProvider/writeList(java.lang.Class,java.util.Collection,javax.ws.rs.core.MediaType,java.nio.charset.Charset,javax.xml.bind.Marshaller,java.io.OutputStream)@g_jersey-core-1.11.jar.txt	0
+com/sun/jersey/core/impl/provider/entity/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-core-1.11.jar.txt	1

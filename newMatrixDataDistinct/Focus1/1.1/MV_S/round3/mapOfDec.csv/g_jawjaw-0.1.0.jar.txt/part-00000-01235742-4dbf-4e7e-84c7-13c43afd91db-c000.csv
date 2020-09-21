@@ -1,0 +1,5 @@
+edu/cmu/lti/ws4j/util/Traverser/getHorizontalSynsets(java.lang.String)@g_ws4j-0.1.0.jar.txt	0
+edu/cmu/lti/ws4j/util/PathFinder/getHypernymTrees(java.lang.String,java.util.Set)@g_ws4j-0.1.0.jar.txt	3
+edu/cmu/lti/lexical_db/NictWordNet/getGloss(edu.cmu.lti.lexical_db.data.Concept,java.lang.String)@g_ws4j-0.1.0.jar.txt	1
+edu/cmu/lti/ws4j/util/WordSimilarityCalculator/calcRelatednessOfWords(java.lang.String,java.lang.String,edu.cmu.lti.ws4j.RelatednessCalculator)@g_ws4j-0.1.0.jar.txt	2
+edu/cmu/lti/ws4j/util/Traverser/getDownwardSynsets(java.lang.String)@g_ws4j-0.1.0.jar.txt	4

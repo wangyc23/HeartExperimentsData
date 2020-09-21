@@ -1,0 +1,5 @@
+org/objectweb/asm/ClassWriter/newConstItem(java.lang.Object)@g_asm-all-repackaged-2.2.0-b21.jar.txt	2
+org/objectweb/asm/commons/JSRInlinerAdapter/emitSubroutine(org.objectweb.asm.commons.JSRInlinerAdapter$Instantiation,java.util.List,org.objectweb.asm.tree.InsnList,java.util.List,java.util.List)@g_asm-all-repackaged-2.2.0-b21.jar.txt	3
+org/objectweb/asm/util/CheckClassAdapter/printAnalyzerResult(org.objectweb.asm.tree.MethodNode,org.objectweb.asm.tree.analysis.Analyzer,java.io.PrintWriter)@g_asm-all-repackaged-2.2.0-b21.jar.txt	1
+org/objectweb/asm/util/CheckMethodAdapter/1/visitEnd()@g_asm-all-repackaged-2.2.0-b21.jar.txt	4
+org/objectweb/asm/util/ASMifierClassVisitor/visit(int,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@g_asm-all-repackaged-2.2.0-b21.jar.txt	0

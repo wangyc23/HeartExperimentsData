@@ -1,0 +1,4 @@
+org/apache/lucene/analysis/ko/HanjaMappingFilter/isHanja(char)
+org/apache/lucene/analysis/ko/KoreanToken/KoreanToken(java.lang.String,int,int)
+org/apache/lucene/util/AttributeSource/restoreState(org.apache.lucene.util.AttributeSource.State)
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)

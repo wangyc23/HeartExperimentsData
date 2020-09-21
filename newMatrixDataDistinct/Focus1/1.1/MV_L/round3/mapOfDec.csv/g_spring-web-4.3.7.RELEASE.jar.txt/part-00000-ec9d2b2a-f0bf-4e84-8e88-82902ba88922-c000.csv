@@ -1,0 +1,5 @@
+org/springframework/web/client/RestTemplate/HttpEntityRequestCallback/doWithRequest(org.springframework.http.client.ClientHttpRequest)@g_spring-web-4.2.6.RELEASE.jar.txt	0
+org/springframework/web/SpringServletContainerInitializer/onStartup(java.util.Set,javax.servlet.ServletContext)@g_spring-web-4.2.6.RELEASE.jar.txt	4
+org/springframework/web/cors/CorsConfiguration/checkHeaders(java.util.List)@g_spring-web-4.2.6.RELEASE.jar.txt	2
+org/springframework/web/method/annotation/RequestHeaderMapMethodArgumentResolver/resolveArgument(org.springframework.core.MethodParameter,org.springframework.web.method.support.ModelAndViewContainer,org.springframework.web.context.request.NativeWebRequest,org.springframework.web.bind.support.WebDataBinderFactory)@g_spring-web-4.2.6.RELEASE.jar.txt	1
+org/springframework/web/bind/support/WebRequestDataBinder/Servlet3MultipartHelper/bindParts(javax.servlet.http.HttpServletRequest,org.springframework.beans.MutablePropertyValues)@g_spring-web-4.2.6.RELEASE.jar.txt	3

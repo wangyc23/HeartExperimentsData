@@ -1,0 +1,5 @@
+org/bouncycastle/asn1/teletrust/TeleTrusTNamedCurves/<clinit>()@g_bcprov-jdk16-140.jar.txt	4
+org/bouncycastle/x509/X509Util/getImplementation(java.lang.String,java.lang.String,java.security.Provider)@g_bcprov-jdk15-1.45.jar.txt	2
+org/bouncycastle/x509/X509Util/getImplementation(java.lang.String,java.lang.String,java.security.Provider)@g_bcprov-jdk16-140.jar.txt	0
+org/bouncycastle/jce/provider/BouncyCastleProvider/loadAlgorithms(java.lang.String,java.lang.String[])@g_bcprov-jdk15-1.45.jar.txt	1
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcprov-jdk16-140.jar.txt	3

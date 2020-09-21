@@ -1,0 +1,5 @@
+org/apache/lucene/search/DocValuesNumbersQuery/toString(java.lang.String)@g_lucene-sandbox-6.2.1.jar.txt	2
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-6.2.1.jar.txt	4
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/write(org.apache.lucene.index.Fields)@g_lucene-sandbox-6.2.1.jar.txt	3
+org/apache/lucene/payloads/PayloadSpanUtil/getPayloads(java.util.Collection,org.apache.lucene.search.spans.SpanQuery)@g_lucene-sandbox-6.5.0.jar.txt	1
+org/apache/lucene/payloads/PayloadSpanUtil/getPayloads(java.util.Collection,org.apache.lucene.search.spans.SpanQuery)@g_lucene-sandbox-6.2.1.jar.txt	0

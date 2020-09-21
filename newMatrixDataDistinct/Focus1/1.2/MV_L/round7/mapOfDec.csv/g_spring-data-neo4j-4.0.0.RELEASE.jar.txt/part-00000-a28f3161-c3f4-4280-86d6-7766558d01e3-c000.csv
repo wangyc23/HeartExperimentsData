@@ -1,0 +1,5 @@
+net/sf/ehcache/CacheManager/createTerracottaStore(net.sf.ehcache.Ehcache)@g_ehcache-core-1.7.2.jar.txt	3
+net/sf/ehcache/distribution/MulticastRMICacheManagerPeerProvider/registerPeer(java.lang.String)@g_ehcache-core-1.7.2.jar.txt	1
+org/neo4j/ogm/session/request/strategy/VariableDepthQuery/constructQuery(java.lang.String,org.neo4j.ogm.cypher.Filters,java.util.Map)@g_neo4j-ogm-1.1.2.jar.txt	0
+net/sf/ehcache/Cache/getAllWithLoader(java.util.Collection,java.lang.Object)@g_ehcache-core-1.7.2.jar.txt	4
+net/sf/ehcache/distribution/RMICacheManagerPeerListener/notifyCacheAdded(java.lang.String)@g_ehcache-core-1.7.2.jar.txt	2

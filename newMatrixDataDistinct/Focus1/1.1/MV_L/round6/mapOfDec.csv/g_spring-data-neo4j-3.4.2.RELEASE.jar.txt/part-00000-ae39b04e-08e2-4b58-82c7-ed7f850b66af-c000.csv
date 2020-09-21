@@ -1,0 +1,5 @@
+org/springframework/data/neo4j/fieldaccess/RelatedToCollectionFieldAccessorFactory/RelatedToCollectionFieldAccessor/getValue(java.lang.Object,org.springframework.data.neo4j.mapping.MappingPolicy)@g_spring-data-neo4j-3.3.2.RELEASE.jar.txt	1
+org/springframework/data/neo4j/support/typerepresentation/SubReferenceNodeTypeRepresentationStrategy/preEntityRemoval(org.neo4j.graphdb.Node)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	4
+org/springframework/data/neo4j/fieldaccess/RelatedToCollectionFieldAccessorFactory/RelatedToCollectionFieldAccessor/getValue(java.lang.Object,org.springframework.data.neo4j.mapping.MappingPolicy)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	0
+org/springframework/data/neo4j/repository/GeoConverter/toWkt(org.springframework.data.geo.Polygon)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	3
+org/springframework/data/neo4j/repository/AbstractGraphRepository/query(org.neo4j.cypherdsl.grammar.Execute,org.neo4j.cypherdsl.grammar.Execute,java.util.Map,org.springframework.data.domain.Pageable)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	2

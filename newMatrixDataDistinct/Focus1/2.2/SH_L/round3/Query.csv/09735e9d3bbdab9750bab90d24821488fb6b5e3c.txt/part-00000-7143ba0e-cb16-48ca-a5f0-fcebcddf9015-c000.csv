@@ -1,0 +1,4 @@
+org/apache/lens/cube/metadata/CubeMeasure/getColumn()
+java/util/ArrayList/ArrayList()
+org/apache/lens/cube/metadata/TestCubeMetastoreClient/getDatePartitionKey()
+org/apache/lens/cube/metadata/StorageTableDesc/setTimePartCols(java.util.List)

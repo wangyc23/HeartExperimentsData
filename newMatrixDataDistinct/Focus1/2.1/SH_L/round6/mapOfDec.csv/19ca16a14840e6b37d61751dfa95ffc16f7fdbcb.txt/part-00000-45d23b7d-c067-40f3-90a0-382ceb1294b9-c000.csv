@@ -1,0 +1,5 @@
+service/WordService/findWordByName(java.lang.String,java.lang.String)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	0
+org/wso2/jaggery/integration/tests/hostObjects/core/MetaDataHostObjectTestCase/metaDataExsit()@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	4
+org/wso2/jaggery/integration/tests/hostObjects/community/ProcessObjectTestCase/testProcess()@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	2
+org/wso2/jaggery/integration/tests/hostObjects/core/HttpClientTestCase/testHttpClientPut()@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	1
+service/WordService/insertAll(java.util.Collection)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	3

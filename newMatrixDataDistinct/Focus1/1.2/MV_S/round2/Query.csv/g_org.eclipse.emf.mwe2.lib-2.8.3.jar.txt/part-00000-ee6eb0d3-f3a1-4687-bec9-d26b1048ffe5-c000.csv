@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+org/eclipse/emf/ecore/resource/URIConverter/createOutputStream(org.eclipse.emf.common.util.URI)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/String/substring(int,int)

@@ -1,0 +1,5 @@
+org/apache/sis/internal/netcdf/impl/VariableInfo/read()@g_sis-storage-0.6.jar.txt	4
+org/apache/sis/index/tree/QuadTreeWriter/writeNodeToFile(org.apache.sis.index.tree.QuadTreeNode,java.lang.String)@g_sis-storage-0.6.jar.txt	2
+org/abego/treelayout/TreeLayout/dumpTree(java.io.PrintStream,java.lang.Object,int,org.abego.treelayout.TreeLayout$DumpConfiguration)@g_org.abego.treelayout.core-1.0.1.jar.txt	3
+org/apache/sis/internal/storage/IOUtilities/encodeURI(java.lang.String)@g_sis-storage-0.6.jar.txt	1
+org/apache/sis/index/tree/QuadTreeWriter/writeTreeConfigsToFile(org.apache.sis.index.tree.QuadTree,java.lang.String)@g_sis-storage-0.6.jar.txt	0

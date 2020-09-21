@@ -1,0 +1,5 @@
+difflib/DiffUtils/processDeltas(java.util.List,java.util.List,int)@g_diffutils-1.3.0.jar.txt	4
+difflib/DiffRowGenerator/generateDiffRows(java.util.List,java.util.List,difflib.Patch)@g_diffutils-1.3.0.jar.txt	3
+difflib/DiffUtils/generateUnifiedDiff(java.lang.String,java.lang.String,java.util.List,difflib.Patch,int)@g_diffutils-1.3.0.jar.txt	0
+difflib/DiffUtils/parseUnifiedDiff(java.util.List)@g_diffutils-1.3.0.jar.txt	2
+difflib/DiffRowGenerator/addInlineDiffs(difflib.Delta)@g_diffutils-1.3.0.jar.txt	1

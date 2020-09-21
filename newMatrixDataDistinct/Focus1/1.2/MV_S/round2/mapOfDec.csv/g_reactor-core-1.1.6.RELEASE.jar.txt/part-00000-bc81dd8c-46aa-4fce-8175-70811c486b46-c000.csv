@@ -1,0 +1,5 @@
+org/thymeleaf/standard/expression/LinkExpression/resolveParameters(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,org.thymeleaf.standard.expression.LinkExpression,org.thymeleaf.standard.expression.StandardExpressionExecutionContext)@g_thymeleaf-2.1.5.RELEASE.jar.txt	2
+org/thymeleaf/standard/expression/FragmentSignatureUtils/processParameters(org.thymeleaf.standard.expression.FragmentSignature,java.util.Map)@g_thymeleaf-2.1.5.RELEASE.jar.txt	1
+org/eclipse/jetty/websocket/api/util/WSURI/toHttp(java.net.URI)@g_websocket-api-9.2.2.v20140723.jar.txt	0
+org/thymeleaf/util/JavaScriptUtils/printObject(java.lang.StringBuilder,java.lang.Object)@g_thymeleaf-2.1.5.RELEASE.jar.txt	3
+org/thymeleaf/standard/processor/attr/AbstractStandardAttributeModifierAttrProcessor/getModifiedAttributeValues(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	4

@@ -1,0 +1,5 @@
+org/xwiki/localization/macro/internal/TranslationMacro/execute(org.xwiki.localization.macro.TranslationMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-localization-api-7.4.2.jar.txt	1
+org/xwiki/localization/internal/AbstractURLResourceTranslationBundle/loadResourceLocaleBundle(java.util.Locale)@g_xwiki-platform-localization-api-7.4.2.jar.txt	2
+org/xwiki/localization/internal/message/ParameterTranslationMessageElement/render(java.util.Locale,java.util.Collection,java.lang.Object[])@g_xwiki-platform-localization-api-7.4.2.jar.txt	0
+org/xwiki/localization/internal/DefaultLocalizationManager/getTranslationBundle(java.lang.String,java.lang.String)@g_xwiki-platform-localization-api-7.4.2.jar.txt	3
+org/xwiki/localization/internal/AbstractURLResourceTranslationBundle/getLocaleURL(java.util.Locale)@g_xwiki-platform-localization-api-7.4.2.jar.txt	4

@@ -1,0 +1,4 @@
+com/sun/jersey/core/util/FeaturesAndProperties/getFeatures()
+com/sun/jersey/api/client/config/DefaultClientConfig/DefaultClientConfig()
+org/w3c/dom/NodeList/getLength()
+org/w3c/dom/Element/getElementsByTagName(java.lang.String)

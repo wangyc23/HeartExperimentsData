@@ -1,0 +1,5 @@
+com/netflix/discovery/endpoint/EndpointUtils/getZoneBasedDiscoveryUrlsFromRegion(com.netflix.discovery.EurekaClientConfig,java.lang.String)@g_eureka-client-1.3.4.jar.txt	2
+com/netflix/discovery/DiscoveryClient/CacheRefreshThread/run()@g_eureka-client-1.3.4.jar.txt	0
+com/netflix/discovery/shared/resolver/aws/ConfigClusterResolver/getClusterEndpointsFromConfig()@g_eureka-client-1.3.4.jar.txt	4
+com/netflix/discovery/DiscoveryClient/getInstancesByVipAddressAndAppName(java.lang.String,java.lang.String,boolean)@g_eureka-client-1.3.4.jar.txt	3
+com/netflix/discovery/endpoint/EndpointUtils/getEC2DiscoveryUrlsFromZone(java.lang.String,com.netflix.discovery.endpoint.EndpointUtils$DiscoveryUrlType)@g_eureka-client-1.3.4.jar.txt	1

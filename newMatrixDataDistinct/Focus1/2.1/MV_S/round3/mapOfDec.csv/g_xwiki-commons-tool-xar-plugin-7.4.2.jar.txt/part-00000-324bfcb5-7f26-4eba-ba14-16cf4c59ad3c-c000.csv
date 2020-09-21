@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.2.jar.txt	0
+org/xwiki/tool/xar/XARMojo/addFilesToArchive(org.codehaus.plexus.archiver.zip.ZipArchiver,java.io.File)@g_maven-war-plugin-2.2.jar.txt	1
+org/xwiki/tool/packager/PackageMojo/resolveJarArtifacts()@g_maven-war-plugin-2.2.jar.txt	2
+org/xwiki/tool/xar/XARMojo/unpackTransformedXARs()@g_maven-war-plugin-2.2.jar.txt	4
+org/apache/maven/plugin/war/overlay/OverlayManager/getOverlaysAsArtifacts()@g_maven-war-plugin-2.2.jar.txt	3

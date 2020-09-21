@@ -1,0 +1,5 @@
+org/neo4j/server/rest/transactional/integration/TransactionIT/should_serialize_collect_correctly()@g_neo4j-server-3.0.1-tests.jar.txt	3
+org/neo4j/server/rest/transactional/integration/TransactionIT/returned_rest_urls_must_be_useable()@g_neo4j-server-3.0.1-tests.jar.txt	2
+org/neo4j/server/rest/transactional/ExecutionResultSerializerTest/shouldProduceResultStreamWithLegacyRestFormatAndNestedMaps()@g_neo4j-server-3.0.1-tests.jar.txt	4
+org/neo4j/server/rest/transactional/integration/ReadOnlyIT/shouldReturnReadOnlyStatusWhenCreatingNodesWhichTransitivelyCreateTokens()@g_neo4j-server-3.0.1-tests.jar.txt	1
+org/neo4j/server/rest/security/AuthenticationDocIT/assertAuthorizationRequired(java.lang.String,java.lang.String,java.lang.Object,int)@g_neo4j-server-3.0.1-tests.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/String/hashCode()
+java/util/Arrays/hashCode(byte[])
+java/util/Arrays/hashCode(int[])
+java/util/Arrays/hashCode(long[])

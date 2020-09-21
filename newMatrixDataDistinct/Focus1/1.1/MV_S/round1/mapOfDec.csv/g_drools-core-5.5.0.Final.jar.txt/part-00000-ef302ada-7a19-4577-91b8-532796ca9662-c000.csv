@@ -1,0 +1,5 @@
+ucar/nc2/dt/point/WriterCFStationObsDataset/createRecordVariables(java.util.List)@g_netcdf-4.2.20.jar.txt	1
+org/sonatype/spice/zapper/client/hc4/Hc4Client/upload(org.sonatype.spice.zapper.internal.Payload,org.sonatype.spice.zapper.client.hc4.Hc4Track)@g_spice-zapper-1.2.jar.txt	0
+ucar/nc2/dataset/conv/NUWGConvention/searchAliasedDimension(ucar.nc2.dataset.NetcdfDataset,ucar.nc2.Dimension)@g_netcdf-4.2.20.jar.txt	2
+thredds/catalog/InvDatasetFmrc/getDataset(java.lang.String)@g_netcdf-4.2.20.jar.txt	4
+ucar/ma2/ArrayStructureBB/showInternal(java.util.Formatter,java.lang.String)@g_netcdf-4.2.20.jar.txt	3

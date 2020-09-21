@@ -1,0 +1,5 @@
+org/apache/lucene/search/join/GlobalOrdinalsQuery/W/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-facet-5.0.0.jar.txt	2
+org/apache/lucene/facet/RandomSamplingFacetsCollector/createSample(org.apache.lucene.facet.FacetsCollector$MatchingDocs)@g_lucene-facet-5.0.0.jar.txt	1
+org/apache/lucene/facet/sortedset/SortedSetDocValuesFacetCounts/count(java.util.List)@g_lucene-facet-5.0.0.jar.txt	0
+org/apache/lucene/facet/FacetsConfig/processAssocFacetFields(org.apache.lucene.facet.taxonomy.TaxonomyWriter,java.util.Map,org.apache.lucene.document.Document)@g_lucene-facet-5.0.0.jar.txt	4
+org/apache/lucene/search/grouping/term/TermGroupFacetCollector/MV/doSetNextReader(org.apache.lucene.index.LeafReaderContext)@g_lucene-facet-5.0.0.jar.txt	3

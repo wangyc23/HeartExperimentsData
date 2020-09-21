@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/thrift2/generated/THBaseService/openScanner_args/hashCode()@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	0
+org/apache/hadoop/hbase/thrift/generated/Hbase/scannerOpenTs_result/hashCode()@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	1
+org/apache/hadoop/hbase/thrift2/generated/TDelete/hashCode()@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	4
+org/apache/hadoop/hbase/thrift/generated/Hbase/get_args/hashCode()@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	2
+org/apache/hadoop/hbase/thrift/generated/Hbase/mutateRow_args/addToMutations(org.apache.hadoop.hbase.thrift.generated.Mutation)@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	3

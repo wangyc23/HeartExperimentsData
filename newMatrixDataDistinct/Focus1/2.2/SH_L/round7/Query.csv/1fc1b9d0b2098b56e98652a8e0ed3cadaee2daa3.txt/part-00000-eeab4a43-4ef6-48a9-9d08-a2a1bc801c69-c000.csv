@@ -1,0 +1,4 @@
+com/randude14/hungergames/utils/ChatUtils/send(com.randude14.hungergames.commands.admin.remove.Player,java.lang.String)
+com/randude14/hungergames/games/HungerGame/getName()
+java/lang/String/replace(java.lang.CharSequence,java.lang.CharSequence)
+com/randude14/hungergames/utils/ChatUtils/helpCommand(com.randude14.hungergames.commands.admin.remove.CommandSender,java.lang.String,java.lang.Object[])

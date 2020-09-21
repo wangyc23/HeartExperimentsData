@@ -1,0 +1,4 @@
+java/io/File/File(java.net.URI)
+java/lang/Throwable/toString()
+java/net/URL/toURI()
+java/lang/Class/getResource(java.lang.String)

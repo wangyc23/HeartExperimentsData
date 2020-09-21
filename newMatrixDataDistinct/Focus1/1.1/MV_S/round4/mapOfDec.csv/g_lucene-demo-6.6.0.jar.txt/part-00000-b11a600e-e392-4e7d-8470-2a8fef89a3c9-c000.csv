@@ -1,0 +1,5 @@
+org/apache/lucene/facet/taxonomy/FacetLabel/checkComponents()@g_lucene-misc-6.4.1.jar.txt	4
+org/apache/lucene/facet/taxonomy/directory/DirectoryTaxonomyWriter/findCategory(org.apache.lucene.facet.taxonomy.FacetLabel)@g_lucene-misc-6.4.1.jar.txt	3
+org/apache/lucene/uninverting/FieldCacheImpl/getCacheEntries()@g_lucene-misc-6.4.1.jar.txt	0
+org/apache/lucene/facet/taxonomy/FloatTaxonomyFacets/getTopChildren(int,java.lang.String,java.lang.String[])@g_lucene-misc-6.4.1.jar.txt	2
+org/apache/lucene/uninverting/DocTermOrds/uninvert(org.apache.lucene.index.LeafReader,org.apache.lucene.util.Bits,org.apache.lucene.util.BytesRef)@g_lucene-misc-6.4.1.jar.txt	1

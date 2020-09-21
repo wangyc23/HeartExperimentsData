@@ -1,0 +1,4 @@
+java/sql/ResultSetMetaData/getColumnCount()
+java/sql/ResultSetMetaData/getColumnName(int)
+java/sql/ResultSetMetaData/isAutoIncrement(int)
+java/lang/StringBuffer/toString()

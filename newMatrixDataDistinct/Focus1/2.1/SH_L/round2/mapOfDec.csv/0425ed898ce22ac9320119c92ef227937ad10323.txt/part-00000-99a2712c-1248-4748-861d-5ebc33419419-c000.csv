@@ -1,0 +1,5 @@
+org/jboss/forge/furnace/container/cdi/util/BeanBuilder/readFromType(javax.enterprise.inject.spi.AnnotatedType)@0aa28a030e870163837a0cdd3f073c0074b0dc8c.txt	3
+org/jboss/forge/furnace/container/cdi/util/Annotateds/compareAnnotatedTypes(javax.enterprise.inject.spi.AnnotatedType,javax.enterprise.inject.spi.AnnotatedType)@0aa28a030e870163837a0cdd3f073c0074b0dc8c.txt	0
+org/jboss/forge/furnace/container/cdi/impl/ContainerServiceExtension/processRemoteServiceTypes(javax.enterprise.inject.spi.ProcessAnnotatedType)@0aa28a030e870163837a0cdd3f073c0074b0dc8c.txt	2
+org/jboss/forge/furnace/container/cdi/util/Annotateds/createTypeId(javax.enterprise.inject.spi.AnnotatedType)@0aa28a030e870163837a0cdd3f073c0074b0dc8c.txt	1
+org/jboss/as/quickstart/cdi/extension/CreatureExtension/processInjectionTarget(javax.enterprise.inject.spi.ProcessInjectionTarget)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	4

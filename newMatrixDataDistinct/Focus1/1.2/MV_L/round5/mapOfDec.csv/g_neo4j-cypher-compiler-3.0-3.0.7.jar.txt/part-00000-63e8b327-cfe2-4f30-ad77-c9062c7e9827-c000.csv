@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_3/mutation/MapPropertySetAction/anonfun/propertyKeyMap/2/apply(scala.Tuple2)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	2
+org/neo4j/cypher/internal/compiler/v3_0/mutation/MapPropertySetAction/anonfun/propertyKeyMap/2/apply(scala.Tuple2)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	0
+org/neo4j/cypher/internal/compiler/v3_0/pipes/SetOperation/anonfun/propertyKeyMap/2/apply(scala.Tuple2)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	1
+org/neo4j/cypher/internal/compiler/v3_0/ast/rewriters/projectNamedPaths/Projectibles/withRewrittenVariable(scala.Tuple2)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_0/pipes/SlicePipe/planDescription()@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	3

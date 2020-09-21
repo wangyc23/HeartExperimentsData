@@ -1,0 +1,4 @@
+org/apache/maven/artifact/Artifact/getRepository()
+org/codehaus/plexus/logging/Logger/isDebugEnabled()
+org/codehaus/plexus/logging/AbstractLogEnabled/getLogger()
+org/apache/maven/artifact/Artifact/getArtifactId()

@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_xmlrpc-client-3.1.jar.txt	4
+org/codehaus/plexus/util/ExceptionUtils/getRootCauseStackTrace(java.lang.Throwable)@g_plexus-utils-1.5.12.jar.txt	1
+org/codehaus/plexus/util/xml/Xpp3DomBuilder/build(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-utils-1.5.12.jar.txt	0
+org/codehaus/plexus/util/FileUtils/loadFile(java.io.File)@g_plexus-utils-1.5.12.jar.txt	3
+org/codehaus/plexus/util/FileUtils/getFileAndDirectoryNames(java.io.File,java.lang.String,java.lang.String,boolean,boolean,boolean,boolean)@g_plexus-utils-1.5.12.jar.txt	2

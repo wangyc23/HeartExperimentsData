@@ -1,0 +1,5 @@
+org/apache/xerces/impl/XMLEntityManager/fixURI(java.lang.String)@g_xercesImpl-2.8.0.jar.txt	4
+org/apache/xerces/impl/xpath/regex/Token/getRange(java.lang.String,boolean)@g_xercesImpl-2.8.0.jar.txt	3
+org/apache/xml/serialize/XMLSerializer/extractNamespaces(org.xml.sax.Attributes)@g_xercesImpl-2.8.0.jar.txt	0
+org/apache/xerces/impl/xpath/regex/RegularExpression/matchString(org.apache.xerces.impl.xpath.regex.RegularExpression$Context,org.apache.xerces.impl.xpath.regex.Op,int,int,int)@g_xercesImpl-2.8.0.jar.txt	2
+org/apache/xml/serialize/XML11Serializer/printCDATAText(java.lang.String)@g_xercesImpl-2.8.0.jar.txt	1

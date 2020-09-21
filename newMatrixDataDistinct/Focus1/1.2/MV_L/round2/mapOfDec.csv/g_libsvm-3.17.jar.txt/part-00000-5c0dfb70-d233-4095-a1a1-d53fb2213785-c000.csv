@@ -1,0 +1,5 @@
+weka/gui/GenericPropertiesCreator/generateOutputProperties()@g_weka-stable-3.6.10.jar.txt	4
+weka/filters/unsupervised/attribute/Reorder/determineIndices(int)@g_weka-stable-3.6.10.jar.txt	3
+weka/gui/beans/KnowledgeFlowApp/setUpToolBars()@g_weka-stable-3.6.10.jar.txt	0
+weka/core/ClassDiscovery/main(java.lang.String[])@g_weka-stable-3.6.10.jar.txt	1
+weka/gui/experiment/ResultsPanel/determineColumnNames(java.lang.String,java.lang.String,weka.core.Instances)@g_weka-stable-3.6.10.jar.txt	2

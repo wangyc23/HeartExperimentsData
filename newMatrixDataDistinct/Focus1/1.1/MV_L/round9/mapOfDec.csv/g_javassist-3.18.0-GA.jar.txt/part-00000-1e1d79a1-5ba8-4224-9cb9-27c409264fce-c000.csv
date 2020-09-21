@@ -1,0 +1,5 @@
+javassist/bytecode/Descriptor/toClassName(java.lang.String)@g_javassist-3.18.1-GA.jar.txt	0
+javassist/CtClassType/getNestedClasses()@g_javassist-3.18.1-GA.jar.txt	1
+javassist/bytecode/SignatureAttribute/renameClass(java.lang.String,java.util.Map)@g_javassist-3.18.1-GA.jar.txt	4
+javassist/tools/web/Webserver/doReply(java.io.InputStream,java.io.OutputStream,java.lang.String)@g_javassist-3.18.1-GA.jar.txt	3
+javassist/compiler/CodeGen/atClassObject(javassist.compiler.ast.Expr)@g_javassist-3.18.1-GA.jar.txt	2

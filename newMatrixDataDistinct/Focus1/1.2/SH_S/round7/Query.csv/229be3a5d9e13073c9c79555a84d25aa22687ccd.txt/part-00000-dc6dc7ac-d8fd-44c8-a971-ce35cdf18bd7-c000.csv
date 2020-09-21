@@ -1,0 +1,4 @@
+com/sldg/erp/model/Produto/getMarcaProduto()
+org/hibernate/Criteria/list()
+org/hibernate/Criteria/add(org.hibernate.criterion.Criterion)
+com/sldg/erp/model/Produto/getNomeProduto()

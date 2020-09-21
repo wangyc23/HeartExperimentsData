@@ -1,0 +1,5 @@
+0	se/sics/kompics/SpinlockQueue/offer(E)
+1	com/dianping/phoenix/deploy/agent/AgentStatus/getId()
+2	java/util/concurrent/atomic/AtomicBoolean/set(boolean)
+3	java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)
+4	java/util/concurrent/atomic/AtomicInteger/incrementAndGet()

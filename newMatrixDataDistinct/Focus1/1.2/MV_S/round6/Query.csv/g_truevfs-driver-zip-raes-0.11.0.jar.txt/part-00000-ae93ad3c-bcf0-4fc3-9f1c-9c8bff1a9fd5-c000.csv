@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+net/java/truecommons/io/PowerBuffer/getUInt()
+java/lang/StringBuilder/append(int)
+net/java/truecommons/io/PowerBuffer/littleEndian()

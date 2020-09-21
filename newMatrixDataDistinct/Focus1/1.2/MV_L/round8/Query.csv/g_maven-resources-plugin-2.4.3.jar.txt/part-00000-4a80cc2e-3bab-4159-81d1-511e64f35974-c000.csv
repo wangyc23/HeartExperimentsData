@@ -1,0 +1,4 @@
+java/lang/String/split(java.lang.String)
+java/lang/StringBuffer/StringBuffer(int)
+java/lang/String/charAt(int)
+java/lang/StringBuffer/toString()

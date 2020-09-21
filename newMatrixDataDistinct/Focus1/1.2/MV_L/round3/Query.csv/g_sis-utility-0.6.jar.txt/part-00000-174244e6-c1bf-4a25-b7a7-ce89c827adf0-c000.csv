@@ -1,0 +1,4 @@
+java/lang/Class/getComponentType()
+java/lang/Math/max(int,int)
+java/util/logging/Logger/getName()
+java/util/logging/Logger/log(java.util.logging.LogRecord)

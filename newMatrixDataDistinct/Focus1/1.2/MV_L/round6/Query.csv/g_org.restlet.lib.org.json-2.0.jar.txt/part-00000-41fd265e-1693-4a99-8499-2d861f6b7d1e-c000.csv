@@ -1,0 +1,4 @@
+org/json/Test$1Obj/1Obj(java.lang.String,double,boolean)
+org/json/JSONStringer/value(long)
+java/lang/Object/toString()
+java/lang/String/valueOf(java.lang.Object)

@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/impl/RequestImpl/evaluateIfMatch(javax.ws.rs.core.EntityTag)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/jaxrs/impl/ResponseImpl/toListOfStrings(java.lang.String,java.util.List)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/jaxrs/security/JAASAuthenticationFilter/handleAuthenticationException(java.lang.SecurityException,org.apache.cxf.message.Message)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	0
+org/apache/cxf/transport/http/AbstractHTTPDestination/getAuthorizationPolicyFromMessage(java.lang.String,org.apache.cxf.security.SecurityContext)@g_cxf-rt-transports-http-3.0.16.jar.txt	2
+org/apache/cxf/jaxrs/model/URITemplate/match(java.lang.String,javax.ws.rs.core.MultivaluedMap)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	1

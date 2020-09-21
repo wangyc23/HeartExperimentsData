@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_org.osgi.core-4.0.0.jar.txt	0
+org/osgi/service/monitor/MonitorPermission/checkId(java.lang.String,java.lang.String)@g_org.osgi.core-4.0.0.jar.txt	2
+info/dmtree/Uri/toPath(java.lang.String)@g_org.osgi.core-4.0.0.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/BeanMap/put(java.lang.Object,java.lang.Object)@g_org.osgi.core-4.0.0.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/LocaleUtils/toLocale(java.lang.String)@g_org.osgi.core-4.0.0.jar.txt	3

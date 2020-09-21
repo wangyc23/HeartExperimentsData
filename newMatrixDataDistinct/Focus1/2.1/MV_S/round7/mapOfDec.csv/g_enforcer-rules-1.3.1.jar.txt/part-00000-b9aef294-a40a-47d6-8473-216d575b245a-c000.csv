@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_xwiki-commons-tool-enforcer-dependencies-7.0.jar.txt	2
+org/apache/maven/plugins/enforcer/RequirePluginVersions/parsePluginString(java.lang.String,java.lang.String)@g_xwiki-commons-tool-enforcer-dependencies-7.0.jar.txt	4
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/getMismatch(java.util.Map,java.util.Set)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/checkDependencyManagement()@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/checkDependencyManagement()@g_xwiki-commons-tool-enforcer-dependencies-7.0.jar.txt	3

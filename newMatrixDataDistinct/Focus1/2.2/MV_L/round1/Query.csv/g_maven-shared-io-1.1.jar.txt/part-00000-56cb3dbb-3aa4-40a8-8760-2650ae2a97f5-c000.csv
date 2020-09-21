@@ -1,0 +1,4 @@
+org/apache/maven/shared/io/logging/DefaultMessageHolder$Message/render()
+java/lang/Object/toString()
+java/lang/StringBuffer/append(char)
+java/lang/String/length()

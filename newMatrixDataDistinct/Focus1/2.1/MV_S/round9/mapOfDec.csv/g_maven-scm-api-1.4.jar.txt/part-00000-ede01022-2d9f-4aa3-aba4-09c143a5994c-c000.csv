@@ -1,0 +1,5 @@
+org/apache/ivy/util/url/HttpClientHandler/openStream(java.net.URL)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/cache/ParserSettingsMonitor/hasChanged(org.apache.ivy.plugins.parser.ParserSettings)@g_ivy-2.3.0.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/time/FastDateFormat/getDateInstance(int,java.util.TimeZone,java.util.Locale)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	2

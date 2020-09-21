@@ -1,0 +1,5 @@
+org/xerial/snappy/SnappyLoader/injectSnappyNativeLoader()@g_jaxrpc-api-1.1.jar.txt	2
+org/xerial/snappy/SnappyLoader/loadSnappySystemProperties()@g_jaxrpc-api-1.1.jar.txt	1
+org/xerial/snappy/SnappyLoader/getByteCode(java.lang.String)@g_jaxrpc-api-1.1.jar.txt	0
+org/xerial/snappy/SnappyLoader/md5sum(java.io.InputStream)@g_jaxrpc-api-1.1.jar.txt	4
+org/xerial/snappy/SnappyLoader/getVersion()@g_jaxrpc-api-1.1.jar.txt	3

@@ -1,0 +1,5 @@
+org/eclipse/tycho/p2/resolver/TargetDefinitionFile/getLocations()@g_tycho-p2-facade-0.23.1.jar.txt	3
+org/eclipse/tycho/p2/resolver/P2DependencyResolver/isTychoP2Plugin(org.apache.maven.plugin.descriptor.PluginDescriptor)@g_tycho-p2-facade-0.23.1.jar.txt	2
+org/eclipse/tycho/model/Platform/Site/setFeatures(java.util.List)@g_tycho-metadata-model-0.23.1.jar.txt	0
+org/eclipse/tycho/p2/resolver/P2DependencyResolver/computePreliminaryTargetPlatform(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,java.util.List)@g_tycho-p2-facade-0.23.1.jar.txt	1
+org/eclipse/tycho/p2/resolver/PomDependencyProcessor/collectPomDependencies(org.apache.maven.project.MavenProject,java.util.Collection)@g_tycho-p2-facade-0.23.1.jar.txt	4

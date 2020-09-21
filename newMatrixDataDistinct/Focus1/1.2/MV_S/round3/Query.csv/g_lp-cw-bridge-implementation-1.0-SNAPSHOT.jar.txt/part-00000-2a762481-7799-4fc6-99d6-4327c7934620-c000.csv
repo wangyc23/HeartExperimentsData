@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Map/get(java.lang.Object)
+java/util/LinkedList/LinkedList(java.util.Collection)
+java/util/List/add(java.lang.Object)

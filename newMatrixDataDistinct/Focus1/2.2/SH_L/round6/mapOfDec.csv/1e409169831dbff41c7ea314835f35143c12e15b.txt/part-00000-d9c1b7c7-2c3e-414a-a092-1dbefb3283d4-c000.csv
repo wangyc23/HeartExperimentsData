@@ -1,0 +1,5 @@
+at/mfpjn/workflow/aggregation/ReceiverJSPAggregationStrategy/aggregate(org.apache.camel.Exchange,org.apache.camel.Exchange)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	2
+at/mfpjn/workflow/controller/SenderController/createConfirmationEmail(java.lang.String,java.lang.String,java.lang.String)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	0
+org/giwi/camel/dav/test/FromFileToDavTest/testFromFileToDav()@2a04823bf99a6d437a9f6653520b2aa21d6d599d.txt	3
+org/giwi/camel/dav/test/DavChangedReadLockTest/writeSlowFile()@2a04823bf99a6d437a9f6653520b2aa21d6d599d.txt	4
+at/mfpjn/workflow/aggregation/ReceiverAggregationStrategy/aggregate(org.apache.camel.Exchange,org.apache.camel.Exchange)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	1

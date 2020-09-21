@@ -1,0 +1,5 @@
+org/radeox/macro/table/MaxFunction/execute(org.radeox.macro.table.Table,int,int,int,int,int,int)@g_radeox-1.0-b2.jar.txt	2
+org/apache/hadoop/ipc/Client/Connection/setupConnection()@g_hadoop-common-2.6.0.jar.txt	3
+org/radeox/macro/table/SumFunction/execute(org.radeox.macro.table.Table,int,int,int,int,int,int)@g_radeox-1.0-b2.jar.txt	0
+org/radeox/test/RegexpTest/main(java.lang.String[])@g_hadoop-common-2.6.0.jar.txt	4
+org/radeox/macro/table/MinFunction/execute(org.radeox.macro.table.Table,int,int,int,int,int,int)@g_radeox-1.0-b2.jar.txt	1

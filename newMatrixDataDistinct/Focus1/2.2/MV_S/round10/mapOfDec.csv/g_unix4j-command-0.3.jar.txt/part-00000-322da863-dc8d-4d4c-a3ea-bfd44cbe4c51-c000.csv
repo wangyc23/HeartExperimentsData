@@ -1,0 +1,5 @@
+com/univocity/parsers/common/Format/toString()@g_univocity-parsers-2.2.1.jar.txt	3
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	1
+org/springframework/security/crypto/bcrypt/BCrypt/hashpw(java.lang.String,java.lang.String)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0
+com/univocity/parsers/common/AbstractParser/rowProcessed(java.lang.String[])@g_univocity-parsers-2.2.1.jar.txt	4
+com/univocity/parsers/common/fields/FieldConversionMapping/reverseConversions(boolean,int,java.lang.Object,boolean[])@g_univocity-parsers-2.2.1.jar.txt	2

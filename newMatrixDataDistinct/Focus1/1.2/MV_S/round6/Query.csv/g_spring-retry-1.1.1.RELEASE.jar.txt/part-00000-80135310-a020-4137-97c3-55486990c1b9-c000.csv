@@ -1,0 +1,4 @@
+org/springframework/aop/framework/Advised/getTargetSource()
+org/springframework/util/ObjectUtils/containsElement(java.lang.Object[],java.lang.Object)
+java/lang/Class/getAnnotation(java.lang.Class)
+org/springframework/util/Assert/isTrue(boolean,java.lang.String)

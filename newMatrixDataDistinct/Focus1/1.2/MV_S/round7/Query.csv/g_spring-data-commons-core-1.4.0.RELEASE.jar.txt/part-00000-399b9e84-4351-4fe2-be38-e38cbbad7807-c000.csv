@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider/findCandidateComponents(java.lang.String)
+org/springframework/data/repository/config/RepositoryConfigurationSourceSupport/getBasePackages()
+org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider/setResourceLoader(org.springframework.core.io.ResourceLoader)

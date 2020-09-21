@@ -1,0 +1,4 @@
+$/ELoginPassword/ELoginPassword()
+$/EUser/EUser()
+$/ELoginPassword/setPassword(java.lang.String)
+$/EUser/setAdministrator(boolean)

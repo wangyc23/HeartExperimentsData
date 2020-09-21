@@ -1,0 +1,4 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+com/google/common/collect/Lists/newArrayList(java.lang.Iterable)
+org/mockito/Mockito/mock(java.lang.Class)
+com/amihaiemil/charles/github/TextReply/TextReply(com.amihaiemil.charles.github.Command,java.lang.String)

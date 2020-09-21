@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/newCollection(org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.ClassLoader)@g_sisu-inject-plexus-2.3.0.jar.txt	4
+org/codehaus/plexus/component/configurator/converters/composite/ArrayConverter/toArray(java.lang.Class,java.util.Collection)@g_sisu-inject-plexus-2.3.0.jar.txt	3
+org/codehaus/plexus/DefaultPlexusContainer/DefaultsModule/configure()@g_sisu-inject-plexus-2.1.1.jar.txt	1
+org/codehaus/plexus/component/configurator/converters/ComponentValueSetter/setValueUsingSetter(java.lang.Object)@g_sisu-inject-plexus-2.3.0.jar.txt	2
+org/codehaus/plexus/DefaultPlexusContainer/DefaultsModule/configure(com.google.inject.Binder)@g_sisu-inject-plexus-2.3.0.jar.txt	0

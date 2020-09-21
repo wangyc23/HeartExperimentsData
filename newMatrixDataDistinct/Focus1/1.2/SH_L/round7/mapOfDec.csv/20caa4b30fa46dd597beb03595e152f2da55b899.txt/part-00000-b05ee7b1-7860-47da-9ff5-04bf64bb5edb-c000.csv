@@ -1,0 +1,5 @@
+org/switchyard/security/credential/extractor/DefaultServletRequestCredentialExtractor/extract(org.switchyard.security.credential.extractor.ServletRequest)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	3
+org/switchyard/bus/camel/CamelCompositeContext/getProperties()@055e75fab3b15893ac9f642ff9ecf68235922204.txt	4
+org/switchyard/policy/PolicyUtil/getPolicies(org.switchyard.Exchange,java.lang.String)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	0
+org/switchyard/security/jboss/credential/extractor/HttpExchangeCredentialExtractor/extract(org.switchyard.security.jboss.credential.extractor.HttpExchange)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	1
+org/switchyard/bus/camel/CamelPropertyBase/addLabels(java.lang.String[])@055e75fab3b15893ac9f642ff9ecf68235922204.txt	2

@@ -1,0 +1,4 @@
+java/lang/Math/abs(double)
+org/jmock/expectation/AssertMo/assertNotNull(java.lang.String,java.lang.Object)
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/StringBuffer/append(double)

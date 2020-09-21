@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(int)
+org/gagravarr/opus/OpusStatistics/getAudioPacketsCount()
+org/gagravarr/opus/OpusAudioData/getData()
+org/gagravarr/opus/OpusAudioData/getGranulePosition()

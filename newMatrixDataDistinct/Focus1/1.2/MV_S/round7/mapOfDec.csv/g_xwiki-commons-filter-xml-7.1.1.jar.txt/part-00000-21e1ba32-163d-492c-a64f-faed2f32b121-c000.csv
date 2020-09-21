@@ -1,0 +1,5 @@
+net/sourceforge/segment/srx/io/Srx2Parser/parse(java.io.Reader)@g_segment-1.4.2.jar.txt	4
+net/sourceforge/segment/util/Util/getJarManifest(java.lang.Class)@g_segment-1.4.2.jar.txt	2
+net/sourceforge/segment/srx/legacy/ScannerSrxTextIterator/createSeparator(java.util.List)@g_segment-1.4.2.jar.txt	1
+net/sourceforge/segment/srx/TextManager/readText(int)@g_segment-1.4.2.jar.txt	3
+net/sourceforge/segment/srx/SrxTextIterator/init(net.sourceforge.segment.srx.SrxDocument,java.lang.String,net.sourceforge.segment.srx.TextManager,java.util.Map)@g_segment-1.4.2.jar.txt	0

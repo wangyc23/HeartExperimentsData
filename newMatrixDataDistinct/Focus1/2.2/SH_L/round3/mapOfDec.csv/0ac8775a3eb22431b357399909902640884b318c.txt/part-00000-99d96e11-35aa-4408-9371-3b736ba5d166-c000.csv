@@ -1,0 +1,5 @@
+org/neo4j/rest/graphdb/MatrixDataGraph/createNodespace()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	2
+org/neo4j/rest/graphdb/MatrixDatabaseTest/useTrinityIndex()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	3
+org/neo4j/rest/graphdb/RestCypherQueryEngineTest/testGetNeoNodeMultipleProperties()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	1
+org/neo4j/rest/graphdb/Neo4jDatabaseCleaner/clearIndex(java.util.Map)@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	0
+org/neo4j/rest/graphdb/ResultTypeConverterTest/testConvertArrayOfJSONDataToNodeList()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	4

@@ -1,0 +1,5 @@
+org/drools/template/parser/DefaultGenerator/generate(java.lang.String,org.drools.template.parser.Row)@g_drools-templates-5.6.0.Final.jar.txt	1
+org/drools/template/parser/ColumnFactory/createColumn(java.lang.String,java.lang.String)@g_drools-templates-5.6.0.Final.jar.txt	4
+org/drools/template/parser/DefaultTemplateContainer/parseTemplate(java.io.InputStream)@g_drools-templates-5.6.0.Final.jar.txt	3
+org/drools/template/model/AttributedDRLElement/renderDRL(org.drools.template.model.DRLOutput)@g_drools-templates-5.6.0.Final.jar.txt	2
+org/drools/template/model/SnippetBuilder/buildForAll(java.lang.String)@g_drools-templates-5.6.0.Final.jar.txt	0

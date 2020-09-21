@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/DirectoryWalker$DirStackEntry/getPercentage()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)
+org/codehaus/plexus/util/DirectoryWalker$DirStackEntry/getNextPercentageOffset()

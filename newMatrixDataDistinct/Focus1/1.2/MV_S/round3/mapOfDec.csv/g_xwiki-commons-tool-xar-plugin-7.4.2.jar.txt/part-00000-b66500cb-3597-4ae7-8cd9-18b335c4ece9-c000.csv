@@ -1,0 +1,5 @@
+org/apache/maven/shared/artifact/resolver/DefaultProjectDependenciesResolver/resolve(java.util.Collection,java.util.Collection,org.apache.maven.execution.MavenSession)@g_maven-artifact-resolver-1.0.jar.txt	2
+org/xwiki/tool/packager/PackageMojo/generateConfigurationFiles(java.io.File)@g_xwiki-platform-tool-packager-plugin-7.4.jar.txt	4
+org/xwiki/tool/packager/PackageMojo/expandJettyDistribution()@g_xwiki-platform-tool-packager-plugin-7.4.jar.txt	3
+org/xwiki/tool/packager/PackageMojo/importXARs(java.io.File)@g_xwiki-platform-tool-packager-plugin-7.4.jar.txt	0
+org/xwiki/tool/packager/PackageMojo/execute()@g_xwiki-platform-tool-packager-plugin-7.4.jar.txt	1

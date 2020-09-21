@@ -1,0 +1,5 @@
+com/sun/syndication/io/impl/Atom10Parser/resolveURI(java.lang.String,org.jdom.Parent,java.lang.String)@g_rome-1.0.jar.txt	3
+com/sun/syndication/io/XmlReader/getContentTypeEncoding(java.lang.String)@g_rome-1.0.jar.txt	0
+com/sun/syndication/io/XmlReader/getXmlProlog(java.io.PushbackInputStream,java.lang.String)@g_rome-0.9.jar.txt	2
+com/sun/syndication/io/impl/XmlFixerReader/processHtmlEntities(java.lang.String)@g_rome-1.0.jar.txt	4
+com/sun/syndication/io/XmlReader/getXmlProlog(java.io.BufferedInputStream,java.lang.String)@g_rome-1.0.jar.txt	1

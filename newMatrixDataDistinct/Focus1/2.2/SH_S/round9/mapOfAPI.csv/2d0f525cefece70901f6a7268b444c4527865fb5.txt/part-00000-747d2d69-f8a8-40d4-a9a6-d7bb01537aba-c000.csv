@@ -1,0 +1,5 @@
+0	com/google/gson/JsonObject/add(java.lang.String,com.google.gson.JsonElement)
+1	com/google/gson/JsonArray/add(com.google.gson.JsonElement)
+2	com/google/gson/JsonArray/JsonArray()
+3	com/google/gson/JsonPrimitive/JsonPrimitive(java.lang.String)
+4	org/springframework/jdbc/core/JdbcTemplate/update(java.lang.String,java.lang.Object[])

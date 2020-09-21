@@ -1,0 +1,4 @@
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+org/projectodd/wunderboss/ruby/RubyLanguageShim/locateJRubyHome()
+org/projectodd/wunderboss/WunderBoss/updateClassPath(java.net.URL)
+org/projectodd/wunderboss/Language/initialize()

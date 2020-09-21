@@ -1,0 +1,5 @@
+org/jgroups/util/ExpiryCache/toString()@g_jgroups-3.6.6.Final.jar.txt	4
+org/jgroups/blocks/Cache/dump()@g_jgroups-3.6.6.Final.jar.txt	3
+org/jgroups/blocks/LazyRemovalCache/printCache(org.jgroups.blocks.LazyRemovalCache$Printable)@g_jgroups-3.6.6.Final.jar.txt	1
+org/jgroups/blocks/LazyRemovalCache/contents(boolean)@g_jgroups-3.6.6.Final.jar.txt	2
+org/jgroups/protocols/FD_SOCK/printCache()@g_jgroups-3.6.6.Final.jar.txt	0

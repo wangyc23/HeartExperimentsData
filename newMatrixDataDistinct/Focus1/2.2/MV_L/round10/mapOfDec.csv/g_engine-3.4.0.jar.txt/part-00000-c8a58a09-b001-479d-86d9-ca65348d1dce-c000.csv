@@ -1,0 +1,5 @@
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/setCrossRefsBagExp(org.eclipse.emf.ecore.EObject)@g_emftvm.compiler-3.4.100.201308012235.jar.txt	4
+anatlyzer/atl/util/AnalyserUtils/prepare(anatlyzer.atl.model.ATLModel,anatlyzer.atl.util.AnalyserUtils$IAtlFileLoader)@g_typing-1.0.1.jar.txt	1
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/setCrossRefsOclType(org.eclipse.emf.ecore.EObject)@g_emftvm.compiler-3.4.100.201308012235.jar.txt	2
+org/eclipse/m2m/atl/engine/asm/lib/ASMString/writeToWithCharset(org.eclipse.m2m.atl.engine.emfvm.lib.AbstractStackFrame,java.lang.String,java.lang.String,java.lang.String)@g_emftvm.compiler-3.4.100.201308012235.jar.txt	3
+org/eclipse/m2m/atl/emftvm/compiler/AtlResourceImpl/doLoad(java.io.InputStream,java.util.Map)@g_emftvm.compiler-3.4.100.201308012235.jar.txt	0

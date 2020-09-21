@@ -1,0 +1,5 @@
+org/apache/hadoop/mrunit/internal/mapred/MockMapredOutputFormat/getOutputs()@g_spring-security-core-4.0.0.RELEASE.jar.txt	3
+org/apache/hadoop/mrunit/internal/util/DistCacheUtils/extractArchiveToTemp(org.apache.hadoop.fs.Path,java.io.File)@g_spring-security-core-4.0.0.RELEASE.jar.txt	0
+org/apache/hadoop/mrunit/MapDriver/run()@g_spring-security-core-4.0.0.RELEASE.jar.txt	1
+org/apache/hadoop/mrunit/mapreduce/ReduceDriver/printPreTestDebugLog()@g_spring-security-core-4.0.0.RELEASE.jar.txt	2
+org/springframework/security/core/authority/mapping/MapBasedAttributes2GrantedAuthoritiesMapper/preProcessMap(java.util.Map)@g_spring-security-core-4.0.0.RELEASE.jar.txt	4

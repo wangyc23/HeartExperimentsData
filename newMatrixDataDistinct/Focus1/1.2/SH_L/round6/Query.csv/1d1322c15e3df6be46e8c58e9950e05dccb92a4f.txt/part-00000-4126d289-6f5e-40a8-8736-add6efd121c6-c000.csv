@@ -1,0 +1,4 @@
+java/util/Optional/get()
+javax/ws/rs/core/Response/ResponseBuilder/build()
+com/commafeed/frontend/session/SessionHelper/setLoggedInUser(com.commafeed.backend.model.User)
+javax/ws/rs/core/Response/ok()

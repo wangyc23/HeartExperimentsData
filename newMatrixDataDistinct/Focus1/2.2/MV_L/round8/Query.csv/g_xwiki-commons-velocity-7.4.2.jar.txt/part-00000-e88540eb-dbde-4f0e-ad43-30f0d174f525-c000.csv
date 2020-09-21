@@ -1,0 +1,4 @@
+org/apache/velocity/util/introspection/Uberspect/init()
+org/apache/velocity/util/introspection/UberspectLoggable/setLog(org.apache.velocity.runtime.log.Log)
+java/lang/String/equals(java.lang.Object)
+org/apache/velocity/runtime/log/Log/warn(java.lang.Object)

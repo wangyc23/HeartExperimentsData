@@ -1,0 +1,5 @@
+edu/stanford/nlp/stats/Counters/printCounterSortedByKeys(edu.stanford.nlp.stats.Counter)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/util/StringUtils/printToFile(java.io.File,java.lang.String,boolean)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/trees/CollocationFinder/getMangledTree(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/metrics/LeafAncestorEval/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/trees/tregex/TregexPattern/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0

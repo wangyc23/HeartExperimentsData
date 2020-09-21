@@ -1,0 +1,4 @@
+java/awt/Graphics/setClip(java.awt.Shape)
+java/awt/Rectangle/Rectangle(int,int,int,int)
+com/jhlabs/image/ShatterFilter$Tile/Tile()
+java/lang/Math/sin(double)

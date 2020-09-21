@@ -1,0 +1,4 @@
+org/springframework/cglib/transform/ClassEmitterTransformer/begin_method(int,org.springframework.cglib.core.Signature,org.springframework.asm.Type[])
+java/lang/String/length()
+java/lang/StringBuilder/StringBuilder(int)
+java/lang/reflect/Method/getName()

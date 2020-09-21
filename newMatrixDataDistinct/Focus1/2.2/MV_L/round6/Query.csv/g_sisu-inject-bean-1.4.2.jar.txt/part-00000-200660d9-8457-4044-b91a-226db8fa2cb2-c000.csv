@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Map/get(java.lang.Object)
+org/sonatype/guice/bean/containers/InjectedTestCase$TestModule/TestModule(org.sonatype.guice.bean.containers.InjectedTestCase)
+java/util/Map/containsKey(java.lang.Object)

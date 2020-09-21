@@ -1,0 +1,4 @@
+org/eclipse/jdt/internal/compiler/lookup/BlockScope/enclosingSourceType()
+org/eclipse/jdt/internal/eval/CodeSnippetAllocationExpression/inferElidedTypes(org.eclipse.jdt.internal.compiler.lookup.Scope)
+org/eclipse/jdt/internal/compiler/lookup/BlockScope/environment()
+org/eclipse/jdt/internal/eval/CodeSnippetAllocationExpression/findConstructorBinding(org.eclipse.jdt.internal.compiler.lookup.BlockScope,org.eclipse.jdt.internal.compiler.ast.Invocation,org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding,org.eclipse.jdt.internal.compiler.lookup.TypeBinding[])

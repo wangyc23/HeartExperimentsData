@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+org/slf4j/Logger/warn(java.lang.String,java.lang.Throwable)
+scala/StringContext/StringContext(scala.collection.Seq)
+scala/runtime/BoxesRunTime/boxToInteger(int)

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/Long/valueOf(long)
+org/neo4j/kernel/impl/store/record/PropertyRecord/getId()
+java/util/Iterator/next()

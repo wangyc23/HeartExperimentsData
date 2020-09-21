@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Character/toChars(int)
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(char[])

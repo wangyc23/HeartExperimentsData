@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_jline-1.0.jar.txt	3
+jline/ClassNameCompletor/getClassFiles(java.lang.String,java.util.Set,java.io.File,int[])@g_jline-1.0.jar.txt	1
+jline/FileNameCompletor/matchFiles(java.lang.String,java.lang.String,java.io.File[],java.util.List)@g_jline-1.0.jar.txt	0
+org/codehaus/plexus/util/PathTool/buildRelativePath(java.lang.String,java.lang.String,char)@g_jline-1.0.jar.txt	4
+org/codehaus/plexus/util/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_plexus-utils-1.5.6.jar.txt	2

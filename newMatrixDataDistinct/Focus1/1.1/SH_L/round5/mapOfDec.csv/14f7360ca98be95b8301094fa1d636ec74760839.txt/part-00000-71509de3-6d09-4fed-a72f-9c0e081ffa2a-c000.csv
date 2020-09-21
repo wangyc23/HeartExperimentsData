@@ -1,0 +1,5 @@
+org/humanistika/oxygen/tei/completer/XPathUtil/isAbsolutePathExpr(com.evolvedbinary.xpath.parser.ast.Expr)@241997baed8046a46e3691461cef940d3eba8a5d.txt	3
+org/humanistika/oxygen/tei/completer/XPathUtil/isSubset(com.evolvedbinary.xpath.parser.ast.Expr,com.evolvedbinary.xpath.parser.ast.Expr)@241997baed8046a46e3691461cef940d3eba8a5d.txt	1
+org/humanistika/oxygen/tei/completer/TeiCompleter/createXPaths(org.humanistika.oxygen.tei.completer.configuration.beans.AutoComplete)@241997baed8046a46e3691461cef940d3eba8a5d.txt	2
+org/glassfish/jersey/examples/sse/DomainResource/Process/run()@241997baed8046a46e3691461cef940d3eba8a5d.txt	4
+org/humanistika/oxygen/tei/completer/XPathUtil/isSubsetNodeTest(com.evolvedbinary.xpath.parser.ast.NodeTest,com.evolvedbinary.xpath.parser.ast.Axis,com.evolvedbinary.xpath.parser.ast.NodeTest)@241997baed8046a46e3691461cef940d3eba8a5d.txt	0

@@ -1,0 +1,5 @@
+org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration/ProxyStreamServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-cloud-netflix-hystrix-dashboard-1.1.0.BUILD-20151113.115735-165.jar.txt	0
+org/eclipse/aether/transport/http/HttpTransporter/commonHeaders(org.apache.http.client.methods.HttpUriRequest)@g_spring-cloud-netflix-hystrix-dashboard-1.1.0.BUILD-20151113.115735-165.jar.txt	4
+org/eclipse/aether/transport/http/HttpTransporter/EntityGetter/handle(org.apache.http.HttpResponse)@g_spring-cloud-netflix-hystrix-dashboard-1.1.0.BUILD-20151113.115735-165.jar.txt	2
+org/eclipse/aether/transport/http/UriUtils/resolve(java.net.URI,java.net.URI)@g_spring-cloud-netflix-hystrix-dashboard-1.1.0.BUILD-20151113.115735-165.jar.txt	3
+org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration/ProxyStreamServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-cloud-netflix-hystrix-dashboard-1.1.0.BUILD-SNAPSHOT.jar.txt	1

@@ -1,0 +1,5 @@
+com/sldg/erp/service/UsuarioService/autenticar(com.sldg.erp.model.Usuario)@1e078672573d4866e322f02bba2407be932ff556.txt	0
+app/db/DatabaseDAOImpl/getCategoryById(int)@1e078672573d4866e322f02bba2407be932ff556.txt	3
+app/util/HtmlSpecialChars/replaceChars(java.lang.String)@1e078672573d4866e322f02bba2407be932ff556.txt	1
+com/sldg/erp/repository/Usuarios/autenticar(java.lang.String,java.lang.String)@1e078672573d4866e322f02bba2407be932ff556.txt	2
+com/sldg/erp/service/ProdutoService/salvar(com.sldg.erp.model.Produto)@1e078672573d4866e322f02bba2407be932ff556.txt	4

@@ -1,0 +1,5 @@
+org/springframework/beans/factory/support/DefaultListableBeanFactory/registerBeanDefinition(java.lang.String,org.springframework.beans.factory.config.BeanDefinition)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	4
+org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory/doCreateBean(java.lang.String,org.springframework.beans.factory.support.RootBeanDefinition,java.lang.Object[])@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	0
+org/springframework/beans/factory/support/DisposableBeanAdapter/invokeCustomDestroyMethod(java.lang.reflect.Method)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	2
+org/springframework/beans/factory/config/YamlProcessor/process(java.util.Map,org.springframework.beans.factory.config.YamlProcessor$MatchCallback)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	3
+org/springframework/beans/TypeConverterDelegate/convertToTypedCollection(java.util.Collection,java.lang.String,java.lang.Class,org.springframework.core.convert.TypeDescriptor)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	1

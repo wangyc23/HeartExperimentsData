@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/DirectoryScanner/DirectoryScanner()
+org/codehaus/plexus/util/DirectoryScanner/addDefaultExcludes()
+java/util/Set/size()
+org/codehaus/plexus/util/DirectoryScanner/scan()

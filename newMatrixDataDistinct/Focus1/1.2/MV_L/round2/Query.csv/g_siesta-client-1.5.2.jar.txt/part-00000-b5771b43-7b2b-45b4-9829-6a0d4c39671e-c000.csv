@@ -1,0 +1,4 @@
+com/sun/jersey/api/client/Client/resource(java.lang.String)
+com/sun/jersey/api/client/WebResource/accept(java.lang.String[])
+com/sun/jersey/api/client/ClientResponse/getClientResponseStatus()
+java/lang/reflect/Method/getGenericReturnType()

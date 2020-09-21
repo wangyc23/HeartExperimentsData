@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWikiContext/get(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+com/xpn/xwiki/XWikiContext/put(java.lang.Object,java.lang.Object)
+org/apache/commons/lang3/RandomStringUtils/randomAlphanumeric(int)

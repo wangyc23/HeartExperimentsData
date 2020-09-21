@@ -1,0 +1,5 @@
+0	java/util/HashMap/entrySet()
+1	java/util/Map/Entry/getValue()
+2	java/lang/Throwable/printStackTrace()
+3	com/yahoo/ycsb/StringByteIterator/getStringMap(java.util.Map)
+4	java/util/Map/Entry/getKey()

@@ -1,0 +1,5 @@
+br/com/project/seguranca/beans/base/PesquisarController/convertToEntity(I)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	2
+br/com/project/seguranca/util/ListUtil/extrairListaPropriedades(java.util.Collection,java.lang.String)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	3
+com/sldg/erp/service/UsuarioService/autenticar(com.sldg.erp.model.Usuario)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	0
+com/nikolas/wicketsecurity/ui/session/SecureSession/authenticate(java.lang.String,java.lang.String)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	4
+br/com/project/seguranca/util/reflect/ReflectUtil/copiarPropriedades(java.lang.Object,java.lang.Object,org.apache.commons.collections.Predicate)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	1

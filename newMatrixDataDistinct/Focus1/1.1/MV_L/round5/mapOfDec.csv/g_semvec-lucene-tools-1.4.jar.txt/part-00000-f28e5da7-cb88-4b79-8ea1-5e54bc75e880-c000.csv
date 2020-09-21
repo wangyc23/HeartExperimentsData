@@ -1,0 +1,5 @@
+org/apache/lucene/demo/facet/AssociationsFacetsExample/index()@g_lucene-demo-4.3.1.jar.txt	2
+io/seldon/db/SeldonMySQLDocumentStore/getUserItemsUsingItemNames(long)@g_lucene-demo-4.3.1.jar.txt	1
+io/seldon/util/GetAvgTermFreq/getDocAvgTermFreqs()@g_lucene-demo-4.3.1.jar.txt	0
+io/seldon/semvec/CreateLuceneIndexFromDb/createIndex()@g_lucene-demo-4.3.1.jar.txt	3
+io/seldon/semvec/CreateLuceneIndexFromDb/saveDocument(long,org.apache.lucene.search.IndexSearcher,org.apache.lucene.index.IndexWriter,java.io.BufferedWriter)@g_lucene-demo-4.3.1.jar.txt	4

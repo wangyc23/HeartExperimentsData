@@ -1,0 +1,5 @@
+org/xwiki/rendering/wikimodel/tex/TexSerializer/WGet/readHttpURL(java.net.HttpURLConnection,java.io.OutputStream)@g_xwiki-rendering-wikimodel-7.4.2.jar.txt	2
+org/xwiki/rendering/wikimodel/tex/TexSerializer/1/handleImage(java.lang.String,java.lang.String,org.xwiki.rendering.wikimodel.WikiParameters)@g_xwiki-rendering-wikimodel-7.4.2.jar.txt	0
+org/xwiki/rendering/wikimodel/internal/mediawiki/javacc/TokenMgrError/addEscapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.2.jar.txt	4
+org/xwiki/rendering/wikimodel/internal/xwiki/xwiki21/javacc/ParseException/add_escapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.2.jar.txt	3
+org/xwiki/rendering/wikimodel/mediawiki/MediaWikiReferenceParser/generateImageParams(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.2.jar.txt	1

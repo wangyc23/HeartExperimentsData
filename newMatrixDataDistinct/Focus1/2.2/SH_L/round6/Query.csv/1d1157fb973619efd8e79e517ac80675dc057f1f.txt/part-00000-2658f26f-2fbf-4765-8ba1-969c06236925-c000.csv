@@ -1,0 +1,4 @@
+org/spout/engine/SpoutEngine/getLogger()
+org/spout/api/geo/cuboid/Region/unload(boolean)
+java/lang/Math/max(int,int)
+org/spout/api/component/Component/onDetached()

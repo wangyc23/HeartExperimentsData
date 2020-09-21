@@ -1,0 +1,5 @@
+org/apache/spark/sql/api/r/SQLUtils/bytesToRow(byte[],org.apache.spark.sql.types.StructType)@g_spark-sql_2.11-2.2.0.jar.txt	3
+org/apache/spark/sql/execution/ExpandExec/doConsume(org.apache.spark.sql.catalyst.expressions.codegen.CodegenContext,scala.collection.Seq,org.apache.spark.sql.catalyst.expressions.codegen.ExprCode)@g_spark-sql_2.11-2.2.0.jar.txt	0
+org/apache/spark/sql/api/r/SQLUtils/rowToRBytes(org.apache.spark.sql.Row)@g_spark-sql_2.11-2.2.0.jar.txt	2
+org/apache/spark/sql/execution/datasources/PartitioningUtils/resolvePartitions(scala.collection.Seq)@g_spark-sql_2.11-2.2.0.jar.txt	1
+org/apache/spark/sql/execution/ColumnarBatchScan/class/doProduce(org.apache.spark.sql.execution.ColumnarBatchScan,org.apache.spark.sql.catalyst.expressions.codegen.CodegenContext)@g_spark-sql_2.11-2.2.0.jar.txt	4

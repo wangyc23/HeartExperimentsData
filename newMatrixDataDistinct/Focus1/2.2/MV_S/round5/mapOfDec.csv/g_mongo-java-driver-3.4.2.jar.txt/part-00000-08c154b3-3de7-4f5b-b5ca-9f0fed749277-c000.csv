@@ -1,0 +1,5 @@
+org/bson/LazyBSONObject/readValue(org.bson.BsonBinaryReader)@g_mongodb-driver-3.4.2.jar.txt	4
+org/bson/BasicBSONEncoder/_putObjectField(java.lang.String,java.lang.Object)@g_mongodb-driver-3.4.2.jar.txt	3
+org/bson/json/JsonWriter/doWriteRegularExpression(org.bson.BsonRegularExpression)@g_bson-3.4.2.jar.txt	1
+org/bson/json/JsonReader/readBsonType()@g_bson-3.4.2.jar.txt	2
+com/mongodb/DBCursor/addSpecial(java.lang.String,java.lang.Object)@g_mongodb-driver-3.4.2.jar.txt	0

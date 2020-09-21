@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/lang/Object/toString()
+java/util/regex/Matcher/end()
+java/lang/String/substring(int,int)

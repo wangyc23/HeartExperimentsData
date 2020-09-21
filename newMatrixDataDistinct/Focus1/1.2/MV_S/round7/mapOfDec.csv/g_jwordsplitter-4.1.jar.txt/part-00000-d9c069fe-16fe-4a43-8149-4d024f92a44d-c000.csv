@@ -1,0 +1,5 @@
+org/languagetool/rules/patterns/PatternRuleHandler/endElement(java.lang.String,java.lang.String,java.lang.String)@g_languagetool-core-3.0.jar.txt	1
+org/languagetool/rules/patterns/Unifier/checkNext(org.languagetool.AnalyzedToken,java.util.Map)@g_languagetool-core-3.0.jar.txt	2
+org/languagetool/tools/Tools/selectBitextRules(java.util.List,java.util.List,java.util.List,boolean)@g_languagetool-core-3.0.jar.txt	3
+org/languagetool/rules/spelling/hunspell/CompoundAwareHunspellRule/getCandidates(java.util.List)@g_languagetool-core-3.0.jar.txt	0
+org/languagetool/rules/AbstractSimpleReplaceRule2/loadWords(java.io.InputStream)@g_languagetool-core-3.0.jar.txt	4

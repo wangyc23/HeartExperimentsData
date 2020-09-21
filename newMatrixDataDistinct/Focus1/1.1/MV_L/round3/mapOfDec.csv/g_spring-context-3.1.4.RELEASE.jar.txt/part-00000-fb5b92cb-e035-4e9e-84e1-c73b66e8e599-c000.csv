@@ -1,0 +1,5 @@
+org/springframework/jmx/support/MBeanRegistrationSupport/doRegister(java.lang.Object,javax.management.ObjectName)@g_spring-context-3.0.5.RELEASE.jar.txt	3
+org/springframework/validation/DataBinder/checkAllowedFields(org.springframework.beans.MutablePropertyValues)@g_spring-context-3.0.5.RELEASE.jar.txt	1
+org/springframework/jmx/export/MBeanExporter/autodetect(org.springframework.jmx.export.MBeanExporter$AutodetectCallback)@g_spring-context-3.0.5.RELEASE.jar.txt	4
+org/springframework/context/support/AbstractApplicationContext/initApplicationEventMulticaster()@g_spring-context-3.0.5.RELEASE.jar.txt	2
+org/springframework/remoting/rmi/RmiBasedExporter/getObjectToExport()@g_spring-context-3.0.5.RELEASE.jar.txt	0

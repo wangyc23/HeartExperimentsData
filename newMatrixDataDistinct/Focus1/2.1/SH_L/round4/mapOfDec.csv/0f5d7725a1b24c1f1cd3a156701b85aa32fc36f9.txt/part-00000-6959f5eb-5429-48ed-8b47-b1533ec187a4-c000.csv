@@ -1,0 +1,5 @@
+org/javaee7/jpa/listeners/Rating/hashCode()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+org/javaee7/cdi/built/in/TestServlet/doGet(org.javaee7.ejb.stateless.remote.HttpServletRequest,org.javaee7.ejb.stateless.remote.HttpServletResponse)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0
+org/javaee7/jaxrs/request/binding/MyResource/getList(int,int)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1
+org/javaee7/jaxrs/invocation/MyResource/get()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+org/javaee7/jaspic/ejbpropagation/ProtectedEJBPropagationTest/testPublicServletWithLoginCallingEJB()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3

@@ -1,0 +1,4 @@
+java/util/Map/Entry/getValue()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/String/format(java.lang.String,java.lang.Object[])
+com/manning/hip/ch1/ConfigProperty/isMutable()

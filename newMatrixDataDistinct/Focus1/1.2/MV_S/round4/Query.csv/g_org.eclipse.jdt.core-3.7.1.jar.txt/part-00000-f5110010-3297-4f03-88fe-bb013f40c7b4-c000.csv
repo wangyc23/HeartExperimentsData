@@ -1,0 +1,4 @@
+java/lang/String/String(char[])
+java/io/PrintStream/println(java.lang.String)
+java/lang/StringBuffer/toString()
+java/util/List/get(int)

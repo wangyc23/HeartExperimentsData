@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/poi/ddf/EscherPictBlip/getRecordId()
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/toString()

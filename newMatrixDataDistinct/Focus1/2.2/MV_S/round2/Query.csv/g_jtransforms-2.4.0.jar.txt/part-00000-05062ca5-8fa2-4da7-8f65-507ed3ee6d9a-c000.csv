@@ -1,0 +1,4 @@
+java/lang/System/gc()
+java/lang/Double/valueOf(double)
+java/lang/System/nanoTime()
+java/lang/StringBuilder/append(int)

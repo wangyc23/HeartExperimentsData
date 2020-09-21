@@ -1,0 +1,4 @@
+org/opengis/geometry/MismatchedDimensionException/MismatchedDimensionException(java.lang.String)
+org/apache/sis/util/resources/Errors/format(short,java.lang.Object,java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)

@@ -1,0 +1,4 @@
+org/apache/commons/net/ftp/parser/UnixFTPEntryParser/group(int)
+java/lang/Long/parseLong(java.lang.String)
+java/lang/String/substring(int,int)
+org/apache/commons/net/ftp/parser/UnixFTPEntryParser/matches(java.lang.String)

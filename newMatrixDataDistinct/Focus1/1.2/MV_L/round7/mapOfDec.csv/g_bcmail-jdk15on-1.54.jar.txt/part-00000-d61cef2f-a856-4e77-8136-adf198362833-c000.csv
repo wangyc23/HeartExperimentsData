@@ -1,0 +1,5 @@
+org/bouncycastle/mail/smime/examples/CreateSignedMultipartMail/main(java.lang.String[])@g_bcmail-jdk15on-1.53.jar.txt	4
+org/bouncycastle/mail/smime/examples/CreateLargeSignedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.53.jar.txt	1
+org/bouncycastle/mail/smime/examples/CreateCompressedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.53.jar.txt	2
+org/bouncycastle/mail/smime/examples/CreateSignedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.53.jar.txt	3
+org/bouncycastle/mail/smime/examples/CreateLargeEncryptedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.53.jar.txt	0

@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/allocate(int)
+java/nio/Buffer/clear()
+com/sohu/jafka/utils/Utils/writeShortString(java.nio.ByteBuffer,java.lang.String)
+java/nio/ByteBuffer/putLong(long)

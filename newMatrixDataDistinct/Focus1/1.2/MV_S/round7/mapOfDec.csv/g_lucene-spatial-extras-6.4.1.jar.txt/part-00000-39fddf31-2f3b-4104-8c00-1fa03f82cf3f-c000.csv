@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blocktreeords/OrdsBlockTreeTermsWriter/TermsWriter/writeBlock(int,boolean,int,int,int,boolean,boolean)@g_lucene-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/memory/FSTOrdTermsReader/walk(org.apache.lucene.util.fst.FST)@g_lucene-codecs-5.5.0.jar.txt	3
+org/apache/lucene/codecs/blockterms/BlockTermsWriter/TermsWriter/finish()@g_lucene-spatial-6.4.1.jar.txt	4
+org/apache/lucene/codecs/memory/FSTTermsReader/walk(org.apache.lucene.util.fst.FST)@g_lucene-codecs-5.5.0.jar.txt	2
+org/apache/lucene/codecs/bloom/BloomFilteringPostingsFormat/BloomFilteredFieldsConsumer/close()@g_lucene-codecs-5.5.0.jar.txt	0

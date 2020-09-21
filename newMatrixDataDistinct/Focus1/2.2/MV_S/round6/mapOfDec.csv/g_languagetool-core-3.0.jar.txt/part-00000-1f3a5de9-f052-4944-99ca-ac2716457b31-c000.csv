@@ -1,0 +1,5 @@
+com/cybozu/labs/langdetect/CommandLineInterface/detectLang()@g_language-detector-0.5.jar.txt	4
+be/frma/langguess/LangProfileReader/read(java.io.InputStream)@g_language-detector-0.5.jar.txt	0
+de/danielnaber/jwordsplitter/tools/FileTools/loadFileToSet(java.io.InputStream,java.lang.String)@g_jwordsplitter-4.1.jar.txt	3
+de/danielnaber/jwordsplitter/tools/FileTools/loadFile(java.io.InputStream,java.lang.String)@g_jwordsplitter-4.1.jar.txt	2
+com/cybozu/labs/langdetect/CommandLineInterface/batchTest()@g_language-detector-0.5.jar.txt	1

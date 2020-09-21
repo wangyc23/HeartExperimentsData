@@ -1,0 +1,5 @@
+com/sun/jersey/api/client/filter/HTTPDigestAuthFilter/parseHeaders(java.util.Collection)@g_jersey-client-1.18.1.jar.txt	4
+com/sun/jersey/client/urlconnection/URLConnectionClientHandler/_invoke(com.sun.jersey.api.client.ClientRequest)@g_jersey-client-1.18.1.jar.txt	1
+com/sun/jersey/api/client/ClientResponse/getEntity(java.lang.Class,java.lang.reflect.Type)@g_jersey-client-1.18.1.jar.txt	2
+com/sun/jersey/api/client/filter/LoggingFilter/logResponse(long,com.sun.jersey.api.client.ClientResponse)@g_jersey-client-1.18.1.jar.txt	0
+com/sun/jersey/client/urlconnection/URLConnectionClientHandler/URLConnectionResponse/toString()@g_jersey-client-1.18.1.jar.txt	3

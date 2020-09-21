@@ -1,0 +1,5 @@
+org/apache/sis/util/iso/Types/toInternationalString(java.util.Map,java.lang.String)@g_sis-utility-0.6.jar.txt	4
+org/apache/sis/util/CharSequences/camelCaseToAcronym(java.lang.CharSequence)@g_sis-utility-0.6.jar.txt	2
+org/apache/sis/util/CharSequences/shortSentence(java.lang.CharSequence,int)@g_sis-utility-0.6.jar.txt	1
+org/apache/sis/util/StringBuilders/toASCII(java.lang.CharSequence,java.lang.StringBuilder)@g_sis-utility-0.6.jar.txt	0
+org/apache/sis/util/CharSequences/codePointCount(java.lang.CharSequence)@g_sis-utility-0.6.jar.txt	3

@@ -1,0 +1,4 @@
+com/google/inject/assistedinject/FactoryModuleBuilder/build(java.lang.Class)
+com/google/inject/binder/LinkedBindingBuilder/toInstance(java.lang.Object)
+com/google/inject/assistedinject/FactoryModuleBuilder/FactoryModuleBuilder()
+uk/ac/manchester/cs/owl/owlapi/OWLAPIImplModule/bind(java.lang.Class)

@@ -1,0 +1,5 @@
+org/codehaus/mojo/license/api/DefaultThirdPartyHelper/mergeLicenses(java.util.List,org.codehaus.mojo.license.model.LicenseMap)@g_license-maven-plugin-1.8.jar.txt	4
+org/codehaus/mojo/license/AbstractFileHeaderMojo/getFilesToTreateForRoots(java.lang.String[],java.lang.String[],java.util.List,java.util.Map)@g_license-maven-plugin-1.8.jar.txt	0
+org/codehaus/mojo/license/api/DefaultThirdPartyTool/loadThirdPartyDescriptorsForUnsafeMapping(java.util.Set,java.lang.String,java.util.Collection,java.util.SortedSet,org.codehaus.mojo.license.model.LicenseMap,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_license-maven-plugin-1.8.jar.txt	1
+org/codehaus/mojo/license/api/DefaultThirdPartyTool/writeThirdPartyFile(org.codehaus.mojo.license.model.LicenseMap,java.io.File,boolean,java.lang.String,java.lang.String)@g_license-maven-plugin-1.8.jar.txt	3
+org/codehaus/mojo/license/api/DefaultThirdPartyTool/migrateMissingFileKeys(java.util.Set)@g_license-maven-plugin-1.8.jar.txt	2

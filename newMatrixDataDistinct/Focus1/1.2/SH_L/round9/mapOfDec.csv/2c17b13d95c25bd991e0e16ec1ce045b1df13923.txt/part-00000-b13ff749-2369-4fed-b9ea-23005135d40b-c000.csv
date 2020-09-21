@@ -1,0 +1,5 @@
+org/springframework/boot/cli/command/install/Installer/install(java.util.List)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	3
+org/springframework/boot/loader/tools/TestJarFile/addManifest(java.util.jar.Manifest)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	0
+org/springframework/boot/maven/RepackageMojo/getTargetFile()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	4
+org/springframework/boot/loader/tools/TestJarFile/addManifest(java.util.jar.Manifest)@036b90f6faa64a672155458543153890c21b0ebe.txt	1
+org/springframework/boot/ApplicationTemp/getFolder()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	2

@@ -1,0 +1,5 @@
+com/kodcu/rapid/path/Container/inspectContainer(java.lang.String,java.lang.String)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	4
+dk/miw/playlists/ChannelList/getChannels()@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	1
+rapid/container/TestContainerList/shouldListContainersWithLimit()@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	3
+rapid/container/TestContainerInspect/inspectContainer()@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	0
+com/kodcu/rapid/path/Network/connectToNetwork(java.lang.String,com.kodcu.rapid.path.JsonObject)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	2

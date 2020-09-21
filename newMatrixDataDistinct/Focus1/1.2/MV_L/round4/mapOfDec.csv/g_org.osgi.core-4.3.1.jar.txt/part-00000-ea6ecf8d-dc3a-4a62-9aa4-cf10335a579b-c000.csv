@@ -1,0 +1,5 @@
+org/osgi/framework/ServicePermission/Properties/entrySet()@g_org.osgi.core-5.0.0.jar.txt	4
+org/osgi/framework/SignerProperty/equals(java.lang.Object)@g_org.osgi.core-5.0.0.jar.txt	0
+org/osgi/framework/FrameworkUtil/DNChainMatching/parseDNchain(java.util.List)@g_org.osgi.core-5.0.0.jar.txt	3
+org/osgi/framework/PackagePermissionCollection/implies(java.security.Permission)@g_org.osgi.core-5.0.0.jar.txt	2
+org/osgi/framework/CapabilityPermissionCollection/implies(java.security.Permission)@g_org.osgi.core-5.0.0.jar.txt	1

@@ -1,0 +1,5 @@
+ucar/unidata/geoloc/projection/UtmCoordinateConversion/MGRUTM2LatLon/convertMGRUTMToLatLong(java.lang.String)@g_morpha-stemmer-1.0.4.jar.txt	3
+ucar/unidata/geoloc/projection/UtmCoordinateConversion/LatLon2MGRUTM/convertLatLonToMGRUTM(double,double)@g_morpha-stemmer-1.0.4.jar.txt	4
+org/apache/lucene/spatial3d/geom/Plane/interpolate(org.apache.lucene.spatial3d.geom.GeoPoint,org.apache.lucene.spatial3d.geom.GeoPoint,double[])@g_lucene-spatial3d-6.4.1.jar.txt	1
+ucar/unidata/util/Format/formatDouble(double,int,int)@g_morpha-stemmer-1.0.4.jar.txt	2
+org/apache/lucene/spatial3d/geom/Plane/findArcDistancePoints(org.apache.lucene.spatial3d.geom.PlanetModel,double,org.apache.lucene.spatial3d.geom.GeoPoint,org.apache.lucene.spatial3d.geom.Membership[])@g_lucene-spatial3d-6.4.1.jar.txt	0

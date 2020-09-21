@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/parser/XDOMBuilder/getXDOM()@g_xwiki-rendering-api-7.4.jar.txt	2
+org/xwiki/rendering/util/IdGenerator/generateUniqueId(java.lang.String,java.lang.String)@g_xwiki-rendering-api-7.4.jar.txt	0
+org/xwiki/rendering/block/PlainTextBlockFilter/filter(org.xwiki.rendering.block.Block)@g_xwiki-rendering-api-7.4.jar.txt	4
+org/xwiki/rendering/internal/parser/XDOMBuilder/getXDOM()@g_xwiki-rendering-api-7.0.jar.txt	3
+org/xwiki/rendering/util/IdGenerator/generateUniqueId(java.lang.String,java.lang.String)@g_xwiki-rendering-api-7.0.jar.txt	1

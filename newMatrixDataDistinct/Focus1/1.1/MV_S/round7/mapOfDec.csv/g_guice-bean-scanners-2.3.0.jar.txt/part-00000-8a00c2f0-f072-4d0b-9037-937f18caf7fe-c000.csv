@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/asm/ClassWriter/newConstItem(java.lang.Object)@g_sisu-inject-bean-2.1.1.jar.txt	0
+org/sonatype/guice/bean/scanners/QualifierCache/qualify(org.sonatype.guice.bean.reflect.ClassSpace,java.lang.String)@g_asm-5.2.jar.txt	4
+org/sonatype/guice/bean/scanners/index/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_asm-5.2.jar.txt	2
+org/sonatype/guice/bean/reflect/URLClassSpace/expandClassPath(java.net.URL[])@g_asm-5.2.jar.txt	1
+org/sonatype/guice/bean/scanners/index/SisuIndex/getWriter(java.lang.String)@g_asm-5.2.jar.txt	3

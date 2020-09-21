@@ -1,0 +1,5 @@
+io/seldon/db/SeldonMySQLDocumentStore/getLatestItems(int,java.util.Date,int,java.lang.String,boolean,java.lang.String)@g_semvec-lucene-tools-1.4.jar.txt	2
+edu/cmu/lti/lexical_db/NictWordNet/getGloss(edu.cmu.lti.lexical_db.data.Concept,java.lang.String)@g_ws4j-0.1.0.jar.txt	0
+io/seldon/db/SeldonMySQLDocumentStore/getLatestUsers(java.util.Date)@g_semvec-lucene-tools-1.4.jar.txt	1
+io/seldon/db/SeldonMySQLDocumentStore/getIdFromName(java.lang.String)@g_semvec-lucene-tools-1.4.jar.txt	4
+io/seldon/db/SeldonMySQLDocumentStore/getUserItemsUsingItemNames(long)@g_semvec-lucene-tools-1.4.jar.txt	3

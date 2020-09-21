@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/GraphicsUtil/copyData_FALLBACK(java.awt.image.Raster,java.awt.image.WritableRaster)@g_xmlgraphics-commons-1.5.jar.txt	4
+org/apache/batik/gvt/filter/GraphicsNodeRed8Bit/genRect(java.awt.image.WritableRaster)@g_batik-gvt-1.8.jar.txt	0
+org/apache/xmlgraphics/image/rendered/AbstractRed/copyBand(java.awt.image.Raster,int,java.awt.image.WritableRaster,int)@g_xmlgraphics-commons-1.5.jar.txt	2
+org/apache/xmlgraphics/image/rendered/Any2sRGBRed/copyData(java.awt.image.WritableRaster)@g_xmlgraphics-commons-1.5.jar.txt	3
+org/apache/batik/gvt/PatternPaintContext/getRaster(int,int,int,int)@g_batik-gvt-1.8.jar.txt	1

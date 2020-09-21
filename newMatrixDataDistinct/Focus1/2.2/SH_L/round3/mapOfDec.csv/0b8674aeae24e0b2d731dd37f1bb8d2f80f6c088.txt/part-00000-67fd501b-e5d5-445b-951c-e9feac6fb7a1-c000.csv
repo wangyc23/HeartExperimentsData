@@ -1,0 +1,5 @@
+org/springside/examples/quickstart/QuickStartServer/main(java.lang.String[])@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	0
+org/springside/examples/quickstart/web/account/UserAdminController/getUser(java.lang.Long,org.springframework.ui.Model)@265c5400a11d4c40703ed6465fc5543221f8bb3f.txt	3
+org/springside/examples/quickstart/functional/rest/TaskRestFT/createUpdateAndDeleteTask()@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	1
+com/salesmanager/core/modules/cms/impl/StoreCacheManagerImpl/getInstance()@265c5400a11d4c40703ed6465fc5543221f8bb3f.txt	4
+com/example/sdn4rc2/web/ProductController/create(com.example.sdn4rc2.web.ProductForm,org.springframework.ui.Model)@265c5400a11d4c40703ed6465fc5543221f8bb3f.txt	2

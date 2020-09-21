@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/GetMojo/execute()@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/fromConfiguration/CopyMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/dependency/resolvers/ResolvePluginsMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/jooq/util/maven/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_jooq-codegen-maven-3.7.1.jar.txt	1
+org/jooq/util/maven/HelpMojo/execute()@g_jooq-codegen-maven-3.7.1.jar.txt	0

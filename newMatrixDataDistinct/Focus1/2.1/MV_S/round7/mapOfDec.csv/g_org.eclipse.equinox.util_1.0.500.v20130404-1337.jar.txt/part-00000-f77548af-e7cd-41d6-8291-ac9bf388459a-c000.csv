@@ -1,0 +1,5 @@
+net/sf/ezmorph/bean/MorphDynaBean/set(java.lang.String,java.lang.String,java.lang.Object)@g_ezmorph-1.0.6.jar.txt	1
+net/sf/ezmorph/array/BooleanObjectArrayMorpher/morph(java.lang.Object)@g_ezmorph-1.0.6.jar.txt	2
+net/sf/ezmorph/bean/MorphDynaBean/get(java.lang.String,java.lang.String)@g_ezmorph-1.0.6.jar.txt	4
+net/sf/ezmorph/bean/MorphDynaClass/process()@g_ezmorph-1.0.6.jar.txt	0
+net/sf/ezmorph/object/NumberMorpher/morph(java.lang.Object)@g_ezmorph-1.0.6.jar.txt	3

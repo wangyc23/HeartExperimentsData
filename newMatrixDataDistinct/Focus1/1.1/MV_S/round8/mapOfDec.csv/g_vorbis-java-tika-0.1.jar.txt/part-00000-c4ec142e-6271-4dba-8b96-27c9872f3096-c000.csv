@@ -1,0 +1,5 @@
+org/apache/tika/parser/video/FLVParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_vorbis-java-core-0.1-tests.jar.txt	3
+org/apache/tika/parser/pdf/PDF2XHTML/extractEmbeddedDocuments(org.apache.pdfbox.pdmodel.PDDocument,org.xml.sax.ContentHandler)@g_vorbis-java-core-0.1-tests.jar.txt	2
+org/apache/tika/parser/microsoft/ooxml/XSLFPowerPointExtractorDecorator/getMainDocumentParts()@g_vorbis-java-core-0.1-tests.jar.txt	0
+org/apache/tika/parser/ocr/TesseractOCRParser/hasTesseract(org.apache.tika.parser.ocr.TesseractOCRConfig)@g_vorbis-java-core-0.1-tests.jar.txt	4
+org/apache/tika/parser/mp4/MP4Parser/<clinit>()@g_vorbis-java-core-0.1-tests.jar.txt	1

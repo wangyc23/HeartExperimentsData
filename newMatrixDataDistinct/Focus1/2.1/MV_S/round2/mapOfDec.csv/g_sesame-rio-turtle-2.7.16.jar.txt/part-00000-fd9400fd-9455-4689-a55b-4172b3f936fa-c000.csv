@@ -1,0 +1,5 @@
+org/openrdf/rio/turtle/TurtleWriter/handleStatement(org.openrdf.model.Statement)@g_rdf4j-rio-ntriples-2.1.4.jar.txt	1
+org/eclipse/rdf4j/rio/turtle/TurtleUtil/decodeString(java.lang.String)@g_rdf4j-rio-ntriples-2.1.4.jar.txt	2
+org/eclipse/rdf4j/rio/turtle/TurtleWriter/handleStatementInternal(org.eclipse.rdf4j.model.Statement,boolean,boolean,boolean)@g_rdf4j-rio-ntriples-2.1.4.jar.txt	3
+org/eclipse/rdf4j/rio/turtle/TurtleWriter/handleNamespace(java.lang.String,java.lang.String)@g_rdf4j-rio-turtle-2.1.4.jar.txt	0
+org/eclipse/rdf4j/rio/turtle/TurtleParser/appendCodepoint(java.lang.StringBuilder,int)@g_rdf4j-rio-ntriples-2.1.4.jar.txt	4

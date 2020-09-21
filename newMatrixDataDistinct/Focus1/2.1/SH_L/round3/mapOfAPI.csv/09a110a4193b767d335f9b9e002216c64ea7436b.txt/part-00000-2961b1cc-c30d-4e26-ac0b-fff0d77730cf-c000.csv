@@ -1,0 +1,8 @@
+0	org/apache/lens/ml/impl/MLUtils/getServiceProvider()
+1	java/sql/ResultSet/getString(int)
+2	java/sql/PreparedStatement/executeQuery()
+3	java/sql/Connection/prepareStatement(java.lang.String)
+4	java/lang/Throwable/printStackTrace()
+5	java/sql/ResultSet/next()
+6	java/io/PrintStream/println(java.lang.String)
+7	com/bi/corelog/util/DbUtil/getConnection()

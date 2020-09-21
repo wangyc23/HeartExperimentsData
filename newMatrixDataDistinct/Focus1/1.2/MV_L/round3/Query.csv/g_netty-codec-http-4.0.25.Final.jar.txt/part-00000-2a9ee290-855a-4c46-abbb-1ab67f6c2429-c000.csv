@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/io/File/renameTo(java.io.File)
+java/nio/channels/FileChannel/close()
+java/lang/NullPointerException/NullPointerException(java.lang.String)

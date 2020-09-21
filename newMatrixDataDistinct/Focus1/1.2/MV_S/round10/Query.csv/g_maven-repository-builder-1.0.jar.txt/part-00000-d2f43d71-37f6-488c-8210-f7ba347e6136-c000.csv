@@ -1,0 +1,4 @@
+org/apache/maven/artifact/Artifact/getArtifactId()
+org/apache/maven/artifact/Artifact/isSnapshot()
+org/apache/maven/artifact/ArtifactUtils/versionlessKey(org.apache.maven.artifact.Artifact)
+java/lang/StringBuilder/append(java.lang.String)

@@ -1,0 +1,4 @@
+org/springframework/context/annotation/ConditionContext/getBeanFactory()
+org/springframework/boot/autoconfigure/condition/ConditionMessage$ItemsBuilder/items(java.lang.Object[])
+org/springframework/boot/autoconfigure/condition/ConditionMessage$Builder/found(java.lang.String)
+org/springframework/boot/autoconfigure/condition/ConditionMessage$Builder/didNotFind(java.lang.String)

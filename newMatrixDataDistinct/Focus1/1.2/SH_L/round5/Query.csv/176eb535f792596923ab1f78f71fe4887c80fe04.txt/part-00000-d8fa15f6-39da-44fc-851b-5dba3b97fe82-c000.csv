@@ -1,0 +1,4 @@
+org/apache/hadoop/mrunit/mapreduce/MapReduceDriver/run()
+org/apache/hadoop/mrunit/mapreduce/MapReduceDriver/withInput(K1,V1)
+com/manning/hip/ch13/mrunit/MRUnitJUnitAsserts/assertOutputs(org.apache.hadoop.mrunit.TestDriver,java.util.List)
+org/apache/hadoop/io/Text/Text(java.lang.String)

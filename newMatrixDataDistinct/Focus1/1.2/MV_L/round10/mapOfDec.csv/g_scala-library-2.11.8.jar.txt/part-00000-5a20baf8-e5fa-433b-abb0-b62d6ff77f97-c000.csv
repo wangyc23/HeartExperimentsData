@@ -1,0 +1,5 @@
+scala/collection/immutable/RedBlackTree/balRight$1(java.lang.Object,java.lang.Object,scala.collection.immutable.RedBlackTree$Tree,scala.collection.immutable.RedBlackTree$Tree)@g_scala-library-2.11.6.jar.txt	0
+scala/collection/immutable/RedBlackTree/balLeft$1(java.lang.Object,java.lang.Object,scala.collection.immutable.RedBlackTree$Tree,scala.collection.immutable.RedBlackTree$Tree)@g_scala-library-2.11.6.jar.txt	1
+scala/collection/immutable/RedBlackTree/balLeft$1(java.lang.Object,java.lang.Object,scala.collection.immutable.RedBlackTree$Tree,scala.collection.immutable.RedBlackTree$Tree)@g_scala-library-2.12.5.jar.txt	3
+scala/collection/immutable/RedBlackTree/append$1(scala.collection.immutable.RedBlackTree$Tree,scala.collection.immutable.RedBlackTree$Tree)@g_scala-library-2.11.6.jar.txt	4
+scala/collection/immutable/RedBlackTree/balRight$1(java.lang.Object,java.lang.Object,scala.collection.immutable.RedBlackTree$Tree,scala.collection.immutable.RedBlackTree$Tree)@g_scala-library-2.12.5.jar.txt	2

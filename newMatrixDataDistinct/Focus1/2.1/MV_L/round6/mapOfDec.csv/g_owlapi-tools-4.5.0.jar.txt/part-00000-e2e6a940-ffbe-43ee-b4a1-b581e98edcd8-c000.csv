@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/latex/renderer/LatexRenderer/render(org.semanticweb.owlapi.model.OWLOntology,java.io.Writer)@g_owlapi-distribution-4.5.0.jar.txt	1
+org/semanticweb/owlapi/dlsyntax/renderer/DLSyntaxStorerBase/storeOntology(org.semanticweb.owlapi.model.OWLOntology,java.io.Writer,org.semanticweb.owlapi.model.OWLDocumentFormat)@g_owlapi-distribution-4.5.0.jar.txt	3
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/insertChildren(org.semanticweb.owlapi.model.OWLEntity,uk.ac.manchester.cs.owl.explanation.ordering.ExplanationTree)@g_owlapi-distribution-4.5.0.jar.txt	0
+com/clarkparsia/owlapi/explanation/BlackBoxExplanation/expandWithDefiningAxioms(org.semanticweb.owlapi.model.OWLEntity,int)@g_owlapi-distribution-4.5.0.jar.txt	2
+uk/ac/manchester/cs/owl/owlapi/OWLImmutableOntologyImpl/getAxioms(org.semanticweb.owlapi.model.OWLDataProperty,org.semanticweb.owlapi.model.parameters.Imports)@g_owlapi-distribution-4.5.0.jar.txt	4

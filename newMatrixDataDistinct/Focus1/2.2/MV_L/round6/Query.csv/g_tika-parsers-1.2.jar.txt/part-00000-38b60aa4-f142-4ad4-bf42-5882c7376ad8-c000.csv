@@ -1,0 +1,4 @@
+org/apache/tika/exception/TikaException/TikaException(java.lang.String,java.lang.Throwable)
+org/bouncycastle/cms/CMSSignedDataParser/CMSSignedDataParser(java.io.InputStream)
+org/apache/tika/io/CloseShieldInputStream/CloseShieldInputStream(java.io.InputStream)
+java/io/InputStream/close()

@@ -1,0 +1,4 @@
+org/xwiki/officeimporter/internal/filter/ListFilter/filterDescendants(org.w3c.dom.Element,java.lang.String[])
+org/w3c/dom/Node/getNextSibling()
+java/util/Iterator/hasNext()
+org/w3c/dom/Element/getFirstChild()

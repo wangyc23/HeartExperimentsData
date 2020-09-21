@@ -1,0 +1,5 @@
+org/apache/batik/bridge/SVGFontUtilities/getFontFamily(org.w3c.dom.Element,org.apache.batik.bridge.BridgeContext,java.lang.String,java.lang.String,java.lang.String)@g_batik-bridge-1.8.jar.txt	2
+org/apache/batik/bridge/SVGGlyphElementBridge/createGlyph(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Element,org.w3c.dom.Element,int,float,org.apache.batik.gvt.font.GVTFontFace,org.apache.batik.gvt.text.TextPaintInfo)@g_batik-bridge-1.8.jar.txt	3
+org/apache/batik/bridge/SVGTextElementBridge/AttributedStringBuffer/toAttributedString()@g_batik-bridge-1.8.jar.txt	1
+org/apache/batik/bridge/svg12/DefaultXBLManager/stopProcessing()@g_batik-bridge-1.8.jar.txt	4
+org/apache/batik/bridge/DefaultFontFamilyResolver/<clinit>()@g_batik-bridge-1.8.jar.txt	0

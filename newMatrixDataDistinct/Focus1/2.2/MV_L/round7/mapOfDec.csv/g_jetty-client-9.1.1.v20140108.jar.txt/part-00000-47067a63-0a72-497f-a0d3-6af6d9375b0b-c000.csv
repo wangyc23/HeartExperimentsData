@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/HttpChannel/handle()@g_jetty-server-9.4.5.v20170502.jar.txt	3
+org/eclipse/jetty/server/HttpConnection/fillRequestBuffer()@g_jetty-server-9.4.5.v20170502.jar.txt	2
+org/eclipse/jetty/server/HttpConnection/onCompleted()@g_jetty-server-9.4.5.v20170502.jar.txt	1
+org/eclipse/jetty/server/ProxyConnectionFactory/ProxyProtocolV1orV2Connection/onFillable()@g_jetty-server-9.4.5.v20170502.jar.txt	0
+org/eclipse/jetty/server/HttpOutput/close()@g_jetty-server-9.4.5.v20170502.jar.txt	4

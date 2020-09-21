@@ -1,0 +1,4 @@
+net/sf/jabb/util/stat/SimpleBigIntegerStatistics/evaluate(int)
+net/sf/jabb/util/stat/SimpleBigIntegerStatistics/getMax()
+net/sf/jabb/util/stat/SimpleBigIntegerStatistics/merge(net.sf.jabb.util.stat.NumberStatistics)
+net/sf/jabb/util/stat/SimpleBigIntegerStatistics/getSum()

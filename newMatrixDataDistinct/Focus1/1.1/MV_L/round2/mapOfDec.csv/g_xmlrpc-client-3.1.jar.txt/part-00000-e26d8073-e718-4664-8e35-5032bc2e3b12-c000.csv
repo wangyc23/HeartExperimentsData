@@ -1,0 +1,5 @@
+org/apache/xmlrpc/client/XmlRpcStreamTransport/readResponse(org.apache.xmlrpc.common.XmlRpcStreamRequestConfig,java.io.InputStream)@g_xmlrpc-server-3.1.jar.txt	3
+org/jdom/input/JAXPParserFactory/setProperty(javax.xml.parsers.SAXParser,java.util.Map,java.lang.String)@g_xmlrpc-server-3.1.jar.txt	4
+org/apache/xmlrpc/webserver/Connection/writeResponseHeader(org.apache.xmlrpc.webserver.RequestData,int)@g_xmlrpc-server-3.1.jar.txt	1
+org/apache/xmlrpc/client/XmlRpcLiteHttpTransport/getInputStream()@g_xmlrpc-server-3.1.jar.txt	0
+org/apache/xmlrpc/client/XmlRpcLiteHttpTransport/getOutputStream()@g_xmlrpc-server-3.1.jar.txt	2

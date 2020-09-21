@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/reflect/Method/getParameterAnnotations()
+org/eclipse/jetty/util/annotation/ManagedOperation/proxied()

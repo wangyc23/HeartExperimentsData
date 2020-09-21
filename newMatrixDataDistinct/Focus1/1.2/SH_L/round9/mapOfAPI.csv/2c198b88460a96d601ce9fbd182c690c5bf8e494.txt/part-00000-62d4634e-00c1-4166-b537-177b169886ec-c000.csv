@@ -1,0 +1,5 @@
+0	org/tmf/dsmapi/commons/workflow/StateModelBase/getTransitionMap()
+1	java/lang/Enum/name()
+2	java/util/Map/containsKey(java.lang.Object)
+3	org/tmf/dsmapi/commons/workflow/Transition/Transition(E)
+4	java/util/Map/get(java.lang.Object)

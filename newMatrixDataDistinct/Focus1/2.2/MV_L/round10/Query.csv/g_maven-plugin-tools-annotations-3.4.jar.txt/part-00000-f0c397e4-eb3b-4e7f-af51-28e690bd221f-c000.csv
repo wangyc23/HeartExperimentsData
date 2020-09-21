@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/StringUtils/equals(java.lang.String,java.lang.String)
+java/util/Iterator/hasNext()
+org/apache/maven/tools/plugin/PluginToolsRequest/getEncoding()
+java/util/Map/putAll(java.util.Map)

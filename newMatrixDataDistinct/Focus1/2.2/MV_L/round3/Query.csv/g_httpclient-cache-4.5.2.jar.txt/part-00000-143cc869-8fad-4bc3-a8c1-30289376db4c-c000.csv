@@ -1,0 +1,4 @@
+org/apache/http/client/methods/HttpRequestWrapper/addHeader(java.lang.String,java.lang.String)
+org/apache/http/client/methods/HttpRequestWrapper/getAllHeaders()
+org/apache/http/Header/getValue()
+org/apache/http/HeaderElement/getName()

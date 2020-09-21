@@ -1,0 +1,5 @@
+org/apache/avro/Schema/EnumSchema/toJson(org.apache.avro.Schema$Names,org.codehaus.jackson.JsonGenerator)@g_neo4j-harness-2.2.1.jar.txt	3
+org/apache/avro/SchemaCompatibility/ReaderWriterCompatiblityChecker/calculateCompatibility(org.apache.avro.Schema,org.apache.avro.Schema)@g_neo4j-harness-2.2.1.jar.txt	4
+org/apache/avro/generic/GenericDatumReader/skip(org.apache.avro.Schema,org.apache.avro.io.Decoder)@g_neo4j-harness-2.2.1.jar.txt	1
+org/apache/avro/generic/GenericData/induce(java.lang.Object)@g_neo4j-harness-2.2.1.jar.txt	2
+org/apache/avro/file/BZip2Codec/decompress(java.nio.ByteBuffer)@g_neo4j-harness-2.2.1.jar.txt	0

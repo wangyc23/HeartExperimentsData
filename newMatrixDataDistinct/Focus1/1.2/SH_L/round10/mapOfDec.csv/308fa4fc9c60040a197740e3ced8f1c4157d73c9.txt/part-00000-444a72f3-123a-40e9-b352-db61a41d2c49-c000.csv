@@ -1,0 +1,5 @@
+com/doume/max/dao/impl/ProductDaoImpl/findByNameLike(java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+com/doume/max/dao/CreditDaoTest/findBySeller()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2
+com/doume/max/entity/Business/setWithOutId(com.doume.max.entity.BHomePage)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	4
+com/doume/max/dao/impl/DealDaoImpl/findBySellerId(java.lang.Long)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	0
+pl/pwr/news/service/tag/TagServiceTest/findAll_existingTags_listOfAllTagsReturned()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1

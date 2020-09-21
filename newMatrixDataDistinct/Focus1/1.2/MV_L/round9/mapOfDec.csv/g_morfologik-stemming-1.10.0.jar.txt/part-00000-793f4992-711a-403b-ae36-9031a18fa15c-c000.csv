@@ -1,0 +1,5 @@
+morfologik/stemming/DictionaryLookup/decodeBaseForm(java.nio.ByteBuffer,byte[],int,java.nio.ByteBuffer,morfologik.stemming.DictionaryMetadata)@g_morfologik-stemming-1.7.0.jar.txt	4
+morfologik/stemming/DictionaryIterator/bytesToChars(java.nio.ByteBuffer,java.nio.CharBuffer)@g_morfologik-stemming-1.7.0.jar.txt	3
+morfologik/stemming/WordData/decode(java.nio.ByteBuffer,java.nio.CharBuffer)@g_morfologik-stemming-1.7.0.jar.txt	2
+morfologik/stemming/DictionaryMetadata/read(java.io.InputStream)@g_morfologik-stemming-2.1.0.jar.txt	0
+morfologik/stemming/Dictionary/readAndClose(java.io.InputStream,java.io.InputStream)@g_morfologik-stemming-1.7.0.jar.txt	1

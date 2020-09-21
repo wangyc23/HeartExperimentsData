@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/Lookup/featureKind(org.eclipse.emf.ecore.EStructuralFeature)@g_typing-1.0.1.jar.txt	3
+anatlyzer/atl/util/ATLSerializer/inOperatorCallExp(anatlyzer.atlext.OCL.OperatorCallExp)@g_typing-1.0.1.jar.txt	1
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/init(org.eclipse.emf.ecore.xmi.XMLResource,java.util.Map)@g_org.eclipse.emf.ecore.xmi-2.9.1.v20130827-0309.jar.txt	2
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/copyIntegerExp(org.eclipse.emf.ecore.EObject)@g_typing-1.0.1.jar.txt	0
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/getURIFragment(org.eclipse.emf.ecore.resource.Resource,org.eclipse.emf.ecore.EObject)@g_typing-1.0.1.jar.txt	4

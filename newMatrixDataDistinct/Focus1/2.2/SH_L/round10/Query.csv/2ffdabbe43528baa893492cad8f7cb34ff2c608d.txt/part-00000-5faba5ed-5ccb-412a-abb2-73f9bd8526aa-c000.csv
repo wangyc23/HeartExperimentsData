@@ -1,0 +1,4 @@
+org/hamcrest/Matchers/is(org.hamcrest.Matcher)
+org/apache/commons/lang/RandomStringUtils/randomNumeric(int)
+org/springframework/data/elasticsearch/entities/SampleEntity/setId(java.lang.String)
+org/springframework/data/elasticsearch/entities/SampleEntity/SampleEntity()

@@ -1,0 +1,5 @@
+org/apache/cxf/transport/http/DestinationRegistryImpl/addDestination(org.apache.cxf.transport.http.AbstractHTTPDestination)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/transport/servlet/AbstractHTTPServlet/finalizeServletInit(javax.servlet.ServletConfig)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/transport/http/Headers/copyFromRequest(javax.servlet.http.HttpServletRequest)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/transport/http/Cookies/handleSetCookie(java.util.List)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	0
+org/apache/cxf/transport/http/Headers/readFromConnection(java.net.HttpURLConnection)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	1

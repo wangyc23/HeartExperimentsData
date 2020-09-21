@@ -1,0 +1,5 @@
+org/neo4j/rest/graphdb/MatrixDatabaseTest/useTrinityIndex()@0ac8775a3eb22431b357399909902640884b318c.txt	1
+org/neo4j/rest/graphdb/RestAPITest/testGetIndexByIndexForNodesCreationViaRestAPI()@0ac8775a3eb22431b357399909902640884b318c.txt	2
+org/neo4j/rest/graphdb/BatchRestAPITest/testAddToIndex()@0ac8775a3eb22431b357399909902640884b318c.txt	4
+org/neo4j/rest/graphdb/MatrixDataGraph/createNodespace()@0ac8775a3eb22431b357399909902640884b318c.txt	0
+org/neo4j/rest/graphdb/RestIndexTest/nodeIndex()@0ac8775a3eb22431b357399909902640884b318c.txt	3

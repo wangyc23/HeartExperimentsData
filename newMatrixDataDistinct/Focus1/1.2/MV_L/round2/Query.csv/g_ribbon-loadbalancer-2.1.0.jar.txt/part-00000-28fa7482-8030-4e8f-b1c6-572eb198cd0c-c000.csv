@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+com/netflix/loadbalancer/ResponseTimeWeightedRule/getLoadBalancer()
+java/lang/Thread/interrupted()
+java/util/Random/nextDouble()

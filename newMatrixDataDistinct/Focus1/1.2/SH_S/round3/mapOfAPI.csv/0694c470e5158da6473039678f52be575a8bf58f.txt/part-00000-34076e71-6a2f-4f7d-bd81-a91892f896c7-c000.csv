@@ -1,0 +1,7 @@
+0	com/sonal/flashcardapp/domain/FcCard/getQuestion()
+1	com/sonal/flashcardapp/domain/FcCard/getAnswer()
+2	com/sonal/flashcardapp/domain/FcCard/getCardId()
+3	com/sonal/flashcardapp/domain/FcCard/getDeckid()
+4	javax/servlet/http/HttpServletResponse/setHeader(java.lang.String,java.lang.String)
+5	javax/servlet/http/HttpServletRequest/getHeader(java.lang.String)
+6	javax/servlet/FilterChain/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse)

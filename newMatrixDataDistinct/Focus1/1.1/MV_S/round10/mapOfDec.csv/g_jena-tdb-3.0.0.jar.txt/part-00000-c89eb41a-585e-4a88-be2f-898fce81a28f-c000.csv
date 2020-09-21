@@ -1,0 +1,5 @@
+org/apache/jena/sparql/expr/nodevalue/XSDFuncOp/round(org.apache.jena.sparql.expr.NodeValue)@g_jena-arq-3.0.0.jar.txt	2
+org/apache/jena/riot/system/IRIResolver/<clinit>()@g_jena-arq-3.0.0.jar.txt	1
+org/apache/jena/sparql/util/Context/getLong(org.apache.jena.sparql.util.Symbol,long)@g_jena-arq-3.0.0.jar.txt	0
+arq/cmdline/ModLangParse/processArgs(jena.cmd.CmdArgModule)@g_jena-arq-3.0.0.jar.txt	4
+org/apache/jena/atlas/json/io/parser/JSONP/parseObject()@g_jena-arq-3.0.0.jar.txt	3

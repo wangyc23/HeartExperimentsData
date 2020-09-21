@@ -1,0 +1,5 @@
+org/bouncycastle/jce/provider/X509CRLObject/toString()@g_bcprov-jdk16-140.jar.txt	3
+org/bouncycastle/ocsp/BasicOCSPResp/getCertList(java.lang.String)@g_bcprov-jdk16-140.jar.txt	0
+org/bouncycastle/jce/provider/JDKPKCS12KeyStore/engineStore(java.io.OutputStream,char[])@g_bcprov-jdk16-140.jar.txt	1
+org/bouncycastle/jce/provider/X509CRLEntryObject/toString()@g_bcprov-jdk16-140.jar.txt	4
+org/bouncycastle/jce/provider/PKCS12BagAttributeCarrierImpl/writeObject(java.io.ObjectOutputStream)@g_bcprov-jdk16-140.jar.txt	2

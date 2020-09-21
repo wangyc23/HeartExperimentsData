@@ -1,0 +1,5 @@
+gate/creole/SerialController/resourceUnloaded(gate.event.CreoleEvent)@g_gate-core-8.1.jar.txt	2
+gate/creole/morph/ParsingFunctions/andFSMs(java.lang.String,java.util.Set,gate.creole.morph.Interpret)@g_gate-core-8.1.jar.txt	4
+gate/gui/docview/AnnotationListView/DeleteAction/actionPerformed(java.awt.event.ActionEvent)@g_gate-core-8.1.jar.txt	3
+gate/gui/SerialControllerEditor/selectPR(int)@g_gate-core-8.1.jar.txt	1
+gate/util/Files/updateXmlElement(java.io.BufferedReader,java.lang.String,java.util.Map)@g_gate-core-8.1.jar.txt	0

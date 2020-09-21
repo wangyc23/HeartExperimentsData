@@ -1,0 +1,5 @@
+org/eclipse/core/internal/boot/PlatformURLConnection/copyToCache()@g_common-3.6.200-v20130402-1505.jar.txt	2
+org/eclipse/core/internal/boot/PlatformURLConnection/copyToCache()@g_org.eclipse.equinox.common-3.6.0.jar.txt	4
+org/eclipse/core/runtime/PluginVersionIdentifier/parseVersion(java.lang.String)@g_org.eclipse.equinox.common-3.6.0.jar.txt	1
+org/eclipse/core/runtime/PluginVersionIdentifier/parseVersion(java.lang.String)@g_common-3.6.200-v20130402-1505.jar.txt	0
+org/eclipse/core/internal/boot/PlatformURLHandler/openConnection(java.net.URL)@g_common-3.6.200-v20130402-1505.jar.txt	3

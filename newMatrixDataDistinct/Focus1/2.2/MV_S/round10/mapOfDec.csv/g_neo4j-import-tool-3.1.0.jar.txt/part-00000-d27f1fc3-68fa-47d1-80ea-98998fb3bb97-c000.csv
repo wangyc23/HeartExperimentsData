@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/SisterAnnotationStats/printStats()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/maxent/iis/LambdaSolve/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/semgraph/semgrex/SemgrexPattern/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/trees/CollocationFinder/getMangledTree(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/nndep/DependencyParser/genTrainExamples(java.util.List,java.util.List)@g_stanford-parser-3.5.2.jar.txt	2

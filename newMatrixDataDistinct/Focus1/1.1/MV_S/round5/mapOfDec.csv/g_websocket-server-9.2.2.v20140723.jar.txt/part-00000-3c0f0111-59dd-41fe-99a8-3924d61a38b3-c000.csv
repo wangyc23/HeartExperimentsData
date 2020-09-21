@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/handler/gzip/GzipHttpOutputInterceptor/commit(java.nio.ByteBuffer,boolean,org.eclipse.jetty.util.Callback)@g_jetty-server-9.4.5.v20170502.jar.txt	2
+org/eclipse/jetty/server/CachedContentFactory/CachedHttpContent/getPrecompressedContents()@g_jetty-server-9.4.5.v20170502.jar.txt	1
+org/eclipse/jetty/server/handler/ResourceHandler/getResource(java.lang.String)@g_jetty-server-9.4.5.v20170502.jar.txt	3
+org/eclipse/jetty/server/Server/doStop()@g_jetty-server-9.4.5.v20170502.jar.txt	0
+org/eclipse/jetty/server/Request/getParts(org.eclipse.jetty.util.MultiMap)@g_jetty-server-9.4.5.v20170502.jar.txt	4

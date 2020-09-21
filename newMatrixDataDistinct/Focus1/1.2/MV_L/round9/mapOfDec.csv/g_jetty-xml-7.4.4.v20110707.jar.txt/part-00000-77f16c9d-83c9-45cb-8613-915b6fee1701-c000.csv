@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/handler/ContextHandlerCollection/mapContexts()@g_jetty-server-7.4.4.v20110707.jar.txt	1
+org/eclipse/jetty/server/ResourceCache/getDirectBuffer(org.eclipse.jetty.util.resource.Resource)@g_jetty-server-7.4.4.v20110707.jar.txt	3
+org/eclipse/jetty/server/session/AbstractSessionManager/Session/setAttribute(java.lang.String,java.lang.Object)@g_jetty-server-7.4.4.v20110707.jar.txt	0
+org/eclipse/jetty/server/ResourceCache/getIndirectBuffer(org.eclipse.jetty.util.resource.Resource)@g_jetty-server-7.4.4.v20110707.jar.txt	4
+org/eclipse/jetty/server/HttpConnection/handleRequest()@g_jetty-server-7.4.4.v20110707.jar.txt	2

@@ -1,0 +1,5 @@
+org/codehaus/plexus/components/io/resources/PlexusIoCompressedFileResourceCollection/getResources()@g_plexus-compiler-api-1.5.3.jar.txt	3
+org/apache/maven/tools/plugin/extractor/AbstractScriptedMojoDescriptorExtractor/gatherFilesByBasedir(java.io.File,java.util.List,java.lang.String,org.apache.maven.tools.plugin.PluginToolsRequest)@g_plexus-compiler-api-1.5.3.jar.txt	1
+org/codehaus/plexus/compiler/util/scan/mapping/SuffixMapping/getTargetFiles(java.io.File,java.lang.String)@g_plexus-compiler-api-1.5.3.jar.txt	0
+org/codehaus/plexus/compiler/util/scan/AbstractSourceInclusionScanner/scanForSources(java.io.File,java.util.Set,java.util.Set)@g_plexus-compiler-api-1.5.3.jar.txt	2
+org/apache/maven/tools/plugin/extractor/AbstractScriptedMojoDescriptorExtractor/copyScriptsToOutputDirectory(java.util.Map,java.lang.String,org.apache.maven.tools.plugin.PluginToolsRequest)@g_plexus-compiler-api-1.5.3.jar.txt	4

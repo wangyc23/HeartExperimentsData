@@ -1,0 +1,5 @@
+org/languagetool/rules/de/CaseRule/hasNounReading(org.languagetool.AnalyzedTokenReadings)@g_language-uk-3.0.jar.txt	2
+org/languagetool/rules/de/AgreementRule/match(org.languagetool.AnalyzedSentence)@g_language-uk-3.0.jar.txt	4
+org/languagetool/synthesis/ca/CatalanSynthesizer/synthesize(org.languagetool.AnalyzedToken,java.lang.String,boolean)@g_language-uk-3.0.jar.txt	1
+org/languagetool/tagging/uk/CompoundTagger/oAdjMatch(java.lang.String,java.util.List,java.lang.String)@g_language-uk-3.0.jar.txt	3
+org/languagetool/rules/ca/AccentuationCheckRule/match(org.languagetool.AnalyzedSentence)@g_language-uk-3.0.jar.txt	0

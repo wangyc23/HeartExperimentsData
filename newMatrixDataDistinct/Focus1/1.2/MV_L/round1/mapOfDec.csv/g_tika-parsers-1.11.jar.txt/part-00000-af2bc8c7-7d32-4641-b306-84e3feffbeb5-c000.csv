@@ -1,0 +1,5 @@
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleEmbeddedPart(org.apache.poi.openxml4j.opc.PackagePart,org.apache.poi.openxml4j.opc.PackageRelationship,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,java.util.Set)@g_tika-parsers-1.17.jar.txt	1
+org/apache/tika/parser/microsoft/ooxml/OOXMLExtractorFactory/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.17.jar.txt	2
+org/apache/tika/parser/ocr/TesseractOCRParser/doOCR(java.io.File,java.io.File,org.apache.tika.parser.ocr.TesseractOCRConfig)@g_tika-parsers-1.17.jar.txt	4
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleEmbeddedParts(org.xml.sax.ContentHandler)@g_tika-parsers-1.7.jar.txt	0
+org/apache/tika/parser/microsoft/EMFParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.17.jar.txt	3

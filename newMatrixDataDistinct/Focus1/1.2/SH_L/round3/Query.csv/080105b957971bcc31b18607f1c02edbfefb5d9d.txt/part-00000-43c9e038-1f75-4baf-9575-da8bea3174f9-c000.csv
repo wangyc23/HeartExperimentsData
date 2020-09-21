@@ -1,0 +1,4 @@
+java/sql/Connection/prepareStatement(java.lang.String)
+java/lang/Throwable/printStackTrace()
+java/sql/PreparedStatement/execute()
+com/andy/Util/Temperature/temperature()

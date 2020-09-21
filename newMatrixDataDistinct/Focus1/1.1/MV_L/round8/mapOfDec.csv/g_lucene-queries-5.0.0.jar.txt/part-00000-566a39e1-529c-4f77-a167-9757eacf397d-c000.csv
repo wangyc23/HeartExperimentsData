@@ -1,0 +1,5 @@
+org/apache/lucene/queries/mlt/MoreLikeThis/retrieveTerms(java.util.Map)@g_lucene-queries-5.5.0.jar.txt	1
+org/apache/lucene/queries/CommonTermsQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-queries-5.3.1.jar.txt	3
+org/apache/lucene/queries/mlt/MoreLikeThis/retrieveTerms(java.util.Map)@g_lucene-queries-5.3.1.jar.txt	0
+org/apache/lucene/queries/function/valuesource/TermFreqValueSource/1/intVal(int)@g_lucene-queries-5.3.1.jar.txt	4
+org/apache/lucene/queries/function/BoostedQuery/CustomScorer/explain(int)@g_lucene-queries-5.3.1.jar.txt	2

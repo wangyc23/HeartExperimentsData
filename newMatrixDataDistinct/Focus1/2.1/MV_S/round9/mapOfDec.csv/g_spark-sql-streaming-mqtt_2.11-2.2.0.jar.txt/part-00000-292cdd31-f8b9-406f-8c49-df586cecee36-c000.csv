@@ -1,0 +1,5 @@
+org/apache/spark/sql/execution/command/LoadDataCommand/run(org.apache.spark.sql.SparkSession)@g_spark-sql_2.11-2.2.0.jar.txt	3
+org/apache/spark/sql/execution/streaming/ProgressReporter/class/finishTrigger(org.apache.spark.sql.execution.streaming.ProgressReporter,boolean)@g_spark-sql_2.11-2.2.0.jar.txt	1
+org/apache/spark/sql/execution/streaming/StreamExecution/anonfun/org/apache/spark/sql/execution/streaming/StreamExecution/populateStartOffsets/2/apply(org.apache.spark.sql.execution.streaming.OffsetSeqMetadata)@g_spark-sql_2.11-2.2.0.jar.txt	0
+org/apache/spark/sql/execution/command/ViewHelper/generateQueryColumnNames(scala.collection.Seq)@g_spark-sql_2.11-2.2.0.jar.txt	4
+org/apache/spark/sql/execution/joins/SortMergeJoinExec/anonfun/createLeftVars/1/apply(scala.Tuple2)@g_spark-sql_2.11-2.2.0.jar.txt	2

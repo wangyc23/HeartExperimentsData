@@ -1,0 +1,5 @@
+org/apache/hadoop/metrics2/impl/MetricsSinkAdapter/publishMetricsFromQueue()@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/metrics2/sink/ganglia/AbstractGangliaSink/loadGangliaConf(org.apache.hadoop.metrics2.sink.ganglia.AbstractGangliaSink$GangliaConfType)@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/util/ShutdownHookManager/1/run()@g_hadoop-common-2.6.0.jar.txt	3
+org/apache/hadoop/http/HttpServer/addFilter(java.lang.String,java.lang.String,java.util.Map)@g_hadoop-common-2.6.0.jar.txt	4
+org/apache/hadoop/ipc/Server/ConnectionManager/register(java.nio.channels.SocketChannel)@g_hadoop-common-2.6.0.jar.txt	1

@@ -1,0 +1,4 @@
+java/util/ArrayList/isEmpty()
+org/eclipse/jgit/merge/RecursiveMerger/openTree(org.eclipse.jgit.lib.AnyObjectId)
+org/eclipse/jgit/merge/RecursiveMerger/mergeTrees(org.eclipse.jgit.treewalk.AbstractTreeIterator,org.eclipse.jgit.revwalk.RevTree,org.eclipse.jgit.revwalk.RevTree,boolean)
+java/util/List/add(java.lang.Object)

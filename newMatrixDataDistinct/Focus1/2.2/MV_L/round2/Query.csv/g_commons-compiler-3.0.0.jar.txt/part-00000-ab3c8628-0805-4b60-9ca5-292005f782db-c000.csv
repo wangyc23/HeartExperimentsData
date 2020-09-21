@@ -1,0 +1,4 @@
+java/lang/String/valueOf(java.lang.Object)
+org/codehaus/commons/compiler/IExpressionEvaluator/setParameters(java.lang.String[],java.lang.Class[])
+java/lang/System/exit(int)
+java/lang/StringBuilder/StringBuilder()

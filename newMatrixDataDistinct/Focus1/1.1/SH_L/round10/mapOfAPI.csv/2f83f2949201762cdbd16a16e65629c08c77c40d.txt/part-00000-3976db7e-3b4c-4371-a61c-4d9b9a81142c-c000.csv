@@ -1,0 +1,7 @@
+0	protocol/protobuf/CanalEntry/Pair/getUnknownFields()
+1	java/util/Collections/unmodifiableList(java.util.List)
+2	protocol/protobuf/CanalEntry/Header/Builder/create()
+3	java/lang/Boolean/equals(java.lang.Object)
+4	protocol/protobuf/CanalEntry/Pair/hasValue()
+5	protocol/protobuf/CanalEntry/Pair/getDefaultInstance()
+6	protocol/protobuf/CanalEntry/Pair/hasKey()

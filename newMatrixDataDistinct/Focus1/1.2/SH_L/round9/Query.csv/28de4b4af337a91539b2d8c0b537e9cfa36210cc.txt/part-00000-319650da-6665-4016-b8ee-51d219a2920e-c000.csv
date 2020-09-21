@@ -1,0 +1,4 @@
+org/springframework/integration/gemfire/store/KeyValueMessageGroup/KeyValueMessageGroup(java.lang.Object)
+org/springframework/integration/gemfire/store/KeyValueMessageGroupStore/ensureMessageGroupHasReferencesToRegions(org.springframework.integration.gemfire.store.KeyValueMessageGroup)
+java/util/Map/get(java.lang.Object)
+java/util/Map/containsKey(java.lang.Object)

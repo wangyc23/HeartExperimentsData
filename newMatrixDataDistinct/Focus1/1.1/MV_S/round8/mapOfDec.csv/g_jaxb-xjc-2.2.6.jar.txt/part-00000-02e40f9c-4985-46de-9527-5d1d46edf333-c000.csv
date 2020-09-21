@@ -1,0 +1,5 @@
+com/sun/tools/jxc/model/nav/ApNavigator/3/visitDeclared(javax.lang.model.type.DeclaredType,javax.lang.model.element.TypeElement)@g_resolver-20050927.jar.txt	4
+com/sun/tools/xjc/reader/internalizer/DOMForest/dump(java.io.OutputStream)@g_resolver-20050927.jar.txt	3
+com/sun/codemodel/TypedAnnotationWriter/addArrayValue(java.lang.Object,java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_codemodel-2.6.jar.txt	1
+com/sun/tools/xjc/reader/xmlschema/ct/MixedExtendedComplexTypeBuilder/build(com.sun.xml.xsom.XSComplexType)@g_resolver-20050927.jar.txt	2
+com/sun/codemodel/JCodeModel/<clinit>()@g_codemodel-2.6.jar.txt	0

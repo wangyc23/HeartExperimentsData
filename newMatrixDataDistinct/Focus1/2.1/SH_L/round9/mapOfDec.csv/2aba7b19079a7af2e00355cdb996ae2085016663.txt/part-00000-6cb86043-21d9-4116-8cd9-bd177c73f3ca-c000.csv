@@ -1,0 +1,5 @@
+mapreduce/ImportFromFile/ImportMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	4
+mapreduce/ParseJson/ParseMapper/map(org.apache.hadoop.hbase.io.ImmutableBytesWritable,org.apache.hadoop.hbase.client.Result,org.apache.hadoop.mapreduce.Mapper.Context)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	2
+mapreduce/ParseJsonMulti/ParseMapper/map(org.apache.hadoop.hbase.io.ImmutableBytesWritable,org.apache.hadoop.hbase.client.Result,org.apache.hadoop.mapreduce.Mapper.Context)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	3
+mapreduce/ImportJsonFromFile/ImportMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	1
+adressexecutor/AdressAPI/main(java.lang.String[])@1e53477fec378843176330243c4bbbdb217a4b3e.txt	0

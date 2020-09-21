@@ -1,0 +1,5 @@
+org/htmlcleaner/HtmlTokenizer/comment()@g_json-simple-1.1.1.jar.txt	2
+org/json/simple/JSONObject/writeJSONString(java.util.Map,java.io.Writer)@g_json-simple-1.1.1.jar.txt	1
+org/htmlcleaner/PrettyXmlSerializer/serializePrettyXml(org.htmlcleaner.TagNode,java.io.Writer,int)@g_json-simple-1.1.1.jar.txt	3
+org/htmlcleaner/TagTransformation/evaluateTemplate(java.lang.String,java.util.Map)@g_json-simple-1.1.1.jar.txt	0
+org/json/simple/JSONObject/toJSONString(java.util.Map)@g_json-simple-1.1.1.jar.txt	4

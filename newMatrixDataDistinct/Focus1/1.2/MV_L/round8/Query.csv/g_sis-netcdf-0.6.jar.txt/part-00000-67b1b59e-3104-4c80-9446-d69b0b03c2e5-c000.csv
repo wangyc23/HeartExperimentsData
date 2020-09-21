@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/sis/util/resources/Errors/getString(short,java.lang.Object)
+org/apache/sis/internal/storage/ChannelDataInput/ensureBufferContains(int)
+org/apache/sis/storage/DataStoreException/DataStoreException(java.lang.String)

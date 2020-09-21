@@ -1,0 +1,5 @@
+org/glassfish/jersey/message/internal/NounInflector/Replacer/replacement(java.lang.String)@g_jersey-common-2.5.1.jar.txt	3
+org/glassfish/jersey/uri/PatternWithGroups/match(java.lang.CharSequence,java.util.List,java.util.Map)@g_jersey-common-2.5.1.jar.txt	0
+org/glassfish/jersey/uri/UriTemplate/createURI(java.util.Map)@g_jersey-common-2.5.1.jar.txt	2
+org/glassfish/jersey/uri/UriTemplate/createURIComponent(org.glassfish.jersey.uri.UriComponent$Type,java.lang.String,java.lang.String[],int,boolean,java.util.Map,java.lang.StringBuilder)@g_jersey-common-2.5.1.jar.txt	4
+org/glassfish/jersey/uri/UriTemplate/createURI(java.lang.String[],int,int)@g_jersey-common-2.5.1.jar.txt	1

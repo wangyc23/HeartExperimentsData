@@ -1,0 +1,5 @@
+org/apache/lucene/index/CheckIndex/checkIndex(java.util.List)@g_lucene-core-4.3.1.jar.txt	4
+org/apache/lucene/search/FieldCacheImpl/Cache/printNewInsanity(java.io.PrintStream,java.lang.Object)@g_lucene-core-4.5.0.jar.txt	1
+org/apache/lucene/util/FieldCacheSanityChecker/check(org.apache.lucene.search.FieldCache$CacheEntry[])@g_lucene-core-4.3.1.jar.txt	2
+org/apache/lucene/search/FieldCacheImpl/Cache/printNewInsanity(java.io.PrintStream,java.lang.Object)@g_lucene-core-4.3.1.jar.txt	0
+org/apache/lucene/index/CheckIndex/main(java.lang.String[])@g_lucene-core-4.3.1.jar.txt	3

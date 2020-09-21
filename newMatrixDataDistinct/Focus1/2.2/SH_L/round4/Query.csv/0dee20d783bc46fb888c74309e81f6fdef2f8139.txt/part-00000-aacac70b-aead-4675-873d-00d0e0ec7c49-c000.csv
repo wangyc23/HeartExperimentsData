@@ -1,0 +1,4 @@
+com/salesforce/keystone/roadrunner/RoadRunnerMessage/hasTrailer()
+com/salesforce/keystone/coyote/netty/handler/stream/NettyRoadRunnerMessage/getChunkSize()
+com/salesforce/keystone/coyote/netty/handler/stream/NettyTrailerAccessor/NettyTrailerAccessor(com.salesforce.keystone.coyote.netty.handler.stream.NettyRoadRunnerMessage,int)
+com/salesforce/keystone/coyote/rpc/protobuf/StreamCarryingRpcController/setInboundTrailer(com.salesforce.keystone.coyote.netty.handler.stream.TrailerAccessorInterface)

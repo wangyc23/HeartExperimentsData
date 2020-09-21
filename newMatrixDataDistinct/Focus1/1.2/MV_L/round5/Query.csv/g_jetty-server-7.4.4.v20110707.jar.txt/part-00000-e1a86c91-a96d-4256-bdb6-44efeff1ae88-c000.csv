@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/URIUtil/canonicalPath(java.lang.String)
+org/eclipse/jetty/util/URIUtil/addPaths(java.lang.String,java.lang.String)
+org/eclipse/jetty/util/log/Log/ignore(java.lang.Throwable)
+java/lang/String/substring(int,int)

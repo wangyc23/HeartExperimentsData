@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String)
+com/fasterxml/jackson/databind/JsonNode/asText()
+java/util/ArrayList/ArrayList()
+java/net/URL/URL(java.net.URL,java.lang.String)

@@ -1,0 +1,5 @@
+org/springframework/data/repository/core/support/RepositoryFactorySupport/getRepository(java.lang.Class,java.lang.Object)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	2
+org/springframework/data/mapping/PropertyPath/from(java.lang.String,org.springframework.data.util.TypeInformation)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	0
+org/springframework/data/repository/init/JacksonResourceReader/readFrom(org.springframework.core.io.Resource,java.lang.ClassLoader)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	4
+org/springframework/data/domain/jaxb/SpringDataJaxb/unmarshal(java.util.Collection,javax.xml.bind.annotation.adapters.XmlAdapter)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	3
+org/springframework/data/repository/config/RepositoryBeanDefinitionRegistrarSupport/registerBeanDefinitions(org.springframework.core.type.AnnotationMetadata,org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	1

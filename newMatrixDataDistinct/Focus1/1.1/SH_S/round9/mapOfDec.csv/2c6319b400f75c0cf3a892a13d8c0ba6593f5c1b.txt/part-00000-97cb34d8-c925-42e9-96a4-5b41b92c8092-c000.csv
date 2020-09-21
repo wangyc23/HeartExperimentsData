@@ -1,0 +1,5 @@
+org/springside/examples/quickstart/functional/BaseFunctionalTestCase/buildDataSourceOnce()@0595196613f9786688516e6c79e2a23cbd37f5b1.txt	2
+org/ng12306/web/system/functional/gui/SecurityFT/anonymousUserAccessSystem()@0595196613f9786688516e6c79e2a23cbd37f5b1.txt	0
+org/ng12306/web/system/web/account/ProfileController/updateCurrentUserName(java.lang.String)@0595196613f9786688516e6c79e2a23cbd37f5b1.txt	4
+org/springside/examples/quickstart/web/account/UserAdminController/getUser(java.lang.Long,org.springframework.ui.Model)@0595196613f9786688516e6c79e2a23cbd37f5b1.txt	1
+org/springside/examples/quickstart/rest/TaskRestController/delete(java.lang.Long)@0595196613f9786688516e6c79e2a23cbd37f5b1.txt	3

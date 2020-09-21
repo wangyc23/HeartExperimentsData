@@ -1,0 +1,4 @@
+com/sun/xml/xsom/XSAttributeDecl/getTargetNamespace()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuffer/toString()
+java/lang/StringBuilder/StringBuilder()

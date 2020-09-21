@@ -1,0 +1,5 @@
+org/springframework/web/jsf/el/WebApplicationContextFacesELResolver/getValue(javax.el.ELContext,java.lang.Object,java.lang.Object)@g_spring-2.5.6.jar.txt	3
+org/springframework/orm/jpa/ExtendedEntityManagerCreator/ExtendedEntityManagerInvocationHandler/doJoinTransaction(boolean)@g_spring-2.5.6.jar.txt	2
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	1
+org/springframework/orm/jpa/LocalContainerEntityManagerFactoryBean/createNativeEntityManagerFactory()@g_spring-2.5.6.jar.txt	4
+org/springframework/jdbc/support/DatabaseStartupValidator/afterPropertiesSet()@g_spring-jdbc-4.2.5.RELEASE.jar.txt	0

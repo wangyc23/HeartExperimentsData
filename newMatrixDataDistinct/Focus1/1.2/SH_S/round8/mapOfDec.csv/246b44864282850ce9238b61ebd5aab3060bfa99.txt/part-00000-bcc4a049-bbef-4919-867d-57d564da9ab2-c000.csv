@@ -1,0 +1,5 @@
+org/feuyeux/restful/domain/Book/toString()@0c53e5b6b40842c764f381571e26da1110a7f822.txt	3
+com/example/com/example/resource/MyResource/getIt()@0c53e5b6b40842c764f381571e26da1110a7f822.txt	0
+com/example/annotation/param/PathResource/getByAddress(java.util.List,java.lang.String)@0c53e5b6b40842c764f381571e26da1110a7f822.txt	2
+com/example/annotation/param/PathResource/getByCondition3(com.example.annotation.param.PathSegment)@0c53e5b6b40842c764f381571e26da1110a7f822.txt	1
+com/example/response/InResource/postChars(java.io.Reader)@0c53e5b6b40842c764f381571e26da1110a7f822.txt	4

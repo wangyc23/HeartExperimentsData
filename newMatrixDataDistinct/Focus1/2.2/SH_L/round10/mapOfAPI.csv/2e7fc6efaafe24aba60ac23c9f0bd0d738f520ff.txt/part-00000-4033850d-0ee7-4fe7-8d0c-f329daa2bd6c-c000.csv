@@ -1,0 +1,4 @@
+0	us/codecraft/webmagic/selector/Selectable/xpath(java.lang.String)
+1	us/codecraft/webmagic/selector/Selectable/links()
+2	us/codecraft/webmagic/selector/Selectable/all()
+3	us/codecraft/webmagic/Page/getHtml()

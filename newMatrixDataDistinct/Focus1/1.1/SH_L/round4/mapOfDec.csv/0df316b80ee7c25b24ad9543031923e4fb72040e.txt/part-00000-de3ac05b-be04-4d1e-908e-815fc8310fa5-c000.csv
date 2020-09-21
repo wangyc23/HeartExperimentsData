@@ -1,0 +1,5 @@
+pl/pwr/news/service/user/UserServiceImpl/login(java.lang.String,java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+pl/pwr/news/service/user/UserServiceImpl/register(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1
+pl/pwr/news/config/SecurityConfiguration/configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2
+pl/pwr/news/service/user/UserServiceImpl/createUserFromForm(pl.pwr.news.webapp.controller.user.form.RegisterRequestBody)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	0
+yb/upc/edu/cn/controller/AdminController/delete(int)@2f8b7296fab8e44acbec1e360762c0d26d536306.txt	4

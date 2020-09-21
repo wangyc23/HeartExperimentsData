@@ -1,0 +1,4 @@
+org/json4s/scalap/scalasig/ClassFileParser$$anonfun$element_value$1$$anonfun$apply$25/25(org.json4s.scalap.scalasig.ClassFileParser$$anonfun$element_value$1,org.json4s.scalap.SeqRule)
+org/json4s/scalap/scalasig/ClassFileParser$/element_value()
+org/json4s/scalap/scalasig/ClassFileParser$/seqRule(org.json4s.scalap.Rule)
+scala/runtime/BoxesRunTime/boxToInteger(int)

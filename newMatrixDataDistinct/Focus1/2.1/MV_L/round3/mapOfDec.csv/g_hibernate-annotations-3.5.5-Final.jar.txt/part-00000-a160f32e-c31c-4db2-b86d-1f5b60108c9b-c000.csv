@@ -1,0 +1,5 @@
+org/hibernate/cfg/annotations/reflection/JPAOverriddenAnnotationReader/bindNamedAttributeNodes(org.dom4j.Element,org.hibernate.annotations.common.annotationfactory.AnnotationDescriptor)@g_hibernate-core-4.3.5.Final.jar.txt	1
+org/hibernate/mapping/DenormalizedTable/getIndexIterator()@g_hibernate-core-4.3.5.Final.jar.txt	3
+org/hibernate/metamodel/source/annotations/xml/mocker/DefaultConfigurationHelper/addCascadePersistIfNotExist(org.jboss.jandex.DotName,java.util.Map)@g_hibernate-core-4.3.5.Final.jar.txt	2
+org/hibernate/cfg/annotations/reflection/JPAOverriddenAnnotationReader/getSecondaryTables(org.dom4j.Element,org.hibernate.cfg.annotations.reflection.XMLContext$Default)@g_hibernate-core-4.3.5.Final.jar.txt	4
+org/hibernate/collection/internal/PersistentBag/getDeletes(org.hibernate.persister.collection.CollectionPersister,boolean)@g_hibernate-core-4.3.5.Final.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/xerces/xpointer/XPointerHandler/parseXPointer(java.lang.String)@g_xercesImpl-2.8.0.jar.txt	2
+org/apache/xerces/util/DOMUtil/copyInto(org.w3c.dom.Node,org.w3c.dom.Node)@g_xercesImpl-2.8.0.jar.txt	0
+org/apache/xml/serialize/XML11Serializer/printCDATAText(java.lang.String)@g_xercesImpl-2.8.0.jar.txt	3
+org/apache/xerces/impl/msg/XMLMessageFormatter/formatMessage(java.util.Locale,java.lang.String,java.lang.Object[])@g_xercesImpl-2.8.0.jar.txt	1
+org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl/getActualValue(java.lang.Object,org.apache.xerces.impl.dv.ValidationContext,org.apache.xerces.impl.dv.ValidatedInfo,boolean)@g_xercesImpl-2.8.0.jar.txt	4

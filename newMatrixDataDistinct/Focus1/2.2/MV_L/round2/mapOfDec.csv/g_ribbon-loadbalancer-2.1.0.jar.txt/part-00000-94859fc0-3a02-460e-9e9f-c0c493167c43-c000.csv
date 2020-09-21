@@ -1,0 +1,5 @@
+com/netflix/loadbalancer/ResponseTimeWeightedRule/ServerWeight/maintainWeights()@g_ribbon-loadbalancer-2.0.2.jar.txt	2
+com/netflix/loadbalancer/WeightedResponseTimeRule/ServerWeight/maintainWeights()@g_ribbon-loadbalancer-2.0.0.jar.txt	1
+com/netflix/loadbalancer/BaseLoadBalancer/setServersList(java.util.List)@g_ribbon-loadbalancer-2.0.2.jar.txt	4
+com/netflix/loadbalancer/WeightedResponseTimeRule/ServerWeight/maintainWeights()@g_ribbon-loadbalancer-2.0.2.jar.txt	0
+com/netflix/loadbalancer/ResponseTimeWeightedRule/ServerWeight/maintainWeights()@g_ribbon-loadbalancer-2.0.0.jar.txt	3

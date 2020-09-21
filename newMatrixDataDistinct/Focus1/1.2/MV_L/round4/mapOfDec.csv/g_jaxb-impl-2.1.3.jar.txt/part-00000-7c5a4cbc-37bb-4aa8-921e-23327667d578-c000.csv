@@ -1,0 +1,5 @@
+com/sun/xml/bind/v2/schemagen/Tree/makeGroup(com.sun.xml.bind.v2.schemagen.GroupKind,java.util.List)@g_jaxb-impl-2.2.3-1.jar.txt	1
+com/sun/xml/bind/v2/schemagen/XmlSchemaGenerator/Namespace/writeTo(javax.xml.transform.Result,java.util.Map)@g_jaxb-impl-2.2.2.jar.txt	4
+com/sun/xml/bind/v2/model/impl/RuntimeBuiltinLeafInfoImpl/<clinit>()@g_jaxb-impl-2.2.2.jar.txt	3
+com/sun/xml/bind/v2/schemagen/Tree/makeGroup(com.sun.xml.bind.v2.schemagen.GroupKind,java.util.List)@g_jaxb-impl-2.2.2.jar.txt	0
+com/sun/xml/bind/v2/schemagen/XmlSchemaGenerator/Namespace/handleElementProp(com.sun.xml.bind.v2.model.core.ElementPropertyInfo)@g_jaxb-impl-2.2.2.jar.txt	2

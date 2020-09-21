@@ -1,0 +1,4 @@
+java/nio/CharBuffer/get()
+java/nio/CharBuffer/hasRemaining()
+java/nio/CharBuffer/wrap(java.lang.CharSequence)
+java/lang/String/length()

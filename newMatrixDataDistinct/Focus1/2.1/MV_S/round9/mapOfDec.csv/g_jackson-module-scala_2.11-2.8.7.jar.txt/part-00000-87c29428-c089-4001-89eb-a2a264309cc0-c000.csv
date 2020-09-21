@@ -1,0 +1,5 @@
+com/fasterxml/jackson/module/scala/deser/SortedSetDeserializer/lookupBuilder(java.lang.String)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	2
+com/fasterxml/jackson/module/scala/introspect/BeanIntrospector/apply(java.lang.Class)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	1
+org/neo4j/cypher/internal/compiler/v1_9/executionplan/builders/SortingPreparations/anonfun/5/apply(org.neo4j.cypher.internal.compiler.v1_9.executionplan.builders.QueryToken)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	0
+com/fasterxml/jackson/module/scala/deser/TupleDeserializer/createContextual(com.fasterxml.jackson.databind.DeserializationContext,com.fasterxml.jackson.databind.BeanProperty)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	3
+scala/xml/factory/NodeFactory/class/makeNode(scala.xml.factory.NodeFactory,java.lang.String,java.lang.String,scala.xml.MetaData,scala.xml.NamespaceBinding,scala.collection.Seq)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	4

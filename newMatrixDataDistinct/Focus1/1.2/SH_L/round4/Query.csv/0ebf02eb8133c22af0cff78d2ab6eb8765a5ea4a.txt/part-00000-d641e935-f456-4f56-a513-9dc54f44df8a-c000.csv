@@ -1,0 +1,4 @@
+org/apache/parquet/hadoop/metadata/ColumnChunkMetaData/getStatistics()
+org/apache/parquet/hadoop/metadata/ColumnChunkMetaData/getStartingPos()
+org/apache/parquet/hadoop/metadata/BlockMetaData/getRowCount()
+java/lang/String/format(java.lang.String,java.lang.Object[])

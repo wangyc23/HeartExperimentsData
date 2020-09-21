@@ -1,0 +1,5 @@
+com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier/updateProperties(com.fasterxml.jackson.databind.DeserializationConfig,com.fasterxml.jackson.databind.BeanDescription,java.util.List)@g_jackson-dataformat-yaml-2.8.6.jar.txt	2
+org/codehaus/stax2/ri/typed/ValueDecoderFactory/LongDecoder/parseUsingBD(java.lang.String,boolean)@g_jackson-dataformat-yaml-2.8.6.jar.txt	0
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanPropertyWriter/serializeAsField(java.lang.Object,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_jackson-dataformat-yaml-2.8.6.jar.txt	1
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/serializeValue(com.fasterxml.jackson.core.JsonGenerator,java.lang.Object,com.fasterxml.jackson.databind.JavaType)@g_jackson-dataformat-yaml-2.8.6.jar.txt	3
+com/fasterxml/jackson/dataformat/yaml/YAMLParser/_decodeScalar(org.yaml.snakeyaml.events.ScalarEvent)@g_jackson-dataformat-yaml-2.8.6.jar.txt	4

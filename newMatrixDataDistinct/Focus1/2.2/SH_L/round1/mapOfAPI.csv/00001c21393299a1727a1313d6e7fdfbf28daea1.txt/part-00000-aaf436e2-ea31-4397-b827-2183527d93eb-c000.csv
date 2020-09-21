@@ -1,0 +1,5 @@
+0	com/doume/max/entity/Credit/getValue()
+1	com/doume/max/entity/Credit/getBuyerId()
+2	java/lang/Long/equals(java.lang.Object)
+3	java/lang/Object/equals(java.lang.Object)
+4	com/sonal/flashcardapp/daoI/FcCardDAO/deleteCard(int)

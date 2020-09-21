@@ -1,0 +1,5 @@
+org/springframework/core/Constants/getValues(java.lang.String)@g_spring-core-4.2.6.RELEASE.jar.txt	1
+org/springframework/util/xml/StaxStreamXMLReader/handleStartElement()@g_spring-core-4.2.6.RELEASE.jar.txt	0
+org/springframework/util/xml/DomContentHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_spring-core-4.2.6.RELEASE.jar.txt	2
+org/springframework/util/AntPathMatcher/AntPatternComparator/compare(java.lang.String,java.lang.String)@g_spring-core-4.2.6.RELEASE.jar.txt	4
+com/univocity/parsers/common/processor/core/AbstractBeanConversionProcessor/validateMappings()@g_spring-core-4.2.6.RELEASE.jar.txt	3

@@ -1,0 +1,5 @@
+ognl/OgnlRuntime/getPermission(java.lang.reflect.Method)@g_jurt-3.2.1.jar.txt	3
+com/sun/star/comp/connections/Implementation/getConnectionService(com.sun.star.lang.XMultiServiceFactory,java.lang.String,java.lang.Class,java.lang.String)@g_jurt-3.2.1.jar.txt	1
+ognl/OgnlRuntime/<clinit>()@g_jurt-3.2.1.jar.txt	4
+com/sun/star/comp/loader/JavaLoader/activate(java.lang.String,java.lang.String,java.lang.String,com.sun.star.registry.XRegistryKey)@g_jurt-3.2.1.jar.txt	0
+com/sun/star/lib/uno/protocols/urp/urp/writeRequest(boolean,java.lang.String,com.sun.star.lib.uno.typedesc.TypeDescription,com.sun.star.uno.IMethodDescription,com.sun.star.lib.uno.environments.remote.ThreadId,java.lang.Object[],boolean)@g_jurt-3.2.1.jar.txt	2

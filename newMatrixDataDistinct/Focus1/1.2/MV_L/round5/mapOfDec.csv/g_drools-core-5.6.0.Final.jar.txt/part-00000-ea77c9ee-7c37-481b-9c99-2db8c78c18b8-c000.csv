@@ -1,0 +1,5 @@
+org/drools/factmodel/traits/TraitMapPropertyWrapperClassBuilderImpl/invokeContainsKey(org.mvel2.asm.MethodVisitor,java.lang.String)@g_drools-core-5.5.0.Final.jar.txt	1
+org/drools/factmodel/traits/TraitCoreWrapperClassBuilderImpl/buildClass(org.drools.factmodel.ClassDefinition)@g_drools-core-5.5.0.Final.jar.txt	3
+org/drools/factmodel/traits/TraitMapProxyClassBuilderImpl/buildKeyedEquals(org.mvel2.asm.ClassVisitor,org.drools.factmodel.ClassDefinition,java.lang.String)@g_drools-core-5.5.0.Final.jar.txt	4
+org/drools/factmodel/traits/TraitMapProxyClassBuilderImpl/buildEqualityMethods(org.mvel2.asm.ClassVisitor,java.lang.String,java.lang.String)@g_drools-core-5.5.0.Final.jar.txt	2
+org/drools/factmodel/traits/TraitMapPropertyWrapperClassBuilderImpl/invokeGet(org.mvel2.asm.MethodVisitor,java.lang.String,org.drools.factmodel.ClassDefinition,java.lang.String,org.drools.factmodel.FieldDefinition)@g_drools-core-5.5.0.Final.jar.txt	0

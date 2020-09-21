@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/client/spec/ClientImpl/WebTargetImpl/request()@g_cxf-rt-rs-client-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/provider/JAXBElementProvider/marshalCollectionMember(java.lang.Object,java.lang.Class,java.lang.reflect.Type,java.lang.String,java.io.OutputStream,javax.ws.rs.core.MediaType,java.lang.String)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/jaxrs/client/ClientProxyImpl/getPathParamValues(java.lang.reflect.Method,java.lang.Object[],javax.ws.rs.core.MultivaluedMap,java.util.List,org.apache.cxf.jaxrs.model.OperationResourceInfo,int)@g_cxf-rt-rs-client-3.0.16.jar.txt	0
+org/apache/cxf/jaxrs/client/ClientProxyImpl/initValuesMap(java.lang.Object[])@g_cxf-rt-rs-client-3.0.16.jar.txt	2
+org/apache/cxf/jaxrs/impl/CacheControlHeaderProvider/fromString(java.lang.String)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	4

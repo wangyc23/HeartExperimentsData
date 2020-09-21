@@ -1,0 +1,8 @@
+0	com/rop/sample/request/LogonRequest/setUserName(java.lang.String)
+1	com/rop/client/CompositeResponse/getSuccessResponse()
+2	java/util/Calendar/setTime(java.util.Date)
+3	com/rop/client/DefaultRopClient/buildClientRequest()
+4	java/util/Calendar/getInstance()
+5	java/util/Calendar/add(int,int)
+6	com/rop/sample/request/LogonRequest/setPassword(java.lang.String)
+7	java/util/Calendar/getTime()

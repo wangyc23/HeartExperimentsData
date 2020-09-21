@@ -1,0 +1,4 @@
+org/eclipse/osgi/internal/framework/legacy/PackageAdminImpl$RequiredBundleImpl/addRequirers(java.util.Set,org.osgi.framework.wiring.BundleWiring)
+java/util/Iterator/hasNext()
+java/util/Map/get(java.lang.Object)
+java/util/Iterator/next()

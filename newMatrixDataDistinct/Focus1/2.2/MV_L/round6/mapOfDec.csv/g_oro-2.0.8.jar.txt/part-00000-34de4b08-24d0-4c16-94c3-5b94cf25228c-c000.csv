@@ -1,0 +1,5 @@
+org/apache/oro/text/perl/Perl5Util/substitute(java.lang.StringBuffer,java.lang.String,java.lang.String)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	4
+org/xmlpull/v1/XmlPullParserFactory/newInstance(java.lang.String,java.lang.Class)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	0
+org/codehaus/plexus/components/interactivity/DefaultPrompter/formatMessage(java.lang.String,java.util.List,java.lang.String)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	3
+org/xmlpull/v1/XmlPullParserFactory/newSerializer()@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	2
+org/apache/oro/text/regex/Perl5Matcher/__matchUnicodeClass(char,char[],int,char)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	1

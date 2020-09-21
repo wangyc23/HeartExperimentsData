@@ -1,0 +1,5 @@
+com/itextpdf/text/pdf/XfaForm/Xml2SomDatasets/insertNode(org.w3c.dom.Node,java.lang.String)@g_itextpdf-5.5.13.jar.txt	4
+com/itextpdf/text/pdf/XfaForm/Xml2SomDatasets/processDatasetsInternal(org.w3c.dom.Node)@g_itextpdf-5.5.13.jar.txt	1
+com/itextpdf/text/pdf/XfaForm/extractXFANodes(org.w3c.dom.Document)@g_itextpdf-5.5.13.jar.txt	2
+com/itextpdf/text/pdf/XfaForm/Xml2SomTemplate/processTemplate(org.w3c.dom.Node,java.util.HashMap)@g_itextpdf-5.5.13.jar.txt	0
+com/itextpdf/text/xml/XmlDomWriter/write(org.w3c.dom.Node)@g_itextpdf-5.5.13.jar.txt	3

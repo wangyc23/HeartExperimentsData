@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/lang/StringBuilder/append(int)
+org/neo4j/kernel/impl/store/record/Record/byteValue()
+org/neo4j/kernel/impl/transaction/command/PhysicalLogNeoCommandReaderV2_0$PhysicalNeoCommandReader/readDynamicRecords(java.lang.Object,org.neo4j.kernel.impl.transaction.command.CommandReaderFactory$DynamicRecordAdder)

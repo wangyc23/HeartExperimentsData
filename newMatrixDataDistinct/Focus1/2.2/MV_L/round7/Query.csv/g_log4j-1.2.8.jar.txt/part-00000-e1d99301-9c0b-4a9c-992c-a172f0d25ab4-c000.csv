@@ -1,0 +1,4 @@
+java/lang/Class/getResourceAsStream(java.lang.String)
+java/lang/StringBuffer/append(java.lang.Object)
+org/xml/sax/InputSource/InputSource(java.io.InputStream)
+java/lang/StringBuffer/toString()

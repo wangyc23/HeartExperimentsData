@@ -1,0 +1,5 @@
+org/xwiki/query/internal/ScriptQuery/count()@g_xwiki-platform-query-manager-7.4.2.jar.txt	4
+org/xwiki/query/internal/DefaultQueryExecutorManager/getLanguages()@g_xwiki-platform-query-manager-7.4.jar.txt	1
+org/xwiki/query/internal/UniqueDocumentFilter/filterResults(java.util.List)@g_xwiki-platform-query-manager-7.4.2.jar.txt	3
+org/xwiki/query/internal/DefaultQueryExecutorManager/getLanguages()@g_xwiki-platform-query-manager-7.4.2.jar.txt	0
+org/xwiki/query/internal/UniqueDocumentFilter/filterStatement(java.lang.String,java.lang.String)@g_xwiki-platform-query-manager-7.4.2.jar.txt	2

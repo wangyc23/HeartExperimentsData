@@ -1,0 +1,4 @@
+org/eclipse/jetty/plus/jndi/Transaction/getJndiName()
+javax/naming/InitialContext/InitialContext()
+javax/naming/InitialContext/lookup(java.lang.String)
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])

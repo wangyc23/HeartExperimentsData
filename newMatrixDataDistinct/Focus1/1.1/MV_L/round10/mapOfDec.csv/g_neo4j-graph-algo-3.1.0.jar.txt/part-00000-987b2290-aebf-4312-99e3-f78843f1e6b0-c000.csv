@@ -1,0 +1,5 @@
+org/neo4j/graphalgo/impl/path/TraversalAStar/findPaths(org.neo4j.graphdb.Node,org.neo4j.graphdb.Node,boolean)@g_neo4j-graph-algo-3.0.1.jar.txt	3
+org/neo4j/graphalgo/impl/path/ExactDepthPathFinder/instantiateTraverser(org.neo4j.graphdb.Node,org.neo4j.graphdb.Node)@g_neo4j-graph-algo-3.3.0.jar.txt	4
+org/neo4j/graphalgo/impl/path/ExactDepthPathFinder/instantiateTraverser(org.neo4j.graphdb.Node,org.neo4j.graphdb.Node)@g_neo4j-graph-algo-3.0.1.jar.txt	0
+org/neo4j/graphalgo/impl/path/DijkstraBidirectional/traverser(org.neo4j.graphdb.Node,org.neo4j.graphdb.Node,org.neo4j.graphalgo.impl.util.PathInterest)@g_neo4j-graph-algo-3.0.1.jar.txt	2
+org/neo4j/graphalgo/impl/path/AllPaths/instantiateTraverser(org.neo4j.graphdb.Node,org.neo4j.graphdb.Node)@g_neo4j-graph-algo-3.0.1.jar.txt	1

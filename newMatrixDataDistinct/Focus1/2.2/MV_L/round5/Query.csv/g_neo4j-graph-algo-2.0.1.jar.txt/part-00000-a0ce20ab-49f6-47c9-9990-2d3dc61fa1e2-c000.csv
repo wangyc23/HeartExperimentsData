@@ -1,0 +1,4 @@
+java/util/Set/size()
+java/util/Iterator/next()
+java/util/LinkedList/LinkedList()
+java/util/LinkedList/LinkedList(java.util.Collection)

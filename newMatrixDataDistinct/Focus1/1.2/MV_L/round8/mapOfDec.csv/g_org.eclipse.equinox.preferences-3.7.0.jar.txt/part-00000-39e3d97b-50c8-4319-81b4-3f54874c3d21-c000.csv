@@ -1,0 +1,5 @@
+org/eclipse/core/internal/preferences/DefaultPreferences/applyDefaults(java.lang.String,java.util.Properties,java.util.Properties)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	4
+org/eclipse/core/internal/preferences/PreferencesService/1/visit(org.eclipse.core.runtime.preferences.IEclipsePreferences)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	2
+org/eclipse/core/internal/preferences/PreferencesService/trimTree(org.eclipse.core.runtime.preferences.IEclipsePreferences,org.eclipse.core.runtime.preferences.IPreferenceFilter)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	0
+org/eclipse/core/internal/preferences/PreferencesService/internalMatches(org.eclipse.core.runtime.preferences.IEclipsePreferences,org.eclipse.core.runtime.preferences.IPreferenceFilter)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	1
+org/eclipse/core/internal/preferences/PreferencesService/3/visit(org.eclipse.core.runtime.preferences.IEclipsePreferences)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	3

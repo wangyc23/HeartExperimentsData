@@ -1,0 +1,5 @@
+org/netlib/generate/JavaGenerator/createWrapper(java.lang.reflect.Method)@g_netlib-java-0.9.3.jar.txt	3
+org/netlib/generate/JavaGenerator/createTopWrapper(java.lang.reflect.Method,java.util.List,java.lang.String)@g_netlib-java-0.9.3.jar.txt	4
+org/netlib/generate/JNIGenerator/initArgs(int,java.lang.String)@g_netlib-java-0.9.3.jar.txt	0
+org/netlib/generate/JNIGenerator/getTemplate()@g_netlib-java-0.9.3.jar.txt	1
+org/netlib/generate/JavaGenerator/createJavaWrapper(java.lang.reflect.Method,java.util.List)@g_netlib-java-0.9.3.jar.txt	2

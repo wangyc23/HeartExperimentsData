@@ -1,0 +1,5 @@
+com/netflix/discovery/DiscoveryClient/getNextServerFromEureka(java.lang.String,boolean)@g_eureka-client-1.1.147.jar.txt	2
+com/netflix/discovery/DiscoveryClient/2/run()@g_eureka-client-1.1.147.jar.txt	1
+com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider/get()@g_eureka-client-1.1.147.jar.txt	4
+com/netflix/discovery/DiscoveryClient/getServiceUrlsFromDNS(java.lang.String,boolean)@g_eureka-client-1.1.147.jar.txt	0
+com/netflix/discovery/TimedSupervisorTask/run()@g_eureka-client-1.1.147.jar.txt	3

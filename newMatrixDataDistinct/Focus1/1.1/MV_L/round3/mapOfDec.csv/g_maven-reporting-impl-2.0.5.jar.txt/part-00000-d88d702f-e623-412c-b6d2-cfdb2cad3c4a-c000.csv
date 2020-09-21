@@ -1,0 +1,5 @@
+org/apache/maven/reporting/AbstractMavenReportRenderer/applyPattern(java.lang.String)@g_maven-reporting-impl-2.2.jar.txt	1
+org/apache/maven/reporting/AbstractMavenReportRenderer/applyPattern(java.lang.String)@g_maven-reporting-impl-2.1.jar.txt	0
+org/apache/maven/reporting/AbstractMavenReportRenderer/getValidHref(java.lang.String)@g_maven-reporting-impl-2.1.jar.txt	4
+org/apache/maven/reporting/AbstractMavenReportRenderer/propertiesToString(java.util.Properties)@g_maven-reporting-impl-2.1.jar.txt	2
+org/apache/maven/reporting/AbstractMavenReport/execute()@g_maven-reporting-impl-2.1.jar.txt	3

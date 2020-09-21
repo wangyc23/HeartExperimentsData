@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Thread/currentThread()
+java/lang/ThreadLocal/get()
+java/lang/StringBuilder/StringBuilder()

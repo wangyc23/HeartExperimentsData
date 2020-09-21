@@ -1,0 +1,4 @@
+java/util/Hashtable/put(java.lang.Object,java.lang.Object)
+org/apache/xerces/impl/xs/XSDDescription/setBaseSystemId(java.lang.String)
+org/apache/xerces/impl/xs/traversers/XSDElementTraverser/traverseSyntheticAnnotation(org.w3c.dom.Element,java.lang.String,java.lang.Object[],boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)
+java/lang/String/length()

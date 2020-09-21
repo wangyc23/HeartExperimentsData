@@ -1,0 +1,5 @@
+org/hibernate/ejb/metamodel/MetadataContext/applyIdMetadata(org.hibernate.mapping.PersistentClass,org.hibernate.ejb.metamodel.EntityTypeImpl)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	2
+org/hibernate/jpa/criteria/CriteriaBuilderImpl/checkMultiselect(java.util.List)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	0
+org/hibernate/cfg/Ejb3JoinColumn/setJoinAnnotation(javax.persistence.JoinColumn,java.lang.String)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	1
+org/hibernate/cfg/annotations/reflection/JPAOverridenAnnotationReader/getInheritance(org.dom4j.Element,org.hibernate.cfg.annotations.reflection.XMLContext$Default)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	4
+org/hibernate/ejb/criteria/CriteriaQueryImpl/render(org.hibernate.ejb.criteria.CriteriaQueryCompiler$RenderingContext)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	3

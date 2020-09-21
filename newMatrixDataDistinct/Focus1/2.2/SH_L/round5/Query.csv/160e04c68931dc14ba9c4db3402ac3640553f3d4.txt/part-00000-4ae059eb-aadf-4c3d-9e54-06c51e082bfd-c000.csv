@@ -1,0 +1,4 @@
+com/effectivemaven/centrepoint/model/Project/getExtensionModel(java.lang.String)
+com/effectivemaven/centrepoint/store/ProjectStore/getProjectById(java.lang.String)
+com/effectivemaven/centrepoint/model/Project/getId()
+com/effectivemaven/centrepoint/model/ExtensionModel/setValuesFromMap(java.util.Map)

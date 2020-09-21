@@ -1,0 +1,5 @@
+org/apache/jackrabbit/webdav/DavException/<clinit>()@g_xwiki-platform-webdav-server-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/webdav/resources/domain/DavWikiFile/init(com.xpn.xwiki.plugin.webdav.resources.XWikiDavResource,java.lang.String,java.lang.String)@g_xwiki-platform-webdav-server-7.4.2.jar.txt	0
+org/apache/jackrabbit/webdav/AbstractLocatorFactory/createResourceLocator(java.lang.String,java.lang.String)@g_xwiki-platform-webdav-server-7.4.2.jar.txt	2
+org/apache/jackrabbit/webdav/header/IfHeader/logIllegalState(java.lang.String,int,java.lang.String,java.io.StringReader)@g_xwiki-platform-webdav-server-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/webdav/resources/views/attachments/AttachmentsByFirstLettersSubView/decode(java.lang.String[],int)@g_xwiki-platform-webdav-server-7.4.2.jar.txt	3

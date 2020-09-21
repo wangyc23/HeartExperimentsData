@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/opengis/geometry/DirectPosition/getOrdinate(int)
+java/lang/StringBuilder/append(char)
+java/lang/StringBuilder/append(double)

@@ -1,0 +1,5 @@
+com/backend/collab/SessionManager/getPublicSessions(org.eclipse.jetty.websocket.api.Session)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	0
+ch/eitchnet/csvrestendpoint/marshaller/CsvDataToJsonMarshaller/marshall(org.apache.commons.csv.CSVParser)@2d0f525cefece70901f6a7268b444c4527865fb5.txt	1
+com/backend/collab/SessionManager/getGroupInfo(org.eclipse.jetty.websocket.api.Session,com.google.gson.JsonObject)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	3
+com/backend/collab/SessionManager/makeComment(org.eclipse.jetty.websocket.api.Session,com.google.gson.JsonObject)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	2
+com/backend/collab/SessionManager/getPublicFiles(org.eclipse.jetty.websocket.api.Session)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	4

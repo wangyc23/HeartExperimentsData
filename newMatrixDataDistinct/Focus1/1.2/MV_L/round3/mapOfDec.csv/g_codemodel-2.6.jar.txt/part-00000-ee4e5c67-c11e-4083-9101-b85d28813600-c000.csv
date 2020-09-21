@@ -1,0 +1,5 @@
+com/sun/codemodel/JFormatter/id(java.lang.String)@g_jaxb-xjc-2.2.2.jar.txt	1
+com/sun/tools/xjc/util/MimeTypeRange/toString()@g_jaxb-xjc-2.2.6.jar.txt	3
+com/sun/codemodel/JFormatter/id(java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	0
+com/sun/xml/xsom/impl/util/SchemaTreeTraverser/schema(com.sun.xml.xsom.XSSchema)@g_jaxb-xjc-2.2.6.jar.txt	4
+com/sun/tools/xjc/reader/xmlschema/SimpleTypeBuilder/buildCEnumConstants(com.sun.xml.xsom.XSRestrictionSimpleType,boolean,java.util.Map,com.sun.xml.xsom.XSFacet[])@g_jaxb-xjc-2.2.6.jar.txt	2

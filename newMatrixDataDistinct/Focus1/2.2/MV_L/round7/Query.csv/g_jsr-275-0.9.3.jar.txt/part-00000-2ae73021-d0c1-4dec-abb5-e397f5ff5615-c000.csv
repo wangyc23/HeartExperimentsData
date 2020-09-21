@@ -1,0 +1,4 @@
+java/lang/CharSequence/length()
+java/lang/CharSequence/charAt(int)
+java/math/BigDecimal/BigDecimal(java.lang.String)
+java/lang/CharSequence/subSequence(int,int)

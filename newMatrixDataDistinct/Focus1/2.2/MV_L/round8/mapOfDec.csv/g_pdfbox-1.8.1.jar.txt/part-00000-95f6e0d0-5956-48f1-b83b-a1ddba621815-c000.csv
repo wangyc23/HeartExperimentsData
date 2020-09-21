@@ -1,0 +1,5 @@
+org/apache/pdfbox/filter/JBIG2Filter/decode(java.io.InputStream,java.io.OutputStream,org.apache.pdfbox.cos.COSDictionary,int)@g_pdfbox-1.8.8.jar.txt	3
+org/apache/pdfbox/pdmodel/graphics/xobject/PDJpeg/readImage(byte[])@g_pdfbox-1.7.0.jar.txt	1
+org/apache/pdfbox/pdmodel/graphics/xobject/PDJpeg/readImage(byte[])@g_pdfbox-1.8.8.jar.txt	2
+org/apache/pdfbox/pdmodel/graphics/xobject/PDJpeg/getApp14AdobeTransform(byte[])@g_pdfbox-1.8.8.jar.txt	0
+org/apache/pdfbox/util/PDFText2HTML/getTitle()@g_pdfbox-1.7.0.jar.txt	4

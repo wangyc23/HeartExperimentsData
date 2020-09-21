@@ -1,0 +1,4 @@
+retrofit/ErrorHandlerTest/ExampleClient/onErrorWrappedCustomException(retrofit.Callback)
+org/mockito/Matchers/any(java.lang.Class)
+org/mockito/stubbing/Stubber/when(T)
+retrofit/ErrorHandlerTest/TestException/TestException()

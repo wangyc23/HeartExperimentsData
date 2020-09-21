@@ -1,0 +1,5 @@
+com/xpn/xwiki/gwt/api/server/XWikiServiceImpl/getDocuments(java.lang.String,int,int,boolean,boolean,boolean,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	2
+com/xpn/xwiki/gwt/api/server/XWikiServiceImpl/deleteDocuments(java.lang.String)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	1
+com/xpn/xwiki/gwt/api/client/widgets/WordListSuggestOracle/requestSuggestions(com.google.gwt.user.client.ui.SuggestOracle$Request,com.google.gwt.user.client.ui.SuggestOracle$Callback)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	4
+com/xpn/xwiki/gwt/api/server/XWikiServiceImpl/searchDocuments(java.lang.String,int,int,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	0
+com/xpn/xwiki/plugin/activitystream/eventstreambridge/BridgeEventStream/convertEventToActivity(org.xwiki.eventstream.Event)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	3

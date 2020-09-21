@@ -1,0 +1,4 @@
+org/apache/avro/ipc/SocketServer$Connection/Connection(org.apache.avro.ipc.SocketServer,java.nio.channels.SocketChannel)
+org/slf4j/Logger/warn(java.lang.String,java.lang.Throwable)
+java/nio/channels/ServerSocketChannel/socket()
+java/lang/StringBuilder/append(java.lang.String)

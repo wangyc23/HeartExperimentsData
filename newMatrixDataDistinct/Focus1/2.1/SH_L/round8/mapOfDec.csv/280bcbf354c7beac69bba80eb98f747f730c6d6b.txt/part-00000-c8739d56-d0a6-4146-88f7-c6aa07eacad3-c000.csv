@@ -1,0 +1,5 @@
+org/apache/mahout/classifier/naivebayes/training/ThetaMapper/map(org.apache.mahout.clustering.evaluation.IntWritable,org.apache.mahout.math.VectorWritable,org.apache.mahout.cf.taste.hadoop.als.Context)@0c5e6faad5f95ae0455a3299ada00416f26b0c94.txt	1
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/train(int,org.apache.mahout.math.Vector)@0c5e6faad5f95ae0455a3299ada00416f26b0c94.txt	2
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/train(int,org.apache.mahout.math.Vector)@1792abb513f38a3f0f75cb1b898360c0aa01ed7c.txt	4
+org/apache/mahout/classifier/naivebayes/training/ThetaMapperTest/standard()@1792abb513f38a3f0f75cb1b898360c0aa01ed7c.txt	3
+org/apache/mahout/classifier/naivebayes/training/ThetaMapperTest/standard()@0c5e6faad5f95ae0455a3299ada00416f26b0c94.txt	0

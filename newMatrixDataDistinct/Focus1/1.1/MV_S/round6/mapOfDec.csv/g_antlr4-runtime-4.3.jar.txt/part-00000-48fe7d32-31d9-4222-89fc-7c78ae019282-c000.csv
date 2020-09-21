@@ -1,0 +1,5 @@
+org/antlr/v4/runtime/misc/IntervalSet/add(org.antlr.v4.runtime.misc.Interval)@g_antlr4-runtime-4.5.1-1.jar.txt	0
+org/htmlcleaner/HtmlCleaner/makeTree(java.util.List,java.util.ListIterator,org.htmlcleaner.CleanTimeValues)@g_htmlcleaner-2.10.jar.txt	3
+org/htmlcleaner/CompactXmlSerializer/serialize(org.htmlcleaner.TagNode,java.io.Writer)@g_htmlcleaner-2.10.jar.txt	4
+org/htmlcleaner/CompactHtmlSerializer/serialize(org.htmlcleaner.TagNode,java.io.Writer)@g_htmlcleaner-2.10.jar.txt	2
+org/htmlcleaner/BrowserCompactXmlSerializer/serialize(org.htmlcleaner.TagNode,java.io.Writer)@g_htmlcleaner-2.10.jar.txt	1

@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/asm/ClassWriter/newConstItem(java.lang.Object)@g_sisu-inject-bean-2.1.1.jar.txt	4
+com/netflix/governator/lifecycle/GovernatorFileArchive/toFile(java.net.URL)@g_sisu-inject-bean-2.1.1.jar.txt	3
+com/netflix/governator/guice/InternalAutoBindModule/bindAutoBindSingletons()@g_governator-1.2.10.jar.txt	0
+com/netflix/governator/guice/Grapher/graph()@g_governator-1.2.10.jar.txt	1
+com/netflix/governator/guice/runner/standalone/StandaloneRunnerModule/StandaloneFramework/init()@g_governator-1.2.10.jar.txt	2

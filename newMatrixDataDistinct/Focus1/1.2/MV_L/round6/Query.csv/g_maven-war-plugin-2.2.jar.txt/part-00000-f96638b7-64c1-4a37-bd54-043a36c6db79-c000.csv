@@ -1,0 +1,4 @@
+org/apache/maven/artifact/Artifact/isOptional()
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+org/apache/maven/artifact/resolver/filter/ScopeArtifactFilter/include(org.apache.maven.artifact.Artifact)

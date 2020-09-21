@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String)
+javax/jcr/Property/getValue()
+javax/jcr/Node/getProperties()
+javax/jcr/Property/getSession()

@@ -1,0 +1,4 @@
+org/springframework/integration/aggregator/AbstractCorrelatingMessageHandler/setOutputChannel(org.springframework.messaging.MessageChannel)
+org/springframework/integration/dsl/support/tuple/Tuple2/getT1()
+java/lang/StringBuilder/append(java.lang.String)
+org/springframework/integration/handler/AbstractReplyProducingMessageHandler/setOutputChannelName(java.lang.String)

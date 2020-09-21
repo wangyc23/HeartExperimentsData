@@ -1,0 +1,4 @@
+org/xml/sax/SAXParseException/getColumnNumber()
+org/xml/sax/SAXParseException/getException()
+org/eclipse/rdf4j/rio/trix/TriXParser$TriXSAXHandler/TriXSAXHandler(org.eclipse.rdf4j.rio.trix.TriXParser)
+org/eclipse/rdf4j/common/xml/SimpleSAXParser/setListener(org.eclipse.rdf4j.common.xml.SimpleSAXListener)

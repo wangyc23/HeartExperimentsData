@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+java/lang/reflect/InvocationTargetException/getTargetException()
+java/lang/Thread/currentThread()
+java/io/FileInputStream/FileInputStream(java.lang.String)

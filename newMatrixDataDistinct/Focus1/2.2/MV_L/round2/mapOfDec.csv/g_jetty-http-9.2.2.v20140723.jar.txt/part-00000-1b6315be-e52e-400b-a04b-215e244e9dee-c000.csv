@@ -1,0 +1,5 @@
+org/eclipse/jetty/http/PathMap/put(java.lang.String,java.lang.Object)@g_jetty-http-9.2.4.v20141103.jar.txt	1
+org/eclipse/jetty/http/HttpFields/valueParameters(java.lang.String,java.util.Map)@g_jetty-http-9.2.3.v20140905.jar.txt	4
+org/eclipse/jetty/http/PathMap/put(java.lang.String,java.lang.Object)@g_jetty-http-9.2.3.v20140905.jar.txt	0
+org/eclipse/jetty/http/PathMap/getMatches(java.lang.String)@g_jetty-http-9.2.4.v20141103.jar.txt	3
+org/eclipse/jetty/http/PathMap/getMatches(java.lang.String)@g_jetty-http-9.2.3.v20140905.jar.txt	2

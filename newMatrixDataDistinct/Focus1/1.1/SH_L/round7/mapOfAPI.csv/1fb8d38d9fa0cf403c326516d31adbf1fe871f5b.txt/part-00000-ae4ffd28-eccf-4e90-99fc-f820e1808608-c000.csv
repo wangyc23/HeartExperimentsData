@@ -1,0 +1,3 @@
+0	org/apache/servicemix/examples/drools/simple/osgi/Utils/customerPoor()
+1	java/util/TreeSet/TreeSet(java.util.Comparator)
+2	org/apache/servicemix/examples/drools/test/SimpleTest/test(org.apache.servicemix.examples.drools.simple.model.Customer,org.apache.servicemix.examples.drools.simple.model.CustomerType)

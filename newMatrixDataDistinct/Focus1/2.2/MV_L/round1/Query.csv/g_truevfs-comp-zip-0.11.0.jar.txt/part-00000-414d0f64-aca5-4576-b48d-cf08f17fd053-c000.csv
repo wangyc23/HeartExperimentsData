@@ -1,0 +1,4 @@
+net/java/truevfs/comp/zip/AbstractZipOutputStream$BZip2OutputMethod/BZip2OutputMethod(net.java.truevfs.comp.zip.AbstractZipOutputStream,net.java.truevfs.comp.zip.OutputMethod)
+java/lang/StringBuilder/append(int)
+java/lang/StringBuilder/StringBuilder()
+java/lang/AssertionError/AssertionError()

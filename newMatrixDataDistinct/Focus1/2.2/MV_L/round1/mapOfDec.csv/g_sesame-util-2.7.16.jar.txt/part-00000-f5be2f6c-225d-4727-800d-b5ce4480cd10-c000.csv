@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/common/lang/FileFormat/matchFileName(java.lang.String,java.lang.Iterable)@g_rdf4j-util-2.1.4.jar.txt	3
+org/eclipse/rdf4j/common/net/ParsedURI/normalize()@g_rdf4j-util-2.1.4.jar.txt	1
+org/eclipse/rdf4j/common/io/FileUtil/getRelativePath(java.io.File,java.io.File)@g_rdf4j-util-2.1.4.jar.txt	4
+info/aduna/net/ParsedURI/normalize()@g_sesame-util-2.7.9.jar.txt	0
+info/aduna/io/FileUtil/getRelativePath(java.io.File,java.io.File)@g_sesame-util-2.7.9.jar.txt	2

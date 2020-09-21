@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/List/size()
+org/junit/Assert/assertTrue(boolean)
+java/util/List/get(int)

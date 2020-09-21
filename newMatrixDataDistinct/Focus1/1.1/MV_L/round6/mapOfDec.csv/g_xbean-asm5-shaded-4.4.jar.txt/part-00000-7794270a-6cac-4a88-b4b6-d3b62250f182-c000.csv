@@ -1,0 +1,5 @@
+org/apache/xbean/asm5/commons/JSRInlinerAdapter/emitSubroutine(org.apache.xbean.asm5.commons.JSRInlinerAdapter$Instantiation,java.util.List,org.apache.xbean.asm5.tree.InsnList,java.util.List,java.util.List)@g_spring-asm-3.0.5.RELEASE.jar.txt	4
+org/springframework/asm/commons/SerialVersionUIDAdder/computeSVUID()@g_spring-asm-3.1.3.RELEASE.jar.txt	1
+org/apache/xbean/asm5/commons/Method/map(java.lang.String,boolean)@g_spring-asm-3.0.5.RELEASE.jar.txt	2
+org/springframework/asm/ClassReader/readConst(int,char[])@g_spring-asm-3.0.5.RELEASE.jar.txt	3
+org/springframework/asm/commons/SerialVersionUIDAdder/computeSVUID()@g_spring-asm-3.0.5.RELEASE.jar.txt	0

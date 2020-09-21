@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/log/Logger/ignore(java.lang.Throwable)
+java/nio/channels/SelectionKey/isValid()
+java/net/Socket/isInputShutdown()
+org/eclipse/jetty/io/nio/AsyncConnection/isSuspended()

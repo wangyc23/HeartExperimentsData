@@ -1,0 +1,5 @@
+opennlp/tools/util/model/BaseModel/serialize(java.io.OutputStream)@g_opennlp-tools-1.5.3.jar.txt	1
+opennlp/tools/util/model/BaseModel/serialize(java.io.OutputStream)@g_opennlp-tools-1.8.2.jar.txt	0
+opennlp/tools/cmdline/ArgumentParser/parse(java.lang.String[],java.lang.Class)@g_opennlp-tools-1.8.2.jar.txt	3
+opennlp/tools/formats/conllu/ConlluStream/postProcessContractions(java.util.List)@g_opennlp-tools-1.8.2.jar.txt	4
+opennlp/tools/formats/brat/BratDocumentParser/parse(opennlp.tools.formats.brat.BratDocument)@g_opennlp-tools-1.8.2.jar.txt	2

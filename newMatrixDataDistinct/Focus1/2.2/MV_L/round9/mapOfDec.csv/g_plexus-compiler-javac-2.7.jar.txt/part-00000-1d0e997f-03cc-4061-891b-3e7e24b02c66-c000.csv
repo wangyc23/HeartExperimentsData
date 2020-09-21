@@ -1,0 +1,5 @@
+org/codehaus/plexus/compiler/javac/JavacCompiler/parseModernError(int,java.lang.String)@g_plexus-compiler-javac-2.4.jar.txt	0
+org/codehaus/plexus/compiler/javac/JavacCompiler/parseModernStream(int,java.io.BufferedReader)@g_plexus-compiler-javac-2.5.jar.txt	4
+org/codehaus/plexus/compiler/javac/JavaxToolsCompiler/compileInProcess(java.lang.String[],org.codehaus.plexus.compiler.CompilerConfiguration,java.lang.String[])@g_plexus-compiler-javac-2.4.jar.txt	3
+org/codehaus/plexus/compiler/javac/JavacCompiler/parseModernError(int,java.lang.String)@g_plexus-compiler-javac-2.5.jar.txt	1
+org/codehaus/plexus/compiler/javac/JavacCompiler/parseModernStream(int,java.io.BufferedReader)@g_plexus-compiler-javac-2.4.jar.txt	2

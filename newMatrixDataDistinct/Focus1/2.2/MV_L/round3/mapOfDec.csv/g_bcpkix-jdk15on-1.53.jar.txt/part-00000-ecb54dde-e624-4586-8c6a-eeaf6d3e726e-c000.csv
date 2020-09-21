@@ -1,0 +1,5 @@
+org/bouncycastle/eac/jcajce/JcaPublicKeyConverter/getPublicPoint(org.bouncycastle.asn1.eac.ECDSAPublicKey)@g_bcpkix-jdk15on-1.54.jar.txt	0
+org/bouncycastle/operator/jcajce/OperatorHelper/getSignatureName(org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_bcpkix-jdk15on-1.54.jar.txt	4
+org/bouncycastle/eac/jcajce/JcaPublicKeyConverter/getParams(org.bouncycastle.asn1.eac.ECDSAPublicKey)@g_bcpkix-jdk15on-1.49.jar.txt	2
+org/bouncycastle/eac/jcajce/JcaPublicKeyConverter/getECPublicKeyPublicKey(org.bouncycastle.asn1.eac.ECDSAPublicKey)@g_bcpkix-jdk15on-1.49.jar.txt	3
+org/bouncycastle/eac/jcajce/JcaPublicKeyConverter/getParams(org.bouncycastle.asn1.eac.ECDSAPublicKey)@g_bcpkix-jdk15on-1.54.jar.txt	1

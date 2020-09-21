@@ -1,0 +1,5 @@
+org/reflections/Reflections/scan()@g_reflections-0.9.9-RC2.jar.txt	2
+org/reflections/serializers/XmlSerializer/createDocument(org.reflections.Reflections)@g_reflections-0.9.9.jar.txt	1
+org/reflections/serializers/JavaCodeSerializer/toString(org.reflections.Reflections)@g_reflections-0.9.9-RC2.jar.txt	3
+org/reflections/Reflections/collect(java.lang.String,com.google.common.base.Predicate,org.reflections.serializers.Serializer[])@g_reflections-0.9.9-RC2.jar.txt	4
+org/reflections/serializers/XmlSerializer/createDocument(org.reflections.Reflections)@g_reflections-0.9.9-RC2.jar.txt	0

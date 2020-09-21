@@ -1,0 +1,6 @@
+0	java/io/PrintStream/println(java.lang.String)
+1	org/apache/slider/core/registry/docstore/PublishedConfiguration/PublishedConfiguration(java.lang.String,java.lang.Iterable)
+2	java/lang/String/String(byte[],java.lang.String)
+3	org/apache/slider/providers/agent/AgentProviderService/getClusterName()
+4	org/apache/slider/providers/agent/application/metadata/ConfigFile/getDictionaryName()
+5	org/apache/slider/providers/agent/application/metadata/ConfigFile/getType()

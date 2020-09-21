@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Iterator/next()

@@ -1,0 +1,5 @@
+opennlp/perceptron/SimplePerceptronSequenceTrainer/trainingStats(opennlp.model.MutableContext[])@g_opennlp-maxent-3.0.3.jar.txt	2
+opennlp/model/OnePassDataIndexer/computeEventCounts(opennlp.model.EventStream,java.util.Map,int)@g_opennlp-maxent-3.0.3.jar.txt	0
+opennlp/model/TwoPassDataIndexer/computeEventCounts(opennlp.model.EventStream,java.io.Writer,java.util.Map,int)@g_opennlp-maxent-3.0.3.jar.txt	3
+opennlp/perceptron/SimplePerceptronSequenceTrainer/nextIteration(int)@g_opennlp-maxent-3.0.3.jar.txt	1
+opennlp/model/OnePassDataIndexer/index(java.util.LinkedList,java.util.Map)@g_opennlp-maxent-3.0.3.jar.txt	4

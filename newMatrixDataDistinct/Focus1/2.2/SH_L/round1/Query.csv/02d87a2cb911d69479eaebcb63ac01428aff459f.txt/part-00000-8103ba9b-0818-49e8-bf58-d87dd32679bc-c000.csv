@@ -1,0 +1,4 @@
+com/google/code/or/io/impl/XOutputStreamImpl/writeBytes(byte[],int,int)
+com/google/code/or/io/impl/XOutputStreamImpl/writeBytes(byte[])
+com/google/code/or/net/Packet/getSequence()
+com/google/code/or/net/Packet/getPacketBody()

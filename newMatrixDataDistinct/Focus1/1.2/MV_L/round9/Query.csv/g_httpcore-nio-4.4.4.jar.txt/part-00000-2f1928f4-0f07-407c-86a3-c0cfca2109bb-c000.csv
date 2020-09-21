@@ -1,0 +1,4 @@
+org/apache/http/impl/nio/reactor/IOReactorConfig$Builder/setSoReuseAddress(boolean)
+org/apache/http/params/HttpParams/getIntParameter(java.lang.String,int)
+org/apache/http/impl/nio/reactor/IOReactorConfig$Builder/setSoLinger(int)
+org/apache/http/impl/nio/reactor/IOReactorConfig$Builder/setIoThreadCount(int)

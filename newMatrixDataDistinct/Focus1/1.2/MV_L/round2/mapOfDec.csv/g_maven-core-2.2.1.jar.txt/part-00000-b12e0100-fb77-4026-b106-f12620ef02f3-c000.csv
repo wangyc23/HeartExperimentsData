@@ -1,0 +1,5 @@
+org/apache/maven/DefaultMaven/collectProjects(java.util.List,org.apache.maven.execution.MavenExecutionRequest,boolean)@g_maven-core-2.0.9.jar.txt	0
+org/apache/maven/plugin/DefaultPluginManager/checkRequiredMavenVersion(org.apache.maven.model.Plugin,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-core-2.0.9.jar.txt	4
+org/apache/maven/plugin/DefaultPluginManager/checkRequiredParameters(org.apache.maven.plugin.descriptor.MojoDescriptor,org.codehaus.plexus.configuration.PlexusConfiguration,org.codehaus.plexus.component.configurator.expression.ExpressionEvaluator)@g_maven-core-2.0.9.jar.txt	3
+org/apache/maven/plugin/version/DefaultPluginVersionManager/resolveMetaVersion(java.lang.String,java.lang.String,org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository,java.lang.String)@g_maven-core-2.0.9.jar.txt	2
+org/apache/maven/DefaultMaven/collectProjects(java.util.List,org.apache.maven.artifact.repository.ArtifactRepository,boolean,org.apache.maven.settings.Settings,org.apache.maven.profiles.ProfileManager,boolean)@g_maven-core-2.0.8.jar.txt	1

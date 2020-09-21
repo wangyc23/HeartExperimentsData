@@ -1,0 +1,5 @@
+org/languagetool/synthesis/ca/CatalanSynthesizer/lookupWithEl(java.lang.String,java.lang.String,java.lang.String,java.util.List,morfologik.stemming.IStemmer)@g_language-ca-3.0.jar.txt	0
+org/languagetool/rules/ca/ComplexAdjectiveConcordanceRule/match(org.languagetool.AnalyzedSentence)@g_language-ca-3.0.jar.txt	1
+org/languagetool/chunking/TokenPredicate/apply(org.languagetool.chunking.ChunkTaggedToken)@g_language-de-3.0.jar.txt	3
+org/languagetool/rules/de/SubjectVerbAgreementRule/getSingularMatchOrNull(org.languagetool.AnalyzedTokenReadings[],int,org.languagetool.AnalyzedTokenReadings,java.lang.String)@g_language-de-3.0.jar.txt	4
+org/languagetool/rules/de/GermanSpellerRule/getSpeller(org.languagetool.Language)@g_language-de-3.0.jar.txt	2

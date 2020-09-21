@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+org/apache/maven/plugin/logging/Log/warn(java.lang.CharSequence)
+java/lang/StringBuilder/StringBuilder()

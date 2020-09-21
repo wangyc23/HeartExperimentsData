@@ -1,0 +1,5 @@
+org/jboss/solder/resourceLoader/DelegatingResourceLoader/getResourceAsStream(java.lang.String)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	2
+org/drools/runtime/rule/ConsequenceException/printFacts(java.io.PrintStream)@074c573889d6cab223d8f3d1b7b4af67dcdef41b.txt	0
+org/jboss/solder/system/SystemProperties/remove(java.lang.Object)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	4
+org/jboss/solder/util/collections/AbstractMultimap/AsMap/toString()@068d3b9e255c84cd63aec163e012653dd30ed149.txt	1
+org/jboss/solder/reflection/annotated/Annotateds/createAnnotationCollectionId(java.util.Collection)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	3

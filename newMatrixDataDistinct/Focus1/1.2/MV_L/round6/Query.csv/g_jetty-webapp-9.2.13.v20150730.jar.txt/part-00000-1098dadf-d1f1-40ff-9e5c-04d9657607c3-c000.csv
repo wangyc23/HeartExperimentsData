@@ -1,0 +1,4 @@
+java/util/LinkedList/remove(java.lang.Object)
+org/eclipse/jetty/webapp/Ordering$RelativeOrdering/getIndexOf(java.util.List,java.lang.String)
+java/util/List/isEmpty()
+java/util/Iterator/next()

@@ -1,0 +1,5 @@
+org/hf/mls/cf/hadoop/EvaluateJob/EvaluateMapper/map(org.apache.hadoop.io.Writable,org.apache.hadoop.io.Writable,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	3
+org/hf/mls/cf/hadoop/CalculateNrsJob/CalculateMapper/map(org.apache.hadoop.io.Writable,org.apache.hadoop.io.Writable,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	0
+org/hf/mls/pref/hadoop/tohbase/SeqToHbaseJob/SeqHbaseMapper/map(org.apache.hadoop.io.Writable,org.apache.hadoop.io.Writable,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	2
+org/hf/mls/ar/hadoop/EvaluateJob/CalcSupportMapper/map(org.apache.hadoop.io.Writable,org.apache.hadoop.io.Writable,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	1
+org/hf/mls/cf/hadoop/seqtotxt/SeqToTextJob/SeqToTextMapper/map(org.apache.hadoop.io.Writable,org.apache.hadoop.io.Writable,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	4

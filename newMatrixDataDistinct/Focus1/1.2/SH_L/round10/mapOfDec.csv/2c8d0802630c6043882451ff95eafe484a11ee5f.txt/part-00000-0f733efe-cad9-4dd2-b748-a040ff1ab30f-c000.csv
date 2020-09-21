@@ -1,0 +1,5 @@
+org/jboss/resteasy/test/finegrain/MediaTypeTest/testWeightedSort()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+org/jboss/resteasy/core/PathParamInjector/inject(org.jboss.resteasy.spi.HttpRequest,org.jboss.resteasy.spi.HttpResponse)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+org/jboss/resteasy/test/nextgen/resource/VariantsTest/selectVariantResponseVaryTest()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+org/jboss/resteasy/test/finegrain/MediaTypeTest/testSort2()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+org/jboss/resteasy/test/providers/atom/ResourceTest/assertFeed(org.jboss.resteasy.plugins.providers.atom.Feed)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1

@@ -1,0 +1,5 @@
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_aspectjrt-1.6.12.jar.txt	4
+com/netflix/hystrix/contrib/javanica/collapser/CommandCollapser/createMessage(java.util.Collection,java.util.List)@g_hystrix-javanica-1.4.4.jar.txt	3
+com/netflix/hystrix/contrib/javanica/command/CommandExecutor/execute(com.netflix.hystrix.HystrixExecutable,com.netflix.hystrix.contrib.javanica.command.ExecutionType)@g_hystrix-javanica-1.4.4.jar.txt	0
+com/netflix/hystrix/contrib/javanica/cache/CacheInvocationContextFactory/createCacheKeyAction(java.lang.String,com.netflix.hystrix.contrib.javanica.command.MetaHolder)@g_hystrix-javanica-1.4.4.jar.txt	1
+com/netflix/hystrix/contrib/javanica/aop/aspectj/HystrixCommandAspect/CollapserMetaHolderFactory/create(java.lang.Object,java.lang.reflect.Method,java.lang.Object,java.lang.Object[])@g_hystrix-javanica-1.4.4.jar.txt	2

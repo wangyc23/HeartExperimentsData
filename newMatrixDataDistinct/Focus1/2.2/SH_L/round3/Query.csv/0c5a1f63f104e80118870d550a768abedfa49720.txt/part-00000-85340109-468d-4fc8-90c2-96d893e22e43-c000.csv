@@ -1,0 +1,4 @@
+parquet/schema/GroupType/getFields()
+parquet/io/api/RecordConsumer/startMessage()
+parquet/schema/Type/asPrimitiveType()
+parquet/io/api/RecordConsumer/endMessage()

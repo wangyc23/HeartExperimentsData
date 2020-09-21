@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStreamHandler/getHostAddress(java.net.URL)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStreamHandler/parseURL(java.net.URL,java.lang.String,int,int)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/osgi/framework/internal/core/BundleContextImpl/dispatchEvent(java.lang.Object,java.lang.Object,int,java.lang.Object)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/internal/serviceregistry/ServiceUse/getService()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/framework/internal/core/Framework/forceURLStreamHandlerFactory(org.eclipse.osgi.framework.internal.protocol.StreamHandlerFactory)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4

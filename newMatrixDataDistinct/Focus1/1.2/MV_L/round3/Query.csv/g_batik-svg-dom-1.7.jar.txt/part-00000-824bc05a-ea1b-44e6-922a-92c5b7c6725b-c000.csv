@@ -1,0 +1,4 @@
+org/w3c/dom/Node/getNextSibling()
+org/apache/batik/dom/events/NodeEventTarget/getEventSupport()
+org/w3c/dom/NodeList/getLength()
+org/w3c/dom/Node/getFirstChild()

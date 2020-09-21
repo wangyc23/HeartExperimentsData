@@ -1,0 +1,4 @@
+java/util/Iterator/remove()
+java/lang/management/ThreadMXBean/getThreadCpuTime(long)
+java/util/Iterator/hasNext()
+java/lang/Long/valueOf(long)

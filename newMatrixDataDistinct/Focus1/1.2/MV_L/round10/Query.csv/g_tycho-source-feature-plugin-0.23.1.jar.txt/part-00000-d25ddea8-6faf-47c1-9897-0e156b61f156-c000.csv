@@ -1,0 +1,4 @@
+org/eclipse/tycho/model/PluginRef/setUnpack(boolean)
+org/eclipse/tycho/model/PluginRef/setId(java.lang.String)
+org/eclipse/tycho/model/PluginRef/setWs(java.lang.String)
+org/eclipse/tycho/model/PluginRef/getOs()

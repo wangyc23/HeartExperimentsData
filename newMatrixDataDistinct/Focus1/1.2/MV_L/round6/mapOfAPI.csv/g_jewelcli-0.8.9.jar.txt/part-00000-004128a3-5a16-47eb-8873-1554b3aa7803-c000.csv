@@ -1,0 +1,4 @@
+0	java/util/Iterator/hasNext()
+1	com/lexicalscope/jewelcli/internal/fluentreflection/dynamicproxy/$Implementing$MethodInvokationContext/access$100(com.lexicalscope.jewelcli.internal.fluentreflection.dynamicproxy.$Implementing$MethodInvokationContext)
+2	java/lang/ThreadLocal/remove()
+3	java/lang/ThreadLocal/set(java.lang.Object)

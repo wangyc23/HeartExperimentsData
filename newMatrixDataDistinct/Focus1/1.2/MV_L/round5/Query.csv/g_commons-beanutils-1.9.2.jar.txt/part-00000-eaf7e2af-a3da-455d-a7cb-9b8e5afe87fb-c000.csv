@@ -1,0 +1,4 @@
+java/sql/ResultSetMetaData/getColumnType(int)
+java/lang/String/toLowerCase()
+java/sql/ResultSetMetaData/getColumnLabel(int)
+java/lang/String/length()

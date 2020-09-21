@@ -1,0 +1,5 @@
+org/apache/pdfbox/util/PDFText2HTML/getTitle()@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	4
+org/apache/pdfbox/pdmodel/documentinterchange/taggedpdf/PDLayoutAttributeObject/toString()@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	2
+org/apache/pdfbox/pdmodel/font/PDType1AfmPfbFont/load(org.apache.pdfbox.pdmodel.PDDocument,java.io.InputStream,java.io.InputStream)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	0
+org/apache/pdfbox/ConvertColorspace/replaceGrayTokensWithCMYKTokens(java.util.List,java.util.List,int,java.util.Hashtable)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	3
+eu/learnpad/core/impl/or/XwikiCoreFacadeRestResource/pushKPIValues(java.lang.String,eu.learnpad.dash.rest.data.KPIValuesFormat,java.lang.String,java.io.InputStream)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	1

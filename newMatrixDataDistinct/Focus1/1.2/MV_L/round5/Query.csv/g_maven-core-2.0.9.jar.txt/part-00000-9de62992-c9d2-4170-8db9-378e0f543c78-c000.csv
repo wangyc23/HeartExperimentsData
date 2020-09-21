@@ -1,0 +1,4 @@
+org/apache/maven/settings/Proxy/getNonProxyHosts()
+org/apache/maven/artifact/manager/WagonManager/addAuthenticationInfo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+java/util/Iterator/hasNext()
+org/apache/maven/settings/Proxy/getHost()

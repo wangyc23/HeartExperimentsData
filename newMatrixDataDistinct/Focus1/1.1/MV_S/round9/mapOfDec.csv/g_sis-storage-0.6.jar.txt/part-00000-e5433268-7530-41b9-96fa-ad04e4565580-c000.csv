@@ -1,0 +1,5 @@
+net/java/truecommons/io/Streams/cat(java.io.InputStream,java.io.OutputStream)@g_truecommons-io-2.5.0.jar.txt	0
+org/apache/sis/index/tree/QuadTree/queryByPointRadius(org.apache.sis.geometry.DirectPosition2D,double,org.apache.sis.index.tree.QuadTreeNode,java.awt.geom.Rectangle2D,java.awt.geom.Rectangle2D)@g_truecommons-io-2.5.0.jar.txt	4
+org/apache/sis/index/tree/QuadTreeWriter/writeTreeConfigsToFile(org.apache.sis.index.tree.QuadTree,java.lang.String)@g_truecommons-io-2.5.0.jar.txt	1
+io/netty/buffer/CompositeByteBuf/capacity(int)@g_truecommons-io-2.5.0.jar.txt	2
+org/apache/sis/internal/storage/IOUtilities/part(java.lang.Object,boolean)@g_truecommons-io-2.5.0.jar.txt	3

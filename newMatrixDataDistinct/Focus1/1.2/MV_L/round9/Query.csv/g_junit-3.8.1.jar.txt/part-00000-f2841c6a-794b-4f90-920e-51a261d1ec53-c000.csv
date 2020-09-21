@@ -1,0 +1,4 @@
+java/lang/Class/getResourceAsStream(java.lang.String)
+java/util/Properties/getProperty(java.lang.String)
+java/lang/String/trim()
+java/lang/String/length()

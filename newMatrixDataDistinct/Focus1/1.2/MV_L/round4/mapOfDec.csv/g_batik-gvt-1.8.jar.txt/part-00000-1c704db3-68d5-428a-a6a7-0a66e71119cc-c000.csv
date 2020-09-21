@@ -1,0 +1,5 @@
+org/apache/batik/gvt/AbstractGraphicsNode/paint(java.awt.Graphics2D)@g_batik-gvt-1.7.jar.txt	0
+org/jfree/chart/ChartPanel/paintComponent(java.awt.Graphics)@g_jfreechart-1.0.19.jar.txt	1
+org/apache/batik/gvt/renderer/MacRenderer/repaint(org.apache.batik.ext.awt.geom.RectListManager)@g_batik-gvt-1.7.jar.txt	3
+org/apache/batik/gvt/filter/GraphicsNodeRed8Bit/genRect(java.awt.image.WritableRaster)@g_batik-gvt-1.7.jar.txt	4
+org/jfree/chart/JFreeChart/draw(java.awt.Graphics2D,java.awt.geom.Rectangle2D,java.awt.geom.Point2D,org.jfree.chart.ChartRenderingInfo)@g_jfreechart-1.0.19.jar.txt	2

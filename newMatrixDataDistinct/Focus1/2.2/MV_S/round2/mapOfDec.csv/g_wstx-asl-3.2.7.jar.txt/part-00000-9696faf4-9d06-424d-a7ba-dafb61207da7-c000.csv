@@ -1,0 +1,5 @@
+org/apache/xmlbeans/impl/jam/annotation/WhitespaceDelimitedTagParser/removeComments(java.lang.String)@g_xmlbeans-2.3.0.jar.txt	1
+org/apache/xmlbeans/impl/jam/annotation/WhitespaceDelimitedTagParser/parseAssignments(java.util.Properties,java.lang.String)@g_xmlbeans-2.3.0.jar.txt	0
+org/apache/xmlbeans/impl/common/NameUtil/getPackageFromNamespace(java.lang.String,boolean)@g_xmlbeans-2.3.0.jar.txt	3
+org/codehaus/stax2/ri/dom/DOMWrappingReader/readElementAsArray(org.codehaus.stax2.typed.TypedArrayDecoder)@g_stax2-api-3.1.4.jar.txt	2
+org/apache/xmlbeans/soap/SOAPArrayType/initDimensions(java.lang.String,int)@g_xmlbeans-2.3.0.jar.txt	4

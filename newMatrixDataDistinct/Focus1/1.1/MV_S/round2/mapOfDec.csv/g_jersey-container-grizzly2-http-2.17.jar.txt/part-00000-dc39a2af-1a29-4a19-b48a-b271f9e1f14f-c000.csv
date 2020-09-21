@@ -1,0 +1,5 @@
+org/glassfish/jersey/jetty/JettyHttpContainer/ResponseWriter/writeResponseStatusAndHeaders(long,org.glassfish.jersey.server.ContainerResponse)@g_jersey-container-simple-http-2.19.jar.txt	2
+org/glassfish/jersey/grizzly2/httpserver/GrizzlyHttpServerFactory/createHttpServer(java.net.URI,org.glassfish.jersey.grizzly2.httpserver.GrizzlyHttpContainer,boolean,org.glassfish.grizzly.ssl.SSLEngineConfigurator,boolean)@g_jersey-container-simple-http-2.19.jar.txt	4
+org/glassfish/jersey/jetty/JettyHttpContainer/handle(java.lang.String,org.eclipse.jetty.server.Request,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jersey-container-jetty-http-2.7.jar.txt	1
+org/glassfish/jersey/simple/SimpleContainer/handle(org.simpleframework.http.Request,org.simpleframework.http.Response)@g_jersey-container-simple-http-2.19.jar.txt	0
+org/glassfish/jersey/simple/SimpleContainerFactory/_create(java.net.URI,javax.net.ssl.SSLContext,org.glassfish.jersey.simple.SimpleContainer,org.glassfish.jersey.internal.util.collection.UnsafeValue)@g_jersey-container-simple-http-2.19.jar.txt	3

@@ -1,0 +1,5 @@
+org/jsonschema2pojo/ContentResolver/resolve(java.net.URI)@g_spring-social-web-1.1.2.RELEASE.jar.txt	0
+org/jsonschema2pojo/rules/ObjectRule/addToString(com.sun.codemodel.JDefinedClass)@g_spring-social-web-1.1.2.RELEASE.jar.txt	4
+org/springframework/social/facebook/api/impl/FacebookTemplate/fetchPagedConnections(java.lang.String,java.lang.String,java.lang.Class,org.springframework.util.MultiValueMap)@g_spring-social-web-1.1.2.RELEASE.jar.txt	2
+org/jsonschema2pojo/SchemaMapper/readSchema(java.net.URL)@g_spring-social-web-1.1.2.RELEASE.jar.txt	1
+org/springframework/social/connect/web/ConnectSupport/getRequestParameters(org.springframework.web.context.request.NativeWebRequest,java.lang.String[])@g_spring-social-web-1.1.2.RELEASE.jar.txt	3

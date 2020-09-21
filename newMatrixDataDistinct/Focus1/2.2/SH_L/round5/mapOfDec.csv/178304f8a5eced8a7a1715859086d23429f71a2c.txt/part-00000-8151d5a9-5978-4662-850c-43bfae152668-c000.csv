@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/client/coprocessor/ExecResult/readFields(java.io.DataInput)@27987b6823f76e575061871e738a4ec4af3c2404.txt	3
+org/apache/hadoop/hbase/ClusterStatus/readFields(java.io.DataInput)@27987b6823f76e575061871e738a4ec4af3c2404.txt	2
+org/apache/hadoop/hbase/HServerAddress/readFields(java.io.DataInput)@27987b6823f76e575061871e738a4ec4af3c2404.txt	1
+org/apache/hadoop/hbase/filter/RegexStringComparator/readFields(java.io.DataInput)@27987b6823f76e575061871e738a4ec4af3c2404.txt	0
+org/apache/hadoop/hbase/ServerName/getServerNameLessStartCode(java.lang.String)@27987b6823f76e575061871e738a4ec4af3c2404.txt	4

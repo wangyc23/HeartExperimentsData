@@ -1,0 +1,5 @@
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateClass(com.sun.codemodel.JDefinedClass,com.sun.codemodel.JVar)@g_wadl-core-1.1.6.jar.txt	4
+org/jvnet/ws/wadl2java/GeneratorUtil/makeClassName(java.lang.String)@g_wadl-core-1.1.6.jar.txt	0
+org/jvnet/ws/wadl/ast/WadlAstBuilder/addMethodToParent(java.lang.Object,org.jvnet.ws.wadl.Method,java.net.URI)@g_wadl-core-1.1.6.jar.txt	2
+org/jvnet/ws/wadl2java/Wadl2Java/process(java.net.URI)@g_wadl-core-1.1.6.jar.txt	1
+org/jvnet/ws/wadl2java/GeneratorUtil/makeParamName(java.lang.String)@g_wadl-core-1.1.6.jar.txt	3

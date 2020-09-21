@@ -1,0 +1,5 @@
+org/apache/maven/plugin/logging/SystemStreamLog/error(java.lang.CharSequence,java.lang.Throwable)@g_common-3.5.0.jar.txt	3
+org/eclipse/m2m/atl/common/ATLLogFormatter/format(java.util.logging.LogRecord)@g_common-3.5.0.jar.txt	0
+org/apache/log/output/io/rotate/UniqueFileStrategy/nextFile()@g_common-3.5.0.jar.txt	1
+org/apache/maven/plugin/logging/SystemStreamLog/print(java.lang.String,java.lang.CharSequence,java.lang.Throwable)@g_common-3.5.0.jar.txt	4
+org/apache/log/util/StackIntrospector/getRecentStack(java.lang.Class,int)@g_common-3.5.0.jar.txt	2

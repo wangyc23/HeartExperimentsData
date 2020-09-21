@@ -1,0 +1,4 @@
+0	org/codice/ddf/spatial/ogc/csw/catalog/source/CswCqlTextFilter/getInstance()
+1	org/switchyard/policy/PolicyUtil/require(org.switchyard.Exchange,org.switchyard.policy.Policy)
+2	org/codice/ddf/spatial/ogc/csw/catalog/source/CswFilterDelegate/propertyIsEqualTo(java.lang.String,java.lang.String,boolean)
+3	org/codice/ddf/spatial/ogc/csw/catalog/source/CswCqlTextFilter/getCqlText(org.codice.ddf.spatial.ogc.csw.catalog.endpoint.FilterType)

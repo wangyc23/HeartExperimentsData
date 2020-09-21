@@ -1,0 +1,5 @@
+com/tamingtext/qa/PassageRankingComponent/createWeights(java.lang.String,com.tamingtext.qa.SpanNearQuery,java.util.Map,java.util.Map,com.tamingtext.qa.IndexReader)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	2
+org/jbpm/designer/taskforms/TaskFormTemplateManager/generateProcessTemplate(org.jbpm.designer.taskforms.TaskFormInfo)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	3
+com/tamingtext/tagrecommender/TestStackOverflowTagger/loadTags(com.tamingtext.tagrecommender.OpenObjectIntHashMap)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	1
+org/jbpm/designer/server/StencilSetExtensionGenerator/getStencilSetExtensionLocation(java.lang.String)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	4
+org/wso2/jaggery/integration/tests/hostObjects/core/HttpClientTestCase/testHttpClientPut()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0

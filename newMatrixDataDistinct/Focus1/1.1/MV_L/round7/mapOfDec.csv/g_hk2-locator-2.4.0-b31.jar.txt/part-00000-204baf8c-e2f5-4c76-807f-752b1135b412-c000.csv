@@ -1,0 +1,5 @@
+org/jvnet/hk2/internal/Utilities/createAutoDescriptor(java.lang.Class,org.jvnet.hk2.internal.ServiceLocatorImpl)@g_hk2-locator-2.4.0-b25.jar.txt	3
+org/jvnet/hk2/internal/ServiceLocatorImpl/internalGetInjecteeDescriptor(org.glassfish.hk2.api.Injectee,boolean)@g_hk2-locator-2.4.0-b10.jar.txt	2
+org/jvnet/hk2/internal/Utilities/createAutoFactoryDescriptor(java.lang.Class,org.glassfish.hk2.api.ActiveDescriptor,org.jvnet.hk2.internal.ServiceLocatorImpl)@g_hk2-locator-2.4.0-b10.jar.txt	1
+org/jvnet/hk2/internal/Utilities/createAutoFactoryDescriptor(java.lang.Class,org.glassfish.hk2.api.ActiveDescriptor,org.jvnet.hk2.internal.ServiceLocatorImpl)@g_hk2-locator-2.4.0-b25.jar.txt	4
+org/jvnet/hk2/internal/Utilities/createAutoDescriptor(java.lang.Class,org.jvnet.hk2.internal.ServiceLocatorImpl)@g_hk2-locator-2.4.0-b10.jar.txt	0

@@ -1,0 +1,4 @@
+0	demo/catalog/CatalogInfo/getCatalogId()
+1	demo/catalog/Catalog/getId()
+2	java/util/stream/Collectors/toSet()
+3	java/lang/String/format(java.lang.String,java.lang.Object[])

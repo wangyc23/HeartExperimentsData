@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/introspection/ReflectionValueExtractor/evaluate(java.lang.String,java.lang.Object,boolean)
+java/lang/Object/getClass()
+java/lang/StringBuffer/append(java.lang.String)
+java/lang/String/toString()

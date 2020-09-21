@@ -1,0 +1,5 @@
+org/apache/lucene/uninverting/FieldCacheImpl/getCacheEntries()@g_lucene-facet-5.0.0.jar.txt	4
+org/apache/lucene/facet/taxonomy/TaxonomyMergeUtils/merge(org.apache.lucene.store.Directory,org.apache.lucene.store.Directory,org.apache.lucene.facet.taxonomy.directory.DirectoryTaxonomyWriter$OrdinalMap,org.apache.lucene.index.IndexWriter,org.apache.lucene.facet.taxonomy.directory.DirectoryTaxonomyWriter,org.apache.lucene.facet.FacetsConfig)@g_lucene-facet-5.0.0.jar.txt	1
+org/apache/lucene/misc/HighFreqTerms/main(java.lang.String[])@g_lucene-misc-6.4.1.jar.txt	3
+org/apache/lucene/index/MultiPassIndexSplitter/main(java.lang.String[])@g_lucene-misc-6.4.1.jar.txt	2
+org/apache/lucene/facet/taxonomy/directory/DirectoryTaxonomyWriter/addTaxonomy(org.apache.lucene.store.Directory,org.apache.lucene.facet.taxonomy.directory.DirectoryTaxonomyWriter$OrdinalMap)@g_lucene-facet-5.0.0.jar.txt	0

@@ -1,0 +1,4 @@
+org/codice/ddf/spatial/ogc/wfs/v1_0_0/catalog/source/TestWfsSource/setUp(java.lang.String,java.util.List,java.lang.String,java.lang.Integer,java.lang.Integer)
+java/util/Arrays/asList(T[])
+org/codice/ddf/spatial/ogc/wfs/v1_0_0/catalog/source/TestWfsSource/assertMaxFeatures(org.codice.ddf.spatial.ogc.wfs.v1_0_0.catalog.source.GetFeatureType,org.codice.ddf.spatial.ogc.wfs.v1_0_0.catalog.source.Query)
+org/codice/ddf/spatial/ogc/wfs/v1_0_0/catalog/source/WfsSource/query(org.codice.ddf.spatial.ogc.csw.catalog.endpoint.QueryRequest)

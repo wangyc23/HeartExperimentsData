@@ -1,0 +1,4 @@
+com/sun/codemodel/JCodeModel$TypeNameParser/parseArguments(com.sun.codemodel.JClass)
+java/lang/String/length()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)
+java/lang/StringBuilder/toString()

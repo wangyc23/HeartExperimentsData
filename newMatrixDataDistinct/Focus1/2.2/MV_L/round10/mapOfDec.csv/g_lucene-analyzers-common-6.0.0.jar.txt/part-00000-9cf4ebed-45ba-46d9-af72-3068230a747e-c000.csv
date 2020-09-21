@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/unhyphenate()@g_lucene-analyzers-common-6.2.1.jar.txt	1
+org/apache/lucene/analysis/th/ThaiWordFilter/incrementToken()@g_lucene-analyzers-common-5.5.0.jar.txt	3
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/unhyphenate()@g_lucene-analyzers-common-5.5.0.jar.txt	0
+org/apache/lucene/analysis/ngram/NGramTokenFilter/incrementToken()@g_lucene-analyzers-common-5.5.0.jar.txt	4
+org/apache/lucene/analysis/ngram/Lucene43NGramTokenFilter/incrementToken()@g_lucene-analyzers-common-5.5.0.jar.txt	2

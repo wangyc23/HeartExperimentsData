@@ -1,0 +1,5 @@
+morfologik/stemming/DictionaryMetadataBuilder/withOutputConversionPairs(java.util.Map)@g_morfologik-stemming-1.10.0.jar.txt	2
+morfologik/stemming/DictionaryMetadataBuilder/withEquivalentChars(java.util.Map)@g_morfologik-stemming-1.10.0.jar.txt	3
+morfologik/stemming/DictionaryMetadataBuilder/withReplacementPairs(java.util.Map)@g_morfologik-stemming-1.10.0.jar.txt	4
+morfologik/stemming/Dictionary/getForLanguage(java.lang.String)@g_morfologik-stemming-1.10.0.jar.txt	0
+morfologik/stemming/DictionaryMetadataBuilder/withInputConversionPairs(java.util.Map)@g_morfologik-stemming-1.10.0.jar.txt	1

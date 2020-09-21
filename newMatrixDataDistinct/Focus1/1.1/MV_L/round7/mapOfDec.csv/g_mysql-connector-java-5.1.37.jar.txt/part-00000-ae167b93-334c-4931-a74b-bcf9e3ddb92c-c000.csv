@@ -1,0 +1,5 @@
+com/mysql/jdbc/CharsetMapping/<clinit>()@g_mysql-connector-java-5.1.18.jar.txt	2
+com/mysql/jdbc/ConnectionImpl/buildCollationMapping()@g_mysql-connector-java-5.1.18.jar.txt	0
+com/mysql/jdbc/SQLError/dumpSqlStatesMappingsAsXml()@g_mysql-connector-java-5.1.18.jar.txt	3
+com/mysql/jdbc/ConnectionPropertiesImpl/exposeAsXml()@g_mysql-connector-java-5.1.18.jar.txt	4
+com/mysql/jdbc/DatabaseMetaData/9/forEach(java.lang.Object)@g_mysql-connector-java-5.1.18.jar.txt	1

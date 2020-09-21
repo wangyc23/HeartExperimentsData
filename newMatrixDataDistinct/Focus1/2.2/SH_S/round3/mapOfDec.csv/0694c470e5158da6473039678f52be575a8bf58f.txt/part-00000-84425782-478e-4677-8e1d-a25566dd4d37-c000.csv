@@ -1,0 +1,5 @@
+br/com/tecsinapse/camel/integrator/TwitterRouter/configure()@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	1
+br/com/tecsinapse/camel/integrator/TwitterRouter/configureSearch()@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	2
+br/com/tecsinapse/camel/integrator/EmailRouter/configure()@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	0
+br/com/tecsinapse/camel/integrator/TwitterRouter/configureTimelines()@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	3
+br/com/tecsinapse/camel/integrator/FeedRouter/configure()@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	4

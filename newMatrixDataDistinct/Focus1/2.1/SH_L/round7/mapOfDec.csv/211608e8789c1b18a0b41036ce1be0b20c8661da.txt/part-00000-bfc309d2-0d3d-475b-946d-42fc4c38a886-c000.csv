@@ -1,0 +1,5 @@
+cucumber/runtime/junit/SanityChecker/run(java.lang.Class,boolean)@04638a8dae9afa91905ea0e243f73f684f561226.txt	4
+cucumber/runtime/autocomplete/StepdefGeneratorTest/generates_code_completion_metadata()@242614df1d19eac6e5ef1a8d6c496c7c08a766b6.txt	3
+cucumber/runtime/RuntimeGlue/writeStepdefsJson(java.util.List,java.net.URL)@04638a8dae9afa91905ea0e243f73f684f561226.txt	0
+cucumber/runtime/RuntimeGlue/writeStepdefsJson(cucumber.runtime.io.ResourceLoader,java.util.List,java.net.URL)@242614df1d19eac6e5ef1a8d6c496c7c08a766b6.txt	2
+cucumber/runtime/autocomplete/StepdefGeneratorTest/generates_code_completion_metadata()@04638a8dae9afa91905ea0e243f73f684f561226.txt	1

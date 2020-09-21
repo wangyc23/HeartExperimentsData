@@ -1,0 +1,7 @@
+0	org/codice/ddf/spatial/ogc/csw/catalog/source/CswCqlTextFilter/getInstance()
+1	org/switchyard/policy/PolicyUtil/require(org.switchyard.Exchange,org.switchyard.policy.Policy)
+2	org/switchyard/handlers/TransactionHandler/handleMessage(org.switchyard.Exchange)
+3	org/codice/ddf/spatial/ogc/csw/catalog/source/CswFilterDelegate/propertyIsEqualTo(java.lang.String,java.lang.String,boolean)
+4	org/switchyard/policy/PolicyUtil/provide(org.switchyard.Exchange,org.switchyard.policy.Policy)
+5	org/switchyard/handlers/MockTransactionManager/getTransaction()
+6	org/codice/ddf/spatial/ogc/csw/catalog/source/CswCqlTextFilter/getCqlText(org.codice.ddf.spatial.ogc.csw.catalog.endpoint.FilterType)

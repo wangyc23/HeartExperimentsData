@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+java/util/Iterator/hasNext()
+org/apache/maven/reporting/exec/MavenReportExecution/MavenReportExecution(org.apache.maven.reporting.MavenReport)
+org/apache/maven/reporting/exec/MavenReportExecutorRequest/setLocalRepository(org.apache.maven.artifact.repository.ArtifactRepository)

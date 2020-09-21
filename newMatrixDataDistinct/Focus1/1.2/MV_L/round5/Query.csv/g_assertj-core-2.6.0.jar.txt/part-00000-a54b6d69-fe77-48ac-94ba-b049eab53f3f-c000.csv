@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/assertj/core/internal/cglib/transform/AbstractProcessTask/getProject()
+java/io/File/File(java.io.File,java.lang.String)
+org/apache/tools/ant/types/FileSet/getDirectoryScanner(org.apache.tools.ant.Project)

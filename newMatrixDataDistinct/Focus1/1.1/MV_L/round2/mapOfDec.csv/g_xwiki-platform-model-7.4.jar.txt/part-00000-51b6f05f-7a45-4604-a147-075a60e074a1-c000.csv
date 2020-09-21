@@ -1,0 +1,5 @@
+org/xwiki/model/reference/EntityReferenceSet/EntityReferenceEntry/matches(java.util.Map,java.util.Map)@g_xwiki-platform-model-7.0.jar.txt	3
+org/xwiki/model/reference/EntityReferenceSet/EntityReferenceEntry/matches(java.util.Map,java.util.Map)@g_xwiki-platform-model-7.4.2.jar.txt	0
+org/xwiki/model/internal/reference/AbstractStringEntityReferenceResolver/resolve(java.lang.String,org.xwiki.model.EntityType,java.lang.Object[])@g_xwiki-platform-model-7.0.jar.txt	4
+org/xwiki/model/reference/EntityReferenceTreeNode/getChildren(org.xwiki.model.EntityType)@g_xwiki-platform-model-7.4.2.jar.txt	1
+org/xwiki/model/internal/reference/AbstractStringEntityReferenceResolver/resolve(java.lang.String,org.xwiki.model.EntityType,java.lang.Object[])@g_xwiki-platform-model-7.4.2.jar.txt	2

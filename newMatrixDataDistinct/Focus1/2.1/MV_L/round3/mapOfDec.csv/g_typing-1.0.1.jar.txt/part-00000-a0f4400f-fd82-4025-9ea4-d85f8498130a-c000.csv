@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/emftvm/impl/ModuleImpl/toString()@g_emftvm-3.6.0.jar.txt	1
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/copySimpleInPatternElement(org.eclipse.emf.ecore.EObject)@g_emftvm-3.6.0.jar.txt	2
+org/eclipse/m2m/atl/emftvm/impl/CodeBlockImpl/remove(java.lang.Object,java.lang.Object,java.lang.String,org.eclipse.m2m.atl.emftvm.util.StackFrame)@g_emftvm-3.6.0.jar.txt	4
+org/eclipse/m2m/atl/emftvm/util/OCLOperations/22/execute(org.eclipse.m2m.atl.emftvm.util.StackFrame)@g_emftvm-3.6.0.jar.txt	3
+anatlyzer/evaluation/instrumentation/PossiblyUnresolvedBindingInstrumenter/createBindingChecker(anatlyzer.atlext.ATL.Binding)@g_mutants-1.0.0.jar.txt	0

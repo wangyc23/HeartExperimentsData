@@ -1,0 +1,5 @@
+parquet/io/ColumnIOFactory/ColumnIOCreatorVisitor/visitChildren(parquet.io.GroupColumnIO,parquet.schema.GroupType)@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	4
+parquet/pig/GenerateIntTestFile/main(java.lang.String[])@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	2
+parquet/example/data/GroupWriter/write(parquet.example.data.Group)@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	3
+parquet/pig/TupleWriteSupport/write(parquet.pig.Tuple)@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	1
+parquet/pig/GenerateTPCH/main(java.lang.String[])@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	0

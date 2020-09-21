@@ -1,0 +1,5 @@
+com/netflix/client/PrimeConnections/primeConnectionsAsync(java.util.List,com.netflix.client.PrimeConnections$PrimeConnectionListener)@g_ribbon-loadbalancer-2.0.2.jar.txt	3
+com/netflix/loadbalancer/ResponseTimeWeightedRule/ServerWeight/maintainWeights()@g_ribbon-loadbalancer-2.0.2.jar.txt	1
+com/netflix/loadbalancer/BaseLoadBalancer/markServerDown(java.lang.String)@g_ribbon-loadbalancer-2.0.2.jar.txt	4
+com/netflix/loadbalancer/BaseLoadBalancer/setServersList(java.util.List)@g_ribbon-loadbalancer-2.0.2.jar.txt	0
+com/netflix/loadbalancer/DynamicServerListLoadBalancer/setServersList(java.util.List)@g_ribbon-loadbalancer-2.0.2.jar.txt	2

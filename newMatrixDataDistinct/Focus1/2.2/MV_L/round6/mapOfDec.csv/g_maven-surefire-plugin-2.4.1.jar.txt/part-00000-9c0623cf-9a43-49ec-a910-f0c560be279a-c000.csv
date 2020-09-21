@@ -1,0 +1,5 @@
+org/apache/maven/plugin/surefire/SurefirePlugin/constructSurefireBooter()@g_maven-surefire-plugin-2.3.jar.txt	2
+org/apache/maven/plugin/surefire/SurefirePlugin/addProvider(org.apache.maven.surefire.booter.SurefireBooter,java.lang.String,java.lang.String,org.apache.maven.artifact.Artifact)@g_maven-surefire-plugin-2.5.jar.txt	4
+org/apache/maven/plugin/surefire/SurefirePlugin/constructSurefireBooter()@g_maven-surefire-plugin-2.5.jar.txt	0
+org/apache/maven/plugin/surefire/SurefirePlugin/showMap(java.util.Map,java.lang.String)@g_maven-surefire-plugin-2.3.jar.txt	3
+org/apache/maven/plugin/surefire/SurefirePlugin/showMap(java.util.Map,java.lang.String)@g_maven-surefire-plugin-2.5.jar.txt	1

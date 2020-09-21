@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/FrenchTreebankParserParams/loadMWMap(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/international/french/FrenchMorphoFeatureSpecification/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/nndep/DependencyParser/setupClassifierForTraining(java.util.List,java.util.List,java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3
+net/java/sen/tools/CompoundWordTableCompiler/buildTable(java.io.BufferedReader,int,int,java.lang.String)@g_lucene-gosen-ipadic-1.2.1.jar.txt	0
+edu/stanford/nlp/process/Americanize/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4

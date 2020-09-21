@@ -1,0 +1,5 @@
+org/keycloak/services/managers/ApplicationManager/toJBossSubsystemConfig(org.keycloak.models.RealmModel,org.keycloak.models.ApplicationModel,java.net.URI)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	1
+org/keycloak/example/BootstrapListener/contextInitialized(org.keycloak.example.ServletContextEvent)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	3
+org/keycloak/models/mongo/keycloak/adapters/RealmAdapter/setSslRequired(org.keycloak.enums.SslRequired)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	4
+org/keycloak/models/jpa/RealmAdapter/setSslRequired(org.keycloak.enums.SslRequired)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	2
+org/keycloak/services/managers/OAuthClientManager/toInstallationRepresentation(org.keycloak.models.RealmModel,org.keycloak.models.OAuthClientModel,java.net.URI)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	0

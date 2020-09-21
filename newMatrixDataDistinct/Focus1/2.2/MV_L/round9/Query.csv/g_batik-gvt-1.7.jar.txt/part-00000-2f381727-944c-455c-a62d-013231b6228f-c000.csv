@@ -1,0 +1,4 @@
+java/awt/GraphicsEnvironment/getLocalGraphicsEnvironment()
+java/util/Map/values()
+java/lang/String/replace(char,char)
+java/util/StringTokenizer/nextToken()

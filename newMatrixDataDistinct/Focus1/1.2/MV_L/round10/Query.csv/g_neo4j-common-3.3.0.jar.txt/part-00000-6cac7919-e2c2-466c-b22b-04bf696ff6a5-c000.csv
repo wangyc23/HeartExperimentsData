@@ -1,0 +1,4 @@
+java/lang/StackTraceElement/isNativeMethod()
+java/lang/Thread/getPriority()
+java/lang/String/toLowerCase()
+java/lang/String/toUpperCase()

@@ -1,0 +1,4 @@
+org/glassfish/grizzly/compression/lzma/LZMADecoder/finish(org.glassfish.grizzly.attributes.AttributeStorage)
+org/glassfish/grizzly/TransformationResult$Status/ordinal()
+java/lang/StringBuilder/append(java.lang.String)
+org/glassfish/grizzly/TransformationResult/getMessage()

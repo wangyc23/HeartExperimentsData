@@ -1,0 +1,5 @@
+org/apache/commons/validator/GenericTypeValidator/formatLong(java.lang.String,java.util.Locale)@g_commons-validator-1.3.1.jar.txt	2
+org/apache/commons/validator/GenericTypeValidator/formatFloat(java.lang.String,java.util.Locale)@g_commons-validator-1.3.1.jar.txt	3
+org/apache/commons/validator/GenericTypeValidator/formatByte(java.lang.String,java.util.Locale)@g_commons-validator-1.3.1.jar.txt	1
+org/apache/commons/validator/GenericTypeValidator/formatInt(java.lang.String,java.util.Locale)@g_commons-validator-1.3.1.jar.txt	4
+org/apache/commons/validator/GenericTypeValidator/formatShort(java.lang.String,java.util.Locale)@g_commons-validator-1.3.1.jar.txt	0

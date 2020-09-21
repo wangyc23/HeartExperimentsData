@@ -1,0 +1,5 @@
+com/codahale/metrics/MetricRegistry/getMetrics(java.lang.Class,com.codahale.metrics.MetricFilter)@g_slf4j-simple-1.6.1.jar.txt	2
+com/codahale/metrics/ScheduledReporter/NamedThreadFactory/newThread(java.lang.Runnable)@g_slf4j-simple-1.6.1.jar.txt	1
+org/slf4j/impl/SimpleLogger/log(java.lang.String,java.lang.String,java.lang.Throwable)@g_slf4j-simple-1.6.1.jar.txt	3
+com/codahale/metrics/ScheduledReporter/stop()@g_slf4j-simple-1.6.1.jar.txt	4
+com/codahale/metrics/CsvReporter/report(long,java.lang.String,java.lang.String,java.lang.String,java.lang.Object[])@g_slf4j-simple-1.6.1.jar.txt	0

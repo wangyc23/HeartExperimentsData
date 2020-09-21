@@ -1,0 +1,4 @@
+java/lang/Throwable/printStackTrace()
+org/springframework/beans/factory/access/BeanFactoryLocator/useBeanFactory(java.lang.String)
+tools/RdConvMojo/paramDebug()
+java/lang/Class/getClassLoader()

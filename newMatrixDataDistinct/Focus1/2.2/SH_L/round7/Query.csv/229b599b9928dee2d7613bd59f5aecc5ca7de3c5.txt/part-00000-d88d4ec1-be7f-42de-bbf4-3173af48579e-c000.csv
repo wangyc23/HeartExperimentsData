@@ -1,0 +1,4 @@
+org/apache/drill/exec/server/RemoteServiceSet/getLocalServiceSet()
+org/apache/drill/exec/record/RecordBatchLoader/load(org.apache.drill.exec.proto.UserBitShared.RecordBatchDef,io.netty.buffer.DrillBuf)
+org/apache/drill/exec/proto/UserBitShared/QueryData/getRowCount()
+org/apache/drill/exec/proto/UserBitShared/QueryData/getDef()

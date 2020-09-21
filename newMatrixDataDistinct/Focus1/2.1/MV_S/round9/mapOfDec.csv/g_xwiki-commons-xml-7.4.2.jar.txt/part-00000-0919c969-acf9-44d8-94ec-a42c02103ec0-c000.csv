@@ -1,0 +1,5 @@
+org/xwiki/xml/html/HTMLUtils/XWikiXMLOutputter/escapeAmpersand(java.lang.String)@g_jempbox-1.8.13.jar.txt	1
+org/apache/jempbox/xmp/XMPSchema/setLanguageProperty(java.lang.String,java.lang.String,java.lang.String)@g_jempbox-1.8.13.jar.txt	2
+javanet/staxutils/XMLEventReaderToContentHandler/handleEndElement(javax.xml.stream.events.EndElement)@g_jempbox-1.8.13.jar.txt	4
+javanet/staxutils/XMLStreamReaderToContentHandler/getAttributes()@g_jempbox-1.8.13.jar.txt	3
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_jempbox-1.8.13.jar.txt	0

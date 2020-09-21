@@ -1,0 +1,5 @@
+org/apache/maven/shared/dependency/graph/internal/Maven31DependencyGraphBuilder/getDependencyArtifact(org.eclipse.aether.graph.Dependency)@g_maven-dependency-tree-2.2.jar.txt	4
+org/apache/maven/shared/dependency/graph/internal/Maven31DependencyGraphBuilder/buildDependencyGraph(org.apache.maven.project.MavenProject,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-dependency-tree-2.2.jar.txt	3
+org/apache/maven/shared/dependency/graph/internal/DefaultDependencyGraphBuilder/buildDependencyGraph(org.apache.maven.project.MavenProject,org.apache.maven.artifact.resolver.filter.ArtifactFilter,java.util.Collection)@g_maven-dependency-tree-2.2.jar.txt	2
+org/apache/maven/shared/dependency/graph/internal/Maven3DependencyGraphBuilder/getReactorDependencies(java.util.Collection,java.util.List)@g_maven-dependency-tree-2.2.jar.txt	1
+org/apache/maven/shared/dependency/graph/internal/Maven31DependencyGraphBuilder/getReactorDependencies(java.util.Collection,java.util.List)@g_maven-dependency-tree-2.2.jar.txt	0

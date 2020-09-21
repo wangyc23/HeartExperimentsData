@@ -1,0 +1,4 @@
+org/springframework/util/ObjectUtils/toObjectArray(java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/List/toArray()
+org/springframework/http/HttpHeaders/getContentType()

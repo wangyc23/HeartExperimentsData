@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/composite/MapConverter/newMap(org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.ClassLoader)@g_sisu-inject-plexus-2.1.1.jar.txt	4
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.sonatype.guice.plexus.scanners.PlexusTypeRegistry)@g_sisu-inject-plexus-2.1.1.jar.txt	0
+org/sonatype/guice/plexus/scanners/PlexusTypeRegistry/loadOnStart(java.lang.String,java.lang.String)@g_sisu-inject-plexus-2.1.1.jar.txt	2
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.sonatype.guice.plexus.scanners.PlexusTypeRegistry)@g_sisu-inject-plexus-1.4.2.jar.txt	1
+org/sonatype/guice/plexus/locators/RealmPlexusBeans/getVisibleBeans(org.codehaus.plexus.classworlds.realm.ClassRealm)@g_sisu-inject-plexus-2.1.1.jar.txt	3

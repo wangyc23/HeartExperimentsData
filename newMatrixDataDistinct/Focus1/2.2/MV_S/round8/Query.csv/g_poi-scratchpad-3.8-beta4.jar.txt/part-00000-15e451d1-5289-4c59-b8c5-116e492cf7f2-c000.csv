@@ -1,0 +1,4 @@
+java/util/HashSet/contains(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/poi/hslf/model/Notes/_getSheetNumber()
+java/util/HashSet/add(java.lang.Object)

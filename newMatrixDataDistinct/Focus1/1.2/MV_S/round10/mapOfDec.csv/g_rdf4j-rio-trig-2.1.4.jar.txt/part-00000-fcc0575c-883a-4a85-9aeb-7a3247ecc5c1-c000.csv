@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/rio/turtle/TurtleWriter/writeBNode(org.eclipse.rdf4j.model.BNode,boolean)@g_rdf4j-rio-turtle-2.1.4.jar.txt	4
+org/eclipse/rdf4j/rio/turtle/TurtleParser/verifyCharacterOrFail(int,java.lang.String)@g_rdf4j-rio-turtle-2.1.4.jar.txt	3
+org/eclipse/rdf4j/rio/turtle/TurtleWriter/handleNamespace(java.lang.String,java.lang.String)@g_rdf4j-rio-turtle-2.1.4.jar.txt	2
+org/eclipse/rdf4j/rio/turtle/TurtleParser/parseDirective(java.lang.String)@g_rdf4j-rio-turtle-2.1.4.jar.txt	0
+org/eclipse/rdf4j/rio/turtle/TurtleUtil/isPN_LOCAL(java.lang.String)@g_rdf4j-rio-turtle-2.1.4.jar.txt	1

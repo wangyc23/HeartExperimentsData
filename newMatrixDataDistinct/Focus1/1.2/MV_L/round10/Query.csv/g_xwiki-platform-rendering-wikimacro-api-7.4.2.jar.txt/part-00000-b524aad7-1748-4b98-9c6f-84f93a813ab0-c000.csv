@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/xwiki/bridge/DocumentAccessBridge/getCurrentUserReference()
+org/xwiki/bridge/DocumentAccessBridge/setCurrentUser(java.lang.String)
+org/xwiki/rendering/macro/descriptor/MacroDescriptor/getId()

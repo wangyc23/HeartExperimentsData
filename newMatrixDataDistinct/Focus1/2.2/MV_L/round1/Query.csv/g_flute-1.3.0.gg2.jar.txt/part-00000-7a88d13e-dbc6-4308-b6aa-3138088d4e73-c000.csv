@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Integer/toString(int,int)
+java/lang/StringBuilder/append(int)

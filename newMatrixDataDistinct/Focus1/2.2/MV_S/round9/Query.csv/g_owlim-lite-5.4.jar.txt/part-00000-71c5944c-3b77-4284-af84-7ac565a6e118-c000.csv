@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/ArrayList/ArrayList(java.util.Collection)
+java/util/Map/get(java.lang.Object)
+java/util/List/subList(int,int)

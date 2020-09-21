@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/tregex/ParseException/add_escapes(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/trees/tregex/TokenMgrError/addEscapes(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/trees/tregex/tsurgeon/ParseException/add_escapes(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/ling/tokensregex/parser/ParseException/add_escapes(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/semgraph/semgrex/ParseException/add_escapes(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	0

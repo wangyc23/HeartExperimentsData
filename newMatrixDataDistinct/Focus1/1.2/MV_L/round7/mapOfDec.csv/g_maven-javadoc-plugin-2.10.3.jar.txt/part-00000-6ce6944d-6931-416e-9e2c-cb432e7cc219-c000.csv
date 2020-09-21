@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/processFix(com.thoughtworks.qdox.model.JavaClass)@g_maven-javadoc-plugin-2.9.1.jar.txt	2
+org/apache/maven/plugin/javadoc/JavadocUtil/getIncludedFiles(java.io.File,java.lang.String[],java.lang.String[])@g_maven-javadoc-plugin-2.9.1.jar.txt	4
+org/apache/maven/plugin/javadoc/options/io/xpp3/JavadocOptionsXpp3Reader/read(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-javadoc-plugin-2.9.1.jar.txt	0
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/writeParamTag(java.lang.StringBuilder,com.thoughtworks.qdox.model.JavaMethod,org.apache.maven.plugin.javadoc.AbstractFixJavadocMojo$JavaEntityTags,java.lang.String[])@g_maven-javadoc-plugin-2.9.1.jar.txt	3
+org/apache/maven/plugin/javadoc/options/io/xpp3/JavadocOptionsXpp3Reader/read(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-javadoc-plugin-2.8.1.jar.txt	1

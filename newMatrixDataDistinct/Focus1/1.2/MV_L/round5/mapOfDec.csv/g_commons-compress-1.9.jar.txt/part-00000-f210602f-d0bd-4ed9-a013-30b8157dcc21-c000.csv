@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeLocalFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry)@g_commons-compress-1.5.jar.txt	1
+org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/putArchiveEntry(org.apache.commons.compress.archivers.ArchiveEntry)@g_commons-compress-1.5.jar.txt	3
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeLocalFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry)@g_commons-compress-1.4.1.jar.txt	4
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeCentralFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry)@g_commons-compress-1.4.1.jar.txt	2
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeCentralFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry)@g_commons-compress-1.5.jar.txt	0

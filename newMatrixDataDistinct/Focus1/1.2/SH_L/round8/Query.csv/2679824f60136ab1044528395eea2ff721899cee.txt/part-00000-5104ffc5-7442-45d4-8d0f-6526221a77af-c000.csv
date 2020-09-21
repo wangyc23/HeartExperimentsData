@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/Job/waitForCompletion(boolean)
+org/conan/myzk/hadoop/Purchase/config()
+org/apache/hadoop/mapreduce/Job/setReducerClass(java.lang.Class)
+java/util/Map/get(java.lang.Object)

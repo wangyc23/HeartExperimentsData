@@ -1,0 +1,4 @@
+org/apache/directory/api/asn1/EncoderException/EncoderException(java.lang.String)
+org/apache/directory/shared/kerberos/components/KdcReq/getMessageType()
+java/util/List/size()
+java/util/Iterator/next()

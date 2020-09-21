@@ -1,0 +1,4 @@
+org/keycloak/events/admin/AdminEvent/getAuthDetails()
+org/keycloak/events/admin/AdminEvent/getResourcePath()
+org/keycloak/events/admin/AuthDetails/getRealmId()
+org/keycloak/events/admin/AuthDetails/getIpAddress()

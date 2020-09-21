@@ -1,0 +1,5 @@
+org/codehaus/plexus/components/io/resources/PlexusIoCompressedFileResourceCollection/getResources()@g_plexus-io-2.3.2.jar.txt	4
+org/codehaus/plexus/components/io/resources/PlexusIoZipFileResourceCollection/getEntries()@g_plexus-io-2.0.8.jar.txt	2
+org/codehaus/plexus/components/io/resources/PlexusIoCompressedFileResourceCollection/getResources()@g_plexus-io-2.0.8.jar.txt	1
+org/codehaus/plexus/components/io/attributes/PlexusIoResourceAttributeUtils/getFileAttributesByPathScreenScrape(java.io.File,boolean,boolean)@g_plexus-io-2.3.2.jar.txt	3
+org/codehaus/plexus/components/io/attributes/PlexusIoResourceAttributeUtils/getFileAttributesByPath(java.io.File,org.codehaus.plexus.logging.Logger,int,boolean,boolean)@g_plexus-io-2.0.8.jar.txt	0

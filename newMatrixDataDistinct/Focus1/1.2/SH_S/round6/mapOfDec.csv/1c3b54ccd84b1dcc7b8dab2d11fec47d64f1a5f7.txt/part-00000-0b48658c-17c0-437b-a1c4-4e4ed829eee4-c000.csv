@@ -1,0 +1,5 @@
+com/gs/indexer/solr/SolrSearcher/search(java.lang.String,java.lang.String)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	3
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+com/gs/extractor/impl/SinaExtractor/process()@2aba7b19079a7af2e00355cdb996ae2085016663.txt	4
+com/gs/extractor/impl/SinaNewsLinkExtractor/extractFromHtml(java.lang.String,int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	1
+com/gs/extractor/impl/TencentExtractor/process()@2aba7b19079a7af2e00355cdb996ae2085016663.txt	2

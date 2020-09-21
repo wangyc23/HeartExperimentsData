@@ -1,0 +1,5 @@
+org/springframework/util/ClassUtils/forName(java.lang.String,java.lang.ClassLoader)@g_jna-4.1.0.jar.txt	2
+lombok/installer/InstallerGUI/10/3/run()@g_jna-4.1.0.jar.txt	3
+lombok/patcher/inject/LiveInjector/slowInject(java.lang.String)@g_jna-4.1.0.jar.txt	1
+com/sun/jna/Structure/validateField(java.lang.String,java.lang.Class)@g_jna-4.1.0.jar.txt	0
+org/springframework/util/FileSystemUtils/doCopyRecursively(java.io.File,java.io.File)@g_jna-4.1.0.jar.txt	4

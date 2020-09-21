@@ -1,0 +1,5 @@
+org/apache/struts/util/SecureRequestUtils/getActionConfig(javax.servlet.jsp.PageContext,java.lang.String)@g_sslext-1.2-0.jar.txt	0
+org/apache/struts/taglib/TagUtils/getActionMappingURL(java.lang.String,java.lang.String,javax.servlet.jsp.PageContext,boolean)@g_struts-taglib-1.3.8.jar.txt	1
+org/apache/struts/taglib/html/JavascriptValidatorTag/getJavascriptBegin(java.lang.String)@g_struts-taglib-1.3.8.jar.txt	3
+org/apache/struts/taglib/nested/NestedPropertyHelper/calculateRelativeProperty(java.lang.String,java.lang.String)@g_struts-taglib-1.3.8.jar.txt	2
+org/apache/struts/taglib/html/LinkTag/calculateURL()@g_sslext-1.2-0.jar.txt	4

@@ -1,0 +1,4 @@
+java/lang/Class/newInstance()
+org/apache/commons/logging/Log/isInfoEnabled()
+java/lang/Thread/currentThread()
+org/apache/commons/logging/Log/info(java.lang.Object)

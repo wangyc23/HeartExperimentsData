@@ -1,0 +1,4 @@
+org/infinispan/util/logging/Log/tracef(java.lang.String,java.lang.Object,java.lang.Object)
+java/util/concurrent/locks/Lock/lock()
+java/util/Map/get(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

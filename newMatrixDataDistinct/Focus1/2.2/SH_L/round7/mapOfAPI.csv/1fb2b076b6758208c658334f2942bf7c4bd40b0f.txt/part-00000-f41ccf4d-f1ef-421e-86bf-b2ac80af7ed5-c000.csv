@@ -1,0 +1,4 @@
+0	org/planningpoker/wicket/behaviours/ajax/timer/IObjectState/checkState(java.lang.Object)
+1	org/planningpoker/wicket/behaviours/ajax/timer/AjaxSelfUpdatingTimerBehavior/onPostTimerUpdated(org.apache.wicket.ajax.AjaxRequestTarget)
+2	org/planningpoker/wicket/behaviours/ajax/timer/AjaxSelfUpdatingTimerBehavior/getStateObject()
+3	org/apache/wicket/behavior/AbstractAjaxBehavior/getComponent()

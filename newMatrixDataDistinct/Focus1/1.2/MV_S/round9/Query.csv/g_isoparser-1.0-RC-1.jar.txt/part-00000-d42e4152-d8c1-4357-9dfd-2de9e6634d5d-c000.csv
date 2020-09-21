@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/put(byte[])
+java/nio/channels/WritableByteChannel/close()
+java/util/Iterator/next()
+java/io/ByteArrayOutputStream/toByteArray()

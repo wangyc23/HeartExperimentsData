@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+java/util/Iterator/next()
+org/springframework/integration/transformer/support/AbstractHeaderValueMessageProcessor/setOverwrite(java.lang.Boolean)

@@ -1,0 +1,5 @@
+aQute/lib/osgi/Verifier/isDynamicImport(java.lang.String)@g_bndlib-0.0.145.jar.txt	4
+aQute/lib/osgi/Verifier/verifyHeader(java.lang.String,java.util.regex.Pattern,boolean)@g_bndlib-0.0.145.jar.txt	3
+aQute/lib/osgi/Analyzer/augmentImports()@g_bndlib-0.0.145.jar.txt	1
+aQute/lib/osgi/Analyzer/doServiceComponent(java.lang.String)@g_bndlib-0.0.145.jar.txt	0
+aQute/lib/osgi/Processor/parseHeader(java.lang.String,aQute.lib.osgi.Processor)@g_bndlib-0.0.145.jar.txt	2

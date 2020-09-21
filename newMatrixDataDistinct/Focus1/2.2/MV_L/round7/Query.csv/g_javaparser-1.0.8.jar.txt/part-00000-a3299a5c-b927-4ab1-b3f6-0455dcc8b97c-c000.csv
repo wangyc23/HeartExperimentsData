@@ -1,0 +1,4 @@
+japa/parser/ast/body/AnnotationMemberDeclaration/setJavaDoc(japa.parser.ast.body.JavadocComment)
+japa/parser/ast/expr/AnnotationExpr/accept(japa.parser.ast.visitor.GenericVisitor,java.lang.Object)
+java/util/List/size()
+japa/parser/ast/body/AnnotationMemberDeclaration/getJavaDoc()

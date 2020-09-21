@@ -1,0 +1,4 @@
+java/util/Properties/setProperty(java.lang.String,java.lang.String)
+java/io/PrintWriter/close()
+org/apache/stanbol/commons/solr/managed/IndexMetadata/setState(org.apache.stanbol.commons.solr.managed.ManagedIndexState)
+java/io/PrintWriter/PrintWriter(java.io.OutputStream)

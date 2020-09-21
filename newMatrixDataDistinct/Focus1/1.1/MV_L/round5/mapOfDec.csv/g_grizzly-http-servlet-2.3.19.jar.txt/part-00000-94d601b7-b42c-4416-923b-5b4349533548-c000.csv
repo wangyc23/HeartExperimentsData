@@ -1,0 +1,5 @@
+org/glassfish/grizzly/compression/zip/GZipDecoder/decodeBuffer(org.glassfish.grizzly.memory.MemoryManager,org.glassfish.grizzly.Buffer,org.glassfish.grizzly.compression.zip.GZipDecoder$GZipInputState)@g_grizzly-framework-2.3.22.jar.txt	0
+org/glassfish/grizzly/nio/transport/TCPNIOConnectorHandler/connectAsync(java.net.SocketAddress,java.net.SocketAddress,org.glassfish.grizzly.CompletionHandler,boolean)@g_grizzly-framework-2.3.22.jar.txt	3
+org/glassfish/grizzly/compression/zip/GZipEncoder/encodeBuffer(org.glassfish.grizzly.Buffer,org.glassfish.grizzly.compression.zip.GZipEncoder$GZipOutputState,org.glassfish.grizzly.memory.MemoryManager)@g_grizzly-framework-2.3.22.jar.txt	2
+org/glassfish/grizzly/compression/zip/GZipDecoder/parseHeader(org.glassfish.grizzly.Buffer,org.glassfish.grizzly.compression.zip.GZipDecoder$GZipInputState)@g_grizzly-framework-2.3.22.jar.txt	1
+org/glassfish/grizzly/nio/transport/UDPNIOConnectorHandler/connectAsync(java.net.SocketAddress,java.net.SocketAddress,org.glassfish.grizzly.CompletionHandler,boolean)@g_grizzly-framework-2.3.22.jar.txt	4

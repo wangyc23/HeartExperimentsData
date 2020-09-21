@@ -1,0 +1,4 @@
+org/xwiki/model/reference/DocumentReferenceResolver/resolve(java.lang.Object,java.lang.Object[])
+com/xpn/xwiki/XWikiContext/getWiki()
+com/xpn/xwiki/XWiki/saveDocument(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext)
+com/xpn/xwiki/objects/classes/BaseClass/addTextField(java.lang.String,java.lang.String,int)

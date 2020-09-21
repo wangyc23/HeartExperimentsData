@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/frontend/v2_3/parser/Clauses$$anonfun$Foreach$1/apply()
+org/neo4j/cypher/internal/frontend/v2_3/parser/Base$RichRule3/$tilde$tilde$greater$greater(scala.Function3)
+org/neo4j/cypher/internal/frontend/v2_3/parser/Clauses/Expression()
+org/neo4j/cypher/internal/frontend/v2_3/parser/Clauses/WS()

@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser/Parser/extendsStarted(org.xml.sax.Attributes)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/plugins/resolver/IBiblioResolver/findSnapshotVersion(org.apache.ivy.core.module.id.ModuleRevisionId)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/osgi/obr/OBRResolver/loadRepoFromFile(java.net.URI,java.io.File,java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/util/url/BasicURLHandler/getURLInfo(java.net.URL,int)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/plugins/resolver/util/ResolverHelper/findAll(org.apache.ivy.plugins.repository.Repository,org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,org.apache.ivy.core.module.descriptor.Artifact)@g_ivy-2.3.0.jar.txt	3

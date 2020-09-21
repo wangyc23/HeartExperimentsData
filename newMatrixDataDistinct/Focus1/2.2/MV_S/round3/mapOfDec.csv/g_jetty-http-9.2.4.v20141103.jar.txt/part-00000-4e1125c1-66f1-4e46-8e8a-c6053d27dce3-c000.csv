@@ -1,0 +1,5 @@
+org/eclipse/jetty/websocket/common/WebSocketSession/setUpgradeRequest(org.eclipse.jetty.websocket.api.UpgradeRequest)@g_websocket-common-9.2.2.v20140723.jar.txt	0
+org/eclipse/jetty/io/ssl/SslConnection/DecryptedEndPoint/shutdownOutput()@g_jetty-io-9.1.1.v20140108.jar.txt	2
+org/eclipse/jetty/websocket/common/events/annotated/CallableMethod/call(java.lang.Object,java.lang.Object[])@g_jetty-io-9.1.1.v20140108.jar.txt	4
+org/eclipse/jetty/websocket/common/extensions/compress/PerMessageDeflateExtension/incomingFrame(org.eclipse.jetty.websocket.api.extensions.Frame)@g_jetty-io-9.1.1.v20140108.jar.txt	3
+org/eclipse/jetty/websocket/common/io/IOState/toString()@g_jetty-io-9.1.1.v20140108.jar.txt	1

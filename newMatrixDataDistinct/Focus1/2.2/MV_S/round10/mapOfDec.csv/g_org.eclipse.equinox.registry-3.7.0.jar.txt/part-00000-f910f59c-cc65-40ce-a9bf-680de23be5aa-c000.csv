@@ -1,0 +1,5 @@
+org/eclipse/core/runtime/content/BinarySignatureDescriber/setInitializationData(org.eclipse.core.runtime.IConfigurationElement,java.lang.String,java.lang.Object)@g_contenttype-3.4.200-v20140207-1251.jar.txt	2
+org/eclipse/core/runtime/content/XMLRootElementContentDescriber2/setInitializationData(org.eclipse.core.runtime.IConfigurationElement,java.lang.String,java.lang.Object)@g_contenttype-3.4.200-v20140207-1251.jar.txt	0
+org/eclipse/core/internal/content/Activator/getBooleanDebugOption(java.lang.String,boolean)@g_org.eclipse.core.contenttype-3.4.100.jar.txt	4
+org/eclipse/core/runtime/content/XMLRootElementContentDescriber2/setInitializationData(org.eclipse.core.runtime.IConfigurationElement,java.lang.String,java.lang.Object)@g_org.eclipse.core.contenttype-3.4.100.jar.txt	3
+org/eclipse/core/internal/content/Activator/getBooleanDebugOption(java.lang.String,boolean)@g_contenttype-3.4.200-v20140207-1251.jar.txt	1

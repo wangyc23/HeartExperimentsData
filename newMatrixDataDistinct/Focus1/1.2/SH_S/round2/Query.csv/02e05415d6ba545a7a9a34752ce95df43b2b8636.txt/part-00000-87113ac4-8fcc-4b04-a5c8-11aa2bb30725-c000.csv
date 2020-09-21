@@ -1,0 +1,4 @@
+java/sql/ResultSet/getDate(java.lang.String)
+java/sql/ResultSet/getString(java.lang.String)
+tables/Schedule/setType(java.lang.String)
+java/sql/ResultSet/getInt(java.lang.String)

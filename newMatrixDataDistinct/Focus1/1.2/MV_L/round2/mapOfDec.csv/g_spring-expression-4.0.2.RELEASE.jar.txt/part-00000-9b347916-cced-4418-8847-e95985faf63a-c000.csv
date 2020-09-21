@@ -1,0 +1,5 @@
+org/springframework/expression/spel/ast/Indexer/CollectionIndexingValueRef/getValue()@g_spring-expression-4.0.6.RELEASE.jar.txt	1
+org/springframework/expression/spel/ast/Indexer/CollectionIndexingValueRef/getValue()@g_spring-expression-4.0.5.RELEASE.jar.txt	0
+org/springframework/expression/common/TemplateAwareExpressionParser/skipToCorrectEndSuffix(java.lang.String,java.lang.String,java.lang.String,int)@g_spring-expression-4.0.6.RELEASE.jar.txt	4
+org/springframework/expression/common/TemplateAwareExpressionParser/parseExpressions(java.lang.String,org.springframework.expression.ParserContext)@g_spring-expression-4.0.5.RELEASE.jar.txt	3
+org/springframework/expression/common/TemplateAwareExpressionParser/skipToCorrectEndSuffix(java.lang.String,java.lang.String,java.lang.String,int)@g_spring-expression-4.0.5.RELEASE.jar.txt	2

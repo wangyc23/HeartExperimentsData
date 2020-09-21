@@ -1,0 +1,5 @@
+org/glassfish/jersey/jaxb/internal/NounInflector/Replacer/replacement(java.lang.String)@g_jersey-media-jaxb-2.25.1.jar.txt	0
+org/glassfish/jersey/jaxb/internal/XmlCollectionJaxbProvider/writeCollection(java.lang.Class,java.util.Collection,javax.ws.rs.core.MediaType,java.nio.charset.Charset,javax.xml.bind.Marshaller,java.io.OutputStream)@g_jersey-media-jaxb-2.25.1.jar.txt	4
+org/glassfish/jersey/jaxb/internal/NounInflector/Replacer/replacement(java.lang.String)@g_jersey-media-jaxb-2.17.jar.txt	1
+org/glassfish/jersey/jaxb/internal/NounInflector/decapitalize(java.lang.String)@g_jersey-media-jaxb-2.17.jar.txt	3
+org/glassfish/jersey/jaxb/internal/NounInflector/decapitalize(java.lang.String)@g_jersey-media-jaxb-2.25.1.jar.txt	2

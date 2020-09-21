@@ -1,0 +1,4 @@
+org/apache/maven/artifact/Artifact/getArtifactId()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/maven/project/MavenProject/getVersion()

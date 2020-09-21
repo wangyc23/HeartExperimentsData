@@ -1,0 +1,5 @@
+edu/stanford/nlp/util/StringUtils/argsToPropertiesWithResolve(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+com/netflix/eventbus/impl/EventBusImpl/3/load(java.lang.Class)@g_netflix-eventbus-0.1.2.jar.txt	0
+edu/stanford/nlp/process/DocumentPreprocessor/PlainTextIterator/primeNext()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/trees/TreePrint/toString(java.util.Collection,boolean,boolean)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/ExhaustivePCFGParser/extractBestParses(int,int,int)@g_stanford-parser-3.5.2.jar.txt	1

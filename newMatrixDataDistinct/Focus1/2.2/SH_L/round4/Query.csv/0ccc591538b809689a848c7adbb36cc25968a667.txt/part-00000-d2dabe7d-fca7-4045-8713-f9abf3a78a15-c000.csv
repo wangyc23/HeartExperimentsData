@@ -1,0 +1,4 @@
+java/util/List/size()
+java/util/List/get(int)
+protocol/protobuf/CanalEntry/RowChange/getUnknownFields()
+protocol/protobuf/CanalEntry/RowChange/getSqlBytes()

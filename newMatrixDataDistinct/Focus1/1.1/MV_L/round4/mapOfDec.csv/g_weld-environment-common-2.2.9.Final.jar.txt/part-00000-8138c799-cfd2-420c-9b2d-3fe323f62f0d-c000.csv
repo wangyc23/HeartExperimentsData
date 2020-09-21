@@ -1,0 +1,5 @@
+org/codehaus/classworlds/RealmClassLoader/addConstituent(java.net.URL)@g_classworlds-1.1-alpha-2.jar.txt	1
+com/google/inject/multibindings/MultibindingsScanner/Scanner/prepareMethod(com.google.inject.Binder,java.lang.annotation.Annotation,com.google.inject.Key,com.google.inject.spi.InjectionPoint)@g_guice-multibindings-4.1.0.jar.txt	4
+org/codehaus/classworlds/UberJarRealmClassLoader/buildIndexForJar(java.net.URL)@g_classworlds-1.1-alpha-2.jar.txt	2
+org/codehaus/classworlds/UberJarRealmClassLoader/loadClassDirect(java.lang.String)@g_classworlds-1.1-alpha-2.jar.txt	3
+org/codehaus/classworlds/DefaultClassRealm/addConstituent(java.lang.String,byte[])@g_classworlds-1.1-alpha-2.jar.txt	0

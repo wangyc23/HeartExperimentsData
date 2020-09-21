@@ -1,0 +1,5 @@
+org/springframework/context/support/AbstractApplicationContext/initApplicationEventMulticaster()@g_spring-context-3.2.2.RELEASE.jar.txt	3
+org/springframework/context/support/AbstractApplicationContext/initLifecycleProcessor()@g_spring-context-3.2.2.RELEASE.jar.txt	4
+org/springframework/context/support/AbstractApplicationContext/initMessageSource()@g_spring-context-3.0.5.RELEASE.jar.txt	2
+org/springframework/context/support/AbstractApplicationContext/initApplicationEventMulticaster()@g_spring-context-3.0.5.RELEASE.jar.txt	0
+org/springframework/context/support/AbstractApplicationContext/initLifecycleProcessor()@g_spring-context-3.0.5.RELEASE.jar.txt	1

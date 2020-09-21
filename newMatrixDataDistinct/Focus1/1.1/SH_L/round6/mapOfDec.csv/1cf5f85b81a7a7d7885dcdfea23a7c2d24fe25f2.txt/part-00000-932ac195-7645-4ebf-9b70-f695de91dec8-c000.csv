@@ -1,0 +1,5 @@
+org/baeldung/java/io/JavaFileIntegrationTest/givenUsingJDK6_whenDeletingAFile_thenCorrect()@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	0
+com/boozallen/cognition/ingest/storm/util/HdfsFileLoader/getHadoopFileSystem()@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	2
+org/baeldung/httpclient/conn/HttpClientConnectionManagementTest/whenCustomizedIdleConnMonitor_thenNoExceptions()@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	3
+org/baeldung/persistence/service/FooServiceSortingTests/whenSortingFooWithCriteriaAndMultipleAttributes_thenPrintSortedFoos()@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	1
+org/baeldung/jackson/deserialization/ItemDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	4

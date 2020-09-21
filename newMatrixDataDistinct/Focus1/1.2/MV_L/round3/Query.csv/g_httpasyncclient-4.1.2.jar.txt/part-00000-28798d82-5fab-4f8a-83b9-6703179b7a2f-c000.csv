@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/http/client/protocol/HttpClientContext/getUserToken()
+org/apache/commons/logging/Log/isDebugEnabled()
+java/io/IOException/getMessage()

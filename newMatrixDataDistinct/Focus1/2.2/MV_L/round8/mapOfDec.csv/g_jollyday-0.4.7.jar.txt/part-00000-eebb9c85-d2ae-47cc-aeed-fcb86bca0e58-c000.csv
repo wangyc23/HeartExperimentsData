@@ -1,0 +1,5 @@
+com/sun/faces/config/ConfigManager/ParseTask/getDocument()@g_javax.faces-2.2.7.jar.txt	0
+org/restlet/engine/component/ComponentXmlParser/parse()@g_org.restlet-2.0.14.jar.txt	2
+org/restlet/engine/local/ClapClientHelper/handleClassLoader(org.restlet.Request,org.restlet.Response,java.lang.ClassLoader)@g_org.restlet-2.0.14.jar.txt	4
+com/sun/faces/config/FacesConfigInfo/extractOrdering(org.w3c.dom.Document)@g_javax.faces-2.2.7.jar.txt	1
+org/restlet/engine/application/TunnelFilter/getAcceptReplacers()@g_org.restlet-2.0.14.jar.txt	3

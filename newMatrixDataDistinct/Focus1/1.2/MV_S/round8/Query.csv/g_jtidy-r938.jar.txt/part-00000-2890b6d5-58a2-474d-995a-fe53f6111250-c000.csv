@@ -1,0 +1,4 @@
+org/w3c/tidy/AttrCheckImpl$CheckValign/CheckValign()
+org/w3c/tidy/AttrCheckImpl$CheckTarget/CheckTarget()
+org/w3c/tidy/AttrCheckImpl$CheckLength/CheckLength()
+org/w3c/tidy/AttrCheckImpl$CheckNumber/CheckNumber()

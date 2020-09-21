@@ -1,0 +1,5 @@
+org/apache/maven/model/merge/MavenModelMerger/mergeModelBase_Modules(org.apache.maven.model.ModelBase,org.apache.maven.model.ModelBase,boolean,java.util.Map)@g_maven-model-builder-3.1.1.jar.txt	0
+org/apache/maven/model/merge/MavenModelMerger/mergeBuildBase_Filters(org.apache.maven.model.BuildBase,org.apache.maven.model.BuildBase,boolean,java.util.Map)@g_maven-model-builder-3.0.4.jar.txt	4
+org/apache/maven/model/merge/MavenModelMerger/mergeBuildBase_Filters(org.apache.maven.model.BuildBase,org.apache.maven.model.BuildBase,boolean,java.util.Map)@g_maven-model-builder-3.1.1.jar.txt	1
+org/apache/maven/model/merge/MavenModelMerger/mergePluginExecution_Goals(org.apache.maven.model.PluginExecution,org.apache.maven.model.PluginExecution,boolean,java.util.Map)@g_maven-model-builder-3.1.1.jar.txt	2
+org/apache/maven/model/merge/MavenModelMerger/mergeModelBase_Modules(org.apache.maven.model.ModelBase,org.apache.maven.model.ModelBase,boolean,java.util.Map)@g_maven-model-builder-3.0.4.jar.txt	3

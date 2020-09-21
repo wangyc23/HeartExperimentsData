@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(java.lang.String)
+java/util/Set/add(java.lang.Object)
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getName()
+org/codehaus/plexus/util/xml/pull/XmlPullParser/nextTag()

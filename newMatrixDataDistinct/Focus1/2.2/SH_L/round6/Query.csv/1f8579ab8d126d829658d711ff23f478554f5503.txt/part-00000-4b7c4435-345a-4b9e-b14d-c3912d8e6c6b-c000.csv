@@ -1,0 +1,4 @@
+at/ac/tuwien/inso/indoor/sensorserver/services/positioner/ExtendedNodePositionManager/calculate()/$anonymous1/()
+at/ac/tuwien/inso/indoor/sensorserver/persistence/model/measurement/SignalMap/setLengthX(int)
+at/ac/tuwien/inso/indoor/sensorserver/services/positioner/ExtendedNodeTrilaterationPositioner/ExtendedNodePositionWrapper/getExtendedNodeEdges()
+java/util/Map/get(java.lang.Object)

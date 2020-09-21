@@ -1,0 +1,4 @@
+java/lang/String/format(java.lang.String,java.lang.Object[])
+org/jboss/logging/JBossLogRecord/setParameters(java.lang.Object[])
+java/util/ResourceBundle/getString(java.lang.String)
+org/jboss/logging/JBossLogRecord/setResourceBundle(java.util.ResourceBundle)

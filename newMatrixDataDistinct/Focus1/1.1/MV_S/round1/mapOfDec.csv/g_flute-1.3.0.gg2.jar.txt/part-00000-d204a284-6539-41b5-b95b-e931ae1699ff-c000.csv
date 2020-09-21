@@ -1,0 +1,5 @@
+org/xerial/snappy/SnappyLoader/injectSnappyNativeLoader()@g_xwiki-rendering-wikimodel-7.4.jar.txt	2
+org/xerial/snappy/Snappy/getNativeLibraryVersion()@g_snappy-java-1.0.4.1.jar.txt	0
+org/xwiki/rendering/wikimodel/internal/gwiki/javacc/ParseException/add_escapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	3
+org/xwiki/rendering/wikimodel/internal/xwiki/xwiki21/javacc/XWikiScanner/inline()@g_xwiki-rendering-wikimodel-7.4.jar.txt	1
+org/xwiki/rendering/wikimodel/WikiFormat/getTags(boolean)@g_xwiki-rendering-wikimodel-7.4.jar.txt	4

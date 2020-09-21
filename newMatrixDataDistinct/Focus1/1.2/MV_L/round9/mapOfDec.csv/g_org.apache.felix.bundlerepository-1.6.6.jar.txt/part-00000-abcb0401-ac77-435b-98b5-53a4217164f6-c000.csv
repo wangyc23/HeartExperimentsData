@@ -1,0 +1,5 @@
+org/apache/commons/beanutils/BeanMap/createTypeTransformers()@g_commons-beanutils-1.8.3.jar.txt	2
+org/apache/felix/utils/properties/InterpolationHelper/doSubstVars(java.lang.String,java.lang.String,java.util.Map,java.util.Map,org.apache.felix.utils.properties.InterpolationHelper$SubstitutionCallback)@g_org.apache.felix.utils-1.6.0.jar.txt	1
+org/apache/commons/beanutils/JDBCDynaClass/createDynaProperty(java.sql.ResultSetMetaData,int)@g_commons-beanutils-1.8.3.jar.txt	0
+org/apache/felix/utils/properties/Properties/put(java.lang.String,java.util.List,java.util.List)@g_org.apache.felix.utils-1.6.0.jar.txt	4
+org/apache/commons/beanutils/BeanUtilsBean/describe(java.lang.Object)@g_commons-beanutils-1.8.3.jar.txt	3

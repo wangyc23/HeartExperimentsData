@@ -1,0 +1,4 @@
+java/util/HashSet/add(java.lang.Object)
+java/lang/Object/notifyAll()
+java/lang/StringBuffer/append(int)
+java/util/HashSet/remove(java.lang.Object)

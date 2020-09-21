@@ -1,0 +1,5 @@
+org/apache/hadoop/security/authentication/client/KerberosAuthenticator/readToken()@g_hadoop-auth-2.6.0.jar.txt	4
+org/apache/hadoop/security/authentication/client/PseudoAuthenticator/authenticate(java.net.URL,org.apache.hadoop.security.authentication.client.AuthenticatedURL$Token)@g_hadoop-auth-2.6.0.jar.txt	3
+org/apache/hadoop/security/authentication/server/KerberosAuthenticationHandler/KerberosConfiguration/getAppConfigurationEntry(java.lang.String)@g_hadoop-auth-2.6.0.jar.txt	0
+org/apache/hadoop/security/authentication/client/KerberosAuthenticator/KerberosConfiguration/<clinit>()@g_hadoop-auth-2.6.0.jar.txt	1
+org/apache/hadoop/security/authentication/util/KerberosName/Rule/apply(java.lang.String[])@g_hadoop-auth-2.6.0.jar.txt	2

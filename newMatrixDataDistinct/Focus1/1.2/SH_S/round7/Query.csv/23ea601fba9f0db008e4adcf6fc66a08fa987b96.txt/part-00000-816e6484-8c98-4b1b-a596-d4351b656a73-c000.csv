@@ -1,0 +1,4 @@
+org/ircclient/controller/ChatBean/getMessagesSubtopic()
+java/text/DateFormat/getInstance()
+java/util/Date/Date()
+org/ircclient/controller/ChatBean/getListSubtopic()

@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+java/nio/ByteBuffer/isReadOnly()
+java/nio/ByteBuffer/arrayOffset()
+java/nio/ByteBuffer/order()

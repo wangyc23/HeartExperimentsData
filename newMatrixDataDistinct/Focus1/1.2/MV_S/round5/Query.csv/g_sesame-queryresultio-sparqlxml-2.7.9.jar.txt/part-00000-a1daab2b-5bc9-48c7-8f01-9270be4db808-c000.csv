@@ -1,0 +1,4 @@
+org/openrdf/rio/WriterConfig/get(org.openrdf.rio.RioSetting)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Map/get(java.lang.Object)
+org/openrdf/query/resultio/sparqlxml/SPARQLXMLWriterBase/getWriterConfig()

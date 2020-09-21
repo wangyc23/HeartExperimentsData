@@ -1,0 +1,4 @@
+0	org/neo4j/examples/socnet/Person/getUnderlyingNode()
+1	org/neo4j/examples/socnet/Person/getFriends()
+2	org/neo4j/examples/socnet/Person/getName()
+3	org/neo4j/examples/socnet/StatusUpdate/getUnderlyingNode()

@@ -1,0 +1,5 @@
+com/netflix/servo/publish/JvmMetricPoller/addDetailedThreadMetrics(long,com.netflix.servo.publish.JvmMetricPoller$MetricList)@g_servo-internal-0.9.2.jar.txt	3
+com/netflix/servo/jsr166e/ForkJoinPool/<clinit>()@g_servo-core-0.7.4.jar.txt	1
+com/netflix/servo/jsr166e/ConcurrentHashMapV8/SearchKeysTask/compute()@g_servo-internal-0.9.2.jar.txt	4
+com/netflix/servo/publish/JmxMetricPoller/createTagList(javax.management.ObjectName)@g_servo-internal-0.9.2.jar.txt	2
+com/netflix/servo/jsr166e/ForkJoinPool/<clinit>()@g_servo-internal-0.9.2.jar.txt	0

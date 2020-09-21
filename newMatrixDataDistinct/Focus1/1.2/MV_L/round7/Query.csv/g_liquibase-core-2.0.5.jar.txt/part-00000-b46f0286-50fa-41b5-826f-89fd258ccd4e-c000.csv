@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/io/File/isDirectory()
+java/lang/StringBuilder/append(java.lang.String)
+java/net/URI/toURL()

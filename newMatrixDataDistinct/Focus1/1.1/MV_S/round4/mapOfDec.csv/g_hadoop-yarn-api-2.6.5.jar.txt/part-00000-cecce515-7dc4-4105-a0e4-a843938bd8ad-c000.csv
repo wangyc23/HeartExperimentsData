@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/proto/YarnServerCommonProtos/NodeStatusProto/hashCode()@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	4
+org/apache/hadoop/yarn/proto/YarnProtos/LocalResourceProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	3
+org/apache/hadoop/yarn/proto/YarnProtos/ContainerResourceIncreaseRequestProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.YarnProtos$ContainerResourceIncreaseRequestProto)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	2
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos/SystemCredentialsForAppsProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	0
+org/apache/hadoop/yarn/proto/YarnServiceProtos/ReservationSubmissionRequestProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	1

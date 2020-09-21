@@ -1,0 +1,5 @@
+org/baeldung/event/listener/RegistrationListener/confirmRegistration(org.baeldung.event.OnRegistrationCompleteEvent)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	4
+org/baeldung/web/controller/OldRegistrationController/resetPassword(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model,java.lang.String)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	1
+com/baeldung/java8/base64/Java8EncodeDecodeTest/getMimeBuffer()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	2
+org/baeldung/web/controller/RegistrationController/resetPassword(javax.servlet.http.HttpServletRequest,java.lang.String)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	3
+org/baeldung/registration/listener/RegistrationListener/confirmRegistration(org.baeldung.registration.OnRegistrationCompleteEvent)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	0

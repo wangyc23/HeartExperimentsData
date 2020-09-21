@@ -1,0 +1,4 @@
+java/lang/ThreadLocal/ThreadLocal()
+java/lang/RuntimePermission/RuntimePermission(java.lang.String)
+java/lang/Class/getDeclaredField(java.lang.String)
+java/lang/Error/Error(java.lang.String)

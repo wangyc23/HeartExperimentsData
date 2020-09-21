@@ -1,0 +1,5 @@
+org/xwiki/job/AbstractJob/run()@g_xwiki-commons-job-7.4.jar.txt	2
+org/xwiki/logging/logback/internal/LogbackEventGenerator/append(ch.qos.logback.classic.spi.ILoggingEvent)@g_xwiki-commons-job-7.4.jar.txt	4
+org/xwiki/job/internal/xstream/SafeArrayConverter/writeItem(java.lang.Object,com.thoughtworks.xstream.converters.MarshallingContext,com.thoughtworks.xstream.io.HierarchicalStreamWriter)@g_xwiki-commons-job-7.4.jar.txt	1
+org/xwiki/job/internal/xstream/SafeTreeMarshaller/convert(java.lang.Object,com.thoughtworks.xstream.converters.Converter)@g_xwiki-commons-job-7.4.jar.txt	0
+org/xwiki/logging/logback/internal/DefaultLoggerManager/pushLogListener(org.xwiki.observation.EventListener)@g_xwiki-commons-job-7.4.jar.txt	3

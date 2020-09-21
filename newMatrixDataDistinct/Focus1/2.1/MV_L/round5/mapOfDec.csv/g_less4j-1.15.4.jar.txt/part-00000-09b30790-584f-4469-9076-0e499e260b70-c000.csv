@@ -1,0 +1,5 @@
+org/antlr/grammar/v3/ANTLRv3Parser/finallyClause()@g_netflix-infix-0.1.2.jar.txt	4
+com/github/sommeri/less4j/core/parser/LessParser/reusableStructureName()@g_netflix-infix-0.1.2.jar.txt	0
+com/github/sommeri/less4j/core/compiler/stages/MixinsRulesetsSolver/buildMixinReferenceReplacement(com.github.sommeri.less4j.core.compiler.stages.EvaluatedMixinReferenceCall,com.github.sommeri.less4j.core.compiler.scopes.IScope,java.util.List)@g_netflix-infix-0.1.2.jar.txt	3
+org/antlr/grammar/v3/ActionTranslator/mSET_LOCAL_ATTR()@g_netflix-infix-0.1.2.jar.txt	2
+com/github/sommeri/sourcemap/SourceMapConsumerV3/getOriginalMappingForEntry(com.github.sommeri.sourcemap.SourceMapConsumerV3$Entry)@g_netflix-infix-0.1.2.jar.txt	1

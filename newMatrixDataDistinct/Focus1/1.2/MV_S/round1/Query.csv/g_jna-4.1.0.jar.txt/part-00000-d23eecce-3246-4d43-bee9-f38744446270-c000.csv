@@ -1,0 +1,4 @@
+java/io/File/exists()
+java/util/Iterator/next()
+java/io/File/File(java.lang.String)
+java/io/File/File(java.lang.String,java.lang.String)

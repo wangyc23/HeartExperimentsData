@@ -1,0 +1,4 @@
+org/apache/lucene/search/Query/getBoost()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/apache/lucene/search/IndexSearcher/IndexSearcher(org.apache.lucene.index.IndexReaderContext)
+org/apache/lucene/index/Term/field()

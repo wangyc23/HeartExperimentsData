@@ -1,0 +1,5 @@
+com/mycompany/fileupload/FileManager/delete(java.lang.String)@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	1
+com/mycompany/fileupload/FileManager/get(java.lang.String)@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	0
+org/woelker/telemetrion/core/metrics/MetricWriterTest/readValue(java.lang.String,int)@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	4
+com/mycompany/fileupload/FileManager/save(com.mycompany.fileupload.FileItem)@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	2
+org/woelker/telemetrion/core/sensors/DiskSensorTest/testGetCurrentValues()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	3

@@ -1,0 +1,5 @@
+demo/mtom/client/Client/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+dk/statsbiblioteket/scape/arcunpacker/mapred/ArcInputFormatTest/printValue(dk.statsbiblioteket.scape.arcunpacker.ArcRecord)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	4
+demo/jaxrs/server/Server/main(java.lang.String[])@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	2
+eu/scape_project/archiventory/hadoop/ArcRecordReader/getType(org.archive.io.ArchiveRecord)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	3
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	1

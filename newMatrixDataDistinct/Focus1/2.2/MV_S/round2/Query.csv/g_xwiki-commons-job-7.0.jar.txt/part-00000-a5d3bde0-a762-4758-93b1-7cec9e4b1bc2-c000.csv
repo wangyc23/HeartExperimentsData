@@ -1,0 +1,4 @@
+org/xwiki/logging/event/LoggerListener/LoggerListener(java.lang.String,org.xwiki.logging.Logger)
+org/xwiki/logging/LoggerManager/pushLogListener(org.xwiki.observation.EventListener)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)

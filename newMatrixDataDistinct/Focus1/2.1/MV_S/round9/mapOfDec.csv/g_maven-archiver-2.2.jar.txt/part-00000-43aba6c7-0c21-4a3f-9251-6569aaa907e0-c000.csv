@@ -1,0 +1,5 @@
+org/apache/maven/archiver/MavenArchiver/getManifest(org.apache.maven.project.MavenProject,org.apache.maven.archiver.MavenArchiveConfiguration)@g_maven-artifact-resolver-1.0.jar.txt	3
+org/apache/maven/plugin/ear/HelpMojo/execute()@g_maven-artifact-resolver-1.0.jar.txt	1
+org/apache/maven/shared/artifact/resolver/DefaultProjectDependenciesResolver/resolve(java.util.Collection,java.util.Collection,org.apache.maven.execution.MavenSession)@g_maven-artifact-resolver-1.0.jar.txt	0
+org/apache/maven/plugin/ear/GenerateApplicationXmlMojo/execute()@g_maven-artifact-resolver-1.0.jar.txt	4
+org/apache/maven/plugin/ear/output/FileNameMappingFactory/getFileNameMapping(java.lang.String)@g_maven-artifact-resolver-1.0.jar.txt	2

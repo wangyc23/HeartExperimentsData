@@ -1,0 +1,5 @@
+org/apache/poi/hssf/record/AbstractEscherHolderRecord/toString()@g_poi-3.8-beta4.jar.txt	3
+org/apache/poi/hssf/record/RecordFactory/recordsToMap(java.lang.Class[])@g_poi-3.8-beta4.jar.txt	2
+org/apache/poi/hssf/util/HSSFColor/createColorsByHexStringMap()@g_poi-3.8-beta4.jar.txt	0
+org/apache/poi/ddf/EscherArrayProperty/toString()@g_poi-3.8-beta4.jar.txt	1
+org/apache/poi/hssf/record/EscherAggregate/convertRecordsToUserModel()@g_poi-3.8-beta4.jar.txt	4

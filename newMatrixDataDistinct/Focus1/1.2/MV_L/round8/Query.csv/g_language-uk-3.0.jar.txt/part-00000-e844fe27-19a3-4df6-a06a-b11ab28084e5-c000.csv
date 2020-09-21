@@ -1,0 +1,4 @@
+org/languagetool/AnalyzedTokenReadings/iterator()
+java/util/Iterator/hasNext()
+java/lang/String/length()
+org/languagetool/AnalyzedSentence/getTokensWithoutWhitespace()

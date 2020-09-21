@@ -1,0 +1,5 @@
+com/dempe/ketty/common/utils/ClassUtils/matchesTypeName(java.lang.Class,java.lang.String)@1fc395b016ebde3affd1649e41a2c4d186add9f9.txt	3
+org/slurry/cache4guice/Cache4GuiceBenchMarkTest/beforeTest()@1fc395b016ebde3affd1649e41a2c4d186add9f9.txt	4
+se/sics/kompics/JavaComponent/executeEvent(se.sics.kompics.KompicsEvent,se.sics.kompics.Handler)@1fc395b016ebde3affd1649e41a2c4d186add9f9.txt	1
+se/sics/kompics/network/netty/BaseHandler/channelActive(se.sics.kompics.network.netty.ChannelHandlerContext)@1fc395b016ebde3affd1649e41a2c4d186add9f9.txt	2
+se/sics/kompics/network/virtual/VirtualNetworkChannel/DecoyPort/doSubscribe(se.sics.kompics.MatchedHandler)@1fc395b016ebde3affd1649e41a2c4d186add9f9.txt	0

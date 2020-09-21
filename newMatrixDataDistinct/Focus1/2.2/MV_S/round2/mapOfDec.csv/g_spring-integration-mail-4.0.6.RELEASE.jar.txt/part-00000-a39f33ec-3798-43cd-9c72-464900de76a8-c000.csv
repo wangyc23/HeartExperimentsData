@@ -1,0 +1,5 @@
+org/springframework/integration/handler/DelayHandler/determineDelayForMessage(org.springframework.messaging.Message)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	2
+org/springframework/integration/channel/DefaultHeaderChannelRegistry/channelToChannelName(java.lang.Object)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	1
+org/springframework/integration/util/CallerBlocksPolicy/rejectedExecution(java.lang.Runnable,java.util.concurrent.ThreadPoolExecutor)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	0
+org/springframework/integration/handler/AbstractMessageHandler/handleMessage(org.springframework.messaging.Message)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	4
+org/springframework/integration/expression/ReloadableResourceBundleExpressionSource/loadProperties(org.springframework.core.io.Resource,java.lang.String)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	3

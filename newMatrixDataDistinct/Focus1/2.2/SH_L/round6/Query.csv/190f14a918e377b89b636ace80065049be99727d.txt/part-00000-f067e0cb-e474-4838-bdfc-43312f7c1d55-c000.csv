@@ -1,0 +1,4 @@
+java/util/concurrent/CompletableFuture/thenCombine(java.util.concurrent.CompletionStage,java.util.function.BiFunction)
+java/util/concurrent/CompletableFuture/thenApply(java.util.function.Function)
+org/sample/jax_rs/util/Futures/makeCompletable(java.util.concurrent.Future,java.util.concurrent.Executor)
+org/sample/jax_rs/service/FacebookService/userAsync(java.lang.String)

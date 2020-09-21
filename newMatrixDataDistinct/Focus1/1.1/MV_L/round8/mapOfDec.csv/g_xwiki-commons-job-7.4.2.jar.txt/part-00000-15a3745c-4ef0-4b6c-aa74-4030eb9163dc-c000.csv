@@ -1,0 +1,5 @@
+org/xwiki/job/AbstractJob/jobFinished(java.lang.Throwable)@g_xwiki-commons-job-7.4.jar.txt	4
+org/xwiki/container/servlet/XWikiServletContextListener/contextInitialized(javax.servlet.ServletContextEvent)@g_xwiki-commons-job-7.4.jar.txt	3
+org/xwiki/container/servlet/internal/DefaultServletContainerInitializer/initializeRequest(javax.servlet.http.HttpServletRequest,java.lang.Object)@g_xwiki-commons-job-7.4.jar.txt	2
+org/xwiki/job/internal/DefaultJobStatusStore/initialize()@g_xwiki-commons-job-7.4.jar.txt	0
+org/xwiki/job/internal/xstream/SafeReflectionConverter/2/writeField(java.lang.String,java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_xwiki-commons-job-7.4.jar.txt	1

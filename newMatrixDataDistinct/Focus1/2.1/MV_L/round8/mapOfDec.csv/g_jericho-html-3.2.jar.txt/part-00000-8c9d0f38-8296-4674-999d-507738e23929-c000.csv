@@ -1,0 +1,5 @@
+net/htmlparser/jericho/CharacterEntityReference/<clinit>()@g_aether-api-1.13.1.jar.txt	1
+net/htmlparser/jericho/OutputDocument/getDebugInfo()@g_aether-api-1.13.1.jar.txt	3
+net/htmlparser/jericho/FormFields/getColumnValues(java.util.Map)@g_aether-api-1.13.1.jar.txt	0
+net/htmlparser/jericho/Renderer/A_ElementHandler/process(net.htmlparser.jericho.Renderer$Processor,net.htmlparser.jericho.Element)@g_aether-api-1.13.1.jar.txt	4
+net/htmlparser/jericho/FormControl/getDisplayValueHTML(java.lang.CharSequence,boolean)@g_aether-api-1.13.1.jar.txt	2

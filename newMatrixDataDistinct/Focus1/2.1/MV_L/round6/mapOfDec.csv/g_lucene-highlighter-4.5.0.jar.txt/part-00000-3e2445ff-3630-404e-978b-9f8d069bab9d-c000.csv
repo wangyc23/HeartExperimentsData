@@ -1,0 +1,5 @@
+org/apache/lucene/search/highlight/QueryTermExtractor/getTerms(org.apache.lucene.search.Query,java.util.HashSet,boolean,java.lang.String)@g_lucene-highlighter-4.6.0.jar.txt	2
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extractWeightedSpanTerms(java.util.Map,org.apache.lucene.search.spans.SpanQuery)@g_lucene-highlighter-4.6.0.jar.txt	4
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extractWeightedTerms(java.util.Map,org.apache.lucene.search.Query)@g_lucene-highlighter-4.6.0.jar.txt	0
+org/apache/lucene/search/vectorhighlight/FieldQuery/checkOverlap(java.util.Collection,org.apache.lucene.index.Term[],org.apache.lucene.index.Term[],int,float)@g_lucene-highlighter-4.6.0.jar.txt	1
+org/apache/lucene/search/vectorhighlight/FieldQuery/getKey(org.apache.lucene.search.Query)@g_lucene-highlighter-4.6.0.jar.txt	3

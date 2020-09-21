@@ -1,0 +1,5 @@
+org/objectweb/asm/commons/JSRInlinerAdapter/emitSubroutine(org.objectweb.asm.commons.JSRInlinerAdapter$Instantiation,java.util.List,org.objectweb.asm.tree.InsnList,java.util.List,java.util.List)@g_asm-commons-4.1.jar.txt	1
+org/parboiled/transform/AsmUtils/createClassReader(java.lang.Class)@g_asm-commons-3.2.jar.txt	2
+org/parboiled/transform/InstructionGroupCreator/isPrivateField(java.lang.String,java.lang.String)@g_asm-commons-3.2.jar.txt	3
+org/objectweb/asm/commons/JSRInlinerAdapter/emitSubroutine(org.objectweb.asm.commons.JSRInlinerAdapter$Instantiation,java.util.List,org.objectweb.asm.tree.InsnList,java.util.List,java.util.List)@g_asm-commons-3.2.jar.txt	0
+org/parboiled/transform/VarFramingGenerator/createVarFieldArray(org.parboiled.transform.RuleMethod,org.objectweb.asm.tree.InsnList,org.objectweb.asm.tree.AbstractInsnNode)@g_asm-commons-3.2.jar.txt	4

@@ -1,0 +1,3 @@
+0	com/whh/watcher/statistic/ServerStatisticManager/getCurrentStatistic()
+1	com/facebook/hive/orc/WriterImpl/StringTreeWriter/useDictionaryEncodingEntropyHeuristic()
+2	com/whh/watcher/statistic/ServerStatistic/Statistic/addBlockTotal(long)

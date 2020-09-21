@@ -1,0 +1,4 @@
+org/openqa/selenium/WebElement/findElement(org.openqa.selenium.By)
+org/openqa/selenium/By/tagName(java.lang.String)
+com/budgeta/pom/ReportsPopup/getCheckBoxElement(java.lang.String)
+org/openqa/selenium/WebElement/isSelected()

@@ -1,0 +1,5 @@
+javax/xml/bind/helpers/DefaultValidationEventHandler/getLocation(javax.xml.bind.ValidationEvent)@g_jaxb-api-2.2.2.jar.txt	3
+javax/xml/bind/DatatypeConverterImpl/_parseQName(java.lang.CharSequence,javax.xml.namespace.NamespaceContext)@g_jaxb-api-2.2.7.jar.txt	1
+javax/xml/bind/DatatypeConverterImpl/_parseBoolean(java.lang.CharSequence)@g_jaxb-api-2.2.2.jar.txt	2
+javax/xml/bind/DatatypeConverterImpl/CalendarFormatter/formatSeconds(java.util.Calendar,java.lang.StringBuilder)@g_jaxb-api-2.2.2.jar.txt	4
+javax/xml/bind/DatatypeConverterImpl/_parseQName(java.lang.CharSequence,javax.xml.namespace.NamespaceContext)@g_jaxb-api-2.2.2.jar.txt	0

@@ -1,0 +1,5 @@
+org/aspectj/internal/lang/reflect/AjTypeImpl/getPerClause()@g_aspectjrt-1.8.5.jar.txt	1
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_aspectjrt-1.8.5.jar.txt	0
+org/aspectj/internal/lang/reflect/AjTypeImpl/getITDMethods()@g_aspectjrt-1.8.5.jar.txt	4
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDConstructors()@g_aspectjrt-1.8.5.jar.txt	3
+org/aspectj/runtime/reflect/Factory/makeEncSJP(java.lang.reflect.Member)@g_aspectjrt-1.8.5.jar.txt	2

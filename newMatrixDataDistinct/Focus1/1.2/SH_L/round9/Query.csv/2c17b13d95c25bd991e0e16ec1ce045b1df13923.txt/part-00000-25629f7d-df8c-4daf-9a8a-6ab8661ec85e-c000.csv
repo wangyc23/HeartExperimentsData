@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+java/io/File/File(java.io.File,java.lang.String)
+java/util/jar/Manifest/write(java.io.OutputStream)
+java/io/File/mkdirs()

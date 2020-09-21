@@ -1,0 +1,4 @@
+org/apache/maven/model/Dependency/getVersion()
+java/util/regex/Pattern/compile(java.lang.String)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)

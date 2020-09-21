@@ -1,0 +1,4 @@
+org/drools/template/model/Rule/setActivationGroup(java.lang.String)
+org/drools/template/model/Rule/setSalience(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/drools/template/model/Rule/setAgendaGroup(java.lang.String)

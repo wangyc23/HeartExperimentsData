@@ -1,0 +1,5 @@
+com/nikolas/wicketsecurity/business/core/AbstractDao/findAll()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	3
+app/util/HtmlSpecialChars/replaceChars(java.lang.String)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	1
+app/util/Pagination/getItemsPerPage(java.util.List,int)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	4
+com/sldg/erp/repository/Usuarios/autenticar(java.lang.String,java.lang.String)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	2
+com/sldg/erp/service/UsuarioService/autenticar(com.sldg.erp.model.Usuario)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	0

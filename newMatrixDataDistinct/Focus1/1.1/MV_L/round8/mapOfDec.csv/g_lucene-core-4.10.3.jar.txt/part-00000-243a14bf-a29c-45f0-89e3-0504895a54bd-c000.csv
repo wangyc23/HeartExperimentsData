@@ -1,0 +1,5 @@
+org/apache/lucene/search/DisjunctionMaxQuery/DisjunctionMaxWeight/scorer(org.apache.lucene.index.AtomicReaderContext,org.apache.lucene.util.Bits)@g_lucene-core-4.9.1.jar.txt	1
+org/apache/lucene/index/SegmentMerger/mergeDocValues(org.apache.lucene.index.SegmentWriteState)@g_lucene-core-4.9.1.jar.txt	0
+org/apache/lucene/index/TieredMergePolicy/findForcedMerges(org.apache.lucene.index.SegmentInfos,int,java.util.Map,org.apache.lucene.index.IndexWriter)@g_lucene-core-4.9.1.jar.txt	2
+org/apache/lucene/index/TieredMergePolicy/findMerges(org.apache.lucene.index.MergeTrigger,org.apache.lucene.index.SegmentInfos,org.apache.lucene.index.IndexWriter)@g_lucene-core-4.9.1.jar.txt	4
+org/apache/lucene/index/MultiFields/getFields(org.apache.lucene.index.IndexReader)@g_lucene-core-4.9.1.jar.txt	3

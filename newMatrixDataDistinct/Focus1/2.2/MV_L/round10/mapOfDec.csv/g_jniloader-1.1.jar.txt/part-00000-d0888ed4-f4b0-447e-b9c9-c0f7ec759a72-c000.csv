@@ -1,0 +1,5 @@
+py4j/commands/DirCommand/execute(java.lang.String,java.io.BufferedReader,java.io.BufferedWriter)@g_py4j-0.10.4.jar.txt	2
+com/github/fommil/netlib/LAPACK/<clinit>()@g_core-1.1.jar.txt	1
+py4j/GatewayConnection/run()@g_py4j-0.10.4.jar.txt	3
+com/github/fommil/netlib/BLAS/<clinit>()@g_core-1.1.jar.txt	0
+py4j/ClientServerConnection/waitForCommands()@g_py4j-0.10.4.jar.txt	4

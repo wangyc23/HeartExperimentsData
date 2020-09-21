@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/buildIndices()@g_owlapi-tools-4.5.0.jar.txt	4
+com/clarkparsia/owlapi/modularity/locality/SyntacticLocalityEvaluator/AxiomLocalityVisitor/visit(org.semanticweb.owlapi.model.OWLDisjointDataPropertiesAxiom)@g_owlapi-tools-4.5.0.jar.txt	0
+org/semanticweb/owlapi/debugging/BlackBoxOWLDebugger/getSOSForInconsistentClass(org.semanticweb.owlapi.model.OWLClassExpression)@g_owlapi-tools-4.5.0.jar.txt	3
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/insertChildren(org.semanticweb.owlapi.model.OWLEntity,uk.ac.manchester.cs.owl.explanation.ordering.ExplanationTree)@g_owlapi-tools-4.5.0.jar.txt	1
+uk/ac/manchester/cs/owlapi/modularity/SyntacticLocalityModuleExtractor/extractAsOntology(java.util.Set,org.semanticweb.owlapi.model.IRI,int,int,org.semanticweb.owlapi.reasoner.OWLReasoner,boolean)@g_owlapi-tools-4.5.0.jar.txt	2

@@ -1,0 +1,4 @@
+ij/ImagePlus/getTitle()
+ij/ImageStack/setVoxel(int,int,int,double)
+ij/ImagePlus/setDimensions(int,int,int)
+ij/ImagePlus/setOpenAsHyperStack(boolean)

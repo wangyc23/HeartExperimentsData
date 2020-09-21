@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/jetty/util/security/Constraint/getRoles()
+java/util/Iterator/next()
+java/util/Set/contains(java.lang.Object)

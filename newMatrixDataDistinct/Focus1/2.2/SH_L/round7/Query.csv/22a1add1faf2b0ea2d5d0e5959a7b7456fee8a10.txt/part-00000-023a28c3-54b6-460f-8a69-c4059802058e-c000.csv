@@ -1,0 +1,4 @@
+net/BukkitPE/command/Command/broadcastCommandMessage(net.BukkitPE.command.CommandSender,net.BukkitPE.lang.TextContainer)
+java/util/Map/values()
+net/BukkitPE/Player/save()
+net/BukkitPE/command/Command/testPermission(net.BukkitPE.command.CommandSender)

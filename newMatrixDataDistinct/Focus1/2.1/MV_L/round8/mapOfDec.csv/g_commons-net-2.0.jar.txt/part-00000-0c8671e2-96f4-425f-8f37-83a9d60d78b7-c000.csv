@@ -1,0 +1,5 @@
+org/apache/commons/net/ftp/parser/OS400FTPEntryParser/parseFTPEntry(java.lang.String)@g_commons-net-3.1.jar.txt	2
+org/apache/commons/net/ftp/FTP/__getReply(boolean)@g_commons-net-3.1.jar.txt	4
+org/apache/commons/net/ftp/parser/FTPTimestampParserImpl/parseTimestamp(java.lang.String,java.util.Calendar)@g_commons-net-3.1.jar.txt	3
+org/apache/commons/net/ftp/FTPClient/_parseExtendedPassiveModeReply(java.lang.String)@g_commons-net-3.1.jar.txt	1
+org/apache/commons/net/ftp/FTPHTTPClient/tunnelHandshake(java.lang.String,int,java.io.InputStream,java.io.OutputStream)@g_commons-net-3.1.jar.txt	0

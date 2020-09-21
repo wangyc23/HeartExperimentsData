@@ -1,0 +1,4 @@
+java/lang/Character/valueOf(char)
+java/lang/Integer/valueOf(int)
+java/lang/Object/Object()
+java/lang/Double/valueOf(double)

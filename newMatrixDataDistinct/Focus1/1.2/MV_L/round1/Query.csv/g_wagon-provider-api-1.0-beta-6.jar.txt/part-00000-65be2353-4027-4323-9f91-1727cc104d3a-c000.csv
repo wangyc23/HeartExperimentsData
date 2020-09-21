@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/lang/String/regionMatches(boolean,int,java.lang.String,int,int)
+java/lang/String/length()
+java/lang/String/indexOf(java.lang.String,int)

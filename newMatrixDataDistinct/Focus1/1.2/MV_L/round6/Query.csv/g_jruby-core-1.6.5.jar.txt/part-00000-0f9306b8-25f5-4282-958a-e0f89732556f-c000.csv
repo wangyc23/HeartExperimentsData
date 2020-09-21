@@ -1,0 +1,4 @@
+org/jruby/runtime/profile/GraphProfilePrinter$3/3(org.jruby.runtime.profile.GraphProfilePrinter)
+org/jruby/runtime/profile/GraphProfilePrinter$2/2(org.jruby.runtime.profile.GraphProfilePrinter)
+org/jruby/runtime/profile/GraphProfilePrinter/methodData(org.jruby.runtime.profile.Invocation)
+java/util/Arrays/sort(java.lang.Object[],java.util.Comparator)

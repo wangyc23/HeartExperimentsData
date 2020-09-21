@@ -1,0 +1,4 @@
+scala/collection/mutable/WeakHashMap$/apply(scala.collection.Seq)
+scala/collection/immutable/Set$/empty()
+scala/reflect/ClassTag$/apply(java.lang.Class)
+scala/reflect/internal/Types$$anonfun$45/45(scala.reflect.internal.SymbolTable)

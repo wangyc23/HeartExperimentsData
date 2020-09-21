@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/lang/Long/parseLong(java.lang.String)
+java/lang/Double/parseDouble(java.lang.String)
+org/rrd4j/DsType/valueOf(java.lang.String)

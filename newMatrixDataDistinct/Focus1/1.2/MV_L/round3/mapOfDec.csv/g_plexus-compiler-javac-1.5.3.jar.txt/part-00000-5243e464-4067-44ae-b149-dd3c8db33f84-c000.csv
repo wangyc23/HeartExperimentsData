@@ -1,0 +1,5 @@
+org/codehaus/plexus/compiler/javac/JavacCompiler/compileOutOfProcess(org.codehaus.plexus.compiler.CompilerConfiguration,java.lang.String,java.lang.String[])@g_plexus-compiler-javac-1.6.jar.txt	2
+org/codehaus/plexus/compiler/javac/JavacCompiler/buildCompilerArguments(org.codehaus.plexus.compiler.CompilerConfiguration,java.lang.String[])@g_plexus-compiler-javac-1.6.jar.txt	3
+org/codehaus/plexus/compiler/javac/JavacCompiler/parseModernStream(java.io.BufferedReader)@g_plexus-compiler-javac-1.6.jar.txt	0
+org/codehaus/plexus/compiler/javac/JavacCompiler/parseModernError(java.lang.String)@g_plexus-compiler-javac-1.6.jar.txt	4
+org/codehaus/plexus/compiler/javac/JavacCompiler/parseModernStream(java.io.BufferedReader)@g_plexus-compiler-javac-1.8.jar.txt	1

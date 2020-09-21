@@ -1,0 +1,5 @@
+0	org/apache/camel/model/ProcessorDefinition/process(org.apache.camel.Processor)
+1	org/apache/camel/builder/RouteBuilder/from(java.lang.String)
+2	at/mfpjn/workflow/routebuilder/TwitterReceiverRouteBuilder/configure()/$anonymous1/()
+3	java/lang/String/hashCode()
+4	org/apache/camel/model/ProcessorDefinition/to(java.lang.String)

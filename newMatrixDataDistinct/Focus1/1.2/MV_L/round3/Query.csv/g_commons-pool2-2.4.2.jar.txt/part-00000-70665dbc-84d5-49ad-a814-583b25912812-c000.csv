@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/concurrent/locks/Lock/unlock()
+org/apache/commons/pool2/impl/GenericKeyedObjectPool$ObjectDeque/ObjectDeque(org.apache.commons.pool2.impl.GenericKeyedObjectPool,boolean)
+java/util/concurrent/locks/ReadWriteLock/writeLock()

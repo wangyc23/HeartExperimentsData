@@ -1,0 +1,4 @@
+com/hp/hpl/jena/rdf/model/Statement/getResource()
+com/hp/hpl/jena/rdf/model/Model/contains(com.hp.hpl.jena.rdf.model.Resource,com.hp.hpl.jena.rdf.model.Property,com.hp.hpl.jena.rdf.model.RDFNode)
+com/hp/hpl/jena/rdf/model/StmtIterator/hasNext()
+com/hp/hpl/jena/rdf/model/Resource/getModel()

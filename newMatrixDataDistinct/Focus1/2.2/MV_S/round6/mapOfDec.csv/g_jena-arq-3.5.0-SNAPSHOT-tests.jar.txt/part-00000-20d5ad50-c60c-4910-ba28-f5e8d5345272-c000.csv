@@ -1,0 +1,5 @@
+org/apache/jena/sparql/modify/TestUpdateOperations/delete_insert_where_01()@g_jena-arq-3.5.0-20171014.100206-28-tests.jar.txt	1
+org/apache/jena/sparql/api/TestAPI/testARQConstructQuad_Duplicate_2()@g_jena-arq-3.5.0-20171014.100206-28-tests.jar.txt	3
+org/apache/jena/sparql/junit/UpdateTest/getDataset(org.apache.jena.rdf.model.Resource)@g_jena-arq-3.5.0-20171014.100206-28-tests.jar.txt	2
+org/apache/jena/riot/langsuite/UnitTestEval/run4()@g_jena-arq-3.5.0-20171014.100206-28-tests.jar.txt	0
+org/apache/jena/sparql/api/TestAPI/testARQConstructQuad_Prefix()@g_jena-arq-3.5.0-20171014.100206-28-tests.jar.txt	4

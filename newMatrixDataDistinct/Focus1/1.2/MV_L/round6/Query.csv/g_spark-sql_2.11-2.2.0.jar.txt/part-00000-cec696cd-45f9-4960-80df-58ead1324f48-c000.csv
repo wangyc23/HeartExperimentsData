@@ -1,0 +1,4 @@
+org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat$FileTypes/commonMetadata()
+scala/collection/Seq$/canBuildFrom()
+scala/Option$/option2Iterable(scala.Option)
+scala/collection/Seq/headOption()

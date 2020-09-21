@@ -1,0 +1,4 @@
+org/apache/velocity/app/VelocityEngine/setProperty(java.lang.String,java.lang.Object)
+org/codehaus/plexus/velocity/DefaultVelocityComponent/getLogger()
+org/apache/velocity/app/VelocityEngine/VelocityEngine()
+java/util/Properties/propertyNames()

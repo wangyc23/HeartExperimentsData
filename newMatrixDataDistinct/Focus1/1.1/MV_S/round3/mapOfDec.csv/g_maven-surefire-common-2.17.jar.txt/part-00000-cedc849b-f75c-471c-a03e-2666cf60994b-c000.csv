@@ -1,0 +1,5 @@
+org/apache/maven/it/util/FileUtils/sizeOfDirectory(java.io.File)@g_surefire-api-2.16.jar.txt	4
+org/apache/maven/it/util/FileUtils/deleteFile(java.io.File)@g_surefire-api-2.16.jar.txt	3
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/StringUtils/mid(java.lang.String,int,int)@g_surefire-api-2.16.jar.txt	0
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/CommandLineUtils/1/call()@g_surefire-api-2.16.jar.txt	2
+org/apache/maven/it/util/StringUtils/mid(java.lang.String,int,int)@g_maven-verifier-1.2.jar.txt	1

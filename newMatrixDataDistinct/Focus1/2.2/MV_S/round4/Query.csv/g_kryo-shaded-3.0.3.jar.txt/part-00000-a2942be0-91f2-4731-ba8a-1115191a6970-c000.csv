@@ -1,0 +1,4 @@
+java/util/Calendar/setMinimalDaysInFirstWeek(int)
+java/util/GregorianCalendar/setGregorianChange(java.util.Date)
+com/esotericsoftware/kryo/serializers/DefaultSerializers$TimeZoneSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)
+com/esotericsoftware/kryo/serializers/DefaultSerializers$CalendarSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)

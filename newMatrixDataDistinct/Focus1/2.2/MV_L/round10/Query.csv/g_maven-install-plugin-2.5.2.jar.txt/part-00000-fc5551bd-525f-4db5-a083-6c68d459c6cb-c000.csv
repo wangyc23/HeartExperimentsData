@@ -1,0 +1,4 @@
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/read(java.io.Reader)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/maven/shared/utils/io/IOUtil/close(java.io.Reader)
+org/apache/maven/shared/utils/ReaderFactory/newXmlReader(java.io.InputStream)

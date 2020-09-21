@@ -1,0 +1,5 @@
+org/jboss/resteasy/core/StringParameterInjector/extractValues(java.util.List)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+se/unlogic/eagledns/zoneproviders/db/DBZoneProvider/getPrimaryZones()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+org/jboss/resteasy/core/MediaTypeMap/convert(java.util.List)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+org/jboss/resteasy/core/MediaTypeMap/add(javax.ws.rs.core.MediaType,T)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+org/jboss/resteasy/test/providers/jaxb/regression/resteasy175/KundenverwaltungResource/findKundenJSON()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2

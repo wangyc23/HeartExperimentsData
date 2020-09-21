@@ -1,0 +1,4 @@
+org/apache/lucene/util/BytesRefBuilder/append(org.apache.lucene.util.BytesRef)
+org/apache/lucene/util/BytesRefBuilder/BytesRefBuilder()
+org/apache/lucene/queryparser/classic/QueryParserBase/getAnalyzer()
+java/lang/String/length()

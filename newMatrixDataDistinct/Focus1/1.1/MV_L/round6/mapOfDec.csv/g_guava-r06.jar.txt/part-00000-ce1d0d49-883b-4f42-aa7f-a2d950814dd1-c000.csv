@@ -1,0 +1,5 @@
+com/google/common/collect/StandardTable/ColumnKeyIterator/computeNext()@g_guava-r08.jar.txt	2
+com/google/common/collect/LinkedListMultimap/replaceValues(java.lang.Object,java.lang.Iterable)@g_guava-r08.jar.txt	0
+com/google/common/collect/StandardTable/Column/removePredicate(com.google.common.base.Predicate)@g_guava-r08.jar.txt	1
+com/google/common/collect/ImmutableListMultimap/copyOf(com.google.common.collect.Multimap)@g_guava-r08.jar.txt	4
+com/google/common/collect/Serialization/writeMultimap(com.google.common.collect.Multimap,java.io.ObjectOutputStream)@g_guava-r08.jar.txt	3

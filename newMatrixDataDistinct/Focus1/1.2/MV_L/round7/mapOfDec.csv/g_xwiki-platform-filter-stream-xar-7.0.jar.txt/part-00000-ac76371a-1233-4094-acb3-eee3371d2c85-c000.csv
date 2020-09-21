@@ -1,0 +1,5 @@
+org/xwiki/filter/instance/internal/output/XWikiDocumentOutputFilterStream/onWikiAttachment(java.lang.String,java.io.InputStream,java.lang.Long,org.xwiki.filter.FilterEventParameters)@g_xwiki-platform-filter-instance-oldcore-7.4.2.jar.txt	4
+org/xwiki/filter/xar/internal/output/XAROutputFilterStream/onWikiAttachment(java.lang.String,java.io.InputStream,java.lang.Long,org.xwiki.filter.FilterEventParameters)@g_xwiki-platform-filter-stream-xar-7.4.2.jar.txt	1
+org/xwiki/filter/xar/internal/output/XAROutputFilterStream/beginWikiDocumentLocale(java.util.Locale,org.xwiki.filter.FilterEventParameters)@g_xwiki-platform-filter-stream-xar-7.4.2.jar.txt	0
+org/xwiki/filter/xar/internal/output/XARWikiWriter/newEntry(org.xwiki.model.reference.LocalDocumentReference)@g_xwiki-platform-filter-stream-xar-7.4.2.jar.txt	2
+org/xwiki/filter/xar/internal/input/WikiObjectReader/WikiObject/send(org.xwiki.filter.xar.internal.input.XARInputFilter)@g_xwiki-platform-filter-stream-xar-7.4.2.jar.txt	3

@@ -1,0 +1,4 @@
+at/ac/tuwien/inso/indoor/sensorserver/persistence/model/measurement/AnalysisMetaData/getFrom()
+java/util/Date/equals(java.lang.Object)
+at/ac/tuwien/inso/indoor/sensorserver/persistence/model/measurement/AnalysisMetaData/getSurveySum()
+at/ac/tuwien/inso/indoor/sensorserver/persistence/model/measurement/AnalysisMetaData/getTo()

@@ -1,0 +1,5 @@
+egovframework/com/uss/olh/wor/web/EgovWordDicaryController/deleteWordDicary(egovframework.com.uss.olh.wor.service.WordDicaryVO,egovframework.com.uss.olh.wor.service.WordDicaryDefaultVO)@1e078672573d4866e322f02bba2407be932ff556.txt	1
+egovframework/com/uss/ion/msi/web/EgovMainImageController/deleteMainImageList(java.lang.String,egovframework.com.uss.ion.msi.service.MainImage,org.springframework.ui.ModelMap)@1e078672573d4866e322f02bba2407be932ff556.txt	3
+egovframework/com/cop/stf/service/impl/EgovBBSSatisfactionServiceImpl/updateSatisfaction(egovframework.com.cop.bbs.service.Satisfaction)@1e078672573d4866e322f02bba2407be932ff556.txt	0
+egovframework/com/sym/mnu/mpm/web/EgovMenuManageController/menuBndeAllDelete(egovframework.com.sym.mnu.mpm.service.MenuManageVO,org.springframework.ui.ModelMap)@1e078672573d4866e322f02bba2407be932ff556.txt	4
+egovframework/com/sym/prm/service/impl/EgovProgrmManageServiceImpl/selectChangeRequstProcessListTotCnt(egovframework.com.cmm.ComDefaultVO)@1e078672573d4866e322f02bba2407be932ff556.txt	2

@@ -1,0 +1,4 @@
+java/util/zip/Adler32/update(byte[])
+java/nio/ByteBuffer/position()
+java/nio/ByteBuffer/put(int,byte)
+java/nio/ByteBuffer/get(byte[])

@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/index/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_sisu-inject-bean-1.4.2.jar.txt	0
+org/sonatype/guice/bean/binders/QualifiedTypeBinder/newInstance(java.lang.Class)@g_sisu-inject-bean-1.4.2.jar.txt	2
+org/sonatype/guice/bean/binders/LocatorWiring/bindImplicitType(com.google.inject.TypeLiteral)@g_sisu-inject-bean-1.4.2.jar.txt	4
+org/sonatype/guice/bean/locators/ImplicitBindings/get(com.google.inject.TypeLiteral)@g_sisu-inject-bean-1.4.2.jar.txt	1
+org/sonatype/guice/bean/reflect/MildValues/entrySet()@g_sisu-inject-bean-1.4.2.jar.txt	3

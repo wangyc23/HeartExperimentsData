@@ -1,0 +1,5 @@
+org/apache/commons/csv/CSVFormat/printAndQuote(java.lang.Object,java.lang.CharSequence,int,int,java.lang.Appendable,boolean)@g_commons-csv-1.4.jar.txt	1
+org/apache/commons/csv/CSVParser/nextRecord()@g_commons-csv-1.4.jar.txt	0
+com/univocity/parsers/annotations/helpers/AnnotationHelper/applyFormatSettings(java.lang.Object,java.lang.String[])@g_univocity-parsers-2.2.1.jar.txt	3
+com/univocity/parsers/common/fields/ExcludeFieldNameSelector/getFieldIndexes(java.lang.String[])@g_univocity-parsers-2.2.1.jar.txt	4
+com/univocity/parsers/annotations/helpers/AnnotationHelper/getConversion(java.lang.Class,java.lang.reflect.Field,java.lang.annotation.Annotation)@g_univocity-parsers-2.2.1.jar.txt	2

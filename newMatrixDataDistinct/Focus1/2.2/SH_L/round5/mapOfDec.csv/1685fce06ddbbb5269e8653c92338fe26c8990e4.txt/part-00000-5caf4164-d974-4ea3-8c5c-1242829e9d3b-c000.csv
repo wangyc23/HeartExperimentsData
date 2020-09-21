@@ -1,0 +1,5 @@
+com/github/kristofa/brave/mysql/MySQLStatementInterceptorTest/preProcessShouldNotFailIfNoClientTracer()@0aa40e73bc25da89f0829dc437158c6088b9d895.txt	1
+com/github/kristofa/brave/mysql/MySQLStatementInterceptorTest/postProcessShouldNotFailIfNoClientTracer()@0aa40e73bc25da89f0829dc437158c6088b9d895.txt	2
+com/iluwatar/threadpool/App/main(java.lang.String[])@02e093a379c10109f36bc7d331072c1ae30aac40.txt	3
+com/github/kristofa/brave/ClientResponseInterceptorTest/setup()@0aa40e73bc25da89f0829dc437158c6088b9d895.txt	4
+com/iluwatar/threadpool/WorkerTest/testRun()@02e093a379c10109f36bc7d331072c1ae30aac40.txt	0

@@ -1,0 +1,5 @@
+org/apache/maven/repository/legacy/DefaultWagonManager/proxyInfo(org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-compat-3.0.4.jar.txt	4
+org/apache/maven/artifact/resolver/DefaultArtifactResolver/resolve(org.apache.maven.artifact.Artifact,java.util.List,org.sonatype.aether.RepositorySystemSession)@g_maven-compat-3.0.4.jar.txt	1
+org/apache/maven/profiles/DefaultMavenProfilesBuilder/buildProfiles(java.io.File)@g_maven-compat-3.0.4.jar.txt	2
+org/apache/maven/project/path/DefaultPathTranslator/alignToBaseDirectory(java.lang.String,java.io.File)@g_maven-compat-3.0.4.jar.txt	0
+org/apache/maven/repository/legacy/DefaultUpdateCheckManager/getTouchfile(org.apache.maven.artifact.Artifact)@g_maven-compat-3.0.4.jar.txt	3

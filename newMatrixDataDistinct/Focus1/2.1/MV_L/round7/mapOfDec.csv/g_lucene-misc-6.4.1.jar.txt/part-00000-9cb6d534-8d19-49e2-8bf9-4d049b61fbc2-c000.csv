@@ -1,0 +1,5 @@
+org/apache/lucene/misc/HighFreqTerms/getHighFreqTerms(org.apache.lucene.index.IndexReader,int,java.lang.String,java.util.Comparator)@g_lucene-misc-6.6.0.jar.txt	4
+org/apache/lucene/uninverting/FieldCacheImpl/BinaryDocValuesCache/createValue(org.apache.lucene.index.LeafReader,org.apache.lucene.uninverting.FieldCacheImpl$CacheKey,boolean)@g_lucene-misc-6.6.0.jar.txt	2
+org/apache/lucene/uninverting/FieldCacheImpl/DocsWithFieldCache/createValuePostings(org.apache.lucene.index.LeafReader,java.lang.String)@g_lucene-misc-6.6.0.jar.txt	3
+org/apache/lucene/uninverting/FieldCacheImpl/SortedDocValuesCache/createValue(org.apache.lucene.index.LeafReader,org.apache.lucene.uninverting.FieldCacheImpl$CacheKey,boolean)@g_lucene-misc-6.6.0.jar.txt	0
+org/apache/lucene/uninverting/DocTermOrds/uninvert(org.apache.lucene.index.LeafReader,org.apache.lucene.util.Bits,org.apache.lucene.util.BytesRef)@g_lucene-misc-6.6.0.jar.txt	1

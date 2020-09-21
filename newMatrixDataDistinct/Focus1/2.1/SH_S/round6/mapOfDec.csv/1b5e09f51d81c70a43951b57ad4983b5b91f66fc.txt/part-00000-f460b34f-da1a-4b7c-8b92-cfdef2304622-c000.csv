@@ -1,0 +1,5 @@
+dk/miw/playlists/ChannelList/getChannels()@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	1
+uk/commonline/weather/geo/source/yahoo/YahooGeoLocationParser/error(org.xml.sax.SAXParseException)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	2
+uk/commonline/weather/geo/man/GeoLocationServiceImpl/getRegionInfo(long)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	4
+uk/commonline/weather/geo/client/jaxrs/GeoLocationClient/getLocation(java.lang.String,java.lang.String)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	3
+uk/commonline/weather/geo/jaxrs/Ping/processRequest(uk.commonline.weather.geo.jaxrs.HttpServletRequest,uk.commonline.weather.geo.jaxrs.HttpServletResponse)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	0

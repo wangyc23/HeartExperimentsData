@@ -1,0 +1,5 @@
+org/apache/tomcat/websocket/WsFrameBase/processDataControl()@g_tomcat-embed-websocket-8.0.20.jar.txt	4
+org/apache/tomcat/websocket/server/WsServerContainer/addEndpoint(javax.websocket.server.ServerEndpointConfig)@g_tomcat-embed-websocket-8.0.20.jar.txt	1
+org/apache/tomcat/websocket/pojo/PojoMessageHandlerWholeBinary/decode(java.nio.ByteBuffer)@g_tomcat-embed-websocket-8.0.20.jar.txt	2
+org/apache/tomcat/websocket/WsRemoteEndpointImplBase/sendObjectByCompletion(java.lang.Object,javax.websocket.SendHandler)@g_tomcat-embed-websocket-8.0.20.jar.txt	0
+org/apache/tomcat/websocket/WsSession/doClose(javax.websocket.CloseReason,javax.websocket.CloseReason)@g_tomcat-embed-websocket-8.0.20.jar.txt	3

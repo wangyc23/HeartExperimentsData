@@ -1,0 +1,4 @@
+java/lang/Character/toLowerCase(char)
+java/lang/Character/isLetterOrDigit(char)
+java/lang/StringBuilder/append(java.lang.String)
+org/json/XMLTokener/next()

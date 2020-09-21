@@ -1,0 +1,5 @@
+org/eclipse/jetty/http/HttpField/<clinit>()@g_jetty-http-9.0.5.v20130815.jar.txt	4
+org/eclipse/jetty/http/HttpParser/parseLine(java.nio.ByteBuffer)@g_jetty-http-9.1.1.v20140108.jar.txt	1
+org/eclipse/jetty/http/HttpParser/parseLine(java.nio.ByteBuffer)@g_jetty-http-9.0.5.v20130815.jar.txt	0
+org/eclipse/jetty/http/HttpParser/parseHeaders(java.nio.ByteBuffer)@g_jetty-http-9.1.1.v20140108.jar.txt	3
+org/eclipse/jetty/http/HttpParser/parseHeaders(java.nio.ByteBuffer)@g_jetty-http-9.0.5.v20130815.jar.txt	2

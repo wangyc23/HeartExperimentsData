@@ -1,0 +1,4 @@
+java/io/BufferedInputStream/read(byte[])
+java/io/BufferedOutputStream/flush()
+java/io/BufferedInputStream/close()
+java/io/BufferedOutputStream/write(byte[],int,int)

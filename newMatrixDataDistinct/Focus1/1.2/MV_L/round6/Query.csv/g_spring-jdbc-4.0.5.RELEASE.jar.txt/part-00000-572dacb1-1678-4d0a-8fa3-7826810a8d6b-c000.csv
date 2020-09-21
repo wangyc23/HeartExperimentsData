@@ -1,0 +1,4 @@
+java/sql/SQLException/getNextException()
+org/springframework/dao/DataIntegrityViolationException/DataIntegrityViolationException(java.lang.String,java.lang.Throwable)
+org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator/buildMessage(java.lang.String,java.lang.String,java.sql.SQLException)
+org/springframework/dao/PermissionDeniedDataAccessException/PermissionDeniedDataAccessException(java.lang.String,java.lang.Throwable)

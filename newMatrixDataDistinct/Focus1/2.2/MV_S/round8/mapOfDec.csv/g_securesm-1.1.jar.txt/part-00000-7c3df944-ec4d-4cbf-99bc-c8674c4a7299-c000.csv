@@ -1,0 +1,5 @@
+org/osgi/service/condpermadmin/BundleSignerCondition/1/run()@g_org.osgi.core-4.0.0.jar.txt	2
+org/osgi/service/condpermadmin/BundleSignerCondition/getCondition(org.osgi.framework.Bundle,org.osgi.service.condpermadmin.ConditionInfo)@g_org.osgi.core-4.0.0.jar.txt	1
+org/osgi/framework/BundlePermissionCollection/add(java.security.Permission)@g_org.osgi.core-4.0.0.jar.txt	4
+org/osgi/util/mobile/UserPromptCondition/getCondition(org.osgi.framework.Bundle,org.osgi.service.condpermadmin.ConditionInfo)@g_org.osgi.core-4.0.0.jar.txt	3
+info/dmtree/Uri/toPath(java.lang.String)@g_org.osgi.core-4.0.0.jar.txt	0

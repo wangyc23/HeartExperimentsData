@@ -1,0 +1,5 @@
+org/apache/poi/xssf/usermodel/XSSFWorkbook/createBuiltInName(java.lang.String,int)@g_poi-ooxml-3.9.jar.txt	4
+org/apache/poi/xssf/extractor/XSSFImportFromXML/importFromXML(java.lang.String)@g_poi-ooxml-3.9.jar.txt	3
+org/apache/poi/dev/OOXMLLister/displayParts()@g_poi-ooxml-3.9.jar.txt	0
+org/apache/poi/openxml4j/opc/ZipPackage/saveImpl(java.io.OutputStream)@g_poi-ooxml-3.9.jar.txt	2
+org/apache/poi/dev/OOXMLLister/displayParts()@g_poi-ooxml-3.8.jar.txt	1

@@ -1,0 +1,4 @@
+ch/presentit/service/PresentationService/findAll()
+java/util/List/size()
+org/springframework/util/Assert/notNull(java.lang.Object,java.lang.String)
+ch/presentit/util/MockedObject/MockedObject()

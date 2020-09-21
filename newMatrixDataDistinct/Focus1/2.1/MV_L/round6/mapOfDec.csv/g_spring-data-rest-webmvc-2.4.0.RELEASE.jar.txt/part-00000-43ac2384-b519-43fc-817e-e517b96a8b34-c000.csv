@@ -1,0 +1,5 @@
+org/springframework/data/rest/webmvc/BaseUri/getRepositoryLookupPath(java.lang.String)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	1
+org/springframework/data/repository/config/RepositoryBeanDefinitionBuilder/registerCustomImplementation(org.springframework.data.repository.config.RepositoryConfiguration)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	4
+org/springframework/data/repository/config/RepositoryConfigurationDelegate/registerRepositoriesIn(org.springframework.beans.factory.support.BeanDefinitionRegistry,org.springframework.data.repository.config.RepositoryConfigurationExtension)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	3
+org/springframework/data/util/ClassTypeInformation/getTypeVariableMap(java.lang.Class,java.util.Collection)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	2
+org/springframework/data/rest/core/UriToEntityConverter/convert(java.lang.Object,org.springframework.core.convert.TypeDescriptor,org.springframework.core.convert.TypeDescriptor)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	0

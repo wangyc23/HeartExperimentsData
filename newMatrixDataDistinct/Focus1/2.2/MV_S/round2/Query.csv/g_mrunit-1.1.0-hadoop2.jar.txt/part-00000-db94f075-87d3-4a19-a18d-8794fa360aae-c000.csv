@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/Reducer$Context/getTaskAttemptID()
+org/mockito/stubbing/OngoingStubbing/thenAnswer(org.mockito.stubbing.Answer)
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+org/apache/hadoop/mapreduce/Reducer$Context/nextKey()

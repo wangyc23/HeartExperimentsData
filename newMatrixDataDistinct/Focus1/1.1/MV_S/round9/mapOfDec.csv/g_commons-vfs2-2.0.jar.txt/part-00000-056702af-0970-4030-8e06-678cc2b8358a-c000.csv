@@ -1,0 +1,5 @@
+org/apache/hadoop/ipc/Client/Connection/setupConnection()@g_httpcore-4.2.1.jar.txt	0
+org/apache/hadoop/tracing/TraceAdminPB/SpanReceiverListInfo/Builder/mergeFrom(org.apache.hadoop.tracing.TraceAdminPB$SpanReceiverListInfo)@g_httpcore-4.2.1.jar.txt	4
+org/apache/hadoop/log/LogLevel/Servlet/process(java.util.logging.Logger,java.lang.String,java.io.PrintWriter)@g_httpcore-4.2.1.jar.txt	1
+org/apache/hadoop/log/LogLevel/Servlet/process(org.apache.log4j.Logger,java.lang.String,java.io.PrintWriter)@g_httpcore-4.2.1.jar.txt	2
+org/apache/hadoop/ipc/Server/Connection/processOneRpc(byte[])@g_httpcore-4.2.1.jar.txt	3

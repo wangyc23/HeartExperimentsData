@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+java/io/FileInputStream/read(byte[])
+java/io/FileInputStream/close()
+java/io/File/length()

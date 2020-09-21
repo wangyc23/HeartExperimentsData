@@ -1,0 +1,5 @@
+org/apache/maven/surefire/shade/org/codehaus/plexus/util/StringUtils/escape(java.lang.String)@g_surefire-api-2.12.jar.txt	1
+org/apache/maven/surefire/shade/org/codehaus/plexus/util/StringUtils/swapCase(java.lang.String)@g_surefire-api-2.12.jar.txt	3
+org/apache/maven/surefire/util/internal/StringUtils/unescapeJava(byte[],java.lang.String)@g_surefire-api-2.12.jar.txt	4
+org/apache/maven/surefire/util/internal/StringUtils/unescapeJava(java.io.StringWriter,java.lang.String)@g_surefire-api-2.12.jar.txt	2
+org/apache/maven/surefire/shade/org/codehaus/plexus/util/StringUtils/unifyLineSeparators(java.lang.String,java.lang.String)@g_surefire-api-2.12.jar.txt	0

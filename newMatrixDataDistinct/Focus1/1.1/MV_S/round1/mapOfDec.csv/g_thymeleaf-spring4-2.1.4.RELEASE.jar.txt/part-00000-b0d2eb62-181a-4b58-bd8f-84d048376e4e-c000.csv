@@ -1,0 +1,5 @@
+org/thymeleaf/extras/springsecurity4/auth/SpringVersionSpecificUtils/<clinit>()@g_thymeleaf-layout-dialect-1.2.8.jar.txt	1
+nz/net/ultraq/thymeleaf/decorator/XmlDocumentDecorator/decorate(org.thymeleaf.dom.Element,org.thymeleaf.dom.Element)@g_thymeleaf-layout-dialect-1.2.8.jar.txt	4
+org/thymeleaf/spring4/util/FieldUtils/getBindStatus(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,boolean,java.lang.String)@g_thymeleaf-layout-dialect-1.2.8.jar.txt	3
+org/thymeleaf/spring4/view/ThymeleafViewResolver/loadView(java.lang.String,java.util.Locale)@g_thymeleaf-layout-dialect-1.2.8.jar.txt	2
+org/thymeleaf/extras/springsecurity4/auth/AclAuthUtils/getBeanOfType(org.springframework.context.ApplicationContext,java.lang.Class)@g_thymeleaf-extras-springsecurity4-2.1.3.RELEASE.jar.txt	0

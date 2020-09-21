@@ -1,0 +1,5 @@
+org/sample/concurrency/LockingWithLockAndSynchronized/SynchronizedWithSynchronized/run()@190f14a918e377b89b636ace80065049be99727d.txt	4
+org/sample/jdbc/basics/JdbcCrudTest/shouldUpdateRecordInDb()@190f14a918e377b89b636ace80065049be99727d.txt	1
+org/sample/json/jackson/Endpoint/run(java.lang.String[])@190f14a918e377b89b636ace80065049be99727d.txt	3
+org/sample/jms/v1_1/queue/JMSAsynchReceiver/onMessage(javax.jms.Message)@190f14a918e377b89b636ace80065049be99727d.txt	2
+org/sample/concurrency/executor/ExecutorHowto/RunnableTask/processCommand()@190f14a918e377b89b636ace80065049be99727d.txt	0

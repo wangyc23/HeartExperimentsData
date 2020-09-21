@@ -1,0 +1,5 @@
+com/googlecode/mp4parser/authoring/tracks/TextTrackImpl/getSampleDurations()@g_isoparser-1.0.2.jar.txt	3
+com/googlecode/mp4parser/authoring/builder/FragmentedMp4Builder/createTfra(com.googlecode.mp4parser.authoring.Track,com.coremedia.iso.boxes.Container)@g_isoparser-1.1.18.jar.txt	1
+com/googlecode/mp4parser/authoring/tracks/AppendTrack/mergeVisualSampleEntry(com.coremedia.iso.boxes.sampleentry.VisualSampleEntry,com.coremedia.iso.boxes.sampleentry.VisualSampleEntry)@g_isoparser-1.0.2.jar.txt	2
+com/googlecode/mp4parser/authoring/builder/FragmentedMp4Builder/createTfra(com.googlecode.mp4parser.authoring.Track,com.coremedia.iso.boxes.Container)@g_isoparser-1.0.2.jar.txt	0
+com/googlecode/mp4parser/authoring/builder/SyncSampleIntersectFinderImpl/sampleNumbers(com.googlecode.mp4parser.authoring.Track)@g_isoparser-1.0.2.jar.txt	4

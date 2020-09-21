@@ -1,0 +1,5 @@
+org/apache/maven/plugin/surefire/SurefirePlugin/executeAfterPreconditionsChecked()@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	4
+org/codehaus/plexus/components/interactivity/DefaultPrompter/formatMessage(java.lang.String,java.util.List,java.lang.String)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	3
+org/codehaus/plexus/components/interactivity/DefaultPrompter/formatMessage(java.lang.String,java.util.List,java.lang.String)@g_maven-surefire-plugin-2.12.jar.txt	0
+org/apache/maven/plugin/surefire/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-surefire-plugin-2.12.jar.txt	2
+org/apache/maven/plugin/surefire/SurefirePlugin/executeAfterPreconditionsChecked()@g_maven-surefire-plugin-2.12.jar.txt	1

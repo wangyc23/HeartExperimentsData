@@ -1,0 +1,5 @@
+scala/xml/Utility/serialize(scala.xml.Node,scala.xml.NamespaceBinding,scala.collection.mutable.StringBuilder,boolean,boolean,boolean,scala.Enumeration$Value)@g_scala-xml_2.11-1.0.5.jar.txt	3
+scala/xml/parsing/MarkupParserCommon/class/normalizeAttributeValue(scala.xml.parsing.MarkupParserCommon,java.lang.String)@g_scala-xml_2.11-1.0.5.jar.txt	0
+scala/xml/Utility/parseAttributeValue(java.lang.String)@g_scala-xml_2.11-1.0.5.jar.txt	1
+scala/xml/dtd/impl/BaseBerrySethi/traverse(scala.xml.dtd.impl.Base$RegExp)@g_scala-xml_2.11-1.0.5.jar.txt	2
+scala/xml/parsing/ExternalSources/class/externalSource(scala.xml.parsing.MarkupHandler,java.lang.String)@g_scala-xml_2.11-1.0.5.jar.txt	4

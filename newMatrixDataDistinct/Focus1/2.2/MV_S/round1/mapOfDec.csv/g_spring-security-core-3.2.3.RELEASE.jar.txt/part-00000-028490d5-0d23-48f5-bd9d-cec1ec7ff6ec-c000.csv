@@ -1,0 +1,5 @@
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-jdbc-4.2.5.RELEASE.jar.txt	0
+org/springframework/jdbc/datasource/DataSourceUtils/resetConnectionAfterTransaction(java.sql.Connection,java.lang.Integer)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	2
+org/springframework/jdbc/datasource/DataSourceTransactionManager/doCleanupAfterCompletion(java.lang.Object)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	4
+org/springframework/jdbc/datasource/LazyConnectionDataSourceProxy/LazyConnectionInvocationHandler/getTargetConnection(java.lang.reflect.Method)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	1
+org/springframework/jdbc/core/BeanPropertyRowMapper/mapRow(java.sql.ResultSet,int)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	3

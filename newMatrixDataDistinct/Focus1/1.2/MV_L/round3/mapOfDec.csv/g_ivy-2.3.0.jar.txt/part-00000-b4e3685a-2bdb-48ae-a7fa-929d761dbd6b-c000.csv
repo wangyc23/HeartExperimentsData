@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/namespace/MRIDTransformationRule/MridRuleMatcher/applyTypeRule(java.lang.String,java.lang.String,java.lang.String,java.util.regex.Matcher)@g_ivy-2.4.0.jar.txt	1
+org/apache/ivy/plugins/resolver/IBiblioResolver/findSnapshotVersion(org.apache.ivy.core.module.id.ModuleRevisionId)@g_ivy-2.4.0.jar.txt	4
+org/apache/ivy/util/FileUtil/normalize(java.lang.String)@g_ivy-2.4.0.jar.txt	3
+org/apache/ivy/ant/IvyBuildNumber/doExecute()@g_ivy-2.4.0.jar.txt	0
+org/apache/ivy/ant/IvyBuildList/doExecute()@g_ivy-2.4.0.jar.txt	2

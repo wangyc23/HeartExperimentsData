@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/util/AbstractAnalysisFactory/require(java.util.Map,java.lang.String,java.util.Collection,boolean)@g_lucene-analyzers-common-4.9.1.jar.txt	1
+org/apache/lucene/analysis/hunspell/Dictionary/getFlagParsingStrategy(java.lang.String)@g_lucene-analyzers-common-4.9.1.jar.txt	4
+org/apache/lucene/analysis/hunspell/Dictionary/parseAffix(java.util.TreeMap,java.lang.String,java.io.LineNumberReader,java.lang.String,java.util.Map,java.util.Map)@g_lucene-analyzers-common-4.9.1.jar.txt	2
+org/apache/lucene/analysis/util/AbstractAnalysisFactory/get(java.util.Map,java.lang.String,java.util.Collection,java.lang.String,boolean)@g_lucene-analyzers-common-4.9.1.jar.txt	3
+org/apache/lucene/analysis/hunspell/Dictionary/readAffixFile(java.io.InputStream,java.nio.charset.CharsetDecoder)@g_lucene-analyzers-common-4.9.1.jar.txt	0

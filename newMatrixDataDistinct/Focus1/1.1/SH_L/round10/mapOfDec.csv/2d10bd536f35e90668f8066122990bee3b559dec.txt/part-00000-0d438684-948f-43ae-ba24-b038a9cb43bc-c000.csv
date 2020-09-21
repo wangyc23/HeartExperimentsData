@@ -1,0 +1,5 @@
+com/gs/cluster/ConsoleFormatter/getIndent(int)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+com/gs/extractor/impl/DefaultLinkExtractor/extractFromHtml(java.lang.String,int)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+com/gs/index/solr/TestSolr/testIndex()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0
+com/gs/cluster/ConsoleFormatter/displayAttributes(java.util.Map)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1

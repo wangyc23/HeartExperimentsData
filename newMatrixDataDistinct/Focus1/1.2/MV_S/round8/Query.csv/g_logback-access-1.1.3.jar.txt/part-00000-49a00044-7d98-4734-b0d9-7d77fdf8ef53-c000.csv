@@ -1,0 +1,4 @@
+ch/qos/logback/access/joran/JoranConfigurator/setContext(ch.qos.logback.core.Context)
+ch/qos/logback/access/tomcat/LogbackValve/setState(org.apache.catalina.LifecycleState)
+java/lang/StringBuilder/append(java.lang.String)
+ch/qos/logback/core/util/ExecutorServiceUtil/newExecutorService()

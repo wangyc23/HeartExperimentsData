@@ -1,0 +1,5 @@
+ucar/nc2/dt/point/UnidataStationObsDataset/checkLinks(java.lang.StringBuffer)@g_netcdf-4.2-min.jar.txt	1
+ucar/nc2/iosp/hdf5/H5tiledLayoutBB/DataChunk/getByteBuffer()@g_netcdf-4.2-min.jar.txt	0
+ucar/nc2/iosp/netcdf3/N3outputStreamWriter/writeData(ucar.nc2.Variable,java.io.DataOutputStream,ucar.ma2.Array)@g_netcdf-4.2-min.jar.txt	3
+ucar/ma2/ArrayStructureBB/getJavaArrayByte(int,ucar.ma2.StructureMembers$Member)@g_netcdf-4.2-min.jar.txt	4
+thredds/catalog/InvDatasetFeatureCollection/makeForecastDatasets()@g_netcdf-4.2-min.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/maven/shared/utils/StringUtils/interpolate(java.lang.String,java.util.Map)@g_maven-shared-utils-0.1.jar.txt	1
+org/apache/maven/internal/commons/io/output/XmlStreamWriter/detectEncoding(char[],int,int)@g_maven-shared-utils-0.1.jar.txt	4
+org/apache/maven/shared/utils/cli/Commandline/getEnvironmentVariables()@g_maven-shared-utils-0.1.jar.txt	2
+org/apache/maven/shared/utils/introspection/MethodMap/getMostSpecific(java.util.List,java.lang.Class[])@g_maven-shared-utils-0.1.jar.txt	0
+org/apache/maven/shared/utils/cli/CommandLineUtils/ensureCaseSensitivity(java.util.Map,boolean)@g_maven-shared-utils-0.1.jar.txt	3

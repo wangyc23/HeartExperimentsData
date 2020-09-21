@@ -1,0 +1,5 @@
+org/eclipse/sisu/space/QualifiedTypeBinder/getBindingName(java.lang.Class)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	3
+org/sonatype/guice/bean/locators/ImplicitBindings/get(com.google.inject.TypeLiteral)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	0
+org/eclipse/sisu/scanners/index/SisuIndex/main(java.lang.String[])@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	4
+org/eclipse/sisu/inject/BeanListener/hear(com.google.inject.TypeLiteral,com.google.inject.spi.TypeEncounter)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	1
+org/eclipse/sisu/space/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	2

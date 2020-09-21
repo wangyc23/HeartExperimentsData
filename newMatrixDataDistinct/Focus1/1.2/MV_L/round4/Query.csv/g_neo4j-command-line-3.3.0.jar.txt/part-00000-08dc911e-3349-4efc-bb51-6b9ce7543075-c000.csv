@@ -1,0 +1,4 @@
+java/util/stream/Stream/map(java.util.function.Function)
+org/neo4j/helpers/Args$ArgsParser/parse(java.lang.String[])
+java/util/stream/Collectors/toList()
+java/util/List/size()

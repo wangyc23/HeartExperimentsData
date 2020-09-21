@@ -1,0 +1,5 @@
+org/eclipse/jdt/internal/compiler/parser/Parser/buildFilesFromLPG(java.lang.String,java.lang.String)@g_ecj-3.5.1.jar.txt	2
+org/eclipse/jdt/internal/compiler/problem/ProblemReporter/missingTypeInMethod(org.eclipse.jdt.internal.compiler.ast.MessageSend,org.eclipse.jdt.internal.compiler.lookup.MethodBinding)@g_jetty-runner-8.1.16.v20140903.jar.txt	1
+org/eclipse/jdt/internal/compiler/parser/Parser/buildFileForReadableName(java.lang.String,char[],char[],java.lang.String[],java.lang.String[])@g_ecj-3.5.1.jar.txt	4
+org/eclipse/jdt/internal/compiler/parser/Parser/buildFilesFromLPG(java.lang.String,java.lang.String)@g_jetty-runner-8.1.16.v20140903.jar.txt	3
+org/eclipse/jdt/internal/compiler/problem/ProblemReporter/missingTypeInConstructor(org.eclipse.jdt.internal.compiler.ast.ASTNode,org.eclipse.jdt.internal.compiler.lookup.MethodBinding)@g_jetty-runner-8.1.16.v20140903.jar.txt	0

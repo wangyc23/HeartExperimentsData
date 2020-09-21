@@ -1,0 +1,4 @@
+java/util/Properties/stringPropertyNames()
+java/util/Properties/getProperty(java.lang.String)
+java/util/Properties/Properties()
+com/kijes/ela/serial/ElaSerialProperties/setProperty(java.lang.String,java.lang.String)

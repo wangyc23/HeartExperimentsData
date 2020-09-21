@@ -1,0 +1,4 @@
+org/antlr/runtime/NoViableAltException/NoViableAltException(java.lang.String,int,int,org.antlr.runtime.IntStream)
+org/eclipse/m2m/atl/dsls/tcs/injector/ATL_ANTLR3Parser/recover(org.antlr.runtime.IntStream,org.antlr.runtime.RecognitionException)
+org/antlr/runtime/Token/getLine()
+org/antlr/runtime/Token/getCharPositionInLine()

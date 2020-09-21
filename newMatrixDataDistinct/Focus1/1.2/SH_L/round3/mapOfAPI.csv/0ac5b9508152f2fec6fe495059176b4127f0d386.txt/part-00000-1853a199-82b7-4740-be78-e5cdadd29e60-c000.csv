@@ -1,0 +1,4 @@
+0	com/telefonica/euro_iaas/paasmanager/model/dto/TierDto/setName(java.lang.String)
+1	com/telefonica/euro_iaas/paasmanager/manager/TierManager/load(java.lang.String,java.lang.String,java.lang.String)
+2	com/telefonica/euro_iaas/paasmanager/model/dto/TierDto/TierDto()
+3	com/telefonica/euro_iaas/paasmanager/model/dto/TierDto/getName()

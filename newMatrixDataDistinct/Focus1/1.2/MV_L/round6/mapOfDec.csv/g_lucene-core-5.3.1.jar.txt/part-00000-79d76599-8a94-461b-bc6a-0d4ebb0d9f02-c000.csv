@@ -1,0 +1,5 @@
+org/apache/lucene/store/LockVerifyServer/1/run()@g_lucene-core-5.5.0.jar.txt	0
+org/apache/lucene/store/LockVerifyServer/1/run()@g_lucene-core-6.2.1.jar.txt	1
+org/apache/lucene/codecs/perfield/PerFieldPostingsFormat/FieldsWriter/write(org.apache.lucene.index.Fields)@g_lucene-core-5.5.0.jar.txt	3
+org/apache/lucene/search/PhraseQuery/PhraseWeight/scorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-core-5.5.0.jar.txt	4
+org/apache/lucene/index/IndexWriter/startCommit(org.apache.lucene.index.SegmentInfos)@g_lucene-core-5.5.0.jar.txt	2

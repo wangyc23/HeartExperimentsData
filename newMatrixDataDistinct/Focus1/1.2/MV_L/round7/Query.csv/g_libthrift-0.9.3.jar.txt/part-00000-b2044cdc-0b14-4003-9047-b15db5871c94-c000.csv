@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String,java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/thrift/transport/TSaslServerTransport/sendAndThrowMessage(org.apache.thrift.transport.TSaslTransport$NegotiationStatus,java.lang.String)
+javax/security/sasl/Sasl/createSaslServer(java.lang.String,java.lang.String,java.lang.String,java.util.Map,javax.security.auth.callback.CallbackHandler)

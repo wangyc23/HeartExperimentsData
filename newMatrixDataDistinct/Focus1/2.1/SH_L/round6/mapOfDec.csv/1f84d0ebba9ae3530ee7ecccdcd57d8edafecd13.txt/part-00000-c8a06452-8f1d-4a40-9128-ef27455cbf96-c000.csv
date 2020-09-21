@@ -1,0 +1,5 @@
+edu/ben/coursemanager/dao/CourseDao/getAllReviewsBySection(java.lang.String,int,java.lang.String,java.lang.String,int)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	3
+org/sculptor/framework/xml/ClassloaderEntityResolver/resolveResourceName(java.lang.String)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	2
+org/sculptor/shipping/statistics/serviceimpl/StatisticsImpl/addShipInPort(org.sculptor.shipping.core.serviceimpl.UnLocode,int)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	1
+org/sculptor/framework/accessapi/ConditionalCriteriaBuilder/RootBuilderImpl/groupBy(org.sculptor.framework.domain.Property)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	4
+edu/ben/coursemanager/test/NewsDaoTest/updateNewsTest()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	0

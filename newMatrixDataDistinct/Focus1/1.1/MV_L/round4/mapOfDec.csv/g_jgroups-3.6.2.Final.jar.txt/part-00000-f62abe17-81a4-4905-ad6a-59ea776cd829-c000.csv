@@ -1,0 +1,5 @@
+org/jgroups/protocols/pbcast/NAKACK/handleXmitReq(org.jgroups.Address,long,long,org.jgroups.Address)@g_jgroups-3.6.6.Final.jar.txt	3
+org/jgroups/tests/NioServerPerfTest/start(boolean)@g_jgroups-3.6.6.Final.jar.txt	1
+org/jgroups/protocols/UNICAST3/down(org.jgroups.Event)@g_jgroups-3.6.6.Final.jar.txt	4
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_jgroups-3.6.6.Final.jar.txt	0
+org/jgroups/blocks/BasicConnectionTable/stop()@g_jgroups-3.6.6.Final.jar.txt	2

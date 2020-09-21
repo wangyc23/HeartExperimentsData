@@ -1,0 +1,5 @@
+org/bouncycastle/cms/CMSSignedData/getSignerInfos()@g_bcpkix-jdk15on-1.53.jar.txt	2
+org/bouncycastle/openssl/jcajce/JceOpenSSLPKCS8EncryptorBuilder/build()@g_bcpkix-jdk15on-1.53.jar.txt	3
+org/bouncycastle/operator/jcajce/JceAsymmetricKeyUnwrapper/generateUnwrappedKey(org.bouncycastle.asn1.x509.AlgorithmIdentifier,byte[])@g_bcpkix-jdk15on-1.53.jar.txt	4
+org/bouncycastle/operator/jcajce/OperatorHelper/getSignatureName(org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_bcpkix-jdk15on-1.53.jar.txt	0
+org/bouncycastle/cms/CMSSignedDataStreamGenerator/CmsSignedDataOutputStream/close()@g_bcpkix-jdk15on-1.53.jar.txt	1

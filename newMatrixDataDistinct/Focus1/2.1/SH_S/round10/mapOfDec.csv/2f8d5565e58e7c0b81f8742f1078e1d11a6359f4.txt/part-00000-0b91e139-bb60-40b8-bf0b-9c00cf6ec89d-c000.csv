@@ -1,0 +1,5 @@
+org/apache/kafka/connect/socket/Manager/creatJSONQueryMapping(com.google.gson.JsonElement)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	4
+ch/eitchnet/csvrestendpoint/model/CsvRow/getColumnValue(java.lang.String)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	0
+org/apache/kafka/connect/socket/batch/BulkProcessor/add(org.apache.kafka.connect.socket.batch.RecordBatch)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	2
+org/apache/kafka/connect/socket/SocketSourceTaskTest/testLessThanBatchSize()@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	3
+org/apache/kafka/connect/socket/FileHandler/getJSONElement(java.lang.String)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	1

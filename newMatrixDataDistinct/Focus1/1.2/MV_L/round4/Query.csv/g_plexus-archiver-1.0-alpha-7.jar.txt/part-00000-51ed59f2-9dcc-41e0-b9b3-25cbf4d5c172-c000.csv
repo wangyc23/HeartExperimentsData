@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(java.lang.Object)
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream,java.lang.String)
+org/codehaus/plexus/logging/Logger/error(java.lang.String)
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream)

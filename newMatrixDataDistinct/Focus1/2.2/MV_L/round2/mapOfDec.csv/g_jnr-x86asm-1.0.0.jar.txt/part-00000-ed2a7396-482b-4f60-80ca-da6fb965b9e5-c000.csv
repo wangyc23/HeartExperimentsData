@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/lucene53/Lucene53NormsConsumer/addNormsField(org.apache.lucene.index.FieldInfo,java.lang.Iterable)@g_lucene-core-6.0.0.jar.txt	2
+org/apache/lucene/codecs/blocktree/BlockTreeTermsWriter/write(org.apache.lucene.index.Fields)@g_lucene-core-6.0.0.jar.txt	1
+org/apache/lucene/codecs/perfield/PerFieldPostingsFormat/FieldsWriter/write(org.apache.lucene.index.Fields)@g_lucene-core-6.0.0.jar.txt	0
+org/apache/lucene/util/bkd/HeapPointWriter/copyFrom(org.apache.lucene.util.bkd.HeapPointWriter)@g_lucene-core-6.0.0.jar.txt	4
+org/apache/lucene/codecs/lucene60/Lucene60PointsWriter/finish()@g_lucene-core-6.0.0.jar.txt	3

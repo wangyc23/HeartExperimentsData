@@ -1,0 +1,4 @@
+java/lang/Class/getSimpleName()
+java/net/URL/openStream()
+java/net/URL/toString()
+java/net/URL/URL(java.lang.String)

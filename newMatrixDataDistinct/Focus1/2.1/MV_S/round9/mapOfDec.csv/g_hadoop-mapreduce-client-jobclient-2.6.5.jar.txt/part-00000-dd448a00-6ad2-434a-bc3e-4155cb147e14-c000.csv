@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/app/launcher/ContainerLauncherImpl/Container/kill()@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	4
+org/apache/hadoop/mapreduce/task/reduce/InMemoryMapOutput/shuffle(org.apache.hadoop.mapreduce.task.reduce.MapHost,java.io.InputStream,long,long,org.apache.hadoop.mapreduce.task.reduce.ShuffleClientMetrics,org.apache.hadoop.mapred.Reporter)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	3
+org/apache/hadoop/mapred/BackupStore/MemoryCache/createInMemorySegment()@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	1
+org/apache/hadoop/mapreduce/Job/getTaskFailureEventString()@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	0
+org/apache/hadoop/mapreduce/task/reduce/Fetcher/verifySanity(long,long,int,java.util.Set,org.apache.hadoop.mapreduce.TaskAttemptID)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	2

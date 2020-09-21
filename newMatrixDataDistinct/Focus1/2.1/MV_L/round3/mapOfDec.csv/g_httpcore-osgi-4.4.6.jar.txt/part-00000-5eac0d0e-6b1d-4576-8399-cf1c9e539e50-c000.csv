@@ -1,0 +1,5 @@
+org/apache/http/nio/protocol/ThrottlingHttpServiceHandler/handleRequest(org.apache.http.HttpRequest,org.apache.http.nio.protocol.ThrottlingHttpServiceHandler$ServerConnState,org.apache.http.nio.NHttpServerConnection)@g_httpcore-osgi-4.4.4.jar.txt	4
+org/apache/http/impl/nio/reactor/DefaultConnectingIOReactor/processSessionRequests()@g_httpcore-osgi-4.4.4.jar.txt	2
+org/apache/http/nio/pool/AbstractNIOConnPool/enumAvailable(org.apache.http.pool.PoolEntryCallback)@g_httpcore-osgi-4.4.4.jar.txt	3
+org/apache/http/impl/io/AbstractSessionInputBuffer/appendDecoded(org.apache.http.util.CharArrayBuffer,java.nio.ByteBuffer)@g_httpcore-osgi-4.4.4.jar.txt	0
+org/apache/http/nio/protocol/HttpAsyncService/completeResponse(org.apache.http.nio.protocol.HttpAsyncService$Outgoing,org.apache.http.nio.NHttpServerConnection,org.apache.http.nio.protocol.HttpAsyncService$State)@g_httpcore-osgi-4.4.4.jar.txt	1

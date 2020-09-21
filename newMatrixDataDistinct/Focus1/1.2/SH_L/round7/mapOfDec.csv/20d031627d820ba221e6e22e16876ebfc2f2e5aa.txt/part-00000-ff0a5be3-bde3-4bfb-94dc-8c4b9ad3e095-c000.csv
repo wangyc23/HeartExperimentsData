@@ -1,0 +1,5 @@
+org/opentripplanner/util/MapUtils/addToMapListUnique(java.util.Map,T,java.util.List)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	0
+org/opentripplanner/routing/automata/DFA/determinize(org.opentripplanner.routing.automata.NFA)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	4
+org/opentripplanner/routing/core/RoutingRequest/setIntermediatePlacesFromStrings(java.util.List)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	1
+org/opentripplanner/updater/stoptime/GtfsRealtimeHttpTripUpdateSource/getUpdates()@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	3
+org/opentripplanner/common/geometry/DlugoszVarLenIntPacker/unpack(byte[])@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	2

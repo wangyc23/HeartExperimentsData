@@ -1,0 +1,4 @@
+org/neo4j/io/pagecache/PageCursor/shouldRetry()
+org/neo4j/io/pagecache/PageCursor/close()
+org/neo4j/io/pagecache/PageCursor/getByte()
+java/lang/Throwable/addSuppressed(java.lang.Throwable)

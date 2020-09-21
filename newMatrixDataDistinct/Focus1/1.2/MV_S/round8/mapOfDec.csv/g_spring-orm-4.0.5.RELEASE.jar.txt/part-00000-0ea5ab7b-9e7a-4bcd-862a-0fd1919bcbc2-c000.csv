@@ -1,0 +1,5 @@
+org/springframework/asm/commons/SerialVersionUIDAdder/computeSVUID()@g_spring-jdbc-4.2.5.RELEASE.jar.txt	4
+org/springframework/jdbc/datasource/DataSourceTransactionManager/doBegin(java.lang.Object,org.springframework.transaction.TransactionDefinition)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	1
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-jdbc-4.2.5.RELEASE.jar.txt	2
+org/springframework/jdbc/datasource/DataSourceUtils/doGetConnection(javax.sql.DataSource)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	0
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-jdbc-4.2.5.RELEASE.jar.txt	3

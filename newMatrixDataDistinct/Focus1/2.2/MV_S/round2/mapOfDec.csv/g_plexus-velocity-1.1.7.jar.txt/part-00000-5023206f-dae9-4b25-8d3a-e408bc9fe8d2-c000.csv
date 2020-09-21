@@ -1,0 +1,5 @@
+org/apache/maven/plugin/assembly/model/io/xpp3/ComponentXpp3Reader/parseFileSet(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-common-artifact-filters-1.1.jar.txt	3
+org/apache/maven/shared/artifact/filter/collection/ScopeFilter/filter(java.util.Set)@g_maven-common-artifact-filters-1.1.jar.txt	1
+org/apache/maven/plugin/assembly/utils/PropertyUtils/getInterpolatedPropertiesFromFile(java.io.File,boolean,boolean)@g_maven-assembly-plugin-2.2-beta-5.jar.txt	0
+org/apache/maven/plugin/assembly/model/io/xpp3/AssemblyXpp3Reader/parseDependencySet(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-common-artifact-filters-1.1.jar.txt	2
+org/apache/maven/plugin/assembly/filter/SimpleAggregatingDescriptorHandler/finalizeArchiveCreation(org.codehaus.plexus.archiver.Archiver)@g_maven-common-artifact-filters-1.1.jar.txt	4

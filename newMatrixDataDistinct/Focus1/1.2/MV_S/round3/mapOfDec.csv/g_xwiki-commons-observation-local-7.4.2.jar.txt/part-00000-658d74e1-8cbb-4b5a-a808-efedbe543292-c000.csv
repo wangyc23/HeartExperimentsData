@@ -1,0 +1,5 @@
+org/xwiki/environment/internal/AbstractEnvironment/initializeDirectory(java.lang.String,boolean,java.lang.String)@g_xwiki-commons-environment-common-7.0.jar.txt	4
+org/xwiki/logging/logback/internal/DefaultLoggerManager/popLogListener()@g_xwiki-commons-environment-common-7.0.jar.txt	3
+org/xwiki/observation/internal/DefaultObservationManager/addListener(org.xwiki.observation.EventListener)@g_xwiki-commons-environment-common-7.0.jar.txt	2
+org/xwiki/logging/logback/internal/LogbackEventGenerator/append(ch.qos.logback.classic.spi.ILoggingEvent)@g_xwiki-commons-environment-common-7.0.jar.txt	1
+org/xwiki/logging/logback/internal/DefaultLoggerManager/pushLogListener(org.xwiki.observation.EventListener)@g_xwiki-commons-environment-common-7.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/taglibs/standard/lang/jstl/test/EvaluationTest/runTests(java.io.DataInput,java.io.PrintStream)@g_jstl-impl-1.2.jar.txt	0
+org/apache/taglibs/standard/lang/support/ExpressionEvaluatorManager/getEvaluatorByName(java.lang.String)@g_jstl-impl-1.2.jar.txt	2
+org/apache/taglibs/standard/lang/jstl/test/EvaluationTest/runTests(java.io.DataInput,java.io.PrintStream)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	1
+org/apache/taglibs/standard/tlv/JstlCoreTLV/Handler/characters(char[],int,int)@g_jstl-impl-1.2.jar.txt	3
+org/apache/taglibs/standard/lang/jstl/BeanInfoManager/getPublicMethod(java.lang.Class,java.lang.reflect.Method)@g_jstl-impl-1.2.jar.txt	4

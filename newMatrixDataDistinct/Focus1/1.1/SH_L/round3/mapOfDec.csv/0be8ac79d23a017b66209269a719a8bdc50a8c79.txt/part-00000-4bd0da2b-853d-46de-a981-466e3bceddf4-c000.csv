@@ -1,0 +1,5 @@
+org/openhab/binding/vitotronic/handler/VitotronicThingHandler/handleCommand(org.openhab.binding.squeezebox.handler.ChannelUID,org.openhab.binding.squeezebox.handler.Command)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	3
+com/lwk/io/FileUtils/toByteArray2(java.lang.String)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	0
+org/openhab/ui/cometvisu/internal/config/beans/Page/getPageOrGroupOrNavbar()@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	4
+com/lwk/file/FileMd5Util/fileMD5(java.lang.String)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	2
+com/lwk/jvm/classloader/custom/ChildFirstURLClassLoader/loadClass(java.lang.String,boolean)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	1

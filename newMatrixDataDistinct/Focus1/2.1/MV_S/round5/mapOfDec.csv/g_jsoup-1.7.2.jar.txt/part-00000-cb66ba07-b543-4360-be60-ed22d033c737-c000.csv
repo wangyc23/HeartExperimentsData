@@ -1,0 +1,5 @@
+org/jsoup/helper/HttpConnection/Response/setupFromConnection(java.net.HttpURLConnection,org.jsoup.Connection$Response)@g_logback-elasticsearch-appender-1.3.jar.txt	3
+org/jsoup/nodes/Attributes/asList()@g_logback-elasticsearch-appender-1.3.jar.txt	4
+org/jsoup/helper/HttpConnection/Response/createConnection(org.jsoup.Connection$Request)@g_logback-elasticsearch-appender-1.3.jar.txt	2
+org/neo4j/helpers/collection/LruCache/resize(int)@g_logback-elasticsearch-appender-1.3.jar.txt	0
+org/jsoup/safety/Whitelist/addAttributes(java.lang.String,java.lang.String[])@g_logback-elasticsearch-appender-1.3.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Checksum/generateChecksums()@g_ant-1.6.5.jar.txt	4
+org/htmlparser/util/ParserUtils/trimTags(java.lang.String,java.lang.String[],boolean,boolean)@g_ant-1.6.5.jar.txt	3
+org/htmlparser/parserapplications/filterbuilder/FilterBuilder/saveAction()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Copy/doFileOperations()@g_ant-1.6.5.jar.txt	1
+org/htmlparser/parserapplications/filterbuilder/wrappers/StringFilterWrapper/toJavaCode(java.lang.StringBuffer,int[])@g_ant-1.6.5.jar.txt	0

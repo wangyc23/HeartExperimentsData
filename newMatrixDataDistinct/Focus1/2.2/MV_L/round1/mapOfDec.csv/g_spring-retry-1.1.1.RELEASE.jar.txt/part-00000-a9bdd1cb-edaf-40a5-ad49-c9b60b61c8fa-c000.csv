@@ -1,0 +1,5 @@
+org/springframework/test/context/support/TestPropertySourceUtils/resolveTestPropertySourceAttributes(java.lang.Class)@g_spring-test-4.1.6.RELEASE.jar.txt	4
+org/springframework/test/web/client/MockRestServiceServer/RequestMatcherClientHttpRequestFactory/createRequestInternal(java.net.URI,org.springframework.http.HttpMethod)@g_spring-test-4.1.6.RELEASE.jar.txt	2
+org/springframework/test/context/support/ContextLoaderUtils/convertAnnotationAttributesToConfigAttributesAndAddToList(org.springframework.core.annotation.AnnotationAttributes,java.lang.Class,java.util.List)@g_spring-test-4.1.6.RELEASE.jar.txt	1
+org/springframework/test/context/transaction/TransactionalTestExecutionListener/beforeTestMethod(org.springframework.test.context.TestContext)@g_spring-test-4.1.6.RELEASE.jar.txt	3
+org/springframework/test/web/ModelAndViewAssert/assertModelAttributeValues(org.springframework.web.servlet.ModelAndView,java.util.Map)@g_spring-test-4.1.6.RELEASE.jar.txt	0

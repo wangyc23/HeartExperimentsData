@@ -1,0 +1,4 @@
+info/aduna/iteration/CloseableIteration/hasNext()
+org/openrdf/sail/inferencer/InferencerConnection/getStatements(org.openrdf.model.Resource,org.openrdf.model.URI,org.openrdf.model.Value,boolean,org.openrdf.model.Resource[])
+java/util/Iterator/next()
+org/openrdf/sail/inferencer/fc/ForwardChainingRDFSInferencerConnection/addInferredStatement(org.openrdf.model.Resource,org.openrdf.model.URI,org.openrdf.model.Value,org.openrdf.model.Resource[])

@@ -1,0 +1,5 @@
+org/springframework/boot/bind/PropertiesConfigurationFactory/getNames()@g_spring-boot-1.2.6.RELEASE.jar.txt	3
+org/springframework/boot/bind/RelaxedDataBinder/initializePath(org.springframework.beans.BeanWrapper,org.springframework.boot.bind.RelaxedDataBinder$BeanPath,int)@g_spring-boot-1.2.6.RELEASE.jar.txt	2
+org/springframework/boot/bind/RelaxedConversionService/StringToEnumIgnoringCaseConverterFactory/StringToEnum/convert(java.lang.String)@g_spring-boot-1.2.6.RELEASE.jar.txt	4
+org/springframework/boot/bind/RelaxedDataBinder/extendCollectionIfNecessary(org.springframework.beans.BeanWrapper,org.springframework.boot.bind.RelaxedDataBinder$BeanPath,int)@g_spring-boot-1.2.6.RELEASE.jar.txt	1
+org/springframework/boot/web/servlet/view/velocity/EmbeddedVelocityToolboxView/GetResourceMethodInterceptor/invoke(org.aopalliance.intercept.MethodInvocation)@g_spring-boot-1.2.6.RELEASE.jar.txt	0

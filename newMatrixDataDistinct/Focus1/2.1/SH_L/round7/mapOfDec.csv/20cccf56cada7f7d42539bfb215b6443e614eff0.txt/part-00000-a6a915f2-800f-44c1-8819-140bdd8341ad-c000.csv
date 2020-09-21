@@ -1,0 +1,5 @@
+demo/ws_rm/client/Client/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+com/example/customerservice/client/CustomerServiceClient/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+demo/jaxrs/client/WebSocketTestClient/Response/length(java.lang.Object)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+demo/wseventing/CreateSubscriptionServlet/createSubscribeMessage(java.lang.String,java.lang.String,java.lang.String)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4

@@ -1,0 +1,5 @@
+org/springframework/boot/cli/compiler/GroovyCompiler/getExistingUrls()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	0
+org/springframework/boot/devtools/restart/DefaultRestartInitializer/isMain(java.lang.Thread)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	4
+org/springframework/boot/autoconfigure/freemarker/FreeMarkerAutoConfigurationTests/renderTemplate()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	1
+org/springframework/boot/logging/ClasspathLoggingApplicationListener/getClasspath()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	3
+org/springframework/boot/loader/MainMethodRunner/run()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	2

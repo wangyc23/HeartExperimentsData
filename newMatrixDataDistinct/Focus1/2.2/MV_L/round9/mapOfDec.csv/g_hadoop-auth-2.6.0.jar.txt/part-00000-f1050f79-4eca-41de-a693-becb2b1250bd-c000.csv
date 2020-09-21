@@ -1,0 +1,5 @@
+org/apache/zookeeper/server/quorum/flexible/QuorumHierarchical/containsQuorum(java.util.HashSet)@g_zookeeper-3.4.6.jar.txt	3
+org/apache/zookeeper/server/WatchManager/toString()@g_zookeeper-3.4.6.jar.txt	4
+org/apache/zookeeper/MultiResponse/serialize(org.apache.jute.OutputArchive,java.lang.String)@g_zookeeper-3.4.6.jar.txt	2
+org/apache/hadoop/security/authentication/util/KerberosName/printRules()@g_hadoop-auth-2.6.5.jar.txt	0
+org/apache/hadoop/security/authentication/client/AuthenticatedURL/extractToken(java.net.HttpURLConnection,org.apache.hadoop.security.authentication.client.AuthenticatedURL$Token)@g_hadoop-auth-2.6.5.jar.txt	1

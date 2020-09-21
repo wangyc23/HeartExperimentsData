@@ -1,0 +1,6 @@
+0	kg/apc/jmeter/samplers/AbstractIPSampler/getPortAsInt()
+1	org/apache/parquet/hadoop/metadata/ColumnChunkMetaData/getStatistics()
+2	com/googlecode/jmeter/plugins/webdriver/config/WebDriverConfig/quitBrowser(T)
+3	kg/apc/jmeter/samplers/AbstractIPSamplerTest/AbstractIPSamplerImpl/AbstractIPSamplerImpl()
+4	java/io/PrintStream/println(java.lang.String)
+5	java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)

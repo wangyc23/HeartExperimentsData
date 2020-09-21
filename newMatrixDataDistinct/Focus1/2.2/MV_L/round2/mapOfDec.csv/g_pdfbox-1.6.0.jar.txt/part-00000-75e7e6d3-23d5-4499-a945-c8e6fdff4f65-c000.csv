@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdfparser/ConformingPDFParser/readObject()@g_pdfbox-1.8.1.jar.txt	1
+org/apache/pdfbox/PDFSplit/split(java.lang.String[])@g_pdfbox-1.8.1.jar.txt	0
+org/apache/pdfbox/pdmodel/font/PDType1CFont/load()@g_pdfbox-1.8.1.jar.txt	2
+org/apache/pdfbox/pdmodel/interactive/form/PDFieldFactory/isButton(org.apache.pdfbox.pdmodel.interactive.form.PDField)@g_pdfbox-1.8.1.jar.txt	3
+org/apache/pdfbox/PDFReader/saveImage()@g_pdfbox-1.8.1.jar.txt	4

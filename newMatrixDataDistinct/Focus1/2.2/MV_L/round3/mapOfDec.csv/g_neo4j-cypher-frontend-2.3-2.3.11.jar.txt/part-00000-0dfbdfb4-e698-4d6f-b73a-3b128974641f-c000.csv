@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/frontend/v2_3/parser/Clauses/anonfun/Foreach/1/apply()@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	0
+org/neo4j/cypher/internal/frontend/v2_3/parser/Clauses/anonfun/Unwind/1/apply()@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	4
+org/neo4j/cypher/internal/frontend/v2_3/parser/Clauses/anonfun/Foreach/1/apply()@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	1
+org/neo4j/cypher/internal/frontend/v2_3/parser/Command/anonfun/CreateUniqueConstraint/1/apply()@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	3
+org/neo4j/cypher/internal/frontend/v2_3/parser/Clauses/anonfun/Delete/1/apply()@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	2

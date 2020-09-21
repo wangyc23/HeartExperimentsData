@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/TermsWriter/write(org.apache.lucene.util.BytesRef,org.apache.lucene.index.TermsEnum)@g_lucene-sandbox-6.0.0.jar.txt	0
+org/apache/lucene/search/suggest/tst/TSTLookup/build(org.apache.lucene.search.suggest.InputIterator)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/search/suggest/fst/WFSTCompletionLookup/lookup(java.lang.CharSequence,java.util.Set,boolean,int)@g_lucene-sandbox-6.0.0.jar.txt	3
+org/apache/lucene/codecs/idversion/IDVersionSegmentTermsEnumFrame/nextLeaf()@g_lucene-sandbox-6.0.0.jar.txt	2
+org/apache/lucene/document/NearestNeighbor/Cell/toString()@g_lucene-sandbox-6.0.0.jar.txt	4

@@ -1,0 +1,5 @@
+com/example/dao/BookDao/findAll()@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	2
+com/example/BasicServlet/doGet(com.example.HttpServletRequest,com.example.HttpServletResponse)@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	1
+com/example/client/resource/BookResource/getBooks()@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	4
+redis/StringServiceTest/testIncr()@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	0
+org/feuyeux/restful/oauth2/client/config/WebMvcConfig/contentViewResolver()@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	3

@@ -1,0 +1,5 @@
+org/appfuse/webapp/action/BasePage/getParameter(java.lang.String)@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	0
+org/appfuse/webapp/pages/BasePageTestCase/onSetUp()@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	4
+org/appfuse/webapp/action/UserListBeanTest/testExecute()@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	1
+org/appfuse/webapp/action/BaseAction/getConfiguration()@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	2
+org/appfuse/webapp/action/UserAction/save()@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	3

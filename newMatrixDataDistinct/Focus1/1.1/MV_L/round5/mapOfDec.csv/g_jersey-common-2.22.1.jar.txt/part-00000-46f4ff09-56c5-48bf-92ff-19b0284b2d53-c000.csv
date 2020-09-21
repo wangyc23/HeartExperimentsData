@@ -1,0 +1,5 @@
+org/glassfish/jersey/message/internal/CookiesParser/parseNewCookie(java.lang.String)@g_jersey-common-2.21.jar.txt	1
+org/glassfish/jersey/uri/internal/UriTemplateParser/processLiteralCharacters()@g_jersey-common-2.21.jar.txt	4
+org/glassfish/jersey/internal/OsgiRegistry/getResourceBundle(java.lang.String)@g_jersey-common-2.21.jar.txt	3
+org/glassfish/jersey/uri/UriComponent/_encode(java.lang.String,org.glassfish.jersey.uri.UriComponent$Type,boolean,boolean)@g_jersey-common-2.21.jar.txt	0
+org/glassfish/jersey/internal/OsgiRegistry/BundleSpiProvidersLoader/call()@g_jersey-common-2.21.jar.txt	2

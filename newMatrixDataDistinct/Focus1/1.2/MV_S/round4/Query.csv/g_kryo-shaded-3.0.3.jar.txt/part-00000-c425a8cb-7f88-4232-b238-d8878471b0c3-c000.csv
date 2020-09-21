@@ -1,0 +1,4 @@
+com/esotericsoftware/minlog/Log/trace(java.lang.String,java.lang.String)
+java/lang/reflect/GenericArrayType/getGenericComponentType()
+java/lang/reflect/Array/newInstance(java.lang.Class,int)
+java/lang/Class/getName()

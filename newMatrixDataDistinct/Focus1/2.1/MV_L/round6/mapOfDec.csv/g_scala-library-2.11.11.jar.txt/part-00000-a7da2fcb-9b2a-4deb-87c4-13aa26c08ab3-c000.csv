@@ -1,0 +1,5 @@
+scala/collection/immutable/IntMap/intersectionWith(scala.collection.immutable.IntMap,scala.Function3)@g_scala-library-2.11.8.jar.txt	4
+scala/collection/parallel/mutable/ParHashMapCombiner/result()@g_scala-library-2.11.8.jar.txt	3
+scala/util/Sorting/stableSort(scala.collection.Seq,scala.Function2,scala.reflect.ClassTag)@g_scala-library-2.11.8.jar.txt	2
+scala/sys/process/ProcessBuilderImpl/AbstractBuilder/lineStream(boolean,boolean,scala.Option)@g_scala-library-2.11.8.jar.txt	0
+scala/sys/process/ProcessBuilderImpl/AbstractBuilder/lineStream(boolean,boolean,scala.Option)@g_scala-library-2.11.6.jar.txt	1

@@ -1,0 +1,4 @@
+io/druid/segment/loading/SegmentLoaderConfig/getDropSegmentDelayMillis()
+io/druid/server/coordination/ZkCoordinator/removeSegment(io/druid/storage/cassandra/DataSegment,io/druid/server/coordination/DataSegmentChangeCallback)/$anonymous1/()
+io/druid/server/coordination/DataSegmentAnnouncer/unannounceSegment(io.druid.storage.cassandra.DataSegment)
+java/util/concurrent/ScheduledExecutorService/schedule(java.lang.Runnable,long,java.util.concurrent.TimeUnit)

@@ -1,0 +1,5 @@
+eu/learnpad/qm/component/QuestionnaireManager/printSomething(java.lang.String)@g_commons-exec-1.1.jar.txt	4
+org/apache/commons/exec/util/MapUtils/prefix(java.util.Map,java.lang.String)@g_commons-exec-1.1.jar.txt	2
+org/apache/commons/exec/environment/EnvironmentUtils/toStrings(java.util.Map)@g_commons-exec-1.1.jar.txt	3
+eu/learnpad/qm/impl/QMXwikiBridgeImpl/printSomething(java.lang.String)@g_lp-questonnaire-manager-1.0-SNAPSHOT.jar.txt	1
+eu/learnpad/qm/component/QuestionnaireManager/startGeneration(java.lang.String,java.io.BufferedReader)@g_lp-questonnaire-manager-1.0-SNAPSHOT.jar.txt	0

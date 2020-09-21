@@ -1,0 +1,4 @@
+com/epimorphics/sparql/graphpatterns/GraphPattern/toPatternString(com.epimorphics.sparql.templates.Settings,java.lang.StringBuilder)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/size()
+java/util/List/get(int)

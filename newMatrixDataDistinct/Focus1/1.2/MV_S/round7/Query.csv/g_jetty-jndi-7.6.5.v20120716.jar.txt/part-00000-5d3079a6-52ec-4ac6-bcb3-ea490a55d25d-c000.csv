@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/log/Logger/warn(java.lang.String,java.lang.Throwable)
+javax/naming/NamingException/NamingException(java.lang.String)
+javax/naming/NameNotFoundException/NameNotFoundException()
+java/util/Map/values()

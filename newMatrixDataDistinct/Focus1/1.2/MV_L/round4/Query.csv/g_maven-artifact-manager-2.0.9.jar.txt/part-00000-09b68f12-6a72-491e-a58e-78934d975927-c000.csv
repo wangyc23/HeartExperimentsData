@@ -1,0 +1,4 @@
+org/apache/maven/artifact/manager/DefaultWagonManager/getLogger()
+org/apache/maven/artifact/repository/ArtifactRepository/getUrl()
+java/util/Iterator/hasNext()
+org/apache/maven/wagon/ResourceDoesNotExistException/ResourceDoesNotExistException(java.lang.String)

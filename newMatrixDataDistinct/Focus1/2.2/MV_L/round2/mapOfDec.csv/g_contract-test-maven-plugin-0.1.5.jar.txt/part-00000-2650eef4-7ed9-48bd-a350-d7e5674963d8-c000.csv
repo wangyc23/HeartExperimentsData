@@ -1,0 +1,5 @@
+org/apache/maven/plugin/surefire/HelpMojo/execute()@g_maven-surefire-plugin-2.16.jar.txt	1
+org/apache/maven/plugin/surefire/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-surefire-plugin-2.17.jar.txt	2
+org/xenei/contracts/maven/HelpMojo/build()@g_maven-surefire-plugin-2.16.jar.txt	4
+org/apache/maven/plugin/surefire/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-surefire-plugin-2.16.jar.txt	0
+org/apache/maven/plugin/surefire/HelpMojo/execute()@g_maven-surefire-plugin-2.17.jar.txt	3

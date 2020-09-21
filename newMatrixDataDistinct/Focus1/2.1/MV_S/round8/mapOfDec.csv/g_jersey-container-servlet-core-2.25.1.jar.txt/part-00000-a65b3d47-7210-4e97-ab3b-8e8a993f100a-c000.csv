@@ -1,0 +1,5 @@
+org/glassfish/jersey/simple/SimpleContainer/handle(org.simpleframework.http.Request,org.simpleframework.http.Response)@g_jersey-container-simple-http-2.19.jar.txt	1
+org/glassfish/jersey/simple/SimpleContainerFactory/_create(java.net.URI,javax.net.ssl.SSLContext,org.glassfish.jersey.simple.SimpleContainer,org.glassfish.jersey.internal.util.collection.UnsafeValue)@g_jersey-container-simple-http-2.19.jar.txt	0
+org/glassfish/jersey/servlet/ServletContainer/doFilter(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.servlet.FilterChain)@g_jersey-container-simple-http-2.19.jar.txt	4
+org/glassfish/jersey/grizzly2/httpserver/GrizzlyHttpContainer/service(org.glassfish.grizzly.http.server.Request,org.glassfish.grizzly.http.server.Response)@g_jersey-container-simple-http-2.19.jar.txt	3
+org/glassfish/jersey/servlet/WebComponent/WebComponentBinder/configure()@g_jersey-container-simple-http-2.19.jar.txt	2

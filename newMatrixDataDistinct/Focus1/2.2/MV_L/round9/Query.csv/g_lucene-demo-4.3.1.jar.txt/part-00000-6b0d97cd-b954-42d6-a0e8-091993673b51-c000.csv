@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/apache/lucene/search/MatchAllDocsQuery/MatchAllDocsQuery()
+org/apache/lucene/index/DirectoryReader/open(org.apache.lucene.store.Directory)
+org/apache/lucene/facet/taxonomy/directory/DirectoryTaxonomyReader/DirectoryTaxonomyReader(org.apache.lucene.store.Directory)

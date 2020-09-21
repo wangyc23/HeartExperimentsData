@@ -1,0 +1,5 @@
+org/jgroups/tests/CheckToaOrder/ComparingFiles/run()@g_jgroups-3.6.2.Final.jar.txt	1
+org/jgroups/protocols/pbcast/NAKACK2/printMessages()@g_jgroups-3.6.2.Final.jar.txt	3
+org/jgroups/protocols/UNICAST2/handleBatchReceived(org.jgroups.Address,java.util.Map)@g_jgroups-3.6.2.Final.jar.txt	4
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_jgroups-3.6.2.Final.jar.txt	0
+org/jgroups/protocols/UNICAST2/printConnections()@g_jgroups-3.6.2.Final.jar.txt	2

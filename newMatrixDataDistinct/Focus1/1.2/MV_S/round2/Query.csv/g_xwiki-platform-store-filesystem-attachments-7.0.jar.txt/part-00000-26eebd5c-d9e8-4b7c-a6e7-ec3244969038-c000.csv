@@ -1,0 +1,4 @@
+org/dom4j/Element/getName()
+java/lang/String/equals(java.lang.Object)
+com/xpn/xwiki/doc/XWikiAttachment/setVersion(java.lang.String)
+com/xpn/xwiki/doc/XWikiAttachment/setDate(java.util.Date)

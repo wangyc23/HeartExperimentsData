@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/Job/setMapperClass(java.lang.Class)
+org/apache/hadoop/mapreduce/Job/waitForCompletion(boolean)
+org/apache/hadoop/conf/Configuration/Configuration()
+org/apache/hadoop/mapreduce/Job/setNumReduceTasks(int)

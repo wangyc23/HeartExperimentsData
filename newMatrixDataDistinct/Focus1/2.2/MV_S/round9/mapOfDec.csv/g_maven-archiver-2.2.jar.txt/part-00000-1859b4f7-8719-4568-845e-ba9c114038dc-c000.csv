@@ -1,0 +1,5 @@
+org/apache/maven/plugin/ear/JbossAppXmlWriter/write(java.io.File,org.apache.maven.plugin.ear.JbossConfiguration,java.util.List)@g_maven-ear-plugin-2.8.jar.txt	2
+org/apache/maven/shared/artifact/resolver/DefaultProjectDependenciesResolver/resolve(java.util.Collection,java.util.Collection,org.apache.maven.execution.MavenSession)@g_maven-artifact-resolver-1.0.jar.txt	0
+org/apache/maven/plugin/ear/EarMojo/changeManifestClasspath(org.apache.maven.plugin.ear.EarModule,java.io.File)@g_maven-ear-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/ear/AbstractEarMojo/execute()@g_maven-ear-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/ear/EarMojo/execute()@g_maven-ear-plugin-2.8.jar.txt	1

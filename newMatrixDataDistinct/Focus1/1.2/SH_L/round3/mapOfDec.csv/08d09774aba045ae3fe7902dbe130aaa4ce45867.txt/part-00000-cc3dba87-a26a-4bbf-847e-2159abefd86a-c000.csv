@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/cmt/jts/mdb/HelloWorldMDB/onMessage(org.jboss.as.quickstarts.erraihelloworld.client.local.Message)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	4
+org/jboss/as/quickstarts/mdb/HelloWorldTopicMDB/onMessage(org.jboss.as.quickstarts.erraihelloworld.client.local.Message)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	3
+org/jboss/as/quickstarts/cmt/mdb/HelloWorldMDB/onMessage(org.jboss.as.quickstarts.erraihelloworld.client.local.Message)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	1
+org/jboss/as/quickstarts/cmt/controller/CustomerManager/addCustomer(java.lang.String)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	0
+org/jboss/as/quickstarts/xa/DbUpdaterMDB/onMessage(org.jboss.as.quickstarts.erraihelloworld.client.local.Message)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	2

@@ -1,0 +1,5 @@
+ucar/nc2/iosp/hdf5/H5header/HeaderMessage/read(long,int,boolean,java.lang.String)@g_netcdf-4.2.20.jar.txt	1
+ucar/nc2/ft/point/writer/WriterCFPointDataset/rewritePointObsDataset(java.lang.String,java.lang.String,boolean)@g_netcdf-4.2-min.jar.txt	3
+ucar/nc2/iosp/hdf5/H5header/HeaderMessage/read(long,int,boolean,java.lang.String)@g_netcdf-4.2-min.jar.txt	0
+thredds/catalog/crawl/CatalogExtractor/extractGridDataset(java.io.PrintStream,ucar.nc2.dt.GridDataset)@g_netcdf-4.2-min.jar.txt	4
+ucar/nc2/iosp/dmsp/DMSPHeader/handleFileInformation()@g_netcdf-4.2-min.jar.txt	2

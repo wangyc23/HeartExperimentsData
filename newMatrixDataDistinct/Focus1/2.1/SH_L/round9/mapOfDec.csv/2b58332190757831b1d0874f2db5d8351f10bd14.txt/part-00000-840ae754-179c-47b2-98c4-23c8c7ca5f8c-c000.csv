@@ -1,0 +1,5 @@
+org/keycloak/saml/processing/api/saml/v2/sig/SAML2Signature/getNextSiblingOfIssuer(org.w3c.dom.Document)@0ff77af8ffc119f66c977b6502086496f855f94e.txt	1
+org/keycloak/testsuite/actions/TermsAndConditionsTest/termsAccepted()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	3
+org/keycloak/models/cache/RealmAdapter/isEnabled()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	0
+org/keycloak/models/utils/CredentialValidation/hashIterations(org.keycloak.models.RealmModel)@0ff77af8ffc119f66c977b6502086496f855f94e.txt	2
+org/keycloak/models/utils/ModelToRepresentation/toRepresentation(org.keycloak.models.GroupModel,boolean)@0ff77af8ffc119f66c977b6502086496f855f94e.txt	4

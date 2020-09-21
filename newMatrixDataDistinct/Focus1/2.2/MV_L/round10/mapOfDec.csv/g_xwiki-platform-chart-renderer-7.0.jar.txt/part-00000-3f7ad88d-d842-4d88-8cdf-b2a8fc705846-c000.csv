@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/transformation/DefaultTransformationManager/getTransformations()@g_xwiki-rendering-api-7.4.2.jar.txt	2
+org/xwiki/rendering/internal/parser/reference/DefaultResourceReferenceParser/parse(java.lang.String)@g_xwiki-rendering-api-7.4.2.jar.txt	0
+org/xwiki/properties/internal/converter/ColorConverter/parseRGB(java.lang.String)@g_xwiki-commons-properties-7.0.jar.txt	4
+org/xwiki/properties/internal/DefaultConverterManager/getConverter(java.lang.reflect.Type)@g_xwiki-commons-properties-7.0.jar.txt	3
+org/xwiki/rendering/internal/block/BlockMatcherConverter/convertToType(java.lang.reflect.Type,java.lang.Object)@g_xwiki-rendering-api-7.4.2.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/codehaus/plexus/archiver/bzip2/BZip2Compressor/compress(org.codehaus.plexus.components.io.resources.PlexusIoResource,java.io.OutputStream)
+java/io/IOException/getMessage()
+java/lang/StringBuilder/StringBuilder()

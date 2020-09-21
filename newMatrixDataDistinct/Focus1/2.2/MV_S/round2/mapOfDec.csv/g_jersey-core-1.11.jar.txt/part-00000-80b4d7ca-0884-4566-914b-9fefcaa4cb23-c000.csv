@@ -1,0 +1,5 @@
+org/glassfish/jersey/internal/ServiceFinder/toClassArray()@g_jersey-common-2.22.2.jar.txt	2
+org/glassfish/jersey/message/internal/OutboundMessageContext/getLinks()@g_jersey-common-2.22.2.jar.txt	3
+org/glassfish/jersey/message/internal/OutboundMessageContext/getAcceptableMediaTypes()@g_jersey-common-2.22.2.jar.txt	1
+org/glassfish/jersey/filter/LoggingFilter/printPrefixedHeaders(java.lang.StringBuilder,long,java.lang.String,javax.ws.rs.core.MultivaluedMap)@g_jersey-common-2.22.2.jar.txt	4
+org/glassfish/jersey/message/internal/OutboundMessageContext/getAcceptableLanguages()@g_jersey-common-2.22.2.jar.txt	0

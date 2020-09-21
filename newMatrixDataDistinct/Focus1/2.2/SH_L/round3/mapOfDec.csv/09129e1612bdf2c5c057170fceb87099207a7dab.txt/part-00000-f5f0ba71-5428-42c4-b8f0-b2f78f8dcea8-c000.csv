@@ -1,0 +1,5 @@
+org/jboss/weld/bean/AbstractBean/initScopeFromStereotype()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	4
+org/jboss/weld/bootstrap/Validator/validateInjectionPoint(org.jboss.weld.bean.InjectionPoint,org.jboss.weld.manager.BeanManagerImpl)@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	3
+org/jboss/weld/tests/unit/reflection/clazz/WeldClassTest/testMetaAnnotations()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	2
+org/jboss/weld/metadata/cache/StereotypeModel/initDefaultScopeType()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	1
+org/jboss/weld/bean/AbstractProducerBean/initScope()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	0

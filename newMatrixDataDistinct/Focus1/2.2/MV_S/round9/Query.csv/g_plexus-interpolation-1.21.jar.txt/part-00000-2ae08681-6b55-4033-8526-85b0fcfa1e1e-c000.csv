@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/util/Iterator/next()
+java/lang/String/substring(int)
+java/util/regex/Pattern/matcher(java.lang.CharSequence)

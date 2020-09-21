@@ -1,0 +1,5 @@
+org/easymock/internal/RecordState/<clinit>()@g_easymock-2.4.jar.txt	3
+ognl/ArrayPropertyAccessor/getProperty(java.util.Map,java.lang.Object,java.lang.Object)@g_ognl-2.6.11.jar.txt	1
+ognl/ASTChain/getValueBody(ognl.OgnlContext,java.lang.Object)@g_ognl-2.6.11.jar.txt	2
+ognl/OgnlRuntime/<clinit>()@g_ognl-2.6.11.jar.txt	4
+ognl/OgnlOps/convertValue(java.lang.Object,java.lang.Class)@g_ognl-2.6.11.jar.txt	0

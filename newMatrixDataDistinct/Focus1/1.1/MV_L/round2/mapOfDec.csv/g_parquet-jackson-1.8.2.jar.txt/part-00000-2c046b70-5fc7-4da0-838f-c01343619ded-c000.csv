@@ -1,0 +1,5 @@
+org/codehaus/jackson/map/ser/CustomSerializerFactory/addSpecificMapping(java.lang.Class,org.codehaus.jackson.map.JsonSerializer)@g_jackson-mapper-asl-1.4.3.jar.txt	0
+org/codehaus/jackson/map/introspect/BasicBeanDescription/_findPropertyFields(boolean,java.util.Collection,boolean)@g_jackson-mapper-asl-1.4.3.jar.txt	4
+org/codehaus/jackson/map/introspect/BasicBeanDescription/findSetters(boolean)@g_jackson-mapper-asl-1.4.3.jar.txt	2
+org/codehaus/jackson/node/TextNode/_reportInvalidBase64(org.codehaus.jackson.Base64Variant,char,int,java.lang.String)@g_jackson-mapper-asl-1.4.3.jar.txt	1
+org/codehaus/jackson/map/deser/BeanDeserializer/deserializeFromObject(org.codehaus.jackson.JsonParser,org.codehaus.jackson.map.DeserializationContext)@g_jackson-mapper-asl-1.4.3.jar.txt	3

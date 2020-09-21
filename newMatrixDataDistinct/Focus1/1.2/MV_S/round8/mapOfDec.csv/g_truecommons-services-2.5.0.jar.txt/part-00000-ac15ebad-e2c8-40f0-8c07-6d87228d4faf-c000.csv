@@ -1,0 +1,5 @@
+org/xwiki/observation/internal/DefaultObservationManager/notify(java.util.Collection,org.xwiki.observation.event.Event,java.lang.Object,java.lang.Object)@g_xwiki-commons-observation-local-7.4.2.jar.txt	2
+org/abego/treelayout/TreeLayout/getNodeBounds()@g_org.abego.treelayout.core-1.0.1.jar.txt	1
+org/abego/treelayout/TreeLayout/dumpTree(java.io.PrintStream,java.lang.Object,int,org.abego.treelayout.TreeLayout$DumpConfiguration)@g_org.abego.treelayout.core-1.0.1.jar.txt	0
+org/xwiki/observation/internal/DefaultObservationManager/addListener(org.xwiki.observation.EventListener)@g_xwiki-commons-observation-local-7.4.2.jar.txt	4
+org/abego/treelayout/TreeLayout/calcSizeOfLevels(java.lang.Object,int)@g_org.abego.treelayout.core-1.0.1.jar.txt	3

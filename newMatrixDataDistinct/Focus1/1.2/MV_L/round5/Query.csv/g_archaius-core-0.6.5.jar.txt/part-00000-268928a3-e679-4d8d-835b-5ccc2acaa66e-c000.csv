@@ -1,0 +1,4 @@
+com/google/common/base/Function/apply(java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+java/util/Iterator/next()

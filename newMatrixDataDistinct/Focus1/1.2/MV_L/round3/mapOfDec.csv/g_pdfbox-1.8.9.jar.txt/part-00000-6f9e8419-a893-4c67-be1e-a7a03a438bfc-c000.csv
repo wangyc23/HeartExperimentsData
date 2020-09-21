@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdfparser/PDFParser/parseXrefTable(long)@g_pdfbox-1.8.10.jar.txt	3
+org/apache/pdfbox/ExtractText/startExtraction(java.lang.String[])@g_pdfbox-1.8.10.jar.txt	4
+org/apache/pdfbox/TextToPDF/main(java.lang.String[])@g_pdfbox-1.8.8.jar.txt	2
+org/apache/pdfbox/pdfparser/PDFParser/parseXrefTable(long)@g_pdfbox-1.8.8.jar.txt	0
+org/apache/pdfbox/ExtractText/startExtraction(java.lang.String[])@g_pdfbox-1.8.8.jar.txt	1

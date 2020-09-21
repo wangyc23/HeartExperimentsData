@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/beans/IndexedPropertyDescriptor/getName()
+java/beans/BeanInfo/getPropertyDescriptors()
+java/beans/IndexedPropertyDescriptor/getIndexedWriteMethod()

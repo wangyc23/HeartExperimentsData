@@ -1,0 +1,4 @@
+org/springframework/boot/autoconfigure/AutoConfigurationSorter$AutoConfigurationClass/getAfter()
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+java/util/Set/addAll(java.util.Collection)

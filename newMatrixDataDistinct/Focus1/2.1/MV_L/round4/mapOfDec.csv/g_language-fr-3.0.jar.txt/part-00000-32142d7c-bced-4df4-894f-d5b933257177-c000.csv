@@ -1,0 +1,5 @@
+org/languagetool/chunking/TokenPredicate/apply(org.languagetool.chunking.ChunkTaggedToken)@g_language-km-3.0.jar.txt	4
+org/languagetool/tagging/de/GermanTagger/tag(java.util.List,boolean)@g_language-km-3.0.jar.txt	3
+org/languagetool/rules/de/LineExpander/expandLine(java.lang.String)@g_language-km-3.0.jar.txt	0
+org/languagetool/rules/de/CaseRule/match(org.languagetool.AnalyzedSentence)@g_language-km-3.0.jar.txt	1
+org/languagetool/rules/de/CaseRule/potentiallyAddLowercaseMatch(java.util.List,org.languagetool.AnalyzedTokenReadings,boolean,java.lang.String,boolean)@g_language-km-3.0.jar.txt	2

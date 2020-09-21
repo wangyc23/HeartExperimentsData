@@ -1,0 +1,5 @@
+org/eclipse/jetty/security/ConstraintSecurityHandler/checkPathsWithUncoveredHttpMethods()@g_jetty-security-9.3.8.v20160314.jar.txt	2
+org/eclipse/jetty/security/ConstraintSecurityHandler/getConstraintMappingsForPath(java.lang.String,java.util.List)@g_jetty-security-9.3.8.v20160314.jar.txt	3
+org/eclipse/jetty/security/ConstraintSecurityHandler/removeConstraintMappingsForPath(java.lang.String,java.util.List)@g_jetty-security-9.3.8.v20160314.jar.txt	4
+org/eclipse/jetty/security/ConstraintSecurityHandler/getPathsWithUncoveredHttpMethods()@g_jetty-security-9.3.8.v20160314.jar.txt	1
+org/eclipse/jetty/security/ConstraintSecurityHandler/prepareConstraintInfo(java.lang.String,org.eclipse.jetty.server.Request)@g_jetty-security-9.3.8.v20160314.jar.txt	0

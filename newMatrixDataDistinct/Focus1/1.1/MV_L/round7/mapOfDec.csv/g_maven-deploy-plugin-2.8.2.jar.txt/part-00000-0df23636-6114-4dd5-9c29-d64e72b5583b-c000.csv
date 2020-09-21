@@ -1,0 +1,5 @@
+org/apache/maven/plugin/deploy/AbstractDeployMojo/deploy(java.io.File,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,org.apache.maven.artifact.repository.ArtifactRepository,int)@g_maven-surefire-plugin-2.16.jar.txt	4
+org/apache/maven/plugin/deploy/DeployFileMojo/readModel(java.io.File)@g_maven-surefire-plugin-2.16.jar.txt	2
+org/apache/maven/plugin/deploy/HelpMojo/execute()@g_maven-surefire-plugin-2.16.jar.txt	3
+org/apache/maven/plugin/surefire/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-surefire-plugin-2.17.jar.txt	1
+org/apache/maven/plugin/surefire/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-surefire-plugin-2.16.jar.txt	0

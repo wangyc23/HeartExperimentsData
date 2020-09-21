@@ -1,0 +1,5 @@
+org/javaee7/json/streaming/parser/JsonParserFromReaderTest/testSimpleObject()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	2
+org/javaee7/json/object/reader/JsonReaderFromReaderTest/testSimpleObjectWithTwoElements()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	0
+org/javaee7/websocket/client/programmatic/encoders/MyMessageDecoder/decode(java.lang.String)@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	4
+org/javaee7/json/object/reader/JsonReaderFromReaderTest/testNestedStructure()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	1
+org/javaee7/json/streaming/parser/JsonParserFromReaderTest/testNestedStructure()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	3

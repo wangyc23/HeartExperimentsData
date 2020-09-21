@@ -1,0 +1,5 @@
+org/springframework/core/io/support/PathMatchingResourcePatternResolver/findPathMatchingResources(java.lang.String)@g_spring-2.5.6.jar.txt	3
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	1
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	0
+org/jets3t/apps/synchronize/PasswordInput/getPasswordJDK16OrLater(java.lang.String)@g_spring-2.5.6.jar.txt	4
+org/springframework/asm/commons/SerialVersionUIDAdder/computeSVUID()@g_spring-2.5.6.jar.txt	2

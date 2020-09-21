@@ -1,0 +1,5 @@
+org/jdom/output/XMLOutputter/escapeElementEntities(java.lang.String)@g_jdom-1.1.3.jar.txt	0
+org/jdom/Verifier/checkNamespacePrefix(java.lang.String)@g_jdom-1.1.3.jar.txt	4
+org/codehaus/plexus/util/StringUtils/swapCase(java.lang.String)@g_plexus-utils-1.5.12.jar.txt	2
+org/jdom/output/XMLOutputter/escapeAttributeEntities(java.lang.String)@g_jdom-1.1.3.jar.txt	1
+org/codehaus/plexus/util/StringUtils/unifyLineSeparators(java.lang.String,java.lang.String)@g_plexus-utils-1.5.12.jar.txt	3

@@ -1,0 +1,5 @@
+org/opentripplanner/routing/TestHalfEdges/testStreetSplittingAlerts()@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	0
+org/opentripplanner/graph_builder/impl/map/MatchState/carsCanTraverse(org.opentripplanner.routing.graph.Edge)@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	3
+org/opentripplanner/routing/algorithm/EarliestArrivalSPTService/getShortestPathTree(org.opentripplanner.routing.core.RoutingRequest,double,org.opentripplanner.routing.algorithm.strategies.SearchTerminationStrategy)@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	1
+org/opentripplanner/routing/algorithm/GenericAStar/iterate()@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	4
+org/opentripplanner/routing/edgetype/PartialStreetEdgeTest/testTraversalOfSubdividedEdge()@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	2

@@ -1,0 +1,5 @@
+org/junit/validator/AnnotationValidatorFactory/createAnnotationValidator(org.junit.validator.ValidateWith)@g_junit-4.12-beta-3.jar.txt	4
+org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParameters/createTestUsingFieldInjection()@g_junit-4.12-beta-3.jar.txt	0
+junit/framework/TestSuite/addTestsFromTestCase(java.lang.Class)@g_junit-4.12-beta-3.jar.txt	2
+org/junit/runners/model/TestClass/getAnnotatedMethodValues(java.lang.Object,java.lang.Class,java.lang.Class)@g_junit-4.12-beta-3.jar.txt	1
+org/junit/experimental/theories/Theories/validateDataPointFields(java.util.List)@g_junit-4.12-beta-3.jar.txt	3

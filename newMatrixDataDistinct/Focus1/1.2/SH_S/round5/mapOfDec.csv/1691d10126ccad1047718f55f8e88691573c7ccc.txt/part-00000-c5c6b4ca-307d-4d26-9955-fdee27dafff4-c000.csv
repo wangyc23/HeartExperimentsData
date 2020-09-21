@@ -1,0 +1,5 @@
+at/mfpjn/workflow/model/Transform/tosql(java.lang.String,java.lang.String)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	4
+manager/TweetManager/processTerms(java.lang.String,java.lang.String)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	2
+bing/BingSearch/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	3
+bing/BingSearch/getNews(model.Event,model.Location)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	1
+bing/BingSearch/getNewsInt(model.Event,model.Location)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	0

@@ -1,0 +1,5 @@
+org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory/connectionClosed(javax.sql.ConnectionEvent)@g_commons-dbcp-1.3.jar.txt	0
+org/apache/tomcat/websocket/WsWebSocketContainer/createSSLEngine(java.util.Map)@g_commons-dbcp-1.3.jar.txt	3
+org/apache/tomcat/jdbc/pool/DataSourceFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_commons-dbcp-1.3.jar.txt	2
+org/apache/commons/dbcp/datasources/InstanceKeyObjectFactory/registerNewInstance(org.apache.commons.dbcp.datasources.InstanceKeyDataSource)@g_commons-dbcp-1.3.jar.txt	4
+org/apache/tomcat/websocket/WsWebSocketContainer/processResponse(java.nio.ByteBuffer,org.apache.tomcat.websocket.AsyncChannelWrapper,long)@g_commons-dbcp-1.3.jar.txt	1

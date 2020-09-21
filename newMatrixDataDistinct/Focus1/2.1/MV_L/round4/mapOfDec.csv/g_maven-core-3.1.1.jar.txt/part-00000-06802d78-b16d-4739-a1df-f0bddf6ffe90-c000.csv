@@ -1,0 +1,5 @@
+org/apache/maven/plugin/DefaultPluginDescriptorCache/clone(org.apache.maven.plugin.descriptor.PluginDescriptor)@g_maven-core-3.0.4.jar.txt	0
+org/apache/maven/project/DefaultProjectDependenciesResolver/GraphLogger/visitEnter(org.eclipse.aether.graph.DependencyNode)@g_maven-core-3.0.4.jar.txt	3
+org/apache/maven/toolchain/DefaultToolchain/matchesRequirements(java.util.Map)@g_maven-core-3.0.4.jar.txt	2
+org/apache/maven/plugin/DefaultPluginDescriptorCache/clone(org.apache.maven.plugin.descriptor.PluginDescriptor)@g_maven-core-3.0.5.jar.txt	1
+org/apache/maven/properties/internal/EnvironmentUtils/addEnvVars(java.util.Properties)@g_maven-core-3.0.4.jar.txt	4

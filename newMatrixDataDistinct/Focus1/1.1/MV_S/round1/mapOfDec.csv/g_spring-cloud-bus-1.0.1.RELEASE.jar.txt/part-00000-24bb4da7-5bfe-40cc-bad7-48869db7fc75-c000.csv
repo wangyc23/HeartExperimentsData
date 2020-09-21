@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/app/rm/RMContainerAllocator/ScheduledRequests/assign(java.util.List)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	1
+org/apache/hadoop/mapreduce/v2/app/job/impl/JobImpl/getWorkflowAdjacencies(org.apache.hadoop.conf.Configuration)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	0
+org/apache/hadoop/mapreduce/v2/app/webapp/AttemptsPage/FewAttemptsBlock/getTaskAttempts()@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	4
+org/apache/hadoop/mapreduce/v2/app/job/impl/TaskAttemptImpl/createContainerLaunchContext(java.util.Map,org.apache.hadoop.conf.Configuration,org.apache.hadoop.security.token.Token,org.apache.hadoop.mapred.Task,org.apache.hadoop.mapred.JobID,org.apache.hadoop.mapred.WrappedJvmID,org.apache.hadoop.mapreduce.v2.app.TaskAttemptListener,org.apache.hadoop.security.Credentials)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	2
+org/apache/hadoop/mapreduce/v2/app/job/impl/JobImpl/actOnUnusableNode(org.apache.hadoop.yarn.api.records.NodeId,org.apache.hadoop.yarn.api.records.NodeState)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	3

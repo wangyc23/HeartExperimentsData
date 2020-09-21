@@ -1,0 +1,5 @@
+org/springframework/social/connect/jdbc/JdbcConnectionRepository/findAllConnections()@g_spring-social-core-1.1.2.RELEASE.jar.txt	3
+org/springframework/social/connect/support/ConnectionFactoryRegistry/addConnectionFactory(org.springframework.social.connect.ConnectionFactory)@g_spring-social-core-1.1.2.RELEASE.jar.txt	4
+org/springframework/social/oauth1/SigningSupport/buildAuthorizationHeaderValue(org.springframework.http.HttpMethod,java.net.URI,java.util.Map,org.springframework.util.MultiValueMap,java.lang.String,java.lang.String)@g_spring-social-core-1.1.2.RELEASE.jar.txt	2
+org/springframework/boot/context/embedded/AbstractFilterRegistrationBean/configure(javax.servlet.FilterRegistration$Dynamic)@g_spring-boot-1.3.0.BUILD-20151114.062217-808.jar.txt	0
+org/springframework/boot/test/SpringApplicationContextLoader/getSources(org.springframework.test.context.MergedContextConfiguration)@g_spring-boot-1.3.0.BUILD-20151114.062217-808.jar.txt	1

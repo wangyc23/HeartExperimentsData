@@ -1,0 +1,4 @@
+io/netty/handler/codec/http/DefaultLastHttpContent/trailingHeaders()
+io/netty/handler/codec/http/DefaultHttpContent/content()
+io/netty/buffer/ByteBuf/duplicate()
+io/netty/handler/codec/http/HttpHeaders/set(io.netty.handler.codec.http.HttpHeaders)

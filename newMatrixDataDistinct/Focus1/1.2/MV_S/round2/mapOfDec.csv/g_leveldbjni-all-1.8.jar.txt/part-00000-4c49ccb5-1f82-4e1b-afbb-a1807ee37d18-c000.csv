@@ -1,0 +1,5 @@
+org/ictclas4j/segment/GraphGenerate/generate(java.util.ArrayList,org.ictclas4j.bean.Dictionary)@g_ictclas4j-1.0.1.jar.txt	3
+org/ictclas4j/bean/SegResult/toHTML()@g_ictclas4j-1.0.1.jar.txt	0
+org/ictclas4j/segment/GraphGenerate/biGenerate(org.ictclas4j.segment.SegGraph,org.ictclas4j.bean.Dictionary,org.ictclas4j.bean.Dictionary)@g_ictclas4j-1.0.1.jar.txt	2
+org/ictclas4j/utility/GFString/sortByLen(java.util.ArrayList,boolean)@g_ictclas4j-1.0.1.jar.txt	1
+org/ictclas4j/segment/NShortPath/printPath(java.util.ArrayList)@g_ictclas4j-1.0.1.jar.txt	4

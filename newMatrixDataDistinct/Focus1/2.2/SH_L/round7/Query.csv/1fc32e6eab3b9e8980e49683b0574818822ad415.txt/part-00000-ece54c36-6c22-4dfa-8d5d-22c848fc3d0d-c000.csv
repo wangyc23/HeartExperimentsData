@@ -1,0 +1,4 @@
+fr/opensagres/eclipse/jsbuild/gulp/internal/core/Logger/isDebugging()
+java/lang/String/equals(java.lang.Object)
+java/util/StringTokenizer/nextToken()
+java/util/StringTokenizer/hasMoreTokens()

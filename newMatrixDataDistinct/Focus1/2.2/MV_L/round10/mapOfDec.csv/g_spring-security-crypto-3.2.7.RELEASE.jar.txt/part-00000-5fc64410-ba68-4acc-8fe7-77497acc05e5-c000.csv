@@ -1,0 +1,5 @@
+org/apache/commons/io/input/XmlStreamReader/getXmlProlog(java.io.InputStream,java.lang.String)@g_commons-io-2.2.jar.txt	1
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_spring-security-crypto-4.0.3.RELEASE.jar.txt	2
+org/springframework/security/crypto/bcrypt/BCrypt/hashpw(java.lang.String,java.lang.String)@g_spring-security-crypto-4.0.3.RELEASE.jar.txt	0
+org/apache/commons/io/FileSystemUtils/parseDir(java.lang.String,java.lang.String)@g_commons-io-2.2.jar.txt	3
+org/apache/commons/io/input/ReversedLinesFileReader/FilePart/readLine()@g_commons-io-2.2.jar.txt	4

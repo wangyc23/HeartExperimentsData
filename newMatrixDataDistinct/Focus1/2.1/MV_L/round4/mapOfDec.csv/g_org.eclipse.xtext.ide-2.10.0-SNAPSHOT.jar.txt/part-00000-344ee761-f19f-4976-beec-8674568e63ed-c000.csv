@@ -1,0 +1,5 @@
+org/eclipse/xtext/common/types/util/JavaReflectAccess/getRawType(org.eclipse.xtext.common.types.JvmType)@g_org.eclipse.xtext.common.types-2.10.0-20160515.041857-73.jar.txt	3
+org/eclipse/xtext/common/types/access/impl/AbstractClassMirror/getEObject(org.eclipse.emf.ecore.resource.Resource,java.lang.String,org.eclipse.xtext.resource.IFragmentProvider$Fallback)@g_org.eclipse.xtext.common.types-2.10.0-20160515.041857-73.jar.txt	4
+org/eclipse/xtext/ide/editor/contentassist/antlr/internal/AbstractInternalContentAssistParser/DefaultFollowElementFactory/createFollowElement(org.eclipse.xtext.AbstractElement,int)@g_org.eclipse.xtext.ide-2.10.0-20160515.041749-73.jar.txt	0
+org/eclipse/xtext/common/types/access/reflect/ReflectionTypeFactory/logNoClassDefFoundError(java.lang.NoClassDefFoundError,java.lang.Class,java.lang.String)@g_org.eclipse.xtext.common.types-2.10.0-20160515.041857-73.jar.txt	2
+org/eclipse/xtext/ide/editor/contentassist/antlr/internal/AbstractInternalContentAssistParser/announceEof(int)@g_org.eclipse.xtext.ide-2.10.0-20160515.041749-73.jar.txt	1

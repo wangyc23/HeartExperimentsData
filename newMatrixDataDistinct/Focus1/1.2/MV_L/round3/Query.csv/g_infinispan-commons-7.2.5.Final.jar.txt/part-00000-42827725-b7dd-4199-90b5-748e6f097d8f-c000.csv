@@ -1,0 +1,4 @@
+java/util/Collections/emptyMap()
+java/lang/Object/equals(java.lang.Object)
+java/util/Iterator/next()
+java/util/Map$Entry/getKey()

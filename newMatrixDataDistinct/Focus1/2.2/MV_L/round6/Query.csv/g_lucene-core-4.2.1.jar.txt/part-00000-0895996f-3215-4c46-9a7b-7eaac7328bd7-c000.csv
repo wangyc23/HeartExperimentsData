@@ -1,0 +1,4 @@
+java/util/zip/Inflater/finished()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/zip/Inflater/reset()
+java/lang/StringBuilder/StringBuilder()

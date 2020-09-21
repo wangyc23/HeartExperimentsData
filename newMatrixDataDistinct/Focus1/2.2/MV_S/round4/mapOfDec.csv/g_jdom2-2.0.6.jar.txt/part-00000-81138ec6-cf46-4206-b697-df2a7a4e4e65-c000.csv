@@ -1,0 +1,5 @@
+org/codehaus/stax2/ri/dom/DOMWrappingReader/next()@g_stax2-api-3.1.4.jar.txt	1
+org/codehaus/stax2/ri/typed/ValueDecoderFactory/QNameDecoder/resolveQName(java.lang.String,java.lang.String)@g_stax2-api-3.1.4.jar.txt	2
+org/codehaus/stax2/ri/dom/DOMWrappingReader/handleIllegalAttrIndex(int)@g_stax2-api-3.1.4.jar.txt	4
+org/codehaus/stax2/ri/Stax2EventWriterImpl/add(javax.xml.stream.events.XMLEvent)@g_stax2-api-3.1.4.jar.txt	3
+org/codehaus/stax2/ri/evt/Stax2EventAllocatorImpl/allocate(javax.xml.stream.XMLStreamReader)@g_stax2-api-3.1.4.jar.txt	0

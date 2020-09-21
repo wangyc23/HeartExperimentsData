@@ -1,0 +1,5 @@
+org/apache/maven/archiver/MavenArchiver/getManifest(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,org.apache.maven.archiver.ManifestConfiguration,java.util.Map)@g_maven-archiver-2.5.jar.txt	0
+org/apache/maven/archiver/PomPropertiesUtil/createPomProperties(org.apache.maven.project.MavenProject,org.codehaus.plexus.archiver.Archiver,java.io.File,boolean)@g_maven-archiver-2.5.jar.txt	4
+org/apache/maven/archiver/MavenArchiver/createArchive(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,org.apache.maven.archiver.MavenArchiveConfiguration)@g_maven-archiver-2.5.jar.txt	2
+org/apache/maven/archiver/MavenArchiver/getManifest(org.apache.maven.project.MavenProject,org.apache.maven.archiver.ManifestConfiguration,java.util.Map)@g_maven-archiver-2.3.jar.txt	1
+org/apache/maven/archiver/MavenArchiver/getManifest(org.apache.maven.project.MavenProject,org.apache.maven.archiver.MavenArchiveConfiguration)@g_maven-archiver-2.3.jar.txt	3

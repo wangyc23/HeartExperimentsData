@@ -1,0 +1,5 @@
+br/ufla/TestHomePage/homepageRendersSuccessfully()@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	1
+com/epam/training/services/impl/UserServiceImpl/checkUser(com.epam.training.dataaccess.model.User)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	4
+br/ufla/ecommerce/views/BasePage/addCssFile(java.lang.String)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	2
+no/koteng/appstore/RepositoryUtil/getLatestArtifactURL(java.lang.String)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	3
+com/epam/training/dataaccess/util/SchemaNameAwareBasicDataSource/setSchema(java.lang.String)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	0

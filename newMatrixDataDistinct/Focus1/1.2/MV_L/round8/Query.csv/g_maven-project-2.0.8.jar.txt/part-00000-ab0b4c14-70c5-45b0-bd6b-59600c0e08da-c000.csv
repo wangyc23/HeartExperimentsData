@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/apache/maven/artifact/repository/ArtifactRepository/getUrl()
+java/util/Iterator/hasNext()
+org/apache/maven/artifact/metadata/ArtifactMetadataRetrievalException/ArtifactMetadataRetrievalException(java.lang.String,java.lang.Throwable)

@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_plexus-utils-1.5.8.jar.txt	1
+org/codehaus/plexus/util/reflection/Reflector/getObjectProperty(java.lang.Object,java.lang.String)@g_plexus-utils-1.5.8.jar.txt	4
+hidden/org/codehaus/plexus/interpolation/StringSearchInterpolator/interpolate(java.lang.String,hidden.org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-utils-1.5.8.jar.txt	0
+org/codehaus/plexus/util/FileUtils/copyFile(java.io.File,java.io.File)@g_plexus-utils-1.5.8.jar.txt	2
+org/codehaus/plexus/util/FileUtils/getFileAndDirectoryNames(java.io.File,java.lang.String,java.lang.String,boolean,boolean,boolean,boolean)@g_plexus-utils-1.5.8.jar.txt	3

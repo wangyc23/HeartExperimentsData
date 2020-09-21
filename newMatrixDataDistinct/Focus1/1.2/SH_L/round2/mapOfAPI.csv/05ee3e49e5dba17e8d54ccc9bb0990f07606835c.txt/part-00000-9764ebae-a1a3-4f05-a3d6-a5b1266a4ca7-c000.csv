@@ -1,0 +1,6 @@
+0	java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+1	com/web/mavenproject6/entities/Users/getRole()
+2	org/springframework/security/core/userdetails/User/User(java.lang.String,java.lang.String,boolean,boolean,boolean,boolean,java.util.Collection)
+3	java/lang/Class/newInstance()
+4	org/apache/isis/core/metamodel/services/ServicesInjector/injectServicesInto(java.lang.Object)
+5	com/web/mavenproject6/entities/Users/getEmail()

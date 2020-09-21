@@ -1,0 +1,5 @@
+com/sun/tools/xjc/generator/bean/ObjectFactoryGeneratorImpl/populate(com.sun.tools.xjc.model.CElementInfo,com.sun.tools.xjc.outline.Aspect,com.sun.tools.xjc.outline.Aspect)@g_jaxb-xjc-2.2.2.jar.txt	0
+com/sun/tools/xjc/reader/xmlschema/DefaultClassBinder/allow(com.sun.xml.xsom.XSComponent,java.lang.String)@g_jaxb-xjc-2.2.2.jar.txt	1
+com/sun/xml/xsom/impl/parser/NGCCRuntimeEx/hasAlreadyBeenRead()@g_jaxb-xjc-2.2.2.jar.txt	4
+com/sun/codemodel/TypedAnnotationWriter/addArrayValue(java.lang.Object,java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_jaxb-xjc-2.2.2.jar.txt	3
+com/sun/codemodel/TypedAnnotationWriter/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_jaxb-xjc-2.2.2.jar.txt	2

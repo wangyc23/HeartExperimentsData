@@ -1,0 +1,5 @@
+org/apache/maven/artifact/resolver/AbstractArtifactResolutionException/constructMessageBase(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.util.List,java.util.List)@g_maven-artifact-3.0.3.jar.txt	3
+org/apache/maven/artifact/versioning/ComparableVersion/StringItem/compareTo(org.apache.maven.artifact.versioning.ComparableVersion$Item)@g_maven-artifact-3.0.3.jar.txt	0
+org/apache/maven/artifact/versioning/VersionRange/createFromVersionSpec(java.lang.String)@g_maven-artifact-3.0.3.jar.txt	1
+org/apache/maven/artifact/versioning/VersionRange/parseRestriction(java.lang.String)@g_maven-artifact-3.0.3.jar.txt	2
+org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException/constructMessage(java.util.List)@g_maven-artifact-3.0.3.jar.txt	4

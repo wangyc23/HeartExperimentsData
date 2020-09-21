@@ -1,0 +1,4 @@
+org/apache/maven/plugin/MojoExecutionException/MojoExecutionException(java.lang.String)
+org/apache/maven/artifact/resolver/ArtifactResolutionResult/hasExceptions()
+java/lang/String/format(java.lang.String,java.lang.Object[])
+org/apache/maven/artifact/resolver/ArtifactResolutionRequest/ArtifactResolutionRequest()

@@ -1,0 +1,5 @@
+org/apache/maven/project/artifact/MavenMetadataSource/retrieve(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-project-2.0.9.jar.txt	2
+org/apache/maven/project/artifact/MavenMetadataSource/aggregateRepositoryLists(java.util.List,java.util.List)@g_maven-project-2.0.9.jar.txt	0
+org/apache/maven/project/artifact/MavenMetadataSource/retrieveAvailableVersions(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-project-2.0.9.jar.txt	4
+org/apache/maven/project/artifact/MavenMetadataSource/aggregateRepositoryLists(java.util.List,java.util.List)@g_maven-project-2.2.1.jar.txt	1
+org/apache/maven/project/injection/DefaultProfileInjector/mergeReportPlugins(org.apache.maven.model.ReportPlugin,org.apache.maven.model.ReportPlugin)@g_maven-project-2.0.9.jar.txt	3

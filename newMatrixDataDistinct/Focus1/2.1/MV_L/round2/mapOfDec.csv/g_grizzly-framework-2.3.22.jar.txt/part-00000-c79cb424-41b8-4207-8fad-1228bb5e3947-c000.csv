@@ -1,0 +1,5 @@
+org/glassfish/grizzly/ssl/SSLConnectionContext/unwrap(org.glassfish.grizzly.Buffer,org.glassfish.grizzly.Buffer,org.glassfish.grizzly.ssl.SSLConnectionContext$Allocator)@g_grizzly-framework-2.3.23.jar.txt	3
+org/glassfish/grizzly/ssl/SSLStreamWriter/SSLHandshakeCondition/doHandshakeStep()@g_grizzly-framework-2.3.23.jar.txt	1
+org/glassfish/grizzly/utils/ServiceFinder/parse(java.lang.Class,java.net.URL,java.util.Set)@g_grizzly-framework-2.3.23.jar.txt	0
+org/glassfish/grizzly/ssl/SSLConnectionContext/wrap(org.glassfish.grizzly.Buffer,org.glassfish.grizzly.Buffer,org.glassfish.grizzly.ssl.SSLConnectionContext$Allocator)@g_grizzly-framework-2.3.23.jar.txt	2
+org/glassfish/grizzly/ssl/SSLBaseFilter/unwrapAll(org.glassfish.grizzly.filterchain.FilterChainContext,org.glassfish.grizzly.ssl.SSLConnectionContext)@g_grizzly-framework-2.3.23.jar.txt	4

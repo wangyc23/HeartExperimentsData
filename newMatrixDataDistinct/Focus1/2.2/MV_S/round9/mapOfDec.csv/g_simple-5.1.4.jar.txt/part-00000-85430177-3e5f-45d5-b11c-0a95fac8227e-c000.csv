@@ -1,0 +1,5 @@
+net/htmlparser/jericho/CharacterEntityReference/<clinit>()@g_jericho-html-3.2.jar.txt	3
+net/htmlparser/jericho/FormControl/getDisplayValueHTML(java.lang.CharSequence,boolean)@g_jericho-html-3.2.jar.txt	2
+net/htmlparser/jericho/FormControl/construct(net.htmlparser.jericho.Element)@g_jericho-html-3.2.jar.txt	4
+net/htmlparser/jericho/FormFields/getColumnValues(java.util.Map)@g_jericho-html-3.2.jar.txt	1
+net/htmlparser/jericho/OutputDocument/getDebugInfo()@g_jericho-html-3.2.jar.txt	0

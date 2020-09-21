@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/synonym/SynonymFilter/addOutput(org.apache.lucene.util.BytesRef,int,int)@g_lucene-analyzers-common-4.9.1.jar.txt	4
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseStep(java.io.LineNumberReader,java.lang.String)@g_lucene-analyzers-common-4.9.1.jar.txt	0
+org/apache/lucene/analysis/synonym/SolrSynonymParser/parse(java.io.Reader)@g_lucene-analyzers-common-4.9.1.jar.txt	3
+org/apache/lucene/analysis/synonym/SynonymFilter/incrementToken()@g_lucene-analyzers-common-4.9.1.jar.txt	2
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseRules(java.io.LineNumberReader,int)@g_lucene-analyzers-common-4.9.1.jar.txt	1

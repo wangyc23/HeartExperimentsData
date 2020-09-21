@@ -1,0 +1,5 @@
+org/dayatang/persistence/jpa/AliasTest/testGetAlias()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	3
+org/dayatang/observer/HibernateUtils/buildSessionFactory()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	2
+org/dayatang/configuration/impl/ConfigurationFileImpl/store(java.util.Properties,java.io.BufferedWriter,java.lang.String)@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	1
+org/dayatang/configuration/impl/ConfigurationFileImpl/load()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	0
+org/dayatang/springtest/test/CustomBean/afterPropertiesSet()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	4

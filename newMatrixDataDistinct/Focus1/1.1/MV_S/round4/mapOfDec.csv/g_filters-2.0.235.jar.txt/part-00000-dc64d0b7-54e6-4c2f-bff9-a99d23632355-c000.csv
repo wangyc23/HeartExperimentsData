@@ -1,0 +1,5 @@
+com/octo/captcha/component/image/textpaster/NonLinearRandomAngleTextPaster/pasteCharacter(java.awt.Graphics2D,java.text.AttributedString)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	1
+org/apache/pdfbox/pdmodel/PDPage/convertToImage(int,int)@g_pdfbox-1.7.0.jar.txt	2
+org/apache/pdfbox/pdfviewer/PDFPagePanel/paint(java.awt.Graphics)@g_pdfbox-1.7.0.jar.txt	3
+com/octo/captcha/component/image/backgroundgenerator/EllipseBackgroundGenerator/getBackground()@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	0
+org/apache/pdfbox/pdmodel/font/PDType1AfmPfbFont/load(org.apache.pdfbox.pdmodel.PDDocument,java.io.InputStream,java.io.InputStream)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	4

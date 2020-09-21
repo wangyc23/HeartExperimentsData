@@ -1,0 +1,4 @@
+br/com/syspartenon/partenon/domain/Usuario/Usuario()
+br/com/syspartenon/partenon/domain/Entidade/setUsuario(br.com.syspartenon.partenon.domain.Usuario)
+br/com/syspartenon/partenon/domain/Usuario/setUsuSenha(java.lang.String)
+java/util/List/isEmpty()

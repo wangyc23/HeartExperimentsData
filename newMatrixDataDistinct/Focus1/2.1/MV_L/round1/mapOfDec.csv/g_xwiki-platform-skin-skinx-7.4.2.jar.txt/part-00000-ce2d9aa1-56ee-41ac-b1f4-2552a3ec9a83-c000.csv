@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/scheduler/SchedulerPlugin/scheduleJob(com.xpn.xwiki.objects.BaseObject,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	2
+com/xpn/xwiki/plugin/skinx/AbstractResourceSkinExtensionPlugin/getLink(java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/skinx/AbstractDocumentSkinExtensionPlugin/getAlwaysUsedExtensions()@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	0
+com/xpn/xwiki/plugin/skinx/CssSkinFileExtensionPlugin/getLink(java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/scheduler/SchedulerPluginApi/scheduleJobs(com.xpn.xwiki.api.Document)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	3

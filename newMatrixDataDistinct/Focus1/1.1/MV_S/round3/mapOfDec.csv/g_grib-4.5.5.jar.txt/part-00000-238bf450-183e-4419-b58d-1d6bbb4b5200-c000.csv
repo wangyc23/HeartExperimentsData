@@ -1,0 +1,5 @@
+ucar/atd/dorade/DoradePARM/getParamValues(ucar.atd.dorade.DoradeRDAT,float[])@g_netcdf-4.2.20.jar.txt	1
+thredds/catalog2/xml/parser/stax/ServiceElementParser/parseStartElement()@g_netcdf-4.2.20.jar.txt	0
+ucar/nc2/dataset/conv/AvhrrConvention/augmentDataset(ucar.nc2.dataset.NetcdfDataset,ucar.nc2.util.CancelTask)@g_netcdf-4.2.20.jar.txt	2
+ucar/nc2/iosp/misc/NmcObsLegacy/endFile(ucar.unidata.io.RandomAccessFile)@g_netcdf-4.2.20.jar.txt	4
+ucar/nc2/dt/point/CFstationObsDataset/CFStationImpl/readObservations()@g_netcdf-4.2.20.jar.txt	3

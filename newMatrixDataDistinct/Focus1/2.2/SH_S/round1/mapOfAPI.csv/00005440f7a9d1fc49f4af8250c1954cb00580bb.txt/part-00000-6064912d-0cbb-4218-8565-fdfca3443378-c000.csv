@@ -1,0 +1,7 @@
+0	org/woelker/telemetrion/core/engine/Engine/start()/$anonymous1/()
+1	com/sportdataconnect/strictly/api/response/CoupleResultBuilder/setOutcome(java.lang.String)
+2	org/woelker/telemetrion/core/engine/Engine/getCurrentTimestamp()
+3	java/util/concurrent/ScheduledExecutorService/scheduleAtFixedRate(java.lang.Runnable,long,long,java.util.concurrent.TimeUnit)
+4	com/sportdataconnect/strictly/api/response/CoupleResultBuilder/setCoupleId(java.lang.String)
+5	com/sportdataconnect/strictly/api/response/CoupleResultBuilder/setDance(java.lang.String)
+6	com/sportdataconnect/strictly/api/response/CoupleResultBuilder/setMusic(java.lang.String)

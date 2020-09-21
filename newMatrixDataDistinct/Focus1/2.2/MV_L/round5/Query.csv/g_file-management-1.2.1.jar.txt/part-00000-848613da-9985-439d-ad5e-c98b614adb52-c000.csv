@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/xml/pull/XmlPullParser/nextText()
+java/lang/StringBuffer/append(java.lang.String)
+java/util/HashSet/HashSet()
+java/util/Set/add(java.lang.Object)

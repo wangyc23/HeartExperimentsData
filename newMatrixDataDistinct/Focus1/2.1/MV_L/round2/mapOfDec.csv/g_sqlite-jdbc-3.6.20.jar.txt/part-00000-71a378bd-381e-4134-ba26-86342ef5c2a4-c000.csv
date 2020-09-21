@@ -1,0 +1,5 @@
+org/ibex/nestedvm/Interpreter/sourceLine(int)@g_sqlite-jdbc-3.7.2.jar.txt	4
+org/sqlite/MetaData/getExportedKeys(java.lang.String,java.lang.String,java.lang.String)@g_sqlite-jdbc-3.7.2.jar.txt	3
+org/apache/maven/it/util/ResourceExtractor/extractResourcePath(java.lang.Class,java.lang.String,java.io.File,boolean)@g_maven-verifier-1.2.jar.txt	1
+org/sqlite/RS/findColumn(java.lang.String)@g_sqlite-jdbc-3.7.2.jar.txt	0
+org/apache/maven/it/util/ResourceExtractor/getJarFileFromUrl(java.net.URL)@g_maven-verifier-1.2.jar.txt	2

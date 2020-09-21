@@ -1,0 +1,5 @@
+org/apache/solr/core/OptimizeSchedulerListener/newSearcher(org.apache.solr.search.SolrIndexSearcher,org.apache.solr.search.SolrIndexSearcher)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	2
+org/sindice/siren/search/SirenReqExclScorer/docID()@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	4
+org/sindice/siren/search/TestSirenNumericRangeQuery32/testEnum(int,int)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	0
+org/sindice/siren/demo/ntriples/NTriplesIndexing/main(java.lang.String[])@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	3
+org/sindice/siren/search/TestSirenCellQuery/testShould()@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	1

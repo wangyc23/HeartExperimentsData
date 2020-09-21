@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseObjectRestriction()@g_owlapi-parsers-4.5.0.jar.txt	3
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseIntersection()@g_owlapi-parsers-4.5.0.jar.txt	2
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseDataIntersectionOf(boolean)@g_owlapi-parsers-4.5.0.jar.txt	0
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseUnion()@g_owlapi-parsers-4.5.0.jar.txt	4
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseValuePartitionValues(java.util.Set,org.semanticweb.owlapi.model.OWLClass)@g_owlapi-parsers-4.5.0.jar.txt	1

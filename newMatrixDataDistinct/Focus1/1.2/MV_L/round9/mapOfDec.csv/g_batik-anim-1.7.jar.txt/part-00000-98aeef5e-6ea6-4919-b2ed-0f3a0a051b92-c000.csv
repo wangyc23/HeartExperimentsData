@@ -1,0 +1,5 @@
+org/apache/batik/anim/dom/SVGOMSVGElement/1/matrixTransform(org.w3c.dom.svg.SVGMatrix)@g_batik-anim-1.8.jar.txt	4
+org/apache/batik/anim/values/AnimatableTransformListValue/distanceTo(org.apache.batik.anim.values.AnimatableValue)@g_batik-anim-1.8.jar.txt	2
+org/apache/batik/anim/values/AnimatableTransformListValue/interpolate(org.apache.batik.anim.values.AnimatableTransformListValue,org.apache.batik.anim.values.AnimatableTransformListValue,org.apache.batik.anim.values.AnimatableTransformListValue,org.apache.batik.anim.values.AnimatableTransformListValue,org.apache.batik.anim.values.AnimatableTransformListValue,float,float,org.apache.batik.anim.values.AnimatableTransformListValue,int)@g_batik-anim-1.8.jar.txt	3
+org/apache/batik/anim/values/AnimatableTransformListValue/toStringRep()@g_batik-anim-1.8.jar.txt	0
+org/apache/batik/anim/values/AnimatableTransformListValue/interpolate(org.apache.batik.anim.values.AnimatableValue,org.apache.batik.anim.values.AnimatableValue,float,org.apache.batik.anim.values.AnimatableValue,int)@g_batik-anim-1.8.jar.txt	1

@@ -1,0 +1,5 @@
+gnu/trove/list/linked/TIntLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	4
+gnu/trove/list/linked/TDoubleLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	3
+org/eclipse/rdf4j/model/datatypes/XMLDateTime/parseDateTimeString()@g_rdf4j-model-2.1.4.jar.txt	2
+org/eclipse/rdf4j/model/util/URIUtil/escapeExcludedChars(java.lang.String)@g_rdf4j-model-2.1.4.jar.txt	1
+org/eclipse/rdf4j/model/datatypes/XMLDatatypeUtil/normalizeFPNumber(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_rdf4j-model-2.1.4.jar.txt	0

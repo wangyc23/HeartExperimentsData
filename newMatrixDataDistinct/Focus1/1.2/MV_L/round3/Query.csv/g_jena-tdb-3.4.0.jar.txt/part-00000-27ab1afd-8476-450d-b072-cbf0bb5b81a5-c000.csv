@@ -1,0 +1,4 @@
+org/apache/jena/atlas/iterator/Iter/map(java.util.Iterator,java.util.function.Function)
+org/apache/jena/atlas/iterator/Iter/map(java.util.function.Function)
+org/apache/jena/atlas/iterator/Iter/iter(java.util.Iterator)
+org/apache/jena/atlas/lib/tuple/Tuple/len()

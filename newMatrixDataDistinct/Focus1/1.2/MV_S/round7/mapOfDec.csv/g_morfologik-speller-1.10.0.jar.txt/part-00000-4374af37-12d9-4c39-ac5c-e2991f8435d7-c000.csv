@@ -1,0 +1,5 @@
+net/java/truecommons/shed/BitField/toString()@g_truecommons-shed-2.5.0.jar.txt	0
+morfologik/stemming/DictionaryLookup/applyReplacements(java.lang.CharSequence,java.util.LinkedHashMap)@g_morfologik-stemming-2.1.2.jar.txt	4
+morfologik/stemming/DictionaryMetadataBuilder/withEquivalentChars(java.util.Map)@g_morfologik-stemming-2.1.2.jar.txt	2
+morfologik/stemming/DictionaryMetadataBuilder/withOutputConversionPairs(java.util.Map)@g_morfologik-stemming-2.1.2.jar.txt	1
+morfologik/stemming/DictionaryMetadataBuilder/withInputConversionPairs(java.util.Map)@g_morfologik-stemming-2.1.2.jar.txt	3

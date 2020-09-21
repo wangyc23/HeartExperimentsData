@@ -1,0 +1,5 @@
+com/sun/jersey/api/wadl/config/WadlGeneratorLoader/loadWadlGenerator(com.sun.jersey.api.wadl.config.WadlGeneratorDescription,com.sun.jersey.server.wadl.WadlGenerator)@g_jersey-server-1.13.jar.txt	0
+com/sun/jersey/server/impl/application/ResourceMethodDispatcherFactory/create(com.sun.jersey.api.model.AbstractResourceMethod)@g_jersey-server-1.13.jar.txt	2
+com/sun/jersey/spi/container/ResourceMethodCustomInvokerDispatchFactory/getDispatcher(com.sun.jersey.api.model.AbstractResourceMethod,com.sun.jersey.spi.container.JavaMethodInvoker)@g_jersey-server-1.13.jar.txt	3
+com/sun/jersey/server/impl/application/WebApplicationImpl/_initiate(com.sun.jersey.api.core.ResourceConfig,com.sun.jersey.core.spi.component.ioc.IoCComponentProviderFactory)@g_jersey-server-1.13.jar.txt	4
+com/sun/jersey/api/wadl/config/WadlGeneratorLoader/loadWadlGenerator(com.sun.jersey.api.wadl.config.WadlGeneratorDescription,com.sun.jersey.server.wadl.WadlGenerator)@g_jersey-server-1.19.jar.txt	1

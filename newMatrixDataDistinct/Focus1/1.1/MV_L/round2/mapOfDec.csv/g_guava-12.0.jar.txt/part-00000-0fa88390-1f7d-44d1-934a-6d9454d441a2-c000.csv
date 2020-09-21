@@ -1,0 +1,5 @@
+com/google/common/collect/SparseImmutableTable/createSerializedForm()@g_guava-21.0.jar.txt	1
+com/google/common/collect/MapMakerInternalMap/Segment/replace(java.lang.Object,int,java.lang.Object)@g_guava-11.0.2.jar.txt	4
+com/google/common/collect/RegularImmutableTable/forCellsInternal(java.lang.Iterable,java.util.Comparator,java.util.Comparator)@g_guava-11.0.2.jar.txt	0
+com/google/common/collect/Streams/mapWithIndex(java.util.stream.DoubleStream,com.google.common.collect.Streams$DoubleFunctionWithIndex)@g_guava-11.0.2.jar.txt	3
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_guava-11.0.2.jar.txt	2

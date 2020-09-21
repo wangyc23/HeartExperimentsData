@@ -1,0 +1,4 @@
+org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-4.1.jar.txt	1
+org/objectweb/asm/ClassWriter/a(java.lang.Object)@g_asm-4.1.jar.txt	3
+org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-4.0.jar.txt	0
+org/objectweb/asm/ClassWriter/a(java.lang.Object)@g_asm-4.0.jar.txt	2

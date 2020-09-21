@@ -1,0 +1,4 @@
+java/nio/charset/CharsetDecoder/onUnmappableCharacter(java.nio.charset.CodingErrorAction)
+java/nio/charset/CharsetDecoder/onMalformedInput(java.nio.charset.CodingErrorAction)
+java/nio/charset/Charset/newDecoder()
+java/nio/CharBuffer/allocate(int)

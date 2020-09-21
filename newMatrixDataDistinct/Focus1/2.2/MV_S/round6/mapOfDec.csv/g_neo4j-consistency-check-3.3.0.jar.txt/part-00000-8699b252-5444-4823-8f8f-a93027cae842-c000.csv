@@ -1,0 +1,5 @@
+com/optimaize/langdetect/profiles/LanguageProfileWriter/write(com.optimaize.langdetect.profiles.LanguageProfile,java.io.OutputStream)@g_language-detector-0.5.jar.txt	1
+com/cybozu/labs/langdetect/CommandLineInterface/batchTest()@g_language-detector-0.5.jar.txt	3
+com/optimaize/langdetect/NgramFrequencyData/create(java.util.Collection,java.util.Collection)@g_language-detector-0.5.jar.txt	2
+com/optimaize/langdetect/LanguageDetectorImpl/detectBlockShortText(java.util.Map)@g_language-detector-0.5.jar.txt	4
+com/optimaize/langdetect/profiles/LanguageProfileImpl/computeNumOccurrences(java.util.Map)@g_language-detector-0.5.jar.txt	0

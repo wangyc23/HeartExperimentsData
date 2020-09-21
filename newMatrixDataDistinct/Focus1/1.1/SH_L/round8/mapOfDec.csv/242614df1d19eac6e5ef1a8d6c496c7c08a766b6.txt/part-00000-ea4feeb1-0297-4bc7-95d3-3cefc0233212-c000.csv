@@ -1,0 +1,5 @@
+cucumber/runtime/java/JavaHookTest/fails_if_hook_argument_is_not_scenario_result()@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	2
+cucumber/runtime/junit/SanityChecker/run(java.lang.Class,boolean)@04638a8dae9afa91905ea0e243f73f684f561226.txt	4
+cucumber/runtime/Runtime/runHookIfTagsMatch(cucumber.runtime.HookDefinition,cucumber.runtime.Reporter,java.util.Set,boolean)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	3
+cucumber/runtime/java/JavaHookTest/fails_if_hook_argument_is_not_scenario_result()@04638a8dae9afa91905ea0e243f73f684f561226.txt	0
+cucumber/runtime/Runtime/runHookIfTagsMatch(cucumber.runtime.HookDefinition,cucumber.runtime.Reporter,java.util.Set,boolean)@04638a8dae9afa91905ea0e243f73f684f561226.txt	1

@@ -1,0 +1,4 @@
+java/io/InputStream/read(byte[],int,int)
+com/jcraft/jsch/ChannelSftp$RequestQueue/get(int)
+com/jcraft/jsch/ChannelSftp$2/close()
+java/lang/StringBuilder/StringBuilder()

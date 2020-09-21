@@ -1,0 +1,5 @@
+gnu/trove/map/hash/TLongFloatHashMap/putAll(java.util.Map)@g_parquet-hadoop-1.8.2.jar.txt	4
+org/apache/parquet/hadoop/ParquetInputSplit/write(java.io.DataOutput)@g_parquet-hadoop-1.8.2.jar.txt	3
+org/apache/parquet/format/converter/ParquetMetadataConverter/3/<clinit>()@g_parquet-hadoop-1.8.2.jar.txt	0
+org/apache/parquet/filter2/dictionarylevel/DictionaryFilter/expandDictionary(org.apache.parquet.hadoop.metadata.ColumnChunkMetaData)@g_parquet-hadoop-1.8.2.jar.txt	1
+org/apache/parquet/hadoop/ColumnChunkPageReadStore/ColumnChunkPageReader/1/visit(org.apache.parquet.column.page.DataPageV2)@g_parquet-hadoop-1.8.2.jar.txt	2

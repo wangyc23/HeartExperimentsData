@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blocktree/Lucene40IntersectTermsEnumFrame/nextNonLeaf()@g_lucene-backward-codecs-5.5.0.jar.txt	3
+org/apache/lucene/codecs/lucene40/Lucene40PostingsReader/SegmentFullPositionsEnum/nextPosition()@g_lucene-backward-codecs-5.5.0.jar.txt	0
+org/apache/lucene/codecs/lucene41/Lucene41StoredFieldsReader/readField(org.apache.lucene.store.DataInput,org.apache.lucene.index.StoredFieldVisitor,org.apache.lucene.index.FieldInfo,int)@g_lucene-backward-codecs-5.5.0.jar.txt	4
+org/apache/lucene/codecs/blocktree/Lucene40SegmentTermsEnumFrame/loadBlock()@g_lucene-backward-codecs-5.5.0.jar.txt	2
+org/apache/lucene/codecs/blocktree/Lucene40IntersectTermsEnumFrame/load(org.apache.lucene.util.BytesRef)@g_lucene-backward-codecs-5.5.0.jar.txt	1

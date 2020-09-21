@@ -1,0 +1,5 @@
+org/springframework/orm/jpa/SharedEntityManagerCreator/SharedEntityManagerInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-orm-4.0.5.RELEASE.jar.txt	2
+org/springframework/orm/jpa/SharedEntityManagerCreator/SharedEntityManagerInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-orm-4.0.6.RELEASE.jar.txt	3
+org/springframework/orm/jpa/EntityManagerFactoryUtils/doGetTransactionalEntityManager(javax.persistence.EntityManagerFactory,java.util.Map,boolean)@g_spring-orm-4.0.5.RELEASE.jar.txt	0
+org/springframework/orm/hibernate4/SpringSessionContext/currentSession()@g_spring-orm-4.0.5.RELEASE.jar.txt	4
+org/springframework/orm/jpa/EntityManagerFactoryUtils/doGetTransactionalEntityManager(javax.persistence.EntityManagerFactory,java.util.Map,boolean)@g_spring-orm-4.0.6.RELEASE.jar.txt	1

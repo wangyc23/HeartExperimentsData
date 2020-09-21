@@ -1,0 +1,5 @@
+com/healthmarketscience/jackcess/impl/ColumnImpl/encodeTextValue(java.lang.Object,int,int,boolean)@g_jackcess-2.1.8.jar.txt	4
+com/healthmarketscience/jackcess/impl/GeneralLegacyIndexCodes/writeExtraCodes(int,byte[],byte,com.healthmarketscience.jackcess.impl.GeneralLegacyIndexCodes$ExtraCodesStream)@g_jackcess-2.1.8.jar.txt	2
+com/healthmarketscience/jackcess/impl/IndexPageCache/updateEntry(com.healthmarketscience.jackcess.impl.IndexPageCache$CacheDataPage,int,com.healthmarketscience.jackcess.impl.IndexData$Entry,com.healthmarketscience.jackcess.impl.IndexPageCache$UpdateType)@g_jackcess-2.1.8.jar.txt	1
+com/healthmarketscience/jackcess/impl/IndexImpl/writeDefinition(com.healthmarketscience.jackcess.impl.TableMutator,com.healthmarketscience.jackcess.IndexBuilder,java.nio.ByteBuffer)@g_jackcess-2.1.8.jar.txt	3
+org/apache/sis/index/tree/QuadTreeWriter/writeTreeConfigsToFile(org.apache.sis.index.tree.QuadTree,java.lang.String)@g_jackcess-2.1.8.jar.txt	0

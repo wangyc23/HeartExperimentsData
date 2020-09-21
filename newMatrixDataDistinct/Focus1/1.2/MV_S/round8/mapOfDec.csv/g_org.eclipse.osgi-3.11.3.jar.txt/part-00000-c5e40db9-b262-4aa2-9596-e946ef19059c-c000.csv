@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/framework/AliasMapper/initAliases(java.io.InputStream,java.util.Map,java.util.Map)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4
+org/eclipse/osgi/internal/framework/DTOBuilder/mapValue(java.lang.Object)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	0
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistry/publishServiceEventPrivileged(org.osgi.framework.ServiceEvent)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	1
+org/apache/felix/resolver/Candidates/checkSubstitutes(java.util.List)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+org/eclipse/osgi/internal/framework/EquinoxEventPublisher/publishBundleEventPrivileged(org.osgi.framework.BundleEvent)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2

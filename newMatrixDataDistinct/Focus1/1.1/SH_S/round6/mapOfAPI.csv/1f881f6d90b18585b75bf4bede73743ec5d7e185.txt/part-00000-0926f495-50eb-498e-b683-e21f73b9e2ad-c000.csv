@@ -1,0 +1,6 @@
+0	java/util/stream/IntStream/range(int,int)
+1	com/github/jakz/nit/Operations/printStatistics(com.github.jakz.nit.parser.GameSet)
+2	java/util/Collections/emptySet()
+3	com/github/jakz/nit/emitter/GameSetCreator/GameSetCreator(com.github.jakz.nit.emitter.CreatorOptions)
+4	java/lang/Runtime/getRuntime()
+5	com/github/jakz/nit/emitter/GameSetCreator/create()

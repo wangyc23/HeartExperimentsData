@@ -1,0 +1,5 @@
+org/eclipse/smarthome/automation/internal/commands/Printer/collectListRecords(java.util.Map,java.util.List,int[])@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	4
+org/eclipse/smarthome/binding/hue/handler/HueBridgeHandler/tryResumeBridgeConnection()@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	3
+org/eclipse/smarthome/automation/internal/commands/CommandlineModuleTypeProvider/remove(java.net.URL)@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	1
+org/openhab/io/myopenhab/internal/MyOpenHABClient/handleRequestEvent(org.json.JSONObject)@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	0
+org/efaps/esjp/sales/dashboard/Employee2DocPanel_Base/getMonth()@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	2

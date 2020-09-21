@@ -1,0 +1,5 @@
+io/druid/server/coordination/ServerManager/getQueryRunnerForIntervals(io.druid.query.Query,java.lang.Iterable)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	0
+io/druid/query/aggregation/AggregationTestHelper/runQueryOnSegmentsObjs(java.util.List,io.druid.query.Query)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	3
+io/druid/benchmark/query/GroupByBenchmark/queryMultiQueryableIndex(io.druid.benchmark.query.Blackhole)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	4
+io/druid/benchmark/query/SelectBenchmark/runQuery(io.druid.query.QueryRunnerFactory,io.druid.query.QueryRunner,io.druid.query.Query)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	2
+io/druid/server/coordination/ServerManager/getQueryRunnerForSegments(io.druid.query.Query,java.lang.Iterable)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	1

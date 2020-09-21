@@ -1,0 +1,5 @@
+0	alluxio/thrift/SetAttributeTOptions/setPersisted(boolean)
+1	alluxio/thrift/SetAttributeTOptions/setGroup(java.lang.String)
+2	alluxio/thrift/SetAttributeTOptions/setPermission(short)
+3	alluxio/thrift/SetAttributeTOptions/setOwner(java.lang.String)
+4	java/util/List/size()

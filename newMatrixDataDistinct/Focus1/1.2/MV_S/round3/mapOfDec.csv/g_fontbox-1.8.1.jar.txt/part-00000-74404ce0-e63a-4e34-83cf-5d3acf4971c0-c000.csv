@@ -1,0 +1,5 @@
+org/apache/james/mime4j/codec/Base64InputStream/read0(byte[],int,int)@g_org.abego.treelayout.core-1.0.1.jar.txt	3
+org/apache/fontbox/ttf/TTFSubFont/buildPostTable()@g_org.abego.treelayout.core-1.0.1.jar.txt	4
+org/abego/treelayout/TreeLayout/getNodeBounds()@g_org.abego.treelayout.core-1.0.1.jar.txt	0
+org/apache/james/mime4j/stream/FallbackBodyDescriptorBuilder/parseContentType(org.apache.james.mime4j.stream.Field)@g_apache-mime4j-core-0.7.2.jar.txt	2
+org/abego/treelayout/TreeLayout/dumpTree(java.io.PrintStream,java.lang.Object,int,org.abego.treelayout.TreeLayout$DumpConfiguration)@g_org.abego.treelayout.core-1.0.1.jar.txt	1

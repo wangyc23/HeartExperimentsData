@@ -1,0 +1,4 @@
+javax/ws/rs/core/MultivaluedMap/keySet()
+java/util/Iterator/hasNext()
+java/util/Set/size()
+java/util/List/containsAll(java.util.Collection)

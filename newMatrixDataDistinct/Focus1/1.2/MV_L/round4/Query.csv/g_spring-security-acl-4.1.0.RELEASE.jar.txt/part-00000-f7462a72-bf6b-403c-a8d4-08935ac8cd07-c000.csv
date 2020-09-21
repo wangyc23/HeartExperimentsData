@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)
+java/util/List/size()

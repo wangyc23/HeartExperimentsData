@@ -1,0 +1,5 @@
+org/openrdf/sail/memory/FileIO/read(java.io.File)@g_sesame-sail-memory-2.7.9.jar.txt	0
+org/openrdf/sail/memory/MemoryStore/initializeInternal()@g_sesame-sail-memory-2.7.9.jar.txt	3
+org/openrdf/sail/memory/config/MemoryStoreConfig/parse(org.openrdf.model.Graph,org.openrdf.model.Resource)@g_sesame-sail-memory-2.7.9.jar.txt	4
+org/openrdf/rio/trix/TriXParser/parse(java.lang.Object)@g_sesame-rio-trix-2.7.16.jar.txt	2
+org/openrdf/rio/trix/TriXWriter/writeValue(org.openrdf.model.Value)@g_sesame-rio-trix-2.7.16.jar.txt	1

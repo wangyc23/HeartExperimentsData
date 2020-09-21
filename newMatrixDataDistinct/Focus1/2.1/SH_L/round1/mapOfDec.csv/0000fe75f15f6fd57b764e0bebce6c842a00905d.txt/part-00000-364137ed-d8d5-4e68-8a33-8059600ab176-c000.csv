@@ -1,0 +1,5 @@
+org/jaggeryjs/integration/common/utils/JaggeryIntegrationTest/isServiceFaulty(java.lang.String)@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	3
+netty/DiscardServerHandler/channelRead(netty.ChannelHandlerContext,java.lang.Object)@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	2
+org/wso2/jaggery/integration/tests/hostObjects/core/HttpClientTestCase/testHttpClientPut()@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	0
+org/wso2/jaggery/integration/tests/hostObjects/community/ProcessObjectTestCase/testGetEnvProcessParams()@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	4
+base64/Base64Test/GenerateImage(java.lang.String)@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	1

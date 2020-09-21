@@ -1,0 +1,4 @@
+org/netlib/util/intW/intW(int)
+no/uib/cipr/matrix/AbstractTriangBandMatrix/checkSolve(no.uib.cipr.matrix.Matrix,no.uib.cipr.matrix.Matrix)
+com/github/fommil/netlib/LAPACK/getInstance()
+com/github/fommil/netlib/LAPACK/dtbtrs(java.lang.String,java.lang.String,java.lang.String,int,int,int,double[],int,double[],int,org.netlib.util.intW)

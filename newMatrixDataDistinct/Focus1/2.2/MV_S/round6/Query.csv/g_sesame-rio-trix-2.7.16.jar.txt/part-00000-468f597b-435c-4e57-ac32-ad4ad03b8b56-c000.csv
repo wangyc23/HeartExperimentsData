@@ -1,0 +1,4 @@
+org/openrdf/model/Literal/getDatatype()
+java/lang/StringBuilder/append(java.lang.String)
+org/openrdf/model/BNode/getID()
+org/openrdf/model/Literal/getLabel()

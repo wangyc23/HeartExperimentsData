@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/Throwable/addSuppressed(java.lang.Throwable)
+java/util/Set/isEmpty()
+java/util/Set/iterator()

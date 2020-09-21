@@ -1,0 +1,5 @@
+org/codehaus/classworlds/Configurator/configure(java.io.InputStream)@g_classworlds-1.1.jar.txt	2
+org/codehaus/classworlds/EmbeddedLauncher/launch()@g_classworlds-1.1.jar.txt	0
+junit/framework/TestCase/runTest()@g_junit-4.8.2.jar.txt	3
+org/codehaus/classworlds/Launcher/mainWithExitCode(java.lang.String[])@g_classworlds-1.1.jar.txt	1
+org/junit/internal/TextListener/printFailures(org.junit.runner.Result)@g_junit-4.8.2.jar.txt	4

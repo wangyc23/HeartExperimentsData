@@ -1,0 +1,4 @@
+java/awt/geom/Line2D$Double/Double(double,double,double,double)
+java/awt/geom/Rectangle2D/getMaxX()
+java/awt/geom/Rectangle2D/getMaxY()
+java/awt/Graphics2D/setPaint(java.awt.Paint)

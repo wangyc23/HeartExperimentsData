@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/feed/FeedPlugin/saveEntry(java.lang.String,java.lang.String,com.sun.syndication.feed.synd.SyndEntry,com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.objects.BaseObject,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	3
+com/xpn/xwiki/plugin/feed/FeedPluginApi/getBlogFeed(java.lang.String,int,int,java.lang.String,java.util.Map)@g_xwiki-platform-feed-api-7.4.2.jar.txt	0
+com/xpn/xwiki/plugin/feed/FeedPluginApi/getDefaultFeedImage()@g_xwiki-platform-feed-api-7.4.2.jar.txt	2
+com/xpn/xwiki/plugin/feed/FeedPlugin/updateFeedsInSpace(java.lang.String,boolean,boolean,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/feed/FeedPlugin/fillFeedMetadata(com.sun.syndication.feed.synd.SyndFeed,java.util.Map,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	1

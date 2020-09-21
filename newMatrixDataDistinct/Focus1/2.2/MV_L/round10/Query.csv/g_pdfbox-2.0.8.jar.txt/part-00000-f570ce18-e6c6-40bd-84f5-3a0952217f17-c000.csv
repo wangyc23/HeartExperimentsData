@@ -1,0 +1,4 @@
+java/awt/image/ColorModel/getPixelSize()
+java/awt/image/BufferedImage/getType()
+javax/imageio/stream/MemoryCacheImageOutputStream/close()
+javax/imageio/stream/MemoryCacheImageOutputStream/MemoryCacheImageOutputStream(java.io.OutputStream)

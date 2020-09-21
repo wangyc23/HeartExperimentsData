@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/index/AbstractSisuIndex/readTable(java.lang.Object)@g_guice-bean-scanners-2.3.0.jar.txt	4
+org/sonatype/guice/bean/scanners/index/SisuIndexFinder/findClasses(org.sonatype.guice.bean.reflect.ClassSpace)@g_guice-bean-scanners-2.3.0.jar.txt	0
+org/sonatype/guice/bean/scanners/asm/ClassWriter/newConstItem(java.lang.Object)@g_guice-bean-scanners-2.3.0.jar.txt	3
+org/sonatype/guice/bean/scanners/index/AbstractSisuIndex/writeTable(java.lang.Object,java.util.Set)@g_guice-bean-scanners-2.3.0.jar.txt	2
+org/sonatype/guice/bean/scanners/QualifierCache/qualify(org.sonatype.guice.bean.reflect.ClassSpace,java.lang.String)@g_guice-bean-scanners-2.3.0.jar.txt	1

@@ -1,0 +1,5 @@
+com/tamingtext/qa/QuestionQParserPlugin/init(org.apache.solr.common.util.NamedList)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	0
+org/apache/solr/common/util/Base64/byteArrayToBase64(byte[],int,int)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	2
+org/apache/solr/client/solrj/response/GroupCommand/add(org.apache.solr.client.solrj.response.Group)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	4
+com/tamingtext/classifier/mlt/TrainMoreLikeThis/train(java.lang.String,java.lang.String,com.tamingtext.classifier.mlt.TrainMoreLikeThis.MatchMode)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	1
+org/apache/ranger/biz/UserMgr/createUser(org.apache.ranger.view.VXPortalUser,int)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	3

@@ -1,0 +1,5 @@
+org/bouncycastle/jce/provider/PKIXAttrCertPathBuilderSpi/engineBuild(java.security.cert.CertPathParameters)@g_bcprov-jdk16-140.jar.txt	4
+org/bouncycastle/jce/provider/RFC3280CertPathUtilities/processCRLF(java.security.cert.X509CRL,java.lang.Object,java.security.cert.X509Certificate,java.security.PublicKey,org.bouncycastle.x509.ExtendedPKIXParameters,java.util.List)@g_bcprov-jdk16-140.jar.txt	1
+org/bouncycastle/x509/util/LDAPStoreHelper/attrCertSubjectSerialSearch(org.bouncycastle.x509.X509AttributeCertStoreSelector,java.lang.String[],java.lang.String[],java.lang.String[])@g_bcprov-jdk16-140.jar.txt	2
+org/bouncycastle/x509/util/LDAPStoreHelper/cRLIssuerSearch(org.bouncycastle.x509.X509CRLStoreSelector,java.lang.String[],java.lang.String[],java.lang.String[])@g_bcprov-jdk16-140.jar.txt	3
+org/bouncycastle/jce/provider/CertPathValidatorUtilities/findIssuerCerts(java.security.cert.X509Certificate,org.bouncycastle.x509.ExtendedPKIXBuilderParameters)@g_bcprov-jdk16-140.jar.txt	0

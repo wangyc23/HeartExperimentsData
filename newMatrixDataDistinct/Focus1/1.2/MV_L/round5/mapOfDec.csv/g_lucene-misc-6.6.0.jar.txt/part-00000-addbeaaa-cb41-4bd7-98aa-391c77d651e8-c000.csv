@@ -1,0 +1,5 @@
+org/apache/lucene/uninverting/FieldCacheSanityChecker/getAllDescendantReaderKeys(java.lang.Object)@g_lucene-misc-6.4.1.jar.txt	4
+org/apache/lucene/index/PKIndexSplitter/createIndex(org.apache.lucene.index.IndexWriterConfig,org.apache.lucene.store.Directory,org.apache.lucene.index.DirectoryReader,org.apache.lucene.search.Query,boolean)@g_lucene-misc-6.4.1.jar.txt	0
+org/apache/lucene/uninverting/FieldCacheImpl/getCacheEntries()@g_lucene-misc-6.4.1.jar.txt	1
+org/apache/lucene/index/SlowCompositeReaderWrapper/getSortedDocValues(java.lang.String)@g_lucene-misc-6.4.1.jar.txt	2
+org/apache/lucene/uninverting/DocTermOrds/uninvert(org.apache.lucene.index.LeafReader,org.apache.lucene.util.Bits,org.apache.lucene.util.BytesRef)@g_lucene-misc-6.4.1.jar.txt	3

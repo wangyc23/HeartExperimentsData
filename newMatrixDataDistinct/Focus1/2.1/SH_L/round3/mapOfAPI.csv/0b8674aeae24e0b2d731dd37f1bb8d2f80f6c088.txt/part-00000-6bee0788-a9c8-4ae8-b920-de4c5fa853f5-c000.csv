@@ -1,0 +1,4 @@
+0	com/example/sdn4rc2/service/SupplierService/entityIDs()
+1	com/example/sdn4rc2/web/BaseController/addListIDsAttr(java.lang.Iterable,java.lang.String,java.lang.String,java.lang.String,org.springframework.ui.Model)
+2	com/example/sdn4rc2/service/CategoryService/entityIDs()
+3	com/salesmanager/web/entity/customer/attribute/CustomerOptionEntity/setCode(java.lang.String)

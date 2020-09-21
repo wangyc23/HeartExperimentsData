@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rdf/rdfxml/renderer/RDFXMLRenderer/render(org.semanticweb.owlapi.io.RDFResource,boolean)@g_owlapi-distribution-5.1.0.jar.txt	1
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/removeValue(java.util.Map,java.lang.Object)@g_owlapi-impl-4.5.0.jar.txt	2
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLSubClassOfAxiom)@g_owlapi-distribution-5.1.0.jar.txt	3
+org/semanticweb/owlapi/util/AutoIRIMapper/$deserializeLambda$(java.lang.invoke.SerializedLambda)@g_owlapi-distribution-5.1.0.jar.txt	4
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/findSimilarClauses(java.util.List,org.obolibrary.oboformat.model.Clause)@g_owlapi-distribution-5.1.0.jar.txt	0

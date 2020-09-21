@@ -1,0 +1,5 @@
+org/apache/fop/svg/AbstractFOPTextPainter/TextRunPainter/paintTextRun(org.apache.batik.bridge.StrokingTextPainter$TextRun,java.awt.Graphics2D)@g_fop-2.0.jar.txt	3
+org/apache/fop/render/pdf/PDFImageHandlerSVG/handleImage(org.apache.fop.render.RenderingContext,org.apache.xmlgraphics.image.loader.Image,java.awt.Rectangle)@g_fop-2.0.jar.txt	0
+org/apache/fop/afp/AFPGraphics2D/drawRenderedImage(java.awt.image.RenderedImage,java.awt.geom.AffineTransform)@g_fop-2.0.jar.txt	1
+org/apache/fop/afp/AFPGraphics2D/doDrawing(java.awt.Shape,boolean)@g_fop-2.0.jar.txt	2
+org/apache/fop/render/ps/PSImageHandlerSVG/convertToRGB(java.awt.image.BufferedImage)@g_fop-2.0.jar.txt	4

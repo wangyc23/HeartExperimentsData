@@ -1,0 +1,5 @@
+com/netflix/discovery/DiscoveryClient/getAndStoreFullRegistry()@g_eureka-client-1.1.147.jar.txt	0
+com/netflix/discovery/DiscoveryClient/2/run()@g_eureka-client-1.1.147.jar.txt	3
+com/netflix/discovery/DiscoveryClient/reconcileAndLogDifference(com.sun.jersey.api.client.ClientResponse,com.netflix.discovery.shared.Applications,java.lang.String)@g_eureka-client-1.1.147.jar.txt	1
+com/netflix/discovery/DiscoveryClient/getAndUpdateDelta(com.netflix.discovery.shared.Applications)@g_eureka-client-1.1.147.jar.txt	2
+com/netflix/discovery/DiscoveryClient/makeRemoteCall(com.netflix.discovery.DiscoveryClient$Action,int)@g_eureka-client-1.1.147.jar.txt	4

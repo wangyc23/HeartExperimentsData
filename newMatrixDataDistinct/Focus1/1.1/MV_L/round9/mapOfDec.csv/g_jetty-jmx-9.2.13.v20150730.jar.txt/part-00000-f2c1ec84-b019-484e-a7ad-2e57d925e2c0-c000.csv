@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/Server/doStop()@g_jetty-jmx-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/jmx/ObjectMBean/defineAttribute(java.lang.String,java.lang.String)@g_jetty-jmx-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/jmx/ObjectMBean/getAttribute(java.lang.String)@g_jetty-jmx-7.6.5.v20120716.jar.txt	0
+org/eclipse/jetty/jmx/ObjectMBean/setAttribute(javax.management.Attribute)@g_jetty-jmx-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/server/Dispatcher/push(javax.servlet.ServletRequest)@g_jetty-jmx-7.6.5.v20120716.jar.txt	4

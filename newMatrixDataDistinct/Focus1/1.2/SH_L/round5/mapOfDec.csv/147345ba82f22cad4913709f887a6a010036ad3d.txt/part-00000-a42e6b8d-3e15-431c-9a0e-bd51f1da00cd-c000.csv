@@ -1,0 +1,5 @@
+com/ning/http/client/FluentStringsMap/add(java.lang.String,java.lang.String[])@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	3
+uk/ac/ic/wlgitbridge/snapshot/servermock/util/FileUtil/fileContentsEqual(java.nio.file.Path,java.nio.file.Path)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	2
+com/ning/http/client/async/RC10KTest/MyAsyncHandler/onBodyPartReceived(com.ning.http.client.HttpResponseBodyPart)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	1
+org/atmosphere/tests/guice/PubSubTest/publishAndResume(java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	4
+org/atmosphere/tests/http/BroadcasterLifecycleTest/findFreePort()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	0

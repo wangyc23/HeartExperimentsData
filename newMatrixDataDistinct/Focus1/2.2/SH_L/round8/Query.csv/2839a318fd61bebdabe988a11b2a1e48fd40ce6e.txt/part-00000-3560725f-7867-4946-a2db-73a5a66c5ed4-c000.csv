@@ -1,0 +1,4 @@
+org/jtalks/jcommune/model/dao/hibernate/PostCommentHibernateDaoTest/flushAndClearSession()
+org/jtalks/jcommune/model/entity/PostComment/getBody()
+org/jtalks/jcommune/model/entity/PersistedObjectsFactory/getDefaultPostComment()
+org/jtalks/jcommune/model/entity/PostComment/getAuthor()

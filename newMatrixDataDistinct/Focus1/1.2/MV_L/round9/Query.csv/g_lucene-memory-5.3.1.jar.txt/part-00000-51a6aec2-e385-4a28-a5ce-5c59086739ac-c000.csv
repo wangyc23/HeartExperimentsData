@@ -1,0 +1,4 @@
+org/apache/lucene/analysis/tokenattributes/CharTermAttribute/append(java.lang.String)
+java/lang/Object/toString()
+java/lang/String/length()
+java/util/Iterator/next()

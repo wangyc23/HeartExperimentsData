@@ -1,0 +1,5 @@
+org/eclipse/core/runtime/internal/adaptor/BasicLocation/set(java.net.URL,boolean,java.lang.String)@g_org.eclipse.osgi-3.7.1.jar.txt	3
+org/eclipse/osgi/internal/permadmin/SecurityAdmin/commit(java.util.List,long)@g_org.eclipse.osgi-3.7.1.jar.txt	2
+org/apache/maven/it/util/DirectoryScanner/scan()@g_maven-verifier-1.2.jar.txt	1
+org/eclipse/equinox/log/internal/BasicReadWriteLock/readLock()@g_org.eclipse.osgi-3.7.1.jar.txt	4
+org/apache/maven/it/Verifier/main(java.lang.String[])@g_maven-verifier-1.2.jar.txt	0

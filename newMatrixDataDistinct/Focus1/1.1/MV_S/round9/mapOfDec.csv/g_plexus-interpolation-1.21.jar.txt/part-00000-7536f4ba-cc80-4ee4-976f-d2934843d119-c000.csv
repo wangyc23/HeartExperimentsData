@@ -1,0 +1,5 @@
+org/codehaus/swizzle/confluence/MapObjectModified/convert(java.lang.Object)@g_xwiki-platform-resource-api-7.4.2.jar.txt	0
+org/codehaus/plexus/interpolation/object/FieldBasedObjectInterpolator/InterpolateObjectAction/interpolateMap(java.lang.Object,java.lang.String,java.lang.reflect.Field)@g_xwiki-platform-resource-api-7.4.2.jar.txt	4
+org/codehaus/plexus/interpolation/object/FieldBasedObjectInterpolator/InterpolateObjectAction/interpolateCollection(java.lang.Object,java.lang.String,java.lang.reflect.Field)@g_xwiki-platform-resource-api-7.4.2.jar.txt	2
+org/codehaus/plexus/interpolation/os/OperatingSystemUtils/getSystemEnvVars(boolean)@g_xwiki-platform-resource-api-7.4.2.jar.txt	1
+org/codehaus/plexus/interpolation/object/FieldBasedObjectInterpolator/InterpolateObjectAction/traverseObjectWithParents(java.lang.Class,org.codehaus.plexus.interpolation.object.FieldBasedObjectInterpolator$InterpolationTarget)@g_xwiki-platform-resource-api-7.4.2.jar.txt	3

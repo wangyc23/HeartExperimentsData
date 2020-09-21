@@ -1,0 +1,5 @@
+com/sun/org/apache/xml/internal/resolver/readers/SAXCatalogReader/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_resolver-20050927.jar.txt	3
+com/sun/org/apache/xml/internal/resolver/tools/ResolvingParser/processingInstruction(java.lang.String,java.lang.String)@g_resolver-20050927.jar.txt	4
+com/sun/org/apache/xml/internal/resolver/readers/DOMCatalogReader/readCatalog(com.sun.org.apache.xml.internal.resolver.Catalog,java.io.InputStream)@g_resolver-20050927.jar.txt	0
+com/sun/org/apache/xml/internal/resolver/tools/ResolvingXMLFilter/processingInstruction(java.lang.String,java.lang.String)@g_resolver-20050927.jar.txt	1
+com/sun/org/apache/xml/internal/resolver/tools/CatalogResolver/resolve(java.lang.String,java.lang.String)@g_resolver-20050927.jar.txt	2

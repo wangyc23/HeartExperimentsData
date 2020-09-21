@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/time/FastDateFormat/getTimeInstance(int,java.util.TimeZone,java.util.Locale)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/ClassUtils/getShortClassName(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/ClassUtils/getClass(java.lang.ClassLoader,java.lang.String,boolean)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/time/FastDateFormat/getDateTimeInstance(int,int,java.util.TimeZone,java.util.Locale)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/comparators/FixedOrderComparator/compare(java.lang.Object,java.lang.Object)@g_attributes-processor-1.0.1.jar.txt	1

@@ -1,0 +1,4 @@
+io/druid/query/groupby/GroupByQuery/Builder/setDataSource(java.lang.String)
+io/druid/query/groupby/GroupByQuery/Builder/setAggregatorSpecs(java.util.List)
+java/util/Iterator/hasNext()
+io/druid/query/groupby/GroupByQuery/Builder/setQuerySegmentSpec(io.druid.query.spec.QuerySegmentSpec)

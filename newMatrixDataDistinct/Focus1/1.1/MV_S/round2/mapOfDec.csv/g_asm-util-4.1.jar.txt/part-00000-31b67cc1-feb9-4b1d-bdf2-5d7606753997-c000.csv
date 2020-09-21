@@ -1,0 +1,5 @@
+gate/util/asm/util/Textifier/visit(java.lang.String,java.lang.Object)@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	1
+gate/util/asm/xml/ASMContentHandler/Rule/decodeHandle(java.lang.String)@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	4
+org/objectweb/asm/xml/Processor/SAXWriter/writeAttributes(org.xml.sax.Attributes)@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	0
+org/objectweb/asm/commons/JSRInlinerAdapter/emitSubroutine(org.objectweb.asm.commons.JSRInlinerAdapter$Instantiation,java.util.List,org.objectweb.asm.tree.InsnList,java.util.List,java.util.List)@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	3
+org/objectweb/asm/util/CheckClassAdapter/printAnalyzerResult(org.objectweb.asm.tree.MethodNode,org.objectweb.asm.tree.analysis.Analyzer,java.io.PrintWriter)@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	2

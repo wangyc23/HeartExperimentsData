@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(java.lang.Object)
+com/ctc/wstx/dtd/FullDTDReader/loadMore(java.lang.String)
+com/ctc/wstx/dtd/FullDTDReader/resolveCharOnlyEntity(boolean)
+java/lang/StringBuffer/append(java.lang.String)

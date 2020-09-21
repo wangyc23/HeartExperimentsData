@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xs/traversers/XSAttributeChecker/checkAttributes(org.w3c.dom.Element,boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo,boolean)@g_xercesImpl-2.8.0.jar.txt	0
+org/apache/xerces/dom/RangeImpl/insertNode(org.w3c.dom.Node)@g_xercesImpl-2.8.0.jar.txt	4
+org/apache/xerces/impl/dv/ObjectFactory/createObject(java.lang.String,java.lang.String,java.lang.String)@g_xercesImpl-2.8.0.jar.txt	2
+org/apache/batik/dom/util/DOMUtilities/writeNode(org.w3c.dom.Node,java.io.Writer)@g_xercesImpl-2.8.0.jar.txt	1
+org/apache/xerces/jaxp/DocumentBuilderFactoryImpl/getFeature(java.lang.String)@g_xercesImpl-2.8.0.jar.txt	3

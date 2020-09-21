@@ -1,0 +1,4 @@
+org/apache/commons/httpclient/methods/ByteArrayRequestEntity/ByteArrayRequestEntity(byte[])
+org/apache/jackrabbit/webdav/client/methods/PutMethod/setRequestEntity(org.apache.commons.httpclient.methods.RequestEntity)
+org/apache/commons/vfs2/provider/webdav/WebdavFileObject$WebdavOutputStream/setUserName(org.apache.commons.vfs2.provider.URLFileName,java.lang.String)
+java/lang/String/equals(java.lang.Object)

@@ -1,0 +1,4 @@
+javax/swing/JComboBox/getEditor()
+javax/swing/JComboBox/JComboBox()
+java/awt/Component/addKeyListener(java.awt.event.KeyListener)
+javax/swing/JComboBox/addItemListener(java.awt.event.ItemListener)

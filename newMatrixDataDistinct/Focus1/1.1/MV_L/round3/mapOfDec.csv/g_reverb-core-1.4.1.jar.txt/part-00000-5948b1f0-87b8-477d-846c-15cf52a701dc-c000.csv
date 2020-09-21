@@ -1,0 +1,5 @@
+edu/washington/cs/knowitall/sequence/LayeredTokenPattern/encodePattern()@g_openregex-1.0.3.jar.txt	0
+edu/washington/cs/knowitall/argumentidentifier/ArgSubstructureClassifier/setupClassifier(java.lang.String)@g_openregex-1.0.3.jar.txt	1
+edu/washington/cs/knowitall/sequence/BIOLayeredSequence/addSpanLayerRanges(java.lang.String,java.lang.String,java.util.List)@g_openregex-1.0.3.jar.txt	2
+edu/washington/cs/knowitall/nlp/ChunkedSentence/toOpenNlpFormat()@g_openregex-1.0.3.jar.txt	3
+edu/washington/cs/knowitall/nlp/extraction/SpanExtraction/toBIOLayer()@g_openregex-1.0.3.jar.txt	4

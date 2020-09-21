@@ -1,0 +1,4 @@
+org/apache/parquet/schema/PrimitiveType$PrimitiveTypeName/ordinal()
+java/lang/StringBuilder/StringBuilder()
+org/apache/parquet/column/values/dictionary/DictionaryValuesWriter$PlainLongDictionaryValuesWriter/PlainLongDictionaryValuesWriter(int,org.apache.parquet.column.Encoding,org.apache.parquet.column.Encoding)
+org/apache/parquet/column/values/dictionary/DictionaryValuesWriter$PlainFixedLenArrayDictionaryValuesWriter/PlainFixedLenArrayDictionaryValuesWriter(int,int,org.apache.parquet.column.Encoding,org.apache.parquet.column.Encoding)

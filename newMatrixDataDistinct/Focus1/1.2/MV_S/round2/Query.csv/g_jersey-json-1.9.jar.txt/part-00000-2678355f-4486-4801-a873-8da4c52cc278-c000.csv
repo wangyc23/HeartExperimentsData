@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/logging/Logger/getLogger(java.lang.String)
+java/util/Iterator/next()
+java/util/Collection/add(java.lang.Object)

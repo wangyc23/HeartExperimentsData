@@ -1,0 +1,5 @@
+org/codehaus/plexus/digest/DigestUtils/cleanChecksum(java.lang.String,java.lang.String,java.lang.String)@g_plexus-digest-1.0.jar.txt	4
+org/apache/parquet/SemanticVersion/parse(java.lang.String)@g_plexus-digest-1.0.jar.txt	3
+org/apache/spark/unsafe/types/UTF8String/translate(java.util.Map)@g_plexus-digest-1.0.jar.txt	0
+org/apache/parquet/glob/GlobParser/parse(java.lang.String)@g_plexus-digest-1.0.jar.txt	2
+org/apache/parquet/glob/GlobParser/parseOneOf(java.lang.String)@g_plexus-digest-1.0.jar.txt	1

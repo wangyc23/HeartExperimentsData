@@ -1,0 +1,4 @@
+java/lang/Boolean/parseBoolean(java.lang.String)
+javax/xml/stream/XMLStreamReader/getAttributeValue(java.lang.String,java.lang.String)
+org/apache/commons/lang3/StringUtils/isNotEmpty(java.lang.CharSequence)
+org/activiti/bpmn/model/Process/Process()

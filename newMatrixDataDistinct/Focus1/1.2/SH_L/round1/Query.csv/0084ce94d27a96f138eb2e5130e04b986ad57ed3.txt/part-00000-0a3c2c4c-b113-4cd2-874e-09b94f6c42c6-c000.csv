@@ -1,0 +1,4 @@
+com/cloudera/oryx/app/pmml/AppPMMLUtils/buildMiningSchema(com.cloudera.oryx.app.schema.InputSchema,double[])
+com/cloudera/oryx/app/schema/InputSchema/isClassification()
+java/lang/Integer/toString(int)
+com/cloudera/oryx/app/pmml/AppPMMLUtils/buildDataDictionary(com.cloudera.oryx.app.schema.InputSchema,com.cloudera.oryx.app.schema.CategoricalValueEncodings)

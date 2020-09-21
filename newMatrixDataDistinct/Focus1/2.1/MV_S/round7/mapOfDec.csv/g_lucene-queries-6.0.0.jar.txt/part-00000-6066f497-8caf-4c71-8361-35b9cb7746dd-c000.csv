@@ -1,0 +1,5 @@
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-6.0.0.jar.txt	0
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/TermsWriter/write(org.apache.lucene.util.BytesRef,org.apache.lucene.index.TermsEnum)@g_lucene-sandbox-6.0.0.jar.txt	2
+org/apache/lucene/queries/function/valuesource/TermFreqValueSource/1/intVal(int)@g_lucene-sandbox-6.0.0.jar.txt	3
+org/apache/lucene/queries/payloads/SpanPayloadCheckQuery/toString(java.lang.String)@g_lucene-sandbox-6.0.0.jar.txt	4
+org/apache/lucene/queries/payloads/PayloadScoreQuery/PayloadSpanWeight/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-sandbox-6.0.0.jar.txt	1

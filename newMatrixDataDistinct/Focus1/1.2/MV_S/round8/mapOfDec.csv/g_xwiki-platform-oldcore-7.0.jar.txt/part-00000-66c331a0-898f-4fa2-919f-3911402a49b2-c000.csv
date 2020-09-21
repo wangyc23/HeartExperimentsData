@@ -1,0 +1,5 @@
+org/apache/jute/compiler/generated/Rcc/main(java.lang.String[])@g_zookeeper-3.4.6.jar.txt	1
+org/apache/zookeeper/server/DataTree/processTxn(org.apache.zookeeper.txn.TxnHeader,org.apache.jute.Record)@g_zookeeper-3.4.6.jar.txt	4
+org/apache/jute/compiler/JRecord/genCppCode(java.io.FileWriter,java.io.FileWriter)@g_zookeeper-3.4.6.jar.txt	3
+org/apache/zookeeper/server/auth/KerberosName/parseRules(java.lang.String)@g_zookeeper-3.4.6.jar.txt	2
+org/apache/zookeeper/server/persistence/FileTxnLog/FileTxnIterator/init()@g_zookeeper-3.4.6.jar.txt	0

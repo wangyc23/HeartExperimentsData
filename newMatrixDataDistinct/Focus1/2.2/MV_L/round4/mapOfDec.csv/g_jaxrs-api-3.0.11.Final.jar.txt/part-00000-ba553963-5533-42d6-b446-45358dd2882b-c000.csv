@@ -1,0 +1,5 @@
+javax/ws/rs/client/FactoryFinder/find(java.lang.String,java.lang.String)@g_jaxrs-api-3.0.8.Final.jar.txt	2
+javax/ws/rs/ext/FactoryFinder/find(java.lang.String,java.lang.String)@g_jaxrs-api-3.0.8.Final.jar.txt	3
+javax/ws/rs/ext/FactoryFinder/find(java.lang.String,java.lang.String)@g_javax.ws.rs-api-2.0.jar.txt	1
+javax/ws/rs/client/FactoryFinder/newInstance(java.lang.String,java.lang.ClassLoader)@g_javax.ws.rs-api-2.0.jar.txt	4
+javax/ws/rs/client/FactoryFinder/find(java.lang.String,java.lang.String)@g_javax.ws.rs-api-2.0.jar.txt	0

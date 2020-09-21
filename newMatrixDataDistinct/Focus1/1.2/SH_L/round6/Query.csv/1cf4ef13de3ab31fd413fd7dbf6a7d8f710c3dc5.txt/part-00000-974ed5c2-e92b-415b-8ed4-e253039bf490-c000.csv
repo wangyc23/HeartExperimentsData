@@ -1,0 +1,4 @@
+tachyon/thrift/BlockInfo/isSetLocations()
+java/lang/IllegalStateException/IllegalStateException()
+tachyon/thrift/BlockInfo/isSetBlockId()
+tachyon/thrift/BlockInfo/isSetLength()

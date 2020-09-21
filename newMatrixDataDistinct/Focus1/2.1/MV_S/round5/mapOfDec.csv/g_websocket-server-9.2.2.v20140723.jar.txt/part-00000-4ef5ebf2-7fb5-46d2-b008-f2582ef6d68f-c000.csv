@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/HttpOutput/sendContent(org.eclipse.jetty.http.HttpContent,org.eclipse.jetty.util.Callback)@g_jetty-server-9.4.5.v20170502.jar.txt	2
+org/eclipse/jetty/server/Server/doStop()@g_jetty-server-9.4.5.v20170502.jar.txt	4
+org/eclipse/jetty/server/Response/putHeaders(javax.servlet.http.HttpServletResponse,org.eclipse.jetty.http.HttpContent,long,boolean)@g_jetty-server-9.4.5.v20170502.jar.txt	3
+org/eclipse/jetty/websocket/common/extensions/identity/IdentityExtension/setConfig(org.eclipse.jetty.websocket.api.extensions.ExtensionConfig)@g_jetty-server-9.4.5.v20170502.jar.txt	1
+org/eclipse/jetty/websocket/common/io/IOState/toString()@g_jetty-server-9.4.5.v20170502.jar.txt	0

@@ -1,0 +1,4 @@
+org/glassfish/jersey/simple/SimpleContainerFactory/create(java.net.URI,org.glassfish.jersey.server.ResourceConfig)
+java/lang/StringBuilder/append(java.lang.String)
+javax/ws/rs/core/UriBuilder/fromUri(java.net.URI)
+java/net/URI/getPort()

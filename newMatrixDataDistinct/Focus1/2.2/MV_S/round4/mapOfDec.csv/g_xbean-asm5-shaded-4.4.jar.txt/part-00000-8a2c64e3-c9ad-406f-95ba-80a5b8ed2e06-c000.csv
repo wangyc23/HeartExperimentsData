@@ -1,0 +1,5 @@
+org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-5.2.jar.txt	1
+org/apache/xbean/asm5/ClassWriter/a(java.lang.Object)@g_asm-5.2.jar.txt	4
+org/springframework/asm/commons/SerialVersionUIDAdder/computeSVUID()@g_spring-asm-3.1.4.RELEASE.jar.txt	2
+org/apache/xbean/asm5/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-5.2.jar.txt	3
+org/springframework/asm/commons/Method/map(java.lang.String)@g_spring-asm-3.1.4.RELEASE.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/String/String(char[],int,int)
+java/lang/String/valueOf(java.lang.Object)
+java/lang/String/length()
+java/lang/String/String(byte[],int,int)

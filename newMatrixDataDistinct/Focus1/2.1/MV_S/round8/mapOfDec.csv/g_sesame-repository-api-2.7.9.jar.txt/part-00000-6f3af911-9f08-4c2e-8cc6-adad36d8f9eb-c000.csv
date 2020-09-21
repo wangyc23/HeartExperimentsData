@@ -1,0 +1,5 @@
+org/openrdf/repository/http/HTTPUpdate/execute()@g_sesame-repository-http-2.7.9.jar.txt	0
+org/openrdf/repository/util/RDFLoader/loadInputStreamOrReader(java.lang.Object,java.lang.String,org.openrdf.rio.RDFFormat,org.openrdf.rio.RDFHandler)@g_sesame-repository-http-2.7.9.jar.txt	3
+org/openrdf/repository/http/HTTPRepositoryConnection/getNamespaces()@g_sesame-repository-http-2.7.9.jar.txt	1
+org/hamcrest/core/DescribedAs/describeTo(org.hamcrest.Description)@g_sesame-repository-http-2.7.9.jar.txt	4
+org/openrdf/repository/http/HTTPRepositoryConnection/prepareQuery(org.openrdf.query.QueryLanguage,java.lang.String,java.lang.String)@g_sesame-repository-http-2.7.9.jar.txt	2

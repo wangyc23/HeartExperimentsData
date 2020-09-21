@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/model/OWLDataFactory/getOWLLiteral(double)
+java/lang/Double/doubleValue()
+java/lang/Float/floatValue()
+org/semanticweb/owlapi/model/OWLDataFactory/getOWLLiteral(int)

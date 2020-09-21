@@ -1,0 +1,4 @@
+org/apache/maven/model/building/ModelBuildingRequest/setTwoPhaseBuilding(boolean)
+org/eclipse/aether/RequestTrace/newChild(org.eclipse.aether.RequestTrace,java.lang.Object)
+java/util/LinkedHashSet/LinkedHashSet()
+org/eclipse/aether/impl/VersionResolver/resolveVersion(org.eclipse.aether.RepositorySystemSession,org.eclipse.aether.resolution.VersionRequest)

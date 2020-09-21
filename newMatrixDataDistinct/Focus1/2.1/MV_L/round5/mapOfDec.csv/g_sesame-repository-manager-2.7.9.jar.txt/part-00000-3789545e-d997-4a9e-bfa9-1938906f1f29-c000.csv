@@ -1,0 +1,5 @@
+net/sf/ehcache/distribution/RMIAsynchronousCacheReplicator/replicationThreadMain()@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/transaction/local/LocalTransactionStore/replace(net.sf.ehcache.Element)@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/store/disk/DiskStorageFactory/DiskWriteTask/call()@g_ehcache-core-2.6.2.jar.txt	1
+org/openrdf/repository/http/HTTPRepositoryConnection/prepareQuery(org.openrdf.query.QueryLanguage,java.lang.String,java.lang.String)@g_sesame-repository-http-2.7.9.jar.txt	0
+net/sf/ehcache/constructs/nonstop/util/OverrideCheck/methodsFor(java.lang.Class,boolean)@g_ehcache-core-2.6.2.jar.txt	4

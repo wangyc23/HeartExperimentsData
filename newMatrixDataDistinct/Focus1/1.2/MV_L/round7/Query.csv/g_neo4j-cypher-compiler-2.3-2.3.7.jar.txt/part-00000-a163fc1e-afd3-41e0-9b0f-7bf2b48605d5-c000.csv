@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/compiler/v2_3/commands/expressions/ShortestPathExpression$$anonfun$getMatches$1/1(org.neo4j.cypher.internal.compiler.v2_3.commands.expressions.ShortestPathExpression)
+scala/collection/Seq/isEmpty()
+org/neo4j/cypher/internal/compiler/v2_3/commands/expressions/ShortestPathExpression$$anonfun$2/2(org.neo4j.cypher.internal.compiler.v2_3.commands.expressions.ShortestPathExpression)
+org/neo4j/cypher/internal/compiler/v2_3/commands/expressions/ShortestPathExpression$$anonfun$1/1(org.neo4j.cypher.internal.compiler.v2_3.commands.expressions.ShortestPathExpression)

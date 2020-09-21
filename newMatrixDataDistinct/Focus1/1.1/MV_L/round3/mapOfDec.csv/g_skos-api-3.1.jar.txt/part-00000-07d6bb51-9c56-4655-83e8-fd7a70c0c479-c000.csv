@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/io/UnparsableOntologyException/getMessage()@g_owlapi-api-4.5.0.jar.txt	3
+org/semanticweb/owlapi/change/ShortForm2AnnotationGenerator/generateChanges(org.semanticweb.owlapi.model.OWLOntologyManager,org.semanticweb.owlapi.model.OWLOntology,org.semanticweb.owlapi.util.ShortFormProvider,org.semanticweb.owlapi.model.IRI,java.lang.String)@g_owlapi-api-4.5.0.jar.txt	2
+org/semanticweb/owlapi/model/OWLDocumentFormatImpl/determineIllegalPunnings(boolean,java.util.Collection,java.util.Collection)@g_owlapi-api-4.5.0.jar.txt	1
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/getEquivalentObjectProperties(java.util.Set)@g_owlapi-api-4.5.0.jar.txt	0
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/getPropertyPartialOrdering()@g_owlapi-api-4.5.0.jar.txt	4

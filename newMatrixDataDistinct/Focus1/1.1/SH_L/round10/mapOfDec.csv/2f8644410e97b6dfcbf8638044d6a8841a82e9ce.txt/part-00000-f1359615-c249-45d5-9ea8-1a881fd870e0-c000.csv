@@ -1,0 +1,5 @@
+org/apache/sling/discovery/commons/InstancesDiff/NotFilter/accept(org.apache.sling.discovery.InstanceDescription)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	4
+org/apache/sling/scripting/jsp/jasper/compiler/TextOptimizer/TextCatVisitor/visit(org.apache.sling.scripting.jsp.jasper.compiler.Node.TemplateText)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	0
+com/adobe/acs/commons/models/injectors/impl/AemObjectInjector/getResourceDesign(java.lang.Object)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	3
+org/apache/sling/scripting/jsp/jasper/compiler/ELParser/hasNextChar()@0ff3757c82faabae2f17efddab67cae35d44705b.txt	2
+com/adobe/acs/commons/wcm/impl/ComponentErrorHandlerImpl/isFirstInChain(org.apache.sling.api.SlingHttpServletRequest)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	1

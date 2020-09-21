@@ -1,0 +1,5 @@
+io/dropwizard/client/JerseyClientBuilderTest/usesACustomCredentialsProvider()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	2
+io/dropwizard/validation/valuehandling/OptionalIntValidatedValueUnwrapperTest/succeedsWhenConstraintsMet()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	0
+com/exercise/socialconnection/repository/Neo4jPersonRepoistoryTest/testFindByName()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	3
+org/apache/fluo/recipes/spark/AccumuloRangePartitioner/getPartition(java.lang.Object)@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	4
+io/dropwizard/server/DefaultServerFactoryTest/doesNotDefaultExceptionMappers()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	1

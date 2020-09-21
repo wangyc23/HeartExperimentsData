@@ -1,0 +1,4 @@
+org/apache/hadoop/mapred/MultiFileSplit/getLength(int)
+org/apache/hadoop/mapred/MultiFileSplit/getPath(int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuffer/toString()

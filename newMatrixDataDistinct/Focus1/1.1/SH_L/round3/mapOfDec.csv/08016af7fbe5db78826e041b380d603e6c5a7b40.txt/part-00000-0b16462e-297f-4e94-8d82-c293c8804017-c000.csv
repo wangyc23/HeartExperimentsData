@@ -1,0 +1,5 @@
+com/vaadin/demo/dashboard/data/dummy/DummyDataGenerator/randomNotifications()@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	0
+org/kumoricon/site/attendee/search/AttendeeSearchByBadgeNoteView/close()@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	3
+org/kumoricon/model/attendee/AttendeeFactory/generateDemoAttendee(org.kumoricon.model.badge.Badge)@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	1
+org/kumoricon/model/user/User/checkPassword(java.lang.String)@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	4
+core/storage/serializer/KryoSerializer/writeStoredSessions(java.util.List,java.io.OutputStream)@1ef40856caddd5a77d06efdb4a5f2ac9ddc9f62c.txt	2

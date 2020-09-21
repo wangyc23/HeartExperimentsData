@@ -1,0 +1,4 @@
+java/lang/Boolean/valueOf(java.lang.String)
+org/apache/maven/doxia/sink/Sink/rawText(java.lang.String)
+org/apache/maven/doxia/sink/Sink/text(java.lang.String)
+org/apache/maven/doxia/sink/Sink/verbatim(org.apache.maven.doxia.sink.SinkEventAttributes)

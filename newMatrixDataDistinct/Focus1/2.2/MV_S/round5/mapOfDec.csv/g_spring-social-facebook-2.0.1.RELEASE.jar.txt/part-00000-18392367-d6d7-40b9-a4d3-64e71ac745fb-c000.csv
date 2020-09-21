@@ -1,0 +1,5 @@
+org/jsonschema2pojo/rules/ObjectRule/createClass(java.lang.String,com.fasterxml.jackson.databind.JsonNode,com.sun.codemodel.JPackage)@g_jsonschema2pojo-core-0.4.0.jar.txt	1
+org/jsonschema2pojo/rules/EnumRule/createEnum(com.fasterxml.jackson.databind.JsonNode,java.lang.String,com.sun.codemodel.JClassContainer)@g_jsonschema2pojo-core-0.4.0.jar.txt	0
+org/jsonschema2pojo/ContentResolver/resolve(java.net.URI)@g_spring-social-web-1.1.2.RELEASE.jar.txt	2
+org/springframework/social/facebook/api/FqlResult/getList(java.lang.String,org.springframework.social.facebook.api.FqlResultMapper)@g_spring-social-web-1.1.2.RELEASE.jar.txt	4
+org/springframework/social/facebook/api/impl/FacebookTemplate/deserializeDataList(com.fasterxml.jackson.databind.JsonNode,java.lang.Class)@g_spring-social-web-1.1.2.RELEASE.jar.txt	3

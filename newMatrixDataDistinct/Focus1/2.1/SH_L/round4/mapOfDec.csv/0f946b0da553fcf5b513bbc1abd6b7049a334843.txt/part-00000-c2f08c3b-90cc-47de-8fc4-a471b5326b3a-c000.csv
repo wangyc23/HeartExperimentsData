@@ -1,0 +1,5 @@
+com/squareup/okhttp/internal/DiskLruCache/create(com.squareup.okhttp.internal.io.FileSystem,java.io.File,int,int,long)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	2
+com/squareup/okhttp/benchmarks/SynchronousHttpClient/prepare(com.squareup.okhttp.benchmarks.Benchmark)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	0
+com/squareup/okhttp/benchmarks/OkHttpAsync/prepare(com.squareup.okhttp.benchmarks.Benchmark)@0b4a5aaf5d05a8cf37b00354f89bf6f9fe330de3.txt	4
+com/squareup/okhttp/benchmarks/SynchronousHttpClient/prepare(com.squareup.okhttp.benchmarks.Benchmark)@0b4a5aaf5d05a8cf37b00354f89bf6f9fe330de3.txt	3
+com/squareup/okhttp/benchmarks/OkHttpAsync/prepare(com.squareup.okhttp.benchmarks.Benchmark)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	1

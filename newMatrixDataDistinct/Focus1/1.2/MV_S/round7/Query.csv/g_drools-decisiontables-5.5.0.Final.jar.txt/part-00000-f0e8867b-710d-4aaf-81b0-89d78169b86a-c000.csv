@@ -1,0 +1,4 @@
+org/drools/template/model/Global/setIdentifier(java.lang.String)
+java/util/ArrayList/ArrayList()
+java/util/Iterator/next()
+java/lang/StringBuilder/StringBuilder()

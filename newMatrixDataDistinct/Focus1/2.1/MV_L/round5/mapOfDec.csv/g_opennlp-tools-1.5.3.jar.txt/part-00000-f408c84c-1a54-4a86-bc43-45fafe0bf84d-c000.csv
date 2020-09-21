@@ -1,0 +1,5 @@
+opennlp/tools/cmdline/ArgumentParser/parse(java.lang.String[],java.lang.Class)@g_opennlp-tools-1.8.3.jar.txt	4
+opennlp/tools/tokenize/DictionaryDetokenizer/detokenize(java.lang.String[])@g_opennlp-tools-1.8.3.jar.txt	3
+opennlp/tools/cmdline/PerformanceMonitor/stopAndPrintFinalResult()@g_opennlp-tools-1.5.2-incubating.jar.txt	1
+opennlp/tools/util/model/BaseModel/serialize(java.io.OutputStream)@g_opennlp-tools-1.5.2-incubating.jar.txt	2
+opennlp/tools/tokenize/DictionaryDetokenizer/detokenize(java.lang.String[])@g_opennlp-tools-1.5.2-incubating.jar.txt	0

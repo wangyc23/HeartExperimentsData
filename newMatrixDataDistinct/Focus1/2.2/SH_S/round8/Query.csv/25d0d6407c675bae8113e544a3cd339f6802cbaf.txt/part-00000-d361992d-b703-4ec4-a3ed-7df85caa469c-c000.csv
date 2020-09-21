@@ -1,0 +1,4 @@
+com/egnore/hadoop/conf/jaxb/Configurations/dump()
+java/util/ArrayList/ArrayList()
+com/egnore/hadoop/conf/jaxb/Configurations/loadFromString(java.lang.String)
+javax/xml/bind/Marshaller/marshal(java.lang.Object,java.io.OutputStream)

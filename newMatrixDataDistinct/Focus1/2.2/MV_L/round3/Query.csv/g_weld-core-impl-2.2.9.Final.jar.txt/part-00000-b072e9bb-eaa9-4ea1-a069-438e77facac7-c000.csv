@@ -1,0 +1,4 @@
+org/jboss/classfilewriter/code/CodeAttribute/returnInstruction()
+org/jboss/classfilewriter/code/CodeAttribute/dup()
+org/jboss/classfilewriter/code/CodeAttribute/ldc(java.lang.String)
+org/jboss/classfilewriter/code/CodeAttribute/getfield(java.lang.String,java.lang.String,java.lang.Class)

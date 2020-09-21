@@ -1,0 +1,5 @@
+org/apache/maven/surefire/util/DefaultDirectoryScanner/processIncludesExcludes(java.util.List)@g_surefire-api-2.12.jar.txt	4
+com/sun/mail/util/SocketFetcher/getSocket(java.lang.String,int,java.util.Properties,java.lang.String,boolean)@g_surefire-api-2.12.jar.txt	2
+com/sun/mail/util/SocketFetcher/startTLS(java.net.Socket)@g_surefire-api-2.12.jar.txt	1
+javax/mail/internet/MimeUtility/decodeText(java.lang.String)@g_surefire-api-2.12.jar.txt	3
+org/apache/maven/plugin/surefire/runorder/RunEntryStatisticsMap/getPriorities(java.util.Comparator)@g_surefire-api-2.12.jar.txt	0

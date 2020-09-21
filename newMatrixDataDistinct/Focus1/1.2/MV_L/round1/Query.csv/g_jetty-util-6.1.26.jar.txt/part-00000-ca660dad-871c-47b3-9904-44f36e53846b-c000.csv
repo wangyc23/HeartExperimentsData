@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/util/Iterator/hasNext()
+java/lang/StringBuffer/StringBuffer(int)
+java/lang/StringBuffer/append(char)

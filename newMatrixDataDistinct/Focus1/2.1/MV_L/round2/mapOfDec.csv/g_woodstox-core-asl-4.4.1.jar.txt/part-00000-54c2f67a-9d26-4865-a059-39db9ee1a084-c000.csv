@@ -1,0 +1,5 @@
+com/ctc/wstx/sr/BasicStreamReader/checkKeyword(char,java.lang.String)@g_woodstox-core-asl-4.2.0.jar.txt	1
+com/ctc/wstx/util/StringUtil/trimEncoding(java.lang.String,boolean)@g_woodstox-core-asl-4.2.0.jar.txt	0
+com/ctc/wstx/util/URLUtil/urlFromSystemId(java.lang.String)@g_woodstox-core-asl-4.2.0.jar.txt	3
+com/ctc/wstx/util/URLUtil/uriFromSystemId(java.lang.String)@g_woodstox-core-asl-4.2.0.jar.txt	4
+com/ctc/wstx/dtd/DTDAttribute/validateDefaultNames(com.ctc.wstx.sr.InputProblemReporter,boolean)@g_woodstox-core-asl-4.2.0.jar.txt	2

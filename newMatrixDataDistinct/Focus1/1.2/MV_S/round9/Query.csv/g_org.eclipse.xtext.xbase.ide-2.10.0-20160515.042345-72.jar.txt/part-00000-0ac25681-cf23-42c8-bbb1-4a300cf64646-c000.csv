@@ -1,0 +1,4 @@
+org/eclipse/xtext/xbase/annotations/ide/contentassist/antlr/internal/InternalXbaseWithAnnotationsParser/after(org.eclipse.emf.ecore.EObject)
+org/eclipse/xtext/xbase/annotations/ide/contentassist/antlr/internal/InternalXbaseWithAnnotationsParser/before(org.eclipse.emf.ecore.EObject)
+org/eclipse/xtext/xbase/annotations/ide/contentassist/antlr/internal/InternalXbaseWithAnnotationsParser/reportError(org.antlr.runtime.RecognitionException)
+org/eclipse/xtext/xbase/annotations/services/XbaseWithAnnotationsGrammarAccess/getOpCompareAccess()

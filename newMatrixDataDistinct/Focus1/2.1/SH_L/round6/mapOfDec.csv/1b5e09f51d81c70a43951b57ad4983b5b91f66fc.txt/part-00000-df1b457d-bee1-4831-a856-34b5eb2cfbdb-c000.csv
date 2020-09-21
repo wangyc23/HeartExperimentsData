@@ -1,0 +1,5 @@
+org/richfaces/demo/ActionListenerBean/handleActionMethodComposite(org.richfaces.demo.ActionEvent)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	2
+org/richfaces/demo/PersistenceLifecycle/execute(org.richfaces.demo.autocomplete.FacesContext)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	4
+org/richfaces/demo/RF10888/contains(java.lang.String,org.richfaces.demo.Function)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	3
+org/richfaces/demo/QueueBean/increment()@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	1
+org/richfaces/demo/StatusBean/delay()@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	0

@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v1_9/parser/ParserPattern/class/org$neo4j$cypher$internal$compiler$v1_9$parser$ParserPattern$$translate(org.neo4j.cypher.internal.compiler.v1_9.parser.ParserPattern,scala.util.parsing.input.Reader,scala.Function1,scala.util.parsing.combinator.Parsers$ParseResult)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	4
+org/neo4j/cypher/internal/compiler/v1_9/parser/Base/anonfun/optionalName/1/apply(scala.util.parsing.input.Reader)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	0
+org/neo4j/cypher/internal/compiler/v1_9/commands/expressions/CoalesceFunction/apply(org.neo4j.cypher.internal.compiler.v1_9.ExecutionContext,org.neo4j.cypher.internal.compiler.v1_9.pipes.QueryState)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	2
+scala/xml/factory/NodeFactory/class/makeNode(scala.xml.factory.NodeFactory,java.lang.String,java.lang.String,scala.xml.MetaData,scala.xml.NamespaceBinding,scala.collection.Seq)@g_scala-xml_2.11-1.0.5.jar.txt	1
+org/neo4j/cypher/internal/compiler/v1_9/pipes/SlicePipe/internalCreateResults(scala.collection.Iterator,org.neo4j.cypher.internal.compiler.v1_9.pipes.QueryState)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	3

@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/Throwable/printStackTrace()
+java/lang/Thread/sleep(long)
+java/nio/file/Files/readAllBytes(java.nio.file.Path)

@@ -1,0 +1,5 @@
+org/xwiki/job/internal/DefaultJobManager/runJob()@g_xwiki-commons-observation-local-7.4.2.jar.txt	4
+org/xwiki/job/internal/xstream/SafeReflectionConverter/1/visit(java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_xwiki-commons-job-7.0.jar.txt	1
+org/xwiki/job/internal/AbstractJobStatus/startListening()@g_xwiki-commons-job-7.0.jar.txt	2
+org/xwiki/logging/logback/internal/DefaultLoggerManager/pushLogListener(org.xwiki.observation.EventListener)@g_xwiki-commons-observation-local-7.4.2.jar.txt	3
+org/xwiki/observation/internal/DefaultObservationManager/addListener(org.xwiki.observation.EventListener)@g_xwiki-commons-observation-local-7.4.2.jar.txt	0

@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getName()
+hidden/org/codehaus/plexus/util/xml/Xpp3DomBuilder/build(org.codehaus.plexus.util.xml.pull.XmlPullParser)
+java/util/Set/contains(java.lang.Object)
+org/codehaus/plexus/util/xml/pull/XmlPullParser/nextText()

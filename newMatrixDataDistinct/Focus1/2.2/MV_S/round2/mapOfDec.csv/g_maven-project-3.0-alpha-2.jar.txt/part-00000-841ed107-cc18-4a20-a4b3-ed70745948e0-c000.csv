@@ -1,0 +1,5 @@
+org/apache/maven/profiles/DefaultProfileManager/addProfile(org.apache.maven.model.Profile)@g_maven-project-2.0.7.jar.txt	0
+org/apache/maven/lifecycle/internal/ThreadConfigurationService/getThreadCount(java.lang.String,boolean,int)@g_maven-core-3.0.jar.txt	3
+org/apache/maven/DefaultMaven/getLifecycleParticipants(java.util.Collection)@g_maven-core-3.0.jar.txt	1
+org/apache/maven/LoggingRepositoryListener/artifactDescriptorInvalid(org.sonatype.aether.RepositoryEvent)@g_maven-core-3.0.jar.txt	2
+org/apache/maven/plugin/prefix/internal/DefaultPluginPrefixResolver/resolveFromProject(org.apache.maven.plugin.prefix.PluginPrefixRequest,java.util.List)@g_maven-core-3.0.jar.txt	4

@@ -1,0 +1,4 @@
+java/util/List/toArray(T[])
+javax/net/ssl/TrustManagerFactory/getTrustManagers()
+org/apache/flume/api/NettyAvroRpcClient/PermissiveTrustManager/PermissiveTrustManager()
+java/lang/String/toCharArray()

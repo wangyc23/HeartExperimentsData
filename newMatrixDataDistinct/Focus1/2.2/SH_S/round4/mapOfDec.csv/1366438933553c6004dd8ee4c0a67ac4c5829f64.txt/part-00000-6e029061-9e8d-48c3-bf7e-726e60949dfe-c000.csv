@@ -1,0 +1,5 @@
+wikibooks/hadoop/chapter07/TaggedGroupKeyPartitioner/getPartition(wikibooks.hadoop.chapter07.TaggedKey,org.apache.hadoop.io.Text,int)@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	3
+wikibooks/hadoop/chapter05/DelayCountMapperWithCounter/setup(org.apache.hadoop.mapreduce.Mapper.Context)@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	1
+wikibooks/hadoop/chapter06/DateKey/compareTo(wikibooks.hadoop.chapter06.DateKey)@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	2
+org/commoncrawl/warc/WARCFileInputFormat/createRecordReader(org.apache.hadoop.mapreduce.InputSplit,org.apache.hadoop.mapreduce.TaskAttemptContext)@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	0
+wikibooks/hadoop/chapter08/ArrivalDelayCountWithSnappy/main(java.lang.String[])@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	4

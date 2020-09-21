@@ -1,0 +1,5 @@
+com/ibm/icu/text/MessagePattern/parseArg(int,int,int)@g_icu4j-4.8.jar.txt	3
+com/ibm/icu/text/Normalizer/concatenate(char[],int,int,char[],int,int,char[],int,int,com.ibm.icu.text.Normalizer$Mode,int)@g_icu4j-4.8.jar.txt	0
+com/ibm/icu/impl/OlsonTimeZone/toString()@g_icu4j-4.8.jar.txt	4
+com/ibm/icu/text/MessageFormat/parse(int,java.lang.String,java.text.ParsePosition,java.lang.Object[],java.util.Map)@g_icu4j-4.8.jar.txt	1
+com/ibm/icu/text/MessageFormat/format(int,double,java.lang.Object[],java.util.Map,com.ibm.icu.text.MessageFormat$AppendableWrapper,java.text.FieldPosition)@g_icu4j-4.8.jar.txt	2

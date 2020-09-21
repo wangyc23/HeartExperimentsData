@@ -1,0 +1,5 @@
+org/joda/time/format/ISODateTimeFormat/forFields(java.util.Collection,boolean,boolean)@g_joda-time-2.2.jar.txt	2
+org/joda/time/tz/ZoneInfoCompiler/writeZoneInfoMap(java.io.DataOutputStream,java.util.Map)@g_joda-time-2.2.jar.txt	3
+org/joda/time/format/ISODateTimeFormat/forFields(java.util.Collection,boolean,boolean)@g_joda-time-1.6.jar.txt	4
+org/joda/time/tz/DateTimeZoneBuilder/PrecalculatedZone/writeTo(java.io.DataOutput)@g_joda-time-1.6.jar.txt	1
+org/joda/time/tz/DateTimeZoneBuilder/PrecalculatedZone/writeTo(java.io.DataOutput)@g_joda-time-2.2.jar.txt	0

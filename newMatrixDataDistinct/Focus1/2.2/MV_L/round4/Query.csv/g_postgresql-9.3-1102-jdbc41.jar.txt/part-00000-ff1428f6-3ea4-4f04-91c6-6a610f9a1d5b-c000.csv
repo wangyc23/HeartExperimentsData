@@ -1,0 +1,4 @@
+org/postgresql/jdbc4/Jdbc4Statement/getFetchDirection()
+org/postgresql/jdbc4/Jdbc4Statement/getResultSetHoldability()
+org/postgresql/jdbc4/Jdbc4ResultSet/setFetchSize(int)
+org/postgresql/jdbc4/Jdbc4Statement/getResultSetConcurrency()

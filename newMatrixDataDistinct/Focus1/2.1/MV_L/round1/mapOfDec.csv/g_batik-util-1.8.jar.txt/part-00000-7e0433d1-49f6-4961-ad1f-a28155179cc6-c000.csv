@@ -1,0 +1,5 @@
+org/apache/batik/i18n/LocalizableSupport/getResourceBundle(int)@g_batik-util-1.7.jar.txt	0
+org/apache/maven/it/util/FileUtils/copyFile(java.io.File,java.io.File,java.lang.String,org.apache.maven.it.util.FileUtils$FilterWrapper[])@g_batik-util-1.7.jar.txt	2
+org/apache/maven/it/util/FileUtils/deleteFile(java.io.File)@g_batik-util-1.7.jar.txt	1
+org/apache/maven/it/util/cli/CommandLineUtils/getSystemEnvVars(boolean)@g_batik-util-1.7.jar.txt	4
+org/apache/maven/it/util/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_batik-util-1.7.jar.txt	3

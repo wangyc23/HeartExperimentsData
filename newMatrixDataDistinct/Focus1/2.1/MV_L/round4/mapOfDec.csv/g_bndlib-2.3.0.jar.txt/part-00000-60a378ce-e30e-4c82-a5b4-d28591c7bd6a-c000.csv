@@ -1,0 +1,5 @@
+aQute/bnd/build/Project/getBundles(aQute.bnd.service.Strategy,java.lang.String,java.lang.String)@g_maven-bundle-plugin-2.5.3.jar.txt	4
+org/apache/felix/obrplugin/ObrRemoteClean/openRepositoryConnection(org.apache.felix.obrplugin.RemoteFileManager)@g_maven-bundle-plugin-2.5.3.jar.txt	0
+aQute/bnd/make/coverage/CoverageResource/doMethod(aQute.lib.tag.Tag,aQute.bnd.osgi.Clazz$MethodDef)@g_maven-bundle-plugin-2.5.3.jar.txt	3
+org/apache/felix/obrplugin/ObrDeploy/openRepositoryConnection(org.apache.felix.obrplugin.RemoteFileManager)@g_maven-bundle-plugin-2.5.3.jar.txt	1
+org/apache/felix/obrplugin/ObrInstallFile/execute()@g_maven-bundle-plugin-2.5.3.jar.txt	2

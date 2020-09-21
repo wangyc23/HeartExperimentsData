@@ -1,0 +1,5 @@
+cucumber/runtime/table/TableConverterTest/converts_to_map_of_enum_to_int()@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	4
+cucumber/runtime/groovy/GroovySnippetTest/generatesSnippetWithDataTable()@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	1
+cucumber/runtime/RuntimeOptionsTest/assigns_feature_paths()@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	0
+cucumber/runtime/ParameterInfoTest/converts_list_with_custom_delimiter()@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	2
+cucumber/runtime/table/FromDataTableTest/listOfDatesAndCalWithHeader()@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	3

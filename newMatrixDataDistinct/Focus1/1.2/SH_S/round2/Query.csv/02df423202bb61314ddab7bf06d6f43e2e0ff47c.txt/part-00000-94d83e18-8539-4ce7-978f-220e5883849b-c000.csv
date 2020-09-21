@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/sql/Statement/close()
+java/sql/Statement/executeUpdate(java.lang.String)
+java/io/PrintStream/println(java.lang.String)

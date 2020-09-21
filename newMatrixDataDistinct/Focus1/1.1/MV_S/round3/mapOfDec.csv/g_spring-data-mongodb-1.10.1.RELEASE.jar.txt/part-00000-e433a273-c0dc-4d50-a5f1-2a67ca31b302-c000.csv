@@ -1,0 +1,5 @@
+org/springframework/security/config/http/AuthenticationConfigBuilder/createBasicFilter(org.springframework.beans.factory.config.BeanReference)@g_spring-security-config-4.0.1.RELEASE.jar.txt	4
+org/springframework/security/config/http/HttpConfigurationBuilder/createRequestCacheFilter()@g_spring-security-config-4.0.1.RELEASE.jar.txt	0
+org/springframework/security/config/http/HttpConfigurationBuilder/createSessionManagementFilters()@g_spring-security-config-4.0.1.RELEASE.jar.txt	1
+org/springframework/security/config/http/HttpConfigurationBuilder/createSecurityContextPersistenceFilter()@g_spring-security-config-4.0.1.RELEASE.jar.txt	3
+org/springframework/security/config/method/GlobalMethodSecurityBeanDefinitionParser/registerAccessManager(org.springframework.beans.factory.xml.ParserContext,boolean,org.springframework.beans.factory.config.BeanDefinition)@g_spring-security-config-4.0.1.RELEASE.jar.txt	2

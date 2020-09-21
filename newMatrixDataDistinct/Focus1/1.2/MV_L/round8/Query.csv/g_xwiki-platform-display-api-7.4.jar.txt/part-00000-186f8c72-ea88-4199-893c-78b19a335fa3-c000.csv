@@ -1,0 +1,4 @@
+org/xwiki/bridge/DocumentAccessBridge/pushDocumentInContext(java.util.Map,org.xwiki.model.reference.DocumentReference)
+org/xwiki/bridge/DocumentAccessBridge/popDocumentFromContext(java.util.Map)
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+org/xwiki/velocity/VelocityEngine/evaluate(org.apache.velocity.context.Context,java.io.Writer,java.lang.String,java.lang.String)

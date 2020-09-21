@@ -1,0 +1,5 @@
+com/adobe/xmp/impl/XMPNode/dumpNode(java.lang.StringBuffer,boolean,int,int)@g_xmpcore-5.1.3.jar.txt	2
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_xmpcore-5.1.3.jar.txt	1
+com/adobe/xmp/impl/ParseRDF/rdf_PropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.3.jar.txt	4
+com/adobe/xmp/impl/ParseRDF/rdf_ResourcePropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.3.jar.txt	3
+org/apache/jempbox/impl/XMLUtil/asByteArray(org.w3c.dom.Document,java.lang.String)@g_jempbox-1.8.13.jar.txt	0

@@ -1,0 +1,4 @@
+java/util/Properties/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/next()
+java/util/Properties/Properties()
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/assembly/model/io/xpp3/ComponentXpp3Reader/parseComponent(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-assembly-plugin-2.2.1.jar.txt	2
+org/apache/maven/plugin/assembly/model/io/xpp3/AssemblyXpp3Reader/parseDependencySet(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-assembly-plugin-2.2.1.jar.txt	4
+org/apache/maven/plugin/assembly/model/io/xpp3/ComponentXpp3Reader/parseModuleSet(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-assembly-plugin-2.2.1.jar.txt	1
+org/apache/maven/plugin/assembly/model/io/xpp3/ComponentXpp3Reader/parseUnpackOptions(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-assembly-plugin-2.2.1.jar.txt	3
+org/apache/maven/plugin/assembly/model/io/xpp3/AssemblyXpp3Reader/parseFileSet(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-assembly-plugin-2.2.1.jar.txt	0

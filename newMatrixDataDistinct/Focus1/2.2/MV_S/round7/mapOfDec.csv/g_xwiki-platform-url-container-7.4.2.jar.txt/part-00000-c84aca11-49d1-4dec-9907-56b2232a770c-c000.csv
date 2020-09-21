@@ -1,0 +1,5 @@
+org/activiti/bpmn/converter/parser/PotentialStarterParser/parse(javax.xml.stream.XMLStreamReader,org.activiti.bpmn.model.Process)@g_activiti-bpmn-converter-5.17.0.jar.txt	3
+org/xwiki/url/internal/standard/ContextAndActionURLNormalizer/normalize(org.xwiki.url.ExtendedURL)@g_xwiki-platform-url-scheme-standard-7.4.jar.txt	0
+org/xwiki/url/internal/standard/entity/AbstractEntityResourceReferenceResolver/resolve(org.xwiki.url.ExtendedURL,org.xwiki.resource.ResourceType,java.util.Map)@g_xwiki-platform-url-scheme-standard-7.4.jar.txt	4
+org/activiti/bpmn/converter/BpmnXMLConverter/convertToBpmnModel(javax.xml.stream.XMLStreamReader)@g_activiti-bpmn-converter-5.17.0.jar.txt	2
+org/activiti/bpmn/converter/util/BpmnXMLUtil/parseDelimitedList(java.lang.String)@g_activiti-bpmn-converter-5.17.0.jar.txt	1

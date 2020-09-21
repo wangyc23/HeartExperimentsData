@@ -1,0 +1,4 @@
+java/util/logging/Logger/warning(java.lang.String)
+org/restlet/ext/jaxrs/internal/exceptions/IllegalParamTypeException/getMessage()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/reflect/Method/getAnnotation(java.lang.Class)

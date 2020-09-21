@@ -1,0 +1,5 @@
+org/jboss/errai/bus/server/ClusteringTests/testGlobalMessageInCluster()@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	3
+org/jboss/errai/bus/server/TransmissionBufferTests/testMultithreadedBufferUse()@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	4
+org/jboss/errai/bus/server/GiantStringTestService/callback(org.jboss.errai.bus.client.api.messaging.Message)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	1
+org/jboss/errai/bus/server/ClusteringTests/testSessionMovesAfterBeingCached()@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	0
+org/jboss/errai/bus/server/ClusteringTests/testPointToPointMessageAcrossClusterNodes()@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	2

@@ -1,0 +1,5 @@
+flexjson/ObjectBinder/bindPrimitive(java.lang.Object,java.lang.Class)@g_jmock-2.6.0.jar.txt	3
+flexjson/ObjectBinder/bindIntoObject(java.util.Map,java.lang.Object,java.lang.reflect.Type)@g_jmock-2.6.0.jar.txt	1
+org/jmock/internal/ReturnDefaultValueAction/createDefaultResults()@g_jmock-2.6.0.jar.txt	4
+com/jayway/awaitility/proxy/TypeUtils/getDefaultValue(java.lang.String)@g_jmock-2.6.0.jar.txt	2
+com/jayway/awaitility/core/CallableCondition/1/getTimeoutMessage()@g_jmock-2.6.0.jar.txt	0

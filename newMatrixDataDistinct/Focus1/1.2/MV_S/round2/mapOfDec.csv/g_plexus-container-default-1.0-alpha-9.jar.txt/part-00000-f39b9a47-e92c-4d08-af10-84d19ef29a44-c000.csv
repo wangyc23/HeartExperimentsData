@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/ComponentValueSetter/setValueUsingSetter(java.lang.Object)@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	3
+org/apache/ivy/tools/analyser/JarJarDependencyAnalyser/analyze(org.apache.ivy.tools.analyser.JarModule[])@g_ivy-2.3.0.jar.txt	4
+org/codehaus/plexus/PlexusTestCase/setUp()@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	0
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/fromConfiguration(org.codehaus.plexus.component.configurator.converters.lookup.ConverterLookup,org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.Class,java.lang.ClassLoader,org.codehaus.plexus.component.configurator.expression.ExpressionEvaluator,org.codehaus.plexus.component.configurator.ConfigurationListener)@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	2
+org/codehaus/plexus/component/discovery/AbstractComponentDiscoverer/findComponents(org.codehaus.plexus.context.Context,org.codehaus.classworlds.ClassRealm)@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	1

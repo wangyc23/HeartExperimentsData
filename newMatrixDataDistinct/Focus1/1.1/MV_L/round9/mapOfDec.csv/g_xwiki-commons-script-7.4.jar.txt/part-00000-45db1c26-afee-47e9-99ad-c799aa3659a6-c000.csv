@@ -1,0 +1,5 @@
+gnu/trove/map/hash/TLongByteHashMap/putAll(java.util.Map)@g_xwiki-commons-script-7.4.2.jar.txt	2
+gnu/trove/map/hash/TFloatFloatHashMap/putAll(java.util.Map)@g_xwiki-commons-script-7.4.2.jar.txt	4
+gnu/trove/map/hash/TByteIntHashMap/putAll(java.util.Map)@g_xwiki-commons-script-7.4.2.jar.txt	1
+org/xwiki/script/internal/safe/SafeList/subList(int,int)@g_xwiki-commons-script-7.4.2.jar.txt	0
+gnu/trove/map/hash/TIntLongHashMap/putAll(java.util.Map)@g_xwiki-commons-script-7.4.2.jar.txt	3

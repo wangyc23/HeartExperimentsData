@@ -1,0 +1,4 @@
+org/xwiki/rendering/parser/xml/ContentHandlerStreamParser/setListener(org.xwiki.rendering.listener.Listener)
+org/xwiki/rendering/xml/internal/parser/AbstractStreamParser/getSyntax()
+java/lang/StringBuilder/StringBuilder()
+org/xwiki/rendering/syntax/Syntax/toIdString()

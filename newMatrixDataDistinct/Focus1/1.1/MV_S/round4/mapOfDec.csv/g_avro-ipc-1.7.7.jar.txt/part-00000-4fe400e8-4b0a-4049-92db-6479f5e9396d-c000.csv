@@ -1,0 +1,5 @@
+org/apache/zookeeper/server/quorum/QuorumCnxManager/addToRecvQueue(org.apache.zookeeper.server.quorum.QuorumCnxManager$Message)@g_morfologik-stemming-2.1.2.jar.txt	4
+org/apache/avro/ipc/Ipc/createTransceiver(java.net.URI)@g_morfologik-stemming-2.1.2.jar.txt	3
+org/apache/zookeeper/server/FinalRequestProcessor/processRequest(org.apache.zookeeper.server.Request)@g_morfologik-stemming-2.1.2.jar.txt	2
+org/apache/zookeeper/ZooKeeper/getClientCnxnSocket()@g_morfologik-stemming-2.1.2.jar.txt	0
+org/apache/zookeeper/MultiResponse/serialize(org.apache.jute.OutputArchive,java.lang.String)@g_morfologik-stemming-2.1.2.jar.txt	1

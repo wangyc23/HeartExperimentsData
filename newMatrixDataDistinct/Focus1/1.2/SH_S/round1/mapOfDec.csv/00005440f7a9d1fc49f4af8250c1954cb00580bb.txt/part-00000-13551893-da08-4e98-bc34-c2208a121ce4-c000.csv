@@ -1,0 +1,5 @@
+net/lr/tutorial/karaf/camel/jms2rest/Jms2RestAdapterTest/testSendPerson()@2e775be709d07d35b179f923aa36c55dc711d36f.txt	1
+org/woelker/telemetrion/core/sensors/CpuSensor/getCurrentValues()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	3
+org/woelker/telemetrion/core/sensors/NetworkSensor/lines()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	4
+org/woelker/telemetrion/core/sensors/DiskSensor/getCurrentValues()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	2
+net/lr/tutorial/karaf/cxf/personservice/impl/PersonServiceRestTest/testPutPerson()@2e775be709d07d35b179f923aa36c55dc711d36f.txt	0

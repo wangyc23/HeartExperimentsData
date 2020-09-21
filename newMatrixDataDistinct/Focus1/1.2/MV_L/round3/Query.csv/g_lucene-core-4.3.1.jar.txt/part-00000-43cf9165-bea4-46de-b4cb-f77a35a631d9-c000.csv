@@ -1,0 +1,4 @@
+org/apache/lucene/index/DocumentsWriterPerThreadPool$ThreadState/tryLock()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/apache/lucene/index/ThreadAffinityDocumentsWriterThreadPool/newThreadState()
+org/apache/lucene/index/ThreadAffinityDocumentsWriterThreadPool/minContendedThreadState()

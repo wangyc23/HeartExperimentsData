@@ -1,0 +1,5 @@
+com/adobe/acs/commons/fam/ActionsTest/testRetryAll()@28d69a69e31e29c95f20d8169265faa680168571.txt	3
+com/adobe/acs/commons/wcm/impl/PropertyMergePostProcessorTest/testMergeAllTags()@28d69a69e31e29c95f20d8169265faa680168571.txt	1
+com/adobe/acs/commons/replication/dispatcher/impl/DispatcherFlushRulesImplTest/testPreprocess_success_resourceonly_translation2()@28d69a69e31e29c95f20d8169265faa680168571.txt	4
+io/corbel/iam/service/DefaultUpgradeTokenServiceTest/upgradeTokenNonexistentScopeTest()@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	0
+com/adobe/acs/commons/replication/dispatcher/impl/DispatcherFlushRulesImplTest/testPreprocess_notAccepts_ReplicationActionTypeTest()@28d69a69e31e29c95f20d8169265faa680168571.txt	2

@@ -1,0 +1,5 @@
+com/codahale/metrics/json/HealthCheckModule/HealthCheckResultSerializer/serializeThrowable(com.fasterxml.jackson.core.JsonGenerator,java.lang.Throwable,java.lang.String)@g_metrics-json-3.1.2.jar.txt	3
+org/eclipse/rdf4j/rio/rdfjson/RDFJSONWriter/writeObject(org.eclipse.rdf4j.model.Value,java.util.Set,com.fasterxml.jackson.core.JsonGenerator)@g_rdf4j-rio-rdfjson-2.1.4.jar.txt	4
+com/codahale/metrics/json/MetricsModule/MeterSerializer/serialize(com.codahale.metrics.Meter,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-json-3.1.2.jar.txt	0
+com/codahale/metrics/json/MetricsModule/MetricRegistrySerializer/serialize(com.codahale.metrics.MetricRegistry,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-json-3.1.2.jar.txt	2
+com/codahale/metrics/json/MetricsModule/TimerSerializer/serialize(com.codahale.metrics.Timer,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-json-3.1.2.jar.txt	1

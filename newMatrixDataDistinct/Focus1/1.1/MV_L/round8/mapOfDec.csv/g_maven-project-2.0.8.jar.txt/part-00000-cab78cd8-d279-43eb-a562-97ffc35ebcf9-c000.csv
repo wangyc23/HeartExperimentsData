@@ -1,0 +1,5 @@
+org/apache/maven/project/DefaultMavenProjectBuilder/createManagedVersionMap(java.lang.String,org.apache.maven.model.DependencyManagement,org.apache.maven.project.MavenProject)@g_maven-project-2.0.9.jar.txt	1
+org/apache/maven/project/ModelUtils/mergeReportSetDefinitions(org.apache.maven.model.ReportSet,org.apache.maven.model.ReportSet)@g_maven-project-2.0.9.jar.txt	4
+org/apache/maven/project/artifact/MavenMetadataSource/aggregateRepositoryLists(java.util.List,java.util.List)@g_maven-project-2.0.9.jar.txt	2
+org/apache/maven/project/ModelUtils/mergePluginExecutionDefinitions(org.apache.maven.model.PluginExecution,org.apache.maven.model.PluginExecution)@g_maven-project-2.0.9.jar.txt	3
+org/apache/maven/project/injection/DefaultProfileInjector/mergeReportPlugins(org.apache.maven.model.ReportPlugin,org.apache.maven.model.ReportPlugin)@g_maven-project-2.0.9.jar.txt	0

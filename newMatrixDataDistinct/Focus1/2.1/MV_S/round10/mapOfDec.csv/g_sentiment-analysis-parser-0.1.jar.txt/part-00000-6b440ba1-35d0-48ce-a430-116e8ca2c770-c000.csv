@@ -1,0 +1,5 @@
+opennlp/tools/formats/letsmt/LetsmtSentenceStream/read()@g_slf4j-simple-1.6.1.jar.txt	4
+opennlp/tools/formats/brat/BratDocumentParser/parse(opennlp.tools.formats.brat.BratDocument)@g_slf4j-simple-1.6.1.jar.txt	2
+opennlp/tools/cmdline/ArgumentParser/parse(java.lang.String[],java.lang.Class)@g_slf4j-simple-1.6.1.jar.txt	3
+opennlp/tools/tokenize/TokSpanEventStream/createEvents(opennlp.tools.tokenize.TokenSample)@g_opennlp-tools-1.8.2.jar.txt	0
+opennlp/tools/cmdline/parser/ParserTool/run(java.lang.String[])@g_slf4j-simple-1.6.1.jar.txt	1

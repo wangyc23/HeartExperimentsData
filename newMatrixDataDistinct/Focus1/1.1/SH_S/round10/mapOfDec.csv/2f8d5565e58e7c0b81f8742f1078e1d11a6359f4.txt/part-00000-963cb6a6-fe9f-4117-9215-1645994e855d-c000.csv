@@ -1,0 +1,5 @@
+org/apache/kafka/connect/socket/RxNettyTCPServer/run()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	4
+org/apache/kafka/connect/socket/FileHandler/getJSONElement(java.lang.String)@2419bc5b971bf64063be9d3c90dad3171f182854.txt	0
+org/apache/kafka/connect/socket/RxNettyTCPServer2/sendMessage(byte[])@2419bc5b971bf64063be9d3c90dad3171f182854.txt	2
+com/example/Main/startServer()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	1
+org/apache/kafka/connect/socket/batch/BulkProcessor/add(org.apache.kafka.connect.socket.batch.RecordBatch)@2419bc5b971bf64063be9d3c90dad3171f182854.txt	3

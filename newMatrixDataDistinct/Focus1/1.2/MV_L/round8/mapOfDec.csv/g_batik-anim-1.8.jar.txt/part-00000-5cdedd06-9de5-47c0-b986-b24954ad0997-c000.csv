@@ -1,0 +1,5 @@
+org/apache/batik/dom/svg/SVGDOMImplementation/<clinit>()@g_batik-svg-dom-1.7.jar.txt	0
+org/apache/batik/anim/dom/SVGOMAnimatedPathData/AnimSVGPathSegList/newItem(short,float[],int[])@g_batik-anim-1.7.jar.txt	3
+org/apache/batik/anim/dom/SVGOMSVGElement/1/setX(float)@g_batik-anim-1.7.jar.txt	4
+org/apache/batik/dom/svg/SVGStyleSheetProcessingInstruction/getCSSStyleSheet()@g_batik-anim-1.7.jar.txt	2
+org/apache/batik/dom/svg12/SVG12DOMImplementation/<clinit>()@g_batik-svg-dom-1.7.jar.txt	1

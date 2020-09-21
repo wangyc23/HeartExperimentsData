@@ -1,0 +1,5 @@
+com/porterhead/user/resource/UserResource/updateUser(javax.ws.rs.core.SecurityContext,java.lang.String,com.porterhead.user.api.UpdateUserRequest)@03752e89867c8b85c6d5b3635c772c9280818563.txt	2
+com/porterhead/sample/SampleResource/getSample(javax.ws.rs.core.SecurityContext)@03752e89867c8b85c6d5b3635c772c9280818563.txt	4
+com/porterhead/exception/ValidationException/getResponse()@03752e89867c8b85c6d5b3635c772c9280818563.txt	1
+com/porterhead/exception/AccessDeniedExceptionMapper/toResponse(org.springframework.security.access.AccessDeniedException)@03752e89867c8b85c6d5b3635c772c9280818563.txt	3
+com/porterhead/user/resource/VerificationResource/sendEmailToken(com.porterhead.user.api.EmailVerificationRequest)@03752e89867c8b85c6d5b3635c772c9280818563.txt	0

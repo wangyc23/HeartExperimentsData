@@ -1,0 +1,4 @@
+com/google/inject/internal/cglib/core/$CodeEmitter/throw_exception(com.google.inject.internal.asm.$Type,java.lang.String)
+com/google/inject/internal/cglib/core/$CodeEmitter/dup()
+com/google/inject/internal/cglib/core/$CodeEmitter/aastore()
+com/google/inject/internal/cglib/core/$ClassEmitter/begin_method(int,com.google.inject.internal.cglib.core.$Signature,com.google.inject.internal.asm.$Type[])

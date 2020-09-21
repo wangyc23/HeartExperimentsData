@@ -1,0 +1,5 @@
+org/glassfish/jersey/test/ServletDeploymentContext/Builder/addFilter(java.lang.Class,java.lang.String,java.util.Map,java.util.Set)@g_mimepull-1.9.3.jar.txt	4
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_mimepull-1.9.3.jar.txt	1
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0
+org/glassfish/jersey/test/JerseyTest/getDefaultTestContainerFactory()@g_mimepull-1.9.3.jar.txt	3
+org/jvnet/mimepull/MIMEParser/MIMEEventIterator/next()@g_mimepull-1.9.3.jar.txt	2

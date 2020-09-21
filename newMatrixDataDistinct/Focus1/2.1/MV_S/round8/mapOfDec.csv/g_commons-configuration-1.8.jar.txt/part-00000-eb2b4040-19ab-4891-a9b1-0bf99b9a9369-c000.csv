@@ -1,0 +1,5 @@
+org/apache/commons/beanutils/PropertyUtilsBean/copyProperties(java.lang.Object,java.lang.Object)@g_commons-beanutils-1.9.2.jar.txt	1
+org/apache/commons/beanutils/BeanMap/clone()@g_commons-beanutils-1.9.2.jar.txt	4
+org/apache/commons/beanutils/BeanUtilsBean/getArrayProperty(java.lang.Object,java.lang.String)@g_commons-beanutils-1.9.2.jar.txt	2
+org/apache/commons/beanutils/WrapDynaClass/introspect()@g_commons-beanutils-1.9.2.jar.txt	0
+org/apache/commons/beanutils/BeanUtilsBean/populate(java.lang.Object,java.util.Map)@g_commons-beanutils-1.9.2.jar.txt	3

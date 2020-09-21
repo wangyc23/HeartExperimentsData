@@ -1,0 +1,5 @@
+org/carrot2/source/ambient/FubTestCollection/loadSubtopicMapping(org.carrot2.util.resource.IResource)@g_morfologik-fsa-1.7.0.jar.txt	4
+org/carrot2/util/tests/SuiteResultInfoWriter/testRunStarted(org.junit.runner.Description)@g_morfologik-fsa-1.7.0.jar.txt	2
+morfologik/util/ResourceUtils/openInputStream(java.lang.String)@g_morfologik-fsa-1.7.0.jar.txt	0
+org/carrot2/text/preprocessing/filter/MinLengthLabelFilterDescriptor/<clinit>()@g_morfologik-fsa-1.7.0.jar.txt	1
+org/carrot2/source/ambient/Odp239DocumentSourceDescriptor/<clinit>()@g_morfologik-fsa-1.7.0.jar.txt	3

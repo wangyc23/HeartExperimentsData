@@ -1,0 +1,5 @@
+org/jgroups/blocks/LazyRemovalCache/contents(boolean)@g_httpclient-cache-4.2.6.jar.txt	2
+org/jgroups/protocols/pbcast/Merger/fetchDigestsFromAllMembersInSubPartition(org.jgroups.View,org.jgroups.util.MergeId)@g_httpclient-cache-4.2.6.jar.txt	4
+org/jgroups/blocks/LazyRemovalCache/printCache(org.jgroups.blocks.LazyRemovalCache$Printable)@g_httpclient-cache-4.2.6.jar.txt	3
+org/jgroups/tests/CheckToaOrder/ComparingFiles/run()@g_httpclient-cache-4.2.6.jar.txt	1
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_httpclient-cache-4.2.6.jar.txt	0

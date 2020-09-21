@@ -1,0 +1,5 @@
+javax/xml/stream/FactoryFinder/find(java.lang.String,java.lang.String,java.lang.ClassLoader)@g_axis-jaxrpc-1.4.jar.txt	1
+javax/xml/stream/FactoryLocator/locate(java.lang.String,java.lang.String,java.lang.ClassLoader)@g_axis-jaxrpc-1.4.jar.txt	4
+javax/xml/stream/FactoryFinder/findClassLoader()@g_axis-jaxrpc-1.4.jar.txt	3
+javax/xml/stream/FactoryFinder/find(java.lang.String,java.lang.String,java.lang.ClassLoader)@g_stax-api-1.0.1.jar.txt	0
+javax/xml/rpc/FactoryFinder/find(java.lang.String,java.lang.String)@g_axis-jaxrpc-1.4.jar.txt	2

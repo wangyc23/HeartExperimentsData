@@ -1,0 +1,8 @@
+0	java/lang/RuntimeException/RuntimeException(java.lang.String)
+1	net/sf/jabb/util/stat/SimpleBigIntegerStatistics/getMax()
+2	java/io/PrintStream/println(java.lang.String)
+3	java/lang/Object/notifyAll()
+4	net/sf/jabb/util/stat/SimpleBigIntegerStatistics/getSum()
+5	net/sf/jabb/util/stat/SimpleBigIntegerStatistics/merge(net.sf.jabb.util.stat.NumberStatistics)
+6	net/sf/jabb/util/stat/SimpleBigIntegerStatistics/evaluate(int)
+7	oops/chapter21/section4/p43/MultiLock/f2(int)

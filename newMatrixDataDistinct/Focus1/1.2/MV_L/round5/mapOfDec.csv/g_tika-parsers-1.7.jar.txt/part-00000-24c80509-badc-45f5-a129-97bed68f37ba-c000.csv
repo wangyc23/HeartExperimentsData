@@ -1,0 +1,5 @@
+org/apache/tika/parser/pdf/PDFParser/extractEmbeddedDocuments(org.apache.tika.parser.ParseContext,org.apache.pdfbox.pdmodel.PDDocument,org.xml.sax.ContentHandler)@g_tika-parsers-1.2.jar.txt	4
+org/apache/tika/parser/pdf/PDFParser/extractEmbeddedDocuments(org.apache.tika.parser.ParseContext,org.apache.pdfbox.pdmodel.PDDocument,org.xml.sax.ContentHandler)@g_tika-parsers-1.4.jar.txt	2
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleEmbeddedFile(org.apache.poi.openxml4j.opc.PackagePart,org.xml.sax.ContentHandler,java.lang.String)@g_tika-parsers-1.4.jar.txt	0
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleEmbeddedOLE(org.apache.poi.openxml4j.opc.PackagePart,org.xml.sax.ContentHandler,java.lang.String)@g_tika-parsers-1.4.jar.txt	3
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleEmbeddedFile(org.apache.poi.openxml4j.opc.PackagePart,org.xml.sax.ContentHandler)@g_tika-parsers-1.2.jar.txt	1

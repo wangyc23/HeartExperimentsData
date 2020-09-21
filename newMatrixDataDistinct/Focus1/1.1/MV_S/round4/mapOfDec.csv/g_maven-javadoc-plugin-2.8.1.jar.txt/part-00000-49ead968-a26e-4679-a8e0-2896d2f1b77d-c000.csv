@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/HelpMojo/execute()@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/invoker/model/io/xpp3/BuildJobXpp3Reader/read(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-invoker-plugin-2.0.0.jar.txt	0
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/invoker/model/io/xpp3/BuildJobXpp3Reader/parseBuildJob(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getBuildJobs()@g_maven-dependency-plugin-2.8.jar.txt	4

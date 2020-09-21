@@ -1,0 +1,5 @@
+org/eclipse/tycho/packaging/UpdateSiteAssembler/visitPlugin(org.eclipse.tycho.core.PluginDescription)@g_tycho-packaging-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/packaging/UpdateSiteAssembler/unpackJar(java.io.File,java.io.File)@g_tycho-packaging-plugin-0.23.1.jar.txt	4
+org/eclipse/tycho/packaging/PackageFeatureMojo/getFeatureProperties(java.io.File,org.eclipse.tycho.core.shared.BuildProperties)@g_tycho-packaging-plugin-0.23.1.jar.txt	3
+org/eclipse/tycho/packaging/PackagePluginMojo/createPluginJar()@g_tycho-packaging-plugin-0.23.1.jar.txt	1
+org/eclipse/tycho/packaging/ProductExportMojo/generateConfigIni(org.eclipse.tycho.core.shared.TargetEnvironment,java.io.File)@g_tycho-packaging-plugin-0.23.1.jar.txt	0

@@ -1,0 +1,5 @@
+org/sonatype/aether/util/graph/PreorderNodeListGenerator/getDependencies(boolean)@g_aether-util-1.11.jar.txt	3
+org/sonatype/aether/util/graph/PreorderNodeListGenerator/getArtifacts(boolean)@g_aether-util-1.11.jar.txt	0
+org/sonatype/aether/util/graph/transformer/ConflictIdSorter/topsortConflictIds(java.util.Collection,org.sonatype.aether.collection.DependencyGraphTransformationContext)@g_aether-util-1.11.jar.txt	1
+org/sonatype/aether/util/graph/transformer/JavaEffectiveScopeCalculator/buildConflictGroups(java.util.Map,org.sonatype.aether.graph.DependencyNode,org.sonatype.aether.graph.DependencyNode,java.util.Map)@g_aether-util-1.11.jar.txt	4
+org/sonatype/aether/util/graph/PreorderNodeListGenerator/getFiles()@g_aether-util-1.11.jar.txt	2

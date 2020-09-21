@@ -1,0 +1,4 @@
+java/lang/String/length()
+java/util/LinkedList/LinkedList()
+java/lang/String/substring(int,int)
+java/util/List/add(java.lang.Object)

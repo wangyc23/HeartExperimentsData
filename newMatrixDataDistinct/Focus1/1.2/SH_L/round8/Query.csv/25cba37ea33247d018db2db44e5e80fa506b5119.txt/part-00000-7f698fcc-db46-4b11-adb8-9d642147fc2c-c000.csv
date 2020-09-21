@@ -1,0 +1,4 @@
+org/jbpm/examples/chapter02/simpleGOP/definition/Node/getTransitions()
+java/util/Iterator/hasNext()
+java/io/PrintStream/println(java.lang.String)
+java/lang/String/length()

@@ -1,0 +1,4 @@
+java/io/DataOutputStream/writeInt(int)
+java/io/DataOutputStream/writeUTF(java.lang.String)
+java/io/DataOutputStream/close()
+java/util/Arrays/sort(java.lang.Object[])

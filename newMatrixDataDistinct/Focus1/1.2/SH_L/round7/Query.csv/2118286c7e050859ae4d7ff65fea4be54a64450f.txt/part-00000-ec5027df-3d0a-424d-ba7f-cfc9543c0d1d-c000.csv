@@ -1,0 +1,4 @@
+org/apache/avro/io/EncoderFactory/directBinaryEncoder(java.io.OutputStream,org.apache.avro.io.BinaryEncoder)
+java/io/ByteArrayOutputStream/ByteArrayOutputStream()
+org/apache/avro/io/ValidatingEncoder/configure(org.apache.avro.io.Encoder)
+org/apache/avro/io/EncoderFactory/validatingEncoder(org.apache.avro.Schema,org.apache.avro.io.Encoder)

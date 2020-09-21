@@ -1,0 +1,5 @@
+org/slf4j/impl/Log4jLoggerAdapter/toLog4jEvent(org.slf4j.event.LoggingEvent,org.apache.log4j.Level)@g_slf4j-log4j12-1.7.25.jar.txt	4
+org/neo4j/kernel/lifecycle/LifeSupport/toString(int,java.lang.StringBuilder)@g_neo4j-common-3.3.0.jar.txt	0
+com/netflix/blitz4j/LoggingContext/getLocationInfo(java.lang.Class)@g_slf4j-log4j12-1.7.25.jar.txt	1
+com/netflix/blitz4j/AsyncAppender/setOriginalAppenderName(java.lang.String)@g_slf4j-log4j12-1.7.25.jar.txt	3
+com/netflix/blitz4j/AsyncAppender/append(org.apache.log4j.spi.LoggingEvent)@g_slf4j-log4j12-1.7.25.jar.txt	2

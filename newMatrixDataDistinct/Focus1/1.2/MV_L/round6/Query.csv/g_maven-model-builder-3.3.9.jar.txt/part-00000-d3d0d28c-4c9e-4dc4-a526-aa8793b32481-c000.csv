@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+java/util/List/size()
+java/util/List/addAll(java.util.Collection)
+java/util/Set/contains(java.lang.Object)

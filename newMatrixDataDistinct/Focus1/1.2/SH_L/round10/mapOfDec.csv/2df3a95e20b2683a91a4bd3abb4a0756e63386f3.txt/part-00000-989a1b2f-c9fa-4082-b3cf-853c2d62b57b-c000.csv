@@ -1,0 +1,5 @@
+org/apache/drill/exec/physical/impl/orderedpartitioner/OrderedPartitionProjectorTemplate/projectRecords(int,int)@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	4
+org/apache/drill/exec/physical/impl/window/WindowFrameRecordBatch/innerNext()@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	3
+org/apache/drill/exec/physical/impl/limit/LimitRecordBatch/doWork()@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	0
+org/apache/drill/exec/physical/impl/filter/FilterRecordBatch/doWork()@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	2
+org/apache/drill/exec/physical/impl/svremover/RemovingRecordBatch/StraightCopier/copyRecords(int,int)@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	1

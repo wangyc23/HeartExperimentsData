@@ -1,0 +1,5 @@
+org/easymock/internal/RecordState/<clinit>()@g_el-ri-1.0.jar.txt	1
+com/sun/star/uno/Type/init(java.lang.String,java.lang.Class,boolean,boolean)@g_el-ri-1.0.jar.txt	2
+org/easymock/internal/LegacyMatcherProvider/setMatcher(java.lang.reflect.Method,org.easymock.ArgumentsMatcher)@g_el-ri-1.0.jar.txt	0
+org/easymock/internal/RecordState/createNumberObject(java.lang.Object,java.lang.Class)@g_el-ri-1.0.jar.txt	3
+org/easymock/internal/MocksBehavior/verify()@g_el-ri-1.0.jar.txt	4

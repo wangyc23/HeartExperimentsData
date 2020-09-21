@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWikiContext/getUserReference()
+com/xpn/xwiki/XWikiContext/getWiki()
+com/xpn/xwiki/XWiki/getUserPreference(java.lang.String,com.xpn.xwiki.XWikiContext)
+com/xpn/xwiki/XWikiContext/getRequest()

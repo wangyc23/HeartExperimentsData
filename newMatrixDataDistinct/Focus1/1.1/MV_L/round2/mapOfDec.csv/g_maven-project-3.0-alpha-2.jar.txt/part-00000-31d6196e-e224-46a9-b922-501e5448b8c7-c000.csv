@@ -1,0 +1,5 @@
+org/apache/maven/profiles/io/xpp3/ProfilesXpp3Reader/parseRepository(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-project-2.0.9.jar.txt	0
+org/apache/maven/profiles/ProfilesConversionUtils/convertFromProfileXmlRepository(org.apache.maven.profiles.Repository)@g_maven-project-2.0.9.jar.txt	2
+org/apache/maven/project/ModelUtils/cloneProfileResources(java.util.List)@g_maven-project-2.0.9.jar.txt	3
+org/apache/maven/project/MavenProject/getManagedVersionMap()@g_maven-project-2.0.9.jar.txt	1
+org/apache/maven/project/ModelUtils/mergePluginDefinitions(org.apache.maven.model.Plugin,org.apache.maven.model.Plugin,boolean)@g_maven-project-2.0.9.jar.txt	4

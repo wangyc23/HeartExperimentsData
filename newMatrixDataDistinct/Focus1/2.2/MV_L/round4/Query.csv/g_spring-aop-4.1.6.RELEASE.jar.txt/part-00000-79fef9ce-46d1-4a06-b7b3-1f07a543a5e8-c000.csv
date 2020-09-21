@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/isEmpty()
+java/lang/Class/isPrimitive()
+java/lang/Boolean/valueOf(boolean)

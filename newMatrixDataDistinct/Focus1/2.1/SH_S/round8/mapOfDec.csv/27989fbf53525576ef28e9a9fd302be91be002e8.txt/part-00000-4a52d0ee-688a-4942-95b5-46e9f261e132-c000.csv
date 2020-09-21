@@ -1,0 +1,5 @@
+net/lr/tutorial/karaf/vote/service/MemoryVoteService/removeVoting(java.lang.String)@2e775be709d07d35b179f923aa36c55dc711d36f.txt	4
+com/fhd/bpm/service/ProcessService/findUserTaskList(java.lang.String)@2e775be709d07d35b179f923aa36c55dc711d36f.txt	0
+net/lr/tutorial/karaf/db/example/DbExample/test()@2e775be709d07d35b179f923aa36c55dc711d36f.txt	3
+com/ibm/taste/example/movie/servlet/MovieRecommenderServlet/writeRecommendations(com.ibm.taste.example.movie.model.RecommendMovieList,java.io.PrintWriter)@2e775be709d07d35b179f923aa36c55dc711d36f.txt	2
+com/ibm/taste/example/movie/utils/DBUtil/getConnectionFromDataSource()@2e775be709d07d35b179f923aa36c55dc711d36f.txt	1

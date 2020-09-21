@@ -1,0 +1,5 @@
+org/springframework/boot/cli/command/install/Installer/createCompilerConfiguration(org.springframework.boot.cli.command.install.OptionSet,org.springframework.boot.cli.command.options.CompilerOptionHandler)@280d979eb1d50c9e1b74812249f71cdeee560912.txt	3
+org/springframework/boot/cli/command/grab/GrabCommand/GrabOptionHandler/run(org.springframework.boot.cli.command.install.OptionSet)@280d979eb1d50c9e1b74812249f71cdeee560912.txt	2
+org/springframework/boot/cli/command/run/RunCommand/RunOptionHandler/run(org.springframework.boot.cli.command.install.OptionSet)@280d979eb1d50c9e1b74812249f71cdeee560912.txt	0
+org/springframework/boot/cli/compiler/RepositoryConfigurationFactory/createDefaultRepositoryConfiguration()@280d979eb1d50c9e1b74812249f71cdeee560912.txt	1
+org/springframework/boot/cli/command/archive/ArchiveCommand/ArchiveOptionHandler/createCompiler(org.springframework.boot.cli.command.install.OptionSet)@280d979eb1d50c9e1b74812249f71cdeee560912.txt	4

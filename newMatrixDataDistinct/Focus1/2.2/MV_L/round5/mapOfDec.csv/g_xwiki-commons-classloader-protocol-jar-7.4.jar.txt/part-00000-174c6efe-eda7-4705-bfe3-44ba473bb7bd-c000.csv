@@ -1,0 +1,5 @@
+org/xwiki/classloader/internal/protocol/jar/JarURLStreamHandler/parseURL(java.net.URL,java.lang.String,int,int)@g_xwiki-commons-classloader-protocol-jar-7.0.jar.txt	2
+org/xwiki/classloader/internal/protocol/jar/JarURLConnection/parseSpecs(java.net.URL)@g_xwiki-commons-classloader-protocol-jar-7.4.2.jar.txt	1
+org/xwiki/classloader/internal/protocol/jar/JarURLStreamHandler/parseURL(java.net.URL,java.lang.String,int,int)@g_xwiki-commons-classloader-protocol-jar-7.4.2.jar.txt	3
+org/xwiki/classloader/internal/protocol/jar/JarProxy/openJarFile(org.xwiki.classloader.internal.protocol.jar.JarURLConnection)@g_xwiki-commons-classloader-protocol-jar-7.0.jar.txt	4
+org/xwiki/classloader/internal/protocol/jar/JarURLConnection/parseSpecs(java.net.URL)@g_xwiki-commons-classloader-protocol-jar-7.0.jar.txt	0

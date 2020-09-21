@@ -1,0 +1,4 @@
+protocol/protobuf/CanalEntry/TransactionEnd/getSerializedSize()
+java/util/List/get(int)
+protocol/protobuf/CanalEntry/TransactionEnd/getTransactionIdBytes()
+java/util/List/size()

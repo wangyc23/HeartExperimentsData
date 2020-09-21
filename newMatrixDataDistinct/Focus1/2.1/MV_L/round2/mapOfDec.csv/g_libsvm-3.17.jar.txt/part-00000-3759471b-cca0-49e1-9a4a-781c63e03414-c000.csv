@@ -1,0 +1,5 @@
+weka/filters/unsupervised/instance/subsetbyexpression/Parser/main(java.lang.String[])@g_weka-stable-3.6.10.jar.txt	3
+weka/core/Javadoc/updateJavadoc()@g_weka-stable-3.6.10.jar.txt	2
+weka/core/converters/TextDirectoryLoader/getDataSet()@g_weka-stable-3.6.10.jar.txt	1
+weka/core/xml/SerialUIDChanger/changeUID(long,long,java.lang.String,java.lang.String)@g_weka-stable-3.6.10.jar.txt	0
+weka/core/converters/CSVLoader/getDataSet()@g_weka-stable-3.6.10.jar.txt	4

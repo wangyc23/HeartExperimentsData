@@ -1,0 +1,4 @@
+javax/servlet/ServletSecurityElement/getEmptyRoleSemantic()
+javax/servlet/ServletSecurityElement/getHttpMethodConstraints()
+java/util/List/toArray(java.lang.Object[])
+java/util/List/add(java.lang.Object)

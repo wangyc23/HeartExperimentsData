@@ -1,0 +1,5 @@
+org/xwiki/component/annotation/ComponentAnnotationLoader/findComponentRoleClasses(java.lang.Class)@g_xwiki-commons-component-default-7.4.2.jar.txt	1
+org/xwiki/component/annotation/ComponentAnnotationLoader/findComponentRoleClasses(java.lang.Class)@g_xwiki-commons-component-default-7.0.jar.txt	0
+org/xwiki/component/embed/GenericProvider/get()@g_xwiki-commons-component-default-7.0.jar.txt	4
+org/xwiki/component/annotation/ComponentAnnotationLoader/findComponentRoleTypes(java.lang.Class,java.lang.reflect.Type[])@g_xwiki-commons-component-default-7.0.jar.txt	2
+org/xwiki/component/annotation/ComponentAnnotationLoader/findComponentRoleTypes(java.lang.Class,java.lang.reflect.Type[])@g_xwiki-commons-component-default-7.4.2.jar.txt	3

@@ -1,0 +1,4 @@
+javax/swing/JButton/addActionListener(java.awt.event.ActionListener)
+junit/swingui/TestSelector$DoubleClickListener/DoubleClickListener(junit.swingui.TestSelector)
+junit/swingui/TestSelector$KeySelectListener/KeySelectListener(junit.swingui.TestSelector)
+junit/swingui/TestSelector$1/1(junit.swingui.TestSelector)

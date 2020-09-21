@@ -1,0 +1,5 @@
+org/xwiki/store/serialization/xml/internal/DeletedAttachmentMetadataSerializer/parse(org.dom4j.Element)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	3
+org/xwiki/localization/wiki/internal/DocumentTranslationBundleFactory/getComponentManager(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.localization.wiki.internal.TranslationDocumentModel$Scope,boolean)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	0
+org/xwiki/store/filesystem/internal/DefaultFilesystemStoreTools/getDeletedAttachmentDir(com.xpn.xwiki.doc.XWikiAttachment,java.util.Date)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/tag/TagQueryUtils/getDocumentsWithTag(java.lang.String,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	2
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentStore/saveAttachmentsContent(java.util.List,com.xpn.xwiki.doc.XWikiDocument,boolean,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	1

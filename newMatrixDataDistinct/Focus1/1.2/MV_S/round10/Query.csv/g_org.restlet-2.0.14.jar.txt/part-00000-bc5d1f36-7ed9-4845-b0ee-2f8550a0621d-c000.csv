@@ -1,0 +1,4 @@
+org/xml/sax/SAXParseException/getPublicId()
+java/lang/StringBuilder/append(int)
+org/xml/sax/SAXParseException/getSystemId()
+org/xml/sax/SAXParseException/getLocalizedMessage()

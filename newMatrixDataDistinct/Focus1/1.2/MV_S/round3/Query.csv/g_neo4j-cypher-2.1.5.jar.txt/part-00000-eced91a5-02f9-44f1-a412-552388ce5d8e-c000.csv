@@ -1,0 +1,4 @@
+scala/Some/x()
+java/lang/Object/equals(java.lang.Object)
+scala/Predef$/wrapRefArray(java.lang.Object[])
+scala/StringContext/StringContext(scala.collection.Seq)

@@ -1,0 +1,4 @@
+org/apache/trevni/InputBuffer/readInt()
+org/apache/trevni/OutputBuffer/OutputBuffer()
+org/apache/trevni/TestUtil/createRandom()
+java/util/Random/nextInt()

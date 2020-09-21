@@ -1,0 +1,5 @@
+com/netflix/servo/publish/JmxMetricPoller/individuallyLoadAttributes(javax.management.MBeanServerConnection,javax.management.ObjectName,java.util.List)@g_servo-core-0.7.4.jar.txt	1
+com/netflix/servo/monitor/StatsMonitor/getGaugeWrappers(com.netflix.servo.stats.StatsConfig)@g_servo-core-0.7.4.jar.txt	3
+com/netflix/servo/jsr166e/ForkJoinPool/invokeAll(java.util.Collection)@g_servo-core-0.7.4.jar.txt	2
+com/netflix/servo/publish/JmxMetricPoller/poll(com.netflix.servo.publish.MetricFilter,boolean)@g_servo-core-0.7.4.jar.txt	0
+com/netflix/servo/jmx/JmxMonitorRegistry/unregister(com.netflix.servo.monitor.Monitor)@g_servo-core-0.7.4.jar.txt	4

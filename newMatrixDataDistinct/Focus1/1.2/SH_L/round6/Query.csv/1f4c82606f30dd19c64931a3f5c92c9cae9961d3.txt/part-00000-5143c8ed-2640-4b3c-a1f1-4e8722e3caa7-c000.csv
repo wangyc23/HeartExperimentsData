@@ -1,0 +1,4 @@
+com/example/restapp/business/DummyBean/DummyBean()
+javax/ws/rs/client/WebTarget/request()
+javax/ws/rs/client/Entity/json(T)
+com/example/restapp/business/DummyBean/getId()

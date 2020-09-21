@@ -1,0 +1,5 @@
+com/ning/http/client/async/AsyncProvidersBasicTest/asyncDoPostBodyIsoTest()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	4
+com/ning/http/client/async/RC10KTest/MyAsyncHandler/onBodyPartReceived(com.ning.http.client.HttpResponseBodyPart)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	0
+org/javaee7/websocket/endpoint/programmatic/async/MyApplicationConfig/getAnnotatedEndpointClasses(java.util.Set)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	2
+com/ning/http/client/providers/netty/NettyAsyncHttpProvider/configureNetty()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	1
+com/ning/http/client/websocket/TextMessageTest/onTimeoutCloseTest()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	3

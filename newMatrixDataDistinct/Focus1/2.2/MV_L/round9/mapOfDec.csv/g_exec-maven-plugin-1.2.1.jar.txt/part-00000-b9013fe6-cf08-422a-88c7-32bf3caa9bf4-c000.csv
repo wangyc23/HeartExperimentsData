@@ -1,0 +1,5 @@
+org/codehaus/mojo/exec/ExecMojo/computeClasspath(org.codehaus.mojo.exec.Classpath)@g_exec-maven-plugin-1.4.0.jar.txt	2
+org/apache/maven/plugin/war/overlay/OverlayManager/getOverlaysAsArtifacts()@g_maven-war-plugin-2.1.1.jar.txt	3
+org/codehaus/mojo/exec/ExecJavaMojo/addRelevantPluginDependenciesToClasspath(java.util.List)@g_exec-maven-plugin-1.4.0.jar.txt	1
+org/apache/maven/plugin/war/overlay/OverlayManager/initialize(java.lang.String,java.lang.String,org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.1.1.jar.txt	4
+org/codehaus/mojo/exec/ExecJavaMojo/addRelevantProjectDependenciesToClasspath(java.util.List)@g_exec-maven-plugin-1.4.0.jar.txt	0

@@ -1,0 +1,5 @@
+com/sun/tools/xjc/reader/xmlschema/SimpleTypeBuilder/buildCEnumConstants(com.sun.xml.xsom.XSRestrictionSimpleType,boolean,java.util.Map,com.sun.xml.xsom.XSFacet[])@g_jaxb-xjc-2.2.2.jar.txt	1
+com/sun/tools/xjc/reader/internalizer/NamespaceContextImpl/getNamespaceURI(java.lang.String)@g_jaxb-xjc-2.2.2.jar.txt	3
+com/sun/tools/xjc/util/MimeTypeRange/toString()@g_jaxb-xjc-2.2.2.jar.txt	2
+com/sun/codemodel/writer/ZipCodeWriter/toDirName(com.sun.codemodel.JPackage)@g_jaxb-xjc-2.2.2.jar.txt	4
+com/sun/xml/xsom/impl/util/SchemaWriter/attributeUse(com.sun.xml.xsom.XSAttributeUse)@g_jaxb-xjc-2.2.2.jar.txt	0

@@ -1,0 +1,4 @@
+java/util/Vector/remove(int)
+java/util/concurrent/Semaphore/acquire()
+java/util/concurrent/Semaphore/availablePermits()
+java/util/logging/Logger/severe(java.lang.String)

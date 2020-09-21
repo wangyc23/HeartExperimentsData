@@ -1,0 +1,4 @@
+org/apache/maven/surefire/cli/CommandLineOption/fromStrings(java.util.Collection)
+org/apache/maven/surefire/testset/TestListResolver/TestListResolver(java.lang.String)
+org/apache/maven/surefire/testset/DirectoryScannerParameters/DirectoryScannerParameters(java.io.File,java.util.List,java.util.List,java.util.List,boolean,java.lang.String)
+org/apache/maven/surefire/booter/Shutdown/valueOf(java.lang.String)

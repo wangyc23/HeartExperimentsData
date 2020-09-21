@@ -1,0 +1,4 @@
+java/lang/Character/toLowerCase(char)
+java/lang/Character/isLetterOrDigit(char)
+java/lang/StringBuffer/append(char)
+java/lang/StringBuffer/append(java.lang.Object)

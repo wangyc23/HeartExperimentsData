@@ -1,0 +1,5 @@
+org/apache/cxf/transport/https/CertConstraintsInterceptor/handleMessage(org.apache.cxf.message.Message)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/transport/http/HTTPConduit/convertToAbsoluteUrlIfNeeded(java.lang.String,java.lang.String,java.lang.String,org.apache.cxf.message.Message)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	1
+org/apache/cxf/transport/http/auth/AbstractSpnegoAuthSupplier/getAuthorization(org.apache.cxf.configuration.security.AuthorizationPolicy,java.net.URI,org.apache.cxf.message.Message)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/transport/http/HTTPConduit/checkAllowedRedirectUri(java.lang.String,java.lang.String,java.lang.String,org.apache.cxf.message.Message)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	0
+org/apache/cxf/jaxrs/impl/MediaTypeHeaderProvider/handleMediaTypeWithoutSubtype(java.lang.String)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	3

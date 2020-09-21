@@ -1,0 +1,5 @@
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/processTableColumns(java.sql.DatabaseMetaData,org.springframework.jdbc.core.metadata.GenericTableMetaDataProvider$TableMetaData)@g_spring-2.5.6.jar.txt	1
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	0
+org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor/determineCandidateConstructors(java.lang.Class,java.lang.String)@g_spring-2.5.6.jar.txt	2
+org/springframework/jdbc/core/simple/AbstractJdbcCall/executeCallInternal(java.util.Map)@g_spring-2.5.6.jar.txt	3
+org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor/postProcessBeforeDestruction(java.lang.Object,java.lang.String)@g_spring-2.5.6.jar.txt	4

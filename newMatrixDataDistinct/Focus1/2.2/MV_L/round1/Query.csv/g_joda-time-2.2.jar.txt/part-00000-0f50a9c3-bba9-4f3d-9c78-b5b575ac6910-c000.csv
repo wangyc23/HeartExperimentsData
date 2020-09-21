@@ -1,0 +1,4 @@
+java/util/Collection/size()
+java/util/Set/contains(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

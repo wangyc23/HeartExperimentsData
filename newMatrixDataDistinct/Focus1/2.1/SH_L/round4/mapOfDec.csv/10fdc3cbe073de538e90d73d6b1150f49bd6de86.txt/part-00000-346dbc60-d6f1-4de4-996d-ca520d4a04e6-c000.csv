@@ -1,0 +1,5 @@
+net/dubboclub/dubbogenerator/reference/DubboClientWrapper/getInvokeHandler(java.lang.Class,java.lang.String)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	4
+com/waimai/ops/utils/CommonUtil/getParamtersUrlPatten(java.util.Map,java.lang.String)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	0
+net/dubboclub/netty4/help/RegistryFactoryNetty4Wrapper/RegistryWrapper/lookup(net.dubboclub.cache.memcache.URL)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	2
+net/dubboclub/cache/AbstractCache/generateCacheKey(java.lang.Object)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	3
+net/dubboclub/restful/util/ClassUtils/caseBasicType(java.lang.Class,java.lang.String)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	1

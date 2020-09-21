@@ -1,0 +1,4 @@
+java/lang/StringBuilder/StringBuilder()
+org/apache/parquet/io/MessageColumnIO$MessageColumnIORecordConsumer/log(java.lang.Object,java.lang.Object[])
+org/apache/parquet/io/MessageColumnIO$MessageColumnIORecordConsumer$FieldsMarker/isWritten(int)
+java/lang/StringBuilder/append(java.lang.Object)

@@ -1,0 +1,5 @@
+0	com/kodcu/rapid/config/DockerClient/resource()
+1	com/kodcu/rapid/util/Networking/postResponse(com.kodcu.rapid.util.WebTarget)
+2	java/io/StringReader/StringReader(java.lang.String)
+3	org/javaee7/websocket/client/programmatic/encoders/MyMessage/MyMessage(java.lang.String)
+4	java/util/Objects/nonNull(java.lang.Object)

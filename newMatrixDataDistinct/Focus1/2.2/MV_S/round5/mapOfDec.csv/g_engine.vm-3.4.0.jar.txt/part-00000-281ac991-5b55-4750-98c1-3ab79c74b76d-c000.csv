@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/core/AliasMapper/initAliases(java.io.InputStream)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/internal/resolver/StateImpl/addDisabledInfo(org.eclipse.osgi.service.resolver.DisabledInfo)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/osgi/internal/module/ResolverImpl/selectSingletons(org.eclipse.osgi.internal.module.ResolverBundle[])@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/framework/internal/protocol/StreamHandlerFactory/createInternalURLStreamHandler(java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/core/runtime/adaptor/EclipseStarter/logUnresolvedBundles(org.osgi.framework.Bundle[])@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3

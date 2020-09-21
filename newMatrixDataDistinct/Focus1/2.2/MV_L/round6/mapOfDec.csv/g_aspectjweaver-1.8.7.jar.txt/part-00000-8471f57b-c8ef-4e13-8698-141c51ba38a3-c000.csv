@@ -1,0 +1,5 @@
+org/aspectj/weaver/tools/cache/SimpleCache/StoreableCachingMap/readFromPath(java.lang.String)@g_aspectjweaver-1.8.4.jar.txt	1
+org/aspectj/asm/AsmManager/readStructureModel(java.lang.String)@g_aspectjweaver-1.8.5.jar.txt	2
+org/aspectj/asm/AsmManager/readStructureModel(java.lang.String)@g_aspectjweaver-1.8.4.jar.txt	4
+org/aspectj/weaver/tools/cache/ZippedFileCacheBacking/readZipClassBytes(java.io.File)@g_aspectjweaver-1.8.5.jar.txt	3
+org/aspectj/weaver/tools/cache/SimpleCache/StoreableCachingMap/readFromPath(java.lang.String)@g_aspectjweaver-1.8.5.jar.txt	0

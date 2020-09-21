@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/wadl/internal/WadlApplicationContextImpl/getApplication(javax.ws.rs.core.UriInfo,org.glassfish.jersey.server.model.Resource,boolean)@g_jersey-server-2.25.1.jar.txt	4
+org/glassfish/jersey/server/wadl/internal/WadlBuilder/processRequestParameters(org.glassfish.jersey.server.model.Resource,org.glassfish.jersey.server.model.ResourceMethod,java.util.Map,java.util.Collection,com.sun.research.ws.wadl.Request)@g_jersey-server-2.25.1.jar.txt	3
+org/glassfish/jersey/server/internal/inject/WebTargetValueFactoryProvider/2/1/get()@g_jersey-server-2.25.1.jar.txt	2
+org/glassfish/jersey/server/ResourceConfig/scanClasses()@g_jersey-server-2.25.1.jar.txt	0
+org/glassfish/jersey/server/ApplicationHandler/createApplication(java.lang.Class,org.glassfish.jersey.internal.util.collection.Value)@g_jersey-server-2.25.1.jar.txt	1

@@ -1,0 +1,4 @@
+org/jsoup/Jsoup/parse(java.lang.String)
+java/io/IOException/IOException(java.lang.String,java.lang.Throwable)
+java/util/HashMap/put(K,V)
+java/lang/String/length()

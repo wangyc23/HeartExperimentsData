@@ -1,0 +1,5 @@
+org/opentripplanner/analyst/batch/CSVPopulationTest/testNoCoordinateTransform()@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	0
+com/google/transit/realtime/GtfsRealtime/TimeRange/newBuilder()@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	4
+org/opentripplanner/graph_builder/impl/EntityReplacementStrategyImpl/getReplacementEntityId(java.lang.Class,java.io.Serializable)@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	3
+org/opentripplanner/api/adapters/TripAdapter/unmarshal(org.opentripplanner.api.adapters.TripType)@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	2
+org/opentripplanner/analyst/batch/CSVPopulationTest/testCoordinateTransform()@20d031627d820ba221e6e22e16876ebfc2f2e5aa.txt	1

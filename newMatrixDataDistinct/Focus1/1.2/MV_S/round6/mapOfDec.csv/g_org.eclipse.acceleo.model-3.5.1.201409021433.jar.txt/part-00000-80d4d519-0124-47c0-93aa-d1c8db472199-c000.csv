@@ -1,0 +1,5 @@
+org/eclipse/acceleo/model/mtl/resource/AcceleoXMIURIHandler/deresolve(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.model-3.5.0-SNAPSHOT.jar.txt	0
+org/eclipse/acceleo/parser/compiler/AcceleoCompilerHelper/createOutputFiles(java.util.List)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	2
+org/eclipse/acceleo/internal/parser/compiler/AcceleoProject/getURIDependency(java.lang.String)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	3
+org/eclipse/acceleo/parser/compiler/AcceleoCompilerHelper/computeJarDependencies(java.util.List,java.util.Map)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	4
+org/eclipse/acceleo/model/mtl/resource/AcceleoXMIURIHandler/resolve(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.model-3.5.0-SNAPSHOT.jar.txt	1

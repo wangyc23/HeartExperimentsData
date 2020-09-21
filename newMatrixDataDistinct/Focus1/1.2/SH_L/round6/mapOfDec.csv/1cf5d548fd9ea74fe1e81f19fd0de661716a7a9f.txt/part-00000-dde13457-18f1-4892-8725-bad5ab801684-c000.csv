@@ -1,0 +1,5 @@
+ro/isdc/wro/extensions/model/factory/TestJsonModelFactory/testInvalidStream()@2d10bd536f35e90668f8066122990bee3b559dec.txt	2
+ro/isdc/wro/model/factory/XmlModelFactory/parseGroup(org.w3c.dom.Element,java.util.Collection)@2d10bd536f35e90668f8066122990bee3b559dec.txt	0
+ro/isdc/wro/model/group/processor/TestInjector/shouldInjectDecoratedProcessor()@2d10bd536f35e90668f8066122990bee3b559dec.txt	3
+ro/isdc/wro/util/WroUtil/getPathInfoFromLocation(java.lang.String)@2d10bd536f35e90668f8066122990bee3b559dec.txt	1
+ro/isdc/wro/model/resource/processor/impl/MultiLineCommentStripperProcessor/process(ro.isdc.wro.model.resource.Resource,java.io.Reader,java.io.Writer)@2d10bd536f35e90668f8066122990bee3b559dec.txt	4

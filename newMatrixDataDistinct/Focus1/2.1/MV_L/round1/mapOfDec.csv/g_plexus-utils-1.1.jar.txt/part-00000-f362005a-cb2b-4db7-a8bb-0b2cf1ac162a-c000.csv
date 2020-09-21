@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/ExceptionUtils/getStackFrameList(java.lang.Throwable)@g_plexus-utils-1.0.4.jar.txt	2
+org/codehaus/plexus/util/ExceptionUtils/getStackFrameList(java.lang.Throwable)@g_plexus-utils-1.4.6.jar.txt	4
+org/codehaus/plexus/util/introspection/ReflectionValueExtractor/evaluate(java.lang.String,java.lang.Object)@g_plexus-utils-1.0.4.jar.txt	0
+org/codehaus/plexus/util/Expand/resolveFile(java.io.File,java.lang.String)@g_plexus-utils-1.0.4.jar.txt	3
+org/codehaus/plexus/util/Expand/normalize(java.lang.String)@g_plexus-utils-1.0.4.jar.txt	1

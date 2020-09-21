@@ -1,0 +1,5 @@
+com/yahoo/ycsb/workloads/CoreWorkload/doTransactionScan(com.yahoo.ycsb.DB)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	4
+com/yahoo/ycsb/workloads/CoreWorkload/doTransactionReadModifyWrite(com.yahoo.ycsb.DB)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	2
+com/yahoo/ycsb/workloads/CoreWorkload/doTransaction(com.yahoo.ycsb.DB,java.lang.Object)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	0
+com/yahoo/ycsb/workloads/CoreWorkload/doTransactionRead(com.yahoo.ycsb.DB)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	3
+com/yahoo/ycsb/workloads/CoreWorkload/doTransactionUpdate(com.yahoo.ycsb.DB)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	1

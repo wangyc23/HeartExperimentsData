@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/CypherCompiler/calculatePlanner(scala.Option,scala.collection.Seq,org.neo4j.cypher.CypherVersion)@g_neo4j-cypher-2.2.5.jar.txt	0
+org/neo4j/cypher/internal/compiler/v1_9/commands/Query/compact()@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v1_9/pipes/matching/VariableLengthPatternRelationship/getGraphRelationships(org.neo4j.cypher.internal.compiler.v1_9.pipes.matching.PatternNode,org.neo4j.graphdb.Node,org.neo4j.cypher.internal.compiler.v1_9.spi.QueryContext)@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	2
+org/neo4j/cypher/internal/compiler/v1_9/pipes/matching/SingleStepTrail/decompose(scala.collection.Seq,scala.collection.immutable.Map)@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	3
+org/neo4j/cypher/internal/CypherCompiler/calculatePlannerDeprecated(scala.collection.Seq,org.neo4j.cypher.CypherVersion)@g_neo4j-cypher-2.2.5.jar.txt	1

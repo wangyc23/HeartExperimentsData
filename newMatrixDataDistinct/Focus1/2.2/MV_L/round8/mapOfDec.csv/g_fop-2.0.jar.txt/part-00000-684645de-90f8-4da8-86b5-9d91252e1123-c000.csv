@@ -1,0 +1,5 @@
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_fop-1.1.jar.txt	1
+org/apache/fop/layoutmgr/inline/LineLayoutManager/collectInlineKnuthElements(org.apache.fop.layoutmgr.LayoutContext)@g_fop-1.1.jar.txt	2
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_fop-1.1.jar.txt	0
+org/apache/fop/svg/PDFGraphics2D/draw(java.awt.Shape)@g_fop-1.1.jar.txt	4
+org/springframework/beans/factory/support/BeanDefinitionValueResolver/resolveInnerBean(java.lang.Object,java.lang.String,org.springframework.beans.factory.config.BeanDefinition)@g_fop-1.1.jar.txt	3

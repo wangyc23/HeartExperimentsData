@@ -1,0 +1,5 @@
+io/druid/query/groupby/having/LessThanHavingSpec/getCacheKey()@2d073997706a5d2d60ff0442ebad5475defbf357.txt	2
+io/druid/query/aggregation/hyperloglog/HyperLogLogCollectorTest/shiftedBuffer(java.nio.ByteBuffer,int)@2d073997706a5d2d60ff0442ebad5475defbf357.txt	0
+io/druid/query/extraction/PartialDimExtractionFn/getCacheKey()@2d073997706a5d2d60ff0442ebad5475defbf357.txt	3
+io/druid/query/extraction/RegexDimExtractionFn/getCacheKey()@2d073997706a5d2d60ff0442ebad5475defbf357.txt	4
+io/druid/query/aggregation/hyperloglog/HyperLogLogCollectorBenchmark/allocateEmptyHLLBuffer(boolean,boolean,int)@2d073997706a5d2d60ff0442ebad5475defbf357.txt	1

@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/shingle/ShingleFilter/incrementToken()@g_lucene-analyzers-common-7.0.0.jar.txt	3
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/unhyphenate()@g_lucene-analyzers-common-7.0.0.jar.txt	1
+org/apache/lucene/analysis/shingle/ShingleFilter/incrementToken()@g_lucene-analyzers-common-6.6.0.jar.txt	2
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/unhyphenate()@g_lucene-analyzers-common-6.6.0.jar.txt	0
+org/apache/lucene/analysis/miscellaneous/WordDelimiterGraphFilter/incrementToken()@g_lucene-analyzers-common-6.6.0.jar.txt	4

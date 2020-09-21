@@ -1,0 +1,5 @@
+freemarker/template/utility/DOMNodeModel/get(java.lang.String)@g_freemarker-2.3.22.jar.txt	4
+org/apache/commons/jxpath/ri/model/dom/DOMNodePointer/getNamespaceURI(java.lang.String)@g_commons-jxpath-1.3.jar.txt	0
+org/apache/commons/jxpath/ri/model/dom/DOMNodePointer/getNamespaceURI(org.w3c.dom.Node)@g_commons-jxpath-1.3.jar.txt	2
+org/apache/commons/jxpath/ri/model/dom/DOMNodePointer/setValue(java.lang.Object)@g_commons-jxpath-1.3.jar.txt	1
+freemarker/ext/dom/NodeModel/get(java.lang.String)@g_freemarker-2.3.22.jar.txt	3

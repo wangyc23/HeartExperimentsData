@@ -1,0 +1,5 @@
+org/apache/avro/specific/TestSpecificRecordBuilder/testBuilderPerformance()@g_avro-ipc-1.7.7-tests.jar.txt	0
+org/apache/avro/ipc/TestNettyServerWithCallbacks/error()@g_avro-ipc-1.7.7-tests.jar.txt	2
+org/apache/avro/TestSchema/checkDefault(java.lang.String,java.lang.String,java.lang.Object)@g_avro-ipc-1.7.7-tests.jar.txt	4
+org/apache/avro/ipc/TestNettyServerWithCallbacks/performanceTest()@g_avro-ipc-1.7.7-tests.jar.txt	3
+org/apache/avro/generic/TestDeepCopy/testDeepCopy()@g_avro-ipc-1.7.7-tests.jar.txt	1

@@ -1,0 +1,7 @@
+0	java/lang/Class/getSimpleName()
+1	org/wicketstuff/config/MatchingResources/toString()
+2	java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)
+3	java/lang/Object/getClass()
+4	java/lang/RuntimeException/RuntimeException(java.lang.String)
+5	java/util/Map/containsKey(java.lang.Object)
+6	org/wicketstuff/security/hive/config/HiveFactory/createHive()

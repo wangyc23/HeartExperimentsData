@@ -1,0 +1,5 @@
+org/eclipse/jetty/io/ManagedSelector/processConnect(java.nio.channels.SelectionKey,org.eclipse.jetty.io.ManagedSelector$Connect)@g_jetty-io-9.3.8.v20160314.jar.txt	3
+org/eclipse/jetty/io/ssl/SslConnection/DecryptedEndPoint/flush(java.nio.ByteBuffer[])@g_jetty-io-9.3.8.v20160314.jar.txt	4
+org/eclipse/jetty/io/FillInterest/register(org.eclipse.jetty.util.Callback)@g_jetty-io-9.3.8.v20160314.jar.txt	2
+org/eclipse/jetty/io/ManagedSelector/CloseEndPoints/run()@g_jetty-io-9.3.8.v20160314.jar.txt	1
+org/eclipse/jetty/io/ssl/SslConnection/DecryptedEndPoint/1/succeeded()@g_jetty-io-9.3.8.v20160314.jar.txt	0

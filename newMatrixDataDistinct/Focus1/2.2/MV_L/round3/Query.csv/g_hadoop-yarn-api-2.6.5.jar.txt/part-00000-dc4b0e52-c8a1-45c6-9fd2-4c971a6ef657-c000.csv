@@ -1,0 +1,4 @@
+org/apache/hadoop/yarn/proto/YarnProtos$ContainerReportProto/ContainerReportProto(com.google.protobuf.GeneratedMessage$Builder,org.apache.hadoop.yarn.proto.YarnProtos$1)
+org/apache/hadoop/yarn/proto/YarnProtos$ContainerReportProto/access$11102(org.apache.hadoop.yarn.proto.YarnProtos$ContainerReportProto,int)
+org/apache/hadoop/yarn/proto/YarnProtos$ContainerReportProto/access$10502(org.apache.hadoop.yarn.proto.YarnProtos$ContainerReportProto,org.apache.hadoop.yarn.proto.YarnProtos$NodeIdProto)
+org/apache/hadoop/yarn/proto/YarnProtos$ContainerReportProto/access$11402(org.apache.hadoop.yarn.proto.YarnProtos$ContainerReportProto,int)

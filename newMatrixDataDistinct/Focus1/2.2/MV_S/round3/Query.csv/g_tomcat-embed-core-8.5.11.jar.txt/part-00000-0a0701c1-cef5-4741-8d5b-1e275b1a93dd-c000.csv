@@ -1,0 +1,4 @@
+java/io/StringWriter/getBuffer()
+org/apache/juli/OneLineFormatter/formatMessage(java.util.logging.LogRecord)
+java/util/logging/Level/getLocalizedName()
+java/lang/Thread/getName()

@@ -1,0 +1,5 @@
+weka/core/packageManagement/DefaultPackageManager/installAdditionalLibs(java.lang.String,java.lang.String[],java.io.PrintStream[])@g_weka-dev-3.9.1.jar.txt	1
+weka/core/WekaPackageManager/establishWekaHome()@g_weka-dev-3.9.1.jar.txt	2
+gate/util/reporting/PRTimeReporter/tail(java.io.File,int)@g_gate-core-8.1.jar.txt	3
+gate/gui/MainFrame/8/actionPerformed(java.awt.event.ActionEvent)@g_gate-core-8.1.jar.txt	4
+gate/gui/MainFrame/createSearchableDataStore()@g_gate-core-8.1.jar.txt	0

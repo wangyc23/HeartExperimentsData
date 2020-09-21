@@ -1,0 +1,5 @@
+org/neo4j/helpers/collection/LruCache/resize(int)@g_neo4j-collections-3.3.0.jar.txt	3
+org/neo4j/helpers/collection/MapUtil/store(java.util.Map,java.io.OutputStream)@g_neo4j-collections-3.3.0.jar.txt	4
+org/jooq/util/maven/Plugin/getClassLoader()@g_jooq-codegen-maven-3.7.1.jar.txt	2
+org/neo4j/helpers/collection/CachingIterator/position(int)@g_neo4j-collections-3.3.0.jar.txt	0
+org/jooq/util/maven/HelpMojo/execute()@g_jooq-codegen-maven-3.7.1.jar.txt	1

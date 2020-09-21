@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/isEmpty()
+java/lang/Boolean/valueOf(boolean)
+java/lang/reflect/Method/getDeclaringClass()

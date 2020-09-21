@@ -1,0 +1,5 @@
+jline/internal/Configuration/loadProperties(java.net.URL,java.util.Properties)@g_jline-2.12.jar.txt	0
+jline/console/ConsoleReader/printColumns(java.util.Collection)@g_jline-2.12.jar.txt	1
+jline/console/completer/AggregateCompleter/complete(java.lang.String,int,java.util.List)@g_jline-2.12.jar.txt	4
+jline/console/completer/StringsCompleter/complete(java.lang.String,int,java.util.List)@g_jline-2.12.jar.txt	3
+jline/console/completer/CandidateListCompletionHandler/printCandidates(jline.console.ConsoleReader,java.util.Collection)@g_jline-2.12.jar.txt	2

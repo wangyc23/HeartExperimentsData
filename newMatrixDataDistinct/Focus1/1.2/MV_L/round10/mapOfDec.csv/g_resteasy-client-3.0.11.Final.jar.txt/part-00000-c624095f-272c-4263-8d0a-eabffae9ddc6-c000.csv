@@ -1,0 +1,5 @@
+org/jboss/resteasy/client/cache/CacheInterceptor/cacheIfPossible(org.jboss.resteasy.client.ClientRequest,org.jboss.resteasy.client.core.BaseClientResponse)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	0
+org/jboss/resteasy/client/cache/CacheInterceptor/updateOnNotModified(org.jboss.resteasy.client.ClientRequest,org.jboss.resteasy.client.cache.BrowserCache$Entry,org.jboss.resteasy.client.core.BaseClientResponse)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	1
+org/jboss/resteasy/client/jaxrs/ProxyBuilder/createClientInvoker(java.lang.Class,java.lang.reflect.Method,org.jboss.resteasy.client.jaxrs.ResteasyWebTarget,org.jboss.resteasy.client.jaxrs.ProxyConfig)@g_spring-security-crypto-4.0.3.RELEASE.jar.txt	4
+org/jboss/resteasy/client/core/extractors/ClientResponseProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-security-crypto-4.0.3.RELEASE.jar.txt	2
+org/jboss/resteasy/util/AcceptParser/parseCharset(java.lang.String)@g_spring-security-crypto-4.0.3.RELEASE.jar.txt	3

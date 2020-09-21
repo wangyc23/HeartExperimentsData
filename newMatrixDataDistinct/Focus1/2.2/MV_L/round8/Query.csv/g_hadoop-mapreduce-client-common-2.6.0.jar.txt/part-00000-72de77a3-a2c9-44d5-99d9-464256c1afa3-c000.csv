@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/v2/proto/MRProtos$CounterGroupProto/getCountersList()
+com/google/protobuf/GeneratedMessage/equals(java.lang.Object)
+java/lang/Object/equals(java.lang.Object)
+org/apache/hadoop/mapreduce/v2/proto/MRProtos$CounterGroupProto/getUnknownFields()

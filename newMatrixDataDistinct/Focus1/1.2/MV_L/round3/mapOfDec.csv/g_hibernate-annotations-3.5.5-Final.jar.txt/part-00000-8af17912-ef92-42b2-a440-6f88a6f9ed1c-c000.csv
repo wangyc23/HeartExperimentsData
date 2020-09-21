@@ -1,0 +1,5 @@
+org/hibernate/ejb/util/PersistenceUtilHelper/get(java.lang.Object,java.lang.String,org.hibernate.ejb.util.PersistenceUtilHelper$MetadataCache)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	4
+org/hibernate/ejb/AbstractEntityManagerImpl/createNamedQuery(java.lang.String,java.lang.Class)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	3
+org/hibernate/ejb/AbstractEntityManagerImpl/joinTransaction(boolean)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	0
+org/hibernate/ejb/AbstractEntityManagerImpl/joinTransaction(boolean)@g_hibernate-entitymanager-3.6.10.Final.jar.txt	1
+org/hibernate/ejb/packaging/NativeScanner/getFilesInJar(java.net.URL,java.util.Set)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	2

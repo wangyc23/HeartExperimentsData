@@ -1,0 +1,5 @@
+org/xwiki/webjars/internal/FilesystemResourceReferenceSerializer/copyResourceFromJAR(java.lang.String,java.lang.String,java.lang.String,org.xwiki.url.filesystem.FilesystemExportContext)@g_xwiki-platform-store-filesystem-7.4.jar.txt	1
+org/xwiki/store/FileSaveTransactionRunnable/onRun()@g_xwiki-platform-store-filesystem-7.4.jar.txt	3
+org/xwiki/store/serialization/xml/internal/XMLWriter/writeBase64(org.dom4j.Element,java.io.InputStream)@g_xwiki-platform-store-filesystem-7.4.jar.txt	4
+org/xwiki/webjars/script/WebJarsScriptService/getResourceReference(java.lang.String,java.lang.Object,java.lang.String,java.util.Map)@g_xwiki-platform-store-filesystem-7.4.jar.txt	2
+org/xwiki/webjars/script/WebJarsScriptService/url(java.lang.String,java.lang.String,java.util.Map)@g_xwiki-platform-store-filesystem-7.4.jar.txt	0

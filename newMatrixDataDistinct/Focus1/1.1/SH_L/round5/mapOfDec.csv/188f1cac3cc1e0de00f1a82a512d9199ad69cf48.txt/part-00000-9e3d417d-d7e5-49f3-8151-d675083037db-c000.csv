@@ -1,0 +1,5 @@
+org/commoncrawl/warc/WARCFileRecordReader/initialize(org.apache.hadoop.mapreduce.InputSplit,org.apache.hadoop.mapreduce.TaskAttemptContext)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	3
+eu/scape_project/archiventory/Archiventory/createContainer(java.io.InputStream,java.lang.String)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	1
+eu/scape_project/archiventory/output/SimpleKeyValueOutputWriter/write(java.util.HashMap,org.apache.hadoop.mapreduce.lib.output.MultipleOutputs)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	2
+eu/scape_project/archiventory/container/TestContainer/createTempTestFile(java.lang.String)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	0
+org/commoncrawl/examples/mapreduce/TagCounterMap/TagCounterMapper/map(org.apache.hadoop.io.Text,org.archive.io.ArchiveReader,org.apache.hadoop.mapreduce.Mapper.Context)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	4

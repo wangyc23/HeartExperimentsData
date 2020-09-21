@@ -1,0 +1,4 @@
+org/junit/Assert/assertFalse(boolean)
+org/mockito/Mockito/spy(java.lang.Object)
+com/netflix/zuul/exception/ZuulException/getMessage()
+org/mockito/Mockito/when(java.lang.Object)

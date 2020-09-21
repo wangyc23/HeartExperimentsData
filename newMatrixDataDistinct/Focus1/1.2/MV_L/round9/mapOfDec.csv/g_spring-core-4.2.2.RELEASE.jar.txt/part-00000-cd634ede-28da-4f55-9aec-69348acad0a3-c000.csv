@@ -1,0 +1,5 @@
+org/springframework/core/SpringProperties/<clinit>()@g_spring-core-4.1.8.RELEASE.jar.txt	2
+org/springframework/core/annotation/AnnotationUtils/logIntrospectionFailure(java.lang.reflect.AnnotatedElement,java.lang.Exception)@g_spring-core-4.1.8.RELEASE.jar.txt	3
+org/springframework/core/io/support/PropertiesLoaderSupport/loadProperties(java.util.Properties)@g_spring-core-4.1.7.RELEASE.jar.txt	1
+org/springframework/core/io/support/PropertiesLoaderSupport/loadProperties(java.util.Properties)@g_spring-core-4.1.8.RELEASE.jar.txt	0
+org/springframework/core/SpringProperties/<clinit>()@g_spring-core-4.1.7.RELEASE.jar.txt	4

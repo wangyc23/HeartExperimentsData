@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/charfilter/HTMLStripCharFilter/<clinit>()@g_lucene-analyzers-common-4.9.1.jar.txt	3
+org/apache/lucene/analysis/wikipedia/WikipediaTokenizer/collapseTokens(int)@g_lucene-analyzers-common-4.9.1.jar.txt	1
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseStep(java.io.LineNumberReader,java.lang.String)@g_lucene-analyzers-common-4.9.1.jar.txt	0
+org/apache/lucene/analysis/hunspell/Dictionary/readAffixFile(java.io.InputStream,java.nio.charset.CharsetDecoder)@g_lucene-analyzers-common-4.9.1.jar.txt	2
+org/apache/lucene/analysis/hunspell/HunspellDictionary/parseAffix(org.apache.lucene.analysis.CharArrayMap,java.lang.String,java.io.BufferedReader,java.lang.String)@g_lucene-analyzers-common-4.9.1.jar.txt	4

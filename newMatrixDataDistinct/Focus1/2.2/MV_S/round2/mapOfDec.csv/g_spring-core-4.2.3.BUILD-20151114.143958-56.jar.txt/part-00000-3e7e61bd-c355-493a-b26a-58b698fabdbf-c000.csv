@@ -1,0 +1,5 @@
+org/springframework/cglib/util/ParallelSorter/Generator/generateClass(org.springframework.asm.ClassVisitor)@g_spring-core-4.2.3.BUILD-20151114.225414-58.jar.txt	4
+org/springframework/cglib/transform/impl/AddDelegateTransformer/addDelegate(java.lang.reflect.Method)@g_spring-core-4.2.3.BUILD-20151114.225414-58.jar.txt	2
+org/springframework/core/env/SimpleCommandLineArgsParser/parse(java.lang.String[])@g_spring-core-4.2.3.BUILD-SNAPSHOT.jar.txt	1
+org/springframework/core/env/SimpleCommandLineArgsParser/parse(java.lang.String[])@g_spring-core-4.2.3.BUILD-20151114.225414-58.jar.txt	0
+org/springframework/cglib/core/EmitUtils/push_object(org.springframework.cglib.core.CodeEmitter,java.lang.Object)@g_spring-core-4.2.3.BUILD-20151114.225414-58.jar.txt	3

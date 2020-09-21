@@ -1,0 +1,5 @@
+com/thoughtworks/xstream/converters/ConversionException/getMessage()@g_xstream-1.4.2.jar.txt	1
+com/thoughtworks/xstream/converters/ConversionException/getMessage()@g_xstream-1.3.1.jar.txt	0
+com/thoughtworks/xstream/converters/reflection/AbstractAttributedCharacterIteratorAttributeConverter/readResolve()@g_xstream-1.3.1.jar.txt	4
+com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider/visitSerializableFields(java.lang.Object,com.thoughtworks.xstream.converters.reflection.ReflectionProvider$Visitor)@g_xstream-1.3.1.jar.txt	2
+com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter/doUnmarshal(java.lang.Object,com.thoughtworks.xstream.io.HierarchicalStreamReader,com.thoughtworks.xstream.converters.UnmarshallingContext)@g_xstream-1.3.1.jar.txt	3

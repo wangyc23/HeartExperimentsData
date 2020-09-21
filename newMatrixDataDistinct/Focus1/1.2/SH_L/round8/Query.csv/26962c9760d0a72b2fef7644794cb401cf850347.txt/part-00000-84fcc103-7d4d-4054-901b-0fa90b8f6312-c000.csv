@@ -1,0 +1,4 @@
+java/util/Collections/singletonList(T)
+cucumber/runtime/rhino/RhinoBackend/RhinoBackend(cucumber.runtime.io.ResourceLoader)
+cucumber/runtime/rhino/RhinoBackend/loadGlue(cucumber.runtime.Glue,java.util.List)
+cucumber/runtime/rhino/RhinoHooksTest/assertHooks(cucumber.runtime.HookDefinition,cucumber.runtime.HookDefinition,java.lang.String[],int,long)

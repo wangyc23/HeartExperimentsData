@@ -1,0 +1,5 @@
+org/eclipse/xtext/xbase/lib/StringExtensions/toFirstUpper(java.lang.String)@g_org.eclipse.xtext.xbase.lib-2.10.0-SNAPSHOT.jar.txt	1
+org/eclipse/xtext/xbase/lib/util/ToStringBuilder/toSimpleReferenceString(java.lang.Object)@g_org.eclipse.xtext.xbase.lib-2.10.0-SNAPSHOT.jar.txt	0
+org/eclipse/xtext/xbase/lib/util/ReflectExtensions/invoke(java.lang.Object,java.lang.String,java.lang.Object[])@g_org.eclipse.xtext.xbase.lib-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtext/xbase/lib/util/ToStringBuilder/serializeIterable(java.lang.Iterable,org.eclipse.xtext.xbase.lib.util.ToStringBuilder$IndentationAwareStringBuilder)@g_org.eclipse.xtext.xbase.lib-2.10.0-SNAPSHOT.jar.txt	4
+org/eclipse/xtext/xbase/lib/StringExtensions/toFirstLower(java.lang.String)@g_org.eclipse.xtext.xbase.lib-2.10.0-SNAPSHOT.jar.txt	2

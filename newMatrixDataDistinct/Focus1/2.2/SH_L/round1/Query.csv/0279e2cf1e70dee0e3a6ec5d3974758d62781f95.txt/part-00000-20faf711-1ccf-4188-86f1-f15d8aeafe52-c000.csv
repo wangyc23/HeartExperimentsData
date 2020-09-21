@@ -1,0 +1,4 @@
+java/util/UUID/randomUUID()
+java/util/Date/Date()
+java/lang/System/currentTimeMillis()
+java/util/UUID/toString()

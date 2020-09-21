@@ -1,0 +1,5 @@
+org/apache/batik/svggen/SwingSVGPrettyPrint/printHack(javax.swing.JComponent,org.apache.batik.svggen.SVGGraphics2D)@g_batik-svggen-1.7.jar.txt	3
+org/apache/batik/svggen/SVGLookupOp/toSVG(java.awt.image.LookupOp)@g_batik-svggen-1.7.jar.txt	2
+org/apache/batik/svggen/SVGGraphics2D/stream(org.w3c.dom.Element,java.io.Writer,boolean,boolean)@g_batik-svggen-1.7.jar.txt	0
+org/apache/batik/svggen/SVGTexturePaint/toSVG(java.awt.TexturePaint)@g_batik-svggen-1.7.jar.txt	1
+org/apache/batik/svggen/SVGLinearGradient/toSVG(java.awt.GradientPaint)@g_batik-svggen-1.7.jar.txt	4

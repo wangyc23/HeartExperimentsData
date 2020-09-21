@@ -1,0 +1,5 @@
+com/sun/syndication/feed/impl/BeanIntrospector/getPDs(java.lang.reflect.Method[],boolean)@g_rome-0.9.jar.txt	1
+com/sun/syndication/io/impl/PluginManager/loadPlugins()@g_rome-0.9.jar.txt	3
+com/sun/syndication/feed/impl/BeanIntrospector/getPDs(java.lang.reflect.Method[],boolean)@g_rome-1.0.jar.txt	0
+com/sun/syndication/io/impl/PluginManager/loadPlugins()@g_rome-1.0.jar.txt	2
+com/sun/syndication/feed/impl/CloneableBean/cloneMap(java.util.Map)@g_rome-1.0.jar.txt	4

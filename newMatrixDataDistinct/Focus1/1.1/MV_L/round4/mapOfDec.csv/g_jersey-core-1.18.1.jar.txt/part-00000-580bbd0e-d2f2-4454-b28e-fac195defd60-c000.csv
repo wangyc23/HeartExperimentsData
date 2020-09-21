@@ -1,0 +1,5 @@
+com/sun/jersey/core/header/reader/CookiesParser/parseCookies(java.lang.String)@g_jersey-core-1.17.1.jar.txt	3
+com/sun/jersey/api/uri/UriTemplateParser/parseName(com.sun.jersey.api.uri.UriTemplateParser$CharacterIterator)@g_jersey-core-1.17.1.jar.txt	1
+com/sun/jersey/api/uri/UriTemplate/createURI(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.util.Map,boolean)@g_jersey-core-1.17.1.jar.txt	4
+com/sun/jersey/core/reflection/ReflectionHelper/resolveTypeVariable(java.lang.reflect.ParameterizedType,java.lang.Class,java.lang.Class,java.lang.reflect.TypeVariable,java.util.Map)@g_jersey-core-1.17.1.jar.txt	2
+com/sun/jersey/api/uri/UriTemplate/createURI(java.lang.String[],int,int)@g_jersey-core-1.17.1.jar.txt	0

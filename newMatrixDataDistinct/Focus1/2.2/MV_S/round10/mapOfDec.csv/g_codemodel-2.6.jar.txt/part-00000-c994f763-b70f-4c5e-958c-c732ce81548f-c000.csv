@@ -1,0 +1,5 @@
+org/apache/catalina/valves/rewrite/RewriteValve/parse(java.lang.String)@g_tomcat-embed-core-8.5.11.jar.txt	4
+org/apache/catalina/core/DefaultInstanceManager/lookupMethodResource(javax.naming.Context,java.lang.Object,java.lang.reflect.Method,java.lang.String,java.lang.Class)@g_tomcat-embed-core-8.5.11.jar.txt	3
+com/sun/codemodel/JCodeModel/TypeNameParser/parseArguments(com.sun.codemodel.JClass)@g_jaxb-xjc-2.2.6.jar.txt	2
+com/sun/codemodel/JCodeModel/TypeNameParser/parseSuffix(com.sun.codemodel.JClass)@g_jaxb-xjc-2.2.6.jar.txt	0
+com/sun/codemodel/JCodeModel/TypeNameParser/parseTypeName()@g_jaxb-xjc-2.2.6.jar.txt	1

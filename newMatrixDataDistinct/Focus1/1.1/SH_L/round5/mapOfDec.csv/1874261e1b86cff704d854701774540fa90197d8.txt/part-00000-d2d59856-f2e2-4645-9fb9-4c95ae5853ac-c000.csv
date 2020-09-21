@@ -1,0 +1,5 @@
+com/yahoo/ycsb/db/HBaseClient10/init()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	4
+com/yahoo/ycsb/db/HBaseClient/init()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	3
+com/yahoo/ycsb/db/NoSqlDbClient/init()@07f855760151be2597b3ec7d6236958c7e8599da.txt	0
+com/yahoo/ycsb/db/NoSqlDbClient/init()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	2
+com/yahoo/ycsb/db/DynamoDBClient/init()@07f855760151be2597b3ec7d6236958c7e8599da.txt	1

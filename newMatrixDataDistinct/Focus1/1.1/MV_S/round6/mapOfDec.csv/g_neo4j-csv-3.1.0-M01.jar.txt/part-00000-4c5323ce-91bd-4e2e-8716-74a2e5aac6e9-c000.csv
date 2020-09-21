@@ -1,0 +1,5 @@
+org/neo4j/ogm/mapper/EntityGraphMapper/haveRelationEndsChanged(java.lang.Object,java.lang.Long)@g_neo4j-csv-3.3.0.jar.txt	2
+org/neo4j/ogm/mapper/EntityGraphMapper/deleteObsoleteRelationships(org.neo4j.ogm.cypher.compiler.CypherCompiler)@g_neo4j-csv-3.3.0.jar.txt	4
+org/neo4j/ogm/metadata/RelationshipUtils/toUpperSnakeCase(java.lang.String)@g_neo4j-csv-3.3.0.jar.txt	3
+org/neo4j/csv/reader/Readables/FromFile/apply(java.io.File)@g_neo4j-csv-3.3.0.jar.txt	0
+org/neo4j/ogm/metadata/ClassPathScanner/scan(java.util.List,org.neo4j.ogm.metadata.info.ClassFileProcessor)@g_neo4j-csv-3.3.0.jar.txt	1

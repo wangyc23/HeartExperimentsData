@@ -1,0 +1,5 @@
+edu/washington/cs/knowitall/commonlib/StringUtils/splitInto(java.lang.String,java.util.regex.Pattern)@g_hamcrest-core-1.1.jar.txt	2
+org/xwiki/rendering/internal/renderer/xwiki20/XWikiSyntaxEscapeHandler/escape(java.lang.StringBuffer,org.xwiki.rendering.internal.renderer.xwiki20.XWikiSyntaxListenerChain,boolean,java.util.regex.Pattern)@g_hamcrest-core-1.1.jar.txt	4
+edu/washington/cs/knowitall/commonlib/StringUtils/splitInto(java.lang.String,java.util.regex.Pattern)@g_common-java-2.0.2.jar.txt	0
+edu/washington/cs/knowitall/commonlib/StringUtils/tokenize(java.lang.String,java.util.regex.Pattern[],java.util.regex.Pattern)@g_common-java-2.0.2.jar.txt	1
+org/xwiki/rendering/internal/renderer/xwiki20/XWikiSyntaxChainingRenderer/printParameters(java.util.Map,boolean)@g_hamcrest-core-1.1.jar.txt	3

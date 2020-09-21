@@ -1,0 +1,4 @@
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/getLog()
+org/apache/maven/plugin/logging/Log/debug(java.lang.CharSequence)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])

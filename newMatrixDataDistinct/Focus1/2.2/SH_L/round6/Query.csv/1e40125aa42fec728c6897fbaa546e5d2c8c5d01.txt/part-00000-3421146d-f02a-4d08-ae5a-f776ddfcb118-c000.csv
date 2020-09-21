@@ -1,0 +1,4 @@
+de/jetwick/snacktory/JResult/getKeywords()
+de/jetwick/snacktory/JResult/getTitle()
+org/junit/Assert/assertTrue(boolean)
+de/jetwick/snacktory/ArticleTextExtractor/extractContent(java.lang.String)

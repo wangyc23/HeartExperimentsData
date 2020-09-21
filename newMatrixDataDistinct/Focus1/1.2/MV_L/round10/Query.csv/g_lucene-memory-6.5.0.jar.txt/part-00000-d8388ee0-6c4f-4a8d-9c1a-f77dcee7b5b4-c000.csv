@@ -1,0 +1,4 @@
+org/apache/lucene/index/IndexableField/fieldType()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/lucene/index/IndexableField/numericValue()
+org/apache/lucene/analysis/Analyzer/getOffsetGap(java.lang.String)

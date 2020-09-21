@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/JobSubmitter/copyAndConfigureFiles(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path,short)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapred/TaskLog/getLogFileDetail(org.apache.hadoop.mapred.TaskAttemptID,org.apache.hadoop.mapred.TaskLog$LogName,boolean)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3
+org/apache/hadoop/mapreduce/TaskID/forName(java.lang.String)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapreduce/JobSubmitter/submitJobInternal(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.mapreduce.Cluster)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/mapred/pipes/Submitter/run(java.lang.String[])@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0

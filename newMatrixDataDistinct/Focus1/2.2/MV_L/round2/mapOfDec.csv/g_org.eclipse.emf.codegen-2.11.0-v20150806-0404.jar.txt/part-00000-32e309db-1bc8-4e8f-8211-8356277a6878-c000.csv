@@ -1,0 +1,5 @@
+org/eclipse/jdt/internal/compiler/ClassFile/filterFakeFrames(java.util.Set,java.util.Map,int)@g_org.eclipse.jdt.core-3.12.3.jar.txt	2
+org/eclipse/jdt/internal/compiler/batch/Main/configure(java.lang.String[])@g_org.eclipse.jdt.core-3.12.3.jar.txt	0
+org/eclipse/jdt/internal/core/JavaProject/resolveClasspath(org.eclipse.jdt.core.IClasspathEntry[],org.eclipse.jdt.core.IClasspathEntry[],boolean,boolean)@g_org.eclipse.jdt.core-3.12.3.jar.txt	1
+org/eclipse/jdt/internal/compiler/lookup/BoundSet/computeConnectedComponents(org.eclipse.jdt.internal.compiler.lookup.InferenceVariable[])@g_org.eclipse.jdt.core-3.12.3.jar.txt	4
+org/eclipse/jdt/internal/compiler/codegen/CodeStream/generateSyntheticBodyForDeserializeLambda(org.eclipse.jdt.internal.compiler.lookup.SyntheticMethodBinding,org.eclipse.jdt.internal.compiler.lookup.SyntheticMethodBinding[])@g_org.eclipse.jdt.core-3.12.3.jar.txt	3

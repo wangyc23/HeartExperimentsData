@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/lifecycle/PerRequestResourceProvider/createInstance(org.apache.cxf.message.Message)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/transport/https/HttpsURLConnectionFactory/decorateWithTLS(org.apache.cxf.configuration.jsse.TLSClientParameters,java.net.HttpURLConnection)@g_cxf-rt-transports-http-3.0.16.jar.txt	1
+org/apache/cxf/transport/http/CXFAuthenticator/addAuthenticator()@g_cxf-rt-transports-http-3.0.16.jar.txt	0
+org/apache/cxf/jaxrs/utils/InjectionUtils/convertStringToPrimitive(java.lang.String,java.lang.Class)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/jaxrs/servlet/CXFNonSpringJaxrsServlet/createSingletonInstance(java.lang.Class,java.util.Map,javax.servlet.ServletConfig)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	3

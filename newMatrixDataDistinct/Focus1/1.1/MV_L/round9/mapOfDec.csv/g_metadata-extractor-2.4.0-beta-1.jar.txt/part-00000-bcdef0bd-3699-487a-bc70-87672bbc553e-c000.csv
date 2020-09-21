@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/builder/EqualsBuilder/reflectionAppend(java.lang.Object,java.lang.Object,java.lang.Class,org.carrot2.util.preprocessor.shaded.apache.commons.lang.builder.EqualsBuilder,boolean,java.lang.String[])@g_attributes-processor-1.0.1.jar.txt	2
+org/radeox/test/RegexpTest/main(java.lang.String[])@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/text/ExtendedMessageFormat/appendQuotedString(java.lang.String,java.text.ParsePosition,org.carrot2.util.preprocessor.shaded.apache.commons.lang.text.StrBuilder,boolean)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationGreaterEquals(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationGreaterEquals)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	0

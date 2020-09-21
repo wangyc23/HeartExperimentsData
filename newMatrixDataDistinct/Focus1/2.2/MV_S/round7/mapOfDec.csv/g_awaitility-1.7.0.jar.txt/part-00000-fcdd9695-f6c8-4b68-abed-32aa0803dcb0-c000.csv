@@ -1,0 +1,5 @@
+org/powermock/reflect/internal/WhiteboxImpl/findFieldOrThrowException(java.lang.Class,java.lang.Class)@g_powermock-reflect-1.5.1.jar.txt	3
+org/powermock/reflect/internal/WhiteboxImpl/getMethod(java.lang.Class,java.lang.Class[])@g_powermock-reflect-1.5.1.jar.txt	2
+org/powermock/reflect/internal/WhiteboxImpl/throwExceptionWhenMultipleMethodMatchesFound(java.lang.String,java.lang.reflect.Method[])@g_powermock-reflect-1.5.1.jar.txt	0
+org/powermock/reflect/internal/WhiteboxImpl/findMethod(java.lang.Class,java.lang.String,java.lang.Class[])@g_powermock-reflect-1.5.1.jar.txt	4
+org/powermock/reflect/internal/WhiteboxImpl/getInternalState(java.lang.Object,java.lang.String,java.lang.Class)@g_powermock-reflect-1.5.1.jar.txt	1

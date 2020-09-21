@@ -1,0 +1,5 @@
+org/apache/lucene/search/grouping/term/TermGroupFacetCollector/MV/doSetNextReader(org.apache.lucene.index.LeafReaderContext)@g_lucene-grouping-6.4.1.jar.txt	0
+org/apache/lucene/search/grouping/term/TermDistinctValuesCollector/doSetNextReader(org.apache.lucene.index.LeafReaderContext)@g_lucene-grouping-6.4.1.jar.txt	3
+org/apache/lucene/search/grouping/term/TermAllGroupHeadsCollector/ScoreAllGroupHeadsCollector/doSetNextReader(org.apache.lucene.index.LeafReaderContext)@g_lucene-grouping-6.4.1.jar.txt	4
+org/apache/lucene/search/grouping/term/TermGroupFacetCollector/SV/doSetNextReader(org.apache.lucene.index.LeafReaderContext)@g_lucene-grouping-6.4.1.jar.txt	1
+org/apache/lucene/search/grouping/term/TermAllGroupHeadsCollector/OrdAllGroupHeadsCollector/doSetNextReader(org.apache.lucene.index.LeafReaderContext)@g_lucene-grouping-6.4.1.jar.txt	2

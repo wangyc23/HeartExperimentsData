@@ -1,0 +1,5 @@
+org/activiti/cdi/test/impl/task/CdiTaskServiceTest/testClaimTask()@1cfbe67ac87ae48718e57dd416b8610795023af8.txt	4
+org/activiti/cdi/impl/ProcessVariableMap/containsValue(java.lang.Object)@1cfbe67ac87ae48718e57dd416b8610795023af8.txt	2
+org/activiti/engine/impl/util/json/JSONArray/put(int,double)@1cfbe67ac87ae48718e57dd416b8610795023af8.txt	1
+org/activiti/engine/test/api/runtime/ExecutionQueryTest/testQueryNullVariable()@1cfbe67ac87ae48718e57dd416b8610795023af8.txt	0
+org/jbpm/designer/web/profile/impl/JbpmProfileImpl/createUnmarshaller()@1cfbe67ac87ae48718e57dd416b8610795023af8.txt	3

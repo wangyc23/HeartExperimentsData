@@ -1,0 +1,4 @@
+java/util/zip/ZipEntry/getMethod()
+java/util/zip/CRC32/update(byte[])
+java/util/zip/ZipEntry/setComment(java.lang.String)
+java/util/zip/ZipOutputStream/putNextEntry(java.util.zip.ZipEntry)

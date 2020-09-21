@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/util/Iterator/next()

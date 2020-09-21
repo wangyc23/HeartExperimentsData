@@ -1,0 +1,4 @@
+java/lang/Class/getConstructors()
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+java/lang/reflect/Field/get(java.lang.Object)
+java/lang/reflect/Constructor/getParameterTypes()

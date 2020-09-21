@@ -1,0 +1,5 @@
+org/apache/commons/beanutils/BeanUtilsBean/describe(java.lang.Object)@g_commons-beanutils-core-1.8.3.jar.txt	2
+org/apache/commons/beanutils/JDBCDynaClass/createDynaProperty(java.sql.ResultSetMetaData,int)@g_commons-beanutils-core-1.8.3.jar.txt	0
+org/apache/ivy/core/deliver/DeliverEngine/deliver(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,java.lang.String,org.apache.ivy.core.deliver.DeliverOptions)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/ant/IvyBuildList/doExecute()@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/search/SearchEngine/listRevisionEntries(org.apache.ivy.core.search.ModuleEntry)@g_ivy-2.3.0.jar.txt	4

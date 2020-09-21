@@ -1,0 +1,5 @@
+org/openrdf/rio/turtle/TurtleWriter/writeBNode(org.openrdf.model.BNode)@g_sesame-rio-turtle-2.7.16.jar.txt	1
+org/openrdf/query/QueryResults/report(org.openrdf.query.GraphQueryResult,org.openrdf.rio.RDFHandler)@g_sesame-rio-turtle-2.7.16.jar.txt	3
+org/openrdf/rio/turtle/TurtleWriter/startRDF()@g_sesame-rio-turtle-2.7.16.jar.txt	2
+org/openrdf/rio/rdfxml/RDFXMLParser/parse(org.xml.sax.InputSource)@g_sesame-rio-turtle-2.7.16.jar.txt	4
+org/openrdf/rio/turtle/TurtleWriter/handleStatement(org.openrdf.model.Statement)@g_sesame-rio-turtle-2.7.16.jar.txt	0

@@ -1,0 +1,5 @@
+org/springframework/beans/factory/config/ServiceLocatorFactoryBean/ServiceLocatorInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-beans-2.5.6.SEC01.jar.txt	1
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-beans-2.5.6.SEC01.jar.txt	4
+org/springframework/beans/factory/config/ServiceLocatorFactoryBean/ServiceLocatorInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-beans-2.5.6.jar.txt	3
+org/springframework/beans/factory/config/AbstractFactoryBean/EarlySingletonInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-beans-2.5.6.SEC01.jar.txt	0
+org/springframework/beans/factory/config/AbstractFactoryBean/EarlySingletonInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-beans-2.5.6.jar.txt	2

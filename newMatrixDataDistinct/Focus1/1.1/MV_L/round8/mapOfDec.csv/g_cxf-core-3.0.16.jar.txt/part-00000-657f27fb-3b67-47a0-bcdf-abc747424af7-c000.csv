@@ -1,0 +1,5 @@
+org/apache/cxf/attachment/AttachmentDeserializer/findBoundaryFromInputStream()@g_cxf-core-3.0.0-milestone1.jar.txt	0
+org/apache/cxf/jaxrs/model/ClassResourceInfo/getSubResource(java.lang.Class,java.lang.Class,java.lang.Object,boolean,org.apache.cxf.message.Message)@g_cxf-core-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/staxutils/transform/TransformUtils/convertToQNamesMap(java.util.Map,org.apache.cxf.staxutils.transform.QNamesMap,java.util.Map)@g_cxf-core-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/jaxrs/model/URITemplate/match(java.lang.String,javax.ws.rs.core.MultivaluedMap)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/jaxrs/model/URITemplate/Variable/create(java.lang.String)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	1

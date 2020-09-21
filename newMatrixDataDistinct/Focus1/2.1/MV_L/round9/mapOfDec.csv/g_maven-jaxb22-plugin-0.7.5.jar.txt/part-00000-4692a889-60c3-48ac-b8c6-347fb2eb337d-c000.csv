@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/treeSerializers/GraphmlDependencyNodeVisitor/endVisit(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-jaxb2-plugin-0.7.5.jar.txt	4
+org/apache/maven/plugin/dependency/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-jaxb2-plugin-0.7.5.jar.txt	1
+org/apache/maven/plugin/dependency/treeSerializers/DOTDependencyNodeVisitor/visit(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-jaxb2-plugin-0.7.5.jar.txt	3
+org/apache/maven/plugin/dependency/fromConfiguration/CopyMojo/execute()@g_maven-jaxb2-plugin-0.7.5.jar.txt	0
+org/apache/maven/plugin/dependency/AbstractAnalyzeMojo/logArtifacts(java.util.Set,boolean)@g_maven-jaxb2-plugin-0.7.5.jar.txt	2

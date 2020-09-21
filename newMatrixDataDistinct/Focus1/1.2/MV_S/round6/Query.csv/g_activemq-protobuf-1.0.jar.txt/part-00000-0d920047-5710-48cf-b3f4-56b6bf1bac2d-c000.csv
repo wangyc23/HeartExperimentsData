@@ -1,0 +1,4 @@
+java/util/HashSet/contains(java.lang.Object)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(int)
+java/lang/String/equals(java.lang.Object)

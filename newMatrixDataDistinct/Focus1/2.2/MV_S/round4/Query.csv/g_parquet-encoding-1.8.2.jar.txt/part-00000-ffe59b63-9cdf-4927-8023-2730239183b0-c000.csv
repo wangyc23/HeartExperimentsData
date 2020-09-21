@@ -1,0 +1,4 @@
+org/apache/parquet/column/values/bitpacking/LemireBitPackingBE$Packer6/Packer6(org.apache.parquet.column.values.bitpacking.LemireBitPackingBE$1)
+org/apache/parquet/column/values/bitpacking/LemireBitPackingBE$Packer7/Packer7(org.apache.parquet.column.values.bitpacking.LemireBitPackingBE$1)
+org/apache/parquet/column/values/bitpacking/LemireBitPackingBE$Packer9/Packer9(org.apache.parquet.column.values.bitpacking.LemireBitPackingBE$1)
+org/apache/parquet/column/values/bitpacking/LemireBitPackingBE$Packer0/Packer0(org.apache.parquet.column.values.bitpacking.LemireBitPackingBE$1)

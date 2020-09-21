@@ -1,0 +1,5 @@
+se/unlogic/standardutils/crypto/Base64/decode(java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+org/jboss/resteasy/jsapi/JSAPIWriter/writeJavaScript(java.lang.String,java.io.PrintWriter,org.jboss.resteasy.jsapi.ServiceRegistry)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+se/unlogic/eagledns/EagleDNS/addRRset(se.unlogic.eagledns.Name,se.unlogic.eagledns.Message,se.unlogic.eagledns.RRset,int,int)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+org/jboss/resteasy/test/nextgen/providers/jackson/JacksonTest/XmlService/getProduct()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+org/jboss/resteasy/client/ClientRequest/post(java.lang.Class,java.lang.reflect.Type)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4

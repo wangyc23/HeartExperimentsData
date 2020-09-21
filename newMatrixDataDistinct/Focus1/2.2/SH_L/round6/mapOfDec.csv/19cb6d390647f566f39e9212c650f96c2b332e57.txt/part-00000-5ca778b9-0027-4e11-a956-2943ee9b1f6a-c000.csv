@@ -1,0 +1,5 @@
+socketdemo/ServerDemo/main(java.lang.String[])@027b53237cd3203173d61e9dbe56571d1745224e.txt	3
+org/jaggeryjs/integration/common/clients/WebAppAdminClient/getFaultyWebAppList(java.lang.String)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	1
+org/jaggeryjs/integration/common/clients/WebAppAdminClient/getWebApplist(java.lang.String)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0
+org/wso2/jaggery/integration/tests/hostObjects/core/HttpClientTestCase/testHttpClientPut()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	4
+org/wso2/jaggery/integration/tests/hostObjects/community/WSRequestHostObjectTestCase/testWSRequestParallel()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	2

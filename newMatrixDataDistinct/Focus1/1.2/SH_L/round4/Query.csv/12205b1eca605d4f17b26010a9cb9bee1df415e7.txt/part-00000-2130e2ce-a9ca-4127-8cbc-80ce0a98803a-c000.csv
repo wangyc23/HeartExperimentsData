@@ -1,0 +1,4 @@
+net/minecraft/world/World/e(int,int)
+net/minecraft/server/management/PlayerManager/a()
+net/minecraft/network/NetHandlerPlayServer/a(net.minecraft.network.Packet)
+java/util/List/isEmpty()

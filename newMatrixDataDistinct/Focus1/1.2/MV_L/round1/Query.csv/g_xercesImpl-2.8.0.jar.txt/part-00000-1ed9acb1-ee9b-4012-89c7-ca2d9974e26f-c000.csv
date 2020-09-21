@@ -1,0 +1,4 @@
+java/util/Stack/empty()
+java/util/Stack/Stack()
+java/util/Hashtable/get(java.lang.Object)
+java/util/Vector/elementAt(int)

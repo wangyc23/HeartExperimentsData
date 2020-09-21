@@ -1,0 +1,5 @@
+org/restlet/ext/jaxrs/internal/wrappers/ResourceClasses/addRootClass(java.lang.Class)@g_org.restlet.ext.jaxrs-2.0.14.jar.txt	3
+org/restlet/ext/jaxrs/internal/wrappers/params/ParameterList/CookieParamGetter/getParamValue()@g_org.restlet.ext.jaxrs-2.0.14.jar.txt	2
+org/restlet/ext/jaxrs/internal/util/PathRegExp/processTemplVarname(java.lang.String,int,java.lang.StringBuilder,javax.ws.rs.Path)@g_org.restlet.ext.jaxrs-2.0.14.jar.txt	0
+org/restlet/ext/jaxrs/internal/wrappers/ResourceClasses/addRootSingleton(java.lang.Object)@g_org.restlet.ext.jaxrs-2.0.14.jar.txt	4
+org/restlet/ext/jaxrs/internal/wrappers/provider/JaxRsProviders/getContextResolver(java.lang.Class,javax.ws.rs.core.MediaType)@g_org.restlet.ext.jaxrs-2.0.14.jar.txt	1

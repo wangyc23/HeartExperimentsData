@@ -1,0 +1,4 @@
+scala/reflect/api/Trees$TypedExtractor/apply(scala.reflect.api.Trees$TreeApi,scala.reflect.api.Trees$TreeApi)
+scala/reflect/api/Internals$ReificationSupportApi$SyntacticTermIdentExtractor/apply(scala.reflect.api.Names$TermNameApi,boolean)
+com/typesafe/scalalogging/LoggerMacro$$anonfun$infoMessageArgs$1/1(scala.reflect.macros.blackbox.Context)
+scala/reflect/api/Internals$ReificationSupportApi$SyntacticAppliedExtractor/apply(scala.reflect.api.Trees$TreeApi,scala.collection.immutable.List)

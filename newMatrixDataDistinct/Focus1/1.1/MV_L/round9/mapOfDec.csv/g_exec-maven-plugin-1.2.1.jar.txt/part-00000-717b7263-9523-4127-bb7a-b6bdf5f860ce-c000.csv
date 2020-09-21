@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/AbstractWarMojo/getExcludes()@g_maven-war-plugin-2.1.1.jar.txt	0
+org/codehaus/mojo/exec/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_exec-maven-plugin-1.4.0.jar.txt	3
+org/codehaus/mojo/exec/ExecJavaMojo/addRelevantProjectDependenciesToClasspath(java.util.List)@g_exec-maven-plugin-1.4.0.jar.txt	2
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_exec-maven-plugin-1.4.0.jar.txt	1
+org/apache/maven/plugin/war/overlay/OverlayManager/getOverlaysAsArtifacts()@g_exec-maven-plugin-1.4.0.jar.txt	4

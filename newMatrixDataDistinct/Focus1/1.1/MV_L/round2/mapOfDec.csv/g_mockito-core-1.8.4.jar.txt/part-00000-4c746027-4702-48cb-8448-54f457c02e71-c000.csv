@@ -1,0 +1,5 @@
+org/mockito/asm/util/ASMifierClassVisitor/visit(int,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@g_mockito-all-1.9.5.jar.txt	1
+org/mockito/exceptions/Reporter/wantedButNotInvoked(org.mockito.exceptions.PrintableInvocation,java.util.List)@g_mockito-core-1.9.5.jar.txt	2
+org/mockito/asm/util/ASMifierClassVisitor/visit(int,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@g_mockito-core-1.9.5.jar.txt	0
+org/mockito/cglib/core/ReflectUtils/getClass(java.lang.String,java.lang.ClassLoader,java.lang.String[])@g_mockito-core-1.9.5.jar.txt	4
+org/mockito/asm/util/TraceClassVisitor/visitField(int,java.lang.String,java.lang.String,java.lang.String,java.lang.Object)@g_mockito-core-1.9.5.jar.txt	3

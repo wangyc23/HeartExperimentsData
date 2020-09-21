@@ -1,0 +1,5 @@
+org/jvnet/mimepull/UUDecoderStream/readPrefix()@g_mimepull-1.9.3.jar.txt	3
+org/jvnet/mimepull/MIMEMessage/getPart(int)@g_mimepull-1.9.3.jar.txt	1
+org/jvnet/mimepull/FactoryFinder/findJarServiceProviderName(java.lang.String)@g_mimepull-1.9.3.jar.txt	2
+org/jvnet/mimepull/MIMEParser/MIMEEventIterator/next()@g_mimepull-1.9.3.jar.txt	4
+org/jvnet/mimepull/MIMEMessage/makeProgress()@g_mimepull-1.9.3.jar.txt	0

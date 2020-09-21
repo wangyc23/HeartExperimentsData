@@ -1,0 +1,4 @@
+org/apache/oozie/command/StatusTransitXCommand/getSuspendedStatus()
+org/apache/oozie/command/StatusTransitXCommand/isPausedState()
+org/apache/oozie/command/StatusTransitXCommand/isRunningState()
+org/apache/oozie/command/StatusTransitXCommand/isSuspendedState()

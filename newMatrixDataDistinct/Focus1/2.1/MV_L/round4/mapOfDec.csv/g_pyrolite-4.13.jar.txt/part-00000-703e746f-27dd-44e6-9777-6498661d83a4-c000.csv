@@ -1,0 +1,5 @@
+net/razorvine/pyro/serializer/PyroProxySerpent/convert(java.lang.Object)@g_cdi-api-1.0.jar.txt	3
+net/razorvine/pickle/Unpickler/load_int()@g_cdi-api-1.0.jar.txt	4
+net/razorvine/pickle/PickleUtils/decode_unicode_escaped(java.lang.String)@g_cdi-api-1.0.jar.txt	0
+net/razorvine/pickle/objects/DateTimeConstructor/createDateTime(java.lang.Object[])@g_cdi-api-1.0.jar.txt	2
+javax/enterprise/util/AnnotationLiteral/getMembers()@g_cdi-api-1.0.jar.txt	1

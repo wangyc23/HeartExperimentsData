@@ -1,0 +1,5 @@
+com/healthmarketscience/jackcess/impl/IndexPageCache/updateEntry(com.healthmarketscience.jackcess.impl.IndexPageCache$CacheDataPage,int,com.healthmarketscience.jackcess.impl.IndexData$Entry,com.healthmarketscience.jackcess.impl.IndexPageCache$UpdateType)@g_jackcess-2.1.2.jar.txt	0
+com/healthmarketscience/jackcess/impl/ColumnImpl/encodeTextValue(java.lang.Object,int,int,boolean)@g_jackcess-2.1.2.jar.txt	3
+com/healthmarketscience/jackcess/impl/CursorImpl/restoreSavepoint(com.healthmarketscience.jackcess.impl.CursorImpl$SavepointImpl)@g_jackcess-2.1.2.jar.txt	1
+com/healthmarketscience/jackcess/impl/IndexPageCache/collectPages(java.util.List,com.healthmarketscience.jackcess.impl.IndexPageCache$DataPageMain)@g_jackcess-2.1.2.jar.txt	2
+com/healthmarketscience/jackcess/impl/DatabaseImpl/open(java.io.File,boolean,java.nio.channels.FileChannel,boolean,java.nio.charset.Charset,java.util.TimeZone,com.healthmarketscience.jackcess.impl.CodecProvider)@g_jackcess-2.1.2.jar.txt	4

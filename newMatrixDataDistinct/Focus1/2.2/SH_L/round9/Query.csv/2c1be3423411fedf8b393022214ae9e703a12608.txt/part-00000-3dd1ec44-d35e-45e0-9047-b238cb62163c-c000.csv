@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/lang/reflect/ParameterizedType/getRawType()
+java/lang/reflect/ParameterizedType/getActualTypeArguments()
+cucumber/runtime/CucumberException/CucumberException(java.lang.String)

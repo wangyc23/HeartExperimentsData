@@ -1,0 +1,5 @@
+org/parboiled/scala/Parser/class/nTimes(org.parboiled.scala.Parser,int,org.parboiled.scala.rules.ReductionRule1,org.parboiled.scala.rules.Rule0)@g_parboiled-scala_2.11-1.1.7.jar.txt	2
+org/parboiled/scala/Parser/class/nTimes(org.parboiled.scala.Parser,int,org.parboiled.scala.rules.Rule1,org.parboiled.scala.rules.Rule0)@g_parboiled-scala_2.11-1.1.7.jar.txt	0
+scala/xml/factory/LoggedNodeFactory/class/makeNode(scala.xml.factory.LoggedNodeFactory,java.lang.String,java.lang.String,scala.xml.MetaData,scala.xml.NamespaceBinding,scala.collection.Seq)@g_scala-xml_2.11-1.0.5.jar.txt	4
+org/parboiled/scala/Parser/class/nTimes(org.parboiled.scala.Parser,int,org.parboiled.scala.rules.Rule0,org.parboiled.scala.rules.Rule0)@g_parboiled-scala_2.11-1.1.7.jar.txt	1
+org/parboiled/scala/package/nameAction(java.lang.String)@g_parboiled-scala_2.11-1.1.7.jar.txt	3

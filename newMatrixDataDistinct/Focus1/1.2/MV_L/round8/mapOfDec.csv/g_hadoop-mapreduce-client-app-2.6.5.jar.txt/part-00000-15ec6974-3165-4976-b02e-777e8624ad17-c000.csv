@@ -1,0 +1,5 @@
+org/apache/hadoop/mapred/BackupStore/MemoryCache/write(org.apache.hadoop.io.DataInputBuffer,org.apache.hadoop.io.DataInputBuffer)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	2
+org/apache/hadoop/mapred/MapTask/createSortingCollector(org.apache.hadoop.mapred.JobConf,org.apache.hadoop.mapred.Task$TaskReporter)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	3
+org/apache/hadoop/mapred/BackupStore/MemoryCache/createInMemorySegment()@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	0
+org/apache/hadoop/mapreduce/JobResourceUploader/copyLog4jPropertyFile(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path,short)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	1
+org/apache/hadoop/mapred/CleanupQueue/deletePath(org.apache.hadoop.mapred.CleanupQueue$PathDeletionContext)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	4

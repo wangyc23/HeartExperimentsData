@@ -1,0 +1,5 @@
+org/xwiki/classloader/internal/ResourceLoader/JarInfo/getJarFileIfPossiblyContains(java.lang.String)@g_xwiki-commons-classloader-api-7.4.2.jar.txt	1
+org/apache/ivy/core/retrieve/RetrieveEngine/determineArtifactsToCopy(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,org.apache.ivy.core.retrieve.RetrieveOptions)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/resolve/IvyNode/loadData(java.lang.String,org.apache.ivy.core.resolve.IvyNode,java.lang.String,java.lang.String,boolean,org.apache.ivy.core.resolve.IvyNodeUsage)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/resolve/IvyNode/handleConfiguration(boolean,java.lang.String,org.apache.ivy.core.resolve.IvyNode,java.lang.String,java.lang.String,boolean,org.apache.ivy.core.resolve.IvyNodeUsage)@g_ivy-2.3.0.jar.txt	3
+org/xwiki/classloader/internal/ResourceLoader/JarInfo/setIndex(java.util.List)@g_xwiki-commons-classloader-api-7.4.2.jar.txt	0

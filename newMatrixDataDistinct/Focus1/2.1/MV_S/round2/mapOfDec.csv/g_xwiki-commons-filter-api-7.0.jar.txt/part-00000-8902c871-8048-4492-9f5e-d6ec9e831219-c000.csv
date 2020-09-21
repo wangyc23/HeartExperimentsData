@@ -1,0 +1,5 @@
+org/atteo/evo/inflector/TwoFormInflector/irregular(java.lang.String,java.lang.String)@g_xwiki-platform-resource-servlet-7.4.2.jar.txt	2
+org/xwiki/resource/servlet/RoutingFilter/getRequestURL(javax.servlet.http.HttpServletRequest)@g_xwiki-platform-resource-servlet-7.4.2.jar.txt	1
+org/xwiki/filter/internal/converter/FilterElementParametersConverter/convertToType(java.lang.reflect.Type,java.lang.Object)@g_xwiki-platform-resource-servlet-7.4.2.jar.txt	0
+org/xwiki/filter/internal/input/InputSourceConverter/fromString(java.lang.String)@g_xwiki-platform-resource-servlet-7.4.2.jar.txt	3
+org/xwiki/filter/internal/DefaultFilterDescriptorManager/getElementName(java.lang.String)@g_xwiki-platform-resource-servlet-7.4.2.jar.txt	4

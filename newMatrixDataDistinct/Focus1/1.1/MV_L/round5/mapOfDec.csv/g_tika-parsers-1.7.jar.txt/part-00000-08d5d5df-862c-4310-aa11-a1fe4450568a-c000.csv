@@ -1,0 +1,5 @@
+org/apache/tika/parser/pkg/ZipContainerDetector/detectOfficeOpenXML(org.apache.poi.openxml4j.opc.OPCPackage)@g_tika-parsers-1.2.jar.txt	3
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleEmbeddedFile(org.apache.poi.openxml4j.opc.PackagePart,org.xml.sax.ContentHandler,java.lang.String)@g_tika-parsers-1.4.jar.txt	0
+org/apache/tika/parser/pkg/ZipContainerDetector/detectOfficeOpenXML(org.apache.poi.openxml4j.opc.OPCPackage)@g_tika-parsers-1.4.jar.txt	1
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleEmbeddedParts(org.xml.sax.ContentHandler)@g_tika-parsers-1.4.jar.txt	2
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleEmbeddedFile(org.apache.poi.openxml4j.opc.PackagePart,org.xml.sax.ContentHandler)@g_tika-parsers-1.2.jar.txt	4

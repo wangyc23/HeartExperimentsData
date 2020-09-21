@@ -1,0 +1,5 @@
+org/apache/struts/action/ActionServlet/splitAndResolvePaths(java.lang.String)@g_struts-core-1.3.8.jar.txt	3
+org/apache/struts/chain/commands/servlet/SelectAction/getPath(org.apache.struts.chain.contexts.ActionContext)@g_struts-core-1.3.8.jar.txt	2
+org/apache/struts/action/RequestProcessor/processPath(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_struts-core-1.3.8.jar.txt	1
+org/apache/struts/config/ConfigHelper/getActionMappingURL(java.lang.String)@g_struts-core-1.3.8.jar.txt	4
+org/apache/struts/util/RequestUtils/populate(java.lang.Object,java.lang.String,java.lang.String,javax.servlet.http.HttpServletRequest)@g_struts-core-1.3.8.jar.txt	0

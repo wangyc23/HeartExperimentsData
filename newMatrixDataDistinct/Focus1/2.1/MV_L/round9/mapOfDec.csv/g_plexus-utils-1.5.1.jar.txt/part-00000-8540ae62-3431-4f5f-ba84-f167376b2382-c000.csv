@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/DirectoryWalker/DirStackEntry/toString()@g_plexus-utils-1.4.9.jar.txt	0
+org/codehaus/plexus/util/DirectoryWalker/DirStackEntry/toString()@g_plexus-utils-1.4.6.jar.txt	1
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_plexus-utils-1.4.9.jar.txt	2
+org/codehaus/plexus/util/xml/pull/MXSerializer/startTag(java.lang.String,java.lang.String)@g_plexus-utils-1.4.9.jar.txt	4
+org/codehaus/plexus/util/cli/CommandLineUtils/translateCommandline(java.lang.String)@g_plexus-utils-1.4.9.jar.txt	3

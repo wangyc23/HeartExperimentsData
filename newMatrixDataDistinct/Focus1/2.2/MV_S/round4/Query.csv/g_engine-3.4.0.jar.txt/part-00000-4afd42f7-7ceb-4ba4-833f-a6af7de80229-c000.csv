@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/eclipse/m2m/atl/engine/asm/ASMOperation$Label/Label(org.eclipse.m2m.atl.engine.asm.ASMOperation,java.lang.String)
+java/util/Map/get(java.lang.Object)
+java/lang/StringBuffer/toString()

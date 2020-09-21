@@ -1,0 +1,5 @@
+org/apache/deltaspike/core/impl/exclude/extension/ExcludeExtension/getManifestLocation(java.lang.Class)@g_deltaspike-core-impl-1.0.1.jar.txt	4
+org/apache/deltaspike/core/impl/exclude/extension/ExcludeExtension/activateGlobalAlternatives(javax.enterprise.inject.spi.ProcessAnnotatedType,javax.enterprise.inject.spi.BeanManager)@g_deltaspike-core-impl-1.0.1.jar.txt	0
+org/apache/deltaspike/core/impl/exclude/extension/ExcludeExtension/init(javax.enterprise.inject.spi.BeforeBeanDiscovery,javax.enterprise.inject.spi.BeanManager)@g_deltaspike-core-impl-1.0.1.jar.txt	3
+org/apache/deltaspike/core/impl/message/DefaultMessage/markAsUnresolved(java.lang.String)@g_deltaspike-core-impl-1.0.1.jar.txt	2
+org/apache/deltaspike/core/impl/jmx/MBeanExtension/registerObject(javax.enterprise.inject.spi.ProcessManagedBean,org.apache.deltaspike.core.api.jmx.MBean,javax.enterprise.inject.spi.BeanManager)@g_deltaspike-core-impl-1.0.1.jar.txt	1

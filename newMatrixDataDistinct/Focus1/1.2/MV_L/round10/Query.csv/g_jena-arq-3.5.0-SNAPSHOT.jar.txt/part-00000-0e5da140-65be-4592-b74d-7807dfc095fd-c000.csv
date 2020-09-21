@@ -1,0 +1,4 @@
+org/apache/jena/sparql/core/mem/PMapQuadTable/local()
+java/lang/ThreadLocal/set(java.lang.Object)
+org/apache/jena/atlas/lib/persistent/PersistentSet/contains(java.lang.Object)
+org/apache/jena/sparql/core/mem/FourTupleMap$ThreeTupleMap/plus(java.lang.Object,java.lang.Object)

@@ -1,0 +1,5 @@
+com/ibm/icu/text/CollationParsedRuleBuilder/addMultiCMontractions(com.ibm.icu.text.CollationParsedRuleBuilder$BuildTable,com.ibm.icu.text.CollationElementIterator,com.ibm.icu.text.CollationParsedRuleBuilder$Elements,char[],int[],int,char,int,java.lang.String)@g_icu4j-50.1.1.jar.txt	2
+org/apache/commons/lang3/RandomStringUtils/random(int,int,int,boolean,boolean,char[],java.util.Random)@g_commons-lang3-3.3.2.jar.txt	3
+com/ibm/icu/text/DictionaryData/loadDictionaryFor(java.lang.String)@g_icu4j-50.1.1.jar.txt	0
+org/apache/commons/lang3/text/WordUtils/swapCase(java.lang.String)@g_commons-lang3-3.3.2.jar.txt	4
+com/ibm/icu/impl/Normalizer2Impl/load(java.io.InputStream)@g_icu4j-50.1.1.jar.txt	1

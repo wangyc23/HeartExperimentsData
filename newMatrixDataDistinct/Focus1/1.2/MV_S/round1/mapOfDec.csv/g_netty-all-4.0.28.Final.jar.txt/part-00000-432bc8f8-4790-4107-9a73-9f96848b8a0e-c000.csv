@@ -1,0 +1,5 @@
+hidden/io/netty/handler/codec/http/websocketx/WebSocket08FrameDecoder/decode(hidden.io.netty.channel.ChannelHandlerContext,hidden.io.netty.buffer.ByteBuf,java.util.List)@g_xwiki-contrib-websocket-1.7.jar.txt	4
+hidden/io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker00/newHandshakeRequest()@g_xwiki-contrib-websocket-1.7.jar.txt	2
+hidden/io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker07/newHandshakeRequest()@g_xwiki-contrib-websocket-1.7.jar.txt	1
+hidden/io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker13/newHandshakeRequest()@g_xwiki-contrib-websocket-1.7.jar.txt	3
+hidden/io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker08/newHandshakeRequest()@g_xwiki-contrib-websocket-1.7.jar.txt	0

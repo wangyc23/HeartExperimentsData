@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Collections/unmodifiableMap(java.util.Map)
+java/util/Iterator/next()
+java/util/Set/iterator()

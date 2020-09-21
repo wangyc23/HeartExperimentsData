@@ -1,0 +1,5 @@
+com/jcraft/jsch/KnownHosts/deleteSubString(java.lang.String,java.lang.String)@g_jsch-0.1.42.jar.txt	3
+com/jcraft/jsch/ChannelSftp/get(java.lang.String,java.lang.String,com.jcraft.jsch.SftpProgressMonitor,int)@g_jsch-0.1.42.jar.txt	1
+net/iharder/base64/Base64/decodeFileToFile(java.lang.String,java.lang.String)@g_jsch-0.1.42.jar.txt	4
+com/jcraft/jsch/DHGEX/next(com.jcraft.jsch.Buffer)@g_jsch-0.1.42.jar.txt	2
+com/jamesmurty/utils/XMLBuilder/toWriter(java.io.Writer,java.util.Properties)@g_java-xmlbuilder-0.4.jar.txt	0

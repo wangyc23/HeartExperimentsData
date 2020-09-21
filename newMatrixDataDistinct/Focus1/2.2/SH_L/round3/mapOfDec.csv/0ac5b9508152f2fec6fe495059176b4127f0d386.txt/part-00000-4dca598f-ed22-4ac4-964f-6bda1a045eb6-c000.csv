@@ -1,0 +1,5 @@
+org/apache/kafka/connect/socket/cache/RedisCMDBManager/start(java.util.Map)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	2
+org/apache/kafka/connect/socket/Manager/reMapDomainConfigurations(org.apache.kafka.connect.socket.SocketConnectorConfig,java.util.Map,java.util.Map,java.util.Map)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	3
+com/telefonica/euro_iaas/paasmanager/model/ProductRelease/formatJsonArray(com.telefonica.euro_iaas.paasmanager.model.JSONObject,java.lang.String)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	4
+org/apache/kafka/connect/socket/batch/BulkProcessor/constructBulk(byte[],java.util.Map,java.util.Map)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	1
+org/apache/kafka/connect/socket/Manager/generateKeysUsingFields(com.google.gson.JsonObject,java.lang.String,java.util.Map)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	0

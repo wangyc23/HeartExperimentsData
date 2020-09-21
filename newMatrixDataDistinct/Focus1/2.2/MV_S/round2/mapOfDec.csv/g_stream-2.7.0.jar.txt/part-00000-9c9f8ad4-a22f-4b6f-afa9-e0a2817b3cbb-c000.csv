@@ -1,0 +1,5 @@
+edu/stanford/nlp/util/logging/Redwood/endThreads(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/dcoref/RuleBasedCorefMentionFinder/funkyFindLeafWithApproximateSpan(edu.stanford.nlp.trees.Tree,java.lang.String,int,int)@g_stanford-corenlp-3.5.0.jar.txt	2
+edu/stanford/nlp/optimization/AbstractCachingDiffFunction/gradientCheck(int,int,double[])@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/ie/machinereading/BasicRelationFeatureFactory/addFeatures(edu.stanford.nlp.stats.Counter,edu.stanford.nlp.ie.machinereading.structure.RelationMention,java.util.List,java.util.logging.Logger)@g_stanford-corenlp-3.5.0.jar.txt	3
+edu/stanford/nlp/classify/LinearClassifier/justificationOf(edu.stanford.nlp.ling.Datum,java.io.PrintWriter,java.util.function.Function,boolean)@g_stanford-corenlp-3.5.0.jar.txt	4

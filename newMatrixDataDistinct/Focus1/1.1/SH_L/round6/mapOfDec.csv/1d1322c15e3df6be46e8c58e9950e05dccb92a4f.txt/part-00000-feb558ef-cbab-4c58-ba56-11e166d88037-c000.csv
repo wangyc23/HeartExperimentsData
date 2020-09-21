@@ -1,0 +1,5 @@
+com/commafeed/frontend/resource/ServerREST/get()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	4
+com/guillaumecl/caskdays/external/BeerListParser/getBeerFromMenuItem(org.jsoup.nodes.Element)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0
+com/commafeed/backend/dao/FeedEntryStatusDAO/buildQuery(com.commafeed.backend.model.User,com.commafeed.backend.model.FeedSubscription,boolean,java.util.List,java.util.Date,int,int,com.commafeed.backend.model.UserSettings.ReadingOrder,java.util.Date,java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	2
+com/guillaumecl/caskdays/external/BeerListParser/getList()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1
+com/commafeed/backend/service/FeedEntryFilteringServiceTest/cannotLoopForever()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	3

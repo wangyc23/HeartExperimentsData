@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Map/putAll(java.util.Map)
+org/apache/cxf/jaxrs/model/URITemplate/getVariables()
+org/apache/cxf/jaxrs/client/ClientProxyImpl/convertParamValue(java.lang.Object)

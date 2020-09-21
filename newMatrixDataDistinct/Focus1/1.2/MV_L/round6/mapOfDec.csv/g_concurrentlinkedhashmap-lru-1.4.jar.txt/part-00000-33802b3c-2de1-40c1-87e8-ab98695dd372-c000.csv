@@ -1,0 +1,5 @@
+org/apache/http/impl/pool/BasicConnFactory/create(org.apache.http.HttpHost)@g_concurrentlinkedhashmap-lru-1.4.2.jar.txt	4
+org/apache/http/protocol/UriPatternMatcher/lookup(java.lang.String)@g_concurrentlinkedhashmap-lru-1.4.2.jar.txt	3
+com/googlecode/concurrentlinkedhashmap/ConcurrentLinkedHashMap/put(java.lang.Object,java.lang.Object,boolean)@g_concurrentlinkedhashmap-lru-1.4.2.jar.txt	0
+com/googlecode/concurrentlinkedhashmap/ConcurrentHashMapV8/equals(java.lang.Object)@g_concurrentlinkedhashmap-lru-1.4.2.jar.txt	2
+com/googlecode/concurrentlinkedhashmap/ConcurrentLinkedHashMap/orderedMap(boolean,int)@g_concurrentlinkedhashmap-lru-1.4.2.jar.txt	1

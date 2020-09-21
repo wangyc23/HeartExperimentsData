@@ -1,0 +1,5 @@
+org/neo4j/server/plugins/ParameterList/getList(java.lang.String,org.neo4j.kernel.GraphDatabaseAPI,org.neo4j.server.plugins.ParameterList$Converter)@g_server-api-2.2.5.jar.txt	1
+org/neo4j/server/rest/repr/Serializer/injectExtensions(org.neo4j.server.rest.repr.MappingWriter,org.neo4j.server.rest.repr.MappingRepresentation,java.net.URI,org.neo4j.server.rest.repr.ExtensionInjector)@g_server-api-2.2.1.jar.txt	2
+org/neo4j/server/plugins/ParameterList/getList(java.lang.String,org.neo4j.kernel.GraphDatabaseAPI,org.neo4j.server.plugins.ParameterList$Converter)@g_server-api-2.2.1.jar.txt	0
+org/neo4j/server/rest/repr/Serializer/injectExtensions(org.neo4j.server.rest.repr.MappingWriter,org.neo4j.server.rest.repr.MappingRepresentation,java.net.URI,org.neo4j.server.rest.repr.ExtensionInjector)@g_server-api-2.2.5.jar.txt	3
+org/neo4j/server/rest/repr/Serializer/joinBaseWithRelativePath(java.net.URI,java.lang.String)@g_server-api-2.2.1.jar.txt	4

@@ -1,0 +1,4 @@
+java/lang/String/equals(java.lang.Object)
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getEventType()
+java/util/List/add(java.lang.Object)
+java/lang/StringBuilder/toString()

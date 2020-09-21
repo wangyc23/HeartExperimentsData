@@ -1,0 +1,4 @@
+crunch/MaxTemperatureCrunchWithShutdownHook/toYearTempPairsFn()
+java/lang/Runtime/getRuntime()
+java/io/PrintStream/println(java.lang.String)
+java/lang/System/exit(int)

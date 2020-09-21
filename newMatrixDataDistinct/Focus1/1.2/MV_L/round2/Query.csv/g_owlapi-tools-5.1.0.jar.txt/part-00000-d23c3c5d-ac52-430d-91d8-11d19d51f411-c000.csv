@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/util/OWLAPIPreconditions/verifyNotNull(java.lang.Object)
+java/util/Set/forEach(java.util.function.Consumer)
+org/semanticweb/owlapi/model/OWLDataFactory/getOWLSubClassOfAxiom(org.semanticweb.owlapi.model.OWLClassExpression,org.semanticweb.owlapi.model.OWLClassExpression)
+org/semanticweb/owlapi/model/AddAxiom/AddAxiom(org.semanticweb.owlapi.model.OWLOntology,org.semanticweb.owlapi.model.OWLAxiom)

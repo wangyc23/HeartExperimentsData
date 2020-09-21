@@ -1,0 +1,5 @@
+au/com/ibm/bluecoin/web/forms/NavigationBean/appuserlist()@2c6319b400f75c0cf3a892a13d8c0ba6593f5c1b.txt	2
+au/com/ibm/bluecoin/service/ApplicationConfig/networkServiceStarter()@2c6319b400f75c0cf3a892a13d8c0ba6593f5c1b.txt	1
+au/com/ibm/bluecoin/utils/UserRepositoryUserDetails/getPassword()@2c6319b400f75c0cf3a892a13d8c0ba6593f5c1b.txt	4
+au/com/ibm/bluecoin/config/CustomUserDetailsService/loadUserByUsername(java.lang.String)@1ef5eb3a17a61fa2d4fb53586fb27efdf0312eb1.txt	0
+com/flavien/models/Computer/toString()@2c6319b400f75c0cf3a892a13d8c0ba6593f5c1b.txt	3

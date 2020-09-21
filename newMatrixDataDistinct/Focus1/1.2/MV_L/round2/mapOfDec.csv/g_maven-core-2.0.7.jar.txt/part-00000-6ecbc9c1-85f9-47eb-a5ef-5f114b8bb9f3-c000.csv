@@ -1,0 +1,5 @@
+org/apache/maven/DefaultMaven/resolveParameters(org.apache.maven.settings.Settings)@g_maven-core-2.0.6.jar.txt	0
+org/apache/maven/lifecycle/DefaultLifecycleExecutor/bindLifecycleForPackaging(org.apache.maven.execution.MavenSession,java.lang.String,org.apache.maven.project.MavenProject,org.apache.maven.lifecycle.Lifecycle)@g_maven-core-2.0.6.jar.txt	4
+org/apache/maven/plugin/DefaultPluginManager/mergeMojoConfiguration(org.codehaus.plexus.configuration.xml.XmlPlexusConfiguration,org.apache.maven.plugin.descriptor.MojoDescriptor)@g_maven-core-2.0.6.jar.txt	3
+org/apache/maven/DefaultMaven/resolveParameters(org.apache.maven.settings.Settings)@g_maven-core-2.0.8.jar.txt	1
+org/apache/maven/extension/DefaultExtensionManager/addExtension(org.apache.maven.model.Extension,org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-core-2.0.6.jar.txt	2

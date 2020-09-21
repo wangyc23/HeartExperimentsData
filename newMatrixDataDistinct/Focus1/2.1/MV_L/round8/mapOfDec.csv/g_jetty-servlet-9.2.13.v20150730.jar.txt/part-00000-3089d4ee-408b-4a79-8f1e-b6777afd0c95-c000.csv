@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlet/ServletContextHandler/JspConfig/toString()@g_jetty-servlet-9.2.4.v20141103.jar.txt	0
+org/eclipse/jetty/servlet/StatisticsServlet/sendXmlResponse(javax.servlet.http.HttpServletResponse)@g_jetty-servlet-9.2.4.v20141103.jar.txt	2
+org/eclipse/jetty/servlet/StatisticsServlet/sendTextResponse(javax.servlet.http.HttpServletResponse)@g_jetty-servlet-9.2.4.v20141103.jar.txt	4
+org/eclipse/jetty/servlet/listener/ELContextCleaner/purgeEntries(java.lang.reflect.Field)@g_jetty-servlet-9.2.4.v20141103.jar.txt	1
+org/eclipse/jetty/servlet/ServletHandler/initialize()@g_jetty-servlet-9.2.4.v20141103.jar.txt	3

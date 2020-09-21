@@ -1,0 +1,4 @@
+org/apache/wicket/Component/add(org.apache.wicket.behavior.IBehavior[])
+java/lang/Class/getAnnotation(java.lang.Class)
+org/objetdirect/wickext/core/commons/WickextPluginInstantiationListener/manageUi(org/apache/wicket/Component,org/objetdirect/wickext/core/commons/WickextPlugin)/$anonymous2/()
+java/lang/Object/getClass()

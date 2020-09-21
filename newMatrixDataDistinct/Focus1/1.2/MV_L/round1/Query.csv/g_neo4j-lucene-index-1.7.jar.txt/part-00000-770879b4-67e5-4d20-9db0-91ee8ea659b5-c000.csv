@@ -1,0 +1,4 @@
+java/lang/Number/floatValue()
+java/lang/Number/doubleValue()
+org/apache/lucene/document/NumericField/setDoubleValue(double)
+org/apache/lucene/document/Field/Field(java.lang.String,java.lang.String,org.apache.lucene.document.Field$Store,org.apache.lucene.document.Field$Index)

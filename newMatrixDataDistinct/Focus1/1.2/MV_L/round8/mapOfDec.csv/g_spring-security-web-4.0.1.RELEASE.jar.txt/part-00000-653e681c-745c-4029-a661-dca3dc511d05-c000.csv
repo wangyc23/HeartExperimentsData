@@ -1,0 +1,5 @@
+org/springframework/security/web/authentication/logout/LogoutFilter/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain)@g_spring-security-web-4.0.0.RELEASE.jar.txt	3
+org/springframework/security/web/util/matcher/MediaTypeRequestMatcher/matches(javax.servlet.http.HttpServletRequest)@g_spring-security-web-4.0.0.RELEASE.jar.txt	2
+org/springframework/security/web/authentication/session/CompositeSessionAuthenticationStrategy/onAuthentication(org.springframework.security.core.Authentication,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-security-web-4.0.0.RELEASE.jar.txt	1
+org/springframework/security/web/util/matcher/OrRequestMatcher/matches(javax.servlet.http.HttpServletRequest)@g_spring-security-web-4.0.0.RELEASE.jar.txt	4
+org/springframework/security/web/util/matcher/AndRequestMatcher/matches(javax.servlet.http.HttpServletRequest)@g_spring-security-web-4.0.0.RELEASE.jar.txt	0

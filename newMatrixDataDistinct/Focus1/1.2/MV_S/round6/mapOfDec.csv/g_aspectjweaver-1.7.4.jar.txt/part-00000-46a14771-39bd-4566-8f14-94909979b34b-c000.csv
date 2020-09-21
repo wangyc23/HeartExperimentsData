@@ -1,0 +1,5 @@
+org/apache/maven/it/util/FileUtils/copyURLToFile(java.net.URL,java.io.File)@g_maven-verifier-1.2.jar.txt	3
+org/apache/maven/it/util/FileUtils/deleteFile(java.io.File)@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/it/util/FileUtils/sizeOfDirectory(java.io.File)@g_maven-verifier-1.2.jar.txt	1
+org/apache/maven/it/Verifier/runCommandLine(org.apache.maven.it.util.cli.Commandline,java.io.File)@g_maven-verifier-1.2.jar.txt	0
+org/apache/maven/it/Verifier/main(java.lang.String[])@g_maven-verifier-1.2.jar.txt	2

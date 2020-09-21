@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/lang/Long/reverseBytes(long)
+java/io/DataInput/readInt()
+java/lang/Integer/reverseBytes(int)

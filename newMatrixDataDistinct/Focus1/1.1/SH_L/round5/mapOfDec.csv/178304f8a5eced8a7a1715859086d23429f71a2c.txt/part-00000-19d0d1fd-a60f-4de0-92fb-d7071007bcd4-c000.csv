@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/thrift/generated/Hbase/getVer_args/compareTo(org.apache.hadoop.hbase.thrift.generated.Hbase.getVer_args)@27987b6823f76e575061871e738a4ec4af3c2404.txt	0
+org/apache/hadoop/hbase/KeyValue/createFirstOnRow(byte[],byte[],byte[],long)@27987b6823f76e575061871e738a4ec4af3c2404.txt	3
+org/apache/hadoop/hbase/thrift/generated/Hbase/scannerGetList_result/write(org.apache.thrift.protocol.TProtocol)@27987b6823f76e575061871e738a4ec4af3c2404.txt	4
+org/apache/hadoop/hbase/thrift/generated/Hbase/getVer_args/isSet(org.apache.hadoop.hbase.thrift.generated.Hbase.getVer_args._Fields)@27987b6823f76e575061871e738a4ec4af3c2404.txt	2
+org/apache/hadoop/hbase/thrift/generated/Hbase/getVer_args/equals(org.apache.hadoop.hbase.thrift.generated.Hbase.getVer_args)@27987b6823f76e575061871e738a4ec4af3c2404.txt	1

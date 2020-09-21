@@ -1,0 +1,4 @@
+ch/qos/logback/core/net/SyslogAppenderBase/addError(java.lang.String,java.lang.Throwable)
+java/lang/StringBuilder/append(java.lang.String)
+ch/qos/logback/core/net/SyslogAppenderBase/isStarted()
+java/lang/String/length()

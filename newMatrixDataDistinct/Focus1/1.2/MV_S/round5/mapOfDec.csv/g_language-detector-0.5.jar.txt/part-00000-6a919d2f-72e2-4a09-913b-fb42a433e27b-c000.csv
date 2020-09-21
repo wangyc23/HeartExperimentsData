@@ -1,0 +1,5 @@
+org/eclipse/core/commands/ParameterizedCommand/expandParameters(int,org.eclipse.core.commands.IParameter[])@g_org.eclipse.core.commands-3.9.0.jar.txt	1
+org/eclipse/core/commands/ParameterizedCommand/generateCommand(org.eclipse.core.commands.Command,java.util.Map)@g_org.eclipse.core.commands-3.9.0.jar.txt	3
+org/eclipse/core/commands/ParameterizedCommand/generateCombinations(org.eclipse.core.commands.Command)@g_org.eclipse.core.commands-3.9.0.jar.txt	2
+org/xwiki/xar/XarPackage/writer(javax.xml.stream.XMLStreamWriter,java.lang.String)@g_xwiki-platform-xar-7.0.jar.txt	4
+org/eclipse/core/internal/commands/util/Util/safeCopy(java.util.Map,java.lang.Class,java.lang.Class,boolean,boolean)@g_org.eclipse.core.commands-3.9.0.jar.txt	0

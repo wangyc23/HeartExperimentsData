@@ -1,0 +1,5 @@
+edu/stanford/nlp/ie/machinereading/domains/ace/reader/AceDocument/constructSentenceRelationMentions()@g_stanford-corenlp-3.5.0.jar.txt	4
+edu/stanford/nlp/tagger/maxent/ExtractorFrames/getExtractorFrames(java.lang.String)@g_stanford-corenlp-3.5.0.jar.txt	1
+edu/stanford/nlp/parser/lexparser/SisterAnnotationStats/printStats()@g_stanford-corenlp-3.5.0.jar.txt	3
+edu/stanford/nlp/ie/machinereading/domains/ace/reader/AceDocument/parseDocument(java.lang.String,boolean)@g_stanford-corenlp-3.5.0.jar.txt	2
+edu/stanford/nlp/tagger/maxent/ExtractorFramesRare/getExtractorFramesRare(java.lang.String,edu.stanford.nlp.tagger.maxent.TTags)@g_stanford-corenlp-3.5.0.jar.txt	0

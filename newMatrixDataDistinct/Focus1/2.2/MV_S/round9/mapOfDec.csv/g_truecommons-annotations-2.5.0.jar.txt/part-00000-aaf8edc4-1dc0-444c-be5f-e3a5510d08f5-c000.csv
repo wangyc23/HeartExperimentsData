@@ -1,0 +1,5 @@
+com/sun/xml/xsom/impl/util/SchemaTreeTraverser/complexType(com.sun.xml.xsom.XSComplexType)@g_jaxb-xjc-2.2.6.jar.txt	3
+com/sun/tools/xjc/reader/internalizer/Internalizer/allocatePrefix(org.w3c.dom.Element,java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	2
+com/sun/tools/xjc/reader/xmlschema/ct/MixedExtendedComplexTypeBuilder/build(com.sun.xml.xsom.XSComplexType)@g_jaxb-xjc-2.2.6.jar.txt	4
+com/sun/xml/xsom/impl/util/SchemaWriter/attributeUse(com.sun.xml.xsom.XSAttributeUse)@g_jaxb-xjc-2.2.6.jar.txt	0
+com/sun/org/apache/xml/internal/resolver/Catalog/resolveDoctype(java.lang.String,java.lang.String,java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/jena/riot/writer/TurtleShell/ShellGraph/writePredicateObjectList(java.util.Collection)@g_spin-1.5.0-20150112.084011-1.jar.txt	4
+org/topbraid/spin/util/RelevantProperties/getRelevantPropertiesOfClass(com.hp.hpl.jena.rdf.model.Resource)@g_spin-1.5.0-20150112.084011-1.jar.txt	0
+com/hp/hpl/jena/sparql/expr/nodevalue/NodeFunctions/str(com.hp.hpl.jena.graph.Node)@g_spin-1.5.0-20150112.084011-1.jar.txt	1
+com/hp/hpl/jena/sparql/lang/ParserBase/stripSign(com.hp.hpl.jena.graph.Node)@g_spin-1.5.0-20150112.084011-1.jar.txt	3
+org/topbraid/spin/constraints/SPINConstraints/convertAskToConstruct(com.hp.hpl.jena.query.Query,org.topbraid.spin.model.Query,java.lang.String)@g_spin-1.5.0-20150112.084011-1.jar.txt	2

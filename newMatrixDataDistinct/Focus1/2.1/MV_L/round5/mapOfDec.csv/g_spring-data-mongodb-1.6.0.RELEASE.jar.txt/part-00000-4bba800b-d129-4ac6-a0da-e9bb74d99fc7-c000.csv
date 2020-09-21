@@ -1,0 +1,5 @@
+org/springframework/data/mongodb/repository/support/MongoAnnotationProcessor/createConfiguration(javax.annotation.processing.RoundEnvironment)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	1
+org/springframework/data/mongodb/core/convert/MongoExampleMapper/getMappedPropertyPath(java.lang.String,java.lang.Class)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	4
+org/springframework/data/mongodb/core/aggregation/ConditionalOperators/Cond/getClauses(org.springframework.data.mongodb.core.aggregation.AggregationOperationContext,java.lang.String,java.lang.Object)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	3
+org/springframework/data/mongodb/core/convert/DefaultDbRefResolver/LazyLoadingInterceptor/proxyToString(java.lang.Object)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	0
+org/springframework/data/mongodb/core/index/MongoPersistentEntityIndexResolver/potentiallyCreateTextIndexDefinition(org.springframework.data.mongodb.core.mapping.MongoPersistentEntity)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	2

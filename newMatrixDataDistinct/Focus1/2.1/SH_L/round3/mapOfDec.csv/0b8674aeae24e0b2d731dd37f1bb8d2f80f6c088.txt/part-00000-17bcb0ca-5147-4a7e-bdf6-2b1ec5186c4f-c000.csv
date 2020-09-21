@@ -1,0 +1,5 @@
+com/salesmanager/web/populator/customer/CustomerEntityPopulator/createTarget()@265c5400a11d4c40703ed6465fc5543221f8bb3f.txt	3
+com/salesmanager/core/modules/utils/EncryptionImpl/hexToBytes(java.lang.String)@265c5400a11d4c40703ed6465fc5543221f8bb3f.txt	4
+org/springside/examples/quickstart/web/account/UserAdminController/getUser(java.lang.Long,org.springframework.ui.Model)@265c5400a11d4c40703ed6465fc5543221f8bb3f.txt	1
+com/salesmanager/core/modules/cms/impl/StoreCacheManagerImpl/getInstance()@265c5400a11d4c40703ed6465fc5543221f8bb3f.txt	2
+com/example/sdn4rc2/web/ProductController/create(com.example.sdn4rc2.web.ProductForm,org.springframework.ui.Model)@265c5400a11d4c40703ed6465fc5543221f8bb3f.txt	0

@@ -1,0 +1,4 @@
+org/apache/cxf/jaxrs/impl/MetadataMap/MetadataMap()
+org/apache/cxf/jaxrs/client/ClientProxyImpl/setConfiguration(org.apache.cxf.jaxrs.client.ClientConfiguration)
+org/apache/cxf/jaxrs/client/ClientProxyImpl/getConfiguration()
+org/apache/cxf/jaxrs/model/ClassResourceInfo/getSubResource(java.lang.Class,java.lang.Class)

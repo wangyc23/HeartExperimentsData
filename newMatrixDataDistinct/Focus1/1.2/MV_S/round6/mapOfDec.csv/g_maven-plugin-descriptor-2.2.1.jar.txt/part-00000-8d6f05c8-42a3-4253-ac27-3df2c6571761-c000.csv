@@ -1,0 +1,5 @@
+org/apache/maven/plugin/ear/GenerateApplicationXmlMojo/buildEnvEntries()@g_maven-ear-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/ear/EarMojo/changeManifestClasspath(org.apache.maven.plugin.ear.EarModule,java.io.File)@g_maven-ear-plugin-2.8.jar.txt	1
+org/apache/maven/tools/plugin/generator/GeneratorUtils/toComponentDependencies(java.util.List)@g_maven-plugin-tools-generators-3.4.jar.txt	4
+org/apache/maven/plugin/ear/AbstractEarMojo/execute()@g_maven-ear-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/ear/EarMojo/execute()@g_maven-ear-plugin-2.8.jar.txt	3

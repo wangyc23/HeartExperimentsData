@@ -1,0 +1,5 @@
+com/guillaumecl/caskdays/Main/configureJedis(com.guillaumecl.caskdays.Config)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+com/guillaumecl/caskdays/Main/loadConfiguration()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3
+com/guillaumecl/caskdays/Main/configureStyleGuesses(com.guillaumecl.caskdays.Config)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0
+com/guillaumecl/caskdays/external/BeerListParser/getList()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1
+com/guillaumecl/caskdays/spellcheck/SpellChecker/loadFixes()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2

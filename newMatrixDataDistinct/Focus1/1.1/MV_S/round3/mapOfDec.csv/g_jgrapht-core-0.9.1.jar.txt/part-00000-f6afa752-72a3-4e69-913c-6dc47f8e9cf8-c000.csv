@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/debugging/BlackBoxOWLDebugger/performFastPruning()@g_sesame-queryalgebra-model-2.7.9.jar.txt	4
+org/jgrapht/experimental/equivalence/EquivalenceSetCreator/createEqualityGroupMap(java.util.Collection,org.jgrapht.experimental.equivalence.EquivalenceComparator,java.lang.Object)@g_sesame-queryalgebra-model-2.7.9.jar.txt	2
+org/jgrapht/alg/cycle/TiernanSimpleCycles/findSimpleCycles()@g_sesame-queryalgebra-model-2.7.9.jar.txt	0
+com/clarkparsia/owlapi/modularity/locality/SyntacticLocalityEvaluator/AxiomLocalityVisitor/visit(org.semanticweb.owlapi.model.OWLDisjointDataPropertiesAxiom)@g_sesame-queryalgebra-model-2.7.9.jar.txt	1
+org/jgrapht/experimental/GraphTests/isConnected(org.jgrapht.Graph)@g_sesame-queryalgebra-model-2.7.9.jar.txt	3

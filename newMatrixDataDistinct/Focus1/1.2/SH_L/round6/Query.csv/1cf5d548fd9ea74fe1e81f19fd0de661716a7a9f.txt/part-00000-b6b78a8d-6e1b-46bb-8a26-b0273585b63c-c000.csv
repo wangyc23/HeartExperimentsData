@@ -1,0 +1,4 @@
+ro/isdc/wro/util/Transformer/transform(T)
+ro/isdc/wro/util/WroTestUtils/compareFromSameFolder(java/io/File,ro/isdc/wro/util/IOFileFilter,ro/isdc/wro/util/Transformer,ro/isdc/wro/model/resource/processor/ResourcePreProcessor)/$anonymous1/()
+java/io/File/File(java.io.File,java.lang.String)
+java/lang/Throwable/getCause()

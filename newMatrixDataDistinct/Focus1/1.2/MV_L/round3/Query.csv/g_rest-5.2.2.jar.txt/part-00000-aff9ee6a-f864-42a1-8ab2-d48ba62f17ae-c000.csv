@@ -1,0 +1,4 @@
+java/util/concurrent/atomic/AtomicInteger/getAndIncrement()
+java/util/Iterator/hasNext()
+java/util/Collection/isEmpty()
+java/util/Set/isEmpty()

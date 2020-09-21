@@ -1,0 +1,4 @@
+org/springframework/beans/factory/parsing/BeanComponentDefinition/BeanComponentDefinition(org.springframework.beans.factory.config.BeanDefinition,java.lang.String)
+org/springframework/beans/factory/support/BeanDefinitionRegistry/registerBeanDefinition(java.lang.String,org.springframework.beans.factory.config.BeanDefinition)
+org/springframework/util/ClassUtils/isPresent(java.lang.String,java.lang.ClassLoader)
+org/springframework/beans/factory/parsing/BeanComponentDefinition/getBeanDefinition()

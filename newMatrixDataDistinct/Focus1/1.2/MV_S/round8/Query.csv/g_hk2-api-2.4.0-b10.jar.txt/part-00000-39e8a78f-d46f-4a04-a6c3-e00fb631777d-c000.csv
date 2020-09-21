@@ -1,0 +1,4 @@
+java/lang/reflect/Method/isAccessible()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/reflect/Method/getName()
+java/lang/StringBuilder/StringBuilder()

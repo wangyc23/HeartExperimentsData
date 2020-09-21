@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlet/ServletHandler/Chain/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse)@g_jetty-servlet-9.2.13.v20150730.jar.txt	1
+org/eclipse/jetty/servlet/ServletHandler/doHandle(java.lang.String,org.eclipse.jetty.server.Request,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jetty-servlet-9.0.2.v20130417.jar.txt	2
+org/eclipse/jetty/servlet/StatisticsServlet/sendXmlResponse(javax.servlet.http.HttpServletResponse)@g_jetty-servlet-9.0.2.v20130417.jar.txt	4
+org/eclipse/jetty/servlet/Holder/doStart()@g_jetty-servlet-9.0.2.v20130417.jar.txt	3
+org/eclipse/jetty/servlet/ServletHandler/Chain/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse)@g_jetty-servlet-9.0.2.v20130417.jar.txt	0

@@ -1,0 +1,5 @@
+org/eclipse/jetty/io/ByteArrayEndPoint/flush(java.nio.ByteBuffer[])@g_jetty-io-9.1.1.v20140108.jar.txt	1
+org/eclipse/jetty/io/SelectorManager/ManagedSelector/select()@g_jetty-io-9.0.2.v20130417.jar.txt	4
+org/eclipse/jetty/io/ssl/SslConnection/DecryptedEndPoint/shutdownOutput()@g_jetty-io-9.0.2.v20130417.jar.txt	3
+org/eclipse/jetty/io/MappedByteBufferPool/release(java.nio.ByteBuffer)@g_jetty-io-9.0.2.v20130417.jar.txt	2
+org/eclipse/jetty/io/ByteArrayEndPoint/flush(java.nio.ByteBuffer[])@g_jetty-io-9.0.2.v20130417.jar.txt	0

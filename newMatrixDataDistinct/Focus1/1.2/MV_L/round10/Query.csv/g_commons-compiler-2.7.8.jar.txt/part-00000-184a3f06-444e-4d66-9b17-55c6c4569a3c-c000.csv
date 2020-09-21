@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])
+java/lang/System/exit(int)
+org/codehaus/commons/compiler/IClassBodyEvaluator/cook(java.lang.String)

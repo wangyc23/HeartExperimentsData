@@ -1,0 +1,5 @@
+com/sun/star/comp/helper/Bootstrap/bootstrap()@g_jurt-3.2.1.jar.txt	1
+com/sun/star/lib/uno/helper/PropertySetMixin/getReflection(java.lang.String)@g_jurt-3.2.1.jar.txt	3
+com/sun/star/lib/uno/helper/Factory/instantiate(com.sun.star.uno.XComponentContext)@g_jurt-3.2.1.jar.txt	4
+org/artofsolving/jodconverter/process/LinuxProcessManager/findPid(org.artofsolving.jodconverter.process.ProcessQuery)@g_jurt-3.2.1.jar.txt	0
+com/sun/star/comp/loader/FactoryHelper/Factory/createInstanceWithArgumentsAndContext(java.lang.Object[],com.sun.star.uno.XComponentContext)@g_jurt-3.2.1.jar.txt	2

@@ -1,0 +1,4 @@
+java/util/Map/Entry/getValue()
+io/fabric8/api/FabricRequirements/getOrCreateProfileRequirement(java.lang.String)
+io/fabric8/utils/CountingMap/keySet()
+java/util/Map/Entry/getKey()

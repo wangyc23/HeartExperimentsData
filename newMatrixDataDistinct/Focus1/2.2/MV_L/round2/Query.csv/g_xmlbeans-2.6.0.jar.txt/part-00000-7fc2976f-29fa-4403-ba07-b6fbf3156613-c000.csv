@@ -1,0 +1,4 @@
+java/util/LinkedList/isEmpty()
+org/apache/xmlbeans/impl/xb/xsdschema/SchemaDocument$Schema/getImportArray()
+java/util/Arrays/asList(java.lang.Object[])
+org/apache/xmlbeans/impl/xb/xsdschema/ImportDocument$Import/getNamespace()

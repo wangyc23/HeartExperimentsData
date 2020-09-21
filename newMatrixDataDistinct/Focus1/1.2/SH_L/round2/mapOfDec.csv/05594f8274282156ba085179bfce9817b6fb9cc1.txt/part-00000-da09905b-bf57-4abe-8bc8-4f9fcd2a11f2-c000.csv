@@ -1,0 +1,5 @@
+org/jboss/resteasy/client/core/executors/ApacheHttpClient4Executor/loadHttpMethod(org.jboss.resteasy.client.ClientRequest,org.apache.http.client.methods.HttpRequestBase)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+org/jboss/resteasy/plugins/cache/server/SimpleServerCache/get(java.lang.String,javax.ws.rs.core.MediaType)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+org/jboss/resteasy/client/jaxrs/internal/ClientWebTarget/resolveTemplates(java.util.Map,boolean)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+org/jboss/resteasy/plugins/server/servlet/HttpServletInputMessage/getDecodedFormParameters()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+org/jboss/resteasy/client/jaxrs/internal/ClientWebTarget/resolveTemplatesFromEncoded(java.util.Map)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0

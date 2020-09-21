@@ -1,0 +1,5 @@
+org/apache/commons/io/HexDump/dump(byte[],long,java.io.OutputStream,int)@g_commons-exec-1.3.jar.txt	0
+org/apache/commons/io/FileSystemUtils/freeSpaceUnix(java.lang.String,boolean,boolean,long)@g_commons-exec-1.3.jar.txt	2
+org/apache/commons/io/FileUtils/cleanDirectory(java.io.File)@g_commons-exec-1.3.jar.txt	1
+org/apache/commons/io/FileUtils/moveFileToDirectory(java.io.File,java.io.File,boolean)@g_commons-exec-1.3.jar.txt	3
+org/apache/commons/io/FileUtils/moveDirectoryToDirectory(java.io.File,java.io.File,boolean)@g_commons-exec-1.3.jar.txt	4

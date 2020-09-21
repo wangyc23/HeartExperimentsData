@@ -1,0 +1,5 @@
+0	org/keycloak/models/RealmModel/getPasswordPolicy()
+1	org/keycloak/models/RealmModel/isEnabled()
+2	org/keycloak/events/admin/AdminEvent/getAuthDetails()
+3	org/keycloak/models/cache/entities/CachedRealm/isEnabled()
+4	org/keycloak/models/PasswordPolicy/getHashIterations()

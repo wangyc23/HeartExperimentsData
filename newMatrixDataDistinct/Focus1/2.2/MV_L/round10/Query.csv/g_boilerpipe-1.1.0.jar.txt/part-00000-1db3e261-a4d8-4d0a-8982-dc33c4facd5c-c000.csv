@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.CharSequence)
+java/util/BitSet/or(java.util.BitSet)
+java/lang/StringBuilder/append(char)
+java/lang/Math/min(int,int)

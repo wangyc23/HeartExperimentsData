@@ -1,0 +1,5 @@
+org/apache/maven/plugins/site/AbstractSiteRenderingMojo/createSiteRenderingContext(java.util.Locale)@g_maven-site-plugin-3.3.jar.txt	3
+org/apache/maven/plugins/site/render/AbstractSiteRenderingMojo/getReports()@g_maven-site-plugin-3.4.jar.txt	1
+org/apache/maven/plugins/site/run/SiteRunMojo/execute()@g_maven-site-plugin-3.3.jar.txt	4
+org/apache/maven/plugins/site/deploy/AbstractDeployMojo/getWagon(org.apache.maven.wagon.repository.Repository,org.apache.maven.artifact.manager.WagonManager)@g_maven-site-plugin-3.3.jar.txt	2
+org/apache/maven/plugins/site/AbstractSiteRenderingMojo/getReports()@g_maven-site-plugin-3.3.jar.txt	0

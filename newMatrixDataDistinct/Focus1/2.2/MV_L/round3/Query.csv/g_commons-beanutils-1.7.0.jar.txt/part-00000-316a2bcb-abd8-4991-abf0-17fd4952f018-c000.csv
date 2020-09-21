@@ -1,0 +1,4 @@
+java/lang/NoSuchMethodException/NoSuchMethodException(java.lang.String)
+java/beans/IndexedPropertyDescriptor/getIndexedWriteMethod()
+java/lang/StringBuffer/append(java.lang.Object)
+org/apache/commons/logging/Log/trace(java.lang.Object)

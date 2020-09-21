@@ -1,0 +1,5 @@
+com/google/common/base/Preconditions/format(java.lang.String,java.lang.Object[])@g_guava-21.0.jar.txt	3
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-21.0.jar.txt	2
+com/google/common/io/Files/createParentDirs(java.io.File)@g_guava-20.0.jar.txt	1
+com/google/common/io/Files/createParentDirs(java.io.File)@g_guava-21.0.jar.txt	0
+com/google/common/base/FinalizableReferenceQueue/DecoupledLoader/getBaseUrl()@g_guava-21.0.jar.txt	4

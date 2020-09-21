@@ -1,0 +1,5 @@
+org/jsoup/nodes/Entities/toCharacterKey(java.util.Map)@g_jsoup-1.7.2.jar.txt	4
+org/jsoup/helper/HttpConnection/Response/processResponseHeaders(java.util.Map)@g_jsoup-1.7.2.jar.txt	3
+org/jsoup/nodes/Entities/loadEntities(java.lang.String)@g_jsoup-1.7.2.jar.txt	0
+org/jsoup/nodes/Attributes/asList()@g_jsoup-1.7.2.jar.txt	2
+org/jsoup/helper/HttpConnection/Response/setupFromConnection(java.net.HttpURLConnection,org.jsoup.Connection$Response)@g_jsoup-1.7.2.jar.txt	1

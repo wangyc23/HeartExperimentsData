@@ -1,0 +1,5 @@
+org/xwiki/component/wiki/internal/bridge/DefaultWikiComponentBridge/getDependencies(org.xwiki.model.reference.DocumentReference)@g_xwiki-commons-component-default-7.0.jar.txt	4
+org/xwiki/component/embed/EmbeddableComponentManager/getComponentDescriptorList(java.lang.reflect.Type)@g_xwiki-commons-component-default-7.0.jar.txt	2
+org/xwiki/component/annotation/ComponentDescriptorFactory/createComponentDescriptor(java.lang.Class,java.lang.String,java.lang.reflect.Type)@g_xwiki-commons-component-default-7.0.jar.txt	0
+org/xwiki/component/wiki/internal/DefaultWikiComponentManager/registerWikiComponent(org.xwiki.component.wiki.WikiComponent)@g_xwiki-commons-component-default-7.0.jar.txt	3
+org/xwiki/component/embed/GenericProvider/get()@g_xwiki-commons-component-default-7.0.jar.txt	1

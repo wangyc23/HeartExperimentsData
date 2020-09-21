@@ -1,0 +1,4 @@
+org/apache/lucene/queryparser/flexible/standard/nodes/LegacyNumericRangeQueryNode/getUpperBound()
+org/apache/lucene/queryparser/flexible/standard/nodes/LegacyNumericRangeQueryNode/getLowerBound()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)

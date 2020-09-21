@@ -1,0 +1,4 @@
+org/drools/rule/builder/dialect/java/parser/JavaParser$DFA122/predict(org.antlr.runtime.IntStream)
+org/drools/rule/builder/dialect/java/parser/JavaParser$DFA120/predict(org.antlr.runtime.IntStream)
+org/antlr/runtime/TokenStream/index()
+org/drools/rule/builder/dialect/java/parser/JavaParser/pushFollow(org.antlr.runtime.BitSet)

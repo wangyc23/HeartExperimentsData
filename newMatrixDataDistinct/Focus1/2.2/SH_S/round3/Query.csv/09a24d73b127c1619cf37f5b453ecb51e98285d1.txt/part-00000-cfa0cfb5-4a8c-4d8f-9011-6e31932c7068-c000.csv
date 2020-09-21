@@ -1,0 +1,4 @@
+java/sql/ResultSet/getDouble(java.lang.String)
+net/spinetrak/gasguzzler/core/RateDataPoint/setX(long)
+java/sql/ResultSet/getLong(java.lang.String)
+net/spinetrak/gasguzzler/core/RateDataPoint/setY(double)

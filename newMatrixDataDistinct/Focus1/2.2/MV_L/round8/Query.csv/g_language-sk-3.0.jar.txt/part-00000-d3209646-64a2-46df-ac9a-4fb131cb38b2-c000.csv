@@ -1,0 +1,4 @@
+org/languagetool/databroker/ResourceDataBroker/getRulesDir()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+org/languagetool/JLanguageTool/getDataBroker()

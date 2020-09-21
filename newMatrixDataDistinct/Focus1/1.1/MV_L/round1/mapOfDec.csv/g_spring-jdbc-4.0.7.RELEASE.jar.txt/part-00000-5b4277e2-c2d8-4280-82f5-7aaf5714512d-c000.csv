@@ -1,0 +1,5 @@
+org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator/doTranslate(java.lang.String,java.lang.String,java.sql.SQLException)@g_spring-jdbc-4.0.5.RELEASE.jar.txt	0
+org/springframework/jdbc/object/StoredProcedure/execute(java.lang.Object[])@g_spring-jdbc-4.0.5.RELEASE.jar.txt	4
+org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator/doTranslate(java.lang.String,java.lang.String,java.sql.SQLException)@g_spring-jdbc-4.0.6.RELEASE.jar.txt	1
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-jdbc-4.0.5.RELEASE.jar.txt	2
+org/springframework/jdbc/support/lob/OracleLobHandler/OracleLobCreator/setClobAsString(java.sql.PreparedStatement,int,java.lang.String)@g_spring-jdbc-4.0.5.RELEASE.jar.txt	3

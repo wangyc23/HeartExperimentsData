@@ -1,0 +1,5 @@
+org/apache/commons/dbcp2/BasicDataSourceFactory/validatePropertyNames(javax.naming.Reference,javax.naming.Name,java.util.List,java.util.List)@g_commons-dbcp2-2.1.jar.txt	1
+org/apache/commons/dbcp2/datasources/CPDSConnectionFactory/connectionErrorOccurred(javax.sql.ConnectionEvent)@g_commons-dbcp2-2.1.jar.txt	4
+org/apache/commons/dbcp2/BasicDataSourceFactory/createDataSource(java.util.Properties)@g_commons-dbcp2-2.1.1.jar.txt	2
+org/apache/commons/dbcp2/BasicDataSourceFactory/validatePropertyNames(javax.naming.Reference,javax.naming.Name,java.util.List,java.util.List)@g_commons-dbcp2-2.1.1.jar.txt	3
+org/apache/commons/dbcp2/BasicDataSourceFactory/createDataSource(java.util.Properties)@g_commons-dbcp2-2.1.jar.txt	0

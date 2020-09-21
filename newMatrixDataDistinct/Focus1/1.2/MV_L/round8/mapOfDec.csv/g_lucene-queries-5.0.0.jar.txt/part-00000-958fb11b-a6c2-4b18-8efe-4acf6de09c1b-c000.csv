@@ -1,0 +1,5 @@
+org/apache/lucene/queries/mlt/MoreLikeThis/addTermFrequencies(java.util.Map,org.apache.lucene.index.Terms)@g_lucene-queries-5.3.1.jar.txt	4
+org/apache/lucene/queries/mlt/MoreLikeThis/createQueue(java.util.Map)@g_lucene-queries-5.3.1.jar.txt	2
+org/apache/lucene/queries/mlt/MoreLikeThis/retrieveTerms(java.util.Map)@g_lucene-queries-5.5.0.jar.txt	1
+org/apache/lucene/queries/mlt/MoreLikeThis/retrieveTerms(java.util.Map)@g_lucene-queries-5.3.1.jar.txt	0
+org/apache/lucene/queries/mlt/MoreLikeThis/createQueue(java.util.Map)@g_lucene-queries-5.5.0.jar.txt	3

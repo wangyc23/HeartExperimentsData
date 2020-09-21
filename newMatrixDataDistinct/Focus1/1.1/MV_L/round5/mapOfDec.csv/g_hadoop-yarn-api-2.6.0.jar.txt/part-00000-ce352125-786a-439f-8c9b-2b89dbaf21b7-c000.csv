@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/proto/YarnProtos/QueueUserACLInfoProto/hashCode()@g_hadoop-yarn-api-2.6.5.jar.txt	2
+org/apache/hadoop/yarn/proto/YarnProtos/QueueUserACLInfoProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.YarnProtos$QueueUserACLInfoProto)@g_hadoop-yarn-api-2.6.5.jar.txt	0
+org/apache/hadoop/yarn/proto/YarnProtos/NodeReportProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.5.jar.txt	4
+org/apache/hadoop/yarn/proto/YarnServiceProtos/ReservationSubmissionRequestProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.5.jar.txt	3
+org/apache/hadoop/yarn/proto/YarnProtos/QueueUserACLInfoProto/writeTo(com.google.protobuf.CodedOutputStream)@g_hadoop-yarn-api-2.6.5.jar.txt	1

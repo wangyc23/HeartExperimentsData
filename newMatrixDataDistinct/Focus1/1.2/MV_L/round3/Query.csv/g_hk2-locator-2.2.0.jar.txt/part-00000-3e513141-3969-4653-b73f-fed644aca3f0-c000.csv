@@ -1,0 +1,4 @@
+java/util/concurrent/locks/ReentrantReadWriteLock$WriteLock/unlock()
+java/util/LinkedList/iterator()
+org/glassfish/hk2/api/ErrorService/onFailure(org.glassfish.hk2.api.ErrorInformation)
+java/util/Iterator/hasNext()

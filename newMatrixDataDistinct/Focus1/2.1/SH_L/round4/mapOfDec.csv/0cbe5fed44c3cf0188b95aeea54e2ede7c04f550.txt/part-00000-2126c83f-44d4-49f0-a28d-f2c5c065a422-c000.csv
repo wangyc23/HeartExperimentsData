@@ -1,0 +1,5 @@
+TextPairTest/checkOnce(RawComparator,TextPair,TextPair,int)@0be4460237c8598060d2c6773ab68eec2494f966.txt	4
+NcdcStationMetadataParser/parse(org.apache.hadoop.io.Text)@0be4460237c8598060d2c6773ab68eec2494f966.txt	2
+MaxWidgetIdGenericAvro/MaxWidgetMapper/close()@0be4460237c8598060d2c6773ab68eec2494f966.txt	0
+ExamplesIT/test()@0be4460237c8598060d2c6773ab68eec2494f966.txt	3
+oops/chapter21/section7/p3/DeTask2/compareTo(java.util.concurrent.Delayed)@0be4460237c8598060d2c6773ab68eec2494f966.txt	1

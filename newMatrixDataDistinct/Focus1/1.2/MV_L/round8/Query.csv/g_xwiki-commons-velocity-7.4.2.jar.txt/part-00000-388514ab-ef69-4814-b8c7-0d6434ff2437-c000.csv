@@ -1,0 +1,4 @@
+com/fasterxml/jackson/databind/ObjectMapper/registerModule(com.fasterxml.jackson.databind.Module)
+com/fasterxml/jackson/core/Version/Version(int,int,int,java.lang.String,java.lang.String,java.lang.String)
+com/fasterxml/jackson/databind/ObjectMapper/writeValueAsString(java.lang.Object)
+com/fasterxml/jackson/databind/module/SimpleModule/SimpleModule(java.lang.String,com.fasterxml.jackson.core.Version)

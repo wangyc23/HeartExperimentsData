@@ -1,0 +1,5 @@
+org/springframework/core/style/DefaultValueStyler/style(java.util.Map)@g_spring-core-4.2.1.RELEASE.jar.txt	4
+org/springframework/core/Constants/getNamesForSuffix(java.lang.String)@g_spring-core-4.2.1.RELEASE.jar.txt	2
+org/springframework/core/annotation/AnnotationUtils/isSynthesizable(java.lang.Class)@g_spring-core-4.2.1.RELEASE.jar.txt	1
+org/springframework/core/annotation/AnnotationUtils/getAttributeAliasMap(java.lang.Class)@g_spring-core-4.2.1.RELEASE.jar.txt	3
+org/springframework/core/type/classreading/AnnotationReadingVisitorUtils/getMergedAnnotationAttributes(org.springframework.util.LinkedMultiValueMap,java.util.Map,java.lang.String)@g_spring-core-4.2.1.RELEASE.jar.txt	0

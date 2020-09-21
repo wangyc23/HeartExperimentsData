@@ -1,0 +1,5 @@
+org/jvnet/hk2/internal/ServiceLocatorImpl/addConfiguration(org.jvnet.hk2.internal.DynamicConfigurationImpl)@g_hk2-locator-2.4.0-b10.jar.txt	0
+org/jvnet/hk2/internal/ServiceLocatorImpl/addConfiguration(org.jvnet.hk2.internal.DynamicConfigurationImpl)@g_hk2-locator-2.2.0-b21.jar.txt	1
+org/jvnet/hk2/internal/ServiceLocatorImpl/shutdown()@g_hk2-locator-2.2.0-b21.jar.txt	4
+org/jvnet/hk2/internal/ServiceLocatorImpl/checkConfiguration(org.jvnet.hk2.internal.DynamicConfigurationImpl)@g_hk2-locator-2.2.0-b21.jar.txt	2
+org/jvnet/hk2/internal/ServiceLocatorImpl/addConfigurationInternal(org.jvnet.hk2.internal.DynamicConfigurationImpl)@g_hk2-locator-2.2.0-b21.jar.txt	3

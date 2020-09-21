@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+org/xwiki/rendering/block/XDOM/getChildren()
+java/io/StringReader/StringReader(java.lang.String)
+java/util/Set/contains(java.lang.Object)

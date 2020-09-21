@@ -1,0 +1,4 @@
+org/apache/lucene/index/DocsEnum/nextDoc()
+org/apache/lucene/index/AtomicReader/fields()
+org/apache/lucene/index/TermsEnum/seekExact(org.apache.lucene.util.BytesRef,boolean)
+org/apache/lucene/index/Terms/iterator(org.apache.lucene.index.TermsEnum)

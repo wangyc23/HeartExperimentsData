@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLObjectPropertyExpression)@g_owlapi-distribution-4.5.0.jar.txt	4
+org/semanticweb/owlapi/util/OWLEntityURIConverter/getChanges()@g_owlapi-distribution-4.5.0.jar.txt	2
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLDataProperty)@g_owlapi-distribution-4.5.0.jar.txt	0
+org/semanticweb/owlapi/rdf/rdfxml/renderer/RDFXMLRenderer/render(org.semanticweb.owlapi.io.RDFResource,boolean)@g_owlapi-parsers-5.1.0.jar.txt	1
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/removeValue(java.util.Map,java.lang.Object)@g_owlapi-distribution-4.5.0.jar.txt	3

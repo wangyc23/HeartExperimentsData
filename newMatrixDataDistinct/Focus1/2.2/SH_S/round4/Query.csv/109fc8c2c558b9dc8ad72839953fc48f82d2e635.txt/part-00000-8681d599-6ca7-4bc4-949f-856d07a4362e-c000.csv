@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/Object/toString()
+at/ac/tuwien/service/DBService/getProfiles()
+at/ac/tuwien/view/templateduplication/TemplateGenerator/HelperContainer/HelperContainer(java.lang.String,java.lang.String)

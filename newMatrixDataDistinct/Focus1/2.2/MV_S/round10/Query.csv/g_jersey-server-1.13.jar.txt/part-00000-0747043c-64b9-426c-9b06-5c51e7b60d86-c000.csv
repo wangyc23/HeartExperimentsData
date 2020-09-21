@@ -1,0 +1,4 @@
+java/util/Properties/isEmpty()
+com/sun/jersey/api/wadl/config/WadlGeneratorLoader$CallbackList/add(com.sun.jersey.api.wadl.config.WadlGeneratorLoader$Callback)
+java/lang/Class/getName()
+java/util/Set/iterator()

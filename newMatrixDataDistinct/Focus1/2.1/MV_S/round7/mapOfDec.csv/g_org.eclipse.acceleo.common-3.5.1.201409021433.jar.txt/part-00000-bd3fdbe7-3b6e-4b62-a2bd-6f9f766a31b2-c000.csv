@@ -1,0 +1,5 @@
+org/eclipse/acceleo/common/utils/ModelUtils/getModelsFrom(java.io.File,java.lang.String,org.eclipse.emf.ecore.resource.ResourceSet)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	2
+org/eclipse/acceleo/common/internal/utils/AcceleoPackageRegistry/registerEcorePackages(java.lang.String,org.eclipse.emf.ecore.resource.ResourceSet)@g_org.eclipse.acceleo.common-3.5.0-SNAPSHOT.jar.txt	3
+org/eclipse/acceleo/common/internal/utils/LazyEPackageDescriptor/create(org.eclipse.emf.common.util.URI,org.eclipse.emf.ecore.resource.ResourceSet,org.eclipse.emf.ecore.EPackage$Registry)@g_org.eclipse.acceleo.common-3.5.0-SNAPSHOT.jar.txt	4
+org/eclipse/acceleo/common/internal/utils/LazyEPackageDescriptor/create(org.eclipse.emf.common.util.URI,org.eclipse.emf.ecore.resource.ResourceSet,org.eclipse.emf.ecore.EPackage$Registry)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	1
+org/eclipse/acceleo/common/internal/utils/AcceleoPackageRegistry/registerEcorePackages(java.lang.String,org.eclipse.emf.ecore.resource.ResourceSet)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	0

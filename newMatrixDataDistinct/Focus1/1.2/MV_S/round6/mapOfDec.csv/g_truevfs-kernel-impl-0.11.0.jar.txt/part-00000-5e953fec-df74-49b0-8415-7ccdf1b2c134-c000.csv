@@ -1,0 +1,5 @@
+net/java/truevfs/access/TFileSystemProvider/copy(net.java.truevfs.access.TPath,net.java.truevfs.access.TPath,java.nio.file.CopyOption[])@g_truevfs-access-0.11.0.jar.txt	4
+net/java/truevfs/access/TPath/outputOptions(java.util.Set)@g_truevfs-access-0.11.0.jar.txt	3
+net/java/truevfs/access/TArchiveDetector/schemes(java.lang.Object)@g_truevfs-access-0.11.0.jar.txt	2
+net/java/truevfs/access/TArchiveDetector/extensions(javax.inject.Provider)@g_truevfs-access-0.11.0.jar.txt	1
+net/java/truevfs/comp/zipdriver/AbstractZipDriver/newEntry(net.java.truecommons.shed.BitField,java.lang.String,net.java.truecommons.cio.Entry$Type,net.java.truecommons.cio.Entry)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	0

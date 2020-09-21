@@ -1,0 +1,5 @@
+org/xwiki/observation/internal/DefaultObservationManager/notify(java.util.Collection,org.xwiki.observation.event.Event,java.lang.Object,java.lang.Object)@g_xwiki-commons-observation-local-7.0.jar.txt	4
+org/xwiki/logging/logback/internal/DefaultLoggerManager/popLogListener()@g_xwiki-commons-observation-local-7.0.jar.txt	3
+org/xwiki/observation/internal/DefaultObservationManager/addListener(org.xwiki.observation.EventListener)@g_xwiki-commons-observation-local-7.0.jar.txt	0
+org/xwiki/logging/logback/internal/DefaultLoggerManager/pushLogListener(org.xwiki.observation.EventListener)@g_xwiki-commons-observation-local-7.0.jar.txt	2
+org/xwiki/observation/internal/DefaultObservationManager/addListener(org.xwiki.observation.EventListener)@g_xwiki-commons-observation-local-7.4.2.jar.txt	1

@@ -1,0 +1,5 @@
+net/sf/ehcache/distribution/MulticastRMICacheManagerPeerProvider/listRemoteCachePeers(net.sf.ehcache.Ehcache)@g_ehcache-core-2.6.2.jar.txt	2
+org/neo4j/ogm/service/ResourceService/resolve(java.net.URL)@g_neo4j-ogm-api-2.0.1.jar.txt	1
+net/sf/ehcache/config/ConfigurationFactory/parseConfiguration(java.io.File)@g_ehcache-core-2.6.2.jar.txt	3
+org/neo4j/ogm/service/DriverService/load(java.lang.String)@g_neo4j-ogm-api-2.0.1.jar.txt	0
+net/sf/ehcache/transaction/xa/EhcacheXAResourceImpl/recover(int)@g_ehcache-core-2.6.2.jar.txt	4

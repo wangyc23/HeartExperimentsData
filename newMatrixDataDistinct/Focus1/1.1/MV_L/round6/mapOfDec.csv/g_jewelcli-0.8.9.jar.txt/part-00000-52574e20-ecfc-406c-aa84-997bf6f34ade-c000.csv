@@ -1,0 +1,5 @@
+com/lexicalscope/jewelcli/internal/hamcrest/BaseDescription/appendValue(java.lang.Object)@g_spring-asm-3.0.5.RELEASE.jar.txt	3
+com/lexicalscope/jewel/cli/ArgumentPresenterImpl/presentArguments(com.lexicalscope.jewel.cli.validation.OptionCollection)@g_spring-asm-3.0.5.RELEASE.jar.txt	1
+com/lexicalscope/jewelcli/internal/cglib/core/EmitUtils/load_method(com.lexicalscope.jewelcli.internal.cglib.core.$CodeEmitter,com.lexicalscope.jewelcli.internal.cglib.core.$MethodInfo)@g_spring-asm-3.0.5.RELEASE.jar.txt	2
+com/lexicalscope/jewelcli/internal/cglib/core/TypeUtils/parseSignature(java.lang.String)@g_spring-asm-3.0.5.RELEASE.jar.txt	0
+com/lexicalscope/jewelcli/internal/cglib/proxy/MethodInterceptorGenerator/generate(com.lexicalscope.jewelcli.internal.cglib.core.$ClassEmitter,com.lexicalscope.jewelcli.internal.cglib.proxy.$CallbackGenerator$Context,java.util.List)@g_spring-asm-3.0.5.RELEASE.jar.txt	4

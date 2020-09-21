@@ -1,0 +1,4 @@
+java/lang/reflect/Field/getAnnotations()
+java/lang/Class/getSimpleName()
+java/util/Iterator/hasNext()
+java/util/Arrays/asList(java.lang.Object[])

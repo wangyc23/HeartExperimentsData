@@ -1,0 +1,4 @@
+org/apache/shiro/authz/SimpleAuthorizationInfo/setRoles(java.util.Set)
+org/apache/shiro/SecurityUtils/getSubject()
+org/apache/shiro/authz/SimpleAuthorizationInfo/SimpleAuthorizationInfo()
+org/apache/shiro/session/Session/getAttribute(java.lang.Object)

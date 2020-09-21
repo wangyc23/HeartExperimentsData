@@ -1,0 +1,5 @@
+org/glassfish/jersey/grizzly2/httpserver/GrizzlyHttpContainer/service(org.glassfish.grizzly.http.server.Request,org.glassfish.grizzly.http.server.Response)@g_jersey-container-grizzly2-http-2.21.jar.txt	2
+org/glassfish/jersey/grizzly2/httpserver/GrizzlyHttpServerFactory/createHttpServer(java.net.URI,org.glassfish.jersey.grizzly2.httpserver.GrizzlyHttpContainer,boolean,org.glassfish.grizzly.ssl.SSLEngineConfigurator,boolean)@g_jersey-container-grizzly2-http-2.17.jar.txt	1
+org/glassfish/jersey/grizzly2/httpserver/GrizzlyHttpServerFactory/createHttpServer(java.net.URI,org.glassfish.jersey.grizzly2.httpserver.GrizzlyHttpContainer,boolean,org.glassfish.grizzly.ssl.SSLEngineConfigurator,boolean)@g_jersey-container-grizzly2-http-2.21.jar.txt	0
+org/glassfish/jersey/grizzly2/httpserver/GrizzlyHttpContainer/GrizzlyBinder/configure()@g_jersey-container-grizzly2-http-2.21.jar.txt	4
+org/glassfish/jersey/grizzly2/httpserver/GrizzlyHttpContainer/ResponseWriter/writeResponseStatusAndHeaders(long,org.glassfish.jersey.server.ContainerResponse)@g_jersey-container-grizzly2-http-2.21.jar.txt	3

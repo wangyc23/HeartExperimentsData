@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+org/openrdf/model/Statement/getSubject()
+org/slf4j/Logger/debug(java.lang.String,java.lang.Object)
+org/openrdf/model/ValueFactory/createStatement(org.openrdf.model.Resource,org.openrdf.model.URI,org.openrdf.model.Value)

@@ -1,0 +1,5 @@
+org/apache/poi/hwpf/sprm/CharacterSprmCompressor/compressCharacterProperty(org.apache.poi.hwpf.usermodel.CharacterProperties,org.apache.poi.hwpf.usermodel.CharacterProperties)@g_poi-scratchpad-3.13.jar.txt	3
+org/apache/poi/hwpf/model/CHPFormattedDiskPage/toByteArray(org.apache.poi.hwpf.model.CharIndexTranslator)@g_poi-scratchpad-3.13.jar.txt	1
+org/apache/poi/hslf/usermodel/HSLFSlideShow/buildSlidesAndNotes()@g_poi-scratchpad-3.13.jar.txt	0
+org/apache/poi/hslf/usermodel/HSLFSlideShow/reorderSlide(int,int)@g_poi-scratchpad-3.13.jar.txt	2
+org/apache/poi/hsmf/parsers/POIFSChunkParser/parse(org.apache.poi.poifs.filesystem.DirectoryNode)@g_poi-scratchpad-3.13.jar.txt	4

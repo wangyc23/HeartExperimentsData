@@ -1,0 +1,5 @@
+org/postgresql/jdbc3/AbstractJdbc3Connection/setSavepoint()@g_mysql-connector-java-5.1.18.jar.txt	4
+liquibase/servicelocator/DefaultPackageScanClassResolver/loadImplementationsInJar(liquibase.servicelocator.PackageScanFilter,java.lang.String,java.io.InputStream,java.lang.String,java.util.Set)@g_mysql-connector-java-5.1.18.jar.txt	1
+com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_mysql-connector-java-5.1.18.jar.txt	0
+com/mysql/jdbc/jdbc2/optional/WrapperBase/ConnectionErrorFiringInvocationHandler/proxyIfInterfaceIsJdbc(java.lang.Object,java.lang.Class)@g_mysql-connector-java-5.1.18.jar.txt	3
+com/mysql/jdbc/MysqlDefs/appendJdbcTypeMappingQuery(java.lang.StringBuffer,java.lang.String)@g_mysql-connector-java-5.1.18.jar.txt	2

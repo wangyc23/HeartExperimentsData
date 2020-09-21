@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/velocity/runtime/parser/node/ASTNENode/evaluate(org.carrot2.util.preprocessor.shaded.apache.velocity.context.InternalContextAdapter)@g_velocity-1.5.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BlockingBuffer/get(long)@g_velocity-1.5.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/StringUtils/splitWorker(java.lang.String,java.lang.String,int,boolean)@g_velocity-1.5.jar.txt	2
+org/apache/velocity/runtime/parser/node/ASTStringLiteral/init(org.apache.velocity.context.InternalContextAdapter,java.lang.Object)@g_velocity-1.5.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_velocity-1.5.jar.txt	1

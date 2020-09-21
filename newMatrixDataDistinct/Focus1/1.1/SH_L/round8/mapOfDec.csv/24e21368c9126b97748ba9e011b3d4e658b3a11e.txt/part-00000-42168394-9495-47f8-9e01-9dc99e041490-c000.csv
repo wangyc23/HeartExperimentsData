@@ -1,0 +1,5 @@
+com/iluwatar/monad/MonadTest/testForValid()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	4
+com/salesforce/phoenix/end2end/ProductMetricsTest/testDegenerateAggregation()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	2
+com/iluwatar/dao/DbCustomerDaoTest/ConnectionSuccess/ExistingCustomer/updationShouldBeSuccessAndAccessingTheSameCustomerShouldReturnUpdatedInformation()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	1
+com/salesforce/phoenix/jdbc/PhoenixResultSet/moveToCurrentRow()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	0
+com/salesforce/phoenix/compile/UpsertCompiler/UpsertValuesCompiler/visit(com.salesforce.phoenix.parse.BindParseNode)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	3

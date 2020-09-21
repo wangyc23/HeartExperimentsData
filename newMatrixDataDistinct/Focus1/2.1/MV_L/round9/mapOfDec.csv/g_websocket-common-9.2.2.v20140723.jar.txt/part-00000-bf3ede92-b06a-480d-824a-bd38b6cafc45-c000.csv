@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/HttpOutput/sendContent(org.eclipse.jetty.http.HttpContent,org.eclipse.jetty.util.Callback)@g_jetty-server-9.3.8.v20160314.jar.txt	2
+org/eclipse/jetty/server/Response/putHeaders(javax.servlet.http.HttpServletResponse,org.eclipse.jetty.http.HttpContent,long,boolean)@g_jetty-server-9.3.8.v20160314.jar.txt	4
+org/eclipse/jetty/server/session/JDBCSessionManager/expire(java.util.Set)@g_jetty-server-9.3.8.v20160314.jar.txt	3
+org/eclipse/jetty/io/ssl/SslConnection/DecryptedEndPoint/1/succeeded()@g_jetty-server-9.3.8.v20160314.jar.txt	0
+org/eclipse/jetty/websocket/common/io/IOState/toString()@g_jetty-server-9.3.8.v20160314.jar.txt	1

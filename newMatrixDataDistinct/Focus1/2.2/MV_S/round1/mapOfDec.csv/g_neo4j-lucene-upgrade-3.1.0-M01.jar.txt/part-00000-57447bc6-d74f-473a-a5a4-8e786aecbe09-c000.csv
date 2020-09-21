@@ -1,0 +1,5 @@
+org/neo4j/upgrade/lucene/LuceneExplicitIndexUpgrader/upgradeIndexes()@g_neo4j-lucene-upgrade-3.3.0.jar.txt	1
+org/xwiki/xff/core/model/Space/store(java.nio.file.Path)@g_xff-core-0.4.0.jar.txt	3
+org/neo4j/upgrade/lucene/IndexUpgraderWrapper/upgradeIndex(java.nio.file.Path)@g_neo4j-lucene-upgrade-3.3.0.jar.txt	0
+org/xwiki/xff/core/model/Wiki/orderedPaths()@g_xff-core-0.4.0.jar.txt	4
+org/xwiki/xff/core/model/Class/orderedPaths()@g_xff-core-0.4.0.jar.txt	2

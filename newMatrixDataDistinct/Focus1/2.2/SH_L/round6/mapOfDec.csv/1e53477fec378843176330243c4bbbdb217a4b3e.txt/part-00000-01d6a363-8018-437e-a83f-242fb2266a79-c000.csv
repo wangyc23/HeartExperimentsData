@@ -1,0 +1,5 @@
+main/Last24hTweets/last24hCombined(java.util.List,java.lang.String)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	4
+main/Exporter/search(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	1
+edu/upc/eetac/dsa/secretsites/auth/Authorized/isAuthorized(edu.upc.eetac.dsa.secretsites.auth.ContainerRequestContext)@146dcaaecbe9fbdb9d56c0f56a07d10cb9eb20ef.txt	0
+main/SongKickEventSearch/searchEvents(java.lang.String,int)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	2
+google/GoogleSearcher/extractNumber(java.lang.String)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	3

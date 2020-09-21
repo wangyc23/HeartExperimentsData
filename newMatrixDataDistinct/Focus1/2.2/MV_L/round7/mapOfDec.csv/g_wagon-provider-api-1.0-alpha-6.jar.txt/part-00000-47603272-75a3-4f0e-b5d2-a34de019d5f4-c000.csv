@@ -1,0 +1,5 @@
+org/apache/maven/wagon/AbstractWagon/putTransfer(org.apache.maven.wagon.resource.Resource,java.io.File,java.io.OutputStream,boolean)@g_wagon-provider-api-1.0-alpha-5.jar.txt	0
+org/apache/maven/wagon/WagonUtils/putDirectory(java.io.File,org.apache.maven.wagon.Wagon,boolean)@g_wagon-provider-api-1.0-alpha-5.jar.txt	4
+org/apache/maven/wagon/AbstractWagon/getTransfer(org.apache.maven.wagon.resource.Resource,java.io.File,java.io.InputStream,boolean,int)@g_wagon-provider-api-1.0-alpha-5.jar.txt	2
+org/apache/maven/wagon/util/FileUtils/sizeOfDirectory(java.io.File)@g_wagon-provider-api-1.0-alpha-5.jar.txt	1
+org/apache/maven/wagon/util/FileUtils/copyFile(java.io.File,java.io.File)@g_wagon-provider-api-1.0-alpha-5.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/jasper/compiler/TldLocationsCache/processWebDotXml()@g_org.apache.jasper.glassfish-2.1.0.v201110031002.jar.txt	3
+org/apache/jasper/compiler/Compiler/generateClass()@g_org.apache.jasper.glassfish-2.1.0.v201110031002.jar.txt	2
+org/apache/jasper/servlet/JspServlet/service(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jsp-2.1-glassfish-2.1.v20100127.jar.txt	4
+org/apache/jasper/compiler/TldLocationsCache/processTldsInFileSystem(java.lang.String)@g_org.apache.jasper.glassfish-2.1.0.v201110031002.jar.txt	1
+org/apache/jasper/servlet/JspServlet/service(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_org.apache.jasper.glassfish-2.1.0.v201110031002.jar.txt	0

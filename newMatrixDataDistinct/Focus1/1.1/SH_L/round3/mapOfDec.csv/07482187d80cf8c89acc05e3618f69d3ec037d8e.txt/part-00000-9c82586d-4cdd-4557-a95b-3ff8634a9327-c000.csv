@@ -1,0 +1,5 @@
+com/budgeta/pom/BillingPage/setSecondAddress(java.lang.String)@0f779e8a70b1c9732ff67c2088e25e12068c4085.txt	3
+com/galilsoftware/AF/core/utilities/WebElementUtils/dragAndDropSliderToPercentage(org.openqa.selenium.WebDriver,org.openqa.selenium.WebElement,java.lang.String)@0f779e8a70b1c9732ff67c2088e25e12068c4085.txt	2
+com/galilsoftware/AF/core/utilities/WebdriverUtils/waitForVisibilityofElement(org.openqa.selenium.WebDriver,org.openqa.selenium.WebElement,int)@0f779e8a70b1c9732ff67c2088e25e12068c4085.txt	1
+com/vaadin/demo/dashboard/data/dummy/DummyDataGenerator/randomNotifications()@0f779e8a70b1c9732ff67c2088e25e12068c4085.txt	0
+com/galilsoftware/AF/core/utilities/WebdriverUtils/isElementPresent(org.openqa.selenium.WebDriver,org.openqa.selenium.WebElement)@0f779e8a70b1c9732ff67c2088e25e12068c4085.txt	4

@@ -1,0 +1,5 @@
+com/adobe/acs/commons/version/impl/CurrentEvolutionImpl/getVersionDate()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	1
+com/google/code/ssm/providers/elasticache/MemcacheClientWrapperTest/getBulkCollectionOfString()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	4
+com/adobe/acs/commons/email/process/impl/SendTemplatedEmailUtils/getEmailAddrsFromUserPath(org.apache.sling.api.resource.ResourceResolver,java.lang.String)@1145ae442bd808cc7f1c030828034f44eae69a16.txt	2
+com/adobe/acs/commons/wcm/impl/ComponentErrorHandlerImpl/isFirstInChain(org.apache.sling.api.SlingHttpServletRequest)@1145ae442bd808cc7f1c030828034f44eae69a16.txt	0
+com/google/code/ssm/test/svc/TestSvcImpl/updateRandomStringAgain(java.lang.Long)@1145ae442bd808cc7f1c030828034f44eae69a16.txt	3

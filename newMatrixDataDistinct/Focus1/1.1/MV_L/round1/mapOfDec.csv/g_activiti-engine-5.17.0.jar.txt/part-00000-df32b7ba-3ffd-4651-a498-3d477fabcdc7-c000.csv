@@ -1,0 +1,5 @@
+org/activiti/engine/impl/asyncexecutor/AcquireTimerJobsRunnable/run()@g_activiti-engine-6.0.0.Beta1.jar.txt	2
+org/activiti/engine/impl/juel/Builder/main(java.lang.String[])@g_activiti-engine-6.0.0.Beta1.jar.txt	3
+org/activiti/engine/impl/bpmn/helper/ScopeUtil/createCopyOfSubProcessExecutionForCompensation(org.activiti.engine.impl.persistence.entity.ExecutionEntity,org.activiti.engine.impl.persistence.entity.ExecutionEntity)@g_activiti-engine-6.0.0.Beta1.jar.txt	1
+org/activiti/engine/impl/bpmn/parser/handler/SendTaskParseHandler/executeParse(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.SendTask)@g_activiti-engine-6.0.0.Beta1.jar.txt	4
+org/activiti/engine/impl/persistence/entity/AbstractEntityManager/getList(java.lang.String,java.lang.Object,org.activiti.engine.impl.persistence.CachedEntityMatcher,boolean)@g_activiti-engine-6.0.0.Beta1.jar.txt	0

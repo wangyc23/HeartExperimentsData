@@ -1,0 +1,5 @@
+org/apache/commons/chain/CatalogFactory/getCommand(java.lang.String)@g_commons-chain-1.2.jar.txt	0
+org/springframework/jdbc/core/namedparam/NamedParameterUtils/substituteNamedParameters(org.springframework.jdbc.core.namedparam.ParsedSql,org.springframework.jdbc.core.namedparam.SqlParameterSource)@g_spring-2.5.6.jar.txt	3
+org/springframework/aop/framework/ProxyFactoryBean/initializeAdvisorChain()@g_spring-2.5.6.jar.txt	2
+org/springframework/core/io/support/PathMatchingResourcePatternResolver/doFindPathMatchingJarResources(org.springframework.core.io.Resource,java.lang.String)@g_spring-2.5.6.jar.txt	4
+org/springframework/jms/config/AbstractListenerContainerParser/parseConcurrency(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-2.5.6.jar.txt	1

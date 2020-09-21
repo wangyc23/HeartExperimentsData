@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_0/ast/rewriters/literalReplacement/anonfun/2/anonfun/applyOrElse/11/apply(org.neo4j.cypher.internal.frontend.v3_0.IdentityMap)@g_spark-catalyst_2.11-2.2.0.jar.txt	1
+org/apache/spark/sql/catalyst/util/ArrayBasedMapData/apply(java.util.Map,scala.Function1,scala.Function1)@g_spark-catalyst_2.11-2.2.0.jar.txt	3
+org/apache/spark/sql/catalyst/ScalaReflection/typecreator19/1/apply(scala.reflect.api.Mirror)@g_spark-catalyst_2.11-2.2.0.jar.txt	4
+org/apache/spark/sql/internal/SessionResourceLoader/addJar(java.lang.String)@g_spark-catalyst_2.11-2.2.0.jar.txt	2
+org/apache/spark/sql/execution/SparkSqlAstBuilder/anonfun/visitAddTablePartition/1/anonfun/21/apply(org.apache.spark.sql.catalyst.parser.SqlBaseParser$PartitionSpecLocationContext)@g_spark-catalyst_2.11-2.2.0.jar.txt	0

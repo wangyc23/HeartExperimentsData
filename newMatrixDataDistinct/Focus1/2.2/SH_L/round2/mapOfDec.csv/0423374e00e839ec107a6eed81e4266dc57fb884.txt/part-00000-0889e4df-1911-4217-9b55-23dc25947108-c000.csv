@@ -1,0 +1,5 @@
+com/wayso/slf4jexam/MyLoggerFactory/getLogger(java.lang.Class,java.util.Locale)@1884097433b022ab33c0f29eb04d7b36373256b4.txt	4
+com/schwebke/jregexanalyser/regex/Matcher/find(int)@1884097433b022ab33c0f29eb04d7b36373256b4.txt	3
+com/nepxion/thunder/serialization/binary/FSTSerializer/serialize(com.nepxion.thunder.serialization.binary.FSTConfiguration,T)@1884097433b022ab33c0f29eb04d7b36373256b4.txt	0
+jp/gr/java_conf/boj/lib/gui/SwingUncaughtExceptionHandler/uncaughtException(java.lang.Thread,java.lang.Throwable)@1884097433b022ab33c0f29eb04d7b36373256b4.txt	1
+com/nepxion/thunder/registry/zookeeper/ZookeeperRegistryExecutor/retrieveService(java.lang.String,com.nepxion.thunder.common.entity.ApplicationEntity)@1884097433b022ab33c0f29eb04d7b36373256b4.txt	2

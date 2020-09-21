@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+org/baeldung/persistence/dao/rsql/RsqlSearchOperation/getSimpleOperator(org.baeldung.persistence.dao.rsql.ComparisonOperator)
+java/lang/String/replace(char,char)
+java/util/List/get(int)

@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/rio/rdfjson/RDFJSONWriter/writeObject(org.eclipse.rdf4j.model.Value,java.util.Set,com.fasterxml.jackson.core.JsonGenerator)@g_rdf4j-rio-rdfjson-2.1.4.jar.txt	0
+com/fasterxml/jackson/databind/ser/DefaultSerializerProvider/serializeValue(com.fasterxml.jackson.core.JsonGenerator,java.lang.Object)@g_jackson-databind-2.6.4.jar.txt	4
+com/fasterxml/jackson/databind/node/ObjectNode/serialize(com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_jackson-databind-2.6.4.jar.txt	3
+com/fasterxml/jackson/databind/util/TokenBuffer/serialize(com.fasterxml.jackson.core.JsonGenerator)@g_jackson-databind-2.6.4.jar.txt	2
+org/eclipse/rdf4j/rio/rdfjson/RDFJSONWriter/modelToRdfJsonInternal(org.eclipse.rdf4j.model.Model,org.eclipse.rdf4j.rio.WriterConfig,com.fasterxml.jackson.core.JsonGenerator)@g_rdf4j-rio-rdfjson-2.1.4.jar.txt	1

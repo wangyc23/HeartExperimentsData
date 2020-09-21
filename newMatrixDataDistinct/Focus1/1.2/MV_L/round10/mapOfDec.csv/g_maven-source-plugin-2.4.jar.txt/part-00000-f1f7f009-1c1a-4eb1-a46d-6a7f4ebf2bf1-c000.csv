@@ -1,0 +1,5 @@
+org/apache/maven/plugins/source/AbstractSourceJarMojo/packageSources(java.util.List)@g_maven-source-plugin-3.0.0.jar.txt	3
+org/apache/maven/plugin/source/AbstractSourceJarMojo/packageSources(java.util.List)@g_maven-source-plugin-2.1.1.jar.txt	2
+org/apache/maven/plugins/source/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-source-plugin-2.1.1.jar.txt	4
+org/apache/maven/plugin/source/AbstractSourceJarMojo/createArchiver()@g_maven-source-plugin-2.1.1.jar.txt	0
+org/apache/maven/plugins/source/AbstractSourceJarMojo/createArchiver()@g_maven-source-plugin-3.0.0.jar.txt	1

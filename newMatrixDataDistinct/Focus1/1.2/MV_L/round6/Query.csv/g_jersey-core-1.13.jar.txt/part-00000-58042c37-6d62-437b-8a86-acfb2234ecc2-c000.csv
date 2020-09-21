@@ -1,0 +1,4 @@
+java/io/InputStream/reset()
+java/io/InputStream/mark(int)
+java/io/InputStream/read()
+java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream,int)

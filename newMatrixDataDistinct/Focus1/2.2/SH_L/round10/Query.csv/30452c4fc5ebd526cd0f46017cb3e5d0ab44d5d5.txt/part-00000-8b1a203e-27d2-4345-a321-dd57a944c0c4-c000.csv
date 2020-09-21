@@ -1,0 +1,4 @@
+com/nulli/openam/plugins/MockPrincipal/MockPrincipal(java.lang.String)
+java/util/Set/add(E)
+javax/security/auth/Subject/getPrivateCredentials()
+com/nulli/openam/plugins/MockToken/MockToken()

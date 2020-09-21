@@ -1,0 +1,4 @@
+java/lang/Enum/name()
+java/util/Collections/singletonList(T)
+io/grpc/Status/getCode()
+java/util/Collections/emptyList()

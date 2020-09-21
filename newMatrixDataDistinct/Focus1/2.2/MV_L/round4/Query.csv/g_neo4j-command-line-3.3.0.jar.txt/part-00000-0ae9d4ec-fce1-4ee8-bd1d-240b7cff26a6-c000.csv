@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/String/join(java.lang.CharSequence,java.lang.CharSequence[])
+org/neo4j/helpers/Args/interpretOptions(java.lang.String,java.util.function.Function,java.util.function.Function,org.neo4j.kernel.impl.util.Validator[])
+java/lang/String/format(java.lang.String,java.lang.Object[])

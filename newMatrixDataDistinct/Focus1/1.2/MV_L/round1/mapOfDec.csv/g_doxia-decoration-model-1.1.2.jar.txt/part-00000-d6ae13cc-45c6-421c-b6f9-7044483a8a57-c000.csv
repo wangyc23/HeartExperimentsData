@@ -1,0 +1,5 @@
+org/apache/maven/doxia/site/decoration/Body/clone()@g_doxia-decoration-model-1.4.jar.txt	4
+org/apache/maven/doxia/site/decoration/io/xpp3/DecorationXpp3Reader/parseMenu(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-decoration-model-1.4.jar.txt	2
+org/apache/maven/doxia/site/decoration/MenuItem/clone()@g_doxia-decoration-model-1.4.jar.txt	3
+org/apache/maven/doxia/site/decoration/io/xpp3/DecorationXpp3Reader/parseBody(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-decoration-model-1.4.jar.txt	1
+org/apache/maven/doxia/site/decoration/io/xpp3/DecorationXpp3Reader/parseMenuItem(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-decoration-model-1.4.jar.txt	0

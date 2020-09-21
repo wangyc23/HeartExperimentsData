@@ -1,0 +1,5 @@
+org/apache/commons/beanutils/LazyDynaBean/<clinit>()@g_spring-osgi-core-1.2.1.jar.txt	4
+org/springframework/osgi/io/internal/OsgiHeaderUtils/parseRequiredBundleString(java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	0
+org/apache/commons/beanutils/BeanUtilsBean/getArrayProperty(java.lang.Object,java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	1
+org/apache/commons/beanutils/PropertyUtilsBean/setNestedProperty(java.lang.Object,java.lang.String,java.lang.Object)@g_spring-osgi-core-1.2.1.jar.txt	2
+org/springframework/osgi/context/support/DelegatedEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	3

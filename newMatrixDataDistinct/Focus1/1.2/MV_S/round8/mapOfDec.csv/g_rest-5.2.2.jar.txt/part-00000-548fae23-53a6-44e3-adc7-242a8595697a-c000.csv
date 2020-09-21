@@ -1,0 +1,5 @@
+org/jgroups/util/Util/dumpQueue(org.jgroups.util.Queue)@g_jgroups-3.6.2.Final.jar.txt	2
+org/jgroups/stack/Configurator/determineIpVersionFromAddresses(java.util.Collection)@g_jgroups-3.6.2.Final.jar.txt	0
+org/jgroups/tests/Probe/start(java.net.InetAddress,java.net.InetAddress,int,int,long,java.util.List,java.lang.String,boolean,java.lang.String)@g_jgroups-3.6.2.Final.jar.txt	3
+org/jgroups/protocols/UNICAST2/down(org.jgroups.Event)@g_jgroups-3.6.2.Final.jar.txt	1
+org/jgroups/protocols/UNICAST3/down(org.jgroups.Event)@g_jgroups-3.6.2.Final.jar.txt	4

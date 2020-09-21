@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/framework/legacy/PackageAdminImpl/RequiredBundleImpl/addRequirers(java.util.Set,org.osgi.framework.wiring.BundleWiring)@g_osgi-3.10.0-v20140606-1445.jar.txt	1
+org/eclipse/osgi/container/ModuleDatabase/Persistence/writeMap(java.util.Map,java.io.DataOutputStream)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+org/eclipse/osgi/internal/framework/legacy/PackageAdminImpl/RequiredBundleImpl/addRequirers(java.util.Set,org.osgi.framework.wiring.BundleWiring)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	0
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/computeUnresolvedProviderResolutionReportEntries(java.util.Map)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2

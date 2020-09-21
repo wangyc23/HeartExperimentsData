@@ -1,0 +1,4 @@
+java/util/Collection/size()
+java/lang/StringBuffer/toString()
+java/util/Set/contains(java.lang.Object)
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

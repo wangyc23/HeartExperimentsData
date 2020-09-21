@@ -1,0 +1,5 @@
+org/apache/jasper/compiler/TldLocationsCache/scanJars()@g_jsp-2.1-glassfish-2.1.v20100127.jar.txt	4
+org/apache/jasper/compiler/TldLocationsCache/scanJars()@g_jasper-compiler-5.5.23.jar.txt	1
+org/apache/jasper/compiler/JspRuntimeContext/initSecurity()@g_jasper-compiler-5.5.23.jar.txt	2
+org/apache/jasper/compiler/JspRuntimeContext/initClassPath()@g_jsp-2.1-glassfish-2.1.v20100127.jar.txt	3
+org/apache/jasper/compiler/JspRuntimeContext/initClassPath()@g_jasper-compiler-5.5.23.jar.txt	0

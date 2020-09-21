@@ -1,0 +1,5 @@
+com/codahale/metrics/json/MetricsModule/MeterSerializer/serialize(com.codahale.metrics.Meter,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-graphite-3.1.3.jar.txt	0
+org/openrdf/rio/rdfjson/RDFJSONWriter/writeObject(org.openrdf.model.Value,java.util.Set,com.fasterxml.jackson.core.JsonGenerator)@g_metrics-graphite-3.1.3.jar.txt	4
+com/codahale/metrics/json/MetricsModule/TimerSerializer/serialize(com.codahale.metrics.Timer,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-graphite-3.1.3.jar.txt	2
+com/codahale/metrics/json/HealthCheckModule/HealthCheckResultSerializer/serializeThrowable(com.fasterxml.jackson.core.JsonGenerator,java.lang.Throwable,java.lang.String)@g_metrics-graphite-3.1.3.jar.txt	1
+com/codahale/metrics/graphite/Graphite/connect()@g_metrics-graphite-3.1.3.jar.txt	3

@@ -1,0 +1,4 @@
+org/neo4j/index/internal/gbptree/InternalTreeLogic$Level/access$300(org.neo4j.index.internal.gbptree.InternalTreeLogic$Level)
+org/neo4j/index/internal/gbptree/InternalTreeLogic$Level/covers(java.lang.Object)
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)
+java/lang/StringBuilder/append(java.lang.Object)

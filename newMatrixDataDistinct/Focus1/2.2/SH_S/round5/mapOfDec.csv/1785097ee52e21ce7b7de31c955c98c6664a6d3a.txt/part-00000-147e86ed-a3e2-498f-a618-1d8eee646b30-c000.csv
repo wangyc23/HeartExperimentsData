@@ -1,0 +1,5 @@
+com/gs/cluster/ConsoleFormatter/displayDocuments(java.util.Collection)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	3
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+org/sifarish/feature/MixedTypeSchema/getEntityBySize(int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	2
+com/gs/Classifier/BayesClassifier/DropStopWords(java.lang.String[])@2aba7b19079a7af2e00355cdb996ae2085016663.txt	1
+org/sifarish/util/ConceptHierarchy/findParent(java.lang.String)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	4

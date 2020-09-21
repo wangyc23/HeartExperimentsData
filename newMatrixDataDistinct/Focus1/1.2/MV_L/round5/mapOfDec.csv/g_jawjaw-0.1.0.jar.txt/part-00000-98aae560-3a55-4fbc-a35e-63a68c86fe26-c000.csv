@@ -1,0 +1,5 @@
+edu/cmu/lti/ws4j/util/DepthFinder/getSynsetDepths(java.lang.String)@g_ws4j-0.1.0.jar.txt	4
+edu/cmu/lti/ws4j/util/PathFinder/getAllPaths(edu.cmu.lti.lexical_db.data.Concept,edu.cmu.lti.lexical_db.data.Concept,java.lang.StringBuilder)@g_ws4j-0.1.0.jar.txt	3
+edu/cmu/lti/lexical_db/NictWordNet/getGloss(edu.cmu.lti.lexical_db.data.Concept,java.lang.String)@g_ws4j-0.1.0.jar.txt	0
+edu/cmu/lti/ws4j/impl/Lesk/calcFromSuperGloss(java.lang.String,java.lang.String)@g_ws4j-0.1.0.jar.txt	2
+org/jgroups/blocks/GridFile/_list(java.lang.Object)@g_jgroups-3.6.2.Final.jar.txt	1

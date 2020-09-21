@@ -1,0 +1,5 @@
+org/restlet/engine/http/header/CookieSettingReader/readValue()@g_org.restlet-2.0.14.jar.txt	1
+org/restlet/engine/http/adapter/ServerAdapter/commit(org.restlet.engine.http.HttpResponse)@g_persistence-api-1.0.jar.txt	4
+org/restlet/engine/component/ComponentClientDispatcher/doHandle(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	0
+org/restlet/engine/http/ServerCall/parseHost()@g_org.restlet-2.0.14.jar.txt	2
+org/restlet/engine/local/DirectoryServerResource/getVariantsReferences()@g_persistence-api-1.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/loader/impl/PreloaderTIFF/createImageInfo(java.lang.String,javax.imageio.stream.ImageInputStream,org.apache.xmlgraphics.image.loader.ImageContext)@g_xmlgraphics-commons-2.0.1.jar.txt	0
+org/apache/xmlgraphics/image/loader/spi/ImageImplRegistry/registerLoaderFactory(org.apache.xmlgraphics.image.loader.spi.ImageLoaderFactory)@g_xmlgraphics-commons-2.0.1.jar.txt	3
+org/apache/xmlgraphics/image/loader/impl/imageio/ImageLoaderImageIO/loadImage(org.apache.xmlgraphics.image.loader.ImageInfo,java.util.Map,org.apache.xmlgraphics.image.loader.ImageSessionContext)@g_xmlgraphics-commons-2.0.1.jar.txt	1
+org/apache/xmlgraphics/image/codec/png/PNGImage/parse_IEND_chunk(org.apache.xmlgraphics.image.codec.png.PNGChunk)@g_xmlgraphics-commons-2.0.1.jar.txt	4
+org/apache/xmlgraphics/image/codec/png/PNGRed/parse_IEND_chunk(org.apache.xmlgraphics.image.codec.png.PNGRed$PNGChunk)@g_xmlgraphics-commons-2.0.1.jar.txt	2

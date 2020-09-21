@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/dvparser/CacheParseHypotheses/convertToBytes(java.util.List)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/SisterAnnotationStats/printStats()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/ArabicTreebankParserParams/setOptionFlag(java.lang.String[],int)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/nndep/Util/printTreeStats(java.lang.String,java.util.List)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/util/logging/RedwoodConfiguration/parse(java.util.Properties)@g_stanford-parser-3.5.2.jar.txt	4

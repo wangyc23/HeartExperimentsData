@@ -1,0 +1,5 @@
+org/apache/xalan/xslt/EnvironmentCheck/appendEnvironmentReport(org.w3c.dom.Node,org.w3c.dom.Document,java.util.Hashtable)@g_xalan-2.7.2.jar.txt	2
+org/apache/xalan/xslt/EnvironmentCheck/logFoundJars(java.util.Vector,java.lang.String)@g_xalan-2.7.2.jar.txt	3
+org/apache/xalan/xslt/EnvironmentCheck/appendFoundJars(org.w3c.dom.Node,org.w3c.dom.Document,java.util.Vector,java.lang.String)@g_xalan-2.7.2.jar.txt	0
+org/apache/xalan/xsltc/dom/DocumentCache/getStatistics(java.io.PrintWriter)@g_xalan-2.7.2.jar.txt	4
+org/apache/xalan/xslt/EnvironmentCheck/writeEnvironmentReport(java.util.Hashtable)@g_xalan-2.7.2.jar.txt	1

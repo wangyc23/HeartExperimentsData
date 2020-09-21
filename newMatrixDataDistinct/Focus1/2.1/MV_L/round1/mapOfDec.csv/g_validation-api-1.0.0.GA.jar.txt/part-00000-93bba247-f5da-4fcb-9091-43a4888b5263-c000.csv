@@ -1,0 +1,5 @@
+javax/persistence/Persistence/findAllProviders()@g_persistence-api-1.0.jar.txt	3
+javax/validation/Validation/DefaultValidationProviderResolver/getValidationProviders()@g_validation-api-1.1.0.Final.jar.txt	2
+javax/validation/Validation/ProviderSpecificBootstrapImpl/configure()@g_validation-api-1.1.0.Final.jar.txt	1
+javax/persistence/Persistence/findAllProviders()@g_validation-api-1.1.0.Final.jar.txt	0
+javax/validation/Validation/ProviderSpecificBootstrapImpl/configure()@g_persistence-api-1.0.jar.txt	4

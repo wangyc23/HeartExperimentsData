@@ -1,0 +1,5 @@
+org/apache/commons/lang3/text/ExtendedMessageFormat/appendQuotedString(java.lang.String,java.text.ParsePosition,java.lang.StringBuilder,boolean)@g_commons-lang3-3.1.jar.txt	1
+org/apache/commons/lang3/ClassUtils/getShortClassName(java.lang.String)@g_commons-lang3-3.1.jar.txt	0
+org/apache/commons/text/ExtendedMessageFormat/appendQuotedString(java.lang.String,java.text.ParsePosition,java.lang.StringBuilder)@g_commons-lang3-3.1.jar.txt	3
+org/apache/commons/lang3/ArrayUtils/remove(java.lang.Object,int)@g_commons-lang3-3.1.jar.txt	2
+org/apache/commons/text/similarity/CosineSimilarity/cosineSimilarity(java.util.Map,java.util.Map)@g_commons-lang3-3.1.jar.txt	4

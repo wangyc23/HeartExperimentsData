@@ -1,0 +1,5 @@
+org/apache/thrift/transport/TFileTransport/seekToChunk(int)@g_libthrift-0.9.2.jar.txt	4
+org/apache/thrift/transport/TSaslTransport/receiveSaslMessage()@g_libthrift-0.9.2.jar.txt	0
+org/apache/thrift/server/TThreadedSelectorServer/SelectorThread/select()@g_libthrift-0.9.2.jar.txt	3
+org/apache/thrift/server/AbstractNonblockingServer/FrameBuffer/read()@g_libthrift-0.9.2.jar.txt	2
+org/apache/thrift/transport/TSSLTransportFactory/createServer(javax.net.ssl.SSLServerSocketFactory,int,int,boolean,java.net.InetAddress,org.apache.thrift.transport.TSSLTransportFactory$TSSLTransportParameters)@g_libthrift-0.9.2.jar.txt	1

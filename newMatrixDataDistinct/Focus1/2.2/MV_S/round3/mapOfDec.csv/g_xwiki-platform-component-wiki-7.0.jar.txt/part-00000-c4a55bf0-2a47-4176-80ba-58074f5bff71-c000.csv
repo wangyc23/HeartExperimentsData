@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/feed/FeedPlugin/getFeedInfosbyGuid(java.lang.String,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/feed/FeedPlugin/prepareFeedEntryDocument(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/feed/FeedPlugin/getFeedEntryClass(com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	3
+com/xpn/xwiki/plugin/feed/FeedPlugin/saveFeed(java.lang.String,java.lang.String,java.lang.String,com.sun.syndication.feed.synd.SyndFeed,boolean,boolean,boolean,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	0
+com/xpn/xwiki/plugin/feed/FeedPlugin/getAggregatorURLClass(com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	2

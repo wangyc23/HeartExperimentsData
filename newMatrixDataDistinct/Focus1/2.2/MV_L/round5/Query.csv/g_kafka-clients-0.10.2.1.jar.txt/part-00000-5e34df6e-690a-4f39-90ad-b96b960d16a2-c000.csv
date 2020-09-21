@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+java/lang/Object/getClass()

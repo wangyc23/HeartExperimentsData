@@ -1,0 +1,5 @@
+org/sonatype/plexus/components/sec/dispatcher/DefaultSecDispatcher/stripAttributes(java.lang.String)@g_plexus-sec-dispatcher-1.3.jar.txt	4
+org/sonatype/plexus/components/sec/dispatcher/model/io/xpp3/SecurityConfigurationXpp3Reader/parseConfig(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-sec-dispatcher-1.3.jar.txt	1
+org/sonatype/plexus/components/sec/dispatcher/model/io/xpp3/SecurityConfigurationXpp3Reader/parseSettingsSecurity(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-sec-dispatcher-1.3.jar.txt	0
+org/apache/maven/plugin/registry/io/xpp3/PluginRegistryXpp3Reader/parsePlugin(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-plugin-registry-2.0.6.jar.txt	3
+org/apache/maven/plugin/registry/io/xpp3/PluginRegistryXpp3Reader/parsePluginRegistry(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-plugin-registry-2.0.6.jar.txt	2

@@ -1,0 +1,5 @@
+org/eclipse/egit/github/core/service/CommitService/createStatus(org.eclipse.egit.github.core.IRepositoryIdProvider,java.lang.String,org.eclipse.egit.github.core.CommitStatus)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	0
+org/eclipse/osgi/internal/permadmin/EquinoxSecurityManager/internalCheckPermission(java.security.Permission,java.lang.Object)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	4
+org/eclipse/egit/github/core/service/RepositoryService/searchRepositories(java.lang.String,java.lang.String,int)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	1
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/closeOutputFile(java.util.zip.Checksum)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	3
+org/eclipse/egit/github/core/service/DownloadService/uploadResource(org.eclipse.egit.github.core.DownloadResource,java.io.InputStream,long)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	2

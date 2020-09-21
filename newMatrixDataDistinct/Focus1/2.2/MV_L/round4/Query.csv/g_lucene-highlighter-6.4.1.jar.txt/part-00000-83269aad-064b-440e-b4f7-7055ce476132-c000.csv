@@ -1,0 +1,4 @@
+org/apache/lucene/index/Term/field()
+org/apache/lucene/search/BoostQuery/getQuery()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

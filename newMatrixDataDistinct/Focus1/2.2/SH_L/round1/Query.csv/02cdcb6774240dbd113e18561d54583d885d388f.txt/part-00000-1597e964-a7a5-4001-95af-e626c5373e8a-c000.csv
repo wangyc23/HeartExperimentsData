@@ -1,0 +1,4 @@
+org/apache/http/HttpResponse/getStatusLine()
+retrofit/client/Response/Response(int,java.lang.String,java.util.List,retrofit.mime.TypedInput)
+org/apache/http/Header/getValue()
+org/apache/http/Header/getName()

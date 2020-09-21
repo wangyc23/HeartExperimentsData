@@ -1,0 +1,5 @@
+com/github/benmanes/caffeine/cache/LocalCacheFactory/newBoundedLocalCache(com.github.benmanes.caffeine.cache.Caffeine,com.github.benmanes.caffeine.cache.CacheLoader,boolean)@g_neo4j-common-3.0.1.jar.txt	3
+com/github/benmanes/caffeine/cache/NodeFactory/WW/toString()@g_neo4j-common-3.0.1.jar.txt	2
+com/github/benmanes/caffeine/cache/LocalAsyncLoadingCache/getAllBulk(java.lang.Iterable)@g_neo4j-common-3.0.1.jar.txt	4
+org/neo4j/function/Predicates/await(java.util.function.Supplier,long,java.util.concurrent.TimeUnit,long,java.util.concurrent.TimeUnit)@g_neo4j-common-3.0.1.jar.txt	0
+com/github/benmanes/caffeine/cache/NodeFactory/WSt/toString()@g_neo4j-common-3.0.1.jar.txt	1

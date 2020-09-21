@@ -1,0 +1,5 @@
+lombok/launch/PatchFixesHider/PatchFixes/getRealMethodDeclarationNode(org.eclipse.jdt.core.IMethod,org.eclipse.jdt.core.dom.CompilationUnit)@g_lombok-1.16.4.jar.txt	1
+lombok/launch/PatchFixesHider/PatchFixes/addAnnotations(java.util.List,java.lang.StringBuilder)@g_lombok-1.16.4.jar.txt	4
+lombok/launch/ShadowClassLoader/retrieveFromCache(java.lang.String)@g_lombok-1.16.4.jar.txt	3
+lombok/launch/ShadowClassLoader/getResource_(java.lang.String,boolean)@g_lombok-1.16.4.jar.txt	0
+lombok/delombok/ant/Tasks/Delombok/execute()@g_lombok-1.16.4.jar.txt	2

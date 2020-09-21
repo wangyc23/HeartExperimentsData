@@ -1,0 +1,4 @@
+org/apache/poi/util/POILogger/log(int,java.lang.Object[])
+java/lang/StringBuffer/append(char)
+java/util/Set/contains(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

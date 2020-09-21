@@ -1,0 +1,5 @@
+opennlp/tools/coref/sim/SimilarityModel/constructExclusionSet(java.lang.Integer,opennlp.tools.util.HashList,java.util.Map,java.util.Map,java.util.List)@g_opennlp-tools-1.5.2-incubating.jar.txt	3
+opennlp/tools/cmdline/DetailedFMeasureListener/createReport(java.util.Locale)@g_opennlp-tools-1.5.2-incubating.jar.txt	1
+opennlp/tools/parser/lang/en/HeadRules/serialize(java.io.Writer)@g_opennlp-tools-1.5.2-incubating.jar.txt	4
+opennlp/tools/coref/resolver/ResolverUtils/getPronounMatchFeatures(opennlp.tools.coref.mention.MentionContext,opennlp.tools.coref.DiscourseEntity)@g_opennlp-tools-1.5.2-incubating.jar.txt	2
+opennlp/tools/util/model/BaseModel/serialize(java.io.OutputStream)@g_opennlp-tools-1.5.2-incubating.jar.txt	0

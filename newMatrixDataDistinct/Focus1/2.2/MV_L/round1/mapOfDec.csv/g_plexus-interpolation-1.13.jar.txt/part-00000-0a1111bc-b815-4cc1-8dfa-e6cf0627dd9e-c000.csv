@@ -1,0 +1,5 @@
+org/codehaus/plexus/interpolation/StringSearchInterpolator/interpolate(java.lang.String,org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-interpolation-1.12.jar.txt	2
+org/codehaus/plexus/interpolation/RegexBasedInterpolator/interpolate(java.lang.String,org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.regex.Pattern,int)@g_plexus-interpolation-1.12.jar.txt	0
+org/codehaus/plexus/interpolation/multi/MultiDelimiterStringSearchInterpolator/interpolate(java.lang.String,org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-interpolation-1.12.jar.txt	3
+org/codehaus/plexus/interpolation/RegexBasedInterpolator/interpolate(java.lang.String,org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.regex.Pattern,int)@g_plexus-interpolation-1.14.jar.txt	4
+org/codehaus/plexus/interpolation/object/FieldBasedObjectInterpolator/InterpolateObjectAction/traverseObjectWithParents(java.lang.Class,org.codehaus.plexus.interpolation.object.FieldBasedObjectInterpolator$InterpolationTarget)@g_plexus-interpolation-1.12.jar.txt	1

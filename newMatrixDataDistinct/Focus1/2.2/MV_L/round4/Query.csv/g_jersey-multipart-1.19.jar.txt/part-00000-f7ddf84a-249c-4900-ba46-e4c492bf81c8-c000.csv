@@ -1,0 +1,4 @@
+javax/ws/rs/core/MultivaluedMap/add(java.lang.Object,java.lang.Object)
+com/sun/jersey/core/util/MultivaluedMapImpl/MultivaluedMapImpl()
+java/util/Iterator/hasNext()
+com/sun/jersey/api/core/HttpContext/getRequest()

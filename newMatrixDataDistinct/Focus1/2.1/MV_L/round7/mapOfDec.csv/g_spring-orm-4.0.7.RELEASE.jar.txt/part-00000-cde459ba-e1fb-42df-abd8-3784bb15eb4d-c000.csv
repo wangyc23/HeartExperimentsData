@@ -1,0 +1,5 @@
+org/springframework/orm/hibernate4/HibernateTransactionManager/doGetTransaction()@g_spring-orm-4.0.6.RELEASE.jar.txt	4
+org/springframework/orm/hibernate3/HibernateTransactionManager/doBegin(java.lang.Object,org.springframework.transaction.TransactionDefinition)@g_spring-orm-4.0.5.RELEASE.jar.txt	2
+org/springframework/orm/hibernate3/HibernateTransactionManager/doGetTransaction()@g_spring-orm-4.0.6.RELEASE.jar.txt	1
+org/springframework/orm/hibernate3/HibernateTransactionManager/doGetTransaction()@g_spring-orm-4.0.5.RELEASE.jar.txt	3
+org/springframework/orm/hibernate3/HibernateTransactionManager/doBegin(java.lang.Object,org.springframework.transaction.TransactionDefinition)@g_spring-orm-4.0.6.RELEASE.jar.txt	0

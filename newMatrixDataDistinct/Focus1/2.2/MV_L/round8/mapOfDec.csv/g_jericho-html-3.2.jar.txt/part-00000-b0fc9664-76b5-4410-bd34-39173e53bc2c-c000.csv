@@ -1,0 +1,5 @@
+org/sonatype/aether/resolution/ArtifactResolutionException/getMessage(java.util.List)@g_aether-api-1.11.jar.txt	1
+net/htmlparser/jericho/CharacterEntityReference/<clinit>()@g_aether-api-1.13.1.jar.txt	3
+net/htmlparser/jericho/FormFields/getColumnValues(java.util.Map)@g_aether-api-1.13.1.jar.txt	2
+net/htmlparser/jericho/FormControl/getDisplayValueHTML(java.lang.CharSequence,boolean)@g_aether-api-1.13.1.jar.txt	4
+org/sonatype/aether/resolution/ArtifactResolutionException/getMessage(java.util.List)@g_aether-api-1.13.1.jar.txt	0

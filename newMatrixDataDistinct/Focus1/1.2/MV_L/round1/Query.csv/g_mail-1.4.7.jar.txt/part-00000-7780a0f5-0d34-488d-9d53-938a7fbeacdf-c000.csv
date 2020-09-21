@@ -1,0 +1,4 @@
+com/sun/mail/imap/protocol/IMAPProtocol/handleResult(com.sun.mail.iap.Response)
+java/util/Vector/copyInto(java.lang.Object[])
+java/util/Vector/size()
+java/util/Vector/addElement(java.lang.Object)

@@ -1,0 +1,5 @@
+org/elasticsearch/index/reindex/RestReindexAction/extractStringStringMap(java.util.Map,java.lang.String)@g_reindex-client-5.2.2.jar.txt	0
+org/elasticsearch/index/reindex/BulkIndexByScrollResponse/toXContent(org.elasticsearch.common.xcontent.XContentBuilder,org.elasticsearch.common.xcontent.ToXContent$Params)@g_reindex-client-5.2.2.jar.txt	2
+org/elasticsearch/index/reindex/remote/RemoteInfo/writeTo(org.elasticsearch.common.io.stream.StreamOutput)@g_reindex-client-5.2.2.jar.txt	1
+org/elasticsearch/index/reindex/AbstractBulkByQueryRestHandler/extractRequestSpecificFieldsAndReturnSearchCompatibleParser(org.elasticsearch.common.xcontent.XContentParser,java.util.Map)@g_reindex-client-5.2.2.jar.txt	3
+org/elasticsearch/index/reindex/RestUpdateByQueryAction/parseScript(java.util.Map,org.elasticsearch.common.ParseFieldMatcher)@g_reindex-client-5.2.2.jar.txt	4

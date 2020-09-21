@@ -1,0 +1,4 @@
+info/aduna/xml/XMLWriter/setPrettyPrint(boolean)
+info/aduna/xml/XMLWriter/endDocument()
+java/lang/AssertionError/AssertionError(java.lang.Object)
+info/aduna/xml/XMLWriter/startDocument()

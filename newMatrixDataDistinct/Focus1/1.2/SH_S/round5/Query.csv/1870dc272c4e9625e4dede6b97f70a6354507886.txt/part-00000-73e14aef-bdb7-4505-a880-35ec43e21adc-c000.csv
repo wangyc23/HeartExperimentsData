@@ -1,0 +1,4 @@
+java/util/List/remove(int)
+java/util/List/size()
+java/lang/String/equals(java.lang.Object)
+java/util/List/get(int)

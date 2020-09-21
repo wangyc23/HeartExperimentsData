@@ -1,0 +1,4 @@
+org/glassfish/jersey/internal/JerseyErrorService$Binder/Binder()
+org/glassfish/jersey/message/internal/MessagingBinders$MessageBodyProviders/MessageBodyProviders(java.util.Map,javax.ws.rs.RuntimeType)
+org/glassfish/jersey/message/internal/MessagingBinders$HeaderDelegateProviders/HeaderDelegateProviders()
+org/glassfish/jersey/internal/JaxrsProviders$Binder/Binder()

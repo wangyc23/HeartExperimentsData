@@ -1,0 +1,5 @@
+org/glassfish/jersey/uri/internal/JerseyUriBuilder/encodeQuery()@g_jersey-common-2.17.jar.txt	4
+org/glassfish/jersey/internal/ServiceFinder/LazyObjectIterator/next()@g_jersey-common-2.17.jar.txt	2
+org/glassfish/jersey/uri/UriTemplate/resolve(java.net.URI,java.net.URI)@g_jersey-common-2.17.jar.txt	3
+org/glassfish/jersey/message/internal/TracingInfo/getMessages()@g_jersey-common-2.5.1.jar.txt	1
+org/glassfish/jersey/message/internal/TracingInfo/getMessages()@g_jersey-common-2.17.jar.txt	0

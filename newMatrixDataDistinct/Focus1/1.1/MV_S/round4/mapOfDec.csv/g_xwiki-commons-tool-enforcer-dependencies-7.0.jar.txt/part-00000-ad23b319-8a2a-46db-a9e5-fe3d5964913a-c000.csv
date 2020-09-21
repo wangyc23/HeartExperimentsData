@@ -1,0 +1,5 @@
+org/apache/maven/plugins/enforcer/DependencyConvergence/execute(org.apache.maven.enforcer.rule.api.EnforcerRuleHelper)@g_enforcer-rules-1.3.1.jar.txt	4
+org/apache/maven/plugins/enforcer/AbstractBanDependencies/execute(org.apache.maven.enforcer.rule.api.EnforcerRuleHelper)@g_enforcer-rules-1.3.1.jar.txt	1
+org/apache/maven/plugins/enforcer/RequireSameVersions/execute(org.apache.maven.enforcer.rule.api.EnforcerRuleHelper)@g_enforcer-rules-1.3.1.jar.txt	0
+org/apache/maven/plugins/enforcer/AbstractVersionEnforcer/enforceVersion(org.apache.maven.plugin.logging.Log,java.lang.String,java.lang.String,org.apache.maven.artifact.versioning.ArtifactVersion)@g_enforcer-rules-1.3.1.jar.txt	3
+org/apache/maven/plugins/enforcer/RequireActiveProfile/execute(org.apache.maven.enforcer.rule.api.EnforcerRuleHelper)@g_enforcer-rules-1.3.1.jar.txt	2

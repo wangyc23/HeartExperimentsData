@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/CollocationFinder/getMangledTree(edu.stanford.nlp.trees.Tree)@g_neo4j-dbms-3.1.0.jar.txt	4
+edu/stanford/nlp/ling/tokensregex/types/Expressions/MethodCallExpression/evaluate(edu.stanford.nlp.ling.tokensregex.Env,java.lang.Object[])@g_neo4j-dbms-3.1.0.jar.txt	3
+edu/stanford/nlp/util/ArrayCoreMap/toShortString(char,java.lang.String[])@g_neo4j-dbms-3.1.0.jar.txt	2
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_neo4j-dbms-3.1.0.jar.txt	1
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_neo4j-dbms-3.1.0.jar.txt	0

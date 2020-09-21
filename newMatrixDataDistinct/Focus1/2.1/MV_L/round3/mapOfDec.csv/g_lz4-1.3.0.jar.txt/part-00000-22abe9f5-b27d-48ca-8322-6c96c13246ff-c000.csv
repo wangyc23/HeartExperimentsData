@@ -1,0 +1,5 @@
+net/jpountz/lz4/LZ4JavaUnsafeCompressor/compress(byte[],int,int,byte[],int,int)@g_morfologik-stemming-2.1.2.jar.txt	2
+net/jpountz/lz4/LZ4JavaUnsafeCompressor/compress(java.nio.ByteBuffer,int,int,java.nio.ByteBuffer,int,int)@g_morfologik-stemming-2.1.2.jar.txt	0
+morfologik/stemming/DictionaryMetadataBuilder/withOutputConversionPairs(java.util.Map)@g_morfologik-stemming-2.1.2.jar.txt	4
+morfologik/stemming/TrimSuffixEncoder/decode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	3
+net/jpountz/lz4/LZ4JavaSafeFastDecompressor/decompress(byte[],int,byte[],int,int)@g_morfologik-stemming-2.1.2.jar.txt	1

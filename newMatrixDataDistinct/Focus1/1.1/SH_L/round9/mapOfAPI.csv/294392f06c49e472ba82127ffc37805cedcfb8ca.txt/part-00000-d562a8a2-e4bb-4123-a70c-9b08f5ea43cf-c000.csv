@@ -1,0 +1,3 @@
+0	redis/clients/jedis/Jedis/Jedis(java.lang.String)
+1	java/io/BufferedReader/close()
+2	com/guillaumecl/caskdays/Config/setJedis(redis.clients.jedis.Jedis)

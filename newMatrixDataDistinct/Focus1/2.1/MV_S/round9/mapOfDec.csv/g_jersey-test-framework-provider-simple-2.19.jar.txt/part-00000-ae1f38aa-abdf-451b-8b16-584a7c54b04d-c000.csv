@@ -1,0 +1,5 @@
+com/sun/jersey/server/impl/uri/rules/TerminatingRule/accept(java.lang.CharSequence,java.lang.Object,com.sun.jersey.spi.uri.rules.UriRuleContext)@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	1
+com/sun/jersey/server/impl/resource/PerRequestFactory/destroy(com.sun.jersey.api.core.HttpContext)@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	4
+com/sun/jersey/server/impl/uri/rules/UriRulesFactory/create(java.util.Map,java.util.List)@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	3
+com/sun/jersey/server/impl/application/WebApplicationImpl/getResourceComponentProvider(com.sun.jersey.core.spi.component.ComponentContext,java.lang.Class)@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	2
+com/sun/jersey/api/wadl/config/WadlGeneratorLoader/setProperty(java.lang.Object,java.lang.String,java.lang.Object)@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	0

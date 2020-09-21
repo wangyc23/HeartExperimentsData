@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rio/RioTrixParserFactory/TrixParserImpl/parseDocumentSource(org.semanticweb.owlapi.io.OWLOntologyDocumentSource,java.lang.String,org.openrdf.rio.RDFHandler)@g_owlapi-rio-4.5.0.jar.txt	1
+org/semanticweb/owlapi/rio/RioParserImpl/parseDocumentSource(org.semanticweb.owlapi.io.OWLOntologyDocumentSource,java.lang.String,org.openrdf.rio.RDFHandler)@g_owlapi-rio-4.5.0.jar.txt	4
+org/semanticweb/owlapi/rio/RioStorer/storeOntology(org.semanticweb.owlapi.model.OWLOntology,java.io.OutputStream,org.semanticweb.owlapi.model.OWLDocumentFormat)@g_owlapi-rio-4.5.0.jar.txt	2
+org/semanticweb/owlapi/rio/RioOWLRDFConsumerAdapter/handleStatement(org.openrdf.model.Statement)@g_owlapi-rio-4.5.0.jar.txt	3
+org/openrdf/repository/http/HTTPRepositoryConnection/prepareQuery(org.openrdf.query.QueryLanguage,java.lang.String,java.lang.String)@g_sesame-repository-http-2.7.9.jar.txt	0

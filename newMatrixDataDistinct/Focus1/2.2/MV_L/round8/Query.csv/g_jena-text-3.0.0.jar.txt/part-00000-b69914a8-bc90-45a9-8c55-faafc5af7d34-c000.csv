@@ -1,0 +1,4 @@
+org/apache/lucene/store/FSDirectory/open(java.io.File)
+org/apache/jena/rdf/model/Statement/getObject()
+org/apache/jena/atlas/lib/IRILib/IRIToFilename(java.lang.String)
+org/apache/jena/rdf/model/Resource/getURI()

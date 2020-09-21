@@ -1,0 +1,3 @@
+0	java/sql/Connection/close()
+1	java/lang/ClassLoader/getResource(java.lang.String)
+2	java/lang/String/charAt(int)

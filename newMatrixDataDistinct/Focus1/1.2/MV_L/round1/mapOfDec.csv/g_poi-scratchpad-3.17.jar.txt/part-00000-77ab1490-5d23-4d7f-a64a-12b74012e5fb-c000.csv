@@ -1,0 +1,5 @@
+org/apache/poi/hssf/usermodel/HSSFChart/createSeries()@g_poi-scratchpad-3.13.jar.txt	4
+org/apache/poi/hslf/usermodel/HSLFSlideShow/removeSlide(int)@g_poi-scratchpad-3.13.jar.txt	0
+org/apache/poi/hwpf/model/CHPBinTable/rebuild(org.apache.poi.hwpf.model.ComplexFileTable)@g_poi-scratchpad-3.13.jar.txt	2
+org/apache/poi/hwpf/dev/HWPFLister/dumpPapx(boolean,boolean)@g_poi-scratchpad-3.13.jar.txt	3
+org/apache/poi/hsmf/parsers/POIFSChunkParser/parse(org.apache.poi.poifs.filesystem.DirectoryNode)@g_poi-scratchpad-3.13.jar.txt	1

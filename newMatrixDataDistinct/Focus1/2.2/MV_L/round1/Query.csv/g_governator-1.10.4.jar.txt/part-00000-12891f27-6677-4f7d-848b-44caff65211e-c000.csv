@@ -1,0 +1,4 @@
+com/google/inject/spi/Elements/getElements(java.lang.Iterable)
+java/util/Iterator/hasNext()
+com/google/common/collect/Lists/newArrayList()
+com/google/inject/spi/Element/acceptVisitor(com.google.inject.spi.ElementVisitor)

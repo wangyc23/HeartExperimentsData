@@ -1,0 +1,5 @@
+org/bytedeco/javacpp/ClassProperties/load(java.lang.Class,boolean)@g_javacpp-1.3.1.jar.txt	1
+org/bytedeco/javacpp/tools/Generator/functionMethods(java.lang.Class,boolean[])@g_javacpp-1.3.1.jar.txt	3
+org/bytedeco/javacpp/tools/Generator/cppScopeName(java.lang.Class)@g_javacpp-1.3.1.jar.txt	4
+org/bytedeco/javacpp/tools/Generator/methodInformation(java.lang.reflect.Method)@g_javacpp-1.3.1.jar.txt	2
+org/bytedeco/javacpp/tools/Generator/methods(java.lang.Class)@g_javacpp-1.3.1.jar.txt	0

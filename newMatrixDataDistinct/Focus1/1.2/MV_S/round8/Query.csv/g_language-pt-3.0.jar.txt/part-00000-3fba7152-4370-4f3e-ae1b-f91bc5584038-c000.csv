@@ -1,0 +1,4 @@
+org/languagetool/rules/DoublePunctuationRule/DoublePunctuationRule(java.util.ResourceBundle)
+org/languagetool/rules/spelling/hunspell/HunspellNoSuggestionRule/HunspellNoSuggestionRule(java.util.ResourceBundle,org.languagetool.Language)
+java/util/Arrays/asList(java.lang.Object[])
+org/languagetool/rules/CommaWhitespaceRule/CommaWhitespaceRule(java.util.ResourceBundle)

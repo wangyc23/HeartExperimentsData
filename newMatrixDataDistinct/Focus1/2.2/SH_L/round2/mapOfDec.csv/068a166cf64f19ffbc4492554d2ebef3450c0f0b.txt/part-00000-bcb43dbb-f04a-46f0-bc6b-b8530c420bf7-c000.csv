@@ -1,0 +1,5 @@
+com/salesforce/phoenix/expression/function/LengthFunction/evaluate(com.salesforce.phoenix.schema.tuple.Tuple,org.apache.hadoop.hbase.io.ImmutableBytesWritable)@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	4
+com/salesforce/phoenix/expression/DecimalAddExpression/evaluate(com.salesforce.phoenix.schema.tuple.Tuple,org.apache.hadoop.hbase.io.ImmutableBytesWritable)@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	3
+com/salesforce/phoenix/expression/function/RegexpReplaceFunction/evaluate(com.salesforce.phoenix.schema.tuple.Tuple,org.apache.hadoop.hbase.io.ImmutableBytesWritable)@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	0
+com/salesforce/phoenix/expression/function/ToNumberFunction/evaluate(com.salesforce.phoenix.schema.tuple.Tuple,org.apache.hadoop.hbase.io.ImmutableBytesWritable)@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	1
+com/salesforce/phoenix/expression/function/RoundFunction/evaluate(com.salesforce.phoenix.schema.tuple.Tuple,org.apache.hadoop.hbase.io.ImmutableBytesWritable)@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	2

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/deploy(java.io.File,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-gpg-plugin-1.6.jar.txt	2
+org/apache/maven/plugin/gpg/HelpMojo/execute()@g_maven-gpg-plugin-1.6.jar.txt	3
+org/apache/maven/plugin/gpg/HelpMojo/execute()@g_maven-gpg-plugin-1.5.jar.txt	1
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/deploy(java.io.File,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-gpg-plugin-1.5.jar.txt	0
+org/apache/maven/plugin/gpg/GpgSigner/generateSignatureForFile(java.io.File,java.io.File)@g_maven-gpg-plugin-1.5.jar.txt	4

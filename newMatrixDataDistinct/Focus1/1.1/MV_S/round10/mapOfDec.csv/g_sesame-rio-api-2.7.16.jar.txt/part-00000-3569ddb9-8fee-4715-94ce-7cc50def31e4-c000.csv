@@ -1,0 +1,5 @@
+org/openrdf/query/algebra/evaluation/function/FloatCast/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	3
+org/openrdf/query/algebra/evaluation/function/numeric/Floor/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	4
+org/openrdf/query/algebra/evaluation/function/string/Substring/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	2
+org/openrdf/query/algebra/evaluation/function/numeric/Ceil/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/function/string/Replace/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	0

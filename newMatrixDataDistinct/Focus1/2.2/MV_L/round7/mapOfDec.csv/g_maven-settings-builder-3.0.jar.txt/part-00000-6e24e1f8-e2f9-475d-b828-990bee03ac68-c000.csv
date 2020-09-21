@@ -1,0 +1,5 @@
+org/apache/maven/settings/validation/DefaultSettingsValidator/validateRepositories(org.apache.maven.settings.building.SettingsProblemCollector,java.util.List,java.lang.String)@g_maven-settings-builder-3.0.3.jar.txt	0
+org/apache/maven/settings/validation/DefaultSettingsValidator/validate(org.apache.maven.settings.Settings,org.apache.maven.settings.building.SettingsProblemCollector)@g_maven-settings-builder-3.0.4.jar.txt	3
+org/apache/maven/settings/merge/MavenSettingsMerger/merge(org.apache.maven.settings.Settings,org.apache.maven.settings.Settings,java.lang.String)@g_maven-settings-builder-3.0.3.jar.txt	4
+org/apache/maven/settings/validation/DefaultSettingsValidator/validate(org.apache.maven.settings.Settings,org.apache.maven.settings.building.SettingsProblemCollector)@g_maven-settings-builder-3.0.3.jar.txt	2
+org/apache/maven/settings/validation/DefaultSettingsValidator/validateRepositories(org.apache.maven.settings.building.SettingsProblemCollector,java.util.List,java.lang.String)@g_maven-settings-builder-3.0.4.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/ivy/core/publish/PublishEngine/publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor,java.util.Collection,org.apache.ivy.plugins.resolver.DependencyResolver,org.apache.ivy.core.publish.PublishOptions)@g_ivy-2.3.0.jar.txt	4
+org/apache/maven/it/Verifier/runCommandLine(org.apache.maven.it.util.cli.Commandline,java.io.File)@g_maven-verifier-1.2.jar.txt	2
+org/apache/ivy/util/Configurator/addText(java.lang.String)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/Main/invoke(org.apache.ivy.Ivy,java.io.File,org.apache.ivy.core.module.descriptor.ModuleDescriptor,java.lang.String[],java.util.List,java.lang.String,java.lang.String[])@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	3

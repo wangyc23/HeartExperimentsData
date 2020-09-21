@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+com/fasterxml/jackson/core/JsonGenerator/writeNumber(double)
+java/util/Map/get(java.lang.Object)
+com/fasterxml/jackson/core/JsonGenerator/writeString(java.lang.String)

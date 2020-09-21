@@ -1,0 +1,4 @@
+java/lang/Throwable/printStackTrace()
+java/io/RandomAccessFile/seek(long)
+com/maxmind/geoip/DatabaseInfo/DatabaseInfo(java.lang.String)
+com/maxmind/geoip/LookupService/_check_mtime()

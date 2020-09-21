@@ -1,0 +1,5 @@
+org/openrdf/rio/trix/TriXWriter/writeValue(org.openrdf.model.Value)@g_rdf4j-rio-binary-2.1.4.jar.txt	4
+org/openrdf/rio/trix/TriXParser/parse(java.lang.Object)@g_rdf4j-rio-binary-2.1.4.jar.txt	2
+org/eclipse/rdf4j/rio/binary/BinaryRDFParser/parse(java.io.InputStream,java.lang.String)@g_rdf4j-rio-binary-2.1.4.jar.txt	3
+org/openrdf/rio/trix/TriXWriter/writeValue(org.openrdf.model.Value)@g_sesame-rio-trix-2.7.16.jar.txt	1
+org/openrdf/rio/trix/TriXParser/parse(java.lang.Object)@g_sesame-rio-trix-2.7.16.jar.txt	0

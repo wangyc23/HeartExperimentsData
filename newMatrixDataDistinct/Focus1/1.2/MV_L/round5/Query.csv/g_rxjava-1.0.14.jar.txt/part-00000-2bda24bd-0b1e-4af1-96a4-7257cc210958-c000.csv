@@ -1,0 +1,4 @@
+rx/internal/operators/OperatorPublish$InnerProducer/unsubscribe()
+rx/internal/operators/OperatorPublish$InnerProducer/get()
+rx/internal/operators/OperatorPublish$InnerProducer/produced(long)
+rx/Subscriber/onError(java.lang.Throwable)

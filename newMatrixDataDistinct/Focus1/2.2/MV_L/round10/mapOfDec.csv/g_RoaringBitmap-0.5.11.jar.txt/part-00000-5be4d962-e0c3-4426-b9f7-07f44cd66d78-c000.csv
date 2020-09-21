@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/sevenz/SevenZFile/readHeaders(byte[])@g_commons-compress-1.9.jar.txt	4
+org/apache/commons/compress/archivers/sevenz/SevenZFile/readFilesInfo(java.io.DataInput,org.apache.commons.compress.archivers.sevenz.Archive)@g_commons-compress-1.9.jar.txt	0
+org/apache/commons/compress/archivers/sevenz/SevenZOutputFile/finish()@g_commons-compress-1.9.jar.txt	3
+org/apache/commons/compress/archivers/sevenz/SevenZFile/readUnpackInfo(java.io.DataInput,org.apache.commons.compress.archivers.sevenz.Archive)@g_commons-compress-1.9.jar.txt	1
+org/apache/commons/compress/archivers/sevenz/SevenZFile/readPackInfo(java.io.DataInput,org.apache.commons.compress.archivers.sevenz.Archive)@g_commons-compress-1.9.jar.txt	2

@@ -1,0 +1,4 @@
+org/springframework/data/mapping/PersistentPropertyAccessor/getBean()
+org/springframework/data/repository/support/RepositoryInvoker/invokeSave(java.lang.Object)
+org/springframework/data/mapping/PersistentProperty/isMap()
+org/springframework/web/HttpRequestMethodNotSupportedException/HttpRequestMethodNotSupportedException(java.lang.String)

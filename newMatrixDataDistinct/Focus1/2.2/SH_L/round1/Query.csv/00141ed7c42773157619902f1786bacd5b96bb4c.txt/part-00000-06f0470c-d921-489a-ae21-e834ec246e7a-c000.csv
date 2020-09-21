@@ -1,0 +1,4 @@
+org/apache/kylin/cube/CubeSegment/putDictResPath(org.apache.kylin.metadata.model.TblColRef,java.lang.String)
+java/util/ArrayList/ArrayList()
+org/apache/kylin/cube/CubeInstance/getSegments()
+org/apache/kylin/metadata/model/TblColRef/getColumn()

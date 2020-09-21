@@ -1,0 +1,5 @@
+com/mysql/jdbc/ConnectionPropertiesImpl/postInitialization()@g_mysql-connector-java-5.1.6.jar.txt	2
+com/mysql/jdbc/PreparedStatement/getDateTimePattern(java.lang.String,boolean)@g_mysql-connector-java-5.1.6.jar.txt	0
+com/mysql/jdbc/ConnectionImpl/buildCollationMapping()@g_mysql-connector-java-5.1.6.jar.txt	1
+com/mysql/jdbc/ConnectionImpl/getMaxBytesPerChar(java.lang.String)@g_mysql-connector-java-5.1.6.jar.txt	3
+com/mysql/jdbc/UpdatableResultSet/extractDefaultValues()@g_mysql-connector-java-5.1.6.jar.txt	4

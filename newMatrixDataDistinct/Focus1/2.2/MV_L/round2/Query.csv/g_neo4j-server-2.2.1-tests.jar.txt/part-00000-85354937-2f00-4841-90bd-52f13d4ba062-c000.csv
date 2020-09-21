@@ -1,0 +1,4 @@
+org/neo4j/server/rest/repr/NodeRepresentation/NodeRepresentation(org.neo4j.graphdb.Node)
+org/neo4j/graphdb/GraphDatabaseService/shutdown()
+org/neo4j/test/TestGraphDatabaseFactory/newImpermanentDatabase()
+org/neo4j/graphdb/Transaction/finish()

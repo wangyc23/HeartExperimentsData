@@ -1,0 +1,4 @@
+com/amazonaws/transform/SimpleTypeStaxUnmarshallers$StringStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)
+com/amazonaws/transform/SimpleTypeStaxUnmarshallers$StringStaxUnmarshaller/getInstance()
+com/amazonaws/transform/StaxUnmarshallerContext/getCurrentDepth()
+com/amazonaws/transform/StaxUnmarshallerContext/testExpression(java.lang.String,int)

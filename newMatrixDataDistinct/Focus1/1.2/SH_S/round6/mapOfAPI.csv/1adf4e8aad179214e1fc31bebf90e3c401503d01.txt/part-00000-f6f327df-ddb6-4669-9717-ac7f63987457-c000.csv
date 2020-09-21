@@ -1,0 +1,4 @@
+0	org/okbqa/rocknrole/graph/Graph/renameNode(int,int)
+1	org/okbqa/rocknrole/graph/Node/setForm(java.lang.String)
+2	org/okbqa/rocknrole/graph/Edge/getDependent()
+3	org/okbqa/rocknrole/graph/Graph/getNode(int)

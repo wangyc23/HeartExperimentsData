@@ -1,0 +1,4 @@
+org/xml/sax/Attributes/getQName(int)
+org/xml/sax/Attributes/getLength()
+org/xml/sax/Attributes/getLocalName(int)
+org/xml/sax/Attributes/getURI(int)

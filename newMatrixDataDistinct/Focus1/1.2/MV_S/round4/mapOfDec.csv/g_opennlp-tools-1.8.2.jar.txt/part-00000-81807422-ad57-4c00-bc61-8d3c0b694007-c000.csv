@@ -1,0 +1,5 @@
+opennlp/tools/cmdline/ArgumentParser/parse(java.lang.String[],java.lang.Class)@g_opennlp-tools-1.5.2-incubating.jar.txt	3
+edu/stanford/nlp/parser/lexparser/NegraPennTreebankParserParams/transformTree(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.Tree)@g_opennlp-tools-1.5.2-incubating.jar.txt	4
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_opennlp-tools-1.5.2-incubating.jar.txt	1
+opennlp/tools/cmdline/sentdetect/SentenceDetectorTrainerTool/run(java.lang.String[])@g_opennlp-tools-1.5.2-incubating.jar.txt	0
+opennlp/tools/cmdline/ArgumentParser/checkProxyInterface(java.lang.Class)@g_opennlp-tools-1.5.2-incubating.jar.txt	2

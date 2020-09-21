@@ -1,0 +1,5 @@
+org/woelker/telemetrion/core/engine/Engine/start()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	2
+pl/com/sages/hadoop/mapreduce/hadoopinaction/join/JoinJobTest/shouldJoinCustomersAndOrders()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	0
+pl/com/sages/hadoop/mapreduce/movies/MoviesTest/shouldCountWords()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	3
+pl/com/sages/hbase/mapred/movies/AverageRatingExternalTest/before()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	4
+pl/com/sages/hbase/api/loader/LoadMovieRatingData/run()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	1

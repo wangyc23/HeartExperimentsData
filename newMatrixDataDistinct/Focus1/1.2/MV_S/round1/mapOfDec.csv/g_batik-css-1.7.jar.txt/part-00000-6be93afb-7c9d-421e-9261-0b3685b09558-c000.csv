@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/signedcontent/PKCS7Processor/processEncapContentInfo(org.eclipse.osgi.internal.signedcontent.BERProcessor)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/osgi/storagemanager/StorageManager/findOldestGeneration(java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/framework/internal/core/BundleResourceHandler/toExternalForm(java.net.URL)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/osgi/baseadaptor/bundlefile/ZipBundleFile/containsDir(java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/osgi/framework/internal/core/BundleResourceHandler/parseURL(java.net.URL,java.lang.String,int,int)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1

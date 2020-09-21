@@ -1,0 +1,5 @@
+org/apache/tika/language/LanguageProfile/add(java.lang.String,long)@g_xwiki-commons-xml-7.4.2.jar.txt	0
+org/htmlcleaner/XWikiDOMSerializer/createSubnodes(org.w3c.dom.Document,org.w3c.dom.Element,java.util.List)@g_xwiki-commons-xml-7.4.2.jar.txt	1
+org/apache/tika/language/LanguageProfile/distanceInterleaved(org.apache.tika.language.LanguageProfile)@g_xwiki-commons-xml-7.4.2.jar.txt	3
+org/apache/tika/detect/NNExampleModelDetector/loadDefaultModels(java.lang.ClassLoader)@g_xwiki-commons-xml-7.4.2.jar.txt	4
+org/apache/tika/config/TikaConfigSerializer/serialize(org.apache.tika.config.TikaConfig,org.apache.tika.config.TikaConfigSerializer$Mode,java.io.Writer,java.nio.charset.Charset)@g_xwiki-commons-xml-7.4.2.jar.txt	2

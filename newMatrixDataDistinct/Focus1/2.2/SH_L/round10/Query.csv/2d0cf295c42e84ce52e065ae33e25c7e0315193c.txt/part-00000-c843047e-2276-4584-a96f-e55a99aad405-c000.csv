@@ -1,0 +1,4 @@
+org/sifarish/util/Entity/getIdField()
+org/sifarish/feature/TypeSchema/createTextSimilarityStrategy()
+org/sifarish/util/Field/getOrdinal()
+java/lang/Integer/parseInt(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/bahir/examples/sql/streaming/mqtt/JavaMQTTStreamWordCount/main(java.lang.String[])@2f834678f43bf1a3d6933b6e573a95cd23b25734.txt	2
+org/apache/spark/examples/streaming/twitter/JavaTwitterHashTagJoinSentiments/main(java.lang.String[])@2f834678f43bf1a3d6933b6e573a95cd23b25734.txt	1
+a4example/BadRecordCount/main(java.lang.String[])@267e0d4d3dbcaa115d371991aa3953f3c33d5e12.txt	4
+org/apache/spark/examples/streaming/akka/JavaActorWordCount/main(java.lang.String[])@2f834678f43bf1a3d6933b6e573a95cd23b25734.txt	0
+org/apache/bahir/examples/sql/streaming/akka/JavaAkkaStreamWordCount/main(java.lang.String[])@2f834678f43bf1a3d6933b6e573a95cd23b25734.txt	3

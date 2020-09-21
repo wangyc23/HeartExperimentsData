@@ -1,0 +1,4 @@
+edu/cmu/lti/jawjaw/pobj/POS/valueOf(java.lang.String)
+edu/cmu/lti/jawjaw/util/WordNetUtil/wordToSynsets(java.lang.String,edu.cmu.lti.jawjaw.pobj.POS)
+java/util/ArrayList/ArrayList(int)
+edu/cmu/lti/jawjaw/pobj/POS/toString()

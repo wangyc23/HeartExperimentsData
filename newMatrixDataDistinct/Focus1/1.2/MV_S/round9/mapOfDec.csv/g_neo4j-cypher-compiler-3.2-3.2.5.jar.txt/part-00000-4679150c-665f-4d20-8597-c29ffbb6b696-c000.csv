@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_3/ExecutionResultDumper/anonfun/calculateColumnSizes/1/anonfun/apply/1/apply(scala.Tuple2)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	0
+org/neo4j/cypher/internal/compiler/v2_3/executionplan/MatchPattern/anonfun/2/apply(scala.Tuple2,scala.Tuple2)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	3
+org/neo4j/cypher/internal/compiler/v2_1/PipeExecutionResult/anonfun/calculateColumnSizes/1/anonfun/apply/2/apply(scala.Tuple2)@g_neo4j-cypher-compiler-2.1-2.1.7.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_3/executionplan/formatOutput/anonfun/calculateColumnSizes/1/1/anonfun/apply/1/apply(scala.Tuple2)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	2
+org/neo4j/cypher/internal/compiler/v2_3/planner/logical/steps/solveOptionalMatches/anonfun/apply/1/anonfun/1/apply(org.neo4j.cypher.internal.compiler.v2_3.planner.logical.plans.LogicalPlan,org.neo4j.cypher.internal.compiler.v2_3.planner.QueryGraph)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	4

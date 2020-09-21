@@ -1,0 +1,5 @@
+org/neo4j/server/rest/management/console/ConsoleService/exec(org.neo4j.server.rest.repr.InputFormat,java.lang.String)@g_neo4j-server-2.2.5.jar.txt	4
+org/neo4j/server/rest/repr/formats/CompactJsonFormat/serializeMapping(java.lang.String)@g_neo4j-server-2.2.5.jar.txt	2
+org/neo4j/server/plugins/PluginManager/describeAll(java.lang.String)@g_neo4j-server-2.2.5.jar.txt	3
+org/neo4j/server/rest/domain/TraversalDescriptionBuilder/createExpander(java.util.Map)@g_neo4j-server-3.0.1.jar.txt	1
+org/neo4j/server/rest/domain/TraversalDescriptionBuilder/createExpander(java.util.Map)@g_neo4j-server-2.2.5.jar.txt	0

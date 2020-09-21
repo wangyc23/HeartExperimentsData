@@ -1,0 +1,5 @@
+com/yahoo/ycsb/couchbase/CouchbaseClient2_0/delete(java.lang.String,java.lang.String)@07f855760151be2597b3ec7d6236958c7e8599da.txt	4
+com/yahoo/ycsb/StringByteIterator/nextByte()@07f855760151be2597b3ec7d6236958c7e8599da.txt	1
+com/yahoo/ycsb/db/SolrClient/init()@07f855760151be2597b3ec7d6236958c7e8599da.txt	3
+com/yahoo/ycsb/couchbase/CouchbaseClient1_8/createCouchbaseClient()@07f855760151be2597b3ec7d6236958c7e8599da.txt	2
+com/yahoo/ycsb/db/JdbcDBClient/cleanupAllConnections()@07f855760151be2597b3ec7d6236958c7e8599da.txt	0

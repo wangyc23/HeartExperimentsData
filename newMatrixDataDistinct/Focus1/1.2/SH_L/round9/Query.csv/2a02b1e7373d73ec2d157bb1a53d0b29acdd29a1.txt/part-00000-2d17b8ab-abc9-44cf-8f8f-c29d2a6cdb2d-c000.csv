@@ -1,0 +1,4 @@
+java/util/Map/Entry/getValue()
+java/util/HashMap/entrySet()
+java/util/Map/Entry/getKey()
+br/com/caelum/vraptor/core/Converters/to(java.lang.Class)

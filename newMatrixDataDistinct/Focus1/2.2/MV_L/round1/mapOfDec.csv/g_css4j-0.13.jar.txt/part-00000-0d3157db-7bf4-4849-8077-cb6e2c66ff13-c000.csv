@@ -1,0 +1,5 @@
+org/apache/log4j/config/PropertyPrinter/printOptions(java.io.PrintWriter,org.apache.log4j.Category)@g_log4j-1.2.17.jar.txt	2
+org/apache/log4j/varia/FallbackErrorHandler/error(java.lang.String,java.lang.Exception,int,org.apache.log4j.spi.LoggingEvent)@g_log4j-1.2.17.jar.txt	1
+info/informatica/doc/style/css/dom/BaseCSSStyleDeclaration/setCssText(java.lang.String)@g_log4j-1.2.17.jar.txt	4
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_log4j-1.2.17.jar.txt	0
+org/apache/log4j/xml/XMLLayout/format(org.apache.log4j.spi.LoggingEvent)@g_log4j-1.2.17.jar.txt	3

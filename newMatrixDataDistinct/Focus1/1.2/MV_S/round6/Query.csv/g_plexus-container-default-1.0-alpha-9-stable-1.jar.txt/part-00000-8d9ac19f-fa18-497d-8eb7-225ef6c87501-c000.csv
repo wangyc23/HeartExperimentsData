@@ -1,0 +1,4 @@
+junit/framework/Assert/fail(java.lang.String)
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/Throwable/getMessage()
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream)

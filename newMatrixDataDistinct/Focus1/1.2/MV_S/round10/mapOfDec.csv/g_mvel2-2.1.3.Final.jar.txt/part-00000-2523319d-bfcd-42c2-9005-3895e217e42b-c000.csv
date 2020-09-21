@@ -1,0 +1,5 @@
+ognl/ArrayPropertyAccessor/getSourceSetter(ognl.OgnlContext,java.lang.Object,java.lang.Object)@g_xwiki-platform-resource-api-7.4.2.jar.txt	3
+ognl/ASTChain/setValueBody(ognl.OgnlContext,java.lang.Object,java.lang.Object)@g_xwiki-platform-resource-api-7.4.2.jar.txt	4
+ognl/OgnlRuntime/findObjectIndexedPropertyDescriptors(java.lang.Class,java.util.Map)@g_ognl-3.0.8.jar.txt	1
+ognl/enhance/ExpressionCompiler/createLocalReferences(ognl.OgnlContext,javassist.ClassPool,javassist.CtClass,javassist.CtClass,javassist.CtClass[])@g_ognl-3.0.8.jar.txt	0
+ognl/ASTMethod/toSetSourceString(ognl.OgnlContext,java.lang.Object)@g_xwiki-platform-resource-api-7.4.2.jar.txt	2

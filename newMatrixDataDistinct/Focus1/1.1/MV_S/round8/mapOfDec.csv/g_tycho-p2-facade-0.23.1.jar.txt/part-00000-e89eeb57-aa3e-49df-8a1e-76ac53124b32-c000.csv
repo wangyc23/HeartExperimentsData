@@ -1,0 +1,5 @@
+org/eclipse/tycho/surefire/TestMojo/getIUsToInstall(java.util.Set)@g_target-platform-configuration-0.23.1.jar.txt	4
+org/eclipse/tycho/p2/resolver/PomDependencyProcessor/collectPomDependencies(org.apache.maven.project.MavenProject,java.util.Collection)@g_target-platform-configuration-0.23.1.jar.txt	3
+org/eclipse/tycho/p2/facade/RepositoryReferenceTool/addTargetPlatformRepository(org.eclipse.tycho.p2.tools.RepositoryReferences,org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject)@g_target-platform-configuration-0.23.1.jar.txt	1
+org/eclipse/tycho/surefire/provider/impl/ProviderHelper/validate(org.eclipse.tycho.surefire.provider.spi.TestFrameworkProvider,java.util.Properties)@g_target-platform-configuration-0.23.1.jar.txt	2
+org/eclipse/tycho/surefire/TestMojo/getFrameworkExtensions()@g_target-platform-configuration-0.23.1.jar.txt	0

@@ -1,0 +1,4 @@
+org/apache/lucene/util/packed/MonotonicBlockPackedWriter/MonotonicBlockPackedWriter(org.apache.lucene.store.DataOutput,int)
+org/apache/lucene/store/IndexOutput/writeVInt(int)
+org/apache/lucene/codecs/lucene45/Lucene45DocValuesConsumer/isSingleValued(java.lang.Iterable)
+org/apache/lucene/util/packed/MonotonicBlockPackedWriter/finish()

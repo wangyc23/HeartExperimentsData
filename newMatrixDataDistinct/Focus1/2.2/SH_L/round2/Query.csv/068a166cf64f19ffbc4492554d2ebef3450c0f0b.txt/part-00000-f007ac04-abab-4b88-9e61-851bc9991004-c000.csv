@@ -1,0 +1,4 @@
+java/util/regex/Matcher/replaceAll(java.lang.String)
+org/apache/hadoop/hbase/io/ImmutableBytesWritable/set(byte[])
+com/salesforce/phoenix/schema/PDataType/toBytes(java.lang.Object)
+com/salesforce/phoenix/expression/function/RegexpReplaceFunction/getReplaceStrExpression()

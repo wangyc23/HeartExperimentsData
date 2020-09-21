@@ -1,0 +1,5 @@
+ucar/nc2/dods/DODSNetcdfFile/readArrays(java.util.List)@g_netcdf-4.2-min.jar.txt	0
+ucar/nc2/ft/point/standard/PointConfigXML/readConfigXMLfromResource(java.lang.String,ucar.nc2.constants.FeatureType,ucar.nc2.dataset.NetcdfDataset,java.util.Formatter)@g_netcdf-4.2-min.jar.txt	4
+ucar/nc2/ft/point/writer/WriterCFPointDataset/writePointFeatureCollection(ucar.nc2.ft.FeatureDatasetPoint,java.lang.String)@g_netcdf-4.2-min.jar.txt	2
+ucar/nc2/iosp/nids/Nidsiosp/readCompData(long,long)@g_netcdf-4.2-min.jar.txt	3
+ucar/nc2/iosp/bufr/tables/BufrTables/readBmetTableB(java.io.InputStream,ucar.nc2.iosp.bufr.tables.TableB)@g_netcdf-4.2-min.jar.txt	1

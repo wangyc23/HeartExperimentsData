@@ -1,0 +1,5 @@
+org/apache/activemq/broker/cluster/ConnectionSplitBroker/addConsumer(org.apache.activemq.broker.ConnectionContext,org.apache.activemq.command.ConsumerInfo)@g_activemq-all-5.7.0.jar.txt	2
+org/apache/activemq/store/kahadb/MessageDatabase/removeAckLocationsForSub(org.apache.kahadb.page.Transaction,org.apache.activemq.store.kahadb.MessageDatabase$StoredDestination,java.lang.String)@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/console/command/BstatCommand/runTask(java.util.List)@g_activemq-all-5.7.0.jar.txt	4
+org/apache/kahadb/journal/ReadOnlyJournal/start()@g_activemq-all-5.7.0.jar.txt	1
+org/apache/activemq/transport/failover/FailoverTransport/buildBackups()@g_activemq-all-5.7.0.jar.txt	3

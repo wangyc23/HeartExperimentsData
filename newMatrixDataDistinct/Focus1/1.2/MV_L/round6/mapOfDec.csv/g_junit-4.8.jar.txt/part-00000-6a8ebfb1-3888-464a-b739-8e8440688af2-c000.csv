@@ -1,0 +1,5 @@
+org/junit/runners/BlockJUnit4ClassRunner/validateRuleField(java.lang.reflect.Field,java.util.List)@g_junit-4.7.jar.txt	1
+org/junit/experimental/theories/Theories/validateDataPointFields(java.util.List)@g_junit-4.7.jar.txt	4
+org/junit/runners/BlockJUnit4ClassRunner/validateRuleField(java.lang.reflect.Field,java.util.List)@g_junit-4.8.2.jar.txt	0
+org/junit/experimental/theories/Theories/validateDataPointFields(java.util.List)@g_junit-4.8.2.jar.txt	2
+junit/framework/TestSuite/addTestsFromTestCase(java.lang.Class)@g_junit-4.8.2.jar.txt	3

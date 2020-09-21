@@ -1,0 +1,5 @@
+edu/stanford/nlp/international/arabic/IBMArabicEscaper/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/international/spanish/process/AnCoraPronounDisambiguator/disambiguatePersonalPronoun(edu.stanford.nlp.util.Pair,int,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/ChineseLexiconAndWordSegmenter/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/semgraph/semgrex/GraphRelation/getRelation(java.lang.String,java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/ling/tokensregex/types/Expressions/MethodCallExpression/evaluate(edu.stanford.nlp.ling.tokensregex.Env,java.lang.Object[])@g_stanford-parser-3.5.2.jar.txt	0

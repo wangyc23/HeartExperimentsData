@@ -1,0 +1,4 @@
+org/powermock/core/MockRepository/putAdditionalState(java.lang.String,java.lang.Object)
+java/lang/reflect/Modifier/isFinal(int)
+org/powermock/reflect/Whitebox/getType(java.lang.Object)
+java/lang/Class/getName()

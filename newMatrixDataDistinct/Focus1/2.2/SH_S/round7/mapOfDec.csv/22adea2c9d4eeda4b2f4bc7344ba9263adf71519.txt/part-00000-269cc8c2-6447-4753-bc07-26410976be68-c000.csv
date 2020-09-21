@@ -1,0 +1,5 @@
+com/ejm/service/SearchServlet/forwardToSearch(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@2d10bd536f35e90668f8066122990bee3b559dec.txt	4
+nl/illuminatedgroup/bankapplicatievoorbeeld/BankEndPoint/withdraw(nl.illuminatedgroup.bankapplicatievoorbeeld.WithdrawRequest)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+nl/illuminated/arduino/ArduinoPort/handleReceivedPackages()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1
+nl/illuminatedgroup/bankapplicatievoorbeeld/Database/connect()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+nl/illuminatedgroup/bankapplicatievoorbeeld/Database/withdraw(java.lang.String,long)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0

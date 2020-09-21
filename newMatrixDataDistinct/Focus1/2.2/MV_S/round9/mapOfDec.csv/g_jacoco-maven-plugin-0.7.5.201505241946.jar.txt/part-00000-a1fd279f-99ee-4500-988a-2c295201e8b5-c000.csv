@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/resolvers/ResolvePluginsMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/rat/mp/RatReportMojo/generate(org.codehaus.doxia.sink.Sink,java.util.Locale)@g_apache-rat-plugin-0.12.jar.txt	0
+org/apache/maven/plugin/dependency/resolvers/GoOfflineMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/dependency/analyze/AbstractAnalyzeMojo/writeScriptableOutput(java.util.Set)@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/tree/TreeMojo/execute()@g_maven-dependency-plugin-2.8.jar.txt	4

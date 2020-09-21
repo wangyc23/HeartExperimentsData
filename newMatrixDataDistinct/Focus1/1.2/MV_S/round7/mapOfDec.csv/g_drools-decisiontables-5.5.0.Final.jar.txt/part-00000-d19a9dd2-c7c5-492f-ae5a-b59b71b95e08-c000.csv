@@ -1,0 +1,5 @@
+info/aduna/xml/XMLReaderFactory/createXMLReader()@g_sesame-util-2.7.16.jar.txt	3
+info/aduna/io/IOUtil/readBytes(java.io.File)@g_sesame-util-2.7.16.jar.txt	2
+info/aduna/xml/XMLUtil/resolveEntity(java.lang.String)@g_sesame-util-2.7.16.jar.txt	1
+info/aduna/xml/XMLWriter/_writeAtts()@g_sesame-util-2.7.16.jar.txt	0
+info/aduna/io/FileUtil/createTempDir(java.lang.String)@g_sesame-util-2.7.16.jar.txt	4

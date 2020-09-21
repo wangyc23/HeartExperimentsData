@@ -1,0 +1,5 @@
+javanet/staxutils/BaseXMLEventWriter/mergeNamespaces(java.util.Iterator,java.util.List)@g_stax-utils-20070216.jar.txt	0
+javanet/staxutils/XMLEventReaderToContentHandler/getAttributes(javax.xml.stream.events.StartElement)@g_stax-utils-20070216.jar.txt	4
+org/codehaus/jettison/mapped/MappedNamespaceConvention/processAttributesAndNamespaces(org.codehaus.jettison.Node,org.codehaus.jettison.json.JSONObject)@g_jettison-1.2.jar.txt	2
+javanet/staxutils/StAXEventContentHandler/createStartEvents(org.xml.sax.Attributes,java.util.Collection[])@g_stax-utils-20070216.jar.txt	1
+javanet/staxutils/XMLEventReaderToContentHandler/handleEndElement(javax.xml.stream.events.EndElement)@g_stax-utils-20070216.jar.txt	3

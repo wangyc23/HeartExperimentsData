@@ -1,0 +1,5 @@
+org/apache/pdfbox/multipdf/PDFMergerUtility/appendDocument(org.apache.pdfbox.pdmodel.PDDocument,org.apache.pdfbox.pdmodel.PDDocument)@g_pdfbox-2.0.7.jar.txt	2
+org/apache/pdfbox/pdfparser/PDFStreamParser/parseNextToken()@g_pdfbox-2.0.7.jar.txt	1
+org/apache/pdfbox/pdmodel/graphics/shading/PatchMeshesShadingContext/collectPatches(org.apache.pdfbox.pdmodel.graphics.shading.PDShadingType6,java.awt.geom.AffineTransform,org.apache.pdfbox.util.Matrix,int)@g_pdfbox-2.0.7.jar.txt	3
+org/apache/pdfbox/pdmodel/font/TrueTypeEmbedder/subset()@g_pdfbox-2.0.7.jar.txt	0
+org/apache/pdfbox/pdmodel/encryption/PublicKeySecurityHandler/prepareForDecryption(org.apache.pdfbox.pdmodel.encryption.PDEncryption,org.apache.pdfbox.cos.COSArray,org.apache.pdfbox.pdmodel.encryption.DecryptionMaterial)@g_pdfbox-2.0.7.jar.txt	4

@@ -1,0 +1,4 @@
+com/facebook/presto/benchmark/AbstractBenchmark/runBenchmark(com.facebook.presto.benchmark.BenchmarkResultHook)
+com/facebook/presto/benchmark/SimpleLineBenchmarkResultWriter/SimpleLineBenchmarkResultWriter(java.io.OutputStream)
+java/util/concurrent/Executors/newCachedThreadPool(java.util.concurrent.ThreadFactory)
+com/facebook/presto/benchmark/BenchmarkQueryRunner/createLocalQueryRunner(java.util.concurrent.ExecutorService)

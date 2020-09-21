@@ -1,0 +1,5 @@
+org/wso2/carbon/sample/thriftclient/CClient/toString(java.nio.ByteBuffer)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	2
+com/aspigrow/portel/resources/AgreementResource/save(com.aspigrow.portel.model.AgreementModel)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	1
+com/aspigrow/portel/resources/OpportunityResource/doUpdate(com.aspigrow.portel.model.OpportunityModel)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	3
+org/wso2/rnd/nosql/EMRClient/getEmrBlob(java.util.UUID)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	4
+com/aspigrow/portel/resources/QuesProcessLineItemResource/delete(com.aspigrow.portel.model.QuesProcessLineItemModel)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	0

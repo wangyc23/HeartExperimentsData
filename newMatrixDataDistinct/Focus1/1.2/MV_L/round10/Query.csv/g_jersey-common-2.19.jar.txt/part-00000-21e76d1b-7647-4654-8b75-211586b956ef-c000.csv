@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/allocate(int)
+java/nio/ByteBuffer/position()
+java/nio/ByteBuffer/put(byte)
+java/nio/ByteBuffer/flip()

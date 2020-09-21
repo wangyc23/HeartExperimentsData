@@ -1,0 +1,5 @@
+org/springframework/boot/test/json/JsonContentAssert/compare(java.lang.CharSequence,org.springframework.boot.test.json.JSONCompareMode)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	0
+org/springframework/boot/configurationprocessor/TypeUtils/getType(javax.lang.model.type.TypeMirror)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	2
+org/springframework/boot/configurationprocessor/TypeElementMembers/isGetter(javax.lang.model.element.ExecutableElement)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	4
+org/springframework/boot/configurationprocessor/ConfigurationMetadataAnnotationProcessor/getAnnotationElementValues(javax.lang.model.element.AnnotationMirror)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	3
+org/springframework/boot/test/json/JsonLoader/getJson(java.lang.CharSequence)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	1

@@ -1,0 +1,5 @@
+org/neo4j/io/fs/FileUtils/isEmptyDirectory(java.io.File)@g_neo4j-io-3.0.1.jar.txt	1
+org/neo4j/io/fs/FileUtils/copyFile(java.io.File,java.io.File)@g_xff-core-0.4.0.jar.txt	2
+org/xwiki/xff/core/model/Wiki/store(java.nio.file.Path)@g_xff-core-0.4.0.jar.txt	4
+org/xwiki/xff/core/model/Class/orderedPaths()@g_xff-core-0.4.0.jar.txt	3
+org/neo4j/io/fs/DelegateFileSystemAbstraction/copyRecursively(java.nio.file.Path,java.nio.file.Path)@g_neo4j-io-3.0.1.jar.txt	0

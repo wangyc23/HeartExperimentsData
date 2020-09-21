@@ -1,0 +1,4 @@
+java/lang/String/split(java.lang.String)
+com/paul/demo/ClientImpl/getValue(com.paul.demo.WebTarget)
+java/util/Scanner/nextLine()
+java/io/PrintStream/println(char[])

@@ -1,0 +1,4 @@
+org/codehaus/plexus/logging/Logger/warn(java.lang.String,java.lang.Throwable)
+org/osgi/framework/Bundle/getSymbolicName()
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

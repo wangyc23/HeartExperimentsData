@@ -1,0 +1,5 @@
+org/apache/spark/streaming/kafka/JavaKafkaStreamSuite/testKafkaStream()@1314ccc50df4aceeebdd17cfef45f5391b6b8c2b.txt	4
+org/apache/spark/network/shuffle/ExternalShuffleBlockManager/getFile(java.lang.String[],int,java.lang.String)@1314ccc50df4aceeebdd17cfef45f5391b6b8c2b.txt	1
+org/apache/spark/JavaAPISuite/textFiles()@1314ccc50df4aceeebdd17cfef45f5391b6b8c2b.txt	3
+org/apache/spark/JavaAPISuite/objectFilesOfInts()@1314ccc50df4aceeebdd17cfef45f5391b6b8c2b.txt	0
+org/apache/spark/JavaAPISuite/sequenceFile()@1314ccc50df4aceeebdd17cfef45f5391b6b8c2b.txt	2

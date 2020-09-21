@@ -1,0 +1,4 @@
+org/jooq/impl/DSL/countDistinct(org.jooq.Field)
+java/util/List/size()
+org/jooq/Result/getValue(int,org.jooq.Field)
+java/lang/Integer/valueOf(int)

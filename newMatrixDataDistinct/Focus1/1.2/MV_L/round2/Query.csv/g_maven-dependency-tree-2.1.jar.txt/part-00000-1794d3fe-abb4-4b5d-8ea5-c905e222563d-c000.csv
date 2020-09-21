@@ -1,0 +1,4 @@
+org/codehaus/plexus/PlexusContainer/lookup(java.lang.String,java.lang.String)
+java/lang/Class/getCanonicalName()
+org/apache/maven/shared/dependency/graph/internal/DefaultDependencyGraphBuilder/getLogger()
+org/codehaus/plexus/component/repository/exception/ComponentLookupException/getMessage()

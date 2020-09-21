@@ -1,0 +1,5 @@
+org/apache/jena/atlas/io/TestBlockUTF8/testIn(java.lang.String,org.apache.jena.atlas.io.TestBlockUTF8$Alloc,org.apache.jena.atlas.io.TestBlockUTF8$Alloc)@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	4
+org/apache/jena/atlas/io/TestBlockUTF8/testInOutBinary(java.lang.String)@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	2
+org/apache/jena/atlas/io/TestStreamUTF8/testIn(java.lang.String)@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	1
+org/apache/jena/atlas/io/TestBlockUTF8/testOut(java.lang.String,org.apache.jena.atlas.io.TestBlockUTF8$Alloc,org.apache.jena.atlas.io.TestBlockUTF8$Alloc)@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	3
+org/apache/jena/atlas/io/AbstractTestPeekInputStream/contains(org.apache.jena.atlas.io.PeekInputStream,java.lang.String)@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	0

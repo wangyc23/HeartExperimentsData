@@ -1,0 +1,4 @@
+java/util/zip/ZipInputStream/ZipInputStream(java.io.InputStream)
+java/util/zip/ZipOutputStream/putNextEntry(java.util.zip.ZipEntry)
+java/util/zip/ZipEntry/getName()
+java/util/zip/ZipOutputStream/ZipOutputStream(java.io.OutputStream)

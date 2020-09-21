@@ -1,0 +1,5 @@
+org/bouncycastle/crypto/engines/ElGamalEngine/processBlock(byte[],int,int)@g_bcprov-jdk15on-1.53.jar.txt	0
+org/bouncycastle/pqc/math/linearalgebra/IntegerFunctions/ressol(java.math.BigInteger,java.math.BigInteger)@g_bcprov-jdk15on-1.53.jar.txt	2
+org/bouncycastle/crypto/signers/GOST3410Signer/verifySignature(byte[],java.math.BigInteger,java.math.BigInteger)@g_bcprov-jdk15on-1.53.jar.txt	4
+org/bouncycastle/crypto/engines/ElGamalEngine/processBlock(byte[],int,int)@g_bcprov-jdk15on-1.51.jar.txt	1
+org/bouncycastle/crypto/signers/ECNRSigner/generateSignature(byte[])@g_bcprov-jdk15on-1.53.jar.txt	3

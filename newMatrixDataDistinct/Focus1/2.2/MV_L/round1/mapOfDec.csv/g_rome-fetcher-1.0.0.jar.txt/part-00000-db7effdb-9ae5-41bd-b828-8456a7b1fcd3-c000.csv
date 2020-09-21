@@ -1,0 +1,5 @@
+com/sun/syndication/fetcher/impl/DiskFeedInfoCache/remove(java.net.URL)@g_rome-fetcher-1.0.jar.txt	3
+com/sun/syndication/fetcher/impl/DiskFeedInfoCache/getFeedInfo(java.net.URL)@g_rome-fetcher-1.0.jar.txt	1
+com/sun/syndication/fetcher/impl/DiskFeedInfoCache/setFeedInfo(java.net.URL,com.sun.syndication.fetcher.impl.SyndFeedInfo)@g_rome-fetcher-1.0.jar.txt	4
+com/sun/syndication/fetcher/impl/HttpURLFeedFetcher/resetFeedInfo(java.net.URL,com.sun.syndication.fetcher.impl.SyndFeedInfo,java.net.HttpURLConnection)@g_rome-fetcher-1.0.jar.txt	2
+com/sun/syndication/fetcher/impl/HttpClientFeedFetcher/retrieveFeed(java.net.URL)@g_rome-fetcher-1.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/ear/HelpMojo/build()@g_maven-war-plugin-2.2.jar.txt	2
+org/apache/maven/plugin/war/WarMojo/performPackaging(java.io.File)@g_maven-war-plugin-2.2.jar.txt	3
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.2.jar.txt	0
+org/apache/maven/plugin/war/util/MappingUtils/evaluateFileNameMapping(java.lang.String,org.apache.maven.artifact.Artifact)@g_maven-war-plugin-2.2.jar.txt	4
+org/apache/maven/plugin/war/packaging/ClassesPackagingTask/generateJarArchive(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.2.jar.txt	1

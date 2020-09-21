@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+java/nio/file/Path/toString()
+java/util/Map/get(java.lang.Object)

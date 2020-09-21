@@ -1,0 +1,4 @@
+au/edu/anu/orcid/db/dao/GenericDAO/delete(PK)
+java/util/List/removeAll(java.util.Collection)
+au/edu/anu/orcid/db/model/Publication/getIssn()
+java/util/List/size()

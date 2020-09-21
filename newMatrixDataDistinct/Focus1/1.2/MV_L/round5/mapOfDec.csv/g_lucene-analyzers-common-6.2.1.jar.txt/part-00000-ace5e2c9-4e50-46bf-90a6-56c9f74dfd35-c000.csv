@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/util/AbstractAnalysisFactory/getSnowballWordSet(org.apache.lucene.analysis.util.ResourceLoader,java.lang.String,boolean)@g_lucene-analyzers-common-6.0.0.jar.txt	2
+org/apache/lucene/analysis/util/AbstractAnalysisFactory/getSnowballWordSet(org.apache.lucene.analysis.util.ResourceLoader,java.lang.String,boolean)@g_lucene-analyzers-common-6.4.1.jar.txt	0
+org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzer/getStopWords()@g_lucene-analyzers-common-6.0.0.jar.txt	4
+org/apache/lucene/analysis/hunspell/Stemmer/uniqueStems(char[],int)@g_lucene-analyzers-common-6.4.1.jar.txt	1
+org/apache/lucene/analysis/hunspell/Dictionary/affixFST(java.util.TreeMap)@g_lucene-analyzers-common-6.0.0.jar.txt	3

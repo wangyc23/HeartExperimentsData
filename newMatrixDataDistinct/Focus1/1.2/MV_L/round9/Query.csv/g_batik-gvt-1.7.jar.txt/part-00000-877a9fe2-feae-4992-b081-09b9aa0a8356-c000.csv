@@ -1,0 +1,4 @@
+java/awt/Graphics2D/addRenderingHints(java.util.Map)
+java/awt/Graphics2D/getTransform()
+java/awt/Graphics2D/setComposite(java.awt.Composite)
+java/awt/geom/Rectangle2D/intersects(double,double,double,double)

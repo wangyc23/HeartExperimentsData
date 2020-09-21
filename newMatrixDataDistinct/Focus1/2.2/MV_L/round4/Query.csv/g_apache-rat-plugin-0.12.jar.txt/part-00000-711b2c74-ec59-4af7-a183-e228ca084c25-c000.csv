@@ -1,0 +1,4 @@
+org/apache/maven/reporting/MavenReportException/MavenReportException(java.lang.String,java.lang.Exception)
+org/codehaus/doxia/sink/Sink/verbatim(boolean)
+org/codehaus/doxia/sink/Sink/section1_()
+org/codehaus/doxia/sink/Sink/head()

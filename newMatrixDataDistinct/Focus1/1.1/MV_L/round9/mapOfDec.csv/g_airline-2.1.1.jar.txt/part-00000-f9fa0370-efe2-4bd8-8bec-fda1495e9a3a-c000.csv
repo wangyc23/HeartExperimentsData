@@ -1,0 +1,5 @@
+com/beust/jcommander/JCommander/readFile(java.lang.String)@g_jcommander-1.12.jar.txt	0
+org/carrot2/util/attribute/AttributeBinder/ConsistencyCheckImplementingClasses/apply(java.lang.reflect.Field)@g_jcommander-1.12.jar.txt	3
+com/github/rvesse/airline/builder/ParserBuilder/build()@g_jcommander-1.12.jar.txt	4
+com/github/rvesse/airline/help/cli/CliGlobalUsageSummaryGenerator/outputCommandList(com.github.rvesse.airline.io.printers.UsagePrinter,com.github.rvesse.airline.model.GlobalMetadata)@g_jcommander-1.12.jar.txt	1
+com/beust/jcommander/JCommander/expandArgs(java.lang.String[])@g_jcommander-1.12.jar.txt	2

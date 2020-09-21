@@ -1,0 +1,5 @@
+org/apache/maven/plugins/site/AbstractSiteRenderingMojo/createSiteRenderingContext(java.util.Locale)@g_maven-site-plugin-3.0.jar.txt	1
+org/apache/maven/plugins/site/AbstractSiteRenderingMojo/locateReports(java.util.List,java.util.Map,java.util.Locale)@g_maven-site-plugin-3.0.jar.txt	0
+org/apache/maven/plugins/site/AbstractSiteRenderingMojo/locateDocuments(org.apache.maven.doxia.siterenderer.SiteRenderingContext,java.util.List,java.util.Locale)@g_maven-site-plugin-3.0.jar.txt	2
+org/apache/maven/plugins/site/SiteRunMojo/createWebApplication()@g_maven-site-plugin-3.0.jar.txt	3
+org/apache/maven/plugins/site/AbstractSiteRenderingMojo/categoriseReports(java.util.Collection)@g_maven-site-plugin-3.0.jar.txt	4

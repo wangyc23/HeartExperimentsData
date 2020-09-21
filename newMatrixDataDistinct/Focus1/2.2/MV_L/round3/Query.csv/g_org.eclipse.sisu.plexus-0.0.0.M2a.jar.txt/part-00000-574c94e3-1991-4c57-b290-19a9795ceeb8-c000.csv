@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+com/google/inject/TypeLiteral/get(java.lang.reflect.Type)
+java/lang/Class/isInstance(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

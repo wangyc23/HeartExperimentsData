@@ -1,0 +1,4 @@
+org/apache/lucene/spatial/prefix/AbstractVisitingPrefixTreeQuery$VisitorTemplate/nextTerm()
+org/apache/lucene/spatial/prefix/AbstractVisitingPrefixTreeQuery$VisitorTemplate/start()
+org/apache/lucene/spatial/prefix/AbstractVisitingPrefixTreeQuery$VisitorTemplate/visitPrefix(org.apache.lucene.spatial.prefix.tree.Cell)
+org/apache/lucene/spatial/prefix/AbstractVisitingPrefixTreeQuery$VNode/reset(org.apache.lucene.spatial.prefix.tree.Cell)

@@ -1,0 +1,4 @@
+org/apache/velocity/VelocityContext/VelocityContext(org.apache.velocity.context.Context)
+java/lang/StringBuilder/append(java.lang.String)
+org/xwiki/velocity/VelocityEngine/stoppedUsingMacroNamespace(java.lang.String)
+java/lang/Thread/currentThread()

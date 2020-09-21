@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/apache/tools/ant/types/FileSet/getDirectoryScanner(org.apache.tools.ant.Project)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/tools/ant/BuildException/BuildException(java.lang.Throwable)

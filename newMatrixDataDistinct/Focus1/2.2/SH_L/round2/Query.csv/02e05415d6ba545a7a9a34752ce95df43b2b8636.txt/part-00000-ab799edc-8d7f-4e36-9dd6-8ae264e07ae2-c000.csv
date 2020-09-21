@@ -1,0 +1,4 @@
+java/sql/ResultSet/getString(java.lang.String)
+tables/UserInfo/UserInfo()
+java/sql/ResultSet/getInt(java.lang.String)
+tables/UserInfo/setId(int)

@@ -1,0 +1,5 @@
+com/sun/tools/xjc/Driver/run(java.lang.String[],com.sun.tools.xjc.XJCListener)@g_jaxb-xjc-2.2.6.jar.txt	2
+com/sun/tools/xjc/util/MimeTypeRange/merge(java.util.Collection)@g_jaxb-xjc-2.2.6.jar.txt	1
+com/sun/xml/xsom/parser/JAXPParser/XMLReaderEx/resolveEntity(java.lang.String,java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	3
+com/sun/tools/xjc/reader/xmlschema/parser/CustomizationContextChecker/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jaxb-xjc-2.2.6.jar.txt	4
+com/sun/codemodel/JCodeModel/TypeNameParser/parseSuffix(com.sun.codemodel.JClass)@g_jaxb-xjc-2.2.6.jar.txt	0

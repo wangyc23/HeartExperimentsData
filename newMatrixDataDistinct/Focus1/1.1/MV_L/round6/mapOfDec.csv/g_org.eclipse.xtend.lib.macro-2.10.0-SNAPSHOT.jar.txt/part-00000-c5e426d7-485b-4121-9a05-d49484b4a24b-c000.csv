@@ -1,0 +1,5 @@
+org/eclipse/xtext/util/MergeableManifest/OrderAwareAttributes/myWrite(java.io.DataOutputStream)@g_org.eclipse.xtext.util-2.10.0-20160515.041343-74.jar.txt	0
+org/eclipse/xtext/util/MergeableManifest/OrderAwareAttributes/myWrite(java.io.DataOutputStream)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtext/util/MergeableManifest/OrderAwareAttributes/myWriteMain(java.io.DataOutputStream)@g_org.eclipse.xtext.util-2.10.0-20160515.041343-74.jar.txt	2
+org/eclipse/xtext/util/MergeableManifest/mergeIntoCommaSeparatedList(java.lang.String,java.util.Set,org.eclipse.xtext.util.Wrapper)@g_org.eclipse.xtext.util-2.10.0-20160515.041343-74.jar.txt	1
+org/eclipse/xtext/util/MergeableManifest/mergeIntoCommaSeparatedList(java.lang.String,java.util.Set,org.eclipse.xtext.util.Wrapper)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	4

@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/dvparser/DVParser/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/FactoredLexicon/initRulesWithWord()@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/shiftreduce/PerceptronModel/trainTree(int,java.util.List,java.util.List,java.util.List,edu.stanford.nlp.parser.shiftreduce.Oracle)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/neural/NeuralUtils/paramsToVector(int,java.util.Iterator[])@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/lexparser/SplittingGrammarExtractor/outputTransitions(edu.stanford.nlp.trees.Tree,int,java.util.IdentityHashMap,java.util.IdentityHashMap)@g_stanford-parser-3.5.2.jar.txt	0

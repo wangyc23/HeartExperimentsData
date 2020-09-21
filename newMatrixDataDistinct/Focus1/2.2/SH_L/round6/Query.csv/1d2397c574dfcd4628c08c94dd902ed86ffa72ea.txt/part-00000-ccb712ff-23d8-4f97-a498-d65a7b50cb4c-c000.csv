@@ -1,0 +1,4 @@
+org/commonjava/web/fd/data/WorkspaceDataManager/storeWorkspace(org.commonjava.web.fd.model.Workspace)
+java/util/List/size()
+org/commonjava/web/fd/model/Workspace/Workspace(java.lang.String)
+org/commonjava/web/fd/data/WorkspaceDataManager/getWorkspaces()

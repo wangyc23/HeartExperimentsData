@@ -1,0 +1,5 @@
+edu/upc/eetac/dsa/secretsites/dao/InterestPointDAOImpl/setInterestPointRating(java.lang.String,java.lang.String,float)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	2
+edu/ben/coursemanager/servlet/CheckServlet/doPost(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	1
+edu/ben/coursemanager/dao/AddCourseDao/getSemesterName()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	3
+edu/ben/coursemanager/servlet/WeeklyNewsServlet/doPost(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	4
+edu/ben/coursemanager/test/NewsDaoTest/updateNewsTest()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	0

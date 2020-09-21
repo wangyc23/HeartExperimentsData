@@ -1,0 +1,5 @@
+com/gs/crawler/Redis/hasFetched(com.gs.utils.URL)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	4
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	3
+com/gs/Classifier/TrainingDataManager/getText(java.lang.String)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+com/backend/collab/SessionManager/shareGroupFile(org.eclipse.jetty.websocket.api.Session,com.google.gson.JsonObject)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	2
+com/gs/cluster/ConsoleFormatter/getIndent(int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	1

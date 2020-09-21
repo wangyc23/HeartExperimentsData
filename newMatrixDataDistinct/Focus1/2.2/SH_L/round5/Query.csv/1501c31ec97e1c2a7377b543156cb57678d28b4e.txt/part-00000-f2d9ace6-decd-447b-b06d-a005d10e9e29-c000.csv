@@ -1,0 +1,4 @@
+org/apache/bigtop/datagenerators/bigpetstore/datamodels/Product/getFieldValue(java.lang.String)
+org/apache/bigtop/datagenerators/bigpetstore/datamodels/Product/toString()
+org/apache/bigtop/datagenerators/bigpetstore/datamodels/Product/getFieldNames()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

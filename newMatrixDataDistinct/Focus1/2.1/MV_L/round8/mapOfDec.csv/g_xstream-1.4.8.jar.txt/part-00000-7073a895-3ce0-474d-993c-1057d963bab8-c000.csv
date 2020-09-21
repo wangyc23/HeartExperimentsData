@@ -1,0 +1,5 @@
+com/thoughtworks/xstream/converters/enums/EnumToStringConverter/extractStringMap(java.lang.Class)@g_xstream-1.4.7.jar.txt	2
+com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider/visitSerializableFields(java.lang.Object,com.thoughtworks.xstream.converters.reflection.ReflectionProvider$Visitor)@g_xstream-1.4.7.jar.txt	4
+com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter/getCallbacks(java.lang.Object)@g_xstream-1.4.7.jar.txt	0
+com/thoughtworks/xstream/io/binary/Token/writeId(java.io.DataOutput,long,byte)@g_xstream-1.4.7.jar.txt	3
+com/thoughtworks/xstream/converters/extended/ISO8601SqlTimestampConverter/toString(java.lang.Object)@g_xstream-1.4.7.jar.txt	1

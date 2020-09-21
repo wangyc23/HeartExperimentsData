@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/client/TestFromClientSide/createScanWithRowFilter(byte[],byte[],org.apache.hadoop.hbase.filter.CompareFilter.CompareOp)@27987b6823f76e575061871e738a4ec4af3c2404.txt	4
+org/apache/hadoop/hbase/master/TestMasterFailover/testMasterFailoverWithMockedRIT()@27987b6823f76e575061871e738a4ec4af3c2404.txt	3
+org/apache/hadoop/hbase/regionserver/TestHRegion/testIndexesScanWithOneDeletedRow()@27987b6823f76e575061871e738a4ec4af3c2404.txt	2
+org/apache/hadoop/hbase/io/hfile/HFile/main(java.lang.String[])@27987b6823f76e575061871e738a4ec4af3c2404.txt	1
+org/apache/hadoop/hbase/master/TestMasterFailover/testMasterFailoverWithMockedRITOnDeadRS()@27987b6823f76e575061871e738a4ec4af3c2404.txt	0

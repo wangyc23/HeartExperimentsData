@@ -1,0 +1,5 @@
+org/xwiki/rendering/block/PlainTextBlockFilter/filter(org.xwiki.rendering.block.Block)@g_xwiki-rendering-api-7.4.2.jar.txt	1
+org/xwiki/rendering/util/IdGenerator/generateUniqueId(java.lang.String,java.lang.String)@g_xwiki-rendering-api-7.4.jar.txt	3
+org/xwiki/rendering/internal/block/BlockMatcherConverter/convertToType(java.lang.reflect.Type,java.lang.Object)@g_xwiki-rendering-api-7.4.jar.txt	4
+org/xwiki/rendering/internal/block/ProtectedBlockFilter/getChildrenByType(org.xwiki.rendering.block.Block,java.lang.Class,boolean)@g_xwiki-rendering-api-7.4.jar.txt	2
+org/xwiki/rendering/block/PlainTextBlockFilter/filter(org.xwiki.rendering.block.Block)@g_xwiki-rendering-api-7.4.jar.txt	0

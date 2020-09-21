@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Set/addAll(java.util.Collection)
+java/util/Iterator/next()
+javax/inject/Provider/get()

@@ -1,0 +1,4 @@
+org/bson/BSONObject/get(java.lang.String)
+java/lang/Object/equals(java.lang.Object)
+io/corbel/resources/rem/dao/MongoResmiQueryBuilder/id(java.lang.String)
+org/springframework/data/mongodb/core/query/Query/getSortObject()

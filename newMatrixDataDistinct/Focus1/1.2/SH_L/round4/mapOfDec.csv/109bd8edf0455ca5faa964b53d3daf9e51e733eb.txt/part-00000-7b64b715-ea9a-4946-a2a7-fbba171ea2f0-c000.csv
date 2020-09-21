@@ -1,0 +1,5 @@
+org/keycloak/models/utils/RepresentationToModel/updateRealm(org.keycloak.representations.idm.RealmRepresentation,org.keycloak.models.RealmModel)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	3
+org/keycloak/models/utils/ModelToRepresentation/toRepresentation(org.keycloak.models.RealmModel)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	0
+org/keycloak/testsuite/model/AdapterTest/test2RequiredCredential()@2b58332190757831b1d0874f2db5d8351f10bd14.txt	1
+org/keycloak/models/cache/DefaultCacheRealmProvider/registerUserInvalidation(java.lang.String)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	2
+org/keycloak/services/resources/admin/RoleResource/getRoleComposites(org.keycloak.models.RoleModel)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	4

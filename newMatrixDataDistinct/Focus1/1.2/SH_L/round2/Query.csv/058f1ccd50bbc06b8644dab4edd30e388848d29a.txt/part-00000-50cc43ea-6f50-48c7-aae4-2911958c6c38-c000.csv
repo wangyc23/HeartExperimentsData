@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+se/sics/kompics/Port/getPair()
+java/util/HashMap/put(K,V)
+java/util/HashMap/containsKey(java.lang.Object)

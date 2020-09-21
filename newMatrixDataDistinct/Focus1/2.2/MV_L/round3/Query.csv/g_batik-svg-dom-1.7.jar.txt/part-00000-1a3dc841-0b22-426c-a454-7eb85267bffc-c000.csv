@@ -1,0 +1,4 @@
+org/w3c/dom/svg/SVGPathSegArcRel/getLargeArcFlag()
+org/w3c/dom/svg/SVGPathSegLinetoHorizontalAbs/getX()
+org/apache/batik/parser/PathHandler/movetoAbs(float,float)
+org/apache/batik/parser/PathHandler/linetoAbs(float,float)

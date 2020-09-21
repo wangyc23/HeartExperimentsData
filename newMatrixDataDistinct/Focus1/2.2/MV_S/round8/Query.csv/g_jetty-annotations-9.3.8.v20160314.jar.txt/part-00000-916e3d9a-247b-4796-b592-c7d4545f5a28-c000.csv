@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+org/eclipse/jetty/util/MultiException/MultiException()
+org/eclipse/jetty/util/MultiException/add(java.lang.Throwable)
+java/util/jar/JarInputStream/getNextJarEntry()

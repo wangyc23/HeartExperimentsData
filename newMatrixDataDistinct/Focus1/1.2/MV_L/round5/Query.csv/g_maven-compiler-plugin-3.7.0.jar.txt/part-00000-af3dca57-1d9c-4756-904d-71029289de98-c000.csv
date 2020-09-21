@@ -1,0 +1,4 @@
+org/codehaus/plexus/languages/java/jpms/ResolvePathsResult/getMainModuleDescriptor()
+java/lang/Integer/intValue()
+java/util/ArrayList/ArrayList()
+java/io/File/File(java.io.File,java.lang.String)

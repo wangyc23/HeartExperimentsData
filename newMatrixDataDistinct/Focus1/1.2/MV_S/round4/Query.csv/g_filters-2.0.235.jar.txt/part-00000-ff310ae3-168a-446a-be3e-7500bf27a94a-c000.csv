@@ -1,0 +1,4 @@
+java/awt/Graphics2D/translate(double,double)
+java/awt/image/BufferedImage/BufferedImage(int,int,int)
+java/lang/Math/max(float,float)
+java/awt/image/BandCombineOp/filter(java.awt.image.Raster,java.awt.image.WritableRaster)

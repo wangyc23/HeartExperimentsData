@@ -1,0 +1,5 @@
+com/gs/dao/impl/hbase/PageDAOHBaseImpl/loadPage(java.lang.String)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	3
+com/gs/main/ConfigurationReader/parseJsonConf(java.lang.String)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	1
+com/gs/cluster/ConsoleFormatter/displayAttributes(java.util.Map)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+com/gs/main/MainClass/main(java.lang.String[])@2aba7b19079a7af2e00355cdb996ae2085016663.txt	2
+com/gs/crawler/OldCrawler/start()@2aba7b19079a7af2e00355cdb996ae2085016663.txt	4

@@ -1,0 +1,4 @@
+java/nio/charset/CharsetDecoder/decode(java.nio.ByteBuffer)
+java/lang/String/charAt(int)
+java/nio/charset/Charset/encode(java.nio.CharBuffer)
+java/lang/String/length()

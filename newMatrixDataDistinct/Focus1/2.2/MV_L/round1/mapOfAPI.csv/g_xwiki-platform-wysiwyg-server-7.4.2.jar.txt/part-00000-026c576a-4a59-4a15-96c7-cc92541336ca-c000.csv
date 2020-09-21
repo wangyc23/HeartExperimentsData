@@ -1,0 +1,4 @@
+0	org/xwiki/gwt/wysiwyg/client/wiki/EntityReference$EntityType/valueOf(java.lang.String)
+1	org/xwiki/gwt/wysiwyg/client/wiki/EntityReference/setType(org.xwiki.gwt.wysiwyg.client.wiki.EntityReference$EntityType)
+2	org/xwiki/model/EntityType/toString()
+3	org/xwiki/gwt/wysiwyg/client/wiki/EntityReference/setComponent(java.lang.String,java.lang.String)

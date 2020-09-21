@@ -1,0 +1,5 @@
+pl/pwr/news/service/report/ReportServiceImpl/create(java.lang.Long,java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+pl/pwr/news/repository/user/UserRepositoryTest/findByEmail_existingUserEmail_userWithEmailReturned()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	0
+pl/pwr/news/service/user/UserServiceImpl/save(pl.pwr.news.model.user.User)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2
+pl/pwr/news/service/tag/TagServiceImpl/createTag(pl.pwr.news.model.tag.Tag)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1
+pl/pwr/news/service/tag/TagServiceTest/createTag_nonExistingTag_newAddedTagReturned()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	4

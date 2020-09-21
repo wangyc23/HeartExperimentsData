@@ -1,0 +1,4 @@
+javax/swing/Icon/paintIcon(java.awt.Component,java.awt.Graphics,int,int)
+java/awt/Graphics2D/dispose()
+java/awt/GraphicsEnvironment/getDefaultScreenDevice()
+java/awt/GraphicsConfiguration/createCompatibleImage(int,int)

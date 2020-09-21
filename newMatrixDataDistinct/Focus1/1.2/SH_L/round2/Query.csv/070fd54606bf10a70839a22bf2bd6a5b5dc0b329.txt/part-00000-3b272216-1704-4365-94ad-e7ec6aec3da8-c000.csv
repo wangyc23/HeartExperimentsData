@@ -1,0 +1,4 @@
+org/apache/crunch/io/hbase/HFileTargetIT/readFromHFiles(org.apache.crunch.impl.dist.FileSystem,org.apache.crunch.impl.dist.Path,java.lang.String)
+org/apache/crunch/io/hbase/HFileTargetIT/convertToKeyValues(org.apache.crunch.PTable)
+org/apache/crunch/io/hbase/HFileTargetIT/getTempPathOnHDFS(java.lang.String)
+org/apache/crunch/PipelineResult/succeeded()

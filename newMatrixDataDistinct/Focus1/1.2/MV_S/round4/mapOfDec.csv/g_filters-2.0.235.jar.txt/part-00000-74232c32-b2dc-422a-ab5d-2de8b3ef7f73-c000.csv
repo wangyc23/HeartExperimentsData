@@ -1,0 +1,5 @@
+com/octo/captcha/service/multitype/GenericManageableCaptchaService/getChallengeClone(com.octo.captcha.Captcha)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	3
+org/apache/pdfbox/pdmodel/PDPage/convertToImage(int,int)@g_pdfbox-1.7.0.jar.txt	1
+com/octo/captcha/component/image/backgroundgenerator/EllipseBackgroundGenerator/getBackground()@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	0
+com/octo/captcha/component/image/backgroundgenerator/FileReaderRandomBackgroundGenerator/tile(java.awt.image.BufferedImage)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	4
+com/octo/captcha/component/image/backgroundgenerator/FunkyBackgroundGenerator/getBackground()@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	2

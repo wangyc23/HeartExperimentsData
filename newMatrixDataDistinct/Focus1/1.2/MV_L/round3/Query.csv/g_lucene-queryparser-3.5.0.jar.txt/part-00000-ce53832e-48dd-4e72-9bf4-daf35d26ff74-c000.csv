@@ -1,0 +1,4 @@
+org/apache/lucene/index/TermEnum/close()
+org/apache/lucene/index/Term/field()
+java/util/regex/Matcher/reset()
+java/lang/String/length()

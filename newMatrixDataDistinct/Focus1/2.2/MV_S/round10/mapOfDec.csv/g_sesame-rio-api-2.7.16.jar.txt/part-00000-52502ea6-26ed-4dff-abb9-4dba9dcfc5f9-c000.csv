@@ -1,0 +1,5 @@
+org/openrdf/rio/rdfxml/RDFXMLParser/buildURIFromID(java.lang.String)@g_sesame-rio-rdfxml-2.7.9.jar.txt	0
+org/openrdf/rio/rdfxml/RDFXMLParser/processNodeElt(java.lang.String,java.lang.String,java.lang.String,org.openrdf.rio.rdfxml.Atts,boolean)@g_sesame-rio-rdfxml-2.7.9.jar.txt	1
+org/openrdf/rio/rdfxml/SAXFilter/endElement(java.lang.String,java.lang.String,java.lang.String)@g_sesame-rio-rdfxml-2.7.9.jar.txt	3
+org/openrdf/rio/rdfxml/RDFXMLParser/processPropertyElt(java.lang.String,java.lang.String,java.lang.String,org.openrdf.rio.rdfxml.Atts,boolean)@g_sesame-rio-rdfxml-2.7.9.jar.txt	2
+org/openrdf/query/algebra/evaluation/function/string/Replace/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	4

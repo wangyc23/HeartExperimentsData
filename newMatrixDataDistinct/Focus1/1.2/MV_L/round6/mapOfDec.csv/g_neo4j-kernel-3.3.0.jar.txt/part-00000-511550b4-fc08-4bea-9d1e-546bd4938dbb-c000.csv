@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/api/index/IndexUpdaterMap/close()@g_neo4j-kernel-3.0.1.jar.txt	1
+org/neo4j/graphdb/factory/GraphDatabaseBuilder/loadPropertiesFromURL(java.net.URL)@g_neo4j-kernel-3.1.0.jar.txt	3
+org/neo4j/helpers/Args/asArgs()@g_neo4j-kernel-3.1.0.jar.txt	2
+org/neo4j/kernel/impl/index/IndexDefineCommand/reverse(java.util.Map)@g_neo4j-kernel-3.1.0.jar.txt	4
+org/neo4j/kernel/impl/api/index/IndexUpdaterMap/close()@g_neo4j-kernel-3.1.0.jar.txt	0

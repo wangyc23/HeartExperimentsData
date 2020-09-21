@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getTagletPath()@g_jempbox-1.8.13.jar.txt	2
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/getJavadocComment(java.lang.String,com.thoughtworks.qdox.model.AbstractInheritableJavaEntity,com.thoughtworks.qdox.model.DocletTag)@g_jempbox-1.8.13.jar.txt	3
+org/apache/jempbox/xmp/XMPSchema/setTextProperty(java.lang.String,java.lang.String)@g_jempbox-1.8.13.jar.txt	0
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/addMemoryArg(org.codehaus.plexus.util.cli.Commandline,java.lang.String,java.lang.String)@g_jempbox-1.8.13.jar.txt	4
+org/apache/jempbox/xmp/XMPSchema/setLanguageProperty(java.lang.String,java.lang.String,java.lang.String)@g_jempbox-1.8.13.jar.txt	1

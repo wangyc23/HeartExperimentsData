@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_maven-surefire-common-2.12.4.jar.txt	2
+org/apache/maven/plugin/surefire/SurefireDependencyResolver/getProviderClasspath(java.lang.String,java.lang.String,org.apache.maven.artifact.Artifact)@g_maven-surefire-common-2.12.4.jar.txt	1
+org/codehaus/plexus/util/cli/Commandline/getEnvironmentVariables()@g_maven-surefire-common-2.12.4.jar.txt	3
+org/apache/maven/plugin/surefire/AbstractSurefireMojo/showMap(java.util.Map,java.lang.String)@g_maven-surefire-common-2.12.4.jar.txt	4
+org/apache/maven/plugin/surefire/report/StatelessXmlReporter/testSetCompleted(org.apache.maven.plugin.surefire.report.WrappedReportEntry,org.apache.maven.plugin.surefire.report.TestSetStats)@g_maven-surefire-common-2.12.4.jar.txt	0

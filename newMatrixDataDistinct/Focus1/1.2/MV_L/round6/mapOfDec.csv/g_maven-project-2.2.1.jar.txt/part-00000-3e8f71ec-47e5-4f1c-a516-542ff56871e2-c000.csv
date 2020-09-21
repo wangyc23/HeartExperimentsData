@@ -1,0 +1,5 @@
+org/apache/maven/project/ModelUtils/mergeDuplicatePluginDefinitions(org.apache.maven.model.PluginContainer)@g_maven-project-2.0.9.jar.txt	0
+org/apache/maven/project/ModelUtils/cloneExecutions(java.util.List)@g_maven-project-2.0.9.jar.txt	4
+org/apache/maven/project/ModelUtils/mergePluginLists(org.apache.maven.model.PluginContainer,org.apache.maven.model.PluginContainer,boolean)@g_maven-project-2.0.9.jar.txt	1
+org/apache/maven/profiles/DefaultProfileManager/getActiveProfiles()@g_maven-project-2.0.9.jar.txt	2
+org/apache/maven/project/ModelUtils/cloneProfiles(java.util.List)@g_maven-project-2.0.9.jar.txt	3

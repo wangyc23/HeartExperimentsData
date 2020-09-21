@@ -1,0 +1,4 @@
+java/io/BufferedReader/close()
+java/net/URL/URL(java.lang.String)
+java/net/URLConnection/getInputStream()
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream)

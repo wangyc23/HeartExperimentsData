@@ -1,0 +1,5 @@
+org/appfuse/mojo/HibernateExporterMojo/execute()@145ca95852a764fae337bdc130e106daea009b0d.txt	2
+org/appfuse/webapp/controller/PasswordHintController/saveError(org.appfuse.webapp.controller.HttpServletRequest,java.lang.String)@145ca95852a764fae337bdc130e106daea009b0d.txt	4
+org/appfuse/webapp/action/BasePageTestCase/onTearDown()@145ca95852a764fae337bdc130e106daea009b0d.txt	1
+org/appfuse/webapp/client/ui/upload/FileUploadActivity/onSubmitComplete(org.appfuse.webapp.client.ui.upload.SubmitCompleteEvent)@145ca95852a764fae337bdc130e106daea009b0d.txt	3
+org/appfuse/webapp/action/BasePageTestCase/onSetUp()@145ca95852a764fae337bdc130e106daea009b0d.txt	0

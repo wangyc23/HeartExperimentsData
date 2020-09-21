@@ -1,0 +1,4 @@
+java/io/PrintWriter/close()
+java/lang/StringBuffer/append(java.lang.String)
+antlr/PythonCodeGenerator/println(java.lang.String)
+java/util/Hashtable/get(java.lang.Object)

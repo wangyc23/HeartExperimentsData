@@ -1,0 +1,5 @@
+org/eclipse/tycho/core/osgitools/OsgiBundleProject/resolveClassPath(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject)@g_tycho-core-0.23.1.jar.txt	4
+org/eclipse/tycho/p2/resolver/P2TargetPlatformResolver/getEnvironments(org.eclipse.tycho.core.TargetPlatformConfiguration)@g_tycho-p2-facade-0.14.1.jar.txt	1
+org/eclipse/tycho/p2/resolver/P2TargetPlatformResolver/addPomDependenciesToTargetPlatform(org.apache.maven.project.MavenProject,org.eclipse.tycho.p2.target.facade.TargetPlatformBuilder,java.util.List,org.apache.maven.execution.MavenSession)@g_tycho-p2-facade-0.14.1.jar.txt	2
+org/eclipse/tycho/p2/resolver/TargetDefinitionFile/getLocations()@g_tycho-p2-facade-0.14.1.jar.txt	0
+org/eclipse/tycho/core/osgitools/targetplatform/ArtifactCollection/getArtifacts(java.lang.String)@g_tycho-core-0.23.1.jar.txt	3

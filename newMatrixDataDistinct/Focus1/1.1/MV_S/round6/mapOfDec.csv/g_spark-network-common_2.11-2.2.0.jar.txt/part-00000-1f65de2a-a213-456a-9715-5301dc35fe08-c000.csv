@@ -1,0 +1,5 @@
+org/carrot2/shaded/guava/common/collect/ArrayTable/ArrayMap/put(java.lang.Object,java.lang.Object)@g_carrot2-guava-18.0.jar.txt	2
+com/google/common/util/concurrent/ThreadFactoryBuilder/1/newThread(java.lang.Runnable)@g_guava-19.0-rc3.jar.txt	1
+com/google/common/reflect/TypeToken/TypeCollector/collectTypes(java.lang.Object,java.util.Map)@g_guava-19.0-rc3.jar.txt	0
+org/carrot2/shaded/guava/common/util/concurrent/ThreadFactoryBuilder/1/newThread(java.lang.Runnable)@g_carrot2-guava-18.0.jar.txt	3
+org/carrot2/shaded/guava/common/reflect/TypeToken/TypeCollector/collectTypes(java.lang.Object,java.util.Map)@g_carrot2-guava-18.0.jar.txt	4

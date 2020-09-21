@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/xml/pull/XmlPullParserException/getMessage()
+org/apache/maven/settings/MavenSettingsBuilder/buildSettings(java.io.File)
+java/io/File/isDirectory()
+org/codehaus/plexus/util/xml/pull/XmlPullParserException/getDetail()

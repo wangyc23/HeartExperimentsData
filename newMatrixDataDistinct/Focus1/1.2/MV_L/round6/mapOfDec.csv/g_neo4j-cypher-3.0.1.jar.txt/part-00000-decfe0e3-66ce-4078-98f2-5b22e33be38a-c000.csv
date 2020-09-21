@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/spi/v3_1/codegen/GeneratedMethodStructure/updateProbeTableCount(java.lang.String,org.neo4j.cypher.internal.compiler.v3_1.codegen.CountingJoinTableType,scala.collection.Seq)@g_neo4j-cypher-3.1.0.jar.txt	0
+org/neo4j/cypher/internal/spi/v3_1/codegen/GeneratedMethodStructure/updateProbeTable(scala.collection.immutable.Map,java.lang.String,org.neo4j.cypher.internal.compiler.v3_1.codegen.RecordingJoinTableType,scala.collection.Seq,org.neo4j.codegen.Expression)@g_neo4j-cypher-3.1.0.jar.txt	2
+org/neo4j/cypher/internal/spi/v3_1/codegen/GeneratedMethodStructure/probe(java.lang.String,org.neo4j.cypher.internal.compiler.v3_1.codegen.JoinTableType,scala.collection.Seq,scala.Function1)@g_neo4j-cypher-3.1.0.jar.txt	3
+org/neo4j/cypher/internal/spi/v3_1/codegen/GeneratedMethodStructure/anonfun/connectingRelationships/2/apply(org.neo4j.codegen.CodeBlock)@g_neo4j-cypher-3.1.0.jar.txt	1
+org/neo4j/cypher/internal/spi/v3_1/codegen/Templates/createNewInstance(org.neo4j.codegen.TypeReference,scala.collection.Seq)@g_neo4j-cypher-3.1.0.jar.txt	4

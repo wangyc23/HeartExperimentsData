@@ -1,0 +1,1 @@
+com/talent/nio/handler/error/client/DefaultIOErrorHandler/handle(java.nio.channels.SocketChannel,java.io.IOException,com.talent.nio.communicate.ChannelContext,java.lang.String)

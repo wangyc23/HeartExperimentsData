@@ -1,0 +1,5 @@
+org/apache/maven/it/util/FileUtils/copyURLToFile(java.net.URL,java.io.File)@g_maven-verifier-1.2.jar.txt	0
+gate/creole/ontology/impl/sesame/AbstractOntologyImplSesame/readOntologyData(java.io.File,java.lang.String,gate.creole.ontology.OConstants$OntologyFormat,boolean)@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/it/util/FileUtils/copyFile(java.io.File,java.io.File)@g_maven-verifier-1.2.jar.txt	1
+org/apache/maven/it/util/FileUtils/deleteFile(java.io.File)@g_maven-verifier-1.2.jar.txt	2
+org/apache/maven/it/util/FileUtils/copyFile(java.io.File,java.io.File,java.lang.String,org.apache.maven.it.util.FileUtils$FilterWrapper[])@g_maven-verifier-1.2.jar.txt	3

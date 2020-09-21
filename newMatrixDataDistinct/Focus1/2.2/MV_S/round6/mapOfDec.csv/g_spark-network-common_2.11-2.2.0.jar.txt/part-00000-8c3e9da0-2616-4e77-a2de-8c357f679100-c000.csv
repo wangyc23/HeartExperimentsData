@@ -1,0 +1,5 @@
+com/google/common/cache/CacheBuilder/toString()@g_guava-19.0-rc3.jar.txt	2
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-19.0-rc3.jar.txt	1
+com/google/common/collect/MapMaker/toString()@g_guava-19.0-rc3.jar.txt	0
+org/carrot2/shaded/guava/common/base/Strings/repeat(java.lang.String,int)@g_carrot2-guava-18.0.jar.txt	4
+com/google/common/io/Files/createTempDir()@g_guava-19.0-rc3.jar.txt	3

@@ -1,0 +1,5 @@
+org/jboss/logging/Messages/1/run()@g_jboss-logging-3.1.0.CR2.jar.txt	2
+org/jboss/logging/LoggerProviders/findProvider()@g_jboss-logging-3.1.0.CR2.jar.txt	4
+org/jboss/logging/Logger/getMessageLogger(java.lang.Class,java.lang.String,java.util.Locale)@g_jboss-logging-3.1.0.CR2.jar.txt	3
+org/jboss/logging/Messages/getBundle(java.lang.Class,java.util.Locale)@g_jboss-logging-3.1.0.CR2.jar.txt	1
+org/jboss/logging/JDKLogger/doLogf(org.jboss.logging.Logger$Level,java.lang.String,java.lang.String,java.lang.Object[],java.lang.Throwable)@g_jboss-logging-3.1.3.GA.jar.txt	0

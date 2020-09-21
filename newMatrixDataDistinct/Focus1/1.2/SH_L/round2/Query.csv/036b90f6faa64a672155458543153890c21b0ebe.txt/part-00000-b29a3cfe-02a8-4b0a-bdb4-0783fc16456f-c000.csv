@@ -1,0 +1,4 @@
+org/springframework/boot/configurationmetadata/JsonReader/parseDeprecation(org.springframework.boot.cli.command.init.JSONObject)
+org/springframework/boot/configurationmetadata/ConfigurationMetadataProperty/setDefaultValue(java.lang.Object)
+org/springframework/boot/configurationmetadata/ConfigurationMetadataItem/setSourceType(java.lang.String)
+org/springframework/boot/configurationmetadata/ConfigurationMetadataProperty/setId(java.lang.String)

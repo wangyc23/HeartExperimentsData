@@ -1,0 +1,5 @@
+org/apache/lucene/index/DocValuesFieldUpdates/Container/newUpdates(java.lang.String,org.apache.lucene.index.DocValuesType,int)@g_lucene-core-5.0.0.jar.txt	4
+org/apache/lucene/index/IndexFileDeleter/getRefCount(java.lang.String)@g_lucene-core-5.0.0.jar.txt	0
+org/apache/lucene/index/SegmentCommitInfo/clone()@g_lucene-core-5.0.0.jar.txt	2
+org/apache/lucene/index/SegmentCommitInfo/setGenUpdatesFiles(java.util.Map)@g_lucene-core-5.0.0.jar.txt	3
+org/apache/lucene/search/payloads/PayloadSpanUtil/getPayloads(java.util.Collection,org.apache.lucene.search.spans.SpanQuery)@g_lucene-core-5.0.0.jar.txt	1

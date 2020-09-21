@@ -1,0 +1,5 @@
+gate/creole/splitter/SentenceSplitter/execute()@g_gate-core-8.1.jar.txt	4
+gate/annotation/CorpusAnnotationDiff/printStructure(java.util.Set)@g_gate-core-8.1.jar.txt	3
+gate/gui/NameBearerHandle/DumpToFileAction/1/run()@g_gate-core-8.1.jar.txt	1
+weka/gui/knowledgeflow/steps/SubstringReplacerStepEditorDialog/layoutEditor()@g_gate-core-8.1.jar.txt	0
+weka/filters/unsupervised/attribute/AddUserFields/AttributeSpec/toString()@g_gate-core-8.1.jar.txt	2

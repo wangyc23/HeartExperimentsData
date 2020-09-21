@@ -1,0 +1,5 @@
+org/apache/commons/collections/list/TreeList/AVLNode/removeSelf()@g_commons-collections-3.1.jar.txt	0
+org/apache/commons/collections/MapUtils/putAll(java.util.Map,java.lang.Object[])@g_commons-collections-3.1.jar.txt	2
+org/apache/commons/collections/list/TreeList/AVLNode/removeSelf()@g_commons-collections-3.2.1.jar.txt	1
+org/apache/commons/collections/DoubleOrderedMap/put(java.lang.Object,java.lang.Object)@g_commons-collections-3.1.jar.txt	4
+org/apache/commons/collections/TransformerUtils/switchMapTransformer(java.util.Map)@g_commons-collections-3.1.jar.txt	3

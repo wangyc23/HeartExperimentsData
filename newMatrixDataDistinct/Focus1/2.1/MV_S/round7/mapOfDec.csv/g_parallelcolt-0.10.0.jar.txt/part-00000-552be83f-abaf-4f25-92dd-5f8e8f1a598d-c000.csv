@@ -1,0 +1,5 @@
+cern/colt/matrix/tfloat/impl/SparseCCFloatMatrix2D/zMult(cern.colt.matrix.tfloat.FloatMatrix1D,cern.colt.matrix.tfloat.FloatMatrix1D,float,float,boolean)@g_apache-mime4j-core-0.7.2.jar.txt	3
+cern/colt/matrix/tfloat/algo/FloatFormatter/toTitleString(cern.colt.matrix.tfloat.FloatMatrix2D,java.lang.String[],java.lang.String[],java.lang.String,java.lang.String,java.lang.String,hep.aida.tfloat.bin.FloatBinFunction1D[])@g_apache-mime4j-core-0.7.2.jar.txt	1
+cern/colt/matrix/tfcomplex/impl/SparseRCFComplexMatrix2D/zMult(cern.colt.matrix.tfcomplex.FComplexMatrix2D,cern.colt.matrix.tfcomplex.FComplexMatrix2D,float[],float[],boolean,boolean)@g_apache-mime4j-core-0.7.2.jar.txt	4
+hep/aida/tfloat/ref/FloatConverter/toXML(hep.aida.tfloat.FloatIHistogram1D)@g_apache-mime4j-core-0.7.2.jar.txt	2
+cern/colt/matrix/tdouble/algo/DenseDoubleAlgebra/vectorNorm2(cern.colt.matrix.tdouble.DoubleMatrix2D)@g_apache-mime4j-core-0.7.2.jar.txt	0

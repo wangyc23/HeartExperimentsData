@@ -1,0 +1,5 @@
+javax/xml/xpath/XPathFactoryFinder/_newFactory(java.lang.String)@g_xml-apis-1.4.01.jar.txt	4
+javax/xml/validation/SchemaFactoryFinder/loadFromServicesFile(java.lang.String,java.lang.String,java.io.InputStream)@g_xml-apis-1.4.01.jar.txt	3
+javax/xml/xpath/XPathFactoryFinder/loadFromServicesFile(java.lang.String,java.lang.String,java.io.InputStream)@g_xml-apis-1.4.01.jar.txt	0
+javax/xml/transform/FactoryFinder/find(java.lang.String,java.lang.String)@g_xml-apis-1.4.01.jar.txt	1
+javax/xml/parsers/FactoryFinder/find(java.lang.String,java.lang.String)@g_xml-apis-1.4.01.jar.txt	2

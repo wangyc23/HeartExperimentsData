@@ -1,0 +1,4 @@
+org/apache/commons/lang3/StringUtils/containsWhitespace(java.lang.CharSequence)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/ArrayList/ArrayList()
+org/apache/commons/collections4/CollectionUtils/find(java.lang.Iterable,org.apache.commons.collections4.Predicate)

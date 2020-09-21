@@ -1,0 +1,5 @@
+com/kenai/jaffl/provider/jffi/AsmRuntime/marshal(com.kenai.jaffl.provider.InvocationSession,com.kenai.jffi.InvocationBuffer,com.kenai.jaffl.Pointer[],int,int)@g_morfologik-stemming-2.1.0.jar.txt	3
+com/kenai/jaffl/provider/jffi/DefaultInvokerFactory/getMarshaller(java.lang.Class,java.lang.annotation.Annotation[])@g_morfologik-stemming-2.1.0.jar.txt	0
+morfologik/stemming/TrimSuffixEncoder/decode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.0.jar.txt	2
+morfologik/stemming/DictionaryMetadataBuilder/withOutputConversionPairs(java.util.Map)@g_morfologik-stemming-2.1.0.jar.txt	4
+com/kenai/jaffl/provider/jffi/AbstractX86StubCompiler/attach(java.lang.Class)@g_morfologik-stemming-2.1.0.jar.txt	1

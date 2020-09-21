@@ -1,0 +1,5 @@
+com/netflix/http4/NFHttpClient/init(com.netflix.client.config.IClientConfig,boolean)@g_ribbon-httpclient-2.1.0.jar.txt	1
+com/netflix/loadbalancer/LoadBalancerContext/getServerFromLoadBalancer(java.net.URI,java.lang.Object)@g_ribbon-eureka-2.0.0.jar.txt	3
+com/netflix/niws/loadbalancer/DiscoveryEnabledNIWSServerList/initWithNiwsConfig(com.netflix.client.config.IClientConfig)@g_ribbon-eureka-2.0.0.jar.txt	2
+com/netflix/niws/loadbalancer/DiscoveryEnabledNIWSServerList/obtainServersViaDiscovery()@g_ribbon-eureka-2.0.0.jar.txt	0
+com/netflix/loadbalancer/Server/getHostPort(java.lang.String)@g_ribbon-eureka-2.0.0.jar.txt	4

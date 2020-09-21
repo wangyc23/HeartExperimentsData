@@ -1,0 +1,4 @@
+java/util/LinkedHashMap/entrySet()
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+org/jboss/classfilewriter/util/ByteArrayDataOutputStream/writeShort(int)

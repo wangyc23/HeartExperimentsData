@@ -1,0 +1,4 @@
+org/neo4j/kernel/impl/storemigration/CurrentDatabase/storeFilesAtCurrentVersion(java.io.File)
+java/lang/Class/getSimpleName()
+java/io/File/File(java.lang.String)
+junit/framework/TestCase/assertTrue(boolean)

@@ -1,0 +1,5 @@
+org/springframework/transaction/interceptor/MethodMapTransactionAttributeSource/addTransactionalMethod(java.lang.Class,java.lang.String,org.springframework.transaction.interceptor.TransactionAttribute)@g_spring-tx-4.0.3.RELEASE.jar.txt	2
+org/springframework/transaction/interceptor/AbstractFallbackTransactionAttributeSource/getTransactionAttribute(java.lang.reflect.Method,java.lang.Class)@g_spring-tx-4.0.2.RELEASE.jar.txt	1
+org/springframework/transaction/interceptor/AbstractFallbackTransactionAttributeSource/getTransactionAttribute(java.lang.reflect.Method,java.lang.Class)@g_spring-tx-4.0.3.RELEASE.jar.txt	3
+org/springframework/transaction/jta/WebLogicJtaTransactionManager/createTransaction(java.lang.String,int)@g_spring-tx-4.0.2.RELEASE.jar.txt	4
+org/springframework/transaction/interceptor/MethodMapTransactionAttributeSource/addTransactionalMethod(java.lang.Class,java.lang.String,org.springframework.transaction.interceptor.TransactionAttribute)@g_spring-tx-4.0.2.RELEASE.jar.txt	0

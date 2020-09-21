@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/Class/getGenericSuperclass()
+java/lang/Object/equals(java.lang.Object)
+java/util/Iterator/hasNext()

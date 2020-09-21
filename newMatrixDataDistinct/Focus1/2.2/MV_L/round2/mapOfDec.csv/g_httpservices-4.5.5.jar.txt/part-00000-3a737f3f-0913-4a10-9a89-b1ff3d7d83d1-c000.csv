@@ -1,0 +1,5 @@
+org/sonatype/maven/mojo/settings/MavenSettings/selectProxy(org.apache.maven.settings.Settings,java.lang.String,boolean)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	2
+org/springframework/security/rsa/crypto/RsaSecretEncryptor/encrypt(byte[],java.security.PublicKey,org.springframework.security.rsa.crypto.RsaAlgorithm,java.lang.String,boolean)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	1
+org/springframework/security/rsa/crypto/RsaKeyHelper/encodePublicKey(java.security.interfaces.RSAPublicKey,java.lang.String)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	0
+ucar/httpservices/HTTPAuthStore/openobjectstream(java.io.InputStream,java.lang.String)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	4
+ucar/httpservices/Escape/escapeURL(java.lang.String)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	3

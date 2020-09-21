@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/fromDependencies/CopyDependenciesMojo/installArtifact(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/logMismatch(org.apache.maven.artifact.Artifact,org.apache.maven.model.Dependency)@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/dependency/resolvers/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/codehaus/mojo/license/ThirdPartyReportRenderer/renderSummaryTable(java.lang.String,java.util.Collection,java.lang.String)@g_maven-dependency-plugin-2.8.jar.txt	2

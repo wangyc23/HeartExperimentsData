@@ -1,0 +1,4 @@
+scala/Some/x()
+org/neo4j/cypher/internal/frontend/v2_3/ast/Expression/position()
+java/lang/Object/equals(java.lang.Object)
+org/neo4j/cypher/internal/frontend/v2_3/ast/ReturnItem/expression()

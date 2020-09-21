@@ -1,0 +1,5 @@
+org/neo4j/commandline/dbms/CsvImporter/doImport()@g_neo4j-dbms-3.1.0.jar.txt	1
+org/neo4j/server/configuration/ClientConnectorSettings/httpConnector(org.neo4j.kernel.configuration.Config,org.neo4j.server.configuration.ClientConnectorSettings$HttpConnector$Encryption)@g_neo4j-dbms-3.1.0.jar.txt	2
+org/eclipse/rdf4j/model/util/Literals/createLiteral(org.eclipse.rdf4j.model.ValueFactory,java.lang.Object,boolean)@g_neo4j-dbms-3.1.0.jar.txt	4
+org/neo4j/dbms/archive/Dumper/dump(java.nio.file.Path,java.nio.file.Path,java.util.function.Predicate)@g_neo4j-dbms-3.1.0.jar.txt	0
+org/neo4j/commandline/dbms/DumpCommand/execute(java.lang.String[])@g_neo4j-dbms-3.1.0.jar.txt	3

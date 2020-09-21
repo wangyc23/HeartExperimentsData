@@ -1,0 +1,5 @@
+org/codehaus/stax2/ri/Stax2EventReaderImpl/getElementText()@g_stax2-api-3.1.1.jar.txt	0
+com/ctc/wstx/evt/WstxEventReader/getElementText()@g_wstx-asl-3.2.6.jar.txt	1
+com/ctc/wstx/evt/WstxEventWriter/add(javax.xml.stream.events.XMLEvent)@g_wstx-asl-3.2.6.jar.txt	3
+org/codehaus/stax2/ri/Stax2EventWriterImpl/add(javax.xml.stream.events.XMLEvent)@g_stax2-api-3.1.1.jar.txt	2
+org/codehaus/stax2/ri/Stax2ReaderAdapter/readElementAsBinary(byte[],int,int,org.codehaus.stax2.typed.Base64Variant)@g_stax2-api-3.1.1.jar.txt	4

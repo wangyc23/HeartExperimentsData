@@ -1,0 +1,4 @@
+com/coremedia/iso/boxes/fragment/TrackRunBox$Entry/getSampleFlags()
+java/util/Iterator/hasNext()
+com/coremedia/iso/boxes/MovieBox/getBoxes(java.lang.Class)
+java/util/List/size()

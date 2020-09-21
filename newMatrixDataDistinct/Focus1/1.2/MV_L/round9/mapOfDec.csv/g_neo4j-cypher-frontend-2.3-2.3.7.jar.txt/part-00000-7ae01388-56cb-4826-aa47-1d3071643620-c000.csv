@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/frontend/v2_3/perty/recipe/PrintableDocRecipe/eval/convert(scala.collection.Seq,scala.collection.Seq)@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	4
+org/neo4j/cypher/internal/frontend/v2_3/ast/ShortestPaths/anonfun/checkLength/1/apply(org.neo4j.cypher.internal.frontend.v2_3.SemanticState)@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	3
+org/neo4j/cypher/internal/frontend/v2_3/ast/Pattern/findDuplicateRelationships/anonfun/3/apply(scala.collection.immutable.Map,org.neo4j.cypher.internal.frontend.v2_3.ast.Identifier)@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	2
+org/neo4j/cypher/internal/frontend/v2_3/perty/recipe/PrintableDocRecipe/eval/apply(scala.collection.Seq)@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	0
+org/neo4j/cypher/internal/frontend/v2_3/perty/recipe/PrintableDocRecipe/eval/apply(scala.collection.Seq)@g_neo4j-cypher-frontend-2.3-2.3.11.jar.txt	1

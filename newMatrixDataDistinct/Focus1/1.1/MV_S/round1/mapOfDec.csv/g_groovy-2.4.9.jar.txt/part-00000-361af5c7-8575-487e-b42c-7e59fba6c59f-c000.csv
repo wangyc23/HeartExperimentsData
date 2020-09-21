@@ -1,0 +1,5 @@
+groovy/util/slurpersupport/Node/build(groovy.lang.GroovyObject,java.util.Map,java.util.Map)@g_groovy-all-2.4.6.jar.txt	4
+groovy/jmx/builder/JmxBuilderModelMBean/AttributeChangedListener/buildAttributeNotificationPacket(javax.management.AttributeChangeNotification)@g_groovy-all-2.4.6.jar.txt	2
+org/codehaus/groovy/transform/stc/StaticTypeCheckingSupport/compatibleConnections(java.util.Map,java.util.Map,java.util.Set)@g_groovy-all-2.4.6.jar.txt	1
+org/codehaus/groovy/transform/ASTTransformationVisitor/visitClass(org.codehaus.groovy.ast.ClassNode)@g_groovy-all-2.4.6.jar.txt	0
+org/codehaus/groovy/tools/groovydoc/SimpleGroovyClassDocAssembler/visitClassDef(org.codehaus.groovy.antlr.GroovySourceAST,int)@g_groovy-all-2.4.6.jar.txt	3

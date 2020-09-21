@@ -1,0 +1,4 @@
+org/antlr/runtime/tree/TreeAdaptor/create(org.antlr.runtime.Token)
+com/github/sommeri/less4j/core/parser/LessParser/recover(org.antlr.runtime.IntStream,org.antlr.runtime.RecognitionException)
+org/antlr/runtime/tree/TreeAdaptor/setTokenBoundaries(java.lang.Object,org.antlr.runtime.Token,org.antlr.runtime.Token)
+org/antlr/runtime/tree/TreeAdaptor/rulePostProcessing(java.lang.Object)

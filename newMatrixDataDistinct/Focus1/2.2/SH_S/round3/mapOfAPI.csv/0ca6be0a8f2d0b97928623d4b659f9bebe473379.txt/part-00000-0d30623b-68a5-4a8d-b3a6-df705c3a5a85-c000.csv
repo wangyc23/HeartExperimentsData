@@ -1,0 +1,5 @@
+0	org/jboss/seam/examples/booking/i18n/DefaultBundleKey/DefaultBundleKey(java.lang.String)
+1	org/jboss/seam/examples/booking/model/Booking/getCheckinDate()
+2	dom/simple/SimpleObject/setName(java.lang.String)
+3	org/jboss/seam/examples/booking/model/Booking/getId()
+4	org/jboss/seam/examples/booking/model/Booking/getHotel()

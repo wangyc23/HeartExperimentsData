@@ -1,0 +1,4 @@
+java/lang/Class/getDeclaredMethods()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/reflect/Method/getName()
+java/lang/StringBuilder/StringBuilder()

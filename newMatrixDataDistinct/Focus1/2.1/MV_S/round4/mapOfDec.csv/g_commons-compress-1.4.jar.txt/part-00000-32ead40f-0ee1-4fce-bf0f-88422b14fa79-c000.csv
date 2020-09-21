@@ -1,0 +1,5 @@
+com/eureka2/shading/apache/avro/file/SnappyCodec/compress(java.nio.ByteBuffer)@g_compress-lzf-1.0.3.jar.txt	0
+com/eureka2/shading/apache/commons/compress/archivers/zip/AsiExtraField/parseFromLocalFileData(byte[],int,int)@g_compress-lzf-1.0.3.jar.txt	4
+org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/readDeflated(byte[],int,int)@g_compress-lzf-1.0.3.jar.txt	3
+com/netflix/eureka2/transport/utils/AvroUtils/loadSchema(java.lang.String,java.lang.String)@g_compress-lzf-1.0.3.jar.txt	1
+com/eureka2/shading/apache/avro/specific/SpecificData/getProtocol(java.lang.Class)@g_compress-lzf-1.0.3.jar.txt	2

@@ -1,0 +1,5 @@
+edu/emory/mathcs/util/classloader/GenericClassLoader/getLibraryHandle(java.lang.String)@g_emory-util-classloader-2.1.jar.txt	1
+org/apache/batik/script/ImportInfo/addImports(java.net.URL)@g_batik-script-1.8.jar.txt	3
+edu/emory/mathcs/util/classloader/jar/JarURLStreamHandler/parseURL(java.net.URL,java.lang.String,int,int)@g_emory-util-classloader-2.1.jar.txt	2
+edu/emory/mathcs/util/classloader/GenericClassLoader/defineClass(java.lang.String,edu.emory.mathcs.util.classloader.ResourceHandle)@g_emory-util-classloader-2.1.jar.txt	4
+edu/emory/mathcs/util/classloader/URIClassLoader/getLibraryHandle(java.lang.String)@g_emory-util-classloader-2.1.jar.txt	0

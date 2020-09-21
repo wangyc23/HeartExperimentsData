@@ -1,0 +1,5 @@
+br/com/ufra/resource/VistoriaResource/obterVistoriasEstabelecimento(java.lang.Integer)@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	4
+br/com/ufra/resource/TecnicoResource/obterTodos()@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	0
+br/com/ufra/resource/InspecaoResource/obterTodos()@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	1
+br/com/ufra/resource/InspecaoResource/obterInspecoesPorVistoria(java.lang.Integer)@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	3
+br/com/ufra/resource/EstabelecimentoResource/obterTodos()@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	2

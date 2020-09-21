@@ -1,0 +1,5 @@
+org/neo4j/commandline/arguments/Arguments/usage()@g_neo4j-command-line-3.1.0.jar.txt	1
+org/elasticsearch/transport/TcpTransport/onChannelClosed(java.lang.Object)@g_elasticsearch-5.2.2.jar.txt	4
+org/neo4j/commandline/arguments/Arguments/description(java.lang.String)@g_neo4j-command-line-3.1.0.jar.txt	2
+org/neo4j/commandline/arguments/Arguments/rightColumnFormatted(java.lang.String,java.lang.String,int)@g_neo4j-command-line-3.1.0.jar.txt	3
+org/elasticsearch/script/ScriptModule/create(org.elasticsearch.common.settings.Settings,org.elasticsearch.env.Environment,org.elasticsearch.watcher.ResourceWatcherService,java.util.List)@g_elasticsearch-5.2.2.jar.txt	0

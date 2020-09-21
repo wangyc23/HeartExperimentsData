@@ -1,0 +1,5 @@
+org/apache/maven/shared/utils/io/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/shared/utils/xml/XmlWriterUtil/writeComment(org.apache.maven.shared.utils.xml.XMLWriter,java.lang.String,int,int,int)@g_maven-verifier-1.2.jar.txt	0
+org/apache/maven/it/util/FileUtils/deleteFile(java.io.File)@g_maven-verifier-1.2.jar.txt	1
+org/apache/maven/shared/utils/Expand/expandFile(java.io.File,java.io.File)@g_maven-verifier-1.2.jar.txt	2
+org/apache/batik/apps/rasterizer/SVGConverter/transcode(org.apache.batik.apps.rasterizer.SVGConverterSource,java.io.File,org.apache.batik.transcoder.Transcoder)@g_maven-verifier-1.2.jar.txt	3

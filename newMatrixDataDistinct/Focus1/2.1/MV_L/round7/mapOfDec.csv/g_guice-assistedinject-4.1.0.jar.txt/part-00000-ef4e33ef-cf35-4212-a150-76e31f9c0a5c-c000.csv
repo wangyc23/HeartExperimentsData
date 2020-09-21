@@ -1,0 +1,5 @@
+com/google/inject/assistedinject/FactoryProvider2/removeAssistedDeps(java.util.Set)@g_guice-multibindings-4.1.0.jar.txt	1
+com/google/inject/multibindings/MultibindingsScanner/Scanner/prepareMethod(com.google.inject.Binder,java.lang.annotation.Annotation,com.google.inject.Key,com.google.inject.spi.InjectionPoint)@g_guice-multibindings-4.1.0.jar.txt	0
+org/sonatype/guice/bean/scanners/index/AbstractSisuIndex/readTable(java.lang.Object)@g_guice-multibindings-4.1.0.jar.txt	4
+com/google/inject/multibindings/MapBinder/RealMapBinder/RealMapProvider/get()@g_guice-multibindings-4.1.0.jar.txt	2
+org/sonatype/guice/bean/binders/ImportBinder/bindBeanImport(com.google.inject.Key)@g_guice-multibindings-4.1.0.jar.txt	3

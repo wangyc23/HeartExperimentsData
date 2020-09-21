@@ -1,0 +1,4 @@
+org/apache/mahout/math/Matrix/times(org.apache.mahout.math.Matrix)
+org/apache/mahout/math/decomposer/SolverTest/randomSequentialAccessSparseMatrix(int,int,int,int,double)
+org/apache/mahout/common/MahoutTestCase/getConfiguration()
+org/apache/mahout/math/hadoop/DistributedRowMatrix/times(org.apache.mahout.math.hadoop.DistributedRowMatrix)

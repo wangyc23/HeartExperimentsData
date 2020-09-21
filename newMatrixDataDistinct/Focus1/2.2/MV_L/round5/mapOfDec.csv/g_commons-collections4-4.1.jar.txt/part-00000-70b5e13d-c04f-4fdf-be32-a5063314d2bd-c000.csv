@@ -1,0 +1,5 @@
+org/apache/commons/collections4/map/LRUMap/reuseMapping(org.apache.commons.collections4.map.AbstractLinkedMap$LinkEntry,int,int,java.lang.Object,java.lang.Object)@g_commons-collections4-4.0.jar.txt	4
+org/apache/commons/collections4/trie/AbstractPatriciaTrie/floorEntry(java.lang.Object)@g_commons-collections4-4.0.jar.txt	2
+org/apache/commons/collections4/trie/AbstractPatriciaTrie/higherEntry(java.lang.Object)@g_commons-collections4-4.0.jar.txt	3
+org/apache/commons/collections4/trie/AbstractPatriciaTrie/ceilingEntry(java.lang.Object)@g_commons-collections4-4.0.jar.txt	1
+org/apache/commons/collections4/trie/AbstractPatriciaTrie/put(java.lang.Object,java.lang.Object)@g_commons-collections4-4.0.jar.txt	0

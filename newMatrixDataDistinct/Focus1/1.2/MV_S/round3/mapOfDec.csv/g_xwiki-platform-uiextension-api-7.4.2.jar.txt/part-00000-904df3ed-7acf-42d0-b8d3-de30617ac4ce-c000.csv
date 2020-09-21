@@ -1,0 +1,5 @@
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLinks(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	3
+org/xwiki/refactoring/internal/DefaultModelBridge/removeLock(org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	1
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLinks(org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	0
+org/xwiki/refactoring/internal/DefaultModelBridge/copy(org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	4
+org/xwiki/refactoring/internal/DefaultModelBridge/updateParentField(org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	2

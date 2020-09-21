@@ -1,0 +1,5 @@
+org/apache/http/protocol/RequestContent/process(org.apache.http.HttpRequest,org.apache.http.protocol.HttpContext)@g_httpcore-4.3.3.jar.txt	3
+org/apache/http/util/VersionInfo/loadVersionInfo(java.lang.String,java.lang.ClassLoader)@g_httpcore-4.3.3.jar.txt	1
+org/apache/http/impl/io/AbstractSessionOutputBuffer/writeEncoded(java.nio.CharBuffer)@g_httpcore-4.3.2.jar.txt	4
+org/apache/http/protocol/RequestContent/process(org.apache.http.HttpRequest,org.apache.http.protocol.HttpContext)@g_httpcore-4.3.2.jar.txt	2
+org/apache/http/util/VersionInfo/loadVersionInfo(java.lang.String,java.lang.ClassLoader)@g_httpcore-4.3.2.jar.txt	0

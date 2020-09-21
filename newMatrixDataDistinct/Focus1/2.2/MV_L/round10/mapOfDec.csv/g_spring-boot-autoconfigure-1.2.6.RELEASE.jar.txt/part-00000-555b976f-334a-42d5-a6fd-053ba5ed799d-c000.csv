@@ -1,0 +1,5 @@
+org/springframework/boot/autoconfigure/condition/OnBeanCondition/getMatchingBeans(org.springframework.context.annotation.ConditionContext,org.springframework.boot.autoconfigure.condition.OnBeanCondition$BeanSearchSpec)@g_spring-boot-autoconfigure-1.2.7.RELEASE.jar.txt	4
+org/springframework/boot/autoconfigure/jdbc/DataSourceInitializer/getResources(java.lang.String)@g_spring-boot-autoconfigure-1.2.3.RELEASE.jar.txt	3
+org/springframework/boot/autoconfigure/jdbc/DataSourceInitializer/getResources(java.lang.String)@g_spring-boot-autoconfigure-1.2.7.RELEASE.jar.txt	2
+org/springframework/boot/autoconfigure/redis/RedisAutoConfiguration/AbstractRedisConfiguration/createSentinels(org.springframework.boot.autoconfigure.redis.RedisProperties$Sentinel)@g_spring-boot-autoconfigure-1.2.3.RELEASE.jar.txt	1
+org/springframework/boot/autoconfigure/redis/RedisAutoConfiguration/AbstractRedisConfiguration/createSentinels(org.springframework.boot.autoconfigure.redis.RedisProperties$Sentinel)@g_spring-boot-autoconfigure-1.2.7.RELEASE.jar.txt	0

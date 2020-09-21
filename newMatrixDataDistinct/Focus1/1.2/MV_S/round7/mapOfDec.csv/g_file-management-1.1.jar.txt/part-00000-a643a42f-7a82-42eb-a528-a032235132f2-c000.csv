@@ -1,0 +1,5 @@
+org/apache/maven/shared/model/fileset/io/xpp3/FileSetXpp3Reader/parseSetBase(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	0
+org/apache/maven/doxia/site/decoration/io/xpp3/DecorationXpp3Reader/parseBody(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	1
+org/apache/maven/doxia/site/decoration/io/xpp3/DecorationXpp3Writer/writeMenuItem(org.apache.maven.doxia.site.decoration.MenuItem,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	2
+org/apache/maven/doxia/site/decoration/io/xpp3/DecorationXpp3Writer/writeLogo(org.apache.maven.doxia.site.decoration.Logo,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	4
+org/apache/maven/shared/model/fileset/util/FileSetManager/findDeletableFiles(org.apache.maven.shared.model.fileset.FileSet,java.util.Set)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	3

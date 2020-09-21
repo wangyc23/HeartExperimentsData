@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/frontend/v3_0/ast/ContainerIndex/anonfun/semanticCheck/5/anonfun/apply/1/apply(org.neo4j.cypher.internal.frontend.v3_0.symbols.TypeSpec)@g_neo4j-cypher-frontend-3.0-3.0.7.jar.txt	2
+org/neo4j/cypher/internal/frontend/v3_0/ast/Add/anonfun/infixRhsTypes/1/apply(org.neo4j.cypher.internal.frontend.v3_0.SemanticState)@g_neo4j-cypher-frontend-3.0-3.0.7.jar.txt	1
+org/neo4j/cypher/internal/frontend/v3_0/ast/Add/anonfun/infixOutputTypes/1/apply(org.neo4j.cypher.internal.frontend.v3_0.SemanticState)@g_neo4j-cypher-frontend-3.0-3.0.7.jar.txt	0
+org/neo4j/cypher/internal/frontend/v3_0/parser/Clauses/anonfun/Foreach/1/apply()@g_neo4j-cypher-frontend-3.0-3.0.7.jar.txt	3
+org/neo4j/cypher/internal/frontend/v3_0/ast/ExpressionCallTypeChecker/anonfun/checkTypes/1/apply(org.neo4j.cypher.internal.frontend.v3_0.SemanticState)@g_neo4j-cypher-frontend-3.0-3.0.7.jar.txt	4

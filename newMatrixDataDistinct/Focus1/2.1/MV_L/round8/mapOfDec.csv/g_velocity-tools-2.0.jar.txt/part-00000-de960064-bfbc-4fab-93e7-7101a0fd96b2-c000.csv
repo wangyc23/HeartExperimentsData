@@ -1,0 +1,5 @@
+org/apache/velocity/tools/view/servlet/ServletToolboxManager/getInstance(javax.servlet.ServletContext,java.lang.String)@g_sslext-1.2-0.jar.txt	4
+org/apache/struts/util/SecureRequestUtils/stowRequestAttributes(javax.servlet.http.HttpServletRequest)@g_sslext-1.2-0.jar.txt	1
+org/apache/struts/taglib/html/LinkTag/calculateURL()@g_sslext-1.2-0.jar.txt	0
+org/apache/struts/taglib/html/JavascriptValidatorTag/getJavascriptStaticMethods(org.apache.commons.validator.ValidatorResources)@g_sslext-1.2-0.jar.txt	3
+org/apache/velocity/tools/view/UiDependencyTool/addDependencies(java.util.Map)@g_sslext-1.2-0.jar.txt	2

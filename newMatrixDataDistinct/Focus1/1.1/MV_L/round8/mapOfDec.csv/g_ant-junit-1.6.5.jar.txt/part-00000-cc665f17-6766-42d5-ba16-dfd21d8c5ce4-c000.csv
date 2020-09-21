@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Execute/spawn()@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/Zip/createEmptyZip(java.io.File)@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/compilers/Javac12/execute()@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/Redirector/complete()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/taskdefs/Concat/cat()@g_ant-1.6.5.jar.txt	4

@@ -1,0 +1,5 @@
+aQute/lib/osgi/Analyzer/doPropertyIncludes(java.net.URL,java.util.Properties,java.util.Set)@g_bndlib-0.0.145.jar.txt	1
+aQute/lib/osgi/Verifier/verifyHeader(java.lang.String,java.util.regex.Pattern,boolean)@g_bndlib-0.0.145.jar.txt	3
+aQute/lib/osgi/header/OSGiHeader/parseHeader(java.lang.String)@g_bndlib-0.0.145.jar.txt	4
+aQute/lib/osgi/Verifier/verifyListHeader(java.lang.String,java.util.regex.Pattern,boolean)@g_bndlib-0.0.145.jar.txt	2
+aQute/lib/osgi/Builder/doIncludeResources(aQute.lib.osgi.Jar)@g_bndlib-0.0.145.jar.txt	0

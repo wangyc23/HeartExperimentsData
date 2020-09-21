@@ -1,0 +1,5 @@
+org/eclipse/jetty/annotations/WebServletAnnotation/apply()@g_jetty-annotations-9.3.8.v20160314.jar.txt	2
+org/eclipse/jetty/annotations/AnnotationConfiguration/createServletContainerInitializerAnnotationHandlers(org.eclipse.jetty.webapp.WebAppContext,java.util.List)@g_jetty-annotations-9.3.8.v20160314.jar.txt	0
+org/eclipse/jetty/annotations/AnnotationConfiguration/configure(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-annotations-9.3.8.v20160314.jar.txt	4
+org/eclipse/jetty/annotations/AnnotationConfiguration/parseWebInfLib(org.eclipse.jetty.webapp.WebAppContext,org.eclipse.jetty.annotations.AnnotationParser)@g_jetty-annotations-9.3.8.v20160314.jar.txt	3
+org/eclipse/jetty/annotations/AnnotationConfiguration/isFromExcludedJar(org.eclipse.jetty.webapp.WebAppContext,javax.servlet.ServletContainerInitializer,org.eclipse.jetty.util.resource.Resource)@g_jetty-annotations-9.3.8.v20160314.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/lang/Long/parseLong(java.lang.String)
+com/sun/el/parser/AstNegative/isStringFloat(java.lang.String)
+java/lang/Integer/Integer(int)

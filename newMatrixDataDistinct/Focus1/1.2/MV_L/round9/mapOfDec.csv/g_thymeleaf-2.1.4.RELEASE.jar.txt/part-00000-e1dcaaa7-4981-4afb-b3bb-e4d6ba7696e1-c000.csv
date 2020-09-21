@@ -1,0 +1,5 @@
+org/thymeleaf/util/EvaluationUtil/evaluateAsIterable(java.lang.Object)@g_thymeleaf-2.1.5.RELEASE.jar.txt	0
+org/thymeleaf/Configuration/getApplicableNonSpecificProcessorsToNodeClass(java.lang.Class)@g_thymeleaf-2.1.5.RELEASE.jar.txt	4
+org/apache/shiro/config/IniSecurityManagerFactory/getRealms(java.util.Map)@g_shiro-core-1.2.2.jar.txt	2
+org/thymeleaf/util/EvaluationUtil/evaluateAsArray(java.lang.Object)@g_thymeleaf-2.1.5.RELEASE.jar.txt	1
+org/thymeleaf/standard/expression/LinkExpression/executeLink(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,org.thymeleaf.standard.expression.LinkExpression,org.thymeleaf.standard.expression.StandardExpressionExecutionContext)@g_thymeleaf-2.1.5.RELEASE.jar.txt	3

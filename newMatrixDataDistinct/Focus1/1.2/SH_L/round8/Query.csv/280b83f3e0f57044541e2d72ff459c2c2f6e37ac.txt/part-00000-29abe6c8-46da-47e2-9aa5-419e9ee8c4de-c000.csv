@@ -1,0 +1,4 @@
+java/security/MessageDigest/digest()
+java/lang/Throwable/getMessage()
+bb/rackmesa/research/authorization/CryptoFunctions/convertByteToHex(byte[])
+java/lang/String/getBytes()

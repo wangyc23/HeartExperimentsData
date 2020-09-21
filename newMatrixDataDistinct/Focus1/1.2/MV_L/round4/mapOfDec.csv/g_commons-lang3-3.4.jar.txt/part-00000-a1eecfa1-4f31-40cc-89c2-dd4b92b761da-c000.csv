@@ -1,0 +1,5 @@
+org/apache/commons/lang3/text/ExtendedMessageFormat/appendQuotedString(java.lang.String,java.text.ParsePosition,java.lang.StringBuilder)@g_commons-lang3-3.7.jar.txt	1
+org/apache/commons/lang3/text/ExtendedMessageFormat/parseFormatDescription(java.lang.String,java.text.ParsePosition)@g_commons-lang3-3.5.jar.txt	4
+org/apache/commons/lang3/text/ExtendedMessageFormat/readArgumentIndex(java.lang.String,java.text.ParsePosition)@g_commons-lang3-3.5.jar.txt	2
+org/apache/commons/lang3/text/ExtendedMessageFormat/applyPattern(java.lang.String)@g_commons-lang3-3.5.jar.txt	3
+org/apache/commons/lang3/text/ExtendedMessageFormat/appendQuotedString(java.lang.String,java.text.ParsePosition,java.lang.StringBuilder)@g_commons-lang3-3.5.jar.txt	0

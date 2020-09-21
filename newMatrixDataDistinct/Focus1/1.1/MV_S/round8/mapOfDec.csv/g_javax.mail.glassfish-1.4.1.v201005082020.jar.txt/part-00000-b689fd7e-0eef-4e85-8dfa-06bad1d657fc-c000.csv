@@ -1,0 +1,5 @@
+com/sun/mail/imap/protocol/IMAPProtocol/parseCapabilities(com.sun.mail.iap.Response)@g_mail-1.4.1.jar.txt	1
+org/apache/tools/ant/taskdefs/Checksum/validateAndExecute()@g_ant-1.6.5.jar.txt	2
+javax/mail/internet/ParameterList/combineMultisegmentNames(boolean)@g_mail-1.4.1.jar.txt	0
+org/apache/tools/ant/taskdefs/Definer/execute()@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/Checksum/addToIncludeFileMap(java.io.File)@g_ant-1.6.5.jar.txt	4

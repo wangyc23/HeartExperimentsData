@@ -1,0 +1,5 @@
+com/sun/jersey/client/urlconnection/URLConnectionClientHandler/_invoke(com.sun.jersey.api.client.ClientRequest)@g_jersey-client-1.19.jar.txt	2
+com/sun/jersey/api/client/filter/GZIPContentEncodingFilter/handle(com.sun.jersey.api.client.ClientRequest)@g_jersey-client-1.19.jar.txt	4
+com/sun/jersey/api/client/ClientResponse/getEntity(java.lang.Class,java.lang.reflect.Type)@g_jersey-client-1.19.jar.txt	3
+com/sun/jersey/client/urlconnection/URLConnectionClientHandler/URLConnectionResponse/toString()@g_jersey-client-1.11.jar.txt	1
+com/sun/jersey/client/urlconnection/URLConnectionClientHandler/URLConnectionResponse/toString()@g_jersey-client-1.19.jar.txt	0

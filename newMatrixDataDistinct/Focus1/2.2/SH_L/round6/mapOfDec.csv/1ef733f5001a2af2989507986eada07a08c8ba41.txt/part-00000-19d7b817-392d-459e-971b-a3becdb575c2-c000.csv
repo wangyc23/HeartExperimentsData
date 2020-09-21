@@ -1,0 +1,5 @@
+org/webbitserver/ChunkedResponseTest/streamingViaChunks()@2aa4087d989d297078aaa1f4cb4168a67b4b3207.txt	4
+org/webbitserver/handler/StaticFileHandler/FileWorker/resolveFile(java.lang.String)@2aa4087d989d297078aaa1f4cb4168a67b4b3207.txt	2
+samples/authentication/AsyncPasswordsExample/BackgroundWorker/run()@2aa4087d989d297078aaa1f4cb4168a67b4b3207.txt	1
+org/webbitserver/stub/StubHttpRequest/cookie(java.lang.String)@2aa4087d989d297078aaa1f4cb4168a67b4b3207.txt	0
+org/webbitserver/netty/NettyHttpRequest/cookie(java.lang.String)@2aa4087d989d297078aaa1f4cb4168a67b4b3207.txt	3

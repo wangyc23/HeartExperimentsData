@@ -1,0 +1,5 @@
+org/recipesearch/core/SanityTest/testSanity()@017ff968b024c3c310bd7fc927d0e6306afd30a3.txt	2
+org/recipesearch/hibernatesearch/util/ApplicationContextHolder/autowireBeanProperties(java.lang.Object)@017ff968b024c3c310bd7fc927d0e6306afd30a3.txt	4
+org/recipesearch/hibernatesearch/po/Recipe/setAuthor(java.lang.String)@017ff968b024c3c310bd7fc927d0e6306afd30a3.txt	0
+org/recipesearch/hibernatesearch/app/PopulateDatabase/main(java.lang.String[])@017ff968b024c3c310bd7fc927d0e6306afd30a3.txt	1
+com/joantolos/portfolio/template/utils/impl/JSONUtilsImpl/objectListJsonToObjectList(java.lang.String)@017ff968b024c3c310bd7fc927d0e6306afd30a3.txt	3

@@ -1,0 +1,4 @@
+java/util/List/remove(int)
+org/objectweb/asm/Type/getObjectType(java.lang.String)
+org/objectweb/asm/tree/AbstractInsnNode/getOpcode()
+java/util/HashMap/HashMap()

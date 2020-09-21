@@ -1,0 +1,5 @@
+pl/pwr/news/provider/wykop/WykopAPIImpl/generateApiSign(java.lang.String,java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1
+pl/pwr/news/service/mail/MailServiceImpl/sendSimpleMessage()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+pl/pwr/news/webapp/controller/user/UserApi/addFavourite(java.lang.Long,java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2
+pl/pwr/news/provider/ArticlesProvider/update()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	0
+pl/pwr/news/webapp/controller/user/UserApi/getFavourites(java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	4

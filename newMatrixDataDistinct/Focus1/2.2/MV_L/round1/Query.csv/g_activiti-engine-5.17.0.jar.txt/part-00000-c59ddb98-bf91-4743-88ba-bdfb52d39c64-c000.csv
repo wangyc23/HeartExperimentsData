@@ -1,0 +1,4 @@
+org/activiti/bpmn/model/DataAssociation/getAssignments()
+java/util/Iterator/hasNext()
+org/activiti/bpmn/model/Assignment/getTo()
+org/apache/commons/lang3/StringUtils/isNotEmpty(java.lang.CharSequence)

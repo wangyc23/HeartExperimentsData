@@ -1,0 +1,5 @@
+com/sun/jersey/core/impl/provider/entity/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/jersey/spi/service/ServiceFinder/compatibleManifest(java.net.URL)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/jersey/api/uri/UriTemplateParser/processLiteralCharacters()@g_javax.faces-2.2.7.jar.txt	4
+javax/faces/component/UIComponentBase/populateDescriptorsMapIfNecessary()@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/taglib/jsf_core/ConvertNumberTag/evaluateExpressions()@g_javax.faces-2.2.7.jar.txt	0

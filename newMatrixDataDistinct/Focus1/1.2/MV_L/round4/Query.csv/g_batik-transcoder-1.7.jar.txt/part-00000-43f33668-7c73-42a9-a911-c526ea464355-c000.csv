@@ -1,0 +1,4 @@
+java/awt/Graphics2D/drawString(java.text.AttributedCharacterIterator,float,float)
+java/awt/geom/Rectangle2D/getWidth()
+java/awt/font/TextLayout/getBounds()
+java/awt/Graphics2D/setStroke(java.awt.Stroke)

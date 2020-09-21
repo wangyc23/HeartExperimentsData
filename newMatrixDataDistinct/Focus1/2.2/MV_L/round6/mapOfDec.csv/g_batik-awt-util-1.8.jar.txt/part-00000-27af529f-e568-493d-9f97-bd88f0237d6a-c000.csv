@@ -1,0 +1,5 @@
+org/apache/batik/ext/awt/image/rendered/ProfileRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	0
+org/apache/batik/ext/awt/image/rendered/Any2LumRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	1
+org/apache/batik/ext/awt/image/rendered/FormatRed/makeColorModel(org.apache.batik.ext.awt.image.rendered.CachableRed,java.awt.image.SampleModel)@g_batik-awt-util-1.7.jar.txt	2
+org/apache/batik/ext/awt/image/rendered/AbstractRed/init(org.apache.batik.ext.awt.image.rendered.CachableRed,java.awt.Rectangle,java.awt.image.ColorModel,java.awt.image.SampleModel,int,int,java.util.Map)@g_batik-awt-util-1.7.jar.txt	3
+org/apache/batik/ext/awt/image/rendered/AbstractRed/init(java.util.List,java.awt.Rectangle,java.awt.image.ColorModel,java.awt.image.SampleModel,int,int,java.util.Map)@g_batik-awt-util-1.7.jar.txt	4

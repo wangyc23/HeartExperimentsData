@@ -1,0 +1,5 @@
+org/powermock/reflect/internal/WhiteboxImpl/getInternalState(java.lang.Object,java.lang.String,java.lang.Class)@g_xbean-reflect-3.4.jar.txt	4
+org/mvel2/optimizers/impl/refl/nodes/MethodAccessor/getValue(java.lang.Object,java.lang.Object,org.mvel2.integration.VariableResolverFactory)@g_xbean-reflect-3.4.jar.txt	3
+org/apache/xbean/propertyeditor/EnumConverter/toObjectImpl(java.lang.String)@g_xbean-reflect-3.4.jar.txt	2
+org/mvel2/conversion/DoubleCH/<clinit>()@g_xbean-reflect-3.4.jar.txt	1
+org/mvel2/optimizers/impl/refl/ReflectiveAccessorOptimizer/getCollectionProperty(java.lang.Object,java.lang.String)@g_xbean-reflect-3.4.jar.txt	0

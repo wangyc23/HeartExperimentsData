@@ -1,0 +1,5 @@
+org/eclipse/acceleo/engine/generation/strategy/WorkspaceAwareStrategy/flushWriters(java.util.Map)@g_org.eclipse.acceleo.engine-3.5.0-SNAPSHOT.jar.txt	4
+org/eclipse/acceleo/engine/generation/strategy/PreviewStrategy/preparePreview(java.util.Map)@g_org.eclipse.acceleo.engine-3.5.1.201409021433.jar.txt	3
+org/eclipse/acceleo/engine/generation/strategy/PreviewStrategy/preparePreview(java.util.Map)@g_org.eclipse.acceleo.engine-3.5.0-SNAPSHOT.jar.txt	1
+org/eclipse/acceleo/engine/internal/evaluation/AcceleoEvaluationContext/closeContext(org.eclipse.acceleo.model.mtl.Block,org.eclipse.emf.ecore.EObject)@g_org.eclipse.acceleo.engine-3.5.0-SNAPSHOT.jar.txt	0
+org/eclipse/acceleo/engine/internal/evaluation/AcceleoEvaluationContext/closeContext(org.eclipse.acceleo.model.mtl.Block,org.eclipse.emf.ecore.EObject)@g_org.eclipse.acceleo.engine-3.5.1.201409021433.jar.txt	2

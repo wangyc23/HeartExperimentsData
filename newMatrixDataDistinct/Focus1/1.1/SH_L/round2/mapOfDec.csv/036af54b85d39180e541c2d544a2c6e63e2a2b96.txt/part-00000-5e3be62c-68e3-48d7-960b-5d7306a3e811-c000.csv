@@ -1,0 +1,5 @@
+org/giwi/camel/dav/test/FromFileToDavTest/testFromFileToDav()@0000954c8c98624dd08a76264e3f50115e80574c.txt	4
+pangeanembassy/security/web/CreateUserAccountService/sendMessage(java.lang.String,java.lang.String)@0000954c8c98624dd08a76264e3f50115e80574c.txt	2
+pangeanembassy/security/web/ForgotPasswordController/sendMessage(java.lang.String,java.lang.String)@0000954c8c98624dd08a76264e3f50115e80574c.txt	0
+pangeanembassy/security/web/ForgotPasswordController/update(pangeanembassy.security.web.ForgotPasswordForm,org.springframework.validation.BindingResult)@0000954c8c98624dd08a76264e3f50115e80574c.txt	3
+pangeanembassy/security/web/CreateUserAccountService/createUserAccount(pangeanembassy.security.web.UserRegistrationForm)@0000954c8c98624dd08a76264e3f50115e80574c.txt	1

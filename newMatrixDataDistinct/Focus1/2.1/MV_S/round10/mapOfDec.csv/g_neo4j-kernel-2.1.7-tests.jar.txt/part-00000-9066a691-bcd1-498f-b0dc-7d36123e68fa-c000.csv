@@ -1,0 +1,5 @@
+org/neo4j/unsafe/impl/batchimport/store/io/IoQueueTest/shouldExecuteWriteJobsForMultipleFiles()@g_neo4j-kernel-2.1.6-tests.jar.txt	4
+org/neo4j/kernel/impl/nioneo/xa/NeoStoreTransactionTest/instantiateNeoStore(int)@g_neo4j-kernel-2.1.6-tests.jar.txt	3
+org/neo4j/kernel/impl/nioneo/store/TestXa/newNeoStore()@g_neo4j-kernel-2.1.6-tests.jar.txt	2
+org/neo4j/unsafe/impl/batchimport/store/io/IoQueueTest/shouldExecuteWriteJob()@g_neo4j-kernel-2.1.6-tests.jar.txt	1
+org/neo4j/kernel/impl/transaction/TestTransactionImpl/shouldBeAbleToAccessAllExceptionsOccurringInSynchronizationsBeforeCompletion()@g_neo4j-kernel-2.1.6-tests.jar.txt	0

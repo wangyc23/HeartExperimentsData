@@ -1,0 +1,5 @@
+org/jboss/resteasy/spi/ResteasyProviderFactory/register(java.lang.Object,java.util.Map)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	2
+org/jboss/resteasy/core/AsynchronousDispatcher/process(long,java.lang.String,boolean)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	1
+org/jboss/resteasy/core/ResourceMethodInvoker/registryUpdated(org.jboss.resteasy.core.interception.JaxrsInterceptorRegistry)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	3
+org/jboss/resteasy/core/request/ServerDrivenNegotiation/applyMediaType(javax.ws.rs.core.Variant,org.jboss.resteasy.core.request.VariantQuality)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	4
+org/jboss/resteasy/client/core/executors/URLConnectionClientExecutor/getHeaders(java.net.HttpURLConnection)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	0

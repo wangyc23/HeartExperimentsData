@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/lang/Number/doubleValue()
+java/lang/Number/byteValue()
+java/lang/Class/getName()

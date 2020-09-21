@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/copyOntology(org.semanticweb.owlapi.model.OWLOntology,org.semanticweb.owlapi.model.parameters.OntologyCopy)@g_owlapi-impl-4.5.0.jar.txt	3
+org/obolibrary/oboformat/parser/XrefExpander/setUp()@g_owlapi-distribution-5.1.0.jar.txt	1
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyFactoryImpl/loadOWLOntology(org.semanticweb.owlapi.model.OWLOntologyManager,org.semanticweb.owlapi.io.OWLOntologyDocumentSource,org.semanticweb.owlapi.model.OWLOntologyFactory$OWLOntologyCreationHandler,org.semanticweb.owlapi.model.OWLOntologyLoaderConfiguration)@g_owlapi-distribution-5.1.0.jar.txt	2
+org/semanticweb/owlapi/util/NamespaceUtil/generatePrefix(java.lang.String)@g_owlapi-distribution-5.1.0.jar.txt	4
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyFactoryImpl/loadOWLOntology(org.semanticweb.owlapi.model.OWLOntologyManager,org.semanticweb.owlapi.io.OWLOntologyDocumentSource,org.semanticweb.owlapi.model.OWLOntologyFactory$OWLOntologyCreationHandler,org.semanticweb.owlapi.model.OWLOntologyLoaderConfiguration)@g_owlapi-impl-4.5.0.jar.txt	0

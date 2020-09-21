@@ -1,0 +1,5 @@
+org/jfree/chart/plot/Plot/fillBackground(java.awt.Graphics2D,java.awt.geom.Rectangle2D,org.jfree.chart.plot.PlotOrientation)@g_jfreechart-1.0.19.jar.txt	0
+org/jfree/chart/title/TextTitle/drawHorizontal(java.awt.Graphics2D,java.awt.geom.Rectangle2D)@g_jfreechart-1.0.19.jar.txt	1
+org/jfree/chart/renderer/category/GradientBarPainter/paintBar(java.awt.Graphics2D,org.jfree.chart.renderer.category.BarRenderer,int,int,java.awt.geom.RectangularShape,org.jfree.ui.RectangleEdge)@g_jfreechart-1.0.19.jar.txt	2
+org/jfree/chart/ChartPanel/zoom(java.awt.geom.Rectangle2D)@g_jfreechart-1.0.19.jar.txt	4
+org/jfree/chart/renderer/xy/GradientXYBarPainter/paintBar(java.awt.Graphics2D,org.jfree.chart.renderer.xy.XYBarRenderer,int,int,java.awt.geom.RectangularShape,org.jfree.ui.RectangleEdge)@g_jfreechart-1.0.19.jar.txt	3

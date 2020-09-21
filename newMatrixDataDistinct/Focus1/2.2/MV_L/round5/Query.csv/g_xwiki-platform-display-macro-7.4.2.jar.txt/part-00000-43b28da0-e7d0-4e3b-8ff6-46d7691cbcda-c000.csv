@@ -1,0 +1,4 @@
+org/xwiki/rendering/transformation/MacroTransformationContext/getCurrentMacroBlock()
+java/lang/ThreadLocal/set(java.lang.Object)
+org/xwiki/rendering/transformation/MacroTransformationContext/getTransformationContext()
+org/xwiki/rendering/block/XDOM/getMetaData()

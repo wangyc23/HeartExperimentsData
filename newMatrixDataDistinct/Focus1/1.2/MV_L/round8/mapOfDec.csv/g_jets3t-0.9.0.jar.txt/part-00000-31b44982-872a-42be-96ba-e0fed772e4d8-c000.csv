@@ -1,0 +1,5 @@
+org/jets3t/service/utils/FileComparer/generateFileMD5Hash(java.io.File,java.lang.String,org.jets3t.service.io.BytesProgressWatcher)@g_jets3t-0.9.3.jar.txt	0
+org/jets3t/service/multithread/S3ServiceMulti/ThreadGroupManager/getNewlyCompletedResults()@g_jets3t-0.9.3.jar.txt	2
+org/jets3t/service/impl/rest/httpclient/RestS3Service/multipartListUploadsChunkedImpl(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,boolean)@g_jets3t-0.9.3.jar.txt	1
+org/jets3t/service/impl/rest/httpclient/RestS3Service/multipartUploadPartImpl(java.lang.String,java.lang.String,java.lang.Integer,org.jets3t.service.model.S3Object)@g_jets3t-0.9.3.jar.txt	3
+org/jets3t/service/utils/gatekeeper/GatekeeperMessage/decodeFromProperties(java.util.Map)@g_jets3t-0.9.3.jar.txt	4

@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owlapi/modularity/SyntacticLocalityModuleExtractor/extract(java.util.Set,java.util.Set,com.clarkparsia.owlapi.modularity.locality.LocalityClass,boolean)@g_skos-api-3.1.jar.txt	2
+com/clarkparsia/owlapi/explanation/HSTExplanationGenerator/constructHittingSetTree(org.semanticweb.owlapi.model.OWLClassExpression,java.util.Set,java.util.Set,java.util.Set,java.util.Set,int)@g_skos-api-3.1.jar.txt	1
+uk/ac/manchester/cs/owl/owlapi/mansyntaxrenderer/ManchesterOWLSyntaxFrameRenderer/writeOntology()@g_skos-api-3.1.jar.txt	4
+uk/ac/manchester/cs/owl/owlapi/mansyntaxrenderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLIndividual)@g_skos-api-3.1.jar.txt	3
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/getEquivalentObjectProperties(java.util.Set)@g_skos-api-3.1.jar.txt	0

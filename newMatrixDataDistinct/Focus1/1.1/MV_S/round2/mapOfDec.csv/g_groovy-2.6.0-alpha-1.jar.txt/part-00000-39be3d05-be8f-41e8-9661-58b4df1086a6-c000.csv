@@ -1,0 +1,5 @@
+org/codehaus/groovy/classgen/AnnotationVisitor/transformInlineConstants(org.codehaus.groovy.ast.expr.Expression)@g_groovy-all-2.4.6.jar.txt	1
+org/codehaus/groovy/control/io/FileReaderSource/getReader()@g_groovy-2.4.9.jar.txt	2
+org/codehaus/groovy/classgen/AnnotationVisitor/transformInlineConstants(org.codehaus.groovy.ast.expr.Expression)@g_groovy-2.4.9.jar.txt	0
+org/apache/groovy/parser/antlr4/AstBuilder/visitVariableDeclarators(org.apache.groovy.parser.antlr4.GroovyParser$VariableDeclaratorsContext)@g_groovy-2.4.9.jar.txt	4
+groovy/inspect/Inspector/methodInfo(java.lang.reflect.Constructor)@g_groovy-2.4.9.jar.txt	3

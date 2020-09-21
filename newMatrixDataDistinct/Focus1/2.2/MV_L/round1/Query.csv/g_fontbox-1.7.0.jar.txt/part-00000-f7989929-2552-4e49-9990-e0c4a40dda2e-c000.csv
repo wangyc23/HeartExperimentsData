@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Map/get(java.lang.Object)
+org/apache/fontbox/cff/CFFFont$Mapping/toType1Sequence()
+java/util/Map/containsKey(java.lang.Object)

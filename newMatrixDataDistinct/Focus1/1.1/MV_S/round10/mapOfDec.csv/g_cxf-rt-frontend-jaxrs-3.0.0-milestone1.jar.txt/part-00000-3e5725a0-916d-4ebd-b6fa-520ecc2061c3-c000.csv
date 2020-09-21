@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/provider/ProviderFactory/createProvider(java.lang.String)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	4
+org/apache/cxf/jaxrs/impl/WriterInterceptorMBW/aroundWriteTo(javax.ws.rs.ext.WriterInterceptorContext)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	0
+org/apache/cxf/jaxrs/impl/MediaTypeHeaderProvider/handleMediaTypeWithoutSubtype(java.lang.String)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/security/KerberosAuthenticationFilter/filter(javax.ws.rs.container.ContainerRequestContext)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	3
+org/apache/cxf/jaxrs/utils/JAXRSUtils/injectParameters(org.apache.cxf.jaxrs.model.OperationResourceInfo,org.apache.cxf.jaxrs.model.BeanResourceInfo,java.lang.Object,org.apache.cxf.message.Message)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	2

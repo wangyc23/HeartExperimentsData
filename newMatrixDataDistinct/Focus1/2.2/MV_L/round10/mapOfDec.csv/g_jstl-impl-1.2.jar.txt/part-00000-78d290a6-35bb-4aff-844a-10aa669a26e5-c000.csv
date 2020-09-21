@@ -1,0 +1,5 @@
+org/apache/taglibs/standard/extra/spath/TokenMgrError/addEscapes(java.lang.String)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	4
+org/apache/taglibs/standard/lang/jstl/parser/ParseException/add_escapes(java.lang.String)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	3
+org/apache/taglibs/standard/lang/jstl/parser/TokenMgrError/addEscapes(java.lang.String)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	1
+org/apache/taglibs/standard/extra/spath/ParseException/add_escapes(java.lang.String)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	0
+org/apache/taglibs/standard/lang/jstl/ELEvaluator/addEscapes(java.lang.String)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/sis/util/logging/Logging/unexpectedException(java.util.logging.Logger,java.lang.String,java.lang.String,java.lang.Throwable,java.util.logging.Level)@g_sis-utility-0.5.jar.txt	4
+org/apache/sis/io/TabularFormat/getColumnSeparatorPattern()@g_sis-utility-0.5.jar.txt	3
+org/apache/sis/util/CharSequences/shortSentence(java.lang.CharSequence,int)@g_sis-utility-0.5.jar.txt	2
+org/apache/sis/util/Exceptions/formatChainedMessages(java.util.Locale,java.lang.String,java.lang.Throwable)@g_sis-utility-0.5.jar.txt	1
+org/apache/sis/util/iso/RecordDefinition/toString(java.lang.String,java.lang.Object)@g_sis-utility-0.5.jar.txt	0

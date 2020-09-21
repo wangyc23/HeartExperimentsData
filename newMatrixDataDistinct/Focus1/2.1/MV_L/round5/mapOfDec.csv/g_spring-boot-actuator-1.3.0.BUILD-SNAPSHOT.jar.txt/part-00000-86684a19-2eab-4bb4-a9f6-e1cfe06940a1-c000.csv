@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/system/EmbeddedServerPortFileWriter/onApplicationEvent(org.springframework.boot.context.embedded.EmbeddedServletContainerInitializedEvent)@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	2
+org/springframework/boot/actuate/metrics/export/MetricCopyExporter/flush(org.springframework.boot.actuate.metrics.writer.GaugeWriter)@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	3
+org/springframework/boot/actuate/metrics/export/AbstractMetricExporter/export()@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	0
+org/springframework/boot/actuate/system/EmbeddedServerPortFileWriter/onApplicationEvent(org.springframework.boot.context.embedded.EmbeddedServletContainerInitializedEvent)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	4
+org/springframework/boot/actuate/metrics/opentsdb/OpenTsdbGaugeWriter/flush()@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	1

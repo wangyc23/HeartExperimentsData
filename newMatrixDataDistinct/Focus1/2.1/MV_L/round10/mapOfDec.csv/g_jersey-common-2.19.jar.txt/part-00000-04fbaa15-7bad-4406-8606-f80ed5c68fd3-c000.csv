@@ -1,0 +1,5 @@
+org/glassfish/jersey/message/internal/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-common-2.21.jar.txt	3
+org/glassfish/jersey/spi/AbstractThreadPoolProvider/3/run()@g_jersey-common-2.21.jar.txt	4
+org/glassfish/jersey/message/internal/EntityTagProvider/fromString(java.lang.String)@g_jersey-common-2.21.jar.txt	1
+org/glassfish/jersey/internal/ServiceFinder/LazyObjectIterator/next()@g_jersey-common-2.21.jar.txt	0
+org/glassfish/jersey/message/internal/TracingLogger/TracingLoggerImpl/logImpl(org.glassfish.jersey.message.internal.TracingLogger$Event,long,java.lang.Object[])@g_jersey-common-2.21.jar.txt	2

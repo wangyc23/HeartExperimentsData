@@ -1,0 +1,5 @@
+org/springframework/data/mongodb/core/MongoTemplate/geoNear(org.springframework.data.mongodb.core.query.NearQuery,java.lang.Class,java.lang.String)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	1
+org/springframework/data/mongodb/core/aggregation/FacetOperation/Facets/toDBObject(org.springframework.data.mongodb.core.aggregation.AggregationOperationContext)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	2
+org/springframework/data/mongodb/core/aggregation/GroupOperation/toDBObject(org.springframework.data.mongodb.core.aggregation.AggregationOperationContext)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	0
+org/springframework/data/mongodb/repository/cdi/MongoRepositoryExtension/processBean(javax.enterprise.inject.spi.ProcessBean)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	3
+org/springframework/data/mongodb/core/MongoTemplate/copyMapReduceOptionsToCommand(org.springframework.data.mongodb.core.query.Query,org.springframework.data.mongodb.core.mapreduce.MapReduceOptions,com.mongodb.MapReduceCommand)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	4

@@ -1,0 +1,5 @@
+org/restlet/data/Reference/getHostPort()@g_jniloader-1.1.jar.txt	2
+org/restlet/resource/Handler/updateAllowedMethods(java.util.Set)@g_jniloader-1.1.jar.txt	4
+org/restlet/engine/util/ListUtils/copySubList(java.util.List,int,int)@g_jniloader-1.1.jar.txt	3
+org/restlet/engine/http/adapter/ServerAdapter/commit(org.restlet.engine.http.HttpResponse)@g_jniloader-1.1.jar.txt	1
+org/restlet/engine/local/DirectoryServerResource/getVariantsReferences()@g_jniloader-1.1.jar.txt	0

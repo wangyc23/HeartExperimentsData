@@ -1,0 +1,5 @@
+com/vaadin/sass/internal/parser/FormalArgumentList/replaceNamedArguments(java.util.ArrayList,com.vaadin.sass.internal.parser.ActualArgumentList)@g_jwi-2.2.3.jar.txt	1
+edu/mit/jwi/morph/WordnetStemmer/findStems(java.lang.String,edu.mit.jwi.item.POS)@g_jwi-2.2.3.jar.txt	0
+com/vaadin/sass/internal/parser/TokenMgrError/addEscapes(java.lang.String)@g_jwi-2.2.3.jar.txt	3
+edu/mit/jwi/morph/SimpleStemmer/stripNounSuffix(java.lang.String)@g_jwi-2.2.3.jar.txt	4
+edu/mit/jwi/RAMDictionary/DictionaryData/makeIndexWord(edu.mit.jwi.item.IIndexWord)@g_jwi-2.2.3.jar.txt	2

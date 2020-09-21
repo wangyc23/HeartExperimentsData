@@ -1,0 +1,5 @@
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/run()@g_hystrix-metrics-event-stream-1.4.4.jar.txt	3
+org/netlib/generate/JavaGenerator/createJavaWrapper(java.lang.reflect.Method,java.util.List)@g_hystrix-metrics-event-stream-1.4.4.jar.txt	2
+org/netlib/generate/JavaGenerator/parseParameterNames(java.lang.reflect.Method,java.lang.String)@g_hystrix-metrics-event-stream-1.4.4.jar.txt	1
+org/netlib/generate/JavaGenerator/parseJavadocDescription(java.lang.reflect.Method,java.lang.String)@g_hystrix-metrics-event-stream-1.4.4.jar.txt	0
+org/netlib/generate/JavaGenerator/createWrapper(java.lang.reflect.Method)@g_hystrix-metrics-event-stream-1.4.4.jar.txt	4

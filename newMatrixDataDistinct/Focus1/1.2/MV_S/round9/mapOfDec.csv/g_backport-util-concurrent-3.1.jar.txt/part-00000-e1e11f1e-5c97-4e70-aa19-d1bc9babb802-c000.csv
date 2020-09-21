@@ -1,0 +1,5 @@
+javax/faces/component/UIComponentBase/processSaveState(javax.faces.context.FacesContext)@g_javax.faces-api-2.2.jar.txt	2
+javax/faces/component/UIComponentBase/saveAttachedState(javax.faces.context.FacesContext,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	0
+javax/faces/component/UIComponentBase/addClientBehavior(java.lang.String,javax.faces.component.behavior.ClientBehavior)@g_javax.faces-api-2.2.jar.txt	1
+org/apache/commons/collections/CollectionUtils/size(java.lang.Object)@g_commons-collections-3.2.jar.txt	3
+org/apache/commons/collections/functors/FunctorUtils/validate(java.util.Collection)@g_commons-collections-3.2.jar.txt	4

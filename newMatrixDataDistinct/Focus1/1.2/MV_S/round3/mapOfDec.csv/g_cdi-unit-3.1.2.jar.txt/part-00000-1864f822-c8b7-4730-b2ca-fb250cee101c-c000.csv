@@ -1,0 +1,5 @@
+org/apache/deltaspike/core/util/metadata/AnnotationInstanceProvider/equals(java.lang.Object)@g_deltaspike-core-api-1.0.1.jar.txt	0
+org/jglue/cdiunit/CdiRunner/2/evaluate()@g_deltaspike-core-impl-1.0.1.jar.txt	1
+org/apache/deltaspike/core/util/metadata/builder/AnnotatedTypeBuilder/removeFromAll(java.lang.Class)@g_deltaspike-core-impl-1.0.1.jar.txt	2
+org/apache/deltaspike/core/impl/config/DefaultConfigPropertyProducer/produceLongConfiguration(javax.enterprise.inject.spi.InjectionPoint)@g_deltaspike-core-impl-1.0.1.jar.txt	4
+org/apache/deltaspike/core/util/metadata/AnnotationInstanceProvider/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_deltaspike-core-impl-1.0.1.jar.txt	3

@@ -1,0 +1,4 @@
+java/lang/String/charAt(int)
+java/lang/StringBuffer/append(char)
+java/util/logging/Logger/log(java.util.logging.Level,java.lang.String,java.lang.Throwable)
+java/net/URLDecoder/decode(java.lang.String,java.lang.String)

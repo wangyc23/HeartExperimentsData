@@ -1,0 +1,5 @@
+com/sun/jna/Structure/deriveLayout(boolean,boolean)@g_jna-4.1.0.jar.txt	2
+com/sun/jna/Structure/writeField(com.sun.jna.Structure$StructField)@g_jna-4.1.0.jar.txt	0
+com/sun/jna/Pointer/getValue(long,java.lang.Class,java.lang.Object)@g_jna-4.1.0.jar.txt	3
+com/sun/jna/Structure/getFieldList()@g_jna-4.1.0.jar.txt	1
+com/kenai/jffi/MemoryIO/verifyAccessor(java.lang.Class,java.lang.Class)@g_jffi-1.0.8.jar.txt	4

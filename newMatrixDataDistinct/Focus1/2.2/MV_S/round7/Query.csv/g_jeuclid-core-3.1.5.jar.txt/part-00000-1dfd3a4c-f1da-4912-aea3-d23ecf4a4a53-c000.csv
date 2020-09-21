@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+javax/xml/transform/dom/DOMSource/DOMSource(org.w3c.dom.Node)
+org/apache/commons/logging/Log/info(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,4 @@
+java/sql/ResultSet/getObject(int)
+java/lang/Boolean/toString()
+java/sql/ResultSet/getBoolean(int)
+java/sql/ResultSet/getTime(int)

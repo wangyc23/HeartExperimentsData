@@ -1,0 +1,4 @@
+com/manning/hip/ch3/proto/StockProtos/StockAvg/hasAvg()
+com/manning/hip/ch3/proto/StockProtos/StockAvg/getAvg()
+com/manning/hip/ch3/proto/StockProtos/StockAvg/getDefaultInstance()
+com/manning/hip/ch3/proto/StockProtos/StockAvg/Builder/setSymbol(java.lang.String)

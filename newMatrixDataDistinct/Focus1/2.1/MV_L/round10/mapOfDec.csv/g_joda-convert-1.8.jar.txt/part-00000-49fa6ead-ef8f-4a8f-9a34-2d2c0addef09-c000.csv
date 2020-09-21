@@ -1,0 +1,5 @@
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclareAnnotations()@g_aspectjrt-1.6.11.jar.txt	4
+org/aspectj/internal/lang/reflect/AjTypeImpl/getITDMethods()@g_aspectjrt-1.6.11.jar.txt	3
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDConstructors()@g_aspectjrt-1.6.11.jar.txt	2
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_aspectjrt-1.6.11.jar.txt	0
+org/aspectj/internal/lang/reflect/AjTypeImpl/getPerClause()@g_aspectjrt-1.6.11.jar.txt	1

@@ -1,0 +1,5 @@
+org/thymeleaf/spring4/view/ThymeleafViewResolver/loadView(java.lang.String,java.util.Locale)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	3
+org/springframework/security/taglibs/authz/AccessControlListTag/getBeanOfType(java.lang.Class)@g_spring-security-taglibs-3.2.3.RELEASE.jar.txt	1
+org/thymeleaf/extras/springsecurity4/auth/SpringVersionSpecificUtils/<clinit>()@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	2
+org/thymeleaf/spring4/processor/attr/SpringErrorClassAttrProcessor/getTargetAttributeValue(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	4
+org/springframework/security/taglibs/authz/AbstractAuthorizeTag/getExpressionHandler()@g_spring-security-taglibs-3.2.3.RELEASE.jar.txt	0

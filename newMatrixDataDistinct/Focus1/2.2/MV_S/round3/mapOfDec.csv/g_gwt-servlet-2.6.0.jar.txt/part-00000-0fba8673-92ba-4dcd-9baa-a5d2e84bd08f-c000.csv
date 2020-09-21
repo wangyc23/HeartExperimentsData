@@ -1,0 +1,5 @@
+com/google/web/bindery/requestfactory/shared/impl/EntityCodex/encode(com.google.web.bindery.requestfactory.shared.impl.EntityCodex$EntitySource,java.lang.Object)@g_vaadin-shared-7.4.5.jar.txt	0
+com/google/web/bindery/event/shared/UmbrellaException/makeMessage(java.util.Set)@g_vaadin-shared-7.4.5.jar.txt	3
+com/google/common/cache/LocalCache/getAll(java.lang.Iterable)@g_guava-19.0-rc3.jar.txt	1
+com/google/gwt/regexp/shared/RegExp/parseFlags(java.lang.String)@g_vaadin-shared-7.4.5.jar.txt	2
+com/google/gwt/regexp/shared/RegExp/compile(java.lang.String,java.lang.String)@g_vaadin-shared-7.4.5.jar.txt	4

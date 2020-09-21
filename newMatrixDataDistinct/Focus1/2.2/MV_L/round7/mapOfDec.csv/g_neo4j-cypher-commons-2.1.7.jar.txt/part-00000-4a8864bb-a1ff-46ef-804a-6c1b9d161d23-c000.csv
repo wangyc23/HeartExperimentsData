@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/helpers/CollectionSupport/class/liftAsCollection(org.neo4j.cypher.internal.helpers.CollectionSupport,scala.PartialFunction,java.lang.Object)@g_neo4j-cypher-commons-2.0.1.jar.txt	4
+org/neo4j/cypher/internal/helpers/CastSupport/castOrFail(java.lang.Object,scala.reflect.Manifest)@g_neo4j-cypher-commons-2.0.1.jar.txt	2
+org/neo4j/cypher/CypherVersion/anonfun/apply/1/apply()@g_neo4j-cypher-commons-2.0.1.jar.txt	3
+org/neo4j/cypher/internal/helpers/CollectionSupport/anonfun/castToIterable/1/applyOrElse(java.lang.Object,scala.Function1)@g_neo4j-cypher-commons-2.1.5.jar.txt	1
+org/neo4j/cypher/internal/helpers/CollectionSupport/anonfun/castToIterable/1/applyOrElse(java.lang.Object,scala.Function1)@g_neo4j-cypher-commons-2.0.1.jar.txt	0

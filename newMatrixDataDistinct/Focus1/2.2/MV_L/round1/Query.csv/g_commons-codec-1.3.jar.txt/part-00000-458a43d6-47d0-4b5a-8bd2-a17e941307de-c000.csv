@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/lang/String/length()
+java/lang/String/String(byte[],java.lang.String)
+java/lang/String/indexOf(java.lang.String,int)

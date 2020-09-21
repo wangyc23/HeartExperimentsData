@@ -1,0 +1,5 @@
+demo/UserController/deleteUser(java.lang.String)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	0
+demo/UserController/getUser(java.lang.String)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	3
+demo/v1/InventoryControllerV1/getAvailableInventoryForProductIds(java.lang.String)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	2
+demo/api/v1/CatalogControllerV1/getCatalog()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	4
+demo/UserController/createUser(demo.User)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	1

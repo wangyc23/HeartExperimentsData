@@ -1,0 +1,5 @@
+demo/handlers/client/Client/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+demo/hw/server/JavascriptExampleImpl/getBeveragesWithIngredient(demo.hw.server.data.Ingredient)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+demo/hw/server/JavascriptExampleImpl/getBeverageWithIngredientCategory(demo.hw.server.data.Category)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+demo/hw/server/JavascriptExampleImpl/getBeverageWithIngredientCategories(java.util.List)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+demo/throttling/client/Client/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4

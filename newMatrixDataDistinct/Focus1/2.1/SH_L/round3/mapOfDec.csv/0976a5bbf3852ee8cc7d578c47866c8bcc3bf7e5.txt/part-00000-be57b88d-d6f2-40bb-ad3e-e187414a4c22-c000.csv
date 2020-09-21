@@ -1,0 +1,5 @@
+org/apache/lens/server/LensAllApplicationJerseyTest/configure()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	3
+oops/chapter3/section7/TestEquals/main(java.lang.String[])@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	4
+org/apache/lens/cube/metadata/ExprColumn/toString()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	1
+org/apache/lens/client/jdbc/LensJdbcResultSet/getObject(int)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	0
+org/apache/lens/cube/metadata/timeline/TestPartitionTimelines/testPropertiesContract(org.apache.lens.cube.metadata.UpdatePeriod,java.lang.Class)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	2

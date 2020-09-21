@@ -1,0 +1,4 @@
+org/apache/mahout/common/HadoopUtil/listStatus(org.apache.mahout.clustering.topdown.postprocessor.FileSystem,org.apache.mahout.clustering.spectral.Path)
+org/apache/mahout/math/hadoop/DistributedRowMatrix/setConf(org.apache.mahout.clustering.spectral.Configuration)
+org/apache/mahout/math/hadoop/DistributedRowMatrix/timesSquared(org.apache.mahout.math.Vector)
+org/apache/mahout/math/hadoop/TestDistributedRowMatrix/randomDistributedMatrix(int,int,int,int,double,boolean)

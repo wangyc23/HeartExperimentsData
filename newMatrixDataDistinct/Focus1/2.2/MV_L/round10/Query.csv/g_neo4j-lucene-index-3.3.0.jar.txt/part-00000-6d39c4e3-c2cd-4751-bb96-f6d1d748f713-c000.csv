@@ -1,0 +1,4 @@
+org/neo4j/kernel/api/impl/schema/NativeLuceneFusionSchemaIndexProviderFactory$Dependencies/getLogService()
+org/neo4j/kernel/impl/logging/LogService/getInternalLogProvider()
+org/neo4j/logging/LogProvider/getLog(java.lang.Class)
+org/neo4j/kernel/api/impl/schema/NativeLuceneFusionSchemaIndexProviderFactory$Dependencies/recoveryCleanupWorkCollector()

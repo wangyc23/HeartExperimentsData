@@ -1,0 +1,5 @@
+org/apache/activemq/transport/http/HttpClientTransport/doStart()@g_morfologik-stemming-2.1.2.jar.txt	0
+org/apache/catalina/mbeans/ContextResourceMBean/getAttribute(java.lang.String)@g_morfologik-stemming-2.1.2.jar.txt	4
+org/apache/log4j/net/SocketAppender/Connector/run()@g_morfologik-stemming-2.1.2.jar.txt	1
+org/apache/catalina/core/StandardServer/initInternal()@g_morfologik-stemming-2.1.2.jar.txt	2
+org/apache/activemq/broker/region/TopicSubscription/add(org.apache.activemq.broker.region.MessageReference)@g_morfologik-stemming-2.1.2.jar.txt	3

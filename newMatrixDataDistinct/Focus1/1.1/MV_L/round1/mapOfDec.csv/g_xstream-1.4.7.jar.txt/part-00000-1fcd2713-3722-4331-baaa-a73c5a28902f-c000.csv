@@ -1,0 +1,5 @@
+com/thoughtworks/xstream/mapper/AnnotationMapper/processConverterAnnotations(java.lang.Class)@g_xstream-1.4.8.jar.txt	2
+com/thoughtworks/xstream/converters/javabean/PropertyDictionary/serializablePropertiesFor(java.lang.Class)@g_xstream-1.4.8.jar.txt	1
+com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter/getCallbacks(java.lang.Object)@g_xstream-1.4.8.jar.txt	0
+com/thoughtworks/xstream/converters/basic/DateConverter/<clinit>()@g_xstream-1.4.8.jar.txt	4
+com/thoughtworks/xstream/mapper/AnnotationMapper/cacheConverter(com.thoughtworks.xstream.annotations.XStreamConverter,java.lang.Class)@g_xstream-1.4.8.jar.txt	3

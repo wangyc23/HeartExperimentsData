@@ -1,0 +1,5 @@
+org/neo4j/ogm/unit/session/capability/ExecuteQueryCapabilityTest/modifyingQueryShouldBePermittedWhenQueryingForObjects()@g_neo4j-ogm-1.1.2-tests.jar.txt	4
+org/neo4j/ogm/unit/metadata/MetaDataTest/testFindMultipleIterableMethodsWithSameParameterisedType()@g_neo4j-ogm-1.1.2-tests.jar.txt	2
+org/neo4j/ogm/unit/metadata/DomainInfoTest/testInterfaceClassIMembership()@g_neo4j-ogm-1.1.2-tests.jar.txt	0
+org/neo4j/ogm/unit/mapper/MappingContextTest/ensureThreadSafe()@g_neo4j-ogm-1.1.2-tests.jar.txt	3
+org/neo4j/ogm/unit/metadata/MetaDataTest/testFindIterableFields()@g_neo4j-ogm-1.1.2-tests.jar.txt	1

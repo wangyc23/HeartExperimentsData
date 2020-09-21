@@ -1,0 +1,5 @@
+org/jacoco/core/runtime/AgentOptions/toString()@g_org.jacoco.core-0.7.5.201505241946.jar.txt	4
+com/kenai/jaffl/provider/jffi/AbstractX86StubCompiler/attach(java.lang.Class)@g_jaffl-0.5.11.jar.txt	1
+org/jacoco/core/internal/instr/FieldProbeArrayStrategy/createInitMethod(org.objectweb.asm.ClassVisitor,int)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	0
+com/kenai/jaffl/provider/jffi/DefaultInvokerFactory/getMarshaller(java.lang.Class,java.lang.annotation.Annotation[])@g_org.jacoco.core-0.7.5.201505241946.jar.txt	3
+org/jacoco/core/internal/analysis/BundleCoverageImpl/groupByPackage(java.util.Collection,java.util.Collection)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	2

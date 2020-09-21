@@ -1,0 +1,5 @@
+org/tmf/dsmapi/commons/facade/AbstractFacade/create(T)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+com/nulli/openam/plugins/NeoUniversalCondition/init(java.util.Map)@30452c4fc5ebd526cd0f46017cb3e5d0ab44d5d5.txt	2
+com/nulli/openam/plugins/NeoUniversalCondition/sanitizeParams(java.lang.String,java.lang.String,javax.security.auth.Subject,java.lang.String,java.util.Map)@30452c4fc5ebd526cd0f46017cb3e5d0ab44d5d5.txt	0
+org/tmf/dsmapi/quote/QuoteResource/findByCriteria(java.util.Map)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+com/nulli/openam/plugins/NeoUniversalCondition/getRequestIp(java.util.Map)@30452c4fc5ebd526cd0f46017cb3e5d0ab44d5d5.txt	1

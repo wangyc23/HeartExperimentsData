@@ -1,0 +1,5 @@
+org/eclipse/jetty/annotations/PreDestroyAnnotationHandler/doHandle(java.lang.Class)@g_jetty-annotations-9.3.8.v20160314.jar.txt	3
+org/jboss/weld/bootstrap/Validator/validateInjectionPointForDefinitionErrors(javax.enterprise.inject.spi.InjectionPoint,javax.enterprise.inject.spi.Bean,org.jboss.weld.manager.BeanManagerImpl)@g_weld-core-impl-2.2.9.Final.jar.txt	0
+org/jboss/weld/interceptor/proxy/SimpleInvocationContext/setParameters(java.lang.Object[])@g_weld-core-impl-2.2.9.Final.jar.txt	1
+org/jboss/weld/bean/proxy/InterceptedSubclassFactory/addMethodsFromClass(org.jboss.classfilewriter.ClassFile,org.jboss.classfilewriter.ClassMethod)@g_weld-core-impl-2.2.9.Final.jar.txt	2
+org/eclipse/jetty/annotations/ResourceAnnotationHandler/handleMethod(java.lang.Class,java.lang.reflect.Method)@g_jetty-annotations-9.3.8.v20160314.jar.txt	4

@@ -1,0 +1,5 @@
+org/bson/json/JsonWriter/doWriteObjectId(org.bson.types.ObjectId)@g_bson-3.4.2.jar.txt	2
+org/bson/json/JsonWriter/doWriteDateTime(long)@g_bson-3.4.2.jar.txt	0
+com/mongodb/BaseCluster/getServer(com.mongodb.ServerSelector,long,java.util.concurrent.TimeUnit)@g_mongo-java-driver-2.12.3.jar.txt	1
+org/bson/json/JsonWriter/doWriteBinaryData(org.bson.BsonBinary)@g_bson-3.4.2.jar.txt	4
+org/bson/json/JsonWriter/doWriteTimestamp(org.bson.BsonTimestamp)@g_bson-3.4.2.jar.txt	3

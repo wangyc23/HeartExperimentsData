@@ -1,0 +1,4 @@
+com/google/inject/internal/cglib/core/$CodeEmitter/ifnonnull(com.google.inject.internal.asm.$Label)
+com/google/inject/internal/cglib/core/$CodeEmitter/load_this()
+com/google/inject/internal/cglib/core/$CodeEmitter/getfield(java.lang.String)
+com/google/inject/internal/cglib/proxy/$Enhancer/getCallbackField(int)

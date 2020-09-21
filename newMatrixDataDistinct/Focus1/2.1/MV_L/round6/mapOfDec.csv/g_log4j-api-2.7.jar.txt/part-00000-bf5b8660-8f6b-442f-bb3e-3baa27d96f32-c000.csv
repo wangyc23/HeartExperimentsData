@@ -1,0 +1,5 @@
+gnu/trove/map/hash/TDoubleCharHashMap/putAll(java.util.Map)@g_trove4j-3.0.3.jar.txt	2
+org/apache/logging/log4j/simple/SimpleLogger/logMessage(java.lang.String,org.apache.logging.log4j.Level,org.apache.logging.log4j.Marker,org.apache.logging.log4j.message.Message,java.lang.Throwable)@g_trove4j-3.0.3.jar.txt	3
+org/apache/logging/log4j/spi/ThreadContextMapFactory/createThreadContextMap()@g_trove4j-3.0.3.jar.txt	0
+gnu/trove/map/hash/TByteFloatHashMap/putAll(java.util.Map)@g_trove4j-3.0.3.jar.txt	4
+gnu/trove/map/hash/TByteIntHashMap/putAll(java.util.Map)@g_trove4j-3.0.3.jar.txt	1

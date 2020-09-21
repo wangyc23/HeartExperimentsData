@@ -1,0 +1,5 @@
+org/springframework/security/taglibs/authz/AbstractAuthorizeTag/authoritiesToRoles(java.util.Collection)@g_spring-security-taglibs-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/taglibs/authz/AccessControlListTag/doStartTag()@g_spring-security-taglibs-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/taglibs/authz/AbstractAuthorizeTag/getExpressionHandler()@g_spring-security-taglibs-4.0.1.RELEASE.jar.txt	1
+org/springframework/security/taglibs/authz/AccessControlListTag/getBeanOfType(java.lang.Class)@g_spring-security-taglibs-3.2.3.RELEASE.jar.txt	2
+org/springframework/security/taglibs/authz/AbstractAuthorizeTag/getExpressionHandler()@g_spring-security-taglibs-3.2.3.RELEASE.jar.txt	0

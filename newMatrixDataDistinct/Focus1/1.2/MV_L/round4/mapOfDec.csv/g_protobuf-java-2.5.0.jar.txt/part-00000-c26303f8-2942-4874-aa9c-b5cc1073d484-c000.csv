@@ -1,0 +1,5 @@
+com/google/protobuf/Descriptors/FieldDescriptor/crossLink()@g_protobuf-java-2.4.1.jar.txt	3
+com/google/protobuf/TextFormat/Printer/printUnknownFields(com.google.protobuf.UnknownFieldSet,com.google.protobuf.TextFormat$TextGenerator)@g_protobuf-java-2.4.1.jar.txt	2
+com/google/protobuf/TextFormat/Printer/printSingleField(com.google.protobuf.Descriptors$FieldDescriptor,java.lang.Object,com.google.protobuf.TextFormat$TextGenerator)@g_protobuf-java-2.4.1.jar.txt	1
+com/google/protobuf/TextFormat/Printer/printFieldValue(com.google.protobuf.Descriptors$FieldDescriptor,java.lang.Object,com.google.protobuf.TextFormat$TextGenerator)@g_protobuf-java-2.4.1.jar.txt	0
+com/google/protobuf/AbstractMessage/getSerializedSize()@g_protobuf-java-2.4.1.jar.txt	4

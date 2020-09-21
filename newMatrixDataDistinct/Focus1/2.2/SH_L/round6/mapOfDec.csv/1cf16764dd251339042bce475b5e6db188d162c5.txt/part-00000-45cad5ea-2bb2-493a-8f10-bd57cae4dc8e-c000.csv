@@ -1,0 +1,5 @@
+com/bi/corelog/format/BootFormatMR/BootFormatMapper/map(com.bi.corelog.job.play.LongWritable,com.bi.corelog.job.play.Text,com.bi.corelog.job.play.Context)@02333c980524dc474dc4659f1411b0f89efad4eb.txt	3
+com/bi/corelog/format/WebsitePvFormatMR/WebsitePvFormatMap/map(com.bi.corelog.job.play.LongWritable,com.bi.corelog.job.play.Text,com.bi.corelog.job.play.Context)@02333c980524dc474dc4659f1411b0f89efad4eb.txt	0
+com/bi/corelog/userlist/PlatUserListMR/PlatUserListReducer/reduce(com.bi.corelog.job.play.Text,java.lang.Iterable,com.bi.corelog.job.play.Context)@02333c980524dc474dc4659f1411b0f89efad4eb.txt	2
+com/bi/corelog/job/download/MobileAggPlayDownloadStat/PlayDownloadStatMapper/map(com.bi.corelog.job.play.LongWritable,com.bi.corelog.job.play.Text,com.bi.corelog.job.play.Context)@02333c980524dc474dc4659f1411b0f89efad4eb.txt	4
+com/bi/corelog/job/play/AggChannelTopNumPlayStat/AggChannelTopNumPlayStatMapper/setup(com.bi.corelog.job.play.Context)@02333c980524dc474dc4659f1411b0f89efad4eb.txt	1

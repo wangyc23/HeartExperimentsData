@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/path/PathHierarchyTokenizer/incrementToken()@g_lucene-analyzers-3.5.0.jar.txt	3
+org/apache/lucene/analysis/shingle/ShingleMatrixFilter/updateToken(org.apache.lucene.analysis.Token,java.util.List,int,java.util.List,java.util.List)@g_lucene-analyzers-3.5.0.jar.txt	2
+org/apache/lucene/analysis/miscellaneous/PatternAnalyzer/FastStringTokenizer/incrementToken()@g_lucene-analyzers-3.5.0.jar.txt	1
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseStep(java.io.LineNumberReader,java.lang.String)@g_lucene-analyzers-3.5.0.jar.txt	0
+org/apache/lucene/analysis/compound/hyphenation/PatternParser/getLocationString(org.xml.sax.SAXParseException)@g_lucene-analyzers-3.5.0.jar.txt	4

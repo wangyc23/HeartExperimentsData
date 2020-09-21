@@ -1,0 +1,6 @@
+0	org/junit/Assert/fail()
+1	org/junit/Assert/assertTrue(boolean)
+2	eu/scape_project/archiventory/identifiers/Identification/setTool(java.lang.String)
+3	org/junit/Assert/assertEquals(java.lang.Object,java.lang.Object)
+4	com/nzannino/web/data/BookService/create(int,int,java.lang.String)
+5	org/jooq/DSLContext/fetchCount(org.jooq.Select)

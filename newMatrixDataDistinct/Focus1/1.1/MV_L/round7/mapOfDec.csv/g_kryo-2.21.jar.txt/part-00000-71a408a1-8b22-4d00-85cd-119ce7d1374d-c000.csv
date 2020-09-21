@@ -1,0 +1,5 @@
+com/esotericsoftware/kryo/serializers/TaggedFieldSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)@g_asm-4.0.jar.txt	3
+org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-4.1.jar.txt	1
+org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-4.0.jar.txt	0
+com/esotericsoftware/kryo/serializers/FieldSerializer/rebuildCachedFields()@g_asm-4.0.jar.txt	2
+com/esotericsoftware/kryo/serializers/DefaultSerializers/CalendarSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)@g_asm-4.0.jar.txt	4

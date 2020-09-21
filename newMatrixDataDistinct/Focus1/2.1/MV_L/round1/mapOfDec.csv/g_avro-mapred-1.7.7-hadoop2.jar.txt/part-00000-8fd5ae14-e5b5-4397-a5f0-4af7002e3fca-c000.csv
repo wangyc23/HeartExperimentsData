@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/JobResourceUploader/uploadFiles(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	4
+org/apache/hadoop/mapred/lib/CombineFileRecordReader/initNextRecordReader()@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	1
+org/apache/hadoop/mapreduce/JobResourceUploader/validateFilePath(java.lang.String,org.apache.hadoop.conf.Configuration)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	2
+org/apache/hadoop/mapreduce/split/SplitMetaInfoReader/readSplitMetaInfo(org.apache.hadoop.mapreduce.JobID,org.apache.hadoop.fs.FileSystem,org.apache.hadoop.conf.Configuration,org.apache.hadoop.fs.Path)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	3
+org/apache/hadoop/mapred/Merger/MergeQueue/merge(java.lang.Class,java.lang.Class,int,int,org.apache.hadoop.fs.Path,org.apache.hadoop.mapred.Counters$Counter,org.apache.hadoop.mapred.Counters$Counter,org.apache.hadoop.util.Progress)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/StringBuilder()
+java/util/Collections/singletonList(java.lang.Object)
+org/apache/maven/artifact/factory/ArtifactFactory/createBuildArtifact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+java/lang/StringBuilder/toString()

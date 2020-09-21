@@ -1,0 +1,5 @@
+org/eclipse/core/runtime/internal/adaptor/LocationHelper/adjustTrailingSlash(java.net.URL,boolean)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/core/runtime/adaptor/EclipseStarter/searchForBundle(java.lang.String,java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/apache/maven/it/util/ResourceExtractor/getJarFileFromUrl(java.net.URL)@g_maven-verifier-1.2.jar.txt	1
+org/eclipse/osgi/framework/debug/FrameworkDebugOptions/adjustTrailingSlash(java.net.URL,boolean)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/core/runtime/internal/adaptor/BasicLocation/set(java.net.URL,boolean,java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0

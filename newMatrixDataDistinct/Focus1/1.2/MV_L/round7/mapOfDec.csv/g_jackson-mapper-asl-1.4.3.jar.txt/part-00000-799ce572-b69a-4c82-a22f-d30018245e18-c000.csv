@@ -1,0 +1,5 @@
+org/codehaus/jackson/node/ObjectNode/findParents(java.lang.String,java.util.List)@g_jackson-mapper-asl-1.8.3.jar.txt	4
+org/codehaus/jackson/map/ser/BeanSerializerFactory/findBeanProperties(org.codehaus.jackson.map.SerializationConfig,org.codehaus.jackson.map.introspect.BasicBeanDescription)@g_jackson-mapper-asl-1.8.9.jar.txt	1
+org/codehaus/jackson/map/ser/BeanSerializerFactory/findBeanProperties(org.codehaus.jackson.map.SerializationConfig,org.codehaus.jackson.map.introspect.BasicBeanDescription)@g_jackson-mapper-asl-1.8.3.jar.txt	0
+org/codehaus/jackson/map/introspect/AnnotatedClass/resolveFields(boolean)@g_jackson-mapper-asl-1.8.3.jar.txt	3
+org/codehaus/jackson/node/ObjectNode/toString()@g_jackson-mapper-asl-1.8.3.jar.txt	2

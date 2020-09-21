@@ -1,0 +1,3 @@
+0	java/lang/reflect/Field/get(java.lang.Object)
+1	java/lang/Class/getDeclaredField(java.lang.String)
+2	java/lang/reflect/AccessibleObject/setAccessible(boolean)

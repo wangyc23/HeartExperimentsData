@@ -1,0 +1,4 @@
+com/logicmonitor/msp/domain/StockPrice/setOpen(java.math.BigDecimal)
+com/logicmonitor/msp/domain/StockPrice/setTimestamp(java.sql.Timestamp)
+java/lang/Throwable/printStackTrace()
+yahoofinance/quotes/stock/StockQuote/getOpen()

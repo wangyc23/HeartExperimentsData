@@ -1,0 +1,4 @@
+java/util/Set/size()
+java/util/Iterator/next()
+org/jboss/weld/util/collections/AbstractMultimap/get(K)
+java/util/Set/iterator()

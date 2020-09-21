@@ -1,0 +1,5 @@
+org/apache/maven/project/MavenProject/getRuntimeArtifacts()@g_maven-project-2.0.6.jar.txt	2
+org/apache/maven/project/MavenProject/getTestClasspathElements()@g_maven-project-2.0.6.jar.txt	1
+org/apache/maven/project/MavenProject/getSystemClasspathElements()@g_maven-project-2.0.6.jar.txt	0
+org/apache/maven/project/MavenProject/getCompileClasspathElements()@g_maven-project-2.0.6.jar.txt	3
+org/apache/maven/project/MavenProject/getSystemArtifacts()@g_maven-project-2.0.6.jar.txt	4

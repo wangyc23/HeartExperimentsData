@@ -1,0 +1,5 @@
+org/apache/maven/tools/plugin/scanner/DefaultMojoScanner/populatePluginDescriptor(org.apache.maven.tools.plugin.PluginToolsRequest)@g_maven-plugin-tools-api-2.9.jar.txt	1
+org/apache/maven/tools/plugin/util/PluginUtils/makeHtmlValid(java.lang.String)@g_maven-plugin-tools-api-2.9.jar.txt	2
+org/apache/maven/tools/plugin/generator/PluginXdocGenerator/writeBody(org.apache.maven.plugin.descriptor.MojoDescriptor,org.codehaus.plexus.util.xml.XMLWriter)@g_maven-plugin-tools-api-2.9.jar.txt	4
+org/apache/maven/tools/plugin/generator/PluginHelpGenerator/writeExecute(java.io.Writer,org.apache.maven.plugin.descriptor.PluginDescriptor,org.apache.maven.plugin.descriptor.MojoDescriptor)@g_maven-plugin-tools-api-2.9.jar.txt	3
+org/apache/maven/tools/plugin/generator/PluginHelpGenerator/writeMojoJavadoc(java.io.Writer,org.apache.maven.plugin.descriptor.PluginDescriptor,org.apache.maven.plugin.descriptor.MojoDescriptor)@g_maven-plugin-tools-api-2.9.jar.txt	0

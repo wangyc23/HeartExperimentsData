@@ -1,0 +1,4 @@
+org/jboss/forge/test/SingletonAbstractShellTest/getProject()
+org/jboss/forge/shell/test/completer/PropertyCompleterTest/createFooClass(org.jboss.forge.project.Project,java.lang.String[])
+java/util/List/get(int)
+org/jboss/forge/test/SingletonAbstractShellTest/getShell()

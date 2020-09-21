@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_plexus-utils-1.4.6.jar.txt	1
+org/codehaus/plexus/util/InterpolationFilterReader/read()@g_plexus-utils-1.4.9.jar.txt	2
+org/codehaus/plexus/util/InterpolationFilterReader/read()@g_plexus-utils-1.4.6.jar.txt	4
+org/codehaus/plexus/util/cli/Commandline/getEnvironmentVariables()@g_plexus-utils-1.4.9.jar.txt	3
+org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_plexus-utils-1.4.9.jar.txt	0

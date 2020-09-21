@@ -1,0 +1,5 @@
+org/glassfish/jersey/servlet/internal/ResponseWriter/writeResponseStatusAndHeaders(long,org.glassfish.jersey.server.ContainerResponse)@g_jersey-container-servlet-core-2.25.1.jar.txt	0
+org/restlet/engine/http/adapter/ServerAdapter/commit(org.restlet.engine.http.HttpResponse)@g_org.restlet-2.0.14.jar.txt	2
+org/restlet/engine/http/header/ContentTypeReader/readValue()@g_org.restlet-2.0.14.jar.txt	3
+org/restlet/engine/local/DirectoryServerResource/getVariantsReferences()@g_org.restlet-2.0.14.jar.txt	1
+org/restlet/ext/servlet/ServletConverter/service(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_org.restlet-2.0.14.jar.txt	4

@@ -1,0 +1,4 @@
+jj2000/j2k/quantization/GuardBitsSpec/setDefault(java.lang.Object)
+java/lang/Integer/intValue()
+java/io/DataInputStream/readUnsignedShort()
+jj2000/j2k/codestream/HeaderInfo$QCD/getQuantType()

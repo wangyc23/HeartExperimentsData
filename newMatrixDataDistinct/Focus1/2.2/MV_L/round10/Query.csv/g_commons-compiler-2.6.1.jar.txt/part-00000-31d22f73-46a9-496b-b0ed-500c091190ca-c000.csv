@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])
+java/lang/String/contains(java.lang.CharSequence)
+java/lang/reflect/Method/invoke(java.lang.Object,java.lang.Object[])

@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/util/AbstractAnalysisFactory/getSnowballWordSet(org.apache.lucene.analysis.util.ResourceLoader,java.lang.String,boolean)@g_lucene-analyzers-common-6.0.0.jar.txt	4
+org/apache/lucene/analysis/miscellaneous/WordDelimiterFilterFactory/inform(org.apache.lucene.analysis.util.ResourceLoader)@g_lucene-analyzers-common-6.0.0.jar.txt	2
+org/apache/lucene/analysis/charfilter/MappingCharFilterFactory/inform(org.apache.lucene.analysis.util.ResourceLoader)@g_lucene-analyzers-common-6.0.0.jar.txt	0
+org/apache/lucene/analysis/miscellaneous/WordDelimiterFilterFactory/parseTypes(java.util.List)@g_lucene-analyzers-common-6.0.0.jar.txt	1
+org/apache/lucene/analysis/hunspell/Dictionary/readDictionaryFiles(org.apache.lucene.store.Directory,java.lang.String,java.util.List,java.nio.charset.CharsetDecoder,org.apache.lucene.util.fst.Builder)@g_lucene-analyzers-common-6.0.0.jar.txt	3

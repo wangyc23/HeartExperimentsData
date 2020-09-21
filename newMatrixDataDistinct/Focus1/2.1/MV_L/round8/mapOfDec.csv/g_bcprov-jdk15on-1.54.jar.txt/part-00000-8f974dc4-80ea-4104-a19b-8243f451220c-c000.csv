@@ -1,0 +1,5 @@
+org/bouncycastle/crypto/digests/SkeinEngine/initParams(java.util.Hashtable)@g_bcprov-jdk15on-1.53.jar.txt	0
+org/bouncycastle/asn1/x509/PKIXNameConstraintValidator/intersectPermittedSubtree(org.bouncycastle.asn1.x509.GeneralSubtree[])@g_bcprov-jdk15on-1.53.jar.txt	2
+org/bouncycastle/jcajce/provider/symmetric/util/BaseBlockCipher/engineInit(int,java.security.Key,java.security.spec.AlgorithmParameterSpec,java.security.SecureRandom)@g_bcprov-jdk15on-1.53.jar.txt	3
+org/bouncycastle/jce/provider/PKIXNameConstraintValidator/intersectPermittedSubtree(org.bouncycastle.asn1.x509.GeneralSubtree[])@g_bcprov-jdk15on-1.53.jar.txt	1
+org/bouncycastle/pqc/crypto/gmss/GMSSRootCalc/update(byte[])@g_bcprov-jdk15on-1.53.jar.txt	4

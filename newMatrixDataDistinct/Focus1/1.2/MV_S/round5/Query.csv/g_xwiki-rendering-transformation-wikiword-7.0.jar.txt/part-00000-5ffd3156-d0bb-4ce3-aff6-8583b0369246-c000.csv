@@ -1,0 +1,4 @@
+org/xwiki/rendering/block/Block/replaceChild(org.xwiki.rendering.block.Block,org.xwiki.rendering.block.Block)
+java/util/Iterator/hasNext()
+org/xwiki/rendering/listener/reference/DocumentResourceReference/DocumentResourceReference(java.lang.String)
+java/util/regex/Matcher/matches()

@@ -1,0 +1,5 @@
+org/neo4j/graphdb/IdReuseTest/shouldReuseRelationshipIdsFromRolledBackTransaction()@g_neo4j-kernel-2.2.5-tests.jar.txt	3
+org/neo4j/kernel/impl/core/BigStoreIT/createAndVerifyGraphStartingWithId(long,int)@g_neo4j-kernel-2.2.5-tests.jar.txt	4
+org/neo4j/kernel/impl/core/TestCrashWithRebuildSlow/produceNonCleanDefraggedStringStore(org.neo4j.graphdb.GraphDatabaseService)@g_neo4j-kernel-2.2.5-tests.jar.txt	2
+org/neo4j/kernel/impl/core/Neo4jConstraintsTest/testIllegalPropertyType()@g_neo4j-kernel-2.2.5-tests.jar.txt	1
+org/neo4j/kernel/impl/event/TestTransactionEvents/shouldAccessRelationshipDataInAfterCommit()@g_neo4j-kernel-2.2.5-tests.jar.txt	0

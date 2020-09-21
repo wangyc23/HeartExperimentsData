@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Properties/remove(java.lang.Object)
+java/util/Properties/containsKey(java.lang.Object)
+morfologik/stemming/EncoderType/name()

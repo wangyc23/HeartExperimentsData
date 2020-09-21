@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/frontend/v3_2/ast/ContainerIndex/specifyType(scala.Function1)
+org/neo4j/cypher/internal/frontend/v3_2/ast/ContainerIndex$$anonfun$semanticCheck$5/org$neo4j$cypher$internal$frontend$v3_2$ast$ContainerIndex$$anonfun$$$outer()
+org/neo4j/cypher/internal/frontend/v3_2/symbols/package$/CTList(org.neo4j.cypher.internal.frontend.v3_2.symbols.CypherType)
+org/neo4j/cypher/internal/frontend/v3_2/package$/chainableSemanticCheck(scala.Function1)

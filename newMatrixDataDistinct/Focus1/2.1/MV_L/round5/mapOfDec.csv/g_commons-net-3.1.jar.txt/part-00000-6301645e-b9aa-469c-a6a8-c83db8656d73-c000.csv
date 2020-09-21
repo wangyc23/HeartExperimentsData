@@ -1,0 +1,5 @@
+org/apache/commons/net/ftp/FTPSClient/sslNegotiation()@g_commons-net-3.2.jar.txt	1
+org/apache/commons/net/bsd/RCommandClient/_createErrorStream()@g_commons-net-3.2.jar.txt	3
+org/apache/commons/net/ftp/FTPClient/_parseExtendedPassiveModeReply(java.lang.String)@g_commons-net-3.2.jar.txt	0
+org/apache/commons/net/ftp/FTPClient/_parsePassiveModeReply(java.lang.String)@g_commons-net-3.2.jar.txt	4
+org/apache/commons/net/bsd/RExecClient/_createErrorStream()@g_commons-net-3.2.jar.txt	2

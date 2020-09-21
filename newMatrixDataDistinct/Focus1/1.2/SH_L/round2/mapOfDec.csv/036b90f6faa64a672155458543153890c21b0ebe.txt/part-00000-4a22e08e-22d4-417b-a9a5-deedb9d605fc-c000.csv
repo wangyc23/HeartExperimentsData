@@ -1,0 +1,5 @@
+org/springframework/boot/autoconfigure/jms/JmsAutoConfigurationTests/testActiveMQOverriddenPoolAndStandalone()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	3
+org/springframework/boot/cli/compiler/GroovyCompiler/getExistingUrls()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	2
+org/springframework/boot/autoconfigure/amqp/RabbitPropertiesTests/testemptyVirtualHost()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	4
+org/springframework/boot/configurationmetadata/JsonReader/parseItem(org.springframework.boot.cli.command.init.JSONObject)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	0
+org/springframework/boot/configurationmetadata/JsonReader/parseAllItems(org.springframework.boot.cli.command.init.JSONObject)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	1

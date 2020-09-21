@@ -1,0 +1,5 @@
+weka/gui/experiment/DatasetListPanel/getFilesRecursively(java.io.File,java.util.Vector)@g_weka-stable-3.8.1.jar.txt	3
+weka/classifiers/bayes/net/estimate/DiscreteEstimatorFullBayes/main(java.lang.String[])@g_weka-stable-3.8.1.jar.txt	4
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_weka-stable-3.8.1.jar.txt	0
+weka/knowledgeflow/steps/FlowByExpression/ExpressionClause/init(weka.core.Instances,weka.core.Environment)@g_weka-stable-3.8.1.jar.txt	1
+weka/core/neighboursearch/balltrees/MiddleOutConstructor/mergeNodes(java.util.Vector,int,int)@g_weka-stable-3.8.1.jar.txt	2

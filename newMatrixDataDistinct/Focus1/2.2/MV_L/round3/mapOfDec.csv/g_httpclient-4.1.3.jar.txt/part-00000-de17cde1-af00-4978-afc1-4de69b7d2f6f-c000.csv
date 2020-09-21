@@ -1,0 +1,5 @@
+org/apache/http/client/utils/URLEncodedUtils/format(java.util.List,java.lang.String)@g_httpclient-4.1.jar.txt	1
+org/apache/http/client/protocol/ResponseProcessCookies/processCookies(org.apache.http.HeaderIterator,org.apache.http.cookie.CookieSpec,org.apache.http.cookie.CookieOrigin,org.apache.http.client.CookieStore)@g_httpclient-4.1.jar.txt	0
+org/apache/http/impl/conn/tsccm/ConnPoolByRoute/closeExpiredConnections()@g_httpclient-4.1.jar.txt	4
+org/apache/http/conn/ssl/AbstractVerifier/verify(java.lang.String,java.lang.String[],java.lang.String[],boolean)@g_httpclient-4.1.jar.txt	3
+org/apache/http/conn/MultihomePlainSocketFactory/connectSocket(java.net.Socket,java.lang.String,int,java.net.InetAddress,int,org.apache.http.params.HttpParams)@g_httpclient-4.1.jar.txt	2

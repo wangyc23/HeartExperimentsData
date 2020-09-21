@@ -1,0 +1,4 @@
+org/glassfish/grizzly/http/util/CharChunk/getEnd()
+org/glassfish/grizzly/http/util/CharChunk/getBuffer()
+java/lang/String/length()
+org/glassfish/grizzly/http/util/CharChunk/getLength()

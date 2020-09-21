@@ -1,0 +1,5 @@
+org/apache/tools/ant/util/FileUtils/copyFile(java.io.File,java.io.File,org.apache.tools.ant.types.FilterSetCollection,java.util.Vector,boolean,boolean,java.lang.String,java.lang.String,org.apache.tools.ant.Project)@g_log4j-1.2.12.jar.txt	3
+org/apache/log4j/FileAppender/setFile(java.lang.String,boolean,boolean,int)@g_log4j-1.2.12.jar.txt	1
+org/apache/log4j/net/SocketAppender/Connector/run()@g_log4j-1.2.12.jar.txt	0
+org/apache/tools/ant/ComponentHelper/getDataTypeDefinitions()@g_log4j-1.2.12.jar.txt	2
+org/apache/tools/ant/taskdefs/email/PlainMailer/attach(java.io.File,java.io.PrintStream)@g_log4j-1.2.12.jar.txt	4

@@ -1,0 +1,5 @@
+com/tchepannou/kiosk/core/service/FileService/put(java.lang.String,java.io.InputStream)@05f114a0ec9764491544f93f27096c567f17892c.txt	1
+com/tchepannou/kiosk/core/text/ext/SnowballProgram/assign_to(java.lang.StringBuffer)@05f114a0ec9764491544f93f27096c567f17892c.txt	3
+com/tchepannou/kiosk/core/text/ext/SnowballProgram/setCurrent(java.lang.String)@05f114a0ec9764491544f93f27096c567f17892c.txt	2
+com/tchepannou/kiosk/core/text/fr/FrenchTokenizerTest/testNextToken_RoundBracket()@05f114a0ec9764491544f93f27096c567f17892c.txt	4
+com/tchepannou/kiosk/core/service/FileService/toFile(java.lang.String)@05f114a0ec9764491544f93f27096c567f17892c.txt	0

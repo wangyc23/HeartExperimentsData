@@ -1,0 +1,4 @@
+java/util/logging/LogRecord/setLoggerName(java.lang.String)
+java/util/logging/Logger/log(java.util.logging.LogRecord)
+java/text/MessageFormat/format(java.lang.String,java.lang.Object[])
+java/lang/String/indexOf(java.lang.String)

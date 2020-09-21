@@ -1,0 +1,4 @@
+0	com/springapp/mvc/bean/User/getEmail()
+1	com/springapp/mvc/bean/Blog/setGood_num(int)
+2	com/springapp/mvc/bean/Blog/setId(java.lang.String)
+3	com/springapp/mvc/bean/Blog/Blog()

@@ -1,0 +1,5 @@
+cern/colt/map/tfloat/AbstractIntFloatMap/toString()@g_jackson-annotations-2.7.0.jar.txt	4
+com/gs/collections/impl/map/mutable/primitive/FloatBooleanHashMap/getIfAbsentPutWithKey(float,com.gs.collections.api.block.function.primitive.FloatToBooleanFunction)@g_jackson-annotations-2.7.0.jar.txt	1
+cern/colt/matrix/tdouble/algo/DenseDoubleAlgebra/vectorNorm2(cern.colt.matrix.tdouble.DoubleMatrix2D)@g_jackson-annotations-2.7.0.jar.txt	0
+com/gs/collections/impl/map/mutable/primitive/DoubleObjectHashMap/updateValueWith(double,com.gs.collections.api.block.function.Function0,com.gs.collections.api.block.function.Function2,java.lang.Object)@g_jackson-annotations-2.7.0.jar.txt	3
+com/gs/collections/impl/map/mutable/primitive/FloatObjectHashMap/updateValueWith(float,com.gs.collections.api.block.function.Function0,com.gs.collections.api.block.function.Function2,java.lang.Object)@g_jackson-annotations-2.7.0.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/ps/PSImageUtils/translateAndScale(org.apache.xmlgraphics.ps.PSGenerator,java.awt.geom.Dimension2D,java.awt.geom.Rectangle2D)@g_batik-awt-util-1.7.jar.txt	3
+org/apache/batik/ext/awt/image/codec/png/PNGTranscoderInternalCodecWriteAdapter/writeImage(org.apache.batik.transcoder.image.PNGTranscoder,java.awt.image.BufferedImage,org.apache.batik.transcoder.TranscoderOutput)@g_batik-awt-util-1.7.jar.txt	2
+org/apache/batik/ext/awt/image/GraphicsUtil/divide_INT_PACK_Data(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	4
+org/apache/batik/ext/awt/image/codec/png/PNGImage/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_batik-awt-util-1.7.jar.txt	1
+org/apache/batik/ext/awt/image/codec/tiff/TIFFImageEncoder/encode(java.awt.image.RenderedImage,org.apache.batik.ext.awt.image.codec.tiff.TIFFEncodeParam,int,boolean)@g_batik-codec-1.8.jar.txt	0

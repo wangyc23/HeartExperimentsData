@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/EclipseToMavenMojo/resolveVersionRanges(org.apache.maven.model.Model,java.util.Map)@g_maven-eclipse-plugin-2.9.jar.txt	0
+org/apache/maven/plugin/ide/AbstractIdeSupportMojo/createManagedVersionMap(org.apache.maven.artifact.factory.ArtifactFactory,java.lang.String,org.apache.maven.model.DependencyManagement)@g_maven-eclipse-plugin-2.9.jar.txt	3
+org/apache/maven/plugin/ide/AbstractIdeSupportMojo/doDependencyResolution()@g_maven-eclipse-plugin-2.9.jar.txt	2
+org/apache/maven/plugin/ide/AbstractIdeSupportMojo/getReactorProject(org.apache.maven.artifact.Artifact)@g_maven-eclipse-plugin-2.9.jar.txt	4
+org/apache/maven/plugin/ide/IdeUtils/getPluginConfigurationDom(org.apache.maven.project.MavenProject,java.lang.String,java.lang.String[])@g_maven-eclipse-plugin-2.9.jar.txt	1

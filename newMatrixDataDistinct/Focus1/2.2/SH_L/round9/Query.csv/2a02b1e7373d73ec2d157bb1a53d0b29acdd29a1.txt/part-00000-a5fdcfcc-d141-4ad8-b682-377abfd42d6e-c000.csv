@@ -1,0 +1,4 @@
+java/lang/Class/getMethods()
+br/com/caelum/vraptor/proxy/JavassistProxifier/proxify(java.lang.Class,br.com.caelum.vraptor.proxy.MethodInvocation)
+br/com/caelum/vraptor/proxy/JavassistProxifierTest/shouldNotProxifyBridges()/$anonymous1/()
+java/lang/String/equals(java.lang.Object)

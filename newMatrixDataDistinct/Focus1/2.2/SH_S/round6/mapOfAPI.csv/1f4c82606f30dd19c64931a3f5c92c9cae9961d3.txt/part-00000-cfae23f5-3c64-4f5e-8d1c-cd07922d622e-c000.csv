@@ -1,0 +1,4 @@
+0	java/util/Enumeration/hasMoreElements()
+1	java/sql/DriverManager/getDrivers()
+2	java/sql/DriverManager/deregisterDriver(java.sql.Driver)
+3	java/util/Enumeration/nextElement()

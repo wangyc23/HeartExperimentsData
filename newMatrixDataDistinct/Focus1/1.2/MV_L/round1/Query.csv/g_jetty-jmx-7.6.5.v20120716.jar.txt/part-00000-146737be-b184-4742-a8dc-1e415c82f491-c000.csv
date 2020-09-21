@@ -1,0 +1,4 @@
+java/lang/Package/getName()
+java/lang/Integer/intValue()
+javax/management/MBeanServer/registerMBean(java.lang.Object,javax.management.ObjectName)
+java/lang/String/substring(int)

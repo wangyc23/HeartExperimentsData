@@ -1,0 +1,5 @@
+com/sun/tools/xjc/util/MimeTypeRange/merge(java.util.Collection)@g_jaxb-xjc-2.2.6.jar.txt	3
+com/sun/xml/xsom/parser/JAXPParser/XMLReaderEx/resolveEntity(java.lang.String,java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	4
+com/sun/xml/xsom/impl/util/SchemaWriter/attributeUse(com.sun.xml.xsom.XSAttributeUse)@g_jaxb-xjc-2.2.6.jar.txt	1
+com/sun/tools/jxc/model/nav/ApNavigator/getSuperClass(javax.lang.model.element.TypeElement)@g_jaxb-xjc-2.2.6.jar.txt	2
+com/sun/xml/xsom/impl/util/SchemaTreeTraverser/attributeUse(com.sun.xml.xsom.XSAttributeUse)@g_jaxb-xjc-2.2.6.jar.txt	0

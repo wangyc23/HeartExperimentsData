@@ -1,0 +1,5 @@
+org/apache/maven/shared/utils/introspection/MethodMap/getMostSpecific(java.util.List,java.lang.Class[])@g_maven-shared-utils-0.6.jar.txt	1
+org/apache/maven/shared/utils/cli/Commandline/getEnvironmentVariables()@g_maven-shared-utils-3.0.0.jar.txt	4
+org/apache/maven/shared/utils/xml/XmlWriterUtil/writeComment(org.apache.maven.shared.utils.xml.XMLWriter,java.lang.String,int,int,int)@g_maven-shared-utils-3.0.0.jar.txt	3
+org/apache/maven/shared/utils/introspection/MethodMap/getMostSpecific(java.util.List,java.lang.Class[])@g_maven-shared-utils-3.0.0.jar.txt	0
+org/apache/maven/shared/utils/io/DirectoryScanner/scandir(java.io.File,java.lang.String,boolean)@g_maven-shared-utils-3.0.0.jar.txt	2

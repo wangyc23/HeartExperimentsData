@@ -1,0 +1,4 @@
+java/net/URI/getRawFragment()
+java/lang/StringBuilder/append(java.lang.String)
+java/net/URI/toString()
+java/lang/String/toLowerCase(java.util.Locale)

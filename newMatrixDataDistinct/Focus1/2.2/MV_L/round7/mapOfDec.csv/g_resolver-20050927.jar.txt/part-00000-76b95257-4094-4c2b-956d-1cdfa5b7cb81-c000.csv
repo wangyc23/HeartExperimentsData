@@ -1,0 +1,5 @@
+com/sun/org/apache/xml/internal/resolver/Resolver/resolveAllSubordinateCatalogs(int,java.lang.String,java.lang.String,java.lang.String)@g_jaxb-xjc-2.2.2.jar.txt	0
+org/apache/xml/resolver/apps/resolver/main(java.lang.String[])@g_jaxb-xjc-2.2.2.jar.txt	3
+org/apache/xml/resolver/Resolver/resolveAllLocalSystem(java.lang.String)@g_jaxb-xjc-2.2.2.jar.txt	4
+org/apache/xml/resolver/apps/xparse/main(java.lang.String[])@g_jaxb-xjc-2.2.2.jar.txt	1
+org/apache/xml/resolver/Catalog/parsePendingCatalogs()@g_jaxb-xjc-2.2.2.jar.txt	2

@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+com/codahale/metrics/MetricRegistry/name(java.lang.String,java.lang.String[])
+java/util/Iterator/hasNext()
+java/util/regex/Matcher/replaceAll(java.lang.String)

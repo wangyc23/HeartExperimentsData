@@ -1,0 +1,5 @@
+org/apache/xml/serializer/NamespaceMappings/pushNamespace(java.lang.String,java.lang.String,int)@g_xercesImpl-2.11.0.jar.txt	2
+org/apache/xerces/impl/xs/XMLSchemaValidator/processElementContent(org.apache.xerces.xni.QName)@g_xercesImpl-2.11.0.jar.txt	4
+org/apache/xerces/impl/XMLDocumentFragmentScannerImpl/FragmentContentDispatcher/dispatch(boolean)@g_xerces-impl-2.9.0.jar.txt	1
+org/apache/xerces/impl/XMLDocumentFragmentScannerImpl/FragmentContentDispatcher/dispatch(boolean)@g_xercesImpl-2.11.0.jar.txt	0
+org/apache/xml/serializer/dom3/DOM3TreeWalker/serializeDocType(org.w3c.dom.DocumentType,boolean)@g_xercesImpl-2.11.0.jar.txt	3

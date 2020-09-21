@@ -1,0 +1,5 @@
+org/keycloak/models/mongo/keycloak/adapters/ClientAdapter/setDirectGrantsOnly(boolean)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	4
+org/keycloak/adapters/CookieTokenStore/removeCookie(org.keycloak.adapters.HttpFacade)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	3
+org/switchyard/transform/internal/json/JSONTransformerTest/test_JSONResultUser()@2b58332190757831b1d0874f2db5d8351f10bd14.txt	1
+org/keycloak/models/cache/RealmAdapter/isEnabled()@2b58332190757831b1d0874f2db5d8351f10bd14.txt	0
+org/keycloak/models/utils/CredentialValidation/hashIterations(org.keycloak.models.RealmModel)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	2

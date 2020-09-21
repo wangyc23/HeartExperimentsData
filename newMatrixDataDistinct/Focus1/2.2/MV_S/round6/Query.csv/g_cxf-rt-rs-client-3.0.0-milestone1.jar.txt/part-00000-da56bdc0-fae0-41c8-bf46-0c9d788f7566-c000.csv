@@ -1,0 +1,4 @@
+javax/ws/rs/core/GenericEntity/getEntity()
+javax/ws/rs/client/Entity/getAnnotations()
+javax/ws/rs/core/Response/getStatus()
+org/apache/cxf/jaxrs/client/WebClient/convertToWebApplicationException(javax.ws.rs.core.Response)

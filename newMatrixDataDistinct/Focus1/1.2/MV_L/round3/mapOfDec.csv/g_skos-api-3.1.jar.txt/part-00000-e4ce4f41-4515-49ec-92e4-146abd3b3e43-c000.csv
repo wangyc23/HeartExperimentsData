@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/applyChanges(java.util.List)@g_owlapi-impl-4.5.0.jar.txt	1
+org/semanticweb/owlapi/io/UnparsableOntologyException/getMessage()@g_owlapi-api-4.5.0.jar.txt	3
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/applyChangesAndGetDetails(java.util.List)@g_owlapi-impl-4.5.0.jar.txt	0
+org/semanticweb/owlapi/OWLAPIServiceLoaderModule/loadFactories(java.lang.Class,java.lang.Class,java.lang.Class)@g_owlapi-api-4.5.0.jar.txt	4
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/getEquivalentObjectProperties(java.util.Set)@g_owlapi-api-4.5.0.jar.txt	2

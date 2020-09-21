@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/client/api/impl/AMRMClientImpl/resolveRacks(java.util.List)@g_hadoop-yarn-client-2.6.0.jar.txt	0
+org/apache/hadoop/mapreduce/v2/app/rm/RMContainerAllocator/ScheduledRequests/assignMapsWithLocality(java.util.List)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	1
+org/apache/hadoop/yarn/client/cli/LogsCLI/run(java.lang.String[])@g_hadoop-yarn-client-2.6.0.jar.txt	3
+org/apache/hadoop/yarn/client/api/impl/AMRMClientImpl/addResourceRequest(org.apache.hadoop.yarn.api.records.Priority,java.lang.String,org.apache.hadoop.yarn.api.records.Resource,org.apache.hadoop.yarn.client.api.AMRMClient$ContainerRequest,boolean,java.lang.String)@g_hadoop-yarn-client-2.6.0.jar.txt	4
+org/apache/hadoop/mapreduce/v2/app/commit/CommitterEventHandler/EventProcessor/run()@g_hadoop-yarn-client-2.6.0.jar.txt	2

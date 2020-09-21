@@ -1,0 +1,5 @@
+org/xwiki/display/internal/AbstractDocumentTitleDisplayer/evaluateTitle(java.lang.String,org.xwiki.model.reference.DocumentReference,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-sheet-api-7.0.jar.txt	4
+org/xwiki/display/internal/DocumentTitleDisplayer/extractTitleFromContent(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-sheet-api-7.0.jar.txt	3
+org/xwiki/display/internal/XWiki10DocumentTitleDisplayer/extractTitleFromContent(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-sheet-api-7.0.jar.txt	2
+org/xwiki/rendering/internal/macro/context/ContextMacro/execute(org.xwiki.rendering.macro.context.ContextMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-sheet-api-7.0.jar.txt	1
+org/xwiki/rendering/internal/macro/context/ContextMacro/execute(org.xwiki.rendering.macro.context.ContextMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-rendering-macro-context-7.4.2.jar.txt	0

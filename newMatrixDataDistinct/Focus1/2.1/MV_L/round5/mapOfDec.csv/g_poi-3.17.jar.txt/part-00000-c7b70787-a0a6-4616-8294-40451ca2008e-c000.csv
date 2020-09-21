@@ -1,0 +1,5 @@
+org/apache/poi/ss/formula/functions/TextFunction/5/evaluate(java.lang.String)@g_poi-3.14.jar.txt	4
+org/apache/poi/hssf/record/RecordFactory/recordsToMap(java.lang.Class[])@g_poi-3.14.jar.txt	1
+org/apache/poi/ss/format/CellGeneralFormatter/formatValue(java.lang.StringBuffer,java.lang.Object)@g_poi-3.14.jar.txt	2
+org/apache/poi/hssf/record/cf/FontFormatting/toString()@g_poi-3.14.jar.txt	3
+org/apache/poi/ss/usermodel/DataFormatter/createDateFormat(java.lang.String,double)@g_poi-3.14.jar.txt	0

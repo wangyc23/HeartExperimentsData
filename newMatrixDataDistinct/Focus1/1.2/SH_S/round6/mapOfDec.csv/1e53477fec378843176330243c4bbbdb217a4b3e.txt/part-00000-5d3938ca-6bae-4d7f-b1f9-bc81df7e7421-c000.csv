@@ -1,0 +1,5 @@
+com/gs/indexer/Indexer/index(java.lang.String,java.lang.String)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	1
+com/gs/indexer/Indexer/index(java.lang.String,java.lang.String,int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	3
+com/gs/indexer/solr/SolrSearcher/search(java.lang.String,java.lang.String)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	2
+com/gs/dao/impl/mysql/PageDAOMysqlImpl/save(com.gs.model.PagePOJO)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+com/gs/indexer/Indexer/indexForCarrot2(java.lang.String,java.lang.String)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	4

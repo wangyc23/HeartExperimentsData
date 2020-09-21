@@ -1,0 +1,4 @@
+org/dcm4che3/data/Attributes/getInt(int,int)
+java/io/PrintStream/println(java.lang.String)
+org/dcm4che3/util/TagUtils/shortToHexString(int)
+java/text/MessageFormat/format(java.lang.String,java.lang.Object[])

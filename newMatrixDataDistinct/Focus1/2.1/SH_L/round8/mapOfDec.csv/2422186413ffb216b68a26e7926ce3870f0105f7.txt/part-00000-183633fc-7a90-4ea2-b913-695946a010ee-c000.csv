@@ -1,0 +1,5 @@
+org/apache/james/mpt/imapmailbox/elasticsearch/host/ElasticSearchHostSystem/createMailbox(org.apache.james.mailbox.model.MailboxPath)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	0
+org/apache/james/jmap/methods/integration/GetMailboxesMethodTest/getMailboxesShouldReturnIdWhenRequestContainsEmptyPropertyListFilter()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	3
+org/apache/james/imap/decode/main/DefaultImapDecoder/decodeCommandTagged(org.apache.james.imap.decode.ImapRequestLineReader,java.lang.String,org.apache.james.imap.api.process.ImapSession)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	1
+org/apache/james/mailbox/model/MailboxQueryTest/isExpressionMatchShouldIgnoreRegexInjectionWhenUsingBeginOfQuoteAndMatching()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	2
+org/apache/james/fetchmail/ProcessorAbstract/isMarkBlacklistedSeen()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	4

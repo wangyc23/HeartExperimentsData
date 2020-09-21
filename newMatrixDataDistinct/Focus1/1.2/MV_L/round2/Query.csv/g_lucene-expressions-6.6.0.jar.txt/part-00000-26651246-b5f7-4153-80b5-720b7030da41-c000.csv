@@ -1,0 +1,4 @@
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+java/lang/IllegalStateException/IllegalStateException(java.lang.String,java.lang.Throwable)
+java/util/Map/keySet()
+org/objectweb/asm/ClassWriter/toByteArray()

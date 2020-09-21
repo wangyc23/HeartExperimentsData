@@ -1,0 +1,5 @@
+es/uvigo/ei/sing/pandrugs/controller/entity/GeneDrugGroup/getIndirectGeneSymbol(es.uvigo.ei.sing.pandrugs.persistence.entity.GeneDrug,boolean)@1145ae442bd808cc7f1c030828034f44eae69a16.txt	3
+es/uvigo/ei/sing/pandrugs/persistence/entity/RegistrationDataset/plainPassword(es.uvigo.ei.sing.pandrugs.persistence.entity.User)@1145ae442bd808cc7f1c030828034f44eae69a16.txt	0
+es/uvigo/ei/sing/pandrugs/persistence/entity/UserDataset/anyUser()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	2
+es/uvigo/ei/sing/pandrugs/persistence/entity/Pathway/hasAnyGene(java.lang.String[])@1145ae442bd808cc7f1c030828034f44eae69a16.txt	1
+es/uvigo/ei/sing/pandrugs/persistence/entity/GeneDrugDataset/geneDrugsWithActiveDrugStatus()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	4

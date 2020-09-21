@@ -1,0 +1,5 @@
+com/google/common/collect/CustomConcurrentHashMap/Segment/reclaimValue(java.lang.Object,int,com.google.common.collect.CustomConcurrentHashMap$ValueReference)@g_guava-r08.jar.txt	3
+com/google/common/util/concurrent/AbstractListeningExecutorService/invokeAll(java.util.Collection,long,java.util.concurrent.TimeUnit)@g_sisu-guava-0.9.9.jar.txt	0
+com/google/common/util/concurrent/AbstractListeningExecutorService/doInvokeAny(java.util.Collection,boolean,long)@g_sisu-guava-0.9.9.jar.txt	2
+com/google/common/util/concurrent/AbstractListeningExecutorService/invokeAll(java.util.Collection)@g_sisu-guava-0.9.9.jar.txt	1
+com/google/common/cache/CustomConcurrentHashMap/Segment/put(java.lang.Object,int,java.lang.Object,boolean)@g_guava-r08.jar.txt	4

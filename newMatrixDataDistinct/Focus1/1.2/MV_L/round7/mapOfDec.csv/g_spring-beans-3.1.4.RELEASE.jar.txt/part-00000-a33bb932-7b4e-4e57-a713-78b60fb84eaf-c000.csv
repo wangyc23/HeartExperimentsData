@@ -1,0 +1,5 @@
+org/springframework/beans/BeanUtils/findEditorByConvention(java.lang.Class)@g_spring-beans-3.0.5.RELEASE.jar.txt	0
+org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor/postProcessBeforeDestruction(java.lang.Object,java.lang.String)@g_spring-beans-3.0.5.RELEASE.jar.txt	2
+org/springframework/beans/factory/config/CustomEditorConfigurer/postProcessBeanFactory(org.springframework.beans.factory.config.ConfigurableListableBeanFactory)@g_spring-beans-3.0.5.RELEASE.jar.txt	4
+org/springframework/beans/factory/support/DisposableBeanAdapter/invokeCustomDestroyMethod(java.lang.reflect.Method)@g_spring-beans-3.0.5.RELEASE.jar.txt	3
+org/springframework/beans/factory/support/DisposableBeanAdapter/destroy()@g_spring-beans-3.0.5.RELEASE.jar.txt	1

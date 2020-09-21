@@ -1,0 +1,5 @@
+io/netty/example/socksproxy/SocksServerHandler/messageReceived(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.socks.SocksRequest)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	3
+io/netty/testsuite/transport/socket/SocketStartTlsTest/StartTlsClientHandler/messageReceived(io.netty.channel.ChannelHandlerContext,java.lang.String)@0ffdf59c240a583481233e344c76fb939986aab1.txt	1
+io/netty/example/stomp/StompClientHandler/messageReceived(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.stomp.StompFrame)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	4
+io/netty/testsuite/transport/socket/SocketStartTlsTest/StartTlsServerHandler/messageReceived(io.netty.channel.ChannelHandlerContext,java.lang.String)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	2
+io/netty/testsuite/transport/socket/SocketStartTlsTest/StartTlsClientHandler/messageReceived(io.netty.channel.ChannelHandlerContext,java.lang.String)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	0

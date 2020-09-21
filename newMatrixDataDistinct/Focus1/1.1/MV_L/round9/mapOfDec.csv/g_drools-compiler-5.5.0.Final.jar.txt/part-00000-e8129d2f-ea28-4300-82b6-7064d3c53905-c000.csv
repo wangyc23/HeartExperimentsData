@@ -1,0 +1,5 @@
+org/drools/rule/builder/dialect/java/parser/JavaParser/statement()@g_drools-compiler-5.6.0.Final.jar.txt	3
+org/drools/rule/builder/dialect/java/parser/JavaParser/forControl()@g_drools-compiler-5.6.0.Final.jar.txt	1
+org/drools/rule/builder/dialect/java/parser/JavaParser/forVarControl()@g_drools-compiler-5.6.0.Final.jar.txt	4
+org/drools/rule/builder/dialect/java/parser/JavaParser/variableModifier()@g_drools-compiler-5.6.0.Final.jar.txt	0
+org/drools/rule/builder/dialect/java/parser/JavaParser/compilationUnit()@g_drools-compiler-5.6.0.Final.jar.txt	2

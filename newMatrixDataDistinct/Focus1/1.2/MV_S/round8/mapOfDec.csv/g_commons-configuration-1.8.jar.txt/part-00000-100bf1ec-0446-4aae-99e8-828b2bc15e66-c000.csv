@@ -1,0 +1,5 @@
+io/seldon/semvec/CompareItems/compareItem(java.lang.Long,pitt.search.semanticvectors.VectorStoreRAM,pitt.search.semanticvectors.FlagConfig,java.io.BufferedWriter)@g_semvec-lucene-tools-1.4.jar.txt	2
+org/quartz/impl/jdbcjobstore/JobStoreSupport/clusterRecover(java.sql.Connection,java.util.List)@g_quartz-2.2.0.jar.txt	4
+io/seldon/semvec/CreateLuceneIndexFromDb/saveDocument(long,org.apache.lucene.search.IndexSearcher,org.apache.lucene.index.IndexWriter,java.io.BufferedWriter)@g_semvec-lucene-tools-1.4.jar.txt	0
+org/quartz/impl/jdbcjobstore/JobStoreSupport/storeTrigger(java.sql.Connection,org.quartz.spi.OperableTrigger,org.quartz.JobDetail,boolean,java.lang.String,boolean,boolean)@g_quartz-2.2.0.jar.txt	3
+io/seldon/nlp/AddEntities/process(java.lang.String)@g_semvec-lucene-tools-1.4.jar.txt	1

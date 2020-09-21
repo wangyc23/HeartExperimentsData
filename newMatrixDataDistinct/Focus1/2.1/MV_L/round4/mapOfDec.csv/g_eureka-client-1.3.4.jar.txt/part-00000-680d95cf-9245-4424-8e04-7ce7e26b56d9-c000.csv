@@ -1,0 +1,5 @@
+com/netflix/discovery/shared/transport/decorator/MetricsCollectingEurekaHttpClient/execute(com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$RequestExecutor)@g_eureka-client-1.1.147.jar.txt	2
+com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider/get()@g_eureka-client-1.1.147.jar.txt	1
+com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient/headersOf(com.sun.jersey.api.client.ClientResponse)@g_eureka-client-1.1.147.jar.txt	4
+com/netflix/eureka/resources/ResponseCache/generatePayload(com.netflix.eureka.resources.ResponseCache$Key)@g_eureka-client-1.1.147.jar.txt	3
+com/netflix/discovery/TimedSupervisorTask/run()@g_eureka-client-1.1.147.jar.txt	0

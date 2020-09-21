@@ -1,0 +1,4 @@
+org/kumoricon/site/attendee/reg/AttendeeRegDetailNoteView/close()
+org/kumoricon/site/BaseView/notifyError(java.lang.String)
+java/util/Map/get(java.lang.Object)
+org/kumoricon/site/attendee/search/AttendeeHistoryPresenter/showNote(org.kumoricon.site.attendee.NoteView,java.lang.Integer)

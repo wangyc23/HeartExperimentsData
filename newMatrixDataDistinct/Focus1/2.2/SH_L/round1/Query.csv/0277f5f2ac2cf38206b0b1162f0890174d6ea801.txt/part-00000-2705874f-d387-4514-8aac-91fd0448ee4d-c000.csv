@@ -1,0 +1,4 @@
+juzu/template/TemplateRenderContext/TemplateRenderContext(juzu.impl.template.spi.TemplateStub,java.util.Map)
+juzu/io/AppendableStream/AppendableStream(java.lang.Appendable)
+java/io/StringWriter/toString()
+java/lang/Thread/getContextClassLoader()

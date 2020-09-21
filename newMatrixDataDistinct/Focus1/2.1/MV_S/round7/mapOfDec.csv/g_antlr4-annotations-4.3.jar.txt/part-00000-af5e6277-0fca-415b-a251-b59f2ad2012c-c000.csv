@@ -1,0 +1,5 @@
+org/codehaus/groovy/runtime/InvokerHelper/format(java.lang.Object,boolean,int,boolean)@g_groovy-2.6.0-alpha-1.jar.txt	4
+org/codehaus/groovy/runtime/typehandling/ShortTypeHandling/castToString(java.lang.Object)@g_groovy-2.6.0-alpha-1.jar.txt	1
+net/java/truecommons/annotations/processing/ServiceImplementationProcessor/processAnnotations(javax.lang.model.element.TypeElement,net.java.truecommons.annotations.processing.ServiceImplementationProcessor$Registry)@g_truecommons-annotations-2.5.0.jar.txt	0
+org/codehaus/groovy/runtime/DefaultGroovyMethods/downto(java.math.BigInteger,java.lang.Number,groovy.lang.Closure)@g_groovy-2.6.0-alpha-1.jar.txt	2
+org/codehaus/groovy/runtime/typehandling/DefaultTypeTransformation/continueCastOnNumber(java.lang.Object,java.lang.Class)@g_groovy-2.6.0-alpha-1.jar.txt	3

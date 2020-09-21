@@ -1,0 +1,4 @@
+java/lang/Long/valueOf(long)
+org/glassfish/grizzly/Buffer/remaining()
+org/glassfish/grizzly/Buffer/position(int)
+java/nio/CharBuffer/allocate(int)

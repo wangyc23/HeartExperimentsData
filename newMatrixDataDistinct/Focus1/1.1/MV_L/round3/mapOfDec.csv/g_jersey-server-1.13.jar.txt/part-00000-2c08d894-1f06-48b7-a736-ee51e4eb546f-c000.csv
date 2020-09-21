@@ -1,0 +1,5 @@
+com/sun/jersey/api/core/ResourceConfig/setPropertiesAndFeatures(java.util.Map)@g_jersey-server-1.19.jar.txt	3
+com/sun/jersey/api/container/filter/PostReplaceFilter/filter(com.sun.jersey.spi.container.ContainerRequest)@g_jersey-server-1.19.jar.txt	4
+com/sun/jersey/api/container/httpserver/HttpServerFactory/create(java.net.URI,com.sun.net.httpserver.HttpHandler)@g_jersey-server-1.18.1.jar.txt	2
+com/sun/jersey/api/core/ResourceConfig/setPropertiesAndFeatures(java.util.Map)@g_jersey-server-1.18.1.jar.txt	0
+com/sun/jersey/api/container/filter/PostReplaceFilter/filter(com.sun.jersey.spi.container.ContainerRequest)@g_jersey-server-1.18.1.jar.txt	1

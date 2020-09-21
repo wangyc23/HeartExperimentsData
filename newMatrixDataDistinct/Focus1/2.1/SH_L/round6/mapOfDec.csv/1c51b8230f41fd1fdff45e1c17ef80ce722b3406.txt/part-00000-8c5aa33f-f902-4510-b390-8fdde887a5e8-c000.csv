@@ -1,0 +1,5 @@
+org/apache/beam/sdk/util/ApiSurface/addExposedTypes(java.lang.reflect.WildcardType,java.lang.Class)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	3
+org/apache/beam/sdk/transforms/reflect/DoFnSignaturesTest/testMultipleProcessElement()@2b580b570b3da993f753285904fc9b11ffe305f2.txt	2
+org/apache/beam/sdk/util/ZipFiles/checkName(java.lang.String)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	1
+org/apache/beam/runners/dataflow/DataflowRunnerTest/testProjectNumber()@2b580b570b3da993f753285904fc9b11ffe305f2.txt	0
+org/apache/beam/sdk/util/SerializerTest/testSubclassDeserialization()@2b580b570b3da993f753285904fc9b11ffe305f2.txt	4

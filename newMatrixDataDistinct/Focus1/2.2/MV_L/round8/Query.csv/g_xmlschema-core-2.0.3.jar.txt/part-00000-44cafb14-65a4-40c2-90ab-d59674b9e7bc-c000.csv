@@ -1,0 +1,4 @@
+org/w3c/dom/Element/setAttributeNodeNS(org.w3c.dom.Attr)
+org/w3c/dom/Node/getOwnerDocument()
+java/util/Iterator/hasNext()
+java/util/Map/get(java.lang.Object)

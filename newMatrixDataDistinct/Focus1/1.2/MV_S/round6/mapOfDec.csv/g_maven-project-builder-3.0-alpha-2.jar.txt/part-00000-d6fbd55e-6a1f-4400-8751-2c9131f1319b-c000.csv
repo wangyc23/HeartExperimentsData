@@ -1,0 +1,5 @@
+org/apache/maven/project/artifact/MavenMetadataSource/createArtifacts(org.apache.maven.artifact.factory.ArtifactFactory,java.util.List,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.project.MavenProject)@g_maven-project-3.0-alpha-2.jar.txt	1
+org/apache/maven/project/builder/Interpolator/interpolateModelProperties(java.util.List,java.util.List,org.apache.maven.project.builder.PomClassicDomainModel)@g_maven-project-3.0-alpha-2.jar.txt	0
+org/apache/maven/project/MavenProject/getSystemClasspathElements()@g_maven-project-3.0-alpha-2.jar.txt	3
+org/apache/maven/project/MavenProject/getRuntimeDependencies()@g_maven-project-3.0-alpha-2.jar.txt	2
+org/apache/maven/project/artifact/MavenMetadataSource/retrieveRelocatedProject(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-project-3.0-alpha-2.jar.txt	4

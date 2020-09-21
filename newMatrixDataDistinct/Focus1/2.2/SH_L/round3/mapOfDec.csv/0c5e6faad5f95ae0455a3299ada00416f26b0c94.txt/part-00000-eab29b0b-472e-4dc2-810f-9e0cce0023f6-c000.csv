@@ -1,0 +1,5 @@
+org/apache/mahout/math/VectorView/AllIterator/computeNext()@1792abb513f38a3f0f75cb1b898360c0aa01ed7c.txt	4
+org/apache/mahout/math/VectorTest/doTestGetLengthSquared(org.apache.mahout.math.Vector)@1792abb513f38a3f0f75cb1b898360c0aa01ed7c.txt	2
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/train(int,org.apache.mahout.math.Vector)@1792abb513f38a3f0f75cb1b898360c0aa01ed7c.txt	0
+org/apache/mahout/math/VectorView/NonZeroIterator/computeNext()@1792abb513f38a3f0f75cb1b898360c0aa01ed7c.txt	3
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/train(int,org.apache.mahout.math.Vector)@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	1

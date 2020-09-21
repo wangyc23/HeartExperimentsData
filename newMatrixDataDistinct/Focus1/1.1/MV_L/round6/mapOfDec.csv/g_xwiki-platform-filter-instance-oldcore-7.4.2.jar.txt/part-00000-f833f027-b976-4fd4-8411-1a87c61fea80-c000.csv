@@ -1,0 +1,5 @@
+org/xwiki/filter/instance/internal/input/DocumentInstanceInputEventGenerator/beginWikiDocument(java.lang.String,org.xwiki.filter.FilterEventParameters)@g_xwiki-platform-uiextension-api-7.0.jar.txt	1
+org/xwiki/filter/instance/internal/input/XWikiDocumentLocaleEventGenerator/write(com.xpn.xwiki.doc.XWikiDocument,java.lang.Object,org.xwiki.filter.instance.internal.XWikiDocumentFilter,org.xwiki.filter.instance.input.DocumentInstanceInputProperties)@g_xwiki-platform-uiextension-api-7.0.jar.txt	4
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLink(org.xwiki.rendering.block.Block,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-uiextension-api-7.0.jar.txt	0
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/updateRelativeLinks(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-uiextension-api-7.0.jar.txt	2
+org/xwiki/refactoring/internal/DefaultModelBridge/getDocumentReferences(org.xwiki.model.reference.SpaceReference)@g_xwiki-platform-uiextension-api-7.0.jar.txt	3

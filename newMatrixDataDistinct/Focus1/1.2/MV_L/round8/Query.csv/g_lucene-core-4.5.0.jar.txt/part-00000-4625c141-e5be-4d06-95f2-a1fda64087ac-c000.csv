@@ -1,0 +1,4 @@
+org/apache/lucene/index/DocsAndPositionsEnum/docID()
+org/apache/lucene/search/UnionDocsAndPositionsEnum$DocsQueue/size()
+org/apache/lucene/search/UnionDocsAndPositionsEnum$IntQueue/sort()
+org/apache/lucene/search/UnionDocsAndPositionsEnum$IntQueue/add(int)

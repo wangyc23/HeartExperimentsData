@@ -1,0 +1,4 @@
+com/esotericsoftware/minlog/Log$Logger/print(java.lang.String)
+java/io/PrintWriter/PrintWriter(java.io.Writer)
+java/io/StringWriter/StringWriter(int)
+java/util/Date/Date()

@@ -1,0 +1,5 @@
+org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler/assembleBuildInheritance(org.apache.maven.model.Model,org.apache.maven.model.Model)@g_maven-project-2.0.7.jar.txt	4
+org/apache/maven/project/path/DefaultPathTranslator/alignToBaseDirectory(org.apache.maven.model.Model,java.io.File)@g_maven-compat-3.0-alpha-2.jar.txt	1
+org/apache/maven/project/path/DefaultPathTranslator/alignToBaseDirectory(org.apache.maven.model.Model,java.io.File)@g_maven-project-2.0.7.jar.txt	3
+org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler/assembleBuildInheritance(org.apache.maven.model.Build,org.apache.maven.model.Build,boolean)@g_maven-compat-3.0-alpha-2.jar.txt	2
+org/apache/maven/project/path/DefaultPathTranslator/unalignFromBaseDirectory(org.apache.maven.model.Model,java.io.File)@g_maven-compat-3.0-alpha-2.jar.txt	0

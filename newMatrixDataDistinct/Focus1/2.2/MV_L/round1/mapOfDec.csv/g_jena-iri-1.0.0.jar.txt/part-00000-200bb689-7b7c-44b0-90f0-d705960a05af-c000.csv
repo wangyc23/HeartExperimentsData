@@ -1,0 +1,5 @@
+org/apache/jena/iri/impl/IRIFactoryImpl/useSchemeSpecificRules(java.lang.String,boolean)@g_jena-iri-0.9.1.jar.txt	2
+org/apache/jena/iri/impl/IRIFactoryImpl/useSchemeSpecificRules(java.lang.String,boolean)@g_jena-iri-3.4.0.jar.txt	3
+org/apache/jena/iri/impl/AbsIRIImpl/removeDotSegments(java.lang.String)@g_jena-iri-0.9.1.jar.txt	4
+org/apache/jena/iri/impl/IRIFactoryImpl/getScheme(java.lang.String,org.apache.jena.iri.impl.Parser)@g_jena-iri-3.4.0.jar.txt	1
+org/apache/jena/iri/impl/IRIFactoryImpl/getScheme(java.lang.String,org.apache.jena.iri.impl.Parser)@g_jena-iri-0.9.1.jar.txt	0

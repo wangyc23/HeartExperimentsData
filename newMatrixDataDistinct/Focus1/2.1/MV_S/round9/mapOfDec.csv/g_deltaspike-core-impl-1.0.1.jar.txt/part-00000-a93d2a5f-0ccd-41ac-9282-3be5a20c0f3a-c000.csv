@@ -1,0 +1,5 @@
+org/apache/deltaspike/core/api/config/view/metadata/CallbackDescriptor/getCallbackMethods()@g_deltaspike-core-api-1.0.1.jar.txt	0
+org/apache/deltaspike/core/util/metadata/builder/AnnotatedTypeBuilder/readFromType(javax.enterprise.inject.spi.AnnotatedType,boolean)@g_deltaspike-core-api-1.0.1.jar.txt	4
+org/apache/deltaspike/core/util/ClassDeactivationUtils/initDeactivatableCacheFor(java.lang.Class)@g_deltaspike-core-api-1.0.1.jar.txt	3
+org/apache/deltaspike/core/api/resourceloader/ClasspathResourceProvider/readClassPath(java.lang.String,boolean)@g_deltaspike-core-api-1.0.1.jar.txt	2
+org/apache/deltaspike/core/api/provider/BeanProvider/getBeanDefinitions(java.lang.Class,boolean,boolean,javax.enterprise.inject.spi.BeanManager)@g_deltaspike-core-api-1.0.1.jar.txt	1

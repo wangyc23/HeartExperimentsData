@@ -1,0 +1,5 @@
+org/jooq/util/maven/Plugin/getClassLoader()@g_jooq-codegen-maven-3.7.1.jar.txt	1
+com/github/alexcojocaru/mojo/elasticsearch/v2/AbstractElasticsearchMojo/buildClusterConfiguration()@g_jooq-codegen-maven-3.7.1.jar.txt	0
+com/github/alexcojocaru/mojo/elasticsearch/v2/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_jooq-codegen-maven-3.7.1.jar.txt	2
+org/jooq/util/maven/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_jooq-codegen-maven-3.7.1.jar.txt	4
+org/jooq/util/maven/HelpMojo/execute()@g_jooq-codegen-maven-3.7.1.jar.txt	3

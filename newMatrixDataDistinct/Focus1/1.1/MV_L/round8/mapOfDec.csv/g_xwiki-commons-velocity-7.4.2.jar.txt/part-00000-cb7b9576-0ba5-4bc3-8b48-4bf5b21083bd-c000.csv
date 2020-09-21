@@ -1,0 +1,5 @@
+org/xwiki/velocity/tools/EscapeTool/url(java.util.Map)@g_xwiki-commons-velocity-7.0.jar.txt	2
+org/xwiki/velocity/introspection/MethodArgumentsUberspector/setRuntimeServices(org.apache.velocity.runtime.RuntimeServices)@g_xwiki-commons-velocity-7.0.jar.txt	1
+org/xwiki/velocity/tools/RegexTool/findAll(java.lang.String,java.lang.String)@g_xwiki-commons-velocity-7.0.jar.txt	4
+org/xwiki/velocity/internal/jmx/JMXVelocityEngine/getTemplates()@g_xwiki-commons-velocity-7.0.jar.txt	3
+org/xwiki/velocity/internal/util/RestrictParseLocationEventHandler/includeEvent(java.lang.String,java.lang.String,java.lang.String)@g_xwiki-commons-velocity-7.0.jar.txt	0

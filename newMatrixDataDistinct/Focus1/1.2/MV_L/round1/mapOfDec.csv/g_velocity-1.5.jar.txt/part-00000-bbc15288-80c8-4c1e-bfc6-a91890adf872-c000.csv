@@ -1,0 +1,5 @@
+org/apache/velocity/util/StringUtils/normalizePath(java.lang.String)@g_velocity-1.7.jar.txt	0
+org/apache/velocity/texen/ant/TexenTask/execute()@g_velocity-1.7.jar.txt	2
+org/apache/velocity/runtime/parser/node/ASTReference/getRoot()@g_velocity-1.7.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/velocity/util/StringUtils/normalizePath(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	1
+org/apache/velocity/runtime/parser/node/ASTStringLiteral/init(org.apache.velocity.context.InternalContextAdapter,java.lang.Object)@g_velocity-1.7.jar.txt	3

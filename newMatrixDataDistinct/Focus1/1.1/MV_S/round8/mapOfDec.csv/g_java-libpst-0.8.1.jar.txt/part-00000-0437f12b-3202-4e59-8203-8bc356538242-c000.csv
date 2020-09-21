@@ -1,0 +1,5 @@
+com/lowagie/text/xml/SAXiTextHandler/handleStartingTags(java.lang.String,java.util.Properties)@g_itext-2.1.2.jar.txt	3
+com/lowagie/text/FontFactoryImp/getFont(java.util.Properties)@g_itext-2.1.2.jar.txt	2
+com/lowagie/text/xml/SAXiTextHandler/handleEndingTags(java.lang.String)@g_itext-2.1.2.jar.txt	0
+com/lowagie/text/pdf/hyphenation/SimplePatternParser/startElement(java.lang.String,java.util.HashMap)@g_itext-2.1.2.jar.txt	4
+com/lowagie/text/pdf/SimpleBookmark/iterateOutlines(com.lowagie.text.pdf.PdfWriter,com.lowagie.text.pdf.PdfIndirectReference,java.util.List,boolean)@g_itext-2.1.2.jar.txt	1

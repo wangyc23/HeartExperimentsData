@@ -1,0 +1,4 @@
+javax/annotation/processing/Messager/printMessage(javax.tools.Diagnostic$Kind,java.lang.CharSequence,javax.lang.model.element.Element,javax.lang.model.element.AnnotationMirror)
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/util/List/size()
+java/util/List/get(int)

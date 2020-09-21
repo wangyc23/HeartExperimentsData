@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseObjectOneOf()@g_owlapi-parsers-4.5.0.jar.txt	2
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseObjectPropertyCharacteristic(org.semanticweb.owlapi.model.OWLObjectPropertyExpression)@g_owlapi-parsers-4.5.0.jar.txt	1
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseOntologyHeader(boolean)@g_owlapi-parsers-4.5.0.jar.txt	0
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseOntologyList()@g_owlapi-parsers-4.5.0.jar.txt	4
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseAxiomWithObjectPropertyStart()@g_owlapi-parsers-4.5.0.jar.txt	3

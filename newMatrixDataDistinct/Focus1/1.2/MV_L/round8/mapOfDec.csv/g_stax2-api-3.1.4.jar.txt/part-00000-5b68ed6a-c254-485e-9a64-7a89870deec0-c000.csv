@@ -1,0 +1,5 @@
+com/ctc/wstx/evt/MergedNsContext/doGetPrefixes(java.lang.String)@g_wstx-asl-3.2.6.jar.txt	4
+org/codehaus/stax2/ri/evt/MergedNsContext/getPrefix(java.lang.String)@g_stax2-api-3.1.1.jar.txt	0
+com/ctc/wstx/evt/SimpleStartElement/outputNsAndAttr(java.io.Writer)@g_wstx-asl-3.2.6.jar.txt	2
+org/codehaus/stax2/ri/evt/MergedNsContext/getPrefixes(java.lang.String)@g_stax2-api-3.1.1.jar.txt	1
+com/ctc/wstx/dtd/DTDElement/mergeMissingAttributesFrom(com.ctc.wstx.sr.InputProblemReporter,com.ctc.wstx.dtd.DTDElement,boolean)@g_wstx-asl-3.2.6.jar.txt	3

@@ -1,0 +1,5 @@
+net/sf/ehcache/config/ConfigurationFactory/translateSystemProperties(java.io.InputStream)@g_ehcache-core-1.7.2.jar.txt	4
+net/sf/ehcache/management/ManagementService/dispose()@g_ehcache-core-1.7.2.jar.txt	2
+net/sf/ehcache/CacheManager/clearAllStartingWith(java.lang.String)@g_ehcache-core-1.7.2.jar.txt	3
+net/sf/ehcache/CacheManager/configure(net.sf.ehcache.config.ConfigurationHelper)@g_ehcache-core-1.7.2.jar.txt	1
+net/sf/ehcache/transaction/local/LocalTransactionContext/unfreezeAndUnlock()@g_ehcache-core-2.6.2.jar.txt	0

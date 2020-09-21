@@ -1,0 +1,4 @@
+com/google/inject/Injector/getInstance(java.lang.Class)
+org/sonatype/guice/bean/containers/SisuGuice$2$1/1(org.sonatype.guice.bean.containers.SisuGuice$2,java.lang.Object[])
+org/sonatype/guice/bean/locators/BeanLocator/locate(com.google.inject.Key)
+java/util/Iterator/hasNext()

@@ -1,0 +1,5 @@
+info/aduna/xml/XMLReaderFactory/createXMLReader()@g_sesame-util-2.7.16.jar.txt	0
+info/aduna/net/ParsedURI/normalize()@g_sesame-util-2.7.16.jar.txt	3
+info/aduna/xml/DocumentUtil/getDocument(java.net.URL,boolean,boolean,javax.xml.validation.Schema)@g_sesame-util-2.7.16.jar.txt	1
+info/aduna/io/FileUtil/getRelativePath(java.io.File,java.io.File)@g_sesame-util-2.7.16.jar.txt	2
+info/aduna/io/FileUtil/createTempDir(java.lang.String)@g_sesame-util-2.7.16.jar.txt	4

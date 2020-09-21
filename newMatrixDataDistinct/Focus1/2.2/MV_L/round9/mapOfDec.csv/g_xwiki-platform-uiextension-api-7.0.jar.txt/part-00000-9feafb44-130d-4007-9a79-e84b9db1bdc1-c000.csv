@@ -1,0 +1,5 @@
+org/xwiki/uiextension/internal/WikiUIExtensionComponentBuilderEventListener/installOrUpgradeUIExtensionClasses()@g_xwiki-platform-uiextension-api-7.4.2.jar.txt	0
+org/xwiki/uiextension/internal/WikiUIExtensionComponentBuilderEventListener/installOrUpgradeUIExtensionClasses()@g_xwiki-platform-uiextension-api-7.4.jar.txt	1
+org/xwiki/uiextension/internal/WikiUIExtensionComponentBuilder/getDocumentReferences()@g_xwiki-platform-uiextension-api-7.4.2.jar.txt	3
+org/xwiki/uiextension/internal/WikiUIExtensionComponentBuilder/buildComponents(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-uiextension-api-7.4.jar.txt	4
+org/xwiki/uiextension/internal/WikiUIExtensionComponentBuilder/buildComponents(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-uiextension-api-7.4.2.jar.txt	2

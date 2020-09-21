@@ -1,0 +1,5 @@
+org/apache/log4j/HTMLLayout/format(org.apache.log4j.spi.LoggingEvent)@g_log4j-1.2.14.jar.txt	4
+org/apache/log4j/net/SocketAppender/Connector/run()@g_log4j-1.2.14.jar.txt	3
+org/apache/log4j/lf5/viewer/LogTable/LogTableListSelectionListener/valueChanged(javax.swing.event.ListSelectionEvent)@g_log4j-1.2.14.jar.txt	1
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_log4j-1.2.14.jar.txt	0
+org/apache/log4j/varia/HUP/run()@g_log4j-1.2.14.jar.txt	2

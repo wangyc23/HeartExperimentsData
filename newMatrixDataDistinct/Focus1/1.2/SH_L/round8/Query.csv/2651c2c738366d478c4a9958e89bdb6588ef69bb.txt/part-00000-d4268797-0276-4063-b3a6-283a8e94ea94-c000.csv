@@ -1,0 +1,4 @@
+org/apache/hadoop/hbase/coprocessor/ObserverContext/getEnvironment()
+org/apache/commons/logging/Log/debug(java.lang.Object,java.lang.Throwable)
+org/apache/hadoop/hbase/coprocessor/MasterCoprocessorEnvironment/getMasterServices()
+org/apache/hadoop/conf/Configuration/getLong(java.lang.String,long)

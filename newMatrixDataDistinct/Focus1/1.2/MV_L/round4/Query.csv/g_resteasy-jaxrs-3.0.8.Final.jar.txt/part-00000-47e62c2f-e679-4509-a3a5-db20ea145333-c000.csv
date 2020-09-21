@@ -1,0 +1,4 @@
+javax/ws/rs/core/CacheControl/isNoTransform()
+java/util/Iterator/hasNext()
+javax/ws/rs/core/CacheControl/getSMaxAge()
+java/util/Map/get(java.lang.Object)

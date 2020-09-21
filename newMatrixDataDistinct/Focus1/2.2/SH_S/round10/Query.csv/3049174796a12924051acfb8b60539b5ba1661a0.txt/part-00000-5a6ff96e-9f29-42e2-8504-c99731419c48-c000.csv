@@ -1,0 +1,4 @@
+java/lang/String/split(java.lang.String,int)
+java/lang/Throwable/printStackTrace()
+java/lang/String/trim()
+java/lang/Double/parseDouble(java.lang.String)

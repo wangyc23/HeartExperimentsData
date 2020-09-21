@@ -1,0 +1,4 @@
+java/security/interfaces/RSAPublicKey/getModulus()
+java/security/interfaces/RSAPublicKey/getPublicExponent()
+java/security/interfaces/ECPublicKey/getW()
+org/bouncycastle/math/ec/ECPoint/getEncoded()

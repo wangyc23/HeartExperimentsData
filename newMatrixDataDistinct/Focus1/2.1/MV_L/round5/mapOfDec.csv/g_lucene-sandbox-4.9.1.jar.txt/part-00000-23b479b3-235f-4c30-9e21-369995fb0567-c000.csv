@@ -1,0 +1,5 @@
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/addTerms(org.apache.lucene.index.IndexReader,org.apache.lucene.sandbox.queries.FuzzyLikeThisQuery$FieldVals)@g_lucene-sandbox-5.0.0.jar.txt	0
+org/apache/lucene/sandbox/queries/DuplicateFilter/fastBits(org.apache.lucene.index.LeafReader,org.apache.lucene.util.Bits)@g_lucene-sandbox-5.0.0.jar.txt	2
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/TermsWriter/writeBlock(int,boolean,int,int,int,boolean,boolean)@g_lucene-sandbox-5.0.0.jar.txt	4
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/addTerms(org.apache.lucene.index.IndexReader,org.apache.lucene.sandbox.queries.FuzzyLikeThisQuery$FieldVals)@g_lucene-sandbox-4.6.0.jar.txt	1
+org/apache/lucene/search/TermAutomatonQuery/toDot()@g_lucene-sandbox-5.0.0.jar.txt	3

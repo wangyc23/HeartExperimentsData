@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+org/apache/commons/compress/archivers/tar/TarArchiveInputStream/getNextTarEntry()
+net/java/truecommons/cio/IoBuffer/release()
+net/java/truecommons/cio/OutputSocket/stream(net.java.truecommons.cio.InputSocket)

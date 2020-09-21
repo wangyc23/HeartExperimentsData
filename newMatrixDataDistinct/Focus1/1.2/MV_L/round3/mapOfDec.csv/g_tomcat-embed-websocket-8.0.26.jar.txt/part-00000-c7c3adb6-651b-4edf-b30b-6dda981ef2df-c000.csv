@@ -1,0 +1,5 @@
+org/apache/tomcat/websocket/WsFrameBase/processDataControl()@g_tomcat-embed-websocket-8.0.20.jar.txt	2
+org/apache/tomcat/websocket/PerMessageDeflate/getMoreData(byte,boolean,int,java.nio.ByteBuffer)@g_tomcat-embed-websocket-8.0.20.jar.txt	3
+org/apache/tomcat/websocket/AsyncChannelWrapperSecure/ReadTask/run()@g_tomcat-embed-websocket-8.0.20.jar.txt	4
+org/apache/tomcat/websocket/WsFrameBase/processDataText()@g_tomcat-embed-websocket-8.0.23.jar.txt	1
+org/apache/tomcat/websocket/WsFrameBase/processDataText()@g_tomcat-embed-websocket-8.0.20.jar.txt	0

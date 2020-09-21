@@ -1,0 +1,5 @@
+com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider/get()@g_siesta-client-1.5.2.jar.txt	2
+org/sonatype/nexus/client/internal/rest/jersey/subsystem/JerseyContent/download(org.sonatype.nexus.client.core.subsystem.content.Location,java.lang.String,java.io.File,com.google.common.collect.Range)@g_siesta-client-1.5.2.jar.txt	4
+org/sonatype/sisu/siesta/client/internal/ClientInvocationHandler/getQueryParams(java.lang.reflect.Method,java.lang.Object[])@g_siesta-client-1.5.2.jar.txt	3
+com/netflix/discovery/TimedSupervisorTask/run()@g_siesta-client-1.5.2.jar.txt	1
+com/netflix/appinfo/PropertiesInstanceConfig/getMetadataMap()@g_eureka-client-1.3.4.jar.txt	0

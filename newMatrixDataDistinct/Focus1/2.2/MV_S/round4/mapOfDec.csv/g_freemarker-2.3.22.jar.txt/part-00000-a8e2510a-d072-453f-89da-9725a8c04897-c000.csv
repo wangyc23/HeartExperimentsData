@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/parser/AbstractModuleDescriptorParser/AbstractParser/evaluateCondition(java.lang.String,org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/util/FileUtil/symlink(java.io.File,java.io.File,org.apache.ivy.util.CopyProgressListener,boolean)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/util/FileUtil/dissect(java.lang.String)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/util/Configurator/setAttribute(java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/util/FileUtil/normalize(java.lang.String)@g_ivy-2.3.0.jar.txt	0

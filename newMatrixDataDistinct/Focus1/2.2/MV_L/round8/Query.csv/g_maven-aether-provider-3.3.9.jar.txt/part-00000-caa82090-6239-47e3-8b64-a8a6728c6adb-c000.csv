@@ -1,0 +1,4 @@
+org/apache/maven/model/building/ModelBuildingRequest/setTwoPhaseBuilding(boolean)
+java/util/LinkedHashSet/LinkedHashSet()
+org/eclipse/aether/impl/VersionResolver/resolveVersion(org.eclipse.aether.RepositorySystemSession,org.eclipse.aether.resolution.VersionRequest)
+org/apache/maven/model/building/FileModelSource/FileModelSource(java.io.File)

@@ -1,0 +1,4 @@
+org/apache/tools/ant/Task/log(java.lang.String)
+java/lang/Class/newInstance()
+java/lang/StringBuffer/toString()
+org/apache/tools/ant/BuildException/BuildException(java.lang.String)

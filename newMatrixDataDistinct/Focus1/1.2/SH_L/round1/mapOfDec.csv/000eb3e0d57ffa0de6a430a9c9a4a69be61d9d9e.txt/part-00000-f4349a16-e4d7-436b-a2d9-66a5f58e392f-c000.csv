@@ -1,0 +1,5 @@
+org/apache/spark/network/shuffle/ExternalShuffleBlockManagerSuite/testSortShuffleBlocks()@28e45928f6382ab3bf1196a6a08c156e2a2834ad.txt	2
+org/apache/spark/network/shuffle/ExternalShuffleBlockManagerSuite/testBadRequests()@28e45928f6382ab3bf1196a6a08c156e2a2834ad.txt	0
+org/apache/spark/network/shuffle/ExternalShuffleBlockManagerSuite/testHashShuffleBlocks()@28e45928f6382ab3bf1196a6a08c156e2a2834ad.txt	3
+org/apache/spark/network/shuffle/ExternalShuffleBlockManagerSuite/testSortShuffleBlocks()@1314ccc50df4aceeebdd17cfef45f5391b6b8c2b.txt	4
+org/apache/spark/network/shuffle/ExternalShuffleBlockManagerSuite/testBadRequests()@1314ccc50df4aceeebdd17cfef45f5391b6b8c2b.txt	1

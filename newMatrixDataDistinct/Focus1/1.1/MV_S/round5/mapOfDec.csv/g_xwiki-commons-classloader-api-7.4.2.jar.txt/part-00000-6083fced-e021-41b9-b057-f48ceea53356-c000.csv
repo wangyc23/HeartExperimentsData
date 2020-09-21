@@ -1,0 +1,5 @@
+org/xwiki/classloader/internal/ResourceLoader/JarInfo/setIndex(java.util.List)@g_emory-util-classloader-2.1.jar.txt	3
+edu/emory/mathcs/util/classloader/jar/JarURLStreamHandler/parseURL(java.net.URL,java.lang.String,int,int)@g_emory-util-classloader-2.1.jar.txt	4
+org/xwiki/classloader/URIClassLoader/defineClass(java.lang.String,edu.emory.mathcs.util.classloader.ResourceHandle)@g_emory-util-classloader-2.1.jar.txt	2
+edu/emory/mathcs/util/classloader/ResourceLoader/parseClassPath(java.util.jar.JarFile,java.net.URL)@g_emory-util-classloader-2.1.jar.txt	0
+org/xwiki/classloader/internal/ResourceLoader/parseJarIndex(java.net.URL,java.util.jar.JarFile)@g_emory-util-classloader-2.1.jar.txt	1

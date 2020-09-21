@@ -1,0 +1,5 @@
+org/xwiki/resource/AbstractResourceReference/addParameter(java.lang.String,java.lang.Object)@g_jcl-over-slf4j-1.7.24.jar.txt	3
+org/jacoco/report/internal/html/page/SessionsPage/sessionTable(org.jacoco.report.internal.html.HTMLElement)@g_jcl-over-slf4j-1.7.24.jar.txt	2
+org/jacoco/report/internal/html/page/ClassPage/render()@g_jcl-over-slf4j-1.7.24.jar.txt	4
+org/apache/commons/logging/impl/SimpleLog/log(int,java.lang.Object,java.lang.Throwable)@g_jcl-over-slf4j-1.7.24.jar.txt	1
+org/jacoco/report/internal/html/page/PackageSourcePage/renderSourceFilePages()@g_jcl-over-slf4j-1.7.24.jar.txt	0

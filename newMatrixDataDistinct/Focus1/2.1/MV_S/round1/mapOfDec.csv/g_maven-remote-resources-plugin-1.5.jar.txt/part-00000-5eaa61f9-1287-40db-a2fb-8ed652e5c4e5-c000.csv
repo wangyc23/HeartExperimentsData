@@ -1,0 +1,5 @@
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/copyResourceIfExists(java.io.File,java.lang.String,org.apache.velocity.VelocityContext)@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-invoker-plugin-2.0.0.jar.txt	0
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/cloneProjects(java.util.Collection)@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/invoker/InvokerReport/constructSummarySection(java.util.List,java.util.Locale)@g_maven-invoker-plugin-2.0.0.jar.txt	3
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/logMismatch(org.apache.maven.artifact.Artifact,org.apache.maven.model.Dependency)@g_maven-invoker-plugin-2.0.0.jar.txt	2

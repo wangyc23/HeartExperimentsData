@@ -1,0 +1,5 @@
+org/webbitserver/handler/EmbeddedResourceHandler/ResourceWorker/read(java.io.InputStream)@0f737ac9b51cac47084af4371db03ccb00ddaace.txt	4
+org/webbitserver/helpers/UTF8OutputTest/decodesChinese()@0f737ac9b51cac47084af4371db03ccb00ddaace.txt	1
+org/webbitserver/handler/ServerHeaderHandlerTest/canBeOverriddenByOtherHandlers()@0f737ac9b51cac47084af4371db03ccb00ddaace.txt	3
+org/webbitserver/WebbitException/fromExceptionEvent(org.jboss.netty.channel.ExceptionEvent)@0f737ac9b51cac47084af4371db03ccb00ddaace.txt	2
+com/yahoo/omid/replication/SharedMessageBuffer/writeFullAbort(long)@0f737ac9b51cac47084af4371db03ccb00ddaace.txt	0

@@ -1,0 +1,6 @@
+0	org/springframework/ui/Model/addAttribute(java.lang.String,java.lang.Object)
+1	com/ketayao/ketacustom/log/LogMessageObject/newWrite()
+2	com/ketayao/ketacustom/service/ModuleService/get(java.lang.Long)
+3	com/ketayao/ketacustom/service/ModuleService/save(com.ketayao.ketacustom.entity.main.Module)
+4	com/ketayao/ketacustom/log/impl/LogUitl/putArgs(com.ketayao.ketacustom.log.LogMessageObject)
+5	org/springside/examples/quickstart/service/account/AccountService/getUser(java.lang.Long)

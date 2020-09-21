@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/reflection/Reflector/newInstance(java.lang.Class,java.lang.Object[])@g_plexus-utils-1.5.1.jar.txt	3
+org/codehaus/plexus/util/reflection/Reflector/invokeStatic(java.lang.Class,java.lang.String,java.lang.Object[])@g_plexus-utils-1.1.jar.txt	2
+org/codehaus/plexus/util/reflection/Reflector/invoke(java.lang.Object,java.lang.String,java.lang.Object[])@g_plexus-utils-1.5.1.jar.txt	4
+org/codehaus/plexus/util/reflection/Reflector/invoke(java.lang.Object,java.lang.String,java.lang.Object[])@g_plexus-utils-1.1.jar.txt	1
+org/codehaus/plexus/util/reflection/Reflector/newInstance(java.lang.Class,java.lang.Object[])@g_plexus-utils-1.1.jar.txt	0

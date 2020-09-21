@@ -1,0 +1,5 @@
+org/springframework/transaction/jta/WebLogicJtaTransactionManager/createTransaction(java.lang.String,int)@g_spring-tx-4.2.2.RELEASE.jar.txt	1
+org/springframework/transaction/interceptor/TransactionAspectSupport/completeTransactionAfterThrowing(org.springframework.transaction.interceptor.TransactionAspectSupport$TransactionInfo,java.lang.Throwable)@g_spring-tx-4.2.2.RELEASE.jar.txt	3
+org/springframework/transaction/support/TransactionSynchronizationManager/bindResource(java.lang.Object,java.lang.Object)@g_spring-tx-4.2.2.RELEASE.jar.txt	2
+org/springframework/transaction/support/TransactionSynchronizationManager/doUnbindResource(java.lang.Object)@g_spring-tx-4.2.2.RELEASE.jar.txt	4
+org/springframework/jca/work/jboss/JBossWorkManagerUtils/getWorkManager(java.lang.String)@g_spring-tx-4.2.2.RELEASE.jar.txt	0

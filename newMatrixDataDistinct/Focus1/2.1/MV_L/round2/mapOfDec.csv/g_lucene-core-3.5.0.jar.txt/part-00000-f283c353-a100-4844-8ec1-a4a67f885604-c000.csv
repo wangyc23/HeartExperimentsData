@@ -1,0 +1,5 @@
+org/apache/lucene/util/fst/FST/pack(int,int)@g_lucene-core-3.6.2.jar.txt	2
+org/apache/lucene/search/SortField/getComparator(int,int)@g_lucene-core-3.6.2.jar.txt	0
+org/apache/lucene/search/PhraseQuery/PhraseWeight/explain(org.apache.lucene.index.IndexReader,int)@g_lucene-core-3.6.2.jar.txt	4
+org/apache/lucene/util/CommandLineUtil/adjustDirectoryClassName(java.lang.String)@g_lucene-core-3.6.2.jar.txt	1
+org/apache/lucene/index/BufferedDeletesStream/push(org.apache.lucene.index.FrozenBufferedDeletes)@g_lucene-core-3.6.2.jar.txt	3

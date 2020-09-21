@@ -1,0 +1,5 @@
+org/jboss/resteasy/plugins/delegates/MediaTypeHeaderDelegate/toString(java.lang.Object)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	2
+org/jboss/resteasy/spi/touri/AbstractURITemplateAnnotationResolver/getValues(java.lang.Object,java.util.Map,java.util.List)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	3
+org/jboss/resteasy/plugins/delegates/CacheControlDelegate/toString(javax.ws.rs.core.CacheControl)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	0
+org/jboss/resteasy/core/request/ServerDrivenNegotiation/applyLanguage(javax.ws.rs.core.Variant,org.jboss.resteasy.core.request.VariantQuality)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	4
+org/jboss/resteasy/core/registry/ClassNode/potentials(java.lang.String,int,java.util.List)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	1

@@ -1,0 +1,5 @@
+org/springframework/beans/BeanWrapperImpl/getPropertyValue(org.springframework.beans.BeanWrapperImpl$PropertyTokenHolder)@g_spring-beans-3.0.5.RELEASE.jar.txt	0
+org/springframework/beans/factory/support/BeanDefinitionValueResolver/resolveValueIfNecessary(java.lang.Object,java.lang.Object)@g_spring-beans-3.0.5.RELEASE.jar.txt	3
+org/springframework/beans/BeanWrapperImpl/getNestedBeanWrapper(java.lang.String)@g_spring-beans-3.0.5.RELEASE.jar.txt	4
+org/springframework/beans/factory/config/CustomEditorConfigurer/postProcessBeanFactory(org.springframework.beans.factory.config.ConfigurableListableBeanFactory)@g_spring-beans-3.0.5.RELEASE.jar.txt	2
+org/springframework/beans/BeanWrapperImpl/getPropertyNameTokens(java.lang.String)@g_spring-beans-3.0.5.RELEASE.jar.txt	1

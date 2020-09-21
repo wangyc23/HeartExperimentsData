@@ -1,0 +1,4 @@
+io/undertow/servlet/api/DeploymentInfo/addSecurityConstraint(io.undertow.servlet.api.SecurityConstraint)
+io/undertow/testutils/DefaultServer/getClientSSLContext()
+io/undertow/servlet/api/SecurityInfo/addRoleAllowed(java.lang.String)
+io/undertow/servlet/api/LoginConfig/addFirstAuthMethod(io.undertow.servlet.api.AuthMethodConfig)

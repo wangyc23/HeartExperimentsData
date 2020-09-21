@@ -1,0 +1,4 @@
+org/eclipse/emf/ecore/EEnumLiteral/getName()
+org/eclipse/m2m/atl/emftvm/Model/allInstancesOf(org.eclipse.emf.ecore.EClass)
+java/util/Collection/addAll(java.util.Collection)
+java/util/Iterator/next()

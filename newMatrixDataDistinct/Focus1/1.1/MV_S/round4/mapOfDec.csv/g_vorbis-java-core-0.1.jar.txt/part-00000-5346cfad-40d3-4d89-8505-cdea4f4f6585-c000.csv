@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/font/PDType1AfmPfbFont/load(org.apache.pdfbox.pdmodel.PDDocument,java.io.InputStream,java.io.InputStream)@g_pdfbox-1.7.0.jar.txt	0
+org/apache/pdfbox/pdfparser/NonSequentialPDFParser/parseObjectDynamically(int,int,boolean)@g_pdfbox-1.7.0.jar.txt	4
+org/apache/pdfbox/pdfparser/XrefTrailerResolver/setStartxref(long)@g_pdfbox-1.7.0.jar.txt	1
+org/apache/pdfbox/util/PDFText2HTML/getTitle()@g_pdfbox-1.7.0.jar.txt	2
+org/apache/pdfbox/util/PDFTextStripperByArea/extractRegions(org.apache.pdfbox.pdmodel.PDPage)@g_pdfbox-1.7.0.jar.txt	3

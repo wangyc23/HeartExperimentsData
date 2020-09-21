@@ -1,0 +1,5 @@
+org/apache/maven/it/util/FileUtils/sizeOfDirectory(java.io.File)@g_aspectjrt-1.8.5.jar.txt	2
+org/aspectj/apache/bcel/classfile/ConstantPool/lookupMethodref(java.lang.String,java.lang.String,java.lang.String)@g_aspectjrt-1.8.5.jar.txt	0
+org/aspectj/util/FileUtil/makeNewChildDir(java.io.File,java.lang.String)@g_aspectjrt-1.8.5.jar.txt	3
+org/aspectj/weaver/Dump/println(java.util.Properties)@g_aspectjrt-1.8.5.jar.txt	4
+org/aspectj/weaver/bcel/BcelWorld/addSourceObjectType(java.lang.String,byte[],boolean)@g_aspectjrt-1.8.5.jar.txt	1

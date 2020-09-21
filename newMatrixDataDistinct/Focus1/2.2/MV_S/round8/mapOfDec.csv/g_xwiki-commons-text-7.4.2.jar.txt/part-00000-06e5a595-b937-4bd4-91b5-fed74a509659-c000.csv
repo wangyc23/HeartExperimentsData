@@ -1,0 +1,5 @@
+org/apache/maven/wagon/PathUtils/port(java.lang.String)@g_wagon-provider-api-2.2.jar.txt	4
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/StringUtils/mid(java.lang.String,int,int)@g_surefire-api-2.16.jar.txt	3
+org/apache/maven/wagon/PathUtils/decode(java.lang.String)@g_wagon-provider-api-2.2.jar.txt	1
+org/apache/maven/wagon/PathUtils/basedir(java.lang.String)@g_wagon-provider-api-2.2.jar.txt	0
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/StringUtils/unifyLineSeparators(java.lang.String,java.lang.String)@g_surefire-api-2.16.jar.txt	2

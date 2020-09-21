@@ -1,0 +1,5 @@
+org/xwiki/filter/xml/internal/input/XMLInputFilterStreamUtils/createXMLStreamReader(org.xwiki.filter.xml.input.XMLInputProperties)@g_xwiki-commons-filter-xml-7.1.1.jar.txt	3
+org/xwiki/filter/xml/internal/input/XMLInputFilterStreamUtils/createXMLStreamReader(org.xwiki.filter.xml.input.XMLInputProperties)@g_xwiki-commons-filter-xml-7.0.jar.txt	2
+org/xwiki/filter/xml/internal/input/AbstractXMLInputFilterStream/read(java.lang.Object)@g_xwiki-commons-filter-xml-7.1.1.jar.txt	1
+org/xwiki/filter/xml/internal/serializer/DefaultXMLSerializer/writeInlineParameters(java.util.List,org.xwiki.filter.FilterElementDescriptor)@g_xwiki-commons-filter-xml-7.0.jar.txt	4
+org/xwiki/filter/xml/internal/input/AbstractXMLInputFilterStream/read(java.lang.Object)@g_xwiki-commons-filter-xml-7.0.jar.txt	0

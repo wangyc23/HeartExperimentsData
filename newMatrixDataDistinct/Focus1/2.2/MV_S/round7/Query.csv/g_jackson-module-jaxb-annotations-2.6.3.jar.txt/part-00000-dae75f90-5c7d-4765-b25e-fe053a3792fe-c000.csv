@@ -1,0 +1,4 @@
+com/fasterxml/jackson/core/JsonGenerator/writeEndObject()
+org/w3c/dom/Attr/getNamespaceURI()
+org/w3c/dom/NamedNodeMap/getLength()
+com/fasterxml/jackson/core/JsonGenerator/writeStringField(java.lang.String,java.lang.String)

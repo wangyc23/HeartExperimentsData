@@ -1,0 +1,4 @@
+org/eclipse/rdf4j/rio/nquads/NQuadsParser/createStatement(org.eclipse.rdf4j.model.Resource,org.eclipse.rdf4j.model.IRI,org.eclipse.rdf4j.model.Value,org.eclipse.rdf4j.model.Resource)
+org/eclipse/rdf4j/rio/nquads/NQuadsParser/assertLineTerminates(int)
+org/eclipse/rdf4j/rio/nquads/NQuadsParser/getParserConfig()
+org/eclipse/rdf4j/rio/nquads/NQuadsParser/throwEOFException()

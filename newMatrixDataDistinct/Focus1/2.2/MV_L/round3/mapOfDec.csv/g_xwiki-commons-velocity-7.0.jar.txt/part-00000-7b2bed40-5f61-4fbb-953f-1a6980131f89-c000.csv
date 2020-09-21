@@ -1,0 +1,5 @@
+org/xwiki/velocity/introspection/DeprecatedCheckUberspector/logWarning(java.lang.String,java.lang.Object,java.lang.String,org.apache.velocity.util.introspection.Info)@g_xwiki-commons-velocity-7.4.jar.txt	2
+org/xwiki/velocity/introspection/DeprecatedCheckUberspector/logWarning(java.lang.String,java.lang.Object,java.lang.String,org.apache.velocity.util.introspection.Info)@g_xwiki-commons-velocity-7.4.2.jar.txt	3
+org/xwiki/velocity/introspection/LinkingUberspector/initializeUberspector(java.lang.String)@g_xwiki-commons-velocity-7.4.2.jar.txt	1
+org/xwiki/velocity/internal/util/RestrictParseLocationEventHandler/includeEvent(java.lang.String,java.lang.String,java.lang.String)@g_xwiki-commons-velocity-7.4.jar.txt	4
+org/xwiki/velocity/introspection/LinkingUberspector/initializeUberspector(java.lang.String)@g_xwiki-commons-velocity-7.4.jar.txt	0

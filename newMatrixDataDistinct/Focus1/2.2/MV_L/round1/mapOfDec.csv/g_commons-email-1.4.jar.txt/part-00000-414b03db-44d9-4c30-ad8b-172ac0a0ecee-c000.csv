@@ -1,0 +1,5 @@
+org/bouncycastle/mail/smime/SMIMESignedParser/getSignedInputStream(javax.mail.BodyPart,java.lang.String,java.io.File)@g_bcmail-jdk15on-1.49.jar.txt	4
+org/bouncycastle/mail/smime/examples/SendSignedAndEncryptedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.49.jar.txt	2
+org/bouncycastle/mail/smime/validator/SignedMailValidator/validateSignatures(java.security.cert.PKIXParameters)@g_bcmail-jdk15on-1.49.jar.txt	0
+org/bouncycastle/mail/smime/validator/SignedMailValidator/validateSignatures(java.security.cert.PKIXParameters)@g_bcmail-jdk15on-1.53.jar.txt	1
+org/bouncycastle/mail/smime/SMIMESigned/getContentAsMimeMessage(javax.mail.Session)@g_bcmail-jdk15on-1.49.jar.txt	3

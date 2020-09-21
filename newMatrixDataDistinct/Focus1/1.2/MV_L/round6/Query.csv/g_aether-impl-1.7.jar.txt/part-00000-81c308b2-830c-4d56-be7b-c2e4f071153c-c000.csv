@@ -1,0 +1,4 @@
+org/sonatype/aether/artifact/Artifact/getClassifier()
+java/util/Iterator/hasNext()
+org/sonatype/aether/artifact/Artifact/getGroupId()
+org/sonatype/aether/graph/Dependency/getArtifact()

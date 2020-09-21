@@ -1,0 +1,5 @@
+org/switchyard/serial/protostuff/spi/ProtostuffSerializationProvider/getSupportedFormats()@055e75fab3b15893ac9f642ff9ecf68235922204.txt	4
+org/switchyard/admin/base/BaseSwitchYard/removeProperties(java.util.Map)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	3
+org/switchyard/common/io/resource/ResourceType/nameSet()@055e75fab3b15893ac9f642ff9ecf68235922204.txt	0
+org/switchyard/test/SwitchYardTestKit/createMixInInstances()@055e75fab3b15893ac9f642ff9ecf68235922204.txt	2
+org/switchyard/serial/jackson/spi/JacksonSerializationProvider/getSupportedFormats()@055e75fab3b15893ac9f642ff9ecf68235922204.txt	1

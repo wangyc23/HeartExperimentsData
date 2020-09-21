@@ -1,0 +1,4 @@
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/writeStartOfStartTag(java.lang.String,java.lang.String)
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter$Node/getValue()
+org/openrdf/model/URI/getNamespace()
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/getValidNodeId(org.openrdf.model.BNode)

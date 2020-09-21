@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+org/apache/tools/ant/util/DOMElementWriter/write(org.w3c.dom.Element,java.io.Writer,int,java.lang.String)
+java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream,java.lang.String)
+java/io/PrintWriter/write(java.lang.String)

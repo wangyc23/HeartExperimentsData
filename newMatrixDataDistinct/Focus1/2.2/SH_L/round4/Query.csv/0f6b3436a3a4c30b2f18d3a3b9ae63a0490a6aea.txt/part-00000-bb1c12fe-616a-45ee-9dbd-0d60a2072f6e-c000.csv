@@ -1,0 +1,4 @@
+java/net/InetAddress/getHostAddress()
+java/lang/String/toLowerCase()
+java/util/Random/nextInt(int)
+java/net/NetworkInterface/getNetworkInterfaces()

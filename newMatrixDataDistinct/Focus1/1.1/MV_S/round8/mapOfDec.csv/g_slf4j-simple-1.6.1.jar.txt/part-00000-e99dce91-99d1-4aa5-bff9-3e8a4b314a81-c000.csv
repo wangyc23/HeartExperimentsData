@@ -1,0 +1,5 @@
+org/apache/log4j/FileAppender/setFile(java.lang.String,boolean,boolean,int)@g_log4j-1.2.15.jar.txt	1
+org/apache/log4j/net/SocketAppender/Connector/run()@g_log4j-1.2.15.jar.txt	0
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listTokenValues(org.apache.ivy.plugins.repository.Repository,java.lang.String,java.lang.String)@g_log4j-1.2.15.jar.txt	4
+org/apache/ivy/osgi/core/ManifestHeaderValue/writeParseException(java.io.PrintStream,java.lang.String,java.text.ParseException)@g_log4j-1.2.15.jar.txt	2
+org/apache/ivy/plugins/repository/sftp/SFTPRepository/resolveResource(java.lang.String)@g_log4j-1.2.15.jar.txt	3

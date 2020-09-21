@@ -1,0 +1,5 @@
+org/languagetool/tools/Tools/correctTextFromMatches(java.lang.String,java.util.List)@g_languagetool-core-3.0.jar.txt	2
+org/languagetool/tools/Tools/getAllBuiltinBitextRules(org.languagetool.Language,java.util.ResourceBundle)@g_languagetool-core-3.0.jar.txt	4
+org/languagetool/rules/patterns/MatchState/getTargetPosTag()@g_languagetool-core-3.0.jar.txt	1
+org/languagetool/tagging/disambiguation/rules/DisambiguationPatternRuleReplacer/executeAction(org.languagetool.AnalyzedSentence,org.languagetool.AnalyzedTokenReadings[],org.languagetool.AnalyzedTokenReadings[],int,int,int,int[])@g_languagetool-core-3.0.jar.txt	3
+org/languagetool/tools/Tools/selectBitextRules(java.util.List,java.util.List,java.util.List,boolean)@g_languagetool-core-3.0.jar.txt	0

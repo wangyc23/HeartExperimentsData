@@ -1,0 +1,4 @@
+org/eclipse/jetty/servlet/ServletContextHandler$Decorator/decorateServletHolder(org.eclipse.jetty.servlet.ServletHolder)
+org/eclipse/jetty/server/handler/HandlerWrapper/getHandler()
+org/eclipse/jetty/security/SecurityHandler/setHandler(org.eclipse.jetty.server.Handler)
+org/eclipse/jetty/servlet/ServletHandler/isStarted()

@@ -1,0 +1,5 @@
+org/eclipse/tycho/packaging/ProductExportMojo/copyDirectory(java.io.File,java.io.File,java.lang.String)@g_maven-deploy-plugin-2.8.2.jar.txt	0
+org/eclipse/tycho/plugins/p2/P2MetadataMojo/writeArtifactLocations(java.io.File,java.util.Map)@g_maven-deploy-plugin-2.8.2.jar.txt	3
+org/eclipse/tycho/packaging/ProductExportMojo/includeRootFiles(org.eclipse.tycho.core.shared.TargetEnvironment,java.io.File)@g_maven-deploy-plugin-2.8.2.jar.txt	4
+org/apache/maven/plugin/deploy/DeployMojo/execute()@g_maven-deploy-plugin-2.8.2.jar.txt	2
+org/eclipse/tycho/packaging/ProductExportMojo/generateConfigIni(org.eclipse.tycho.core.shared.TargetEnvironment,java.io.File)@g_maven-deploy-plugin-2.8.2.jar.txt	1

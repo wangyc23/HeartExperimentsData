@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/feed/FeedPluginApi/getBlogFeed(java.lang.String,int,int,java.lang.String,java.util.Map)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/retrieveFeed(java.net.URL,int)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	0
+com/xpn/xwiki/gwt/api/server/XWikiServiceImpl/getDocumentContent(java.lang.String,boolean,java.util.Map)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	2
+com/xpn/xwiki/gwt/api/client/dialog/ChoiceDialog/setActive(com.google.gwt.user.client.ui.Button)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	3
+com/xpn/xwiki/gwt/api/client/widgets/WordListSuggestOracle/requestSuggestions(com.google.gwt.user.client.ui.SuggestOracle$Request,com.google.gwt.user.client.ui.SuggestOracle$Callback)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	1

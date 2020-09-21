@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/reflect/Modifier/isFinal(int)
+java/lang/reflect/Field/get(java.lang.Object)
+java/lang/reflect/Field/setAccessible(boolean)

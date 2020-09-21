@@ -1,0 +1,5 @@
+ucar/nc2/iosp/hdf5/H5iosp/convertHeap(ucar.ma2.ArrayStructureBB,int,ucar.ma2.StructureMembers)@g_cdm-4.5.5.jar.txt	0
+thredds/catalog2/xml/parser/stax/ServiceElementParser/parseStartElement()@g_cdm-4.5.5.jar.txt	1
+ucar/nc2/iosp/nids/Nidsiosp/readNestedData(ucar.nc2.Variable,ucar.ma2.Section)@g_cdm-4.5.5.jar.txt	4
+thredds/inventory/partition/DirectoryPartition/makePartitions(thredds.inventory.CollectionUpdateType)@g_cdm-4.5.5.jar.txt	2
+ucar/nc2/time/CalendarDateFormatter/parseIsoTimeString(ucar.nc2.time.Calendar,java.lang.String)@g_cdm-4.5.5.jar.txt	3

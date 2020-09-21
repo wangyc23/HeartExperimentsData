@@ -1,0 +1,5 @@
+org/apache/maven/tools/plugin/util/PluginUtils/isMavenReport(java.lang.String,org.apache.maven.project.MavenProject)@g_maven-plugin-tools-api-2.9.jar.txt	4
+org/apache/maven/tools/plugin/generator/PluginHelpGenerator/execute(java.io.File,org.apache.maven.tools.plugin.PluginToolsRequest)@g_maven-plugin-tools-api-2.9.jar.txt	3
+org/apache/maven/tools/plugin/extractor/annotations/JavaAnnotationsMojoDescriptorExtractor/toMojoDescriptors(java.util.Map,org.apache.maven.plugin.descriptor.PluginDescriptor)@g_maven-plugin-tools-annotations-3.4.jar.txt	2
+org/apache/maven/tools/plugin/extractor/annotations/JavaAnnotationsMojoDescriptorExtractor/discoverClasses(java.lang.String,java.util.List,java.util.Set)@g_maven-plugin-tools-annotations-3.4.jar.txt	1
+org/apache/maven/tools/plugin/extractor/annotations/JavaAnnotationsMojoDescriptorExtractor/discoverClasses(java.lang.String,org.apache.maven.project.MavenProject)@g_maven-plugin-tools-annotations-3.4.jar.txt	0

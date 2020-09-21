@@ -1,0 +1,5 @@
+com/joantolos/portfolio/template/utils/impl/FileUtilsImpl/fileExist(java.lang.String)@2b55f5a0c2bae164e29d5aa9a196e1e98727871e.txt	4
+com/joantolos/portfolio/template/utils/impl/FileUtilsImpl/logFile(java.lang.String)@2b55f5a0c2bae164e29d5aa9a196e1e98727871e.txt	1
+com/joantolos/portfolio/template/mail/impl/MailSenderImpl/sendMail(com.joantolos.portfolio.template.entity.ContactMail)@2b55f5a0c2bae164e29d5aa9a196e1e98727871e.txt	3
+org/ng12306/web/system/functional/rest/TaskRestFT/createUpdateAndDeleteTask()@2c6319b400f75c0cf3a892a13d8c0ba6593f5c1b.txt	2
+org/ng12306/web/system/functional/QuickStartServer/main(java.lang.String[])@2c6319b400f75c0cf3a892a13d8c0ba6593f5c1b.txt	0

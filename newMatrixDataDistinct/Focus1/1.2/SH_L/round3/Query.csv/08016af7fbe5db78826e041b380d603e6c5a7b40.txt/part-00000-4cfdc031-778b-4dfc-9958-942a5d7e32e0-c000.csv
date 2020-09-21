@@ -1,0 +1,4 @@
+java/io/File/listFiles(java.io.FilenameFilter)
+java/util/ArrayList/ArrayList(int)
+java/io/File/getName()
+core/storage/FileSessionStorage/stored()/$anonymous1/()

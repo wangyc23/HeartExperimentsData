@@ -1,0 +1,5 @@
+opennlp/tools/tokenize/DefaultTokenContextGenerator/createContext(java.lang.String,int)@g_opennlp-tools-1.8.2.jar.txt	1
+opennlp/tools/cmdline/FineGrainedReportListener/matrixToString(java.util.SortedSet,double[][],boolean)@g_opennlp-tools-1.8.2.jar.txt	4
+opennlp/tools/cmdline/ArgumentParser/createUsage(java.lang.Class[])@g_opennlp-tools-1.8.2.jar.txt	3
+opennlp/tools/formats/NameFinderCensus90NameStream/read()@g_opennlp-tools-1.8.2.jar.txt	2
+opennlp/tools/cmdline/CLI/usage()@g_opennlp-tools-1.8.2.jar.txt	0

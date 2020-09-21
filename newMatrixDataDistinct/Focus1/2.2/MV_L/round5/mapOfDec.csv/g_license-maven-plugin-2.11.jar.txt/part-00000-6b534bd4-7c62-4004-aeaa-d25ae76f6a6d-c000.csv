@@ -1,0 +1,5 @@
+org/eclipse/osgi/container/ModuleDatabase/Persistence/addToWriteTable(java.lang.Object,java.util.Map)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4
+org/apache/felix/resolver/Candidates/checkSubstitutes(java.util.List)@g_osgi-3.10.0-v20140606-1445.jar.txt	2
+org/eclipse/osgi/container/ModuleDatabase/Persistence/addToWriteTable(java.lang.Object,java.util.Map)@g_osgi-3.10.0-v20140606-1445.jar.txt	1
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_osgi-3.10.0-v20140606-1445.jar.txt	0
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3

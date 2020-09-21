@@ -1,0 +1,5 @@
+ch/randelshofer/media/jpeg/CMYKJPEGImageReader/readRGBAImageFromRGBA(java.io.InputStream,java.awt.color.ICC_Profile)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	2
+org/apache/sling/scripting/jsp/jasper/compiler/ELParser/hasNextChar()@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	1
+com/adobe/acs/commons/wcm/impl/CQIncludePropertyNamespaceServlet/doGet(com.adobe.acs.commons.analysis.jcrchecksum.impl.servlets.SlingHttpServletRequest,com.adobe.acs.commons.analysis.jcrchecksum.impl.servlets.SlingHttpServletResponse)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	3
+org/apache/sling/scripting/sightly/impl/compiler/SightlyJavaCompilerService/loadObject(java.lang.String)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	0
+com/adobe/acs/commons/images/impl/NamedTransformImageServlet/getNamedImageTransformers(com.adobe.acs.commons.analysis.jcrchecksum.impl.servlets.SlingHttpServletRequest)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	4

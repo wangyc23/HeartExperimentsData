@@ -1,0 +1,4 @@
+org/xwiki/bridge/event/DocumentDeletedEvent/getEventFilter()
+java/lang/String/toLowerCase()
+java/lang/StringBuilder/append(java.lang.String)
+org/xwiki/component/internal/multi/ComponentManagerManager/getComponentManager(java.lang.String,boolean)

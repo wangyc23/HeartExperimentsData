@@ -1,0 +1,5 @@
+org/jets3t/service/utils/FileComparer/generateFileMD5Hash(java.io.File,java.lang.String,org.jets3t.service.io.BytesProgressWatcher)@g_jets3t-0.9.3.jar.txt	1
+org/jets3t/servlets/gatekeeper/GatekeeperServlet/initBucketLister()@g_jets3t-0.9.3.jar.txt	3
+org/jets3t/service/impl/rest/httpclient/RestStorageService/createBucketImpl(java.lang.String,java.lang.String,org.jets3t.service.acl.AccessControlList,java.util.Map)@g_jets3t-0.9.3.jar.txt	2
+org/jets3t/service/impl/rest/httpclient/RestS3Service/multipartListUploadsChunkedImpl(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,boolean)@g_jets3t-0.9.3.jar.txt	4
+org/jets3t/service/impl/rest/httpclient/RestStorageService/getAccountOwnerImpl()@g_jets3t-0.9.3.jar.txt	0

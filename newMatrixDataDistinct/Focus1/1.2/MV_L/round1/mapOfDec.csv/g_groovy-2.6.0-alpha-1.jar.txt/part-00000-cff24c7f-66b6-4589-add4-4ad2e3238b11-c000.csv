@@ -1,0 +1,5 @@
+groovy/lang/GroovyClassLoader/fileReallyExists(java.net.URL,java.lang.String)@g_groovy-all-2.4.5.jar.txt	2
+org/codehaus/groovy/ant/Groovyc/buildClassLoaderFor()@g_groovy-all-2.4.5.jar.txt	1
+groovy/lang/GroovyClassLoader/fileReallyExists(java.net.URL,java.lang.String)@g_groovy-2.4.9.jar.txt	0
+org/codehaus/groovy/tools/javac/JavacJavaCompiler/findJavac(org.codehaus.groovy.control.CompilationUnit)@g_groovy-2.4.9.jar.txt	4
+org/codehaus/groovy/tools/javac/JavacJavaCompiler/makeParameters(java.util.List,groovy.lang.GroovyClassLoader)@g_groovy-2.4.9.jar.txt	3

@@ -1,0 +1,4 @@
+java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream)
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/net/URL/openConnection()
+java/io/InputStream/read(byte[])

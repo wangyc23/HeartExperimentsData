@@ -1,0 +1,5 @@
+org/apache/commons/lang3/reflect/TypeUtils/isAssignable(java.lang.reflect.Type,java.lang.reflect.GenericArrayType,java.util.Map)@g_commons-lang3-3.1.jar.txt	1
+org/apache/commons/lang3/reflect/TypeUtils/isAssignable(java.lang.reflect.Type,java.lang.Class)@g_commons-lang3-3.1.jar.txt	2
+com/google/inject/internal/MoreTypes/canonicalize(java.lang.reflect.Type)@g_sisu-guice-2.1.7-noaop.jar.txt	0
+com/google/inject/internal/MoreTypes/equals(java.lang.reflect.Type,java.lang.reflect.Type)@g_sisu-guice-2.1.7-noaop.jar.txt	4
+com/google/inject/internal/MoreTypes/getRawType(java.lang.reflect.Type)@g_sisu-guice-2.1.7-noaop.jar.txt	3

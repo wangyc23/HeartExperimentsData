@@ -1,0 +1,5 @@
+ucar/nc2/iosp/hdf4/H4header/makeDimension(ucar.nc2.iosp.hdf4.H4header$TagVGroup)@g_netcdf-4.2.20.jar.txt	2
+ucar/nc2/iosp/grid/GridIndexToNC/open(ucar.grid.GridIndex,ucar.grid.GridTableLookup,int,ucar.nc2.NetcdfFile,ucar.nc2.dt.fmr.FmrcCoordSys,ucar.nc2.util.CancelTask)@g_netcdf-4.2.20.jar.txt	0
+thredds/catalog/crawl/CatalogExtractor/extractGridDataset(java.io.PrintStream,ucar.nc2.dt.GridDataset)@g_netcdf-4.2.20.jar.txt	3
+ucar/nc2/iosp/hdf5/H5header/makeVariable(ucar.nc2.Group,ucar.nc2.iosp.hdf5.H5header$DataObjectFacade)@g_netcdf-4.2.20.jar.txt	4
+thredds/cataloggen/CatalogGen/expand()@g_netcdf-4.2.20.jar.txt	1

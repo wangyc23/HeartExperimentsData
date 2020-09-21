@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rio/RioParserImpl/parseDocumentSource(org.semanticweb.owlapi.io.OWLOntologyDocumentSource,java.lang.String,org.openrdf.rio.RDFHandler)@g_owlapi-distribution-4.5.0.jar.txt	3
+org/semanticweb/owlapi/io/AbstractOWLParser/getInputStream(org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.OWLOntologyLoaderConfiguration,java.lang.String)@g_owlapi-distribution-4.5.0.jar.txt	0
+org/semanticweb/owlapi/util/AbstractOWLStorer/prepareActualOutput(org.semanticweb.owlapi.model.IRI)@g_owlapi-distribution-4.5.0.jar.txt	1
+org/semanticweb/owlapi/util/NamespaceUtil/generatePrefix(java.lang.String)@g_owlapi-distribution-4.5.0.jar.txt	4
+org/semanticweb/owlapi/rio/RioTrixParserFactory/TrixParserImpl/parseDocumentSource(org.semanticweb.owlapi.io.OWLOntologyDocumentSource,java.lang.String,org.openrdf.rio.RDFHandler)@g_owlapi-distribution-4.5.0.jar.txt	2

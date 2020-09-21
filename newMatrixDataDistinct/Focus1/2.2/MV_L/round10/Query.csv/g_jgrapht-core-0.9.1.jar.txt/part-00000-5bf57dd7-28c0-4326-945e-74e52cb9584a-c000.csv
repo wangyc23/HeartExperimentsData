@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Set/size()
+org/jgrapht/UndirectedGraph/vertexSet()
+java/util/Iterator/next()

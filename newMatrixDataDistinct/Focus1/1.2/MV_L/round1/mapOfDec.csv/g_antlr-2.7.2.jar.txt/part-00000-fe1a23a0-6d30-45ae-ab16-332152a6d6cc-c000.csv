@@ -1,0 +1,5 @@
+org/apache/tools/ant/util/FileUtils/normalize(java.lang.String)@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/util/DOMElementWriter/encodedata(java.lang.String)@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/filters/ClassConstants/read()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Execute/VmsCommandLauncher/createCommandFile(java.lang.String[],java.lang.String[])@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/types/AbstractFileSet/getDataTypeName()@g_ant-1.6.5.jar.txt	4

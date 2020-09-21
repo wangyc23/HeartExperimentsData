@@ -1,0 +1,5 @@
+io/netty/handler/codec/ReplayingDecoder/callDecode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@g_netty-codec-4.1.7.Final.jar.txt	2
+io/netty/handler/codec/ReplayingDecoder/callDecode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@g_netty-codec-4.0.25.Final.jar.txt	1
+io/netty/handler/codec/AsciiHeadersEncoder/encode(java.util.Map$Entry)@g_netty-codec-4.0.25.Final.jar.txt	3
+io/netty/handler/codec/ReplayingDecoder/channelInactive(io.netty.channel.ChannelHandlerContext)@g_netty-codec-4.0.25.Final.jar.txt	0
+io/netty/handler/codec/LineBasedFrameDecoder/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf)@g_netty-codec-4.0.25.Final.jar.txt	4

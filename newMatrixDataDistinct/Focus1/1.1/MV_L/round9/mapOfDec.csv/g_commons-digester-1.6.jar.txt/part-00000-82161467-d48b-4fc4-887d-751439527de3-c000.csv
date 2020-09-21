@@ -1,0 +1,5 @@
+org/apache/commons/digester/Digester/endElement(java.lang.String,java.lang.String,java.lang.String)@g_commons-digester-1.8.jar.txt	1
+org/apache/commons/digester/plugins/PluginRules/add(java.lang.String,org.apache.commons.digester.Rule)@g_commons-digester-1.8.jar.txt	3
+org/apache/commons/digester/Digester/endPrefixMapping(java.lang.String)@g_commons-digester-1.8.jar.txt	0
+org/apache/commons/digester/SetPropertyRule/begin(org.xml.sax.Attributes)@g_commons-digester-1.8.jar.txt	4
+org/apache/commons/digester/CallMethodRule/end()@g_commons-digester-1.8.jar.txt	2

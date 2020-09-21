@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+java/nio/ByteBuffer/flip()
+javax/net/ssl/SSLEngine/getSession()
+javax/net/ssl/SSLEngineResult/getStatus()

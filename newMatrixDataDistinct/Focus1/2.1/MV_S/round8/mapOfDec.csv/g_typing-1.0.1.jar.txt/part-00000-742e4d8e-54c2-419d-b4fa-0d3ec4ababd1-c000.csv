@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/emftvm/util/EMFTVMUtil/removeMany(org.eclipse.m2m.atl.emftvm.ExecEnv,org.eclipse.emf.ecore.EObject,org.eclipse.emf.ecore.EStructuralFeature,java.util.Collection)@g_emftvm-3.6.0.jar.txt	3
+org/eclipse/m2m/atl/emftvm/impl/ModuleImpl/toString()@g_emftvm-3.6.0.jar.txt	0
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/updateQNameURI(java.lang.Object)@g_emftvm-3.6.0.jar.txt	4
+anatlyzer/atlext/processing/AbstractVisitor/filter(java.lang.String,java.lang.Object[])@g_emftvm-3.6.0.jar.txt	2
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/Lookup/featureKind(org.eclipse.emf.ecore.EStructuralFeature)@g_emftvm-3.6.0.jar.txt	1

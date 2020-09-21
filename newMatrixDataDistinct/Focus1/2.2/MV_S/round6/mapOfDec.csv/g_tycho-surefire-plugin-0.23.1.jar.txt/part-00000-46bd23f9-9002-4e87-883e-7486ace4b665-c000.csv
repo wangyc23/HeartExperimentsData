@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/resolvers/ListRepositoriesMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/eclipse/tycho/osgi/runtime/WorkspaceTychoOsgiRuntimeLocator/addProduct(org.eclipse.sisu.equinox.embedder.EquinoxRuntimeLocator$EquinoxRuntimeDescription,org.apache.maven.artifact.Artifact)@g_tycho-core-0.23.1.jar.txt	0
+org/apache/maven/plugin/dependency/utils/DependencyStatusSets/buildArtifactListOutput(java.util.Set,boolean,boolean,boolean)@g_maven-dependency-plugin-2.8.jar.txt	3
+org/eclipse/tycho/core/osgitools/targetplatform/LocalDependencyResolver/addDependencies(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,org.eclipse.tycho.core.osgitools.targetplatform.DefaultDependencyArtifacts)@g_tycho-core-0.23.1.jar.txt	1
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/reResolveArtifacts(org.apache.maven.project.MavenProject,java.util.Set,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-dependency-plugin-2.8.jar.txt	4

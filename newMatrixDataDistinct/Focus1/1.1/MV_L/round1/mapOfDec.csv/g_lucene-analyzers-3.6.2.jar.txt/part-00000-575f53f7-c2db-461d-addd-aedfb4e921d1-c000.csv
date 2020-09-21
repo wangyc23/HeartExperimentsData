@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseRules(java.io.LineNumberReader,int)@g_lucene-analyzers-common-4.7.0.jar.txt	3
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseStep(java.io.LineNumberReader,java.lang.String)@g_lucene-analyzers-common-4.7.0.jar.txt	2
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseStep(java.io.LineNumberReader,java.lang.String)@g_lucene-analyzers-3.5.0.jar.txt	0
+org/apache/lucene/analysis/miscellaneous/WordDelimiterFilterFactory/parseTypes(java.util.List)@g_lucene-analyzers-common-4.7.0.jar.txt	4
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseRules(java.io.LineNumberReader,int)@g_lucene-analyzers-3.5.0.jar.txt	1

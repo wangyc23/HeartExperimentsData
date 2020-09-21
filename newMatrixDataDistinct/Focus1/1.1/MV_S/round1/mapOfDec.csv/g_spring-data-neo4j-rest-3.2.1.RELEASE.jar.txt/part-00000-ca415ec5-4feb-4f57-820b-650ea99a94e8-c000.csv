@@ -1,0 +1,5 @@
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	2
+org/powermock/reflect/internal/WhiteboxImpl/copyState(java.lang.Object,java.lang.Object,org.powermock.reflect.matching.FieldMatchingStrategy)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	4
+org/powermock/reflect/internal/WhiteboxImpl/getMethod(java.lang.Class,java.lang.Class[])@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	3
+org/powermock/reflect/internal/WhiteboxImpl/throwExceptionWhenMultipleMethodMatchesFound(java.lang.String,java.lang.reflect.Method[])@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0
+org/powermock/reflect/internal/WhiteboxImpl/getInternalState(java.lang.Object,java.lang.String,java.lang.Class)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	1

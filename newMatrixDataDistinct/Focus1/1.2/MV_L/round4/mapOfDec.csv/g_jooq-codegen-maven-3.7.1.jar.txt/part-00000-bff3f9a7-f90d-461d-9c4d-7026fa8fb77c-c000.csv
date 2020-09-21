@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handleWebResources(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.5.jar.txt	4
+org/eclipse/acceleo/maven/launcher/compatibility/AcceleoLauncherMojo/execute()@g_org.eclipse.acceleo.maven.launcher-3.5.2.jar.txt	0
+org/apache/maven/plugin/war/AbstractWarMojo/getExcludes()@g_maven-war-plugin-2.5.jar.txt	2
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/getFilesToCopy(org.apache.maven.model.Resource)@g_maven-war-plugin-2.5.jar.txt	1
+org/apache/maven/plugin/war/HelpMojo/execute()@g_maven-war-plugin-2.5.jar.txt	3

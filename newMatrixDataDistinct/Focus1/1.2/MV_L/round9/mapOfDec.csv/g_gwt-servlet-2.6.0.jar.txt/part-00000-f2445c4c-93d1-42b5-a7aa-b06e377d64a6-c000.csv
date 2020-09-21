@@ -1,0 +1,5 @@
+org/apache/lucene/index/IndexFileDeleter/getRefCount(java.lang.String)@g_lucene-core-5.0.0.jar.txt	4
+org/apache/lucene/index/IndexFileDeleter/inflateGens(org.apache.lucene.index.SegmentInfos,java.util.Collection,org.apache.lucene.util.InfoStream)@g_lucene-core-6.5.0.jar.txt	3
+org/apache/lucene/index/PersistentSnapshotDeletionPolicy/loadPriorSnapshots()@g_lucene-core-6.5.0.jar.txt	2
+org/apache/lucene/index/IndexFileDeleter/inflateGens(org.apache.lucene.index.SegmentInfos,java.util.Collection,org.apache.lucene.util.InfoStream)@g_lucene-core-5.0.0.jar.txt	1
+org/apache/lucene/index/PersistentSnapshotDeletionPolicy/loadPriorSnapshots()@g_lucene-core-5.0.0.jar.txt	0

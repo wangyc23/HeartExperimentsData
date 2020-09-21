@@ -1,0 +1,4 @@
+com/netflix/servo/jsr166e/ForkJoinPool$DefaultForkJoinWorkerThreadFactory/DefaultForkJoinWorkerThreadFactory()
+java/lang/RuntimePermission/RuntimePermission(java.lang.String)
+java/lang/Class/getDeclaredField(java.lang.String)
+sun/misc/Unsafe/objectFieldOffset(java.lang.reflect.Field)

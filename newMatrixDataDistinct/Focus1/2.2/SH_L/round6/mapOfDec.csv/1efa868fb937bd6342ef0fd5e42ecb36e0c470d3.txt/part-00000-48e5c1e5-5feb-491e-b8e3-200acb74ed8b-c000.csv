@@ -1,0 +1,5 @@
+io/dropwizard/client/JerseyClientBuilderTest/usesACustomCredentialsProvider()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	3
+io/dropwizard/configuration/ConfigurationParsingException/Builder/build(java.lang.String)@18747440a7b6d2b609f367e203d6a521db1581a9.txt	0
+io/dropwizard/validation/valuehandling/OptionalIntValidatedValueUnwrapperTest/succeedsWhenConstraintsMet()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	1
+com/exercise/socialconnection/repository/Neo4jPersonRepoistoryTest/testFindByName()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	4
+io/dropwizard/server/DefaultServerFactoryTest/doesNotDefaultExceptionMappers()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	2

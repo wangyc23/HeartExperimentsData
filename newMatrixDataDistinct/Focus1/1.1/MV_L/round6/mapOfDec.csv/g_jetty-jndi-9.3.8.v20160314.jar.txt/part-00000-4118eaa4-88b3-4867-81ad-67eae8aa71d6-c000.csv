@@ -1,0 +1,5 @@
+org/eclipse/jetty/jndi/NamingContext/listBindings(javax.naming.Name)@g_jetty-jndi-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/jndi/local/localContextRoot/bind(javax.naming.Name,java.lang.Object)@g_jetty-jndi-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/jndi/local/localContextRoot/list(javax.naming.Name)@g_jetty-jndi-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/jndi/local/localContextRoot/lookupLink(javax.naming.Name)@g_jetty-jndi-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/jndi/local/localContextRoot/unbind(javax.naming.Name)@g_jetty-jndi-7.6.5.v20120716.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/jena/sparql/lang/SyntaxVarScope/checkExprVarUse(org.apache.jena.query.Query)@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	2
+org/apache/jena/sparql/sse/builders/BuilderOp/23/make(org.apache.jena.sparql.sse.ItemList)@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	1
+org/apache/jena/query/Query/checkDataBlock(java.util.List,java.util.List)@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	3
+org/apache/jena/sparql/engine/iterator/QueryIterProjectMerge/ProjectEnsureBindingConverter/ensure(java.util.List,org.apache.jena.sparql.engine.binding.Binding,org.apache.jena.sparql.engine.binding.Binding)@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	0
+org/apache/jena/sparql/util/IsoMatcher/match(java.util.List,java.util.List,org.apache.jena.sparql.util.IsoMatcher$Mapping)@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	4

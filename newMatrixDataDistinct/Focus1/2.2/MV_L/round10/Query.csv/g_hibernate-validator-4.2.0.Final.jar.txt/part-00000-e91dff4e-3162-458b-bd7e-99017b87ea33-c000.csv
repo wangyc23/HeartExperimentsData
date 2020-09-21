@@ -1,0 +1,4 @@
+java/lang/Class/isInterface()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Collection/size()
+java/util/Iterator/next()

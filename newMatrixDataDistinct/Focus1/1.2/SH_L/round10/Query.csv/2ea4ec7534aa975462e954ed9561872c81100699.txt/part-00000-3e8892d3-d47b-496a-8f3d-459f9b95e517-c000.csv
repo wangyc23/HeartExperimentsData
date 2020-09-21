@@ -1,0 +1,4 @@
+org/exoplatform/portal/tree/list/ListTree/get(int)
+org/exoplatform/portal/mop/navigation/NavigationService/saveNode(org.exoplatform.portal.mop.navigation.NodeContext,org.exoplatform.portal.mop.navigation.NodeChangeListener)
+org/exoplatform/portal/config/DataStorage/create(org.exoplatform.portal.config.model.PortalConfig)
+org/exoplatform/portal/config/model/Page/setOwnerType(java.lang.String)

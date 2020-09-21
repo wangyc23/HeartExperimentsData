@@ -1,0 +1,5 @@
+org/bouncycastle/mail/smime/SMIMESignedGenerator/ContentSigner/write(java.io.OutputStream)@g_neo4j-bolt-3.0.1.jar.txt	4
+org/neo4j/bolt/security/ssl/Certificates/createSelfSignedCertificate(java.io.File,java.io.File,java.lang.String)@g_neo4j-bolt-3.0.1.jar.txt	0
+org/bouncycastle/mail/smime/examples/CreateSignedMultipartMail/makeCertificate(java.security.KeyPair,java.lang.String,java.security.KeyPair,java.lang.String)@g_bcmail-jdk15on-1.49.jar.txt	2
+org/bouncycastle/mail/smime/examples/CreateSignedMail/makeCertificate(java.security.KeyPair,java.lang.String,java.security.KeyPair,java.lang.String)@g_bcmail-jdk15on-1.49.jar.txt	1
+org/bouncycastle/mail/smime/examples/CreateLargeSignedMail/makeCertificate(java.security.KeyPair,java.lang.String,java.security.KeyPair,java.lang.String)@g_bcmail-jdk15on-1.49.jar.txt	3

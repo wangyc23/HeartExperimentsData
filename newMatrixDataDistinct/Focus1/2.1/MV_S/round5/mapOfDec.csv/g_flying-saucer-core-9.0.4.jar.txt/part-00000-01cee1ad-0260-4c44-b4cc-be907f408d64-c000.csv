@@ -1,0 +1,5 @@
+org/apache/ivy/core/resolve/ResolveEngine/resolveConflict(org.apache.ivy.core.resolve.VisitNode,org.apache.ivy.core.resolve.VisitNode,java.lang.String,java.util.Collection)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/plugins/resolver/ChainResolver/dumpSettings()@g_ivy-2.3.0.jar.txt	3
+org/xhtmlrenderer/css/parser/property/CounterPropertyBuilder/buildDeclarations(org.xhtmlrenderer.css.constants.CSSName,java.util.List,int,boolean,boolean)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/osgi/core/ManifestHeaderValue/writeParseException(java.io.PrintStream,java.lang.String,java.text.ParseException)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0

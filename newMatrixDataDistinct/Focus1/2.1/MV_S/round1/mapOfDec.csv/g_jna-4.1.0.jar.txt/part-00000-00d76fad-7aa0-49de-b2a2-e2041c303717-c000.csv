@@ -1,0 +1,5 @@
+com/sun/jna/Structure/validateField(java.lang.String,java.lang.Class)@g_jffi-1.0.8.jar.txt	2
+com/sun/jna/Structure/writeField(com.sun.jna.Structure$StructField)@g_jffi-1.0.8.jar.txt	3
+com/kenai/jffi/MemoryIO/verifyAccessor(java.lang.Class,java.lang.Class)@g_jffi-1.0.8.jar.txt	0
+org/bytedeco/javacpp/Pointer/deallocator(org.bytedeco.javacpp.Pointer$Deallocator)@g_javacpp-1.3.1.jar.txt	1
+com/sun/jna/Native/AWT/getComponentID(java.lang.Object)@g_jffi-1.0.8.jar.txt	4

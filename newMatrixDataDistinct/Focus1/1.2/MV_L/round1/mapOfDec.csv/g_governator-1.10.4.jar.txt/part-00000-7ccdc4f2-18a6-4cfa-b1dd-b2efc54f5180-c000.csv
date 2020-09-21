@@ -1,0 +1,5 @@
+com/netflix/governator/lifecycle/GovernatorFileArchive/toFile(java.net.URL)@g_governator-1.2.10.jar.txt	3
+com/netflix/governator/lifecycle/GovernatorFileArchive/decode(java.lang.String)@g_governator-1.2.10.jar.txt	1
+com/netflix/governator/lifecycle/GovernatorFileArchive/getBytecode(java.lang.String)@g_governator-1.2.10.jar.txt	0
+com/netflix/governator/configuration/ArchaiusConfigurationProvider/getDynamicSupplier(java.lang.Class,java.lang.String,java.lang.String,com.netflix.config.DynamicPropertyFactory)@g_governator-1.2.10.jar.txt	4
+org/sonatype/guice/bean/scanners/index/SisuIndexFinder/findClasses(org.sonatype.guice.bean.reflect.ClassSpace)@g_sisu-inject-bean-2.1.1.jar.txt	2

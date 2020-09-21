@@ -1,0 +1,4 @@
+org/apache/mahout/math/AbstractVector/getQuick(int)
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(char)
+java/lang/Integer/valueOf(int)

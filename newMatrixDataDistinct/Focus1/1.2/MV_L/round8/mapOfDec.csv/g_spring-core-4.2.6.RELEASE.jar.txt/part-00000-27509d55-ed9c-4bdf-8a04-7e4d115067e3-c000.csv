@@ -1,0 +1,5 @@
+org/springframework/core/GenericTypeResolver/resolveReturnTypeForGenericMethod(java.lang.reflect.Method,java.lang.Object[],java.lang.ClassLoader)@g_spring-core-4.1.7.RELEASE.jar.txt	2
+org/springframework/core/GenericTypeResolver/resolveReturnTypeForGenericMethod(java.lang.reflect.Method,java.lang.Object[],java.lang.ClassLoader)@g_spring-core-4.1.8.RELEASE.jar.txt	0
+org/springframework/core/style/DefaultValueStyler/style(java.util.Map)@g_spring-core-4.1.8.RELEASE.jar.txt	4
+org/springframework/core/convert/support/IdToEntityConverter/getFinder(java.lang.Class)@g_spring-core-4.1.7.RELEASE.jar.txt	3
+org/springframework/core/convert/support/IdToEntityConverter/getFinder(java.lang.Class)@g_spring-core-4.1.8.RELEASE.jar.txt	1

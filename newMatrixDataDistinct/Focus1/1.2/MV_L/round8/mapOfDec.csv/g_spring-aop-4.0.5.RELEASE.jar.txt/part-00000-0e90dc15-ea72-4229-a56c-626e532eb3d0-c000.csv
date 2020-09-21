@@ -1,0 +1,5 @@
+org/springframework/aop/aspectj/AspectJExpressionPointcut/matches(java.lang.reflect.Method,java.lang.Class,java.lang.Object[])@g_spring-aop-4.0.3.RELEASE.jar.txt	3
+org/springframework/aop/scope/ScopedProxyFactoryBean/setBeanFactory(org.springframework.beans.factory.BeanFactory)@g_spring-aop-4.0.6.RELEASE.jar.txt	1
+org/springframework/aop/scope/ScopedProxyFactoryBean/setBeanFactory(org.springframework.beans.factory.BeanFactory)@g_spring-aop-4.0.3.RELEASE.jar.txt	0
+org/springframework/aop/framework/ProxyFactoryBean/initializeAdvisorChain()@g_spring-aop-4.0.3.RELEASE.jar.txt	2
+org/springframework/aop/framework/JdkDynamicAopProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-aop-4.0.3.RELEASE.jar.txt	4

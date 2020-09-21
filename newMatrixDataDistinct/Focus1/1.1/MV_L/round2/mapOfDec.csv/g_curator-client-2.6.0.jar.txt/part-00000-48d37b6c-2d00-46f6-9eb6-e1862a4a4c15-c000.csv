@@ -1,0 +1,5 @@
+net/sf/ehcache/store/disk/DiskStorageFactory/DiskWriteTask/call()@g_eureka-client-1.1.147.jar.txt	4
+net/sf/ehcache/constructs/nonstop/NonstopExecutorServiceImpl/printNonstopThreadStackTrace(java.util.concurrent.Callable,long)@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/transaction/local/JtaLocalTransactionStore/registerInJtaContext()@g_ehcache-core-2.6.2.jar.txt	0
+com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider/get()@g_eureka-client-1.1.147.jar.txt	3
+net/sf/ehcache/util/UpdateChecker/doCheck()@g_ehcache-core-2.6.2.jar.txt	1

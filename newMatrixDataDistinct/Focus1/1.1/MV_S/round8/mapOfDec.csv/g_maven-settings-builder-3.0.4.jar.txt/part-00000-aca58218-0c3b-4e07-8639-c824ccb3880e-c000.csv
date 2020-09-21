@@ -1,0 +1,5 @@
+org/apache/maven/project/artifact/MavenMetadataSource/createDependencyFilter(org.apache.maven.model.Dependency,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-core-3.0.jar.txt	3
+org/apache/maven/toolchain/DefaultToolchain/matchesRequirements(java.util.Map)@g_maven-core-3.0.jar.txt	2
+org/apache/maven/execution/DefaultMavenExecutionRequestPopulator/populateFromSettings(org.apache.maven.execution.MavenExecutionRequest,org.apache.maven.settings.Settings)@g_maven-core-3.0.jar.txt	1
+org/apache/maven/configuration/DefaultBeanConfigurationRequest/findPlugin(org.apache.maven.model.Model,java.lang.String,java.lang.String)@g_maven-core-3.0.jar.txt	4
+org/apache/maven/settings/SettingsUtils/copySettings(org.apache.maven.settings.Settings)@g_maven-core-3.0.jar.txt	0

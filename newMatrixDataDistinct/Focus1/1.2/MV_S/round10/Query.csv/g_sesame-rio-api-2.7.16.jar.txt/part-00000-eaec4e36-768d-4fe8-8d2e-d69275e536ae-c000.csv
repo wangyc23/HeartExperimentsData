@@ -1,0 +1,4 @@
+org/openrdf/model/Literal/getDatatype()
+org/openrdf/model/util/LiteralUtilException/getMessage()
+java/util/Iterator/hasNext()
+org/openrdf/model/Literal/getLabel()

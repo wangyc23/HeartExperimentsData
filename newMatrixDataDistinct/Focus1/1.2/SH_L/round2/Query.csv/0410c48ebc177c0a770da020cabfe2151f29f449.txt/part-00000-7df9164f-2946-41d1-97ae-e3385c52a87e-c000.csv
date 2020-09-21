@@ -1,0 +1,4 @@
+java/lang/Thread/start()
+org/apache/commons/logging/Log/info(java.lang.Object)
+org/apache/mesos/Protos/TaskStatus/Builder/setTaskId(org.apache.mesos.Protos.TaskID)
+org/apache/commons/logging/Log/fatal(java.lang.Object,java.lang.Throwable)

@@ -1,0 +1,5 @@
+org/bouncycastle/x509/examples/AttrCertExample/createClientCert(java.security.PublicKey,java.security.PrivateKey,java.security.PublicKey)@g_bcmail-jdk15-1.45.jar.txt	1
+org/bouncycastle/operator/jcajce/JceKTSKeyWrapper/generateWrappedKey(org.bouncycastle.operator.GenericKey)@g_bcmail-jdk15-1.45.jar.txt	4
+org/bouncycastle/mozilla/SignedPublicKeyAndChallenge/getPublicKey(java.lang.String)@g_bcmail-jdk15-1.45.jar.txt	2
+org/bouncycastle/cert/dane/fetcher/JndiDANEFetcherFactory/build(java.lang.String)@g_bcmail-jdk15-1.45.jar.txt	3
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcmail-jdk15-1.45.jar.txt	0

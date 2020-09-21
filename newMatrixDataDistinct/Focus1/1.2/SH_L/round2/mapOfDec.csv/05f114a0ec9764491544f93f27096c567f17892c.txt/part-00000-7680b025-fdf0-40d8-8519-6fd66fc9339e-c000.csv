@@ -1,0 +1,5 @@
+retrofit/appengine/UrlFetchClient/parseResponse(com.google.appengine.api.urlfetch.HTTPResponse)@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	1
+retrofit/mime/MultipartTypedOutput/buildBoundary(java.lang.String,boolean,boolean)@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	4
+com/codahale/metrics/UniformSnapshotTest/worksWithUnderestimatedCollections()@14605e35dbaf8b322336885b479ea464dcd2c403.txt	3
+com/codahale/metrics/UniformSnapshotTest/worksWithOverestimatedCollections()@14605e35dbaf8b322336885b479ea464dcd2c403.txt	2
+retrofit/mime/MultipartTypedOutput/getParts()@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	0

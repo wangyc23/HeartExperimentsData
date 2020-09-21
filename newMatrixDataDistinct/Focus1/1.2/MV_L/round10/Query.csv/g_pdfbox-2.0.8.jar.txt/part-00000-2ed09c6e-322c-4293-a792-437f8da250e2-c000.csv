@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+org/apache/commons/logging/Log/warn(java.lang.Object)
+java/lang/StringBuilder/append(int)
+org/apache/pdfbox/pdfparser/COSParser/skipSpaces()

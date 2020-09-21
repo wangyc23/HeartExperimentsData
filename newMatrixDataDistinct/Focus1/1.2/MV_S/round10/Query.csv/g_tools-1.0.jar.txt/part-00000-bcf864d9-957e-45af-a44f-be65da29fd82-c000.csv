@@ -1,0 +1,4 @@
+gate/qa/AnnotationDiffExporter$DiffTable/getColumnName(int)
+gate/util/AnnotationDiffer/getPartiallyCorrectMatches()
+gate/util/AnnotationDiffer/getRecallStrict()
+java/util/Iterator/hasNext()

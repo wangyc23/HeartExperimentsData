@@ -1,0 +1,4 @@
+com/epam/training/dataaccess/model/ServerInfo/getName()
+java/lang/StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+com/epam/training/dataaccess/model/ServerInfo/getCpuType()

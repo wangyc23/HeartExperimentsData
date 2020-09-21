@@ -1,0 +1,4 @@
+java/security/cert/X509Certificate/getSerialNumber()
+org/qipki/crypto/CryptoFailure/CryptoFailure(java.lang.String,java.lang.Throwable)
+org/qipki/crypto/algorithms/SignatureAlgorithm/jcaString()
+org/qipki/crypto/x509/RevocationReason/reason()

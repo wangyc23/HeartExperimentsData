@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+com/google/inject/spi/TypeConverterBinding/getTypeConverter()
+java/util/Iterator/hasNext()
+java/lang/String/trim()

@@ -1,0 +1,4 @@
+org/apache/http/nio/util/SimpleInputBuffer/SimpleInputBuffer(int,org.apache.http.nio.util.ByteBufferAllocator)
+java/lang/StringBuilder/append(int)
+org/apache/http/ContentTooLongException/ContentTooLongException(java.lang.String)
+org/apache/http/HttpResponse/setEntity(org.apache.http.HttpEntity)

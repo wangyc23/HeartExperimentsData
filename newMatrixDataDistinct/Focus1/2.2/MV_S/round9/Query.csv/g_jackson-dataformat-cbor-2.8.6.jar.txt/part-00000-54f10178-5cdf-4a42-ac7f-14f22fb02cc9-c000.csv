@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)
+com/fasterxml/jackson/core/util/ByteArrayBuilder/write(byte[],int,int)
+com/fasterxml/jackson/core/util/ByteArrayBuilder/toByteArray()

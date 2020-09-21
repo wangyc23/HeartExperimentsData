@@ -1,0 +1,4 @@
+org/apache/tika/exception/TikaException/TikaException(java.lang.String,java.lang.Throwable)
+org/apache/tika/metadata/Metadata/set(java.lang.String,java.lang.String)
+org/apache/tika/sax/XHTMLContentHandler/startDocument()
+java/lang/String/length()

@@ -1,0 +1,7 @@
+0	java/util/List/get(int)
+1	java/lang/System/setProperty(java.lang.String,java.lang.String)
+2	io/dropwizard/configuration/ConfigurationFactoryTest/ExampleServer/getPort()
+3	io/dropwizard/configuration/ConfigurationFactoryTest/Example/getType()
+4	io/dropwizard/configuration/ConfigurationFactory/build(java.io.File)
+5	io/dropwizard/jackson/Jackson/newObjectMapper()
+6	java/util/List/size()

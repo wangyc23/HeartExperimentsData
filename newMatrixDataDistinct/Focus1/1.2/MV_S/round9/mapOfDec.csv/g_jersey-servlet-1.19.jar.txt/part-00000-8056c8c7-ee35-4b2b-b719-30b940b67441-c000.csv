@@ -1,0 +1,5 @@
+com/sun/jersey/server/impl/cdi/CDIExtension/processAnnotatedField(javax.enterprise.inject.spi.AnnotatedField,java.lang.Class,boolean,java.util.Map)@g_jersey-container-servlet-core-2.25.1.jar.txt	4
+org/glassfish/jersey/servlet/internal/ResponseWriter/writeResponseStatusAndHeaders(long,org.glassfish.jersey.server.ContainerResponse)@g_jersey-container-servlet-core-2.25.1.jar.txt	0
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/getInitParamDeclaredRegistrations(javax.servlet.ServletContext,java.lang.Class)@g_jersey-container-servlet-core-2.25.1.jar.txt	3
+com/sun/jersey/server/impl/container/servlet/Include/doTag()@g_jersey-container-servlet-core-2.25.1.jar.txt	2
+com/sun/jersey/server/impl/container/servlet/PerSessionFactory/SessionMap/valueUnbound(javax.servlet.http.HttpSessionBindingEvent)@g_jersey-container-servlet-core-2.25.1.jar.txt	1

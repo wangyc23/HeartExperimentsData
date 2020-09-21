@@ -1,0 +1,5 @@
+org/eclipse/sisu/space/URLClassSpace/normalizeEntry(java.net.URL)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	0
+org/eclipse/sisu/space/URLClassSpace/getClassPathEntries(java.net.URL)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	1
+org/eclipse/core/runtime/FileLocator/getBundleFile(org.osgi.framework.Bundle)@g_common-3.6.200-v20130402-1505.jar.txt	3
+org/eclipse/sisu/space/ResourceEnumeration/findResource(java.lang.String)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	2
+org/eclipse/sisu/wire/PlaceholderBeanProvider/interpolate(java.lang.String,java.lang.Class)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	4

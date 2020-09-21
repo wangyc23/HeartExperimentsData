@@ -1,0 +1,5 @@
+ch/fhnw/cbr/model/sim/function/local/SoftTFIDFJaroWinkler/prepare(com.hp.hpl.jena.ontology.OntClass,com.hp.hpl.jena.ontology.OntProperty)@g_cbr-core-1.0-SNAPSHOT.jar.txt	1
+ch/fhnw/cbr/model/sim/ObjectSimResult/copy()@g_cbr-core-1.0-SNAPSHOT.jar.txt	2
+ch/fhnw/cbr/model/sim/function/local/taxonomy/utils/OntTools/getParentInstances(com.hp.hpl.jena.ontology.Individual,java.util.List,com.hp.hpl.jena.ontology.OntProperty,boolean)@g_cbr-core-1.0-SNAPSHOT.jar.txt	0
+ch/fhnw/cbr/model/sim/ObjectPropertySimResult/copy()@g_cbr-core-1.0-SNAPSHOT.jar.txt	3
+ch/fhnw/cbr/model/CBRCaseView/retreive(com.hp.hpl.jena.ontology.Individual)@g_cbr-core-1.0-SNAPSHOT.jar.txt	4

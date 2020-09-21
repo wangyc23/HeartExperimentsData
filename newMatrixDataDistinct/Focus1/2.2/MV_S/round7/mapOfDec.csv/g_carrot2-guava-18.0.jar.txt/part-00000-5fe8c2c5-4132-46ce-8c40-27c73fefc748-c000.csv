@@ -1,0 +1,5 @@
+com/google/common/util/concurrent/AbstractScheduledService/ServiceDelegate/2/run()@g_guava-19.0-rc3.jar.txt	0
+com/google/common/reflect/TypeToken/TypeCollector/collectTypes(java.lang.Object,java.util.Map)@g_guava-19.0-rc3.jar.txt	4
+org/carrot2/shaded/guava/common/cache/LocalCache/Segment/insertLoadingValueReference(java.lang.Object,int,boolean)@g_guava-19.0-rc3.jar.txt	3
+com/google/common/util/concurrent/AbstractScheduledService/ServiceDelegate/2/run()@g_guava-19.0.jar.txt	1
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_guava-19.0-rc3.jar.txt	2

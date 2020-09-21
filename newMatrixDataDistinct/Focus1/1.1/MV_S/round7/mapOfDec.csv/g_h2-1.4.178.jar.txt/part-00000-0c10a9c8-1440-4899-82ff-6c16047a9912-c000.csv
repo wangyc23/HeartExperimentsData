@@ -1,0 +1,5 @@
+liquibase/changelog/ChangeLogParameters/ExpressionExpander/expandExpressions(java.lang.String)@g_liquibase-core-2.0.5.jar.txt	4
+liquibase/snapshot/jvm/OracleDatabaseSnapshotGenerator/readUniqueConstraints(liquibase.snapshot.DatabaseSnapshot,java.lang.String,java.sql.DatabaseMetaData)@g_liquibase-core-2.0.5.jar.txt	2
+liquibase/snapshot/jvm/SQLiteDatabaseSnapshotGenerator/readColumns(liquibase.snapshot.DatabaseSnapshot,java.lang.String,java.sql.DatabaseMetaData)@g_liquibase-core-2.0.5.jar.txt	3
+liquibase/snapshot/jvm/SQLiteDatabaseSnapshotGenerator/readTables(liquibase.snapshot.DatabaseSnapshot,java.lang.String,java.sql.DatabaseMetaData)@g_liquibase-core-2.0.5.jar.txt	0
+liquibase/sqlgenerator/core/UpdateGenerator/convertToString(java.lang.Object,liquibase.database.Database)@g_liquibase-core-2.0.5.jar.txt	1

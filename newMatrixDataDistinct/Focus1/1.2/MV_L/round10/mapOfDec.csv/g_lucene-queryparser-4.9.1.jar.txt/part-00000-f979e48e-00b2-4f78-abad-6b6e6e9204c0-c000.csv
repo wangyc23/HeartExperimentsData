@@ -1,0 +1,5 @@
+org/apache/lucene/queryparser/xml/builders/SpanOrBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-4.6.0.jar.txt	2
+org/apache/lucene/queryparser/xml/builders/SpanOrBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-4.7.0.jar.txt	3
+org/apache/lucene/queryparser/xml/builders/SpanNearBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-4.6.0.jar.txt	0
+org/apache/lucene/queryparser/xml/builders/SpanOrTermsBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-4.6.0.jar.txt	4
+org/apache/lucene/queryparser/xml/builders/SpanNearBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-4.7.0.jar.txt	1

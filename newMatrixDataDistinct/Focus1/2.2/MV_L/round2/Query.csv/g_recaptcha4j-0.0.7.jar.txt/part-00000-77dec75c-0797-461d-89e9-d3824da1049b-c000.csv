@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+java/net/URL/openConnection()
+java/net/URLConnection/setDoInput(boolean)
+java/io/InputStream/read(byte[])

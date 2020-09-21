@@ -1,0 +1,5 @@
+ch/fhnw/cbr/model/CCAnnotationProperty/compare(com.hp.hpl.jena.ontology.Individual,com.hp.hpl.jena.ontology.Individual)@g_cbr-core-1.0.1.jar.txt	2
+ch/fhnw/cbr/model/CCLiteralProperty/compare(com.hp.hpl.jena.ontology.Individual,com.hp.hpl.jena.ontology.Individual)@g_cbr-core-1.0.1.jar.txt	1
+eu/learnpad/ontology/execution/ExecutionStates/getStates(java.lang.String,java.lang.String)@g_cbr-core-1.0.1.jar.txt	4
+ch/fhnw/cbr/model/sim/PropertySimResult/copy()@g_cbr-core-1.0.1.jar.txt	0
+ch/fhnw/cbr/model/CBRCase/getCaseState(com.hp.hpl.jena.ontology.Individual)@g_cbr-core-1.0.1.jar.txt	3

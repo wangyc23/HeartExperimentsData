@@ -1,0 +1,4 @@
+org/springframework/cloud/netflix/hystrix/HystrixCircuitBreakerConfiguration$HystrixMetricsPollerConfiguration/addMetrics(java.util.Map,java.lang.String)
+java/util/Iterator/hasNext()
+org/springframework/boot/actuate/metrics/GaugeService/submit(java.lang.String,double)
+java/util/Map/get(java.lang.Object)

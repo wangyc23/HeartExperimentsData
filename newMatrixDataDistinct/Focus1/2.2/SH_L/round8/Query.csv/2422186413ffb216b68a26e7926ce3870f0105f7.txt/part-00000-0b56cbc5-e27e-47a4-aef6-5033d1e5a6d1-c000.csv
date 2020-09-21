@@ -1,0 +1,4 @@
+org/apache/james/transport/mailets/SerialiseToHTTP/addHeader(org.apache.mailet.Mail,boolean,java.lang.String)
+org/apache/james/transport/mailets/SerialiseToHTTP/getSerialisedMessage(org.apache.james.transport.mailets.delivery.MimeMessage)
+org/apache/mailet/Mail/setState(java.lang.String)
+java/lang/String/length()

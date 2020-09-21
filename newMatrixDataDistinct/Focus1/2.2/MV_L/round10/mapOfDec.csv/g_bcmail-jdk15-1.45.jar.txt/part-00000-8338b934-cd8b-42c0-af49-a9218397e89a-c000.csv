@@ -1,0 +1,5 @@
+org/bouncycastle/mail/smime/examples/ReadSignedMail/main(java.lang.String[])@g_bcmail-jdk14-138.jar.txt	4
+org/bouncycastle/mail/smime/examples/SendSignedAndEncryptedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.49.jar.txt	2
+org/bouncycastle/mail/smime/examples/ValidateSignedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.49.jar.txt	0
+org/bouncycastle/mail/smime/examples/ReadEncryptedMail/main(java.lang.String[])@g_bcmail-jdk14-138.jar.txt	3
+org/bouncycastle/mail/smime/examples/SendSignedAndEncryptedMail/main(java.lang.String[])@g_bcmail-jdk14-138.jar.txt	1

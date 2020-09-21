@@ -1,0 +1,5 @@
+org/xwiki/filter/xml/internal/XMLUtils/<clinit>()@g_jmock-2.6.0.jar.txt	1
+net/sourceforge/segment/srx/legacy/ScannerSrxTextIterator/createSeparator(java.util.List)@g_jmock-2.6.0.jar.txt	3
+org/xwiki/filter/xml/internal/parser/DefaultXMLParser/endElement(java.lang.String,java.lang.String,java.lang.String)@g_jmock-2.6.0.jar.txt	4
+net/sourceforge/segment/srx/SrxTextIterator/init(net.sourceforge.segment.srx.SrxDocument,java.lang.String,net.sourceforge.segment.srx.TextManager,java.util.Map)@g_jmock-2.6.0.jar.txt	2
+org/xwiki/filter/xml/internal/serializer/DefaultXMLSerializer/writeInlineParameters(java.util.List,org.xwiki.filter.FilterElementDescriptor)@g_jmock-2.6.0.jar.txt	0

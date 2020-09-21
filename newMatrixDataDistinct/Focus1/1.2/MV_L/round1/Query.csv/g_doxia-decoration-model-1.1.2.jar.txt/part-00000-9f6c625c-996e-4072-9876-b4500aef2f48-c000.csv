@@ -1,0 +1,4 @@
+org/apache/maven/doxia/site/decoration/MenuItem/setPosition(java.lang.String)
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getAttributeValue(java.lang.String,java.lang.String)
+java/util/List/add(java.lang.Object)
+org/apache/maven/doxia/site/decoration/MenuItem/setImg(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/xml/serializer/dom3/DOM3TreeWalker/serializeAttList(org.w3c.dom.Element)@g_cssparser-0.9.14.jar.txt	4
+org/apache/xml/serializer/NamespaceMappings/pushNamespace(java.lang.String,java.lang.String,int)@g_cssparser-0.9.14.jar.txt	0
+org/apache/xerces/jaxp/DocumentBuilderFactoryImpl/getFeature(java.lang.String)@g_cssparser-0.9.14.jar.txt	3
+org/apache/xerces/util/DOMErrorHandlerWrapper/printError(org.w3c.dom.DOMError)@g_cssparser-0.9.14.jar.txt	2
+com/steadystate/css/parser/HandlerBase/warning(org.w3c.css.sac.CSSParseException)@g_cssparser-0.9.14.jar.txt	1

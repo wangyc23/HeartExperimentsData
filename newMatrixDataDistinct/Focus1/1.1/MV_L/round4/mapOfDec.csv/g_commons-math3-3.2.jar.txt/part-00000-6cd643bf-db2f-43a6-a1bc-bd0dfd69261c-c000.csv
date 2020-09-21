@@ -1,0 +1,5 @@
+org/apache/commons/math3/geometry/spherical/twod/SphericalPolygonsSet/getBoundaryLoops()@g_commons-math3-3.0.jar.txt	4
+org/apache/commons/math3/ode/AbstractFieldIntegrator/acceptStep(org.apache.commons.math3.ode.sampling.AbstractFieldStepInterpolator,org.apache.commons.math3.RealFieldElement)@g_commons-math3-3.0.jar.txt	3
+org/apache/commons/math3/distribution/AbstractIntegerDistribution/inverseCumulativeProbability(double)@g_commons-math3-3.0.jar.txt	1
+org/apache/commons/math3/linear/SymmLQ/solveInPlace(org.apache.commons.math3.linear.RealLinearOperator,org.apache.commons.math3.linear.RealLinearOperator,org.apache.commons.math3.linear.RealVector,org.apache.commons.math3.linear.RealVector,boolean,double)@g_commons-math3-3.0.jar.txt	2
+org/apache/commons/math3/optim/nonlinear/vector/jacobian/LevenbergMarquardtOptimizer/doOptimize()@g_commons-math3-3.6.1.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+org/junit/runners/model/InitializationError/InitializationError(java.lang.String)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)

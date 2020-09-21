@@ -1,0 +1,5 @@
+org/codehaus/jackson/map/ser/BeanSerializerFactory/_sortBeanProperties(java.util.List,java.util.List,java.lang.String[],boolean)@g_jackson-mapper-asl-1.8.3.jar.txt	3
+org/codehaus/jackson/map/util/EnumValues/constructFromToString(java.lang.Class,org.codehaus.jackson.map.AnnotationIntrospector)@g_jackson-mapper-asl-1.8.3.jar.txt	1
+org/codehaus/jackson/map/type/TypeBindings/_resolveBindings(java.lang.reflect.Type)@g_jackson-mapper-asl-1.8.9.jar.txt	4
+org/codehaus/jackson/map/type/TypeBindings/_resolveBindings(java.lang.reflect.Type)@g_jackson-mapper-asl-1.8.3.jar.txt	0
+org/codehaus/jackson/map/util/EnumValues/constructFromName(java.lang.Class,org.codehaus.jackson.map.AnnotationIntrospector)@g_jackson-mapper-asl-1.8.3.jar.txt	2

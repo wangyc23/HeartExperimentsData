@@ -1,0 +1,5 @@
+org/apache/sis/referencing/operation/builder/LinearTransformBuilder/toArrays(org.opengis.geometry.DirectPosition[],int)@g_sis-referencing-0.5.jar.txt	2
+org/apache/sis/geometry/Envelopes/transform(org.opengis.referencing.operation.MathTransform,org.opengis.geometry.Envelope,double[])@g_sis-referencing-0.5.jar.txt	1
+org/apache/sis/referencing/operation/DefaultConcatenatedOperation/mergeAccuracy(java.util.Map,java.util.List)@g_sis-referencing-0.5.jar.txt	4
+org/apache/sis/parameter/DefaultParameterDescriptor/equals(java.lang.Object,org.apache.sis.util.ComparisonMode)@g_sis-referencing-0.5.jar.txt	3
+org/apache/sis/referencing/operation/transform/ConcatenatedTransform/create(org.opengis.referencing.operation.MathTransform,org.opengis.referencing.operation.MathTransform)@g_sis-referencing-0.5.jar.txt	0

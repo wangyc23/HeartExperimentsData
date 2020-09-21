@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/resolveExternalJreVersion()@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/invoker/SelectorUtils/getMavenVersion(java.io.File)@g_maven-invoker-plugin-2.0.0.jar.txt	3
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getSystemProperties(java.io.File,java.lang.String)@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/shared/incremental/IncrementalBuildHelper/getMojoStatusDirectory()@g_maven-shared-incremental-1.1.jar.txt	0
+org/apache/maven/shared/incremental/IncrementalBuildHelper/inputFileTreeChanged(org.apache.maven.shared.incremental.IncrementalBuildHelperRequest)@g_maven-shared-incremental-1.1.jar.txt	2

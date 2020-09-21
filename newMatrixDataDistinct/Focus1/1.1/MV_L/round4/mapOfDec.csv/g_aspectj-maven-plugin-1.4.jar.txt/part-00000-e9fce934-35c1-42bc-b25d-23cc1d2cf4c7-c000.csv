@@ -1,0 +1,5 @@
+org/apache/jempbox/xmp/XMPSchema/setLanguageProperty(java.lang.String,java.lang.String,java.lang.String)@g_jempbox-1.6.0.jar.txt	0
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_jempbox-1.6.0.jar.txt	4
+org/apache/jempbox/xmp/XMPSchema/setLanguageProperty(java.lang.String,java.lang.String,java.lang.String)@g_jempbox-1.7.0.jar.txt	2
+org/apache/jempbox/xmp/XMPSchema/setTextProperty(java.lang.String,java.lang.String)@g_jempbox-1.6.0.jar.txt	1
+org/apache/jempbox/xmp/XMPSchema/setTextProperty(java.lang.String,java.lang.String)@g_jempbox-1.7.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/languagetool/synthesis/ca/CatalanSynthesizer/synthesize(org.languagetool.AnalyzedToken,java.lang.String,boolean)@g_language-ca-3.0.jar.txt	2
+org/languagetool/rules/ca/AccentuationCheckRule/match(org.languagetool.AnalyzedSentence)@g_language-ca-3.0.jar.txt	1
+org/languagetool/rules/uk/UkrainianWordRepeatRule/ignore(org.languagetool.AnalyzedTokenReadings[],int)@g_language-ca-3.0.jar.txt	4
+org/languagetool/tokenizers/ca/CatalanWordTokenizer/wordsToAdd(java.lang.String)@g_language-ca-3.0.jar.txt	3
+org/languagetool/rules/ca/SimpleReplaceVerbsRule/match(org.languagetool.AnalyzedSentence)@g_language-ca-3.0.jar.txt	0

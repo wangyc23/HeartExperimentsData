@@ -1,0 +1,5 @@
+org/jsoup/helper/HttpConnection/Response/serialiseRequestUrl(org.jsoup.Connection$Request)@g_jsoup-1.8.1.jar.txt	1
+org/jsoup/helper/HttpConnection/Response/serialiseRequestUrl(org.jsoup.Connection$Request)@g_jsoup-1.7.3.jar.txt	0
+org/jsoup/helper/HttpConnection/Response/execute(org.jsoup.Connection$Request,org.jsoup.helper.HttpConnection$Response)@g_jsoup-1.8.1.jar.txt	3
+org/jsoup/helper/HttpConnection/Response/execute(org.jsoup.Connection$Request,org.jsoup.helper.HttpConnection$Response)@g_jsoup-1.7.3.jar.txt	2
+org/jsoup/helper/HttpConnection/Response/writePost(java.util.Collection,java.io.OutputStream)@g_jsoup-1.7.3.jar.txt	4

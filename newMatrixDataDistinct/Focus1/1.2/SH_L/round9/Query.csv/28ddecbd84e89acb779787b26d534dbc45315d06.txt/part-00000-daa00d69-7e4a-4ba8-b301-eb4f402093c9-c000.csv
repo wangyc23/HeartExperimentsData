@@ -1,0 +1,4 @@
+java/lang/ClassLoader/getResource(java.lang.String)
+org/apache/hadoop/fs/FSDataOutputStream/close()
+java/net/URL/toURI()
+java/net/URI/getPath()

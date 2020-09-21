@@ -1,0 +1,4 @@
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+java/lang/Long/Long(long)
+java/lang/Class/getComponentType()
+java/lang/reflect/Array/newInstance(java.lang.Class,int)

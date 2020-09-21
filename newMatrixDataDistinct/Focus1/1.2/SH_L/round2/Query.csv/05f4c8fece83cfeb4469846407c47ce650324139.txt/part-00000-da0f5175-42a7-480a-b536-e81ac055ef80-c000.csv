@@ -1,0 +1,4 @@
+java/sql/ResultSet/next()
+java/sql/ResultSet/getInt(java.lang.String)
+java/sql/Connection/createStatement()
+java/sql/Connection/close()

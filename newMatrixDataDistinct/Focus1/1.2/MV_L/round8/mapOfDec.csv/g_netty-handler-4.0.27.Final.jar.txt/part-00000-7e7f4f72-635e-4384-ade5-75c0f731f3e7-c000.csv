@@ -1,0 +1,5 @@
+io/netty/handler/ssl/OpenSslContext/<clinit>()@g_netty-all-4.0.28.Final.jar.txt	2
+io/netty/handler/ssl/ReferenceCountedOpenSslContext/<clinit>()@g_netty-handler-4.1.7.Final.jar.txt	0
+io/netty/handler/ssl/SniHandler/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@g_netty-handler-4.1.7.Final.jar.txt	3
+io/netty/handler/ssl/JdkSslContext/<clinit>()@g_netty-handler-4.1.7.Final.jar.txt	1
+io/netty/handler/traffic/AbstractTrafficShapingHandler/ReopenReadTimerTask/run()@g_netty-handler-4.1.7.Final.jar.txt	4

@@ -1,0 +1,4 @@
+javax/persistence/Persistence/findAllProviders()@g_persistence-api-1.0.jar.txt	2
+org/slf4j/LoggerFactory/singleImplementationSanityCheck()@g_persistence-api-1.0.jar.txt	3
+javax/persistence/Persistence/findAllProviders()@g_slf4j-api-1.6.4.jar.txt	0
+org/slf4j/LoggerFactory/singleImplementationSanityCheck()@g_slf4j-api-1.6.4.jar.txt	1

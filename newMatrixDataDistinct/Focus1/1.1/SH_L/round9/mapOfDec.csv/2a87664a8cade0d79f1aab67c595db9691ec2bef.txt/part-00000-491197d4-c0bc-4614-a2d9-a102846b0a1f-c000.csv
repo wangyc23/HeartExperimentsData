@@ -1,0 +1,5 @@
+org/wso2/msf4j/examples/petstore/pet/PetCategoryService/addCategory(org.wso2.msf4j.examples.petstore.util.model.Category)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	4
+org/wso2/developerstudio/msf4j/artifact/generator/SwaggerToJavaGenerator/setImportMappings(org.wso2.developerstudio.msf4j.artifact.generator.CodegenConfigurator)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	2
+org/wso2/msf4j/internal/router/HandlerInterceptorTest2/testPreException()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	1
+org/wso2/msf4j/examples/petstore/fileserver/FileServerService/postFile(org.wso2.msf4j.HttpStreamer,java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	0
+com/jakubstas/swagger/rest/config/AccessHiddenModelConverter/read(java.lang.Class,scala.collection.immutable.Map)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	3

@@ -1,0 +1,4 @@
+org/xwiki/localization/macro/internal/TranslationMacro/execute(org.xwiki.localization.macro.TranslationMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-localization-macro-7.0.jar.txt	0
+org/xwiki/localization/script/LocalizationScriptService/render(java.lang.String,org.xwiki.rendering.syntax.Syntax,java.util.Collection)@g_xwiki-platform-localization-macro-7.0.jar.txt	1
+org/xwiki/localization/script/LocalizationScriptService/render(java.lang.String,org.xwiki.rendering.syntax.Syntax,java.util.Collection)@g_xwiki-platform-localization-macro-7.4.2.jar.txt	3
+org/xwiki/localization/macro/internal/TranslationMacro/execute(org.xwiki.localization.macro.TranslationMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-localization-macro-7.4.2.jar.txt	2

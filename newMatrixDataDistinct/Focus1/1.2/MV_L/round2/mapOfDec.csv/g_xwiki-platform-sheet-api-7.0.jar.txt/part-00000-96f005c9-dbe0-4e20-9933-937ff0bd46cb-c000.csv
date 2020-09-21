@@ -1,0 +1,4 @@
+org/xwiki/sheet/internal/DefaultSheetManager/getClassSheets(org.xwiki.model.reference.DocumentReference,java.lang.String)@g_xwiki-platform-sheet-api-7.4.2.jar.txt	2
+org/xwiki/sheet/internal/DefaultSheetManager/getClassSheets(org.xwiki.model.reference.DocumentReference,java.lang.String)@g_xwiki-platform-sheet-api-7.4.jar.txt	3
+org/xwiki/sheet/internal/DefaultSheetManager/getSheets(org.xwiki.bridge.DocumentModelBridge,java.lang.String)@g_xwiki-platform-sheet-api-7.4.2.jar.txt	0
+org/xwiki/sheet/internal/DefaultSheetManager/getSheets(org.xwiki.bridge.DocumentModelBridge,java.lang.String)@g_xwiki-platform-sheet-api-7.4.jar.txt	1

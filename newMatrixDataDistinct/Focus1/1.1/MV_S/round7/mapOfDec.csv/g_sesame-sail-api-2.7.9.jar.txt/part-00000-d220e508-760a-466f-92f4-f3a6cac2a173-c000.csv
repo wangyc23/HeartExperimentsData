@@ -1,0 +1,5 @@
+org/openrdf/sail/nativerdf/datastore/HashFile/increaseHashTable()@g_onejar-2.7.9.jar.txt	1
+org/openrdf/sail/helpers/DirectoryLockManager/removeInvalidLock(java.io.File)@g_onejar-2.7.9.jar.txt	2
+net/sf/ehcache/store/disk/DiskStorageFactory/shutdown()@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/store/disk/DiskStorageFactory/DiskWriteTask/call()@g_ehcache-core-2.6.2.jar.txt	4
+org/openrdf/sail/helpers/DirectoryLockManager/tryLock()@g_onejar-2.7.9.jar.txt	3

@@ -1,0 +1,4 @@
+com/things/frame/core/base/dao/AbstractDao/getSqlName(java.lang.String)
+java/lang/String/format(java.lang.String,java.lang.Object[])
+org/apache/ibatis/session/SqlSession/delete(java.lang.String,java.lang.Object)
+com/things/frame/core/exception/DaoException/DaoException(java.lang.String,java.lang.Throwable)

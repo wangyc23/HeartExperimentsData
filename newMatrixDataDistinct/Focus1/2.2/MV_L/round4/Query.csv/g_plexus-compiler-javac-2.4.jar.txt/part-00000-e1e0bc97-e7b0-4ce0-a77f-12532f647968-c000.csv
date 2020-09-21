@@ -1,0 +1,4 @@
+java/lang/String/length()
+java/lang/String/indexOf(java.lang.String,int)
+org/codehaus/plexus/compiler/CompilerMessage/CompilerMessage(java.lang.String,boolean)
+java/lang/StringBuilder/append(char)

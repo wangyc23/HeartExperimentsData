@@ -1,0 +1,5 @@
+org/jsoup/examples/HtmlToPlainText/FormattingVisitor/append(java.lang.String)@g_jsoup-1.7.2.jar.txt	1
+org/jsoup/helper/DataUtil/parseByteData(java.nio.ByteBuffer,java.lang.String,java.lang.String,org.jsoup.parser.Parser)@g_jsoup-1.8.1.jar.txt	2
+org/jsoup/safety/Whitelist/testValidProtocol(org.jsoup.nodes.Element,org.jsoup.nodes.Attribute,java.util.Set)@g_jsoup-1.8.1.jar.txt	4
+org/jsoup/nodes/Entities/escape(java.lang.StringBuilder,java.lang.String,org.jsoup.nodes.Document$OutputSettings,boolean,boolean,boolean)@g_jsoup-1.8.1.jar.txt	3
+org/jsoup/examples/HtmlToPlainText/FormattingVisitor/append(java.lang.String)@g_jsoup-1.8.1.jar.txt	0

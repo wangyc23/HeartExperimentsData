@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/ExhaustivePCFGParser/parse(java.util.List)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/lexparser/FrenchUnknownWordModel/getSignature(java.lang.String,int)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/sequences/SeqClassifierFlags/setProperties(java.util.Properties,boolean)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/ArabicUnknownWordModel/getSignature(java.lang.String,int)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/trees/TreePrint/toXMLString(java.util.Collection,boolean)@g_stanford-parser-3.5.2.jar.txt	0

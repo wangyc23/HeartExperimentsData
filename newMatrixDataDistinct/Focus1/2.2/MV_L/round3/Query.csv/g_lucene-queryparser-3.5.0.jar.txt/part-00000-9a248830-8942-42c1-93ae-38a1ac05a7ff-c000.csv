@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/Iterator/hasNext()
+org/apache/lucene/queryParser/core/nodes/FieldQueryNode/getTag(java.lang.String)
+org/apache/lucene/queryParser/standard/nodes/MultiPhraseQueryNode/getChildren()

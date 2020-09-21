@@ -1,0 +1,5 @@
+org/fusesource/camel/component/sap/model/rfc/provider/RespositoryDataStoreEntryItemProvider/getText(java.lang.Object)@2c5cd55ebce22cef1c9258e660f534e3dff07589.txt	2
+org/fusesource/fabric/partition/internal/profile/ProfilePartitionListener/renderTemplateName(java.lang.String,java.util.Map)@2c5cd55ebce22cef1c9258e660f534e3dff07589.txt	4
+org/fusesource/fabric/internal/VersionImpl/renameProfile(java.lang.String,java.lang.String,boolean)@2c5cd55ebce22cef1c9258e660f534e3dff07589.txt	1
+org/fusesource/eca/processor/StatisticsCalculator/calculateStatistics(org.apache.camel.Exchange)@2c5cd55ebce22cef1c9258e660f534e3dff07589.txt	3
+org/fusesource/fabric/service/SubstitutionSupport/substituteConfigurations(java.util.Map)@2c5cd55ebce22cef1c9258e660f534e3dff07589.txt	0

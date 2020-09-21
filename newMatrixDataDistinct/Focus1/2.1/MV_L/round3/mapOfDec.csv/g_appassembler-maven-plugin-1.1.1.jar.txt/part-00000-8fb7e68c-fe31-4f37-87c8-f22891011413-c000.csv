@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/xml/XmlReader/doLenientDetection(java.lang.String,org.codehaus.plexus.util.xml.XmlStreamReaderException)@g_plexus-utils-1.5.8.jar.txt	3
+org/codehaus/plexus/util/FileUtils/copyFile(java.io.File,java.io.File,java.lang.String,org.codehaus.plexus.util.FileUtils$FilterWrapper[],boolean)@g_plexus-utils-1.5.8.jar.txt	4
+org/codehaus/mojo/appassembler/CreateRepositoryMojo/execute()@g_plexus-utils-1.5.8.jar.txt	1
+org/codehaus/mojo/appassembler/util/FormattedProperties/save(java.io.OutputStream)@g_plexus-utils-1.5.8.jar.txt	2
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_plexus-utils-1.5.8.jar.txt	0

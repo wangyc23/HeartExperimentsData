@@ -1,0 +1,5 @@
+org/hibernate/validator/engine/groups/GroupChainGenerator/getGroupChainFor(java.util.Collection)@g_hibernate-validator-4.1.0.Final.jar.txt	0
+org/hibernate/validator/constraints/impl/scriptassert/ScriptEvaluator/doEvaluate(java.lang.String,java.lang.Object,java.lang.String)@g_hibernate-validator-4.1.0.Final.jar.txt	1
+org/hibernate/validator/util/privilegedactions/GetAnnotationParameter/run()@g_hibernate-validator-4.1.0.Final.jar.txt	3
+org/hibernate/validator/util/ReflectionHelper/getMember(java.lang.Class,java.lang.String,java.lang.annotation.ElementType)@g_hibernate-validator-4.1.0.Final.jar.txt	4
+org/hibernate/validator/xml/XmlMappingParser/getPayload(org.hibernate.validator.xml.PayloadType,java.lang.String)@g_hibernate-validator-4.1.0.Final.jar.txt	2

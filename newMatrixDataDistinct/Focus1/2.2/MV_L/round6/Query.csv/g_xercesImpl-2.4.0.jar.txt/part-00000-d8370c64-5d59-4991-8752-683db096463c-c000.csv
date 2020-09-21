@@ -1,0 +1,4 @@
+java/util/Vector/size()
+java/lang/StringBuffer/append(java.lang.String)
+org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser$FacetInfo/FacetInfo(org.apache.xerces.impl.xs.traversers.XSDAbstractTraverser)
+java/lang/StringBuffer/length()

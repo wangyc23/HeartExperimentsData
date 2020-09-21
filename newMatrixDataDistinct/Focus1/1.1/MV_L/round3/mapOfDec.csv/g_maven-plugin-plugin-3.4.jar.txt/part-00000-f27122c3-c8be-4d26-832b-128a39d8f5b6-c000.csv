@@ -1,0 +1,5 @@
+org/apache/maven/plugin/plugin/HelpMojo/execute()@g_maven-plugin-plugin-3.2.jar.txt	0
+org/apache/maven/plugin/plugin/PluginReport/PluginOverviewRenderer/renderUsageSection(boolean)@g_maven-plugin-plugin-3.2.jar.txt	2
+org/apache/maven/plugin/surefire/HelpMojo/execute()@g_maven-surefire-plugin-2.18.1.jar.txt	1
+org/apache/maven/plugin/plugin/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.codehaus.plexus.util.xml.Xpp3Dom)@g_maven-plugin-plugin-3.2.jar.txt	4
+org/apache/maven/plugin/plugin/AbstractGeneratorMojo/execute()@g_maven-plugin-plugin-3.2.jar.txt	3

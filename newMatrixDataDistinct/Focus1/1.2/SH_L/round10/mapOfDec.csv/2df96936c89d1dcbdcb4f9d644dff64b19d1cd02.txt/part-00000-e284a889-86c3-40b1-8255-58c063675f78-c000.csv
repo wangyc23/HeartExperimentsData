@@ -1,0 +1,5 @@
+okhttp3/internal/huc/ResponseCacheTest/otherStacks_cacheMissWithVaryAcceptEncoding()@0265f12748d57de89163db701b727e715d098552.txt	3
+okhttp3/internal/huc/ResponseCacheTest/otherStacks_cacheMissWithVaryAsterisk()@0265f12748d57de89163db701b727e715d098552.txt	2
+okhttp3/internal/huc/ResponseCacheTest/otherStacks_cacheMissWithVary()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	4
+okhttp3/internal/huc/ResponseCacheTest/otherStacks_cacheMissWithVary()@0265f12748d57de89163db701b727e715d098552.txt	0
+okhttp3/internal/huc/ResponseCacheTest/otherStacks_cacheHitWithoutVary()@0265f12748d57de89163db701b727e715d098552.txt	1

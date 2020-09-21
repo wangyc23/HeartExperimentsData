@@ -1,0 +1,5 @@
+scala/xml/factory/LoggedNodeFactory/class/makeNode(scala.xml.factory.LoggedNodeFactory,java.lang.String,java.lang.String,scala.xml.MetaData,scala.xml.NamespaceBinding,scala.collection.Seq)@g_scala-xml_2.11-1.0.5.jar.txt	0
+scala/xml/parsing/MarkupParser/class/prologOrTextDecl(scala.xml.parsing.MarkupHandler,boolean)@g_scala-xml_2.11-1.0.5.jar.txt	1
+scala/xml/Utility/trim(scala.xml.Node)@g_scala-xml_2.11-1.0.5.jar.txt	4
+scala/xml/NodeBuffer/$amp$plus(java.lang.Object)@g_scala-xml_2.11-1.0.5.jar.txt	3
+scala/xml/Utility/trimProper(scala.xml.Node)@g_scala-xml_2.11-1.0.5.jar.txt	2

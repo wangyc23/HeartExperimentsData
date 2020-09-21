@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/apache/maven/artifact/repository/metadata/Snapshot/getTimestamp()
+org/sonatype/aether/artifact/Artifact/getVersion()
+org/apache/maven/artifact/repository/metadata/Versioning/getSnapshot()

@@ -1,0 +1,4 @@
+org/apache/activemq/openwire/tool/CSharpMarshallingGenerator/getProperties()
+org/codehaus/jam/JProperty/getSimpleName()
+java/util/Iterator/hasNext()
+org/codehaus/jam/JClass/getSimpleName()

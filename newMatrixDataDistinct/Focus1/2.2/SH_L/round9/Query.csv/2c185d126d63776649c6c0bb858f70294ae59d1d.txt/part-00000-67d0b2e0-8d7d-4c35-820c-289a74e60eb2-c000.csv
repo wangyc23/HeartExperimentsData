@@ -1,0 +1,4 @@
+br/com/ufra/entidade/Estabelecimento/getCep()
+br/com/ufra/entidade/Estabelecimento/getLongitude()
+java/io/PrintStream/println(java.lang.String)
+br/com/ufra/entidade/Estabelecimento/Estabelecimento()

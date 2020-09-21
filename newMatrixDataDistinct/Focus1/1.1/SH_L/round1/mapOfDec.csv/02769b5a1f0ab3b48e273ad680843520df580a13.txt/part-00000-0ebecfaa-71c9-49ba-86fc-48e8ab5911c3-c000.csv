@@ -1,0 +1,5 @@
+net/bashtech/geobot/Channel/saveCommands(java.lang.Boolean)@1788a89a53083b8474094caf154e2e844dc86bc4.txt	4
+org/tweet/twitter/util/commercial/RejectTweetsByWordCommercialGenericManualTest/invalidWords()@1788a89a53083b8474094caf154e2e844dc86bc4.txt	2
+org/tweet/twitter/util/generic/AcceptTweetsByWordGenericManualTest/invalidWords()@1788a89a53083b8474094caf154e2e844dc86bc4.txt	0
+org/tweet/meta/service/TweetMetaLiveServiceLiveTest/whenTweetingAboutDatomic_thenNoExceptions()@1788a89a53083b8474094caf154e2e844dc86bc4.txt	3
+org/tweet/meta/service/TweetMetaLiveService/tryTweetOneWrap(org.tweet.meta.service.Tweet,java.lang.String,java.lang.String,org.tweet.meta.service.TweetType)@1788a89a53083b8474094caf154e2e844dc86bc4.txt	1

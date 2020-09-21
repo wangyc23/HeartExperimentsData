@@ -1,0 +1,5 @@
+io/seldon/db/SeldonMySQLDocumentStore/getItemTextualByName(long,java.util.Set)@g_semvec-lucene-tools-1.4.jar.txt	2
+io/seldon/db/SeldonMySQLDocumentStore/getComments(long)@g_semvec-lucene-tools-1.4.jar.txt	4
+io/seldon/db/SeldonMySQLDocumentStore/getItemTextual(long)@g_semvec-lucene-tools-1.4.jar.txt	3
+io/seldon/db/SeldonMySQLDocumentStore/getUserActionAttrs(long,java.util.Set)@g_semvec-lucene-tools-1.4.jar.txt	1
+io/seldon/db/SeldonMySQLDocumentStore/getUserItemsUsingItemNames(long)@g_semvec-lucene-tools-1.4.jar.txt	0

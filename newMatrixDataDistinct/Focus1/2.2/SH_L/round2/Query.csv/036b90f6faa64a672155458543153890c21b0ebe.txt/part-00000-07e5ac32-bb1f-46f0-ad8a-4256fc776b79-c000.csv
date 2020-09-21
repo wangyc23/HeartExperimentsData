@@ -1,0 +1,4 @@
+org/springframework/boot/builder/SpringApplicationBuilderTests/SpyApplicationContext/getRegisteredShutdownHook()
+org/springframework/boot/builder/SpringApplicationBuilderTests/SpyApplicationContext/getApplicationContext()
+org/springframework/boot/builder/SpringApplicationBuilder/contextClass(java.lang.Class)
+org/springframework/boot/builder/SpringApplicationBuilder/run(java.lang.String[])

@@ -1,0 +1,5 @@
+org/apache/regexp/RETestCase/testMatch()@g_jakarta-regexp-1.4.jar.txt	4
+org/apache/regexp/RE/matchNodes(int,int,int)@g_jakarta-regexp-1.4.jar.txt	0
+org/jruby/ext/posix/util/WindowsHelpers/isInternalCommand(java.lang.String,boolean)@g_jnr-posix-1.1.8.jar.txt	2
+org/apache/regexp/RETest/runAutomatedTests(java.lang.String)@g_jakarta-regexp-1.4.jar.txt	3
+org/jruby/ext/posix/util/Finder/findFileCommon(org.jruby.ext.posix.POSIX,java.lang.String,java.lang.String,boolean)@g_jnr-posix-1.1.8.jar.txt	1

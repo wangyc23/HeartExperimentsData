@@ -1,0 +1,5 @@
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/handleSynonym(java.util.Set,java.lang.String,org.obolibrary.oboformat.model.Clause,java.util.Set)@g_owlapi-oboformat-4.5.0.jar.txt	1
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLEquivalentClassesAxiom)@g_owlapi-oboformat-4.5.0.jar.txt	3
+org/obolibrary/obo2owl/OWLAPIObo2Owl/trTypedefClause(org.semanticweb.owlapi.model.OWLObjectProperty,java.lang.String,org.obolibrary.oboformat.model.Clause)@g_owlapi-oboformat-4.5.0.jar.txt	4
+org/obolibrary/oboformat/diff/OBODocDiffer/getDiffsAsym(java.lang.String,java.util.Collection,java.util.Collection,int,boolean)@g_owlapi-oboformat-4.5.0.jar.txt	0
+org/obolibrary/oboformat/parser/OBOFormatParser/checkDanglingReferences(org.obolibrary.oboformat.model.OBODoc)@g_owlapi-oboformat-4.5.0.jar.txt	2

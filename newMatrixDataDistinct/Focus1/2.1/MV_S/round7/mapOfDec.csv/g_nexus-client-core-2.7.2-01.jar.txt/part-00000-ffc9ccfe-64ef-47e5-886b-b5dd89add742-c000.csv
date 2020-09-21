@@ -1,0 +1,5 @@
+org/sonatype/sisu/siesta/client/filters/RequestFilters/handle(com.sun.jersey.api.client.ClientRequest)@g_siesta-client-1.5.2.jar.txt	0
+com/netflix/client/http/CaseInsensitiveMultiMap/asMap()@g_ribbon-httpclient-2.1.0.jar.txt	3
+com/netflix/niws/client/http/HttpClientResponse/1/getAllHeaders()@g_ribbon-httpclient-2.1.0.jar.txt	4
+com/netflix/niws/client/http/RestClient/execute(com.netflix.client.http.HttpRequest$Verb,java.net.URI,java.util.Map,java.util.Map,com.netflix.client.config.IClientConfig,java.lang.Object)@g_ribbon-httpclient-2.1.0.jar.txt	2
+org/sonatype/sisu/siesta/client/internal/ClientInvocationHandler/getQueryParams(java.lang.reflect.Method,java.lang.Object[])@g_siesta-client-1.5.2.jar.txt	1

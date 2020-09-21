@@ -1,0 +1,5 @@
+0	org/apache/wicket/Component/add(org.apache.wicket.behavior.IBehavior[])
+1	org/apache/wicket/Session/get()
+2	org/apache/wicket/model/StringResourceModel/StringResourceModel(java.lang.String,org.apache.wicket.Component,org.apache.wicket.model.IModel)
+3	org/apache/wicket/model/LoadableDetachableModel/getObject()
+4	org/planningpoker/wicket/PlanningSession/isParticipating(org.apache.wicket.Session)

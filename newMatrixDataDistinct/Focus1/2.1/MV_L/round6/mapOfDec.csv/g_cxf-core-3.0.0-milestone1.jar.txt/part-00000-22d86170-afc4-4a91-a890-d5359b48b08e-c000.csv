@@ -1,0 +1,5 @@
+org/apache/cxf/configuration/spring/ConfigurerImpl/initWildcardDefinitionMap()@g_cxf-core-3.0.16.jar.txt	4
+org/apache/cxf/interceptor/FIStaxOutInterceptor/handleMessage(org.apache.cxf.message.Message)@g_cxf-core-3.0.16.jar.txt	3
+org/apache/cxf/staxutils/transform/TransformUtils/convertToQNamesMap(java.util.Map,org.apache.cxf.staxutils.transform.QNamesMap,java.util.Map)@g_cxf-core-3.0.16.jar.txt	0
+org/apache/cxf/attachment/AttachmentSerializer/writeAttachments()@g_cxf-core-3.0.16.jar.txt	2
+org/apache/cxf/common/util/SpringClasspathScanner/findClassesInternal(java.util.Collection,java.util.List,java.lang.ClassLoader)@g_cxf-core-3.0.16.jar.txt	1

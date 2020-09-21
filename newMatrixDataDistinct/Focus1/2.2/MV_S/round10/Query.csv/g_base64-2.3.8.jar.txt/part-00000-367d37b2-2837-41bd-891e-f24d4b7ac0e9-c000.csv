@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+java/util/zip/GZIPOutputStream/GZIPOutputStream(java.io.OutputStream)
+java/util/zip/GZIPOutputStream/close()
+java/lang/String/String(byte[],java.lang.String)

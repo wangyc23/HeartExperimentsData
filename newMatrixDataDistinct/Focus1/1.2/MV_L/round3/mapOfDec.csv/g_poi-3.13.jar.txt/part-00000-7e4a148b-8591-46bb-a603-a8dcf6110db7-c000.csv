@@ -1,0 +1,5 @@
+org/apache/poi/sl/draw/BitmapImageRenderer/drawImage(java.awt.Graphics2D,java.awt.geom.Rectangle2D,java.awt.Insets)@g_poi-3.14.jar.txt	3
+org/apache/poi/sl/draw/BitmapImageRenderer/convertBufferedImage(java.awt.image.BufferedImage,java.lang.String)@g_poi-3.14.jar.txt	0
+org/apache/poi/ss/util/ImageUtils/getImageDimension(java.io.InputStream,int)@g_poi-3.14.jar.txt	2
+org/apache/poi/ss/util/ImageUtils/getImageDimension(java.io.InputStream,int)@g_poi-3.17.jar.txt	4
+org/apache/poi/sl/draw/BitmapImageRenderer/readImage(java.io.InputStream,java.lang.String)@g_poi-3.17.jar.txt	1

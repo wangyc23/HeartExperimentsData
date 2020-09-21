@@ -1,0 +1,4 @@
+java/util/HashMap/HashMap()
+java/lang/String/equals(java.lang.Object)
+java/lang/Integer/parseInt(java.lang.String)
+java/util/Map/put(K,V)

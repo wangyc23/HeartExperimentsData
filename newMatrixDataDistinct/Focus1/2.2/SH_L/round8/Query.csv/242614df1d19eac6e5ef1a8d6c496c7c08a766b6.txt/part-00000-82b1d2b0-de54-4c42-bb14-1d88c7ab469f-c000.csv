@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+cucumber/runtime/StepDefinition/getPattern()
+cucumber/runtime/model/StepContainer/getSteps()
+java/util/List/addAll(java.util.Collection)

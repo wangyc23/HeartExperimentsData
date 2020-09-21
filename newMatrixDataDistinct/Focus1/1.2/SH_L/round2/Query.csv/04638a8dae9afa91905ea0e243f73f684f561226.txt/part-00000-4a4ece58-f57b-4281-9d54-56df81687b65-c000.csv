@@ -1,0 +1,4 @@
+java/util/Arrays/asList(T[])
+cucumber/runtime/ParameterInfo/convert(java.lang.String,cucumber.runtime.xstream.LocalizedXStreams.LocalizedXStream)
+java/util/List/get(int)
+cucumber/runtime/ParameterInfo/fromMethod(java.lang.reflect.Method)

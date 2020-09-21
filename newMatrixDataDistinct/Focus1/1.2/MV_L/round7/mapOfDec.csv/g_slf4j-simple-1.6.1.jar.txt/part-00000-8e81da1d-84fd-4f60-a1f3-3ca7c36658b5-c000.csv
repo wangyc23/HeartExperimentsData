@@ -1,0 +1,5 @@
+org/apache/regexp/recompile/main(java.lang.String[])@g_jakarta-regexp-1.4.jar.txt	2
+org/apache/regexp/RETest/runInteractiveTests(java.lang.String)@g_jakarta-regexp-1.4.jar.txt	0
+org/apache/regexp/RETest/runAutomatedTests(java.lang.String)@g_slf4j-simple-1.6.4.jar.txt	4
+org/apache/regexp/RETest/runAutomatedTests(java.lang.String)@g_jakarta-regexp-1.4.jar.txt	1
+org/apache/regexp/REDemo/init()@g_slf4j-simple-1.6.4.jar.txt	3

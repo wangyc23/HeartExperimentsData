@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+edu/stanford/nlp/util/CoreMap/set(java.lang.Class,java.lang.Object)
+java/util/Iterator/next()
+java/util/Set/iterator()

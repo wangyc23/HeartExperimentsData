@@ -1,0 +1,4 @@
+org/apache/lucene/index/TermDocs/next()
+org/apache/lucene/index/Term/field()
+org/apache/lucene/util/FixedBitSet/clear(int)
+org/apache/lucene/index/IndexReader/termDocs(org.apache.lucene.index.Term)

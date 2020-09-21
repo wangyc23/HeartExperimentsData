@@ -1,0 +1,5 @@
+org/carrot2/util/attribute/constraint/ConstraintViolationException/getMessage()@g_attributes-binder-1.3.1.jar.txt	3
+com/beust/jcommander/FuzzyMap/findAbbreviatedValue(java.util.Map,com.beust.jcommander.FuzzyMap$IKey,boolean)@g_jcommander-1.35.jar.txt	1
+com/beust/jcommander/JCommander/expandArgs(java.lang.String[])@g_jcommander-1.35.jar.txt	4
+org/carrot2/util/attribute/AttributeDescriptor/prepareForSerialization()@g_attributes-binder-1.3.1.jar.txt	2
+com/beust/jcommander/JCommander/usage(java.lang.StringBuilder,java.lang.String)@g_jcommander-1.35.jar.txt	0

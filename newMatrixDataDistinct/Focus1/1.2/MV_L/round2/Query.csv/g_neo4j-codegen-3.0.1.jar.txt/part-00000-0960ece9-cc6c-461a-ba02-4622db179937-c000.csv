@@ -1,0 +1,4 @@
+org/neo4j/codegen/MethodDeclaration$TypeParameter/superBound()
+org/neo4j/codegen/MethodDeclaration$TypeParameter/extendsBound()
+java/util/Iterator/hasNext()
+java/util/Iterator/next()

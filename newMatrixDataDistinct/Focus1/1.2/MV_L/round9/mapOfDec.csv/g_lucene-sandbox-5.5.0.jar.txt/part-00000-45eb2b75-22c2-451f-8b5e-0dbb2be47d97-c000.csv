@@ -1,0 +1,5 @@
+org/apache/lucene/search/TermAutomatonQuery/TermAutomatonWeight/scorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-sandbox-7.0.0.jar.txt	4
+org/apache/lucene/document/LatLonPoint/nearest(org.apache.lucene.search.IndexSearcher,java.lang.String,double,double,int)@g_lucene-sandbox-7.0.0.jar.txt	3
+org/apache/lucene/search/DocValuesNumbersQuery/toString(java.lang.String)@g_lucene-sandbox-6.0.0.jar.txt	0
+org/apache/lucene/search/TermAutomatonQuery/TermAutomatonWeight/scorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/PendingBlock/compileIndex(java.util.List,org.apache.lucene.store.RAMOutputStream,org.apache.lucene.util.IntsRefBuilder)@g_lucene-sandbox-6.0.0.jar.txt	2

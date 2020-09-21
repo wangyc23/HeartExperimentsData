@@ -1,0 +1,5 @@
+org/hibernate/cfg/Configuration/doConfigure(java.io.InputStream,java.lang.String)@g_hibernate-core-3.6.10.Final.jar.txt	1
+org/hibernate/cfg/BinderHelper/findPropertiesByColumns(java.lang.Object,org.hibernate.cfg.Ejb3JoinColumn[],org.hibernate.cfg.Mappings)@g_hibernate-core-3.6.10.Final.jar.txt	4
+org/hibernate/cfg/InheritanceState/getElementsToProcess()@g_hibernate-core-3.6.10.Final.jar.txt	2
+org/hibernate/persister/entity/SingleTableEntityPersister/generateSequentialSelect(org.hibernate.persister.entity.Loadable)@g_hibernate-core-3.6.10.Final.jar.txt	0
+org/hibernate/loader/entity/EntityJoinWalker/AssociationInitCallbackImpl/resolve()@g_hibernate-core-3.6.10.Final.jar.txt	3

@@ -1,0 +1,4 @@
+java/util/HashMap/HashMap(java.util.Map)
+java/util/Set/addAll(java.util.Collection)
+java/util/HashMap/entrySet()
+java/util/Set/removeAll(java.util.Collection)

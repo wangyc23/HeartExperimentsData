@@ -1,0 +1,4 @@
+org/neo4j/bolt/v1/messaging/Neo4jPack$Packer/packRawMap(java.util.Map)
+org/neo4j/graphdb/Relationship/getStartNode()
+org/neo4j/bolt/v1/messaging/Neo4jPack$Packer/pack(long)
+org/neo4j/graphdb/RelationshipType/name()

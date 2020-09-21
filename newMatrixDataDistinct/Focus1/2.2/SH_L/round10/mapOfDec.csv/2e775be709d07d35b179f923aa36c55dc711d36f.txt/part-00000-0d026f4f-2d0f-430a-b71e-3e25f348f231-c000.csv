@@ -1,0 +1,5 @@
+omw/controllers/ConnexionServlet/postRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@05f4c8fece83cfeb4469846407c47ce650324139.txt	0
+se/jsta/DBHelper/isCustomerExist(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	4
+omw/controllers/AjaxContactServlet/postRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@05f4c8fece83cfeb4469846407c47ce650324139.txt	2
+se/jsta/DBHelper/createTableIfNotExist()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	3
+omw/controllers/InscriptionServlet/postRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@05f4c8fece83cfeb4469846407c47ce650324139.txt	1

@@ -1,0 +1,5 @@
+org/apache/kylin/storage/hbase/coprocessor/CoprocessorFilter/FilterDecorator/onSerialize(org.apache.kylin.metadata.filter.TupleFilter)@00141ed7c42773157619902f1786bacd5b96bb4c.txt	0
+org/apache/kylin/rest/controller/TableController/cloneTableDesc(java.util.List)@00141ed7c42773157619902f1786bacd5b96bb4c.txt	4
+org/apache/kylin/query/routing/RoutingRule/removeRule(org.apache.kylin.query.routing.RoutingRule)@00141ed7c42773157619902f1786bacd5b96bb4c.txt	2
+org/apache/kylin/storage/hbase/coprocessor/endpoint/EndpointTupleIterator/hasNext()@00141ed7c42773157619902f1786bacd5b96bb4c.txt	3
+org/apache/kylin/jdbc/KylinEnumerator/moveNext()@00141ed7c42773157619902f1786bacd5b96bb4c.txt	1

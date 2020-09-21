@@ -1,0 +1,4 @@
+org/languagetool/AnalyzedToken/getToken()
+java/util/ArrayList/ArrayList(int)
+java/util/Iterator/hasNext()
+java/lang/String/length()

@@ -1,0 +1,4 @@
+org/apache/lucene/search/BooleanQuery$Builder/build()
+org/apache/lucene/index/PrefixCodedTerms/iterator()
+org/apache/lucene/util/BytesRef/deepCopyOf(org.apache.lucene.util.BytesRef)
+org/apache/lucene/index/Term/Term(java.lang.String,org.apache.lucene.util.BytesRef)

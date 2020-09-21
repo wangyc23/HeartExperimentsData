@@ -1,0 +1,4 @@
+java/util/ArrayList/iterator()
+java/io/File/getName()
+java/io/File/canRead()
+java/io/File/exists()

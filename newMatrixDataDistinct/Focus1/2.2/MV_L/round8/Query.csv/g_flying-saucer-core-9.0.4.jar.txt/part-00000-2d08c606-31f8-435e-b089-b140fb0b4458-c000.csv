@@ -1,0 +1,4 @@
+javax/swing/plaf/basic/BasicTextAreaUI/BasicTextAreaUI()
+java/awt/Insets/Insets(int,int,int,int)
+org/xhtmlrenderer/render/BlockBox/getContentWidth()
+org/xhtmlrenderer/simple/extend/form/TextAreaField$TextAreaFieldJTextArea/setUI(javax.swing.plaf.TextUI)

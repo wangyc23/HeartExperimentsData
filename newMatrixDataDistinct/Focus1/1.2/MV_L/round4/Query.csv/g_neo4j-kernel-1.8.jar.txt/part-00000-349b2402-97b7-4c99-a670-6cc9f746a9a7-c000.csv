@@ -1,0 +1,4 @@
+org/neo4j/kernel/impl/nioneo/store/PropertyType/getValue(org.neo4j.kernel.impl.nioneo.store.PropertyBlock,org.neo4j.kernel.impl.nioneo.store.PropertyStore)
+java/lang/Class/getSimpleName()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/reflect/Array/getLength(java.lang.Object)

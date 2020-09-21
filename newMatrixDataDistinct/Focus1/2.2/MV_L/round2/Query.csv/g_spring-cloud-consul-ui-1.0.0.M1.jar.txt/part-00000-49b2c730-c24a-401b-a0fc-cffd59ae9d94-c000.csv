@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/springframework/cloud/netflix/zuul/web/ZuulHandlerMapping/registerHandlers()
+org/springframework/cloud/consul/ConsulProperties/getHost()
+java/lang/String/format(java.lang.String,java.lang.Object[])

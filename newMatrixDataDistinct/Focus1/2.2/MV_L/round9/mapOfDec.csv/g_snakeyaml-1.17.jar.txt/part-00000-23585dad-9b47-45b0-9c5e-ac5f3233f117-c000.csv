@@ -1,0 +1,5 @@
+org/yaml/snakeyaml/constructor/SafeConstructor/ConstructYamlInt/construct(org.yaml.snakeyaml.nodes.Node)@g_snakeyaml-1.14.jar.txt	3
+org/yaml/snakeyaml/constructor/SafeConstructor/ConstructYamlFloat/construct(org.yaml.snakeyaml.nodes.Node)@g_snakeyaml-1.14.jar.txt	1
+org/yaml/snakeyaml/constructor/SafeConstructor/ConstructYamlInt/construct(org.yaml.snakeyaml.nodes.Node)@g_snakeyaml-1.16.jar.txt	2
+org/yaml/snakeyaml/constructor/SafeConstructor/ConstructYamlFloat/construct(org.yaml.snakeyaml.nodes.Node)@g_snakeyaml-1.16.jar.txt	0
+org/yaml/snakeyaml/extensions/compactnotation/CompactConstructor/getCompactData(java.lang.String)@g_snakeyaml-1.16.jar.txt	4

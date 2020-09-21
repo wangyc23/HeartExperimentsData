@@ -1,0 +1,5 @@
+javax/enterprise/util/AnnotationLiteral/hashCode()@g_cdi-api-1.2.jar.txt	0
+javax/enterprise/util/AnnotationLiteral/getMembers()@g_cdi-api-1.2.jar.txt	1
+javax/enterprise/util/AnnotationLiteral/equals(java.lang.Object)@g_cdi-api-1.2.jar.txt	3
+com/google/common/collect/LinkedListMultimap/replaceValues(java.lang.Object,java.lang.Iterable)@g_cdi-api-1.2.jar.txt	4
+javax/enterprise/inject/spi/CDI/findAllProviders()@g_cdi-api-1.2.jar.txt	2

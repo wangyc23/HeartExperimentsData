@@ -1,0 +1,5 @@
+org/xwiki/officeimporter/internal/splitter/DocumentSplitterUtils/relocateArtifacts(org.xwiki.refactoring.WikiDocument,org.xwiki.officeimporter.document.XDOMOfficeDocument)@g_xwiki-platform-office-importer-7.0.jar.txt	3
+org/xwiki/officeimporter/internal/filter/ListFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-platform-office-importer-7.0.jar.txt	0
+org/xwiki/officeimporter/internal/filter/TableFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-platform-office-importer-7.0.jar.txt	4
+org/xwiki/officeimporter/internal/filter/ListFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-platform-office-importer-7.4.jar.txt	1
+org/xwiki/officeimporter/internal/builder/DefaultXHTMLOfficeDocumentBuilder/build(java.io.InputStream,java.lang.String,org.xwiki.model.reference.DocumentReference,boolean)@g_xwiki-platform-office-importer-7.0.jar.txt	2

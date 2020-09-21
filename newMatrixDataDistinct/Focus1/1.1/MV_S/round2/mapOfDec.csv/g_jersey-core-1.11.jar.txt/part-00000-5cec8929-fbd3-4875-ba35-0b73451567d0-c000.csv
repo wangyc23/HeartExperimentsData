@@ -1,0 +1,5 @@
+org/glassfish/jersey/internal/ServiceFinder/parse(java.lang.String,java.net.URL,java.util.Set)@g_jersey-common-2.22.2.jar.txt	1
+org/glassfish/jersey/internal/OsgiRegistry/BundleSpiProvidersLoader/call()@g_jersey-common-2.22.2.jar.txt	0
+org/glassfish/jersey/internal/ServiceFinder/LazyObjectIterator/next()@g_jersey-common-2.22.2.jar.txt	3
+com/sun/jersey/core/util/StringKeyStringValueIgnoreCaseMultivaluedMap/get(java.lang.String,java.lang.Class)@g_jersey-common-2.22.2.jar.txt	4
+com/sun/jersey/core/impl/provider/entity/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-common-2.22.2.jar.txt	2

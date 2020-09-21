@@ -1,0 +1,4 @@
+javax/mail/internet/MimeBodyPart/MimeBodyPart()
+javax/mail/Session/getDefaultInstance(java.util.Properties,javax.mail.Authenticator)
+javax/mail/internet/InternetAddress/InternetAddress(java.lang.String)
+javax/mail/internet/MimeMessage/setContent(java.lang.Object,java.lang.String)

@@ -1,0 +1,4 @@
+org/xwiki/rendering/macro/script/AbstractScriptMacro/getDescriptor()
+org/xwiki/script/event/ScriptEvaluatedEvent/ScriptEvaluatedEvent(java.lang.String)
+org/apache/commons/lang3/StringUtils/isNotEmpty(java.lang.CharSequence)
+org/xwiki/rendering/macro/descriptor/MacroDescriptor/getId()

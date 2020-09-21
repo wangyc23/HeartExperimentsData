@@ -1,0 +1,5 @@
+org/jacoco/maven/BundleCreator/logBundleInfo(org.jacoco.core.analysis.IBundleCoverage,java.util.Collection)@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/runBuilds(java.io.File,org.apache.maven.plugin.invoker.model.BuildJob[])@g_maven-invoker-plugin-2.0.0.jar.txt	2
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/execute()@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/invoker/model/io/xpp3/BuildJobXpp3Reader/read(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-invoker-plugin-2.0.0.jar.txt	3
+org/apache/maven/plugin/invoker/HelpMojo/execute()@g_maven-invoker-plugin-2.0.0.jar.txt	0

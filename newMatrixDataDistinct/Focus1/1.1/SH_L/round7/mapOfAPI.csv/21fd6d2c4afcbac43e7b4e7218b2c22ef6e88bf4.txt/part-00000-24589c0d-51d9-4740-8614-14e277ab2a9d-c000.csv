@@ -1,0 +1,5 @@
+0	java/lang/Object/Object()
+1	java/lang/String/toUpperCase()
+2	java/lang/String/contains(java.lang.CharSequence)
+3	java/lang/String/replaceAll(java.lang.String,java.lang.String)
+4	io/seldon/client/DefaultApiClient/getItems(int,java.lang.Integer,boolean,java.lang.String)

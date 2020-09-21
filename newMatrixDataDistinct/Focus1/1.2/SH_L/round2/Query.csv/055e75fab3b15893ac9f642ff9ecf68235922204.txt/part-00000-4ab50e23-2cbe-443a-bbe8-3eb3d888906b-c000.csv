@@ -1,0 +1,4 @@
+org/switchyard/policy/PolicyUtil/require(org.switchyard.Exchange,org.switchyard.policy.Policy)
+org/switchyard/handlers/TransactionHandler/handleMessage(org.switchyard.Exchange)
+org/switchyard/handlers/MockTransactionManager/getTransaction()
+org/switchyard/policy/PolicyUtil/provide(org.switchyard.Exchange,org.switchyard.policy.Policy)

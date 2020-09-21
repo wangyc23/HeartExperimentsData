@@ -1,0 +1,4 @@
+java/util/Iterator/next()
+java/util/Map$Entry/getValue()
+java/util/Map/entrySet()
+java/lang/String/valueOf(java.lang.Object)

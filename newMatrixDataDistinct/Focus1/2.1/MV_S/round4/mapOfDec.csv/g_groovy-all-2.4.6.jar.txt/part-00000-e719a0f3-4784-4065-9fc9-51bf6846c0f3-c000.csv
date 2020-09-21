@@ -1,0 +1,5 @@
+org/codehaus/groovy/control/io/FileReaderSource/getReader()@g_groovy-2.4.9.jar.txt	0
+groovyjarjarantlr4/v4/runtime/CodePointBuffer/Builder/appendArrayInt(java.nio.CharBuffer)@g_groovy-2.4.9.jar.txt	4
+org/codehaus/groovy/runtime/DefaultGroovyMethods/minus(java.util.Map,java.util.Map)@g_groovy-2.4.9.jar.txt	3
+org/apache/groovy/parser/antlr4/AstBuilder/visitVariableDeclarators(org.apache.groovy.parser.antlr4.GroovyParser$VariableDeclaratorsContext)@g_groovy-2.4.9.jar.txt	2
+groovy/inspect/Inspector/methodInfo(java.lang.reflect.Constructor)@g_groovy-2.4.9.jar.txt	1

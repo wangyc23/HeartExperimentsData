@@ -1,0 +1,5 @@
+org/znerd/xmlenc/XMLEncoder/attribute(java.io.Writer,java.lang.String,java.lang.String,char,boolean)@g_xmlenc-0.52.jar.txt	0
+org/znerd/xmlenc/XMLOutputter/dtd(java.lang.String,java.lang.String,java.lang.String)@g_xmlenc-0.52.jar.txt	2
+org/apache/sis/util/collection/DefaultTreeTable/Node/toString()@g_sis-utility-0.5.jar.txt	3
+org/znerd/xmlenc/XMLOutputter/startTag(java.lang.String)@g_xmlenc-0.52.jar.txt	1
+org/apache/sis/util/iso/RecordDefinition/toString(java.lang.String,java.lang.Object)@g_sis-utility-0.5.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/commons/net/pop3/POP3SClient/performSSLNegotiation()@g_commons-net-3.2.jar.txt	4
+org/apache/commons/net/ftp/FTPSClient/sslNegotiation()@g_commons-net-3.2.jar.txt	2
+org/apache/commons/net/imap/IMAPSClient/performSSLNegotiation()@g_commons-net-3.2.jar.txt	3
+org/apache/commons/net/smtp/SMTPSClient/performSSLNegotiation()@g_commons-net-3.2.jar.txt	0
+org/apache/commons/net/smtp/SMTPSClient/performSSLNegotiation()@g_commons-net-3.1.jar.txt	1

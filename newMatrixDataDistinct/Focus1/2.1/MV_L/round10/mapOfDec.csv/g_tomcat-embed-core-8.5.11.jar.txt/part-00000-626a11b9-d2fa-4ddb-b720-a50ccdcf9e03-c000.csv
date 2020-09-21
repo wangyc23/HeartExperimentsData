@@ -1,0 +1,5 @@
+org/apache/tomcat/util/net/openssl/OpenSSLEngine/readPlaintextData(java.nio.ByteBuffer)@g_tomcat-embed-core-8.0.28.jar.txt	2
+org/apache/catalina/startup/ContextConfig/convertJsp(org.apache.tomcat.util.descriptor.web.ServletDef,java.util.Map)@g_tomcat-embed-core-8.0.28.jar.txt	0
+org/apache/tomcat/util/net/Nio2Endpoint/startInternal()@g_tomcat-embed-core-8.0.28.jar.txt	3
+org/apache/catalina/valves/ExtendedAccessLogValve/getClientToServerElement(org.apache.catalina.valves.ExtendedAccessLogValve$PatternTokenizer)@g_tomcat-embed-core-8.0.28.jar.txt	4
+org/apache/catalina/session/JDBCStore/keys()@g_tomcat-embed-core-8.0.28.jar.txt	1

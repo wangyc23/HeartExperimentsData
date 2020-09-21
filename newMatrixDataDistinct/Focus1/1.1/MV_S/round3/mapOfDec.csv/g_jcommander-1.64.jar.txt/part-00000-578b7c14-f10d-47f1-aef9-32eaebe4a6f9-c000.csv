@@ -1,0 +1,5 @@
+com/beust/jcommander/JCommander/readFile(java.lang.String)@g_attributes-binder-1.3.1.jar.txt	3
+org/carrot2/util/attribute/constraint/ConstraintViolationException/getMessage()@g_attributes-binder-1.3.1.jar.txt	1
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_attributes-binder-1.3.1.jar.txt	2
+org/carrot2/util/attribute/AttributeDescriptor/prepareForSerialization()@g_attributes-binder-1.3.1.jar.txt	0
+com/beust/jcommander/JCommander/addDescription(java.lang.Object)@g_attributes-binder-1.3.1.jar.txt	4

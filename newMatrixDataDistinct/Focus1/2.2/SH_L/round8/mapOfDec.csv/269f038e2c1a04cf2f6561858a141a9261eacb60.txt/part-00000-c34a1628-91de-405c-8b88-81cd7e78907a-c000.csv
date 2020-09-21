@@ -1,0 +1,5 @@
+org/jboss/forge/shell/test/plugins/builtin/ProjectPluginTest/testAddDependencyFromLocalAndManagedParent()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	1
+org/jboss/forge/shell/test/ShellIgnoreEOFTest/testEOFAbortsPluginPromptButDoesNotShutdown()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	0
+org/jboss/forge/shell/test/plugins/builtin/NewProjectPluginTest/testCreateJarProjectWithMain()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	4
+org/jboss/forge/shell/test/plugins/builtin/ChangeDirectoryPluginTest/testDoubleDotMeansParentDirectory()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	2
+org/jboss/forge/shell/ForgeEnvironmentImplTest/testCreateProject()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	3

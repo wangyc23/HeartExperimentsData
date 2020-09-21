@@ -1,0 +1,4 @@
+0	org/thymeleaf/templateresolver/TemplateResolver/setSuffix(java.lang.String)
+1	org/thymeleaf/templateresolver/TemplateResolver/setPrefix(java.lang.String)
+2	org/thymeleaf/templateresolver/ServletContextTemplateResolver/ServletContextTemplateResolver()
+3	org/thymeleaf/templateresolver/TemplateResolver/setCharacterEncoding(java.lang.String)

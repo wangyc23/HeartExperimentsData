@@ -1,0 +1,4 @@
+java/util/concurrent/atomic/AtomicInteger/incrementAndGet()
+com/google/inject/Binder/install(com.google.inject.Module)
+com/google/inject/binder/AnnotatedBindingBuilder/toInstance(java.lang.Object)
+com/google/inject/binder/AnnotatedBindingBuilder/toProvider(com.google.inject.Provider)

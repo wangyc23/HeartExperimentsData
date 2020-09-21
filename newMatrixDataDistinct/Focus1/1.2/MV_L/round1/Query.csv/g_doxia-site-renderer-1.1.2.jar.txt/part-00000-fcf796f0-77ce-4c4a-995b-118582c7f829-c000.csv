@@ -1,0 +1,4 @@
+java/io/File/File(java.io.File,java.lang.String)
+org/apache/maven/doxia/module/site/SiteModule/getSourceDirectory()
+java/util/Map/get(java.lang.Object)
+java/io/File/exists()

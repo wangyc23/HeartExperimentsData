@@ -1,0 +1,5 @@
+org/xwiki/extension/internal/DefaultExtensionManagerConfiguration/setRepositoryProperties(org.xwiki.extension.repository.DefaultExtensionRepositoryDescriptor)@g_maven-model-builder-3.0.5.jar.txt	3
+org/apache/maven/model/validation/DefaultModelValidator/validateRepositories(org.apache.maven.model.building.ModelProblemCollector,java.util.List,java.lang.String,org.apache.maven.model.building.ModelBuildingRequest)@g_maven-model-builder-3.0.5.jar.txt	0
+org/xwiki/refactoring/internal/DefaultModelBridge/delete(org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_maven-model-builder-3.0.5.jar.txt	4
+org/xwiki/extension/version/internal/DefaultVersion/Element/compareTo(org.xwiki.extension.version.internal.DefaultVersion$Element)@g_maven-model-builder-3.0.5.jar.txt	2
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLinks(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_maven-model-builder-3.0.5.jar.txt	1

@@ -1,0 +1,4 @@
+java/net/MalformedURLException/getMessage()
+java/net/URL/URL(java.net.URL,java.lang.String)
+java/lang/StringBuffer/append(char)
+java/net/URL/URL(java.lang.String)

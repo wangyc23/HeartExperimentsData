@@ -1,0 +1,5 @@
+org/apache/kylin/rest/controller/BaseControllerTest/testBasics()@00141ed7c42773157619902f1786bacd5b96bb4c.txt	2
+org/apache/kylin/rest/controller/CubeController/saveCubeDesc(org.apache.kylin.rest.request.CubeRequest)@00141ed7c42773157619902f1786bacd5b96bb4c.txt	0
+org/apache/kylin/job/dao/ExecutableDao/pathOfJob(org.apache.kylin.job.dao.ExecutablePO)@00141ed7c42773157619902f1786bacd5b96bb4c.txt	4
+org/apache/kylin/cube/CubeDescUpgrader/extractDataModel(org.apache.kylin.cube.model.v1.CubeDesc,org.apache.kylin.cube.model.CubeDesc)@00141ed7c42773157619902f1786bacd5b96bb4c.txt	3
+org/apache/kylin/metadata/MetadataManager/saveSourceTable(org.apache.kylin.metadata.model.TableDesc)@00141ed7c42773157619902f1786bacd5b96bb4c.txt	1

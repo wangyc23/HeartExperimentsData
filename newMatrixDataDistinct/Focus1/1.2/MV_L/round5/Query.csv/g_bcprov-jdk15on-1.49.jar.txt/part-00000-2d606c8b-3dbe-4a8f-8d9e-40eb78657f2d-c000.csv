@@ -1,0 +1,4 @@
+java/security/Key/getEncoded()
+javax/crypto/spec/RC5ParameterSpec/getRounds()
+javax/crypto/spec/RC5ParameterSpec/getIV()
+java/security/SecureRandom/nextBytes(byte[])

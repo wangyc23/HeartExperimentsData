@@ -1,0 +1,4 @@
+org/springframework/context/ApplicationContext/getId()
+org/apache/commons/logging/Log/warn(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/springframework/boot/context/embedded/AnnotationConfigEmbeddedWebApplicationContext/setId(java.lang.String)

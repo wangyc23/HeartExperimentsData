@@ -1,0 +1,5 @@
+org/springframework/data/mongodb/config/MappingMongoConverterParser/getCustomConversions(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-data-mongodb-1.6.0.RELEASE.jar.txt	1
+org/springframework/data/mongodb/config/MappingMongoConverterParser/potentiallyCreateMappingContext(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext,org.springframework.beans.factory.config.BeanDefinition,java.lang.String)@g_spring-data-mongodb-1.6.0.RELEASE.jar.txt	0
+org/springframework/data/mongodb/config/MappingMongoConverterParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-data-mongodb-1.6.0.RELEASE.jar.txt	3
+org/springframework/data/mongodb/config/MongoTemplateParser/parseInternal(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-data-mongodb-1.6.0.RELEASE.jar.txt	4
+org/springframework/data/mongodb/config/MongoParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-data-mongodb-1.6.0.RELEASE.jar.txt	2

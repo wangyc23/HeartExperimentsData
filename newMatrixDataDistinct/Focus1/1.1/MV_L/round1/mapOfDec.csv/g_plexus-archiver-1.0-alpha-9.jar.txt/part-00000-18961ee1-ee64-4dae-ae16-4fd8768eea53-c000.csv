@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/jar/JarArchiver/writeManifest(org.codehaus.plexus.archiver.zip.ZipOutputStream,org.codehaus.plexus.archiver.jar.Manifest)@g_plexus-archiver-1.2.jar.txt	1
+org/codehaus/plexus/archiver/jar/JarArchiver/createIndexList(org.codehaus.plexus.archiver.zip.ZipOutputStream)@g_plexus-archiver-1.2.jar.txt	0
+org/codehaus/plexus/archiver/jar/JarArchiver/createIndexList(org.codehaus.plexus.archiver.zip.ZipOutputStream)@g_plexus-archiver-1.0-alpha-12.jar.txt	3
+org/codehaus/plexus/archiver/jar/JarArchiver/writeManifest(org.codehaus.plexus.archiver.zip.ZipOutputStream,org.codehaus.plexus.archiver.jar.Manifest)@g_plexus-archiver-1.0-alpha-12.jar.txt	4
+org/codehaus/plexus/archiver/jar/Manifest/Attribute/write(java.io.PrintWriter)@g_plexus-archiver-1.2.jar.txt	2

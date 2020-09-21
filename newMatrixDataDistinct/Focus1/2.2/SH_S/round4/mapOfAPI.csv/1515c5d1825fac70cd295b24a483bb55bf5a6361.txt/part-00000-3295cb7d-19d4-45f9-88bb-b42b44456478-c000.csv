@@ -1,0 +1,4 @@
+0	com/aspigrow/portel/model/AddressModel/getAddressLine1()
+1	com/aspigrow/portel/model/AddressModel/getAddressLine2()
+2	com/aspigrow/portel/model/AddressModel/getCity()
+3	com/aspigrow/portel/model/AddressModel/getState()

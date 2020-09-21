@@ -1,0 +1,4 @@
+org/aopalliance/intercept/MethodInvocation/getMethod()
+org/apache/commons/logging/Log/debug(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/aopalliance/intercept/MethodInvocation/getArguments()

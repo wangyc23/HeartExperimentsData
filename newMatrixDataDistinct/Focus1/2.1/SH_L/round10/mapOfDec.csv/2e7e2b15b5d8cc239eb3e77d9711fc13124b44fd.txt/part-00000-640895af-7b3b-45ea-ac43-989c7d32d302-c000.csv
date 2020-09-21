@@ -1,0 +1,5 @@
+com/baeldung/thymeleaf/config/WebMVCConfig/templateEngine(com.baeldung.thymeleaf.config.ITemplateResolver)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	3
+org/baeldung/persistence/service/FooServiceSortingTests/whenSortingFooWithCriteriaAndMultipleAttributes_thenPrintSortedFoos()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	2
+com/baeldung/java/networking/url/UrlTest/givenBaseUrl_whenCreatesRelativeUrl_thenCorrect()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	4
+org/baeldung/jackson/sandbox/SandboxTest/whenDeserializing_thenCorrect()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	0
+com/baeldung/couchbase/async/service/AbstractCrudService/create(T)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	1

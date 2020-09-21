@@ -1,0 +1,5 @@
+org/quartz/DailyTimeIntervalScheduleBuilder/onDaysOfTheWeek(java.util.Set)@g_semvec-lucene-tools-1.4.jar.txt	3
+org/apache/commons/configuration/VFSFileSystem/locateFromURL(java.lang.String,java.lang.String)@g_semvec-lucene-tools-1.4.jar.txt	0
+io/seldon/db/SeldonMySQLDocumentStore/getLatestUsers(java.util.Date)@g_semvec-lucene-tools-1.4.jar.txt	2
+org/terracotta/quartz/UpdateChecker/doCheck()@g_semvec-lucene-tools-1.4.jar.txt	4
+io/seldon/db/SeldonMySQLDocumentStore/getUserItemsUsingItemNames(long)@g_semvec-lucene-tools-1.4.jar.txt	1

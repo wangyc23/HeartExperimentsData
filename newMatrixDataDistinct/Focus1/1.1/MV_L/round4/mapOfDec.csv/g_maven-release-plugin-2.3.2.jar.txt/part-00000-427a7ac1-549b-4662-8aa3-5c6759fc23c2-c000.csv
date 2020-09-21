@@ -1,0 +1,5 @@
+com/mycila/maven/plugin/license/AbstractLicenseMojo/buildMapping()@g_license-maven-plugin-2.11.jar.txt	1
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/runBuilds(java.io.File,org.apache.maven.plugin.invoker.model.BuildJob[])@g_license-maven-plugin-2.11.jar.txt	4
+com/mycila/maven/plugin/license/document/Document/is(com.mycila.maven.plugin.license.header.Header)@g_license-maven-plugin-2.11.jar.txt	3
+com/mycila/maven/plugin/license/AbstractLicenseMojo/buildExcludes()@g_license-maven-plugin-2.11.jar.txt	2
+com/mycila/maven/plugin/license/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_license-maven-plugin-2.11.jar.txt	0

@@ -1,0 +1,4 @@
+org/codehaus/jettison/mapped/MappedXMLStreamWriter$JSONPropertyObject/JSONPropertyObject(org.codehaus.jettison.mapped.MappedXMLStreamWriter,java.lang.String,org.codehaus.jettison.json.JSONObject)
+org/codehaus/jettison/mapped/MappedXMLStreamWriter$JSONPropertyString/getKey()
+org/codehaus/jettison/mapped/MappedXMLStreamWriter$JSONProperty/getValue()
+java/lang/AssertionError/AssertionError(java.lang.Object)

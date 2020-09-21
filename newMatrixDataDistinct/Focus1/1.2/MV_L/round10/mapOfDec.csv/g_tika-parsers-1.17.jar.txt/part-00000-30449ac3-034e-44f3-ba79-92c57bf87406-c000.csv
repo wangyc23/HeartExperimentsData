@@ -1,0 +1,5 @@
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleThumbnail(org.xml.sax.ContentHandler)@g_tika-parsers-1.7.jar.txt	1
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleThumbnail(org.xml.sax.ContentHandler)@g_tika-parsers-1.11.jar.txt	0
+org/apache/tika/parser/pkg/ZipContainerDetector/detectOfficeOpenXML(org.apache.poi.openxml4j.opc.OPCPackage)@g_tika-parsers-1.7.jar.txt	3
+org/apache/tika/parser/mbox/OutlookPSTParser/parseFolder(org.apache.tika.sax.XHTMLContentHandler,com.pff.PSTFolder,org.apache.tika.extractor.EmbeddedDocumentExtractor)@g_tika-parsers-1.11.jar.txt	4
+org/apache/tika/parser/pkg/ZipContainerDetector/detectOfficeOpenXML(org.apache.poi.openxml4j.opc.OPCPackage)@g_tika-parsers-1.11.jar.txt	2

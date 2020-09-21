@@ -1,0 +1,5 @@
+org/openrdf/query/parser/serql/QueryModelBuilder/visit(org.openrdf.query.parser.serql.ast.ASTSelect,java.lang.Object)@g_sesame-queryparser-serql-2.7.9.jar.txt	4
+org/openrdf/query/parser/serql/ProjectionAliasProcessor/visit(org.openrdf.query.parser.serql.ast.ASTSelect,java.lang.Object)@g_sesame-queryparser-serql-2.7.9.jar.txt	2
+org/openrdf/query/parser/serql/GraphPattern/buildTupleExpr()@g_sesame-queryparser-serql-2.7.9.jar.txt	0
+org/openrdf/query/parser/serql/ProjectionProcessor/visit(org.openrdf.query.parser.serql.ast.ASTSelect,java.lang.Object)@g_sesame-queryparser-serql-2.7.9.jar.txt	1
+org/openrdf/query/parser/serql/NamespaceDeclProcessor/process(org.openrdf.query.parser.serql.ast.ASTQueryContainer)@g_sesame-queryparser-serql-2.7.9.jar.txt	3

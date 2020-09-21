@@ -1,0 +1,4 @@
+java/lang/Class/getSimpleName()
+java/lang/StringBuilder/append(int)
+java/lang/System/identityHashCode(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

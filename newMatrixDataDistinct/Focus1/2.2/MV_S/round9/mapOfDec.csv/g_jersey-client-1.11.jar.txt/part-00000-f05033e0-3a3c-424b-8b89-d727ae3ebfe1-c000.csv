@@ -1,0 +1,5 @@
+org/jboss/resteasy/client/core/executors/URLConnectionClientExecutor/commitHeaders(org.jboss.resteasy.client.ClientRequest,java.net.HttpURLConnection)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	1
+com/sun/jersey/api/container/filter/LoggingFilter/printRequestHeaders(java.lang.StringBuilder,javax.ws.rs.core.MultivaluedMap)@g_jersey-server-1.13.jar.txt	4
+com/sun/jersey/server/impl/model/ResourceUriRules/processSubResourceLocators(com.sun.jersey.api.model.AbstractResource,com.sun.jersey.server.impl.model.RulesMap)@g_jersey-server-1.13.jar.txt	2
+org/jboss/resteasy/client/core/executors/InMemoryClientExecutor/setHeaders(org.jboss.resteasy.mock.MockHttpResponse,org.jboss.resteasy.client.core.BaseClientResponse)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	0
+com/sun/jersey/server/impl/container/httpserver/HttpHandlerContainer/Writer/writeStatusAndHeaders(long,com.sun.jersey.spi.container.ContainerResponse)@g_jersey-server-1.13.jar.txt	3

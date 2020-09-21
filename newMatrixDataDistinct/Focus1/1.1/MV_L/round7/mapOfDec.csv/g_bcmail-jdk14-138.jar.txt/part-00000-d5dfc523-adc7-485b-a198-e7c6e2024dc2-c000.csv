@@ -1,0 +1,5 @@
+org/bouncycastle/cms/PasswordRecipientInformation/getKeyDerivationAlgParameters(java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	2
+org/bouncycastle/cms/PasswordRecipientInformation/getKeyDerivationAlgParams()@g_bcmail-jdk15-1.45.jar.txt	0
+org/bouncycastle/cms/SignerInformation/verifyDigest(byte[],java.security.PublicKey,byte[],java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	4
+org/bouncycastle/cms/RecipientInformation/createMacInputStream(org.bouncycastle.asn1.x509.AlgorithmIdentifier,java.security.Key,java.io.InputStream,java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	3
+org/bouncycastle/cms/RecipientInformation/getContentFromSessionKey(java.security.Key,java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	1

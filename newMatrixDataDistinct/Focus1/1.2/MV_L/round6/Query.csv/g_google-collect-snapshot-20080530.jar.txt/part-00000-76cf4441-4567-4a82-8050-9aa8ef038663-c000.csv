@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+java/util/Arrays/hashCode(byte[])
+java/util/Arrays/deepHashCode(java.lang.Object[])
+java/util/Arrays/hashCode(int[])

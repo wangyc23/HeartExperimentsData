@@ -1,0 +1,5 @@
+java_cup/runtime/XMLElement/NonTerminal/toString()@g_hppc-0.7.1.jar.txt	1
+java_cup/runtime/XMLElement/dump(java_cup.runtime.ScannerBuffer,javax.xml.stream.XMLStreamWriter,java_cup.runtime.XMLElement,java.lang.String[])@g_hppc-0.7.1.jar.txt	4
+com/sun/jersey/api/json/JSONJAXBContext/processProperties(java.util.Map)@g_hppc-0.7.1.jar.txt	3
+com/carrotsearch/hppc/HashOrderMixing/defaultStrategy()@g_hppc-0.7.1.jar.txt	2
+com/sun/jersey/json/impl/reader/Jackson2StaxReader/readNext(boolean)@g_hppc-0.7.1.jar.txt	0

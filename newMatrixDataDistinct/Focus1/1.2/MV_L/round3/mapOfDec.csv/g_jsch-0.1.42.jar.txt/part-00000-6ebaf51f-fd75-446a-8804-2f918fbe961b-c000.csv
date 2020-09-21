@@ -1,0 +1,5 @@
+com/jcraft/jsch/jce/KeyPairGenECDSA/init(int)@g_jsch-0.1.54.jar.txt	4
+com/jcraft/jsch/jce/KeyPairGenDSA/init(int)@g_jsch-0.1.50.jar.txt	1
+com/jcraft/jsch/jce/KeyPairGenRSA/init(int)@g_jsch-0.1.54.jar.txt	2
+com/jcraft/jsch/jce/KeyPairGenRSA/init(int)@g_jsch-0.1.50.jar.txt	3
+com/jcraft/jsch/jce/KeyPairGenDSA/init(int)@g_jsch-0.1.54.jar.txt	0

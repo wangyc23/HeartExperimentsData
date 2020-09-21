@@ -1,0 +1,4 @@
+org/eclipse/xtext/xbase/parser/antlr/internal/InternalXbaseParser/createModelElementForParent(org.eclipse.xtext.AbstractRule)
+org/eclipse/xtext/xbase/parser/antlr/internal/InternalXbaseParser/recover(org.antlr.runtime.IntStream,org.antlr.runtime.RecognitionException)
+org/eclipse/xtext/xbase/parser/antlr/internal/InternalXbaseParser/newCompositeNode(org.eclipse.emf.ecore.EObject)
+org/eclipse/xtext/xbase/parser/antlr/internal/InternalXbaseParser/leaveRule()

@@ -1,0 +1,5 @@
+org/apache/http/impl/conn/tsccm/ConnPoolByRoute/getEntryBlocking(org.apache.http.conn.routing.HttpRoute,java.lang.Object,long,java.util.concurrent.TimeUnit,org.apache.http.impl.conn.tsccm.WaitingThreadAborter)@g_httpclient-osgi-4.5.3.jar.txt	3
+org/apache/http/impl/client/cache/CachedHttpResponseGenerator/generateResponse(org.apache.http.client.methods.HttpRequestWrapper,org.apache.http.client.cache.HttpCacheEntry)@g_httpclient-osgi-4.5.3.jar.txt	0
+org/apache/http/impl/client/cache/CachedHttpResponseGenerator/generateResponse(org.apache.http.client.cache.HttpCacheEntry)@g_httpclient-cache-4.2.6.jar.txt	1
+org/apache/http/conn/ssl/SSLConnectionSocketFactory/connectSocket(int,java.net.Socket,org.apache.http.HttpHost,java.net.InetSocketAddress,java.net.InetSocketAddress,org.apache.http.protocol.HttpContext)@g_httpclient-osgi-4.5.3.jar.txt	4
+org/apache/http/impl/client/DefaultRequestDirector/handleResponse(org.apache.http.impl.client.RoutedRequest,org.apache.http.HttpResponse,org.apache.http.protocol.HttpContext)@g_httpclient-osgi-4.5.3.jar.txt	2

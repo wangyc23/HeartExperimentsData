@@ -1,0 +1,5 @@
+org/neo4j/ogm/service/ResourceService/resolve(java.net.URL)@g_javax.json-api-1.0.jar.txt	4
+org/neo4j/ogm/result/adapter/GraphModelAdapter/adapt(java.util.Map)@g_javax.json-api-1.0.jar.txt	3
+javax/json/spi/JsonProvider/provider()@g_javax.json-api-1.0.jar.txt	0
+javax/batch/runtime/BatchRuntime/1/run()@g_javax.batch-api-1.0.jar.txt	1
+org/neo4j/ogm/service/DriverService/load(java.lang.String)@g_javax.json-api-1.0.jar.txt	2

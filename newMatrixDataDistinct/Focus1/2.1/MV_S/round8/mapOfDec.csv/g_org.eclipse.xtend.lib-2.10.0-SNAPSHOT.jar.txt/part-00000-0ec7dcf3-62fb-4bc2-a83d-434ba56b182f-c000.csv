@@ -1,0 +1,5 @@
+org/eclipse/xtext/web/servlet/XtextServlet/getInjector(org.eclipse.xtext.web.servlet.HttpServiceContext)@g_org.eclipse.xtend.lib-2.10.0-20160515.041305-74.jar.txt	3
+org/eclipse/xtend/lib/annotations/ToStringProcessor/doTransform(org.eclipse.xtend.lib.macro.declaration.MutableClassDeclaration,org.eclipse.xtend.lib.macro.TransformationContext)@g_org.eclipse.xtend.lib-2.10.0-20160515.041305-74.jar.txt	4
+org/eclipse/xtend/lib/annotations/FinalFieldsConstructorProcessor/Util/8/appendTo(org.eclipse.xtend2.lib.StringConcatenationClient$TargetStringConcatenation)@g_org.eclipse.xtend.lib-2.10.0-20160515.041305-74.jar.txt	2
+org/eclipse/xtend/lib/annotations/DelegateProcessor/Util/hasDelegationConflicts(org.eclipse.xtend.lib.macro.declaration.MemberDeclaration)@g_org.eclipse.xtend.lib-2.10.0-20160515.041305-74.jar.txt	1
+org/eclipse/xtend/lib/annotations/EqualsHashCodeProcessor/Util/11/apply(org.eclipse.xtend.lib.macro.declaration.MutableMethodDeclaration)@g_org.eclipse.xtend.lib-2.10.0-20160515.041305-74.jar.txt	0

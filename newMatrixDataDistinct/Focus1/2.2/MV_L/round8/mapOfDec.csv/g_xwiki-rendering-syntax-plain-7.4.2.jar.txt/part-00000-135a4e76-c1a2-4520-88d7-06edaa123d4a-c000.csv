@@ -1,0 +1,4 @@
+org/xwiki/rendering/internal/parser/plain/PlainTextStreamParser/parse(java.io.Reader,org.xwiki.rendering.listener.Listener)@g_xwiki-rendering-syntax-plain-7.0.jar.txt	0
+org/xwiki/rendering/internal/parser/plain/PlainTextStreamParser/parseChar(int,java.lang.StringBuffer,org.xwiki.rendering.listener.Listener)@g_xwiki-rendering-syntax-plain-7.4.jar.txt	3
+org/xwiki/rendering/internal/parser/plain/PlainTextStreamParser/parseChar(int,java.lang.StringBuffer,org.xwiki.rendering.listener.Listener)@g_xwiki-rendering-syntax-plain-7.0.jar.txt	2
+org/xwiki/rendering/internal/parser/plain/PlainTextStreamParser/parse(java.io.Reader,org.xwiki.rendering.listener.Listener)@g_xwiki-rendering-syntax-plain-7.4.jar.txt	1

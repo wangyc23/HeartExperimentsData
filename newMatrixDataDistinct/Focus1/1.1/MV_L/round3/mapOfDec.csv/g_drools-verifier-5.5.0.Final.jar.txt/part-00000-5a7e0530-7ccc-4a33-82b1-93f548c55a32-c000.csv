@@ -1,0 +1,5 @@
+org/drools/verifier/report/components/VerifierMessage/printCauses(int,java.util.Collection)@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	1
+org/drools/verifier/visitor/RuleDescrVisitor/visitConsequence(org.drools.verifier.data.VerifierComponent,java.lang.Object)@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	2
+org/drools/verifier/data/VerifierDataMaps/add(org.drools.verifier.data.VerifierComponent)@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	3
+org/drools/verifier/visitor/FieldConstraintDescrVisitor/visit(org.drools.lang.descr.VariableRestrictionDescr)@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	4
+org/drools/verifier/solver/Solver/end()@g_xwiki-rendering-syntax-xwiki20-7.0.jar.txt	0

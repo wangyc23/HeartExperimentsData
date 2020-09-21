@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/net/CookieManager/getCookieStore()
+java/net/HttpCookie/toString()
+java/net/URL/toURI()

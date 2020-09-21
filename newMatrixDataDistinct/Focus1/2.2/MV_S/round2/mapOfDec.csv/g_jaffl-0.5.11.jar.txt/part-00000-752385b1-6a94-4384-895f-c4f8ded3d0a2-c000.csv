@@ -1,0 +1,5 @@
+com/sun/jna/Structure/toString(int,boolean,boolean)@g_morfologik-stemming-2.1.2.jar.txt	2
+com/kenai/jaffl/provider/jffi/DefaultInvokerFactory/createInvoker(java.lang.reflect.Method,com.kenai.jaffl.provider.Library,java.util.Map)@g_morfologik-stemming-2.1.2.jar.txt	3
+com/sun/jna/Structure/writeField(com.sun.jna.Structure$StructField)@g_morfologik-stemming-2.1.2.jar.txt	1
+morfologik/stemming/TrimSuffixEncoder/decode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	4
+com/sun/jna/Structure/validateField(java.lang.String,java.lang.Class)@g_morfologik-stemming-2.1.2.jar.txt	0

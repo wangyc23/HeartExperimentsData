@@ -1,0 +1,4 @@
+ucar/httpservices/HTTPSession$Methods/ordinal()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/http/client/methods/HttpOptions/HttpOptions(java.lang.String)
+org/apache/http/client/methods/HttpPut/HttpPut(java.lang.String)

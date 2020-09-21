@@ -1,0 +1,4 @@
+org/quartz/JobBuilder/newJob(java.lang.Class)
+com/xpn/xwiki/XWikiContext/getWiki()
+java/lang/StringBuilder/append(java.lang.String)
+org/quartz/Trigger/compareTo(org.quartz.Trigger)

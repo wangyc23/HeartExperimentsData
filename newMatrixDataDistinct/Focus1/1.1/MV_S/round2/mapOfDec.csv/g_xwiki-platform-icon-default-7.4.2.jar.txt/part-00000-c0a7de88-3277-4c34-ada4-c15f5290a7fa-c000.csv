@@ -1,0 +1,5 @@
+org/xwiki/localization/wiki/internal/AbstractDocumentTranslationBundle/loadDocumentLocaleBundle(java.util.Locale)@g_xwiki-platform-lesscss-default-7.4.2.jar.txt	4
+org/xwiki/localization/wiki/internal/DocumentTranslationBundleFactory/createComponentDescriptor(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-lesscss-default-7.4.2.jar.txt	0
+org/xwiki/localization/wiki/internal/DocumentTranslationBundleFactory/getComponentManager(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.localization.wiki.internal.TranslationDocumentModel$Scope,boolean)@g_xwiki-platform-lesscss-default-7.4.2.jar.txt	1
+org/xwiki/lesscss/internal/skin/DefaultSkinReferenceFactory/createReference(java.lang.String)@g_xwiki-platform-lesscss-default-7.4.2.jar.txt	3
+org/xwiki/icon/internal/DefaultIconSetLoader/loadIconSet(java.io.Reader,java.lang.String)@g_xwiki-platform-lesscss-default-7.4.2.jar.txt	2

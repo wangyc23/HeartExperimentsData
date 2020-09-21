@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/util/ArrayList/ArrayList()
+org/apache/commons/lang3/StringUtils/isBlank(java.lang.CharSequence)
+com/xpn/xwiki/doc/XWikiDocument/getObjects(java.lang.String)

@@ -1,0 +1,5 @@
+ucar/unidata/geoloc/projection/UtmCoordinateConversion/MGRUTM2LatLon/convertMGRUTMToLatLong(java.lang.String)@g_unidataCommon-4.2.20.jar.txt	1
+ucar/unidata/util/StringUtil/stringMatch(java.lang.String,java.lang.String,boolean,boolean)@g_unidataCommon-4.2.20.jar.txt	0
+org/rrd4j/core/jrrd/Archive/printInfo(java.io.PrintStream,java.text.NumberFormat,int)@g_optimization-1.0.jar.txt	4
+org/rrd4j/core/timespec/Epoch/constructUI()@g_optimization-1.0.jar.txt	2
+ucar/unidata/util/Format/formatDouble(double,int,int)@g_optimization-1.0.jar.txt	3

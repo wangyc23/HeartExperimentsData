@@ -1,0 +1,7 @@
+0	org/keycloak/models/utils/FormMessage/getParameters()
+1	java/lang/StringBuilder/toString()
+2	java/lang/StringBuilder/append(java.lang.String)
+3	java/lang/StringBuilder/StringBuilder()
+4	org/keycloak/models/RealmModel/isEnabled()
+5	java/io/File/File(java.lang.String)
+6	org/keycloak/models/cache/entities/CachedRealm/isEnabled()

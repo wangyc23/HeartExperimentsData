@@ -1,0 +1,5 @@
+org/springframework/data/neo4j/repository/query/IndexBasedStartClause/matchToPartsAndConvert(java.util.Map,java.util.Map,org.springframework.data.neo4j.support.Neo4jTemplate)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	2
+org/springframework/data/neo4j/support/mapping/Neo4jMappingContext/isReference(org.springframework.data.neo4j.mapping.Neo4jPersistentProperty)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	0
+org/springframework/data/neo4j/repository/query/VariableContext/getVariableFor(org.springframework.data.mapping.context.PersistentPropertyPath)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	1
+org/springframework/data/neo4j/repository/query/VariableContext/getVariableFor(org.springframework.data.mapping.context.PersistentPropertyPath)@g_spring-data-neo4j-3.0.2.BUILD-SNAPSHOT.jar.txt	4
+org/springframework/data/neo4j/support/mapping/Neo4jMappingContext/isReference(org.springframework.data.neo4j.mapping.Neo4jPersistentProperty)@g_spring-data-neo4j-3.0.2.BUILD-SNAPSHOT.jar.txt	3

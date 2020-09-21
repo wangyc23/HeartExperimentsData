@@ -1,0 +1,5 @@
+org/apache/lucene/queryparser/xml/builders/NumericRangeFilterBuilder/getFilter(org.w3c.dom.Element)@g_lucene-queryparser-5.5.0.jar.txt	4
+org/apache/lucene/queryparser/xml/builders/SpanOrTermsBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-5.5.0.jar.txt	2
+org/apache/lucene/queryparser/classic/QueryParserBase/analyzeMultitermTerm(java.lang.String,java.lang.String,org.apache.lucene.analysis.Analyzer)@g_lucene-queryparser-5.5.0.jar.txt	3
+org/apache/lucene/queryparser/flexible/core/nodes/OrQueryNode/toQueryString(org.apache.lucene.queryparser.flexible.core.parser.EscapeQuerySyntax)@g_lucene-queryparser-6.0.0.jar.txt	1
+org/apache/lucene/queryparser/flexible/core/nodes/OrQueryNode/toQueryString(org.apache.lucene.queryparser.flexible.core.parser.EscapeQuerySyntax)@g_lucene-queryparser-5.5.0.jar.txt	0

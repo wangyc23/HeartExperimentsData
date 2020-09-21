@@ -1,0 +1,5 @@
+weka/datagenerators/classifiers/classification/RDG1/RuleList/toString()@g_weka-stable-3.8.0.jar.txt	2
+weka/classifiers/bayes/net/estimate/DiscreteEstimatorFullBayes/main(java.lang.String[])@g_weka-stable-3.8.0.jar.txt	4
+weka/knowledgeflow/steps/ModelPerformanceChart/processIncoming(weka.knowledgeflow.Data)@g_weka-stable-3.8.0.jar.txt	3
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_weka-stable-3.8.0.jar.txt	1
+weka/gui/knowledgeflow/steps/SubstringReplacerStepEditorDialog/layoutEditor()@g_weka-stable-3.8.0.jar.txt	0

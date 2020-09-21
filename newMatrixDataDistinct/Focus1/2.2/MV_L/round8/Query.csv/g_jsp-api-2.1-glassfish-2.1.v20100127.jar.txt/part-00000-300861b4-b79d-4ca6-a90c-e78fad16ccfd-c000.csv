@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/beans/FeatureDescriptor/FeatureDescriptor()
+java/beans/FeatureDescriptor/setDisplayName(java.lang.String)
+java/beans/FeatureDescriptor/setShortDescription(java.lang.String)

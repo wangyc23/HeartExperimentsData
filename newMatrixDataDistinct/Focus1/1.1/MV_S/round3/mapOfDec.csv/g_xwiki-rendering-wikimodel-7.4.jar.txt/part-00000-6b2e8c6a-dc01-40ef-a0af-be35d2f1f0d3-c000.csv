@@ -1,0 +1,5 @@
+org/xwiki/rendering/wikimodel/internal/xwiki/xwiki21/javacc/XWikiScanner/inline()@g_jsqlparser-0.9.4.jar.txt	0
+org/xwiki/rendering/wikimodel/internal/confluence/javacc/ParseException/add_escapes(java.lang.String)@g_jsqlparser-0.9.4.jar.txt	1
+org/apache/james/mime4j/field/ContentDispositionFieldLenientImpl/parse()@g_jsqlparser-0.9.4.jar.txt	4
+org/xwiki/rendering/wikimodel/internal/gwiki/javacc/ParseException/add_escapes(java.lang.String)@g_jsqlparser-0.9.4.jar.txt	2
+org/xwiki/rendering/wikimodel/WikiFormat/getTags(boolean)@g_jsqlparser-0.9.4.jar.txt	3

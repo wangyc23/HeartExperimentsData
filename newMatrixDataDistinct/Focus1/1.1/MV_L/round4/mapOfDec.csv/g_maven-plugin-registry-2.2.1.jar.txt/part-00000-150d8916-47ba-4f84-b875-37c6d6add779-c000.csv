@@ -1,0 +1,5 @@
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writePluginExecution(org.apache.maven.model.PluginExecution,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	3
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writeFileSet(org.apache.maven.model.FileSet,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	0
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writeContributor(org.apache.maven.model.Contributor,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	4
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writeModelBase(org.apache.maven.model.ModelBase,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	1
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writeModel(org.apache.maven.model.Model,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	2

@@ -1,0 +1,4 @@
+org/opengis/metadata/Identifier/getAuthority()
+java/lang/Object/toString()
+org/opengis/metadata/Identifier/getCode()
+java/lang/StringBuilder/append(java.lang.String)

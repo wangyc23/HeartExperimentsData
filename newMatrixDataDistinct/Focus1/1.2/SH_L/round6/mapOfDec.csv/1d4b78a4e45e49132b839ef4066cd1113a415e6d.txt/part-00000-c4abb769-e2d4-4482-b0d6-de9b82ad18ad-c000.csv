@@ -1,0 +1,5 @@
+org/jboss/weld/util/reflection/Reflections/getActualTypeArguments(java.lang.reflect.Type)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	2
+org/jboss/weld/injection/producer/AbstractMemberProducer/checkReturnTypeForWildcardsAndTypeVariables(org.jboss.weld.annotated.enhanced.EnhancedAnnotatedMember,java.lang.reflect.Type)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	4
+org/jboss/weld/tests/injectionPoint/InjectionPointTest/testInjectionPointWhenInstanceGetIsUsed(org.jboss.weld.tests.injectionPoint.PigSty)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	0
+org/jboss/weld/tests/unit/security/SecurityTest/testSetAccessibleDoesNotPropagate()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	3
+org/jboss/weld/util/Beans/createTypeId(java.lang.reflect.Type)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	1

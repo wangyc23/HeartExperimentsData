@@ -1,0 +1,5 @@
+com/github/kristofa/brave/ClientSpanThreadBinderTest/testGetCurrentClientSpan()@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	0
+com/codahale/metrics/jvm/BufferPoolMetricSetTest/setUp()@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	3
+com/github/kristofa/brave/LoggingSpanCollector/collect(com.twitter.zipkin.gen.Span)@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	1
+com/codahale/metrics/health/SharedMetricRegistriesTest/hasASetOfNames()@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	2
+com/codahale/metrics/benchmarks/generated/ReservoirBenchmark_perfSlidingWindowReservoir/_jmh_tryInit_f_reservoirbenchmark0_G(org.openjdk.jmh.runner.InfraControl,org.openjdk.jmh.infra.ThreadParams)@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	4

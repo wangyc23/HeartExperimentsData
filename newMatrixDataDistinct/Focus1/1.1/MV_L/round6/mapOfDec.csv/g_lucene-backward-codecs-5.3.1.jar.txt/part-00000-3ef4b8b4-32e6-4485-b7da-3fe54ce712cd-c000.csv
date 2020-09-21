@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blocktree/Lucene40IntersectTermsEnumFrame/nextNonLeaf()@g_lucene-backward-codecs-5.5.0.jar.txt	3
+org/apache/lucene/codecs/lucene40/Lucene40DocValuesReader/loadLongField(org.apache.lucene.index.FieldInfo,org.apache.lucene.store.IndexInput)@g_lucene-backward-codecs-5.5.0.jar.txt	0
+org/apache/lucene/codecs/lucene46/Lucene46SegmentInfoFormat/read(org.apache.lucene.store.Directory,java.lang.String,byte[],org.apache.lucene.store.IOContext)@g_lucene-backward-codecs-5.5.0.jar.txt	2
+org/apache/lucene/codecs/lucene42/Lucene42FieldInfosFormat/read(org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentInfo,java.lang.String,org.apache.lucene.store.IOContext)@g_lucene-backward-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/lucene40/Lucene40DocValuesReader/loadBytesVarStraight(org.apache.lucene.index.FieldInfo)@g_lucene-backward-codecs-5.5.0.jar.txt	4

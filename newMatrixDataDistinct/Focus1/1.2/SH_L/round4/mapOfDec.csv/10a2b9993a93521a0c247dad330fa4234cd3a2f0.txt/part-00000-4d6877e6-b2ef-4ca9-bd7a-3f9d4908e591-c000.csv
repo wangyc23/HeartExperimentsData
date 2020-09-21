@@ -1,0 +1,5 @@
+io/netty/handler/codec/compression/JZlibDecoder/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	3
+io/netty/handler/codec/http/HttpResponseDecoderTest/testResponseChunked()@28d8b9e01e3300d65d02c410027123f892348d9f.txt	4
+io/netty/handler/codec/spdy/SpdyHeaderBlockJZlibEncoder/encode(io.netty.buffer.ByteBufAllocator,io.netty.handler.codec.spdy.SpdyHeadersFrame)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	1
+io/netty/handler/codec/spdy/SpdyHeaderBlockZlibEncoder/encode(io.netty.buffer.ByteBufAllocator,io.netty.handler.codec.spdy.SpdyHeadersFrame)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	0
+io/netty/handler/codec/http2/DefaultHttp2FrameWriter/writeHeadersInternal(io.netty.channel.ChannelHandlerContext,int,io.netty.handler.codec.http2.Http2Headers,int,boolean,boolean,int,short,boolean,io.netty.channel.ChannelPromise)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	2

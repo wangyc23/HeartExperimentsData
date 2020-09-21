@@ -1,0 +1,5 @@
+org/neo4j/cypher/ExecutionEngine/createCompiler(org.neo4j.kernel.impl.util.StringLogger)@g_neo4j-cypher-2.2.1.jar.txt	4
+org/neo4j/cypher/internal/compatibility/CompatibilityFor2_1/ExecutionPlanWrapper/run(org.neo4j.kernel.GraphDatabaseAPI,org.neo4j.cypher.internal.TransactionInfo,org.neo4j.cypher.internal.ExecutionMode,scala.collection.immutable.Map,org.neo4j.kernel.impl.query.QuerySession)@g_neo4j-cypher-2.2.1.jar.txt	1
+org/neo4j/cypher/internal/CypherCompiler/preParse(org.neo4j.cypher.internal.CypherQueryWithOptions)@g_neo4j-cypher-2.2.1.jar.txt	3
+org/neo4j/cypher/internal/spi/v2_0/TransactionBoundQueryContext/addIndexRule(int,int)@g_neo4j-cypher-2.2.1.jar.txt	0
+org/neo4j/cypher/internal/spi/v2_2/TransactionBoundQueryContext/addIndexRule(int,int)@g_neo4j-cypher-2.2.1.jar.txt	2

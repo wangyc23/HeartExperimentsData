@@ -1,0 +1,5 @@
+org/codehaus/plexus/digest/DigestUtils/cleanChecksum(java.lang.String,java.lang.String,java.lang.String)@g_maven-osgi-0.2.0.jar.txt	4
+org/apache/maven/shared/osgi/DefaultMaven2OsgiConverter/getBundleSymbolicName(org.apache.maven.artifact.Artifact)@g_maven-osgi-0.2.0.jar.txt	1
+org/apache/maven/shared/osgi/DefaultMaven2OsgiConverter/getGroupIdFromPackage(java.io.File)@g_maven-osgi-0.2.0.jar.txt	2
+org/hamcrest/core/DescribedAs/describeTo(org.hamcrest.Description)@g_maven-osgi-0.2.0.jar.txt	3
+org/apache/maven/shared/osgi/DefaultMaven2OsgiConverter/getVersion(java.lang.String)@g_maven-osgi-0.2.0.jar.txt	0

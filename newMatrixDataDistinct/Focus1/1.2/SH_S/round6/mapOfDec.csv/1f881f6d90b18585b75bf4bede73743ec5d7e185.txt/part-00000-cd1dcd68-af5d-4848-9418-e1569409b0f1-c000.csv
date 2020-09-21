@@ -1,0 +1,5 @@
+com/github/jakz/nit/gui/LogPanel/startProgress(com.github.jakz.nit.Log,java.lang.String)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	0
+com/github/jakz/nit/batch/BatchOperations/loadExpectedGameSetList(com.github.jakz.nit.batch.BatchOptions,com.github.jakz.nit.Options)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	2
+com/github/jakz/nit/gui/GameSetComparePanel/TableModel/findEquivalentGame(com.github.jakz.nit.parser.GameSet,com.github.jakz.nit.parser.Game)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	4
+com/guillaumecl/caskdays/external/BeerListParser/getSite()@2b580b570b3da993f753285904fc9b11ffe305f2.txt	1
+com/github/jakz/nit/Operations/createGameSet(com.github.jakz.nit.emitter.CreatorOptions)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	3

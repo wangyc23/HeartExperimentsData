@@ -1,0 +1,4 @@
+org/jgrapht/WeightedGraph/addEdge(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+org/jgrapht/WeightedGraph/addVertex(java.lang.Object)
+java/util/List/size()

@@ -1,0 +1,5 @@
+org/linkeddata/triplegeo/rest/FileUpload/uploadFiles(org.linkeddata.triplegeo.rest.HttpServletRequest,org.linkeddata.triplegeo.rest.ServletContext)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	2
+org/linkeddata/triplegeo/rest/TripleGeoService/insertResults(java.lang.String,java.lang.String,java.lang.String,org.linkeddata.utils.Model)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	0
+vaeke/restcountries/v1/CountryServiceTest/getByAlpha3()@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	4
+org/linkeddata/utils/QueryChunks/generateInsertChunks(java.lang.String,org.linkeddata.utils.Model,java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	1
+org/linkeddata/triplegeo/rest/TripleGeoService/getAllConfigurations(org.linkeddata.triplegeo.rest.ServletContext)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	3

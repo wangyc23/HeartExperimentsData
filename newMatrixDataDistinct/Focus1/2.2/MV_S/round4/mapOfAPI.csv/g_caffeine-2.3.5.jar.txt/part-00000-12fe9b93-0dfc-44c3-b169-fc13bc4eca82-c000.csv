@@ -1,0 +1,4 @@
+0	com/github/benmanes/caffeine/cache/NodeFactory$SSt/getKey()
+1	com/github/benmanes/caffeine/cache/NodeFactory$SSt/getWeight()
+2	java/lang/Class/getSimpleName()
+3	java/lang/Long/valueOf(long)

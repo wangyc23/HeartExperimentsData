@@ -1,0 +1,5 @@
+org/xenei/junit/contract/ClassPathUtils/handleDir(java.util.Set,java.lang.String,java.io.File,org.xenei.junit.contract.filter.ClassFilter)@g_plexus-digest-1.0.jar.txt	0
+org/eclipse/emf/common/notify/impl/NotifyingListImpl/removeAll(java.util.Collection)@g_plexus-digest-1.0.jar.txt	1
+org/eclipse/emf/common/util/URI/createFileURI(java.lang.String)@g_plexus-digest-1.0.jar.txt	4
+org/xenei/junit/contract/filter/parser/Parser/parse(java.lang.String)@g_plexus-digest-1.0.jar.txt	2
+org/eclipse/emf/common/EMFPlugin/getString(java.lang.String,boolean)@g_plexus-digest-1.0.jar.txt	3

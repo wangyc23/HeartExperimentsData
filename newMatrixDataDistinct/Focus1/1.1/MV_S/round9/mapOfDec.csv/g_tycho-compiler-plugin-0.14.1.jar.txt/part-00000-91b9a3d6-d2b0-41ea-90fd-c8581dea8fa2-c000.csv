@@ -1,0 +1,5 @@
+org/eclipse/pde/internal/swt/tools/IconExe/main(java.lang.String[])@g_tycho-packaging-plugin-0.23.1.jar.txt	0
+org/eclipse/tycho/surefire/TestMojo/getIUsToInstall(java.util.Set)@g_tycho-surefire-plugin-0.23.1.jar.txt	4
+org/eclipse/tycho/surefire/TestMojo/getFrameworkExtensions()@g_tycho-surefire-plugin-0.23.1.jar.txt	3
+org/eclipse/tycho/packaging/IncludeValidationHelper/checkIncludesExist(java.lang.String,java.util.List,org.apache.maven.project.MavenProject,boolean,java.lang.String[])@g_tycho-packaging-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/packaging/PackagePluginMojo/createPluginJar()@g_tycho-packaging-plugin-0.23.1.jar.txt	1

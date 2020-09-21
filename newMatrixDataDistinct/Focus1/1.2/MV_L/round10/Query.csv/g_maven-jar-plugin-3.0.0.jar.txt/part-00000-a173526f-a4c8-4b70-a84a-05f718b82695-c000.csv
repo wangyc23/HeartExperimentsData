@@ -1,0 +1,4 @@
+org/apache/maven/archiver/MavenArchiver/getArchiver()
+org/apache/maven/archiver/MavenArchiver/setOutputFile(java.io.File)
+org/apache/maven/plugin/logging/Log/warn(java.lang.CharSequence)
+org/apache/maven/plugins/jar/AbstractJarMojo/getLog()

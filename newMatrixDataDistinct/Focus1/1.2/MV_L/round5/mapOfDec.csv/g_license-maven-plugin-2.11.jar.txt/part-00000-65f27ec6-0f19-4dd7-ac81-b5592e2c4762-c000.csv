@@ -1,0 +1,5 @@
+org/codehaus/mojo/exec/ExecMojo/handleSystemEnvVariables()@g_exec-maven-plugin-1.4.0.jar.txt	3
+org/codehaus/mojo/buildhelper/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_build-helper-maven-plugin-1.10.jar.txt	1
+org/codehaus/mojo/exec/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_exec-maven-plugin-1.4.0.jar.txt	0
+org/codehaus/mojo/exec/ExecMojo/handleSystemPropertyArguments(java.lang.String,java.util.List)@g_exec-maven-plugin-1.4.0.jar.txt	4
+org/codehaus/mojo/buildhelper/TimestampPropertyMojo/execute()@g_build-helper-maven-plugin-1.10.jar.txt	2

@@ -1,0 +1,5 @@
+edu/washington/cs/knowitall/logic/LogicExpressionParser/readToken(java.lang.String)@g_common-java-2.0.2.jar.txt	1
+org/semarglproject/rdf/RdfXmlParser/processLangAndBase(org.xml.sax.Attributes)@g_common-java-2.0.2.jar.txt	2
+edu/washington/cs/knowitall/regex/RegularExpression/main(java.lang.String[])@g_common-java-2.0.2.jar.txt	3
+org/semarglproject/rdf/RdfXmlParser/endElement(java.lang.String,java.lang.String,java.lang.String)@g_common-java-2.0.2.jar.txt	0
+edu/washington/cs/knowitall/logic/LogicExpression/main(java.lang.String[])@g_common-java-2.0.2.jar.txt	4

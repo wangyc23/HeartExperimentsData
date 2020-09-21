@@ -1,0 +1,5 @@
+org/springframework/orm/jpa/JpaTemplate/12/doInJpa(javax.persistence.EntityManager)@g_spring-osgi-io-1.2.1.jar.txt	2
+org/springframework/jms/connection/ConnectionFactoryUtils/doGetTransactionalSession(javax.jms.ConnectionFactory,org.springframework.jms.connection.ConnectionFactoryUtils$ResourceFactory,boolean)@g_spring-osgi-io-1.2.1.jar.txt	4
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-osgi-io-1.2.1.jar.txt	1
+org/springframework/orm/toplink/support/CommonsLoggingSessionLog904/log(oracle.toplink.sessions.SessionLogEntry)@g_spring-osgi-io-1.2.1.jar.txt	3
+org/springframework/osgi/io/internal/OsgiHeaderUtils/parseRequiredBundleString(java.lang.String)@g_spring-osgi-io-1.2.1.jar.txt	0

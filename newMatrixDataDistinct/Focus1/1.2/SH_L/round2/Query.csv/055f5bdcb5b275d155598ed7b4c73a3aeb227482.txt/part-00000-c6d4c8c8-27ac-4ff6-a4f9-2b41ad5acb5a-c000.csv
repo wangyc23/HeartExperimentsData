@@ -1,0 +1,4 @@
+com/datatorrent/lib/db/AbstractTransactionableStoreOutputOperator/setStore(S)
+com/datatorrent/contrib/cassandra/CassandraStore/setNode(java.lang.String)
+com/datatorrent/contrib/cassandra/CassandraStore/setKeyspace(java.lang.String)
+com/datatorrent/lib/testbench/RandomEventGenerator/setMinvalue(int)

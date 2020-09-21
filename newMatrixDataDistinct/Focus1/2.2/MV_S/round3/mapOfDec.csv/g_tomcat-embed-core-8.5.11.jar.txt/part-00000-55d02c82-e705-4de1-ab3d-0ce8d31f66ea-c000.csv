@@ -1,0 +1,5 @@
+org/apache/commons/io/output/XmlStreamWriter/detectEncoding(char[],int,int)@g_commons-io-2.1.jar.txt	4
+org/apache/activemq/transport/discovery/multicast/MulticastDiscoveryAgent/start()@g_activemq-all-5.7.0.jar.txt	3
+org/apache/log4j/or/ThreadGroupRenderer/doRender(java.lang.Object)@g_activemq-all-5.7.0.jar.txt	1
+org/apache/activemq/transport/nio/SelectorWorker/run()@g_activemq-all-5.7.0.jar.txt	2
+org/apache/log4j/NDC/lazyRemove()@g_activemq-all-5.7.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/lucene/facet/index/FacetFields/addFields(org.apache.lucene.document.Document,java.lang.Iterable)@g_lucene-facet-4.3.1.jar.txt	2
+org/apache/lucene/facet/sortedset/SortedSetDocValuesFacetFields/addFields(org.apache.lucene.document.Document,java.lang.Iterable)@g_lucene-facet-4.3.1.jar.txt	3
+org/apache/lucene/facet/index/CountingListBuilder/PerPartitionOrdinalsEncoder/encode(org.apache.lucene.util.IntsRef)@g_lucene-facet-4.3.1.jar.txt	4
+org/apache/lucene/facet/search/StandardFacetsAccumulator/fillArraysForPartition(org.apache.lucene.facet.search.ScoredDocIDs,org.apache.lucene.facet.search.FacetArrays,int)@g_lucene-facet-4.3.1.jar.txt	1
+org/apache/lucene/facet/index/FacetFields/addCountingListData(org.apache.lucene.document.Document,java.util.Map,java.lang.String)@g_lucene-facet-4.3.1.jar.txt	0

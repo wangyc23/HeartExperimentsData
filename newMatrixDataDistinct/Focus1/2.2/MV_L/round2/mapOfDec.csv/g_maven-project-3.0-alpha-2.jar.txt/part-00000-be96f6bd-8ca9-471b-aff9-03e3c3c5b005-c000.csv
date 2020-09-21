@@ -1,0 +1,5 @@
+org/apache/maven/profiles/DefaultProfileManager/addProfile(org.apache.maven.model.Profile)@g_maven-project-2.0.9.jar.txt	1
+org/apache/maven/project/artifact/MavenMetadataSource/retrieve(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-project-2.0.8.jar.txt	2
+org/apache/maven/profiles/activation/SystemPropertyProfileActivator/isActive(org.apache.maven.model.Profile)@g_maven-project-2.0.8.jar.txt	3
+org/apache/maven/profiles/DefaultProfileManager/addProfile(org.apache.maven.model.Profile)@g_maven-project-2.0.8.jar.txt	0
+org/apache/maven/project/DefaultMavenProjectBuilder/findModelFromRepository(org.apache.maven.artifact.Artifact,java.util.List,org.apache.maven.artifact.repository.ArtifactRepository,boolean)@g_maven-project-2.0.8.jar.txt	4

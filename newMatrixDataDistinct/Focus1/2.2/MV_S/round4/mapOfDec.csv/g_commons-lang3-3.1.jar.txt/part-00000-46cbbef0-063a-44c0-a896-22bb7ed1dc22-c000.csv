@@ -1,0 +1,5 @@
+org/apache/commons/lang/ClassUtils/getPublicMethod(java.lang.Class,java.lang.String,java.lang.Class[])@g_commons-lang-2.3.jar.txt	3
+org/apache/commons/lang/exception/NestableDelegate/printStackTrace(java.io.PrintWriter)@g_commons-lang-2.3.jar.txt	4
+org/apache/commons/lang/Validate/allElementsOfType(java.util.Collection,java.lang.Class)@g_commons-lang-2.3.jar.txt	2
+org/apache/commons/text/AlphabetConverter/createConverter(java.lang.Integer[],java.lang.Integer[],java.lang.Integer[])@g_commons-text-1.1.jar.txt	1
+org/apache/commons/text/AlphabetConverter/addSingleEncoding(int,java.lang.String,java.util.Collection,java.util.Iterator,java.util.Map)@g_commons-text-1.1.jar.txt	0

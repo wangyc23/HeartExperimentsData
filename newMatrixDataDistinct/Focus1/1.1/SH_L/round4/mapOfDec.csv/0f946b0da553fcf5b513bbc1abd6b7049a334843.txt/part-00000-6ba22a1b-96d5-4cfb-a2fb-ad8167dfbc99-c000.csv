@@ -1,0 +1,5 @@
+com/squareup/okhttp/internal/framed/hpackjson/Story/clone()@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	4
+com/squareup/okhttp/HttpUrl/queryParameterValues(java.lang.String)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	0
+com/squareup/okhttp/benchmarks/Benchmark/toString()@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	2
+com/squareup/okhttp/mockwebserver/MockWebServer/FramedSocketHandler/pushPromises(com.squareup.okhttp.internal.framed.FramedStream,java.util.List)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	1
+com/squareup/okhttp/internal/Util/intersect(T[],T[])@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	3

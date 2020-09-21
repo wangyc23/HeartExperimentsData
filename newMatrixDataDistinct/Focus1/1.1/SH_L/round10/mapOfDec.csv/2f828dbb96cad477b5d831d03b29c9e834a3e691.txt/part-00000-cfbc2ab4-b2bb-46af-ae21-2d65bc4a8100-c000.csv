@@ -1,0 +1,5 @@
+br/com/igor/tccrestws/dao/UsuarioRespostaDao/selectAllUsuarioResposta(br.com.igor.tccrestws.entity.UsuarioResposta)@1fb8a3f1912242cbe82f5c2371a1956d9bb7fa0a.txt	1
+br/com/igor/tccrestws/dao/AtividadeDao/selectAllAtividadeSugestao(br.com.igor.tccrestws.entity.Usuario)@1fb8a3f1912242cbe82f5c2371a1956d9bb7fa0a.txt	3
+br/com/igor/tccrestws/service/UsuarioAtividadeService/fuzzyficar(java.lang.String)@1fb8a3f1912242cbe82f5c2371a1956d9bb7fa0a.txt	0
+br/com/igor/tccrestws/dao/AtividadeComplementoDao/selectAllAtividadeComplementoFromAtividade(br.com.igor.tccrestws.entity.Atividade)@1fb8a3f1912242cbe82f5c2371a1956d9bb7fa0a.txt	4
+br/com/igor/tccrestws/service/UsuarioAtividadeService/selectAllUsuarioAtividade(java.lang.String)@1fb8a3f1912242cbe82f5c2371a1956d9bb7fa0a.txt	2

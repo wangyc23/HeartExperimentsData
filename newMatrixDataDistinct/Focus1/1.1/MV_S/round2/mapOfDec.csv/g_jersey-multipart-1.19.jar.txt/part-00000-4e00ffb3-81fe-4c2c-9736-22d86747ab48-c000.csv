@@ -1,0 +1,5 @@
+org/jboss/resteasy/plugins/interceptors/encoding/GZIPDecodingInterceptor/aroundReadFrom(javax.ws.rs.ext.ReaderInterceptorContext)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	1
+org/jboss/resteasy/plugins/delegates/LinkHeaderDelegate/Parser/populateLink(java.lang.String,javax.ws.rs.core.MultivaluedMap)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	2
+org/jboss/resteasy/client/cache/CacheInterceptor/cacheIfPossible(org.jboss.resteasy.client.ClientRequest,org.jboss.resteasy.client.core.BaseClientResponse)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	4
+org/jboss/resteasy/plugins/interceptors/encoding/GZIPEncodingInterceptor/aroundWriteTo(javax.ws.rs.ext.WriterInterceptorContext)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	3
+org/jboss/resteasy/plugins/providers/FileProvider/writeTo(java.io.File,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.OutputStream)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	0

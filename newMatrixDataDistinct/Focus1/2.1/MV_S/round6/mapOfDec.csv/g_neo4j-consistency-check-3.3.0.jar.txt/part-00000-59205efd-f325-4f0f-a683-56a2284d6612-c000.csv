@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/api/store/StorePropertyCursorTest/CursorReuse/shouldReuseCorrectlyCursor()@g_language-detector-0.5.jar.txt	0
+org/neo4j/kernel/impl/core/TestProperties/removeAndAddSameProperty()@g_language-detector-0.5.jar.txt	2
+org/neo4j/kernel/impl/core/TestNeo4j/testBasicNodeRelationships()@g_language-detector-0.5.jar.txt	4
+org/neo4j/kernel/impl/core/Neo4jConstraintsTest/testDeleteReferenceNodeOrLastNodeIsOk()@g_language-detector-0.5.jar.txt	3
+org/neo4j/kernel/impl/store/NeoStoresTest/deleteRel1(long,org.neo4j.kernel.api.properties.DefinedProperty,org.neo4j.kernel.api.properties.DefinedProperty,org.neo4j.kernel.api.properties.DefinedProperty,long,long,int)@g_language-detector-0.5.jar.txt	1

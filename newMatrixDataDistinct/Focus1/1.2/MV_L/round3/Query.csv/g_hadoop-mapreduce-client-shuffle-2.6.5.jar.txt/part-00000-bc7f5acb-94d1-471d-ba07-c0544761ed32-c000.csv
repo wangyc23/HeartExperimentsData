@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/apache/hadoop/fs/LocalDirAllocator/getLocalPathToRead(java.lang.String,org.apache.hadoop.conf.Configuration)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)

@@ -1,0 +1,5 @@
+org/hibernate/ejb/QueryImpl/extractParameterInfo(java.util.Map)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	4
+org/hibernate/ejb/criteria/predicate/CompoundPredicate/render(org.hibernate.ejb.criteria.CriteriaQueryCompiler$RenderingContext)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	2
+org/hibernate/ejb/EventListenerConfigurator/configure()@g_hibernate-entitymanager-3.5.5-Final.jar.txt	0
+org/hibernate/ejb/AbstractQueryImpl/setHint(java.lang.String,java.lang.Object)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	1
+org/hibernate/ejb/AbstractEntityManagerImpl/createQuery(java.lang.String,java.lang.Class)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	3

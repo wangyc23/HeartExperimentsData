@@ -1,0 +1,4 @@
+org/eclipse/xtext/parser/IParseResult/getRootNode()
+java/util/Iterator/hasNext()
+java/lang/String/length()
+org/eclipse/xtext/resource/XtextResource/getParseResult()

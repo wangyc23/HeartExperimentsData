@@ -1,0 +1,5 @@
+org/eclipse/jetty/webapp/JettyWebXmlConfiguration/configure(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-webapp-7.6.5.v20120716.jar.txt	0
+org/eclipse/jetty/webapp/WebAppContext/setTempDirectory(java.io.File)@g_jetty-webapp-9.0.2.v20130417.jar.txt	4
+org/eclipse/jetty/webapp/WebAppContext/setTempDirectory(java.io.File)@g_jetty-webapp-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/webapp/WebInfConfiguration/configure(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-webapp-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/webapp/JettyWebXmlConfiguration/configure(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-webapp-9.0.2.v20130417.jar.txt	1

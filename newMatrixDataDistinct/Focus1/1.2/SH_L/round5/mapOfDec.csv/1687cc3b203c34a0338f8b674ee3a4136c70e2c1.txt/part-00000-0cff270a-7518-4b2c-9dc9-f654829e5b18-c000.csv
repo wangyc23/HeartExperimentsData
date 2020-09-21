@@ -1,0 +1,5 @@
+org/jboss/resteasy/security/doseta/DigitalSigningInterceptor/sign(org.jboss.resteasy.security.doseta.KeyRepository,javax.ws.rs.core.MultivaluedMap,byte[],org.jboss.resteasy.security.doseta.DKIMSignature)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+org/jboss/resteasy/test/security/doseta/SigningTest/SignedResource/badHash()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+org/jboss/resteasy/test/nextgen/security/doseta/SigningTest/SignedResource/badHash()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+org/jboss/resteasy/test/security/doseta/LocalTest/testBadAttributes()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+org/jboss/resteasy/test/nextgen/security/doseta/SigningTest/testTimestampSignature()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4

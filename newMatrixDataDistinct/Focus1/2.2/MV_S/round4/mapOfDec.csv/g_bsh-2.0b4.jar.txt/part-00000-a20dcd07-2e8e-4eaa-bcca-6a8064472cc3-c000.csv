@@ -1,0 +1,5 @@
+org/apache/tools/ant/AntClassLoader/getResourceStream(java.io.File,java.lang.String)@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Antlib/execute()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/taskdefs/Replace/processFile(java.io.File)@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/TaskAdapter/execute()@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/taskdefs/XSLTProcess/execute()@g_ant-1.6.5.jar.txt	3

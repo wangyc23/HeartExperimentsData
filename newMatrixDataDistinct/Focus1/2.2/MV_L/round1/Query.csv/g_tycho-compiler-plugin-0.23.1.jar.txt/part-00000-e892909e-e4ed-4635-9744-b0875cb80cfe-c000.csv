@@ -1,0 +1,4 @@
+java/util/Iterator/remove()
+org/codehaus/plexus/compiler/CompilerMessage/isError()
+java/lang/Object/toString()
+org/codehaus/plexus/compiler/Compiler/performCompile(org.codehaus.plexus.compiler.CompilerConfiguration)

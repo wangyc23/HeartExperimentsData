@@ -1,0 +1,5 @@
+org/baeldung/persistence/dao/UserSpecification/toPredicate(org.baeldung.persistence.dao.rsql.Root,org.baeldung.persistence.dao.rsql.CriteriaQuery,org.baeldung.persistence.dao.CriteriaBuilder)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	2
+org/baeldung/events/FooCreationEventListener/onApplicationEvent(org.baeldung.events.FooCreationEvent)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	0
+org/baeldung/persistence/dao/UserDAO/searchUser(java.util.List)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	3
+org/baeldung/web/controller/RootController/drawMetric()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	4
+org/baeldung/persistence/dao/MyUserPredicate/getPredicate()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	1

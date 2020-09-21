@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/LinkedHashMap/size()
+java/lang/Integer/valueOf(int)
+java/util/LinkedHashMap/put(java.lang.Object,java.lang.Object)

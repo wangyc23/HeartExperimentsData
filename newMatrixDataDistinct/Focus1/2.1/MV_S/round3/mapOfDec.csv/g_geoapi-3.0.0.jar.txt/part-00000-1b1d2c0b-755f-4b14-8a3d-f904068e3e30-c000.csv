@@ -1,0 +1,5 @@
+org/jboss/marshalling/cloner/SerializingCloner/prepareFields(java.lang.Object,org.jboss.marshalling.cloner.SerializingCloner$ClonerPutField)@g_jboss-marshalling-osgi-1.4.10.Final.jar.txt	1
+ognl/OgnlRuntime/findObjectIndexedPropertyDescriptors(java.lang.Class,java.util.Map)@g_ognl-3.0.8.jar.txt	3
+ognl/enhance/ExpressionCompiler/createLocalReferences(ognl.OgnlContext,javassist.ClassPool,javassist.CtClass,javassist.CtClass,javassist.CtClass[])@g_ognl-3.0.8.jar.txt	4
+org/jboss/marshalling/serial/Serial/dumpFields(org.jboss.marshalling.serial.Serial$ClassInfo,java.util.Map,java.util.concurrent.atomic.AtomicInteger,java.io.DataInputStream,java.io.BufferedWriter,int)@g_jboss-marshalling-osgi-1.4.10.Final.jar.txt	0
+org/jboss/marshalling/river/RiverMarshaller/doWriteObject(java.lang.Object,boolean)@g_jboss-marshalling-osgi-1.4.10.Final.jar.txt	2

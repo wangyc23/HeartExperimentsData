@@ -1,0 +1,5 @@
+org/eclipse/xtext/xtext/ecoreInference/Xtext2EcoreTransformer/removeGeneratedPackages()@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	0
+org/eclipse/xtext/EcoreUtil2/findCrossReferences(org.eclipse.emf.ecore.EObject,java.util.Set,org.eclipse.xtext.EcoreUtil2$ElementReferenceAcceptor)@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	2
+org/eclipse/xtext/formatting/impl/MatcherState/isOptional(org.eclipse.xtext.AbstractElement)@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	1
+org/eclipse/xtext/xtext/XtextLinker/PackageRemover/isPackageReferenced(org.eclipse.emf.ecore.resource.ResourceSet,org.eclipse.emf.ecore.EPackage,java.util.Collection)@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	4
+org/eclipse/xtext/grammaranalysis/impl/AbstractNFAState/getAllIncoming()@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	3

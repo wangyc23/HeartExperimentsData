@@ -1,0 +1,5 @@
+org/eclipse/jetty/util/log/StdErrLog/format(java.lang.StringBuilder,java.lang.String,java.lang.Object[])@g_jetty-util-9.2.2.v20140723.jar.txt	2
+org/eclipse/jetty/util/log/JavaUtilLog/format(java.lang.String,java.lang.Object[])@g_jetty-util-9.0.5.v20130815.jar.txt	1
+org/eclipse/jetty/util/MultiPartInputStreamParser/parse()@g_jetty-util-9.0.5.v20130815.jar.txt	4
+org/eclipse/jetty/util/log/JavaUtilLog/format(java.lang.String,java.lang.Object[])@g_jetty-util-9.2.2.v20140723.jar.txt	3
+org/eclipse/jetty/util/log/StdErrLog/format(java.lang.StringBuilder,java.lang.String,java.lang.Object[])@g_jetty-util-9.0.5.v20130815.jar.txt	0

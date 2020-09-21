@@ -1,0 +1,5 @@
+org/glassfish/jersey/test/grizzly/GrizzlyWebTestContainerFactory/GrizzlyWebTestContainer/instantiateGrizzlyWebServer()@g_jersey-test-framework-provider-simple-2.19.jar.txt	2
+org/glassfish/jersey/grizzly2/servlet/GrizzlyWebContainerFactory/create(java.net.URI,java.lang.Class,javax.servlet.Servlet,java.util.Map,java.util.Map)@g_jersey-container-grizzly2-servlet-2.19.jar.txt	0
+org/glassfish/jersey/grizzly2/servlet/GrizzlyWebContainerFactory/create(java.net.URI,java.lang.Class,javax.servlet.Servlet,java.util.Map,java.util.Map)@g_jersey-test-framework-provider-simple-2.19.jar.txt	1
+org/glassfish/jersey/test/simple/SimpleTestContainerFactory/SimpleTestContainer/start()@g_jersey-test-framework-provider-simple-2.19.jar.txt	4
+org/glassfish/jersey/test/grizzly/GrizzlyWebTestContainerFactory/GrizzlyWebTestContainer/start()@g_jersey-test-framework-provider-simple-2.19.jar.txt	3

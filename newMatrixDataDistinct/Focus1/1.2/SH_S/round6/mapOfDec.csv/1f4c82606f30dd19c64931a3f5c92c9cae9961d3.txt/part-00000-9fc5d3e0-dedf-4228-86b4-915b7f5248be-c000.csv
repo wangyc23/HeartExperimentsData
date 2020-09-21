@@ -1,0 +1,5 @@
+com/example/MyServiceTest/testGetStaticTweets()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	3
+com/example/SampleStreamExample/runTwitterStream(org.glassfish.jersey.server.ChunkedOutput,java.lang.Integer)@2419bc5b971bf64063be9d3c90dad3171f182854.txt	2
+com/example/MyServiceTest/testGetTimeseries()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	1
+com/example/MyServiceTest/testGetTimeseriesIndex()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	0
+com/example/restapp/resources/DummyResource/getById(long)@2419bc5b971bf64063be9d3c90dad3171f182854.txt	4

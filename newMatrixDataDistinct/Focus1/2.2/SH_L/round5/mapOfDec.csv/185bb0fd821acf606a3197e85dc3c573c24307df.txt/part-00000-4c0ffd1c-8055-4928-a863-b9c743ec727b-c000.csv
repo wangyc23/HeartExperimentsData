@@ -1,0 +1,5 @@
+com/ml/bus/service/UserDataCrawler/parseUser(java.lang.String,com.ml.db.IBaseDB)@130c010928a8539cdb544b5031160924ec610582.txt	1
+com/ml/bus/service/UserDataCrawler/parseUserRatedMovies(java.lang.String,com.ml.db.IBaseDB,java.lang.String)@130c010928a8539cdb544b5031160924ec610582.txt	2
+com/ml/bus/service/UserDataCrawler/transferUser(com.ml.db.IBaseDB,java.util.List)@130c010928a8539cdb544b5031160924ec610582.txt	4
+com/ml/bus/service/UserDataCrawler/parseMovie(java.lang.String,com.ml.db.IBaseDB)@130c010928a8539cdb544b5031160924ec610582.txt	3
+com/ml/bus/service/UserDataCrawler/transferBlankMovie(com.ml.db.IBaseDB,java.util.List)@130c010928a8539cdb544b5031160924ec610582.txt	0

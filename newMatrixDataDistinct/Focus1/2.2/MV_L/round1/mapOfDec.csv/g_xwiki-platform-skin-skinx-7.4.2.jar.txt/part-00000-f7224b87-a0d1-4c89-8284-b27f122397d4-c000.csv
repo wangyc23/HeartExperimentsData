@@ -1,0 +1,5 @@
+org/xwiki/rendering/wikimacro/internal/DefaultWikiMacroInitializer/registerMacrosForWiki(java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-rendering-wikimacro-store-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/scheduler/SchedulerPlugin/restoreExistingJobs(com.xpn.xwiki.XWikiContext)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	2
+com/xpn/xwiki/plugin/scheduler/SchedulerPlugin/initAsync()@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/scheduler/SchedulerPluginApi/scheduleJobs(com.xpn.xwiki.api.Document)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	0
+org/xwiki/rendering/wikimacro/internal/DefaultWikiMacroInitializer/registerExistingWikiMacros(boolean,java.lang.String)@g_xwiki-platform-rendering-wikimacro-store-7.4.2.jar.txt	3

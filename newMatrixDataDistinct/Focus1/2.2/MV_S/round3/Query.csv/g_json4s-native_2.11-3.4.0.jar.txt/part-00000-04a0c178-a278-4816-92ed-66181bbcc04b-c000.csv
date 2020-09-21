@@ -1,0 +1,4 @@
+org/json4s/ReaderInput/reader()
+org/json4s/native/JsonParser$/parseOpt(java.lang.String,boolean)
+org/json4s/native/JsonParser$/parseOpt(java.io.Reader,boolean,boolean)
+scala/io/BufferedSource/bufferedReader()

@@ -1,0 +1,5 @@
+org/apache/ivy/util/url/ApacheURLLister/retrieveListing(java.net.URL,boolean,boolean)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/settings/IvySettings/load(java.io.File)@g_ivy-2.3.0.jar.txt	4
+org/apache/maven/it/Verifier/loadLines(java.lang.String,java.lang.String)@g_maven-verifier-1.2.jar.txt	1
+org/apache/maven/it/util/FileUtils/copyFile(java.io.File,java.io.File,java.lang.String,org.apache.maven.it.util.FileUtils$FilterWrapper[])@g_maven-verifier-1.2.jar.txt	0
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	2

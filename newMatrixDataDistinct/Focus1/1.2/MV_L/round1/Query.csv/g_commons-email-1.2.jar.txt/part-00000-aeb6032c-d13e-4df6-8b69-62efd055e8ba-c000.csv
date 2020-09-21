@@ -1,0 +1,4 @@
+java/lang/Character/isLetterOrDigit(char)
+java/lang/StringBuffer/append(char)
+java/util/Random/nextInt(int)
+java/lang/Character/isLetter(char)

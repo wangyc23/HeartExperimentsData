@@ -1,0 +1,4 @@
+java/io/PrintStream/print(java.lang.String)
+java/lang/System/exit(int)
+java/lang/StringBuffer/toString()
+java/lang/StringBuffer/append(int)

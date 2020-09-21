@@ -1,0 +1,5 @@
+org/eclipse/tycho/surefire/TestMojo/createSurefireProperties(org.eclipse.tycho.surefire.provider.spi.TestFrameworkProvider)@g_tycho-surefire-plugin-0.23.1.jar.txt	1
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/manualPurge(java.util.List)@g_maven-dependency-plugin-2.8.jar.txt	0
+org/eclipse/tycho/surefire/provisioning/BundlesPublisher/publishBundles(java.io.File)@g_tycho-surefire-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/surefire/TestMojo/createEclipseInstallation()@g_tycho-surefire-plugin-0.23.1.jar.txt	3
+org/eclipse/tycho/surefire/provider/impl/ProviderHelper/filterTestFrameworkBundles(org.eclipse.tycho.surefire.provider.spi.TestFrameworkProvider,java.util.List)@g_tycho-surefire-plugin-0.23.1.jar.txt	4

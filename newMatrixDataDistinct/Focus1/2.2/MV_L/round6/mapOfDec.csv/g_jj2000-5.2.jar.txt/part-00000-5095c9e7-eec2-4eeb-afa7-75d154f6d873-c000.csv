@@ -1,0 +1,5 @@
+jj2000/j2k/codestream/reader/HeaderDecoder/readCOC(java.io.DataInputStream,boolean,int,int)@g_objenesis-1.0.jar.txt	3
+jj2000/j2k/entropy/encoder/EBCOTRateAllocator/getAllCodeBlocks()@g_objenesis-1.0.jar.txt	1
+jj2000/j2k/codestream/reader/FileBitstreamReaderAgent/setTile(int,int)@g_objenesis-1.0.jar.txt	4
+jj2000/j2k/codestream/writer/HeaderEncoder/writeCOC(boolean,int,int)@g_objenesis-1.0.jar.txt	2
+jj2000/j2k/wavelet/analysis/ForwardWT/createInstance(jj2000.j2k.image.BlkImgDataSrc,jj2000.j2k.util.ParameterList,jj2000.j2k.encoder.EncoderSpecs)@g_objenesis-1.0.jar.txt	0

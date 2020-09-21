@@ -1,0 +1,4 @@
+org/languagetool/AnalyzedSentence/AnalyzedSentence(org.languagetool.AnalyzedTokenReadings[])
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/size()
+org/languagetool/tagging/Tagger/tag(java.util.List)

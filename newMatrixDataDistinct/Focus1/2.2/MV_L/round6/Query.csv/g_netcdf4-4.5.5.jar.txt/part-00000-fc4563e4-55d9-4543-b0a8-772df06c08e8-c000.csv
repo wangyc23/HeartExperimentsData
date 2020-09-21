@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+ucar/nc2/jni/netcdf/Nc4Iosp$UserType/addField(ucar.nc2.jni.netcdf.Nc4Iosp$Field)
+com/sun/jna/ptr/IntByReference/IntByReference()

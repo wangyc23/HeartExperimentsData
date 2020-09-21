@@ -1,0 +1,4 @@
+java/lang/reflect/Field/getName()
+org/xwiki/component/descriptor/DefaultComponentDependency/setRoleType(java.lang.reflect.Type)
+org/xwiki/component/util/ReflectionUtils/getDirectAnnotation(java.lang.Class,java.lang.reflect.AnnotatedElement)
+org/xwiki/component/descriptor/DefaultComponentDependency/setRoleHint(java.lang.String)

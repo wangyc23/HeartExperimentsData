@@ -1,0 +1,4 @@
+org/apache/batik/dom/svg/AbstractSVGPathSegList$SVGPathSegArcItem/SVGPathSegArcItem(org.apache.batik.dom.svg.AbstractSVGPathSegList,org.w3c.dom.svg.SVGPathSeg)
+org/w3c/dom/svg/SVGPathSeg/getPathSegType()
+org/apache/batik/dom/svg/AbstractSVGPathSegList$SVGPathSegMovetoLinetoItem/SVGPathSegMovetoLinetoItem(org.apache.batik.dom.svg.AbstractSVGPathSegList,org.w3c.dom.svg.SVGPathSeg)
+org/apache/batik/dom/svg/AbstractSVGPathSegList$SVGPathSegCurvetoCubicItem/SVGPathSegCurvetoCubicItem(org.apache.batik.dom.svg.AbstractSVGPathSegList,org.w3c.dom.svg.SVGPathSeg)

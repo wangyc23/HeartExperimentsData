@@ -1,0 +1,5 @@
+com/google/common/base/Objects/deepEquals(java.lang.Object,java.lang.Object)@g_cdi-api-1.0.jar.txt	4
+org/easymock/internal/UnorderedBehavior/toString(org.easymock.internal.Invocation)@g_easymock-2.4.jar.txt	1
+org/easymock/internal/LegacyMatcherProvider/setMatcher(java.lang.reflect.Method,org.easymock.ArgumentsMatcher)@g_cdi-api-1.0.jar.txt	2
+org/easymock/internal/MocksBehavior/verify()@g_easymock-2.4.jar.txt	0
+org/easymock/internal/RecordState/<clinit>()@g_cdi-api-1.0.jar.txt	3

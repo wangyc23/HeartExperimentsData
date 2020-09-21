@@ -1,0 +1,5 @@
+net_alchim31_maven_yuicompressor/YuiCompressorMojo/gzipIfRequested(java.io.File)@g_plexus-compiler-api-1.5.3.jar.txt	4
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handleDeploymentDescriptors(org.apache.maven.plugin.war.packaging.WarPackagingContext,java.io.File,java.io.File)@g_maven-war-plugin-2.5.jar.txt	0
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handeWebAppSourceDirectory(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_plexus-compiler-api-1.5.3.jar.txt	3
+org/apache/maven/plugin/war/AbstractWarMojo/getExcludes()@g_maven-war-plugin-2.5.jar.txt	1
+net_alchim31_maven_yuicompressor/Aggregation/addInto(java.lang.String,java.util.List,java.util.Collection)@g_plexus-compiler-api-1.5.3.jar.txt	2

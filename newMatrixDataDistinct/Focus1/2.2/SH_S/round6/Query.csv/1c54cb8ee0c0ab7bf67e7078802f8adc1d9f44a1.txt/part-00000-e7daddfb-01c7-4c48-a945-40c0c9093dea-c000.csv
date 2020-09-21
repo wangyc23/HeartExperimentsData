@@ -1,0 +1,4 @@
+freenet/winterface/web/core/WinterfaceApplication/getConfiguration()
+java/lang/String/split(java.lang.String)
+freenet/winterface/web/WinterPage/getHttpServletRequest()
+freenet/winterface/core/Configuration/getFullAccessHosts()

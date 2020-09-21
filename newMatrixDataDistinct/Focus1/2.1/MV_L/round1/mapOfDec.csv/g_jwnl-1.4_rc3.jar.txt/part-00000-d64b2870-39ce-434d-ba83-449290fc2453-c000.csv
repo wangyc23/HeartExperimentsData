@@ -1,0 +1,5 @@
+io/seldon/db/SeldonMySQLDocumentStore/getUserDim(java.util.Set)@g_jwnl-1.3.3.jar.txt	4
+net/didion/jwnl/data/Synset/getSenseKey(java.lang.String)@g_jwnl-1.3.3.jar.txt	2
+net/didion/jwnl/dictionary/morph/DetachSuffixesOperation/execute(net.didion.jwnl.data.POS,java.lang.String,net.didion.jwnl.dictionary.morph.BaseFormSet)@g_jwnl-1.3.3.jar.txt	1
+io/seldon/db/SeldonMySQLDocumentStore/getLatestUsers(java.util.Date)@g_jwnl-1.3.3.jar.txt	3
+net/didion/jwnl/utilities/DictionaryToDatabase/insertData()@g_jwnl-1.3.3.jar.txt	0

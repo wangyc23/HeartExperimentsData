@@ -1,0 +1,8 @@
+0	camelinaction/HelloBean/HelloBean()
+1	java/lang/Object/Object()
+2	java/net/ConnectException/ConnectException(java.lang.String)
+3	dk/sst/snomedcave/model/NodeObject/setNodeId(java.lang.Long)
+4	dk/sst/snomedcave/model/Identity/Identity()
+5	java/util/HashSet/HashSet(java.util.Collection)
+6	java/lang/String/contains(java.lang.CharSequence)
+7	dk/sst/snomedcave/model/Identity/setCaveRegistrations(java.util.Set)

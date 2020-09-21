@@ -1,0 +1,5 @@
+org/neo4j/ogm/metadata/info/DomainInfo/buildAnnotationNameToClassInfoMap()@g_neo4j-ogm-1.1.2.jar.txt	3
+org/neo4j/ogm/metadata/info/ClassInfo/findIterableFields()@g_neo4j-ogm-1.1.2.jar.txt	4
+org/neo4j/ogm/mapper/GraphEntityMapper/map(java.lang.Class,org.neo4j.ogm.model.GraphModel)@g_neo4j-ogm-1.1.2.jar.txt	2
+org/neo4j/ogm/metadata/info/ClassInfo/findIterableFields(java.lang.Class)@g_neo4j-ogm-1.1.2.jar.txt	1
+org/neo4j/ogm/session/request/strategy/VariableDepthRelationshipQuery/constructQuery(java.lang.String,org.neo4j.ogm.cypher.Filters,java.util.Map)@g_neo4j-ogm-1.1.2.jar.txt	0

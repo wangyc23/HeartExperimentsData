@@ -1,0 +1,5 @@
+org/postgresql/core/v3/ConnectionFactoryImpl/createPostgresTimeZone()@g_postgresql-9.3-1102-jdbc41.jar.txt	3
+org/postgresql/jdbc3/AbstractJdbc3Connection/setSavepoint()@g_postgresql-9.3-1102-jdbc41.jar.txt	0
+org/postgresql/jdbc2/AbstractJdbc2DatabaseMetaData/getProcedureColumns(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_postgresql-9.3-1102-jdbc41.jar.txt	4
+org/postgresql/jdbc2/AbstractJdbc2ResultSet/updateRow()@g_postgresql-9.3-1102-jdbc41.jar.txt	1
+org/postgresql/core/v3/QueryExecutorImpl/sendBind(org.postgresql.core.v3.SimpleQuery,org.postgresql.core.v3.SimpleParameterList,org.postgresql.core.v3.Portal,boolean)@g_postgresql-9.3-1102-jdbc41.jar.txt	2

@@ -1,0 +1,5 @@
+org/osgi/service/application/ApplicationDescriptor/validateValue(java.util.Map$Entry,java.util.Map)@g_org.eclipse.equinox.app-1.3.400.jar.txt	4
+org/eclipse/equinox/internal/app/AppCommands/_unschedApp(org.eclipse.osgi.framework.console.CommandInterpreter)@g_org.eclipse.equinox.app-1.3.100.jar.txt	0
+org/eclipse/equinox/internal/app/AppCommands/_stopApp(org.eclipse.osgi.framework.console.CommandInterpreter)@g_org.eclipse.equinox.app-1.3.100.jar.txt	2
+org/osgi/service/application/ApplicationDescriptor/validateValue(java.util.Map$Entry,java.util.Map)@g_org.eclipse.equinox.app-1.3.100.jar.txt	1
+org/eclipse/equinox/internal/app/AppCommands/_unschedApp(org.eclipse.osgi.framework.console.CommandInterpreter)@g_org.eclipse.equinox.app-1.3.400.jar.txt	3

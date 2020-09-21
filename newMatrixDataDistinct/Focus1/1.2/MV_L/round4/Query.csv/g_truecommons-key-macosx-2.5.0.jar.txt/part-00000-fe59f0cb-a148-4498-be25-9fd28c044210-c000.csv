@@ -1,0 +1,4 @@
+net/java/truecommons/shed/Buffers/copy(java.nio.ByteBuffer)
+java/util/Iterator/hasNext()
+java/io/ByteArrayOutputStream/flush()
+java/io/ByteArrayOutputStream/ByteArrayOutputStream(int)

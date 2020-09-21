@@ -1,0 +1,5 @@
+org/glassfish/hk2/utilities/reflection/internal/ClassReflectionHelperUtilities/getAllMethodWrappers(java.lang.Class)@g_kahadb-5.3.2.jar.txt	4
+org/apache/kahadb/util/IntrospectionSupport/findSetterMethod(java.lang.Class,java.lang.String)@g_kahadb-5.3.2.jar.txt	3
+org/apache/kahadb/util/CommandLineSupport/setOptions(java.lang.Object,java.lang.String[])@g_kahadb-5.3.2.jar.txt	2
+org/apache/kahadb/journal/DataFileAccessor/readRecord(org.apache.kahadb.journal.Location)@g_kahadb-5.3.2.jar.txt	0
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/internalGetQualifierAnnotations(java.lang.reflect.AnnotatedElement)@g_kahadb-5.3.2.jar.txt	1

@@ -1,0 +1,4 @@
+javax/ws/rs/core/MultivaluedMap/add(java.lang.Object,java.lang.Object)
+com/sun/jersey/api/client/ClientResponse/bufferEntity()
+javax/ws/rs/core/Response$Status$Family/equals(java.lang.Object)
+com/sun/jersey/api/client/ClientResponse/getClientResponseStatus()

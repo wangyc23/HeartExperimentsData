@@ -1,0 +1,7 @@
+0	java/lang/Integer/intValue()
+1	com/salesmanager/core/business/catalog/product/model/review/ProductReview/setCustomer(com.salesmanager.core.business.customer.model.Customer)
+2	com/example/sdn4rc2/service/SupplierService/entityIDs()
+3	com/example/sdn4rc2/web/BaseController/addListIDsAttr(java.lang.Iterable,java.lang.String,java.lang.String,java.lang.String,org.springframework.ui.Model)
+4	com/salesmanager/core/business/merchant/model/MerchantStore/getStoreTemplate()
+5	com/example/sdn4rc2/service/CategoryService/entityIDs()
+6	com/salesmanager/web/shop/controller/AbstractController/getSessionAttribute(java.lang.String,com.salesmanager.web.admin.controller.products.HttpServletRequest)

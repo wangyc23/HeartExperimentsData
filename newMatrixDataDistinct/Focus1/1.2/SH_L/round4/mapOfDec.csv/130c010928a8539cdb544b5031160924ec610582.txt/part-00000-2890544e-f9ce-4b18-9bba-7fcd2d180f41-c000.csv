@@ -1,0 +1,5 @@
+controller/DictionaryResource/saveDictionary(java.lang.String)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	4
+utils/CustomAuthenticationFilter/isAccessAllowed(utils.ServletRequest,utils.ServletResponse,java.lang.Object)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	0
+controller/WordResource/getWordByName(java.lang.String,java.lang.String)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	1
+controller/WordResource/updateWord(java.lang.String,java.lang.String)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	2
+controller/WordResource/export(java.lang.String,utils.HttpServletRequest,utils.HttpServletResponse)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	3

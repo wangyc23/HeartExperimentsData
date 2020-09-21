@@ -1,0 +1,4 @@
+org/apache/maven/shared/io/scan/StaleResourceScanner/scanForSources(java.io.File,java.util.Set,java.util.Set)
+java/io/File/File(java.io.File,java.lang.String)
+java/util/Iterator/hasNext()
+java/util/List/isEmpty()

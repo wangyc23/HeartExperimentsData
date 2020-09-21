@@ -1,0 +1,5 @@
+gnu/trove/impl/Constants/<clinit>()@g_trove4j-3.0.3.jar.txt	0
+org/apache/sis/index/tree/QuadTreeWriter/writeTreeConfigsToFile(org.apache.sis.index.tree.QuadTree,java.lang.String)@g_trove4j-3.0.3.jar.txt	1
+gnu/trove/map/hash/TCharShortHashMap/putAll(java.util.Map)@g_trove4j-3.0.3.jar.txt	4
+org/apache/sis/storage/StorageConnector/closeAllExcept(java.lang.Object)@g_trove4j-3.0.3.jar.txt	3
+org/apache/sis/internal/storage/ChannelDataOutput/ArrayWriter/writeFully(int,int,int)@g_trove4j-3.0.3.jar.txt	2

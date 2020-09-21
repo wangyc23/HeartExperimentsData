@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/dir/DirectoryArchiver/execute()@g_plexus-archiver-1.0-alpha-9.jar.txt	3
+org/codehaus/plexus/archiver/gzip/GZipCompressor/compress()@g_plexus-archiver-1.0-alpha-9.jar.txt	1
+org/codehaus/plexus/archiver/bzip2/BZip2Compressor/compress()@g_plexus-archiver-1.0-alpha-9.jar.txt	0
+org/codehaus/plexus/archiver/zip/AbstractZipArchiver/createEmptyZip(java.io.File)@g_plexus-archiver-1.0-alpha-9.jar.txt	4
+org/codehaus/plexus/archiver/jar/JarArchiver/createEmptyZip(java.io.File)@g_plexus-archiver-1.0-alpha-9.jar.txt	2

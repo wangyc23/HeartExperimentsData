@@ -1,0 +1,4 @@
+java/awt/Graphics2D/setFont(java.awt.Font)
+org/jfree/text/TextUtilities/createTextBlock(java.lang.String,java.awt.Font,java.awt.Paint,float,int,org.jfree.text.TextMeasurer)
+org/jfree/text/G2TextMeasurer/G2TextMeasurer(java.awt.Graphics2D)
+org/jfree/chart/title/TextTitle/getPosition()

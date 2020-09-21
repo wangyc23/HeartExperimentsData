@@ -1,0 +1,5 @@
+org/aspectj/apache/bcel/classfile/ConstantPool/lookupMethodref(java.lang.String,java.lang.String,java.lang.String)@g_aspectjweaver-1.8.5.jar.txt	2
+org/aspectj/weaver/tools/cache/SimpleCache/StoreableCachingMap/readFromPath(java.lang.String)@g_aspectjweaver-1.8.7.jar.txt	1
+org/aspectj/weaver/bcel/BcelWorld/addSourceObjectType(java.lang.String,byte[],boolean)@g_aspectjweaver-1.8.5.jar.txt	3
+org/aspectj/weaver/tools/cache/SimpleCache/StoreableCachingMap/readFromPath(java.lang.String)@g_aspectjweaver-1.8.5.jar.txt	0
+org/aspectj/weaver/bcel/BcelShadow/weaveAroundClosure(org.aspectj.weaver.bcel.BcelAdvice,boolean)@g_aspectjweaver-1.8.5.jar.txt	4

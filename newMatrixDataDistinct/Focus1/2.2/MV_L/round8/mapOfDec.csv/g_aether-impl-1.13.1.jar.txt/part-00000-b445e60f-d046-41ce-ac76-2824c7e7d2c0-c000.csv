@@ -1,0 +1,5 @@
+org/sonatype/aether/impl/internal/DefaultArtifactResolver/resolveArtifacts(org.sonatype.aether.RepositorySystemSession,java.util.Collection)@g_aether-impl-1.7.jar.txt	2
+org/sonatype/aether/impl/internal/SimpleLocalRepositoryManager/getRepositoryKey(org.sonatype.aether.repository.RemoteRepository,java.lang.String)@g_aether-impl-1.7.jar.txt	1
+org/sonatype/aether/impl/internal/DefaultRemoteRepositoryManager/getRepositoryConnector(org.sonatype.aether.RepositorySystemSession,org.sonatype.aether.repository.RemoteRepository)@g_aether-impl-1.7.jar.txt	3
+org/sonatype/aether/impl/internal/CacheUtils/getRepository(org.sonatype.aether.RepositorySystemSession,java.util.List,java.lang.Class,java.lang.String)@g_aether-impl-1.7.jar.txt	0
+org/sonatype/aether/impl/internal/DefaultRemoteRepositoryManager/aggregateRepositories(org.sonatype.aether.RepositorySystemSession,java.util.List,java.util.List,boolean)@g_aether-impl-1.7.jar.txt	4

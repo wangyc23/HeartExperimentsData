@@ -1,0 +1,5 @@
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseSettings(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-module-xdoc-1.0.jar.txt	4
+org/apache/maven/settings/Settings/clone()@g_doxia-module-xdoc-1.0.jar.txt	3
+org/apache/maven/settings/Profile/clone()@g_doxia-module-xdoc-1.0.jar.txt	2
+org/apache/maven/doxia/module/xdoc/XdocParser/handleEndTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-module-xdoc-1.0.jar.txt	0
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/read(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-module-xdoc-1.0.jar.txt	1

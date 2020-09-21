@@ -1,0 +1,5 @@
+org/hibernate/ogm/datastore/neo4j/query/parsing/impl/Neo4jQueryRendererDelegate/predicateLike(java.lang.String,java.lang.Character)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+org/hibernate/ogm/utils/test/EnvironmentTest/hibernateORMServiceCrawlingDisabled()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3
+org/hibernate/ogm/datastore/neo4j/query/parsing/impl/Neo4jQueryResolverDelegate/isEntityAlias(java.lang.String)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2
+org/hibernate/ogm/datastore/neo4j/query/parsing/impl/EmbeddedAliasTree/addChild(org.hibernate.ogm.datastore.neo4j.query.parsing.impl.EmbeddedAliasTree)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0
+org/hibernate/ogm/type/descriptor/impl/CalendarTimeZoneDateTimeTypeDescriptor/areEqual(java.util.Calendar,java.util.Calendar)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1

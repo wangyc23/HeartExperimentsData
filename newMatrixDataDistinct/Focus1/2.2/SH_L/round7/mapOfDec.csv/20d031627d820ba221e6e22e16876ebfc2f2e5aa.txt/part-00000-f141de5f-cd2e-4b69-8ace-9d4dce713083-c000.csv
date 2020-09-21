@@ -1,0 +1,5 @@
+org/opentripplanner/routing/core/State/multipleOptionsBefore()@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	0
+org/opentripplanner/routing/algorithm/GenericDijkstra/getShortestPathTree(org.opentripplanner.routing.core.State)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	2
+org/opentripplanner/routing/algorithm/EarliestArrivalSearch/getShortestPathTree(org.opentripplanner.routing.core.RoutingRequest,double,org.opentripplanner.routing.algorithm.strategies.SearchTerminationStrategy)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	3
+org/opentripplanner/api/resource/GraphPathToTripPlanConverter/generateWalkSteps(org.opentripplanner.routing.graph.Graph,org.opentripplanner.routing.core.State[],org.opentripplanner.api.model.WalkStep)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	1
+org/opentripplanner/common/StreetUtils/pruneFloatingIslands(org.opentripplanner.routing.graph.Graph,int,int,java.lang.String)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	4

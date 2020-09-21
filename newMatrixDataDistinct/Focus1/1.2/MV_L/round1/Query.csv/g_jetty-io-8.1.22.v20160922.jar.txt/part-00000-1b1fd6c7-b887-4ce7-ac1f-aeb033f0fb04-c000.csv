@@ -1,0 +1,4 @@
+org/eclipse/jetty/io/nio/DirectNIOBuffer/putIndex()
+java/nio/channels/WritableByteChannel/write(java.nio.ByteBuffer)
+java/nio/channels/Channels/newChannel(java.io.OutputStream)
+java/nio/ByteBuffer/capacity()

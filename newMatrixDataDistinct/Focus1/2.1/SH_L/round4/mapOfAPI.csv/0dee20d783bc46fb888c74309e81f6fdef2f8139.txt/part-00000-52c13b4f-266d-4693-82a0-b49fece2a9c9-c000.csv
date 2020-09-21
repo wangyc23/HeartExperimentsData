@@ -1,0 +1,8 @@
+0	java/lang/System/currentTimeMillis()
+1	java/nio/ByteBuffer/allocate(int)
+2	org/apache/mina/session/AbstractIoSessionTest/DummySession/DummySession(org.apache.mina.api.IoService)
+3	org/apache/mina/session/AbstractIoSession/getReadBytes()
+4	org/apache/mina/session/AbstractIoSession/getLastReadTime()
+5	org/apache/mina/api/IoService/getFilters()
+6	org/apache/mina/session/AbstractIoSession/processMessageReceived(java.nio.ByteBuffer)
+7	com/salesforce/keystone/roadrunner/RoadRunnerMessage/hasTrailer()

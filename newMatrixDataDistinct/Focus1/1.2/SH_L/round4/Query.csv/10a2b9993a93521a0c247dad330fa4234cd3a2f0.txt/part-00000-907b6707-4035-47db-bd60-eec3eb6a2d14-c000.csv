@@ -1,0 +1,4 @@
+io/netty/handler/codec/spdy/SpdyHeaderBlockRawEncoder/encode(io.netty.buffer.ByteBufAllocator,io.netty.handler.codec.spdy.SpdyHeadersFrame)
+io/netty/util/ReferenceCounted/release()
+io/netty/handler/codec/spdy/SpdyHeaderBlockZlibEncoder/setInput(io.netty.buffer.ByteBuf)
+io/netty/buffer/ByteBuf/isReadable()

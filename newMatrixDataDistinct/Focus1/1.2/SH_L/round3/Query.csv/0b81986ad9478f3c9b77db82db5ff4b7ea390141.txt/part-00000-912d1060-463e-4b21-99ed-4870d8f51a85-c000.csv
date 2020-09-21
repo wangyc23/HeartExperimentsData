@@ -1,0 +1,4 @@
+com/squareup/okhttp/mockwebserver/MockResponse/setHeaders(com.squareup.okhttp.Headers)
+com/squareup/okhttp/mockwebserver/MockResponse/getHeaders()
+com/squareup/okhttp/mockwebserver/MockResponse/getBody()
+com/squareup/okhttp/mockwebserver/MockResponse/setBody(com.squareup.okhttp.internal.Buffer)

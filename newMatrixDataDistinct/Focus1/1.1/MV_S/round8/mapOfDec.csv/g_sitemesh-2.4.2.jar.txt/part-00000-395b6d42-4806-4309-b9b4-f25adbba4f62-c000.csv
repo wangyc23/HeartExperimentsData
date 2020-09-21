@@ -1,0 +1,5 @@
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_jempbox-1.8.13.jar.txt	0
+com/opensymphony/module/sitemesh/mapper/RobotDecoratorMapper/isBot(javax.servlet.http.HttpServletRequest)@g_jempbox-1.8.13.jar.txt	3
+com/opensymphony/module/sitemesh/velocity/VelocityDecoratorServlet/handleRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.apache.velocity.context.Context)@g_jempbox-1.8.13.jar.txt	4
+org/apache/log4j/varia/HUP/run()@g_jempbox-1.8.13.jar.txt	2
+org/apache/log4j/net/SocketAppender/Connector/run()@g_jempbox-1.8.13.jar.txt	1

@@ -1,0 +1,5 @@
+org/neo4j/rest/graphdb/AbstractRemoteDatabase/getXaDataSourceManager()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	1
+org/neo4j/rest/graphdb/RestAPIFacade/getPlugin(java.lang.Class)@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	0
+org/neo4j/rest/graphdb/RestNodeTest/testHasRelationshipsWithOutgoingDirectionWithSingleRelationshipTypeParamsReversed()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	3
+org/neo4j/rest/graphdb/RestNodeTest/testGetRelationshipsWithoutDirectionWithMultipleRelationshipTypes()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	2
+org/neo4j/rest/graphdb/traversal/RestTraversal/reverse()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	4

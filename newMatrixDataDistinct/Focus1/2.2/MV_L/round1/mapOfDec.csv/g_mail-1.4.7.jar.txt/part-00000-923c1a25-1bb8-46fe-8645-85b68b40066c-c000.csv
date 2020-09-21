@@ -1,0 +1,5 @@
+com/sun/mail/pop3/POP3Message/getRawStream(boolean)@g_javax.mail-1.5.2.jar.txt	3
+com/sun/mail/util/SocketFetcher/getSocket(java.lang.String,int,java.util.Properties,java.lang.String,boolean)@g_mail-1.4.5.jar.txt	4
+com/sun/mail/pop3/POP3Message/writeTo(java.io.OutputStream,java.lang.String[])@g_mail-1.4.5.jar.txt	0
+com/sun/mail/pop3/POP3Message/writeTo(java.io.OutputStream,java.lang.String[])@g_javax.mail-1.5.2.jar.txt	2
+com/sun/mail/pop3/POP3Message/getRawStream(boolean)@g_mail-1.4.5.jar.txt	1

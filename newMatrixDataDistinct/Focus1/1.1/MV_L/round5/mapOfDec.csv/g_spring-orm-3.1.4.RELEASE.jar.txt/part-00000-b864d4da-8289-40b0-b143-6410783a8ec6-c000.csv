@@ -1,0 +1,5 @@
+org/springframework/orm/hibernate3/SessionFactoryUtils/doGetSession(org.hibernate.SessionFactory,org.hibernate.Interceptor,org.springframework.jdbc.support.SQLExceptionTranslator,boolean)@g_spring-orm-4.0.5.RELEASE.jar.txt	2
+org/springframework/orm/jdo/PersistenceManagerFactoryUtils/doGetPersistenceManager(javax.jdo.PersistenceManagerFactory,boolean)@g_spring-orm-4.0.5.RELEASE.jar.txt	4
+org/springframework/orm/jpa/ExtendedEntityManagerCreator/ExtendedEntityManagerInvocationHandler/enlistInCurrentTransaction()@g_spring-orm-4.0.5.RELEASE.jar.txt	3
+org/springframework/orm/jpa/EntityManagerFactoryUtils/doGetTransactionalEntityManager(javax.persistence.EntityManagerFactory,java.util.Map,boolean)@g_spring-orm-4.0.5.RELEASE.jar.txt	1
+org/springframework/orm/hibernate4/SpringSessionContext/currentSession()@g_spring-orm-4.0.5.RELEASE.jar.txt	0

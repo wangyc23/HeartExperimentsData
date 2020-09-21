@@ -1,0 +1,5 @@
+freemarker/ext/beans/ClassIntrospector/get(java.lang.Class)@g_freemarker-2.3.22.jar.txt	4
+freemarker/core/FMParserTokenManager/TokenLexicalActions(freemarker.core.Token)@g_freemarker-2.3.22.jar.txt	0
+freemarker/core/BuiltIn/newBuiltIn(int,freemarker.core.Expression,java.lang.String)@g_freemarker-2.3.22.jar.txt	2
+freemarker/template/utility/DateUtil/dateToString(java.util.Date,boolean,boolean,boolean,int,java.util.TimeZone,boolean,freemarker.template.utility.DateUtil$DateToISO8601CalendarFactory)@g_freemarker-2.3.22.jar.txt	3
+freemarker/ext/beans/ClassBasedModelFactory/getInternal(java.lang.String)@g_freemarker-2.3.22.jar.txt	1

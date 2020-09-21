@@ -1,0 +1,4 @@
+org/apache/jasper/compiler/Node$Nodes/size()
+org/apache/jasper/compiler/Node$Nodes/remove(org.apache.jasper.compiler.Node)
+org/apache/jasper/compiler/Node$TemplateText/isAllSpace()
+org/apache/jasper/compiler/Node$Nodes/getNode(int)

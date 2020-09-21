@@ -1,0 +1,5 @@
+org/neo4j/rest/graphdb/ResultTypeConverterTest/testConvertArrayOfNormalMapsToMapOfSame()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	1
+org/neo4j/rest/graphdb/converter/RestTableResultExtractor/extractData(java.util.Map,java.util.List)@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	2
+org/neo4j/rest/graphdb/ResultTypeConverterTest/testConvertFromEmptyIterableToObject()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	4
+org/neo4j/rest/graphdb/ExecutingRestAPI/queryIndex(java.lang.String,java.lang.Class)@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	3
+org/neo4j/rest/graphdb/ResultTypeConverterTest/testConvertArrayOfJSONDataToNodeList()@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	0

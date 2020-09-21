@@ -1,0 +1,5 @@
+org/apache/wml/dom/WMLDocumentImpl/createElement(java.lang.String)@g_xercesImpl-2.9.1.jar.txt	1
+org/apache/tika/language/LanguageProfile/add(java.lang.String,long)@g_xercesImpl-2.9.1.jar.txt	4
+org/apache/xml/serialize/HTMLSerializer/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_xercesImpl-2.9.1.jar.txt	0
+org/apache/tika/fork/ForkServer/processRequests()@g_tika-core-1.17.jar.txt	3
+org/apache/xml/serialize/XMLSerializer/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_xercesImpl-2.9.1.jar.txt	2

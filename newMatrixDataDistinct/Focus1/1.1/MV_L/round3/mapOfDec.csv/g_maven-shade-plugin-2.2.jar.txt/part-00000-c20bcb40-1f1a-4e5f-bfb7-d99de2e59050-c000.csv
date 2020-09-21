@@ -1,0 +1,5 @@
+org/apache/maven/plugins/shade/pom/MavenJDOMWriter/iterateExclusion(org.apache.maven.plugins.shade.pom.MavenJDOMWriter$Counter,org.jdom.Element,java.util.Collection,java.lang.String,java.lang.String)@g_maven-shade-plugin-2.1.jar.txt	1
+org/apache/maven/plugins/shade/pom/MavenJDOMWriter/iterateDeveloper(org.apache.maven.plugins.shade.pom.MavenJDOMWriter$Counter,org.jdom.Element,java.util.Collection,java.lang.String,java.lang.String)@g_maven-shade-plugin-2.1.jar.txt	4
+org/apache/maven/plugins/shade/pom/MavenJDOMWriter/findAndReplaceSimpleLists(org.apache.maven.plugins.shade.pom.MavenJDOMWriter$Counter,org.jdom.Element,java.util.Collection,java.lang.String,java.lang.String)@g_maven-shade-plugin-2.1.jar.txt	0
+org/apache/maven/plugins/shade/resource/XmlAppendingTransformer/processResource(java.lang.String,java.io.InputStream,java.util.List)@g_maven-shade-plugin-2.1.jar.txt	2
+org/apache/maven/plugins/shade/pom/MavenJDOMWriter/iterateExtension(org.apache.maven.plugins.shade.pom.MavenJDOMWriter$Counter,org.jdom.Element,java.util.Collection,java.lang.String,java.lang.String)@g_maven-shade-plugin-2.1.jar.txt	3

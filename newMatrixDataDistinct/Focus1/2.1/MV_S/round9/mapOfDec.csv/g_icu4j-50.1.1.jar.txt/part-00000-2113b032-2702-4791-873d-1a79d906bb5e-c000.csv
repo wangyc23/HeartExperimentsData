@@ -1,0 +1,5 @@
+org/apache/commons/lang3/StringEscapeUtils/CsvUnescaper/translate(java.lang.CharSequence,int,java.io.Writer)@g_commons-text-1.1.jar.txt	0
+com/ibm/icu/text/DecimalFormatSymbols/initialize(com.ibm.icu.util.ULocale)@g_commons-text-1.1.jar.txt	2
+com/ibm/icu/text/DecimalFormat/formatToCharacterIterator(java.lang.Object,com.ibm.icu.text.DecimalFormat$Unit)@g_commons-text-1.1.jar.txt	1
+org/apache/commons/lang3/ArrayUtils/removeElements(java.lang.Object[],java.lang.Object[])@g_commons-text-1.1.jar.txt	3
+com/ibm/icu/util/Calendar/expandOverride(java.lang.String,java.lang.String)@g_commons-text-1.1.jar.txt	4

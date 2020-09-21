@@ -1,0 +1,5 @@
+com/egnore/cluster/model/conf/HadoopConfigManager/validateCrossScopeInfoScanner/visitGroup(com.egnore.cluster.model.Group)@1fc2b881d52ae6f2dfb44fb653411218b29134ce.txt	3
+rss/dao/ReservationDAO/customerCreatesReservation(int,rrs.model.Reservation)@1fc2b881d52ae6f2dfb44fb653411218b29134ce.txt	1
+com/egnore/cluster/model/Instance/getRole()@1fc2b881d52ae6f2dfb44fb653411218b29134ce.txt	0
+rrs/controllers/StaffController/createReservation(rrs.model.Reservation)@1fc2b881d52ae6f2dfb44fb653411218b29134ce.txt	4
+com/egnore/common/model/conf/TreeScanner/execute()@1fc2b881d52ae6f2dfb44fb653411218b29134ce.txt	2

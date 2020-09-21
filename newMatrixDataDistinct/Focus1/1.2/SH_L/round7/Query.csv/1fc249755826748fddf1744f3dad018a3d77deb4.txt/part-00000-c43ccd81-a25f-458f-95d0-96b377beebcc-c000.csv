@@ -1,0 +1,4 @@
+org/json/simple/parser/JSONParser/JSONParser()
+org/json/simple/parser/JSONParser/parse(java.lang.String)
+java/lang/String/substring(int)
+net/bashtech/geobot/BotManager/getRemoteContent(java.lang.String)

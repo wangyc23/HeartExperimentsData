@@ -1,0 +1,5 @@
+com/sun/faces/application/MethodExpressionMethodBindingAdapter/equals(java.lang.Object)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/application/NavigationHandlerImpl/findImplicitMatch(javax.faces.context.FacesContext,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/application/view/ViewScopeContextManager/getName(java.lang.Object)@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/util/Util/getLocaleFromString(java.lang.String)@g_javax.faces-2.2.7.jar.txt	2
+javax/faces/component/MethodExpressionMethodBindingAdapter/equals(java.lang.Object)@g_javax.faces-2.2.7.jar.txt	4

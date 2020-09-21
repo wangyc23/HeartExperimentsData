@@ -1,0 +1,5 @@
+org/neo4j/kernel/api/index/SchemaIndexProvider/2/select(java.lang.Class,java.lang.Iterable)@g_neo4j-kernel-2.2.5.jar.txt	1
+org/neo4j/kernel/impl/transaction/state/PropertyTraverser/assertPropertyChain(org.neo4j.kernel.impl.store.record.PrimitiveRecord,org.neo4j.kernel.impl.transaction.state.RecordAccess)@g_neo4j-kernel-2.2.5.jar.txt	3
+org/neo4j/helpers/Args/asArgs()@g_neo4j-kernel-2.2.5.jar.txt	2
+org/neo4j/helpers/Args/getSingleOptionOrNull(java.lang.String)@g_neo4j-kernel-2.2.5.jar.txt	4
+org/neo4j/kernel/impl/api/scan/LabelScanStoreProvider/1/select(java.lang.Class,java.lang.Iterable)@g_neo4j-kernel-2.2.5.jar.txt	0

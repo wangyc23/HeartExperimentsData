@@ -1,0 +1,5 @@
+org/springframework/mock/web/MockPageContext/setAttribute(java.lang.String,java.lang.Object,int)@g_spring-test-4.1.6.RELEASE.jar.txt	1
+org/springframework/test/jdbc/JdbcTestUtils/deleteFromTableWhere(org.springframework.jdbc.core.JdbcTemplate,java.lang.String,java.lang.String,java.lang.Object[])@g_spring-test-4.1.6.RELEASE.jar.txt	4
+org/springframework/mock/jndi/SimpleNamingContext/lookup(java.lang.String)@g_spring-test-4.1.6.RELEASE.jar.txt	3
+org/springframework/mock/web/MockPageContext/getAttribute(java.lang.String,int)@g_spring-test-4.1.6.RELEASE.jar.txt	2
+org/springframework/mock/web/MockPageContext/removeAttribute(java.lang.String,int)@g_spring-test-4.1.6.RELEASE.jar.txt	0

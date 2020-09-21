@@ -1,0 +1,4 @@
+org/apache/maven/project/MavenProject/getBuild()
+java/io/File/File(java.io.File,java.lang.String)
+org/codehaus/plexus/archiver/jar/JarArchiver/isSupportingForced()
+org/apache/maven/project/MavenProject/getArtifactId()

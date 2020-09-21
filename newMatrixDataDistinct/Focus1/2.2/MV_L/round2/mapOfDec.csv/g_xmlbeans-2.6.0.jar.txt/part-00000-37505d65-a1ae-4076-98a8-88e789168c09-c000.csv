@@ -1,0 +1,5 @@
+org/apache/xmlbeans/impl/schema/StscImporter/DownloadTable/resolveImportsAndIncludes(boolean)@g_xmlbeans-2.3.0.jar.txt	1
+org/apache/xmlbeans/impl/tool/SchemaCopy/findAllRelative(java.net.URI,java.net.URI)@g_xmlbeans-2.3.0.jar.txt	4
+org/apache/xmlbeans/impl/tool/CodeGenUtil/addAllJavaFiles(java.util.List,java.util.List)@g_xmlbeans-2.3.0.jar.txt	3
+org/apache/xmlbeans/impl/tool/SchemaImportResolver/resolveImports(org.apache.xmlbeans.impl.tool.SchemaImportResolver$SchemaResource[])@g_xmlbeans-2.3.0.jar.txt	0
+org/apache/xmlbeans/impl/jam/internal/javadoc/JavadocRunner/run(java.io.File[],java.io.PrintWriter,java.lang.String,java.lang.String,java.lang.String[],org.apache.xmlbeans.impl.jam.provider.JamLogger)@g_xmlbeans-2.3.0.jar.txt	2

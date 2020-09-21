@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+java/lang/String/charAt(int)
+java/lang/String/length()
+java/util/ArrayList/toArray(java.lang.Object[])

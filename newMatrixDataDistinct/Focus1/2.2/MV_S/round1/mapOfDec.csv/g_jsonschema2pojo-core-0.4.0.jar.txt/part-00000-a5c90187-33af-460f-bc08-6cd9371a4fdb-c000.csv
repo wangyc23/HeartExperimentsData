@@ -1,0 +1,5 @@
+org/jvnet/jaxb2_commons/plugin/mergeable/MergeablePlugin/generateMergeFrom$mergeFrom(com.sun.tools.xjc.outline.ClassOutline,com.sun.codemodel.JDefinedClass)@g_jaxb2-basics-0.6.4.jar.txt	0
+org/jvnet/jaxb2_commons/plugin/enumvalue/EnumValuePlugin/processEnumOutline(com.sun.tools.xjc.outline.EnumOutline)@g_jaxb2-basics-0.6.4.jar.txt	1
+org/jvnet/ws/wadl2java/jaxrs/JAXRS20ResourceClassGenerator/createProcessInvocation(org.jvnet.ws.wadl.ast.MethodNode,com.sun.codemodel.JBlock,com.sun.codemodel.JVar,java.lang.String,org.jvnet.ws.wadl.ast.RepresentationNode,com.sun.codemodel.JType,com.sun.codemodel.JExpression,com.sun.codemodel.JExpression)@g_jaxb2-basics-0.6.4.jar.txt	3
+org/jsonschema2pojo/SchemaStore/create(java.net.URI)@g_jaxb2-basics-0.6.4.jar.txt	4
+org/jsonschema2pojo/rules/ObjectRule/addToString(com.sun.codemodel.JDefinedClass)@g_jaxb2-basics-0.6.4.jar.txt	2

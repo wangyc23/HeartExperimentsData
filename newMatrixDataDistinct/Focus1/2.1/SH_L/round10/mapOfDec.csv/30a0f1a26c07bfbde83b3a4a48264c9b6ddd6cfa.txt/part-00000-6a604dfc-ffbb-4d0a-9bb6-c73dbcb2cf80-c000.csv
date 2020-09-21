@@ -1,0 +1,5 @@
+com/cdoframework/cdolib/service/framework/transfilter/xsd/CreteriasType/setCreteriasTypeItem(int,com.cdoframework.cdolib.service.framework.transfilter.xsd.CreteriasTypeItem)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	0
+com/cdoframework/cdolib/database/xsd/QueryRecord/removeGroupAt(int)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	3
+com/cdoframework/cdolib/data/cdo/FloatArrayField/setValueAt(int,float)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	2
+com/cdoframework/cdolib/data/cdo/CDOBuffer/setBooleanValue(com.cdoframework.cdolib.data.cdo.CDO,java.lang.String,java.nio.ByteBuffer)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	4
+com/cdoframework/cdolib/data/cdo/LongArrayField/getLength()@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	1

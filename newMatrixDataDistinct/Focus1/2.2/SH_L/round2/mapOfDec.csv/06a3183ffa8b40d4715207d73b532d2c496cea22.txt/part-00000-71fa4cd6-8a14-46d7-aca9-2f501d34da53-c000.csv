@@ -1,0 +1,5 @@
+io/corbel/resources/rem/resmi/AbstractResmiRem/buildResponseWithCustomEtag(com.google.gson.JsonElement,java.lang.String)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	3
+io/corbel/resources/api/RemResourceTest/testPostRelation()@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	2
+io/corbel/iam/api/TokenResource/upgradeToken(io.corbel.lib.ws.auth.AuthorizationInfo,java.lang.String,java.lang.String)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	0
+io/corbel/oauth/api/UserResource/getUserProfile(java.lang.String,io.corbel.lib.token.reader.TokenReader)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	1
+io/corbel/resources/api/RemResourceTest/testGetCollectionWithAggregation()@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	4

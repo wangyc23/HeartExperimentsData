@@ -1,0 +1,5 @@
+org/neo4j/shell/ColumnPrinter/add(java.lang.Object[])@g_neo4j-shell-3.0.1.jar.txt	2
+org/neo4j/shell/util/json/JSONObject/populateInternalMap(java.lang.Object,boolean)@g_neo4j-shell-3.0.1.jar.txt	4
+org/neo4j/bolt/v1/messaging/infrastructure/ValueNode/pack(org.neo4j.bolt.v1.messaging.Neo4jPack$Packer,org.neo4j.graphdb.Node)@g_neo4j-shell-3.0.1.jar.txt	3
+org/neo4j/bolt/v1/messaging/Neo4jPack/Packer/pack(java.lang.Object)@g_neo4j-shell-3.0.1.jar.txt	1
+org/neo4j/shell/kernel/apps/TransactionProvidingApp/toExpander(org.neo4j.graphdb.GraphDatabaseService,org.neo4j.graphdb.Direction,java.util.Map,boolean,boolean)@g_neo4j-shell-3.0.1.jar.txt	0

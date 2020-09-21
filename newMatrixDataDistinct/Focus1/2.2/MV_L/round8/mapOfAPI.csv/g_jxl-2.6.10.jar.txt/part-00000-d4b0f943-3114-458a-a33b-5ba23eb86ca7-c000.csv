@@ -1,0 +1,4 @@
+0	java/lang/Character/toUpperCase(char)
+1	java/lang/String/String(char[])
+2	java/lang/StringBuffer/append(char)
+3	java/lang/String/charAt(int)

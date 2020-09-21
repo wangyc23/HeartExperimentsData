@@ -1,0 +1,4 @@
+com/adobe/xmp/impl/ByteBuffer/getByteStream()
+com/adobe/xmp/XMPException/getMessage()
+com/adobe/xmp/XMPMetaFactory/parseFromBuffer(byte[])
+java/lang/StringBuilder/StringBuilder()

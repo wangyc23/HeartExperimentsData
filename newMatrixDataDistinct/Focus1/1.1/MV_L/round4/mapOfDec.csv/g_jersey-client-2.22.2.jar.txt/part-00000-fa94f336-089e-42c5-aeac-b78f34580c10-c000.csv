@@ -1,0 +1,5 @@
+org/glassfish/jersey/client/ClientRuntime/addUserAgent(org.glassfish.jersey.client.ClientRequest,java.lang.String)@g_jersey-client-2.22.1.jar.txt	2
+org/glassfish/jersey/client/ClientRuntime/addUserAgent(org.glassfish.jersey.client.ClientRequest,java.lang.String)@g_jersey-client-2.21.jar.txt	0
+org/glassfish/jersey/client/ClientRequest/writeEntity()@g_jersey-client-2.22.1.jar.txt	3
+org/glassfish/jersey/client/internal/HttpUrlConnector/_apply(org.glassfish.jersey.client.ClientRequest)@g_jersey-client-2.21.jar.txt	4
+org/glassfish/jersey/client/ClientRequest/writeEntity()@g_jersey-client-2.21.jar.txt	1

@@ -1,0 +1,4 @@
+org/openrdf/rio/ntriples/NTriplesUtil/append(org.openrdf.model.Value,java.lang.Appendable)
+org/openrdf/model/Statement/getSubject()
+org/openrdf/model/Statement/getPredicate()
+java/io/Writer/write(java.lang.String)

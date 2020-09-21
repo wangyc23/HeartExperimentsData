@@ -1,0 +1,5 @@
+com/guillaumecl/caskdays/external/BeerListParser/extractBeerList(org.jsoup.nodes.Document)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+com/guillaumecl/caskdays/external/BeerListParser/getSite()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1
+org/woelker/telemetrion/core/sensors/DiskSensorTest/testGetCurrentValues()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2
+com/guillaumecl/caskdays/util/JacksonFeature/configure(javax.ws.rs.core.FeatureContext)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0
+org/woelker/telemetrion/core/engine/Engine/start()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3

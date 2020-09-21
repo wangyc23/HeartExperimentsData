@@ -1,0 +1,4 @@
+org/jboss/as/quickstarts/ejb_security_interceptors/SecuredEJB/userInRole(java.lang.String,java.lang.StringBuilder)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/lang/StringBuilder/append(java.lang.Object)

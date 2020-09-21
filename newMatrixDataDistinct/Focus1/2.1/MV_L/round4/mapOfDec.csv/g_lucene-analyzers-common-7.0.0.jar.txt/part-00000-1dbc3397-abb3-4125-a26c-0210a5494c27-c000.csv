@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/hunspell/Dictionary/DoubleASCIIFlagParsingStrategy/parseFlags(java.lang.String)@g_lucene-analyzers-common-6.6.0.jar.txt	4
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/unhyphenate()@g_lucene-analyzers-common-6.5.0.jar.txt	1
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/unhyphenate()@g_lucene-analyzers-common-6.6.0.jar.txt	0
+org/apache/lucene/analysis/miscellaneous/WordDelimiterGraphFilterFactory/parseTypes(java.util.List)@g_lucene-analyzers-common-6.6.0.jar.txt	2
+org/apache/lucene/analysis/util/RollingCharBuffer/get(int)@g_lucene-analyzers-common-6.6.0.jar.txt	3

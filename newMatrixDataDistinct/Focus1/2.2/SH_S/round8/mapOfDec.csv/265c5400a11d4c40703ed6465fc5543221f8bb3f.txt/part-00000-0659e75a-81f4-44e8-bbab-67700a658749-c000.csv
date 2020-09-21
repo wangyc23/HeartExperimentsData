@@ -1,0 +1,5 @@
+com/example/sdn4rc2/web/ProductController/create(com.example.sdn4rc2.web.ProductForm,org.springframework.ui.Model)@22f7087bba1244fbc09ef295e81cd69231499bbb.txt	0
+com/trier/exam/shopping/resource/ProductResource/save(com.trier.exam.shopping.model.Product)@22f7087bba1244fbc09ef295e81cd69231499bbb.txt	4
+com/trier/exam/shopping/resource/ProductResource/get(java.lang.Long)@22f7087bba1244fbc09ef295e81cd69231499bbb.txt	2
+com/aliyun/emr/example/WordCount/TokenizerMapper/map(java.lang.Object,com.aliyun.emr.example.Text,org.apache.hadoop.mapreduce.Mapper.Context)@22f7087bba1244fbc09ef295e81cd69231499bbb.txt	3
+com/example/sdn4rc2/converter/MoneyConverter/toGraphProperty(java.lang.String)@22f7087bba1244fbc09ef295e81cd69231499bbb.txt	1

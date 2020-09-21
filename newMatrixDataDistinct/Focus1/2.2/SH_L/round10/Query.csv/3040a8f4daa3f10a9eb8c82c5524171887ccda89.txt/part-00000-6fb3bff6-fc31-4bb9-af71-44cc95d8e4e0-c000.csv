@@ -1,0 +1,4 @@
+org/neo4j/graphdb/index/IndexManager/forNodes(java.lang.String)
+org/neo4j/rest/graphdb/Neo4jDatabaseCleaner/deleteIndex(org.neo4j.graphdb.index.Index)
+java/util/Arrays/asList(T[])
+org/neo4j/graphdb/index/IndexManager/forRelationships(java.lang.String)

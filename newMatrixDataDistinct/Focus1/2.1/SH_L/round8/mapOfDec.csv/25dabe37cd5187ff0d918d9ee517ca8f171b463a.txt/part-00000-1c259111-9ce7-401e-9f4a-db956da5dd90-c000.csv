@@ -1,0 +1,5 @@
+com/fengjing/framework/webservice/springws/client/saaj/StudentClientDetails/sendRequesetBySOAPMessage()@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	3
+com/fengjing/framework/webservice/springws/client/saaj/StudentClientDetails/sendRequesetByPAYLOAD()@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	4
+com/fengjing/framework/webservice/springws/ws/StudentDetailsEndpoint/searchProjects(com.fengjing.framework.webservice.springws.domain.StudentRequestType)@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	1
+com/fengjing/framework/webservice/jaxws/client/HelloService/getHelloPort(javax.xml.ws.WebServiceFeature[])@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	0
+com/fengjing/framework/webservice/jaxws/client/HelloService/getHelloPort()@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	2

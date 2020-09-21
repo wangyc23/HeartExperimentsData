@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/interactive/form/PDSignatureField/generatePartialName()@g_pdfbox-1.7.0.jar.txt	4
+org/apache/pdfbox/pdmodel/font/PDType1AfmPfbFont/load(org.apache.pdfbox.pdmodel.PDDocument,java.io.InputStream,java.io.InputStream)@g_pdfbox-1.7.0.jar.txt	1
+org/apache/pdfbox/util/PDFTextStripper/processTextPosition(org.apache.pdfbox.util.TextPosition)@g_pdfbox-1.7.0.jar.txt	3
+org/apache/jempbox/xmp/XMPSchema/merge(org.apache.jempbox.xmp.XMPSchema)@g_jempbox-1.8.13.jar.txt	0
+org/apache/pdfbox/pdfwriter/ContentStreamWriter/writeObject(java.lang.Object)@g_pdfbox-1.7.0.jar.txt	2

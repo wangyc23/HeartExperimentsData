@@ -1,0 +1,5 @@
+org/springframework/context/annotation/CommonAnnotationBeanPostProcessor/WebServiceRefElement/getResourceToInject(java.lang.Object,java.lang.String)@g_spring-context-4.2.3.BUILD-20151114.143958-56.jar.txt	0
+org/springframework/context/support/ResourceBundleMessageSource/getResourceBundle(java.lang.String,java.util.Locale)@g_spring-context-4.2.3.BUILD-20151114.143958-56.jar.txt	4
+org/springframework/context/annotation/CommonAnnotationBeanPostProcessor/WebServiceRefElement/getResourceToInject(java.lang.Object,java.lang.String)@g_spring-context-4.2.3.BUILD-20151114.225414-58.jar.txt	1
+org/springframework/context/config/PropertyPlaceholderBeanDefinitionParser/doParse(org.w3c.dom.Element,org.springframework.beans.factory.support.BeanDefinitionBuilder)@g_spring-context-4.2.3.BUILD-20151114.143958-56.jar.txt	2
+org/springframework/context/annotation/ConfigurationClassPostProcessor/processConfigBeanDefinitions(org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-context-4.2.3.BUILD-20151114.143958-56.jar.txt	3

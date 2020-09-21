@@ -1,0 +1,5 @@
+org/apache/zookeeper/ZooKeeper/getClientCnxnSocket()@g_zookeeper-3.4.6.jar.txt	0
+net/sf/ehcache/store/disk/DiskStorageFactory/DiskWriteTask/call()@g_zookeeper-3.4.6.jar.txt	1
+org/apache/zookeeper/server/quorum/Learner/request(org.apache.zookeeper.server.Request)@g_zookeeper-3.4.6.jar.txt	3
+org/apache/jena/reasoner/rulesys/Rule/Parser/parseClause()@g_zookeeper-3.4.6.jar.txt	4
+org/apache/jena/rdfxml/xmloutput/impl/BaseXMLWriter/tag(java.lang.String,java.lang.String,int,boolean)@g_zookeeper-3.4.6.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/resolvers/ListRepositoriesMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugins/help/DescribeMojo/writeDescription(java.lang.StringBuilder)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/manualPurge(java.util.List)@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugins/help/HelpMojo/build()@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-dependency-plugin-2.8.jar.txt	0

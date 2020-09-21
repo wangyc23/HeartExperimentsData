@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/util/MRApps/addToClasspathIfNotJar(org.apache.hadoop.fs.Path[],java.net.URI[],org.apache.hadoop.conf.Configuration,java.util.Map,java.lang.String)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	2
+org/apache/hadoop/yarn/proto/YarnProtos/ContainerStatusProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	3
+org/apache/hadoop/mapred/LocalDistributedCacheManager/close()@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	1
+org/apache/hadoop/mapred/LocalDistributedCacheManager/setup(org.apache.hadoop.mapred.JobConf)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	0
+org/apache/hadoop/yarn/proto/YarnProtos/SerializedExceptionProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	4

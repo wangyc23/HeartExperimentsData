@@ -1,0 +1,5 @@
+org/xerial/snappy/SnappyLoader/findNativeLibrary()@g_snappy-java-1.0.4.1.jar.txt	3
+org/xerial/snappy/SnappyLoader/getByteCode(java.lang.String)@g_snappy-java-1.0.4.1.jar.txt	1
+org/apache/commons/crypto/Crypto/main(java.lang.String[])@g_commons-crypto-1.0.0.jar.txt	0
+org/xerial/snappy/SnappyLoader/md5sum(java.io.InputStream)@g_snappy-java-1.0.4.1.jar.txt	4
+org/xerial/snappy/SnappyLoader/loadSnappySystemProperties()@g_snappy-java-1.0.4.1.jar.txt	2

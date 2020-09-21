@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/WarMojo/performPackaging(java.io.File)@g_maven-war-plugin-2.5.jar.txt	3
+org/apache/activemq/protobuf/compiler/IntrospectionSupport/getProperties(java.lang.Object,java.util.Map,java.lang.String)@g_maven-war-plugin-2.5.jar.txt	2
+org/apache/activemq/protobuf/compiler/ProtoMojo/execute()@g_maven-war-plugin-2.5.jar.txt	4
+org/apache/activemq/protobuf/compiler/JavaGenerator/writeFile(java.lang.String,org.apache.activemq.protobuf.compiler.JavaGenerator$Closure)@g_maven-war-plugin-2.5.jar.txt	1
+org/apache/activemq/protobuf/compiler/AltJavaGenerator/compile(java.io.File)@g_maven-war-plugin-2.5.jar.txt	0

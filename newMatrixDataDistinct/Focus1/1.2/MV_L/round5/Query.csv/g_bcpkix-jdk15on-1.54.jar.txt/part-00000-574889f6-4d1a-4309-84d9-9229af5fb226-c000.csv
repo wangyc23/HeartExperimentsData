@@ -1,0 +1,4 @@
+org/bouncycastle/operator/jcajce/JceKTSKeyUnwrapper/getAlgorithmIdentifier()
+org/bouncycastle/asn1/x509/AlgorithmIdentifier/getParameters()
+java/lang/StringBuilder/append(java.lang.String)
+org/bouncycastle/asn1/x509/AlgorithmIdentifier/getAlgorithm()

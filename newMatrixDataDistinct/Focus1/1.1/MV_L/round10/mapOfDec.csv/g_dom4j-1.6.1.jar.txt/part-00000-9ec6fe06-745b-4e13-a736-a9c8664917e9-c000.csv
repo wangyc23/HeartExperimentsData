@@ -1,0 +1,5 @@
+org/dom4j/tree/DefaultDocument/setContent(java.util.List)@g_batik-css-1.7.jar.txt	2
+org/apache/batik/css/dom/CSSOMSVGColor/AbstractModificationHandler/colorInsertedBefore(float,int)@g_batik-css-1.7.jar.txt	0
+org/apache/batik/css/dom/CSSOMSVGPaint/AbstractModificationHandler/colorProfileChanged(java.lang.String)@g_batik-css-1.7.jar.txt	3
+org/dom4j/tree/AbstractDocumentType/write(java.io.Writer)@g_batik-css-1.7.jar.txt	1
+org/dom4j/io/XMLWriter/escapeElementEntities(java.lang.String)@g_batik-css-1.7.jar.txt	4

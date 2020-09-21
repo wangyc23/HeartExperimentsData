@@ -1,0 +1,4 @@
+org/netlib/util/Util/min(int,int,int)
+org/netlib/util/intW/intW(int)
+java/lang/Math/abs(double)
+java/util/Vector/addElement(java.lang.Object)

@@ -1,0 +1,5 @@
+0	java/util/regex/Matcher/group(int)
+1	junit/framework/Assert/assertTrue(boolean)
+2	java/io/FilterInputStream/close()
+3	org/archive/io/ArchiveReader/close()
+4	org/apache/hadoop/conf/Configuration/set(java.lang.String,java.lang.String)

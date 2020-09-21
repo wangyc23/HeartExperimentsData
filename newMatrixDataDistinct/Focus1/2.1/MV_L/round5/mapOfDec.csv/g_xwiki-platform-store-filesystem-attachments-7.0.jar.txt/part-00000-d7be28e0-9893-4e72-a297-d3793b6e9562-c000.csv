@@ -1,0 +1,5 @@
+org/xwiki/store/serialization/xml/internal/AttachmentListMetadataSerializer/parse(org.dom4j.Element)@g_xwiki-platform-store-filesystem-attachments-7.4.jar.txt	4
+org/xwiki/store/serialization/xml/internal/AttachmentListMetadataSerializer/parse(org.dom4j.Element)@g_xwiki-platform-store-filesystem-attachments-7.4.2.jar.txt	1
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentRecycleBinStore/getAllDeletedAttachments(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-store-filesystem-attachments-7.4.jar.txt	3
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentRecycleBinStore/getAllDeletedAttachments(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-store-filesystem-attachments-7.4.2.jar.txt	0
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentRecycleBinStore/getAllDeletedAttachments(com.xpn.xwiki.doc.XWikiAttachment,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-store-filesystem-attachments-7.4.2.jar.txt	2

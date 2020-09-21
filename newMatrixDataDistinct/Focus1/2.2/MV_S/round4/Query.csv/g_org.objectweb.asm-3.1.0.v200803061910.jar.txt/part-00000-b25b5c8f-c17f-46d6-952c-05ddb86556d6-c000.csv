@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(char)
+java/lang/String/indexOf(java.lang.String,int)
+java/lang/String/substring(int,int)
+java/lang/String/replace(char,char)

@@ -1,0 +1,5 @@
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/executeCopy(org.openrdf.query.algebra.Copy,org.openrdf.sail.UpdateContext)@g_sesame-repository-sail-2.7.9.jar.txt	0
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/executeAdd(org.openrdf.query.algebra.Add,org.openrdf.sail.UpdateContext)@g_sesame-repository-sail-2.7.9.jar.txt	1
+org/openrdf/repository/sail/SailRepositoryConnection/exportStatements(org.openrdf.model.Resource,org.openrdf.model.URI,org.openrdf.model.Value,boolean,org.openrdf.rio.RDFHandler,org.openrdf.model.Resource[])@g_sesame-repository-sail-2.7.9.jar.txt	3
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/executeDeleteData(org.openrdf.query.algebra.DeleteData,org.openrdf.sail.UpdateContext)@g_sesame-repository-sail-2.7.9.jar.txt	2
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/executeClear(org.openrdf.query.algebra.Clear,org.openrdf.sail.UpdateContext)@g_sesame-repository-sail-2.7.9.jar.txt	4

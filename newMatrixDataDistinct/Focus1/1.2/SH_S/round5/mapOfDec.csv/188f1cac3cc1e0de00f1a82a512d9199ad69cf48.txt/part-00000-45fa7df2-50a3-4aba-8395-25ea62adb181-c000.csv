@@ -1,0 +1,5 @@
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/run(java.lang.String[])@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	3
+de/l3s/warc/reader/ext/SubsetExtractor/IndexerMapper/getDomain(java.lang.String)@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	1
+de/l3s/warc/reader/ext/SubsetExtractor/IndexerMapper/getDate(java.lang.String)@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	0
+de/l3s/warc/reader/ext/WARCFileRecordReader/initialize(org.apache.hadoop.mapreduce.TaskAttemptContext,org.apache.hadoop.fs.Path)@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	2
+de/l3s/warc/reader/ext/WARCFileRecordReader/close()@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	4

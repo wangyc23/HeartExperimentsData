@@ -1,0 +1,5 @@
+org/jboss/weld/util/Beans/createTypeCollectionId(java.util.Collection)@g_weld-core-impl-2.2.9.Final.jar.txt	2
+org/jboss/weld/bean/proxy/ProxyFactory/createCompoundProxyName(java.lang.String,javax.enterprise.inject.spi.Bean,org.jboss.weld.util.Proxies$TypeInfo,java.lang.StringBuilder)@g_weld-core-impl-2.2.9.Final.jar.txt	1
+org/jboss/weld/util/AnnotatedTypes/createTypeId(java.lang.Class,java.util.Collection,java.util.Collection,java.util.Collection,java.util.Collection)@g_weld-core-impl-2.2.9.Final.jar.txt	4
+org/jboss/weld/bean/proxy/ProxyFactory/getProxyName(java.lang.String,java.lang.Class,java.util.Set,javax.enterprise.inject.spi.Bean)@g_weld-core-impl-2.2.9.Final.jar.txt	0
+org/jboss/weld/bean/proxy/InterceptedSubclassFactory/addMethodsFromClass(org.jboss.classfilewriter.ClassFile,org.jboss.classfilewriter.ClassMethod)@g_weld-core-impl-2.2.9.Final.jar.txt	3

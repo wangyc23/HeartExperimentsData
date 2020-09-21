@@ -1,0 +1,5 @@
+com/drew/metadata/exif/GpsDescriptor/getGpsDirectionDescription(int)@g_metadata-extractor-2.8.0.jar.txt	3
+com/drew/metadata/ico/IcoReader/extract(com.drew.lang.SequentialReader,com.drew.metadata.Metadata)@g_metadata-extractor-2.8.0.jar.txt	2
+com/drew/metadata/xmp/XmpReader/extract(com.drew.lang.BufferReader,com.drew.metadata.Metadata)@g_metadata-extractor-2.6.2.jar.txt	0
+com/drew/tools/ProcessAllImagesInFolderUtility/TextFileOutputHandler/openWriter(java.io.File)@g_metadata-extractor-2.8.0.jar.txt	1
+com/drew/metadata/icc/IccDescriptor/formatDoubleAsString(double,int,boolean)@g_metadata-extractor-2.8.0.jar.txt	4

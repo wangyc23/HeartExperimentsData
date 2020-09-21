@@ -1,0 +1,4 @@
+org/openrdf/repository/RepositoryResult/next()
+org/openrdf/repository/RepositoryResult/close()
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()

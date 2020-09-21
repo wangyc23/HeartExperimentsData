@@ -1,0 +1,5 @@
+org/eclipse/tycho/core/osgitools/targetplatform/ArtifactCollection/addArtifact(org.eclipse.tycho.ArtifactDescriptor,boolean)@g_tycho-core-0.23.1.jar.txt	4
+org/eclipse/tycho/osgi/runtime/WorkspaceTychoOsgiRuntimeLocator/addPlatformProperties(org.eclipse.sisu.equinox.embedder.EquinoxRuntimeLocator$EquinoxRuntimeDescription)@g_tycho-core-0.23.1.jar.txt	2
+org/apache/maven/plugin/dependency/PropertiesMojo/execute()@g_tycho-core-0.23.1.jar.txt	3
+org/eclipse/tycho/core/resolver/DefaultTargetPlatformConfigurationReader/addTargetArtifact(org.eclipse.tycho.core.TargetPlatformConfiguration,org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,org.codehaus.plexus.util.xml.Xpp3Dom)@g_tycho-core-0.23.1.jar.txt	1
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_tycho-core-0.23.1.jar.txt	0

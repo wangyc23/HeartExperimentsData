@@ -1,0 +1,5 @@
+org/glassfish/hk2/utilities/DescriptorImpl/pretty(java.lang.StringBuffer,org.glassfish.hk2.api.Descriptor)@g_hk2-api-2.2.0-b21.jar.txt	4
+org/glassfish/hk2/utilities/InjecteeImpl/toString()@g_hk2-api-2.2.0-b21.jar.txt	2
+org/glassfish/hk2/utilities/DescriptorImpl/writeObject(java.io.PrintWriter)@g_hk2-api-2.2.0-b21.jar.txt	1
+org/glassfish/hk2/api/MultiException/printStackTrace(java.io.PrintStream)@g_hk2-api-2.2.0-b21.jar.txt	0
+org/glassfish/hk2/api/MultiException/getMessage()@g_hk2-api-2.2.0-b21.jar.txt	3

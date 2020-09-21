@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/util/regex/Pattern/compile(java.lang.String)
+java/lang/String/toLowerCase()
+org/apache/log4j/Category/error(java.lang.Object,java.lang.Throwable)

@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/reflect/URLClassSpace/getClassPathEntries(java.net.URL)@g_guice-bean-reflect-2.3.0.jar.txt	2
+org/sonatype/guice/bean/reflect/BundleClassSpace/getBundleClassPath(org.osgi.framework.Bundle)@g_guice-bean-reflect-2.3.0.jar.txt	0
+org/sonatype/guice/bean/reflect/URLClassSpace/expandClassPath(java.net.URL[])@g_guice-bean-reflect-2.3.0.jar.txt	1
+org/eclipse/sisu/launch/SisuExtensions/install(com.google.inject.Binder,java.lang.Class,java.lang.Object)@g_guice-bean-binders-2.3.0.jar.txt	4
+org/eclipse/sisu/wire/PlaceholderBeanProvider/interpolate(java.lang.String,java.lang.Class)@g_guice-bean-binders-2.3.0.jar.txt	3

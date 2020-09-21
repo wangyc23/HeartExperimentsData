@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/neo4j/graphdb/schema/IndexDefinition/getLabel()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)

@@ -1,0 +1,5 @@
+com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_reflectasm-1.07-shaded.jar.txt	3
+com/esotericsoftware/kryo/serializers/FieldSerializer/rebuildCachedFields()@g_reflectasm-1.07-shaded.jar.txt	2
+com/esotericsoftware/kryo/serializers/VersionFieldSerializer/initializeCachedFields()@g_reflectasm-1.07-shaded.jar.txt	1
+com/esotericsoftware/kryo/serializers/DefaultSerializers/CalendarSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)@g_kryo-shaded-3.0.3.jar.txt	0
+com/esotericsoftware/kryo/serializers/ObjectCachedFieldFactory/createCachedField(java.lang.Class,java.lang.reflect.Field,com.esotericsoftware.kryo.serializers.FieldSerializer)@g_reflectasm-1.07-shaded.jar.txt	4

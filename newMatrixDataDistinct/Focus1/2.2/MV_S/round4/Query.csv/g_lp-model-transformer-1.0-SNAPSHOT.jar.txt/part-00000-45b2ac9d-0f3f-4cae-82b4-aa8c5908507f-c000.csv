@@ -1,0 +1,4 @@
+eu/learnpad/transformations/metamodel_corpus/ado/impl/AdoPackageImpl/setName(java.lang.String)
+org/eclipse/emf/ecore/xml/type/XMLTypePackage/getID()
+eu/learnpad/transformations/metamodel_corpus/ado/impl/AdoPackageImpl/initEAttribute(org.eclipse.emf.ecore.EAttribute,org.eclipse.emf.ecore.EClassifier,java.lang.String,java.lang.String,int,int,java.lang.Class,boolean,boolean,boolean,boolean,boolean,boolean,boolean,boolean)
+eu/learnpad/transformations/metamodel_corpus/ado/impl/AdoPackageImpl/initEClass(org.eclipse.emf.ecore.EClass,java.lang.Class,java.lang.String,boolean,boolean,boolean)

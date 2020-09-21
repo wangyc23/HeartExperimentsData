@@ -1,0 +1,5 @@
+com/adobe/acs/commons/oak/impl/EnsureOakIndex/activate(java.util.Map)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	4
+com/adobe/acs/commons/packaging/impl/ACLPackagerServletImpl/findResources(com.adobe.acs.commons.oak.impl.ResourceResolver,boolean,java.util.List,java.util.List)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	0
+com/adobe/acs/commons/wcm/impl/PropertyMergePostProcessorTest/testMergeAllTags()@28d69a69e31e29c95f20d8169265faa680168571.txt	3
+com/adobe/acs/commons/workflow/bulk/removal/impl/WorkflowInstanceRemoverImpl/getWorkflowInstanceFolders(org.apache.sling.api.resource.ResourceResolver)@28d69a69e31e29c95f20d8169265faa680168571.txt	2
+com/adobe/acs/commons/packaging/impl/ACLPackagerServletImpl/findResources(org.apache.sling.api.resource.ResourceResolver,java.util.List,java.util.List)@28d69a69e31e29c95f20d8169265faa680168571.txt	1

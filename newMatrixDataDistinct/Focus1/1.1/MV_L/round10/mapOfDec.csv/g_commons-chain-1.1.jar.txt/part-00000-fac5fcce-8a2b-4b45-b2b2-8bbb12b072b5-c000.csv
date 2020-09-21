@@ -1,0 +1,5 @@
+org/springframework/web/util/ExpressionEvaluationUtils/Jsp20ExpressionEvaluationHelper/evaluate(java.lang.String,java.lang.String,java.lang.Class,javax.servlet.jsp.PageContext)@g_commons-chain-1.2.jar.txt	3
+org/apache/commons/chain/web/ChainListener/contextInitialized(javax.servlet.ServletContextEvent)@g_commons-chain-1.2.jar.txt	1
+org/springframework/web/util/WebUtils/getOrCreateSessionAttribute(javax.servlet.http.HttpSession,java.lang.String,java.lang.Class)@g_spring-web-2.5.6.jar.txt	2
+org/springframework/remoting/caucho/HessianClientInterceptor/invoke(org.aopalliance.intercept.MethodInvocation)@g_commons-chain-1.2.jar.txt	4
+org/apache/commons/chain/web/ChainServlet/init()@g_commons-chain-1.2.jar.txt	0

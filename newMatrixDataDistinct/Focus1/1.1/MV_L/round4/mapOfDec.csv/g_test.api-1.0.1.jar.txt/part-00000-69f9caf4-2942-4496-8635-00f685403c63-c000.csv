@@ -1,0 +1,5 @@
+anatlyzer/evaluation/tester/Tester/typing(java.lang.String)@g_mutants-1.0.0.jar.txt	0
+anatlyzer/atl/tests/api/AnalysisLoader/fromATLModel(anatlyzer.atl.model.ATLModel,java.lang.Object[],java.lang.String[])@g_mutants-1.0.0.jar.txt	3
+anatlyzer/atl/tests/api/AnalysisLoader/fromResource(org.eclipse.emf.ecore.resource.Resource,java.lang.Object[],java.lang.String[])@g_mutants-1.0.0.jar.txt	4
+anatlyzer/evaluation/instrumentation/PossiblyUnresolvedBindingInstrumenter/createRuleChecker(anatlyzer.atlext.ATL.MatchedRule)@g_mutants-1.0.0.jar.txt	2
+anatlyzer/evaluation/mutators/modification/invocation/HelperOperationModificationMutator/getOperationReturning(anatlyzer.evaluation.mutators.modification.invocation.AbstractInvocationModificationMutator$TYPE)@g_mutants-1.0.0.jar.txt	1

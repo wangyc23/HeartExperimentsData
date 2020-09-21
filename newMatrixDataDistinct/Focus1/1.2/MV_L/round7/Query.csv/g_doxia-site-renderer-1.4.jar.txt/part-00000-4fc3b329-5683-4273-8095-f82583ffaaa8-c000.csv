@@ -1,0 +1,4 @@
+java/util/Iterator/remove()
+org/apache/maven/doxia/sink/render/RenderingContext/getInputName()
+java/io/File/File(java.io.File,java.lang.String)
+org/apache/maven/doxia/module/site/SiteModule/getSourceDirectory()

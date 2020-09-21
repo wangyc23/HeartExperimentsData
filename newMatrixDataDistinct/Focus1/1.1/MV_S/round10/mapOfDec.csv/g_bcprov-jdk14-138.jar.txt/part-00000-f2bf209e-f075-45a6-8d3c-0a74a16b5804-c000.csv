@@ -1,0 +1,5 @@
+org/bouncycastle/jce/provider/RFC3281CertPathUtilities/processAttrCert1(org.bouncycastle.x509.X509AttributeCertificate,org.bouncycastle.x509.ExtendedPKIXParameters)@g_bcprov-jdk16-140.jar.txt	3
+org/bouncycastle/jce/provider/CertPathValidatorUtilities/getNextWorkingKey(java.util.List,int)@g_bcprov-jdk16-140.jar.txt	0
+org/bouncycastle/jce/provider/RFC3281CertPathUtilities/processAttrCert4(java.security.cert.X509Certificate,org.bouncycastle.x509.ExtendedPKIXParameters)@g_bcprov-jdk16-140.jar.txt	4
+org/bouncycastle/jce/provider/RFC3281CertPathUtilities/processAttrCert7(org.bouncycastle.x509.X509AttributeCertificate,java.security.cert.CertPath,java.security.cert.CertPath,org.bouncycastle.x509.ExtendedPKIXParameters)@g_bcprov-jdk16-140.jar.txt	1
+org/bouncycastle/jce/provider/RFC3281CertPathUtilities/checkCRLs(org.bouncycastle.x509.X509AttributeCertificate,org.bouncycastle.x509.ExtendedPKIXParameters,java.security.cert.X509Certificate,java.util.Date,java.util.List)@g_bcprov-jdk16-140.jar.txt	2

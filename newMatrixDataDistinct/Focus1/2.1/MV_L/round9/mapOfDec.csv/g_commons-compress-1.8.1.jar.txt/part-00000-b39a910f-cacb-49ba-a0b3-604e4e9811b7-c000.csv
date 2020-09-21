@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/arj/ArjArchiveInputStream/readLocalFileHeader()@g_commons-compress-1.9.jar.txt	1
+org/apache/commons/compress/archivers/sevenz/SevenZOutputFile/setupFileOutputStream()@g_commons-compress-1.10.jar.txt	3
+org/apache/commons/compress/archivers/zip/ExtraFieldUtils/parse(byte[],boolean,org.apache.commons.compress.archivers.zip.ExtraFieldUtils$UnparseableExtraField)@g_commons-compress-1.9.jar.txt	2
+org/apache/commons/compress/archivers/arj/ArjArchiveInputStream/readLocalFileHeader()@g_commons-compress-1.10.jar.txt	4
+org/apache/commons/compress/archivers/sevenz/SevenZOutputFile/setupFileOutputStream()@g_commons-compress-1.9.jar.txt	0

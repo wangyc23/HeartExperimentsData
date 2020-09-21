@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/DirectoryScanner/setBasedir(java.lang.String)
+org/codehaus/plexus/util/DirectoryScanner/setIncludes(java.lang.String[])
+org/codehaus/plexus/util/DirectoryScanner/getIncludedFiles()
+org/codehaus/plexus/util/DirectoryScanner/setExcludes(java.lang.String[])

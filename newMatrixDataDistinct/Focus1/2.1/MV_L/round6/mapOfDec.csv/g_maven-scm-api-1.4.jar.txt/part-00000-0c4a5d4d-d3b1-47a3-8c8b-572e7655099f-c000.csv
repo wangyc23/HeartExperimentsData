@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/resolver/BasicResolver/download(org.apache.ivy.core.module.descriptor.Artifact[],org.apache.ivy.core.resolve.DownloadOptions)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/osgi/core/ManifestHeaderValue/writeParseException(java.io.PrintStream,java.lang.String,java.text.ParseException)@g_ivy-2.3.0.jar.txt	2
+org/springframework/core/Constants/getValues(java.lang.String)@g_ivy-2.3.0.jar.txt	0
+org/springframework/core/SimpleAliasRegistry/resolveAliases(org.springframework.util.StringValueResolver)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	1

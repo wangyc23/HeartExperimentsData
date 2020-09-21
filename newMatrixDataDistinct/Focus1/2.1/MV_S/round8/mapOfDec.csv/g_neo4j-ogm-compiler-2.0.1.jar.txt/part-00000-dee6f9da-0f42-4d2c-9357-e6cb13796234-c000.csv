@@ -1,0 +1,5 @@
+org/neo4j/ogm/context/EntityGraphMapper/haveRelationEndsChanged(java.lang.Object,java.lang.Long)@g_neo4j-ogm-core-2.0.1.jar.txt	2
+org/neo4j/ogm/compiler/MultiStatementCypherCompiler/groupNodesByLabel(java.util.List)@g_neo4j-ogm-core-2.0.1.jar.txt	4
+org/neo4j/ogm/context/GraphEntityMapper/mapOneToMany(java.util.Collection)@g_neo4j-ogm-core-2.0.1.jar.txt	1
+org/neo4j/ogm/context/EntityGraphMapper/getNodeBuilder(org.neo4j.ogm.compiler.Compiler,java.lang.Object)@g_neo4j-ogm-core-2.0.1.jar.txt	3
+org/neo4j/ogm/context/GraphEntityMapper/mapRelationshipEntity(java.util.List,org.neo4j.ogm.model.Edge,java.lang.Object,java.lang.Object,org.neo4j.ogm.metadata.ClassInfo)@g_neo4j-ogm-core-2.0.1.jar.txt	0

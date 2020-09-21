@@ -1,0 +1,4 @@
+java/io/File/exists()
+java/io/File/File(java.lang.String)
+org/apache/log4j/Category/warn(java.lang.Object)
+java/io/File/getAbsolutePath()

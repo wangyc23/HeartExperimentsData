@@ -1,0 +1,4 @@
+java/lang/Character/toUpperCase(char)
+java/lang/StringBuffer/append(char)
+java/lang/String/length()
+java/lang/StringBuffer/append(java.lang.Object)

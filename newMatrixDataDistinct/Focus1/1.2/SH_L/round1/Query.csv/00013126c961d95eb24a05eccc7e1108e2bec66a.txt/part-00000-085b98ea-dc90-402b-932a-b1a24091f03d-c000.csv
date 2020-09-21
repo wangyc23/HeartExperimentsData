@@ -1,0 +1,4 @@
+de/schildbach/wallet/util/Crypto/concat(byte[],byte[])
+java/lang/String/getBytes(java.nio.charset.Charset)
+de/schildbach/wallet/util/Crypto/encodeBase64(byte[])
+de/schildbach/wallet/util/Crypto/encrypt(byte[],char[])

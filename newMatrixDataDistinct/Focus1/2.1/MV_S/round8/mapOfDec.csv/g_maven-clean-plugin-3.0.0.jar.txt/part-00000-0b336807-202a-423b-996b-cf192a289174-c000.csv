@@ -1,0 +1,5 @@
+org/apache/maven/plugins/clean/CleanMojo/execute()@g_jooq-codegen-maven-3.7.1.jar.txt	2
+org/jooq/util/maven/Plugin/getClassLoader()@g_jooq-codegen-maven-3.7.1.jar.txt	0
+org/springframework/boot/maven/RepackageMojo/execute()@g_jooq-codegen-maven-3.7.1.jar.txt	3
+org/apache/maven/plugins/clean/HelpMojo/execute()@g_jooq-codegen-maven-3.7.1.jar.txt	4
+org/springframework/boot/maven/RepackageMojo/getTargetFile()@g_jooq-codegen-maven-3.7.1.jar.txt	1

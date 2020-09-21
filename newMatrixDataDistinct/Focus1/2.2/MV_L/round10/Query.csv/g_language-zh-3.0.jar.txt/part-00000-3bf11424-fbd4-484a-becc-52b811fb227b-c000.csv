@@ -1,0 +1,4 @@
+org/ictclas4j/segment/SentenceSeg/getSens()
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+org/ictclas4j/segment/SentenceSeg/SentenceSeg(java.lang.String)

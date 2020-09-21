@@ -1,0 +1,5 @@
+org/springframework/osgi/io/internal/OsgiHeaderUtils/parseRequiredBundleString(java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	3
+org/springframework/osgi/service/dependency/internal/DefaultMandatoryDependencyManager/checkIfExporterShouldStart(java.lang.Object,java.util.Map)@g_spring-osgi-core-1.2.1.jar.txt	2
+org/apache/commons/beanutils/BeanUtilsBean/getArrayProperty(java.lang.Object,java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	4
+org/springframework/osgi/util/DebugUtils/splitIntoPackages(java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	0
+org/springframework/osgi/util/internal/ClassUtils/removeParents(java.lang.Class[])@g_spring-osgi-core-1.2.1.jar.txt	1

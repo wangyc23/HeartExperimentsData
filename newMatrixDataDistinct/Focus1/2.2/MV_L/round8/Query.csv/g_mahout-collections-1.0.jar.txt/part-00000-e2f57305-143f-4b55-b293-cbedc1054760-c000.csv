@@ -1,0 +1,4 @@
+java/util/List/isEmpty()
+org/apache/mahout/math/map/AbstractShortObjectMap/values(java.util.List)
+java/lang/StringBuilder/StringBuilder()
+java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)

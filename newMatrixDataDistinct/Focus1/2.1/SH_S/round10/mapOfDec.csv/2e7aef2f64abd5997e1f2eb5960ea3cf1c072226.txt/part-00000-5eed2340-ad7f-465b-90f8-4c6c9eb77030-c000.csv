@@ -1,0 +1,5 @@
+org/iamfamily/email/SendNewsletter/main(java.lang.String[])@1434ccecdd8a9cac2c40a97791335d05635bdffa.txt	4
+org/iamfamily/rest/EmailUnsubscribe/doUnsubscribe(org.iamfamily.rest.HttpServletRequest,java.lang.String)@1434ccecdd8a9cac2c40a97791335d05635bdffa.txt	2
+org/iamfamily/HomePage/getCCYears()@1434ccecdd8a9cac2c40a97791335d05635bdffa.txt	1
+org/iamfamily/validators/PaymentFormValidatorTest/badDateDataProvider()@1434ccecdd8a9cac2c40a97791335d05635bdffa.txt	0
+org/iamfamily/validators/PaymentFormValidatorTest/goodDateDataProvider()@1434ccecdd8a9cac2c40a97791335d05635bdffa.txt	3

@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/FilterSet/replaceTokens(java.lang.String,java.lang.String)@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/Execute/spawn()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Replace/execute()@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/types/PropertySet/toString()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/PropertyHelper/replaceProperties(java.lang.String,java.lang.String,java.util.Hashtable)@g_ant-1.6.5.jar.txt	0

@@ -1,0 +1,4 @@
+org/apache/hadoop/ipc/RetryCache$CacheEntry/access$200(org.apache.hadoop.ipc.RetryCache$CacheEntry)
+java/lang/Object/wait()
+java/lang/StringBuilder/append(long)
+org/apache/commons/logging/Log/isTraceEnabled()

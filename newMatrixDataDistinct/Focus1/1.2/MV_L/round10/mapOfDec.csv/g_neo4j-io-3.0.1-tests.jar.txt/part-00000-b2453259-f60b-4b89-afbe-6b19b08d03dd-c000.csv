@@ -1,0 +1,5 @@
+org/neo4j/unsafe/impl/batchimport/cache/PageCacheByteArray/getShort(long,int)@g_neo4j-kernel-3.3.0.jar.txt	4
+org/neo4j/kernel/impl/store/RelationshipStore/inUse(long)@g_neo4j-kernel-2.2.1.jar.txt	2
+org/neo4j/kernel/impl/store/NodeStore/loadRecord(long,org.neo4j.kernel.impl.store.record.NodeRecord)@g_neo4j-kernel-2.2.1.jar.txt	3
+org/neo4j/kernel/impl/store/NodeStore/inUse(long)@g_neo4j-kernel-2.2.1.jar.txt	0
+org/neo4j/kernel/impl/store/NodeStore/scanAllRecords(org.neo4j.helpers.collection.Visitor)@g_neo4j-kernel-2.2.1.jar.txt	1

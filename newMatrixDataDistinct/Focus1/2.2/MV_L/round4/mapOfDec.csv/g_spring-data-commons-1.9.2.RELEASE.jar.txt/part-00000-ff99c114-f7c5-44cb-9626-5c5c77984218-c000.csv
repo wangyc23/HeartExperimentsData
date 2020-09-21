@@ -1,0 +1,5 @@
+org/springframework/data/web/SortHandlerMethodArgumentResolver/legacyFoldExpressions(org.springframework.data.domain.Sort)@g_spring-data-commons-1.9.4.RELEASE.jar.txt	2
+org/springframework/data/mapping/PropertyPath/from(java.lang.String,org.springframework.data.util.TypeInformation)@g_spring-data-commons-1.9.4.RELEASE.jar.txt	3
+org/springframework/data/domain/jaxb/SpringDataJaxb/marshal(java.lang.Iterable,javax.xml.bind.annotation.adapters.XmlAdapter)@g_spring-data-commons-1.9.4.RELEASE.jar.txt	4
+org/springframework/data/util/TypeDiscoverer/getSuperTypeInformation(java.lang.Class)@g_spring-data-commons-1.9.4.RELEASE.jar.txt	0
+org/springframework/data/util/TypeDiscoverer/getSuperTypeInformation(java.lang.Class)@g_spring-data-commons-1.9.0.RELEASE.jar.txt	1

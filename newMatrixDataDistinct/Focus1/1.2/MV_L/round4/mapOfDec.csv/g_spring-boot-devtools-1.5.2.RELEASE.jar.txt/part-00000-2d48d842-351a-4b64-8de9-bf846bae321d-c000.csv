@@ -1,0 +1,5 @@
+org/springframework/test/context/transaction/TransactionalTestExecutionListener/runBeforeTransactionMethods(org.springframework.test.context.TestContext)@g_spring-test-4.2.2.RELEASE.jar.txt	4
+org/springframework/test/context/transaction/TransactionalTestExecutionListener/runAfterTransactionMethods(org.springframework.test.context.TestContext)@g_spring-test-4.2.2.RELEASE.jar.txt	1
+org/springframework/test/context/support/AbstractTestContextBootstrapper/resolveExplicitContextLoaderClass(java.util.List)@g_spring-test-4.2.2.RELEASE.jar.txt	0
+org/springframework/test/context/support/ActiveProfilesUtils/resolveActiveProfiles(java.lang.Class)@g_spring-test-4.2.2.RELEASE.jar.txt	3
+org/springframework/mock/jndi/SimpleNamingContext/lookup(java.lang.String)@g_spring-test-4.2.2.RELEASE.jar.txt	2

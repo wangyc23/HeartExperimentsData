@@ -1,0 +1,5 @@
+org/openrdf/query/algebra/evaluation/impl/QueryJoinOptimizer/JoinVisitor/meet(org.openrdf.query.algebra.Join)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	4
+org/openrdf/query/algebra/evaluation/impl/EvaluationStrategyImpl/evaluate(org.openrdf.query.algebra.FunctionCall,org.openrdf.query.BindingSet)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	3
+org/openrdf/query/resultio/sparqlxml/SPARQLResultsSAXParser/startTag(java.lang.String,java.util.Map,java.lang.String)@g_sesame-queryresultio-sparqlxml-2.7.9.jar.txt	0
+org/openrdf/query/algebra/evaluation/impl/QueryJoinOptimizer/JoinVisitor/reorderSubselects(java.util.List)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/federation/SPARQLFederatedService/evaluateInternal(org.openrdf.query.algebra.Service,info.aduna.iteration.CloseableIteration,java.lang.String)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	2

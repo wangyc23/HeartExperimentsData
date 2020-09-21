@@ -1,0 +1,5 @@
+org/apache/aries/transaction/jms/internal/IntrospectionSupport/setProperties(java.lang.Object,java.util.Map)@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	2
+org/apache/aries/subsystem/core/internal/BasicSubsystem/removedContent(java.util.Collection)@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	3
+org/apache/aries/plugin/esa/EsaMojo/writeSubsystemManifest(java.lang.String)@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	0
+com/adobe/acs/commons/logging/impl/JsonEventLogger/convertValue(java.lang.Object)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	4
+org/apache/aries/application/modelling/impl/DeployedBundlesImpl/getImportPackage()@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	1

@@ -1,0 +1,5 @@
+anatlyzer/atl/analyser/generators/CSPGenerator/generateLoc(java.lang.String)@g_typing-1.0.1.jar.txt	3
+anatlyzer/footprint/EffectiveMetamodelBuilder/copyFeature(org.eclipse.emf.ecore.EClass,org.eclipse.emf.ecore.EStructuralFeature)@g_typing-1.0.1.jar.txt	0
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/copySimpleInPatternElement(org.eclipse.emf.ecore.EObject)@g_typing-1.0.1.jar.txt	2
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/setCrossRefsOrderedSetType(org.eclipse.emf.ecore.EObject)@g_typing-1.0.1.jar.txt	4
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/setCrossRefsOclType(org.eclipse.emf.ecore.EObject)@g_typing-1.0.1.jar.txt	1

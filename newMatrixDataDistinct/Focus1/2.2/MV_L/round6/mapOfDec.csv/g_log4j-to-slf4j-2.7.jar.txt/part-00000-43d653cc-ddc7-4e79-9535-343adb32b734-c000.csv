@@ -1,0 +1,5 @@
+org/xwiki/job/AbstractJob/jobFinished(java.lang.Throwable)@g_xwiki-commons-job-7.0.jar.txt	3
+org/xwiki/job/internal/xstream/SafeTreeMarshaller/convert(java.lang.Object,com.thoughtworks.xstream.converters.Converter)@g_xwiki-commons-job-7.0.jar.txt	4
+org/xwiki/job/internal/xstream/SafeReflectionConverter/2/writeField(java.lang.String,java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_xwiki-commons-job-7.0.jar.txt	0
+org/xwiki/job/internal/xstream/SafeReflectionConverter/1/visit(java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_xwiki-commons-job-7.0.jar.txt	1
+org/xwiki/job/internal/AbstractJobStatus/startListening()@g_xwiki-commons-job-7.0.jar.txt	2

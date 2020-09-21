@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/core/service/CoreService/getExtensionsNames(java.lang.String)@g_org.eclipse.core.expressions-3.5.100.jar.txt	2
+org/eclipse/core/internal/expressions/TestExpression/toString()@g_org.eclipse.core.expressions-3.5.100.jar.txt	0
+org/eclipse/m2m/atl/core/service/CoreService/getLauncher(java.lang.String)@g_org.eclipse.core.expressions-3.5.100.jar.txt	3
+org/eclipse/m2m/atl/core/service/CoreService/getExtensionClass(java.lang.String,java.lang.String,java.lang.String)@g_org.eclipse.core.expressions-3.5.100.jar.txt	4
+org/eclipse/m2m/atl/core/service/CoreService/getExtractor(java.lang.String)@g_org.eclipse.core.expressions-3.5.100.jar.txt	1

@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/feed/FeedPlugin/saveEntry(java.lang.String,java.lang.String,com.sun.syndication.feed.synd.SyndEntry,com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.objects.BaseObject,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	0
+com/xpn/xwiki/gwt/api/client/widgets/WordListSuggestOracle/1/onSuggestionsReady(com.google.gwt.user.client.ui.SuggestOracle$Request,com.google.gwt.user.client.ui.SuggestOracle$Response)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	2
+com/xpn/xwiki/gwt/api/client/dialog/ChoiceDialog/setActive(com.google.gwt.user.client.ui.Button)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	1
+com/xpn/xwiki/gwt/api/client/Api/2/onSuccess(java.lang.Object)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	3
+com/xpn/xwiki/gwt/api/client/dialog/Dialog/getActionsPanel()@g_xwiki-platform-gwt-api-7.4.2.jar.txt	4

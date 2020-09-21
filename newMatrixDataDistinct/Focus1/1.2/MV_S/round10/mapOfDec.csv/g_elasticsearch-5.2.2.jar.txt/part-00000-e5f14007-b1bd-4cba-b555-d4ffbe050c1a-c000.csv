@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blocktree/SegmentTermsEnum/seekExact(org.apache.lucene.util.BytesRef)@g_lucene-core-7.0.0.jar.txt	1
+org/apache/lucene/util/automaton/DaciukMihovAutomatonBuilder/State/newState(int)@g_lucene-core-7.0.0.jar.txt	2
+org/apache/lucene/index/MultiSorter/getComparableProviders(java.util.List,org.apache.lucene.search.SortField)@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_lucene-core-7.0.0.jar.txt	0
+org/apache/lucene/codecs/blocktree/SegmentTermsEnum/printSeekState(java.io.PrintStream)@g_lucene-core-7.0.0.jar.txt	4

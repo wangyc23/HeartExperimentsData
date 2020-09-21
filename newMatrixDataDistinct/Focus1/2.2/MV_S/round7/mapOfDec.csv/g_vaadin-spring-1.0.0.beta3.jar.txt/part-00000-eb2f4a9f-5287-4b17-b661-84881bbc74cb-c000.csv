@@ -1,0 +1,5 @@
+net/sf/ehcache/Cache/initialise()@g_ehcache-core-2.6.2.jar.txt	0
+org/apache/shiro/util/ThreadContext/put(java.lang.Object,java.lang.Object)@g_shiro-core-1.2.2.jar.txt	2
+org/apache/shiro/realm/text/PropertiesRealm/createRealmEntitiesFromProperties(java.util.Properties)@g_shiro-core-1.2.2.jar.txt	1
+org/apache/shiro/config/Ini/Section/toMapProps(java.lang.String)@g_shiro-core-1.2.2.jar.txt	4
+org/apache/shiro/util/ByteSource/Util/bytes(java.lang.Object)@g_shiro-core-1.2.2.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/maven/plugins/clean/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-surefire-plugin-2.18.1.jar.txt	0
+org/apache/maven/plugins/clean/Cleaner/delete(java.io.File,org.apache.maven.plugins.clean.Selector,boolean,boolean,boolean)@g_maven-surefire-plugin-2.18.1.jar.txt	2
+org/apache/maven/plugins/clean/HelpMojo/build()@g_maven-surefire-plugin-2.18.1.jar.txt	1
+org/apache/maven/plugins/clean/HelpMojo/execute()@g_maven-surefire-plugin-2.18.1.jar.txt	3
+org/apache/maven/plugins/clean/Cleaner/delete(java.io.File,boolean,boolean)@g_maven-surefire-plugin-2.18.1.jar.txt	4

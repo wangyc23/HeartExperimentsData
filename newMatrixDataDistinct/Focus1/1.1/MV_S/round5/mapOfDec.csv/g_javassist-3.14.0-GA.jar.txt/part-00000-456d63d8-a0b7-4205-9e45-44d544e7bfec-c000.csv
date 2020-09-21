@@ -1,0 +1,5 @@
+javassist/tools/rmi/ObjectImporter/lookupObject(java.lang.String)@g_javassist-3.9.0.GA.jar.txt	0
+javassist/util/HotSwapper/reload(java.util.Map)@g_javassist-3.9.0.GA.jar.txt	4
+javassist/tools/rmi/ObjectImporter/call(int,int,java.lang.Object[])@g_javassist-3.18.1-GA.jar.txt	3
+javassist/tools/rmi/ObjectImporter/call(int,int,java.lang.Object[])@g_javassist-3.9.0.GA.jar.txt	1
+javassist/tools/rmi/ObjectImporter/lookupObject(java.lang.String)@g_javassist-3.18.1-GA.jar.txt	2

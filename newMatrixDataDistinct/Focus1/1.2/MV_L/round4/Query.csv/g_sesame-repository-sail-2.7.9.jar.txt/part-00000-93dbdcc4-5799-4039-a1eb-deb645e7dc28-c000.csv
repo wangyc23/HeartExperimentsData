@@ -1,0 +1,4 @@
+info/aduna/iteration/CloseableIteration/hasNext()
+org/openrdf/sail/UpdateContext/isIncludeInferred()
+org/openrdf/sail/SailConnection/evaluate(org.openrdf.query.algebra.TupleExpr,org.openrdf.query.Dataset,org.openrdf.query.BindingSet,boolean)
+org/openrdf/sail/SailException/SailException(java.lang.Throwable)

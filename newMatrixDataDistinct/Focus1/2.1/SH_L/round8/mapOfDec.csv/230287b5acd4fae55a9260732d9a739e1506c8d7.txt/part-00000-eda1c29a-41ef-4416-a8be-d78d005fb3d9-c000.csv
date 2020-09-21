@@ -1,0 +1,5 @@
+org/jboss/resteasy/client/jaxrs/engines/factory/ApacheHttpClient4EngineFactory/isConfigurableAvailable()@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	0
+se/unlogic/standardutils/logging/LogUtils/releaseCommonsLogging()@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	3
+org/jboss/resteasy/links/impl/RESTUtils/checkEJBConstraint(java.lang.reflect.Method)@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	4
+org/jboss/resteasy/auth/oauth/OAuthUtils/getOAuthProvider(org.jboss.resteasy.auth.oauth.ServletContext)@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	2
+se/unlogic/standardutils/reflection/ReflectionUtils/isAvailable(java.lang.String)@1687cc3b203c34a0338f8b674ee3a4136c70e2c1.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/addTagletsFromTagletArtifacts(java.util.List)@g_maven-javadoc-plugin-2.9.1.jar.txt	1
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getDependenciesLinks()@g_maven-javadoc-plugin-2.9.1.jar.txt	3
+org/apache/maven/plugin/javadoc/resolver/ResourceResolver/resolveAndUnpack(java.util.List,org.apache.maven.plugin.javadoc.resolver.SourceResolverConfig,java.util.List,boolean)@g_maven-javadoc-plugin-2.9.1.jar.txt	4
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getResource(java.io.File,java.lang.String)@g_maven-javadoc-plugin-2.9.1.jar.txt	0
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getArtifactsAbsolutePath(org.apache.maven.plugin.javadoc.options.JavadocPathArtifact)@g_maven-javadoc-plugin-2.9.1.jar.txt	2

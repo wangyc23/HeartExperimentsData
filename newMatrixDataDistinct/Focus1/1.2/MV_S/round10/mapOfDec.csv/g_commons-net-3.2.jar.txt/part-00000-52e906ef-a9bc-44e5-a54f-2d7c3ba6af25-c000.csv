@@ -1,0 +1,5 @@
+org/apache/commons/lang3/StringUtils/splitWorker(java.lang.String,java.lang.String,int,boolean)@g_commons-lang3-3.1.jar.txt	4
+org/apache/commons/lang3/text/WordUtils/wrap(java.lang.String,int,java.lang.String,boolean)@g_commons-lang3-3.1.jar.txt	2
+org/apache/commons/lang3/ClassUtils/getCanonicalName(java.lang.String)@g_commons-lang3-3.1.jar.txt	3
+org/apache/commons/lang3/math/NumberUtils/createNumber(java.lang.String)@g_commons-lang3-3.1.jar.txt	1
+net/razorvine/pickle/Unpickler/load_int()@g_pyrolite-4.13.jar.txt	0

@@ -1,0 +1,4 @@
+javassist/expr/FieldAccess/getField()
+javassist/expr/FieldAccess/replace(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+javassist/expr/FieldAccess/isReader()

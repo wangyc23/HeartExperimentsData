@@ -1,0 +1,5 @@
+freemarker/template/Configuration/setSetting(java.lang.String,java.lang.String)@g_freemarker-2.3.20.jar.txt	1
+freemarker/template/Configuration/setSetting(java.lang.String,java.lang.String)@g_freemarker-2.3.22.jar.txt	0
+freemarker/ext/jsp/TaglibMethodUtil/getMethodByFunctionSignature(java.lang.Class,java.lang.String)@g_freemarker-2.3.22.jar.txt	4
+freemarker/ext/xml/NodeListModel/get(java.lang.String)@g_freemarker-2.3.22.jar.txt	2
+freemarker/ext/jdom/NodeListModel/get(java.lang.String)@g_freemarker-2.3.22.jar.txt	3

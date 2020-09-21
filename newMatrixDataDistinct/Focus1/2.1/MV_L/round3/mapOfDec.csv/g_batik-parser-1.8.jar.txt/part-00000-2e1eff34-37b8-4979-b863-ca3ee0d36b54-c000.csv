@@ -1,0 +1,5 @@
+org/apache/maven/artifact/resolver/DefaultArtifactCollector/recurse(org.apache.maven.artifact.resolver.ResolutionNode,java.util.Map,java.util.Map,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List,org.apache.maven.artifact.metadata.ArtifactMetadataSource,org.apache.maven.artifact.resolver.filter.ArtifactFilter,java.util.List)@g_batik-parser-1.7.jar.txt	2
+org/apache/batik/parser/TimingParser/parseWallclockValue()@g_batik-parser-1.7.jar.txt	1
+org/apache/maven/artifact/resolver/DefaultArtifactCollector/fireEvent(int,java.util.List,org.apache.maven.artifact.resolver.ResolutionNode,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.versioning.VersionRange)@g_batik-parser-1.7.jar.txt	3
+org/apache/maven/artifact/repository/ArtifactRepositoryPolicy/checkOutOfDate(java.util.Date)@g_batik-parser-1.7.jar.txt	4
+org/apache/batik/parser/FragmentIdentifierParser/parsePreserveAspectRatio()@g_batik-parser-1.7.jar.txt	0

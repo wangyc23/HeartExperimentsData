@@ -1,0 +1,4 @@
+org/opentripplanner/routing/graph/Edge/traverse(org.opentripplanner.routing.core.State)
+java/lang/Enum/equals(java.lang.Object)
+org/opentripplanner/routing/core/State/getVertex()
+org/opentripplanner/routing/core/State/getNonTransitMode()

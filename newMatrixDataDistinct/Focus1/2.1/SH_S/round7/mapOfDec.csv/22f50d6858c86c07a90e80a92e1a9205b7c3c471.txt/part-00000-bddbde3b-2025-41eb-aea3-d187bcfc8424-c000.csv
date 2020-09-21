@@ -1,0 +1,5 @@
+multi/spring/AsyncService/asyncVoid()@04124848aff2bbd39cb3239b527f07695a5268dd.txt	4
+redis/StringServiceTest/testIncr()@04124848aff2bbd39cb3239b527f07695a5268dd.txt	0
+com/novthir/security/entity/Permission/equals(java.lang.Object)@04124848aff2bbd39cb3239b527f07695a5268dd.txt	2
+com/novthir/security/shiro/ShiroDbRealm/validatePassword(java.lang.String,java.lang.String,java.lang.String)@04124848aff2bbd39cb3239b527f07695a5268dd.txt	3
+com/novthir/security/utils/AjaxObject/newForward(java.lang.String)@04124848aff2bbd39cb3239b527f07695a5268dd.txt	1

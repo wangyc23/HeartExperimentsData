@@ -1,0 +1,5 @@
+com/google/common/collect/ImmutableSet/create(java.lang.Iterable,int)@g_guava-r06.jar.txt	1
+com/google/common/collect/ComputingConcurrentHashMap/compute(com.google.common.collect.CustomConcurrentHashMap$Segment,java.lang.Object,com.google.common.collect.CustomConcurrentHashMap$ReferenceEntry)@g_guava-r06.jar.txt	4
+com/google/common/eventbus/AnnotatedHandlerFinder/findAllHandlers(java.lang.Object)@g_sisu-guava-0.9.9.jar.txt	3
+com/google/common/collect/ImmutableSortedMap/validateEntries(java.util.List,java.util.Comparator)@g_sisu-guava-0.9.9.jar.txt	0
+com/google/common/eventbus/EventBus/unregister(java.lang.Object)@g_sisu-guava-0.9.9.jar.txt	2

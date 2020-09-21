@@ -1,0 +1,4 @@
+java/net/URI/URI(java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)
+java/net/URL/openConnection()
+java/net/URL/URL(java.net.URL,java.lang.String)
+edu/emory/mathcs/util/classloader/ResourceLoader$1/1(edu.emory.mathcs.util.classloader.ResourceLoader,java.lang.String,java.net.URL,java.net.URL,java.net.URLConnection)

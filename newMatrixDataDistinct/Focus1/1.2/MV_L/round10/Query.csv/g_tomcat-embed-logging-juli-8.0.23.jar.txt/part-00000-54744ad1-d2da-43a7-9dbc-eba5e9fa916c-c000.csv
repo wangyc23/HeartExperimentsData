@@ -1,0 +1,4 @@
+java/io/FileOutputStream/FileOutputStream(java.io.File,boolean)
+java/util/concurrent/locks/Lock/unlock()
+java/io/File/File(java.io.File,java.lang.String)
+java/io/File/isDirectory()

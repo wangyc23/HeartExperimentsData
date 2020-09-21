@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/charfilter/MappingCharFilterFactory/inform(org.apache.lucene.analysis.util.ResourceLoader)@g_lucene-analyzers-common-6.0.0.jar.txt	4
+org/apache/lucene/analysis/hunspell/HunspellStemFilterFactory/inform(org.apache.lucene.analysis.util.ResourceLoader)@g_lucene-analyzers-common-6.0.0.jar.txt	0
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseRules(java.io.LineNumberReader,int)@g_lucene-analyzers-common-6.0.0.jar.txt	3
+org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzer/getStopWords()@g_lucene-analyzers-common-6.0.0.jar.txt	1
+org/apache/lucene/analysis/hunspell/Stemmer/stem(char[],int,int,int,int,int,boolean,boolean,boolean,boolean,boolean)@g_lucene-analyzers-common-6.0.0.jar.txt	2

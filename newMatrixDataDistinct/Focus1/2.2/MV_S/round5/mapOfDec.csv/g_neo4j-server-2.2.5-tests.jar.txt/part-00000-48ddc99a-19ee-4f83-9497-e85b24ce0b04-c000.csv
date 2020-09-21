@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/core/TestNeo4j/testMultipleNeos()@g_neo4j-kernel-2.1.5-tests.jar.txt	4
+org/neo4j/server/rest/repr/formats/StreamingJsonFormatTest/canFormatNode()@g_neo4j-server-3.0.1-tests.jar.txt	0
+org/neo4j/kernel/impl/nioneo/store/TestOsSpecificLocks/testDatabaseLocking()@g_neo4j-kernel-2.1.5-tests.jar.txt	2
+org/neo4j/kernel/impl/core/BigStoreIT/testHighIds(long,int,int)@g_neo4j-kernel-2.1.5-tests.jar.txt	1
+org/neo4j/unsafe/batchinsert/TestBatchDatabase/shouldCreateLabeledNodes()@g_neo4j-kernel-2.1.5-tests.jar.txt	3

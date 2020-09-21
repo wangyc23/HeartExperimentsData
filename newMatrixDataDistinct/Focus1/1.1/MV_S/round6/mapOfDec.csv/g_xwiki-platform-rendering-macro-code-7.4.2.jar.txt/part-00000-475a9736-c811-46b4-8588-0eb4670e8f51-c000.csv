@@ -1,0 +1,5 @@
+org/xwiki/refactoring/internal/splitter/DefaultDocumentSplitter/updateAnchors(java.util.List)@g_xwiki-platform-localization-macro-7.4.2.jar.txt	1
+org/xwiki/rendering/internal/parser/pygments/PygmentsParser/highlight(java.lang.String,java.lang.String)@g_xwiki-platform-localization-macro-7.4.2.jar.txt	2
+org/xwiki/refactoring/splitter/criterion/naming/HeadingNameNamingCriterion/getDocumentName(org.xwiki.rendering.block.XDOM)@g_xwiki-platform-localization-macro-7.4.2.jar.txt	4
+org/xwiki/localization/macro/internal/TranslationMacro/execute(org.xwiki.localization.macro.TranslationMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-localization-macro-7.4.2.jar.txt	0
+org/xwiki/rendering/internal/parser/pygments/BlocksGeneratorPygmentsListener/format(java.lang.String,java.lang.String,java.util.Map)@g_xwiki-platform-localization-macro-7.4.2.jar.txt	3

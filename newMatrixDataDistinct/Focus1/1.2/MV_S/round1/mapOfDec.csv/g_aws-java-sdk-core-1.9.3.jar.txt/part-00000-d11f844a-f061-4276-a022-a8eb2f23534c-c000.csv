@@ -1,0 +1,5 @@
+org/apache/hadoop/fs/viewfs/ViewFs/InternalDirOfViewFs/getFileLinkStatus(org.apache.hadoop.fs.Path)@g_hadoop-common-2.6.0.jar.txt	1
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	3
+org/apache/hadoop/fs/HarFileSystem/initialize(java.net.URI,org.apache.hadoop.conf.Configuration)@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/fs/ftp/FTPFileSystem/rename(org.apache.commons.net.ftp.FTPClient,org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path)@g_hadoop-common-2.6.0.jar.txt	0
+org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor/postProcessBeforeDestruction(java.lang.Object,java.lang.String)@g_spring-2.5.6.jar.txt	4

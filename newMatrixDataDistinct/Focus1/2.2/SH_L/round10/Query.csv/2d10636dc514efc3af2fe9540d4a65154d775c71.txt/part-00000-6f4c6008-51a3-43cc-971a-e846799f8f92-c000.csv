@@ -1,0 +1,4 @@
+java/util/HashMap/HashMap(java.util.Map)
+org/apache/hadoop/hbase/thrift/generated/Hbase/getRow_args/setAttributesIsSet(boolean)
+org/apache/hadoop/hbase/thrift/generated/Hbase/getRow_args/validate()
+java/util/Map/put(K,V)

@@ -1,0 +1,5 @@
+org/languagetool/rules/en/AbstractEnglishSpellerRule/getIrregularFormsOrNull(java.lang.String,java.lang.String,java.util.List,java.lang.String,java.lang.String,java.lang.String)@g_language-fr-3.0.jar.txt	1
+org/languagetool/rules/fr/QuestionWhitespaceRule/match(org.languagetool.AnalyzedSentence)@g_language-fr-3.0.jar.txt	4
+org/languagetool/chunking/EnglishChunkFilter/filter(java.util.List)@g_language-fr-3.0.jar.txt	2
+org/languagetool/rules/en/AvsAnRule/getCorrectDeterminerFor(org.languagetool.AnalyzedTokenReadings)@g_language-fr-3.0.jar.txt	0
+org/languagetool/tokenizers/en/EnglishWordTokenizer/tokenize(java.lang.String)@g_language-fr-3.0.jar.txt	3

@@ -1,0 +1,4 @@
+org/openrdf/repository/RepositoryResult/close()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Map/get(java.lang.Object)

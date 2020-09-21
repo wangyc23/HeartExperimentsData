@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Map/get(java.lang.Object)
+java/util/Set/iterator()
+java/util/Map/containsKey(java.lang.Object)

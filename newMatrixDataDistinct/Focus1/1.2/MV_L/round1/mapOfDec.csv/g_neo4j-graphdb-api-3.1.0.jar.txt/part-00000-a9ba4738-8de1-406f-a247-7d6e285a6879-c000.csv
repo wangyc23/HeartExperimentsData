@@ -1,0 +1,5 @@
+org/neo4j/graphdb/impl/traversal/StandardBranchCollisionDetector/evaluate(org.neo4j.graphdb.traversal.TraversalBranch,org.neo4j.graphdb.Direction)@g_neo4j-graphdb-api-3.1.0-M01.jar.txt	4
+org/neo4j/graphdb/impl/traversal/StandardBranchCollisionDetector/evaluate(org.neo4j.graphdb.traversal.TraversalBranch,org.neo4j.graphdb.Direction)@g_neo4j-graphdb-api-3.0.1.jar.txt	2
+org/neo4j/graphdb/impl/StandardExpander/ExcludingExpander/reverse()@g_neo4j-graphdb-api-3.0.1.jar.txt	3
+org/neo4j/graphdb/impl/StandardExpander/toTypeMap(java.util.Map)@g_neo4j-graphdb-api-3.0.1.jar.txt	0
+org/neo4j/graphdb/impl/StandardExpander/toTypeMap(java.util.Map)@g_neo4j-graphdb-api-3.1.0-M01.jar.txt	1

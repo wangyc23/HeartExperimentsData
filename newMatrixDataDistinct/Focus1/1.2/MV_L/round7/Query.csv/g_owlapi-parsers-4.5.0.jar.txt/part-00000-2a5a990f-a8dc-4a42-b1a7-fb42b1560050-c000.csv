@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl$ExceptionBuilder/withKeyword(org.semanticweb.owlapi.manchestersyntax.parser.ManchesterOWLSyntax[])
+org/semanticweb/owlapi/model/OWLDataFactory/getOWLSubClassOfAxiom(org.semanticweb.owlapi.model.OWLClassExpression,org.semanticweb.owlapi.model.OWLClassExpression)
+org/semanticweb/owlapi/model/OWLClassExpression/asConjunctSet()
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl$ExceptionBuilder/ExceptionBuilder(org.semanticweb.owlapi.manchestersyntax.parser.ManchesterOWLSyntaxParserImpl)

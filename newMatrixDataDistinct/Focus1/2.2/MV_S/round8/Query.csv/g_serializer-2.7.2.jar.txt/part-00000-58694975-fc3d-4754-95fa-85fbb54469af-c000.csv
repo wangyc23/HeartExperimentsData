@@ -1,0 +1,4 @@
+org/apache/xml/serializer/utils/URI$MalformedURIException/MalformedURIException(java.lang.String)
+java/lang/String/length()
+java/lang/StringBuffer/toString()
+java/lang/String/substring(int,int)

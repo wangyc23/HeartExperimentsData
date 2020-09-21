@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+javax/xml/stream/XMLStreamWriter/writeStartElement(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+javax/xml/stream/XMLStreamWriter/writeEndElement()

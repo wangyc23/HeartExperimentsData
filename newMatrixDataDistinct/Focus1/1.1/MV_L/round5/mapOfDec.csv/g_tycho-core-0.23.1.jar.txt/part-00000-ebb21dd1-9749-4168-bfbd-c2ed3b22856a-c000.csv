@@ -1,0 +1,5 @@
+org/eclipse/tycho/core/osgitools/DependencyComputer/computeDependencies(org.eclipse.osgi.service.resolver.StateHelper,org.eclipse.osgi.service.resolver.BundleDescription)@g_tycho-core-0.14.1.jar.txt	4
+org/eclipse/tycho/core/osgitools/DefaultReactorProject/getDependencyMetadata()@g_tycho-core-0.14.1.jar.txt	2
+org/eclipse/tycho/core/osgitools/targetplatform/DefaultTargetPlatform/addArtifact(org.eclipse.tycho.ArtifactDescriptor,boolean)@g_tycho-core-0.14.1.jar.txt	0
+org/eclipse/tycho/core/osgitools/EquinoxResolver/newState(org.eclipse.tycho.artifacts.DependencyArtifacts,java.util.Properties)@g_tycho-core-0.14.1.jar.txt	3
+org/eclipse/tycho/core/osgitools/targetplatform/LocalTargetPlatformResolver/addDependencies(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,org.eclipse.tycho.core.osgitools.targetplatform.DefaultTargetPlatform)@g_tycho-core-0.14.1.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/reflect/AccessibleObject/setAccessible(boolean)
+java/lang/Class/getDeclaredMethod(java.lang.String,java.lang.Class<?>[])
+org/easymock/EasyMock/reset(java.lang.Object[])
+org/easymock/EasyMock/expect(T)

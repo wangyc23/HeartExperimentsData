@@ -1,0 +1,4 @@
+com/ketayao/ketacustom/log/impl/LogUitl/putArgs(com.ketayao.ketacustom.log.LogMessageObject)
+com/ketayao/ketacustom/log/LogMessageObject/newWrite()
+com/ketayao/ketacustom/service/ModuleService/save(com.ketayao.ketacustom.entity.main.Module)
+com/ketayao/ketacustom/service/ModuleService/get(java.lang.Long)

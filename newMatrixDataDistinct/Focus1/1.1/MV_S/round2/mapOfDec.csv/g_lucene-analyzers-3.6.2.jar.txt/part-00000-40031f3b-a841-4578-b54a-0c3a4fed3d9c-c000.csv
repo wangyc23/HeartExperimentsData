@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/wikipedia/WikipediaTokenizer/collapseTokens(int)@g_lucene-analyzers-common-4.9.1.jar.txt	4
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseStep(java.io.LineNumberReader,java.lang.String)@g_lucene-analyzers-common-4.9.1.jar.txt	0
+org/apache/lucene/analysis/charfilter/MappingCharFilterFactory/parseRules(java.util.List,org.apache.lucene.analysis.charfilter.NormalizeCharMap$Builder)@g_lucene-analyzers-common-4.9.1.jar.txt	3
+org/apache/lucene/analysis/miscellaneous/WordDelimiterFilterFactory/parseTypes(java.util.List)@g_lucene-analyzers-common-4.9.1.jar.txt	2
+org/apache/lucene/analysis/pt/RSLPStemmerBase/parseRules(java.io.LineNumberReader,int)@g_lucene-analyzers-common-4.9.1.jar.txt	1

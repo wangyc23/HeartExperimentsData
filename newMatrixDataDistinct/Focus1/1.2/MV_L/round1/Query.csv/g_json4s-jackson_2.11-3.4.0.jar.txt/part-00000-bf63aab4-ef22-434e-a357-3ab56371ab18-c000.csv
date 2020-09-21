@@ -1,0 +1,4 @@
+org/json4s/StringInput/string()
+com/fasterxml/jackson/databind/ObjectReader/readValue(java.lang.String)
+org/json4s/ReaderInput/reader()
+com/fasterxml/jackson/databind/ObjectReader/readValue(java.io.Reader)

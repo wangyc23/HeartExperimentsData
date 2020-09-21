@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/xmi/impl/EMOFResourceImpl/makeID(org.eclipse.emf.ecore.EObject)@g_org.eclipse.emf.ecore.xmi-2.12.0.jar.txt	2
+org/eclipse/emf/ecore/xmi/impl/RootXMLContentHandlerImpl/contentDescription(org.eclipse.emf.common.util.URI,java.io.InputStream,java.util.Map,java.util.Map)@g_xmi-2.11.1.jar.txt	1
+org/eclipse/emf/ecore/xmi/impl/RootXMLContentHandlerImpl/contentDescription(org.eclipse.emf.common.util.URI,java.io.InputStream,java.util.Map,java.util.Map)@g_org.eclipse.emf.ecore.xmi-2.12.0.jar.txt	0
+org/eclipse/emf/ecore/xmi/impl/XMLHandler/handleMissingPackage(java.lang.String)@g_org.eclipse.emf.ecore.xmi-2.12.0.jar.txt	3
+org/eclipse/emf/ecore/xmi/impl/XMLMapImpl/getClassifier(java.lang.String,java.lang.String)@g_org.eclipse.emf.ecore.xmi-2.12.0.jar.txt	4

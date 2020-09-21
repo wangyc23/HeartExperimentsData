@@ -1,0 +1,5 @@
+ch/qos/logback/classic/joran/action/InsertFromJNDIAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_logback-classic-1.1.2.jar.txt	0
+ch/qos/logback/classic/jmx/JMXConfigurator/reloadByFileName(java.lang.String)@g_logback-classic-1.1.2.jar.txt	2
+ch/qos/logback/classic/joran/action/RootLoggerAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_logback-classic-1.1.2.jar.txt	4
+ch/qos/logback/classic/joran/action/ReceiverAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_logback-classic-1.1.2.jar.txt	3
+ch/qos/logback/classic/joran/action/JMXConfiguratorAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_logback-classic-1.1.2.jar.txt	1

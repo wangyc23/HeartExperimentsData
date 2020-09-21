@@ -1,0 +1,4 @@
+java/util/stream/Stream/map(java.util.function.Function)
+demo/catalog/Catalog/Catalog()
+demo/product/Product/Product()
+demo/shipment/Shipment/Shipment(java.util.Set,demo.address.Address,demo.warehouse.Warehouse,demo.shipment.ShipmentStatus)

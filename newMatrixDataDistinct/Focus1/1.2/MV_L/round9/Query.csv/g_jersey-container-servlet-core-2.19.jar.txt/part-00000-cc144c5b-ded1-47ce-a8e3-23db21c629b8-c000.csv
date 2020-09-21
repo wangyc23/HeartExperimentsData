@@ -1,0 +1,4 @@
+org/glassfish/jersey/servlet/WebComponent$6/6(org.glassfish.jersey.servlet.WebComponent,org.glassfish.jersey.servlet.internal.ResponseWriter)
+javax/servlet/http/HttpServletRequest/getMethod()
+org/glassfish/jersey/server/ContainerRequest/setRequestScopedInitializer(org.glassfish.jersey.server.spi.RequestScopedInitializer)
+org/glassfish/jersey/server/ContainerRequest/ContainerRequest(java.net.URI,java.net.URI,java.lang.String,javax.ws.rs.core.SecurityContext,org.glassfish.jersey.internal.PropertiesDelegate)

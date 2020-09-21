@@ -1,0 +1,5 @@
+com/coremedia/iso/boxes/fragment/TrackFragmentRandomAccessBox/_parseDetails(java.nio.ByteBuffer)@g_isoparser-1.0.2.jar.txt	3
+com/googlecode/mp4parser/authoring/builder/FragmentedMp4Builder/createTfra(com.googlecode.mp4parser.authoring.Track,com.coremedia.iso.boxes.Container)@g_isoparser-1.1.18.jar.txt	1
+com/coremedia/iso/boxes/FullContainerBox/toString()@g_isoparser-1.0.2.jar.txt	2
+com/googlecode/mp4parser/authoring/builder/FragmentedMp4Builder/createTfra(com.googlecode.mp4parser.authoring.Track,com.coremedia.iso.boxes.Container)@g_isoparser-1.0.2.jar.txt	0
+com/googlecode/mp4parser/authoring/tracks/ttml/TtmlHelpers/getAllNamespaces(org.w3c.dom.Document)@g_isoparser-1.0.2.jar.txt	4

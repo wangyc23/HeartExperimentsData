@@ -1,0 +1,4 @@
+org/eclipse/smarthome/core/library/items/ImageItem/ImageItem(java.lang.String)
+org/eclipse/smarthome/core/library/items/ContactItem/ContactItem(java.lang.String)
+org/eclipse/smarthome/core/library/items/RollershutterItem/RollershutterItem(java.lang.String)
+org/eclipse/smarthome/core/library/items/ColorItem/ColorItem(java.lang.String)

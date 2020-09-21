@@ -1,0 +1,5 @@
+org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader/isOverriddenByExistingDefinition(org.springframework.context.annotation.BeanMethod,java.lang.String)@g_spring-context-4.0.6.RELEASE.jar.txt	3
+org/springframework/context/support/ResourceBundleMessageSource/MessageSourceControl/newBundle(java.lang.String,java.util.Locale,java.lang.String,java.lang.ClassLoader,boolean)@g_spring-context-4.0.6.RELEASE.jar.txt	0
+org/springframework/context/support/ResourceBundleMessageSource/MessageSourceControl/newBundle(java.lang.String,java.util.Locale,java.lang.String,java.lang.ClassLoader,boolean)@g_spring-context-4.0.7.RELEASE.jar.txt	1
+org/springframework/scheduling/config/AnnotationDrivenBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-context-4.0.6.RELEASE.jar.txt	4
+org/springframework/instrument/classloading/jboss/JBossMCTranslatorAdapter/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-context-4.0.6.RELEASE.jar.txt	2

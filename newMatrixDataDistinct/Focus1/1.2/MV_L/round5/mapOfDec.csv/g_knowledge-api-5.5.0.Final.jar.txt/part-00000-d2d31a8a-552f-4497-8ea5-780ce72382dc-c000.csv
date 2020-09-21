@@ -1,0 +1,5 @@
+org/eclipse/equinox/internal/app/AppCommands/_unschedApp(org.eclipse.osgi.framework.console.CommandInterpreter)@g_knowledge-api-5.6.0.Final.jar.txt	4
+org/drools/util/ServiceRegistryImpl/unregisterInstance(org.drools.Service,java.util.Map)@g_knowledge-api-5.6.0.Final.jar.txt	2
+org/drools/osgi/api/Activator/DroolsServiceTracker/addingService(org.osgi.framework.ServiceReference)@g_knowledge-api-5.6.0.Final.jar.txt	0
+org/drools/runtime/rule/ConsequenceException/printFacts(java.io.PrintStream)@g_knowledge-api-5.6.0.Final.jar.txt	3
+org/drools/util/ServiceRegistryImpl/registerInstance(org.drools.Service,java.util.Map)@g_knowledge-api-5.6.0.Final.jar.txt	1

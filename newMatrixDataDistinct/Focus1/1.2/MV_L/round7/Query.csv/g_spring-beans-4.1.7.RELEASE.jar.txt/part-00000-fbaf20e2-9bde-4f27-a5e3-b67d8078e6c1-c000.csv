@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(int)
+java/lang/Class/getModifiers()
+java/util/Map/get(java.lang.Object)
+java/util/Set/iterator()

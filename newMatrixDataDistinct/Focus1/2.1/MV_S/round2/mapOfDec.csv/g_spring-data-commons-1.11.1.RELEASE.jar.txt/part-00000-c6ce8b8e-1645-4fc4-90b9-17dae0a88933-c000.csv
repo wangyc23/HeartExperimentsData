@@ -1,0 +1,5 @@
+org/springframework/context/annotation/CommonAnnotationBeanPostProcessor/findResourceMetadata(java.lang.String,java.lang.Class,org.springframework.beans.PropertyValues)@g_spring-context-4.1.7.RELEASE.jar.txt	4
+org/springframework/format/support/FormattingConversionService/AnnotationParserConverter/convert(java.lang.Object,org.springframework.core.convert.TypeDescriptor,org.springframework.core.convert.TypeDescriptor)@g_spring-context-4.1.7.RELEASE.jar.txt	1
+org/springframework/validation/beanvalidation/SpringValidatorAdapter/getArgumentsForConstraint(java.lang.String,java.lang.String,javax.validation.metadata.ConstraintDescriptor)@g_spring-context-4.1.7.RELEASE.jar.txt	3
+org/springframework/context/support/ResourceBundleMessageSource/getResourceBundle(java.lang.String,java.util.Locale)@g_spring-context-4.1.7.RELEASE.jar.txt	2
+org/springframework/data/repository/core/support/TransactionalRepositoryProxyPostProcessor/AbstractFallbackTransactionAttributeSource/getTransactionAttribute(java.lang.reflect.Method,java.lang.Class)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	0

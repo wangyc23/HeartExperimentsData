@@ -1,0 +1,4 @@
+org/appfuse/webapp/client/application/base/activity/AbstractProxyEditActivity/saveOrUpdateRequest(org.appfuse.webapp.client.application.base.activity.RequestContext,P)
+org/appfuse/webapp/client/application/base/activity/AbstractProxyEditActivity/loadProxyRequest(org.appfuse.webapp.client.application.base.activity.RequestContext,java.lang.String)
+org/appfuse/webapp/client/application/base/activity/AbstractProxyEditActivity/getEntityId()
+org/appfuse/webapp/client/application/base/activity/AbstractProxyEditActivity/createProxy(org.appfuse.webapp.client.application.base.activity.RequestContext)

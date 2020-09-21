@@ -1,0 +1,4 @@
+com/sun/jersey/core/header/ContentDisposition/getSize()
+com/sun/jersey/core/header/ContentDisposition/getReadDate()
+com/sun/jersey/core/header/ContentDisposition/getModificationDate()
+com/sun/jersey/core/header/FormDataContentDisposition$FormDataContentDispositionBuilder/creationDate(java.util.Date)

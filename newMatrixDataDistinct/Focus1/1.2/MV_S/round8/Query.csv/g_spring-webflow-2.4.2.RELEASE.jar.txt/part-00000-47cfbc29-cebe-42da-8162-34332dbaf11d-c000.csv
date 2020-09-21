@@ -1,0 +1,4 @@
+org/springframework/beans/factory/support/BeanDefinitionBuilder/getRawBeanDefinition()
+org/springframework/beans/factory/xml/ParserContext/getReaderContext()
+org/springframework/beans/factory/parsing/BeanComponentDefinition/BeanComponentDefinition(org.springframework.beans.factory.config.BeanDefinition,java.lang.String)
+org/springframework/beans/factory/support/BeanDefinitionBuilder/getBeanDefinition()

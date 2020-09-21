@@ -1,0 +1,4 @@
+org/jsoup/select/Elements/get(int)
+org/jsoup/select/Elements/attr(java.lang.String)
+org/apache/logging/log4j/Logger/debug(java.lang.String)
+org/apache/logging/log4j/Logger/info(java.lang.String)

@@ -1,0 +1,5 @@
+net/sf/ehcache/transaction/local/LocalTransactionStore/recover()@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/pool/sizeof/filter/ResourceSizeOfFilter/filterFields(java.lang.Class,java.util.Collection)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/transaction/manager/DefaultTransactionManagerLookup/init()@g_ehcache-core-2.6.2.jar.txt	2
+com/netflix/discovery/shared/Applications/shuffleAndFilterInstances(java.util.Map,java.util.Map,java.util.Map,boolean)@g_eureka-client-1.1.147.jar.txt	1
+com/netflix/discovery/shared/Application/_shuffleAndStoreInstances(boolean,boolean,java.util.Map,com.netflix.discovery.EurekaClientConfig,com.netflix.discovery.InstanceRegionChecker)@g_eureka-client-1.1.147.jar.txt	0

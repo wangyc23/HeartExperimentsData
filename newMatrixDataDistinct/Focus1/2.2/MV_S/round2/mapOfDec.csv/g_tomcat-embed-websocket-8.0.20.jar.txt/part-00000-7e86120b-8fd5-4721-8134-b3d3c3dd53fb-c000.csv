@@ -1,0 +1,5 @@
+morfologik/stemming/TrimInfixAndSuffixEncoder/encode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	4
+org/apache/coyote/http2/Http2UpgradeHandler/writePushHeaders(org.apache.coyote.http2.Stream,int,org.apache.coyote.Request,int)@g_tomcat-embed-core-8.5.11.jar.txt	1
+morfologik/stemming/DictionaryIterator/next()@g_morfologik-stemming-2.1.2.jar.txt	2
+morfologik/stemming/TrimSuffixEncoder/encode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	3
+org/apache/coyote/http2/Http2UpgradeHandler/writeHeaders(org.apache.coyote.http2.Stream,org.apache.coyote.Response,int)@g_tomcat-embed-core-8.5.11.jar.txt	0

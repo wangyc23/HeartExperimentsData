@@ -1,0 +1,4 @@
+org/eclipse/tycho/packaging/ProductAssembler/setUnpackPlugins(boolean)
+java/io/File/canRead()
+org/eclipse/tycho/model/ProductConfiguration/includeLaunchers()
+org/apache/maven/project/MavenProject/getArtifact()

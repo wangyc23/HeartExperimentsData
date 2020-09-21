@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Move/doFileOperations()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Copydir/execute()@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/PropertyHelper/replaceProperties(java.lang.String,java.lang.String,java.util.Hashtable)@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/taskdefs/Copy/doFileOperations()@g_ant-1.6.5.jar.txt	3
+com/sun/org/apache/xml/internal/resolver/Catalog/copyReaders(com.sun.org.apache.xml.internal.resolver.Catalog)@g_resolver-20050927.jar.txt	4

@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/binders/ElementAnalyzer/visit(com.google.inject.spi.PrivateElements)@g_guice-bean-binders-2.3.0.jar.txt	2
+org/sonatype/guice/bean/binders/TypeConverterMap/getTypeConverter(com.google.inject.TypeLiteral)@g_guice-bean-binders-2.3.0.jar.txt	3
+org/sonatype/guice/plexus/scanners/PlexusTypeRegistry/getComponents()@g_guice-plexus-scanners-2.3.0.jar.txt	0
+org/sonatype/guice/bean/binders/SpaceModule/replayCachedElements(com.google.inject.Binder)@g_guice-bean-binders-2.3.0.jar.txt	4
+org/sonatype/guice/bean/binders/DependencyAnalyzer/findMissingKeys(java.util.Set)@g_guice-bean-binders-2.3.0.jar.txt	1

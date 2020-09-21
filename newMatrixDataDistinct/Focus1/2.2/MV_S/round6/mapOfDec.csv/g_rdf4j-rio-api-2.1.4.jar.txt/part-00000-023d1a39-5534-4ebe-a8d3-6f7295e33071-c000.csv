@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/rio/rdfxml/SAXFilter/appendStartTag(java.lang.String,org.xml.sax.Attributes)@g_rdf4j-rio-rdfxml-2.1.4.jar.txt	2
+org/eclipse/rdf4j/rio/rdfxml/RDFXMLWriter/setNamespace(java.lang.String,java.lang.String)@g_rdf4j-rio-rdfxml-2.1.4.jar.txt	0
+org/eclipse/rdf4j/rio/turtle/TurtleParser/parseURI()@g_rdf4j-rio-turtle-2.1.4.jar.txt	4
+org/eclipse/rdf4j/rio/turtle/TurtleParser/appendCodepoint(java.lang.StringBuilder,int)@g_rdf4j-rio-turtle-2.1.4.jar.txt	3
+org/eclipse/rdf4j/rio/rdfxml/RDFXMLParser/processPropertyElt(java.lang.String,java.lang.String,java.lang.String,org.eclipse.rdf4j.rio.rdfxml.Atts,boolean)@g_rdf4j-rio-rdfxml-2.1.4.jar.txt	1

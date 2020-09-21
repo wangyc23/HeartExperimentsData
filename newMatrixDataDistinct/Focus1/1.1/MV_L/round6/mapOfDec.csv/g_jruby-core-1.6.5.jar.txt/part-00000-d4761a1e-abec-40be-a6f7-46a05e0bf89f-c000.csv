@@ -1,0 +1,5 @@
+org/jgroups/client/StompConnection/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	3
+org/jgroups/stack/ProtocolStack/copyProtocols(org.jgroups.stack.ProtocolStack)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/TueBaDZParserParams/transformTree(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	1
+org/jgroups/protocols/MERGE3/convertViews()@g_stanford-parser-3.5.2.jar.txt	0
+org/jruby/internal/runtime/methods/ReflectionMethodFactory/getAnnotatedMethod(org.jruby.RubyModule,org.jruby.anno.JavaMethodDescriptor)@g_stanford-parser-3.5.2.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/activemq/openwire/tool/CppHeadersGenerator/generateFile(java.io.PrintWriter)@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/protobuf/compiler/TextFormat/parseInteger(java.lang.String,boolean,boolean)@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/selector/TokenMgrError/addEscapes(java.lang.String)@g_activemq-all-5.7.0.jar.txt	2
+org/apache/activemq/console/command/BrowseCommand/handleOption(java.lang.String,java.util.List)@g_activemq-all-5.7.0.jar.txt	1
+org/apache/activemq/console/filter/MessagesQueryFilter/query(java.util.List)@g_activemq-all-5.7.0.jar.txt	3

@@ -1,0 +1,5 @@
+com/github/mustachejava/reflect/ReflectionWrapper/getTargetDescription()@g_compiler-0.9.3.jar.txt	4
+com/github/mustachejava/codes/ValueCode/invert(com.github.mustachejava.util.Node,java.lang.String,java.util.concurrent.atomic.AtomicInteger)@g_compiler-0.9.3.jar.txt	0
+com/github/mustachejava/reflect/BaseObjectHandler/iterate(com.github.mustachejava.Iteration,java.io.Writer,java.lang.Object,java.util.List)@g_compiler-0.9.3.jar.txt	1
+com/github/mustachejava/DeferringMustacheFactory/1/1/execute(java.io.Writer,java.util.List)@g_compiler-0.9.3.jar.txt	3
+com/github/mustachejava/TypeCheckingHandler/find(java.lang.String,java.util.List)@g_compiler-0.9.3.jar.txt	2

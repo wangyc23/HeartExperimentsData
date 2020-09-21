@@ -1,0 +1,5 @@
+org/jboss/marshalling/serial/PlainDescriptor/defaultReadFields(org.jboss.marshalling.serial.SerialUnmarshaller,java.lang.Object)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	1
+org/jboss/marshalling/serial/PlainDescriptor/getField(org.jboss.marshalling.serial.SerialUnmarshaller,org.jboss.marshalling.reflect.SerializableClass)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	3
+org/jboss/marshalling/serial/SerialMarshaller/doWriteFields(org.jboss.marshalling.reflect.SerializableClass,java.lang.Object)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	0
+org/jboss/marshalling/river/RiverMarshaller/doWriteEmptyFields(org.jboss.marshalling.reflect.SerializableClass)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	2
+org/jboss/marshalling/river/RiverUnmarshaller/readFields(java.lang.Object,org.jboss.marshalling.river.SerializableClassDescriptor)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	4

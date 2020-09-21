@@ -1,0 +1,4 @@
+de/danoeh/antennapod/feed/Feed/getTitle()
+de/danoeh/antennapod/feed/FeedFile/getDownload_url()
+de/danoeh/antennapod/storage/DownloadRequester/downloadFeed(de.danoeh.antennapod.adapter.Context,de.danoeh.antennapod.feed.Feed)
+java/util/Date/Date()

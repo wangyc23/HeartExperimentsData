@@ -1,0 +1,5 @@
+org/eclipse/tycho/surefire/provider/impl/AbstractJUnitProvider/isEnabled(java.util.List,java.util.Properties)@g_tycho-surefire-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/surefire/TestMojo/createSurefireProperties(org.eclipse.tycho.surefire.provider.spi.TestFrameworkProvider)@g_tycho-surefire-plugin-0.23.1.jar.txt	1
+org/eclipse/tycho/surefire/TestMojo/createCommandLine(org.eclipse.sisu.equinox.launching.EquinoxInstallation)@g_tycho-surefire-plugin-0.23.1.jar.txt	3
+org/eclipse/tycho/surefire/provisioning/ProvisionedInstallationBuilder/executeDirector()@g_tycho-surefire-plugin-0.23.1.jar.txt	4
+org/eclipse/tycho/surefire/TestMojo/getBuildOutputDirectories()@g_tycho-surefire-plugin-0.23.1.jar.txt	0

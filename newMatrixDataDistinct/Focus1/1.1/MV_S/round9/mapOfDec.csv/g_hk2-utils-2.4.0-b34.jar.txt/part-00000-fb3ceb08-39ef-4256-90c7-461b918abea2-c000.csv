@@ -1,0 +1,5 @@
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/writeSet(java.util.Set,java.lang.Object)@g_hk2-utils-2.2.0.jar.txt	0
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/internalGetQualifierAnnotations(java.lang.reflect.AnnotatedElement)@g_hk2-utils-2.2.0.jar.txt	2
+org/glassfish/hk2/utilities/general/GeneralUtilities/loadArrayClass(java.lang.ClassLoader,java.lang.String)@g_hk2-utils-2.2.0.jar.txt	4
+org/glassfish/hk2/utilities/reflection/BeanReflectionHelper/getMapChangeEvents(java.util.Map,java.util.Map)@g_hk2-utils-2.2.0.jar.txt	3
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/writeSet(java.util.Set,java.lang.Object)@g_hk2-utils-2.2.0-b21.jar.txt	1

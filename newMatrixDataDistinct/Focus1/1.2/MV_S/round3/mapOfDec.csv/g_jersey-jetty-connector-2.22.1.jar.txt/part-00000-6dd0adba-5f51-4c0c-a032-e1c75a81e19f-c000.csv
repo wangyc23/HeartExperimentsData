@@ -1,0 +1,5 @@
+org/glassfish/jersey/uri/PatternWithGroups/match(java.lang.CharSequence,java.util.List,java.util.Map)@g_jersey-common-2.22.2.jar.txt	3
+org/glassfish/jersey/internal/OsgiRegistry/register(org.osgi.framework.Bundle)@g_jersey-common-2.22.2.jar.txt	4
+org/glassfish/jersey/internal/OsgiRegistry/locateAllProviders(java.lang.String)@g_jersey-common-2.22.2.jar.txt	2
+org/glassfish/jersey/message/internal/MessageBodyFactory/_getMessageBodyWriter(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,java.util.List,org.glassfish.jersey.internal.PropertiesDelegate)@g_jersey-common-2.22.2.jar.txt	0
+org/glassfish/jersey/process/internal/ExecutorProviders/getQualifierToProviderMap(org.glassfish.hk2.api.ServiceLocator,java.lang.Class)@g_jersey-common-2.22.2.jar.txt	1

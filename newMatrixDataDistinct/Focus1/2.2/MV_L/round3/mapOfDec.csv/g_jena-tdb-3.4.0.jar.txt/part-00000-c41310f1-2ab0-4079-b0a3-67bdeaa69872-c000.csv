@@ -1,0 +1,5 @@
+org/apache/jena/tdb/base/objectfile/ObjectFileStorage/BufferIterator/moveToNext()@g_jena-tdb-3.0.0.jar.txt	1
+org/apache/jena/tdb/base/file/BufferChannelMem/read(java.nio.ByteBuffer)@g_jena-tdb-3.0.0.jar.txt	3
+org/apache/jena/tdb/base/file/BufferChannelMem/read(java.nio.ByteBuffer,long)@g_jena-tdb-3.0.0.jar.txt	2
+org/apache/jena/tdb/base/objectfile/ObjectFileStorage/allocWrite(int)@g_jena-tdb-3.0.0.jar.txt	4
+org/apache/jena/tdb/transaction/Journal/write(org.apache.jena.tdb.transaction.JournalEntryType,org.apache.jena.tdb.sys.FileRef,org.apache.jena.tdb.base.block.Block)@g_jena-tdb-3.0.0.jar.txt	0

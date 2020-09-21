@@ -1,0 +1,5 @@
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-security-web-4.0.0.RELEASE.jar.txt	1
+org/springframework/jdbc/support/lob/OracleLobHandler/OracleLobCreator/setClobAsAsciiStream(java.sql.PreparedStatement,int,java.io.InputStream,int)@g_spring-security-web-4.0.0.RELEASE.jar.txt	3
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-security-web-4.0.0.RELEASE.jar.txt	0
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/buildRolesReachableInOneStepMap()@g_spring-security-web-4.0.0.RELEASE.jar.txt	4
+org/springframework/security/web/authentication/rememberme/TokenBasedRememberMeServices/processAutoLoginCookie(java.lang.String[],javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-security-web-4.0.0.RELEASE.jar.txt	2

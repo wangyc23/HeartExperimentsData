@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/app/job/impl/TaskImpl/getReport()@g_sesame-rio-turtle-2.7.16.jar.txt	3
+org/apache/hadoop/mapreduce/v2/app/job/impl/JobImpl/getWorkflowAdjacencies(org.apache.hadoop.conf.Configuration)@g_sesame-rio-turtle-2.7.16.jar.txt	1
+org/apache/hadoop/mapred/TaskAttemptListenerImpl/canCommit(org.apache.hadoop.mapred.TaskAttemptID)@g_sesame-rio-turtle-2.7.16.jar.txt	4
+org/apache/hadoop/mapreduce/v2/app/commit/CommitterEventHandler/serviceStart()@g_sesame-rio-turtle-2.7.16.jar.txt	2
+org/openrdf/rio/turtle/TurtleWriter/handleStatement(org.openrdf.model.Statement)@g_sesame-rio-turtle-2.7.16.jar.txt	0

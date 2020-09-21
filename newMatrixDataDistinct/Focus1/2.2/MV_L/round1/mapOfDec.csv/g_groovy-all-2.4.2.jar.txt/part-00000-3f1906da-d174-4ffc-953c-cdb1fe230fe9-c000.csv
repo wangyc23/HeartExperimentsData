@@ -1,0 +1,5 @@
+org/codehaus/groovy/vmplugin/v5/Java5/configureClassNode(org.codehaus.groovy.ast.CompileUnit,org.codehaus.groovy.ast.ClassNode)@g_groovy-all-2.4.5.jar.txt	1
+org/codehaus/groovy/vmplugin/v7/Java7/getInvokeSpecialHandle(java.lang.reflect.Method,java.lang.Object)@g_groovy-all-2.4.5.jar.txt	4
+org/codehaus/groovy/ant/Groovy/execGroovy(java.lang.String,java.io.PrintStream)@g_groovy-all-2.4.5.jar.txt	2
+org/codehaus/groovy/binding/ClosureTriggerBinding/1/run()@g_groovy-all-2.4.5.jar.txt	0
+org/codehaus/groovy/runtime/DefaultGroovyMethods/dump(java.lang.Object)@g_groovy-all-2.4.5.jar.txt	3

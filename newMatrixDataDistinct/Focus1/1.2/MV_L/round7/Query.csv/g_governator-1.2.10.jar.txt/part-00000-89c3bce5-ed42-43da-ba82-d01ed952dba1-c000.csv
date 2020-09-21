@@ -1,0 +1,4 @@
+java/lang/Class/getInterfaces()
+java/lang/Class/getSuperclass()
+java/util/Iterator/hasNext()
+java/lang/Class/getAnnotation(java.lang.Class)

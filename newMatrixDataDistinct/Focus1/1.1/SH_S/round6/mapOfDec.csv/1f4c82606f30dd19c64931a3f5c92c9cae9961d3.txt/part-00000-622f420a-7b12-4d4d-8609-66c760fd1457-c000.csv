@@ -1,0 +1,5 @@
+com/example/restapp/db/ConnectionManager/shutdown()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	1
+fr/esiea/tetris/model/Board/checkLine()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	4
+com/example/restapp/App/releaseAndShutdown()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	3
+fr/esiea/tetris/test/GameStepTest/shouldCleanLine()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	2
+com/example/restapp/resources/DummyResource/getById(long)@2419bc5b971bf64063be9d3c90dad3171f182854.txt	0

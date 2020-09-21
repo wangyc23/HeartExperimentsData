@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/lang/Object/toString()
+org/apache/http/Header/getName()
+java/lang/StringBuilder/StringBuilder()

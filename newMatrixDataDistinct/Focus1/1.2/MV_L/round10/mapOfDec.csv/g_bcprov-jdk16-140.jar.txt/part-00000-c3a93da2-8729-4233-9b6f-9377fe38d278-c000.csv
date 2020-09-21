@@ -1,0 +1,5 @@
+org/bouncycastle/x509/PKIXCertPathReviewer/checkSignatures()@g_bcprov-jdk15-1.45.jar.txt	2
+org/bouncycastle/jce/provider/PKIXCertPathValidatorSpi/engineValidate(java.security.cert.CertPath,java.security.cert.CertPathParameters)@g_bcprov-jdk15-1.45.jar.txt	1
+org/bouncycastle/jce/provider/CertPathValidatorUtilities/findTrustAnchor(java.security.cert.X509Certificate,java.security.cert.CertPath,int,java.util.Set)@g_bcprov-jdk14-138.jar.txt	3
+org/bouncycastle/jce/provider/PKIXCertPathValidatorSpi/engineValidate(java.security.cert.CertPath,java.security.cert.CertPathParameters)@g_bcprov-jdk14-138.jar.txt	4
+org/bouncycastle/jce/provider/CertPathValidatorUtilities/findTrustAnchor(java.security.cert.X509Certificate,java.util.Set,java.lang.String)@g_bcprov-jdk15-1.45.jar.txt	0

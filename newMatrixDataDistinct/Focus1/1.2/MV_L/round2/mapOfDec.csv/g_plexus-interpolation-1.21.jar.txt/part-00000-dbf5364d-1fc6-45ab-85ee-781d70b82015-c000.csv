@@ -1,0 +1,5 @@
+org/codehaus/plexus/interpolation/InterpolatorFilterReader/read()@g_plexus-interpolation-1.22.jar.txt	1
+org/codehaus/plexus/interpolation/object/FieldBasedObjectInterpolator/InterpolateObjectAction/evaluateArray(java.lang.Object,java.lang.String)@g_plexus-interpolation-1.22.jar.txt	0
+org/codehaus/plexus/interpolation/multi/MultiDelimiterStringSearchInterpolator/interpolate(java.lang.String,org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-interpolation-1.22.jar.txt	4
+org/codehaus/plexus/interpolation/object/ObjectInterpolationWarning/toString()@g_plexus-interpolation-1.22.jar.txt	3
+org/codehaus/plexus/interpolation/StringSearchInterpolator/interpolate(java.lang.String,org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-interpolation-1.22.jar.txt	2

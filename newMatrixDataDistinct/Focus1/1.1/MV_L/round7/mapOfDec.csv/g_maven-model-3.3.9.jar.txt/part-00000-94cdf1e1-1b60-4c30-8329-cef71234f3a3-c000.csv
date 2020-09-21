@@ -1,0 +1,5 @@
+org/apache/maven/artifact/repository/metadata/Versioning/clone()@g_maven-repository-metadata-3.0.4.jar.txt	2
+org/apache/maven/artifact/repository/metadata/Metadata/clone()@g_maven-repository-metadata-3.0.4.jar.txt	0
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseResource(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-3.0.4.jar.txt	4
+org/apache/maven/artifact/repository/metadata/Metadata/clone()@g_maven-repository-metadata-3.0.5.jar.txt	1
+org/apache/maven/model/merge/ModelMerger/mergeModel_Licenses(org.apache.maven.model.Model,org.apache.maven.model.Model,boolean,java.util.Map)@g_maven-repository-metadata-3.0.4.jar.txt	3

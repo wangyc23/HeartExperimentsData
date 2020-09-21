@@ -1,0 +1,4 @@
+io/reactivex/netty/client/ClientBuilder/withNoConnectionPooling()
+io/reactivex/netty/client/ClientBuilder/withIdleConnectionsTimeoutMillis(long)
+io/reactivex/netty/RxNetty/newTcpClientBuilder(java.lang.String,int)
+io/reactivex/netty/client/ClientBuilder/channelOption(io.netty.channel.ChannelOption,java.lang.Object)

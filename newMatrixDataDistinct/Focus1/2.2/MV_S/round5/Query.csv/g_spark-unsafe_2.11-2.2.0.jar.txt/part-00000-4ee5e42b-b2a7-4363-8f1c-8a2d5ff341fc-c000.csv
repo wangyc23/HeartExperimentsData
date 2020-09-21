@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/util/regex/Matcher/matches()
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

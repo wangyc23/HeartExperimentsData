@@ -1,0 +1,5 @@
+org/jboss/arquillian/container/impl/client/container/ContainerDeployControllerTestCase/shouldCatchExceptionInDeploymentContext()@22a0bd215fd3956faae633b657276befedc4a56e.txt	1
+org/jboss/arquillian/container/impl/client/container/ContainerDeployControllerTestCase/shouldDeployAllManagedDeployments()@22a0bd215fd3956faae633b657276befedc4a56e.txt	2
+org/jboss/arquillian/container/impl/client/container/ContainerDeployControllerTestCase/setup()@214c90f7d50ac449ba93faa7e8fe6c6ddd1eb314.txt	4
+org/jboss/arquillian/container/impl/client/container/ContainerDeployControllerTestCase/shouldCatchExceptionInDeploymentContext()@214c90f7d50ac449ba93faa7e8fe6c6ddd1eb314.txt	0
+org/jboss/arquillian/container/test/impl/client/ContainerEventController/execute(org.jboss.arquillian.test.spi.event.suite.BeforeClass)@214c90f7d50ac449ba93faa7e8fe6c6ddd1eb314.txt	3

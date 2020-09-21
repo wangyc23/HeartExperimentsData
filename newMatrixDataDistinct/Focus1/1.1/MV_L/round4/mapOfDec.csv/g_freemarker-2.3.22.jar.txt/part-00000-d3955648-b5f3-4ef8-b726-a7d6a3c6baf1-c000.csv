@@ -1,0 +1,5 @@
+freemarker/template/Configuration/getEncoding(java.util.Locale)@g_freemarker-2.3.23.jar.txt	0
+freemarker/ext/beans/ClassIntrospector/createClassIntrospectionData(java.lang.Class)@g_freemarker-2.3.23.jar.txt	2
+freemarker/template/TemplateException/printStackTrace(freemarker.template.TemplateException$StackTraceWriter,boolean,boolean,boolean)@g_freemarker-2.3.23.jar.txt	4
+freemarker/ext/beans/BeansWrapper/addPropertyDescriptorToClassIntrospectionData(java.beans.PropertyDescriptor,java.lang.Class,java.util.Map,java.util.Map)@g_freemarker-2.3.23.jar.txt	3
+freemarker/template/Configuration/getEncoding(java.util.Locale)@g_freemarker-2.3.20.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/Class/getSimpleName()
+com/google/common/collect/Multimaps/newSetMultimap(java.util.Map,com.google.common.base.Supplier)
+com/google/common/collect/Multimap/keySet()
+com/google/common/collect/Multimap/put(java.lang.Object,java.lang.Object)

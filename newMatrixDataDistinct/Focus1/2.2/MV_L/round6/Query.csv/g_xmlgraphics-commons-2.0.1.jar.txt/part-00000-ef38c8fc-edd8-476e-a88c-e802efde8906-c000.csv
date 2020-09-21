@@ -1,0 +1,4 @@
+org/apache/xmlgraphics/image/codec/tiff/ImageType/getTypeFromRGB(int,byte[],byte[],byte[],int,int)
+org/apache/xmlgraphics/image/codec/tiff/ExtraSamplesType/getValue(java.awt.image.ColorModel,int)
+java/awt/image/RenderedImage/getWidth()
+java/awt/image/IndexColorModel/getMapSize()

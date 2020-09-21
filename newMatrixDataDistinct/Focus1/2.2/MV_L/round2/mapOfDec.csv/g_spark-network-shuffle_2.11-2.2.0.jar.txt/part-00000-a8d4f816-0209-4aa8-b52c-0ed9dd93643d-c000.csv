@@ -1,0 +1,5 @@
+org/thymeleaf/util/StandardDOMTranslator/translateNode(org.w3c.dom.Node,org.thymeleaf.dom.NestableNode,java.lang.String)@g_thymeleaf-2.1.4.RELEASE.jar.txt	4
+org/thymeleaf/util/StandardDOMTranslator/translateNode(org.w3c.dom.Node,org.thymeleaf.dom.NestableNode,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	0
+org/thymeleaf/standard/expression/FragmentSignatureUtils/processParameters(org.thymeleaf.standard.expression.FragmentSignature,java.util.Map)@g_thymeleaf-2.1.5.RELEASE.jar.txt	3
+org/thymeleaf/standard/expression/FragmentSelectionUtils/createSyntheticallyNamedParameterSequence(org.thymeleaf.standard.expression.ExpressionSequence)@g_thymeleaf-2.1.5.RELEASE.jar.txt	1
+org/thymeleaf/util/NumberUtils/sequence(java.lang.Integer,java.lang.Integer,java.lang.Integer)@g_thymeleaf-2.1.5.RELEASE.jar.txt	2

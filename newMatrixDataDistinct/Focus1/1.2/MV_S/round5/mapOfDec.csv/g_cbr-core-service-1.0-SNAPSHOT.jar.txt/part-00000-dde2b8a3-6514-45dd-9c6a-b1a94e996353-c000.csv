@@ -1,0 +1,5 @@
+ch/fhnw/cbr/service/CBRServices/merge(com.hp.hpl.jena.ontology.Individual,ch.fhnw.cbr.service.data.LiteralPropertyValueVO)@g_cbr-core-service-1.0.1.jar.txt	4
+ch/fhnw/cbr/service/CBRServices/getCaseInstance(ch.fhnw.cbr.service.data.CaseInstanceVO,ch.fhnw.cbr.service.data.ClassVO,com.hp.hpl.jena.ontology.Individual)@g_cbr-core-service-1.0.1.jar.txt	3
+ch/fhnw/cbr/service/CBRServices/remove(com.hp.hpl.jena.ontology.Individual,ch.fhnw.cbr.service.data.ObjectPropertyVO)@g_cbr-core-service-1.0.1.jar.txt	2
+ch/fhnw/cbr/service/data/mapper/CaseCharacterisationSpaceVOMapper/handle(ch.fhnw.cbr.model.CCOntClass,ch.fhnw.cbr.model.CCLiteralProperty)@g_cbr-core-service-1.0.1.jar.txt	1
+ch/fhnw/cbr/service/CBRServices/merge(ch.fhnw.cbr.service.data.ClassVO,ch.fhnw.cbr.service.data.IndividualVO)@g_cbr-core-service-1.0.1.jar.txt	0

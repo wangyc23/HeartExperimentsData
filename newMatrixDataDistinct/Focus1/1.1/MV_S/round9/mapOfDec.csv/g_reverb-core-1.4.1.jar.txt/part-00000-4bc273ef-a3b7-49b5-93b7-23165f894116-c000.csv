@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/shiftreduce/PerceptronModel/averageModels(java.util.Collection)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/graph/DijkstraShortestPath/getShortestPath(edu.stanford.nlp.graph.Graph,java.lang.Object,java.lang.Object,boolean)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/tagger/maxent/TaggerExperiments/getFeaturesNew()@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/util/StringUtils/argsToMap(java.lang.String[],java.util.Map)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/trees/tregex/TregexPattern/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	1

@@ -1,0 +1,5 @@
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getCollapserJson(com.netflix.hystrix.HystrixCollapserMetrics)@g_hystrix-metrics-event-stream-1.4.20.jar.txt	1
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getThreadPoolJson(com.netflix.hystrix.HystrixThreadPoolMetrics)@g_hystrix-metrics-event-stream-1.4.20.jar.txt	2
+org/openrdf/rio/rdfjson/RDFJSONWriter/modelToRdfJsonInternal(org.openrdf.model.Model,org.openrdf.rio.WriterConfig,com.fasterxml.jackson.core.JsonGenerator)@g_sesame-rio-rdfjson-2.7.16.jar.txt	3
+org/openrdf/rio/rdfjson/RDFJSONWriter/writeObject(org.openrdf.model.Value,java.util.Set,com.fasterxml.jackson.core.JsonGenerator)@g_sesame-rio-rdfjson-2.7.16.jar.txt	4
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getCommandJson(com.netflix.hystrix.HystrixCommandMetrics)@g_hystrix-metrics-event-stream-1.4.20.jar.txt	0

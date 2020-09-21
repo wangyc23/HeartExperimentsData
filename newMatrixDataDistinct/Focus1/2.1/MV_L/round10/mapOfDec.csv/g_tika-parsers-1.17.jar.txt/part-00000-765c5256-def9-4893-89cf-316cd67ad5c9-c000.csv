@@ -1,0 +1,5 @@
+org/apache/tika/parser/microsoft/JackcessExtractor/handleCell(com.healthmarketscience.jackcess.Row,com.healthmarketscience.jackcess.Column,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	0
+org/apache/tika/parser/iwork/PagesContentHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_tika-parsers-1.11.jar.txt	3
+org/apache/tika/parser/microsoft/WordExtractor/handleSpecialCharacterRuns(org.apache.poi.hwpf.usermodel.Paragraph,int,boolean,org.apache.tika.parser.microsoft.WordExtractor$PicturesSource,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	4
+org/apache/tika/parser/mbox/OutlookPSTParser/parseFolder(org.apache.tika.sax.XHTMLContentHandler,com.pff.PSTFolder,org.apache.tika.extractor.EmbeddedDocumentExtractor)@g_tika-parsers-1.11.jar.txt	2
+org/apache/tika/parser/microsoft/HSLFExtractor/parse(org.apache.poi.poifs.filesystem.DirectoryNode,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	1

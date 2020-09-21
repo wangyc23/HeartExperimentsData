@@ -1,0 +1,4 @@
+org/bouncycastle/crypto/AsymmetricCipherKeyPairGenerator/init(org.bouncycastle.crypto.KeyGenerationParameters)
+java/lang/Class/getName()
+java/lang/StringBuilder/StringBuilder()
+org/xwiki/crypto/internal/asymmetric/generator/BcRSAKeyPairGenerator/getKeyPair(org.bouncycastle.crypto.AsymmetricCipherKeyPair)

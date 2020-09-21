@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/fromDependencies/CopyDependenciesMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/getMismatch(java.util.Map,java.util.Set)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/xwiki/tool/enforcer/ValidateDependencyVersion/validateDependencies(java.util.List)@g_xwiki-commons-tool-enforcer-dependencies-7.0.jar.txt	2
+org/apache/maven/plugin/dependency/utils/DependencyStatusSets/buildArtifactListOutput(java.util.Set,boolean,boolean,boolean)@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/checkDependencyManagement()@g_maven-dependency-plugin-2.8.jar.txt	0

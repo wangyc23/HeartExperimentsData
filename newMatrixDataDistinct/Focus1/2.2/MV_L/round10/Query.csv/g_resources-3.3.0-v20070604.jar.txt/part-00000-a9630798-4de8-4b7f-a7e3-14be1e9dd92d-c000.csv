@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(long)
+java/io/PrintStream/println(java.lang.String)
+java/lang/StringBuffer/append(java.lang.Object)
+org/eclipse/core/filesystem/IFileInfo/getLastModified()

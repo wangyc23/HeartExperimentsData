@@ -1,0 +1,4 @@
+org/eclipse/core/runtime/IPath/toOSString()
+org/eclipse/core/internal/resources/Folder/getFullPath()
+org/eclipse/osgi/util/NLS/bind(java.lang.String,java.lang.Object)
+org/eclipse/core/runtime/IPath/append(java.lang.String)

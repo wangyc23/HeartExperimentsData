@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/internal/monitoring/TimeWindowStatisticsImpl/Builder/build(long)@g_jersey-server-2.17.jar.txt	4
+org/glassfish/jersey/server/internal/JerseyResourceContext/unsafeBindResource(java.lang.Object,org.glassfish.jersey.model.ContractProvider,org.glassfish.hk2.api.DynamicConfiguration)@g_jersey-server-2.17.jar.txt	2
+org/glassfish/jersey/server/ResourceConfig/scanClasses()@g_jersey-server-2.17.jar.txt	0
+org/glassfish/jersey/server/internal/routing/MethodSelectingRouter/isWriteable(org.glassfish.jersey.server.internal.routing.MethodSelectingRouter$RequestSpecificConsumesProducesAcceptor)@g_jersey-server-2.17.jar.txt	3
+org/glassfish/jersey/server/internal/monitoring/jmx/MBeanExposer/transformToStringKeys(java.util.Map)@g_jersey-server-2.17.jar.txt	1

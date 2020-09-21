@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/lang/String/length()
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(char)

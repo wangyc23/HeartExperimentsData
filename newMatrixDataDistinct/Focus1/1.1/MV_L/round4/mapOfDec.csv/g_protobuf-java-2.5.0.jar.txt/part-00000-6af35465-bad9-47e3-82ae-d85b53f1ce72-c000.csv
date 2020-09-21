@@ -1,0 +1,5 @@
+com/google/protobuf/AbstractMessage/Builder/findMissingFields(com.google.protobuf.Message,java.lang.String,java.util.List)@g_protobuf-java-2.4.1.jar.txt	3
+com/google/protobuf/DescriptorProtos/SourceCodeInfo/Location/Builder/buildPartial()@g_protobuf-java-2.4.1.jar.txt	1
+com/google/protobuf/TextFormat/parseInteger(java.lang.String,boolean,boolean)@g_protobuf-java-2.4.1.jar.txt	2
+com/google/protobuf/GeneratedMessage/FieldAccessorTable/ensureFieldAccessorsInitialized(java.lang.Class,java.lang.Class)@g_protobuf-java-2.4.1.jar.txt	4
+com/google/protobuf/TextFormat/Printer/printFieldValue(com.google.protobuf.Descriptors$FieldDescriptor,java.lang.Object,com.google.protobuf.TextFormat$TextGenerator)@g_protobuf-java-2.4.1.jar.txt	0

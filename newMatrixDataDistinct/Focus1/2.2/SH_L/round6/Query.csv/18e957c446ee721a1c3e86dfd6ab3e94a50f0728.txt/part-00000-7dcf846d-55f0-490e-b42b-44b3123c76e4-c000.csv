@@ -1,0 +1,4 @@
+java/lang/ref/ReferenceQueue/ReferenceQueue()
+java/lang/System/gc()
+java/io/PrintStream/println(java.lang.String)
+oops/chapter9/WeakReferenceDemo/ReferLoader/ReferLoader(java.lang.ref.ReferenceQueue)

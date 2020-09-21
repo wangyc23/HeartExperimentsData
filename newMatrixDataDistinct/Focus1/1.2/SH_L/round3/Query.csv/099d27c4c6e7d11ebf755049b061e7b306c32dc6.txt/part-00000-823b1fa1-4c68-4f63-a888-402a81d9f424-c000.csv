@@ -1,0 +1,4 @@
+java/lang/Throwable/getMessage()
+java/util/concurrent/ExecutorService/shutdownNow()
+twitter4j/Logger/warn(java.lang.String)
+java/util/concurrent/ExecutorService/shutdown()

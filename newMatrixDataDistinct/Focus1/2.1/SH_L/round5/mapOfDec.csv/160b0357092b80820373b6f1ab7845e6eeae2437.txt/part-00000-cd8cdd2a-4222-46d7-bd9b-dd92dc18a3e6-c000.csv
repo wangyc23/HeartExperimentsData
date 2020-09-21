@@ -1,0 +1,5 @@
+org/streaminer/util/hash/MurmurHash3/hash(long[])@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	1
+org/streaminer/stream/frequency/util/CountEntry/compareTo(org.streaminer.stream.frequency.util.CountEntry)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	2
+org/streaminer/stream/membership/BloomFilterTest/testAdd()@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	4
+org/streaminer/stream/quantile/rss/RSSQuantiles/overallBucketCount()@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	3
+org/streaminer/stream/quantile/GKQuantiles/sortWorkingSet(java.util.List)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	0

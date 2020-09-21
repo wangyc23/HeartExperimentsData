@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/krss1/parser/ParseException/initialise(org.semanticweb.owlapi.krss1.parser.Token,int[][],java.lang.String[],java.lang.String)@g_owlapi-parsers-5.1.0.jar.txt	3
+org/semanticweb/owlapi/dlsyntax/parser/ParseException/initialise(org.semanticweb.owlapi.dlsyntax.parser.Token,int[][],java.lang.String[],java.lang.String)@g_owlapi-parsers-5.1.0.jar.txt	2
+org/semanticweb/owlapi/io/UnparsableOntologyException/getMessage()@g_owlapi-distribution-4.5.0.jar.txt	0
+org/semanticweb/owlapi/krss2/parser/ParseException/initialise(org.semanticweb.owlapi.krss2.parser.Token,int[][],java.lang.String[],java.lang.String)@g_owlapi-parsers-5.1.0.jar.txt	4
+org/semanticweb/owlapi/util/AutoIRIMapper/toString()@g_owlapi-distribution-4.5.0.jar.txt	1

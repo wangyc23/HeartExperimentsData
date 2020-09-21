@@ -1,0 +1,5 @@
+org/apache/sis/util/collection/WeakEntry/rehash(org.apache.sis.util.collection.WeakEntry[],int,java.lang.String)@g_sis-utility-0.5.jar.txt	0
+org/apache/sis/internal/util/CollectionsExt/nonNullArraySet(java.lang.String,java.lang.Object,java.lang.Object[])@g_sis-utility-0.5.jar.txt	1
+org/apache/sis/util/iso/AbstractName/castOrCopy(org.opengis.util.GenericName)@g_sis-utility-0.5.jar.txt	4
+org/apache/sis/util/resources/IndexedResourceBundle/ensureLoaded(java.lang.String)@g_sis-utility-0.5.jar.txt	3
+org/apache/sis/util/Classes/changeArrayDimension(java.lang.Class,int)@g_sis-utility-0.5.jar.txt	2

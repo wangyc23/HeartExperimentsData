@@ -1,0 +1,5 @@
+org/antlr/tool/Grammar/removeUselessLabels(java.util.Map)@g_antlr-3.3.jar.txt	0
+org/antlr/tool/CompositeGrammar/_minimizeRuleSet(java.util.Set,org.antlr.tool.CompositeGrammarTree)@g_antlr-3.3.jar.txt	1
+org/antlr/misc/IntervalSet/toString(org.antlr.tool.Grammar)@g_antlr-3.3.jar.txt	3
+org/antlr/analysis/DecisionProbe/issueWarnings()@g_antlr-3.3.jar.txt	2
+org/antlr/tool/GrammarNonDeterminismMessage/toString()@g_antlr-3.3.jar.txt	4

@@ -1,0 +1,4 @@
+com/github/junrar/rarfile/FileHeader/hasEncryptVersion()
+java/lang/StringBuilder/append(int)
+com/github/junrar/rarfile/FileHeader/hasVolumeNumber()
+com/github/junrar/rarfile/FileHeader/hasArchiveDataCRC()

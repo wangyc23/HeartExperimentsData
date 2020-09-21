@@ -1,0 +1,5 @@
+0	redis/clients/jedis/Jedis/Jedis(java.lang.String)
+1	com/guillaumecl/caskdays/models/Beer/getBrewery()
+2	org/apache/commons/lang3/StringUtils/defaultString(java.lang.String,java.lang.String)
+3	com/guillaumecl/caskdays/Config/setJedis(redis.clients.jedis.Jedis)
+4	java/util/function/Function/apply(T)

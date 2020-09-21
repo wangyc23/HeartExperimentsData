@@ -1,0 +1,4 @@
+java/io/PrintStream/flush()
+java/io/DataInputStream/DataInputStream(java.io.InputStream)
+java/io/PrintStream/PrintStream(java.io.OutputStream)
+java/io/FileInputStream/close()

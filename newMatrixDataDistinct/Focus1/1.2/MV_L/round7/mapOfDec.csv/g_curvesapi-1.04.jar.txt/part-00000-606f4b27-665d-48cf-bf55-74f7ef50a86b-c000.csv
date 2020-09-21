@@ -1,0 +1,5 @@
+com/graphbuilder/curve/BinaryCurveApproximationAlgorithm/genPts(com.graphbuilder.curve.ParametricCurve,double,double,com.graphbuilder.curve.MultiPath)@g_curvesapi-1.03.jar.txt	0
+com/google/gson/internal/bind/JsonTreeWriter/value(java.lang.Number)@g_gson-2.2.2.jar.txt	1
+com/google/gson/stream/JsonReader/nextDouble()@g_gson-2.2.2.jar.txt	4
+com/google/gson/stream/JsonWriter/value(double)@g_gson-2.2.2.jar.txt	3
+com/google/gson/internal/bind/JsonTreeWriter/value(double)@g_gson-2.2.2.jar.txt	2

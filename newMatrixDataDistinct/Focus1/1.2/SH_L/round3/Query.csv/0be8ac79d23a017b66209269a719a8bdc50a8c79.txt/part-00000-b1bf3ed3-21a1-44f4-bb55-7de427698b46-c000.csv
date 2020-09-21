@@ -1,0 +1,4 @@
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/substring(int)
+java/lang/StringBuilder/append(char)
+java/lang/Character/toTitleCase(char)

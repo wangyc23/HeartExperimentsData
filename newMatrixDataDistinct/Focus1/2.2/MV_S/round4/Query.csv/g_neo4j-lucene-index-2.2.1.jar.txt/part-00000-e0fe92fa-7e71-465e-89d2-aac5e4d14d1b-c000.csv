@@ -1,0 +1,4 @@
+org/apache/lucene/document/Fieldable/stringValue()
+org/neo4j/kernel/api/index/NodePropertyUpdate/getValueAfter()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

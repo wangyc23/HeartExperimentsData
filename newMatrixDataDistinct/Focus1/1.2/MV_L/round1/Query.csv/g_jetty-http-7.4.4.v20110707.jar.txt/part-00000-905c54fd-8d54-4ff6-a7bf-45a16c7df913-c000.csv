@@ -1,0 +1,4 @@
+org/eclipse/jetty/http/HttpFields$Field/access$1200(org.eclipse.jetty.http.HttpFields$Field)
+org/eclipse/jetty/http/HttpFields$Field/access$1000(org.eclipse.jetty.http.HttpFields$Field)
+org/eclipse/jetty/http/HttpFields$Field/getNameBuffer()
+java/util/HashMap/put(java.lang.Object,java.lang.Object)

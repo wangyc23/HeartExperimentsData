@@ -1,0 +1,4 @@
+org/apache/tools/ant/taskdefs/Available$FileDir/isFile()
+java/io/File/isDirectory()
+org/apache/tools/ant/taskdefs/Available/log(java.lang.String,int)
+java/io/File/exists()

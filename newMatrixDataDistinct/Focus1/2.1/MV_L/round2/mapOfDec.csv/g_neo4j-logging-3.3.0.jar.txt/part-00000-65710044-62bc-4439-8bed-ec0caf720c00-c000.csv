@@ -1,0 +1,5 @@
+org/neo4j/logging/DuplicatingLogProvider/buildLog(java.util.function.Function)@g_neo4j-logging-3.1.0-M01.jar.txt	4
+org/neo4j/logging/RotatingFileOutputStreamSupplier/lambda$rotate$7()@g_neo4j-logging-3.0.1.jar.txt	0
+org/neo4j/logging/DuplicatingLogProvider/buildLog(java.util.function.Function)@g_neo4j-logging-3.0.1.jar.txt	2
+org/neo4j/logging/RotatingFileOutputStreamSupplier/lambda$rotate$7()@g_neo4j-logging-3.1.0-M01.jar.txt	1
+org/neo4j/logging/RotatingFileOutputStreamSupplier/lambda$rotate$0(java.io.ByteArrayOutputStream)@g_neo4j-logging-3.0.1.jar.txt	3

@@ -1,0 +1,4 @@
+java/lang/Class/isInterface()
+java/lang/Object/equals(java.lang.Object)
+java/lang/Class/newInstance()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

@@ -1,0 +1,4 @@
+java/util/Properties/get(java.lang.Object)
+java/lang/Object/toString()
+java/util/Iterator/hasNext()
+org/codehaus/plexus/util/StringUtils/repeat(java.lang.String,int)

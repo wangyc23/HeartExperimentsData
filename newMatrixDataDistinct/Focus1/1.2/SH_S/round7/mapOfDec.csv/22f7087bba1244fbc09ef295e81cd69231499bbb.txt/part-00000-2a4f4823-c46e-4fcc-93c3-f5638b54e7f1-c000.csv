@@ -1,0 +1,5 @@
+org/zkybase/model/AbstractCI/equals(java.lang.Object)@0594ded2555b27b453ace9019fc6b934911e2b5d.txt	1
+org/zkybase/model/relationship/FarmSupportsApplication/equals(java.lang.Object)@0594ded2555b27b453ace9019fc6b934911e2b5d.txt	0
+org/edr/domain/impl/BudgetStaatDO/isChild(org.edr.domain.BudgetStaat)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	4
+org/edr/util/jpa/JpaIdentifiableVersioned/equals(java.lang.Object)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	3
+org/zkybase/model/Person/equals(java.lang.Object)@0594ded2555b27b453ace9019fc6b934911e2b5d.txt	2

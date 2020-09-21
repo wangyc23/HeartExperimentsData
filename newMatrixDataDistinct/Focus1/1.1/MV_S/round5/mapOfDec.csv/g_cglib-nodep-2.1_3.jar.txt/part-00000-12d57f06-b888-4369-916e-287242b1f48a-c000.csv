@@ -1,0 +1,5 @@
+net/sf/cglib/core/ReflectUtils/getClass(java.lang.String,java.lang.ClassLoader,java.lang.String[])@g_cglib-2.2.2.jar.txt	1
+net/sf/cglib/transform/impl/AddDelegateTransformer/addDelegate(java.lang.reflect.Method)@g_cglib-2.2.0-b21.jar.txt	4
+net/sf/cglib/core/ReflectUtils/getClass(java.lang.String,java.lang.ClassLoader,java.lang.String[])@g_cglib-2.2.0-b21.jar.txt	0
+net/sf/cglib/core/KeyFactory/Generator/generateClass(org.objectweb.asm.ClassVisitor)@g_cglib-2.2.0-b21.jar.txt	2
+net/sf/cglib/beans/BeanMap/toString()@g_cglib-2.2.0-b21.jar.txt	3

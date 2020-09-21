@@ -1,0 +1,5 @@
+0	org/apache/parquet/schema/TestTypeBuilders/testDecimalAnnotationLengthCheck()/$anonymous2/()
+1	org/apache/parquet/schema/TestTypeBuilders/testDecimalAnnotationLengthCheck()/$anonymous4/()
+2	org/apache/parquet/schema/TestTypeBuilders/testDecimalAnnotationLengthCheck()/$anonymous1/()
+3	java/util/Map/get(java.lang.Object)
+4	org/apache/parquet/schema/TestTypeBuilders/testDecimalAnnotationLengthCheck()/$anonymous3/()

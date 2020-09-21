@@ -1,0 +1,5 @@
+io/netty/util/HashedWheelTimer/Worker/run()@g_netty-all-4.0.28.Final.jar.txt	0
+io/netty/handler/codec/http/HttpContentEncoder/encode(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.HttpObject,java.util.List)@g_netty-all-4.0.28.Final.jar.txt	4
+io/netty/util/concurrent/SingleThreadEventExecutor/2/run()@g_netty-all-4.0.28.Final.jar.txt	3
+io/netty/util/concurrent/SingleThreadEventExecutor/shutdownGracefully(long,long,java.util.concurrent.TimeUnit)@g_netty-all-4.0.28.Final.jar.txt	2
+io/netty/util/HashedWheelTimer/Worker/run()@g_netty-all-4.1.15.Final.jar.txt	1

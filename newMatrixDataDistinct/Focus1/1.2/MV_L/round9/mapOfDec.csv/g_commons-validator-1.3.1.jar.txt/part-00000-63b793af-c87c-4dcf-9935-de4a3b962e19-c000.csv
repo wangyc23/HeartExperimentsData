@@ -1,0 +1,5 @@
+org/springframework/beans/factory/support/DisposableBeanAdapter/invokeCustomDestroyMethod()@g_spring-2.5.6.jar.txt	3
+org/springframework/jms/connection/JmsTransactionManager/doBegin(java.lang.Object,org.springframework.transaction.TransactionDefinition)@g_spring-2.5.6.jar.txt	4
+org/springframework/util/ReflectionUtils/doWithMethods(java.lang.Class,org.springframework.util.ReflectionUtils$MethodCallback,org.springframework.util.ReflectionUtils$MethodFilter)@g_spring-2.5.6.jar.txt	1
+org/apache/commons/validator/ValidatorResources/1/begin(java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_commons-validator-1.2.0.jar.txt	0
+org/springframework/jdbc/datasource/LazyConnectionDataSourceProxy/LazyConnectionInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	2

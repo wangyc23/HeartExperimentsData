@@ -1,0 +1,4 @@
+com/fasterxml/jackson/core/JsonGenerator/writeEndObject()
+com/netflix/hystrix/HystrixCollapserProperties/maxRequestsInBatch()
+com/fasterxml/jackson/core/JsonGenerator/writeStartObject()
+com/fasterxml/jackson/core/JsonFactory/createJsonGenerator(java.io.Writer)

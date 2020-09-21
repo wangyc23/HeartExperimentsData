@@ -1,0 +1,5 @@
+thredds/catalog2/BasicAccessUriBuilder/buildAccessUri(thredds.catalog2.Access,java.net.URI)@g_netcdf-4.2-min.jar.txt	3
+ucar/nc2/iosp/gempak/GempakSoundingFileReader/printOb(int,int)@g_netcdf-4.2-min.jar.txt	2
+thredds/catalog/ThreddsMetadata/Variables/toString()@g_netcdf-4.2.20.jar.txt	1
+thredds/catalog/ThreddsMetadata/Variables/toString()@g_netcdf-4.2-min.jar.txt	0
+thredds/catalog2/xml/writer/stax/ServiceElementWriter/writeElement(thredds.catalog2.Service,javax.xml.stream.XMLStreamWriter,int)@g_netcdf-4.2-min.jar.txt	4

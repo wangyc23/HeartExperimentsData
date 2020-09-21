@@ -1,0 +1,5 @@
+org/apache/xmlrpc/webserver/Connection/writeResponseHeader(org.apache.xmlrpc.webserver.RequestData,int)@g_xmlrpc-server-3.1.jar.txt	2
+org/apache/xmlrpc/client/XmlRpcLiteHttpTransport/sendRequest(org.apache.xmlrpc.XmlRpcRequest)@g_xmlrpc-server-3.1.jar.txt	4
+org/apache/xmlrpc/server/AbstractReflectiveHandlerMapping/getListMethods()@g_xmlrpc-server-3.1.jar.txt	3
+org/jdom/xpath/XPath/setXPathClass(java.lang.Class)@g_jdom-1.1.3.jar.txt	0
+org/apache/xmlrpc/client/XmlRpcLiteHttpTransport/getInputStream()@g_xmlrpc-server-3.1.jar.txt	1

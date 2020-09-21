@@ -1,0 +1,5 @@
+org/apache/solr/common/util/DateUtil/parseDate(java.lang.String,java.util.Collection,java.util.Date)@g_tiles-api-3.0.4.jar.txt	1
+org/apache/solr/common/SolrException/doIgnore(java.lang.Throwable,java.lang.String)@g_tiles-api-3.0.4.jar.txt	2
+org/apache/solr/client/solrj/response/AnalysisResponseBase/buildPhases(org.apache.solr.common.util.NamedList)@g_tiles-api-3.0.4.jar.txt	4
+org/apache/solr/common/cloud/HashBasedRouter/hashToSlice(int,org.apache.solr.common.cloud.DocCollection)@g_tiles-api-3.0.4.jar.txt	3
+org/apache/solr/common/params/ModifiableSolrParams/toString()@g_tiles-api-3.0.4.jar.txt	0

@@ -1,0 +1,4 @@
+com/puppycrawl/tools/checkstyle/api/DetailAST/getLastChild()
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+com/puppycrawl/tools/checkstyle/api/DetailAST/findFirstToken(int)
+com/puppycrawl/tools/checkstyle/api/DetailAST/getPreviousSibling()

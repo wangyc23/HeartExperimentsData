@@ -1,0 +1,5 @@
+org/junit/runners/model/FrameworkMethod/validatePublicVoid(boolean,java.util.List)@g_junit-4.10.jar.txt	4
+org/junit/runners/BlockJUnit4ClassRunner/validateRuleField(java.lang.reflect.Field,java.util.List)@g_junit-4.10.jar.txt	1
+junit/awtui/TestRunner/appendFailure(java.lang.String,junit.framework.Test,java.lang.Throwable)@g_junit-4.10.jar.txt	0
+org/junit/internal/runners/MethodRoadie/1/run()@g_junit-4.10.jar.txt	2
+org/junit/experimental/max/MaxCore/findLeaves(org.junit.runner.Description,org.junit.runner.Description,java.util.List)@g_junit-4.10.jar.txt	3

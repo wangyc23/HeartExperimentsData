@@ -1,0 +1,5 @@
+org/apache/maven/plugins/jar/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-jar-plugin-2.5.jar.txt	4
+org/apache/maven/plugin/jar/HelpMojo/execute()@g_maven-jar-plugin-2.5.jar.txt	2
+org/apache/maven/plugins/jar/HelpMojo/execute()@g_maven-jar-plugin-2.5.jar.txt	3
+org/apache/maven/plugins/jar/AbstractJarMojo/createArchive()@g_maven-jar-plugin-3.0.0.jar.txt	1
+org/apache/maven/plugin/jar/AbstractJarMojo/createArchive()@g_maven-jar-plugin-2.5.jar.txt	0

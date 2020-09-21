@@ -1,0 +1,4 @@
+org/neo4j/kernel/impl/transaction/log/checkpoint/CheckPointerImpl/start()
+org/mockito/Matchers/any(java.lang.Class)
+org/neo4j/kernel/impl/transaction/log/checkpoint/CheckPointerImpl/checkPointIfNeeded(org.neo4j.kernel.impl.transaction.log.checkpoint.TriggerInfo)
+org/mockito/Matchers/anyLong()

@@ -1,0 +1,4 @@
+java/util/stream/Stream/map(java.util.function.Function)
+com/abstratt/kirra/mdd/rest/impl/v1/resources/TestResource/collectTestCases()
+java/util/stream/Stream/collect(java.util.stream.Collector)
+com/abstratt/kirra/mdd/rest/impl/v1/resources/AbstractKirraRepositoryResource/jsonToStringRepresentation(java.lang.Object)

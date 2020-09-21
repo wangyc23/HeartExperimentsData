@@ -1,0 +1,5 @@
+org/elasticsearch/http/netty3/Netty3HttpChannel/addCookies(org.jboss.netty.handler.codec.http.HttpResponse)@g_transport-netty3-client-5.2.2.jar.txt	1
+org/elasticsearch/transport/netty3/Netty3Transport/lambda$stopInternal$5()@g_transport-netty3-client-5.2.2.jar.txt	2
+org/elasticsearch/transport/netty3/Netty3Transport/doStart()@g_transport-netty3-client-5.2.2.jar.txt	0
+org/elasticsearch/transport/netty3/Netty3Transport/closeChannels(java.util.List)@g_transport-netty3-client-5.2.2.jar.txt	4
+org/elasticsearch/http/netty3/cors/Netty3CorsConfig/preflightResponseHeaders()@g_transport-netty3-client-5.2.2.jar.txt	3

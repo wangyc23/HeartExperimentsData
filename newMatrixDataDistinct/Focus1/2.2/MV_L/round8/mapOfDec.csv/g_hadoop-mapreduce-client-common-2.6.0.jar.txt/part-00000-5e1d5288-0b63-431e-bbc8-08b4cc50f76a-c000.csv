@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/proto/MRProtos/CounterGroupProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	0
+org/apache/hadoop/mapreduce/v2/util/MRApps/parseDistributedCacheArtifacts(org.apache.hadoop.conf.Configuration,java.util.Map,org.apache.hadoop.yarn.api.records.LocalResourceType,java.net.URI[],long[],long[],boolean[])@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	4
+org/apache/hadoop/mapreduce/v2/proto/MRProtos/CounterGroupProto/hashCode()@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	1
+org/apache/hadoop/mapreduce/v2/proto/MRProtos/TaskReportProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	2
+org/apache/hadoop/mapreduce/v2/proto/MRServiceProtos/GetTaskAttemptCompletionEventsRequestProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	3

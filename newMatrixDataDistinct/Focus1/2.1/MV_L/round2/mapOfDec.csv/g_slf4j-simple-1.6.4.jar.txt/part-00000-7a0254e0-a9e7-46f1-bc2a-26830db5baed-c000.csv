@@ -1,0 +1,5 @@
+org/apache/log4j/or/sax/AttributesRenderer/doRender(java.lang.Object)@g_slf4j-simple-1.6.1.jar.txt	4
+org/apache/log4j/helpers/PatternParser/MDCPatternConverter/convert(org.apache.log4j.spi.LoggingEvent)@g_slf4j-simple-1.6.1.jar.txt	1
+org/apache/log4j/xml/DOMConfigurator/parseAppender(org.w3c.dom.Element)@g_slf4j-simple-1.6.1.jar.txt	3
+org/apache/log4j/lf5/viewer/LogTable/LogTableListSelectionListener/valueChanged(javax.swing.event.ListSelectionEvent)@g_slf4j-simple-1.6.1.jar.txt	2
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_slf4j-simple-1.6.1.jar.txt	0

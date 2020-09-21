@@ -1,0 +1,5 @@
+org/languagetool/rules/de/AgreementRule/checkDetNounAgreement(org.languagetool.AnalyzedTokenReadings,org.languagetool.AnalyzedTokenReadings)@g_language-de-3.0.jar.txt	4
+org/languagetool/synthesis/ca/CatalanSynthesizer/synthesize(org.languagetool.AnalyzedToken,java.lang.String,boolean)@g_language-de-3.0.jar.txt	0
+org/languagetool/synthesis/en/EnglishSynthesizer/synthesize(org.languagetool.AnalyzedToken,java.lang.String,boolean)@g_language-de-3.0.jar.txt	1
+org/languagetool/chunking/GermanChunker/build(java.lang.String,org.languagetool.chunking.GermanChunker$PhraseType,boolean)@g_language-de-3.0.jar.txt	2
+org/languagetool/tagging/ca/CatalanTagger/tag(java.util.List)@g_language-de-3.0.jar.txt	3

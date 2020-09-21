@@ -1,0 +1,4 @@
+org/neo4j/kernel/api/index/IndexPopulator/create()
+org/neo4j/unsafe/batchinsert/BatchInserter/createDeferredConstraint(org.neo4j.graphdb.Label)
+org/neo4j/kernel/api/index/SchemaIndexProvider/stop()
+org/neo4j/kernel/api/index/IndexPopulator/verifyDeferredConstraints(org.neo4j.kernel.api.index.PropertyAccessor)

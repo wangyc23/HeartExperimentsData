@@ -1,0 +1,5 @@
+com/ic813/Publicacao/getProjeto()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	1
+DAO/AutoriaDAO/getBy(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	2
+DAO/ProjetosDAO/getAll()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	3
+DAO/ProjetosDAO/Update(DAO.Projetos)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	0
+DAO/OrientacaoDAO/delete(int,int,int)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	4

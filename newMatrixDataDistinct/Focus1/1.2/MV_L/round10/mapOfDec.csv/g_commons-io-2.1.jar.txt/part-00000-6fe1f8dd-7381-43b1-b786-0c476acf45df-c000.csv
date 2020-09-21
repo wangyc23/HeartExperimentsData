@@ -1,0 +1,5 @@
+org/apache/commons/io/FileUtils/copyDirectory(java.io.File,java.io.File,java.io.FileFilter,boolean)@g_commons-io-2.4.jar.txt	1
+org/apache/commons/io/FileUtils/copyFileToDirectory(java.io.File,java.io.File,boolean)@g_commons-io-2.4.jar.txt	2
+org/apache/commons/io/FileUtils/moveDirectoryToDirectory(java.io.File,java.io.File,boolean)@g_commons-io-2.4.jar.txt	4
+org/apache/commons/io/FileUtils/copyDirectoryToDirectory(java.io.File,java.io.File)@g_commons-io-2.4.jar.txt	0
+org/apache/commons/io/FileUtils/moveFileToDirectory(java.io.File,java.io.File,boolean)@g_commons-io-2.4.jar.txt	3

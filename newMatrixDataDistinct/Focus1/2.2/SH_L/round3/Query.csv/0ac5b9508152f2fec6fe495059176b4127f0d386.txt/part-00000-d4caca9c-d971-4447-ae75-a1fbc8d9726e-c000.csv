@@ -1,0 +1,4 @@
+org/slf4j/Logger/warn(java.lang.String)
+java/util/Map/get(java.lang.Object)
+java/util/Map/keySet()
+com/telefonica/euro_iaas/paasmanager/claudia/impl/OpenstackFirewallingClientImpl/fromStringToSecGroups(com.telefonica.euro_iaas.paasmanager.model.JSONObject)

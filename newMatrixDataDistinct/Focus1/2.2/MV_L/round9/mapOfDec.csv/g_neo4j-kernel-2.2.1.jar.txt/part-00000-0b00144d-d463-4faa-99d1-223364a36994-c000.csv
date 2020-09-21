@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/transaction/state/PropertyCreator/createPropertyChain(org.neo4j.kernel.impl.store.record.PrimitiveRecord,java.util.Iterator,org.neo4j.kernel.impl.transaction.state.RecordAccess)@g_neo4j-kernel-3.1.0.jar.txt	1
+org/neo4j/kernel/impl/transaction/state/LazyIndexUpdates/propertiesFromCommandsForNode(long)@g_neo4j-kernel-2.2.5.jar.txt	4
+org/neo4j/kernel/impl/transaction/state/PropertyCreator/createPropertyChain(org.neo4j.kernel.impl.store.record.PrimitiveRecord,java.util.Iterator,org.neo4j.kernel.impl.transaction.state.RecordAccess)@g_neo4j-kernel-2.2.5.jar.txt	0
+org/neo4j/kernel/impl/store/PropertyStore/updateRecord(org.neo4j.kernel.impl.store.record.PropertyRecord,org.neo4j.io.pagecache.PageCursor)@g_neo4j-kernel-2.2.5.jar.txt	3
+org/neo4j/kernel/impl/store/record/PropertyRecord/toString()@g_neo4j-kernel-2.2.5.jar.txt	2

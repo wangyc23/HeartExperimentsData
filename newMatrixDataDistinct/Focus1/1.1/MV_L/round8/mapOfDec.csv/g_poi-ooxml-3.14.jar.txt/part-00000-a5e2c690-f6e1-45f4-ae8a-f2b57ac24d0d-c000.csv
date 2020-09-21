@@ -1,0 +1,5 @@
+org/apache/poi/xssf/usermodel/BaseXSSFEvaluationWorkbook/getExternalName(java.lang.String,java.lang.String,int)@g_poi-ooxml-3.17.jar.txt	1
+org/apache/poi/util/OOXMLLite/getLoadedClasses(java.lang.String)@g_poi-ooxml-3.17.jar.txt	3
+org/apache/poi/xslf/usermodel/XSLFSimpleShape/setLineTailDecoration(org.apache.poi.sl.usermodel.LineDecoration$DecorationShape)@g_poi-ooxml-3.17.jar.txt	4
+org/apache/poi/xwpf/usermodel/XWPFRun/getCTPictures(org.apache.xmlbeans.XmlObject)@g_poi-ooxml-3.17.jar.txt	2
+org/apache/poi/xssf/usermodel/helpers/XSSFRowShifter/updateNamedRanges(org.apache.poi.ss.formula.FormulaShifter)@g_poi-ooxml-3.17.jar.txt	0

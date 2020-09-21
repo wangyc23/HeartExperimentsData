@@ -1,0 +1,5 @@
+org/xml/sax/helpers/ParserAdapter/startElement(java.lang.String,org.xml.sax.AttributeList)@g_xml-apis-1.0.b2.jar.txt	1
+javax/xml/transform/stream/FilePathToURI/filepath2URI(java.lang.String)@g_xml-apis-1.4.01.jar.txt	2
+org/w3c/dom/bootstrap/DOMImplementationRegistry/newInstance()@g_xml-apis-1.4.01.jar.txt	3
+org/xml/sax/helpers/ParserAdapter/startElement(java.lang.String,org.xml.sax.AttributeList)@g_xml-apis-1.4.01.jar.txt	0
+javax/xml/xpath/XPathFactoryFinder/loadFromServicesFile(java.lang.String,java.lang.String,java.io.InputStream)@g_xml-apis-1.4.01.jar.txt	4

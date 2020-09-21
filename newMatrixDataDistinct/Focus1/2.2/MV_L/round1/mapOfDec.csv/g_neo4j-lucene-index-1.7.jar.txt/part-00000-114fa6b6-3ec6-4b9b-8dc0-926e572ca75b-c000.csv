@@ -1,0 +1,5 @@
+org/neo4j/index/impl/lucene/LuceneDataSource/close()@g_neo4j-lucene-index-1.8.jar.txt	1
+org/neo4j/index/impl/lucene/LuceneUtil/rangeQuery(java.lang.String,java.lang.Number,java.lang.Number,boolean,boolean)@g_neo4j-lucene-index-1.8.jar.txt	3
+org/neo4j/kernel/api/impl/index/NodeRangeDocumentLabelScanStorageStrategy/labelsForNode(org.apache.lucene.search.IndexSearcher,long)@g_neo4j-lucene-index-1.8.jar.txt	4
+org/neo4j/index/impl/lucene/LuceneBatchInserterIndex/add(long,java.util.Map)@g_neo4j-lucene-index-1.8.jar.txt	2
+org/neo4j/index/lucene/LuceneIndexProvider/load(org.neo4j.graphdb.DependencyResolver)@g_neo4j-lucene-index-1.8.jar.txt	0

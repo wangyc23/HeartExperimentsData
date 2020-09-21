@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/traversal/TraversalTestBase/assertLevels(org.neo4j.graphdb.traversal.Traverser,java.util.Stack)@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	0
+org/neo4j/kernel/impl/store/TestDynamicStore/testStoreGetCharsFromString()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	3
+org/neo4j/kernel/impl/core/TestLoopRelationships/canDeleteNodeAfterDeletingItsRelationshipsIfThoseRelationshipsIncludeLoops()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	4
+org/neo4j/kernel/impl/transaction/state/NeoStoreTransactionTest/3/visit(org.neo4j.kernel.impl.transaction.command.Command)@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	2
+org/neo4j/kernel/impl/api/state/PropertyContainerStateTest/shouldConvertAddRemoveToChange()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	1

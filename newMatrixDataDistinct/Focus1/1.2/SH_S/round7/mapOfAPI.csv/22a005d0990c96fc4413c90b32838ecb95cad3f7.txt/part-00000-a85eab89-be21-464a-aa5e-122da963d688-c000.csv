@@ -1,0 +1,4 @@
+0	com/enlight/task/entity/Task/setTitle(java.lang.String)
+1	com/enlight/task/entity/Task/setUser(com.enlight.task.entity.User)
+2	com/enlight/task/entity/Task/Task()
+3	com/enlight/task/entity/User/User(java.lang.Long)

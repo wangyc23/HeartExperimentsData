@@ -1,0 +1,4 @@
+java/io/PrintStream/flush()
+java/lang/StringBuffer/append(long)
+java/io/PrintStream/print(java.lang.String)
+java/lang/Thread/getName()

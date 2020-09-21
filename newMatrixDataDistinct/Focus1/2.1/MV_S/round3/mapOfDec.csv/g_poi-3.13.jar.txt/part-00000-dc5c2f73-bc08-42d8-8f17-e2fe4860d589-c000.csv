@@ -1,0 +1,5 @@
+org/apache/poi/ss/util/AreaReference/separateAreaRefs(java.lang.String)@g_poi-3.8-beta4.jar.txt	3
+org/apache/poi/ddf/EscherBSERecord/toString()@g_poi-3.8-beta4.jar.txt	2
+org/apache/poi/hssf/record/EscherAggregate/toString()@g_poi-3.8-beta4.jar.txt	1
+org/apache/poi/ddf/EscherComplexProperty/toString()@g_poi-3.8-beta4.jar.txt	0
+org/apache/poi/ddf/EscherClientDataRecord/toString()@g_poi-3.8-beta4.jar.txt	4

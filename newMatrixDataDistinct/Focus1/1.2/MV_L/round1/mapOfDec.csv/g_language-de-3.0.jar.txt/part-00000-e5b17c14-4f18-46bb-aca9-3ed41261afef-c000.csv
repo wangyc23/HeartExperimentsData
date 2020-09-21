@@ -1,0 +1,5 @@
+org/languagetool/rules/ca/SimpleReplaceVerbsRule/loadWords(java.io.InputStream)@g_language-ca-3.0.jar.txt	3
+org/languagetool/tagging/uk/CompoundTagger/oAdjMatch(java.lang.String,java.util.List,java.lang.String)@g_language-uk-3.0.jar.txt	4
+org/languagetool/rules/ca/ReplaceOperationNamesRule/loadWords(java.io.InputStream)@g_language-ca-3.0.jar.txt	1
+org/languagetool/rules/ca/AccentuationCheckRule/loadWords(java.lang.String)@g_language-ca-3.0.jar.txt	2
+org/languagetool/language/Ukrainian/getRuleFileNames()@g_language-uk-3.0.jar.txt	0

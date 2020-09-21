@@ -1,0 +1,4 @@
+org/antlr/runtime/tree/TreeAdaptor/becomeRoot(java.lang.Object,java.lang.Object)
+org/antlr/runtime/tree/TreeAdaptor/setTokenBoundaries(java.lang.Object,org.antlr.runtime.Token,org.antlr.runtime.Token)
+org/antlr/runtime/tree/TreeAdaptor/rulePostProcessing(java.lang.Object)
+org/antlr/runtime/tree/TreeAdaptor/addChild(java.lang.Object,java.lang.Object)

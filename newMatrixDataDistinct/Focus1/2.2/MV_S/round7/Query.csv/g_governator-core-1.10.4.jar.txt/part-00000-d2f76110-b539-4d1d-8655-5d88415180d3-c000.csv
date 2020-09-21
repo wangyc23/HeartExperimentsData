@@ -1,0 +1,4 @@
+com/netflix/governator/LifecycleManager$State/ordinal()
+org/slf4j/Logger/info(java.lang.String,java.lang.Object,java.lang.Object)
+java/lang/System/identityHashCode(java.lang.Object)
+java/lang/Class/getName()

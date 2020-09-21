@@ -1,0 +1,4 @@
+java/lang/String/split(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/bpmn2/util/Bpmn2ResourceImpl$BpmnXmlHelper/getPathForPrefix(java.lang.String)
+org/eclipse/emf/common/util/URI/toString()

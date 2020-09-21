@@ -1,0 +1,4 @@
+org/apache/lucene/index/FieldInfo/omitsNorms()
+org/apache/lucene/index/memory/MemoryIndex$MemoryIndexReader/getInfo(java.lang.String)
+java/lang/String/equals(java.lang.Object)
+org/apache/lucene/index/memory/MemoryIndex$Info/getBoost()

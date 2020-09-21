@@ -1,0 +1,4 @@
+org/xwiki/environment/internal/ServletEnvironment/setServletContext(javax.servlet.ServletContext)
+org/xwiki/component/embed/EmbeddableComponentManager/getInstance(java.lang.reflect.Type)
+org/xwiki/component/embed/EmbeddableComponentManager/setComponentEventManager(org.xwiki.component.manager.ComponentEventManager)
+java/lang/Class/getName()

@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+scala/collection/immutable/List/corresponds(scala.collection.GenSeq,scala.Function2)
+scala/reflect/internal/Symbols$Symbol/isModuleClass()
+scala/reflect/internal/Types$NullaryMethodType/resultType()

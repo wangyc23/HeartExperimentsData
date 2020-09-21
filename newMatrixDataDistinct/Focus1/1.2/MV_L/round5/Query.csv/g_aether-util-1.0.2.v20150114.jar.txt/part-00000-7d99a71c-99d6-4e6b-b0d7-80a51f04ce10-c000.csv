@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/eclipse/aether/util/graph/transformer/ConflictResolver$NodeInfo/update(int,java.lang.String,boolean)
+org/eclipse/aether/util/graph/transformer/ConflictResolver$State/deriveOptional(org.eclipse.aether.graph.DependencyNode,java.lang.Object)
+org/eclipse/aether/graph/DependencyNode/getChildren()

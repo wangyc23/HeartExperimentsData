@@ -1,0 +1,5 @@
+omw/dao/impl/AjaxNewsletterDaoImpl/addMailInNewsletter(java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	3
+omw/dao/impl/UtilisateurDaoImpl/ajouterUser(omw.model.Utilisateur)@05f4c8fece83cfeb4469846407c47ce650324139.txt	1
+omw/dao/impl/AnnonceDaoImpl/insertPropositionReponse(java.lang.String,java.lang.Integer,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@05f4c8fece83cfeb4469846407c47ce650324139.txt	2
+omw/dao/impl/AnnonceDaoImpl/insertProposition(java.lang.Integer,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@05f4c8fece83cfeb4469846407c47ce650324139.txt	0
+omw/dao/impl/AnnonceDaoImpl/updateRecherche(java.lang.Integer,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	4

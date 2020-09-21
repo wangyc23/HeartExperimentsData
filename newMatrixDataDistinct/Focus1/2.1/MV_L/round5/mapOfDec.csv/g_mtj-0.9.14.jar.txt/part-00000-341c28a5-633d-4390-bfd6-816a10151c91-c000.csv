@@ -1,0 +1,5 @@
+no/uib/cipr/matrix/AbstractSymmDenseMatrix/solve(no.uib.cipr.matrix.Matrix,no.uib.cipr.matrix.Matrix)@g_mtj-1.0.4.jar.txt	4
+no/uib/cipr/matrix/LQ/factor(no.uib.cipr.matrix.DenseMatrix)@g_mtj-1.0.4.jar.txt	2
+no/uib/cipr/matrix/QL/factor(no.uib.cipr.matrix.DenseMatrix)@g_mtj-1.0.4.jar.txt	1
+no/uib/cipr/matrix/QR/factor(no.uib.cipr.matrix.DenseMatrix)@g_mtj-1.0.4.jar.txt	0
+no/uib/cipr/matrix/RQ/factor(no.uib.cipr.matrix.DenseMatrix)@g_mtj-1.0.4.jar.txt	3

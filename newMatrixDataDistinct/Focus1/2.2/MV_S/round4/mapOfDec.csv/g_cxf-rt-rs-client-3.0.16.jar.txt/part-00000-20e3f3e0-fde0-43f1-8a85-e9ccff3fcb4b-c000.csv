@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/client/ClientProxyImpl/BodyWriter/doWriteBody(org.apache.cxf.message.Message,java.lang.Object,java.lang.reflect.Type,java.lang.annotation.Annotation[],java.io.OutputStream)@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	0
+org/apache/cxf/jaxrs/client/ClientProxyImpl/doChainedInvocation(java.net.URI,javax.ws.rs.core.MultivaluedMap,org.apache.cxf.jaxrs.model.OperationResourceInfo,java.lang.Object,int,org.apache.cxf.message.Exchange,java.util.Map)@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/jaxrs/client/JAXRSClientFactoryBean/createWithValues(java.lang.Object[])@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/jaxrs/client/ClientProxyImpl/setRequestHeaders(javax.ws.rs.core.MultivaluedMap,org.apache.cxf.jaxrs.model.OperationResourceInfo,boolean,java.lang.Class,java.lang.Class)@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	1
+org/apache/cxf/jaxrs/client/ClientProxyImpl/handleResponse(org.apache.cxf.message.Message,java.lang.Class)@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	4

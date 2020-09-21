@@ -1,0 +1,4 @@
+org/jboss/resteasy/client/jaxrs/ResteasyClientBuilder$HostnameVerificationPolicy/ordinal()
+javax/net/ssl/SSLContext/getInstance(java.lang.String)
+java/util/concurrent/TimeUnit/toMillis(long)
+org/apache/http/conn/ssl/SSLSocketFactory/SSLSocketFactory(java.lang.String,java.security.KeyStore,java.lang.String,java.security.KeyStore,java.security.SecureRandom,org.apache.http.conn.ssl.X509HostnameVerifier)

@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+java/nio/ByteBuffer/arrayOffset()
+java/nio/ByteBuffer/put(java.nio.ByteBuffer)
+java/nio/ByteBuffer/slice()

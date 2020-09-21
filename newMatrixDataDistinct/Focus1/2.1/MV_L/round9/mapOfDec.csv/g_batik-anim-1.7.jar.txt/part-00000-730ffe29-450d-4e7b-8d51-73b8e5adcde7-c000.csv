@@ -1,0 +1,5 @@
+org/apache/batik/dom/svg/AbstractSVGTransformList/SVGTransformItem/getStringValue()@g_batik-anim-1.8.jar.txt	4
+org/apache/batik/anim/dom/SVGDOMImplementation/<clinit>()@g_batik-anim-1.8.jar.txt	3
+org/apache/batik/anim/dom/SAXSVGDocumentFactory/createDocument(java.lang.String,java.io.InputStream)@g_batik-anim-1.8.jar.txt	1
+org/apache/batik/anim/MotionAnimation/sampledAtUnitTime(float,int)@g_batik-anim-1.8.jar.txt	0
+org/apache/batik/anim/dom/SVGOMAnimatedNumberList/AnimSVGNumberList/getValueAsString()@g_batik-anim-1.8.jar.txt	2

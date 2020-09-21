@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/time/FastDateFormat/getTimeInstance(int,java.util.TimeZone,java.util.Locale)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationExclusiveOr(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationExclusiveOr)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/time/FastDateFormat/getDateInstance(int,java.util.TimeZone,java.util.Locale)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationMultiply(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationMultiply)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/time/FastDateFormat/getDateTimeInstance(int,int,java.util.TimeZone,java.util.Locale)@g_attributes-processor-1.0.1.jar.txt	1

@@ -1,0 +1,5 @@
+com/softwaremill/common/test/web/jboss/server/AbstractJBossAS/shutdownServer()@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	3
+retrofit/RestMethodInfo/parseResponseType()@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	2
+com/softwaremill/common/conf/ConfigurationTest/shouldReturnSystemPopertyOnNonExistingKey()@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	1
+retrofit/client/UrlConnectionClientTest/response()@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	4
+com/softwaremill/common/cdi/validation/PasswordValidator/isValid(java.lang.String,javax.validation.ConstraintValidatorContext)@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	0

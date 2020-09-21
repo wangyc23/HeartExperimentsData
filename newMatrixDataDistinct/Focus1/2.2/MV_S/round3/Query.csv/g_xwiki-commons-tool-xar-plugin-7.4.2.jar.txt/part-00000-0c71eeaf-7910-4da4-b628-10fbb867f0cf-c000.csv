@@ -1,0 +1,4 @@
+org/dom4j/Element/content()
+org/dom4j/Node/getNodeType()
+java/util/Iterator/hasNext()
+java/lang/String/trim()

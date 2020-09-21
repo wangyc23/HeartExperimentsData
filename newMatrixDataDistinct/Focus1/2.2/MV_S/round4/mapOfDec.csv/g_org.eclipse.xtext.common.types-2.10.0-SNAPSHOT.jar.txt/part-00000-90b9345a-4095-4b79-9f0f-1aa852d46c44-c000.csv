@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/emftvm/impl/CodeBlockImpl/setPostApplyFor(org.eclipse.m2m.atl.emftvm.Rule)@g_emftvm-3.6.0.jar.txt	4
+org/eclipse/xtext/common/types/impl/JvmMemberImpl/setDeclaringType(org.eclipse.xtext.common.types.JvmDeclaredType)@g_org.eclipse.xtext.common.types-2.10.0-20160515.041857-73.jar.txt	1
+org/eclipse/xtext/common/types/impl/JvmTypeParameterImpl/setDeclarator(org.eclipse.xtext.common.types.JvmTypeParameterDeclarator)@g_org.eclipse.xtext.common.types-2.10.0-20160515.041857-73.jar.txt	0
+org/eclipse/xtext/common/types/impl/JvmArrayTypeImpl/setComponentType(org.eclipse.xtext.common.types.JvmComponentType)@g_org.eclipse.xtext.common.types-2.10.0-20160515.041857-73.jar.txt	2
+org/eclipse/xtext/common/types/impl/JvmTypeConstraintImpl/setOwner(org.eclipse.xtext.common.types.JvmConstraintOwner)@g_org.eclipse.xtext.common.types-2.10.0-20160515.041857-73.jar.txt	3

@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlets/CGI/exec(java.io.File,java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jetty-servlets-8.1.22.v20160922.jar.txt	3
+org/eclipse/jetty/servlets/BalancerServlet/getBalancerNames(javax.servlet.ServletConfig)@g_jetty-servlets-8.1.22.v20160922.jar.txt	2
+org/eclipse/jetty/servlets/CGI/service(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jetty-servlets-8.1.22.v20160922.jar.txt	0
+org/eclipse/jetty/servlets/CrossOriginFilter/originMatches(java.lang.String)@g_jetty-servlets-8.1.22.v20160922.jar.txt	1
+org/eclipse/jetty/servlets/ProxyServlet/parseList(java.lang.String,org.eclipse.jetty.util.HostMap)@g_jetty-servlets-8.1.22.v20160922.jar.txt	4

@@ -1,0 +1,4 @@
+0	pl/pwr/news/webapp/controller/article/dto/ArticleDTO/getList(java.util.List)
+1	fr/esiea/tetris/model/Model/getTetrimino()
+2	pl/pwr/news/webapp/controller/Response/Response(T)
+3	pl/pwr/news/service/article/ArticleService/findAll(java.lang.String,java.lang.String)

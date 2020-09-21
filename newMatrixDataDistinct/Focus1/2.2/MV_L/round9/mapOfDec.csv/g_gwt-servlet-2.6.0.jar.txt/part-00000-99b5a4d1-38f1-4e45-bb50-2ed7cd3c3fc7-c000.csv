@@ -1,0 +1,5 @@
+com/google/common/collect/ImmutableSortedMap/validateEntries(java.util.List,java.util.Comparator)@g_guava-14.0.1.jar.txt	3
+com/google/common/cache/LocalCache/getAll(java.lang.Iterable)@g_guava-14.0.1.jar.txt	1
+com/google/common/cache/LocalCache/getAll(java.lang.Iterable)@g_guava-11.0.2.jar.txt	2
+com/google/common/util/concurrent/CycleDetectingLockFactory/LockGraphNode/checkAcquiredLock(com.google.common.util.concurrent.CycleDetectingLockFactory$Policy,com.google.common.util.concurrent.CycleDetectingLockFactory$LockGraphNode)@g_guava-14.0.1.jar.txt	0
+com/google/common/collect/MapMaker/toString()@g_guava-14.0.1.jar.txt	4

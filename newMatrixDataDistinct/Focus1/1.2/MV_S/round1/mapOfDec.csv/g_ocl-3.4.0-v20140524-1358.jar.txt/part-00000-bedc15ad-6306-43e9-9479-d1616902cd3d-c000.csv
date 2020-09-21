@@ -1,0 +1,5 @@
+org/eclipse/ocl/AbstractEnvironment/getAdditionalOperations(java.lang.Object)@g_ocl-3.4.2.jar.txt	2
+org/eclipse/ocl/AbstractEnvironment/getAdditionalAttributes(java.lang.Object)@g_ocl-3.4.2.jar.txt	3
+org/eclipse/ocl/parser/ValidationVisitor/visitPropertyCallExp(org.eclipse.ocl.expressions.PropertyCallExp)@g_org.eclipse.ocl-3.3.0.v20130909-1552.jar.txt	4
+org/eclipse/ocl/AbstractEnvironment/getAdditionalAttributes(java.lang.Object)@g_org.eclipse.ocl-3.3.0.v20130909-1552.jar.txt	1
+org/eclipse/ocl/AbstractEnvironment/getAdditionalOperations(java.lang.Object)@g_org.eclipse.ocl-3.3.0.v20130909-1552.jar.txt	0

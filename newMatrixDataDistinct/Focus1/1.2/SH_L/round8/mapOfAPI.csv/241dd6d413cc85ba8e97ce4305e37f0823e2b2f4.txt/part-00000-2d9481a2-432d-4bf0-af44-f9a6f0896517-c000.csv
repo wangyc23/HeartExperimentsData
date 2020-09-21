@@ -1,0 +1,4 @@
+0	java/util/ArrayList/isEmpty()
+1	edu/cmu/cs/lti/ark/util/nlp/parse/DependencyParse/DependencyParse()
+2	edu/cmu/cs/lti/ark/util/ds/graph/TreeNode/setParentIndex(int)
+3	edu/cmu/cs/lti/ark/util/ds/graph/TreeNode/setParent(T)

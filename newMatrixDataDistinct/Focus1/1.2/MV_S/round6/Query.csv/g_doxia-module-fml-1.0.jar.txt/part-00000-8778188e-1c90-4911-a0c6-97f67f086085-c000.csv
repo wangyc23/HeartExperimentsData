@@ -1,0 +1,4 @@
+org/apache/maven/doxia/sink/Sink/title_()
+org/apache/maven/doxia/sink/Sink/definedTerm_()
+org/apache/maven/doxia/sink/Sink/section1()
+org/apache/maven/doxia/sink/Sink/numberedList_()

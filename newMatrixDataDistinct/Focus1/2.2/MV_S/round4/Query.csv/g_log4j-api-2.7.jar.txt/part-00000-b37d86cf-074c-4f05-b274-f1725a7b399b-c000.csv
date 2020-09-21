@@ -1,0 +1,4 @@
+java/lang/Throwable/printStackTrace(java.io.PrintStream)
+java/io/PrintStream/PrintStream(java.io.OutputStream)
+java/util/Date/Date(long)
+java/lang/StringBuilder/append(char)

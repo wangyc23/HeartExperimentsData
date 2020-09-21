@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/languagetool/rules/pl/MorfologikPolishSpellerRule/getAdditionalTopSuggestions(java.util.List,java.lang.String)
+org/languagetool/rules/pl/MorfologikPolishSpellerRule/isMisspelled(org.languagetool.rules.spelling.morfologik.MorfologikMultiSpeller,java.lang.String)
+org/languagetool/rules/pl/MorfologikPolishSpellerRule/orderSuggestions(java.util.List,java.lang.String)

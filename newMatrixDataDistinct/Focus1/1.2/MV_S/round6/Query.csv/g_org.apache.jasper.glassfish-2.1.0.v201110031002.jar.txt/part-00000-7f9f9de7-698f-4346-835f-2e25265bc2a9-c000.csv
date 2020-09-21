@@ -1,0 +1,4 @@
+java/net/URLClassLoader/getURLs()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/RuntimePermission/RuntimePermission(java.lang.String)
+java/security/PermissionCollection/add(java.security.Permission)

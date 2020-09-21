@@ -1,0 +1,5 @@
+org/springframework/asm/ClassWriter/a(java.lang.Object)@g_spring-core-2.5.6.SEC01.jar.txt	3
+org/springframework/core/GenericCollectionTypeResolver/extractTypeFromParameterizedType(org.springframework.core.MethodParameter,java.lang.reflect.ParameterizedType,java.lang.Class,int,int,int)@g_spring-core-2.5.6.SEC01.jar.txt	2
+org/springframework/asm/ClassWriter/a(java.lang.Object)@g_spring-core-2.5.6.jar.txt	1
+org/springframework/core/Constants/getValues(java.lang.String)@g_spring-core-2.5.6.jar.txt	4
+org/springframework/core/GenericCollectionTypeResolver/extractTypeFromParameterizedType(org.springframework.core.MethodParameter,java.lang.reflect.ParameterizedType,java.lang.Class,int,int,int)@g_spring-core-2.5.6.jar.txt	0

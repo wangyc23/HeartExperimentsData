@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/rio/rdfxml/RDFXMLParser/parse(org.xml.sax.InputSource)@g_rdf4j-rio-rdfxml-2.1.4.jar.txt	0
+org/eclipse/rdf4j/rio/rdfxml/SAXFilter/endElement(java.lang.String,java.lang.String,java.lang.String)@g_rdf4j-rio-rdfxml-2.1.4.jar.txt	4
+org/eclipse/rdf4j/rio/rdfxml/RDFXMLWriter/getValidNodeId(org.eclipse.rdf4j.model.BNode)@g_rdf4j-rio-rdfxml-2.1.4.jar.txt	2
+org/eclipse/rdf4j/rio/trix/TriXWriter/writeValue(org.eclipse.rdf4j.model.Value)@g_rdf4j-rio-rdfxml-2.1.4.jar.txt	1
+org/eclipse/rdf4j/rio/rdfxml/RDFXMLWriter/writeHeader()@g_rdf4j-rio-rdfxml-2.1.4.jar.txt	3

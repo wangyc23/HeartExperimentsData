@@ -1,0 +1,4 @@
+com/snowtide/pdf/Document/close()
+java/io/File/canRead()
+java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream,java.lang.String)
+java/io/File/exists()

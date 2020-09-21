@@ -1,0 +1,4 @@
+java/lang/System/nanoTime()
+sun/misc/Unsafe/compareAndSwapObject(java.lang.Object,long,java.lang.Object,java.lang.Object)
+java/lang/Thread/interrupted()
+java/lang/Thread/currentThread()

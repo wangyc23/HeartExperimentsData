@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/String/trim()
+java/util/Map/get(java.lang.Object)
+java/lang/String/toUpperCase(java.util.Locale)

@@ -1,0 +1,4 @@
+0	org/kiji/schema/KijiURI/newBuilder(org.kiji.schema.KijiURI)
+1	org/apache/avro/io/JsonDecoder/error(java.lang.String)
+2	org/apache/avro/io/JsonDecoder/advance(org.apache.avro.io.parsing.Symbol)
+3	org/apache/avro/io/Decoder/readInt()

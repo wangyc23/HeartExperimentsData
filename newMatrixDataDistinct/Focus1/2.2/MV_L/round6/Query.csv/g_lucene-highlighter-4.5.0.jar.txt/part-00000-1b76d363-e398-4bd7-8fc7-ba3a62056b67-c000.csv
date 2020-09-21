@@ -1,0 +1,4 @@
+org/apache/lucene/index/Term/field()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+org/apache/lucene/search/MultiTermQuery/getField()

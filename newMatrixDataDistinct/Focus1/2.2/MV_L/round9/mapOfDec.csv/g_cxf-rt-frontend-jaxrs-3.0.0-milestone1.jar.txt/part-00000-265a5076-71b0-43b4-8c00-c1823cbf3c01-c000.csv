@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/impl/UriBuilderImpl/substituteVarargs(org.apache.cxf.jaxrs.model.URITemplate,java.util.Map,java.util.Map,java.util.Map,java.lang.Object[],int,boolean,boolean,boolean,boolean)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	3
+org/apache/cxf/jaxrs/impl/UriBuilderImpl/substituteMapped(java.lang.String,java.util.Map,java.util.Map,java.util.Map,java.util.Map,boolean,boolean,boolean)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/impl/MetadataMap/equalsIgnoreValueOrder(javax.ws.rs.core.MultivaluedMap)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	0
+org/apache/cxf/jaxrs/impl/HttpHeadersImpl/getCookies()@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	4
+org/apache/cxf/jaxrs/ext/MessageContextImpl/convertToAttachments(java.lang.Object)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	2

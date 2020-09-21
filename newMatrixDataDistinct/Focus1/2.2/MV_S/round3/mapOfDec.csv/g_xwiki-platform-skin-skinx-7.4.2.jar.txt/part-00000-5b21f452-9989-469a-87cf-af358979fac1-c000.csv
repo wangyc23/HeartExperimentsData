@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/scheduler/SchedulerPlugin/restoreExistingJobs(com.xpn.xwiki.XWikiContext)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/scheduler/SchedulerPlugin/initAsync()@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	3
+com/xpn/xwiki/plugin/feed/FeedPlugin/updateFeeds(java.lang.String,boolean,boolean,boolean,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/feed/FeedPlugin/getFeedInfosbyGuid(java.lang.String,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	0
+com/xpn/xwiki/plugin/scheduler/SchedulerPluginApi/scheduleJobs(com.xpn.xwiki.api.Document)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	2

@@ -1,0 +1,5 @@
+org/bouncycastle/math/Primes/enhancedMRProbablePrimeTest(java.math.BigInteger,java.security.SecureRandom,int)@g_bcprov-jdk15on-1.54.jar.txt	0
+org/bouncycastle/math/ec/Tnaf/tauAdicWNaf(byte,org.bouncycastle.math.ec.ZTauElement,byte,java.math.BigInteger,java.math.BigInteger,org.bouncycastle.math.ec.ZTauElement[])@g_bcprov-jdk15on-1.54.jar.txt	4
+org/bouncycastle/pqc/math/linearalgebra/IntegerFunctions/ressol(java.math.BigInteger,java.math.BigInteger)@g_bcprov-jdk15on-1.54.jar.txt	1
+org/bouncycastle/math/ec/ECFieldElement/Fp/sqrt()@g_bcprov-jdk15on-1.54.jar.txt	3
+org/bouncycastle/math/ec/ECFieldElement/Fp/modReduce(java.math.BigInteger)@g_bcprov-jdk15on-1.54.jar.txt	2

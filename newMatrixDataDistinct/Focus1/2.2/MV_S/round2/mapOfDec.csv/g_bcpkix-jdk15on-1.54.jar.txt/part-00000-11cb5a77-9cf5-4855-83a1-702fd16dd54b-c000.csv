@@ -1,0 +1,5 @@
+org/bouncycastle/x509/examples/AttrCertExample/createClientCert(java.security.PublicKey,java.security.PrivateKey,java.security.PublicKey)@g_bcmail-jdk15-1.45.jar.txt	4
+org/bouncycastle/jce/ECPointUtil/decodePoint(java.security.spec.EllipticCurve,byte[])@g_bcprov-jdk15on-1.47.jar.txt	2
+org/bouncycastle/jcajce/provider/asymmetric/ecgost/BCECGOST3410PublicKey/populateFromPubKeyInfo(org.bouncycastle.asn1.x509.SubjectPublicKeyInfo)@g_bcprov-jdk15on-1.47.jar.txt	0
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcmail-jdk15-1.45.jar.txt	3
+org/bouncycastle/jce/provider/JCEECPublicKey/populateFromPubKeyInfo(org.bouncycastle.asn1.x509.SubjectPublicKeyInfo)@g_bcprov-jdk15on-1.47.jar.txt	1

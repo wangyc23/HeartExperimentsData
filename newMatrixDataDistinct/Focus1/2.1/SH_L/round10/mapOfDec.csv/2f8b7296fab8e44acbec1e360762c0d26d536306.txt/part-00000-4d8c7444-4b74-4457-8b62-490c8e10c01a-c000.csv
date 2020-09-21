@@ -1,0 +1,5 @@
+com/doume/max/web/filter/ForumFilter/getSessionUser(javax.servlet.http.HttpServletRequest)@00001c21393299a1727a1313d6e7fdfbf28daea1.txt	4
+com/doume/max/web/controller/CustomerController/getCustomer(javax.servlet.http.HttpSession)@00001c21393299a1727a1313d6e7fdfbf28daea1.txt	3
+com/doume/max/web/controller/AdminController/sendMessage(javax.servlet.http.HttpSession,java.lang.String,java.lang.String,java.lang.String)@00001c21393299a1727a1313d6e7fdfbf28daea1.txt	2
+com/doume/max/controller/AdminControllerTest/logout()@00001c21393299a1727a1313d6e7fdfbf28daea1.txt	1
+com/doume/max/web/controller/CustomerController/submitOrders(javax.servlet.http.HttpSession)@00001c21393299a1727a1313d6e7fdfbf28daea1.txt	0

@@ -1,0 +1,4 @@
+java/lang/Class/getSuperclass()
+net/dubboclub/cache/config/CacheConfig/getProperties()
+java/lang/reflect/Field/getType()
+net/dubboclub/cache/config/CacheConfig/getTagName(java.lang.Class)

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/getQdoxClasses()@g_maven-javadoc-plugin-2.8.1.jar.txt	1
+org/apache/maven/plugin/javadoc/JavadocUtil/getMavenHome(org.apache.maven.plugin.logging.Log)@g_maven-javadoc-plugin-2.8.1.jar.txt	3
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getDocletPath()@g_maven-javadoc-plugin-2.8.1.jar.txt	4
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/init()@g_maven-javadoc-plugin-2.8.1.jar.txt	0
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/addTagletsFromTagletArtifacts(java.util.List)@g_maven-javadoc-plugin-2.8.1.jar.txt	2

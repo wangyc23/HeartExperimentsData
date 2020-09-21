@@ -1,0 +1,4 @@
+java/lang/String/charAt(int)
+java/lang/String/length()
+org/apache/lucene/analysis/ko/utils/StrBuilder/setLength(int)
+java/lang/Integer/parseInt(java.lang.String,int)

@@ -1,0 +1,5 @@
+io/netty/handler/codec/http/websocketx/extensions/compression/DeflateFrameClientExtensionHandshaker/handshakeExtension(io.netty.handler.codec.http.websocketx.extensions.WebSocketExtensionData)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	0
+io/netty/handler/codec/http/websocketx/extensions/WebSocketClientExtensionHandlerTest/testFallbackSuccess()@28d8b9e01e3300d65d02c410027123f892348d9f.txt	4
+io/netty/handler/codec/http/websocketx/extensions/WebSocketClientExtensionHandlerTest/testMainSuccess()@28d8b9e01e3300d65d02c410027123f892348d9f.txt	1
+io/netty/handler/codec/http/websocketx/extensions/WebSocketClientExtensionHandlerTest/testAllSuccess()@28d8b9e01e3300d65d02c410027123f892348d9f.txt	3
+io/netty/handler/codec/http/websocketx/extensions/compression/WebSocketServerCompressionHandlerTest/testServerWindowSizeDisableThenFallback()@28d8b9e01e3300d65d02c410027123f892348d9f.txt	2

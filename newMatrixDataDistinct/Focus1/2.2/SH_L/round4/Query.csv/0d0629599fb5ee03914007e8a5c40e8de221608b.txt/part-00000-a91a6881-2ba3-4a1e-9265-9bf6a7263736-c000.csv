@@ -1,0 +1,4 @@
+com/smartitengineering/cms/api/type/CollectionDataType/getMaxSize()
+com/smartitengineering/cms/spi/impl/type/ContentTypeObjectConverter/putFields(java.util.Map,com.smartitengineering.cms.spi.impl.content.Put,byte[])
+java/lang/String/valueOf(boolean)
+com/smartitengineering/cms/api/type/CompositeDataType/getEmbeddedContentType()

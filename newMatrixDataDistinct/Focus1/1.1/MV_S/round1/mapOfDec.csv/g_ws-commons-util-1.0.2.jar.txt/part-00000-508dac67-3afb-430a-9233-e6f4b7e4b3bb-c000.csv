@@ -1,0 +1,5 @@
+org/apache/batik/dom/AbstractNode/isDefaultNamespace(java.lang.String)@g_batik-dom-1.8.jar.txt	2
+org/apache/batik/dom/AbstractDocument/normalizeDocument(org.w3c.dom.Element,boolean,boolean,boolean,boolean,boolean,boolean,org.w3c.dom.DOMErrorHandler)@g_batik-dom-1.8.jar.txt	4
+org/apache/batik/dom/AbstractDocument/importNode(org.w3c.dom.Node,boolean,boolean)@g_batik-dom-1.8.jar.txt	0
+org/apache/batik/dom/AbstractNode/isEqualNode(org.w3c.dom.Node)@g_batik-dom-1.8.jar.txt	3
+org/apache/batik/dom/AbstractNode/lookupNamespaceURI(java.lang.String)@g_batik-dom-1.8.jar.txt	1

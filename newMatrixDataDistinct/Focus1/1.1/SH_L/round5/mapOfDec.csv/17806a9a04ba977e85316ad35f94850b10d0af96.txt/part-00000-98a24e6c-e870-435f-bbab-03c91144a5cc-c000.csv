@@ -1,0 +1,5 @@
+org/apache/flume/interceptor/TestHostInterceptor/testUseHostname()@280cf7b222b9032eda69c908b154745c850f1051.txt	4
+org/apache/flume/interceptor/TestRegexFilteringInterceptor/testInclusion()@280cf7b222b9032eda69c908b154745c850f1051.txt	0
+org/apache/flume/interceptor/TestHostInterceptor/testUseIP()@280cf7b222b9032eda69c908b154745c850f1051.txt	2
+org/apache/flume/interceptor/TestHostInterceptor/testClobber()@280cf7b222b9032eda69c908b154745c850f1051.txt	1
+org/apache/flume/interceptor/TestHostInterceptor/testPreserve()@280cf7b222b9032eda69c908b154745c850f1051.txt	3

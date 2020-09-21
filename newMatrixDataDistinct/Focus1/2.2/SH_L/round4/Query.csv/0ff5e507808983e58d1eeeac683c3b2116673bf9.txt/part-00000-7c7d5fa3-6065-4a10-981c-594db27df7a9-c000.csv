@@ -1,0 +1,4 @@
+org/hoteia/qalingo/core/domain/enumtype/FoUrls/getMessageKey()
+org/hoteia/qalingo/core/domain/enumtype/FoUrls/getKey()
+org/hoteia/qalingo/core/web/mvc/viewbean/MenuViewBean/setUrl(java.lang.String)
+org/hoteia/qalingo/core/web/mvc/controller/AbstractFrontofficeQalingoController/getSpecificMessage(org.hoteia.qalingo.core.i18n.enumtype.ScopeWebMessage,java.lang.String,java.util.Locale)

@@ -1,0 +1,4 @@
+org/eclipse/emf/common/util/EList/iterator()
+org/eclipse/emf/common/util/DiagnosticChain/add(org.eclipse.emf.common.util.Diagnostic)
+org/eclipse/ocl/expressions/OCLExpression/getType()
+java/util/Iterator/next()

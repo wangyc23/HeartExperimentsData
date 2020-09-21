@@ -1,0 +1,5 @@
+jp/gr/java_conf/boj/lib/gui/SwingUncaughtExceptionHandler/uncaughtException(java.lang.Thread,java.lang.Throwable)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	0
+net/miladinov/generics/CreatorGeneric/main(java.lang.String[])@2ea521f70b748744db431e4a2a9648eceb229bee.txt	4
+com/schwebke/jregexanalyser/regex/Pattern/Ques/getInfo()@2ea521f70b748744db431e4a2a9648eceb229bee.txt	1
+de/danoeh/antennapod/feed/FeedManager/getPlaybackHistoryItemIndex(int)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	2
+hello/Scraper/filter(org.jsoup.nodes.Element)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	3

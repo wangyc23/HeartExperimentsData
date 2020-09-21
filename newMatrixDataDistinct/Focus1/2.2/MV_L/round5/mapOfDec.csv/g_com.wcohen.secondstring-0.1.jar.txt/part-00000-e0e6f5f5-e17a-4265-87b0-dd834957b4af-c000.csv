@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/Options/readData(java.io.BufferedReader)@g_stanford-parser-3.5.2.jar.txt	1
+weka/classifiers/functions/LibLINEAR/buildClassifier(weka.core.Instances)@g_weka-stable-3.6.10.jar.txt	3
+edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalStructure/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/LexicalizedParser/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/trees/tregex/TregexPattern/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4

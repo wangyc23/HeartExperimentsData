@@ -1,0 +1,5 @@
+org/openrdf/query/algebra/evaluation/impl/QueryJoinOptimizer/JoinVisitor/meet(org.openrdf.query.algebra.Join)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/function/datetime/Tz/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryresultio-sparqlxml-2.7.9.jar.txt	3
+org/openrdf/query/algebra/evaluation/impl/QueryJoinOptimizer/JoinVisitor/reorderSubselects(java.util.List)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	0
+org/openrdf/query/algebra/evaluation/iterator/GroupIterator/buildEntries()@g_sesame-queryresultio-sparqlxml-2.7.9.jar.txt	2
+org/openrdf/query/algebra/evaluation/impl/ConstantOptimizer/ConstantVisitor/meet(org.openrdf.query.algebra.Regex)@g_sesame-queryresultio-sparqlxml-2.7.9.jar.txt	4

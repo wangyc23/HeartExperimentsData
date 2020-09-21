@@ -1,0 +1,4 @@
+java/lang/Exception/printStackTrace(java.io.PrintStream)
+java/lang/Class/newInstance()
+java/lang/StringBuilder/append(java.lang.String)
+org/objectweb/asm/ClassWriter/toByteArray()

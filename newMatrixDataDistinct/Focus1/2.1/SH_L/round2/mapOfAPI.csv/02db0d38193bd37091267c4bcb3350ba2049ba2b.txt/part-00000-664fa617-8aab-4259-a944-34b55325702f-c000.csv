@@ -1,0 +1,7 @@
+0	io/kraken/client/model/request/DirectUploadCallbackUrlRequest/getImage()
+1	org/mockserver/client/serialization/model/TimesDTO/TimesDTO(org.mockserver.matchers.Times)
+2	org/mockserver/client/serialization/model/TimesDTO/getRemainingTimes()
+3	org/mockserver/matchers/Times/exactly(int)
+4	java/io/IOException/IOException(java.lang.String)
+5	org/mockserver/client/serialization/model/TimesDTO/isUnlimited()
+6	org/mockserver/client/serialization/ExpectationSerializer/deserializeArray(java.lang.String)

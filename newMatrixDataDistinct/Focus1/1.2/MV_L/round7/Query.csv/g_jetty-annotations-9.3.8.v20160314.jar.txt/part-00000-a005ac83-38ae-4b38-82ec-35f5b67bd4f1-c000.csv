@@ -1,0 +1,4 @@
+org/eclipse/jetty/annotations/AnnotationConfiguration$ParserTask/setStatistic(org.eclipse.jetty.annotations.AnnotationConfiguration$TimeStatistic)
+org/eclipse/jetty/webapp/MetaData/getWebInfClassesDirs()
+java/util/Iterator/hasNext()
+org/eclipse/jetty/util/statistic/CounterStatistic/CounterStatistic()

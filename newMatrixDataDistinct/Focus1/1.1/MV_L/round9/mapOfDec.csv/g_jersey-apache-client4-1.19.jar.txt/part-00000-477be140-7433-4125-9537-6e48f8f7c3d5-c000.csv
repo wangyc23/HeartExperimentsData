@@ -1,0 +1,5 @@
+com/sun/jersey/client/apache4/ApacheHttpClient4Handler/writeOutBoundHeaders(javax.ws.rs.core.MultivaluedMap,org.apache.http.client.methods.HttpUriRequest)@g_jersey-apache-client4-1.17.1.jar.txt	2
+com/sun/jersey/client/apache4/ApacheHttpClient4/createDefaultClientHandler(com.sun.jersey.api.client.config.ClientConfig)@g_jersey-apache-client4-1.11.jar.txt	1
+com/sun/jersey/client/apache4/ApacheHttpClient4/createDefaultClientHandler(com.sun.jersey.api.client.config.ClientConfig)@g_jersey-apache-client4-1.17.1.jar.txt	3
+com/sun/jersey/client/apache4/ApacheHttpClient4Handler/getUriHttpRequest(com.sun.jersey.api.client.ClientRequest)@g_jersey-apache-client4-1.11.jar.txt	4
+com/sun/jersey/client/apache4/ApacheHttpClient4Handler/writeOutBoundHeaders(javax.ws.rs.core.MultivaluedMap,org.apache.http.client.methods.HttpUriRequest)@g_jersey-apache-client4-1.11.jar.txt	0

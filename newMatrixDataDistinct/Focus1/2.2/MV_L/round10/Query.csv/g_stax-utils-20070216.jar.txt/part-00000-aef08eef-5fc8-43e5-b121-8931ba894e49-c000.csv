@@ -1,0 +1,4 @@
+javax/xml/stream/events/XMLEvent/isCharacters()
+javax/xml/stream/events/XMLEvent/asCharacters()
+javax/xml/stream/events/XMLEvent/getEventType()
+java/lang/StringBuffer/toString()

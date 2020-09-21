@@ -1,0 +1,8 @@
+0	java/net/ConnectException/ConnectException(java.lang.String)
+1	java/util/concurrent/Executors/newCachedThreadPool()
+2	java/lang/Thread/sleep(long)
+3	com/lucidworks/IndexingSampler/FieldSpec/nextString(java.util.Random)
+4	camelinaction/JavaFutureTest/testFutureWithDone()/$anonymous1/()
+5	java/util/concurrent/ExecutorService/submit(java.util.concurrent.Callable)
+6	java/util/concurrent/Future/isDone()
+7	java/util/concurrent/Future/get()

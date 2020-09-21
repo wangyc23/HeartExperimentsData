@@ -1,0 +1,5 @@
+org/apache/ivy/core/search/SearchEngine/findModuleRevisionIds(org.apache.ivy.plugins.resolver.DependencyResolver,org.apache.ivy.core.module.id.ModuleRevisionId,org.apache.ivy.plugins.matcher.PatternMatcher)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser/Parser/extendsStarted(org.xml.sax.Attributes)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/retrieve/RetrieveEngine/determineArtifactsToCopy(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,org.apache.ivy.core.retrieve.RetrieveOptions)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/core/deliver/DeliverEngine/deliver(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,java.lang.String,org.apache.ivy.core.deliver.DeliverOptions)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/ant/IvyPostResolveTask/getConfsToResolve(org.apache.ivy.core.module.descriptor.ModuleDescriptor,java.lang.String,java.lang.String[])@g_ivy-2.3.0.jar.txt	1

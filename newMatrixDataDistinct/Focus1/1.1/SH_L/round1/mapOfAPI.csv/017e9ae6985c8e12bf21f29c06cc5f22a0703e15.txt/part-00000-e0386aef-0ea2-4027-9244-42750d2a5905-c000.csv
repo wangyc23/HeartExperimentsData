@@ -1,0 +1,3 @@
+0	com/things/frame/core/base/dao/AbstractDao/getSqlName(java.lang.String)
+1	org/mybatis/spring/support/SqlSessionDaoSupportExt/getSqlSession()
+2	org/apache/ibatis/session/SqlSession/update(java.lang.String,java.lang.Object)

@@ -1,0 +1,4 @@
+com/xeiam/xchange/bitfinex/v1/dto/trade/BitfinexTradeResponse/getType()
+java/math/BigDecimal/BigDecimal(java.lang.String)
+com/xeiam/xchange/bitfinex/v1/dto/trade/BitfinexTradeResponse/getPrice()
+com/xeiam/xchange/bitfinex/v1/dto/trade/BitfinexTradeResponse/getTimestamp()

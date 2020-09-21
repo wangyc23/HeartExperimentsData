@@ -1,0 +1,5 @@
+io/netty/handler/codec/http/websocketx/WebSocketServerHandshaker/handshake(io.netty.channel.Channel,io.netty.handler.codec.http.FullHttpRequest,io.netty.handler.codec.http.HttpHeaders,io.netty.channel.ChannelPromise)@g_netty-codec-http-4.1.7.Final.jar.txt	3
+io/netty/handler/codec/http/HttpObjectEncoder/encodeChunkedContent(io.netty.channel.ChannelHandlerContext,java.lang.Object,long,java.util.List)@g_netty-codec-http-4.1.7.Final.jar.txt	4
+io/netty/handler/codec/http/multipart/AbstractMemoryHttpData/setContent(io.netty.buffer.ByteBuf)@g_netty-codec-http-4.1.7.Final.jar.txt	2
+com/eureka2/shading/reactivex/netty/protocol/http/sse/ServerSentEventDecoder/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	1
+com/eureka2/shading/reactivex/netty/protocol/http/websocket/WebSocketServerHandler/sendHttpResponse(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.FullHttpRequest,io.netty.handler.codec.http.FullHttpResponse)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	0

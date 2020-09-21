@@ -1,0 +1,4 @@
+org/apache/http/HttpHost/getPort()
+java/net/InetSocketAddress/InetSocketAddress(java.net.InetAddress,int)
+org/apache/commons/logging/Log/isDebugEnabled()
+org/apache/http/HttpHost/getSchemeName()

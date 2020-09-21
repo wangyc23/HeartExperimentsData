@@ -1,0 +1,4 @@
+io/netty/buffer/ByteBuf/ensureWritable(int)
+io/netty/buffer/ByteBuf/writeBytes(io.netty.buffer.ByteBuf,int,int)
+com/google/protobuf/CodedOutputStream/flush()
+io/netty/buffer/ByteBuf/readerIndex()

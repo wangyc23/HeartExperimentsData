@@ -1,0 +1,5 @@
+0	java/lang/Object/Object()
+1	org/hippoecm/hst/demo/jaxrs/model/ProductRepresentation/represent(org.hippoecm.hst.demo.beans.ProductBean)
+2	org/hippoecm/hst/demo/jaxrs/services/util/ResponseUtils/buildServerErrorResponse(java.lang.Throwable)
+3	org/hippoecm/hst/demo/jaxrs/model/ProductRepresentation/ProductRepresentation()
+4	java/lang/Throwable/toString()

@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/core/RelationshipProxy/getPropertyKeys()@g_neo4j-kernel-2.2.5.jar.txt	3
+org/neo4j/kernel/impl/transaction/command/PhysicalLogNeoCommandReaderV2_0/PhysicalNeoCommandReader/readNodeRecord(long)@g_neo4j-kernel-2.2.5.jar.txt	2
+org/neo4j/helpers/Args/asArgs()@g_neo4j-kernel-2.2.5.jar.txt	0
+org/neo4j/kernel/impl/transaction/command/PhysicalLogNeoCommandReaderV2_1/PhysicalNeoCommandReader/visitSchemaRuleCommand(org.neo4j.kernel.impl.transaction.command.Command$SchemaRuleCommand)@g_neo4j-kernel-2.2.5.jar.txt	1
+org/neo4j/kernel/impl/store/TokenStore/getStringFor(org.neo4j.kernel.impl.store.record.TokenRecord)@g_neo4j-kernel-2.2.5.jar.txt	4

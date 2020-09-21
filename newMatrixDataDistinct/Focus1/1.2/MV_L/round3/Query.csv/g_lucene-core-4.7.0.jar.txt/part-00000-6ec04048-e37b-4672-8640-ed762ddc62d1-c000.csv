@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)
+java/lang/AssertionError/AssertionError(java.lang.Object)
+org/apache/lucene/util/BytesRefHash$BytesStartArray/grow()

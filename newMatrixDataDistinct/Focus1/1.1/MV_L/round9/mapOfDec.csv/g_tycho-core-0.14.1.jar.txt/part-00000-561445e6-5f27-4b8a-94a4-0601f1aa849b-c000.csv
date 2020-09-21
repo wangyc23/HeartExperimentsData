@@ -1,0 +1,5 @@
+org/eclipse/tycho/core/osgitools/targetplatform/ArtifactCollection/addArtifact(org.eclipse.tycho.ArtifactDescriptor,boolean)@g_tycho-core-0.23.1.jar.txt	2
+org/eclipse/tycho/core/osgitools/AbstractArtifactDependencyWalker/traverseFeature(java.io.File,org.eclipse.tycho.model.Feature,org.eclipse.tycho.model.FeatureRef,org.eclipse.tycho.core.ArtifactDependencyVisitor,org.eclipse.tycho.core.osgitools.AbstractArtifactDependencyWalker$WalkbackPath)@g_tycho-core-0.23.1.jar.txt	0
+org/eclipse/tycho/core/osgitools/OsgiBundleProject/1/walk(org.eclipse.tycho.core.ArtifactDependencyVisitor)@g_tycho-core-0.23.1.jar.txt	3
+org/eclipse/tycho/core/resolver/DefaultTargetPlatformConfigurationReader/addTargetArtifact(org.eclipse.tycho.core.TargetPlatformConfiguration,org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,org.codehaus.plexus.util.xml.Xpp3Dom)@g_tycho-core-0.23.1.jar.txt	4
+org/eclipse/tycho/core/osgitools/AbstractArtifactDependencyWalker/traversePlugin(org.eclipse.tycho.model.PluginRef,org.eclipse.tycho.core.ArtifactDependencyVisitor,org.eclipse.tycho.core.osgitools.AbstractArtifactDependencyWalker$WalkbackPath)@g_tycho-core-0.23.1.jar.txt	1

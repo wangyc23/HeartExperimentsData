@@ -1,0 +1,5 @@
+org/infinispan/persistence/manager/PersistenceManagerImpl/getCacheForStateInsertion()@g_infinispan-core-7.0.3.Final.jar.txt	1
+org/infinispan/util/concurrent/locks/LockManagerImpl/lockAndRecord(java.lang.Object,org.infinispan.context.InvocationContext,long)@g_infinispan-core-7.0.3.Final.jar.txt	2
+org/infinispan/distexec/mapreduce/MapReduceManagerImpl/migrateIntermediateKeysAndValues(org.infinispan.commands.read.MapCombineCommand,java.util.Map)@g_infinispan-core-7.0.3.Final.jar.txt	3
+org/infinispan/util/concurrent/BoundedConcurrentHashMap/Segment/notifyEvictionListener(java.util.Set)@g_infinispan-core-7.0.3.Final.jar.txt	4
+org/infinispan/commands/tx/PrepareCommand/getAffectedKeysToLock(boolean)@g_infinispan-core-7.0.3.Final.jar.txt	0

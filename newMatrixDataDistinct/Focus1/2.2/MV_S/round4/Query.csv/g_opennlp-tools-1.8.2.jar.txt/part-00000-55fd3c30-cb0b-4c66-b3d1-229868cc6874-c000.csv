@@ -1,0 +1,4 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/util/zip/ZipOutputStream/flush()
+java/util/Iterator/hasNext()
+java/util/Map/get(java.lang.Object)

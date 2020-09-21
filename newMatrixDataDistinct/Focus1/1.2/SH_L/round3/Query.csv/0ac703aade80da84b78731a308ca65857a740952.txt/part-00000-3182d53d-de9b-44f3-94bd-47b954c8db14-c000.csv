@@ -1,0 +1,4 @@
+java/util/BitSet/get(int)
+org/apache/tez/runtime/api/TaskIdentifier/getIdentifier()
+org/apache/tez/runtime/api/VertexIdentifier/getName()
+org/apache/tez/runtime/api/TaskIdentifier/getVertexIdentifier()

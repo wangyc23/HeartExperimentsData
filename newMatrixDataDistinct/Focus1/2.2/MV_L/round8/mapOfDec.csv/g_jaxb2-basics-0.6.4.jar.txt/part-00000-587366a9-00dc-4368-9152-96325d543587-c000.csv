@@ -1,0 +1,5 @@
+org/jvnet/jaxb2_commons/util/OutlineUtils/getContextPath(com.sun.tools.xjc.outline.Outline)@g_jaxb2-basics-tools-0.6.4.jar.txt	0
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBeanProperty(com.sun.codemodel.JDefinedClass,java.util.List,org.jvnet.ws.wadl.Param,boolean)@g_wadl-core-1.1.6.jar.txt	1
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/getMethodName(org.jvnet.ws.wadl.ast.MethodNode,org.jvnet.ws.wadl.ast.RepresentationNode,org.jvnet.ws.wadl.ast.RepresentationNode,com.sun.codemodel.JType)@g_wadl-core-1.1.6.jar.txt	2
+org/jvnet/ws/wadl/ast/WadlAstBuilder/processDescription(java.net.URI,java.io.InputStream)@g_wadl-core-1.1.6.jar.txt	3
+org/jvnet/ws/wadl/ast/PathSegment/evaluate(java.util.Map)@g_wadl-core-1.1.6.jar.txt	4

@@ -1,0 +1,5 @@
+edu/cmu/cs/lti/ark/fn/optimization/LogMath/logtimes(edu.cmu.cs.lti.ark.fn.optimization.LDouble,edu.cmu.cs.lti.ark.fn.optimization.LDouble,edu.cmu.cs.lti.ark.fn.optimization.LDouble)@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	0
+edu/cmu/cs/lti/ark/util/optimization/LDouble/exponentiate()@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	4
+edu/cmu/cs/lti/ark/util/CommandLineOptions/StringOption/get()@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	2
+edu/cmu/cs/lti/ark/util/CommandLineOptions/Option/make()@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	3
+edu/cmu/cs/lti/ark/util/ds/path/LabeledPath/getSuffix(int)@241dd6d413cc85ba8e97ce4305e37f0823e2b2f4.txt	1

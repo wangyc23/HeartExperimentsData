@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+javax/validation/Validation$GenericBootstrapImpl/getDefaultValidationProviderResolver()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)

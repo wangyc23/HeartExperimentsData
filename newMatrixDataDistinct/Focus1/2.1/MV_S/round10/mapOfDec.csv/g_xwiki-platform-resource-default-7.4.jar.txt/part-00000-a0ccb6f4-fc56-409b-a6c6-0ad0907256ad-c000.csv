@@ -1,0 +1,5 @@
+org/xwiki/url/internal/container/ContextAndActionURLNormalizer/normalize(org.xwiki.url.ExtendedURL)@g_xwiki-platform-captcha-7.4.jar.txt	2
+org/xwiki/captcha/internal/DefaultXWikiCaptchaService/listCaptchaNames()@g_xwiki-platform-captcha-7.4.jar.txt	1
+org/xwiki/url/internal/container/ContextAndActionURLNormalizer/initialize()@g_xwiki-platform-captcha-7.4.jar.txt	0
+org/xwiki/url/internal/container/ExtendedURLURLNormalizer/normalize(org.xwiki.url.ExtendedURL)@g_xwiki-platform-captcha-7.4.jar.txt	4
+org/xwiki/resource/internal/entity/DefaultEntityResourceActionLister/initialize()@g_xwiki-platform-captcha-7.4.jar.txt	3

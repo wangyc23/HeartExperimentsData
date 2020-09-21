@@ -1,0 +1,5 @@
+org/eclipse/jdt/internal/core/hierarchy/IndexBasedHierarchyBuilder/buildFromPotentialSubtypes(java.lang.String[],java.util.HashSet,org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.jdt.core-3.12.3.jar.txt	1
+org/eclipse/jdt/internal/core/Openable/codeComplete(org.eclipse.jdt.internal.compiler.env.ICompilationUnit,org.eclipse.jdt.internal.compiler.env.ICompilationUnit,int,org.eclipse.jdt.core.CompletionRequestor,org.eclipse.jdt.core.WorkingCopyOwner,org.eclipse.jdt.core.ITypeRoot,org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.jdt.core-3.12.3.jar.txt	2
+org/eclipse/jdt/internal/core/DeltaProcessingState/getExternalLibTimeStamps()@g_org.eclipse.jdt.core-3.12.3.jar.txt	3
+org/eclipse/jdt/internal/core/builder/AbstractImageBuilder/storeTasksFor(org.eclipse.jdt.internal.core.builder.SourceFile,org.eclipse.jdt.core.compiler.CategorizedProblem[])@g_org.eclipse.jdt.core-3.12.3.jar.txt	0
+org/eclipse/acceleo/common/internal/utils/workspace/AcceleoWorkspaceUtil/getServiceInstance(java.lang.Class)@g_org.eclipse.jdt.core-3.12.3.jar.txt	4

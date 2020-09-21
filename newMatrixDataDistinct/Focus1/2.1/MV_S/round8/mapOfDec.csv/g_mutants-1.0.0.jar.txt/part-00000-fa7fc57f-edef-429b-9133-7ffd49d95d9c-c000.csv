@@ -1,0 +1,5 @@
+anatlyzer/evaluation/mutators/AbstractMutator/save(org.eclipse.m2m.atl.core.emf.EMFModel,java.lang.String)@g_emftvm.compiler-3.4.100.201308012235.jar.txt	4
+org/eclipse/emf/ecore/xmi/impl/XMISaveImpl/writeTopObjects(java.util.List)@g_emftvm.compiler-3.4.100.201308012235.jar.txt	2
+org/eclipse/emf/ecore/xmi/impl/XMLHandler/processTopObject(org.eclipse.emf.ecore.EObject)@g_emftvm.compiler-3.4.100.201308012235.jar.txt	3
+anatlyzer/evaluation/mutators/modification/invocation/HelperOperationModificationMutator/getOperationReturning(anatlyzer.evaluation.mutators.modification.invocation.AbstractInvocationModificationMutator$TYPE)@g_emftvm.compiler-3.4.100.201308012235.jar.txt	1
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/Lookup/featureKind(org.eclipse.emf.ecore.EStructuralFeature)@g_emftvm.compiler-3.4.100.201308012235.jar.txt	0

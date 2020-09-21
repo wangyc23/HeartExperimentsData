@@ -1,0 +1,4 @@
+java/lang/String/charAt(int)
+java/util/regex/Matcher/quoteReplacement(java.lang.String)
+java/util/regex/Matcher/end()
+java/lang/String/substring(int,int)

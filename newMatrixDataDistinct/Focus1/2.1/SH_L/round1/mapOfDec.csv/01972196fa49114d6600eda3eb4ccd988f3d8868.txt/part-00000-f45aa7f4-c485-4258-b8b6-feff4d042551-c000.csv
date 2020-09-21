@@ -1,0 +1,5 @@
+org/hf/mls/ar/hadoop/PreProcessJob/runJob(java.lang.String[])@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	0
+wikibooks/hadoop/chapter07/CarrierCodeMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	3
+org/hf/mls/cf/driver/CfDriver/main(java.lang.String[])@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	2
+wikibooks/hadoop/chapter07/TaggedGroupKeyComparator/compare(org.apache.hadoop.io.WritableComparable,org.apache.hadoop.io.WritableComparable)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	4
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/generateUrls(java.util.List,java.util.List,int)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	1

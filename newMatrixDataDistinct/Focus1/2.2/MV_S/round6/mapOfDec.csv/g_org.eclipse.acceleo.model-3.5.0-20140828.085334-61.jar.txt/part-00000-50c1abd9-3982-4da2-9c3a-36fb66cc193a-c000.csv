@@ -1,0 +1,5 @@
+org/eclipse/acceleo/internal/parser/ast/CST2ASTConverterWithResolver/transformStepResolve(org.eclipse.acceleo.parser.cst.ModelExpression)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	2
+org/eclipse/acceleo/model/mtl/impl/spec/QueryInvocationSpec/toString()@g_org.eclipse.acceleo.model-3.5.0-SNAPSHOT.jar.txt	4
+org/eclipse/acceleo/model/mtl/impl/spec/ModuleSpec/toString()@g_org.eclipse.acceleo.model-3.5.0-SNAPSHOT.jar.txt	3
+org/eclipse/acceleo/model/mtl/impl/spec/TemplateSpec/toString()@g_org.eclipse.acceleo.model-3.5.0-SNAPSHOT.jar.txt	0
+org/eclipse/acceleo/model/mtl/impl/spec/QuerySpec/toString()@g_org.eclipse.acceleo.model-3.5.0-SNAPSHOT.jar.txt	1

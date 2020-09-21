@@ -1,0 +1,4 @@
+com/github/jsonldjava/core/JsonLdOptions/setUseRdfType(java.lang.Boolean)
+com/github/jsonldjava/core/JsonLdProcessor/flatten(java.lang.Object,java.lang.Object,com.github.jsonldjava.core.JsonLdOptions)
+org/eclipse/rdf4j/model/Model/getNamespaces()
+org/eclipse/rdf4j/rio/jsonld/JSONLDWriter/getWriterConfig()

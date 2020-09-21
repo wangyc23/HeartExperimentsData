@@ -1,0 +1,5 @@
+br/com/geladaonline/model/Estoque/recuperarCervejaPeloNome(java.lang.String)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	4
+org/dyrda/jersey/date/converter/MyDateStringConverter/getConverter(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[])@168b9c337aa0ae603654638f3f03a641bffc221e.txt	1
+com/jakubstas/swagger/rest/config/AccessHiddenModelConverter/read(java.lang.Class,scala.collection.immutable.Map)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	3
+org/dyrda/javabrains/resourses/CommentResource/updateComment(javax.ws.rs.core.UriInfo,long,long,org.dyrda.javabrains.model.Comment)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	0
+br/com/geladaonline/model/Cerveja/hashCode()@168b9c337aa0ae603654638f3f03a641bffc221e.txt	2

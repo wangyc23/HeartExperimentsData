@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/miscellaneous/WordDelimiterFilterFactory/inform(org.apache.lucene.analysis.util.ResourceLoader)@g_lucene-analyzers-common-6.2.1.jar.txt	3
+org/apache/lucene/analysis/charfilter/MappingCharFilterFactory/inform(org.apache.lucene.analysis.util.ResourceLoader)@g_lucene-analyzers-common-6.2.1.jar.txt	2
+org/apache/lucene/analysis/hunspell/Stemmer/stem(char[],int,int,int,int,int,boolean,boolean,boolean,boolean,boolean)@g_lucene-analyzers-common-6.4.1.jar.txt	1
+org/apache/lucene/analysis/hunspell/Stemmer/stem(char[],int,int,int,int,int,boolean,boolean,boolean,boolean,boolean)@g_lucene-analyzers-common-6.2.1.jar.txt	0
+org/apache/lucene/analysis/charfilter/MappingCharFilter/read()@g_lucene-analyzers-common-6.2.1.jar.txt	4

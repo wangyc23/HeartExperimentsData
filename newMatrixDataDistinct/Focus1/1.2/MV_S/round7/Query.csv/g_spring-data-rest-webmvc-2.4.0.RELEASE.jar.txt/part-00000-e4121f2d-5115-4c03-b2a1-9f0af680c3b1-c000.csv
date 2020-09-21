@@ -1,0 +1,4 @@
+org/springframework/data/rest/core/mapping/SimpleResourceDescription/defaultFor(java.lang.String)
+org/springframework/data/repository/support/Repositories/getRepositoryInformationFor(java.lang.Class)
+org/springframework/hateoas/alps/Alps/descriptor()
+java/util/List/size()

@@ -1,0 +1,5 @@
+org/apache/sis/io/TableAppender/nextColumn(char)@g_sis-utility-0.5.jar.txt	4
+org/apache/sis/internal/util/Utilities/formatTo(java.util.Formatter,int,int,int,java.lang.String)@g_sis-utility-0.5.jar.txt	2
+org/apache/sis/util/logging/MonolineFormatter/formatMessage(java.util.logging.LogRecord)@g_sis-utility-0.5.jar.txt	1
+org/apache/sis/measure/AngleFormat/parse(java.lang.String,java.text.ParsePosition,boolean)@g_sis-utility-0.5.jar.txt	0
+org/apache/sis/util/iso/Names/toExpandedString(org.opengis.util.GenericName)@g_sis-utility-0.5.jar.txt	3

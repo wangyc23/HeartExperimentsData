@@ -1,0 +1,4 @@
+java/lang/StringBuffer/StringBuffer(int)
+java/lang/String/length()
+java/lang/StringBuffer/toString()
+java/util/StringTokenizer/nextToken()

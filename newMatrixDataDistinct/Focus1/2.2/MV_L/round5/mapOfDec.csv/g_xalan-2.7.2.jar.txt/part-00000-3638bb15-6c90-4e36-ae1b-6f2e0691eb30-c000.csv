@@ -1,0 +1,5 @@
+org/apache/xml/serialize/XMLSerializer/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_xercesImpl-2.8.0.jar.txt	2
+org/apache/tools/ant/helper/ProjectHelper2/ProjectHandler/onStartElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes,org.apache.tools.ant.helper.AntXMLContext)@g_ant-1.6.5.jar.txt	0
+org/apache/xml/serialize/HTMLSerializer/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_xercesImpl-2.8.0.jar.txt	4
+org/apache/xerces/jaxp/JAXPValidatorComponent/updateAttributes(org.xml.sax.Attributes)@g_xercesImpl-2.8.0.jar.txt	3
+org/apache/tools/ant/helper/ProjectHelper2/ElementHandler/onStartElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes,org.apache.tools.ant.helper.AntXMLContext)@g_ant-1.6.5.jar.txt	1

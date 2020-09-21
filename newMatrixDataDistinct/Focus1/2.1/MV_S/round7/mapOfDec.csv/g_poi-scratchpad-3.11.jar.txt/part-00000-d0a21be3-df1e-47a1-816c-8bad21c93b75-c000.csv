@@ -1,0 +1,5 @@
+org/apache/poi/hssf/dev/RecordLister/run()@g_poi-scratchpad-3.8-beta4.jar.txt	3
+org/apache/poi/hslf/extractor/PowerPointExtractor/getText(boolean,boolean,boolean,boolean)@g_poi-scratchpad-3.8-beta4.jar.txt	0
+org/apache/poi/hwpf/converter/FoDocumentFacade/setProperty(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_poi-scratchpad-3.8-beta4.jar.txt	4
+org/apache/poi/hssf/usermodel/HSSFShapeGroup/createSpContainer()@g_poi-scratchpad-3.8-beta4.jar.txt	1
+org/apache/poi/hwpf/converter/WordToHtmlConverter/main(java.lang.String[])@g_poi-scratchpad-3.8-beta4.jar.txt	2

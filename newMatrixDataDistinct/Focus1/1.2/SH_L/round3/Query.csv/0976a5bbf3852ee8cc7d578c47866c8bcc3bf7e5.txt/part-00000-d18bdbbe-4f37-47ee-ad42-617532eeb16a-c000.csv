@@ -1,0 +1,4 @@
+java/util/Iterator/remove()
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/util/ArrayList/ArrayList(java.util.Collection)
+org/apache/lens/server/query/QueryExecutionServiceImpl/validateTimeRange(long,long)

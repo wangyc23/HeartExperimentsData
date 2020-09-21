@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/StringUtils/split(java.lang.String,java.lang.String)
+org/codehaus/plexus/util/StringUtils/stripEnd(java.lang.String,java.lang.String)
+java/lang/StringBuffer/append(char)
+java/util/List/size()

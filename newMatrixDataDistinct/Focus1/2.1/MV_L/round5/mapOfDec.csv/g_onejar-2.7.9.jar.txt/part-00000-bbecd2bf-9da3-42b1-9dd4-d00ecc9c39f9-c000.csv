@@ -1,0 +1,5 @@
+org/openrdf/query/QueryResults/report(org.openrdf.query.GraphQueryResult,org.openrdf.rio.RDFHandler)@g_sesame-http-client-2.7.9.jar.txt	0
+org/openrdf/rio/rdfjson/RDFJSONParser/rdfJsonToHandlerInternal(org.openrdf.rio.RDFHandler,org.openrdf.model.ValueFactory,com.fasterxml.jackson.core.JsonParser)@g_sesame-http-client-2.7.9.jar.txt	4
+org/openrdf/sail/inferencer/fc/DirectTypeHierarchyInferencer/DirectTypeHierarchyInferencerConnection/flushUpdates()@g_sesame-http-client-2.7.9.jar.txt	3
+org/openrdf/rio/rdfxml/RDFXMLParser/parse(org.xml.sax.InputSource)@g_sesame-http-client-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/impl/QueryJoinOptimizer/JoinVisitor/getForeignVarFreq(java.util.List,java.util.Map)@g_sesame-http-client-2.7.9.jar.txt	2

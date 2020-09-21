@@ -1,0 +1,5 @@
+com/google/common/collect/ImmutableSortedMap/validateEntries(java.util.List,java.util.Comparator)@g_guava-14.0.1.jar.txt	4
+com/google/gwt/resources/rg/CssResourceGenerator/initReplacements(com.google.gwt.core.ext.TreeLogger,com.google.gwt.resources.ext.ResourceContext,java.lang.String,java.util.SortedSet)@g_guava-14.0.1.jar.txt	3
+com/google/gwt/i18n/linker/LocalePropertyProviderGenerator/generate(com.google.gwt.core.ext.TreeLogger,java.util.SortedSet,java.lang.String,java.util.SortedSet)@g_guava-14.0.1.jar.txt	0
+com/google/gwt/thirdparty/debugging/sourcemap/SourceMapConsumerV2/getMappingForLine(int,int)@g_guava-14.0.1.jar.txt	2
+com/google/gwt/dev/asm/commons/JSRInlinerAdapter/emitSubroutine(com.google.gwt.dev.asm.commons.JSRInlinerAdapter$Instantiation,java.util.List,com.google.gwt.dev.asm.tree.InsnList,java.util.List,java.util.List)@g_guava-14.0.1.jar.txt	1

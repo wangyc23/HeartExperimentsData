@@ -1,0 +1,2 @@
+0	ca/intelliware/ihtsdo/mlds/domain/ReleasePackage/setCreatedBy(java.lang.String)
+1	pl/pwr/news/repository/user/UserRepository/findByActivationHash(java.lang.String)

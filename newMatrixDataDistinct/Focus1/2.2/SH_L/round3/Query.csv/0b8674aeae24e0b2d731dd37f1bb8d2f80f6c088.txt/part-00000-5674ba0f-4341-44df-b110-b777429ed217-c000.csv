@@ -1,0 +1,4 @@
+com/salesmanager/web/entity/customer/attribute/CustomerOptionEntity/setCode(java.lang.String)
+com/salesmanager/web/entity/customer/attribute/PersistableCustomerOption/PersistableCustomerOption()
+java/util/ArrayList/ArrayList()
+java/io/PrintStream/println(java.lang.String)

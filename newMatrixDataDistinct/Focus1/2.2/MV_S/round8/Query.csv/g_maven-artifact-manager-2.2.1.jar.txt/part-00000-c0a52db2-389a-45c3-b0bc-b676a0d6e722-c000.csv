@@ -1,0 +1,4 @@
+org/apache/maven/artifact/Artifact/getMetadataList()
+org/apache/maven/artifact/installer/ArtifactInstallationException/ArtifactInstallationException(java.lang.String,java.lang.Throwable)
+java/io/IOException/getMessage()
+java/io/File/exists()

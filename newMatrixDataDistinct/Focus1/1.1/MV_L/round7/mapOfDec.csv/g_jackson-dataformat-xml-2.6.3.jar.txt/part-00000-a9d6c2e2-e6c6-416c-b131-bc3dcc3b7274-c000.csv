@@ -1,0 +1,5 @@
+com/fasterxml/jackson/dataformat/yaml/YAMLParser/nextToken()@g_jackson-dataformat-yaml-2.8.6.jar.txt	0
+org/codehaus/stax2/ri/Stax2EventWriterImpl/add(javax.xml.stream.events.XMLEvent)@g_jackson-dataformat-yaml-2.8.6.jar.txt	3
+com/fasterxml/jackson/dataformat/xml/ser/XmlBeanSerializerModifier/changeProperties(com.fasterxml.jackson.databind.SerializationConfig,com.fasterxml.jackson.databind.BeanDescription,java.util.List)@g_jackson-dataformat-yaml-2.8.6.jar.txt	4
+com/fasterxml/jackson/dataformat/xml/ser/XmlSerializerProvider/serializeValue(com.fasterxml.jackson.core.JsonGenerator,java.lang.Object)@g_jackson-dataformat-yaml-2.8.6.jar.txt	2
+org/codehaus/stax2/ri/evt/MergedNsContext/getPrefix(java.lang.String)@g_jackson-dataformat-yaml-2.8.6.jar.txt	1

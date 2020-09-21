@@ -1,0 +1,4 @@
+com/netflix/hystrix/HystrixCollapserProperties/maxRequestsInBatch()
+org/codehaus/jackson/JsonGenerator/writeNumberField(java.lang.String,int)
+org/codehaus/jackson/JsonGenerator/writeBooleanField(java.lang.String,boolean)
+com/netflix/hystrix/HystrixCollapserProperties/timerDelayInMilliseconds()

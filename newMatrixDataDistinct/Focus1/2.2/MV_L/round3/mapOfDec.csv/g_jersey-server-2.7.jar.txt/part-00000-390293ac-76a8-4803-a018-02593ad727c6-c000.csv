@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/internal/monitoring/ExecutionStatisticsImpl/Builder/build()@g_jersey-server-2.17.jar.txt	0
+org/glassfish/jersey/server/internal/monitoring/ExecutionStatisticsImpl/Builder/build()@g_jersey-server-2.19.jar.txt	1
+org/glassfish/jersey/server/filter/HttpMethodOverrideFilter/filter(javax.ws.rs.container.ContainerRequestContext)@g_jersey-server-2.17.jar.txt	3
+org/glassfish/jersey/server/internal/inject/CookieParamValueFactoryProvider/CookieParamValueFactory/provide()@g_jersey-server-2.17.jar.txt	4
+org/glassfish/jersey/server/internal/monitoring/jmx/MBeanExposer/transformToStringKeys(java.util.Map)@g_jersey-server-2.17.jar.txt	2

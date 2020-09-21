@@ -1,0 +1,5 @@
+org/springframework/boot/loader/tools/JarWriter/writeNestedLibrary(java.lang.String,org.springframework.boot.loader.tools.Library)@g_spring-boot-loader-tools-1.3.0.BUILD-20151114.062217-808.jar.txt	0
+org/springframework/boot/loader/tools/MainClassFinder/MainClassesCallback/getMainClass()@g_spring-boot-loader-tools-1.3.0.BUILD-20151114.062217-808.jar.txt	2
+org/springframework/boot/loader/tools/Repackager/buildManifest(java.util.jar.JarFile)@g_spring-boot-loader-tools-1.3.0.BUILD-20151114.062217-808.jar.txt	4
+org/springframework/boot/loader/tools/MainClassFinder/doWithMainClasses(java.util.jar.JarFile,java.lang.String,org.springframework.boot.loader.tools.MainClassFinder$ClassNameCallback)@g_spring-boot-loader-tools-1.3.0.BUILD-20151114.062217-808.jar.txt	3
+org/springframework/boot/loader/tools/JarWriter/writeNestedLibrary(java.lang.String,org.springframework.boot.loader.tools.Library)@g_spring-boot-loader-tools-1.3.0.BUILD-SNAPSHOT.jar.txt	1

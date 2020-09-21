@@ -1,0 +1,5 @@
+org/activiti/bpmn/converter/UserTaskXMLConverter/writeCustomIdentities(org.activiti.bpmn.model.UserTask,java.lang.String,java.util.Set,java.util.Set,javax.xml.stream.XMLStreamWriter)@g_activiti-bpmn-converter-5.17.0.jar.txt	0
+org/activiti/bpmn/converter/export/SignalAndMessageDefinitionExport/writeSignalsAndMessages(org.activiti.bpmn.model.BpmnModel,javax.xml.stream.XMLStreamWriter)@g_activiti-bpmn-converter-5.17.0.jar.txt	4
+org/activiti/bpmn/converter/export/LaneExport/writeLanes(org.activiti.bpmn.model.Process,javax.xml.stream.XMLStreamWriter)@g_activiti-bpmn-converter-5.17.0.jar.txt	2
+org/activiti/bpmn/converter/BaseBpmnXMLConverter/writeMessageDefinition(org.activiti.bpmn.model.Event,org.activiti.bpmn.model.MessageEventDefinition,org.activiti.bpmn.model.BpmnModel,javax.xml.stream.XMLStreamWriter)@g_activiti-bpmn-converter-5.17.0.jar.txt	3
+org/activiti/bpmn/converter/BpmnXMLConverter/createXML(org.activiti.bpmn.model.FlowElement,org.activiti.bpmn.model.BpmnModel,javax.xml.stream.XMLStreamWriter)@g_activiti-bpmn-converter-5.17.0.jar.txt	1

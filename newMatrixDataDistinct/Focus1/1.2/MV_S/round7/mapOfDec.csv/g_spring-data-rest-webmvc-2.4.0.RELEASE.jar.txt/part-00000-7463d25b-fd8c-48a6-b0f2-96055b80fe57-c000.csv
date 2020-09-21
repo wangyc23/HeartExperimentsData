@@ -1,0 +1,5 @@
+org/springframework/data/web/config/EnableSpringDataWebSupport/SpringDataWebConfigurationImportSelector/selectImports(org.springframework.core.type.AnnotationMetadata)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	4
+org/springframework/data/repository/support/ReflectionRepositoryInvoker/prepareParameters(java.lang.reflect.Method,org.springframework.util.MultiValueMap,org.springframework.data.domain.Pageable,org.springframework.data.domain.Sort)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	1
+org/springframework/data/mapping/PropertyPath/create(java.lang.String,org.springframework.data.util.TypeInformation,java.lang.String,java.util.List)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	3
+org/springframework/data/rest/core/mapping/RepositoryResourceMappings/getSearchResourceMappings(java.lang.Class)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	0
+org/springframework/data/querydsl/binding/QuerydslPredicateBuilder/convertToPropertyPathSpecificType(java.util.List,org.springframework.data.mapping.PropertyPath)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	2

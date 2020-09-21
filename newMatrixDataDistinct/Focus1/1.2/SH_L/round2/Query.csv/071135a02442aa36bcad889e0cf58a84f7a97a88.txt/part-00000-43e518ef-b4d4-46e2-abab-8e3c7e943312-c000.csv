@@ -1,0 +1,4 @@
+org/streaminer/stream/clustering/birch/CFNode/getEntries()
+org/streaminer/stream/clustering/birch/CFNode/isDummy()
+java/util/ArrayList/add(E)
+org/streaminer/stream/clustering/birch/CFEntry/getIndexList()

@@ -1,0 +1,5 @@
+org/reflections/serializers/XmlSerializer/read(java.io.InputStream)@g_reflections-0.9.9.jar.txt	1
+org/reflections/serializers/XmlSerializer/read(java.io.InputStream)@g_reflections-0.9.10.jar.txt	0
+org/reflections/scanners/MethodParameterScanner/scan(java.lang.Object)@g_reflections-0.9.10.jar.txt	2
+org/reflections/Reflections/scan()@g_reflections-0.9.10.jar.txt	4
+org/reflections/vfs/Vfs/findFiles(java.util.Collection,com.google.common.base.Predicate)@g_reflections-0.9.10.jar.txt	3

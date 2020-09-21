@@ -1,0 +1,4 @@
+java/lang/String/String(char[],int,int)
+java/io/Reader/read(char[],int,int)
+java/io/IOException/IOException(java.lang.String)
+java/lang/StringBuffer/append(char)

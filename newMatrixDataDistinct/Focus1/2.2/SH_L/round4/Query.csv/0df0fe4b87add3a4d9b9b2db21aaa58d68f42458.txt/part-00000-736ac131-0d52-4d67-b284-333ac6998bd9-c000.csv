@@ -1,0 +1,4 @@
+com/xeiam/xchange/btccentral/service/polling/BTCCentralMarketDataServiceRaw/getBTCCentralTicker()
+com/xeiam/xchange/btccentral/service/polling/BTCCentralMarketDataServiceRaw/getBTCCentralMarketDepth()
+com/xeiam/xchange/Exchange/getPollingMarketDataService()
+java/lang/Class/getName()

@@ -1,0 +1,8 @@
+0	java/lang/StringBuilder/StringBuilder(java.lang.String)
+1	org/apache/hadoop/hbase/thrift2/generated/TColumnValue/isSetTags()
+2	java/lang/StringBuilder/toString()
+3	java/lang/StringBuilder/append(java.lang.String)
+4	org/apache/hadoop/hbase/thrift2/generated/TColumnValue/isSetTimestamp()
+5	java/lang/StringBuilder/append(long)
+6	java/lang/StringBuilder/append(java.lang.Object)
+7	java/lang/StringBuilder/append(int)

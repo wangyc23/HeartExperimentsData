@@ -1,0 +1,4 @@
+0	net/nhs/esb/problem/model/Problem/getDateOfOnset()
+1	net/nhs/esb/problem/model/Problem/getDescription()
+2	net/nhs/esb/problem/model/Problem/getProblem()
+3	net/nhs/esb/problem/model/Problem/getTerminology()

@@ -1,0 +1,5 @@
+org/apache/poi/hdgf/chunks/ChunkFactory/createChunk(byte[],int)@g_poi-scratchpad-3.11.jar.txt	1
+org/apache/poi/hdgf/chunks/Chunk/processCommands()@g_poi-scratchpad-3.9.jar.txt	4
+org/apache/poi/hwpf/model/FIBFieldHandler/toString()@g_poi-scratchpad-3.9.jar.txt	2
+org/apache/poi/hslf/usermodel/SlideShow/reorderSlide(int,int)@g_poi-scratchpad-3.9.jar.txt	3
+org/apache/poi/hdgf/chunks/ChunkFactory/createChunk(byte[],int)@g_poi-scratchpad-3.9.jar.txt	0

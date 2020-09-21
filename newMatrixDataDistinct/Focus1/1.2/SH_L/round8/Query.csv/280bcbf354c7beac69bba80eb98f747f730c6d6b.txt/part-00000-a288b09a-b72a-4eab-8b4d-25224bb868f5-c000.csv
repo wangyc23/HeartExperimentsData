@@ -1,0 +1,4 @@
+org/apache/mahout/clustering/spectral/VectorCache/save(org.apache.mahout.common.Writable,org.apache.mahout.math.Vector,org.apache.mahout.vectorizer.Path,org.apache.mahout.common.Configuration,boolean,boolean)
+org/apache/mahout/common/MahoutTestCase/getConfiguration()
+org/apache/mahout/math/VectorWritable/get()
+org/apache/mahout/common/iterator/sequencefile/SequenceFileValueIterator/SequenceFileValueIterator(org.apache.mahout.vectorizer.Path,boolean,org.apache.mahout.common.Configuration)

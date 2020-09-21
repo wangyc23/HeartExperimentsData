@@ -1,0 +1,4 @@
+io/dropwizard/db/DataSourceFactory/setPassword(java.lang.String)
+io/dropwizard/db/DataSourceFactory/setDriverClass(java.lang.String)
+io/dropwizard/db/DataSourceFactory/DataSourceFactory()
+io/dropwizard/db/DataSourceFactory/setUser(java.lang.String)

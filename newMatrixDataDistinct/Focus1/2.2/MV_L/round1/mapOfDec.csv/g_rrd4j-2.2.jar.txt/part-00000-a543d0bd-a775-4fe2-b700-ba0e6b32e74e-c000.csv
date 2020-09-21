@@ -1,0 +1,5 @@
+edu/stanford/nlp/util/XMLUtils/unescapeStringForXML(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/util/Execution/fillOptionsImpl(java.lang.Object[],java.lang.Class[],java.util.Properties,boolean)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/GrammarCompactor/convertGraphsToGrammar(java.util.Set,java.util.Set,java.util.Set)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/international/arabic/IBMArabicEscaper/stripAnnotationsAndClassing(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/util/logging/OutputHandler/handle(edu.stanford.nlp.util.logging.Redwood$Record)@g_stanford-parser-3.5.2.jar.txt	0

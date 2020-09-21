@@ -1,0 +1,5 @@
+com/mysql/jdbc/NonRegisteringDriver/connectLoadBalanced(java.lang.String,java.util.Properties)@g_mysql-connector-java-5.1.18.jar.txt	1
+com/mysql/jdbc/jdbc2/optional/JDBC4StatementWrapper/unwrap(java.lang.Class)@g_mysql-connector-java-5.1.18.jar.txt	3
+com/mysql/jdbc/StringUtils/splitDBdotName(java.lang.String,java.lang.String,java.lang.String,boolean)@g_mysql-connector-java-5.1.18.jar.txt	4
+com/mysql/jdbc/NonRegisteringDriver/connectFailover(java.lang.String,java.util.Properties)@g_mysql-connector-java-5.1.18.jar.txt	0
+com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper/unwrap(java.lang.Class)@g_mysql-connector-java-5.1.18.jar.txt	2

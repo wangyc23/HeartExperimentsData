@@ -1,0 +1,4 @@
+org/codehaus/plexus/logging/Logger/isDebugEnabled()
+java/util/ArrayList/ArrayList()
+java/io/File/File(java.io.File,java.lang.String)
+org/apache/maven/model/Resource/getTargetPath()

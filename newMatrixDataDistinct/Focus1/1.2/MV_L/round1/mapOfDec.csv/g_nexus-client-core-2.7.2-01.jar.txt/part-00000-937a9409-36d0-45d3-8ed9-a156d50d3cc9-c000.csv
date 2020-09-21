@@ -1,0 +1,5 @@
+com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider/get()@g_eureka-client-1.3.4.jar.txt	3
+com/netflix/discovery/shared/Applications/getReconcileHashCode(java.util.TreeMap)@g_eureka-client-1.3.4.jar.txt	4
+org/sonatype/sisu/siesta/client/internal/ClientInvocationHandler/getHttpMethod(java.lang.reflect.Method)@g_siesta-client-1.5.2.jar.txt	2
+org/sonatype/sisu/siesta/client/internal/ClientInvocationHandler/getUrl(java.lang.reflect.Method,java.lang.Object[])@g_siesta-client-1.5.2.jar.txt	1
+com/netflix/appinfo/PropertiesInstanceConfig/getMetadataMap()@g_eureka-client-1.3.4.jar.txt	0

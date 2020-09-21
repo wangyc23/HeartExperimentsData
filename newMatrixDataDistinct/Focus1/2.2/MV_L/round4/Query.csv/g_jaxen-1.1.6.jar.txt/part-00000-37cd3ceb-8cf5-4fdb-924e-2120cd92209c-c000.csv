@@ -1,0 +1,4 @@
+org/w3c/dom/Attr/getNamespaceURI()
+org/w3c/dom/Attr/getPrefix()
+org/w3c/dom/Node/getParentNode()
+org/w3c/dom/Node/getNamespaceURI()

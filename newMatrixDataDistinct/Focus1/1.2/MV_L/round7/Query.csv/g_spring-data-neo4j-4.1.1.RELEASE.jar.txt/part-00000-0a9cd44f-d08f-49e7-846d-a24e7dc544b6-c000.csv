@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String)
+org/neo4j/ogm/transaction/Transaction/close()
+org/neo4j/ogm/transaction/Transaction/commit()
+org/springframework/transaction/TransactionStatus/isNewTransaction()

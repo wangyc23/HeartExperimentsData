@@ -1,0 +1,5 @@
+com/adobe/acs/commons/mcp/impl/processes/AssetIngestor/createFolderNode(com.adobe.acs.commons.mcp.impl.processes.AssetIngestor.HierarchialElement,org.apache.sling.api.resource.ResourceResolver)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	4
+com/adobe/acs/commons/designer/impl/DesignHtmlLibraryManagerImpl/getJsLibraries(com.day.cq.wcm.api.designer.Design,com.adobe.acs.commons.designer.PageRegion)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+com/adobe/acs/commons/version/impl/CurrentEvolutionImpl/getVersionDate()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1
+com/adobe/acs/commons/wcm/impl/ComponentErrorHandlerImpl/isFirstInChain(org.apache.sling.api.SlingHttpServletRequest)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	0
+com/adobe/acs/commons/functions/Consumer/Adapter/accept(T)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2

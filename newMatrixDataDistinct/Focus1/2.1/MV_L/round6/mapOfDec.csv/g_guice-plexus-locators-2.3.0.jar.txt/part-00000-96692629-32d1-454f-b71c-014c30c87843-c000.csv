@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/instantiateCollection(org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.ClassLoader)@g_org.eclipse.sisu.plexus-0.0.0.M5.jar.txt	4
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parseRequirement(org.codehaus.plexus.util.xml.pull.MXParser,org.sonatype.guice.bean.reflect.ClassSpace,java.util.Map)@g_sisu-inject-plexus-2.3.0.jar.txt	0
+org/sonatype/guice/plexus/locators/ClassRealmUtils/computeVisibleNames(org.codehaus.plexus.classworlds.realm.ClassRealm)@g_sisu-inject-plexus-2.3.0.jar.txt	1
+org/eclipse/sisu/plexus/PlexusXmlScanner/parseRequirement(org.codehaus.plexus.util.xml.pull.MXParser,org.eclipse.sisu.space.ClassSpace,java.util.Map)@g_org.eclipse.sisu.plexus-0.0.0.M5.jar.txt	3
+org/eclipse/sisu/plexus/ClassRealmUtils/computeVisibleNames(org.codehaus.plexus.classworlds.realm.ClassRealm)@g_org.eclipse.sisu.plexus-0.0.0.M5.jar.txt	2

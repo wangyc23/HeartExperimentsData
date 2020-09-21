@@ -1,0 +1,5 @@
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/run(java.lang.String[])@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	1
+eu/scape_project/archiventory/Archiventory/createContainer(java.io.InputStream,java.lang.String)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	3
+eu/scape_project/archiventory/output/SimpleKeyValueOutputWriter/write(java.util.HashMap,org.apache.hadoop.mapreduce.lib.output.MultipleOutputs)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	4
+eu/scape_project/archiventory/container/TestContainer/createTempTestFile(java.lang.String)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	2
+eu/scape_project/archiventory/hadoop/ArcRecordReader/getMimeType(org.archive.io.ArchiveRecord,org.apache.commons.httpclient.Header[])@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	0

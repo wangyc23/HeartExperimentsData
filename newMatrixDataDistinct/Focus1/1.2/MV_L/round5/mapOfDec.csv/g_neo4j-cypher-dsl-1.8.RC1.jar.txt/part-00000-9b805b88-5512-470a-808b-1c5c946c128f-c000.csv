@@ -1,0 +1,5 @@
+org/neo4j/cypherdsl/result/JSONSerializer/addProperty(org.codehaus.jackson.node.ObjectNode,java.lang.String,java.lang.Object)@g_neo4j-cypher-dsl-2.0.1.jar.txt	0
+org/springframework/data/neo4j/repository/query/TypeRestrictingWhereClause/collectAliases(org.springframework.data.neo4j.support.mapping.StoredEntityType)@g_spring-data-neo4j-2.1.0.RELEASE.jar.txt	2
+org/neo4j/cypherdsl/querydsl/CypherQueryDSL/1/arg(com.mysema.query.types.Expression)@g_neo4j-cypher-dsl-2.0.1.jar.txt	1
+org/neo4j/cypherdsl/result/JSONSerializer/toJSON(java.lang.Iterable)@g_neo4j-cypher-dsl-2.0.1.jar.txt	3
+org/neo4j/cypherdsl/querydsl/CypherQueryDSL/1/visit(com.mysema.query.types.Operation,org.neo4j.cypherdsl.expression.BooleanExpression)@g_neo4j-cypher-dsl-2.0.1.jar.txt	4

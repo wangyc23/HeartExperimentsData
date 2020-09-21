@@ -1,0 +1,4 @@
+org/codehaus/mojo/buildhelper/AttachArtifactMojo/getLog()
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/apache/maven/plugin/logging/Log/debug(java.lang.CharSequence)
+java/lang/StringBuilder/append(java.lang.String)

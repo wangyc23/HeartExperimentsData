@@ -1,0 +1,5 @@
+kg/apc/jmeter/modifiers/RawRequestSourcePreProcessorTest/testProcess_nonzeroterminated()@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	4
+kg/apc/jmeter/dbmon/ResultSetEmul/getArray(int)@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	2
+kg/apc/jmeter/dbmon/DbmonTest/getQueryResult(java.lang.String)@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	3
+kg/apc/jmeter/dbmon/StatementEmul/getResultSetConcurrency()@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	0
+com/googlecode/jmeter/plugins/webdriver/config/WebDriverConfigTest/shouldHandleScenarioWhenBrowserHasAlreadyQuit()@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	1

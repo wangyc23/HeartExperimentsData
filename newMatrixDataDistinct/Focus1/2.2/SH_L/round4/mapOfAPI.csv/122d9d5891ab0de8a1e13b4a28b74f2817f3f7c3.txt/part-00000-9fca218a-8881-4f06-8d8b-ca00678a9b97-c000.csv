@@ -1,0 +1,8 @@
+0	java/util/Arrays/asList(T[])
+1	java/nio/ByteBuffer/array()
+2	java/nio/ByteBuffer/put(byte)
+3	java/nio/ByteBuffer/allocate(int)
+4	java/nio/ByteBuffer/put(byte[])
+5	java/lang/String/getBytes()
+6	java/lang/String/getBytes(java.lang.String)
+7	io/druid/query/lookup/LookupExtractor/getCacheKey()

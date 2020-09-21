@@ -1,0 +1,4 @@
+org/objectweb/asm/signature/SignatureReader/accept(org.objectweb.asm.signature.SignatureVisitor)
+java/lang/String/toUpperCase()
+java/lang/StringBuffer/append(char)
+java/lang/Integer/toHexString(int)

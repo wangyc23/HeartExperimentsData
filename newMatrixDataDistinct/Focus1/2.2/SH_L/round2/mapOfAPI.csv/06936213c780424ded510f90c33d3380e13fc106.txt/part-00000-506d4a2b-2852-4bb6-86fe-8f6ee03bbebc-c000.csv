@@ -1,0 +1,7 @@
+0	com/ibm/taste/example/movie/model/RecommendMovieList/getRecommendMovies()
+1	org/apache/eagle/storage/jdbc/conn/impl/TorqueConnectionManagerImpl/TorqueConnectionManagerImpl()
+2	com/ibm/taste/example/movie/model/RecommendMovie/toString()
+3	org/apache/eagle/storage/jdbc/conn/ConnectionManager/init(org.apache.eagle.storage.jdbc.conn.ConnectionConfig)
+4	java/io/PrintWriter/println(java.lang.String)
+5	java/lang/Runtime/addShutdownHook(java.lang.Thread)
+6	java/lang/Runtime/getRuntime()

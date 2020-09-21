@@ -1,0 +1,4 @@
+java/lang/Class/getResourceAsStream(java.lang.String)
+javax/xml/parsers/DocumentBuilder/parse(java.io.InputStream)
+org/apache/maven/plugins/source/HelpMojo/getLog()
+org/apache/maven/plugin/logging/Log/debug(java.lang.CharSequence)

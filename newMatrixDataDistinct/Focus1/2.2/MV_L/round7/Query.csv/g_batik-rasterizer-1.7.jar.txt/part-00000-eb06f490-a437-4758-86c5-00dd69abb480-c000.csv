@@ -1,0 +1,4 @@
+java/lang/Float/isNaN(float)
+java/lang/Float/parseFloat(java.lang.String)
+java/lang/String/toLowerCase()
+java/util/StringTokenizer/nextToken()

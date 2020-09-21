@@ -1,0 +1,5 @@
+com/google/inject/internal/MoreTypes/canonicalize(java.lang.reflect.Type)@g_sisu-guice-2.9.4-no_aop.jar.txt	3
+com/google/inject/internal/util/CustomConcurrentHashMap/Impl/Segment/removeEntry(java.lang.Object,int,java.lang.Object)@g_sisu-guice-2.9.4-no_aop.jar.txt	2
+com/google/inject/internal/MoreTypes/equals(java.lang.reflect.Type,java.lang.reflect.Type)@g_sisu-guice-2.1.7-noaop.jar.txt	1
+com/google/inject/internal/util/ImmutableSet/create(java.lang.Iterable,int)@g_sisu-guice-2.9.4-no_aop.jar.txt	4
+com/google/inject/internal/MoreTypes/equals(java.lang.reflect.Type,java.lang.reflect.Type)@g_sisu-guice-2.9.4-no_aop.jar.txt	0

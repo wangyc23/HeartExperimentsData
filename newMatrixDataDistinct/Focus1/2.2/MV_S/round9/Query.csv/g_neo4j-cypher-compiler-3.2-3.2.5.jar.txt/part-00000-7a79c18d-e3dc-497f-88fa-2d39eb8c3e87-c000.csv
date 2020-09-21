@@ -1,0 +1,4 @@
+scala/Some/x()
+org/neo4j/cypher/internal/frontend/v3_2/ast/FunctionInvocation/function()
+org/neo4j/cypher/internal/frontend/v3_2/ast/AllIterablePredicate/expression()
+org/neo4j/cypher/internal/frontend/v3_2/ast/FilterScope/innerPredicate()

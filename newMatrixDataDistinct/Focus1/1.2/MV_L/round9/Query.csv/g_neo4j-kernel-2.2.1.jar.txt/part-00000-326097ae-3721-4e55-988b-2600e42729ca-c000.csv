@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/isEmpty()
+java/util/List/size()

@@ -1,0 +1,4 @@
+java/util/Collections/unmodifiableSortedMap(java.util.SortedMap)
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+java/util/concurrent/ConcurrentMap/entrySet()

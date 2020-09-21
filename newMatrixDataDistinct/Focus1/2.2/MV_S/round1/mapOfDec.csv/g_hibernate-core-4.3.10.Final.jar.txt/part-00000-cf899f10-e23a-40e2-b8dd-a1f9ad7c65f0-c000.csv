@@ -1,0 +1,5 @@
+org/hibernate/bytecode/buildtime/AbstractInstrumenter/2/handleEntry(java.util.zip.ZipEntry,byte[])@g_hibernate-core-3.5.5-Final.jar.txt	1
+org/hibernate/bytecode/buildtime/AbstractInstrumenter/processJarFile(java.io.File,java.util.Set)@g_hibernate-core-3.5.5-Final.jar.txt	4
+org/hibernate/bytecode/buildtime/AbstractInstrumenter/processClassFile(java.io.File,java.util.Set)@g_hibernate-core-3.5.5-Final.jar.txt	0
+org/hibernate/tool/hbm2ddl/SchemaValidatorTask/getFiles()@g_hibernate-core-3.5.5-Final.jar.txt	3
+org/hibernate/tool/hbm2ddl/SchemaUpdateTask/getFiles()@g_hibernate-core-3.5.5-Final.jar.txt	2

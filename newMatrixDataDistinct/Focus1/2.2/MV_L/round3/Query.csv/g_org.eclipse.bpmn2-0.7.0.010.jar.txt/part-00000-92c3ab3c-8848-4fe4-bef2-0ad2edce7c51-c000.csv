@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/emf/ecore/EStructuralFeature$Setting/getEObject()
+org/eclipse/emf/ecore/util/EObjectEList/EObjectEList(java.lang.Class,org.eclipse.emf.ecore.InternalEObject,int)

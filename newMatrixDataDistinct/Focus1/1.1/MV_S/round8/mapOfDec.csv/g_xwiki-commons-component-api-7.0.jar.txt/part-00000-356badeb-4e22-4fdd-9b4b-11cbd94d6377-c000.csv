@@ -1,0 +1,5 @@
+com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_reflectasm-1.07-shaded.jar.txt	4
+com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_kryo-2.21.jar.txt	1
+com/esotericsoftware/reflectasm/MethodAccess/get(java.lang.Class)@g_kryo-2.21.jar.txt	2
+com/esotericsoftware/reflectasm/FieldAccess/get(java.lang.Class)@g_kryo-2.21.jar.txt	3
+com/esotericsoftware/kryo/serializers/FieldSerializer/rebuildCachedFields()@g_kryo-2.21.jar.txt	0

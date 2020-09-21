@@ -1,0 +1,4 @@
+java/io/InputStream/read(byte[],int,int)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String,java.lang.Throwable)
+java/security/MessageDigest/digest()
+java/security/MessageDigest/update(byte[],int,int)

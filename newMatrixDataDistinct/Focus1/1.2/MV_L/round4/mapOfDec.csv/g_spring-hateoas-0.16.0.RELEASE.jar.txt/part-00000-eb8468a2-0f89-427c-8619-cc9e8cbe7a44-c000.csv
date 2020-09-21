@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/deser/std/CollectionDeserializer/CollectionReferringAccumulator/resolveForwardReference(java.lang.Object,java.lang.Object)@g_spring-hateoas-0.19.0.RELEASE.jar.txt	4
+org/springframework/hateoas/core/DummyInvocationUtils/InvocationRecordingMethodInterceptor/intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],org.springframework.cglib.proxy.MethodProxy)@g_spring-hateoas-0.19.0.RELEASE.jar.txt	0
+org/springframework/hateoas/hal/Jackson2HalModule/HalLinkListDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_spring-hateoas-0.19.0.RELEASE.jar.txt	3
+org/springframework/hateoas/core/JsonPathLinkDiscoverer/<clinit>()@g_spring-hateoas-0.19.0.RELEASE.jar.txt	1
+com/fasterxml/jackson/databind/ser/std/BeanSerializerBase/createContextual(com.fasterxml.jackson.databind.SerializerProvider,com.fasterxml.jackson.databind.BeanProperty)@g_jackson-databind-2.4.4.jar.txt	2

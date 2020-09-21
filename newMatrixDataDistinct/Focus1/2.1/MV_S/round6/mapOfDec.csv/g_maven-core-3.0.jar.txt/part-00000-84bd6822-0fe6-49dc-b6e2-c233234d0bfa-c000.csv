@@ -1,0 +1,5 @@
+org/apache/maven/lifecycle/internal/MojoExecutor/executeForkedExecutions(org.apache.maven.plugin.MojoExecution,org.apache.maven.execution.MavenSession,org.apache.maven.lifecycle.internal.ProjectIndex)@g_maven-project-3.0-alpha-2.jar.txt	4
+org/apache/maven/project/MavenProject/getRuntimeArtifacts()@g_maven-project-3.0-alpha-2.jar.txt	1
+org/apache/maven/project/MavenProject/addArtifactPath(org.apache.maven.artifact.Artifact,java.util.List)@g_maven-project-3.0-alpha-2.jar.txt	3
+org/apache/maven/profiles/ProfilesConversionUtils/convertFromProfileXmlRepository(org.apache.maven.profiles.Repository)@g_maven-project-3.0-alpha-2.jar.txt	2
+org/apache/maven/toolchain/DefaultToolchain/matchesRequirements(java.util.Map)@g_maven-project-3.0-alpha-2.jar.txt	0

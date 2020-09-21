@@ -1,0 +1,4 @@
+java/lang/String/getBytes(java.lang.String)
+java/security/MessageDigest/update(byte[])
+java/lang/Object/toString()
+org/apache/pdfbox/pdmodel/encryption/PDStandardEncryption/getCOSDictionary()

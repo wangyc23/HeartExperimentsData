@@ -1,0 +1,4 @@
+0	javax/validation/Validator/validate(T,java.lang.Class<?>[])
+1	org/lambico/test/spring/EnhancedTestCase/assertSize(int,java.util.Collection)
+2	org/recipesearch/web/beans/UserBeanTest/buildValidUserBean()
+3	javax/validation/Validation/buildDefaultValidatorFactory()

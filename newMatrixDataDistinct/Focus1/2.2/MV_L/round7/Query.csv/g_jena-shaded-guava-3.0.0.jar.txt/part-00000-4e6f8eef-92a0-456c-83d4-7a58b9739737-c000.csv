@@ -1,0 +1,4 @@
+java/util/Iterator/remove()
+java/util/Iterator/hasNext()
+java/util/Collections/unmodifiableList(java.util.List)
+java/util/List/add(java.lang.Object)

@@ -1,0 +1,4 @@
+com/ebay/jetstream/event/channel/AbstractBatchInboundChannel/isPaused()
+com/ebay/jetstream/event/channel/kafka/PartitionCoordinator/getToReleasePartitions(java.lang.String,int)
+com/ebay/jetstream/event/channel/kafka/KafkaConsumerConfig/getGroupId()
+java/util/concurrent/atomic/AtomicBoolean/get()

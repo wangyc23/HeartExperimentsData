@@ -1,0 +1,5 @@
+storm/starter/TweetSpout/nextTuple()@1691d10126ccad1047718f55f8e88691573c7ccc.txt	1
+collabstream/streaming/BlockPair/Serialization/serialize(collabstream.streaming.BlockPair,java.io.DataOutputStream)@1691d10126ccad1047718f55f8e88691573c7ccc.txt	4
+comparison/dsgd/reducer/DSGDOutputFactorsReducer/cleanup(org.apache.hadoop.mapreduce.Reducer.Context)@1691d10126ccad1047718f55f8e88691573c7ccc.txt	3
+com/gsihadoop/App/run(java.lang.String[])@3049174796a12924051acfb8b60539b5ba1661a0.txt	2
+storm/starter/SentimentBolt/execute(backtype.storm.tuple.Tuple)@1691d10126ccad1047718f55f8e88691573c7ccc.txt	0

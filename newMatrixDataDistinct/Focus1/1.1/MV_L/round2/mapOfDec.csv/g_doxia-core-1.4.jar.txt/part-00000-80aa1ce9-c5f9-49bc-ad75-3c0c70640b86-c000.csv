@@ -1,0 +1,5 @@
+org/apache/maven/doxia/parser/AbstractXmlParser/CachedFileEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_doxia-core-1.5.jar.txt	3
+org/apache/maven/doxia/document/io/xpp3/DocumentXpp3Reader/read(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-core-1.5.jar.txt	2
+org/apache/maven/doxia/parser/XhtmlBaseParser/logMessage(java.lang.String,java.lang.String)@g_doxia-core-1.5.jar.txt	4
+org/apache/maven/doxia/parser/XhtmlBaseParser/baseStartTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-core-1.5.jar.txt	0
+org/apache/maven/doxia/parser/XhtmlBaseParser/baseStartTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-core-1.2.jar.txt	1

@@ -1,0 +1,4 @@
+com/google/inject/name/Named/value()
+java/lang/String/length()
+com/google/inject/Binder/bind(com.google.inject.Key)
+com/google/inject/TypeLiteral/getRawType()

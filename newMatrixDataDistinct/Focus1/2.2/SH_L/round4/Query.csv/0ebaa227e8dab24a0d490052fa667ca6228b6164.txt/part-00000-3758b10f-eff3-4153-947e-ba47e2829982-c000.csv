@@ -1,0 +1,4 @@
+org/apache/commons/math3/distribution/NormalDistribution/sample()
+java/util/ArrayList/ArrayList()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Random/nextInt(int)

@@ -1,0 +1,5 @@
+org/keycloak/util/StringPropertyReplacer/resolveCompositeKey(java.lang.String,java.util.Properties)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	0
+org/keycloak/email/freemarker/FreeMarkerEmailProvider/send(java.lang.String,java.lang.String,java.util.Map)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	4
+org/keycloak/examples/federation/properties/BasePropertiesFederationProvider/getUserByUsername(org.keycloak.models.RealmModel,java.lang.String)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	1
+org/keycloak/examples/federation/properties/BasePropertiesFederationProvider/validCredentials(org.keycloak.models.RealmModel,org.keycloak.models.UserModel,org.keycloak.models.UserCredentialModel[])@2b58332190757831b1d0874f2db5d8351f10bd14.txt	2
+org/keycloak/examples/federation/properties/BasePropertiesFederationProvider/validCredentials(org.keycloak.models.RealmModel,org.keycloak.models.UserModel,java.util.List)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	3

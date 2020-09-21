@@ -1,0 +1,5 @@
+org/jvnet/hk2/internal/ServiceLocatorImpl/getAllServiceHandles(java.lang.annotation.Annotation,java.lang.annotation.Annotation[])@g_hk2-locator-2.2.0.jar.txt	0
+org/jvnet/hk2/internal/Utilities/loadClass(java.lang.String,org.glassfish.hk2.api.Injectee)@g_hk2-locator-2.2.0.jar.txt	4
+org/jvnet/hk2/internal/ServiceLocatorImpl/6/compute(org.jvnet.hk2.internal.ServiceLocatorImpl$IgdCacheKey)@g_hk2-locator-2.2.0.jar.txt	1
+org/jvnet/hk2/internal/SystemDescriptor/getFactoryDescriptor(java.lang.reflect.Method,java.lang.reflect.Type,org.jvnet.hk2.internal.ServiceLocatorImpl,org.jvnet.hk2.internal.Collector)@g_hk2-locator-2.2.0.jar.txt	2
+org/jvnet/hk2/internal/SingletonContext/shutdown()@g_hk2-locator-2.2.0.jar.txt	3

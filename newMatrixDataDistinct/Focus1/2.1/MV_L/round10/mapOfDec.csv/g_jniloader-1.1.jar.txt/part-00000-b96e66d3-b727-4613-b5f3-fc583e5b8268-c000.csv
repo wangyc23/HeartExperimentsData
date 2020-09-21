@@ -1,0 +1,5 @@
+com/github/fommil/netlib/LAPACK/<clinit>()@g_core-1.1.jar.txt	1
+py4j/reflection/ReflectionEngine/getPublicStaticFieldNames(java.lang.Class)@g_core-1.1.jar.txt	2
+py4j/commands/DirCommand/execute(java.lang.String,java.io.BufferedReader,java.io.BufferedWriter)@g_core-1.1.jar.txt	4
+com/github/fommil/netlib/BLAS/<clinit>()@g_core-1.1.jar.txt	0
+py4j/reflection/ReflectionEngine/getPublicStaticMethodNames(java.lang.Class)@g_core-1.1.jar.txt	3

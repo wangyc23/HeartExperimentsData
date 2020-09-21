@@ -1,0 +1,5 @@
+com/google/common/collect/FilteredEntryMultimap/AsMap/1ValuesImpl/remove(java.lang.Object)@g_guava-19.0-rc3.jar.txt	4
+com/google/common/collect/StandardTable/removeColumn(java.lang.Object)@g_guava-19.0-rc3.jar.txt	2
+com/google/common/collect/StandardTable/Column/removeFromColumnIf(com.google.common.base.Predicate)@g_guava-19.0-rc3.jar.txt	0
+com/google/common/collect/FilteredEntryMultimap/AsMap/remove(java.lang.Object)@g_guava-19.0-rc3.jar.txt	1
+com/google/common/collect/FilteredEntryMultimap/removeEntriesIf(com.google.common.base.Predicate)@g_guava-19.0-rc3.jar.txt	3

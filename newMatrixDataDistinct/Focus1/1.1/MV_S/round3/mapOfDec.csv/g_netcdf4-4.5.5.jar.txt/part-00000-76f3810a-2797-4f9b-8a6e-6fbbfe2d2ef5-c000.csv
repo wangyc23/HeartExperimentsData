@@ -1,0 +1,5 @@
+ucar/nc2/iosp/hdf5/H5iosp/convertStrings(ucar.ma2.ArrayStructureBB,int,ucar.ma2.StructureMembers)@g_netcdf-4.2-min.jar.txt	0
+ucar/nc2/iosp/gempak/GempakParameterTable/getInputStream(java.lang.String)@g_jackcess-2.1.8.jar.txt	2
+ucar/nc2/jni/netcdf/Nc4Iosp/copy(ucar.ma2.StructureData,ucar.ma2.StructureMembers$Member,java.nio.ByteBuffer)@g_jackcess-2.1.8.jar.txt	4
+ucar/nc2/ft/FeatureDatasetFactoryManager/registerFactory(java.lang.Class)@g_jackcess-2.1.8.jar.txt	3
+thredds/catalog2/xml/parser/stax/ServiceElementParser/parseStartElement()@g_jackcess-2.1.8.jar.txt	1

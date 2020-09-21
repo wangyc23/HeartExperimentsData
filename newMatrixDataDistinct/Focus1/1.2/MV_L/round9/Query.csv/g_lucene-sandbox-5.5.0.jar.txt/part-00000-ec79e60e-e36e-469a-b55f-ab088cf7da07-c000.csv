@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/setLength(int)
+org/apache/lucene/util/ToStringUtils/boost(float)
+java/lang/StringBuilder/StringBuilder()

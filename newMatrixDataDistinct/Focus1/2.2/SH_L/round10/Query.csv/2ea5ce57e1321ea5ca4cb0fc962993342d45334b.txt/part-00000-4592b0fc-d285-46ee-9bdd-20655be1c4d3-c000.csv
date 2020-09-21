@@ -1,0 +1,4 @@
+java/awt/image/DataBuffer/getDataType()
+org/dcm4che3/imageio/plugins/rle/RLEImageReader/read(short[])
+java/awt/image/DataBufferShort/getData()
+java/awt/image/DataBufferByte/getBankData()

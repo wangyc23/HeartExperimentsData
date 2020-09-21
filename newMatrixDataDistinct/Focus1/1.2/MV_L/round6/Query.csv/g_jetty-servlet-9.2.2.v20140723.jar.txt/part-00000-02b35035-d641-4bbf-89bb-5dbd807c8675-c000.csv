@@ -1,0 +1,4 @@
+org/eclipse/jetty/servlet/ServletHolder/isAsyncSupported()
+java/lang/StringBuilder/append(java.lang.String)
+javax/servlet/UnavailableException/UnavailableException(java.lang.String)
+org/eclipse/jetty/servlet/ServletHolder/getName()

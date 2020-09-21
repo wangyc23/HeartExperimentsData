@@ -1,0 +1,5 @@
+org/apache/bcel/classfile/JavaClass/toString()@g_xalan-2.7.2.jar.txt	2
+org/apache/xalan/xslt/EnvironmentCheck/checkProcessorVersion(java.util.Hashtable)@g_xalan-2.7.2.jar.txt	0
+org/apache/xalan/xsltc/cmdline/Transform/doTransform()@g_xalan-2.7.2.jar.txt	4
+org/apache/xml/dtm/ref/IncrementalSAXSource_Filter/run()@g_xalan-2.7.2.jar.txt	3
+org/apache/xml/utils/ObjectFactory/findJarServiceProviderName(java.lang.String)@g_xalan-2.7.2.jar.txt	1

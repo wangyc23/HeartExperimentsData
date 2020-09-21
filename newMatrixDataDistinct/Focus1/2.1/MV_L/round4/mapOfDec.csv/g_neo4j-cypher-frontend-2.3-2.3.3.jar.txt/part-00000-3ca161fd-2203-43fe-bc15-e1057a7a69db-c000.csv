@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/frontend/v2_3/perty/gen/scalaDocGen/handleListType/typecreator12/1/apply(scala.reflect.api.Mirror)@g_neo4j-cypher-frontend-2.3-2.3.11.jar.txt	3
+org/neo4j/cypher/internal/frontend/v2_3/parser/Clauses/anonfun/Foreach/1/apply()@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	1
+org/neo4j/cypher/internal/frontend/v2_3/parser/InvalidInputErrorFormatter/format(org.parboiled.errors.InvalidInputError)@g_neo4j-cypher-frontend-2.3-2.3.11.jar.txt	2
+org/neo4j/cypher/internal/frontend/v2_3/ast/ReduceExpression/semanticCheck(org.neo4j.cypher.internal.frontend.v2_3.ast.Expression$SemanticContext)@g_neo4j-cypher-frontend-2.3-2.3.11.jar.txt	4
+org/neo4j/cypher/internal/frontend/v2_3/parser/Clauses/anonfun/Foreach/1/apply()@g_neo4j-cypher-frontend-2.3-2.3.11.jar.txt	0

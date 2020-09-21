@@ -1,0 +1,5 @@
+org/apache/maven/artifact/resolver/DefaultArtifactCollector/recurse(org.apache.maven.artifact.resolver.ResolutionNode,java.util.Map,org.apache.maven.artifact.versioning.ManagedVersionMap,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List,org.apache.maven.artifact.metadata.ArtifactMetadataSource,org.apache.maven.artifact.resolver.filter.ArtifactFilter,java.util.List)@g_maven-artifact-2.0.7.jar.txt	0
+com/drew/imaging/jpeg/JpegSegmentReader/readSegments()@g_maven-artifact-2.0.7.jar.txt	4
+com/drew/metadata/Metadata/getDirectory(java.lang.Class)@g_metadata-extractor-2.4.0-beta-1.jar.txt	1
+org/apache/maven/artifact/repository/ArtifactRepositoryPolicy/checkOutOfDate(java.util.Date)@g_maven-artifact-2.0.7.jar.txt	2
+org/apache/maven/artifact/versioning/VersionRange/createFromVersionSpec(java.lang.String)@g_maven-artifact-2.0.7.jar.txt	3

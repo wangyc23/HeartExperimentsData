@@ -1,0 +1,4 @@
+org/coode/owlapi/obo12/parser/PartOfTagValueHandler/getOntology()
+org/coode/owlapi/obo12/parser/PartOfTagValueHandler/applyChange(org.semanticweb.owlapi.model.OWLOntologyChange)
+org/semanticweb/owlapi/model/AddAxiom/AddAxiom(org.semanticweb.owlapi.model.OWLOntology,org.semanticweb.owlapi.model.OWLAxiom)
+java/lang/String/length()

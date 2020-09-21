@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/core/AliasMapper/initAliases(java.io.InputStream)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/osgi/framework/debug/EclipseDebugTrace/checkTraceFileSize(java.io.File,long)@g_org.eclipse.osgi-3.7.1.jar.txt	2
+org/eclipse/core/runtime/internal/adaptor/EclipseLogWriter/checkLogFileSize()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/core/runtime/internal/adaptor/EclipseLogWriter/checkLogFileSize()@g_org.eclipse.osgi-3.7.1.jar.txt	1
+org/eclipse/osgi/framework/internal/core/AliasMapper/initAliases(java.io.InputStream)@g_org.eclipse.osgi-3.7.1.jar.txt	0

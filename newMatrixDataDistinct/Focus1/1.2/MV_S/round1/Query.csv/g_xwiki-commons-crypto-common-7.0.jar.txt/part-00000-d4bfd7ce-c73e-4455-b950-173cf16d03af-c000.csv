@@ -1,0 +1,4 @@
+org/bouncycastle/crypto/params/DHParameters/getG()
+org/bouncycastle/crypto/params/DHParameters/getJ()
+org/bouncycastle/crypto/params/DHParameters/getM()
+java/lang/StringBuilder/append(java.lang.String)

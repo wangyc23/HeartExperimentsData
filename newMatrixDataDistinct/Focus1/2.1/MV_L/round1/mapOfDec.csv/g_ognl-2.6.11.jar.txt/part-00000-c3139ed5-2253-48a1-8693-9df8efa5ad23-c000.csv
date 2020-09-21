@@ -1,0 +1,5 @@
+org/springframework/core/GenericTypeResolver/getTypeVariableMap(java.lang.Class)@g_spring-core-2.5.6.jar.txt	4
+org/springframework/util/NumberUtils/convertNumberToTargetClass(java.lang.Number,java.lang.Class)@g_spring-core-2.5.6.jar.txt	3
+org/springframework/util/ObjectUtils/nullSafeEquals(java.lang.Object,java.lang.Object)@g_spring-core-2.5.6.jar.txt	0
+org/springframework/util/ReflectionUtils/findMethod(java.lang.Class,java.lang.String,java.lang.Class[])@g_spring-core-2.5.6.jar.txt	2
+org/springframework/core/Constants/toCode(java.lang.Object,java.lang.String)@g_spring-core-2.5.6.jar.txt	1

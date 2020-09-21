@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/util/AbstractOWLOntologyStorer/storeOntology(org.semanticweb.owlapi.model.OWLOntology,org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.OWLOntologyFormat)@g_sesame-queryalgebra-model-2.7.9.jar.txt	1
+org/coode/owlapi/rdf/rdfxml/RDFXMLRenderer/render(org.coode.owlapi.rdf.model.RDFResourceNode)@g_sesame-queryalgebra-model-2.7.9.jar.txt	4
+org/coode/owlapi/obo/parser/ParseException/add_escapes(java.lang.String)@g_sesame-queryalgebra-model-2.7.9.jar.txt	3
+org/semanticweb/owlapi/io/AbstractOWLParser/getInputStream(org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.OWLOntologyLoaderConfiguration)@g_sesame-queryalgebra-model-2.7.9.jar.txt	2
+org/jgrapht/alg/cycle/TiernanSimpleCycles/findSimpleCycles()@g_sesame-queryalgebra-model-2.7.9.jar.txt	0

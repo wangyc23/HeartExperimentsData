@@ -1,0 +1,5 @@
+org/eclipse/jetty/util/IPAddressMap/IPAddrPattern/match(java.lang.String)@g_jetty-util-7.4.4.v20110707.jar.txt	3
+org/eclipse/jetty/util/StringUtil/sidStringToBytes(java.lang.String)@g_jetty-util-7.4.4.v20110707.jar.txt	2
+org/eclipse/jetty/util/ajax/JSON/parseNumber(org.eclipse.jetty.util.ajax.JSON$Source)@g_jetty-util-7.4.4.v20110707.jar.txt	1
+org/eclipse/jetty/util/TypeUtil/jarFor(java.lang.String)@g_jetty-util-7.4.4.v20110707.jar.txt	4
+org/eclipse/jetty/util/security/Credential/MD5/check(java.lang.Object)@g_jetty-util-8.1.22.v20160922.jar.txt	0

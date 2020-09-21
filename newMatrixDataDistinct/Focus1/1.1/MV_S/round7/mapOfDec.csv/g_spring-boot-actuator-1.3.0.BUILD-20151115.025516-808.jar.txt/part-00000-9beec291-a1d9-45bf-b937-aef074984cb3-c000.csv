@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/getNumberKeys(java.lang.Object)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	0
+org/springframework/boot/actuate/endpoint/DataSourcePublicMetrics/initialize()@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	1
+org/springframework/boot/actuate/endpoint/ConfigurationPropertiesReportEndpoint/ConfigurationPropertiesMetaData/addProperty(java.lang.Object,java.lang.String,java.util.Map)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	4
+org/springframework/boot/actuate/endpoint/EnvironmentEndpoint/invoke()@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	2
+org/springframework/boot/actuate/endpoint/RequestMappingEndpoint/extractMethodMappings(org.springframework.context.ApplicationContext,java.util.Map)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	3

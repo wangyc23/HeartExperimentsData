@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/openflow/protocol/queue/OFQueueProperty/getType()
+org/openflow/protocol/queue/OFQueueProperty/OFQueueProperty()
+java/nio/Buffer/position()

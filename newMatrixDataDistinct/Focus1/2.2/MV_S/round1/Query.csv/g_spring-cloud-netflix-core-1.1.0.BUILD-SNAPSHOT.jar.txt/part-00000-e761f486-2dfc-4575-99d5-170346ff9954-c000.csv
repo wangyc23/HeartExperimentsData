@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+com/netflix/config/ConfigurationManager/getDeploymentContext()
+com/netflix/discovery/EurekaClientConfig/getRegion()
+com/netflix/client/config/IClientConfigKey/key()

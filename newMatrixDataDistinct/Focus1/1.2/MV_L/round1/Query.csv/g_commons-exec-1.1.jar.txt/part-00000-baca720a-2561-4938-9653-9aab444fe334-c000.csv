@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/lang/Character/isLetterOrDigit(char)
+java/lang/String/charAt(int)
+java/lang/StringBuffer/append(char)

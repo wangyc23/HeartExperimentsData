@@ -1,0 +1,4 @@
+javax/xml/stream/XMLStreamReader/getAttributeLocalName(int)
+javax/xml/stream/XMLStreamReader/getAttributeValue(int)
+javax/xml/stream/XMLStreamReader/getNamespaceURI(int)
+java/lang/String/length()

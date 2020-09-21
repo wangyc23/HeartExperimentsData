@@ -1,0 +1,5 @@
+org/joda/time/format/PeriodFormatterBuilder/IgnorableAffix/finish(java.util.Set)@g_joda-time-2.7.jar.txt	4
+org/joda/time/tz/DateTimeZoneBuilder/PrecalculatedZone/writeTo(java.io.DataOutput)@g_joda-time-2.7.jar.txt	2
+org/joda/time/tz/ZoneInfoCompiler/writeZoneInfoMap(java.io.DataOutputStream,java.util.Map)@g_joda-time-2.2.jar.txt	1
+org/joda/time/tz/ZoneInfoCompiler/writeZoneInfoMap(java.io.DataOutputStream,java.util.Map)@g_joda-time-2.7.jar.txt	3
+org/joda/time/tz/DateTimeZoneBuilder/PrecalculatedZone/writeTo(java.io.DataOutput)@g_joda-time-2.2.jar.txt	0

@@ -1,0 +1,5 @@
+net/sf/json/test/JSONAssert/assertEquals(java.lang.String,net.sf.json.JSONArray,net.sf.json.JSONArray)@g_xstream-1.4.1.jar.txt	4
+net/sf/json/groovy/GJson/enhanceMap()@g_xstream-1.4.1.jar.txt	3
+com/thoughtworks/xstream/io/binary/Token/writeId(java.io.DataOutput,long,byte)@g_xstream-1.4.1.jar.txt	2
+net/sf/json/JSONObject/_fromJSONTokener(net.sf.json.util.JSONTokener,net.sf.json.JsonConfig)@g_xstream-1.4.1.jar.txt	1
+com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter/getCallbacks(java.lang.Object)@g_xstream-1.4.1.jar.txt	0

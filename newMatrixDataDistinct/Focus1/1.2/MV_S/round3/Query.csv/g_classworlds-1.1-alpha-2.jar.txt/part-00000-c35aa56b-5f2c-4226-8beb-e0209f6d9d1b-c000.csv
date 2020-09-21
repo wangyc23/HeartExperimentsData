@@ -1,0 +1,4 @@
+java/lang/Class/getMethods()
+java/lang/NoSuchMethodException/NoSuchMethodException(java.lang.String)
+java/lang/reflect/Method/getName()
+java/lang/System/setProperty(java.lang.String,java.lang.String)

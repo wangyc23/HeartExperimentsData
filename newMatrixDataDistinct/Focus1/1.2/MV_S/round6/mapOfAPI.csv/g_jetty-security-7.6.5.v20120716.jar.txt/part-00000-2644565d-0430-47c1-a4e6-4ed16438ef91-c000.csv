@@ -1,0 +1,4 @@
+0	org/eclipse/jetty/http/PathMap/entrySet()
+1	org/eclipse/jetty/security/ConstraintSecurityHandler/getIdentityService()
+2	org/eclipse/jetty/security/ConstraintSecurityHandler/getHandlers()
+3	org/eclipse/jetty/security/ConstraintSecurityHandler/getAuthenticator()

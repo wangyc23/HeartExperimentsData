@@ -1,0 +1,4 @@
+java/lang/String/split(java.lang.String)
+java/lang/Integer/toString()
+com/taobao/rigel/rap/workspace/bo/CheckIn/getVersion()
+java/lang/Integer/parseInt(java.lang.String)

@@ -1,0 +1,4 @@
+java/util/regex/Matcher/region(int,int)
+java/util/ArrayList/ArrayList()
+java/util/regex/Pattern/compile(java.lang.String)
+java/util/regex/Matcher/regionStart()

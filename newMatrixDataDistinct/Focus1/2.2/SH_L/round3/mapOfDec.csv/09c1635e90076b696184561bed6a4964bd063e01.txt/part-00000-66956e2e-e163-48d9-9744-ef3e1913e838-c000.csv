@@ -1,0 +1,5 @@
+com/example/SampleStreamExample/runStaticTwitterStream(org.glassfish.jersey.server.ChunkedOutput,java.lang.String)@2c9549dd139deb00021ea50c189abc2d31655a44.txt	3
+org/feuyeux/jaxrs2/atup/core/dao/AtupTestResultDao/findByStatus(java.lang.Integer)@2c9549dd139deb00021ea50c189abc2d31655a44.txt	4
+com/example/MyServiceTest/tearDown()@2c9549dd139deb00021ea50c189abc2d31655a44.txt	2
+com/howtodoinjava/jersey/client/JerseyClientExamples/httpPUTMethodExample()@2c9549dd139deb00021ea50c189abc2d31655a44.txt	0
+com/example/Main/startServer()@2c9549dd139deb00021ea50c189abc2d31655a44.txt	1

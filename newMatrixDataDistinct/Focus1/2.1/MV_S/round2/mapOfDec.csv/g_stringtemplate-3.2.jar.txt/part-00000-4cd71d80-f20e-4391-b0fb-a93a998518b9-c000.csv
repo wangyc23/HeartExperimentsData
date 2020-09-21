@@ -1,0 +1,5 @@
+org/hibernate/hql/internal/antlr/HqlSqlBaseWalker/count(antlr.collections.AST)@g_hibernate-core-4.3.10.Final.jar.txt	1
+org/hibernate/hql/antlr/HqlBaseParser/aggregate()@g_hibernate-core-4.3.10.Final.jar.txt	0
+org/hibernate/hql/antlr/HqlSqlBaseWalker/withClause(antlr.collections.AST)@g_hibernate-core-4.3.10.Final.jar.txt	4
+org/hibernate/metamodel/source/annotations/entity/EntityClass/determineCachingSettings()@g_hibernate-core-4.3.10.Final.jar.txt	3
+org/hibernate/cfg/beanvalidation/TypeSafeActivator/findPropertyByName(org.hibernate.mapping.PersistentClass,java.lang.String)@g_hibernate-core-4.3.10.Final.jar.txt	2

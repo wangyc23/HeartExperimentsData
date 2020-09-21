@@ -1,0 +1,5 @@
+com/sun/jersey/client/apache4/ApacheHttpClient4Handler/handle(com.sun.jersey.api.client.ClientRequest)@g_jersey-apache-client4-1.11.jar.txt	2
+org/elasticsearch/client/RequestLogger/buildTraceRequest(org.apache.http.client.methods.HttpUriRequest,org.apache.http.HttpHost)@g_jersey-apache-client4-1.11.jar.txt	3
+org/elasticsearch/client/ResponseException/buildMessage(org.elasticsearch.client.Response)@g_jersey-apache-client4-1.11.jar.txt	0
+org/elasticsearch/client/RequestLogger/buildTraceResponse(org.apache.http.HttpResponse)@g_jersey-apache-client4-1.11.jar.txt	1
+org/elasticsearch/client/RestClient/createHttpRequest(java.lang.String,java.net.URI,org.apache.http.HttpEntity)@g_jersey-apache-client4-1.11.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Replace/processFile(java.io.File)@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Replace/processFile(java.io.File)@g_ant-1.10.1.jar.txt	0
+org/apache/tools/ant/taskdefs/Replace/validateAttributes()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/taskdefs/optional/jsp/compilers/DefaultJspCompilerAdapter/logAndAddFilesToCompile(org.apache.tools.ant.taskdefs.optional.jsp.JspC,java.util.Vector,org.apache.tools.ant.types.CommandlineJava)@g_ant-1.10.1.jar.txt	4
+org/apache/tools/ant/taskdefs/optional/ejb/IPlanetDeploymentTool/getIasDescriptorName()@g_ant-1.10.1.jar.txt	3

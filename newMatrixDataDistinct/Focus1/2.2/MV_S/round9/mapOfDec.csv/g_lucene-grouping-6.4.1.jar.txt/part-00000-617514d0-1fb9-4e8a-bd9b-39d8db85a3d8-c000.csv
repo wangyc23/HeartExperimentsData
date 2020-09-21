@@ -1,0 +1,5 @@
+org/apache/lucene/search/join/CheckJoinIndex/check(org.apache.lucene.index.IndexReader,org.apache.lucene.search.join.BitSetProducer)@g_lucene-join-5.3.1.jar.txt	4
+org/apache/lucene/search/join/ToParentBlockJoinIndexSearcher/search(java.util.List,org.apache.lucene.search.Weight,org.apache.lucene.search.Collector)@g_lucene-join-5.3.1.jar.txt	2
+org/apache/lucene/search/join/ToParentBlockJoinCollector/1/setScorer(org.apache.lucene.search.Scorer)@g_lucene-join-5.3.1.jar.txt	3
+org/apache/lucene/search/suggest/SortedInputIterator/encode(org.apache.lucene.util.OfflineSorter$ByteSequencesWriter,org.apache.lucene.store.ByteArrayDataOutput,byte[],org.apache.lucene.util.BytesRef,org.apache.lucene.util.BytesRef,java.util.Set,long)@g_lucene-suggest-6.4.1.jar.txt	0
+org/apache/lucene/search/suggest/analyzing/FreeTextSuggester/lookup(java.lang.CharSequence,java.util.Set,int)@g_lucene-suggest-6.4.1.jar.txt	1

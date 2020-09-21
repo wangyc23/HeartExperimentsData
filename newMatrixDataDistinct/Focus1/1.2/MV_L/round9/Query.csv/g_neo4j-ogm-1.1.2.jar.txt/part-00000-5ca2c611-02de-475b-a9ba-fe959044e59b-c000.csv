@@ -1,0 +1,4 @@
+org/neo4j/shell/util/json/JSONArray/getJSONObject(int)
+org/neo4j/shell/util/json/JSONArray/length()
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+java/lang/StringBuilder/StringBuilder()

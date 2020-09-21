@@ -1,0 +1,4 @@
+java/lang/Class/getResourceAsStream(java.lang.String)
+java/io/DataInputStream/close()
+java/io/DataInputStream/DataInputStream(java.io.InputStream)
+java/io/DataInputStream/readChar()

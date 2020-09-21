@@ -1,0 +1,4 @@
+org/sat4j/specs/UnitPropagationListener/enqueue(int,org.sat4j.minisat.core.Constr)
+java/lang/StringBuilder/append(java.lang.String)
+org/sat4j/minisat/core/ILits/undos(int)
+java/lang/AssertionError/AssertionError(java.lang.Object)

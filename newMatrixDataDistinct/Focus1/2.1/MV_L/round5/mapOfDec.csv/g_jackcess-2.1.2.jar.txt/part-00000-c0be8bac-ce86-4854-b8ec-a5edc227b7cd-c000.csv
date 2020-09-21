@@ -1,0 +1,5 @@
+com/jmatio/io/MatFileReader/read(java.io.File,com.jmatio.io.MatFileFilter,int)@g_jmatio-1.2.jar.txt	1
+com/healthmarketscience/jackcess/impl/CursorImpl/restoreSavepoint(com.healthmarketscience.jackcess.impl.CursorImpl$SavepointImpl)@g_jackcess-2.1.8.jar.txt	3
+com/jmatio/io/MatFileWriter/write(java.nio.channels.WritableByteChannel,java.util.Collection)@g_jackcess-2.1.8.jar.txt	4
+com/healthmarketscience/jackcess/impl/IndexPageCache/updateEntry(com.healthmarketscience.jackcess.impl.IndexPageCache$CacheDataPage,int,com.healthmarketscience.jackcess.impl.IndexData$Entry,com.healthmarketscience.jackcess.impl.IndexPageCache$UpdateType)@g_jackcess-2.1.8.jar.txt	2
+com/healthmarketscience/jackcess/impl/JetFormat/getFormat(java.nio.channels.FileChannel)@g_jackcess-2.1.8.jar.txt	0

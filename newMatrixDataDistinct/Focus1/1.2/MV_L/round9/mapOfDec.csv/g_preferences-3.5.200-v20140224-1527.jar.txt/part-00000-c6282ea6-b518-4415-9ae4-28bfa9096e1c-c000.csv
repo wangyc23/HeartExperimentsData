@@ -1,0 +1,5 @@
+org/eclipse/core/internal/preferences/EclipsePreferences/save(org.eclipse.core.runtime.IPath)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	0
+org/eclipse/core/internal/preferences/PreferencesService/exportPreferences(org.eclipse.core.runtime.preferences.IEclipsePreferences,java.io.OutputStream,java.lang.String[])@g_org.eclipse.equinox.preferences-3.7.0.jar.txt	4
+org/eclipse/core/internal/preferences/EclipsePreferences/save(org.eclipse.core.runtime.IPath)@g_org.eclipse.equinox.preferences-3.7.0.jar.txt	3
+org/eclipse/core/internal/preferences/PreferencesService/convertFromLegacy(java.util.Properties)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	2
+org/eclipse/core/internal/preferences/PreferencesService/exportPreferences(org.eclipse.core.runtime.preferences.IEclipsePreferences,java.io.OutputStream,java.lang.String[])@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	1

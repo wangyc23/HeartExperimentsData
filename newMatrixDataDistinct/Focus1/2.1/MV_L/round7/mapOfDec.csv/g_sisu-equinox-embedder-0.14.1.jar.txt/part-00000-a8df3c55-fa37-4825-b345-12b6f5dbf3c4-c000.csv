@@ -1,0 +1,5 @@
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/addBundlesDir(java.lang.StringBuilder,java.io.File[],boolean)@g_sisu-equinox-embedder-0.23.1.jar.txt	2
+org/apache/commons/exec/util/MapUtils/prefix(java.util.Map,java.lang.String)@g_sisu-equinox-embedder-0.23.1.jar.txt	3
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/copyToTempFolder(java.io.File)@g_sisu-equinox-embedder-0.23.1.jar.txt	4
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/tryActivateBundle(java.lang.String)@g_sisu-equinox-embedder-0.23.1.jar.txt	1
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/dispose()@g_sisu-equinox-embedder-0.23.1.jar.txt	0

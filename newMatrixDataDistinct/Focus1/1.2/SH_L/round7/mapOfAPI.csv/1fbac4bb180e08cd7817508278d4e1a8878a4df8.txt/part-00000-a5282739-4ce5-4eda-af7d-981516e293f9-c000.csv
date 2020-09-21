@@ -1,0 +1,4 @@
+0	com/done/analytics/domain/VoteResult/getPercentage()
+1	com/done/analytics/domain/VoteResult/getPresenter()
+2	java/lang/String/hashCode()
+3	com/done/analytics/domain/VoteResult/getTopicOwner()

@@ -1,0 +1,5 @@
+org/codehaus/jackson/impl/Utf8StreamParser/_handleInvalidNumberStart(int,boolean)@g_jackson-core-asl-1.8.3.jar.txt	4
+org/codehaus/jackson/util/ByteArrayBuilder/toByteArray()@g_jackson-core-asl-1.8.3.jar.txt	3
+org/codehaus/jackson/impl/ReaderBasedNumericParser/parseNumberText2(boolean)@g_jackson-core-asl-1.8.3.jar.txt	2
+org/codehaus/jackson/impl/JsonNumericParserBase/convertNumberToInt()@g_jackson-core-asl-1.8.9.jar.txt	1
+org/codehaus/jackson/impl/JsonNumericParserBase/convertNumberToInt()@g_jackson-core-asl-1.8.3.jar.txt	0

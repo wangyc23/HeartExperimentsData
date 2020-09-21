@@ -1,0 +1,4 @@
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+org/osgi/framework/BundleContext/getServiceReferences(java.lang.String,java.lang.String)
+java/io/File/File(java.lang.String)
+java/io/File/getAbsolutePath()

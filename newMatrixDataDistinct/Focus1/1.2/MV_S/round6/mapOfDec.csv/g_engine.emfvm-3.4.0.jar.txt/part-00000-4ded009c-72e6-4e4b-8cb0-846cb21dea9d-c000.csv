@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/engine/vm/ASMExecEnv/persistWeavingHelpers(org.eclipse.m2m.atl.engine.vm.nativelib.ASMModelElement,java.util.Map)@g_engine.vm-3.4.0.jar.txt	3
+org/eclipse/m2m/atl/engine/vm/InstanceNativeOperation/java2ASM(org.eclipse.m2m.atl.engine.vm.StackFrame,java.lang.Object)@g_engine.vm-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/engine/vm/ASMOperation/realExec(org.eclipse.m2m.atl.engine.vm.ASMStackFrame)@g_engine.vm-3.4.0.jar.txt	2
+org/eclipse/m2m/atl/engine/vm/InstanceNativeOperation/exec(org.eclipse.m2m.atl.engine.vm.StackFrame)@g_engine.vm-3.4.0.jar.txt	0
+org/eclipse/m2m/atl/engine/vm/NativeOperation/registerOperations(org.eclipse.m2m.atl.engine.vm.nativelib.ASMOclType,java.lang.Class,boolean,boolean,boolean,boolean)@g_engine.vm-3.4.0.jar.txt	1

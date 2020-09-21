@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/WarMojo/performPackaging(java.io.File)@g_maven-war-plugin-2.1.1.jar.txt	3
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/getFilesToCopy(org.apache.maven.model.Resource)@g_maven-war-plugin-2.6.jar.txt	1
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handleDeploymentDescriptors(org.apache.maven.plugin.war.packaging.WarPackagingContext,java.io.File,java.io.File)@g_maven-war-plugin-2.6.jar.txt	4
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handleDeploymentDescriptors(org.apache.maven.plugin.war.packaging.WarPackagingContext,java.io.File,java.io.File)@g_maven-war-plugin-2.1.1.jar.txt	2
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/getFilesToCopy(org.apache.maven.model.Resource)@g_maven-war-plugin-2.1.1.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/reflect/Method/getAnnotation(java.lang.Class)
+java/lang/Class/getAnnotation(java.lang.Class)
+java/lang/Class/isAnnotationPresent(java.lang.Class)
+java/lang/annotation/Annotation/annotationType()

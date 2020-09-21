@@ -1,0 +1,5 @@
+groovyjarjarantlr4/v4/tool/DOTGenerator/getDOT(groovyjarjarantlr4.v4.runtime.atn.ATNState,java.lang.String[],boolean)@g_groovy-2.6.0-alpha-1.jar.txt	4
+groovy/grape/GrabAnnotationTransformation/checkForConvenienceForm(org.codehaus.groovy.ast.AnnotationNode,boolean)@g_groovy-2.6.0-alpha-1.jar.txt	3
+net/java/truecommons/annotations/processing/ServiceImplementationProcessor/processAnnotations(javax.lang.model.element.TypeElement,net.java.truecommons.annotations.processing.ServiceImplementationProcessor$Registry)@g_truecommons-annotations-2.5.0.jar.txt	1
+org/codehaus/groovy/transform/AnnotationCollectorTransform/visit(org.codehaus.groovy.ast.AnnotationNode,org.codehaus.groovy.ast.AnnotationNode,org.codehaus.groovy.ast.AnnotatedNode,org.codehaus.groovy.control.SourceUnit)@g_groovy-2.6.0-alpha-1.jar.txt	2
+groovyjarjarantlr4/v4/runtime/misc/NullUsageProcessor/addElementsToNamedMethodMap(java.util.Set,java.util.Map)@g_groovy-2.6.0-alpha-1.jar.txt	0

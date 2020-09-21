@@ -1,0 +1,5 @@
+org/apache/batik/script/rhino/RhinoInterpreter/3/run(org.mozilla.javascript.Context)@g_batik-script-1.7.jar.txt	1
+edu/emory/mathcs/csparsej/tdcomplex/DZcs_load/cs_load(java.io.InputStream)@g_csparsej-1.1.1.jar.txt	0
+edu/emory/mathcs/csparsej/tdouble/Dcs_load/cs_load(java.io.InputStream,int)@g_batik-script-1.7.jar.txt	4
+org/apache/batik/script/rhino/EventTargetWrapper/FunctionAddProxy/call(org.mozilla.javascript.Context,org.mozilla.javascript.Scriptable,org.mozilla.javascript.Scriptable,java.lang.Object[])@g_batik-script-1.7.jar.txt	3
+org/apache/batik/script/rhino/EventTargetWrapper/FunctionAddNSProxy/call(org.mozilla.javascript.Context,org.mozilla.javascript.Scriptable,org.mozilla.javascript.Scriptable,java.lang.Object[])@g_batik-script-1.7.jar.txt	2

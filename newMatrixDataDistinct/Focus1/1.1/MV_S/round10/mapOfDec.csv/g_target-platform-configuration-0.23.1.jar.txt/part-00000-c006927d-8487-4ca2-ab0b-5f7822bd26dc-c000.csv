@@ -1,0 +1,5 @@
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/assembleRepositoryArtifacts(org.apache.maven.artifact.resolver.ArtifactResolutionResult,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository,org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.util.Map)@g_maven-repository-builder-1.0-alpha-2.jar.txt	4
+org/codehaus/plexus/resource/loader/URLResourceLoader/getResource(java.lang.String)@g_plexus-resources-1.0-alpha-7.jar.txt	0
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/buildRepositoryFilter(org.apache.maven.shared.repository.model.RepositoryInfo,org.apache.maven.project.MavenProject)@g_maven-repository-builder-1.0-alpha-2.jar.txt	2
+org/codehaus/plexus/resource/DefaultResourceManager/getResource(java.lang.String)@g_plexus-resources-1.0-alpha-7.jar.txt	1
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/getManagedVersionMap(org.apache.maven.project.MavenProject)@g_maven-repository-builder-1.0-alpha-2.jar.txt	3

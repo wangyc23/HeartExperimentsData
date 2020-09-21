@@ -1,0 +1,4 @@
+java/lang/Class/getConstructors()
+java/lang/Class/getSuperclass()
+java/lang/Class/getDeclaredMethods()
+java/lang/Class/isAnnotationPresent(java.lang.Class)

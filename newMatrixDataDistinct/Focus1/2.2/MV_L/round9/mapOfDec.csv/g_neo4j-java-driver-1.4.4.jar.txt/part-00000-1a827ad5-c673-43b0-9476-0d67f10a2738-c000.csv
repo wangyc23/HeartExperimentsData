@@ -1,0 +1,5 @@
+gnu/trove/impl/Constants/<clinit>()@g_trove4j-3.0.3.jar.txt	0
+org/neo4j/driver/internal/connector/socket/ChunkedInput/ensure(int)@g_neo4j-java-driver-1.0.1.jar.txt	2
+org/neo4j/driver/internal/connector/socket/TrustOnFirstUseTrustManager/createKnownCertFileIfNotExists()@g_neo4j-java-driver-1.0.1.jar.txt	1
+org/neo4j/driver/internal/connector/socket/TLSSocketChannel/unwrap(java.nio.ByteBuffer)@g_neo4j-java-driver-1.0.1.jar.txt	4
+org/neo4j/driver/internal/connector/socket/TLSSocketChannel/wrap(java.nio.ByteBuffer)@g_neo4j-java-driver-1.0.1.jar.txt	3

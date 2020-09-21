@@ -1,0 +1,5 @@
+org/apache/poi/xslf/usermodel/XSLFSimpleShape/setLineColor(java.awt.Color)@g_poi-ooxml-3.14.jar.txt	1
+org/apache/poi/xslf/usermodel/XSLFTableCell/setBorderColor(char,java.awt.Color)@g_poi-ooxml-3.13.jar.txt	0
+org/apache/poi/xslf/usermodel/XSLFSimpleShape/setLineColor(java.awt.Color)@g_poi-ooxml-3.13.jar.txt	4
+org/apache/poi/xslf/usermodel/XSLFTableCell/setBorderDefaults(org.apache.poi.sl.usermodel.TableCell$BorderEdge)@g_poi-ooxml-3.14.jar.txt	3
+org/apache/poi/xssf/usermodel/XSSFShape/setLineStyleColor(int,int,int)@g_poi-ooxml-3.14.jar.txt	2

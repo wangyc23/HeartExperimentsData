@@ -1,0 +1,5 @@
+org/apache/spark/streaming/mqtt/JavaMQTTStreamSuite/testMQTTStream()@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	3
+org/apache/spark/streaming/flume/JavaFlumeStreamSuite/testFlumeStream()@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	1
+org/apache/spark/streaming/twitter/JavaTwitterStreamSuite/testTwitterStream()@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	4
+org/apache/spark/streaming/kafka/JavaKafkaStreamSuite/testKafkaStream()@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	2
+org/apache/spark/streaming/zeromq/JavaZeroMQStreamSuite/testZeroMQStream()@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	0

@@ -1,0 +1,5 @@
+morfologik/stemming/TrimSuffixEncoder/decode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-1.10.0.jar.txt	4
+morfologik/stemming/DictionaryIterator/bytesToChars(java.nio.ByteBuffer,java.nio.CharBuffer)@g_morfologik-stemming-1.10.0.jar.txt	2
+morfologik/stemming/Dictionary/getForLanguage(java.lang.String)@g_morfologik-stemming-1.10.0.jar.txt	0
+morfologik/stemming/DictionaryMetadataBuilder/withInputConversionPairs(java.util.Map)@g_morfologik-stemming-1.10.0.jar.txt	3
+morfologik/stemming/WordData/decode(java.nio.ByteBuffer,java.nio.CharBuffer)@g_morfologik-stemming-1.10.0.jar.txt	1

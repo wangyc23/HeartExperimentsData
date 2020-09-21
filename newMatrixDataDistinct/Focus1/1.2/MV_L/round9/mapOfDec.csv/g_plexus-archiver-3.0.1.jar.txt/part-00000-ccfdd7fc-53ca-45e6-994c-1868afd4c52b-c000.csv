@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/jar/JarArchiver/createIndexList(org.codehaus.plexus.archiver.zip.ConcurrentJarCreator)@g_plexus-archiver-3.1.1.jar.txt	2
+org/codehaus/plexus/archiver/jar/JarArchiver/createIndexList(org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream)@g_plexus-archiver-2.9.jar.txt	3
+org/codehaus/plexus/archiver/jar/Manifest/Attribute/write(java.io.PrintWriter)@g_plexus-archiver-2.9.jar.txt	1
+org/codehaus/plexus/archiver/jar/Manifest/Attribute/write(java.io.PrintWriter)@g_plexus-archiver-3.1.1.jar.txt	0
+org/codehaus/plexus/archiver/jar/JdkManifestFactory/merge(java.util.jar.Manifest,java.util.jar.Manifest,boolean)@g_plexus-archiver-3.1.1.jar.txt	4

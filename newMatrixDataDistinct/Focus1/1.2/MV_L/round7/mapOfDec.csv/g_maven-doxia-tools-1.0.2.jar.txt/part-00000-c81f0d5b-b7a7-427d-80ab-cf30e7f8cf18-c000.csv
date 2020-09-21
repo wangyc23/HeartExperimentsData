@@ -1,0 +1,5 @@
+org/apache/maven/DefaultMaven/collectProjects(java.util.List,org.apache.maven.execution.MavenExecutionRequest,boolean)@g_maven-core-2.0.9.jar.txt	0
+org/apache/maven/plugin/DefaultPluginManager/checkRequiredMavenVersion(org.apache.maven.model.Plugin,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-core-2.0.9.jar.txt	4
+org/apache/maven/lifecycle/DefaultLifecycleExecutor/addToLifecycleMappings(java.util.Map,java.lang.String,org.apache.maven.plugin.MojoExecution,org.apache.maven.settings.Settings)@g_maven-core-2.0.9.jar.txt	1
+org/apache/maven/extension/DefaultExtensionManager/addExtension(org.apache.maven.model.Extension,org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-core-2.0.9.jar.txt	3
+org/apache/maven/plugin/version/DefaultPluginVersionManager/updatePluginVersionInRegistry(java.lang.String,java.lang.String,java.lang.String)@g_maven-core-2.0.9.jar.txt	2

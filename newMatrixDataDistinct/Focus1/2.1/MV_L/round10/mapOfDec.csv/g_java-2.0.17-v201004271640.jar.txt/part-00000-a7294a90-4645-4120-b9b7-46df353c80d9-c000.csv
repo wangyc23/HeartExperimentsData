@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/closeOutputFile(java.util.zip.Checksum)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+lpg/runtime/DiagnoseParser/misspell(int,int)@g_lpg.runtime.java-2.0.17.v201004271640.jar.txt	1
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistry/getServiceReferences(org.eclipse.osgi.internal.framework.BundleContextImpl,java.lang.String,java.lang.String,boolean)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4
+lpg/runtime/RecoveryParser/reportError(int,int)@g_lpg.runtime.java-2.0.17.v201004271640.jar.txt	0
+lpg/runtime/DifferLines/printLines(lpg.runtime.IPrsStream,int,int)@g_lpg.runtime.java-2.0.17.v201004271640.jar.txt	2

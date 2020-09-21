@@ -1,0 +1,5 @@
+org/jboss/arquillian/container/test/impl/client/deployment/ClientDeployer/getDeployment(java.lang.String)@214c90f7d50ac449ba93faa7e8fe6c6ddd1eb314.txt	3
+org/jboss/arquillian/container/impl/client/container/ContainerDeployControllerTestCase/shouldUnDeployAllManagedDeployments()@214c90f7d50ac449ba93faa7e8fe6c6ddd1eb314.txt	1
+org/jboss/arquillian/container/impl/client/container/ContainerDeployControllerTestCase/shouldDeployAllManagedDeployments()@22a0bd215fd3956faae633b657276befedc4a56e.txt	2
+org/jboss/arquillian/container/impl/client/container/ContainerDeployControllerTestCase/shouldUnDeployAllManagedDeployments()@22a0bd215fd3956faae633b657276befedc4a56e.txt	0
+org/jboss/arquillian/container/impl/client/container/ContainerDeployControllerTestCase/shouldDeployAllManagedDeployments()@214c90f7d50ac449ba93faa7e8fe6c6ddd1eb314.txt	4

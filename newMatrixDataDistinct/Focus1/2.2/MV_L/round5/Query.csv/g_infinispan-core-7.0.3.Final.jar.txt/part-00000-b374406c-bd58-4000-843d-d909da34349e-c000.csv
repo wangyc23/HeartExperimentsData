@@ -1,0 +1,4 @@
+java/util/Set/size()
+java/util/Arrays/sort(java.lang.Object[],java.util.Comparator)
+java/util/Arrays/asList(java.lang.Object[])
+org/infinispan/commands/write/WriteCommand/getCommandId()

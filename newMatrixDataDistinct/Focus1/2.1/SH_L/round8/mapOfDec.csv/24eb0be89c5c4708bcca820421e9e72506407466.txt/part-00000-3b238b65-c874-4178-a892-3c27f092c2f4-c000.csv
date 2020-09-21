@@ -1,0 +1,5 @@
+com/finaxys/finaxysplatform/marketdatafetcher/dao/integration/parser/yahoo/YahooXmlStockQuotesParser/parse(com.finaxys.finaxysplatform.core.domain.Document)@0bf61ea236b6535324b73ae5885a0d301334a263.txt	2
+com/finaxys/finaxysplatform/marketdatafetcher/dao/integration/parser/file/FileXlsCurrencyPairsParser/parse(com.finaxys.finaxysplatform.core.domain.Document)@0bf61ea236b6535324b73ae5885a0d301334a263.txt	0
+com/finaxys/finaxysplatform/marketdatafetcher/dao/integration/parser/yahoo/YahooXmlHistStockQuotesParser/parse(com.finaxys.finaxysplatform.core.domain.Document)@0bf61ea236b6535324b73ae5885a0d301334a263.txt	4
+com/finaxys/finaxysplatform/marketdatafetcher/dao/integration/parser/yahoo/YahooXmlIndexQuotesParser/parse(com.finaxys.finaxysplatform.core.domain.Document)@0bf61ea236b6535324b73ae5885a0d301334a263.txt	1
+com/finaxys/finaxysplatform/marketdatafetcher/dao/integration/parser/yahoo/YahooXmlHistIndexQuotesParser/parse(com.finaxys.finaxysplatform.core.domain.Document)@0bf61ea236b6535324b73ae5885a0d301334a263.txt	3

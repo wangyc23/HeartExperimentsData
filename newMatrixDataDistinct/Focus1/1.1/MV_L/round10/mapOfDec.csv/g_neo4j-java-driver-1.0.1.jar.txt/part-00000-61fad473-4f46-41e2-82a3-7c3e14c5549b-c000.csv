@@ -1,0 +1,5 @@
+org/neo4j/driver/internal/cluster/RoutingContext/parseParameters(java.net.URI)@g_neo4j-java-driver-1.4.4.jar.txt	2
+org/neo4j/driver/internal/messaging/PackStreamMessageFormatV1/Writer/packValue(org.neo4j.driver.v1.Value)@g_neo4j-java-driver-1.4.4.jar.txt	3
+org/neo4j/driver/internal/messaging/PackStreamMessageFormatV1/Reader/unpackNode()@g_neo4j-java-driver-1.4.4.jar.txt	1
+org/neo4j/driver/internal/util/Extract/map(java.util.Map,org.neo4j.driver.v1.util.Function)@g_neo4j-java-driver-1.4.4.jar.txt	0
+org/neo4j/driver/v1/Statement/withUpdatedParameters(org.neo4j.driver.v1.Value)@g_neo4j-java-driver-1.4.4.jar.txt	4

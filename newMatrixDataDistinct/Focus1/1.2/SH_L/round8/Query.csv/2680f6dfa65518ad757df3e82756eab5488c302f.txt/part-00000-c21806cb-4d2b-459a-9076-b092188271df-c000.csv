@@ -1,0 +1,4 @@
+org/jboss/arquillian/container/spi/event/DeployManagedDeployments/DeployManagedDeployments()
+org/jboss/arquillian/container/spi/client/container/DeployableContainer/deploy(org.jboss.arquillian.container.test.spi.client.deployment.Archive)
+org/jboss/arquillian/container/spi/Container/setState(org.jboss.arquillian.container.spi.Container.State)
+org/jboss/arquillian/container/spi/client/container/DeploymentException/DeploymentException(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xs/traversers/XSAttributeChecker/checkAttributes(org.w3c.dom.Element,boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo,boolean)@g_xercesImpl-2.8.0.jar.txt	0
+org/apache/commons/jxpath/ri/model/dynamic/DynamicPropertyPointer/asPath()@g_xercesImpl-2.8.0.jar.txt	3
+org/apache/xerces/impl/dv/ObjectFactory/createObject(java.lang.String,java.lang.String,java.lang.String)@g_xercesImpl-2.8.0.jar.txt	2
+org/apache/xml/serialize/XMLSerializer/checkUnboundNamespacePrefixedNode(org.w3c.dom.Node)@g_xercesImpl-2.8.0.jar.txt	1
+org/apache/commons/jxpath/ri/model/jdom/JDOMNamespaceIterator/collectNamespaces(org.jdom.Element)@g_xercesImpl-2.8.0.jar.txt	4

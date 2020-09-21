@@ -1,0 +1,5 @@
+org/humanistika/oxygen/tei/completer/XPathUtilTest/isSubsetNameTest()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	0
+com/jakubstas/swagger/service/UserService/createUser(com.jakubstas.swagger.model.User)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	4
+org/humanistika/oxygen/tei/completer/remote/impl/JerseyClientTest/MockServer/getLemmaSelection_Custom_Json(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	1
+org/humanistika/oxygen/tei/completer/remote/impl/JerseyClientTest/MockServer/secure_GetLemmaSelection_Xml(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	2
+org/humanistika/oxygen/tei/completer/XPathUtil/close(java.io.PrintStream,java.io.ByteArrayOutputStream)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	3

@@ -1,0 +1,4 @@
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(char)
+java/lang/Object/getClass()

@@ -1,0 +1,4 @@
+0	java/lang/reflect/Method/getAnnotation(java.lang.Class)
+1	java/lang/reflect/Field/getType()
+2	com/google/common/base/Throwables/propagate(java.lang.Throwable)
+3	java/lang/reflect/Field/getName()

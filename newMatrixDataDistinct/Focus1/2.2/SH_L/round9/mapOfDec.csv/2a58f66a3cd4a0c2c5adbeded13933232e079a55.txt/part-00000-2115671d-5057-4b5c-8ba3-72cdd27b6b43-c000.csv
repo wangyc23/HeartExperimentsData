@@ -1,0 +1,5 @@
+main/Exporter/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	1
+main/MeasurementsGetter/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	3
+instagram/instaOperations/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@2c5f22c40dd31f673d9f191b86a099edac22ff51.txt	4
+bing/BingSearch/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	2
+bing/BingSearch/getNews(model.Event,model.Location)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	0

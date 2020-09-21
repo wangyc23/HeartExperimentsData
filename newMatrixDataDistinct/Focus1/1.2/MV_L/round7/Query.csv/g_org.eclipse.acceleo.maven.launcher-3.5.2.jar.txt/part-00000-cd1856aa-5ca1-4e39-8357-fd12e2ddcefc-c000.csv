@@ -1,0 +1,4 @@
+org/apache/maven/project/MavenProject/getCompileClasspathElements()
+java/util/ArrayList/ArrayList(int)
+java/util/Iterator/hasNext()
+org/apache/maven/plugin/logging/Log/debug(java.lang.CharSequence)

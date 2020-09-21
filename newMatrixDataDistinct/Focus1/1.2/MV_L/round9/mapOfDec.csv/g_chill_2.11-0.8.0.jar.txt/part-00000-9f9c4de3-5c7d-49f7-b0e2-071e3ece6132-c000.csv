@@ -1,0 +1,5 @@
+scala/reflect/internal/Printers/CodePrinter/checkRootPackage$1(scala.reflect.internal.Trees$Tree)@g_scala-reflect-2.11.8.jar.txt	2
+scala/reflect/internal/Trees/class/deriveCaseDef(scala.reflect.internal.SymbolTable,scala.reflect.internal.Trees$Tree,scala.Function1)@g_scala-reflect-2.11.8.jar.txt	4
+scala/reflect/api/StandardLiftables/StandardLiftableInstances/anonfun/liftTuple15/1/apply(scala.Tuple15)@g_scala-reflect-2.11.11.jar.txt	1
+scala/reflect/api/StandardLiftables/StandardUnliftableInstances/anonfun/unliftTuple2/1/isDefinedAt(scala.reflect.api.Trees$TreeApi)@g_scala-reflect-2.11.8.jar.txt	3
+scala/reflect/api/StandardLiftables/StandardLiftableInstances/anonfun/liftTuple15/1/apply(scala.Tuple15)@g_scala-reflect-2.11.8.jar.txt	0

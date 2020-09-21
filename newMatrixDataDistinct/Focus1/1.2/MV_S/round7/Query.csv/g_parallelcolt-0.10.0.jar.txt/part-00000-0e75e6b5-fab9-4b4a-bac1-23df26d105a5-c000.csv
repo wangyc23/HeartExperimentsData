@@ -1,0 +1,4 @@
+java/lang/Math/abs(double)
+cern/colt/matrix/tdcomplex/algo/DComplexProperty$3/3(cern.colt.matrix.tdcomplex.algo.DComplexProperty,int,int,cern.colt.matrix.tdcomplex.DComplexMatrix2D,double[],double)
+cern/colt/matrix/tdcomplex/DComplexMatrix2D/rows()
+java/lang/InterruptedException/printStackTrace()

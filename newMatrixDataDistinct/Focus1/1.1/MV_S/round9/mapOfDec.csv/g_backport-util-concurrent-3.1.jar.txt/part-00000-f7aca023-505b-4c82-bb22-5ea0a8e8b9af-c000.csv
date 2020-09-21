@@ -1,0 +1,5 @@
+org/apache/commons/collections/MapUtils/putAll(java.util.Map,java.lang.Object[])@g_javax.faces-api-2.2.jar.txt	0
+javax/faces/component/html/HtmlSelectBooleanCheckbox/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	2
+javax/faces/component/UIComponentBase/subscribeToEvent(java.lang.Class,javax.faces.event.ComponentSystemEventListener)@g_javax.faces-api-2.2.jar.txt	3
+org/apache/commons/collections/bidimap/TreeBidiMap/doPut(java.lang.Comparable,java.lang.Comparable,int)@g_javax.faces-api-2.2.jar.txt	4
+javax/faces/component/ComponentStateHelper/saveMap(javax.faces.context.FacesContext,java.util.Map)@g_javax.faces-api-2.2.jar.txt	1

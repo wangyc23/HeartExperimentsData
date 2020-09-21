@@ -1,0 +1,4 @@
+org/mockito/asm/util/ASMifierClassVisitor/appendConstant(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuffer/toString()
+java/lang/String/substring(int,int)

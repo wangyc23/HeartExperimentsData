@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/compilers/DefaultCompilerAdapter/executeExternalCompile(java.lang.String[],int,boolean)@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/Execute/VmsCommandLauncher/createCommandFile(java.lang.String[],java.lang.String[])@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/ManifestTask/execute()@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/taskdefs/AntStructure/execute()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Javadoc/execute()@g_ant-1.6.5.jar.txt	1

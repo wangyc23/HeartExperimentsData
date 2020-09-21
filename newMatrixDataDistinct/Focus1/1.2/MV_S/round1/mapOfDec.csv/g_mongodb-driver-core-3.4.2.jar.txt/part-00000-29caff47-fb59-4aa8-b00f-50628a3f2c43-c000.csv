@@ -1,0 +1,5 @@
+org/bson/BsonBinaryReader/readBsonType()@g_mongo-java-driver-3.4.2.jar.txt	3
+com/mongodb/client/model/Sorts/CompoundSort/toBsonDocument(java.lang.Class,org.bson.codecs.configuration.CodecRegistry)@g_mongo-java-driver-3.4.2.jar.txt	1
+com/mongodb/ConnectionString/parseOptions(java.lang.String)@g_mongo-java-driver-3.4.2.jar.txt	2
+com/mongodb/connection/WriteCommandResultHelper/getWriteErrors(org.bson.BsonDocument)@g_mongo-java-driver-3.4.2.jar.txt	4
+com/mongodb/operation/MixedBulkWriteOperation/Run/RunExecutor/execute()@g_mongo-java-driver-3.4.2.jar.txt	0

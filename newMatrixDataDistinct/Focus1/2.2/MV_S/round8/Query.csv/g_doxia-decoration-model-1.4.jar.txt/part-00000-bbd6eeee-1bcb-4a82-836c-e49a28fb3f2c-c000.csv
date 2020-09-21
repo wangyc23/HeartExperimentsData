@@ -1,0 +1,4 @@
+java/net/URL/getProtocol()
+java/net/URI/toURL()
+java/net/URL/getFile()
+java/io/File/toURI()

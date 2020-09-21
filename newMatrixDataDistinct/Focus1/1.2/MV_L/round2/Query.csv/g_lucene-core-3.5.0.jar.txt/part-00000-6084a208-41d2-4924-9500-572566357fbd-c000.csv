@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/lang/String/length()
+java/lang/Character/isDigit(char)
+java/lang/StringBuilder/StringBuilder()

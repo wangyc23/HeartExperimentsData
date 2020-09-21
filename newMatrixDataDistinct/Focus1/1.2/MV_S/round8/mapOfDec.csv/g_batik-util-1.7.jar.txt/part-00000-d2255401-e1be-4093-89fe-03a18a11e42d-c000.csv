@@ -1,0 +1,5 @@
+org/apache/maven/it/Verifier/getMavenVersion()@g_maven-verifier-1.2.jar.txt	4
+org/apache/ivy/plugins/repository/ssh/SshRepository/makePath(java.lang.String,com.jcraft.jsch.Session)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/util/FileUtil/dissect(java.lang.String)@g_ivy-2.3.0.jar.txt	1
+org/apache/maven/it/util/StringUtils/mid(java.lang.String,int,int)@g_maven-verifier-1.2.jar.txt	3
+org/apache/maven/it/Verifier/replaceArtifacts(java.lang.String,boolean)@g_maven-verifier-1.2.jar.txt	2

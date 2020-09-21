@@ -1,0 +1,5 @@
+org/assertj/core/error/ShouldBeEqualByComparingFieldByFieldRecursively/shouldBeEqualByComparingFieldByFieldRecursive(java.lang.Object,java.lang.Object,java.util.List)@g_cglib-nodep-3.1.jar.txt	3
+net/sf/cglib/transform/hook/AsmClassLoaderPreProcessor/main(java.lang.String[])@g_cglib-nodep-3.1.jar.txt	2
+org/assertj/core/util/DateUtil/formatTimeDifference(java.util.Date,java.util.Date)@g_cglib-nodep-3.1.jar.txt	0
+org/assertj/core/internal/cglib/core/DebuggingClassWriter/1/run()@g_cglib-nodep-3.1.jar.txt	1
+net/sf/cglib/asm/ClassWriter/newConstItem(java.lang.Object)@g_cglib-nodep-3.1.jar.txt	4

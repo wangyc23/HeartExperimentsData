@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/hibernate/ogm/dialect/batch/spi/InsertOrUpdateTupleOperation/getEntityKey()
+org/hibernate/ogm/dialect/batch/spi/RemoveTupleOperation/getEntityKey()
+org/hibernate/ogm/dialect/batch/spi/RemoveAssociationOperation/getAssociationKey()

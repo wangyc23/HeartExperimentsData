@@ -1,0 +1,5 @@
+org/bytedeco/javacpp/tools/Parser/parse(org.bytedeco.javacpp.tools.Context,org.bytedeco.javacpp.tools.DeclarationList,java.lang.String[],java.lang.String,boolean)@g_javacpp-1.3.1.jar.txt	4
+org/bytedeco/javacpp/Loader/createLibraryLink(java.lang.String,org.bytedeco.javacpp.ClassProperties,java.lang.String)@g_javacpp-1.3.1.jar.txt	0
+org/bytedeco/javacpp/tools/Builder/generateAndCompile(java.lang.Class[],java.lang.String)@g_javacpp-1.3.1.jar.txt	2
+org/bytedeco/javacpp/tools/Builder/build()@g_javacpp-1.3.1.jar.txt	1
+org/bytedeco/javacpp/ClassProperties/addAll(java.lang.String,java.util.Collection)@g_javacpp-1.3.1.jar.txt	3

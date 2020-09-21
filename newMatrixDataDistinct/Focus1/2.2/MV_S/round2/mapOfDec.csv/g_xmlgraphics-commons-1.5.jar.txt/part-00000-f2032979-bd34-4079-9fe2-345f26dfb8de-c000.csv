@@ -1,0 +1,5 @@
+org/apache/batik/ext/awt/image/codec/png/PNGRed/parse_IHDR_chunk(org.apache.batik.ext.awt.image.codec.png.PNGRed$PNGChunk)@g_batik-codec-1.8.jar.txt	3
+org/apache/batik/ext/awt/image/codec/png/PNGRed/parse_IEND_chunk(org.apache.batik.ext.awt.image.codec.png.PNGRed$PNGChunk)@g_batik-codec-1.8.jar.txt	4
+org/apache/batik/ext/awt/image/codec/png/PNGImage/parse_IEND_chunk(org.apache.batik.ext.awt.image.codec.png.PNGChunk)@g_batik-codec-1.8.jar.txt	1
+org/apache/batik/ext/awt/image/codec/tiff/TIFFImageEncoder/encode(java.awt.image.RenderedImage,org.apache.batik.ext.awt.image.codec.tiff.TIFFEncodeParam,int,boolean)@g_batik-codec-1.8.jar.txt	2
+org/apache/batik/ext/awt/image/codec/tiff/TIFFDirectory/initialize(org.apache.batik.ext.awt.image.codec.util.SeekableStream)@g_batik-codec-1.8.jar.txt	0

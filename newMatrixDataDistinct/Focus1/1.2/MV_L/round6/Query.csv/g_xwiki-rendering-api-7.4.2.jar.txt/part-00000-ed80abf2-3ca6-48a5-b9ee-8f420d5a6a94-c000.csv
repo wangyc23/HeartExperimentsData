@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/slf4j/Logger/warn(java.lang.String,java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+org/xwiki/component/manager/ComponentManager/getInstance(java.lang.reflect.Type,java.lang.String)

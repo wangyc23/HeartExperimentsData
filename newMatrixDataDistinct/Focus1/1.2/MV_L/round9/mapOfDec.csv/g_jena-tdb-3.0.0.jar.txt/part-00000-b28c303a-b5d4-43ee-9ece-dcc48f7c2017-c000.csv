@@ -1,0 +1,5 @@
+org/apache/jena/tdb/store/nodetable/NodeTableCache/testForConsistency()@g_jena-tdb-3.4.0.jar.txt	3
+org/apache/jena/tdb/store/nodetable/NodeTableLib/print(java.lang.String,org.apache.jena.tdb.store.nodetable.NodeTable)@g_jena-tdb-3.4.0.jar.txt	1
+org/apache/jena/riot/RDFLanguages/checkRegistration(org.apache.jena.riot.Lang)@g_jena-arq-3.0.0.jar.txt	4
+org/apache/jena/tdb/solver/BindingNodeId/putAll(org.apache.jena.tdb.solver.BindingNodeId)@g_jena-tdb-3.4.0.jar.txt	0
+org/apache/jena/tdb/solver/SolverLib/execute(org.apache.jena.tdb.store.nodetupletable.NodeTupleTable,org.apache.jena.graph.Node,org.apache.jena.sparql.core.BasicPattern,org.apache.jena.sparql.engine.QueryIterator,java.util.function.Predicate,org.apache.jena.sparql.engine.ExecutionContext)@g_jena-tdb-3.4.0.jar.txt	2

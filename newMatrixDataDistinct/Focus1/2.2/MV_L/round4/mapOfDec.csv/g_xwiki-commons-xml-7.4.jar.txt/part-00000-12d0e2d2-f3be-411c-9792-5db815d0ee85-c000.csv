@@ -1,0 +1,5 @@
+org/xwiki/xml/internal/html/filter/UniqueIdFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-commons-xml-7.0.jar.txt	0
+org/xwiki/xml/internal/html/filter/UniqueIdFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-commons-xml-7.4.2.jar.txt	1
+org/xwiki/xml/internal/html/filter/AttributeFilter/filterAttribute(org.w3c.dom.Attr)@g_xwiki-commons-xml-7.0.jar.txt	4
+org/xwiki/xml/internal/html/filter/AttributeFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-commons-xml-7.4.2.jar.txt	3
+org/xwiki/xml/internal/html/filter/AttributeFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-commons-xml-7.0.jar.txt	2

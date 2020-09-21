@@ -1,0 +1,4 @@
+java/util/Collections/emptyList()
+java/util/List/add(E)
+org/neo4j/bolt/v1/packstream/PackStream/Unpacker/unpackInteger()
+org/neo4j/bolt/v1/packstream/PackStream/Unpacker/unpackListHeader()

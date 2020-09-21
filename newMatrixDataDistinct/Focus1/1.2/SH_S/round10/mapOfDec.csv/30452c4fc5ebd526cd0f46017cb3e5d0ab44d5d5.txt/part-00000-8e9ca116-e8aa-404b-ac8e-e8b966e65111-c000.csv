@@ -1,0 +1,5 @@
+net/sf/jpam/OtherServiceTest/testUserWithNullCredentials()@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	1
+com/sportdataconnect/strictly/api/scraper/ShowScraper/scrapeLines(java.io.BufferedReader,int,com.google.common.collect.ImmutableList.Builder)@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	4
+net/sf/jpam/DigiPassTest/testUserWithUnkownUserName()@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	3
+com/sportdataconnect/strictly/api/resources/AllPerformancesResource/getAllPerformances(java.lang.String)@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	0
+net/sf/jpam/AbstractPamTest/checkReturnValue(net.sf.jpam.PamReturnValue[],net.sf.jpam.PamReturnValue)@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	2

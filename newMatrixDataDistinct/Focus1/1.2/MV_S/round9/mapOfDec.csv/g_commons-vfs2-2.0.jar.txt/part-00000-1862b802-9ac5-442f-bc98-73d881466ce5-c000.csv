@@ -1,0 +1,5 @@
+org/apache/hadoop/log/LogLevel/Servlet/process(org.apache.log4j.Logger,java.lang.String,java.io.PrintWriter)@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/crypto/key/kms/KMSClientProvider/decryptEncryptedKey(org.apache.hadoop.crypto.key.KeyProviderCryptoExtension$EncryptedKeyVersion)@g_hadoop-common-2.6.0.jar.txt	1
+org/apache/hadoop/tracing/TraceAdmin/run(java.lang.String[])@g_hadoop-common-2.6.0.jar.txt	3
+org/apache/hadoop/security/ShellBasedUnixGroupsMapping/getUnixGroups(java.lang.String)@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/util/StringUtils/split(java.lang.String,char,char)@g_hadoop-common-2.6.0.jar.txt	4

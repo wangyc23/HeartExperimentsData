@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xs/traversers/XSAttributeChecker/validate(java.lang.Object[],java.lang.String,java.lang.String,int,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	0
+org/apache/xerces/impl/xs/XMLSchemaValidator/ValueStoreBase/contains(org.apache.xerces.impl.xs.XMLSchemaValidator$ValueStoreBase)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	1
+org/apache/xerces/impl/xs/traversers/XSDSimpleTypeTraverser/getSimpleType(java.lang.String,org.w3c.dom.Element,java.lang.Object[],org.apache.xerces.impl.xs.traversers.XSDocumentInfo,org.apache.xerces.impl.xs.SchemaGrammar)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	2
+org/apache/xerces/impl/xpath/XPath/parseExpression(org.apache.xerces.xni.NamespaceContext)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	4
+org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser/traverseAnnotationDecl(org.w3c.dom.Element,java.lang.Object[],boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	3

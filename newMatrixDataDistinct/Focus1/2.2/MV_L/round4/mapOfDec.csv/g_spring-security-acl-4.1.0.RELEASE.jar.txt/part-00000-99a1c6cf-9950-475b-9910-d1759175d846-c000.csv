@@ -1,0 +1,5 @@
+org/springframework/security/acls/afterinvocation/AclEntryAfterInvocationCollectionFilteringProvider/decide(org.springframework.security.core.Authentication,java.lang.Object,java.util.Collection,java.lang.Object)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/acls/jdbc/JdbcMutableAclService/deleteAcl(org.springframework.security.acls.model.ObjectIdentity,boolean)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	2
+org/springframework/security/acls/AclEntryVoter/vote(org.springframework.security.core.Authentication,org.aopalliance.intercept.MethodInvocation,java.util.Collection)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/acls/domain/AclImpl/toString()@g_spring-security-acl-3.2.5.RELEASE.jar.txt	1
+org/springframework/security/acls/domain/AclImpl/toString()@g_spring-security-acl-3.2.3.RELEASE.jar.txt	0

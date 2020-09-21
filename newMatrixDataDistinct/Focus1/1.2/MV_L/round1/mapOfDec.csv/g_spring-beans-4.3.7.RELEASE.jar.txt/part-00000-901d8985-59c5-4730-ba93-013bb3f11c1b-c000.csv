@@ -1,0 +1,5 @@
+org/springframework/beans/BeanUtils/resolveSignature(java.lang.String,java.lang.Class)@g_spring-beans-4.2.6.RELEASE.jar.txt	4
+org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory/doCreateBean(java.lang.String,org.springframework.beans.factory.support.RootBeanDefinition,java.lang.Object[])@g_spring-beans-4.2.6.RELEASE.jar.txt	3
+org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory/getTypeForFactoryMethod(java.lang.String,org.springframework.beans.factory.support.RootBeanDefinition,java.lang.Class[])@g_spring-beans-4.2.6.RELEASE.jar.txt	1
+org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory/getTypeForFactoryMethod(java.lang.String,org.springframework.beans.factory.support.RootBeanDefinition,java.lang.Class[])@g_spring-beans-4.2.3.BUILD-20151114.225414-58.jar.txt	2
+org/springframework/beans/BeanUtils/findMethodWithMinimalParameters(java.lang.reflect.Method[],java.lang.String)@g_spring-beans-4.2.6.RELEASE.jar.txt	0

@@ -1,0 +1,5 @@
+0	com/sportdataconnect/strictly/api/scraper/ShowScraper/ShowScraper()
+1	java/lang/String/equals(java.lang.Object)
+2	com/google/common/collect/Ordering/immutableSortedCopy(java.lang.Iterable)
+3	com/nulli/openam/plugins/MockConnection/MockConnection()
+4	com/sportdataconnect/strictly/api/scraper/ShowScraper/doScrapeLines(java.io.BufferedReader,int,com.google.common.collect.ImmutableList.Builder)

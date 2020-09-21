@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/fromDependencies/CopyDependenciesMojo/installArtifact(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/GetMojo/parseRepository(java.lang.String,org.apache.maven.artifact.repository.ArtifactRepositoryPolicy)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/logMismatch(org.apache.maven.artifact.Artifact,org.apache.maven.model.Dependency)@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/dependency/resolvers/ResolvePluginsMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/tree/DOTDependencyNodeVisitor/visit(org.apache.maven.shared.dependency.graph.DependencyNode)@g_maven-dependency-plugin-2.8.jar.txt	3

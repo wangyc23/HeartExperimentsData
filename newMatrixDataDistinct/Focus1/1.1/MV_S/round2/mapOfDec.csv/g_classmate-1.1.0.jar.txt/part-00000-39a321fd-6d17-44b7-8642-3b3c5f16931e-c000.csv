@@ -1,0 +1,5 @@
+shaded/parquet/org/codehaus/jackson/map/deser/BeanDeserializerFactory/_addDeserializerFactoryMethods(shaded.parquet.org.codehaus.jackson.map.DeserializationConfig,shaded.parquet.org.codehaus.jackson.map.introspect.BasicBeanDescription,shaded.parquet.org.codehaus.jackson.map.introspect.VisibilityChecker,shaded.parquet.org.codehaus.jackson.map.AnnotationIntrospector,shaded.parquet.org.codehaus.jackson.map.deser.impl.CreatorCollector)@g_parquet-jackson-1.8.2.jar.txt	3
+shaded/parquet/org/codehaus/jackson/map/deser/BeanDeserializer/resolve(shaded.parquet.org.codehaus.jackson.map.DeserializationConfig,shaded.parquet.org.codehaus.jackson.map.DeserializerProvider)@g_parquet-jackson-1.8.2.jar.txt	2
+com/pff/PSTFolder/initEmailsTable()@g_java-libpst-0.8.1.jar.txt	1
+shaded/parquet/org/codehaus/jackson/map/introspect/BasicBeanDescription/findBackReferenceProperties()@g_parquet-jackson-1.8.2.jar.txt	4
+com/pff/PSTFolder/getSubFolders()@g_java-libpst-0.8.1.jar.txt	0

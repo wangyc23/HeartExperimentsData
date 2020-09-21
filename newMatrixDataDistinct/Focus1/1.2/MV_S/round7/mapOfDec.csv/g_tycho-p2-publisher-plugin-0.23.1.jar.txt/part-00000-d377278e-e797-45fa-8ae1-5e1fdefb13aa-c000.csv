@@ -1,0 +1,5 @@
+org/eclipse/tycho/core/osgitools/OsgiBundleProject/resolveClassPath(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject)@g_tycho-core-0.23.1.jar.txt	3
+org/eclipse/tycho/core/osgitools/EclipseRepositoryProject/loadProducts(org.apache.maven.project.MavenProject)@g_tycho-core-0.23.1.jar.txt	2
+org/eclipse/tycho/core/osgitools/targetplatform/LocalDependencyResolver/addDependencies(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,org.eclipse.tycho.core.osgitools.targetplatform.DefaultDependencyArtifacts)@g_tycho-core-0.23.1.jar.txt	4
+org/eclipse/tycho/packaging/PackagePluginMojo/createPluginJar()@g_tycho-packaging-plugin-0.23.1.jar.txt	1
+org/eclipse/tycho/packaging/IncludeValidationHelper/checkIncludesExist(java.lang.String,java.util.List,org.apache.maven.project.MavenProject,boolean,java.lang.String[])@g_tycho-packaging-plugin-0.23.1.jar.txt	0

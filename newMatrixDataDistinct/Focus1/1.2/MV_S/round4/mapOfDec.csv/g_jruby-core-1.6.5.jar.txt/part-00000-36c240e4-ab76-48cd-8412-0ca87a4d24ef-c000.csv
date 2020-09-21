@@ -1,0 +1,5 @@
+org/jruby/util/ShellLauncher/ScriptThreadProcess/start()@g_stanford-parser-3.5.2.jar.txt	4
+org/jgroups/client/StompConnection/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/TueBaDZParserParams/transformTree(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	0
+org/jruby/gen/org/jruby/ext/ffi/CallbackInfo/Populator/populate(org.jruby.RubyModule,java.lang.Class)@g_stanford-parser-3.5.2.jar.txt	1
+org/jgroups/util/Util/print(java.util.Map)@g_stanford-parser-3.5.2.jar.txt	2

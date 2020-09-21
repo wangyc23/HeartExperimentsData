@@ -1,0 +1,4 @@
+org/apache/http/impl/conn/SingleClientConnManager$PoolEntry/shutdown()
+org/apache/http/impl/conn/SingleClientConnManager$ConnAdapter/ConnAdapter(org.apache.http.impl.conn.SingleClientConnManager,org.apache.http.impl.conn.SingleClientConnManager$PoolEntry,org.apache.http.conn.routing.HttpRoute)
+org/apache/commons/logging/Log/isDebugEnabled()
+java/lang/StringBuilder/StringBuilder()

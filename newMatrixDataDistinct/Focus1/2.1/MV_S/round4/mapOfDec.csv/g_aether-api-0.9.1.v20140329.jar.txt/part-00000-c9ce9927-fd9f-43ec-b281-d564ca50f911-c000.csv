@@ -1,0 +1,5 @@
+org/eclipse/aether/artifact/AbstractArtifact/toString()@g_xwiki-commons-text-7.4.2.jar.txt	1
+org/apache/maven/plugin/surefire/runorder/RunEntryStatisticsMap/serialize(java.io.File)@g_xwiki-commons-text-7.4.2.jar.txt	2
+org/eclipse/aether/collection/UnsolvableVersionConflictException/toPath(java.util.List)@g_xwiki-commons-text-7.4.2.jar.txt	0
+org/apache/maven/surefire/util/UrlUtils/getURL(java.io.File)@g_xwiki-commons-text-7.4.2.jar.txt	3
+org/eclipse/aether/metadata/AbstractMetadata/toString()@g_xwiki-commons-text-7.4.2.jar.txt	4

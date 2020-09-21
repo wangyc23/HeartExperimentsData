@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/lang/invoke/MethodHandles$Lookup/unreflect(java.lang.reflect.Method)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])

@@ -1,0 +1,5 @@
+org/commonjava/maven/galley/transport/htcli/internal/model/WrapperHttpLocation/removeAttribute(java.lang.String)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	3
+org/commonjava/maven/galley/maven/internal/ArtifactMetadataManagerImpl/retrieveFirst(java.util.List,java.lang.String)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	2
+org/baeldung/persistence/service/FooServiceSortingTests/whenSortingFooWithCriteriaAndMultipleAttributes_thenPrintSortedFoos()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	1
+org/commonjava/maven/galley/maven/model/view/settings/MavenSettingsView/getActiveProfiles()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	0
+org/commonjava/maven/galley/TransferManagerImplTest/setup()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	4

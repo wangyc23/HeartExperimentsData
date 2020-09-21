@@ -1,0 +1,5 @@
+no/uib/cipr/matrix/sparse/AMG/Aggregator/enlargeAggregates(java.util.List,java.util.List,boolean[])@g_mtj-0.9.14.jar.txt	1
+no/uib/cipr/matrix/sparse/CompColMatrix/construct(no.uib.cipr.matrix.Matrix,boolean)@g_mtj-0.9.14.jar.txt	3
+no/uib/cipr/matrix/sparse/AMG/Interpolator/createSmoothedProlongation(java.util.List,java.util.List,no.uib.cipr.matrix.sparse.CompRowMatrix,int[],double,int[])@g_mtj-0.9.14.jar.txt	0
+no/uib/cipr/matrix/AbstractTriangBandMatrix/solve(no.uib.cipr.matrix.Matrix,no.uib.cipr.matrix.Matrix,no.uib.cipr.matrix.Transpose)@g_mtj-0.9.14.jar.txt	4
+no/uib/cipr/matrix/sparse/CompRowMatrix/construct(no.uib.cipr.matrix.Matrix,boolean)@g_mtj-0.9.14.jar.txt	2

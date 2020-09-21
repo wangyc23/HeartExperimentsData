@@ -1,0 +1,5 @@
+omw/metier/AnnonceManager/insertRecherche(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	1
+omw/dao/impl/UtilisateurDaoImpl/countUsersPseudoUsed(java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	2
+omw/dao/impl/UtilisateurTestDaoCase/testEditMySettings()@05f4c8fece83cfeb4469846407c47ce650324139.txt	3
+omw/metier/UtilisateurManager/countUsersMailUsed(java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	0
+omw/metier/AnnonceManager/ajouterDemandePourAnnonce(java.lang.Integer,java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	4

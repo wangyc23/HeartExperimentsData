@@ -1,0 +1,5 @@
+org/apache/maven/plugin/DefaultPluginManager/verifyVersionedPlugin(org.apache.maven.model.Plugin,org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-core-2.0.9.jar.txt	3
+org/apache/maven/plugin/DefaultPluginManager/resolveTransitiveDependencies(org.apache.maven.execution.MavenSession,org.apache.maven.artifact.resolver.ArtifactResolver,java.lang.String,org.apache.maven.artifact.factory.ArtifactFactory,org.apache.maven.project.MavenProject,boolean)@g_maven-core-2.0.9.jar.txt	2
+org/apache/maven/shared/artifact/filter/collection/ScopeFilter/filter(java.util.Set)@g_maven-core-2.0.9.jar.txt	4
+org/apache/maven/plugin/DefaultPluginManager/ensurePluginContainerIsComplete(org.apache.maven.plugin.descriptor.PluginDescriptor,org.codehaus.plexus.PlexusContainer,org.apache.maven.project.MavenProject,org.apache.maven.execution.MavenSession)@g_maven-core-2.0.9.jar.txt	1
+org/apache/maven/extension/DefaultExtensionManager/addExtension(org.apache.maven.model.Extension,org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-core-2.0.9.jar.txt	0

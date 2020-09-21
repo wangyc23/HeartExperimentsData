@@ -1,0 +1,5 @@
+org/elasticsearch/percolator/TransportMultiPercolateAction/doExecute(org.elasticsearch.percolator.MultiPercolateRequest,org.elasticsearch.action.ActionListener)@g_percolator-client-5.2.2.jar.txt	0
+org/elasticsearch/percolator/PercolatorFieldMapper/parse(org.elasticsearch.index.mapper.ParseContext)@g_percolator-client-5.2.2.jar.txt	1
+org/elasticsearch/index/reindex/RestReindexAction/extractStringStringMap(java.util.Map,java.lang.String)@g_reindex-client-5.2.2.jar.txt	3
+org/elasticsearch/percolator/PercolatorHighlightSubFetchPhase/hitsExecute(org.elasticsearch.search.internal.SearchContext,org.elasticsearch.search.internal.InternalSearchHit[])@g_percolator-client-5.2.2.jar.txt	2
+org/elasticsearch/index/reindex/RestUpdateByQueryAction/parseScript(java.util.Map,org.elasticsearch.common.ParseFieldMatcher)@g_reindex-client-5.2.2.jar.txt	4

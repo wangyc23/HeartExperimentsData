@@ -1,0 +1,4 @@
+org/jboss/resteasy/util/ReadFromStream/readFromStream(int,java.io.InputStream)
+javax/ws/rs/client/ClientRequestContext/getUri()
+javax/ws/rs/core/CacheControl/valueOf(java.lang.String)
+javax/ws/rs/client/ClientResponseContext/getHeaders()

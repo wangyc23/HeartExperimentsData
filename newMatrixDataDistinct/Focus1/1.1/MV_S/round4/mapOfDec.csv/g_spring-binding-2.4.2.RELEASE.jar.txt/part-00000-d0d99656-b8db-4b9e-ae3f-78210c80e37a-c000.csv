@@ -1,0 +1,5 @@
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-security-core-3.2.3.RELEASE.jar.txt	0
+org/springframework/security/authentication/ProviderManager/authenticate(org.springframework.security.core.Authentication)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/authentication/jaas/AbstractJaasAuthenticationProvider/handleLogout(org.springframework.security.core.session.SessionDestroyedEvent)@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/access/expression/method/ExpressionBasedPostInvocationAdvice/after(org.springframework.security.core.Authentication,org.aopalliance.intercept.MethodInvocation,org.springframework.security.access.prepost.PostInvocationAttribute,java.lang.Object)@g_spring-security-core-3.2.3.RELEASE.jar.txt	1
+org/springframework/security/access/intercept/AbstractSecurityInterceptor/beforeInvocation(java.lang.Object)@g_spring-security-core-3.2.3.RELEASE.jar.txt	2

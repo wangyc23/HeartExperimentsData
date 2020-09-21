@@ -1,0 +1,5 @@
+0	java/util/regex/Matcher/group(int)
+1	uk/commonline/weather/geo/source/google/GoogleGeoLocationParser/parsePlaces(java.io.InputStream)
+2	java/util/ArrayList/ArrayList()
+3	java/lang/Throwable/printStackTrace()
+4	uk/commonline/weather/geo/source/google/GoogleGeoLocationRetriever/retrieveAllByType(java.lang.String,java.lang.String)

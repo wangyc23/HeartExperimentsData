@@ -1,0 +1,5 @@
+org/apache/jena/riot/thrift/ThriftConvert/toThrift(org.apache.jena.graph.Node,org.apache.jena.riot.system.PrefixMap,org.apache.jena.riot.thrift.wire.RDF_Term,boolean)@g_jena-arq-3.0.0.jar.txt	0
+org/apache/jena/sparql/pfunction/library/splitIRI/subjectIsIRI(org.apache.jena.graph.Node,org.apache.jena.sparql.pfunction.PropFuncArg,org.apache.jena.sparql.engine.binding.Binding,org.apache.jena.sparql.engine.ExecutionContext)@g_jena-arq-3.0.0.jar.txt	2
+org/apache/jena/riot/out/NodeFormatterBase/format(org.apache.jena.atlas.io.AWriter,org.apache.jena.graph.Node)@g_jena-arq-3.0.0.jar.txt	3
+org/apache/jena/sparql/util/ModelUtils/convertGraphNodeToRDFNode(org.apache.jena.graph.Node,org.apache.jena.rdf.model.Model)@g_jena-arq-3.0.0.jar.txt	1
+org/apache/jena/riot/tokens/Token/tokenForNode(org.apache.jena.graph.Node,java.lang.String,org.apache.jena.riot.system.PrefixMap)@g_jena-arq-3.0.0.jar.txt	4

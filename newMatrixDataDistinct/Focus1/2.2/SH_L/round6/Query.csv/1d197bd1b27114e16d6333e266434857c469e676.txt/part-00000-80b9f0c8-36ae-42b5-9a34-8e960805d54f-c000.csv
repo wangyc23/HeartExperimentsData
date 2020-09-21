@@ -1,0 +1,4 @@
+org/apache/spark/api/java/JavaRDD/map(org.apache.spark.api.java.function.Function)
+org/apache/spark/examples/mllib/JavaALS/FeaturesToString/FeaturesToString()
+org/apache/spark/mllib/recommendation/ALS/train(org.apache.spark.rdd.RDD,int,int,double,int)
+org/apache/spark/examples/mllib/JavaALS/ParseRating/ParseRating()

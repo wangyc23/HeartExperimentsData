@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/get(byte[],int,int)
+java/nio/CharBuffer/hasRemaining()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/IndexOutOfBoundsException/IndexOutOfBoundsException(java.lang.String)

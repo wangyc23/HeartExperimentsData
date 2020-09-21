@@ -1,0 +1,5 @@
+org/xwiki/filter/instance/internal/output/InstanceOutputFilterStream/setProperties(org.xwiki.filter.instance.output.InstanceOutputProperties)@g_xwiki-platform-filter-instance-api-7.0.jar.txt	1
+org/xwiki/filter/instance/internal/output/InstanceOutputFilterStreamFactory/getFilterInterfaces()@g_xwiki-platform-filter-instance-api-7.4.jar.txt	2
+org/xwiki/filter/instance/internal/output/InstanceOutputFilterStreamFactory/getFilterInterfaces()@g_xwiki-platform-filter-instance-api-7.0.jar.txt	4
+org/xwiki/filter/instance/internal/output/InstanceOutputFilterStream/setProperties(org.xwiki.filter.instance.output.InstanceOutputProperties)@g_xwiki-platform-filter-instance-api-7.4.jar.txt	0
+org/xwiki/filter/instance/internal/input/InstanceInputFilterStreamFactory/getFilterInterfaces()@g_xwiki-platform-filter-instance-api-7.4.jar.txt	3

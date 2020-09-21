@@ -1,0 +1,5 @@
+org/easymock/internal/LastControl/popLastArgumentMatchers(int)@g_cdi-api-1.0.jar.txt	4
+org/easymock/internal/LegacyMatcherProvider/setMatcher(java.lang.reflect.Method,org.easymock.ArgumentsMatcher)@g_cdi-api-1.0.jar.txt	0
+org/easymock/internal/RecordState/<clinit>()@g_cdi-api-1.0.jar.txt	1
+org/jmock/internal/ReturnDefaultValueAction/createDefaultResults()@g_cdi-api-1.0.jar.txt	3
+javax/enterprise/util/AnnotationLiteral/invoke(java.lang.reflect.Method,java.lang.Object)@g_cdi-api-1.0.jar.txt	2

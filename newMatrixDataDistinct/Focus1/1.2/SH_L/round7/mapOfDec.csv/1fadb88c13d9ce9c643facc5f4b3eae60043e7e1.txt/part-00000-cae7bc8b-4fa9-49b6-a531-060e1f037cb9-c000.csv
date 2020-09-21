@@ -1,0 +1,5 @@
+org/baeldung/java/collections/CoreJavaCollectionsUnitTest/givenUsingTheJdk_whenUnmodifiableListIsCreatedFromOriginal_thenNoLongerModifiable()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	3
+com/thinkaurelius/titan/graphdb/database/StandardTitanGraph/closeTransaction(com.thinkaurelius.titan.graphdb.transaction.StandardTitanTx)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	4
+oops/references/App243/main(java.lang.String[])@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	2
+com/thinkaurelius/titan/graphdb/TitanGraphTest/testManagedOptionMasking()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	1
+org/baeldung/security/MySimpleUrlAuthenticationSuccessHandler/determineTargetUrl(org.baeldung.security.Authentication)@0279e2cf1e70dee0e3a6ec5d3974758d62781f95.txt	0

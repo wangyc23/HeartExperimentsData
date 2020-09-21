@@ -1,0 +1,5 @@
+org/jboss/weld/util/Beans/removeDisabledBeans(java.util.Set,org.jboss.weld.manager.BeanManagerImpl,org.jboss.weld.bootstrap.SpecializationAndEnablementRegistry)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	4
+org/jboss/weld/test/util/Utils/typeSetMatches(java.util.Set,java.lang.reflect.Type[])@09129e1612bdf2c5c057170fceb87099207a7dab.txt	2
+org/jboss/weld/tests/interceptors/context/bindings/InvocationContextInterceptorBindingsTest/testAroundInvokeBindings(org.jboss.weld.tests.interceptors.context.bindings.SimpleBean)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	1
+org/jboss/weld/bootstrap/Validator/isInjectionPointSatisfied(org.jboss.weld.util.reflection.InjectionPoint,java.util.Set,org.jboss.weld.manager.BeanManagerImpl)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	0
+org/jboss/weld/bean/attributes/BeanAttributesFactory/BeanAttributesBuilder/initScopeFromStereotype()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	3

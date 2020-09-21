@@ -1,0 +1,4 @@
+java/lang/CharSequence/length()
+java/lang/Math/max(int,int)
+java/lang/CharSequence/charAt(int)
+java/lang/StringBuilder/StringBuilder(java.lang.String)

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+org/openrdf/rio/RDFHandlerException/RDFHandlerException(java.lang.Throwable)
+org/openrdf/sail/SailConnection/getNamespace(java.lang.String)

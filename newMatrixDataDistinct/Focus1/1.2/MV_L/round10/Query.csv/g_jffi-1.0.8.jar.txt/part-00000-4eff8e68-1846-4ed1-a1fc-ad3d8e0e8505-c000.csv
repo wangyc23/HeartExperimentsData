@@ -1,0 +1,4 @@
+java/io/InputStream/available()
+java/nio/channels/FileChannel/transferFrom(java.nio.channels.ReadableByteChannel,long,long)
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+java/io/IOException/getMessage()

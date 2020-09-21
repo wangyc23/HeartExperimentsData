@@ -1,0 +1,5 @@
+0	vaeke/restcountries/v1/rest/CountryService/getByAlpha(java.lang.String)
+1	vaeke/restcountries/v1/rest/CountryService/getInstance()
+2	java/sql/ResultSet/getDouble(java.lang.String)
+3	vaeke/restcountries/v1/domain/Country/getCca2()
+4	vaeke/restcountries/v1/domain/Country/getCca3()

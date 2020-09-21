@@ -1,0 +1,5 @@
+org/apache/commons/net/ftp/parser/VMSFTPEntryParser/parseFTPEntry(java.lang.String)@g_commons-net-2.0.jar.txt	3
+org/apache/commons/net/ftp/parser/OS400FTPEntryParser/parseFTPEntry(java.lang.String)@g_commons-net-2.0.jar.txt	4
+org/apache/commons/net/pop3/POP3Client/login(java.lang.String,java.lang.String,java.lang.String)@g_commons-net-2.0.jar.txt	1
+org/apache/commons/net/tftp/TFTPClient/receiveFile(java.lang.String,int,java.io.OutputStream,java.net.InetAddress,int)@g_commons-net-2.0.jar.txt	2
+org/apache/commons/net/pop3/POP3Client/login(java.lang.String,java.lang.String,java.lang.String)@g_commons-net-3.2.jar.txt	0

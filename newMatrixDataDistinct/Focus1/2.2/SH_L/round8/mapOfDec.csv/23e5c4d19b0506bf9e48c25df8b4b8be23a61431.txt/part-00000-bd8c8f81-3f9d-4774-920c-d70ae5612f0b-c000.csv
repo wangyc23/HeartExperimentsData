@@ -1,0 +1,5 @@
+org/hoteia/qalingo/web/mvc/controller/ajax/CatalogAjaxController/getCatalog(org.hoteia.qalingo.web.mvc.controller.retailer.HttpServletRequest,org.hoteia.qalingo.web.mvc.controller.eco.HttpServletResponse)@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	4
+org/apache/spark/JavaAPISuite/zipWithUniqueId()@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	1
+org/apache/spark/JavaAPISuite/aggregateByKey()@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	3
+org/apache/spark/streaming/JavaAPISuite/convert(java.util.List)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	0
+org/apache/spark/streaming/JavaAPISuite/convert(org.apache.spark.api.java.function.Tuple2)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	2

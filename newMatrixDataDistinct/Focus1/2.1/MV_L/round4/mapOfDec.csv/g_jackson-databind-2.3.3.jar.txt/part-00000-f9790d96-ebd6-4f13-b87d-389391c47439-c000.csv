@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/type/TypeFactory/constructSpecializedType(com.fasterxml.jackson.databind.JavaType,java.lang.Class)@g_jackson-databind-2.3.2.jar.txt	4
+com/fasterxml/jackson/databind/module/SimpleAbstractTypeResolver/addMapping(java.lang.Class,java.lang.Class)@g_jackson-databind-2.3.2.jar.txt	3
+com/fasterxml/jackson/databind/deser/BeanDeserializerBuilder/buildBuilderBased(com.fasterxml.jackson.databind.JavaType,java.lang.String)@g_jackson-databind-2.3.2.jar.txt	1
+com/fasterxml/jackson/databind/deser/DefaultDeserializationContext/keyDeserializerInstance(com.fasterxml.jackson.databind.introspect.Annotated,java.lang.Object)@g_jackson-databind-2.3.2.jar.txt	2
+com/fasterxml/jackson/databind/deser/BasicDeserializerFactory/_valueInstantiatorInstance(com.fasterxml.jackson.databind.DeserializationConfig,com.fasterxml.jackson.databind.introspect.Annotated,java.lang.Object)@g_jackson-databind-2.3.2.jar.txt	0

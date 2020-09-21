@@ -1,0 +1,4 @@
+java/util/zip/GZIPInputStream/GZIPInputStream(java.io.InputStream)
+org/neo4j/csv/reader/Readables$FromFile$3/3(org.neo4j.csv.reader.Readables$FromFile,java.io.InputStream,java.nio.charset.Charset,java.io.File)
+org/neo4j/csv/reader/Readables$FromFile$2/2(org.neo4j.csv.reader.Readables$FromFile,java.io.InputStream,java.nio.charset.Charset,java.io.File)
+org/neo4j/csv/reader/Readables$FromFile$1/1(org.neo4j.csv.reader.Readables$FromFile,java.io.InputStream,java.nio.charset.Charset,java.io.File)

@@ -1,0 +1,5 @@
+org/apache/hadoop/net/NetworkTopologyWithNodeGroup/add(org.apache.hadoop.net.Node)@g_hadoop-common-2.6.0.jar.txt	4
+org/apache/hadoop/crypto/key/KeyShell/init(java.lang.String[])@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/net/NetworkTopology/InnerNode/add(org.apache.hadoop.net.Node)@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/io/ObjectWritable/writeObject(java.io.DataOutput,java.lang.Object,java.lang.Class,org.apache.hadoop.conf.Configuration,boolean)@g_hadoop-common-2.6.0.jar.txt	3
+org/apache/hadoop/security/SaslRpcClient/getServerPrincipal(org.apache.hadoop.ipc.protobuf.RpcHeaderProtos$RpcSaslProto$SaslAuth)@g_hadoop-common-2.6.0.jar.txt	1

@@ -1,0 +1,4 @@
+java/util/ArrayList/iterator()
+java/util/Iterator/hasNext()
+org/openrdf/query/TupleQueryResult/next()
+org/openrdf/query/BindingSet/getValue(java.lang.String)

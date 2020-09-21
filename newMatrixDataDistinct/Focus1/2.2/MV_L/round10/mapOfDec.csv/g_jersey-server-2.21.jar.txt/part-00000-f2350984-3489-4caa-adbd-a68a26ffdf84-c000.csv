@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/model/ResourceMethodInvoker/addNameBoundProviders(java.util.Collection,org.glassfish.jersey.model.NameBound,javax.ws.rs.core.MultivaluedMap,javax.ws.rs.core.MultivaluedMap)@g_jersey-server-2.25.1.jar.txt	2
+org/glassfish/jersey/server/filter/UriConnegFilter/encodeKeys(java.util.Map)@g_jersey-server-2.25.1.jar.txt	4
+org/glassfish/jersey/server/wadl/config/WadlGeneratorLoader/loadWadlGenerator(org.glassfish.hk2.api.ServiceLocator,org.glassfish.jersey.server.wadl.config.WadlGeneratorDescription,org.glassfish.jersey.server.wadl.WadlGenerator)@g_jersey-server-2.25.1.jar.txt	1
+org/glassfish/jersey/server/internal/monitoring/ExecutionStatisticsImpl/Builder/build()@g_jersey-server-2.25.1.jar.txt	0
+org/glassfish/jersey/server/ApplicationHandler/printNameBoundProviders(java.lang.String,java.util.Map,java.lang.StringBuilder)@g_jersey-server-2.25.1.jar.txt	3

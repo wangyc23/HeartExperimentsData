@@ -1,0 +1,5 @@
+com/github/alexcojocaru/mojo/elasticsearch/v2/MyArtifactResolver/resolveArtifact(java.lang.String)@g_maven-surefire-plugin-2.18.1.jar.txt	3
+org/apache/maven/plugin/surefire/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-surefire-plugin-2.18.1.jar.txt	4
+com/github/alexcojocaru/mojo/elasticsearch/v2/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-surefire-plugin-2.18.1.jar.txt	0
+com/github/alexcojocaru/mojo/elasticsearch/v2/client/ElasticsearchClient/buildHttpClientManager()@g_maven-surefire-plugin-2.18.1.jar.txt	2
+com/github/alexcojocaru/mojo/elasticsearch/v2/AbstractElasticsearchMojo/buildClusterConfiguration()@g_maven-surefire-plugin-2.18.1.jar.txt	1

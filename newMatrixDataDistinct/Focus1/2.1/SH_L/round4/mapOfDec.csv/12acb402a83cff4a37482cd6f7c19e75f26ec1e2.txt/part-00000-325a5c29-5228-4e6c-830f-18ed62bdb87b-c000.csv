@@ -1,0 +1,5 @@
+com/ning/http/client/async/RC10KTest/MyAsyncHandler/onBodyPartReceived(com.ning.http.client.HttpResponseBodyPart)@0410ebd2dbf0261f87260a81253640692b65673a.txt	2
+org/atmosphere/gwt/server/impl/GwtAtmosphereResourceImpl/isAlive()@0410ebd2dbf0261f87260a81253640692b65673a.txt	3
+org/atmosphere/util/IntrospectionUtils/hasHook(java.lang.Object,java.lang.String)@0410ebd2dbf0261f87260a81253640692b65673a.txt	0
+org/atmosphere/tests/http/BroadcasterLifecycleTest/findFreePort()@0410ebd2dbf0261f87260a81253640692b65673a.txt	1
+org/atmosphere/samples/multirequest/handlers/EventsLogger/onBroadcast(org.atmosphere.cpr.AtmosphereResourceEvent)@0410ebd2dbf0261f87260a81253640692b65673a.txt	4

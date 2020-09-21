@@ -1,0 +1,5 @@
+org/eclipse/equinox/internal/app/EclipseAppContainer/createAppDescriptor(org.eclipse.core.runtime.IExtension)@g_app-1.3.200-v20130910-1609.jar.txt	1
+org/eclipse/equinox/internal/app/EclipseAppHandle/run(java.lang.Object)@g_app-1.3.200-v20130910-1609.jar.txt	0
+net/sf/ezmorph/bean/MorphDynaBean/set(java.lang.String,java.lang.String,java.lang.Object)@g_ezmorph-1.0.6.jar.txt	3
+net/sf/ezmorph/array/BooleanObjectArrayMorpher/morph(java.lang.Object)@g_ezmorph-1.0.6.jar.txt	4
+net/sf/ezmorph/bean/MorphDynaClass/process()@g_ezmorph-1.0.6.jar.txt	2

@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/transaction/state/PropertyCreator/createPropertyChain(org.neo4j.kernel.impl.store.record.PrimitiveRecord,java.util.Iterator,org.neo4j.kernel.impl.transaction.state.RecordAccess)@g_neo4j-kernel-3.1.0.jar.txt	0
+org/neo4j/unsafe/impl/batchimport/staging/DynamicProcessorAssigner/removeProcessorFromPotentialIdleStep(org.neo4j.unsafe.impl.batchimport.staging.StageExecution)@g_neo4j-kernel-3.1.0.jar.txt	1
+org/neo4j/kernel/impl/transaction/state/OnlineIndexUpdates/propertiesFromCommandsForNode(java.util.List)@g_neo4j-kernel-3.1.0.jar.txt	4
+org/neo4j/kernel/impl/transaction/state/PropertyDeleter/deletePropertyChain(org.neo4j.kernel.impl.store.record.PrimitiveRecord,org.neo4j.kernel.impl.transaction.state.RecordAccess)@g_neo4j-kernel-3.1.0.jar.txt	2
+org/neo4j/kernel/impl/api/index/IndexingService/init()@g_neo4j-kernel-3.1.0.jar.txt	3

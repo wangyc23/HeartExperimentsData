@@ -1,0 +1,5 @@
+org/kumoricon/model/printer/Printer/setIpAddress(java.lang.String)@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	4
+org/kumoricon/service/print/PrintService/findPrinter(java.lang.String)@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	2
+org/kumoricon/site/attendee/search/AttendeeSearchNoteView/enter(com.vaadin.navigator.ViewChangeListener.ViewChangeEvent)@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	3
+org/kumoricon/site/attendee/search/AttendeeSearchByBadgeNoteView/enter(com.vaadin.navigator.ViewChangeListener.ViewChangeEvent)@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	1
+org/kumoricon/site/attendee/reg/AttendeeRegDetailNoteView/enter(com.vaadin.navigator.ViewChangeListener.ViewChangeEvent)@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	0

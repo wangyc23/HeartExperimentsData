@@ -1,0 +1,4 @@
+scala/reflect/ManifestFactory$/classType(java.lang.Class)
+org/neo4j/cypher/internal/spi/v3_0/Templates$/newResultRow()
+org/neo4j/codegen/TryBlock/expression(org.neo4j.codegen.Expression)
+org/neo4j/codegen/TryBlock/self()

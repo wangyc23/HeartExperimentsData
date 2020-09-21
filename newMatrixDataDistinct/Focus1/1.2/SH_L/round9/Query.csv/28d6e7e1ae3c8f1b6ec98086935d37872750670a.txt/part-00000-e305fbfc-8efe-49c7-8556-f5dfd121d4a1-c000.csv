@@ -1,0 +1,4 @@
+org/apache/mahout/math/Vector/getDistanceSquared(org.apache.mahout.math.Vector)
+org/apache/mahout/math/decomposer/SolverTest/randomSequentialAccessSparseMatrix(int,int,int,int,double)
+org/apache/mahout/common/MahoutTestCase/getConfiguration()
+org/apache/mahout/math/VectorIterable/times(org.apache.mahout.math.Vector)

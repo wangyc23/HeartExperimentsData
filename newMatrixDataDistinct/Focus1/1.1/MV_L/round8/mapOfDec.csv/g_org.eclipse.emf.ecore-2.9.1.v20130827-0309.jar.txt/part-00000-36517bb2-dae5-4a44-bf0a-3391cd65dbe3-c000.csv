@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/util/EcoreValidator/validateEEnum_UniqueEnumeratorLiterals(org.eclipse.emf.ecore.EEnum,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-2.3.0-v200706262000.jar.txt	1
+org/eclipse/emf/ecore/util/EcoreValidator/validateEClass_ConsistentSuperTypes(org.eclipse.emf.ecore.EClass,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-2.3.0-v200706262000.jar.txt	2
+org/eclipse/emf/ecore/impl/EFactoryImpl/createFromString(org.eclipse.emf.ecore.EDataType,java.lang.String)@g_ecore-2.3.0-v200706262000.jar.txt	3
+org/eclipse/emf/ecore/util/EcoreValidator/validateEOperation_UniqueParameterNames(org.eclipse.emf.ecore.EOperation,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-2.3.0-v200706262000.jar.txt	4
+org/eclipse/emf/ecore/util/EcoreValidator/validateEClassifier_UniqueTypeParameterNames(org.eclipse.emf.ecore.EClassifier,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-2.3.0-v200706262000.jar.txt	0

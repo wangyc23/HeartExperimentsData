@@ -1,0 +1,5 @@
+org/neo4j/kernel/configuration/Config/identifiersFromGroup(java.lang.Class)@g_jwordsplitter-4.1.jar.txt	4
+org/neo4j/kernel/impl/transaction/log/PhysicalLogFile/openForVersion(org.neo4j.kernel.impl.transaction.log.PhysicalLogFiles,org.neo4j.io.fs.FileSystemAbstraction,long,boolean)@g_jwordsplitter-4.1.jar.txt	1
+org/neo4j/kernel/internal/TransactionEventHandlers/afterRollback(org.neo4j.storageengine.api.txstate.ReadableTransactionState,org.neo4j.kernel.api.KernelTransaction,org.neo4j.kernel.internal.TransactionEventHandlers$TransactionHandlerState)@g_jwordsplitter-4.1.jar.txt	2
+org/neo4j/kernel/impl/coreapi/ExplicitIndexProxy/add(org.neo4j.graphdb.PropertyContainer,java.lang.String,java.lang.Object)@g_jwordsplitter-4.1.jar.txt	0
+org/neo4j/helpers/Args/splitLongLine(java.lang.String,int)@g_jwordsplitter-4.1.jar.txt	3

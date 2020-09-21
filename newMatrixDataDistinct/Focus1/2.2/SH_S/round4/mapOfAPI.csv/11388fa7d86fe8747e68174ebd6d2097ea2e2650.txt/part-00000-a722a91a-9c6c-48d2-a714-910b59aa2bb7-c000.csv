@@ -1,0 +1,4 @@
+0	fr/grislain/async/node/Address/Provider/address()
+1	java/net/InetAddress/isSiteLocalAddress()
+2	java/net/InetAddress/getHostAddress()
+3	fr/grislain/async/node/Address/provider()

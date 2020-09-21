@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/macro/gallery/GalleryMacro/execute(java.lang.Object,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-rendering-macro-gallery-7.4.2.jar.txt	2
+org/xwiki/refactoring/internal/splitter/DefaultDocumentSplitter/updateAnchors(java.util.List)@g_xwiki-platform-refactoring-7.0.jar.txt	0
+org/xwiki/refactoring/splitter/criterion/naming/HeadingNameNamingCriterion/getDocumentName(org.xwiki.rendering.block.XDOM)@g_xwiki-platform-refactoring-7.0.jar.txt	1
+org/xwiki/refactoring/splitter/criterion/naming/HeadingNameNamingCriterion/getDocumentName(org.xwiki.rendering.block.XDOM)@g_xwiki-platform-rendering-macro-gallery-7.4.2.jar.txt	4
+org/xwiki/refactoring/internal/splitter/DefaultDocumentSplitter/updateAnchors(java.util.List)@g_xwiki-platform-rendering-macro-gallery-7.4.2.jar.txt	3

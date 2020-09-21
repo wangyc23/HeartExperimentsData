@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/Os/isFamily(java.lang.String)
+java/lang/String/length()
+java/lang/String/substring(int,int)
+java/lang/String/indexOf(java.lang.String)

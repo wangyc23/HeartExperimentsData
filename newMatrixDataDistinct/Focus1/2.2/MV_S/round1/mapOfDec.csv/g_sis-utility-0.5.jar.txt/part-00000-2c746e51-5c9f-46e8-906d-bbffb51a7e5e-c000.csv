@@ -1,0 +1,5 @@
+org/apache/commons/text/AlphabetConverter/decode(java.lang.String)@g_commons-text-1.1.jar.txt	0
+com/ibm/icu/text/MessageFormat/parse(int,java.lang.String,java.text.ParsePosition,java.lang.Object[],java.util.Map)@g_icu4j-50.1.1.jar.txt	2
+com/ibm/icu/text/DecimalFormat/toPattern(boolean)@g_icu4j-50.1.1.jar.txt	4
+com/ibm/icu/util/ULocale/JDKLocaleHelper/toULocale7(java.util.Locale)@g_icu4j-50.1.1.jar.txt	1
+com/ibm/icu/impl/ICUResourceBundle/getFunctionalEquivalent(java.lang.String,java.lang.ClassLoader,java.lang.String,java.lang.String,com.ibm.icu.util.ULocale,boolean[],boolean)@g_icu4j-50.1.1.jar.txt	3

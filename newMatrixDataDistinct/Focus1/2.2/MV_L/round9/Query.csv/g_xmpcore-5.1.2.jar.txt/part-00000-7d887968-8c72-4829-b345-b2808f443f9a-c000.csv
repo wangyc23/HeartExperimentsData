@@ -1,0 +1,4 @@
+org/w3c/dom/NodeList/getLength()
+org/w3c/dom/ProcessingInstruction/getData()
+org/w3c/dom/Node/getLocalName()
+org/w3c/dom/ProcessingInstruction/getTarget()

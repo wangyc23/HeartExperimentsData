@@ -1,0 +1,5 @@
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/isSourceChanged(org.codehaus.plexus.compiler.CompilerConfiguration,org.codehaus.plexus.compiler.Compiler)@g_maven-compiler-plugin-3.5.1.jar.txt	4
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/isDependencyChanged()@g_maven-compiler-plugin-3.5.1.jar.txt	2
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/execute()@g_maven-compiler-plugin-3.5.1.jar.txt	1
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/getRequestThreadCount()@g_maven-compiler-plugin-3.5.1.jar.txt	0
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/getBuildStartTime()@g_maven-compiler-plugin-3.5.1.jar.txt	3

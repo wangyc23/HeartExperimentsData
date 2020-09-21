@@ -1,0 +1,4 @@
+org/apache/avro/Protocol/getMessages()
+java/util/Map/values()
+java/util/Iterator/next()
+org/apache/avro/Protocol/parse(java.lang.String)

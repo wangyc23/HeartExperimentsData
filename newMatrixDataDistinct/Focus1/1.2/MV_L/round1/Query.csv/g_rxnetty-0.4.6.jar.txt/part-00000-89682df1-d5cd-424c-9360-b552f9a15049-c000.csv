@@ -1,0 +1,4 @@
+io/netty/handler/codec/http/HttpHeaders/set(io.netty.handler.codec.http.HttpHeaders)
+io/netty/buffer/ByteBuf/duplicate()
+io/netty/handler/codec/http/DefaultFullHttpResponse/DefaultFullHttpResponse(io.netty.handler.codec.http.HttpVersion,io.netty.handler.codec.http.HttpResponseStatus,io.netty.buffer.ByteBuf)
+io/reactivex/netty/protocol/http/server/HttpServerResponse$DelegatingFullHttpResponse/headers()

@@ -1,0 +1,5 @@
+net/sf/ehcache/transaction/local/LocalTransactionStore/recover()@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/transaction/local/LocalTransactionStore/put(net.sf.ehcache.Element)@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/transaction/xa/EhcacheXAResourceImpl/commitInternal(javax.transaction.xa.Xid,boolean)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/transaction/xa/EhcacheXAResourceImpl/createTransactionContext()@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/transaction/local/LocalTransactionStore/remove(java.lang.Object)@g_ehcache-core-2.6.2.jar.txt	2

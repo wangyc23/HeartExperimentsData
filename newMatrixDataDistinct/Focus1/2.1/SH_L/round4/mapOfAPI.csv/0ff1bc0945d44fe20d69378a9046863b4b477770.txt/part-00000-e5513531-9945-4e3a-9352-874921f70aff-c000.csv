@@ -1,0 +1,7 @@
+0	java/lang/UnsupportedOperationException/UnsupportedOperationException()
+1	org/neo4j/graphdb/Node/getRelationships(org.neo4j.graphdb.RelationshipType[])
+2	org/neo4j/rest/graphdb/RelationshipHasMatcher/match(org.neo4j.graphdb.Node,org.neo4j.graphdb.Direction,org.neo4j.graphdb.RelationshipType[])
+3	com/BD2/Proto_Music/negocios/Disco/getProductor()
+4	org/neo4j/rest/graphdb/RestAPI/getPlugin(java.lang.Class)
+5	org/neo4j/graphdb/Node/hasRelationship(org.neo4j.graphdb.RelationshipType,org.neo4j.graphdb.Direction)
+6	org/neo4j/rest/graphdb/RestAPIFacade/current()

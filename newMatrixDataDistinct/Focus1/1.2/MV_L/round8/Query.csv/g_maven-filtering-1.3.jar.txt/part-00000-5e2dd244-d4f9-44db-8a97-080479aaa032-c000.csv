@@ -1,0 +1,4 @@
+java/io/Reader/read()
+org/codehaus/plexus/interpolation/InterpolationException/getMessage()
+java/lang/IllegalArgumentException/initCause(java.lang.Throwable)
+java/lang/String/charAt(int)

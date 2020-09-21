@@ -1,0 +1,5 @@
+jersey/repackaged/com/google/common/collect/Maps/EntrySet/retainAll(java.util.Collection)@g_jersey-guava-2.19.jar.txt	4
+jersey/repackaged/com/google/common/collect/FilteredEntryMultimap/removeEntriesIf(jersey.repackaged.com.google.common.base.Predicate)@g_jersey-guava-2.19.jar.txt	2
+jersey/repackaged/com/google/common/collect/ImmutableListMultimap/copyOf(jersey.repackaged.com.google.common.collect.Multimap)@g_jersey-guava-2.22.1.jar.txt	1
+jersey/repackaged/com/google/common/collect/ImmutableListMultimap/copyOf(jersey.repackaged.com.google.common.collect.Multimap)@g_jersey-guava-2.19.jar.txt	0
+jersey/repackaged/com/google/common/collect/FilteredEntryMultimap/AsMap/3/remove(java.lang.Object)@g_jersey-guava-2.19.jar.txt	3

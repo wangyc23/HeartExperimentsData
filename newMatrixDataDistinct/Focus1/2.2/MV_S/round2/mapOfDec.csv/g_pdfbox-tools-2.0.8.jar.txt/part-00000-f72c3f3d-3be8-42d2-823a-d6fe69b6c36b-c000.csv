@@ -1,0 +1,5 @@
+org/apache/pdfbox/util/PDFMarkedContentExtractor/processTextPosition(org.apache.pdfbox.util.TextPosition)@g_pdfbox-1.7.0.jar.txt	4
+org/apache/pdfbox/pdfparser/PDFStreamParser/parseNextToken()@g_pdfbox-1.7.0.jar.txt	1
+org/apache/pdfbox/PDFSplit/split(java.lang.String[])@g_pdfbox-1.7.0.jar.txt	3
+org/apache/pdfbox/ExtractText/startExtraction(java.lang.String[])@g_pdfbox-1.7.0.jar.txt	0
+org/apache/pdfbox/util/PDFText2HTML/getTitle()@g_pdfbox-1.7.0.jar.txt	2

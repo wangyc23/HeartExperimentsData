@@ -1,0 +1,5 @@
+org/apache/maven/shared/filtering/DefaultMavenResourcesFiltering/filteredFileExtension(java.lang.String,java.util.List)@g_plexus-resources-1.0-alpha-7.jar.txt	3
+org/apache/maven/shared/artifact/filter/PatternIncludesArtifactFilter/reportMissedCriteria(org.codehaus.plexus.logging.Logger)@g_plexus-resources-1.0-alpha-7.jar.txt	2
+org/codehaus/plexus/resource/loader/URLResourceLoader/getResource(java.lang.String)@g_plexus-resources-1.0-alpha-7.jar.txt	0
+org/codehaus/plexus/resource/DefaultResourceManager/getResource(java.lang.String)@g_plexus-resources-1.0-alpha-7.jar.txt	1
+org/apache/maven/shared/filtering/DefaultMavenFileFilter/Wrapper/getReader(java.io.Reader)@g_plexus-resources-1.0-alpha-7.jar.txt	4

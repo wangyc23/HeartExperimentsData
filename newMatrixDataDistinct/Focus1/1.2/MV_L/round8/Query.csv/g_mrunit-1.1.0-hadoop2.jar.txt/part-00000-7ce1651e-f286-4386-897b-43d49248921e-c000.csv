@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/RecordWriter/close(org.apache.hadoop.mapreduce.TaskAttemptContext)
+org/apache/hadoop/mapreduce/TaskAttemptContext/getConfiguration()
+org/apache/hadoop/mapreduce/InputFormat/getSplits(org.apache.hadoop.mapreduce.JobContext)
+org/apache/hadoop/mapreduce/RecordReader/getCurrentValue()

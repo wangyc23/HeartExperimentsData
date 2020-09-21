@@ -1,0 +1,5 @@
+org/apache/taglibs/standard/lang/jstl/test/EvaluationTest/runTests(java.io.DataInput,java.io.PrintStream)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	0
+org/apache/taglibs/standard/lang/jstl/test/EvaluationTest/runTests(java.io.DataInput,java.io.PrintStream)@g_standard-1.1.2.jar.txt	2
+org/apache/taglibs/standard/tlv/JstlXmlTLV/Handler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	4
+org/apache/taglibs/standard/lang/jstl/test/ParserTest/runTests(java.io.DataInput,java.io.PrintStream)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	1
+org/apache/taglibs/standard/tag/common/xml/XPathUtil/adaptParamsForXalan(org.w3c.dom.Node,java.lang.String,javax.xml.xpath.XPathVariableResolver)@g_org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar.txt	3

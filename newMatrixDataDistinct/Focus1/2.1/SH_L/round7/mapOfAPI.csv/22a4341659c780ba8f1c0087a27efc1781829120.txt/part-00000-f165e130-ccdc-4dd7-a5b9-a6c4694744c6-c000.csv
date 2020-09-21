@@ -1,0 +1,5 @@
+0	oops/TreeMap/getLastEntry()
+1	java/lang/RuntimeException/RuntimeException(java.lang.String)
+2	org/kiji/schema/util/TestingFileUtils/createTempDir(java.lang.String,java.lang.String)
+3	oops/TreeMap/DescendingKeyIterator/DescendingKeyIterator(oops.TreeMap.Entry)
+4	oops/TreeMap/NavigableSubMap/absHigher(K)

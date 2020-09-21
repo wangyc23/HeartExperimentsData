@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/apache/lucene/geo/GeoUtils/checkLatitude(double)
+org/apache/lucene/index/IndexReader/leaves()
+java/util/Iterator/hasNext()

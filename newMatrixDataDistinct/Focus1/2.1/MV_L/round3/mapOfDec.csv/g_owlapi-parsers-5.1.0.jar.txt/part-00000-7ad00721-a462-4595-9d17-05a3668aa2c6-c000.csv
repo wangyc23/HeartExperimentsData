@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rdf/rdfxml/parser/OWLRDFConsumer/translateDataRange(org.semanticweb.owlapi.model.IRI)@g_owlapi-parsers-4.5.0.jar.txt	3
+org/semanticweb/owlapi/util/NamespaceUtil/generatePrefix(java.lang.String)@g_owlapi-parsers-4.5.0.jar.txt	2
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLDataProperty)@g_owlapi-distribution-5.1.0.jar.txt	0
+org/obolibrary/obo2owl/OWLAPIObo2Owl/tr(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-parsers-4.5.0.jar.txt	4
+org/semanticweb/owlapi/owlxml/parser/OWLOntologyHandler/attribute(java.lang.String,java.lang.String)@g_owlapi-parsers-4.5.0.jar.txt	1

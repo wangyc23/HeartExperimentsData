@@ -1,0 +1,5 @@
+org/glassfish/jersey/client/ClientRuntime/addUserAgent(org.glassfish.jersey.client.ClientRequest,java.lang.String)@g_jersey-client-2.22.1.jar.txt	1
+org/glassfish/jersey/client/authentication/DigestAuthenticator/createNextAuthToken(org.glassfish.jersey.client.authentication.DigestAuthenticator$DigestScheme,javax.ws.rs.client.ClientRequestContext,org.glassfish.jersey.client.authentication.HttpAuthenticationFilter$Credentials)@g_jersey-client-2.21.jar.txt	4
+org/glassfish/jersey/client/authentication/HttpAuthenticationFilter/repeatRequest(javax.ws.rs.client.ClientRequestContext,javax.ws.rs.client.ClientResponseContext,java.lang.String)@g_jersey-client-2.21.jar.txt	2
+org/glassfish/jersey/client/ClientRuntime/addUserAgent(org.glassfish.jersey.client.ClientRequest,java.lang.String)@g_jersey-client-2.21.jar.txt	0
+org/glassfish/jersey/client/ClientRequest/writeEntity()@g_jersey-client-2.21.jar.txt	3

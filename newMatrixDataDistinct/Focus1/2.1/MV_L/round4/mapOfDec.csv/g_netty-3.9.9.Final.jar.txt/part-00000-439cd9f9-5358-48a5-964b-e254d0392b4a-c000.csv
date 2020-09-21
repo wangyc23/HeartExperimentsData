@@ -1,0 +1,5 @@
+org/jboss/netty/handler/codec/http/multipart/HttpPostMultipartRequestDecoder/findMultipartDisposition()@g_netty-3.10.6.Final.jar.txt	4
+org/jboss/netty/handler/codec/spdy/DefaultSpdySettingsFrame/setValue(int,int,boolean,boolean)@g_netty-3.10.6.Final.jar.txt	1
+org/jboss/netty/channel/socket/nio/NioDatagramChannel/joinGroup(java.net.InetAddress,java.net.NetworkInterface,java.net.InetAddress)@g_netty-3.10.6.Final.jar.txt	0
+org/jboss/netty/channel/DefaultChannelPipeline/replace(org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext,java.lang.String,org.jboss.netty.channel.ChannelHandler)@g_netty-3.10.6.Final.jar.txt	3
+org/jboss/netty/bootstrap/ServerBootstrap/Binder/channelOpen(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.ChannelStateEvent)@g_netty-3.10.6.Final.jar.txt	2

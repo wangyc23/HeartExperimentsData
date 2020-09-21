@@ -1,0 +1,4 @@
+org/activiti/bpmn/model/ExtensionElement/getElementText()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+org/activiti/bpmn/model/ExtensionAttribute/getValue()

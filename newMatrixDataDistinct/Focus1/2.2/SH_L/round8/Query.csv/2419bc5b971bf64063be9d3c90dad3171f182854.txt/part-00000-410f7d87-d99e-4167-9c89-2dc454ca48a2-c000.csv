@@ -1,0 +1,4 @@
+javax/json/JsonArrayBuilder/add(javax.json.JsonObjectBuilder)
+javax/json/JsonObjectBuilder/add(java.lang.String,javax.json.JsonArrayBuilder)
+javax/json/JsonObjectBuilder/add(java.lang.String,java.lang.String)
+javax/json/JsonWriterFactory/createWriter(java.io.Writer)

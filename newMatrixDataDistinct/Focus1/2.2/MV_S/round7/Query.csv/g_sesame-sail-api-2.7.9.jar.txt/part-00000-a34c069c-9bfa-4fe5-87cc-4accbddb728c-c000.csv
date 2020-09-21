@@ -1,0 +1,4 @@
+org/openrdf/model/Model/iterator()
+org/openrdf/model/BNode/equals(java.lang.Object)
+org/openrdf/model/Statement/getContext()
+java/util/Iterator/next()

@@ -1,0 +1,5 @@
+javax/faces/component/UIComponentBase/populateDescriptorsMapIfNecessary()@g_javax.faces-api-2.2.jar.txt	4
+com/sun/faces/config/ConfigManager/getConfigDocuments(javax.servlet.ServletContext,java.util.List,java.util.concurrent.ExecutorService,boolean)@g_javax.faces-api-2.2.jar.txt	3
+com/sun/faces/taglib/jsf_core/ConvertNumberTag/evaluateExpressions()@g_javax.faces-api-2.2.jar.txt	2
+javax/faces/webapp/UIComponentClassicTagBase/setJspId(java.lang.String)@g_javax.faces-api-2.2.jar.txt	1
+javax/faces/component/UIData/invokeOnComponent(javax.faces.context.FacesContext,java.lang.String,javax.faces.component.ContextCallback)@g_javax.faces-api-2.2.jar.txt	0

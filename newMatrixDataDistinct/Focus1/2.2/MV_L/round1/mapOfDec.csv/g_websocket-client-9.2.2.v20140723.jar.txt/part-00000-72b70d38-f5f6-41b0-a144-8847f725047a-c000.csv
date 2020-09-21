@@ -1,0 +1,5 @@
+org/eclipse/jetty/websocket/common/Parser/assertSanePayloadLength(long)@g_websocket-common-9.2.2.v20140723.jar.txt	2
+org/eclipse/jetty/websocket/common/Parser/parseFrame(java.nio.ByteBuffer)@g_websocket-common-9.2.2.v20140723.jar.txt	0
+org/eclipse/jetty/server/handler/ShutdownHandler/sendShutdown()@g_jetty-server-9.4.5.v20170502.jar.txt	4
+org/eclipse/jetty/websocket/common/Parser/toString()@g_websocket-common-9.2.2.v20140723.jar.txt	1
+org/eclipse/jetty/websocket/common/io/IOState/notifyStateListeners(org.eclipse.jetty.websocket.common.ConnectionState)@g_websocket-common-9.2.2.v20140723.jar.txt	3

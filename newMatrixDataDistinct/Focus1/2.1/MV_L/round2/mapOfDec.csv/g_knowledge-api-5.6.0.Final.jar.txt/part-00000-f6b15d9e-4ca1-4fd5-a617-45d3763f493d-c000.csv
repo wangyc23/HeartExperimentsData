@@ -1,0 +1,5 @@
+org/drools/util/ServiceRegistryImpl/unregisterInstance(org.drools.Service,java.util.Map)@g_knowledge-api-5.5.0.Final.jar.txt	4
+org/drools/util/ChainedProperties/mapStartsWith(java.util.Map,java.util.Properties,java.lang.String,boolean)@g_knowledge-api-5.5.0.Final.jar.txt	1
+org/drools/runtime/rule/ConsequenceException/printFacts(java.io.PrintStream)@g_knowledge-api-5.5.0.Final.jar.txt	0
+org/drools/util/ServiceRegistryImpl/registerInstance(org.drools.Service,java.util.Map)@g_knowledge-api-5.5.0.Final.jar.txt	3
+org/apache/tiles/web/util/TilesDecorationFilter/parseAlternateDefinitions()@g_knowledge-api-5.5.0.Final.jar.txt	2

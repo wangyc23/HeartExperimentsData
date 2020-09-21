@@ -1,0 +1,5 @@
+com/tchepannou/kiosk/core/service/FileServiceTest/shouldGetFromFile()@05f114a0ec9764491544f93f27096c567f17892c.txt	3
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/incrementCounter(com.lucidworks.pig.FusionIndexPipelineStoreFunc.Counters,long)@10009d49e71147069d6d5082ba9a06f1a47312f4.txt	4
+com/tchepannou/kiosk/core/service/FileServiceTest/shouldPutFile()@05f114a0ec9764491544f93f27096c567f17892c.txt	2
+com/tchepannou/kiosk/core/service/HttpService/getContentTextAsUTF8(org.apache.http.client.methods.CloseableHttpResponse)@05f114a0ec9764491544f93f27096c567f17892c.txt	0
+com/tchepannou/kiosk/core/service/S3ServiceTest/testPut()@05f114a0ec9764491544f93f27096c567f17892c.txt	1

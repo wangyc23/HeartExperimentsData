@@ -1,0 +1,5 @@
+rx/internal/operators/OnSubscribeJoin/ResultSink/RightSubscriber/onNext(java.lang.Object)@g_rxjava-core-0.20.7.jar.txt	0
+rx/internal/operators/OnSubscribeJoin/ResultSink/LeftSubscriber/onNext(java.lang.Object)@g_rxjava-core-0.20.7.jar.txt	1
+rx/internal/operators/OnSubscribeJoin/ResultSink/RightSubscriber/onNext(java.lang.Object)@g_rxjava-1.0.10.jar.txt	2
+rx/internal/operators/OperatorBufferWithTime/InexactSubscriber/onCompleted()@g_rxjava-core-0.20.7.jar.txt	4
+rx/internal/operators/OnSubscribeJoin/ResultSink/LeftSubscriber/onNext(java.lang.Object)@g_rxjava-1.0.10.jar.txt	3

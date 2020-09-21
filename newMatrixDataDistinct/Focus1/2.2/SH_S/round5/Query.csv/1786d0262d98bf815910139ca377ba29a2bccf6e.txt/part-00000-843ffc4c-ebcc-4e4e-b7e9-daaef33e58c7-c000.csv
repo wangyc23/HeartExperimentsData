@@ -1,0 +1,4 @@
+java/util/Collections/synchronizedMap(java.util.Map)
+java/lang/System/setOut(java.io.PrintStream)
+java/util/Collections/emptyMap()
+java/lang/System/setErr(java.io.PrintStream)

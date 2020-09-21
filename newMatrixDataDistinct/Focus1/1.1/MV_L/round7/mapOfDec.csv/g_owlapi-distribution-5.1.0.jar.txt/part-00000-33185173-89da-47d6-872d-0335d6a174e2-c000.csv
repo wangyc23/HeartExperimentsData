@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxObjectRenderer/writeRestriction(org.semanticweb.owlapi.model.OWLQuantifiedObjectRestriction,org.semanticweb.owlapi.manchestersyntax.parser.ManchesterOWLSyntax)@g_owlapi-parsers-5.1.0.jar.txt	4
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/handleImport(java.util.Set)@g_owlapi-parsers-5.1.0.jar.txt	2
+org/semanticweb/owlapi/util/NamespaceUtil/generatePrefix(java.lang.String)@g_owlapi-parsers-5.1.0.jar.txt	1
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/applyChanges(java.util.List)@g_owlapi-parsers-5.1.0.jar.txt	3
+org/semanticweb/owlapi/profiles/OWL2ELProfile/OWL2ELProfileObjectVisitor/visit(org.semanticweb.owlapi.model.OWLSubPropertyChainOfAxiom)@g_owlapi-distribution-4.5.0.jar.txt	0

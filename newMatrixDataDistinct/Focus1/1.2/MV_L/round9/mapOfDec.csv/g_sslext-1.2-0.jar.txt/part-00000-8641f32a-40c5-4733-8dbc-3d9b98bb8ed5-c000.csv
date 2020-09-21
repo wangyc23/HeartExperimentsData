@@ -1,0 +1,5 @@
+org/apache/struts/taglib/bean/CookieTag/doStartTag()@g_struts-taglib-1.3.8.jar.txt	2
+org/apache/struts/taglib/TagUtils/computeURLWithCharEncoding(javax.servlet.jsp.PageContext,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.util.Map,java.lang.String,boolean,boolean,boolean)@g_struts-taglib-1.3.8.jar.txt	0
+org/apache/struts/taglib/logic/MatchTag/condition(boolean)@g_struts-taglib-1.3.8.jar.txt	4
+org/apache/struts/taglib/html/JavascriptValidatorTag/createDynamicJavascript(org.apache.struts.config.ModuleConfig,org.apache.commons.validator.ValidatorResources,java.util.Locale,org.apache.commons.validator.Form)@g_struts-taglib-1.3.8.jar.txt	3
+org/apache/struts/taglib/bean/PageTag/doStartTag()@g_struts-taglib-1.3.8.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/commons/configuration/DatabaseConfiguration/addPropertyDirect(java.lang.String,java.lang.Object)@g_commons-configuration-1.8.jar.txt	3
+org/apache/commons/configuration/beanutils/ConfigurationDynaClass/getDynaProperties()@g_commons-configuration-1.8.jar.txt	2
+org/apache/commons/configuration/plist/PropertyListConfiguration/printValue(java.io.PrintWriter,int,java.lang.Object)@g_commons-configuration-1.8.jar.txt	0
+org/apache/commons/configuration/plist/XMLPropertyListConfiguration/printValue(java.io.PrintWriter,int,java.lang.Object)@g_commons-configuration-1.8.jar.txt	1
+org/apache/commons/configuration/beanutils/ConfigurationDynaBean/set(java.lang.String,java.lang.Object)@g_commons-configuration-1.8.jar.txt	4

@@ -1,0 +1,5 @@
+org/reflections/util/ClasspathHelper/forManifest(java.net.URL)@g_reflections-0.9.9.jar.txt	3
+org/reflections/util/FilterBuilder/parsePackages(java.lang.String)@g_reflections-0.9.9.jar.txt	2
+edu/washington/cs/knowitall/commonlib/StringUtils/splitInto(java.lang.String,java.util.regex.Pattern)@g_common-java-2.0.2.jar.txt	0
+org/reflections/vfs/Vfs/findFiles(java.util.Collection,com.google.common.base.Predicate)@g_reflections-0.9.9.jar.txt	4
+org/reflections/util/ClasspathHelper/forResource(java.lang.String,java.lang.ClassLoader[])@g_reflections-0.9.9.jar.txt	1

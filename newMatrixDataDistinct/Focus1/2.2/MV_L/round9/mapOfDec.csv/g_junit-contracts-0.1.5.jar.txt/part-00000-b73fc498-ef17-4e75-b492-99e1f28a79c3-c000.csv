@@ -1,0 +1,5 @@
+net/sf/ehcache/transaction/local/LocalTransactionStore/recover()@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/store/disk/Segment/replace(java.lang.Object,int,net.sf.ehcache.Element)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/config/ConfigurationFactory/parseConfiguration(java.io.File)@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/transaction/local/LocalTransactionContext/unfreezeAndUnlock()@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/transaction/xa/EhcacheXAResourceImpl/recover(int)@g_ehcache-core-2.6.2.jar.txt	0

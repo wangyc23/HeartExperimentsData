@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+javax/naming/InitialContext/lookup(java.lang.String)
+org/eclipse/jetty/webapp/WebAppContext/getServer()
+org/eclipse/jetty/jndi/NamingUtil/bind(javax.naming.Context,java.lang.String,java.lang.Object)

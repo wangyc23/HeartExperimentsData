@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/bytedeco/javacpp/BytePointer/getString()
+com/github/jfasttext/FastTextWrapper$FloatStringPairVector/second(long)
+com/github/jfasttext/JFastText$ProbLabel/ProbLabel(float,java.lang.String)

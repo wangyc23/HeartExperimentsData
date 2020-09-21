@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/xmi/impl/EMOFHandler/handleProxy(org.eclipse.emf.ecore.InternalEObject,java.lang.String)@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	4
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/getPrefix(org.eclipse.emf.ecore.EPackage,boolean)@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	1
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/getURIFragment(org.eclipse.emf.ecore.resource.Resource,org.eclipse.emf.ecore.EObject)@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	2
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/updateQNamePrefix(org.eclipse.emf.ecore.EFactory,org.eclipse.emf.ecore.EDataType,java.lang.Object,boolean)@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	0
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/addNamespaceDeclarations()@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	3

@@ -1,0 +1,5 @@
+org/bouncycastle/x509/ExtendedPKIXParameters/setAttrCertCheckers(java.util.Set)@g_bcprov-jdk15on-1.47.jar.txt	0
+org/bouncycastle/asn1/BEROctetString/toBytes(org.bouncycastle.asn1.ASN1OctetString[])@g_bcprov-jdk15on-1.47.jar.txt	3
+org/bouncycastle/asn1/BERConstructedOctetString/toBytes(java.util.Vector)@g_bcprov-jdk15on-1.47.jar.txt	2
+org/bouncycastle/jcajce/provider/asymmetric/x509/KeyFactory/engineGeneratePrivate(java.security.spec.KeySpec)@g_bcprov-jdk15on-1.47.jar.txt	4
+org/bouncycastle/asn1/ASN1Sequence/getInstance(java.lang.Object)@g_bcprov-jdk15on-1.47.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/Throwable/getMessage()
+java/util/Map/containsKey(java.lang.Object)
+java/lang/String/startsWith(java.lang.String)
+org/eclipse/emf/common/util/URI/trimFragment()

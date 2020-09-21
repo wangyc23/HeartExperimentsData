@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/List/size()
+java/util/List/add(E)
+java/util/List/get(int)

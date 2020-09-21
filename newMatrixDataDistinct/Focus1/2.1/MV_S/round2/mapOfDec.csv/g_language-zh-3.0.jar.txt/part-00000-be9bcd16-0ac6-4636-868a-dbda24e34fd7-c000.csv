@@ -1,0 +1,5 @@
+org/reflections/util/ClasspathHelper/forClass(java.lang.Class,java.lang.ClassLoader[])@g_model-builder-1.3.jar.txt	0
+org/reflections/ReflectionUtils/forName(java.lang.String,java.lang.ClassLoader[])@g_model-builder-1.3.jar.txt	4
+org/reflections/serializers/JavaCodeSerializer/resolveClassOf(java.lang.Class)@g_model-builder-1.3.jar.txt	3
+org/apache/maven/shared/model/ModelTransformerContext/processContainers(org.apache.maven.shared.model.ModelDataSource,org.apache.maven.shared.model.ModelDataSource,org.apache.maven.shared.model.ModelContainerInfo)@g_model-builder-1.3.jar.txt	1
+org/apache/maven/shared/model/ModelMarshaller/unmarshalModelPropertiesToXml(java.util.List,java.lang.String)@g_model-builder-1.3.jar.txt	2

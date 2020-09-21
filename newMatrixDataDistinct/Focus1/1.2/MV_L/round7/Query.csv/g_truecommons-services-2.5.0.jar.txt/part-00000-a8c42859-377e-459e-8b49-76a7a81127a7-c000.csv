@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/slf4j/Logger/debug(org.slf4j.Marker,java.lang.String,java.lang.Object)
+java/util/Iterator/next()
+java/lang/Iterable/iterator()

@@ -1,0 +1,5 @@
+org/keycloak/testsuite/model/UserSessionProviderTest/testOnUserRemoved()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	1
+org/keycloak/testsuite/model/UserSessionProviderTest/testRemoveUserSessionsByRealm()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	2
+org/keycloak/testsuite/model/UserSessionProviderTest/createSessions()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	0
+org/keycloak/testsuite/model/UserSessionProviderTest/testRemoveUserSessionsByUser()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	3
+org/keycloak/testsuite/model/UserSessionProviderTest/testRemoveUserSessionsByExpired()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	4

@@ -1,0 +1,5 @@
+org/apache/maven/shared/model/fileset/util/FileSetManager/scan(org.apache.maven.shared.model.fileset.FileSet)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	3
+org/apache/maven/usability/plugin/io/xpp3/ParamdocXpp3Reader/parseExpressionDocumentation(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	1
+org/apache/maven/usability/plugin/io/xpp3/ParamdocXpp3Reader/parseExpression(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	0
+org/apache/maven/plugin/registry/io/xpp3/PluginRegistryXpp3Reader/parsePluginRegistry(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	4
+org/apache/maven/plugin/registry/io/xpp3/PluginRegistryXpp3Reader/parsePluginRegistry(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-plugin-registry-2.0.6.jar.txt	2

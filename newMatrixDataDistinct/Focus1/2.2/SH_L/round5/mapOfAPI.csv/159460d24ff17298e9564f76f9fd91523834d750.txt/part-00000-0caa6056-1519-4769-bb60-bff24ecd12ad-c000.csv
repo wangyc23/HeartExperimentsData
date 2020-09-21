@@ -1,0 +1,8 @@
+0	java/util/PriorityQueue/size()
+1	java/lang/Object/toString()
+2	java/util/Arrays/asList(T[])
+3	org/glassfish/jersey/server/internal/inject/AbstractTest/getResponseContext(java.lang.String,org.glassfish.jersey.server.internal.inject.Cookie[])
+4	java/util/PriorityQueue/toArray(T[])
+5	java/util/Arrays/sort(java.lang.Object[])
+6	org/feuyeux/jaxrs2/atup/core/info/AtupTestJobListInfo/AtupTestJobListInfo(java.util.List)
+7	java/util/Collections/singletonList(T)

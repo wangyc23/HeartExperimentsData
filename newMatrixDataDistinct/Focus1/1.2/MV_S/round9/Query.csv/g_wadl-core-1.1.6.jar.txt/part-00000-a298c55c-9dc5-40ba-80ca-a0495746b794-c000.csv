@@ -1,0 +1,4 @@
+com/sun/codemodel/JExpr/_new(com.sun.codemodel.JClass)
+com/sun/codemodel/JConditional/_else()
+com/sun/codemodel/JConditional/_then()
+javax/xml/namespace/QName/getNamespaceURI()

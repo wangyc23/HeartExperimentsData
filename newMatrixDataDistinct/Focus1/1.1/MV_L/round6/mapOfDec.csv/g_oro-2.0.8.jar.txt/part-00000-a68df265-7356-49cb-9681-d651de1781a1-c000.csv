@@ -1,0 +1,5 @@
+org/apache/regexp/RETestCase/testMatch()@g_jakarta-regexp-1.4.jar.txt	1
+org/apache/regexp/RETest/runInteractiveTests(java.lang.String)@g_jakarta-regexp-1.4.jar.txt	2
+org/apache/regexp/RETest/runAutomatedTests(java.lang.String)@g_jakarta-regexp-1.4.jar.txt	0
+org/jruby/ext/posix/JavaFileStat/calculateSymlink(java.io.File,short)@g_jakarta-regexp-1.4.jar.txt	4
+org/jruby/ext/posix/util/Finder/findFileCommon(org.jruby.ext.posix.POSIX,java.lang.String,java.lang.String,boolean)@g_jakarta-regexp-1.4.jar.txt	3

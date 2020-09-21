@@ -1,0 +1,5 @@
+org/codehaus/plexus/PlexusContainerHost/start(org.codehaus.classworlds.ClassWorld,java.lang.String)@g_plexus-container-default-1.0-alpha-8.jar.txt	3
+org/codehaus/plexus/PlexusTestCase/setUp()@g_plexus-container-default-1.0-alpha-8.jar.txt	0
+org/codehaus/plexus/component/discovery/PlexusXmlComponentDiscoverer/discoverConfiguration(org.codehaus.plexus.context.Context,org.codehaus.classworlds.ClassRealm)@g_plexus-container-default-1.0-alpha-8.jar.txt	4
+org/codehaus/plexus/component/composition/SetterComponentComposer/setProperty(java.lang.Object,org.codehaus.plexus.component.repository.ComponentDescriptor,org.codehaus.plexus.component.repository.ComponentRequirement,java.beans.PropertyDescriptor,org.codehaus.plexus.PlexusContainer)@g_plexus-container-default-1.0-alpha-8.jar.txt	2
+org/codehaus/plexus/PlexusTestCase/setUp()@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	1

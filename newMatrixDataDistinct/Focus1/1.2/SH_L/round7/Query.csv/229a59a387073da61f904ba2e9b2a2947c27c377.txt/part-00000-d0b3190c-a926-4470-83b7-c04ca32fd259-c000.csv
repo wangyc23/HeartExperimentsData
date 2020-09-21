@@ -1,0 +1,4 @@
+javax/servlet/ServletRequest/getParameterMap()
+javax/servlet/FilterChain/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse)
+java/util/Collections/unmodifiableMap(java.util.Map)
+org/jboss/as/quickstarts/servlet/filterlistener/VowelRemoverFilter/doFilter(javax/servlet/ServletRequest,javax/servlet/ServletResponse,javax/servlet/FilterChain)/$anonymous1/(javax.servlet.http.HttpServletRequest)

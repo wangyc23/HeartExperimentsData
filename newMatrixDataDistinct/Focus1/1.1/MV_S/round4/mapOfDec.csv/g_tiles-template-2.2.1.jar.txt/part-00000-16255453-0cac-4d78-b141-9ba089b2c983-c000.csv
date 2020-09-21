@@ -1,0 +1,5 @@
+org/apache/tiles/template/DefaultAttributeResolver/computeAttribute(org.apache.tiles.TilesContainer,org.apache.tiles.Attribute,java.lang.String,java.lang.String,boolean,java.lang.Object,java.lang.String,java.lang.String,java.lang.Object[])@g_tiles-core-2.2.1.jar.txt	4
+org/apache/tiles/definition/pattern/BasicPatternDefinitionResolver/addDefinitionsAsPatternMatchers(java.util.List,java.util.Map)@g_tiles-core-2.2.1.jar.txt	3
+org/apache/tiles/jsp/taglib/definition/InitContainerTag/doEndTag()@g_tiles-core-2.2.1.jar.txt	2
+org/apache/tiles/definition/pattern/PatternUtil/replaceVarsInSimpleAttribute(org.apache.tiles.Attribute,java.lang.Object[])@g_tiles-core-2.2.1.jar.txt	1
+org/apache/tiles/definition/digester/DigesterDefinitionsReader/FillDefinitionRule/begin(java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_tiles-core-2.2.1.jar.txt	0

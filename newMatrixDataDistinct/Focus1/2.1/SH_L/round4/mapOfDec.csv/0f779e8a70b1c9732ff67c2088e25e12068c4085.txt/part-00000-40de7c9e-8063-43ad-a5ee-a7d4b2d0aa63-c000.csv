@@ -1,0 +1,5 @@
+org/jboss/resteasy/test/async/callback/JaxrsUtil/iterableToString(java.lang.String,java.util.Iterator)@2c9549dd139deb00021ea50c189abc2d31655a44.txt	2
+org/jboss/resteasy/jsapi/JSAPIWriter/writeJavaScript(java.lang.String,java.io.PrintWriter,org.jboss.resteasy.jsapi.ServiceRegistry)@2c9549dd139deb00021ea50c189abc2d31655a44.txt	1
+se/unlogic/eagledns/EagleDNS/addRRset(se.unlogic.eagledns.Name,se.unlogic.eagledns.Message,se.unlogic.eagledns.RRset,int,int)@2c9549dd139deb00021ea50c189abc2d31655a44.txt	0
+org/jboss/resteasy/plugins/providers/jaxb/fastinfoset/FastinfoSetUnmarshaller/getUnmarshallerHandler()@2c9549dd139deb00021ea50c189abc2d31655a44.txt	3
+org/jboss/resteasy/test/nextgen/resource/Locator2Test/ParamEntityThrowingWebApplicationException/parseArg(java.lang.String)@2c9549dd139deb00021ea50c189abc2d31655a44.txt	4

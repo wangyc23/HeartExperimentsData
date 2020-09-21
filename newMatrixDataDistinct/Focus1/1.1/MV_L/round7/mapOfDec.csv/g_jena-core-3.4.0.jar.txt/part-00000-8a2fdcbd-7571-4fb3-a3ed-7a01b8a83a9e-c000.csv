@@ -1,0 +1,5 @@
+org/apache/jena/n3/N3JenaWriterCommon/processModel(org.apache.jena.rdf.model.Model)@g_jena-core-3.0.0.jar.txt	4
+org/apache/jena/n3/N3JenaWriterCommon/processModel(org.apache.jena.rdf.model.Model)@g_jena-core-3.5.0.jar.txt	1
+org/apache/jena/reasoner/transitiveReasoner/GraphNode/1/visit(org.apache.jena.reasoner.transitiveReasoner.GraphNode,org.apache.jena.reasoner.transitiveReasoner.GraphNode,java.util.Set,org.apache.jena.reasoner.transitiveReasoner.GraphNode)@g_jena-core-3.0.0.jar.txt	3
+org/apache/jena/reasoner/transitiveReasoner/GraphNode/1/visit(org.apache.jena.reasoner.transitiveReasoner.GraphNode,org.apache.jena.reasoner.transitiveReasoner.GraphNode,java.util.Set,org.apache.jena.reasoner.transitiveReasoner.GraphNode)@g_jena-core-3.5.0.jar.txt	0
+org/apache/jena/reasoner/transitiveReasoner/GraphNode/2/visit(org.apache.jena.reasoner.transitiveReasoner.GraphNode,org.apache.jena.reasoner.transitiveReasoner.GraphNode,java.util.Set,java.lang.Object)@g_jena-core-3.5.0.jar.txt	2

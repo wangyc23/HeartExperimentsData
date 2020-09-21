@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/model/OWLOntology/dataPropertyDomainAxioms(org.semanticweb.owlapi.model.OWLDataProperty)
+org/semanticweb/owlapi/model/OWLOntology/equivalentDataPropertiesAxioms(org.semanticweb.owlapi.model.OWLDataProperty)
+org/semanticweb/owlapi/model/OWLOntology/functionalDataPropertyAxioms(org.semanticweb.owlapi.model.OWLDataPropertyExpression)
+java/util/List/addAll(java.util.Collection)

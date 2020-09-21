@@ -1,0 +1,5 @@
+demo/colocated/client/DispatchSourceClient/ContentHandler/characters(char[],int,int)@2c2710613270b565261a7770ad4d9d630b867e89.txt	3
+demo/wseventing/CreateSubscriptionServlet/convertJAXBElementToStringAndEscapeHTML(java.lang.Object)@2c2710613270b565261a7770ad4d9d630b867e89.txt	2
+org/apache/bigtop/datagenerators/bigpetstore/DataLoader/loadData()@2c2710613270b565261a7770ad4d9d630b867e89.txt	0
+corba/server/AccountImpl/deposit(float)@2c2710613270b565261a7770ad4d9d630b867e89.txt	4
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@2c2710613270b565261a7770ad4d9d630b867e89.txt	1

@@ -1,0 +1,5 @@
+javax/faces/component/html/HtmlInputHidden/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	1
+javax/faces/component/html/HtmlOutputFormat/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	4
+javax/faces/component/html/HtmlDoctype/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	0
+javax/faces/component/html/HtmlSelectOneMenu/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	3
+javax/faces/component/html/HtmlColumn/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	2

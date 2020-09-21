@@ -1,0 +1,5 @@
+com/sun/syndication/fetcher/impl/DiskFeedInfoCache/getFeedInfo(java.net.URL)@g_rome-fetcher-1.0.jar.txt	4
+com/xpn/xwiki/plugin/feed/FeedPlugin/initCache(int,com.xpn.xwiki.XWikiContext)@g_rome-fetcher-1.0.jar.txt	3
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/retrieveFeed(java.lang.String,org.apache.commons.httpclient.HttpMethod)@g_rome-fetcher-1.0.jar.txt	2
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/retrieveFeed(java.net.URL,int)@g_rome-fetcher-1.0.jar.txt	1
+com/sun/syndication/fetcher/impl/HttpClientFeedFetcher/retrieveFeed(java.net.URL)@g_rome-fetcher-1.0.jar.txt	0

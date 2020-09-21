@@ -1,0 +1,4 @@
+org/apache/maven/plugin/resources/HelpMojo/getLog()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(int)
+java/lang/String/length()

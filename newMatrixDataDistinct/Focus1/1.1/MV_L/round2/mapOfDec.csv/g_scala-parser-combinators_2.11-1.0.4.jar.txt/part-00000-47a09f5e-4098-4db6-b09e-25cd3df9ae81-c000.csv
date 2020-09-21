@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/executionplan/ExecutionPlanImpl/checkForMissingPredicates(org.neo4j.cypher.internal.executionplan.PartiallySolvedQuery,org.neo4j.cypher.internal.pipes.Pipe)@g_neo4j-cypher-1.7.jar.txt	1
+org/neo4j/cypher/SyntaxException/toString()@g_neo4j-cypher-1.7.jar.txt	4
+org/neo4j/cypher/internal/parser/v1_8/ParserPattern/anonfun/tailWithRelData/13/apply(scala.util.parsing.combinator.Parsers$$tilde)@g_neo4j-cypher-1.7.jar.txt	3
+org/neo4j/cypher/internal/parser/v1_6/MatchClause/anonfun/correctMatch/2/apply(scala.collection.immutable.List)@g_neo4j-cypher-1.7.jar.txt	2
+org/neo4j/cypher/internal/pipes/EagerAggregationPipe/anonfun/createResults/1/apply(org.neo4j.cypher.internal.pipes.ExecutionContext)@g_neo4j-cypher-1.7.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/mahout/math/matrix/doublealgo/Sorting/sort(org.apache.mahout.math.matrix.DoubleMatrix3D,int,int)@g_mahout-math-0.6.jar.txt	3
+org/apache/mahout/math/matrix/doublealgo/Formatter/toSourceCode(org.apache.mahout.math.matrix.DoubleMatrix3D)@g_mahout-math-0.6.jar.txt	4
+com/netflix/eventbus/spi/SyncSubscribersGatekeeper/<clinit>()@g_mahout-math-0.6.jar.txt	0
+org/apache/mahout/math/matrix/linalg/Algebra/toString(org.apache.mahout.math.matrix.DoubleMatrix2D)@g_mahout-math-0.6.jar.txt	1
+org/apache/mahout/math/matrix/linalg/Property/toString(org.apache.mahout.math.matrix.DoubleMatrix2D)@g_mahout-math-0.6.jar.txt	2

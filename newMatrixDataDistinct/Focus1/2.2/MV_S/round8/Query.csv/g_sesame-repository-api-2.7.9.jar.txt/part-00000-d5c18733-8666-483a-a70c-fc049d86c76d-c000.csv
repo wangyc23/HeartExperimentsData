@@ -1,0 +1,4 @@
+java/util/Iterator/remove()
+java/util/LinkedList/remove(java.lang.Object)
+java/util/LinkedList/LinkedList(java.util.Collection)
+java/util/Collection/add(java.lang.Object)

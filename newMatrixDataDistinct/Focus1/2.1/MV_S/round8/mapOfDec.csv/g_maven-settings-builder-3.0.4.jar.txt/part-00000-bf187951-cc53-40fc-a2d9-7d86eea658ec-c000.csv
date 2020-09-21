@@ -1,0 +1,5 @@
+org/apache/maven/plugins/help/ActiveProfilesMojo/getActiveProfileStatement(org.apache.maven.project.MavenProject,java.lang.StringBuilder)@g_maven-help-plugin-2.2.jar.txt	1
+org/apache/maven/plugins/help/HelpMojo/execute()@g_maven-help-plugin-2.2.jar.txt	0
+org/apache/maven/plugins/help/DescribeMojo/describeCommand(java.lang.StringBuilder)@g_maven-help-plugin-2.2.jar.txt	4
+org/apache/maven/plugins/help/EffectiveSettingsMojo/hidePasswords(org.apache.maven.settings.Settings)@g_maven-help-plugin-2.2.jar.txt	2
+org/apache/maven/plugins/help/EffectivePomMojo/execute()@g_maven-help-plugin-2.2.jar.txt	3

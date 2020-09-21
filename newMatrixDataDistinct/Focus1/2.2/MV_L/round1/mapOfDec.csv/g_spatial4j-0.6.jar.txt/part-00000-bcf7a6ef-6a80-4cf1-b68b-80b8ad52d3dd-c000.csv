@@ -1,0 +1,5 @@
+org/apache/lucene/index/CheckIndex/testFieldNorms(org.apache.lucene.index.CodecReader,java.io.PrintStream,boolean)@g_lucene-core-7.2.1.jar.txt	2
+org/apache/lucene/index/IndexFileDeleter/inflateGens(org.apache.lucene.index.SegmentInfos,java.util.Collection,org.apache.lucene.util.InfoStream)@g_lucene-core-7.2.1.jar.txt	3
+org/apache/lucene/index/MultiDocValues/3/advance(int)@g_lucene-core-7.2.1.jar.txt	1
+org/apache/lucene/index/LogMergePolicy/findForcedMergesSizeLimit(org.apache.lucene.index.SegmentInfos,int,int,org.apache.lucene.index.IndexWriter)@g_lucene-core-7.2.1.jar.txt	4
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_lucene-core-7.2.1.jar.txt	0

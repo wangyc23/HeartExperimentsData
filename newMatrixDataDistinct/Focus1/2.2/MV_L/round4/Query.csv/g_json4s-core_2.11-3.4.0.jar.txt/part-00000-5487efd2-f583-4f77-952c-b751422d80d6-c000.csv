@@ -1,0 +1,4 @@
+org/json4s/MonadicJValue$$anonfun$remove$1$$anonfun$applyOrElse$1/1(org.json4s.MonadicJValue$$anonfun$remove$1)
+org/json4s/JsonAST$JArray$/apply(scala.collection.immutable.List)
+org/json4s/package$/JObject()
+org/json4s/JsonAST$JObject$/apply(scala.collection.immutable.List)

@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/ankus/io/TextFourWritableComparable/TextFourWritableComparable(java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+java/util/Iterator/hasNext()
+org/ankus/io/TextTwoWritableComparable/getText2()

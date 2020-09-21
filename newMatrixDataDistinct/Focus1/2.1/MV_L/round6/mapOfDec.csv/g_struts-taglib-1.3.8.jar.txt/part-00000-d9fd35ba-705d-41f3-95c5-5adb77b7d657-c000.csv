@@ -1,0 +1,5 @@
+org/apache/struts/tiles/xmlDefinition/I18nFactorySet/initFactory(javax.servlet.ServletContext,java.util.Map)@g_struts-tiles-1.3.8.jar.txt	0
+org/apache/struts/util/SecureRequestUtils/stowRequestAttributes(javax.servlet.http.HttpServletRequest)@g_sslext-1.2-0.jar.txt	2
+org/apache/struts/tiles/xmlDefinition/XmlDefinition/resolveInheritance(org.apache.struts.tiles.xmlDefinition.XmlDefinitionsSet)@g_sslext-1.2-0.jar.txt	3
+org/apache/struts/taglib/html/FormTag/lookup()@g_sslext-1.2-0.jar.txt	4
+org/apache/struts/taglib/html/LinkTag/calculateURL()@g_sslext-1.2-0.jar.txt	1

@@ -1,0 +1,4 @@
+anatlyzer/atlext/OCL/OclUndefinedExp/getCommentsAfter()
+org/eclipse/emf/ecore/EObject/eClass()
+org/eclipse/emf/common/util/EList/add(java.lang.Object)
+org/eclipse/emf/ecore/EClass/getEStructuralFeature(java.lang.String)

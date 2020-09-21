@@ -1,0 +1,5 @@
+com/tdunning/math/stats/TreeDigest/quantile(double)@g_t-digest-3.0.jar.txt	1
+com/tdunning/math/stats/ArrayDigest/add(double,int)@g_t-digest-3.0.jar.txt	3
+com/google/gson/internal/bind/MapTypeAdapterFactory/Adapter/write(com.google.gson.stream.JsonWriter,java.util.Map)@g_t-digest-3.0.jar.txt	2
+com/google/gson/internal/bind/JsonTreeWriter/value(double)@g_t-digest-3.0.jar.txt	4
+com/google/gson/internal/Gson/Types/canonicalize(java.lang.reflect.Type)@g_t-digest-3.0.jar.txt	0

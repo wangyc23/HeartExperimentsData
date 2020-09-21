@@ -1,0 +1,4 @@
+org/drools/common/InternalKnowledgeRuntime/setId(int)
+org/drools/common/InternalKnowledgeRuntime/setEndOperationListener(org.drools.common.EndOperationListener)
+java/lang/StringBuilder/append(java.lang.String)
+org/drools/marshalling/Marshaller/getMarshallingConfiguration()

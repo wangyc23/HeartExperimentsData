@@ -1,0 +1,4 @@
+com/amazonaws/Request/setEndpoint(java.net.URI)
+java/util/Map$Entry/getKey()
+java/util/Iterator/next()
+com/amazonaws/Request/addParameter(java.lang.String,java.lang.String)

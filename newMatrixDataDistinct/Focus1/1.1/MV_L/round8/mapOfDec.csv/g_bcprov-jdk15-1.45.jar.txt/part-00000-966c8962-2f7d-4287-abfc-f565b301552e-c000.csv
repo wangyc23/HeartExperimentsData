@@ -1,0 +1,5 @@
+org/bouncycastle/jce/provider/RFC3281CertPathUtilities/processAttrCert7(org.bouncycastle.x509.X509AttributeCertificate,java.security.cert.CertPath,java.security.cert.CertPath,org.bouncycastle.x509.ExtendedPKIXParameters)@g_bcprov-jdk16-140.jar.txt	3
+org/bouncycastle/x509/PKIXCertPathReviewer/checkPolicy()@g_bcprov-jdk16-140.jar.txt	4
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcprov-jdk16-140.jar.txt	0
+org/bouncycastle/jce/provider/BouncyCastleProvider/addMappings(java.util.Map)@g_bcprov-jdk16-140.jar.txt	1
+org/bouncycastle/jce/PKCS7SignedData/getEncoded()@g_bcprov-jdk16-140.jar.txt	2

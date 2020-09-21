@@ -1,0 +1,5 @@
+org/springframework/boot/context/embedded/ServletContextInitializerBeans/addAsRegistrationBean(org.springframework.beans.factory.ListableBeanFactory,java.lang.Class,java.lang.Class,org.springframework.boot.context.embedded.ServletContextInitializerBeans$RegistrationBeanAdapter)@g_spring-social-core-1.1.2.RELEASE.jar.txt	3
+org/springframework/boot/context/embedded/tomcat/TomcatEmbeddedServletContainerFactory/configureSslKeyStore(org.apache.coyote.http11.AbstractHttp11JsseProtocol,org.springframework.boot.context.embedded.Ssl)@g_spring-social-core-1.1.2.RELEASE.jar.txt	4
+org/springframework/social/oauth1/SigningSupport/buildAuthorizationHeaderValue(org.springframework.http.HttpMethod,java.net.URI,java.util.Map,org.springframework.util.MultiValueMap,java.lang.String,java.lang.String)@g_spring-social-core-1.1.2.RELEASE.jar.txt	0
+org/springframework/boot/context/embedded/AbstractEmbeddedServletContainerFactory/getCodeSourceArchive()@g_spring-social-core-1.1.2.RELEASE.jar.txt	1
+org/springframework/boot/context/embedded/tomcat/TomcatEmbeddedServletContainerFactory/configurePersistSession(org.apache.catalina.Manager)@g_spring-social-core-1.1.2.RELEASE.jar.txt	2

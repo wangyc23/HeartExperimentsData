@@ -1,0 +1,5 @@
+com/opencsv/bean/HeaderColumnNameMappingStrategy/captureHeader(com.opencsv.CSVReader)@g_opencsv-2.0.jar.txt	3
+com/opencsv/bean/ColumnPositionMappingStrategy/loadFieldMap()@g_opencsv-2.0.jar.txt	4
+au/com/bytecode/opencsv/CSVReader/parseLine(java.lang.String)@g_opencsv-2.0.jar.txt	0
+com/opencsv/RFC4180Parser/handleQuotes(java.lang.String)@g_opencsv-2.0.jar.txt	2
+au/com/bytecode/opencsv/CSVParser/parseLine(java.lang.String,boolean)@g_opencsv-2.3.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/plugin/PluginReport/executeReport(java.util.Locale)@g_maven-plugin-plugin-3.2.jar.txt	1
+org/apache/maven/plugin/invoker/HelpMojo/execute()@g_maven-plugin-plugin-3.2.jar.txt	2
+org/apache/maven/plugin/plugin/PluginReport/PluginOverviewRenderer/discoverJdkRequirementFromPlugins(java.util.Map)@g_maven-plugin-plugin-3.2.jar.txt	3
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/execute()@g_maven-plugin-plugin-3.2.jar.txt	4
+org/apache/maven/plugin/plugin/AbstractGeneratorMojo/execute()@g_maven-plugin-plugin-3.2.jar.txt	0

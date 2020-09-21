@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+org/eclipse/jetty/util/BufferUtil/flipPutFlip(java.nio.ByteBuffer,java.nio.ByteBuffer)
+org/eclipse/jetty/util/BufferUtil/space(java.nio.ByteBuffer)
+org/eclipse/jetty/util/BufferUtil/hasContent(java.nio.ByteBuffer)

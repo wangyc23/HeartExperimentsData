@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlet/Invoker/init()@g_jetty-servlet-9.0.5.v20130815.jar.txt	3
+org/eclipse/jetty/servlet/ServletContextHandler/startContext()@g_jetty-servlet-8.1.22.v20160922.jar.txt	0
+org/eclipse/jetty/servlet/ServletHandler/updateMappings()@g_jetty-servlet-8.1.22.v20160922.jar.txt	2
+org/eclipse/jetty/servlet/ServletHandler/updateMappings()@g_jetty-servlet-9.0.5.v20130815.jar.txt	4
+org/eclipse/jetty/servlet/Invoker/init()@g_jetty-servlet-8.1.22.v20160922.jar.txt	1

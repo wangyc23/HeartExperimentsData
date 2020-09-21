@@ -1,0 +1,5 @@
+opennlp/perceptron/SimplePerceptronSequenceTrainer/nextIteration(int)@g_opennlp-maxent-3.0.2-incubating.jar.txt	2
+opennlp/perceptron/SimplePerceptronSequenceTrainer/trainingStats(opennlp.model.MutableContext[])@g_opennlp-maxent-3.0.2-incubating.jar.txt	3
+opennlp/maxent/io/GISModelWriter/persist()@g_opennlp-maxent-3.0.2-incubating.jar.txt	1
+opennlp/perceptron/PerceptronModelWriter/persist()@g_opennlp-maxent-3.0.2-incubating.jar.txt	0
+opennlp/model/AbstractDataIndexer/sortAndMerge(java.util.List,boolean)@g_opennlp-maxent-3.0.2-incubating.jar.txt	4

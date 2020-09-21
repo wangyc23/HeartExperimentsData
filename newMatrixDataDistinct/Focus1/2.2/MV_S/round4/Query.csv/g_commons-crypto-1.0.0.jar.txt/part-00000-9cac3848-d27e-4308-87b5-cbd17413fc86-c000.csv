@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/security/GeneralSecurityException/GeneralSecurityException(java.lang.String,java.lang.Throwable)
+java/util/List/size()

@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/gzip/GZipUnArchiver/execute()@g_plexus-archiver-2.1.1.jar.txt	2
+org/codehaus/plexus/archiver/AbstractArchiver/addFile(java.io.File,java.lang.String,int)@g_plexus-archiver-2.1.1.jar.txt	4
+org/codehaus/plexus/archiver/jar/JdkManifestFactory/getDefaultManifest()@g_plexus-archiver-2.1.1.jar.txt	0
+org/codehaus/plexus/archiver/tar/TarArchiver/tarFile(org.codehaus.plexus.archiver.ArchiveEntry,org.codehaus.plexus.archiver.tar.TarOutputStream,java.lang.String)@g_plexus-archiver-2.1.1.jar.txt	3
+org/codehaus/plexus/archiver/tar/TarUnArchiver/execute()@g_plexus-archiver-2.1.1.jar.txt	1

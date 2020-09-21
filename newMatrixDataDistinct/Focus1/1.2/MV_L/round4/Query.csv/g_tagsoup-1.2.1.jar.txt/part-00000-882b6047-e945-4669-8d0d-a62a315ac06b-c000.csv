@@ -1,0 +1,4 @@
+org/xml/sax/InputSource/setByteStream(java.io.InputStream)
+java/util/Hashtable/get(java.lang.Object)
+org/xml/sax/InputSource/setSystemId(java.lang.String)
+org/xml/sax/XMLReader/parse(org.xml.sax.InputSource)

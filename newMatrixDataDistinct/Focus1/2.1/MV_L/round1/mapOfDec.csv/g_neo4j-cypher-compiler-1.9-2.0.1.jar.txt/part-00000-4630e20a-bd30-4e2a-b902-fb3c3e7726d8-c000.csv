@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v1_9/executionplan/builders/SortingPreparations/anonfun/5/apply(org.neo4j.cypher.internal.compiler.v1_9.executionplan.builders.QueryToken)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	3
+org/neo4j/cypher/internal/compiler/v1_9/executionplan/ExecutionPlanImpl/produceAndThrowException(org.neo4j.cypher.internal.compiler.v1_9.executionplan.ExecutionPlanInProgress)@g_neo4j-cypher-compiler-1.9-2.0.4.jar.txt	1
+org/neo4j/cypher/internal/compiler/v1_9/commands/expressions/Collection/calculateType(org.neo4j.cypher.internal.compiler.v1_9.symbols.SymbolTable)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	2
+org/neo4j/cypher/internal/compiler/v1_9/executionplan/ExecutionPlanImpl/produceAndThrowException(org.neo4j.cypher.internal.compiler.v1_9.executionplan.ExecutionPlanInProgress)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	0
+org/neo4j/cypher/internal/compiler/v1_9/pipes/matching/VariableLengthPatternRelationship/getGraphRelationships(org.neo4j.cypher.internal.compiler.v1_9.pipes.matching.PatternNode,org.neo4j.graphdb.Node,org.neo4j.cypher.internal.compiler.v1_9.spi.QueryContext)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	4

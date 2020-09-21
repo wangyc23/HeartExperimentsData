@@ -1,0 +1,5 @@
+com/github/jsonldjava/core/JsonLdApi/fromRDF(com.github.jsonldjava.core.RDFDataset,boolean)@g_jsonld-java-0.11.1.jar.txt	1
+com/github/jsonldjava/core/Context/parse(java.lang.Object,java.util.List,boolean)@g_jsonld-java-0.11.1.jar.txt	2
+com/github/jsonldjava/core/JsonLdApi/expand(com.github.jsonldjava.core.Context,java.lang.String,java.lang.Object)@g_jsonld-java-0.11.1.jar.txt	4
+com/github/jsonldjava/core/NormalizeUtils/hashBlankNodes(java.util.Collection)@g_jsonld-java-0.11.1.jar.txt	3
+com/github/jsonldjava/core/Context/compactIri(java.lang.String,java.lang.Object,boolean,boolean)@g_jsonld-java-0.11.1.jar.txt	0

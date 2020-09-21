@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/codehaus/plexus/components/io/resources/PlexusIoFileResourceCollection/getIncludes()
+org/codehaus/plexus/util/DirectoryScanner/DirectoryScanner()
+org/codehaus/plexus/util/DirectoryScanner/scan()

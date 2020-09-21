@@ -1,0 +1,5 @@
+org/springframework/boot/context/embedded/AbstractEmbeddedServletContainerFactory/getArchiveFileDocumentRoot(java.lang.String)@g_spring-boot-1.2.7.RELEASE.jar.txt	3
+org/springframework/boot/context/embedded/AbstractEmbeddedServletContainerFactory/getArchiveFileDocumentRoot(java.lang.String)@g_spring-boot-1.2.4.RELEASE.jar.txt	2
+org/springframework/boot/context/embedded/tomcat/TomcatResources/addClasspathResources()@g_spring-boot-1.2.7.RELEASE.jar.txt	1
+org/springframework/boot/context/embedded/tomcat/TomcatResources/addClasspathResources()@g_spring-boot-1.2.4.RELEASE.jar.txt	0
+org/springframework/boot/context/embedded/tomcat/TomcatEmbeddedServletContainerFactory/configureSslTrustStore(org.apache.coyote.http11.AbstractHttp11JsseProtocol,org.springframework.boot.context.embedded.Ssl)@g_spring-boot-1.2.7.RELEASE.jar.txt	4

@@ -1,0 +1,5 @@
+ognl/ASTMethod/toSetSourceString(ognl.OgnlContext,java.lang.Object)@g_powermock-reflect-1.5.1.jar.txt	1
+ognl/enhance/ExpressionCompiler/compileExpression(ognl.OgnlContext,ognl.Node,java.lang.Object)@g_ognl-3.0.8.jar.txt	0
+ognl/ASTStaticMethod/toGetSourceString(ognl.OgnlContext,java.lang.Object)@g_powermock-reflect-1.5.1.jar.txt	4
+ognl/OgnlRuntime/findObjectIndexedPropertyDescriptors(java.lang.Class,java.util.Map)@g_powermock-reflect-1.5.1.jar.txt	3
+ognl/ASTMethod/toGetSourceString(ognl.OgnlContext,java.lang.Object)@g_powermock-reflect-1.5.1.jar.txt	2

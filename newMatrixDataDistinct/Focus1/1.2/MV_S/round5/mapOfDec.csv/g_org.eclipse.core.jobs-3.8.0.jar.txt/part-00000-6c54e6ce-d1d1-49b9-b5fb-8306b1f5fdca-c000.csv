@@ -1,0 +1,5 @@
+org/eclipse/core/internal/jobs/JobManager/yieldRule(org.eclipse.core.internal.jobs.InternalJob,org.eclipse.core.runtime.IProgressMonitor)@g_jobs-3.6.0-v20140424-0053.jar.txt	0
+org/eclipse/core/internal/jobs/JobManager/join(java.lang.Object,org.eclipse.core.runtime.IProgressMonitor)@g_jobs-3.6.0-v20140424-0053.jar.txt	1
+org/eclipse/core/internal/jobs/JobManager/changeState(org.eclipse.core.internal.jobs.InternalJob,int)@g_jobs-3.6.0-v20140424-0053.jar.txt	4
+org/eclipse/core/internal/jobs/ThreadJob/illegalPop(org.eclipse.core.runtime.jobs.ISchedulingRule)@g_jobs-3.6.0-v20140424-0053.jar.txt	3
+org/eclipse/core/internal/jobs/ThreadJob/illegalPush(org.eclipse.core.runtime.jobs.ISchedulingRule,org.eclipse.core.runtime.jobs.ISchedulingRule)@g_jobs-3.6.0-v20140424-0053.jar.txt	2

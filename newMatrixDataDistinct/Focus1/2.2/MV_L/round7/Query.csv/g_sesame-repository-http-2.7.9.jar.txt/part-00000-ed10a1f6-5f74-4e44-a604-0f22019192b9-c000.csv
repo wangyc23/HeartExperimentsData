@@ -1,0 +1,4 @@
+org/openrdf/http/client/SesameHTTPClient/getRepositoryURL()
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+org/openrdf/model/util/Literals/getBooleanValue(org.openrdf.model.Value,boolean)
+org/openrdf/model/Value/stringValue()

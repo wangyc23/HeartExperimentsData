@@ -1,0 +1,5 @@
+org/xerial/snappy/SnappyLoader/getVersion()@g_snappy-java-1.0.4.1.jar.txt	3
+javax/xml/rpc/FactoryFinder/find(java.lang.String,java.lang.String)@g_jaxrpc-api-1.1.jar.txt	1
+org/xerial/snappy/OSInfo/getArchName()@g_snappy-java-1.0.4.1.jar.txt	4
+org/xerial/snappy/SnappyLoader/injectSnappyNativeLoader()@g_snappy-java-1.0.4.1.jar.txt	2
+org/xerial/snappy/SnappyLoader/loadSnappySystemProperties()@g_snappy-java-1.0.4.1.jar.txt	0

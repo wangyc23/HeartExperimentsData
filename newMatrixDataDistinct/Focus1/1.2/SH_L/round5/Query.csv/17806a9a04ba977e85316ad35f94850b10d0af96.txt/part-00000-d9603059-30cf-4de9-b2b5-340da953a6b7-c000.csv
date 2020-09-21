@@ -1,0 +1,4 @@
+org/apache/flume/interceptor/InterceptorBuilderFactory/newInstance(java.lang.String)
+java/lang/Long/toString(long)
+java/util/Map/get(java.lang.Object)
+org/apache/flume/interceptor/Interceptor/intercept(org.apache.flume.Event)

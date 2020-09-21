@@ -1,0 +1,5 @@
+org/securityfilter/filter/SecurityFilter/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain)@g_securityfilter-2.0.jar.txt	3
+org/securityfilter/authenticator/persistent/DefaultPersistentLoginManager/decryptText(java.lang.String)@g_securityfilter-2.0.jar.txt	0
+org/springframework/security/rsa/crypto/RsaRawEncryptor/encrypt(byte[],java.security.PublicKey,org.springframework.security.rsa.crypto.RsaAlgorithm)@g_securityfilter-2.0.jar.txt	2
+ucar/httpservices/CustomSSLProtocolSocketFactory/createSSLContext(org.apache.http.params.HttpParams)@g_securityfilter-2.0.jar.txt	1
+ucar/httpservices/CustomSSLProtocolSocketFactory/connectSocket(java.net.Socket,java.net.InetSocketAddress,java.net.InetSocketAddress,org.apache.http.params.HttpParams)@g_securityfilter-2.0.jar.txt	4

@@ -1,0 +1,5 @@
+org/carrot2/util/attribute/BindableDescriptor/buildAttributeGroups(java.util.Map,java.util.Map,org.carrot2.util.attribute.BindableDescriptor,org.carrot2.util.attribute.BindableDescriptor$GroupingMethod)@g_attributes-binder-1.2.2.jar.txt	4
+org/carrot2/util/attribute/BindableDescriptorBuilder/buildDescriptor(java.lang.Object,java.util.Set)@g_attributes-binder-1.2.2.jar.txt	3
+org/carrot2/util/attribute/AttributeDescriptor/prepareForSerialization()@g_attributes-binder-1.2.2.jar.txt	0
+org/carrot2/util/attribute/BindableDescriptor/only(com.google.common.base.Predicate)@g_attributes-binder-1.2.2.jar.txt	2
+org/carrot2/util/attribute/AttributeBinder/bind(java.util.Set,org.carrot2.util.attribute.AttributeBinder$BindingTracker,int,java.lang.Object,org.carrot2.util.attribute.AttributeBinder$IAttributeBinderAction[],com.google.common.base.Predicate,java.lang.Class)@g_attributes-binder-1.2.2.jar.txt	1

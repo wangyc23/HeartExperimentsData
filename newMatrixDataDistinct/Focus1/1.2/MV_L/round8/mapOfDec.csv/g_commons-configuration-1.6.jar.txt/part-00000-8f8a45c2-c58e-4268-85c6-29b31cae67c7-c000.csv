@@ -1,0 +1,5 @@
+org/apache/commons/configuration/HierarchicalINIConfiguration/parseValue(java.lang.String,java.io.BufferedReader)@g_commons-configuration-1.10.jar.txt	3
+org/apache/commons/configuration/INIConfiguration/load(java.io.Reader)@g_commons-configuration-1.10.jar.txt	0
+org/apache/commons/configuration/PropertyConverter/toColor(java.lang.Object)@g_commons-configuration-1.10.jar.txt	2
+org/apache/commons/configuration/plist/ParseException/add_escapes(java.lang.String)@g_commons-configuration-1.10.jar.txt	4
+org/apache/commons/configuration/INIConfiguration/load(java.io.Reader)@g_commons-configuration-1.8.jar.txt	1

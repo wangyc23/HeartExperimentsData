@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getBuildJobs()@g_tycho-p2-publisher-plugin-0.23.1.jar.txt	3
+org/eclipse/tycho/plugins/p2/publisher/PublishProductMojo/getExpandedLauncherBinaries()@g_tycho-p2-publisher-plugin-0.23.1.jar.txt	0
+org/eclipse/tycho/packaging/ProductExportMojo/generateConfigIni(org.eclipse.tycho.core.shared.TargetEnvironment,java.io.File)@g_tycho-p2-publisher-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/packaging/ProductExportMojo/generateDotEclipseProduct(java.io.File)@g_tycho-p2-publisher-plugin-0.23.1.jar.txt	4
+org/eclipse/tycho/packaging/ProductExportMojo/copyDirectory(java.io.File,java.io.File,java.lang.String)@g_tycho-p2-publisher-plugin-0.23.1.jar.txt	1

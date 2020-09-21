@@ -1,0 +1,5 @@
+0	org/archive/io/ArchiveRecordHeader/getUrl()
+1	java/lang/String/equals(java.lang.Object)
+2	java/lang/String/startsWith(java.lang.String)
+3	org/archive/io/ArchiveRecordHeader/getHeaderValue(java.lang.String)
+4	java/io/File/File(java.lang.String)

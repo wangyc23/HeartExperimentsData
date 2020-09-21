@@ -1,0 +1,5 @@
+org/codehaus/jackson/map/type/TypeFactory/_fromParamType(java.lang.reflect.ParameterizedType,org.codehaus.jackson.map.type.TypeBindings)@g_jackson-mapper-asl-1.9.12.jar.txt	4
+org/codehaus/jackson/map/deser/BasicDeserializerFactory/modifyTypeByAnnotation(org.codehaus.jackson.map.DeserializationConfig,org.codehaus.jackson.map.introspect.Annotated,org.codehaus.jackson.type.JavaType,java.lang.String)@g_jackson-mapper-asl-1.9.12.jar.txt	0
+org/codehaus/jackson/map/ser/std/MapSerializer/serializeFieldsUsing(java.util.Map,org.codehaus.jackson.JsonGenerator,org.codehaus.jackson.map.SerializerProvider,org.codehaus.jackson.map.JsonSerializer)@g_jackson-mapper-asl-1.9.12.jar.txt	2
+org/codehaus/jackson/map/ser/CustomSerializerFactory/addSpecificMapping(java.lang.Class,org.codehaus.jackson.map.JsonSerializer)@g_jackson-mapper-asl-1.9.12.jar.txt	3
+org/codehaus/jackson/map/deser/BasicDeserializerFactory/modifyTypeByAnnotation(org.codehaus.jackson.map.DeserializationConfig,org.codehaus.jackson.map.introspect.Annotated,org.codehaus.jackson.type.JavaType,java.lang.String)@g_jackson-mapper-asl-1.9.13.jar.txt	1

@@ -1,0 +1,2 @@
+0	junit/framework/Assert/assertTrue(boolean)
+1	ca/ulaval/ift/graal/pagerank/parseurl/mapreduce/ParseUrlMapper/map(org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)

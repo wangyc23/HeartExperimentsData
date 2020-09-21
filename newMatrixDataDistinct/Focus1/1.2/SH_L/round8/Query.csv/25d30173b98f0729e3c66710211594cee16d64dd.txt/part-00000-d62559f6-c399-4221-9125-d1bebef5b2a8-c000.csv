@@ -1,0 +1,4 @@
+io/netty/channel/socket/aio/DefaultAioSocketChannelConfig/setTrafficClass(int)
+io/netty/channel/socket/aio/DefaultAioSocketChannelConfig/setTcpNoDelay(boolean)
+io/netty/channel/socket/aio/DefaultAioSocketChannelConfig/setReuseAddress(boolean)
+io/netty/channel/socket/aio/DefaultAioSocketChannelConfig/setAllowHalfClosure(boolean)

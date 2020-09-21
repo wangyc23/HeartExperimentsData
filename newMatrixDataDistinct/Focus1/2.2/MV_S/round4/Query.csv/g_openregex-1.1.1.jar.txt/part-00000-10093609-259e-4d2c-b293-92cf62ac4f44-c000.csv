@@ -1,0 +1,4 @@
+edu/washington/cs/knowitall/regex/FiniteAutomaton$Automaton/evaluate(java.util.List,boolean)
+java/util/ArrayList/ArrayList()
+edu/washington/cs/knowitall/regex/Match$FinalMatch/FinalMatch(edu.washington.cs.knowitall.regex.Match)
+com/google/common/collect/Lists/reverse(java.util.List)

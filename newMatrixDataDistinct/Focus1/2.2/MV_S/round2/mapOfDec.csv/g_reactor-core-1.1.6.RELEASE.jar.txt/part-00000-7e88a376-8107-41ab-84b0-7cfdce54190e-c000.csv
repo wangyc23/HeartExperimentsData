@@ -1,0 +1,5 @@
+net/sf/ehcache/hibernate/management/impl/BeanUtils/getMethod(java.lang.Object,java.lang.String)@g_ehcache-core-2.6.2.jar.txt	3
+org/springframework/cglib/transform/impl/AddDelegateTransformer/addDelegate(java.lang.reflect.Method)@g_spring-core-4.2.3.BUILD-20151114.225414-58.jar.txt	4
+net/sf/ehcache/DiskStorePathManager/safeName(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	2
+org/springframework/util/StringUtils/changeFirstCharacterCase(java.lang.String,boolean)@g_spring-core-4.2.3.BUILD-20151114.225414-58.jar.txt	0
+org/springframework/cglib/core/TypeUtils/upperFirst(java.lang.String)@g_spring-core-4.2.3.BUILD-20151114.225414-58.jar.txt	1

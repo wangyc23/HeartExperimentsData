@@ -1,0 +1,4 @@
+org/apache/hadoop/yarn/proto/YarnProtos$QueueUserACLInfoProto/getUnknownFields()
+org/apache/hadoop/yarn/proto/YarnProtos$QueueACLProto/getNumber()
+org/apache/hadoop/yarn/proto/YarnProtos$QueueUserACLInfoProto/getQueueNameBytes()
+com/google/protobuf/CodedOutputStream/writeBytes(int,com.google.protobuf.ByteString)

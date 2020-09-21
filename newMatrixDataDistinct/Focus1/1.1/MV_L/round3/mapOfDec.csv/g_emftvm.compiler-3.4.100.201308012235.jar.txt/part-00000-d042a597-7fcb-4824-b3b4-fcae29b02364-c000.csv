@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/Lookup/featureKind(org.eclipse.emf.ecore.EStructuralFeature)@g_engine-3.4.0.jar.txt	0
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/setManyReference(org.eclipse.emf.ecore.xmi.XMLHelper$ManyReference,java.lang.String)@g_engine-3.4.0.jar.txt	4
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/getElementReferenceManySimple(org.eclipse.emf.ecore.EObject,org.eclipse.emf.ecore.EStructuralFeature)@g_engine-3.4.0.jar.txt	1
+org/eclipse/emf/ecore/xmi/impl/XMISaveImpl/writeTopObjects(java.util.List)@g_engine-3.4.0.jar.txt	2
+org/eclipse/emf/ecore/xmi/impl/XMLLoadImpl/load(org.eclipse.emf.ecore.xmi.XMLResource,java.io.InputStream,java.util.Map)@g_engine-3.4.0.jar.txt	3

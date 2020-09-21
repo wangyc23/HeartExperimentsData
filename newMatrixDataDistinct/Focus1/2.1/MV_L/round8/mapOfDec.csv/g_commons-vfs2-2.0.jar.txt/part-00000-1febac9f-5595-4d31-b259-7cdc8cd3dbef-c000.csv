@@ -1,0 +1,5 @@
+org/apache/hadoop/fs/RawLocalFileSystem/rename(org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path)@g_hadoop-common-2.6.5.jar.txt	3
+org/apache/hadoop/log/LogLevel/Servlet/process(java.util.logging.Logger,java.lang.String,java.io.PrintWriter)@g_hadoop-common-2.6.5.jar.txt	1
+org/apache/hadoop/ipc/Client/Connection/setupConnection()@g_hadoop-common-2.6.5.jar.txt	0
+org/apache/hadoop/log/LogLevel/Servlet/process(org.apache.log4j.Logger,java.lang.String,java.io.PrintWriter)@g_hadoop-common-2.6.5.jar.txt	2
+org/apache/hadoop/ipc/Server/Connection/processRpcOutOfBandRequest(org.apache.hadoop.ipc.protobuf.RpcHeaderProtos$RpcRequestHeaderProto,java.io.DataInputStream)@g_hadoop-common-2.6.5.jar.txt	4

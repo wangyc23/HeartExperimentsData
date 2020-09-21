@@ -1,0 +1,8 @@
+0	javax/persistence/criteria/AbstractQuery/from(java.lang.Class)
+1	javax/persistence/criteria/CriteriaBuilder/createQuery()
+2	javax/persistence/EntityManager/getCriteriaBuilder()
+3	javax/persistence/criteria/CriteriaQuery/select(javax.persistence.criteria.Selection)
+4	org/apache/shiro/authz/SimpleAuthorizationInfo/setRoles(java.util.Set)
+5	com/nikolas/wicketsecurity/business/core/AbstractDao/getEntityManager()
+6	javax/persistence/EntityManager/createQuery(javax.persistence.criteria.CriteriaQuery)
+7	javax/persistence/TypedQuery/getResultList()

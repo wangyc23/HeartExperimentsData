@@ -1,0 +1,5 @@
+org/jvnet/jaxb2_commons/plugin/setters/SettersPlugin/generateSetters(com.sun.tools.xjc.outline.ClassOutline,com.sun.codemodel.JDefinedClass)@g_jaxb2-basics-0.6.4.jar.txt	0
+org/jvnet/jaxb2_commons/plugin/hashcode/HashCodePlugin/generateHashCode$hashCode(com.sun.tools.xjc.outline.ClassOutline,com.sun.codemodel.JDefinedClass)@g_jaxb2-basics-0.6.4.jar.txt	2
+org/jvnet/jaxb2_commons/plugin/mergeable/MergeablePlugin/generateMergeFrom$mergeFrom(com.sun.tools.xjc.outline.ClassOutline,com.sun.codemodel.JDefinedClass)@g_jaxb2-basics-0.6.4.jar.txt	1
+org/jvnet/jaxb2_commons/plugin/equals/EqualsPlugin/generateEquals$equals(com.sun.tools.xjc.outline.ClassOutline,com.sun.codemodel.JDefinedClass)@g_jaxb2-basics-0.6.4.jar.txt	4
+org/jvnet/jaxb2_commons/plugin/copyable/CopyablePlugin/generateCopyTo$copyTo1(com.sun.tools.xjc.outline.ClassOutline,com.sun.codemodel.JDefinedClass)@g_jaxb2-basics-0.6.4.jar.txt	3

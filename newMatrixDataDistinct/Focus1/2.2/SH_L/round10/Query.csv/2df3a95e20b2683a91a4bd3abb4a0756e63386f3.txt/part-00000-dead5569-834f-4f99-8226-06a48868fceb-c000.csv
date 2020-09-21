@@ -1,0 +1,4 @@
+org/apache/drill/exec/server/RemoteServiceSet/getLocalServiceSet()
+org/apache/drill/exec/record/VectorWrapper/getValueVector()
+java/io/PrintStream/print(java.lang.String)
+org/apache/drill/exec/rpc/user/QueryResultBatch/getData()

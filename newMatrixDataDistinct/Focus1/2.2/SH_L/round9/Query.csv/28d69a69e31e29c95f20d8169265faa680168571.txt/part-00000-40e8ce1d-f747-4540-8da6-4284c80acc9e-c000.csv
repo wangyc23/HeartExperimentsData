@@ -1,0 +1,4 @@
+org/apache/sling/api/resource/Resource/getPath()
+java/util/regex/Matcher/matches()
+java/util/List/isEmpty()
+org/apache/sling/api/resource/Resource/isResourceType(java.lang.String)

@@ -1,0 +1,3 @@
+0	omw/dao/AnnonceDao/insertRecherche(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+1	net/lr/tutorial/karaf/db/service/DbAccess/printResult(java.sql.ResultSet)
+2	omw/dao/UtilisateurDao/countUsersMailUsed(java.lang.String)

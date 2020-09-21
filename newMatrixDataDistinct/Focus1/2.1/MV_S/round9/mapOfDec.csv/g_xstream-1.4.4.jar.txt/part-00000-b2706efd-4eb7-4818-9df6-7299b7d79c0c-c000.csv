@@ -1,0 +1,5 @@
+org/carrot2/util/attribute/AttributeBinder/BindingTracker/canBind(java.lang.Object,java.lang.String,int)@g_attributes-binder-1.3.1.jar.txt	3
+org/carrot2/util/attribute/AttributeBinder/AttributeBinderActionBind/performAction(org.carrot2.util.attribute.AttributeBinder$BindingTracker,int,java.lang.Object,java.lang.reflect.Field,java.lang.Object,org.carrot2.shaded.guava.common.base.Predicate)@g_attributes-binder-1.3.1.jar.txt	2
+org/carrot2/util/attribute/BindableDescriptorUtils/getDescriptorClass(java.lang.Class)@g_attributes-binder-1.3.1.jar.txt	1
+org/carrot2/util/attribute/AttributeBinder/AttributeBinderActionBind/detailedExceptionInfo(java.lang.Class)@g_attributes-binder-1.3.1.jar.txt	0
+org/carrot2/util/attribute/BindableDescriptorBuilder/noHiddenBindables(java.lang.reflect.Field,java.lang.Object,java.lang.Class)@g_attributes-binder-1.3.1.jar.txt	4

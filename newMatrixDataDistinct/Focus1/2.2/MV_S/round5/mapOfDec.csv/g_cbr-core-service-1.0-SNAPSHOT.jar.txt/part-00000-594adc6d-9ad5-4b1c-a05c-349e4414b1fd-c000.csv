@@ -1,0 +1,5 @@
+ch/fhnw/cbr/model/CBRCaseView/retreive(com.hp.hpl.jena.ontology.Individual)@g_cbr-core-1.0.1.jar.txt	3
+ch/fhnw/cbr/service/CBRServices/createOrUpdateCase(ch.fhnw.cbr.service.data.CaseViewVO,ch.fhnw.cbr.service.data.CaseInstanceVO)@g_cbr-core-service-1.0.1.jar.txt	2
+ch/fhnw/cbr/service/CBRServices/getCaseInstance(ch.fhnw.cbr.service.data.CaseInstanceVO,ch.fhnw.cbr.service.data.ClassVO,com.hp.hpl.jena.ontology.Individual)@g_cbr-core-service-1.0.1.jar.txt	1
+ch/fhnw/cbr/model/CBRCase/getCaseState(com.hp.hpl.jena.ontology.Individual)@g_cbr-core-service-1.0.1.jar.txt	4
+ch/fhnw/cbr/service/data/mapper/CaseMatchVOMapper/createVO(ch.fhnw.cbr.model.sim.CaseMatch)@g_cbr-core-service-1.0.1.jar.txt	0

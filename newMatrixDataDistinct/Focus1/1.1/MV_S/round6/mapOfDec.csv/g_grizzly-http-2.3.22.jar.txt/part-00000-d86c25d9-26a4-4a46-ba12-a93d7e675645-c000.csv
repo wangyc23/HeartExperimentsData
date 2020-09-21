@@ -1,0 +1,5 @@
+com/sun/faces/application/annotation/ValidatorConfigHandler/collect(java.lang.Class,java.lang.annotation.Annotation)@g_grizzly-http-server-2.3.16.jar.txt	4
+com/sun/faces/application/annotation/NamedEventConfigHandler/process(com.sun.faces.application.NamedEventManager,java.lang.Class,java.lang.annotation.Annotation)@g_grizzly-http-server-2.3.16.jar.txt	3
+com/sun/faces/taglib/jsf_core/ConvertNumberTag/evaluateExpressions()@g_grizzly-http-server-2.3.16.jar.txt	0
+com/sun/faces/renderkit/html_basic/HtmlBasicRenderer/getParamList(javax.faces.component.UIComponent)@g_grizzly-http-server-2.3.16.jar.txt	2
+org/glassfish/grizzly/http/server/FileCacheFilter/handleRead(org.glassfish.grizzly.filterchain.FilterChainContext)@g_grizzly-http-server-2.3.16.jar.txt	1

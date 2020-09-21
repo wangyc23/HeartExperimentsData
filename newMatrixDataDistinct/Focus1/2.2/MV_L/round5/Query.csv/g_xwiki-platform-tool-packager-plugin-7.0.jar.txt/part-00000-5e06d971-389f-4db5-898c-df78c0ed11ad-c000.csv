@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWikiConfig/put(java.lang.Object,java.lang.Object)
+com/xpn/xwiki/XWikiContext/XWikiContext()
+com/xpn/xwiki/XWikiException/XWikiException(int,int,java.lang.String,java.lang.Throwable)
+com/xpn/xwiki/doc/XWikiDocument/XWikiDocument(org.xwiki.model.reference.DocumentReference)

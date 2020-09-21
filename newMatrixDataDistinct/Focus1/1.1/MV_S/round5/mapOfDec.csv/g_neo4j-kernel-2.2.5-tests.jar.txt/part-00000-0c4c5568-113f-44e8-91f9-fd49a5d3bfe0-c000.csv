@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/api/index/IndexPopulationJobTest/shouldPopulateIndexWithASmallDataset()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	4
+org/neo4j/kernel/api/index/UniqueIndexPopulatorCompatibility/shouldProvidePopulatorThatEnforcesUniqueConstraints()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	1
+org/neo4j/kernel/api/index/NonUniqueIndexPopulatorCompatibility/shouldApplyUpdatesIdempotently()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	3
+org/neo4j/kernel/impl/api/index/IndexingServiceTest/shouldBringIndexOnlineAndFlipOverToIndexAccessor()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	2
+org/neo4j/unsafe/batchinsert/BatchInsertTest/shouldRepopulatePreexistingIndexed()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	0

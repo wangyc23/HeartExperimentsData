@@ -1,0 +1,4 @@
+org/apache/pdfbox/pdmodel/common/filespecification/PDEmbeddedFile/getSubtype()
+org/apache/pdfbox/pdmodel/common/filespecification/PDEmbeddedFile/createInputStream()
+org/apache/pdfbox/pdmodel/PDDocumentCatalog/getNames()
+java/lang/String/length()

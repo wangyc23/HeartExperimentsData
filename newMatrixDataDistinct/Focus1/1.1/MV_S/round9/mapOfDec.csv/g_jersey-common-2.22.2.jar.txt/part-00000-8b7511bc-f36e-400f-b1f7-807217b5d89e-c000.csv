@@ -1,0 +1,5 @@
+com/sun/jersey/api/uri/UriBuilderImpl/encodeQuery()@g_jersey-core-1.11.jar.txt	4
+com/sun/jersey/api/uri/UriBuilderImpl/schemeSpecificPart(java.lang.String)@g_jersey-core-1.11.jar.txt	3
+com/sun/jersey/api/uri/UriTemplateParser/processLiteralCharacters()@g_jersey-core-1.11.jar.txt	2
+com/sun/jersey/api/uri/UriComponent/decodePercentEncodedOctets(java.lang.String,int,java.nio.ByteBuffer)@g_jersey-core-1.11.jar.txt	1
+com/sun/jersey/api/uri/UriTemplate/createURI(java.util.Map)@g_jersey-core-1.11.jar.txt	0

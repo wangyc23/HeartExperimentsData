@@ -1,0 +1,5 @@
+ucar/nc2/dt/point/UnidataStationObsDataset/checkLinks(java.lang.StringBuffer)@g_netcdf-4.2.20.jar.txt	1
+ucar/unidata/geoloc/projection/RotatedPole/latLonToProj(ucar.unidata.geoloc.LatLonPoint,ucar.unidata.geoloc.ProjectionPointImpl)@g_netcdf-4.2.20.jar.txt	4
+ucar/nc2/iosp/gempak/GempakParameterTable/getInputStream(java.lang.String)@g_netcdf-4.2.20.jar.txt	0
+thredds/inventory/bdb/MetadataManager/getContent()@g_netcdf-4.2.20.jar.txt	3
+ucar/nc2/iosp/nids/Nidsheader/convert(byte[],ucar.ma2.DataType,int,int)@g_netcdf-4.2.20.jar.txt	2

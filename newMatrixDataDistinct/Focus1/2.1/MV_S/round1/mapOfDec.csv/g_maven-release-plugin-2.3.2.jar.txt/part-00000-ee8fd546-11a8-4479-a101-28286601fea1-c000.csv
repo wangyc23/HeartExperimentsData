@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/InstallMojo/installProjectDependencies(org.apache.maven.project.MavenProject,java.util.Collection,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-invoker-plugin-2.0.0.jar.txt	2
+org/apache/maven/plugin/invoker/InstallMojo/installExtraArtifacts(org.apache.maven.artifact.repository.ArtifactRepository,java.lang.String[])@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getSystemProperties(java.io.File,java.lang.String)@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/execute()@g_maven-invoker-plugin-2.0.0.jar.txt	3
+org/apache/maven/plugin/invoker/HelpMojo/execute()@g_maven-invoker-plugin-2.0.0.jar.txt	0

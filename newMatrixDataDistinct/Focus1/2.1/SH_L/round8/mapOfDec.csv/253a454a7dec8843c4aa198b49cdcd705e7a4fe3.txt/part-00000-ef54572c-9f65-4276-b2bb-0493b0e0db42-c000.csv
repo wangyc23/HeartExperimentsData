@@ -1,0 +1,5 @@
+org/jaggeryjs/integration/tests/jaggery/utils/JaggeryTestUtil/inputReader(java.net.URLConnection)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	3
+org/whispersystems/textsecuregcm/storage/Keys/get(java.lang.String,long)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	4
+org/whispersystems/textsecuregcm/storage/PubSubProtos/PubSubMessage/Builder/setType(org.whispersystems.textsecuregcm.storage.PubSubProtos.PubSubMessage.Type)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	1
+org/wso2/jaggery/integration/tests/hostObjects/core/ApplicationObjectTestCase/testApplicationRequestSecure()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	2
+org/wso2/jaggery/integration/tests/hostObjects/core/HttpClientTestCase/testHttpClientPut()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0

@@ -1,0 +1,5 @@
+edu/washington/cs/knowitall/logic/LogicExpression/buildAst(java.util.List)@g_openregex-1.1.1.jar.txt	0
+edu/washington/cs/knowitall/regex/RegularExpressionParser/readToken(java.lang.String)@g_openregex-1.1.1.jar.txt	4
+edu/washington/cs/knowitall/logic/LogicExpression/main(java.lang.String[])@g_openregex-1.1.1.jar.txt	2
+edu/washington/cs/knowitall/regex/FiniteAutomaton/Automaton/evaluate(java.util.List,java.util.List,boolean)@g_openregex-1.1.1.jar.txt	3
+edu/washington/cs/knowitall/logic/LogicExpressionParser/readToken(java.lang.String)@g_openregex-1.1.1.jar.txt	1

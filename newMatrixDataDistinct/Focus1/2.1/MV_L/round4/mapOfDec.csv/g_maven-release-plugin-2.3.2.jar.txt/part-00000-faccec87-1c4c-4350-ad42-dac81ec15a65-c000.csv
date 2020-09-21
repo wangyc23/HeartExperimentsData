@@ -1,0 +1,5 @@
+com/mycila/maven/plugin/license/AbstractLicenseMojo/buildMapping()@g_license-maven-plugin-2.11.jar.txt	0
+com/mycila/maven/plugin/license/AbstractLicenseMojo/execute(com.mycila.maven.plugin.license.Callback)@g_license-maven-plugin-2.11.jar.txt	2
+com/mycila/maven/plugin/license/HelpMojo/execute()@g_license-maven-plugin-2.11.jar.txt	3
+com/mycila/maven/plugin/license/AbstractLicenseMojo/findCredentials(java.lang.String)@g_license-maven-plugin-2.11.jar.txt	4
+com/mycila/maven/plugin/license/AbstractLicenseMojo/buildExcludes()@g_license-maven-plugin-2.11.jar.txt	1

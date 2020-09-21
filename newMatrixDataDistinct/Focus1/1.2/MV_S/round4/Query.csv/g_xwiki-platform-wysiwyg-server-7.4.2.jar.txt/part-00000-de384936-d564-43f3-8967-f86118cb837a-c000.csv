@@ -1,0 +1,4 @@
+org/xwiki/gwt/wysiwyg/client/plugin/macro/ParameterType/ParameterType()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/String/valueOf(java.lang.Object)
+java/lang/Class/isEnum()

@@ -1,0 +1,4 @@
+org/xwiki/url/ExtendedURL/ExtendedURL(java.util.List,java.util.Map)
+org/xwiki/model/reference/DocumentReference/getName()
+org/xwiki/resource/temporary/TemporaryResourceReference/getOwningEntityReference()
+org/xwiki/model/reference/SpaceReference/getName()

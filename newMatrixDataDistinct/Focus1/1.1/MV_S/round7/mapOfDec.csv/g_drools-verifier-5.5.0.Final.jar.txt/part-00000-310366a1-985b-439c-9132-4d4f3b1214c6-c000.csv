@@ -1,0 +1,5 @@
+aQute/lib/osgi/Jar/createDirectories(java.util.Set,java.util.jar.JarOutputStream,java.lang.String)@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	0
+aQute/lib/osgi/Analyzer/augmentImports()@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	3
+org/drools/verifier/solver/Solver/end()@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	1
+aQute/lib/osgi/Analyzer/doServiceComponent(java.lang.String)@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	2
+org/drools/verifier/visitor/FieldConstraintDescrVisitor/visit(org.drools.lang.descr.LiteralRestrictionDescr)@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	4

@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/session/AbstractSessionIdManager/initRandom()@g_jetty-server-7.6.5.v20120716.jar.txt	0
+org/eclipse/jetty/server/session/AbstractSessionIdManager/newSessionId(javax.servlet.http.HttpServletRequest,long)@g_jetty-server-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/server/nio/BlockingChannelConnector/BlockingChannelEndPoint/toString()@g_jetty-server-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/server/session/AbstractSessionIdManager/newSessionId(javax.servlet.http.HttpServletRequest,long)@g_jetty-server-8.1.22.v20160922.jar.txt	2
+org/eclipse/jetty/server/session/AbstractSessionIdManager/initRandom()@g_jetty-server-8.1.22.v20160922.jar.txt	1

@@ -1,0 +1,5 @@
+org/springframework/test/web/servlet/request/MockHttpServletRequestBuilder/buildRequest(javax.servlet.ServletContext)@g_spring-hateoas-0.16.0.RELEASE.jar.txt	4
+org/springframework/test/web/servlet/request/MockHttpServletRequestBuilder/postProcessRequest(org.springframework.mock.web.MockHttpServletRequest)@g_spring-hateoas-0.16.0.RELEASE.jar.txt	2
+org/springframework/hateoas/core/DummyInvocationUtils/getProxyWithInterceptor(java.lang.Class,org.springframework.hateoas.core.DummyInvocationUtils$InvocationRecordingMethodInterceptor,java.lang.ClassLoader)@g_spring-hateoas-0.16.0.RELEASE.jar.txt	0
+org/springframework/test/context/TestContextManager/beforeTestMethod(java.lang.Object,java.lang.reflect.Method)@g_spring-hateoas-0.16.0.RELEASE.jar.txt	3
+org/springframework/test/web/ModelAndViewAssert/assertModelAttributeValues(org.springframework.web.servlet.ModelAndView,java.util.Map)@g_spring-hateoas-0.16.0.RELEASE.jar.txt	1

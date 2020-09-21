@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/model/OWLOntology/getAxioms(org.semanticweb.owlapi.model.OWLDataProperty,org.semanticweb.owlapi.model.parameters.Imports)
+java/util/Iterator/hasNext()
+org/semanticweb/owlapi/model/OWLOntologyManager/getOWLDataFactory()
+java/util/Set/iterator()

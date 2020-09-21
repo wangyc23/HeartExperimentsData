@@ -1,0 +1,5 @@
+gate/util/asm/util/Textifier/visit(java.lang.String,java.lang.Object)@g_gate-asm-5.0.3.jar.txt	2
+org/objectweb/asm/util/TraceAnnotationVisitor/visit(java.lang.String,java.lang.Object)@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	0
+org/apache/jasper/util/FastDateFormat/main(java.lang.String[])@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	4
+org/objectweb/asm/xml/SAXAnnotationAdapter/visit(java.lang.String,java.lang.Object)@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	1
+gate/util/asm/xml/SAXAnnotationAdapter/visit(java.lang.String,java.lang.Object)@g_gate-asm-5.0.3.jar.txt	3

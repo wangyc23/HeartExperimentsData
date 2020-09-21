@@ -1,0 +1,5 @@
+org/apache/ivy/core/report/ResolveReport/getEvictedNodes()@g_velocity-1.7.jar.txt	4
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_velocity-1.7.jar.txt	0
+org/apache/ivy/core/publish/PublishEngine/publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor,java.util.Collection,org.apache.ivy.plugins.resolver.DependencyResolver,org.apache.ivy.core.publish.PublishOptions)@g_velocity-1.7.jar.txt	1
+org/apache/ivy/ant/IvyRepositoryReport/genreport(org.apache.ivy.core.cache.ResolutionCacheManager,java.lang.String,java.lang.String)@g_velocity-1.7.jar.txt	2
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater/UpdaterHandler/startPublications(org.xml.sax.Attributes)@g_velocity-1.7.jar.txt	3

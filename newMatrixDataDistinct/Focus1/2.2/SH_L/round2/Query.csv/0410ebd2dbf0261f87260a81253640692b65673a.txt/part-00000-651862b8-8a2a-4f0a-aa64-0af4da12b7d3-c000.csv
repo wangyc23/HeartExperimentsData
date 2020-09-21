@@ -1,0 +1,4 @@
+java/lang/Class/getSuperclass()
+java/lang/reflect/Method/getName()
+java/lang/reflect/Method/getDeclaringClass()
+java/lang/Object/getClass()

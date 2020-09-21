@@ -1,0 +1,5 @@
+camelinaction/PingServiceMain/main(java.lang.String[])@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	3
+org/apache/camel/component/db4o/Db4oEndpoint/createProducer()@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	1
+camelinaction/SimulateErrorUsingInterceptorTest/SimulateHttpErrorProcessor/process(camelinaction.Exchange)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	0
+camelinaction/FilePrinter/main(java.lang.String[])@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	2
+org/apache/camel/component/hibernate/HibernateComponent/getTemplate()@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	4

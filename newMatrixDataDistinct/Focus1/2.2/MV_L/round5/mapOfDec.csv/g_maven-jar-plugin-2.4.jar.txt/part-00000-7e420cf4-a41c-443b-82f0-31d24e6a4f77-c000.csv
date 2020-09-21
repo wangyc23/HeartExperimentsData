@@ -1,0 +1,5 @@
+org/apache/maven/plugin/jar/AbstractJarMojo/createArchive()@g_maven-jar-plugin-2.2.jar.txt	1
+org/apache/maven/plugin/jar/JarSignMojo/signJar()@g_maven-jar-plugin-2.2.jar.txt	3
+org/apache/maven/plugin/jar/JarSignMojo/execute()@g_maven-jar-plugin-2.2.jar.txt	4
+org/apache/maven/plugin/jar/JarSignVerifyMojo/execute()@g_maven-jar-plugin-2.2.jar.txt	2
+org/apache/maven/plugin/jar/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-jar-plugin-2.6.jar.txt	0

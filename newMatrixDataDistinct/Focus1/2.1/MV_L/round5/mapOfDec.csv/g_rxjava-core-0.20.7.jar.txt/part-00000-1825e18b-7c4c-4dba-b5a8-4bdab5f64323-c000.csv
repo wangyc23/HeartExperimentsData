@@ -1,0 +1,5 @@
+rx/plugins/RxJavaPlugins/getPluginImplementationViaProperty(java.lang.Class)@g_rxjava-1.0.11.jar.txt	0
+rx/internal/operators/OnSubscribeJoin/ResultSink/RightSubscriber/onNext(java.lang.Object)@g_rxjava-1.0.11.jar.txt	2
+rx/plugins/RxJavaPlugins/getPluginImplementationViaProperty(java.lang.Class)@g_rxjava-1.0.10.jar.txt	1
+rx/internal/operators/OperatorOnBackpressureBuffer/BufferSubscriber/assertCapacity()@g_rxjava-1.0.11.jar.txt	4
+rx/internal/util/RxRingBuffer/<clinit>()@g_rxjava-1.0.11.jar.txt	3

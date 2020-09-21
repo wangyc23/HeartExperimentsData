@@ -1,0 +1,4 @@
+org/codehaus/plexus/logging/AbstractLogEnabled/getLogger()
+org/apache/maven/artifact/repository/ArtifactRepository/getUrl()
+java/util/Iterator/hasNext()
+org/apache/maven/wagon/ResourceDoesNotExistException/ResourceDoesNotExistException(java.lang.String)

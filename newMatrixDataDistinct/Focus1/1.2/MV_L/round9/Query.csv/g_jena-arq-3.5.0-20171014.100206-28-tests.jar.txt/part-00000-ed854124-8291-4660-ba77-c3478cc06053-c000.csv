@@ -1,0 +1,4 @@
+org/apache/jena/query/QuerySolutionMap/QuerySolutionMap()
+org/apache/jena/rdf/model/Resource/asNode()
+org/apache/jena/query/QuerySolutionMap/add(java.lang.String,org.apache.jena.rdf.model.RDFNode)
+org/apache/jena/rdf/model/ResourceFactory/createPlainLiteral(java.lang.String)

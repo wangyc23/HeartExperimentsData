@@ -1,0 +1,5 @@
+org/springframework/security/config/http/DefaultFilterChainValidator/checkForDuplicates(java.lang.Class,java.util.List)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	2
+org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint/appendAccessToken(org.springframework.security.oauth2.provider.AuthorizationRequest,org.springframework.security.oauth2.common.OAuth2AccessToken)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	3
+org/springframework/integration/handler/advice/RequestHandlerCircuitBreakerAdvice/doInvoke(org.springframework.integration.handler.advice.AbstractRequestHandlerAdvice$ExecutionCallback,java.lang.Object,org.springframework.messaging.Message)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	4
+org/springframework/integration/gateway/GatewayMethodInboundMessageMapper/evaluateHeaders(org.springframework.expression.EvaluationContext,java.util.Map)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	0
+org/springframework/integration/config/DefaultConfiguringBeanFactoryPostProcessor/registerNullChannel(org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	1

@@ -1,0 +1,5 @@
+es/uvigo/ei/sing/pandrugs/controller/entity/GeneDrugGroupTest/testConstructorMissingGeneDrug()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	4
+es/uvigo/ei/sing/pandrugs/controller/DefaultVariantsAnalysisControllerUnitTest/testComputationsForUser()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	2
+es/uvigo/ei/sing/pandrugs/persistence/entity/GeneDrugDataset/multipleDrugGeneDrugGroupsMixed()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	0
+es/uvigo/ei/sing/pandrugs/query/GeneDrugQueryParameters/hasAllDrugStatus(es.uvigo.ei.sing.pandrugs.persistence.entity.DrugStatus[])@1145ae442bd808cc7f1c030828034f44eae69a16.txt	3
+es/uvigo/ei/sing/pandrugs/controller/entity/GeneDrugGroupTest/testConstructorDifferentStatus()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	1

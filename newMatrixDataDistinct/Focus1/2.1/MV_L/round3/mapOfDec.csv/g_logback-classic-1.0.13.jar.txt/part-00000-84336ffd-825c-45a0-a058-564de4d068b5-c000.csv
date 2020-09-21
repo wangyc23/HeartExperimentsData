@@ -1,0 +1,5 @@
+ch/qos/logback/classic/gaffer/ComponentDelegate/methodMissing(java.lang.String,java.lang.Object)@g_logback-classic-1.1.2.jar.txt	3
+ch/qos/logback/classic/gaffer/ConfigurationDelegate/turboFilter(java.lang.Class,groovy.lang.Closure)@g_logback-classic-1.1.2.jar.txt	1
+ch/qos/logback/classic/gaffer/ConfigurationDelegate/receiver(java.lang.String,java.lang.Class,groovy.lang.Closure)@g_logback-classic-1.1.3.jar.txt	4
+ch/qos/logback/classic/gaffer/ConfigurationDelegate/appender(java.lang.String,java.lang.Class,groovy.lang.Closure)@g_logback-classic-1.1.2.jar.txt	2
+ch/qos/logback/classic/gaffer/ConfigurationDelegate/receiver(java.lang.String,java.lang.Class,groovy.lang.Closure)@g_logback-classic-1.1.2.jar.txt	0

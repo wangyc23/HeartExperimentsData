@@ -1,0 +1,5 @@
+javax/mail/internet/MimeUtility/doEncode(java.lang.String,boolean,java.lang.String,int,java.lang.String,boolean,boolean,java.lang.StringBuffer)@g_mail-1.4.1.jar.txt	2
+com/sun/mail/util/SocketFetcher/getSocket(java.lang.String,int,java.util.Properties,java.lang.String,boolean)@g_mail-1.4.1.jar.txt	4
+com/sun/mail/mbox/MboxFolder/writeFolder(boolean,boolean)@g_mail-1.4.1.jar.txt	1
+javax/mail/internet/MimeUtility/doEncode(java.lang.String,boolean,java.lang.String,int,java.lang.String,boolean,boolean,java.lang.StringBuffer)@g_javax.mail.glassfish-1.4.1.v201005082020.jar.txt	3
+com/sun/mail/mbox/MboxFolder/appendMessages(javax.mail.Message[])@g_mail-1.4.1.jar.txt	0

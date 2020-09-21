@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/bouncycastle/x509/X509CertStoreSelector/setSubject(byte[])
+java/util/List/addAll(java.util.Collection)
+java/util/Iterator/next()

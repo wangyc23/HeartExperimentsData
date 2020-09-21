@@ -1,0 +1,4 @@
+org/apache/zeppelin/interpreter/thrift/RemoteInterpreterService/completion_args/isSetCursor()
+java/util/BitSet/BitSet()
+org/apache/zeppelin/interpreter/thrift/RemoteInterpreterService/completion_args/isSetBuf()
+java/util/BitSet/set(int)

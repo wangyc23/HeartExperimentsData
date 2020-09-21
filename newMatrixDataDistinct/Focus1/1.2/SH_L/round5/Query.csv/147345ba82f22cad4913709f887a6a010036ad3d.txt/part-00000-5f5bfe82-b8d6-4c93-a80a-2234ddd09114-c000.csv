@@ -1,0 +1,4 @@
+com/ning/http/client/providers/netty/NettyResponseFuture/setNettyRequest(com.ning.http.client.providers.netty_4.HttpRequest)
+com/ning/http/util/ProxyUtils/getProxyServer(com.ning.http.client.AsyncHttpClientConfig,com.ning.http.client.Request)
+com/ning/http/client/providers/netty/NettyConnectListener/NettyConnectListener(com.ning.http.client.AsyncHttpClientConfig,com.ning.http.client.providers.netty.NettyResponseFuture,com.ning.http.client.providers.netty_4.HttpRequest)
+com/ning/http/client/providers/netty/NettyResponseFuture/setRequest(com.ning.http.client.Request)

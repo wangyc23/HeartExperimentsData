@@ -1,0 +1,4 @@
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/write(java.io.Writer,org.apache.maven.model.Model)
+java/io/IOException/getMessage()
+org/codehaus/plexus/util/WriterFactory/newXmlWriter(java.io.File)
+java/lang/StringBuffer/toString()

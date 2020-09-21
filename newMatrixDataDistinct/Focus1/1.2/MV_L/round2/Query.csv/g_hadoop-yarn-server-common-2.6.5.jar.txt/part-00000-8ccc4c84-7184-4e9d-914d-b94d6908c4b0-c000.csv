@@ -1,0 +1,4 @@
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto/access$2902(org.apache.hadoop.yarn.proto.YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto,int)
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto/access$2602(org.apache.hadoop.yarn.proto.YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto,long)
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto$Builder/buildPartial()
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto/access$2302(org.apache.hadoop.yarn.proto.YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto,org.apache.hadoop.yarn.proto.YarnServerCommonProtos$MasterKeyProto)

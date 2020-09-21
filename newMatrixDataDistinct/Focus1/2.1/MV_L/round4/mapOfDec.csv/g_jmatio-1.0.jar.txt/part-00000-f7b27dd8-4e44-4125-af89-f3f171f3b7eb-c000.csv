@@ -1,0 +1,5 @@
+com/jmatio/types/MLCell/contentToString()@g_jmatio-1.2.jar.txt	1
+com/jmatio/io/MatFileWriter/write(java.nio.channels.WritableByteChannel,java.util.Collection)@g_jmatio-1.2.jar.txt	4
+com/healthmarketscience/jackcess/impl/IndexPageCache/updateEntry(com.healthmarketscience.jackcess.impl.IndexPageCache$CacheDataPage,int,com.healthmarketscience.jackcess.impl.IndexData$Entry,com.healthmarketscience.jackcess.impl.IndexPageCache$UpdateType)@g_jmatio-1.2.jar.txt	2
+com/healthmarketscience/jackcess/impl/CursorImpl/restoreSavepoint(com.healthmarketscience.jackcess.impl.CursorImpl$SavepointImpl)@g_jmatio-1.2.jar.txt	3
+com/jmatio/io/MatFileReader/readMatrix(java.nio.ByteBuffer,boolean)@g_jmatio-1.2.jar.txt	0

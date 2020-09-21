@@ -1,0 +1,5 @@
+org/springframework/util/SystemPropertyUtils/resolvePlaceholders(java.lang.String)@g_spring-core-2.5.6.jar.txt	0
+org/springframework/util/ResourceUtils/getFile(java.lang.String)@g_spring-core-2.5.6.jar.txt	1
+org/springframework/util/PatternMatchUtils/simpleMatch(java.lang.String,java.lang.String)@g_spring-core-2.5.6.jar.txt	3
+org/springframework/util/DefaultPropertiesPersister/doLoad(java.util.Properties,java.io.Reader)@g_spring-core-2.5.6.jar.txt	2
+org/springframework/util/StringUtils/changeFirstCharacterCase(java.lang.String,boolean)@g_spring-core-2.5.6.jar.txt	4

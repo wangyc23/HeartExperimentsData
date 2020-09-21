@@ -1,0 +1,5 @@
+org/jboss/weld/serialization/FieldHolder/run()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	2
+org/jboss/weld/security/GetAccessibleCopyOfMember/copyField(java.lang.reflect.Field,java.lang.Class)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	4
+org/jboss/weld/tests/unit/reflection/inheritance/TypeVariableResolverTest/testTwoDimensionalVariableArray()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	3
+org/jboss/weld/tests/injectionPoint/weld1177/Weld1177Test/testInjectionPointInSLSBWithInstance()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	1
+org/jboss/weld/tests/unit/security/SecurityTest/testSetAccessibleDoesNotPropagate()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	0

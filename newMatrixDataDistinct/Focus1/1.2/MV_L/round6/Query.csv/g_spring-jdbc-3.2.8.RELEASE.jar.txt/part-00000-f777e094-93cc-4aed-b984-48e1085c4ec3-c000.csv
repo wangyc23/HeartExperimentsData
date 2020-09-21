@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(java.util.Collection)
+java/util/Iterator/hasNext()
+java/lang/String/toUpperCase()
+java/util/HashSet/HashSet(int)

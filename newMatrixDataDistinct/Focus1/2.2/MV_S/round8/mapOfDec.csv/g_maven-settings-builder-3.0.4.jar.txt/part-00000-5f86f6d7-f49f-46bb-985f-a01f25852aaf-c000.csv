@@ -1,0 +1,5 @@
+org/apache/maven/project/MavenProject/getSystemClasspathElements()@g_maven-core-3.0.jar.txt	3
+org/apache/maven/artifact/resolver/filter/IncludesArtifactFilter/include(org.apache.maven.artifact.Artifact)@g_maven-core-3.0.jar.txt	4
+org/apache/maven/plugins/help/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-help-plugin-2.2.jar.txt	2
+org/apache/maven/plugins/help/EvaluateMojo/getArtifactFile(boolean)@g_maven-help-plugin-2.2.jar.txt	1
+org/apache/maven/plugins/help/DescribeMojo/describeCommand(java.lang.StringBuilder)@g_maven-help-plugin-2.2.jar.txt	0

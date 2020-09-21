@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/warn(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/pdfbox/pdmodel/font/PDSimpleFont/getName()
+java/lang/StringBuilder/append(int)

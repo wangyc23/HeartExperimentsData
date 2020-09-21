@@ -1,0 +1,5 @@
+pl/pwr/news/service/article/ArticleServiceImpl/assignArticleTo(java.lang.Long,org.springframework.data.repository.CrudRepository,pl.pwr.news.service.article.ArticleServiceImpl.AssignFunction,java.lang.Long[])@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2
+pl/pwr/news/service/article/ArticleServiceImpl/likeArticle(java.lang.Long)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1
+pl/pwr/news/service/article/ArticleServiceTest/findById_existingArticleId_articleWithIdReturned()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+pl/pwr/news/service/feedsource/FeedSourceServiceImpl/findById(java.lang.Long)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	4
+pl/pwr/news/service/article/ArticleServiceImpl/incrementViews(java.lang.Long)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	0

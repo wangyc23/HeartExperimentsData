@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/WriterFactory/newWriter(java.io.File,java.lang.String)
+org/codehaus/plexus/util/ReaderFactory/newReader(java.io.InputStream,java.lang.String)
+java/util/zip/ZipFile/ZipFile(java.io.File)
+org/codehaus/plexus/util/IOUtil/close(java.io.Writer)

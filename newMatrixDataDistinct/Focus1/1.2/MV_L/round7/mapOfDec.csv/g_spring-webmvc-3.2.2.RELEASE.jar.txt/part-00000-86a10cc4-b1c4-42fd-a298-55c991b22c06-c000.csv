@@ -1,0 +1,5 @@
+org/springframework/web/servlet/mvc/method/annotation/ExtendedServletRequestDataBinder/addBindValues(org.springframework.beans.MutablePropertyValues,javax.servlet.ServletRequest)@g_spring-webmvc-4.0.0.RELEASE.jar.txt	4
+org/springframework/web/servlet/handler/SimpleUrlHandlerMapping/registerHandlers(java.util.Map)@g_spring-webmvc-4.0.2.RELEASE.jar.txt	1
+org/springframework/web/servlet/handler/SimpleUrlHandlerMapping/registerHandlers(java.util.Map)@g_spring-webmvc-4.0.0.RELEASE.jar.txt	0
+org/springframework/web/servlet/view/ContentNegotiatingViewResolver/initServletContext(javax.servlet.ServletContext)@g_spring-webmvc-4.0.0.RELEASE.jar.txt	3
+org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerExceptionResolver/handleResponseBody(java.lang.Object,org.springframework.web.context.request.ServletWebRequest)@g_spring-webmvc-4.0.0.RELEASE.jar.txt	2

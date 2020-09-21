@@ -1,0 +1,4 @@
+org/javaee7/jms/batch/ResultCollector/getLastItemCount()
+org/javaee7/jms/batch/ResultCollector/getNumberOfJobs()
+org/javaee7/jms/batch/ResultCollector/getLastSum()
+org/javaee7/jms/batch/JmsItemReaderTest/sendMessages(int)

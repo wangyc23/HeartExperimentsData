@@ -1,0 +1,4 @@
+0	java/util/Iterator/hasNext()
+1	org/unix4j/context/ExecutionContext/getVariableContext()
+2	java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+3	org/unix4j/unix/uniq/UniqOptions$Default/Default()

@@ -1,0 +1,4 @@
+java/lang/Character/toString()
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/replace(java.lang.CharSequence,java.lang.CharSequence)

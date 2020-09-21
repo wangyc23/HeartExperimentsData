@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/font/PDType1CFont/getFontWidth(byte[],int,int)@g_pdfbox-1.8.8.jar.txt	4
+org/apache/pdfbox/pdmodel/graphics/shading/GouraudShadingContext/readVertex(javax.imageio.stream.ImageInputStream,long,long,org.apache.pdfbox.pdmodel.common.PDRange,org.apache.pdfbox.pdmodel.common.PDRange,org.apache.pdfbox.pdmodel.common.PDRange[],org.apache.pdfbox.util.Matrix,java.awt.geom.AffineTransform)@g_pdfbox-1.8.10.jar.txt	1
+org/apache/pdfbox/pdmodel/graphics/shading/GouraudShadingContext/readVertex(javax.imageio.stream.ImageInputStream,long,long,org.apache.pdfbox.pdmodel.common.PDRange,org.apache.pdfbox.pdmodel.common.PDRange,org.apache.pdfbox.pdmodel.common.PDRange[],org.apache.pdfbox.util.Matrix,java.awt.geom.AffineTransform)@g_pdfbox-1.8.8.jar.txt	0
+org/apache/pdfbox/pdmodel/font/PDType1CFont/getFontHeight(byte[],int,int)@g_pdfbox-1.8.8.jar.txt	3
+org/apache/pdfbox/pdmodel/graphics/shading/Type4ShadingContext/getTriangleList(java.awt.geom.AffineTransform,org.apache.pdfbox.util.Matrix)@g_pdfbox-1.8.8.jar.txt	2

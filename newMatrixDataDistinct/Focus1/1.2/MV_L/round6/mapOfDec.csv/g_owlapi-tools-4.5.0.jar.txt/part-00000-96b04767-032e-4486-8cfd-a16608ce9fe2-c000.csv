@@ -1,0 +1,5 @@
+com/clarkparsia/owlapi/explanation/util/DefinitionTracker/removeAxiom(org.semanticweb.owlapi.model.OWLAxiom)@g_owlapi-distribution-4.5.0.jar.txt	3
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/AbstractHierarchyInfo/tarjan(org.semanticweb.owlapi.model.OWLObject,int,java.util.Stack,java.util.Map,java.util.Map,java.util.Set,java.util.Set,java.util.Set,java.util.Map,java.util.Set,java.util.Set)@g_owlapi-distribution-4.5.0.jar.txt	1
+com/clarkparsia/owlapi/explanation/util/DefinitionTracker/addAxiom(org.semanticweb.owlapi.model.OWLAxiom)@g_owlapi-distribution-4.5.0.jar.txt	0
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/tarjan(java.util.Set,org.semanticweb.owlapi.model.OWLObjectPropertyExpression,int,java.util.Stack,java.util.Map,java.util.Map,java.util.Set,java.util.Set,java.util.Set)@g_owlapi-distribution-4.5.0.jar.txt	2
+uk/ac/manchester/cs/atomicdecomposition/AtomicDecompositionImpl/explore(uk.ac.manchester.cs.atomicdecomposition.Atom,boolean,org.semanticweb.owlapitools.decomposition.IdentityMultiMap)@g_owlapi-tools-5.1.0.jar.txt	4

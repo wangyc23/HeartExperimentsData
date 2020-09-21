@@ -1,0 +1,5 @@
+com/rometools/rome/io/impl/Atom10Parser/parseTextConstructToString(org.jdom2.Element)@g_cli-parser-1.1.jar.txt	2
+com/sampullara/cli/Args/processField(java.lang.Object,java.lang.reflect.Field,java.util.List)@g_cli-parser-1.1.jar.txt	4
+com/rometools/rome/io/impl/PluginManager/loadPlugins()@g_cli-parser-1.1.jar.txt	1
+com/rometools/rome/io/impl/RSS090Parser/parseItem(org.jdom2.Element,org.jdom2.Element,java.util.Locale)@g_cli-parser-1.1.jar.txt	3
+com/sampullara/cli/Args/propertyUsage(java.io.PrintStream,java.lang.String,java.lang.String,java.lang.String,java.lang.Class,java.lang.String,java.lang.String,java.lang.Object)@g_cli-parser-1.1.jar.txt	0

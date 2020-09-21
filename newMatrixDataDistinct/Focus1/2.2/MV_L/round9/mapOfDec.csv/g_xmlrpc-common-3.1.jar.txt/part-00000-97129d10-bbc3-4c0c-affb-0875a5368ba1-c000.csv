@@ -1,0 +1,5 @@
+org/xmlpull/v1/builder/impl/XmlElementImpl/cloneList(org.xmlpull.v1.builder.impl.XmlElementImpl,java.util.List)@g_xpp3-1.1.4c.jar.txt	2
+org/xmlpull/v1/builder/impl/XmlDocumentImpl/cloneList(org.xmlpull.v1.builder.impl.XmlDocumentImpl,java.util.List)@g_xpp3-1.1.4c.jar.txt	1
+org/xmlpull/v1/builder/impl/XmlElementImpl/requiredTextContent()@g_xpp3-1.1.4c.jar.txt	0
+org/xmlpull/v1/XmlPullParserFactory/newPullParser()@g_xpp3-1.1.4c.jar.txt	4
+org/xmlpull/v1/builder/adapter/XmlElementAdapter/castOrWrap(org.xmlpull.v1.builder.XmlElement,java.lang.Class)@g_xpp3-1.1.4c.jar.txt	3

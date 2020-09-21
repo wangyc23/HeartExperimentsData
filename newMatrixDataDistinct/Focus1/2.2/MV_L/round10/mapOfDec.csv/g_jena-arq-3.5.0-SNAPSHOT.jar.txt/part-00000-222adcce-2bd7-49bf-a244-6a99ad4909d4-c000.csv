@@ -1,0 +1,5 @@
+org/apache/jena/sparql/engine/iterator/QueryIterGroup/1/initializeIterator()@g_jena-arq-3.4.0.jar.txt	3
+org/apache/jena/sparql/algebra/OpPrefixesUsed/PrefixFinder/node(org.apache.jena.graph.Node)@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	4
+org/apache/jena/sparql/engine/join/HashProbeTable/stats()@g_jena-arq-3.4.0.jar.txt	1
+org/apache/jena/sparql/engine/iterator/QueryIterGroup/1/initializeIterator()@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	2
+org/apache/jena/sparql/engine/join/HashProbeTable/stats()@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	0

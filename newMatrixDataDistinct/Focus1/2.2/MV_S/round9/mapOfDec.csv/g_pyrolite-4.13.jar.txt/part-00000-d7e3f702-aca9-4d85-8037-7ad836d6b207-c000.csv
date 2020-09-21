@@ -1,0 +1,5 @@
+flexjson/ObjectBinder/bindPrimitive(java.lang.Object,java.lang.Class)@g_flexjson-2.1.jar.txt	2
+net/razorvine/pickle/PickleUtils/decode_unicode_escaped(java.lang.String)@g_flexjson-2.1.jar.txt	4
+net/razorvine/pickle/Pickler/put_javabean(java.lang.Object)@g_flexjson-2.1.jar.txt	3
+javax/enterprise/util/AnnotationLiteral/getMembers()@g_flexjson-2.1.jar.txt	0
+net/razorvine/pyro/PyroProxy/_decompressMessageData(net.razorvine.pyro.Message)@g_flexjson-2.1.jar.txt	1

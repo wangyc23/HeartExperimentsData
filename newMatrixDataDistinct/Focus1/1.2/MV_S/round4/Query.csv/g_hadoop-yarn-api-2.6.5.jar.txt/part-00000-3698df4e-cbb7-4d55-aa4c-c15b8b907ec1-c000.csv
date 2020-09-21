@@ -1,0 +1,4 @@
+org/apache/hadoop/yarn/proto/YarnServiceProtos$StopContainersRequestProto/getUnknownFields()
+org/apache/hadoop/yarn/proto/YarnServiceProtos$StopContainersRequestProto$Builder/getContainerIdFieldBuilder()
+org/apache/hadoop/yarn/proto/YarnServiceProtos$StopContainersRequestProto/access$41000()
+java/util/List/addAll(java.util.Collection)

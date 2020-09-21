@@ -1,0 +1,4 @@
+scala/reflect/internal/Types$TypeRef/sym()
+scala/reflect/internal/Symbols$Symbol/nextOverriddenSymbol()
+scala/reflect/internal/Types$AliasTypeRef/betaReduce()
+scala/reflect/internal/Types$Type/normalize()

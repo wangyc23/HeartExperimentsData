@@ -1,0 +1,7 @@
+0	models/Pet/setId(long)
+1	models/Tag/setName(java.lang.String)
+2	java/lang/String/equalsIgnoreCase(java.lang.String)
+3	java/lang/String/equals(java.lang.Object)
+4	java/lang/Boolean/parseBoolean(java.lang.String)
+5	models/Pet/setPhotoUrls(java.util.List)
+6	models/Pet/Pet()

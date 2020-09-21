@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+com/sun/tools/javac/util/ListBuffer/lb()
+com/sun/tools/javac/util/Context/get(java.lang.Class)
+java/util/Iterator/next()

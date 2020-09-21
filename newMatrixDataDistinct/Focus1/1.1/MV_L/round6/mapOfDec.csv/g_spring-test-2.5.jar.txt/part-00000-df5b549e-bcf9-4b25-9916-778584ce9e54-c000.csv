@@ -1,0 +1,5 @@
+org/springframework/mock/web/portlet/MockPortletSession/doClearAttributes(java.util.Map)@g_spring-test-4.0.9.RELEASE.jar.txt	3
+org/springframework/mock/web/MockHttpSession/clearAttributes()@g_spring-test-3.2.8.RELEASE.jar.txt	1
+org/springframework/mock/web/portlet/MockPortletSession/doClearAttributes(java.util.Map)@g_spring-test-3.2.8.RELEASE.jar.txt	0
+org/springframework/mock/web/MockHttpSession/serializeState()@g_spring-test-3.2.8.RELEASE.jar.txt	2
+org/springframework/mock/web/MockHttpSession/clearAttributes()@g_spring-test-4.0.9.RELEASE.jar.txt	4

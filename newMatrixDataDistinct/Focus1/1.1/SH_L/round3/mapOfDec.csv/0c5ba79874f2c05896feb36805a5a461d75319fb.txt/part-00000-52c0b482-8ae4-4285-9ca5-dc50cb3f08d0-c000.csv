@@ -1,0 +1,5 @@
+io/selendroid/standalone/server/model/SelendroidStandaloneDriverFixture/getSelendroidStandaloneDriver(io.selendroid.standalone.builder.SelendroidServerBuilder)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0
+io/selendroid/standalone/server/util/HttpClientUtilTest/testParseJsonResponse()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+demo/callback/server/Server/main(java.lang.String[])@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+io/selendroid/testapp/server/NanoHTTPD/HTTPSession/run()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4

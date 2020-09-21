@@ -1,0 +1,5 @@
+org/apache/maven/wagon/PathUtils/authorization(java.lang.String)@g_xwiki-platform-store-filesystem-7.4.jar.txt	3
+org/apache/maven/wagon/WagonUtils/putDirectory(java.io.File,org.apache.maven.wagon.Wagon,boolean)@g_xwiki-platform-store-filesystem-7.4.jar.txt	2
+org/apache/maven/wagon/util/FileUtils/resolveFile(java.io.File,java.lang.String)@g_xwiki-platform-store-filesystem-7.4.jar.txt	1
+org/apache/maven/wagon/util/FileUtils/copyURLToFile(java.net.URL,java.io.File)@g_xwiki-platform-store-filesystem-7.4.jar.txt	4
+org/apache/maven/wagon/PathUtils/port(java.lang.String)@g_xwiki-platform-store-filesystem-7.4.jar.txt	0

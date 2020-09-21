@@ -1,0 +1,5 @@
+org/aspectj/apache/bcel/classfile/ConstantPool/lookupMethodref(java.lang.String,java.lang.String,java.lang.String)@g_aspectjweaver-1.8.2.jar.txt	2
+org/aspectj/apache/bcel/classfile/annotation/AnnotationGen/toString()@g_aspectjweaver-1.8.2.jar.txt	4
+aj/org/objectweb/asm/ClassWriter/a(java.lang.Object)@g_aspectjweaver-1.8.2.jar.txt	0
+aj/org/objectweb/asm/ClassWriter/a(java.lang.Object)@g_aspectjweaver-1.8.5.jar.txt	1
+org/aspectj/weaver/World/AspectPrecedenceCalculator/compareByPrecedence(org.aspectj.weaver.ResolvedType,org.aspectj.weaver.ResolvedType)@g_aspectjweaver-1.8.2.jar.txt	3

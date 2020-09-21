@@ -1,0 +1,5 @@
+org/apache/tika/parser/external/ExternalParser/parse(org.apache.tika.io.TikaInputStream,org.apache.tika.sax.XHTMLContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.io.TemporaryResources)@g_tika-core-1.4.jar.txt	0
+org/apache/tika/fork/MemoryURLStreamHandler/openConnection(java.net.URL)@g_tika-core-1.4.jar.txt	4
+org/apache/tika/mime/MediaType/toString()@g_tika-core-1.4.jar.txt	2
+org/apache/tika/language/LanguageProfile/add(java.lang.String,long)@g_tika-core-1.4.jar.txt	3
+org/apache/tika/parser/external/ExternalParser/parse(org.apache.tika.io.TikaInputStream,org.apache.tika.sax.XHTMLContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.io.TemporaryResources)@g_tika-core-1.2.jar.txt	1

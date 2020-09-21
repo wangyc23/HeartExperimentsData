@@ -1,0 +1,5 @@
+backtype/storm/tuple/TupleImpl/size()@22f6dfb431a24acc799abc898b9fbb402d015a94.txt	3
+storm/kafka/trident/Coordinator/close()@22f6dfb431a24acc799abc898b9fbb402d015a94.txt	2
+backtype/storm/generated/Grouping/get_shuffle()@22f6dfb431a24acc799abc898b9fbb402d015a94.txt	1
+backtype/storm/generated/DRPCRequest/hashCode()@22f6dfb431a24acc799abc898b9fbb402d015a94.txt	4
+backtype/storm/utils/Utils/getSerializationDelegate(java.util.Map)@22f6dfb431a24acc799abc898b9fbb402d015a94.txt	0

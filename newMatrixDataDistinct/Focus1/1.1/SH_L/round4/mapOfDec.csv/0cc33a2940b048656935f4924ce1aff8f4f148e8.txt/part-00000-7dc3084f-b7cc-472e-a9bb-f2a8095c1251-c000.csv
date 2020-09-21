@@ -1,0 +1,5 @@
+org/kimios/kernel/repositories/impl/DefaultRepositoryAccessor/copyVersion(org.kimios.kernel.dms.model.DocumentVersion,org.kimios.kernel.dms.model.DocumentVersion)@07f855760151be2597b3ec7d6236958c7e8599da.txt	4
+org/kimios/kernel/dms/hibernate/HDMEntityFactory/trash(org.kimios.kernel.dms.model.DMEntityImpl)@07f855760151be2597b3ec7d6236958c7e8599da.txt	2
+org/kimios/kernel/jobs/KimiosExecutor/beforeExecute(java.lang.Thread,java.lang.Runnable)@07f855760151be2597b3ec7d6236958c7e8599da.txt	1
+org/kimios/core/WebContext/getSession()@07f855760151be2597b3ec7d6236958c7e8599da.txt	0
+org/kimios/kernel/events/model/EventContext/get()@07f855760151be2597b3ec7d6236958c7e8599da.txt	3

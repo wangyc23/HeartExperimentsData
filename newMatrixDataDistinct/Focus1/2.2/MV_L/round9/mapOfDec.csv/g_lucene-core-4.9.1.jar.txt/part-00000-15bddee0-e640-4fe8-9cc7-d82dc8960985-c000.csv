@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blocktree/IntersectTermsEnumFrame/load(org.apache.lucene.util.BytesRef)@g_lucene-core-4.10.3.jar.txt	4
+org/apache/lucene/codecs/lucene410/Lucene410DocValuesProducer/readSortedSetFieldWithAddresses(int,org.apache.lucene.store.IndexInput,org.apache.lucene.index.FieldInfos)@g_lucene-core-4.10.3.jar.txt	2
+org/apache/lucene/codecs/compressing/CompressionMode/DeflateDecompressor/decompress(org.apache.lucene.store.DataInput,int,int,int,org.apache.lucene.util.BytesRef)@g_lucene-core-4.10.3.jar.txt	0
+org/apache/lucene/codecs/compressing/CompressionMode/DeflateDecompressor/decompress(org.apache.lucene.store.DataInput,int,int,int,org.apache.lucene.util.BytesRef)@g_lucene-core-4.7.0.jar.txt	1
+org/apache/lucene/search/SortField/getComparator(int,int)@g_lucene-core-4.10.3.jar.txt	3

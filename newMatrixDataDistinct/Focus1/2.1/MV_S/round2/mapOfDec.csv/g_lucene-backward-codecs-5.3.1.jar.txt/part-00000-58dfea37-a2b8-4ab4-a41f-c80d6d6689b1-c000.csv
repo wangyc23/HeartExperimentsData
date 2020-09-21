@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/memory/MemoryDocValuesConsumer/addBinaryField(org.apache.lucene.index.FieldInfo,java.lang.Iterable)@g_lucene-codecs-5.5.0.jar.txt	0
+org/apache/lucene/store/FSDirectory/listAll(java.nio.file.Path,java.util.Set)@g_lucene-codecs-5.5.0.jar.txt	4
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_lucene-codecs-5.5.0.jar.txt	3
+org/apache/lucene/codecs/memory/MemoryDocValuesConsumer/addSortedNumericField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,java.lang.Iterable)@g_lucene-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/blockterms/BlockTermsWriter/TermsWriter/finish()@g_lucene-codecs-5.5.0.jar.txt	2

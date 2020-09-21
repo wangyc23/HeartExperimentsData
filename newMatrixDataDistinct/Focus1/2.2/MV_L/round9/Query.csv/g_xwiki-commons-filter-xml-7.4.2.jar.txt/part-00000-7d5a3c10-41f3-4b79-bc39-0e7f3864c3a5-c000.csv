@@ -1,0 +1,4 @@
+org/xwiki/filter/output/WriterOutputTarget/getWriter()
+org/xwiki/xml/stax/StAXUtils/getXMLStreamWriter(javax.xml.transform.Result)
+javax/xml/stream/XMLOutputFactory/createXMLStreamWriter(java.io.OutputStream,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)

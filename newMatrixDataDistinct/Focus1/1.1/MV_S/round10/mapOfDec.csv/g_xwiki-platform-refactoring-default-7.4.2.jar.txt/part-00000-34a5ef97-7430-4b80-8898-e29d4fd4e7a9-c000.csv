@@ -1,0 +1,5 @@
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLink(org.xwiki.rendering.block.Block,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-wiki-default-7.4.jar.txt	3
+org/xwiki/wiki/internal/provisioning/DefaultWikiProvisioningJobExecutor/createAndExecuteJob(java.lang.String,java.lang.String,java.lang.Object)@g_xwiki-platform-wiki-default-7.4.jar.txt	1
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/updateRelativeLinks(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-wiki-default-7.4.jar.txt	4
+org/xwiki/wiki/internal/descriptor/migrator/WikiDescriptorMigrator/fixDocument(java.lang.String)@g_xwiki-platform-wiki-default-7.4.jar.txt	2
+org/xwiki/wiki/internal/descriptor/document/DefaultWikiDescriptorDocumentHelper/getAllXWikiServerClassDocument()@g_xwiki-platform-wiki-default-7.4.jar.txt	0

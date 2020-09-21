@@ -1,0 +1,4 @@
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/util/ArrayList/size()
+java/lang/String/substring(int)
+java/lang/StringBuilder/append(char)

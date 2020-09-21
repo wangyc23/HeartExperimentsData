@@ -1,0 +1,5 @@
+com/cathive/fx/apps/contacts/model/converter/ImageConverter/convertToEntityAttribute(byte[])@0425ed898ce22ac9320119c92ef227937ad10323.txt	1
+com/cathive/fx/cdi/weld/WeldLoader/initialize()@0425ed898ce22ac9320119c92ef227937ad10323.txt	3
+com/cathive/fx/apps/contacts/ContactsApp/start(com.cathive.fx.apps.contacts.Stage)@0425ed898ce22ac9320119c92ef227937ad10323.txt	4
+com/cathive/fx/apps/contacts/model/converter/ImageConverter/convertToDatabaseColumn(com.cathive.fx.apps.contacts.model.converter.Image)@0425ed898ce22ac9320119c92ef227937ad10323.txt	0
+com/cathive/fx/cdi/weld/WeldLoader/shutdown()@0425ed898ce22ac9320119c92ef227937ad10323.txt	2

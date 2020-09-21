@@ -1,0 +1,5 @@
+uk/ac/ic/wlgitbridge/WLGitBridgeIntegrationTest/pushFailsOnInvalidProject()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	3
+uk/ac/ic/wlgitbridge/util/Log/error(java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	2
+uk/ac/ic/wlgitbridge/server/PostbackContents/setException(com.google.gson.JsonObject,java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	1
+uk/ac/ic/wlgitbridge/util/Log/warn(java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	0
+uk/ac/ic/wlgitbridge/snapshot/servermock/util/FileUtilTest/returnsTrueWhenFilesAreEqualInBothDirectories()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	4

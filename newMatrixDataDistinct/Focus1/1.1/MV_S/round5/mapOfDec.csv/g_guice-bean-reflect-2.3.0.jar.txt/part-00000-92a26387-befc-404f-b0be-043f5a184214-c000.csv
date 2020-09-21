@@ -1,0 +1,5 @@
+org/eclipse/sisu/space/URLClassSpace/normalizeEntry(java.net.URL)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	0
+org/eclipse/core/runtime/URIUtil/fromString(java.lang.String)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	4
+org/eclipse/sisu/space/QualifiedTypeBinder/getBindingName(java.lang.Class)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	3
+org/eclipse/sisu/launch/SisuExtensions/install(com.google.inject.Binder,java.lang.Class,java.lang.Object)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	2
+org/eclipse/sisu/wire/PlaceholderBeanProvider/interpolate(java.lang.String,java.lang.Class)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	1

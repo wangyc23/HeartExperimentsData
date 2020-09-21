@@ -1,0 +1,4 @@
+java/io/DataInputStream/readByte()
+java/io/IOException/IOException(java.lang.String)
+java/lang/StringBuilder/append(int)
+java/lang/StringBuilder/StringBuilder()

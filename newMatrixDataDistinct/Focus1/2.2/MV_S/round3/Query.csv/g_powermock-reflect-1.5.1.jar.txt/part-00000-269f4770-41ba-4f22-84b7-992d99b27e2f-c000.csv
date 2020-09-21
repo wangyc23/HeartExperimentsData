@@ -1,0 +1,4 @@
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/lang/reflect/Method/getName()
+java/lang/reflect/Method/setAccessible(boolean)
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

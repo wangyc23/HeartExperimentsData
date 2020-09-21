@@ -1,0 +1,4 @@
+com/github/fge/msgsimple/provider/LoadingMessageSourceProvider$Builder/build()
+com/github/fge/msgsimple/provider/LoadingMessageSourceProvider$Builder/setLoader(com.github.fge.msgsimple.provider.MessageSourceLoader)
+com/github/fge/msgsimple/provider/LoadingMessageSourceProvider$Builder/setLoadTimeout(long,java.util.concurrent.TimeUnit)
+com/github/fge/msgsimple/provider/LoadingMessageSourceProvider$Builder/neverExpires()

@@ -1,0 +1,5 @@
+org/xwiki/extension/repository/internal/DefaultExtensionRepositoryManager/resolve(org.xwiki.extension.ExtensionDependency)@g_xwiki-commons-extension-api-7.4.jar.txt	1
+org/xwiki/extension/repository/internal/core/DefaultCoreExtensionScanner/loadExtensionsFromClassloaders(java.util.Map,org.xwiki.extension.repository.internal.core.DefaultCoreExtensionRepository)@g_xwiki-commons-extension-api-7.0.jar.txt	2
+org/xwiki/extension/repository/internal/core/DefaultCoreExtensionScanner/toDependency(java.lang.String,java.lang.String,java.lang.String)@g_xwiki-commons-extension-api-7.4.jar.txt	3
+org/xwiki/extension/repository/internal/core/DefaultCoreExtensionScanner/loadExtensionsFromClassloaders(java.util.Map,org.xwiki.extension.repository.internal.core.DefaultCoreExtensionRepository)@g_xwiki-commons-extension-api-7.4.jar.txt	0
+org/xwiki/extension/repository/internal/installed/AbstractInstalledExtensionRepository/searchInstalledExtensions(java.lang.String,org.xwiki.extension.repository.search.ExtensionQuery,java.util.Collection)@g_xwiki-commons-extension-api-7.4.jar.txt	4

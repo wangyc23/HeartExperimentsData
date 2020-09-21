@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/apache/parquet/glob/GlobParser$GlobParseException/GlobParseException(java.lang.String)
+org/apache/parquet/glob/GlobNode$Atom/Atom(java.lang.String)
+org/apache/parquet/glob/GlobNode$GlobNodeSequence/GlobNodeSequence(java.util.List)

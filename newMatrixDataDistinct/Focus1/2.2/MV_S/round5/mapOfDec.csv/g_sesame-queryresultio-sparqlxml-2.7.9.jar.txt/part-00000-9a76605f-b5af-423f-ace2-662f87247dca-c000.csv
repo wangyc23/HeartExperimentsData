@@ -1,0 +1,5 @@
+org/openrdf/http/protocol/transaction/TransactionSAXParser/createContexts(int)@g_sesame-http-protocol-2.7.9.jar.txt	0
+org/openrdf/http/protocol/transaction/TransactionSAXParser/createAddStatementOperation()@g_sesame-http-protocol-2.7.9.jar.txt	2
+org/openrdf/http/protocol/transaction/TransactionSAXParser/startTag(java.lang.String,java.util.Map,java.lang.String)@g_sesame-http-protocol-2.7.9.jar.txt	4
+org/openrdf/http/protocol/transaction/TransactionSAXParser/endTag(java.lang.String)@g_sesame-http-protocol-2.7.9.jar.txt	3
+org/openrdf/http/protocol/transaction/TransactionSAXParser/createRemoveStatementsOperation()@g_sesame-http-protocol-2.7.9.jar.txt	1

@@ -1,0 +1,4 @@
+eu/matejkormuth/rpgdavid/starving/Starving/NMS/setPlayerListHeaderFooter(org.bukkit.entity.Player,java.lang.String,java.lang.String)
+org/bukkit/event/player/PlayerEvent/getPlayer()
+eu/matejkormuth/rpgdavid/starving/Starving/getInstance()
+eu/matejkormuth/rpgdavid/starving/Starving/getTabListFooter()

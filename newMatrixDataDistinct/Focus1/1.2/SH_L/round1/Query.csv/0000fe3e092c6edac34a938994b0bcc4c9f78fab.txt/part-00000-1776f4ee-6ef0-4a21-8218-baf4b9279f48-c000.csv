@@ -1,0 +1,4 @@
+br/com/project/seguranca/util/reflect/ReflectUtil/getValorMethod(java.lang.Object,java.lang.reflect.Method)
+java/beans/PropertyDescriptor/getWriteMethod()
+java/beans/PropertyDescriptor/getReadMethod()
+br/com/project/seguranca/util/reflect/ReflectUtil/alterarMethodAccessible(java.lang.reflect.Method)

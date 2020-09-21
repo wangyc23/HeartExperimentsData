@@ -1,0 +1,5 @@
+org/apache/deltaspike/core/util/Annotateds/createAnnotationCollectionId(java.util.Collection)@g_deltaspike-core-api-1.0.1.jar.txt	0
+org/apache/deltaspike/core/util/metadata/builder/AnnotatedTypeBuilder/removeFromAll(java.lang.Class)@g_hibernate-commons-annotations-4.0.5.Final.jar.txt	1
+org/hibernate/annotations/common/util/StringHelper/replace(java.lang.String,java.lang.String,java.lang.String,boolean)@g_hibernate-commons-annotations-4.0.5.Final.jar.txt	3
+org/hibernate/annotations/common/util/StandardClassLoaderDelegateImpl/classForName(java.lang.String)@g_hibernate-commons-annotations-4.0.5.Final.jar.txt	2
+org/apache/deltaspike/core/util/ClassDeactivationUtils/initDeactivatableCacheFor(java.lang.Class)@g_hibernate-commons-annotations-4.0.5.Final.jar.txt	4

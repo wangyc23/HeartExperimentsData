@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/fromDependencies/CopyDependenciesMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/copyResourceIfExists(java.io.File,java.lang.String,org.apache.velocity.VelocityContext)@g_maven-remote-resources-plugin-1.4.jar.txt	3
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/execute()@g_maven-remote-resources-plugin-1.4.jar.txt	1
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/addSupplementalModelArtifacts()@g_maven-remote-resources-plugin-1.4.jar.txt	0
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/processResourceBundles(org.apache.maven.plugin.resources.remote.RemoteResourcesClassLoader,org.apache.velocity.VelocityContext)@g_maven-remote-resources-plugin-1.4.jar.txt	4

@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/AttributesMap/getAttributeEntrySet()
+org/eclipse/jetty/server/handler/ContextHandler$CLDump/CLDump(java.lang.ClassLoader)
+org/eclipse/jetty/server/handler/ContextHandler/dumpThis(java.lang.Appendable)
+org/eclipse/jetty/server/handler/ContextHandler/getBeans()

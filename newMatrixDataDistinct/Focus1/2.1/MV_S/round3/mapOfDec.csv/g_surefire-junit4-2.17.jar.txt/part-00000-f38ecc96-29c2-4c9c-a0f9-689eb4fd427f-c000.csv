@@ -1,0 +1,5 @@
+org/apache/maven/surefire/junit/JUnit3Provider/invoke(java.lang.Object)@g_surefire-junit3-2.12.4.jar.txt	1
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/StringUtils/swapCase(java.lang.String)@g_surefire-junit3-2.12.4.jar.txt	3
+org/apache/maven/surefire/util/DefaultDirectoryScanner/processIncludesExcludes(java.util.List)@g_surefire-junit3-2.12.4.jar.txt	4
+org/apache/maven/surefire/report/SmartStackTraceParser/toString(java.lang.Throwable,java.lang.Iterable)@g_surefire-junit3-2.12.4.jar.txt	0
+org/apache/maven/surefire/util/UrlUtils/getURL(java.io.File)@g_surefire-junit3-2.12.4.jar.txt	2

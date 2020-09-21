@@ -1,0 +1,4 @@
+com/hp/hpl/jena/query/QuerySolution/getLiteral(java.lang.String)
+eu/learnpad/or/rest/data/State/setProcessName(java.lang.String)
+com/hp/hpl/jena/query/QueryExecution/execSelect()
+com/hp/hpl/jena/query/QuerySolution/getResource(java.lang.String)

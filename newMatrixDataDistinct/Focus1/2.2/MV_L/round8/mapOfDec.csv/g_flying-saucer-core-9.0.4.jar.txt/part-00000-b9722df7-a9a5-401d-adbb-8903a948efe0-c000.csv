@@ -1,0 +1,5 @@
+org/springframework/util/ConcurrencyThrottleSupport/beforeAccess()@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/tools/analyser/JarJarDependencyAnalyser/analyze(org.apache.ivy.tools.analyser.JarModule[])@g_ivy-2.3.0.jar.txt	3
+org/springframework/core/style/DefaultValueStyler/style(java.util.Map)@g_ivy-2.3.0.jar.txt	4
+org/springframework/core/Constants/getValues(java.lang.String)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	1

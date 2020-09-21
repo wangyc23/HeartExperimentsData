@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/efaps/esjp/sales/document/AbstractDocument_Base/getSerialNumbers(org.efaps.esjp.sales.document.Parameter)
+java/util/Collection/toArray(T[])
+java/text/NumberFormat/getInstance()

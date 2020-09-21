@@ -1,0 +1,5 @@
+org/sqlite/MetaData/getColumns(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_sqlite-jdbc-3.7.2.jar.txt	2
+org/sqlite/ExtendedCommand/RestoreCommand/parse(java.lang.String)@g_sqlite-jdbc-3.7.2.jar.txt	3
+org/sqlite/RS/findColumn(java.lang.String)@g_sqlite-jdbc-3.7.2.jar.txt	0
+org/sqlite/NestedDB/_open(java.lang.String,int)@g_sqlite-jdbc-3.7.2.jar.txt	1
+org/sqlite/ExtendedCommand/BackupCommand/parse(java.lang.String)@g_sqlite-jdbc-3.7.2.jar.txt	4

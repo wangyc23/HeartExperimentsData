@@ -1,0 +1,5 @@
+org/json4s/Merge/mergeRec$2(scala.collection.immutable.List,scala.collection.immutable.List)@g_json4s-jackson_2.11-3.4.0.jar.txt	4
+org/json4s/Diff/diffRec$1(scala.collection.immutable.List,scala.collection.immutable.List)@g_json4s-ast_2.11-3.4.0.jar.txt	1
+org/json4s/jackson/JValueSerializer/serialize(org.json4s.JsonAST$JValue,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_json4s-jackson_2.11-3.4.0.jar.txt	3
+org/json4s/Merge/mergeRec$1(scala.collection.immutable.List,scala.collection.immutable.List)@g_json4s-ast_2.11-3.4.0.jar.txt	2
+org/json4s/Merge/mergeRec$2(scala.collection.immutable.List,scala.collection.immutable.List)@g_json4s-ast_2.11-3.4.0.jar.txt	0

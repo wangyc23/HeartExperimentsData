@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/net/URLEncoder/encode(java.lang.String,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Math/max(int,int)

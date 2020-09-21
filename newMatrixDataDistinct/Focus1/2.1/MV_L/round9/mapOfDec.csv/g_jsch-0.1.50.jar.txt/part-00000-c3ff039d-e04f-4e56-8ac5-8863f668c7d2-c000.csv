@@ -1,0 +1,5 @@
+com/jcraft/jsch/ChannelForwardedTCPIP/run()@g_jsch-0.1.54.jar.txt	2
+com/jcraft/jsch/ChannelSftp/_put(java.io.InputStream,java.lang.String,com.jcraft.jsch.SftpProgressMonitor,int)@g_jsch-0.1.54.jar.txt	1
+com/jcraft/jsch/ChannelX11/run()@g_jsch-0.1.54.jar.txt	0
+com/jcraft/jsch/ProxySOCKS4/connect(com.jcraft.jsch.SocketFactory,java.lang.String,int,int)@g_jsch-0.1.54.jar.txt	4
+com/jcraft/jsch/ChannelSftp/_get(java.lang.String,java.io.OutputStream,com.jcraft.jsch.SftpProgressMonitor,int,long)@g_jsch-0.1.54.jar.txt	3

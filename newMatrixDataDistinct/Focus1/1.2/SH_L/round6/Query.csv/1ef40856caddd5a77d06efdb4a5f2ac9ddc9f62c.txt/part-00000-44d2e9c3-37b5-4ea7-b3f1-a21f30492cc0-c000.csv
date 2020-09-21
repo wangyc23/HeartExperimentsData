@@ -1,0 +1,4 @@
+com/vaadin/data/Item/getItemProperty(java.lang.Object)
+java/lang/Object/toString()
+java/lang/String/toLowerCase()
+java/lang/String/trim()

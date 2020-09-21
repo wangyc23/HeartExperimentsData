@@ -1,0 +1,5 @@
+org/neo4j/server/rest/repr/formats/CompactJsonFormat/serializeMapping(java.lang.String)@g_neo4j-server-3.0.1.jar.txt	4
+org/neo4j/server/rest/domain/RelationshipExpanderBuilder/stringToEnum(java.lang.String,java.lang.Class,boolean)@g_neo4j-server-3.0.1.jar.txt	2
+org/neo4j/server/rest/batch/BatchOperations/calculateTargetUri(javax.ws.rs.core.UriInfo,java.lang.String)@g_neo4j-server-3.0.1.jar.txt	1
+org/neo4j/server/plugins/ResultConverter/get(java.lang.reflect.Type,boolean)@g_neo4j-server-3.0.1.jar.txt	3
+org/neo4j/ssl/PkiUtils/createSelfSignedCertificate(java.io.File,java.io.File,java.lang.String)@g_neo4j-ssl-3.3.0.jar.txt	0

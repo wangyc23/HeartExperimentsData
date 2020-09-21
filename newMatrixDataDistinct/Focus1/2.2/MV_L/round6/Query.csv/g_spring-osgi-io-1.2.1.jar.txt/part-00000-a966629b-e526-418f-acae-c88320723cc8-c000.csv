@@ -1,0 +1,4 @@
+org/springframework/osgi/io/OsgiBundleResource/getURI()
+org/springframework/util/ResourceUtils/getFile(java.net.URI,java.lang.String)
+org/osgi/framework/Bundle/getLocation()
+java/io/File/exists()

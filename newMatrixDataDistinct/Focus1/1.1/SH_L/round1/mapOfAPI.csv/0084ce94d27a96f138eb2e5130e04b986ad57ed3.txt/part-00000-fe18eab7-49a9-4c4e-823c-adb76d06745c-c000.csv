@@ -1,0 +1,2 @@
+0	java/lang/Integer/parseInt(java.lang.String)
+1	com/cloudera/oryx/app/pmml/AppPMMLUtils/buildMiningSchema(com.cloudera.oryx.app.schema.InputSchema,double[])

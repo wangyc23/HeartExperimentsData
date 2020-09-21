@@ -1,0 +1,4 @@
+org/xwiki/rendering/wikimodel/xhtml/impl/TagContext/getScannerContext()
+org/xwiki/rendering/wikimodel/WikiParameters/remove(java.lang.String)
+org/xwiki/rendering/wikimodel/impl/WikiScannerContext/beginTableCell(boolean,org.xwiki.rendering.wikimodel.WikiParameters)
+java/lang/String/equals(java.lang.Object)

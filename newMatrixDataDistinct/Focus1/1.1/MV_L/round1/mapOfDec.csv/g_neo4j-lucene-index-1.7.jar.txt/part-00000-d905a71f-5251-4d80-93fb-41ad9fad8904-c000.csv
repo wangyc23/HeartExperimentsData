@@ -1,0 +1,5 @@
+org/neo4j/index/impl/lucene/LuceneUtil/rangeQuery(java.lang.String,java.lang.Number,java.lang.Number,boolean,boolean)@g_neo4j-lucene-index-1.8.jar.txt	0
+org/neo4j/index/impl/lucene/LuceneCommand/writeToFile(org.neo4j.kernel.impl.transaction.xaframework.LogBuffer)@g_neo4j-lucene-index-1.8.jar.txt	1
+org/neo4j/index/impl/lucene/LuceneUtil/rangeQuery(java.lang.String,java.lang.Number,java.lang.Number,boolean,boolean)@g_neo4j-lucene-index-2.0.1.jar.txt	3
+org/neo4j/index/impl/lucene/IndexType/instantiateField(java.lang.String,java.lang.Object,org.apache.lucene.document.Field$Index)@g_neo4j-lucene-index-1.8.jar.txt	2
+org/neo4j/index/impl/lucene/LuceneCommand/writeToFile(org.neo4j.kernel.impl.transaction.xaframework.LogBuffer)@g_neo4j-lucene-index-2.0.1.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/http/impl/cookie/BrowserCompatSpec/parse(org.apache.http.Header,org.apache.http.cookie.CookieOrigin)@g_httpclient-osgi-4.5.3.jar.txt	1
+org/apache/http/impl/cookie/DefaultCookieSpec/parse(org.apache.http.Header,org.apache.http.cookie.CookieOrigin)@g_httpclient-osgi-4.5.3.jar.txt	3
+org/apache/http/impl/cookie/RFC2109Spec/doFormatOneHeader(java.util.List)@g_httpclient-osgi-4.5.3.jar.txt	2
+org/apache/http/impl/auth/BasicScheme/authenticate(org.apache.http.auth.Credentials,org.apache.http.HttpRequest,org.apache.http.protocol.HttpContext)@g_httpclient-osgi-4.5.3.jar.txt	4
+org/apache/http/impl/cookie/RFC2109Spec/doFormatManyHeaders(java.util.List)@g_httpclient-osgi-4.5.3.jar.txt	0

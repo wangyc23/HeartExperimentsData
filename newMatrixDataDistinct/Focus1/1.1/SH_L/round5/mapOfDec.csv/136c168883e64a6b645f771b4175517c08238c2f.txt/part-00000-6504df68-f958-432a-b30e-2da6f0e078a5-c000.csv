@@ -1,0 +1,5 @@
+com/adobe/acs/commons/util/TypeUtil/toMap(org.apache.sling.commons.json.JSONObject,java.lang.Class)@28d69a69e31e29c95f20d8169265faa680168571.txt	3
+com/adobe/acs/commons/exporters/impl/users/UsersExportServlet/doGet(org.apache.sling.api.SlingHttpServletRequest,org.apache.sling.api.SlingHttpServletResponse)@28d69a69e31e29c95f20d8169265faa680168571.txt	4
+org/baeldung/config/UserConfig/userEntityManager()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	0
+org/baeldung/config/ProductConfig/productEntityManager()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	1
+com/adobe/acs/commons/mcp/impl/processes/AssetFolderCreator/parseAssetFolderCell(org.apache.poi.ss.usermodel.Cell,java.lang.String)@28d69a69e31e29c95f20d8169265faa680168571.txt	2

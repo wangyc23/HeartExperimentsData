@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/BindableProcessor/processJavaDoc(javax.lang.model.element.Element,java.util.Map)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/exception/ExceptionUtils/getStackFrameList(java.lang.Throwable)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/velocity/servlet/VelocityServlet/error(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.Exception)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/ExtendedProperties/load(java.io.InputStream,java.lang.String)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/generic/XmlTool/getText()@g_attributes-processor-1.0.1.jar.txt	2

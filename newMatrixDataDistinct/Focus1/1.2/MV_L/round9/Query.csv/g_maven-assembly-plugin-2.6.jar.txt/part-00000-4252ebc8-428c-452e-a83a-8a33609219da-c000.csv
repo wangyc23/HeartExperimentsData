@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+org/apache/maven/plugin/assembly/archive/phase/ModuleSetAssemblyPhase/getLogger()
+java/util/ArrayList/ArrayList()

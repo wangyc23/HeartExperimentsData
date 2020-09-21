@@ -1,0 +1,5 @@
+org/elasticsearch/search/fetch/subphase/InnerHitsFetchSubPhase/hitExecute(org.elasticsearch.search.internal.SearchContext,org.elasticsearch.search.fetch.FetchSubPhase$HitContext)@g_elasticsearch-5.2.2.jar.txt	3
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_elasticsearch-5.2.2.jar.txt	0
+org/elasticsearch/common/lucene/search/function/ScriptScoreFunction/1/explainScore(int,org.apache.lucene.search.Explanation)@g_elasticsearch-5.2.2.jar.txt	1
+org/apache/lucene/index/IndexWriter/updatePendingMerges(org.apache.lucene.index.MergePolicy,org.apache.lucene.index.MergeTrigger,int)@g_elasticsearch-5.2.2.jar.txt	2
+org/elasticsearch/index/mapper/RangeFieldMapper/Range/toString()@g_elasticsearch-5.2.2.jar.txt	4

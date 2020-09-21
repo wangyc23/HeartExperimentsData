@@ -1,0 +1,4 @@
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/updatePerLabelThetaNormalizer(int,double)
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/numFeatures()
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/totalWeightSum()
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/featureWeight(int)

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/writers/wtp/EclipseWtpApplicationXMLWriter/updateApplicationXml(org.codehaus.plexus.util.xml.Xpp3Dom,org.codehaus.plexus.util.xml.Xpp3Dom,org.apache.maven.plugin.ide.IdeDependency)@g_build-helper-maven-plugin-1.8.jar.txt	1
+org/apache/maven/plugin/plugin/PluginReport/PluginOverviewRenderer/renderBody()@g_build-helper-maven-plugin-1.8.jar.txt	4
+org/apache/maven/plugin/eclipse/EclipsePlugin/getProjectNameTemplateForMavenProject(org.apache.maven.project.MavenProject)@g_build-helper-maven-plugin-1.8.jar.txt	0
+org/apache/maven/plugin/plugin/PluginReport/PluginOverviewRenderer/discoverJdkRequirementFromPlugins(java.util.Map)@g_build-helper-maven-plugin-1.8.jar.txt	2
+org/apache/maven/plugin/eclipse/writers/rad/RadEjbClasspathWriter/write()@g_build-helper-maven-plugin-1.8.jar.txt	3

@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/macro/wikibridge/DefaultWikiMacro/prepareWikiMacroContent(org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-rendering-wikimacro-api-7.4.2.jar.txt	1
+org/xwiki/rendering/internal/transformation/macro/MacroErrorManager/containsError(org.xwiki.rendering.block.XDOM)@g_xwiki-rendering-macro-html-7.4.2.jar.txt	4
+org/xwiki/rendering/internal/macro/wikibridge/DefaultWikiMacro/execute(org.xwiki.rendering.macro.wikibridge.WikiMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-rendering-wikimacro-api-7.4.2.jar.txt	2
+org/xwiki/rendering/internal/transformation/macro/MacroErrorManager/generateError(org.xwiki.rendering.block.MacroBlock,java.lang.String,java.lang.String)@g_xwiki-rendering-macro-html-7.4.2.jar.txt	3
+org/xwiki/rendering/internal/macro/html/HTMLMacro/renderWikiSyntax(java.lang.String,org.xwiki.rendering.transformation.Transformation,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-rendering-macro-html-7.4.2.jar.txt	0

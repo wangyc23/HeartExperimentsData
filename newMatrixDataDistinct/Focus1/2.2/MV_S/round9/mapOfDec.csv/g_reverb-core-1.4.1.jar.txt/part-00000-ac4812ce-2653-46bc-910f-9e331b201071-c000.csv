@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/Dependencies/getGovMaxChains(java.util.Map,edu.stanford.nlp.ling.IndexedWord,int)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/ling/tokensregex/PhraseTable/findMatches(java.util.Collection,edu.stanford.nlp.ling.tokensregex.PhraseTable$WordList,int,int,boolean,boolean,boolean)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/FactoredLexicon/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/FactoredLexicon/treebankToLexiconEvents(java.util.List,edu.stanford.nlp.parser.lexparser.FactoredLexicon)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/ling/tokensregex/SequencePattern/OrPatternExpr/optimize()@g_stanford-parser-3.5.2.jar.txt	2

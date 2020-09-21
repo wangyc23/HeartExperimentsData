@@ -1,0 +1,5 @@
+org/apache/avalon/framework/configuration/NamespacedSAXConfigurationHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_avalon-framework-impl-4.3.1.jar.txt	3
+org/apache/avalon/framework/configuration/NamespacedSAXConfigurationHandler/endElement(java.lang.String,java.lang.String,java.lang.String)@g_avalon-framework-impl-4.3.1.jar.txt	0
+org/apache/avalon/framework/configuration/AbstractConfiguration/getValueAsLong()@g_avalon-framework-impl-4.3.1.jar.txt	4
+org/apache/avalon/framework/configuration/AbstractConfiguration/getValueAsDouble()@g_avalon-framework-impl-4.3.1.jar.txt	1
+org/apache/avalon/framework/logger/LogKit2AvalonLoggerAdapter/createLogger(org.apache.avalon.framework.logger.Logger)@g_avalon-framework-impl-4.3.1.jar.txt	2

@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/math/BigDecimal/negate()
+java/math/BigInteger/negate()
+java/lang/Integer/valueOf(int)

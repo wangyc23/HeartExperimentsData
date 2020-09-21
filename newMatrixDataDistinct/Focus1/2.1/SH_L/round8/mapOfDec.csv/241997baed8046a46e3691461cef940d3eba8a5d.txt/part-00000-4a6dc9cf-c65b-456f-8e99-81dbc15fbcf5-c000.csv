@@ -1,0 +1,5 @@
+org/glassfish/jersey/tests/integration/servlet_3_async/AsyncServletResourceTest/testAsyncRequestCanceling()@159460d24ff17298e9564f76f9fd91523834d750.txt	2
+org/glassfish/jersey/examples/sse/DomainResource/Process/run()@159460d24ff17298e9564f76f9fd91523834d750.txt	0
+org/glassfish/jersey/media/multipart/ParameterizedHeadersMapTest/testGetFirst()@159460d24ff17298e9564f76f9fd91523834d750.txt	1
+org/glassfish/jersey/tests/e2e/json/JaxbTest/getJsonProviders()@159460d24ff17298e9564f76f9fd91523834d750.txt	4
+org/glassfish/jersey/server/internal/routing/CombinedClientServerMediaType/toString()@159460d24ff17298e9564f76f9fd91523834d750.txt	3

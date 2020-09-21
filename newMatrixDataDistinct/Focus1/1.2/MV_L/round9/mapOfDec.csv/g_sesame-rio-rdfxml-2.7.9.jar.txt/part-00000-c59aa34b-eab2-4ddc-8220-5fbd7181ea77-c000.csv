@@ -1,0 +1,5 @@
+org/openrdf/rio/rdfxml/RDFXMLWriter/getValidNodeId(org.openrdf.model.BNode)@g_sesame-rio-rdfxml-2.7.16.jar.txt	4
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/writeAbbreviatedPredicate(org.openrdf.model.URI,org.openrdf.model.Value)@g_sesame-rio-rdfxml-2.7.16.jar.txt	1
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/writeNodeStartOfStartTag(org.openrdf.rio.rdfxml.util.RDFXMLPrettyWriter$Node)@g_sesame-rio-rdfxml-2.7.16.jar.txt	0
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/popStacks(org.openrdf.model.Resource)@g_sesame-rio-rdfxml-2.7.16.jar.txt	2
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/handleStatement(org.openrdf.model.Statement)@g_sesame-rio-rdfxml-2.7.16.jar.txt	3

@@ -1,0 +1,5 @@
+org/xwiki/classloader/internal/ResourceLoader/parseJarIndex(java.net.URL,java.util.jar.JarFile)@g_xwiki-commons-classloader-api-7.4.2.jar.txt	4
+org/xwiki/classloader/internal/ResourceLoader/getResource(java.net.URL,java.lang.String,java.util.Set,java.util.Set)@g_xwiki-commons-classloader-api-7.4.2.jar.txt	1
+org/xwiki/classloader/internal/ResourceLoader/JarInfo/getResource(java.lang.String,java.util.Set,java.util.Set)@g_xwiki-commons-classloader-api-7.4.2.jar.txt	0
+edu/emory/mathcs/util/classloader/ResourceLoader/JarInfo/getResource(java.lang.String,java.util.Set,java.util.Set)@g_emory-util-classloader-2.1.jar.txt	2
+edu/emory/mathcs/util/classloader/ResourceLoader/getResource(java.net.URL,java.lang.String,java.util.Set,java.util.Set)@g_emory-util-classloader-2.1.jar.txt	3

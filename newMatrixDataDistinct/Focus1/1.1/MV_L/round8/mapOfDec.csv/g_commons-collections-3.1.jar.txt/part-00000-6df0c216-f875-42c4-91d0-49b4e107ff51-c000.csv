@@ -1,0 +1,5 @@
+org/apache/commons/collections/map/TransformedMap/transformMap(java.util.Map)@g_commons-collections-3.2.1.jar.txt	4
+org/apache/commons/collections/MapUtils/putAll(java.util.Map,java.lang.Object[])@g_commons-collections-3.2.jar.txt	0
+org/apache/commons/collections/MapUtils/putAll(java.util.Map,java.lang.Object[])@g_commons-collections-3.2.1.jar.txt	3
+org/apache/commons/collections/map/TransformedMap/transformMap(java.util.Map)@g_commons-collections-3.2.jar.txt	1
+org/apache/commons/collections/MapUtils/invertMap(java.util.Map)@g_commons-collections-3.2.jar.txt	2

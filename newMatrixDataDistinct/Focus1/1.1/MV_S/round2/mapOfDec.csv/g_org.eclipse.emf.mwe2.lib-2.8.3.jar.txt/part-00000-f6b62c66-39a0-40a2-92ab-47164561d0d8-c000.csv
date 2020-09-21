@@ -1,0 +1,5 @@
+org/eclipse/acceleo/common/utils/ModelUtils/load(java.io.InputStream,java.lang.String,org.eclipse.emf.ecore.resource.ResourceSet)@g_test.api-1.0.1.jar.txt	1
+org/eclipse/acceleo/common/internal/utils/workspace/AcceleoWorkspaceUtil/WorkspaceResourcesListener/processBuildEvent(org.eclipse.core.resources.IResourceChangeEvent)@g_test.api-1.0.1.jar.txt	4
+org/eclipse/acceleo/common/internal/utils/AcceleoDynamicMetamodelResourceSetImpl/AcceleoDynamicURIHandler/resolve(org.eclipse.emf.common.util.URI)@g_test.api-1.0.1.jar.txt	2
+org/eclipse/acceleo/common/internal/utils/AcceleoPackageRegistry/remove(java.lang.Object)@g_test.api-1.0.1.jar.txt	3
+org/eclipse/acceleo/common/internal/utils/workspace/AcceleoWorkspaceUtil/getServiceInstance(java.lang.Class)@g_test.api-1.0.1.jar.txt	0

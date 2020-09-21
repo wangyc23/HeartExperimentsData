@@ -1,0 +1,5 @@
+com/thoughtworks/qdox/model/impl/DefaultJavaPackage/getSubPackages()@g_qdox-2.0-M3.jar.txt	3
+com/thoughtworks/qdox/model/impl/DefaultJavaParameterizedType/getGenericCanonicalName()@g_qdox-2.0-M3.jar.txt	2
+com/thoughtworks/qdox/model/impl/DefaultJavaParameterizedType/getGenericFullyQualifiedName()@g_qdox-2.0-M3.jar.txt	1
+com/thoughtworks/qdox/model/impl/DefaultJavaParameterizedType/getGenericValue()@g_qdox-2.0-M3.jar.txt	0
+com/thoughtworks/qdox/library/SourceFolderLibrary/resolveJavaClass(java.lang.String)@g_qdox-2.0-M3.jar.txt	4

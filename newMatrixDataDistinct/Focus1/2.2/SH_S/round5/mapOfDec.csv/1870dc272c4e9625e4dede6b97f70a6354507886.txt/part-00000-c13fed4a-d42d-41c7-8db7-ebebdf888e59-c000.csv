@@ -1,0 +1,5 @@
+com/wordnik/swagger/sample/data/StoreData/placeOrder(com.wordnik.swagger.sample.model.Order)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	4
+com/wordnik/swagger/sample/data/PetData/addPet(com.wordnik.swagger.sample.model.Pet)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	3
+api/StoreData/placeOrder(models.Order)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	1
+api/PetData/addPet(models.Pet)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	2
+api/UserData/addUser(models.User)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	0

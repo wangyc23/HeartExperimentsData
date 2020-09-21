@@ -1,0 +1,4 @@
+jsr166e/ConcurrentHashMapV8$SearchEntriesTask/propagateCompletion()
+jsr166e/ConcurrentHashMapV8$SearchEntriesTask/addToPendingCount(int)
+java/util/concurrent/atomic/AtomicReference/compareAndSet(java.lang.Object,java.lang.Object)
+jsr166e/ConcurrentHashMapV8$Fun/apply(java.lang.Object)

@@ -1,0 +1,5 @@
+org/apache/thrift/transport/TSaslServerTransport/handleSaslStartMessage()@g_libthrift-0.9.2.jar.txt	0
+org/apache/thrift/TBaseHelper/compareTo(java.util.Map,java.util.Map)@g_libthrift-0.9.2.jar.txt	2
+org/apache/thrift/transport/TSaslTransport/open()@g_libthrift-0.9.2.jar.txt	1
+org/apache/thrift/server/TThreadedSelectorServer/AcceptThread/select()@g_libthrift-0.9.2.jar.txt	4
+shaded/parquet/org/apache/thrift/server/TNonblockingServer/FrameBuffer/read()@g_libthrift-0.9.2.jar.txt	3

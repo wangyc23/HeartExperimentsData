@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/resource/Resource/exists()
+java/lang/Throwable/printStackTrace()
+org/eclipse/jetty/webapp/WebAppContext/setServer(org.eclipse.jetty.server.Server)
+org/eclipse/jetty/server/AbstractConnector/setPort(int)

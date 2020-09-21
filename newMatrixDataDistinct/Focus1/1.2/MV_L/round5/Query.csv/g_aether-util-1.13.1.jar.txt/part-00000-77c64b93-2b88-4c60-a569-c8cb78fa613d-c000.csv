@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+java/util/Iterator/hasNext()
+org/sonatype/aether/graph/DependencyNode/getDependency()
+java/util/Iterator/next()

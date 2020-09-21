@@ -1,0 +1,4 @@
+com/google/protobuf/GeneratedMessage/Builder/onChanged()
+com/google/protobuf/RepeatedFieldBuilder/setMessage(int,MType)
+java/util/List/set(int,E)
+com/opentransport/rdfmapper/nmbs/containers/GtfsRealtime/Alert/Builder/ensureActivePeriodIsMutable()

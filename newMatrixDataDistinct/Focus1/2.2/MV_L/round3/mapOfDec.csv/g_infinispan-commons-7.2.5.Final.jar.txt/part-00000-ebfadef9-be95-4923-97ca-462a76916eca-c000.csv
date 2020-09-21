@@ -1,0 +1,5 @@
+org/infinispan/commons/util/Immutables/immutableMapCopy(java.util.Map)@g_infinispan-commons-7.0.3.Final.jar.txt	1
+org/infinispan/commons/util/FastCopyHashMap/toString()@g_infinispan-commons-7.0.3.Final.jar.txt	4
+org/infinispan/commons/util/InfinispanCollections/transformMapValue(java.util.Map,org.infinispan.commons.util.InfinispanCollections$Function)@g_infinispan-commons-7.0.3.Final.jar.txt	0
+org/infinispan/commons/util/concurrent/jdk8backported/EquivalentConcurrentHashMapV8/equals(java.lang.Object)@g_infinispan-commons-7.0.3.Final.jar.txt	2
+org/infinispan/commons/util/ObjectDuplicator/duplicateMap(java.util.Map)@g_infinispan-commons-7.0.3.Final.jar.txt	3

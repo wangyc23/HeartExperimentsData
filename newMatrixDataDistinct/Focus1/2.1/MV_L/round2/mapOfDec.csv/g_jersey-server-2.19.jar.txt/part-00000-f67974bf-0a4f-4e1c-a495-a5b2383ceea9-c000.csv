@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/internal/monitoring/ExecutionStatisticsImpl/Builder/build()@g_jersey-server-2.17.jar.txt	4
+org/glassfish/jersey/server/internal/monitoring/jmx/MBeanExposer/unregisterJerseyMBeans(boolean)@g_jersey-server-2.17.jar.txt	1
+org/glassfish/jersey/server/ResourceConfig/scanClasses()@g_jersey-server-2.17.jar.txt	0
+org/glassfish/jersey/server/wadl/internal/WadlApplicationContextImpl/getApplication(javax.ws.rs.core.UriInfo,org.glassfish.jersey.server.model.Resource,boolean)@g_jersey-server-2.17.jar.txt	3
+org/glassfish/jersey/server/internal/inject/WebTargetValueFactoryProvider/2/1/get()@g_jersey-server-2.17.jar.txt	2

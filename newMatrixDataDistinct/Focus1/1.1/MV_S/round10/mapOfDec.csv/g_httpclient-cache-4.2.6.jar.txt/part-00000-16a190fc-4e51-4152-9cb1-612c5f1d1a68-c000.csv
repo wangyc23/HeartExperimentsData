@@ -1,0 +1,5 @@
+org/apache/http/impl/client/cache/BasicHttpCache/generateIncompleteResponseError(org.apache.http.HttpResponse,org.apache.http.client.cache.Resource)@g_httpclient-osgi-4.5.3.jar.txt	4
+org/apache/http/impl/cookie/RFC2109Spec/doFormatOneHeader(java.util.List)@g_httpclient-osgi-4.5.3.jar.txt	1
+org/apache/http/impl/client/cache/RequestProtocolCompliance/decrementOPTIONSMaxForwardsIfGreaterThen0(org.apache.http.HttpRequest)@g_httpclient-osgi-4.5.3.jar.txt	3
+org/apache/http/impl/cookie/RFC2109Spec/doFormatManyHeaders(java.util.List)@g_httpclient-osgi-4.5.3.jar.txt	0
+org/apache/http/impl/client/DefaultRequestDirector/createConnectRequest(org.apache.http.conn.routing.HttpRoute,org.apache.http.protocol.HttpContext)@g_httpclient-osgi-4.5.3.jar.txt	2

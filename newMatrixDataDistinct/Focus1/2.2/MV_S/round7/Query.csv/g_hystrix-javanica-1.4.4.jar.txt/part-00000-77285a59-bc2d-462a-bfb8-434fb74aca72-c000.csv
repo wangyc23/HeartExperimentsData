@@ -1,0 +1,4 @@
+com/netflix/hystrix/contrib/javanica/command/BatchHystrixCommand$2/2(com.netflix.hystrix.contrib.javanica.command.BatchHystrixCommand,com.netflix.hystrix.contrib.javanica.command.CommandAction,java.lang.Object[])
+com/netflix/hystrix/contrib/javanica/command/BatchHystrixCommand/getCollapsedRequests()
+org/slf4j/Logger/error(java.lang.String)
+com/netflix/hystrix/contrib/javanica/command/BatchHystrixCommand/process(com.netflix.hystrix.contrib.javanica.command.AbstractHystrixCommand$Action)

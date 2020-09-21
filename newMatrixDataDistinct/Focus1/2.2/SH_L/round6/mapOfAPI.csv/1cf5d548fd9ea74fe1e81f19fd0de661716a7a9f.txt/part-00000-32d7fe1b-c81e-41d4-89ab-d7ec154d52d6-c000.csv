@@ -1,0 +1,4 @@
+0	ro/isdc/wro/config/jmx/WroConfiguration/isDebug()
+1	ro/isdc/wro/config/factory/FilterConfigWroConfigurationFactory/create()
+2	ro/isdc/wro/config/factory/TestPropertiesAndFilterConfigWroConfigurationFactory/testConfigureDebugWithPropertiesFileSet()/$anonymous1/(javax.servlet.FilterConfig)
+3	javax/servlet/FilterConfig/getInitParameter(java.lang.String)

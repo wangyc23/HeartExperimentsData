@@ -1,0 +1,5 @@
+org/springframework/orm/hibernate4/HibernateTransactionManager/doGetTransaction()@g_spring-orm-4.0.6.RELEASE.jar.txt	2
+org/springframework/orm/hibernate3/FilterDefinitionFactoryBean/setParameterTypes(java.util.Map)@g_spring-orm-4.0.6.RELEASE.jar.txt	4
+org/springframework/orm/jpa/support/PersistenceAnnotationBeanPostProcessor/findPersistenceMetadata(java.lang.String,java.lang.Class)@g_spring-orm-4.0.6.RELEASE.jar.txt	3
+org/springframework/orm/hibernate4/support/OpenSessionInViewFilter/doFilterInternal(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.servlet.FilterChain)@g_spring-orm-4.0.5.RELEASE.jar.txt	1
+org/springframework/orm/hibernate4/support/OpenSessionInViewFilter/doFilterInternal(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.servlet.FilterChain)@g_spring-orm-4.0.6.RELEASE.jar.txt	0

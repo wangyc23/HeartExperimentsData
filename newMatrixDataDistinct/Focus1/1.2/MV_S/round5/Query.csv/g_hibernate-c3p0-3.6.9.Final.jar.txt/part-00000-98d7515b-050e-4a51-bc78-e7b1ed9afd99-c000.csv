@@ -1,0 +1,4 @@
+java/util/Properties/getProperty(java.lang.String)
+java/util/Iterator/hasNext()
+java/util/Properties/containsKey(java.lang.Object)
+java/util/Iterator/next()

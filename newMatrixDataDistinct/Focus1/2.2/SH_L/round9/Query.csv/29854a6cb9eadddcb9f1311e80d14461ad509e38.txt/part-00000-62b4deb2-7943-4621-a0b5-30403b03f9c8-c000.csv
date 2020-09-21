@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/springframework/boot/jdbc/DatabaseDriver/getXaDataSourceClassName()
+org/springframework/boot/jdbc/DatabaseDriver/values()
+org/springframework/boot/jdbc/DatabaseDriver/getDriverClassName()

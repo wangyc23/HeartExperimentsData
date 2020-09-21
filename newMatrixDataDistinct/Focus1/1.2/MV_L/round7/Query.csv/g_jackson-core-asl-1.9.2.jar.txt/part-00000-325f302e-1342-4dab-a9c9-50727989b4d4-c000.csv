@@ -1,0 +1,4 @@
+java/lang/Character/isISOControl(char)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Character/isDefined(char)
+java/lang/Integer/toHexString(int)

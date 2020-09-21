@@ -1,0 +1,5 @@
+com/adobe/acs/commons/quickly/operations/impl/GoOperationImpl/withParams(com.adobe.acs.commons.wcm.impl.SlingHttpServletRequest,com.adobe.acs.commons.forms.helpers.impl.SlingHttpServletResponse,com.adobe.acs.commons.quickly.Command)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	0
+com/adobe/acs/commons/replication/impl/ReplicateVersionImpl/replicate(com.adobe.acs.commons.oak.impl.ResourceResolver,java.lang.String[],java.lang.String[],java.util.Date)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	2
+com/adobe/acs/commons/quickly/results/impl/lists/ACSToolsResults/getResults()@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	1
+com/adobe/acs/commons/packaging/impl/PackageHelperImpl/createPackageForPaths(java.util.Collection,com.adobe.acs.commons.oak.impl.Session,java.lang.String,java.lang.String,java.lang.String,com.adobe.acs.commons.packaging.PackageHelper.ConflictResolution,java.util.Map)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	4
+com/adobe/acs/commons/packaging/impl/ACLPackagerServletImpl/getPrincipalResources(com.adobe.acs.commons.oak.impl.ResourceResolver,java.lang.String[],boolean)@068e243e3786d02e5aeaa9722762d8daec79abaf.txt	3

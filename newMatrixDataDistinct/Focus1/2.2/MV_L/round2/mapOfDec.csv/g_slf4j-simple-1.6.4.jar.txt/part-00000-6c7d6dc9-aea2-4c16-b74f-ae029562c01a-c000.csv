@@ -1,0 +1,5 @@
+org/apache/log4j/xml/XMLLayout/format(org.apache.log4j.spi.LoggingEvent)@g_log4j-1.2.16.jar.txt	2
+org/apache/log4j/lf5/viewer/FilteredLogTableModel/getColumn(int,org.apache.log4j.lf5.LogRecord)@g_log4j-1.2.16.jar.txt	0
+org/apache/log4j/chainsaw/MyTableModel/updateFilteredEvents(boolean)@g_log4j-1.2.16.jar.txt	3
+org/apache/log4j/HTMLLayout/format(org.apache.log4j.spi.LoggingEvent)@g_log4j-1.2.16.jar.txt	1
+org/apache/log4j/or/ThreadGroupRenderer/doRender(java.lang.Object)@g_log4j-1.2.16.jar.txt	4

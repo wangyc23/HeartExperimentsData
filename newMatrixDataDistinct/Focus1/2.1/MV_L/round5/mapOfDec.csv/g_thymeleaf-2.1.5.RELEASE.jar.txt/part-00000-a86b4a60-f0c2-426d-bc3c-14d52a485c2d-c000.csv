@@ -1,0 +1,5 @@
+org/thymeleaf/util/DartUtils/printArray(java.lang.StringBuilder,java.lang.Object)@g_thymeleaf-2.1.4.RELEASE.jar.txt	4
+org/apache/shiro/subject/SimplePrincipalMap/byType(java.lang.Class)@g_thymeleaf-2.1.4.RELEASE.jar.txt	3
+org/thymeleaf/standard/expression/LessThanExpression/executeLessThan(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,org.thymeleaf.standard.expression.LessThanExpression,org.thymeleaf.standard.expression.StandardExpressionExecutionContext)@g_thymeleaf-2.1.4.RELEASE.jar.txt	2
+org/thymeleaf/context/WrappingVariablesMap/entrySet()@g_thymeleaf-2.1.4.RELEASE.jar.txt	0
+org/thymeleaf/standard/expression/StandardExpressionPreprocessor/preprocess(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,java.lang.String)@g_thymeleaf-2.1.4.RELEASE.jar.txt	1

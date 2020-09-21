@@ -1,0 +1,5 @@
+org/apache/hadoop/ipc/Server/setupResponse(java.io.ByteArrayOutputStream,org.apache.hadoop.ipc.Server$Call,org.apache.hadoop.ipc.protobuf.RpcHeaderProtos$RpcResponseHeaderProto$RpcStatusProto,org.apache.hadoop.ipc.protobuf.RpcHeaderProtos$RpcResponseHeaderProto$RpcErrorCodeProto,org.apache.hadoop.io.Writable,java.lang.String,java.lang.String)@g_hadoop-common-2.6.5.jar.txt	4
+org/apache/hadoop/log/LogLevel/Servlet/process(java.util.logging.Logger,java.lang.String,java.io.PrintWriter)@g_hadoop-common-2.6.5.jar.txt	1
+org/apache/hadoop/security/UserGroupInformation/getUGIFromTicketCache(java.lang.String,java.lang.String)@g_hadoop-common-2.6.5.jar.txt	3
+org/apache/hadoop/ipc/Client/Connection/setupConnection()@g_hadoop-common-2.6.5.jar.txt	0
+org/apache/hadoop/ipc/Server/Connection/buildSaslResponse(org.apache.hadoop.ipc.protobuf.RpcHeaderProtos$RpcSaslProto$SaslState,byte[])@g_hadoop-common-2.6.5.jar.txt	2

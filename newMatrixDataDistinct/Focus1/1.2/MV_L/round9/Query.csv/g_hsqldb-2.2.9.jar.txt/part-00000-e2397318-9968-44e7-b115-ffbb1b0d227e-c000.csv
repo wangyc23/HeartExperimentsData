@@ -1,0 +1,4 @@
+java/lang/String/valueOf(char[])
+java/lang/String/String(char[],int,int)
+java/lang/Integer/intValue()
+java/lang/Math/atan2(double,double)

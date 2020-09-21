@@ -1,0 +1,5 @@
+org/apache/commons/math3/stat/Frequency/getMode()@g_commons-math-2.2.jar.txt	3
+com/ibm/icu/text/DecimalFormat/formatToCharacterIterator(java.lang.Object,com.ibm.icu.text.DecimalFormat$Unit)@g_commons-math-2.2.jar.txt	1
+org/apache/commons/math3/ode/ContinuousOutputFieldModel/append(org.apache.commons.math3.ode.ContinuousOutputFieldModel)@g_commons-math-2.2.jar.txt	0
+org/apache/commons/math3/random/RandomDataGenerator/nextSecureHexString(int)@g_commons-math-2.2.jar.txt	4
+org/apache/commons/math3/ode/nonstiff/AdamsFieldStepInterpolator/taylor(org.apache.commons.math3.ode.FieldODEStateAndDerivative,org.apache.commons.math3.RealFieldElement,org.apache.commons.math3.RealFieldElement,org.apache.commons.math3.RealFieldElement[],org.apache.commons.math3.linear.Array2DRowFieldMatrix)@g_commons-math-2.2.jar.txt	2

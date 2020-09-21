@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/codehaus/plexus/archiver/ArchiverException/ArchiverException(java.lang.String)
+java/lang/Class/getName()
+java/lang/StringBuilder/StringBuilder()

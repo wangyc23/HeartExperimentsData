@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+antlr/ANTLRTokdefParser/LT(int)
+antlr/ANTLRTokdefParser/match(int)
+antlr/ANTLRTokdefParser/consume()

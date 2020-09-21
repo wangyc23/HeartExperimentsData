@@ -1,0 +1,4 @@
+org/archive/util/Histotable/get(java.lang.Object)
+org/archive/crawler/framework/Engine/getJob(java.lang.String)
+java/util/Set/size()
+org/archive/crawler/framework/CrawlController/getStatisticsTracker()

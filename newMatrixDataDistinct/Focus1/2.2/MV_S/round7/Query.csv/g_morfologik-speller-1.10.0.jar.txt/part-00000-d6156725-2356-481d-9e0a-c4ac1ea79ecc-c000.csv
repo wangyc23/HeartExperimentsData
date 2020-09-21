@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/StringBuilder/indexOf(java.lang.String,int)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)

@@ -1,0 +1,5 @@
+ch/qos/logback/core/joran/action/StatusListenerAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_logback-core-1.0.13.jar.txt	0
+ch/qos/logback/core/joran/action/AppenderRefAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_logback-core-1.0.13.jar.txt	4
+ch/qos/logback/core/joran/action/TimestampAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_logback-core-1.0.13.jar.txt	3
+ch/qos/logback/core/joran/action/NestedComplexPropertyIA/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_logback-core-1.0.13.jar.txt	1
+ch/qos/logback/core/joran/conditional/IfAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_logback-core-1.0.13.jar.txt	2

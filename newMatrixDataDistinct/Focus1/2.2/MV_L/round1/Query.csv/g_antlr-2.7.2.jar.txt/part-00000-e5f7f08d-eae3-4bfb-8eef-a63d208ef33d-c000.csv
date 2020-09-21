@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+java/io/PrintStream/println(java.lang.String)
+java/lang/StringBuffer/append(java.lang.Object)

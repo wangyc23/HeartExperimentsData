@@ -1,0 +1,5 @@
+japa/parser/ast/visitor/ModifierVisitorAdapter/visit(japa.parser.ast.body.ClassOrInterfaceDeclaration,java.lang.Object)@g_xwiki-rendering-wikimodel-7.4.jar.txt	0
+org/xwiki/rendering/wikimodel/internal/mediawiki/javacc/TokenMgrError/addEscapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	2
+japa/parser/ParseException/getMessage()@g_xwiki-rendering-wikimodel-7.4.jar.txt	1
+org/xwiki/rendering/wikimodel/internal/gwiki/javacc/ParseException/add_escapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	3
+org/xwiki/rendering/wikimodel/WikiFormat/getTags(boolean)@g_xwiki-rendering-wikimodel-7.4.jar.txt	4

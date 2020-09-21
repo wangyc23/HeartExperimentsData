@@ -1,0 +1,4 @@
+java/net/URI/toString()
+org/xwiki/rest/model/jaxb/ObjectFactory/createSearchResults()
+java/util/List/addAll(java.util.Collection)
+org/xwiki/rest/model/jaxb/SearchResults/setTemplate(java.lang.String)

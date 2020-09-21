@@ -1,0 +1,5 @@
+org/sonatype/plexus/components/sec/dispatcher/model/io/xpp3/SecurityConfigurationXpp3Reader/parseSettingsSecurity(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-sec-dispatcher-1.4.jar.txt	1
+org/apache/maven/plugin/assembly/model/io/xpp3/ComponentXpp3Reader/parseUnpackOptions(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-sec-dispatcher-1.3.jar.txt	3
+org/sonatype/plexus/components/sec/dispatcher/model/io/xpp3/SecurityConfigurationXpp3Reader/parseSettingsSecurity(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-sec-dispatcher-1.3.jar.txt	0
+org/apache/maven/plugin/assembly/archive/phase/FileItemAssemblyPhase/execute(org.apache.maven.plugin.assembly.model.Assembly,org.codehaus.plexus.archiver.Archiver,org.apache.maven.plugin.assembly.AssemblerConfigurationSource,org.apache.maven.plugin.assembly.AssemblyContext)@g_plexus-sec-dispatcher-1.3.jar.txt	4
+org/apache/maven/plugin/assembly/model/io/xpp3/AssemblyXpp3Reader/parseDependencySet(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-sec-dispatcher-1.3.jar.txt	2

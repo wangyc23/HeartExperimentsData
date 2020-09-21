@@ -1,0 +1,4 @@
+java/lang/Class/getSuperclass()
+ognl/OgnlRuntime$ClassCache/put(java.lang.Class,java.lang.Object)
+java/lang/Class/getDeclaredMethods()
+java/lang/reflect/Method/getModifiers()

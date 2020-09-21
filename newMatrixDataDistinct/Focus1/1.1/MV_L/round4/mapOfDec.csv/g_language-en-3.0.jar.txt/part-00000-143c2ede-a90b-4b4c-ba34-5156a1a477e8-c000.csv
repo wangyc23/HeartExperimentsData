@@ -1,0 +1,5 @@
+org/languagetool/rules/km/KhmerWordRepeatRule/match(org.languagetool.AnalyzedSentence)@g_language-km-3.0.jar.txt	2
+org/languagetool/rules/en/AvsAnRule/getCorrectDeterminerFor(org.languagetool.AnalyzedTokenReadings)@g_language-km-3.0.jar.txt	0
+org/languagetool/chunking/GermanChunker/build(java.lang.String,org.languagetool.chunking.GermanChunker$PhraseType,boolean)@g_language-km-3.0.jar.txt	4
+org/languagetool/rules/de/LineExpander/expandLine(java.lang.String)@g_language-km-3.0.jar.txt	1
+org/languagetool/rules/de/AgreementRule/match(org.languagetool.AnalyzedSentence)@g_language-km-3.0.jar.txt	3

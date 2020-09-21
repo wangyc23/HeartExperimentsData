@@ -1,0 +1,4 @@
+es/uvigo/ei/sing/pandrugs/controller/RegistrationController/register(java.lang.String,java.lang.String,java.lang.String)
+org/easymock/IExpectationSetters/andThrow(java.lang.Throwable)
+es/uvigo/ei/sing/pandrugs/persistence/entity/Registration/getLogin()
+es/uvigo/ei/sing/pandrugs/persistence/entity/Registration/getPassword()

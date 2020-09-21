@@ -1,0 +1,5 @@
+org/eclipse/core/runtime/internal/adaptor/PluginConverterImpl/writeManifest(java.io.File,java.util.Dictionary,boolean)@g_jdom-1.0.jar.txt	3
+org/apache/log4j/FileAppender/setFile(java.lang.String,boolean,boolean,int)@g_log4j-1.2.12.jar.txt	0
+org/eclipse/osgi/framework/internal/core/ManifestLocalization/getHeaders(java.lang.String)@g_jdom-1.0.jar.txt	2
+org/eclipse/core/runtime/internal/adaptor/EclipseCommandProvider/getHelp(java.lang.String)@g_jdom-1.0.jar.txt	4
+org/eclipse/osgi/baseadaptor/BaseAdaptor/listEntryPaths(java.util.List,java.lang.String,java.lang.String,int)@g_jdom-1.0.jar.txt	1

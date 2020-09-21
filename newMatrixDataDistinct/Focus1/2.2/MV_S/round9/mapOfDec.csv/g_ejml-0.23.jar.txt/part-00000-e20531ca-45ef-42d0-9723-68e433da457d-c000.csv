@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/CollocationFinder/getMangledTree(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/lexparser/LexicalizedParser/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/BaseLexicon/printLexStats()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/shiftreduce/ShiftReduceParserQuery/restoreOriginalWords(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/lexparser/LexicalizedParserQuery/restoreOriginalWords(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	2

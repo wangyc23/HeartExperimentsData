@@ -1,0 +1,5 @@
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/trees/GrammaticalStructure/buildCoNLLXGrammaticalStructure(java.util.List,java.util.Map,edu.stanford.nlp.trees.GrammaticalStructureFromDependenciesFactory)@g_stanford-parser-3.5.2.jar.txt	3
+org/apache/commons/io/output/ByteArrayOutputStream/toBufferedInputStream()@g_commons-io-2.1.jar.txt	0
+edu/stanford/nlp/ling/tokensregex/types/ValueFunctions/39/apply(edu.stanford.nlp.ling.tokensregex.Env,java.util.List)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/tagger/maxent/TaggerExperiments/getFeaturesNew()@g_stanford-parser-3.5.2.jar.txt	2

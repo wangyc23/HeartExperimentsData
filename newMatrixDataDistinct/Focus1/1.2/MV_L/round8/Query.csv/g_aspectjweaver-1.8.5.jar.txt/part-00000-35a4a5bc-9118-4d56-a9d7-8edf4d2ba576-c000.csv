@@ -1,0 +1,4 @@
+java/net/URLClassLoader/getURLs()
+java/lang/Class/getSimpleName()
+java/util/Iterator/hasNext()
+java/net/URL/toString()

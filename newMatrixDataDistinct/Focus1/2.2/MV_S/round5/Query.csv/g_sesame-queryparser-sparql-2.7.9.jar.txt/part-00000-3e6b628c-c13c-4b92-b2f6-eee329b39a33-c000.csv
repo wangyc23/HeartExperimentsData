@@ -1,0 +1,4 @@
+org/openrdf/query/parser/sparql/ast/ASTProjectionElem/jjtSetParent(org.openrdf.query.parser.sparql.ast.Node)
+java/util/Iterator/hasNext()
+org/openrdf/query/MalformedQueryException/MalformedQueryException(java.lang.Throwable)
+org/openrdf/query/parser/sparql/ast/ASTVar/jjtSetParent(org.openrdf.query.parser.sparql.ast.Node)

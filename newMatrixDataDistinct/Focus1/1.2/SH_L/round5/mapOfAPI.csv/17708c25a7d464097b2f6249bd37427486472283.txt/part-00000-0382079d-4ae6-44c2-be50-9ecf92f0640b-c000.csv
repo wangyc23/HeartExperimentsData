@@ -1,0 +1,8 @@
+0	io/apiman/gateway/engine/beans/ApiRequest/getRemoteAddr()
+1	java/lang/StringBuilder/StringBuilder(java.lang.String)
+2	io/apiman/gateway/engine/beans/ApiRequest/getApiId()
+3	java/lang/StringBuilder/toString()
+4	java/lang/StringBuilder/append(java.lang.String)
+5	java/lang/StringBuilder/append(java.lang.Object)
+6	io/apiman/gateway/engine/beans/ApiRequest/getType()
+7	io/apiman/gateway/engine/beans/ApiRequest/getRawRequest()

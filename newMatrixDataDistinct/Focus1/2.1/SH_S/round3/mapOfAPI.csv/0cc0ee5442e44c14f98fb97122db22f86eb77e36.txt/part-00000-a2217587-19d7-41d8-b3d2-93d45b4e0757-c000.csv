@@ -1,0 +1,5 @@
+0	java/lang/Object/Object()
+1	java/util/Arrays/asList(T[])
+2	java/io/PrintStream/println(char[])
+3	java/io/PrintStream/println(java.lang.Object)
+4	com/kyip/api/buildstartportal/external/MainApplication/getSettings(java.lang.String)

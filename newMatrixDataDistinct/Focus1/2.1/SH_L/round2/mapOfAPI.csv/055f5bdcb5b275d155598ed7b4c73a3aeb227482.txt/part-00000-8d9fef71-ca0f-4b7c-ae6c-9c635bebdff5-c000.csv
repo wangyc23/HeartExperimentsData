@@ -1,0 +1,3 @@
+0	com/yahoo/ycsb/db/MemcachedClient/memcachedClient()
+1	java/io/File/getName()
+2	java/lang/String/charAt(int)

@@ -1,0 +1,5 @@
+org/openrdf/query/algebra/evaluation/impl/OrderLimitOptimizer/OrderOptimizer/meet(org.openrdf.query.algebra.Var)@g_sesame-queryparser-serql-2.7.9.jar.txt	3
+org/openrdf/query/algebra/evaluation/impl/SameTermFilterOptimizer/SameTermFilterVisitor/meet(org.openrdf.query.algebra.Filter)@g_sesame-queryparser-serql-2.7.9.jar.txt	2
+org/openrdf/query/algebra/evaluation/impl/QueryModelNormalizer/isWellDesigned(org.openrdf.query.algebra.LeftJoin)@g_sesame-queryparser-serql-2.7.9.jar.txt	0
+org/openrdf/query/parser/serql/ast/TokenMgrError/addEscapes(java.lang.String)@g_sesame-queryparser-serql-2.7.9.jar.txt	4
+org/openrdf/query/algebra/evaluation/function/string/Concat/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryparser-serql-2.7.9.jar.txt	1

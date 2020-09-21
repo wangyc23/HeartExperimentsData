@@ -1,0 +1,5 @@
+org/xwiki/component/wiki/internal/bridge/DefaultWikiComponentBridge/getDependencies(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-component-wiki-7.4.jar.txt	2
+org/xwiki/component/wiki/internal/bridge/DefaultWikiComponentBridge/getHandledMethods(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-component-wiki-7.4.jar.txt	1
+org/xwiki/component/wiki/internal/DefaultWikiComponentBuilder/getDocumentReferences()@g_xwiki-platform-component-wiki-7.4.jar.txt	4
+org/xwiki/component/wiki/internal/DefaultWikiComponentBuilderEventListener/initializeXClassDocumentMetadata(com.xpn.xwiki.doc.XWikiDocument,java.lang.String)@g_xwiki-platform-component-wiki-7.4.jar.txt	3
+org/xwiki/component/wiki/internal/bridge/DefaultWikiComponentBridge/getDeclaredInterfaces(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-component-wiki-7.4.jar.txt	0

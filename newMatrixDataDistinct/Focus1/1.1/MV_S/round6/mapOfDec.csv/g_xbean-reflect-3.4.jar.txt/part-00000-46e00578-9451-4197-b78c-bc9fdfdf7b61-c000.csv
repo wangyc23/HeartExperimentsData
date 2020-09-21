@@ -1,0 +1,5 @@
+org/apache/xbean/recipe/ObjectRecipe/setStaticProperties()@g_neo4j-collections-3.1.0.jar.txt	1
+org/apache/xbean/recipe/ObjectRecipe/setProperty(java.lang.Object,java.lang.Class,org.apache.xbean.recipe.ObjectRecipe$Property,java.lang.Object)@g_neo4j-collections-3.1.0.jar.txt	4
+org/apache/xbean/recipe/AsmParameterNameLoader/createClassReader(java.lang.Class)@g_neo4j-collections-3.1.0.jar.txt	3
+org/apache/xbean/recipe/ObjectGraph/findCircuit(org.apache.xbean.recipe.ObjectGraph$Node,java.util.ArrayList)@g_neo4j-collections-3.1.0.jar.txt	2
+org/neo4j/helpers/collection/LruCache/resize(int)@g_neo4j-collections-3.1.0.jar.txt	0

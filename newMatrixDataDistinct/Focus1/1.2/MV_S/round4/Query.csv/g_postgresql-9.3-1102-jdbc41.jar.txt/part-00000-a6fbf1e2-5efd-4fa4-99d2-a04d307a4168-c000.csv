@@ -1,0 +1,4 @@
+org/postgresql/core/BaseConnection/createStatement(int,int)
+java/util/List/add(java.lang.Object)
+java/lang/Object/getClass()
+java/lang/Long/Long(long)

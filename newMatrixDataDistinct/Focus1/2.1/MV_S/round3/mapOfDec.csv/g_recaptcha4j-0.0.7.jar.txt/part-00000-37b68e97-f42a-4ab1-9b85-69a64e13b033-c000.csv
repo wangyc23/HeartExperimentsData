@@ -1,0 +1,5 @@
+com/sun/activation/registries/MailcapFile/parse(java.io.Reader)@g_snappy-java-1.0.4.1.jar.txt	2
+com/sun/activation/registries/LineTokenizer/nextToken()@g_snappy-java-1.0.4.1.jar.txt	4
+com/sun/activation/viewers/TextEditor/performSaveOperation()@g_activation-1.1.1.jar.txt	0
+com/sun/activation/registries/MailcapFile/mergeResults(java.util.Map,java.util.Map)@g_snappy-java-1.0.4.1.jar.txt	3
+org/xerial/snappy/SnappyLoader/injectSnappyNativeLoader()@g_snappy-java-1.0.4.1.jar.txt	1

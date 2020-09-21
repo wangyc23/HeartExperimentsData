@@ -1,0 +1,4 @@
+java/util/stream/Stream/map(java.util.function.Function)
+org/neo4j/graphdb/config/SettingGroup/settings(java.util.Map)
+org/neo4j/graphdb/config/SettingGroup/values(java.util.Map)
+java/util/stream/Collectors/toMap(java.util.function.Function,java.util.function.Function)

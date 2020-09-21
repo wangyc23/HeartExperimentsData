@@ -1,0 +1,4 @@
+io/netty/handler/codec/MessageAggregator/decode(io.netty.channel.ChannelHandlerContext,I,java.util.List)
+java/util/List/isEmpty()
+java/util/List/size()
+io/netty/handler/codec/http/HttpServerUpgradeHandler/upgrade(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.FullHttpRequest)

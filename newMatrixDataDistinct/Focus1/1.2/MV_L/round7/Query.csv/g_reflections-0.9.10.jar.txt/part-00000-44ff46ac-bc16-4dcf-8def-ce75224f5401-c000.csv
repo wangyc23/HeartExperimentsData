@@ -1,0 +1,4 @@
+org/dom4j/Document/addElement(java.lang.String)
+java/util/Iterator/hasNext()
+com/google/common/collect/Multimap/keySet()
+java/util/Iterator/next()

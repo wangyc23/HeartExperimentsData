@@ -1,0 +1,5 @@
+org/apache/sis/referencing/operation/transform/TransferFunction/toString()@g_sis-referencing-0.6.jar.txt	2
+org/apache/sis/geometry/AbstractEnvelope/toString(org.opengis.geometry.Envelope,boolean)@g_sis-referencing-0.6.jar.txt	1
+org/apache/sis/geometry/AbstractDirectPosition/toString(org.opengis.geometry.DirectPosition,boolean)@g_sis-referencing-0.6.jar.txt	0
+org/apache/sis/referencing/cs/DirectionAlongMeridian/toString()@g_sis-referencing-0.6.jar.txt	4
+org/apache/sis/referencing/operation/builder/LinearTransformBuilder/toArrays(org.opengis.geometry.DirectPosition[],int)@g_sis-referencing-0.6.jar.txt	3

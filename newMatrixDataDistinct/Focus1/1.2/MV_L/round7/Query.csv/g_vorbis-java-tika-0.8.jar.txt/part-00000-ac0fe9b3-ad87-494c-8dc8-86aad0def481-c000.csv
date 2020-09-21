@@ -1,0 +1,4 @@
+org/apache/tika/sax/XHTMLContentHandler/endDocument()
+org/apache/tika/metadata/Metadata/set(java.lang.String,java.lang.String)
+org/apache/tika/sax/XHTMLContentHandler/startDocument()
+org/gagravarr/tika/VorbisParser/extractDuration(org.apache.tika.metadata.Metadata,org.apache.tika.sax.XHTMLContentHandler,org.gagravarr.ogg.audio.OggAudioHeaders,org.gagravarr.ogg.audio.OggAudioStream)

@@ -1,0 +1,5 @@
+org/apache/mahout/cf/taste/impl/recommender/GenericItemBasedRecommenderTest/testMostSimilar()@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	4
+org/apache/mahout/clustering/display/DisplayFuzzyKMeans/main(java.lang.String[])@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	3
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/train(int,org.apache.mahout.math.Vector)@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	1
+org/apache/mahout/classifier/naivebayes/training/StandardThetaTrainer/train(int,org.apache.mahout.math.Vector)@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	0
+org/apache/mahout/vectorizer/encoders/InteractionValueEncoder/probes()@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	2

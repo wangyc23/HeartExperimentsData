@@ -1,0 +1,4 @@
+java/lang/Long/toString()
+com/google/protobuf/Descriptors$FieldDescriptor/getType()
+java/lang/Integer/toString()
+com/google/protobuf/TextFormat$TextGenerator/print(java.lang.CharSequence)

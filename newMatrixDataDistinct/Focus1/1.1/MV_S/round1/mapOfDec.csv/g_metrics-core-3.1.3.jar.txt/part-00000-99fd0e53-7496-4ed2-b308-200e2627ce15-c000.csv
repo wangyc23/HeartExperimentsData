@@ -1,0 +1,5 @@
+org/apache/logging/log4j/spi/CopyOnWriteSortedArrayThreadContextMap/putAll(java.util.Map)@g_slf4j-simple-1.6.1.jar.txt	3
+org/apache/logging/log4j/message/ExtendedThreadInformation/formatState(java.lang.StringBuilder,java.lang.management.ThreadInfo)@g_slf4j-simple-1.6.1.jar.txt	4
+org/slf4j/impl/SimpleLogger/log(java.lang.String,java.lang.String,java.lang.Throwable)@g_slf4j-simple-1.6.1.jar.txt	2
+com/codahale/metrics/ScheduledReporter/stop()@g_slf4j-simple-1.6.1.jar.txt	1
+org/apache/logging/log4j/spi/ThreadContextMapFactory/createThreadContextMap()@g_slf4j-simple-1.6.1.jar.txt	0

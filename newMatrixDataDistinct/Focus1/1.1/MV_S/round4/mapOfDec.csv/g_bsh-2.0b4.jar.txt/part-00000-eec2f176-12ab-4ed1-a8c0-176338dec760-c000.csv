@@ -1,0 +1,5 @@
+org/apache/ivy/core/publish/PublishEngine/publish(org.apache.ivy.core.module.descriptor.ModuleDescriptor,java.util.Collection,org.apache.ivy.plugins.resolver.DependencyResolver,org.apache.ivy.core.publish.PublishOptions)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/repository/RepositoryManagementEngine/analyze()@g_ivy-2.3.0.jar.txt	4
+org/apache/maven/it/util/FileUtils/copyURLToFile(java.net.URL,java.io.File)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/settings/IvySettings/load(java.io.File)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0

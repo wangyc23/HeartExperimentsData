@@ -1,0 +1,4 @@
+org/drools/rule/builder/dialect/java/parser/JavaParser/alreadyParsedRule(org.antlr.runtime.IntStream,int)
+org/drools/rule/builder/dialect/java/parser/JavaParser/match(org.antlr.runtime.IntStream,int,org.antlr.runtime.BitSet)
+org/drools/rule/builder/dialect/java/parser/JavaParser/memoize(org.antlr.runtime.IntStream,int,int)
+org/antlr/runtime/TokenStream/LA(int)

@@ -1,0 +1,5 @@
+net/sf/ehcache/Cache/NonstopActiveDelegateHolderImpl/terracottaStoreInitialized(net.sf.ehcache.store.TerracottaStore)@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/config/BeanHandler/findSetMethod(java.lang.Class,java.lang.String,java.lang.String)@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/CacheManager/CacheRejoinAction/clusterRejoinComplete()@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/transaction/local/LocalTransactionContext/unfreezeAndUnlock()@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/constructs/nonstop/util/OverrideCheck/methodsFor(java.lang.Class,boolean)@g_ehcache-core-2.6.2.jar.txt	4

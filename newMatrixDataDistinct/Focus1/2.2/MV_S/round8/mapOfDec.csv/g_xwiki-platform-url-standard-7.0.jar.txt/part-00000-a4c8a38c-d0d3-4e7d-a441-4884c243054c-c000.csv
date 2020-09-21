@@ -1,0 +1,5 @@
+org/xwiki/component/embed/EmbeddableComponentManager/sortEntry(java.util.List,int)@g_xwiki-commons-component-default-7.0.jar.txt	2
+org/xwiki/component/annotation/ComponentAnnotationLoader/unregister(org.xwiki.component.manager.ComponentManager,java.lang.ClassLoader,java.util.List)@g_xwiki-commons-component-default-7.0.jar.txt	4
+org/xwiki/component/annotation/ComponentDescriptorFactory/createComponentDescriptor(java.lang.Class,java.lang.String,java.lang.reflect.Type)@g_xwiki-commons-component-default-7.0.jar.txt	1
+org/xwiki/component/annotation/ComponentAnnotationLoader/findComponentRoleClasses(java.lang.Class)@g_xwiki-commons-component-default-7.0.jar.txt	3
+org/xwiki/url/internal/standard/ContextAndActionURLNormalizer/normalize(org.xwiki.url.ExtendedURL)@g_xwiki-platform-url-scheme-standard-7.4.jar.txt	0

@@ -1,0 +1,4 @@
+0	java/lang/reflect/Array/get(java.lang.Object,int)
+1	java/lang/StringBuilder/append(java.lang.String)
+2	java/lang/reflect/Array/getLength(java.lang.Object)
+3	java/lang/StringBuilder/append(int)

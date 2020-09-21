@@ -1,0 +1,5 @@
+ucar/nc2/iosp/nids/Nidsheader/convert(byte[],ucar.ma2.DataType,int,int)@g_netcdf-4.2-min.jar.txt	3
+ucar/nc2/dt/point/UnidataStationObsDataset/checkLinks(java.lang.StringBuffer)@g_netcdf-4.2-min.jar.txt	2
+ucar/nc2/iosp/hdf5/H5header/HeaderMessage/read(long,int,boolean,java.lang.String)@g_netcdf-4.2-min.jar.txt	0
+thredds/inventory/bdb/MetadataManager/getContent()@g_netcdf-4.2-min.jar.txt	4
+ucar/nc2/iosp/gempak/GempakParameterTable/getInputStream(java.lang.String)@g_netcdf-4.2-min.jar.txt	1

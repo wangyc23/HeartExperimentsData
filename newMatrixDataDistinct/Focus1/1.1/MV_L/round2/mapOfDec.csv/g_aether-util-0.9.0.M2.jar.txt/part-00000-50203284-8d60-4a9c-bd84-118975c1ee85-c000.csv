@@ -1,0 +1,5 @@
+org/eclipse/aether/util/graph/transformer/ConflictMarker/analyze(org.eclipse.aether.graph.DependencyNode,java.util.Map,java.util.Map,int[])@g_aether-util-1.0.2.v20150114.jar.txt	3
+org/eclipse/aether/util/graph/transformer/ConflictMarker/transformGraph(org.eclipse.aether.graph.DependencyNode,org.eclipse.aether.collection.DependencyGraphTransformationContext)@g_aether-util-1.0.2.v20150114.jar.txt	1
+org/eclipse/aether/util/graph/transformer/ConflictIdSorter/transformGraph(org.eclipse.aether.graph.DependencyNode,org.eclipse.aether.collection.DependencyGraphTransformationContext)@g_aether-util-1.0.2.v20150114.jar.txt	2
+org/eclipse/aether/util/graph/transformer/ConflictIdSorter/buildConflitIdDAG(java.util.Map,org.eclipse.aether.graph.DependencyNode,org.eclipse.aether.util.graph.transformer.ConflictIdSorter$ConflictId,int,java.util.Map,java.util.Map)@g_aether-util-1.0.2.v20150114.jar.txt	4
+org/eclipse/aether/util/graph/manager/ClassicDependencyManager/manageDependency(org.eclipse.aether.graph.Dependency)@g_aether-util-1.0.2.v20150114.jar.txt	0

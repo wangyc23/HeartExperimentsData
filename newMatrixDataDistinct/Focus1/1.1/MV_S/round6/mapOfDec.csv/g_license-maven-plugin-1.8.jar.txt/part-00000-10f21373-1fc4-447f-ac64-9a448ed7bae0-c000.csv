@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/utils/markers/UnpackFileMarkerHandler/getMarkerFile()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/codehaus/mojo/license/api/DefaultThirdPartyTool/resolveUnsafe(java.util.SortedSet,org.codehaus.mojo.license.model.LicenseMap,java.util.Map,org.codehaus.mojo.license.utils.SortedProperties,org.codehaus.mojo.license.utils.SortedProperties)@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/rat/mp/AbstractRatMojo/mergeLicenseMatchers()@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/codehaus/mojo/license/model/LicenseStore/addRepository(java.lang.String)@g_maven-dependency-plugin-2.8.jar.txt	3

@@ -1,0 +1,5 @@
+org/springframework/test/context/transaction/TransactionalTestExecutionListener/beforeTestMethod(org.springframework.test.context.TestContext)@g_spring-test-4.2.6.RELEASE.jar.txt	2
+org/springframework/test/web/ModelAndViewAssert/assertModelAttributeValues(org.springframework.web.servlet.ModelAndView,java.util.Map)@g_spring-test-4.2.6.RELEASE.jar.txt	0
+org/springframework/test/web/servlet/htmlunit/HtmlUnitRequestBuilder/contextPath(org.springframework.mock.web.MockHttpServletRequest,org.springframework.web.util.UriComponents)@g_spring-test-4.2.6.RELEASE.jar.txt	1
+org/springframework/test/context/support/TestPropertySourceUtils/resolveTestPropertySourceAttributes(java.lang.Class)@g_spring-test-4.2.6.RELEASE.jar.txt	3
+org/springframework/test/web/servlet/htmlunit/HtmlUnitRequestBuilder/cookies(org.springframework.mock.web.MockHttpServletRequest)@g_spring-test-4.2.6.RELEASE.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/drainCurrentEntryData()@g_commons-compress-1.4.1.jar.txt	2
+org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/closeEntry()@g_commons-compress-1.4.1.jar.txt	3
+org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/readDeflated(byte[],int,int)@g_commons-compress-1.4.1.jar.txt	4
+org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/readStored(byte[],int,int)@g_commons-compress-1.4.1.jar.txt	0
+org/apache/commons/compress/archivers/zip/ZipArchiveInputStream/readStored(byte[],int,int)@g_commons-compress-1.4.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/rat/mp/AbstractRatMojo/logAboutIncludedFiles(java.lang.String[])@g_jooq-codegen-maven-3.7.1.jar.txt	4
+org/apache/rat/mp/AbstractRatMojo/setIncludes(org.codehaus.plexus.util.DirectoryScanner)@g_jooq-codegen-maven-3.7.1.jar.txt	1
+org/apache/rat/mp/AbstractRatMojo/mergeDefaultExclusions()@g_jooq-codegen-maven-3.7.1.jar.txt	3
+org/apache/rat/mp/AbstractRatMojo/mergeLicenseMatchers()@g_jooq-codegen-maven-3.7.1.jar.txt	2
+org/springframework/boot/maven/RunMojo/runWithForkedJvm(java.lang.String)@g_spring-boot-maven-plugin-1.2.6.RELEASE.jar.txt	0

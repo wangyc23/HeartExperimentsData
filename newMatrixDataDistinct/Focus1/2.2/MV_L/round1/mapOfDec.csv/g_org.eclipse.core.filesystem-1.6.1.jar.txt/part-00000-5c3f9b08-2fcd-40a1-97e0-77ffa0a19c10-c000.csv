@@ -1,0 +1,5 @@
+org/xwiki/xff/core/model/Class/store(java.nio.file.Path)@g_xff-core-0.4.0.jar.txt	3
+org/xwiki/xff/core/model/Object/store(java.nio.file.Path)@g_xff-core-0.4.0.jar.txt	2
+org/eclipse/core/internal/filesystem/InternalFileSystemCore/getFileSystemRegistry()@g_org.eclipse.core.filesystem-1.7.0.jar.txt	0
+org/xwiki/xff/core/model/Space/store(java.nio.file.Path)@g_xff-core-0.4.0.jar.txt	1
+org/xwiki/xff/core/model/Page/store(java.nio.file.Path)@g_xff-core-0.4.0.jar.txt	4

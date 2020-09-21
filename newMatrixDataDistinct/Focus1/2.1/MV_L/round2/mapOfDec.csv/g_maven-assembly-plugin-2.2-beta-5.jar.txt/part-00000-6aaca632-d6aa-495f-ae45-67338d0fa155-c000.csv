@@ -1,0 +1,5 @@
+org/apache/maven/plugin/assembly/archive/archiver/AssemblyProxyArchiver/doAddFileSet(org.codehaus.plexus.archiver.FileSet)@g_maven-assembly-plugin-2.2.1.jar.txt	3
+org/apache/maven/plugin/assembly/filter/SimpleAggregatingDescriptorHandler/finalizeArchiveCreation(org.codehaus.plexus.archiver.Archiver)@g_maven-assembly-plugin-2.2.1.jar.txt	0
+org/apache/maven/plugin/assembly/model/io/xpp3/AssemblyXpp3Reader/parseDependencySet(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-assembly-plugin-2.2.1.jar.txt	2
+org/apache/maven/plugin/assembly/archive/task/AddDependencySetsTask/addNonArchiveDependency(org.apache.maven.artifact.Artifact,org.apache.maven.project.MavenProject,org.apache.maven.plugin.assembly.model.DependencySet,org.codehaus.plexus.archiver.Archiver,org.apache.maven.plugin.assembly.AssemblerConfigurationSource)@g_maven-assembly-plugin-2.2.1.jar.txt	4
+org/apache/maven/plugin/assembly/filter/SimpleAggregatingDescriptorHandler/finalizeArchiveCreation(org.codehaus.plexus.archiver.Archiver)@g_maven-assembly-plugin-2.3.jar.txt	1

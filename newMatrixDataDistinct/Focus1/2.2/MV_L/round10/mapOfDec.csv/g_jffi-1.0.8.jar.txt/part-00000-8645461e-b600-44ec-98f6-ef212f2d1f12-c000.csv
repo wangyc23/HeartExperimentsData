@@ -1,0 +1,5 @@
+com/sun/jna/Native/register(java.lang.Class,com.sun.jna.NativeLibrary)@g_jna-4.1.0.jar.txt	1
+com/sun/jna/Native/register(java.lang.Class,com.sun.jna.NativeLibrary)@g_jna-4.2.2.jar.txt	4
+com/sun/jna/Library/Handler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_jna-4.1.0.jar.txt	0
+com/sun/jna/CallbackReference/NativeFunctionHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_jna-4.2.2.jar.txt	3
+com/sun/jna/Library/Handler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_jna-4.2.2.jar.txt	2

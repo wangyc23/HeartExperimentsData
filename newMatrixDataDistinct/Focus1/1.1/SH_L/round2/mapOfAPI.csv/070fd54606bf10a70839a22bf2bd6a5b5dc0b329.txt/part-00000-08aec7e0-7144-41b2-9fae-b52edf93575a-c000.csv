@@ -1,0 +1,1 @@
+0	org/apache/crunch/io/hbase/HFileTargetIT/readFromHFiles(org.apache.crunch.impl.dist.FileSystem,org.apache.crunch.impl.dist.Path,java.lang.String)

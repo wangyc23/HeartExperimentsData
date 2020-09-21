@@ -1,0 +1,5 @@
+org/apache/xmlbeans/impl/jam/internal/JamServiceContextImpl/includeSourcePattern(java.io.File[],java.lang.String)@g_xmlbeans-2.3.0.jar.txt	2
+org/apache/xmlbeans/impl/store/Cur/createElementXobj(org.apache.xmlbeans.impl.store.Locale,javax.xml.namespace.QName,javax.xml.namespace.QName)@g_xmlbeans-2.3.0.jar.txt	4
+org/apache/xmlbeans/impl/common/JarHelper/unjar(java.io.InputStream,java.io.File)@g_xmlbeans-2.3.0.jar.txt	1
+org/apache/xmlbeans/impl/common/JarHelper/jarDir(java.io.File,java.util.jar.JarOutputStream,java.lang.String)@g_xmlbeans-2.3.0.jar.txt	3
+org/apache/xmlbeans/impl/schema/StscChecker/checkRestriction(org.apache.xmlbeans.impl.schema.SchemaTypeImpl)@g_xmlbeans-2.3.0.jar.txt	0

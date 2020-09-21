@@ -1,0 +1,4 @@
+javax/persistence/EntityManager/getEntityManagerFactory()
+java/util/Set/size()
+org/slf4j/Logger/info(java.lang.String)
+javax/persistence/EntityManagerFactory/getMetamodel()

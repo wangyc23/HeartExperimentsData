@@ -1,0 +1,5 @@
+okhttp3/internal/tls/BasicCertificateChainCleaner/clean(java.util.List,java.lang.String)@0265f12748d57de89163db701b727e715d098552.txt	3
+okhttp3/internal/huc/JavaApiConverter/extractOkHeaders(java.util.Map,okhttp3.Response.Builder)@0265f12748d57de89163db701b727e715d098552.txt	2
+okhttp3/internal/framed/hpackjson/Case/getHeaders()@0265f12748d57de89163db701b727e715d098552.txt	0
+okhttp3/internal/framed/hpackjson/Case/getHeaders()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	1
+okhttp3/internal/huc/JavaApiConverter/createHeaders(java.util.Map)@0265f12748d57de89163db701b727e715d098552.txt	4

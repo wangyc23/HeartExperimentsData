@@ -1,0 +1,5 @@
+org/springframework/boot/maven/RepackageMojo/execute()@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	3
+org/springframework/boot/maven/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_spring-boot-maven-plugin-1.3.0.BUILD-20151115.025516-810.jar.txt	1
+org/springframework/boot/maven/PropertiesMergingResourceTransformer/processResource(java.lang.String,java.io.InputStream,java.util.List)@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	4
+org/springframework/boot/maven/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	0
+org/springframework/boot/maven/HelpMojo/execute()@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	2

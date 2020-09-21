@@ -1,0 +1,5 @@
+org/mapdb/TxEngine/put(java.lang.Object,org.mapdb.Serializer)@g_mapdb-1.0.7.jar.txt	4
+org/mapdb/SerializerBase/singletons/<clinit>()@g_mapdb-1.0.7.jar.txt	1
+org/mapdb/TxEngine/preallocate(long[])@g_mapdb-1.0.7.jar.txt	2
+org/mapdb/DB/delete(java.lang.String)@g_mapdb-1.0.7.jar.txt	3
+org/mapdb/Bind/secondaryKey(org.mapdb.Bind$MapWithModificationListener,java.util.Map,org.mapdb.Fun$Function2)@g_mapdb-1.0.7.jar.txt	0

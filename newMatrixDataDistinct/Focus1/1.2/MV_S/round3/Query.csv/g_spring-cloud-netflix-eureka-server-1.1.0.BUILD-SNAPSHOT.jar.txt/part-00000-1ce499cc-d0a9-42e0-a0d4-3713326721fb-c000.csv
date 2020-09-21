@@ -1,0 +1,4 @@
+com/netflix/discovery/shared/Pair/second()
+java/util/Iterator/hasNext()
+com/netflix/eureka/registry/PeerAwareInstanceRegistryImpl/getLastNRegisteredInstances()
+java/util/ArrayList/add(java.lang.Object)

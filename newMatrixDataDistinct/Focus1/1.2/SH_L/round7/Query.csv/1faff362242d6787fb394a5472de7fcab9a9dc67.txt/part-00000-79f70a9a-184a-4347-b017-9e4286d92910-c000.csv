@@ -1,0 +1,4 @@
+java/net/Socket/connect(java.net.SocketAddress,int)
+java/nio/channels/spi/AbstractSelectableChannel/configureBlocking(boolean)
+java/nio/channels/SocketChannel/open()
+java/net/Socket/setSoLinger(boolean,int)

@@ -1,0 +1,4 @@
+java/lang/System/nanoTime()
+java/util/concurrent/Future/cancel(boolean)
+java/util/List/add(java.lang.Object)
+java/util/Iterator/hasNext()

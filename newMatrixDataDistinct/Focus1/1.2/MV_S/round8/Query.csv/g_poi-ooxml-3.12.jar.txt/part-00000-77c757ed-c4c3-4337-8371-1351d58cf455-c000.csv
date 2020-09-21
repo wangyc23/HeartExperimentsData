@@ -1,0 +1,4 @@
+java/net/URI/getRawFragment()
+java/lang/String/split(java.lang.String,int)
+java/net/URI/URI(java.lang.String)
+java/lang/String/length()

@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/InterpolationFilterReader/read()@g_plexus-utils-1.5.8.jar.txt	4
+org/codehaus/plexus/util/reflection/Reflector/getObjectProperty(java.lang.Object,java.lang.String)@g_plexus-utils-1.5.8.jar.txt	0
+org/codehaus/plexus/util/StringUtils/swapCase(java.lang.String)@g_plexus-utils-1.5.8.jar.txt	2
+org/codehaus/plexus/util/xml/pull/MXSerializer/writeAttributeValue(java.lang.String,java.io.Writer)@g_plexus-utils-1.5.8.jar.txt	3
+hidden/org/codehaus/plexus/interpolation/InterpolatorFilterReader/read()@g_plexus-utils-1.5.8.jar.txt	1

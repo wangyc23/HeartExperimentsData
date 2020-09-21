@@ -1,0 +1,5 @@
+py4j/reflection/ReflectionEngine/getPublicMethodNames(java.lang.Object)@g_py4j-0.10.4.jar.txt	3
+py4j/reflection/ReflectionEngine/getPublicStaticMethodNames(java.lang.Class)@g_py4j-0.10.4.jar.txt	2
+py4j/reflection/ReflectionEngine/getPublicFieldNames(java.lang.Object)@g_py4j-0.10.4.jar.txt	4
+py4j/reflection/ReflectionEngine/getPublicStaticFieldNames(java.lang.Class)@g_py4j-0.10.4.jar.txt	1
+py4j/reflection/ReflectionEngine/getPublicStaticClassNames(java.lang.Class)@g_py4j-0.10.4.jar.txt	0

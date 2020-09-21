@@ -1,0 +1,4 @@
+java/lang/Math/min(long,long)
+org/apache/lucene/util/BitSet/get(int)
+java/lang/AssertionError/AssertionError(java.lang.Object)
+java/lang/Math/max(long,long)

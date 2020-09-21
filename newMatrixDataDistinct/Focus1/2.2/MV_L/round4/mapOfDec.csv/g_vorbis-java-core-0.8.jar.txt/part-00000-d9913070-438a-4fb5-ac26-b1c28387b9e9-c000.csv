@@ -1,0 +1,5 @@
+edu/stanford/nlp/process/WordShapeClassifier/wordShapeJenny1(java.lang.String,java.util.Collection)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/trees/CollocationFinder/getMangledTree(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/ling/tokensregex/types/ValueFunctions/NumericFunction/apply(edu.stanford.nlp.ling.tokensregex.Env,java.util.List)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/tagger/io/TSVTaggedFileReader/primeNext()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/neural/NeuralUtils/paramsToVector(double,int,java.util.Iterator[])@g_stanford-parser-3.5.2.jar.txt	4

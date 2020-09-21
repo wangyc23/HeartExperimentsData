@@ -1,0 +1,5 @@
+com/netflix/discovery/DiscoveryClient/updateDelta(com.netflix.discovery.shared.Applications)@g_eureka-client-1.1.147.jar.txt	4
+com/netflix/discovery/DiscoveryClient/getZoneBasedDiscoveryUrlsFromRegion(java.lang.String)@g_eureka-client-1.1.147.jar.txt	3
+com/netflix/discovery/shared/Application/_shuffleAndStoreInstances(boolean,boolean,java.util.Map,com.netflix.discovery.EurekaClientConfig,com.netflix.discovery.InstanceRegionChecker)@g_eureka-client-1.1.147.jar.txt	1
+com/netflix/discovery/shared/Applications/shuffleAndFilterInstances(java.util.Map,java.util.Map,java.util.Map,boolean)@g_eureka-client-1.1.147.jar.txt	0
+com/netflix/eureka/registry/AbstractInstanceRegistry/register(com.netflix.appinfo.InstanceInfo,int,boolean)@g_eureka-core-1.3.4.jar.txt	2

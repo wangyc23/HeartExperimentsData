@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/List/toArray(T[])
+com/mojang/api/profiles/HttpProfileRepository/getHttpBody(java.lang.String[])
+java/util/Arrays/copyOfRange(T[],int,int)

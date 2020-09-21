@@ -1,0 +1,5 @@
+com/commafeed/backend/opml/OPMLExporterTest/containsCategory(java.util.List,java.lang.String)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	4
+com/commafeed/backend/HttpGetter/getBinary(java.lang.String,int)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	3
+com/commafeed/backend/dao/FeedEntryStatusDAO/buildQuery(com.commafeed.backend.model.User,com.commafeed.backend.model.FeedSubscription,boolean,java.util.List,java.util.Date,int,int,com.commafeed.backend.model.UserSettings.ReadingOrder,java.util.Date,java.lang.String)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	0
+org/dyrda/javabrains/service/ProfileService/getProfile(java.lang.String)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	2
+com/commafeed/backend/service/FeedEntryFilteringServiceTest/cannotLoopForever()@168b9c337aa0ae603654638f3f03a641bffc221e.txt	1

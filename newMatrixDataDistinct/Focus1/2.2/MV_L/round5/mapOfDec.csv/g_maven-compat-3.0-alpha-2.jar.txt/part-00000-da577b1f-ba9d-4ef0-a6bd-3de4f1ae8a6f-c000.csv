@@ -1,0 +1,5 @@
+org/apache/maven/repository/MetadataResolutionResult/toString()@g_maven-compat-3.0.jar.txt	1
+org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector/collect(java.util.Set,org.apache.maven.artifact.Artifact,java.util.Map,org.apache.maven.artifact.resolver.ArtifactResolutionRequest,org.apache.maven.artifact.metadata.ArtifactMetadataSource,org.apache.maven.artifact.resolver.filter.ArtifactFilter,java.util.List,java.util.List)@g_maven-compat-3.0.jar.txt	3
+org/apache/maven/artifact/versioning/ManagedVersionMap/toString()@g_maven-compat-3.0.jar.txt	0
+org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector/fireEvent(int,java.util.List,org.apache.maven.artifact.resolver.ResolutionNode,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.versioning.VersionRange)@g_maven-compat-3.0.jar.txt	2
+org/apache/maven/project/DefaultMavenProjectBuilder/normalizeToArtifactRepositories(java.util.List,org.apache.maven.project.ProjectBuildingRequest)@g_maven-compat-3.0.jar.txt	4

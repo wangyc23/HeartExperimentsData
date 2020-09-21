@@ -1,0 +1,4 @@
+org/apache/hadoop/mapred/RunningJob/waitForCompletion()
+org/apache/hadoop/mapred/JobConf/setOutputFormat(java.lang.Class)
+org/apache/hadoop/mapred/RunningJob/isComplete()
+org/apache/hadoop/mapred/FileOutputFormat/setOutputPath(org.apache.hadoop.mapred.JobConf,org.apache.hadoop.fs.Path)

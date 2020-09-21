@@ -1,0 +1,5 @@
+org/apache/lucene/index/FieldInfos/FieldNumbers/addOrGet(java.lang.String,int,org.apache.lucene.index.DocValuesType,int,int)@g_lucene-core-7.0.0.jar.txt	0
+org/apache/lucene/codecs/perfield/PerFieldDocValuesFormat/FieldsWriter/getInstance(org.apache.lucene.index.FieldInfo)@g_lucene-core-7.0.0.jar.txt	1
+org/apache/lucene/util/automaton/Operations/determinize(org.apache.lucene.util.automaton.Automaton,int)@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/index/SnapshotDeletionPolicy/releaseGen(long)@g_lucene-core-7.0.0.jar.txt	2
+org/apache/lucene/index/StandardDirectoryReader/open(org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentInfos,java.util.List)@g_lucene-core-7.0.0.jar.txt	3

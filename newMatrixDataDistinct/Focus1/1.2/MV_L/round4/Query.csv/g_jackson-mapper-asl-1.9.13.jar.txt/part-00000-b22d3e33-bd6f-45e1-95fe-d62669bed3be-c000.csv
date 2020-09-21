@@ -1,0 +1,4 @@
+org/codehaus/jackson/type/JavaType/narrowContentsBy(java.lang.Class)
+java/lang/IllegalArgumentException/getMessage()
+org/codehaus/jackson/type/JavaType/getValueHandler()
+org/codehaus/jackson/type/JavaType/isContainerType()

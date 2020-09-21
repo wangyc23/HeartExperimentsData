@@ -1,0 +1,5 @@
+okhttp3/internal/huc/ResponseCacheTest/testRequestMethod(java.lang.String,boolean)@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	1
+okhttp3/internal/huc/ResponseCacheTest/testClientPrematureDisconnect(okhttp3.internal.huc.ResponseCacheTest.TransferKind)@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	3
+okhttp3/android/HttpResponseCacheTest/statisticsTracking()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	0
+okhttp3/internal/huc/ResponseCacheTest/responseCacheReturnsNullOutputStream()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	2
+okhttp3/benchmarks/SynchronousHttpClient/readAllAndClose(java.io.InputStream)@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	4

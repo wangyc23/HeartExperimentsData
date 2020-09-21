@@ -1,0 +1,5 @@
+net/java/truevfs/kernel/impl/BasicArchiveController/Output/1/stream(net.java.truecommons.cio.InputSocket)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	3
+net/java/truevfs/comp/zipdriver/AbstractKeyController/node(net.java.truecommons.shed.BitField,net.java.truevfs.kernel.spec.FsNodeName)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	0
+net/java/truevfs/access/TArchiveDetector/extensions(javax.inject.Provider)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	4
+net/java/truevfs/access/TPath/resolve(java.net.URI)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	1
+net/java/truevfs/access/TPath/name(java.lang.String,java.lang.String[])@g_truevfs-comp-zipdriver-0.11.0.jar.txt	2

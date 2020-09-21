@@ -1,0 +1,5 @@
+com/netflix/eureka/transport/JerseyReplicationClient/statusUpdate(java.lang.String,com.netflix.eureka.resources.ASGResource$ASGStatus)@g_eureka-core-1.3.4.jar.txt	3
+com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient/register(com.netflix.appinfo.InstanceInfo)@g_eureka-client-1.3.4.jar.txt	1
+com/netflix/eureka/transport/JerseyReplicationClient/sendHeartBeat(java.lang.String,java.lang.String,com.netflix.appinfo.InstanceInfo,com.netflix.appinfo.InstanceInfo$InstanceStatus)@g_eureka-core-1.3.4.jar.txt	2
+com/netflix/eureka/transport/JerseyReplicationClient/submitBatchUpdates(com.netflix.eureka.cluster.protocol.ReplicationList)@g_eureka-core-1.3.4.jar.txt	0
+com/netflix/discovery/DiscoveryClient/renew()@g_eureka-client-1.3.4.jar.txt	4

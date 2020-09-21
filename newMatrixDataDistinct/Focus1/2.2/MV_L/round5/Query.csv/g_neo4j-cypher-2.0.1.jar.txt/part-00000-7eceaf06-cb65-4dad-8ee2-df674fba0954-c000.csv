@@ -1,0 +1,4 @@
+org/neo4j/graphdb/Relationship/getId()
+java/util/Iterator/hasNext()
+java/lang/Long/valueOf(long)
+java/util/SortedMap/values()

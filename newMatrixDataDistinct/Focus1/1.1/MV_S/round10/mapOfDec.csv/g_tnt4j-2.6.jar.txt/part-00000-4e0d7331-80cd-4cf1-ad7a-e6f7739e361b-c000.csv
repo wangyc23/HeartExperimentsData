@@ -1,0 +1,5 @@
+org/apache/catalina/connector/Response/doIsEncodeable(org.apache.catalina.connector.Request,org.apache.catalina.Session,java.lang.String)@g_servo-core-0.7.4.jar.txt	4
+org/apache/catalina/realm/JNDIRealm/addAttributeValues(java.lang.String,javax.naming.directory.Attributes,java.util.ArrayList)@g_servo-core-0.7.4.jar.txt	0
+org/apache/catalina/startup/Tomcat/getWebappConfigFileFromJar(java.io.File,java.lang.String)@g_servo-core-0.7.4.jar.txt	1
+org/apache/catalina/loader/WebappClassLoaderBase/loadClass(java.lang.String,boolean)@g_servo-core-0.7.4.jar.txt	3
+org/apache/catalina/webresources/AbstractArchiveResourceSet/list(java.lang.String)@g_servo-core-0.7.4.jar.txt	2

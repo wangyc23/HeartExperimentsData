@@ -1,0 +1,4 @@
+javax/crypto/spec/SecretKeySpec/SecretKeySpec(byte[],java.lang.String)
+org/springside/modules/utils/Exceptions/unchecked(java.lang.Exception)
+javax/crypto/Cipher/init(int,java.security.Key)
+javax/crypto/Cipher/doFinal(byte[])

@@ -1,0 +1,4 @@
+org/codehaus/plexus/compiler/CompilerConfiguration/isShowDeprecation()
+java/util/ArrayList/ArrayList()
+org/codehaus/plexus/compiler/CompilerConfiguration/getProcessorPathEntries()
+java/io/File/File(java.lang.String)

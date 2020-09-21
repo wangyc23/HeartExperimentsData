@@ -1,0 +1,4 @@
+com/fasterxml/jackson/databind/JsonNode/asText()
+com/fasterxml/jackson/databind/JsonNode/get(java.lang.String)
+java/lang/Thread/currentThread()
+java/lang/ClassLoader/loadClass(java.lang.String)

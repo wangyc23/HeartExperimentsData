@@ -1,0 +1,5 @@
+org/hibernate/cfg/Ejb3JoinColumn/setJoinAnnotation(javax.persistence.JoinColumn,java.lang.String)@g_hibernate-core-3.6.9.Final.jar.txt	2
+org/hibernate/hql/antlr/HqlBaseParser/aggregate()@g_hibernate-core-3.6.9.Final.jar.txt	3
+org/hibernate/bytecode/buildtime/AbstractInstrumenter/2/handleEntry(java.util.zip.ZipEntry,byte[])@g_hibernate-core-3.6.10.Final.jar.txt	1
+org/hibernate/dialect/lock/UpdateLockingStrategy/lock(java.io.Serializable,java.lang.Object,java.lang.Object,int,org.hibernate.engine.SessionImplementor)@g_hibernate-core-3.6.9.Final.jar.txt	4
+org/hibernate/bytecode/buildtime/AbstractInstrumenter/2/handleEntry(java.util.zip.ZipEntry,byte[])@g_hibernate-core-3.6.9.Final.jar.txt	0

@@ -1,0 +1,4 @@
+org/json/JSONObject/has(java.lang.String)
+org/json/JSONObject/getNames(org.json.JSONObject)
+org/json/JSONObject/getString(java.lang.String)
+org/json/JSONArray/JSONArray(java.lang.String)

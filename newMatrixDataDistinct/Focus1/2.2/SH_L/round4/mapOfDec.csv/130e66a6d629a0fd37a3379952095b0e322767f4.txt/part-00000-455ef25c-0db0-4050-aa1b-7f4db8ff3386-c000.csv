@@ -1,0 +1,5 @@
+org/apache/drill/exec/proto/helper/QueryIdHelper/getQueryIdentifiers(org.apache.drill.exec.proto.UserBitShared.QueryId,int,java.util.List)@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	0
+org/apache/drill/exec/store/avro/AvroRecordReader/process(java.lang.Object,org.apache.drill.exec.store.kudu.Schema,java.lang.String,org.apache.drill.exec.vector.complex.impl.MapOrListWriterImpl,org.apache.drill.exec.vector.complex.fn.FieldSelection)@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	1
+org/apache/drill/DrillTestWrapper/addToCombinedVectorResults(java.util.List,org.apache.drill.exec.record.RecordBatchLoader,org.apache.drill.exec.record.BatchSchema)@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	4
+org/apache/drill/exec/store/AbstractRecordReader/toString()@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	2
+org/apache/drill/TestBuilder/listOf(java.lang.Object[])@229b599b9928dee2d7613bd59f5aecc5ca7de3c5.txt	3

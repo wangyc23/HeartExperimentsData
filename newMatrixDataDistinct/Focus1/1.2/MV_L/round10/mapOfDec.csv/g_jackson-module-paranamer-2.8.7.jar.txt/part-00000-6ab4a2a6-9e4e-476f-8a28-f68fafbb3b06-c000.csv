@@ -1,0 +1,5 @@
+com/thoughtworks/paranamer/JavadocParanamer/lookupParameterNames(java.lang.reflect.AccessibleObject,boolean)@g_paranamer-2.3.jar.txt	4
+com/thoughtworks/paranamer/AnnotationParanamer/lookupParameterNames(java.lang.reflect.AccessibleObject,boolean)@g_paranamer-2.8.jar.txt	0
+com/thoughtworks/paranamer/BytecodeReadingParanamer/lookupParameterNames(java.lang.reflect.AccessibleObject,boolean)@g_paranamer-2.3.jar.txt	3
+com/thoughtworks/paranamer/BytecodeReadingParanamer/lookupParameterNames(java.lang.reflect.AccessibleObject,boolean)@g_paranamer-2.8.jar.txt	1
+com/thoughtworks/paranamer/AnnotationParanamer/lookupParameterNames(java.lang.reflect.AccessibleObject,boolean)@g_paranamer-2.3.jar.txt	2

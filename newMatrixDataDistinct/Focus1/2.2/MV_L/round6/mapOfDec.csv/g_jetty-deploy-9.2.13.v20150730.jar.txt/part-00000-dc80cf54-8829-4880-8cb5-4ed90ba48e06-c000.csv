@@ -1,0 +1,5 @@
+org/eclipse/jetty/webapp/WebInfConfiguration/makeTempDirectory(java.io.File,org.eclipse.jetty.webapp.WebAppContext,boolean)@g_jetty-webapp-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/webapp/StandardDescriptorProcessor/visitServlet(org.eclipse.jetty.webapp.WebAppContext,org.eclipse.jetty.webapp.Descriptor,org.eclipse.jetty.xml.XmlParser$Node)@g_jetty-webapp-9.4.5.v20170502.jar.txt	4
+org/eclipse/jetty/webapp/WebInfConfiguration/unpack(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-webapp-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/webapp/WebInfConfiguration/makeTempDirectory(java.io.File,org.eclipse.jetty.webapp.WebAppContext)@g_jetty-webapp-9.4.5.v20170502.jar.txt	1
+org/eclipse/jetty/webapp/WebInfConfiguration/unpack(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-webapp-9.4.5.v20170502.jar.txt	0

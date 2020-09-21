@@ -1,0 +1,5 @@
+com/sun/activation/registries/LineTokenizer/nextToken()@g_activation-1.1.jar.txt	0
+org/apache/tools/ant/filters/ReplaceTokens/read()@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/filters/StripLineComments/read()@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/Javadoc/TagArgument/setScope(java.lang.String)@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/filters/LineContainsRegExp/read()@g_ant-1.6.5.jar.txt	2

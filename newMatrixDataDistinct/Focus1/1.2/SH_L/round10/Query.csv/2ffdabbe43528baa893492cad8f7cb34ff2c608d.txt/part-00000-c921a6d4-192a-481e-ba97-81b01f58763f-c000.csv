@@ -1,0 +1,4 @@
+org/hamcrest/Matchers/is(org.hamcrest.Matcher)
+org/springframework/data/elasticsearch/core/ElasticsearchTemplate/queryForObject(org.springframework.data.elasticsearch.core.query.GetQuery,java.lang.Class)
+org/springframework/data/elasticsearch/entities/SampleEntity/setVersion(java.lang.Long)
+org/springframework/data/elasticsearch/entities/SampleEntity/SampleEntity()

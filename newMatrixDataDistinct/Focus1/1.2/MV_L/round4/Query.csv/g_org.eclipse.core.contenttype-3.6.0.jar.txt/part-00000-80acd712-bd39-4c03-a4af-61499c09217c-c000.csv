@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/util/Set/size()
+java/util/Arrays/sort(java.lang.Object[],java.util.Comparator)
+java/util/Set/isEmpty()

@@ -1,0 +1,5 @@
+org/apache/hadoop/fs/TrashPolicyDefault/moveToTrash(org.apache.hadoop.fs.Path)@g_hadoop-common-2.6.5.jar.txt	3
+org/apache/hadoop/util/ReflectionUtils/printThreadInfo(java.io.PrintWriter,java.lang.String)@g_hadoop-common-2.6.5.jar.txt	4
+org/apache/hadoop/ipc/ProtobufRpcEngine/Invoker/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_hadoop-common-2.6.5.jar.txt	1
+org/apache/hadoop/ipc/RetryCache/waitForCompletion(org.apache.hadoop.ipc.RetryCache$CacheEntry)@g_hadoop-common-2.6.5.jar.txt	0
+org/apache/hadoop/net/SocketIOWithTimeout/SelectorPool/select(java.nio.channels.SelectableChannel,int,long)@g_hadoop-common-2.6.5.jar.txt	2

@@ -1,0 +1,5 @@
+org/parboiled/transform/VarFramingGenerator/process(org.parboiled.transform.ParserClassNode,org.parboiled.transform.RuleMethod)@g_parboiled-java-1.1.6.jar.txt	3
+org/parboiled/transform/ReturnInstructionUnifier/process(org.parboiled.transform.ParserClassNode,org.parboiled.transform.RuleMethod)@g_parboiled-java-1.1.6.jar.txt	2
+org/parboiled/transform/FlagMarkingGenerator/process(org.parboiled.transform.ParserClassNode,org.parboiled.transform.RuleMethod)@g_parboiled-java-1.1.6.jar.txt	1
+org/objectweb/asm/util/CheckClassAdapter/verify(org.objectweb.asm.ClassReader,java.lang.ClassLoader,boolean,java.io.PrintWriter)@g_asm-util-4.1.jar.txt	4
+org/parboiled/transform/LabellingGenerator/process(org.parboiled.transform.ParserClassNode,org.parboiled.transform.RuleMethod)@g_parboiled-java-1.1.6.jar.txt	0

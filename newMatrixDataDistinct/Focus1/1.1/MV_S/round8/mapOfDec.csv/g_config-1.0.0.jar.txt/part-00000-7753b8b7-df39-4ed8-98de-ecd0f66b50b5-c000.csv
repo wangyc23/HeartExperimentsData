@@ -1,0 +1,5 @@
+org/apache/activemq/network/LdapNetworkConnector/removeConnector(javax.naming.directory.SearchResult)@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/console/filter/RegExQueryFilter/query(java.util.List)@g_activemq-all-5.7.0.jar.txt	1
+org/apache/activemq/util/URISupport/parseQuery(java.lang.String)@g_activemq-all-5.7.0.jar.txt	2
+org/apache/activemq/network/LdapNetworkConnector/addConnector(javax.naming.directory.SearchResult)@g_activemq-all-5.7.0.jar.txt	3
+org/apache/activemq/broker/region/cursors/StoreDurableSubscriberCursor/add(org.apache.activemq.broker.ConnectionContext,org.apache.activemq.broker.region.Destination)@g_activemq-all-5.7.0.jar.txt	4

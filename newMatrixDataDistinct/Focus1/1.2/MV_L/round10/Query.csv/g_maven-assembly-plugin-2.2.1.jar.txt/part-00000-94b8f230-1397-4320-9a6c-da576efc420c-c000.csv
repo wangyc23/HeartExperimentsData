@@ -1,0 +1,4 @@
+java/util/Properties/putAll(java.util.Map)
+org/codehaus/plexus/util/xml/pull/XmlPullParserException/getMessage()
+java/util/HashMap/HashMap()
+java/util/Properties/Properties()

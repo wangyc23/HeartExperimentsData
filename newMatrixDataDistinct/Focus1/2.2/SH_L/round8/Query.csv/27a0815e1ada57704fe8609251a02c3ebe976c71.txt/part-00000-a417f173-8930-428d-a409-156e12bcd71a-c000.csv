@@ -1,0 +1,4 @@
+org/neo4j/gis/spatial/pipes/GeoPipeFlow/merge(org.neo4j.gis.spatial.pipes.GeoPipeFlow)
+org/neo4j/gis/spatial/pipes/GeoPipeFlow/getGeometry()
+java/util/List/size()
+java/util/List/add(E)

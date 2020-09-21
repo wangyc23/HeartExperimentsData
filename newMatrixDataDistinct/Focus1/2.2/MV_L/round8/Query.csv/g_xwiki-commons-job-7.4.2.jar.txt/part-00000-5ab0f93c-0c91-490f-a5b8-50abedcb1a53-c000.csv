@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String,java.lang.Object,java.lang.Object)
+java/lang/Object/toString()
+java/lang/StringBuilder/append(java.lang.String)
+com/thoughtworks/xstream/converters/collections/ArrayConverter/writeItem(java.lang.Object,com.thoughtworks.xstream.converters.MarshallingContext,com.thoughtworks.xstream.io.HierarchicalStreamWriter)

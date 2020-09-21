@@ -1,0 +1,5 @@
+org/apache/spark/api/java/StorageLevels/create(boolean,boolean,boolean,int)@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	1
+org/apache/spark/streaming/JavaAPISuite/equalIterable(java.lang.Iterable,java.lang.Iterable)@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	4
+org/apache/spark/JavaAPISuite/foldReduce()@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	3
+org/apache/spark/streaming/JavaAPISuite/testCountByValue()@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	0
+org/apache/spark/mllib/classification/JavaSVMSuite/runSVMUsingConstructor()@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	2

@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Scanner/close()
+org/languagetool/databroker/ResourceDataBroker/getFromRulesDirAsUrl(java.lang.String)
+org/languagetool/JLanguageTool/getDataBroker()

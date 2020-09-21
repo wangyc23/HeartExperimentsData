@@ -1,0 +1,4 @@
+org/apache/xerces/util/XMLStringBuffer/clear()
+org/cyberneko/html/HTMLScanner$CurrentEntity/access$300(org.cyberneko.html.HTMLScanner$CurrentEntity)
+org/cyberneko/html/HTMLScanner$ContentScanner/isEnded(java.lang.String)
+org/cyberneko/html/HTMLScanner$ContentScanner/scanEndElement()

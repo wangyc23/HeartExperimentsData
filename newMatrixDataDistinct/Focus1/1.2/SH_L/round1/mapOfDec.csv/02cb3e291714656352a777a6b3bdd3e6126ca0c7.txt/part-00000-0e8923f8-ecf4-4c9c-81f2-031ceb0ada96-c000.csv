@@ -1,0 +1,5 @@
+com/sonal/flashcardapp/daotest/FcDeckDAOImplTest/testListAllDecks()@0694c470e5158da6473039678f52be575a8bf58f.txt	4
+com/sonal/flashcardapp/services/CardService/findCardOfDeck(int)@0694c470e5158da6473039678f52be575a8bf58f.txt	0
+com/sonal/flashcardapp/dao/jdbc/CardsOfDeckMapper/mapRow(java.sql.ResultSet,int)@0694c470e5158da6473039678f52be575a8bf58f.txt	1
+com/sonal/flashcardapp/services/CardService/listCards()@0694c470e5158da6473039678f52be575a8bf58f.txt	3
+com/sonal/flashcardapp/daotest/FcDeckDAOImplTest/testFindDeckByTitle()@0694c470e5158da6473039678f52be575a8bf58f.txt	2

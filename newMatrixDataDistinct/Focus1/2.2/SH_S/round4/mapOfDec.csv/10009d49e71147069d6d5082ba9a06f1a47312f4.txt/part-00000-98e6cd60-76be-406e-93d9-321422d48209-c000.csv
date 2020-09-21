@@ -1,0 +1,5 @@
+camelinaction/GracefulShutdownBigFileTest/createFileBody(int)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	1
+camelinaction/OrderCsvToXmlBean/fromCsvToXml(java.lang.String)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	2
+camelinaction/OrderToCsvProcessor/process(camelinaction.Exchange)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	4
+camelinaction/OrderToCsvBean/map(java.lang.String)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	3
+camelinaction/OrderToSqlBean/toSql(java.lang.String,int,java.lang.String)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	0

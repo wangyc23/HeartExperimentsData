@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/parser/v1_5/Clauses/anonfun/equals/3/apply(scala.util.parsing.combinator.Parsers$$tilde)@g_neo4j-cypher-1.7.jar.txt	3
+org/neo4j/cypher/internal/parser/v1_6/StartClause/anonfun/lookup/2/apply(scala.util.parsing.combinator.Parsers$$tilde)@g_neo4j-cypher-1.7.jar.txt	4
+org/neo4j/cypher/internal/parser/v1_7/MatchClause/anonfun/shortestPath/3/apply(scala.util.parsing.combinator.Parsers$$tilde)@g_neo4j-cypher-1.7.jar.txt	2
+org/neo4j/cypher/internal/parser/v1_5/MatchClause/anonfun/relatedTos/2/anonfun/5/apply(scala.Tuple7)@g_neo4j-cypher-1.7.jar.txt	1
+org/neo4j/cypher/internal/commands/CoalesceFunction/compute(scala.collection.Map)@g_neo4j-cypher-1.7.jar.txt	0

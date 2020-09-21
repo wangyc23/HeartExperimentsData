@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/LexicalizedParser/loadModelFromZip(java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/io/IOUtils/cp(java.io.File,java.io.File,boolean)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/util/MetaClass/cast(java.lang.String,java.lang.reflect.Type)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/ui/ParserPanel/loadFile(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/GrammarCompactor/writeFile(edu.stanford.nlp.fsm.TransducerGraph,java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3

@@ -1,0 +1,5 @@
+org/dom4j/io/aelfred/SAXDriver/deliverDTDEvents()@g_dom4j-1.1.jar.txt	1
+org/jaxen/expr/DefaultLocationPath/evaluate(org.jaxen.Context)@g_dom4j-1.1.jar.txt	3
+org/jaxen/expr/DefaultUnionExpr/evaluate(org.jaxen.Context)@g_dom4j-1.1.jar.txt	4
+org/jaxen/function/IdFunction/evaluate(java.util.List,java.lang.Object,org.jaxen.Navigator)@g_dom4j-1.1.jar.txt	0
+org/jaxen/expr/PredicateSet/evaluatePredicates(java.util.List,org.jaxen.ContextSupport)@g_dom4j-1.1.jar.txt	2

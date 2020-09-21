@@ -1,0 +1,4 @@
+org/neo4j/shell/apps/extra/JshExecutor$OutputWriter/OutputWriter(org.neo4j.shell.Output)
+java/util/Iterator/hasNext()
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])
+java/util/Map/get(java.lang.Object)

@@ -1,0 +1,4 @@
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()
+java/lang/Integer/parseInt(java.lang.String)
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

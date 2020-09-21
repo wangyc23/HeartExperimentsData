@@ -1,0 +1,5 @@
+org/springframework/web/servlet/config/AnnotationDrivenBeanDefinitionParser/getMessageConverters(org.w3c.dom.Element,java.lang.Object,org.springframework.beans.factory.xml.ParserContext)@g_spring-webmvc-4.1.7.RELEASE.jar.txt	4
+org/springframework/web/servlet/config/ResourcesBeanDefinitionParser/parseVersionResolver(org.springframework.beans.factory.xml.ParserContext,org.w3c.dom.Element,java.lang.Object)@g_spring-webmvc-4.1.7.RELEASE.jar.txt	3
+org/springframework/web/servlet/config/ViewResolversBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-webmvc-4.1.7.RELEASE.jar.txt	2
+org/springframework/web/servlet/config/InterceptorsBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-webmvc-4.1.7.RELEASE.jar.txt	0
+org/springframework/web/servlet/config/InterceptorsBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-webmvc-4.1.8.RELEASE.jar.txt	1

@@ -1,0 +1,5 @@
+com/github/fge/jsonpatch/diff/JsonDiff/generateObjectDiffs(java.util.List,com.github.fge.jackson.jsonpointer.JsonPointer,com.fasterxml.jackson.databind.JsonNode,com.fasterxml.jackson.databind.JsonNode)@g_json-patch-1.7.jar.txt	3
+com/netflix/servo/publish/JmxMetricPoller/createTagList(javax.management.ObjectName)@g_servo-core-0.7.4.jar.txt	4
+com/github/fge/jsonpatch/RemoveOperation/apply(com.fasterxml.jackson.databind.JsonNode)@g_json-patch-1.7.jar.txt	1
+com/github/fge/jsonpatch/ReplaceOperation/apply(com.fasterxml.jackson.databind.JsonNode)@g_json-patch-1.7.jar.txt	2
+com/github/fge/jsonpatch/AddOperation/addToArray(com.github.fge.jackson.jsonpointer.JsonPointer,com.fasterxml.jackson.databind.JsonNode)@g_json-patch-1.7.jar.txt	0

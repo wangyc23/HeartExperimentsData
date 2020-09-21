@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/CommandlineJava/SysProperties/addDefinitionsToList(java.util.ListIterator)@g_ant-1.9.3.jar.txt	1
+org/apache/tools/ant/taskdefs/Definer/loadProperties(java.lang.ClassLoader,java.net.URL)@g_ant-1.9.3.jar.txt	0
+org/apache/tools/ant/listener/AnsiColorLogger/setColors()@g_ant-1.9.3.jar.txt	3
+org/apache/tools/ant/listener/MailLogger/buildFinished(org.apache.tools.ant.BuildEvent)@g_ant-1.9.3.jar.txt	4
+org/apache/tools/ant/Main/loadPropertyFiles()@g_ant-1.9.3.jar.txt	2

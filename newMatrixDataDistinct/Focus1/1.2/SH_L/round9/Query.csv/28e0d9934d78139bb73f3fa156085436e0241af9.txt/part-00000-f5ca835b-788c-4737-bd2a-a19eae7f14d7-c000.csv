@@ -1,0 +1,4 @@
+java/lang/Class/getSimpleName()
+java/lang/String/toLowerCase()
+java/lang/String/substring(int,int)
+java/lang/Class/getPackage()

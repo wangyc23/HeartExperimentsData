@@ -1,0 +1,4 @@
+com/kenai/jnr/x86asm/Asm/dword_ptr(com.kenai.jnr.x86asm.Register,long)
+com/kenai/jnr/x86asm/Assembler/mov(com.kenai.jnr.x86asm.Register,com.kenai.jnr.x86asm.Register)
+com/kenai/jnr/x86asm/Assembler/ret()
+com/kenai/jnr/x86asm/Assembler/movsd(com.kenai.jnr.x86asm.XMMRegister,com.kenai.jnr.x86asm.Mem)

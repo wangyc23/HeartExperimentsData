@@ -1,0 +1,4 @@
+com/sun/image/codec/jpeg/JPEGImageEncoder/encode(java.awt.image.BufferedImage)
+java/awt/image/RenderedImage/getWidth()
+com/sun/image/codec/jpeg/JPEGCodec/createJPEGEncoder(java.io.OutputStream)
+com/sun/image/codec/jpeg/JPEGEncodeParam/setQuality(float,boolean)

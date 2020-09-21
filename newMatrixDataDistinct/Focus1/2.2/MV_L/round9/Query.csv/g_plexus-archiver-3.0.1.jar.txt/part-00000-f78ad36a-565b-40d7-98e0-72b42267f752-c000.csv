@@ -1,0 +1,4 @@
+org/codehaus/plexus/archiver/commonscompress/archivers/zip/ZipFile$Entry/setSize(long)
+org/codehaus/plexus/archiver/commonscompress/archivers/zip/ZipFile$Entry/setInternalAttributes(int)
+org/codehaus/plexus/archiver/commonscompress/archivers/zip/ZipFile$Entry/setTime(long)
+org/codehaus/plexus/archiver/commonscompress/archivers/zip/ZipFile$Entry/setName(java.lang.String,byte[])

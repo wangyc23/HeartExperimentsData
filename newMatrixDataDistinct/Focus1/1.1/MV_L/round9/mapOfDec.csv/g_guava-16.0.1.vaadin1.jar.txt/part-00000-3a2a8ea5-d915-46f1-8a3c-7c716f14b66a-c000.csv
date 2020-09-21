@@ -1,0 +1,5 @@
+com/google/common/collect/Maps/Values/retainAll(java.util.Collection)@g_guava-14.0.1.jar.txt	4
+com/google/common/collect/LinkedListMultimap/replaceValues(java.lang.Object,java.lang.Iterable)@g_guava-14.0.1.jar.txt	2
+com/google/common/util/concurrent/CycleDetectingLockFactory/LockGraphNode/findPathTo(com.google.common.util.concurrent.CycleDetectingLockFactory$LockGraphNode,java.util.Set)@g_guava-14.0.1.jar.txt	3
+com/google/common/eventbus/AnnotatedHandlerFinder/getAnnotatedMethodsInternal(java.lang.Class)@g_guava-14.0.1.jar.txt	1
+com/google/common/collect/ImmutableMultimap/Builder/build()@g_guava-14.0.1.jar.txt	0

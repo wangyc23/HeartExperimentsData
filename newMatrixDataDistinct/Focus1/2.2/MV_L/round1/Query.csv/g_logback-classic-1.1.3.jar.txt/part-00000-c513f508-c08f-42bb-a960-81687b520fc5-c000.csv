@@ -1,0 +1,4 @@
+org/codehaus/groovy/runtime/typehandling/ShortTypeHandling/castToString(java.lang.Object)
+java/util/Iterator/hasNext()
+org/codehaus/groovy/runtime/GStringImpl/GStringImpl(java.lang.Object[],java.lang.String[])
+java/util/Iterator/next()

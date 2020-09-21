@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/wsat/simple/MockRestaurantManager/commit(java.lang.Object)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	4
+com/sldg/erp/controller/SldgRealm/doGetAuthenticationInfo(org.apache.shiro.authc.AuthenticationToken)@229be3a5d9e13073c9c79555a84d25aa22687ccd.txt	1
+org/jboss/as/quickstarts/client/Client/main(java.lang.String[])@229a59a387073da61f904ba2e9b2a2947c27c377.txt	2
+org/jboss/as/quickstarts/wsat/simple/RestaurantParticipant/unknown()@229a59a387073da61f904ba2e9b2a2947c27c377.txt	3
+com/sldg/erp/controller/ProdutoController/marcarProdutosCompra()@229be3a5d9e13073c9c79555a84d25aa22687ccd.txt	0

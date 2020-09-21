@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/execute()@g_maven-javadoc-plugin-2.9.1.jar.txt	2
+org/apache/maven/plugin/antrun/AntPropertyHelper/getPropertyHook(java.lang.String,java.lang.String,boolean)@g_maven-javadoc-plugin-2.9.1.jar.txt	1
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getTagletPath()@g_maven-javadoc-plugin-2.9.1.jar.txt	0
+org/apache/maven/plugin/javadoc/HelpMojo/build()@g_maven-javadoc-plugin-2.9.1.jar.txt	3
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/addCommandLineOptions(org.codehaus.plexus.util.cli.Commandline,java.util.List,java.io.File)@g_maven-javadoc-plugin-2.9.1.jar.txt	4

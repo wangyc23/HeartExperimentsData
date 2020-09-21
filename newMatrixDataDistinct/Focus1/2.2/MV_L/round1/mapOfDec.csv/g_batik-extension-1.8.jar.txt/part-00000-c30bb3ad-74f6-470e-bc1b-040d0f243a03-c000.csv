@@ -1,0 +1,5 @@
+org/apache/batik/extension/svg/BatikFlowTextElementBridge/gatherFlowPara(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Element)@g_batik-extension-1.7.jar.txt	2
+org/apache/batik/extension/svg/BatikFlowTextElementBridge/addPaintAttributes(java.text.AttributedString,org.w3c.dom.Element,org.apache.batik.gvt.TextNode,org.apache.batik.gvt.text.TextPaintInfo,org.apache.batik.bridge.BridgeContext)@g_batik-extension-1.7.jar.txt	1
+org/apache/batik/bridge/FontFace/getFontFamily(org.apache.batik.bridge.BridgeContext,org.apache.batik.util.ParsedURL)@g_batik-bridge-1.8.jar.txt	4
+org/apache/batik/extension/svg/BatikFlowTextElementBridge/addGlyphPositionAttributes(java.text.AttributedString,org.w3c.dom.Element,org.apache.batik.bridge.BridgeContext)@g_batik-extension-1.7.jar.txt	0
+org/apache/batik/extension/svg/BatikFlowTextElementBridge/getRegions(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Element)@g_batik-extension-1.7.jar.txt	3

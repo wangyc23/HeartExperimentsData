@@ -1,0 +1,4 @@
+org/w3c/dom/Element/setAttributeNS(java.lang.String,java.lang.String,java.lang.String)
+java/lang/String/charAt(int)
+java/lang/String/length()
+org/xml/sax/Locator/getLineNumber()

@@ -1,0 +1,4 @@
+0	org/apache/batik/parser/FragmentIdentifierHandler/meet()
+1	org/apache/batik/parser/FragmentIdentifierParser/reportUnexpectedCharacterError(int)
+2	org/apache/batik/parser/FragmentIdentifierHandler/xMinYMin()
+3	org/apache/batik/parser/FragmentIdentifierHandler/endPreserveAspectRatio()

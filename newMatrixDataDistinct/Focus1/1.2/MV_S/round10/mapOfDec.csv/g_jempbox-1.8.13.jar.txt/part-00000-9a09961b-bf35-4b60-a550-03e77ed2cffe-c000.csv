@@ -1,0 +1,5 @@
+org/apache/tika/config/TikaConfig/getTopLevelElementChildren(org.w3c.dom.Element,java.lang.String,java.lang.String)@g_tika-core-1.17.jar.txt	1
+org/apache/tika/config/TikaConfig/XmlLoader/loadOne(org.w3c.dom.Element,org.apache.tika.mime.MimeTypes,org.apache.tika.config.ServiceLoader)@g_tika-core-1.17.jar.txt	0
+org/apache/tika/config/TikaConfig/XmlLoader/getParams(org.w3c.dom.Element)@g_tika-core-1.17.jar.txt	2
+org/xwiki/xml/html/HTMLUtils/stripHTMLEnvelope(org.w3c.dom.Document)@g_xwiki-commons-xml-7.4.2.jar.txt	4
+org/xwiki/xml/internal/html/filter/ListFilter/filter(org.w3c.dom.Element)@g_xwiki-commons-xml-7.4.2.jar.txt	3

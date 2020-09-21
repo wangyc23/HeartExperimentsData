@@ -1,0 +1,5 @@
+demo/UserController/deleteUser(java.lang.String)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	2
+com/jakubstas/swagger/rest/UsersEndpoint/getUsers()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	4
+com/jakubstas/swagger/service/ProductService/deleteProduct(java.lang.String)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	1
+demo/CatalogServiceApplicationTests/createCatalogInfo()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	3
+demo/catalog/CatalogInfo/equals(java.lang.Object)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	0

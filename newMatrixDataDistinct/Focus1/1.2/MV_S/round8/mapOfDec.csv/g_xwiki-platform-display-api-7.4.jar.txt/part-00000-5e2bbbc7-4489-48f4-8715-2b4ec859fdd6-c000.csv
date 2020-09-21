@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/macro/toc/TocMacro/execute(org.xwiki.rendering.macro.toc.TocMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-rendering-macro-toc-7.4.2.jar.txt	3
+org/xwiki/display/internal/DocumentTitleDisplayer/extractTitleFromContent(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-rendering-macro-toc-7.4.2.jar.txt	2
+org/xwiki/display/internal/XWiki10DocumentTitleDisplayer/extractTitleFromContent(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-rendering-macro-toc-7.4.2.jar.txt	1
+org/xwiki/display/internal/DefaultDocumentDisplayer/display(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-rendering-macro-toc-7.4.2.jar.txt	4
+org/xwiki/refactoring/internal/splitter/DefaultDocumentSplitter/updateAnchors(java.util.List)@g_xwiki-rendering-macro-toc-7.4.2.jar.txt	0

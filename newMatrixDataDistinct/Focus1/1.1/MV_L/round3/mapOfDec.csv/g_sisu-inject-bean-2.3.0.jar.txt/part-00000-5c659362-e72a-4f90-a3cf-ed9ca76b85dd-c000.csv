@@ -1,0 +1,5 @@
+org/eclipse/sisu/reflect/MildValues/entrySet()@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	1
+org/eclipse/sisu/reflect/MildKeys/entrySet()@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	4
+org/eclipse/sisu/scanners/QualifierCache/qualify(org.eclipse.sisu.reflect.ClassSpace,java.lang.String)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	3
+org/eclipse/sisu/binders/TypeConverterMap/getTypeConverter(com.google.inject.TypeLiteral)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	2
+org/eclipse/sisu/binders/SpaceModule/replayCachedElements(com.google.inject.Binder)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	0

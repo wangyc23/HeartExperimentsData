@@ -1,0 +1,4 @@
+com/yahoo/ycsb/db/HBaseClient10/HBaseClient10()
+com/yahoo/ycsb/measurements/Measurements/setProperties(java.util.Properties)
+java/util/Properties/setProperty(java.lang.String,java.lang.String)
+com/yahoo/ycsb/DB/setProperties(java.util.Properties)

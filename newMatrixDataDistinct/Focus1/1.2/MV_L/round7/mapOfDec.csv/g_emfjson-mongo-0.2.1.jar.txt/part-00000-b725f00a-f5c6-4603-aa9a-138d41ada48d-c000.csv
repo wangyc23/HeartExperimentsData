@@ -1,0 +1,5 @@
+org/emfjson/mongo/streams/MongoInputStream/readJson(org.eclipse.emf.ecore.resource.Resource,java.lang.String)@g_emfjson-mongo-0.2.0.jar.txt	0
+org/springframework/social/facebook/api/impl/SocialContextTemplate/getSocialContext(java.lang.String,java.lang.String,int)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	1
+org/springframework/social/facebook/api/impl/json/TagListDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	4
+org/springframework/social/facebook/api/impl/FacebookErrorHandler/extractErrorFromResponse(org.springframework.http.client.ClientHttpResponse)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	3
+org/springframework/social/facebook/api/impl/json/ReferenceListDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	2

@@ -1,0 +1,5 @@
+org/glassfish/jersey/internal/OsgiRegistry/locateAllProviders(java.lang.String)@g_jersey-common-2.22.2.jar.txt	1
+org/jboss/resteasy/client/jaxrs/cache/MapCache/get(java.lang.String,javax.ws.rs.core.MediaType)@g_resteasy-client-3.0.11.Final.jar.txt	0
+org/jboss/resteasy/client/jaxrs/internal/proxy/ClientProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_resteasy-client-3.0.11.Final.jar.txt	3
+org/jboss/resteasy/client/jaxrs/internal/proxy/extractors/ClientResponseProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_resteasy-client-3.0.11.Final.jar.txt	4
+org/jboss/resteasy/client/jaxrs/ResteasyClientBuilder/withConfig(javax.ws.rs.core.Configuration)@g_resteasy-client-3.0.11.Final.jar.txt	2

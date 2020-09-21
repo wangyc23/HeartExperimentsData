@@ -1,0 +1,5 @@
+org/apache/cxf/transport/http/AbstractHTTPDestination/getId(java.util.Map)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	2
+org/apache/cxf/jaxrs/impl/MetadataMap/equalsIgnoreValueOrder(javax.ws.rs.core.MultivaluedMap)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/model/ClassResourceInfo/getSubResource(java.lang.Class,java.lang.Class,java.lang.Object,boolean,org.apache.cxf.message.Message)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	3
+org/apache/cxf/jaxrs/impl/HttpHeadersImpl/getCookies()@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	4
+org/apache/cxf/jaxrs/ext/MessageContextImpl/convertToAttachments(java.lang.Object)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	0

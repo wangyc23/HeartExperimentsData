@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+java/util/regex/Matcher/group(int)
+java/util/Arrays/asList(java.lang.Object[])
+java/lang/String/substring(int)

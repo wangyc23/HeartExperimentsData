@@ -1,0 +1,4 @@
+org/xwiki/environment/Environment/getTemporaryDirectory()
+java/lang/StringBuilder/append(java.lang.String)
+org/artofsolving/jodconverter/office/ExternalOfficeManagerConfiguration/ExternalOfficeManagerConfiguration()
+org/artofsolving/jodconverter/OfficeDocumentConverter/OfficeDocumentConverter(org.artofsolving.jodconverter.office.OfficeManager)

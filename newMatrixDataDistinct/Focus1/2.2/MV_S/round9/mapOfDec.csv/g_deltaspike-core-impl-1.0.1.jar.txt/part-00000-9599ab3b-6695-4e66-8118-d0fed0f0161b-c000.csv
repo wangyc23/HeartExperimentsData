@@ -1,0 +1,5 @@
+org/apache/deltaspike/core/util/Annotateds/createTypeId(java.lang.Class,java.util.Collection,java.util.Collection,java.util.Collection,java.util.Collection)@g_deltaspike-core-api-1.0.1.jar.txt	4
+org/apache/deltaspike/core/util/ClassDeactivationUtils/initConfiguredClassDeactivators(java.lang.ClassLoader)@g_deltaspike-core-api-1.0.1.jar.txt	2
+org/apache/deltaspike/core/util/ServiceUtils/loadServiceImplementations(java.lang.Class,boolean)@g_deltaspike-core-api-1.0.1.jar.txt	3
+org/apache/deltaspike/core/util/ClassDeactivationUtils/initDeactivatableCacheFor(java.lang.Class)@g_deltaspike-core-api-1.0.1.jar.txt	1
+org/apache/deltaspike/core/api/provider/BeanProvider/getBeanDefinitions(java.lang.Class,boolean,boolean,javax.enterprise.inject.spi.BeanManager)@g_deltaspike-core-api-1.0.1.jar.txt	0

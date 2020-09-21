@@ -1,0 +1,4 @@
+org/apache/maven/plugin/descriptor/MojoDescriptor/getParameters()
+org/apache/maven/plugin/descriptor/Parameter/getExpression()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Iterator/next()

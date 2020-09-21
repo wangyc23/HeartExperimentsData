@@ -1,0 +1,5 @@
+org/carrot2/clustering/lingo/UniqueLabelAssignerDescriptor/<clinit>()@g_solr-carrot2-core-3.5.0.jar.txt	4
+org/carrot2/text/preprocessing/filter/MinLengthLabelFilterDescriptor/<clinit>()@g_solr-carrot2-core-3.5.0.jar.txt	0
+org/carrot2/source/ambient/Odp239DocumentSourceDescriptor/<clinit>()@g_solr-carrot2-core-3.5.0.jar.txt	2
+org/carrot2/core/attribute/CommonAttributesDescriptor/<clinit>()@g_solr-carrot2-core-3.5.0.jar.txt	1
+org/carrot2/source/xml/XmlDocumentSourceHelperDescriptor/<clinit>()@g_solr-carrot2-core-3.5.0.jar.txt	3

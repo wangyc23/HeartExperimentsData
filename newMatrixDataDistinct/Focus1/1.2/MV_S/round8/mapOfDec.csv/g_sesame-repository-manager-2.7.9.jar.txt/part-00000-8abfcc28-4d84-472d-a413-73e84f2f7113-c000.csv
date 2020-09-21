@@ -1,0 +1,5 @@
+net/sf/ehcache/transaction/local/LocalTransactionStore/recover()@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/transaction/local/LocalTransactionContext/rollback()@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/transaction/local/LocalTransactionContext/commit(boolean)@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/transaction/manager/DefaultTransactionManagerLookup/init()@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/transaction/local/LocalTransactionStore/setAttributeExtractors(java.util.Map)@g_ehcache-core-2.6.2.jar.txt	1

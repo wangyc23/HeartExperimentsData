@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.2.jar.txt	0
+org/apache/maven/plugin/dependency/fromDependencies/UnpackDependenciesMojo/doExecute()@g_maven-war-plugin-2.2.jar.txt	3
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/logMismatch(org.apache.maven.artifact.Artifact,org.apache.maven.model.Dependency)@g_maven-war-plugin-2.2.jar.txt	2
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-war-plugin-2.2.jar.txt	1
+org/apache/maven/plugin/war/util/WebappStructure/analyseDependencies(org.apache.maven.plugin.war.util.WebappStructure$DependenciesAnalysisCallback)@g_maven-war-plugin-2.2.jar.txt	4

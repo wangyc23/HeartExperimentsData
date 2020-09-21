@@ -1,0 +1,5 @@
+aQute/lib/osgi/ZipResource/build(aQute.lib.osgi.Jar,java.io.File,java.util.regex.Pattern)@g_bndlib-0.0.145.jar.txt	4
+aQute/lib/osgi/Analyzer/properties(java.io.PrintWriter,java.util.Map)@g_bndlib-0.0.145.jar.txt	1
+aQute/lib/osgi/Analyzer/augmentImports()@g_bndlib-0.0.145.jar.txt	3
+aQute/lib/osgi/Builder/doPom(aQute.lib.osgi.Jar)@g_bndlib-0.0.145.jar.txt	0
+aQute/lib/osgi/eclipse/EclipseClasspath/replaceVar(java.lang.String)@g_bndlib-0.0.145.jar.txt	2

@@ -1,0 +1,5 @@
+zxm/istock/ft/channel/trend/ReverseResolver/save()@07534c078ef8c9f2d93d8b3f2fc4ca65ee3e88bf.txt	0
+zxm/istock/ft/toprising/DailyTopFetcher/toString(zxm.istock.ft.toprising.TopDatum)@07534c078ef8c9f2d93d8b3f2fc4ca65ee3e88bf.txt	4
+zxm/istock/ft/tx/broker/ECITIC/getOutstandingTransactions()@07534c078ef8c9f2d93d8b3f2fc4ca65ee3e88bf.txt	3
+zxm/istock/ft/tx/dummy/TransactionData/getBillsBySymbol(zxm.istock.ft.market.Symbol)@07534c078ef8c9f2d93d8b3f2fc4ca65ee3e88bf.txt	2
+zxm/istock/ft/tx/broker/XCZQ/getHistBillList(java.util.Date,java.util.Date)@07534c078ef8c9f2d93d8b3f2fc4ca65ee3e88bf.txt	1

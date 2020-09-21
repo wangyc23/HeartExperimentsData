@@ -1,0 +1,4 @@
+java/math/BigDecimal/shortValueExact()
+java/lang/Number/shortValue()
+java/lang/Object/toString()
+java/lang/Short/valueOf(short)

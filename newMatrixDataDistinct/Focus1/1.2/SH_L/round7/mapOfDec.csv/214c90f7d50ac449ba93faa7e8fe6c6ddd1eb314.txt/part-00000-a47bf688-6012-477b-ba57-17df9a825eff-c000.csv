@@ -1,0 +1,5 @@
+org/jboss/arquillian/test/impl/EventTestRunnerAdaptorTestCase/shouldHandleLifeCycleEvents()@25d5552595a41b75817cd39de029b85e8eb3b638.txt	0
+org/jboss/arquillian/container/test/impl/execution/LocalTestExecuterTestCase/shouldReturnFailedOnException()@25d5552595a41b75817cd39de029b85e8eb3b638.txt	4
+org/jboss/arquillian/test/impl/EventTestRunnerAdaptorTestCase/shouldHandleLifeCycleEvents()@2680f6dfa65518ad757df3e82756eab5488c302f.txt	1
+org/jboss/arquillian/container/test/impl/execution/ClientTestExecuterTestCase/test(java.lang.String,java.lang.Object)@25d5552595a41b75817cd39de029b85e8eb3b638.txt	3
+org/jboss/arquillian/container/test/impl/execution/RemoteTestExecuterTestCase/shouldSetTestResult()@25d5552595a41b75817cd39de029b85e8eb3b638.txt	2

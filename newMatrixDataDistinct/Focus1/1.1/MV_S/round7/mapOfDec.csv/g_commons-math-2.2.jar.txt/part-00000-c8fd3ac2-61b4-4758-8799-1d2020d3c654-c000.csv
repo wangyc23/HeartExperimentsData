@@ -1,0 +1,5 @@
+com/ibm/icu/text/DateTimePatternGenerator/getFields(java.lang.String)@g_icu4j-50.1.1.jar.txt	4
+com/ibm/icu/util/Currency/CurrencyNameResultHandler/handlePrefixMatch(int,java.util.Iterator)@g_icu4j-50.1.1.jar.txt	3
+com/ibm/icu/text/DateIntervalInfo/cloneUnfrozenDII()@g_icu4j-50.1.1.jar.txt	2
+com/ibm/icu/text/MessageFormat/clone()@g_icu4j-50.1.1.jar.txt	0
+com/ibm/icu/util/ULocale/JDKLocaleHelper/toULocale7(java.util.Locale)@g_icu4j-50.1.1.jar.txt	1

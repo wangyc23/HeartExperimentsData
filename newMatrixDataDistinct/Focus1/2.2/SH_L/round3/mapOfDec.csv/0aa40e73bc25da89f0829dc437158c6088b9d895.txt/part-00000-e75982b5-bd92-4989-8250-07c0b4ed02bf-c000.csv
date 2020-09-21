@@ -1,0 +1,5 @@
+com/github/kristofa/brave/BraveCallable/call()@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	0
+com/github/kristofa/brave/ServerSpanThreadBinderTest/testSetCurrentSpanNull()@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	3
+com/github/kristofa/brave/AutoValue_BraveCallable/equals(java.lang.Object)@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	1
+com/github/kristofa/brave/BraveCallableTest/testCall()@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	2
+com/github/kristofa/brave/spring/ServletHandlerInterceptor/afterConcurrentHandlingStarted(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.Object)@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	4

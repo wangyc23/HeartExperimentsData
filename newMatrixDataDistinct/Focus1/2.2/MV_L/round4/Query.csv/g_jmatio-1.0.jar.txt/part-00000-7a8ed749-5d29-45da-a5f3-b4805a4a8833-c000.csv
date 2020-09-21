@@ -1,0 +1,4 @@
+com/jmatio/types/MLCell/getM()
+com/jmatio/types/MLCell/getN()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuffer/append(java.lang.Object)

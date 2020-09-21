@@ -1,0 +1,5 @@
+org/apache/maven/tools/plugin/generator/PluginHelpGenerator/writeVariables(java.io.Writer,org.apache.maven.plugin.descriptor.MojoDescriptor)@g_maven-plugin-tools-api-2.9.jar.txt	4
+org/apache/maven/tools/plugin/generator/PluginXdocGenerator/writeParameterDetails(org.apache.maven.plugin.descriptor.MojoDescriptor,java.util.List,org.codehaus.plexus.util.xml.XMLWriter)@g_maven-plugin-tools-api-2.9.jar.txt	1
+org/apache/maven/tools/plugin/util/PluginUtils/writeDependencies(org.codehaus.plexus.util.xml.XMLWriter,org.apache.maven.plugin.descriptor.PluginDescriptor)@g_maven-plugin-tools-api-2.9.jar.txt	0
+org/apache/maven/tools/plugin/generator/PluginXdocGenerator/writeParameterList(org.apache.maven.plugin.descriptor.MojoDescriptor,java.lang.String,java.util.List,org.codehaus.plexus.util.xml.XMLWriter)@g_maven-plugin-tools-api-2.9.jar.txt	2
+org/apache/maven/tools/plugin/generator/PluginHelpGenerator/writeExecute(java.io.Writer,org.apache.maven.plugin.descriptor.PluginDescriptor,org.apache.maven.plugin.descriptor.MojoDescriptor)@g_maven-plugin-tools-api-2.9.jar.txt	3

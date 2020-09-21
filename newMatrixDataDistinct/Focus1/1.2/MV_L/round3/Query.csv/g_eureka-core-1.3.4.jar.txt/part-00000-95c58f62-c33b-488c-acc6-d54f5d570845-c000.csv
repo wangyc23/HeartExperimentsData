@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+com/amazonaws/services/route53/model/ListResourceRecordSetsRequest/setMaxItems(java.lang.String)
+com/amazonaws/services/route53/model/HostedZone/getId()
+java/util/Iterator/next()

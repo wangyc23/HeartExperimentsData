@@ -1,0 +1,2 @@
+0	java/lang/Integer/valueOf(java.lang.String)
+1	org/hoteia/qalingo/core/service/openid/Base64/InputStream/InputStream(java.io.InputStream,int)

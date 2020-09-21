@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rio/OWLAPIRioTrixParser/parse(java.lang.Object)@g_sesame-repository-http-2.7.9.jar.txt	4
+org/semanticweb/owlapi/rio/RioRenderer/writeNamespaces()@g_sesame-repository-http-2.7.9.jar.txt	1
+org/openrdf/repository/config/ConfigTemplate/parseTemplate()@g_sesame-repository-http-2.7.9.jar.txt	3
+org/semanticweb/owlapi/rio/RioRenderer/render(org.semanticweb.owlapi.io.RDFResource,boolean)@g_sesame-repository-http-2.7.9.jar.txt	2
+org/semanticweb/owlapi/rio/RioTrixParserFactory/TrixParserImpl/parseDocumentSource(org.semanticweb.owlapi.io.OWLOntologyDocumentSource,java.lang.String,org.openrdf.rio.RDFHandler)@g_sesame-repository-http-2.7.9.jar.txt	0

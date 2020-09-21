@@ -1,0 +1,4 @@
+java/io/BufferedInputStream/read(byte[],int,int)
+org/apache/tools/zip/ZipOutputStream/ZipOutputStream(java.io.OutputStream)
+java/lang/Throwable/printStackTrace()
+org/apache/tools/zip/ZipOutputStream/write(byte[],int,int)

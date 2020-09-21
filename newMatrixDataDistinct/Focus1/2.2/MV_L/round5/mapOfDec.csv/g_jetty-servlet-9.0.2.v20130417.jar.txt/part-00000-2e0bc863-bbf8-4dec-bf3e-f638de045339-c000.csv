@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlet/ServletTester/createConnector(boolean)@g_jetty-servlet-9.2.2.v20140723.jar.txt	1
+org/eclipse/jetty/servlet/StatisticsServlet/sendTextResponse(javax.servlet.http.HttpServletResponse)@g_jetty-servlet-9.0.5.v20130815.jar.txt	3
+org/eclipse/jetty/servlet/ServletHandler/Chain/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse)@g_jetty-servlet-9.0.5.v20130815.jar.txt	4
+org/eclipse/jetty/servlet/StatisticsServlet/sendXmlResponse(javax.servlet.http.HttpServletResponse)@g_jetty-servlet-9.0.5.v20130815.jar.txt	2
+org/eclipse/jetty/servlet/ServletTester/createConnector(boolean)@g_jetty-servlet-9.0.5.v20130815.jar.txt	0

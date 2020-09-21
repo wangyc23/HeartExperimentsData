@@ -1,0 +1,5 @@
+omw/controllers/TrouverServlet/postRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@05f4c8fece83cfeb4469846407c47ce650324139.txt	4
+net/lr/tutorial/karaf/vote/service/MemoryVoteService/addVote(java.lang.String,int)@05f4c8fece83cfeb4469846407c47ce650324139.txt	2
+com/fhd/bpm/service/ProcessService/findUserTaskList(java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	0
+net/lr/tutorial/karaf/cxf/personservice/person/ObjectFactory/createPerson(net.lr.tutorial.karaf.cxf.personservice.person.Person)@05f4c8fece83cfeb4469846407c47ce650324139.txt	3
+omw/metier/UtilisateurManager/countUsersMailUsed(java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	1

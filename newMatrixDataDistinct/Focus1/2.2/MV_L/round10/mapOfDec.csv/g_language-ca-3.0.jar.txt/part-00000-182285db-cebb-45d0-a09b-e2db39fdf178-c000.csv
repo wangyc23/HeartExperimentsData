@@ -1,0 +1,5 @@
+org/languagetool/rules/de/CaseRuleExceptions/loadExceptions(java.lang.String)@g_language-de-3.0.jar.txt	2
+org/languagetool/tagging/uk/CompoundTagger/<clinit>()@g_language-uk-3.0.jar.txt	4
+org/languagetool/tagging/uk/CompoundTagger/loadSet(java.lang.String)@g_language-uk-3.0.jar.txt	0
+org/languagetool/rules/de/GermanSpellerRule/getSpeller(org.languagetool.Language)@g_language-de-3.0.jar.txt	1
+org/languagetool/language/Ukrainian/getRuleFileNames()@g_language-uk-3.0.jar.txt	3

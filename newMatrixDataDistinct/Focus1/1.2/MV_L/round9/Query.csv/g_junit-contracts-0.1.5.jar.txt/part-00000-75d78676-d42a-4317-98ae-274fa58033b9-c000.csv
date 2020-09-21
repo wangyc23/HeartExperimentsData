@@ -1,0 +1,4 @@
+java/io/File/isDirectory()
+java/io/File/listFiles(java.io.FileFilter)
+java/io/File/exists()
+java/lang/String/replace(char,char)

@@ -1,0 +1,5 @@
+com/gs/dao/impl/mysql/DbcpBean/initDS(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,int,int,int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	4
+au/edu/anu/orcid/exception/OAuthExceptionMapper/toResponse(au.edu.anu.orcid.auth.orcid.OAuthException)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	3
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+com/gs/model/PagePOJO/toJson()@2aba7b19079a7af2e00355cdb996ae2085016663.txt	2
+au/edu/anu/orcid/auth/orcid/OAuthAuthenticationTest/createTest()@2aba7b19079a7af2e00355cdb996ae2085016663.txt	1

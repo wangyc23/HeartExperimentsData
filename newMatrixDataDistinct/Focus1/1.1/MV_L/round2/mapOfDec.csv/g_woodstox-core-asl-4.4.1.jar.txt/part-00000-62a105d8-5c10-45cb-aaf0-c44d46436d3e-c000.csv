@@ -1,0 +1,5 @@
+com/ctc/wstx/dtd/FullDTDReader/handleElementDecl()@g_woodstox-core-asl-4.2.0.jar.txt	1
+com/ctc/wstx/msv/GenericMsvValidator/onID(org.relaxng.datatype.Datatype,com.sun.msv.verifier.regexp.StringToken)@g_woodstox-core-asl-4.2.0.jar.txt	2
+com/ctc/wstx/dtd/DTDValidator/validateAttribute(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_woodstox-core-asl-4.2.0.jar.txt	0
+com/ctc/wstx/dtd/FullDTDReader/readMixedSpec(com.ctc.wstx.util.PrefixedName,boolean)@g_woodstox-core-asl-4.2.0.jar.txt	3
+com/ctc/wstx/dtd/FullDTDReader/readContentSpec(com.ctc.wstx.util.PrefixedName,boolean,boolean)@g_woodstox-core-asl-4.2.0.jar.txt	4

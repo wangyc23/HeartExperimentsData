@@ -1,0 +1,5 @@
+org/powermock/api/extension/listener/AnnotationEnabler/processAnnotationOn(org.mockito.Captor,java.lang.reflect.Field)@g_xwiki-commons-component-api-7.0.jar.txt	3
+org/powermock/api/mockito/PowerMockito/verifyNew(java.lang.Class,org.mockito.verification.VerificationMode)@g_xwiki-commons-component-api-7.0.jar.txt	2
+org/powermock/api/extension/listener/AnnotationEnabler/standardInject(java.lang.Object)@g_xwiki-commons-component-api-7.0.jar.txt	1
+com/esotericsoftware/kryo/serializers/TaggedFieldSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)@g_xwiki-commons-component-api-7.0.jar.txt	4
+com/esotericsoftware/kryo/serializers/FieldSerializer/rebuildCachedFields()@g_xwiki-commons-component-api-7.0.jar.txt	0

@@ -1,0 +1,5 @@
+io/netty/channel/socket/nio/NioDatagramChannel/doReadMessages(java.util.List)@g_netty-transport-4.1.7.Final.jar.txt	4
+io/netty/channel/socket/oio/OioDatagramChannel/doReadMessages(java.util.List)@g_netty-transport-4.1.7.Final.jar.txt	1
+io/netty/channel/socket/oio/OioDatagramChannel/doReadMessages(java.util.List)@g_netty-transport-4.0.25.Final.jar.txt	0
+io/netty/channel/socket/oio/OioDatagramChannel/doWrite(io.netty.channel.ChannelOutboundBuffer)@g_netty-transport-4.1.7.Final.jar.txt	3
+io/netty/channel/socket/oio/OioDatagramChannel/doWrite(io.netty.channel.ChannelOutboundBuffer)@g_netty-transport-4.0.25.Final.jar.txt	2

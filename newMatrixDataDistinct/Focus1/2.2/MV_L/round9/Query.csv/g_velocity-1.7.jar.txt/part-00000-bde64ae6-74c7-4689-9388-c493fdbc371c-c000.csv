@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+org/apache/commons/lang/text/StrBuilder/append(char)
+java/lang/Character/isLetterOrDigit(char)
+org/apache/commons/lang/text/StrBuilder/length()

@@ -1,0 +1,4 @@
+0	org/common/persistence/AbstractRawServicePersistenceIntegrationTest/persistNewEntity()
+1	org/common/persistence/IEntityOperations/change(T)
+2	org/common/persistence/AbstractRawServicePersistenceIntegrationTest/getApi()
+3	org/common/persistence/AbstractRawServicePersistenceIntegrationTest/getEntityOps()

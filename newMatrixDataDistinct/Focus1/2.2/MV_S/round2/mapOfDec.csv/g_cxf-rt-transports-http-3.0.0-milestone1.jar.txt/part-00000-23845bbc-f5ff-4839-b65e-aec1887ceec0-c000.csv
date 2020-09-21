@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/validation/JAXRSParameterNameProvider/getParameterNames(java.lang.reflect.Method)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/transport/http/osgi/HttpConduitConfigApplier/applyTlsClientParameters(java.util.Dictionary,org.apache.cxf.transport.http.HTTPConduit)@g_cxf-rt-transports-http-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/JAXRSServerFactoryBean/setApplication(javax.ws.rs.core.Application)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/transport/http/auth/DigestAuthSupplier/DigestInfo/generateAuth(java.lang.String,java.lang.String,java.lang.String)@g_cxf-rt-transports-http-3.0.16.jar.txt	2
+org/apache/cxf/transport/http/HTTPConduit/WrappedOutputStream/close()@g_cxf-rt-transports-http-3.0.16.jar.txt	0

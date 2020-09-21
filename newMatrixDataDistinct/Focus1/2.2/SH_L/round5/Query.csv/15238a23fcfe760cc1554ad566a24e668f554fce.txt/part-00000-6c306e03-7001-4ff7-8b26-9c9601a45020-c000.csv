@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/apache/oozie/servlet/MockCoordinatorEngineService/MockCoordinatorEngine/validateCoordinatorIdx(java.lang.String)
+org/apache/oozie/CoordinatorActionInfo/CoordinatorActionInfo(java.util.List)
+org/apache/oozie/client/CoordinatorJob/getActions()

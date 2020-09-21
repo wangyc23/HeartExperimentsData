@@ -1,0 +1,4 @@
+org/xwiki/filter/instance/internal/PropertyClassFilter/onWikiClassPropertyField(java.lang.String,java.lang.String,org.xwiki.filter.FilterEventParameters)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+org/xwiki/filter/instance/internal/PropertyClassFilter/endWikiClassProperty(java.lang.String,java.lang.String,org.xwiki.filter.FilterEventParameters)

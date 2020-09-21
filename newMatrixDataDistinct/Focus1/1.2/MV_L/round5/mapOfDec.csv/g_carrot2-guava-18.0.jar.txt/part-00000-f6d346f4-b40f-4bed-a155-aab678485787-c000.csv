@@ -1,0 +1,5 @@
+org/apache/jena/ext/com/google/common/net/MediaType/create(java.lang.String,java.lang.String,org.apache.jena.ext.com.google.common.collect.Multimap)@g_jena-shaded-guava-3.0.0.jar.txt	0
+org/apache/jena/ext/com/google/common/util/concurrent/CycleDetectingLockFactory/LockGraphNode/findPathTo(org.apache.jena.ext.com.google.common.util.concurrent.CycleDetectingLockFactory$LockGraphNode,java.util.Set)@g_jena-shaded-guava-3.0.0.jar.txt	1
+org/apache/jena/ext/com/google/common/collect/StandardTable/Column/removeFromColumnIf(org.apache.jena.ext.com.google.common.base.Predicate)@g_jena-shaded-guava-3.0.0.jar.txt	3
+org/apache/jena/ext/com/google/common/collect/FilteredEntryMultimap/AsMap/remove(java.lang.Object)@g_jena-shaded-guava-3.0.0.jar.txt	4
+org/apache/jena/ext/com/google/common/net/MediaType/withParameter(java.lang.String,java.lang.String)@g_jena-shaded-guava-3.0.0.jar.txt	2

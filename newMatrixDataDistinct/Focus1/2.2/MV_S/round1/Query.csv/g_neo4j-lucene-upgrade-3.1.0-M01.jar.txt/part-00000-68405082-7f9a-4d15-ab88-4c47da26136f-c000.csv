@@ -1,0 +1,4 @@
+java/lang/invoke/MethodType/methodType(java.lang.Class,java.lang.Class)
+java/util/function/Supplier/get()
+java/nio/file/Path/toString()
+java/lang/Thread/setContextClassLoader(java.lang.ClassLoader)

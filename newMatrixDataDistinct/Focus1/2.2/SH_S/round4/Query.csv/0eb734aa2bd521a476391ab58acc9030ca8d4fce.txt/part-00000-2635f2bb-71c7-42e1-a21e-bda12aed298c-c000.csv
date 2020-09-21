@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/io/PrintStream/println(java.lang.String)
+org/eu/eark/etl/webscraping/WebScraper/createInstance(java.lang.String,java.lang.String)
+java/lang/String/equals(java.lang.Object)

@@ -1,0 +1,8 @@
+0	java/time/LocalDateTime/ofInstant(java.time.Instant,java.time.ZoneId)
+1	java/util/Map/remove(java.lang.Object)
+2	java/lang/ref/SoftReference/get()
+3	br/com/geladaonline/services/EntityCache/EntityDatePair/getDate()
+4	java/util/Date/getTime()
+5	org/hibernate/type/AbstractStandardBasicType/nullSafeGet(java.sql.ResultSet,java.lang.String[],org.hibernate.engine.spi.SessionImplementor,java.lang.Object)
+6	java/time/ZoneId/systemDefault()
+7	java/util/Map/get(java.lang.Object)

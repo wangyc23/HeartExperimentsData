@@ -1,0 +1,4 @@
+com/web/mavenproject6/entities/Users/getRole()
+org/springframework/security/core/userdetails/User/User(java.lang.String,java.lang.String,boolean,boolean,boolean,boolean,java.util.Collection)
+com/web/mavenproject6/entities/Users/getEmail()
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)

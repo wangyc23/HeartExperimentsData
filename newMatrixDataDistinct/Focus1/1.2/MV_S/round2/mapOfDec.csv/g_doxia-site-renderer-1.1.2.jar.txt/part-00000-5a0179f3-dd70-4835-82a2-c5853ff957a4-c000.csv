@@ -1,0 +1,5 @@
+org/apache/ivy/core/settings/XmlSettingsParser/urlFromFileAttribute(java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/ant/AntBuildTrigger/progress(org.apache.ivy.core.event.IvyEvent)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/plugins/resolver/util/FileURLLister/listAll(java.net.URL)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/deliver/DeliverEngine/deliver(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,java.lang.String,org.apache.ivy.core.deliver.DeliverOptions)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/ant/IvyBuildList/doExecute()@g_ivy-2.3.0.jar.txt	0

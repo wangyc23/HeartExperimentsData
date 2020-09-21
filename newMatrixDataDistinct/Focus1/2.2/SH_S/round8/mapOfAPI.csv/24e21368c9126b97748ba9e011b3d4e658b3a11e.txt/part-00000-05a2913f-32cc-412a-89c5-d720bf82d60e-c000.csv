@@ -1,0 +1,8 @@
+0	org/archive/io/ArchiveRecordHeader/getUrl()
+1	java/lang/String/equals(java.lang.Object)
+2	java/io/File/delete()
+3	org/apache/commons/collections/bidimap/AbstractDualBidiMap/isEmpty()
+4	java/lang/String/startsWith(java.lang.String)
+5	org/archive/io/ArchiveRecordHeader/getHeaderValue(java.lang.String)
+6	java/io/File/File(java.lang.String)
+7	org/apache/commons/collections/bidimap/AbstractDualBidiMap/keySet()

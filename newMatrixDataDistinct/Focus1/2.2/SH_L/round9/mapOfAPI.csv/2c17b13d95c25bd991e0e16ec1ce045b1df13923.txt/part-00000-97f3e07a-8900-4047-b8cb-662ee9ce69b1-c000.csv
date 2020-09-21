@@ -1,0 +1,7 @@
+0	org/springframework/boot/builder/SpringApplicationBuilder/web(boolean)
+1	org/springframework/boot/SpringApplication/getInitializers()
+2	org/springframework/boot/builder/SpringApplicationBuilder/child(java.lang.Object[])
+3	org/springframework/boot/builder/SpringApplicationBuilder/run(java.lang.String[])
+4	org/springframework/boot/builder/SpringApplicationBuilder/application()
+5	org/springframework/boot/builder/SpringApplicationBuilder/SpringApplicationBuilder(java.lang.Object[])
+6	org/springframework/boot/builder/SpringApplicationBuilder/initializers(org.springframework.boot.builder.ApplicationContextInitializer<?>[])

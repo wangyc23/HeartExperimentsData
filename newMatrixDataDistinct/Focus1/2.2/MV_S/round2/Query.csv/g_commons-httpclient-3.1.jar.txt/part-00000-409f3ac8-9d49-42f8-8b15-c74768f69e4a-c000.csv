@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/apache/commons/logging/Log/isInfoEnabled()
+org/apache/commons/logging/Log/info(java.lang.Object)
+java/util/Iterator/next()

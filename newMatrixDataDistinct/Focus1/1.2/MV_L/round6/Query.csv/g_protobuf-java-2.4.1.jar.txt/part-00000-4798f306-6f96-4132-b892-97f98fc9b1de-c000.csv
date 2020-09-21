@@ -1,0 +1,4 @@
+com/google/protobuf/DescriptorProtos$DescriptorProto/isInitialized()
+com/google/protobuf/DescriptorProtos$DescriptorProto$Builder/getNestedType(int)
+com/google/protobuf/DescriptorProtos$FieldDescriptorProto/isInitialized()
+com/google/protobuf/DescriptorProtos$DescriptorProto$Builder/getExtension(int)

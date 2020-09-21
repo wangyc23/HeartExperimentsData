@@ -1,0 +1,4 @@
+org/keycloak/testsuite/model/UserSessionProviderTest/resetSession()
+org/keycloak/models/KeycloakSession/users()
+org/keycloak/models/UserFederationManager/getUserByUsername(java.lang.String,org.keycloak.models.RealmModel)
+java/util/Set/add(E)

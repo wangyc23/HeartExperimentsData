@@ -1,0 +1,4 @@
+com/novthir/security/utils/AjaxObject/newOk(java.lang.String)
+com/novthir/security/entity/User/getUsername()
+com/novthir/security/log/impl/LogUitl/putArgs(com.novthir.security.log.LogMessageObject)
+com/novthir/security/entity/User/setEmail(java.lang.String)

@@ -1,0 +1,5 @@
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/run(java.lang.String[])@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	4
+de/l3s/warc/reader/ext/AppTest/testApp()@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	3
+de/l3s/warc/reader/ext/WARCFileInputFormat/setUrlPattern(org.apache.hadoop.conf.Configuration,java.lang.String)@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	2
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/generateUrls(java.util.List,java.util.List,int)@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	1
+de/l3s/warc/reader/ext/WARCFileRecordReader/close()@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	0

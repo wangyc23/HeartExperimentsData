@@ -1,0 +1,5 @@
+com/xpn/xwiki/xmlrpc/XWikiXmlRpcApiImpl/getOutputSyntaxes(java.lang.String)@g_xwiki-platform-oldcore-7.0.jar.txt	1
+com/xpn/xwiki/XWiki/rollback(com.xpn.xwiki.doc.XWikiDocument,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-oldcore-7.0.jar.txt	2
+com/xpn/xwiki/plugin/rightsmanager/RightsManager/removeUserOrGroupFromAllRights(java.lang.String,java.lang.String,java.lang.String,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-oldcore-7.0.jar.txt	3
+com/xpn/xwiki/xmlrpc/XWikiXmlRpcApiImpl/getInputSyntaxes(java.lang.String)@g_xwiki-platform-oldcore-7.0.jar.txt	0
+com/xpn/xwiki/store/XWikiHibernateStore/searchGenericInternal(java.lang.String,int,int,java.util.List,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-oldcore-7.0.jar.txt	4

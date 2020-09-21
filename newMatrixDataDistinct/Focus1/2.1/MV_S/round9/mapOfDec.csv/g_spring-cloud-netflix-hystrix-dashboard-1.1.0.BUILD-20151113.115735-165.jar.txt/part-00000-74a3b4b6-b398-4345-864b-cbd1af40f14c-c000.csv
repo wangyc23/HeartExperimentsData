@@ -1,0 +1,5 @@
+com/amazonaws/auth/profile/ProfilesConfigFileWriter/ProfilesConfigFileWriterHelper/onProfileEndingLine(java.lang.String)@g_aws-java-sdk-core-1.9.3.jar.txt	3
+org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration/ProxyStreamServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-cloud-netflix-hystrix-dashboard-1.1.0.BUILD-SNAPSHOT.jar.txt	0
+com/amazonaws/auth/policy/internal/JsonPolicyWriter/groupPrincipalByScheme(java.util.List)@g_aws-java-sdk-core-1.9.3.jar.txt	4
+com/amazonaws/util/json/JSONObject/toString()@g_aws-java-sdk-core-1.9.3.jar.txt	1
+com/amazonaws/auth/AWS4Signer/getCanonicalizedHeaderString(com.amazonaws.Request)@g_aws-java-sdk-core-1.9.3.jar.txt	2

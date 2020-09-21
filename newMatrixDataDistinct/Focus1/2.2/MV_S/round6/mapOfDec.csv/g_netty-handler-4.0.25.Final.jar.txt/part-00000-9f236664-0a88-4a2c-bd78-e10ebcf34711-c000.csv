@@ -1,0 +1,5 @@
+io/netty/handler/ssl/util/FingerprintTrustManagerFactory/toFingerprintArray(java.lang.Iterable)@g_netty-all-4.0.28.Final.jar.txt	0
+io/netty/channel/nio/NioEventLoop/rebuildSelector()@g_netty-all-4.0.28.Final.jar.txt	3
+io/netty/handler/codec/http/multipart/HttpPostRequestEncoder/finalizeRequest()@g_netty-all-4.0.28.Final.jar.txt	2
+io/netty/handler/codec/spdy/SpdyHttpDecoder/decode(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.spdy.SpdyFrame,java.util.List)@g_netty-all-4.0.28.Final.jar.txt	4
+io/netty/handler/codec/spdy/SpdyHeaderBlockRawEncoder/encode(io.netty.buffer.ByteBufAllocator,io.netty.handler.codec.spdy.SpdyHeadersFrame)@g_netty-all-4.0.28.Final.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/updateJavadocTags(java.lang.StringBuffer,com.thoughtworks.qdox.model.AbstractInheritableJavaEntity,boolean,org.apache.maven.plugin.javadoc.AbstractFixJavadocMojo$JavaEntityTags)@g_maven-javadoc-plugin-2.8.1.jar.txt	4
+org/apache/maven/plugin/javadoc/JavadocUtil/getIncludedFiles(java.io.File,java.lang.String[],java.lang.String[])@g_maven-javadoc-plugin-2.8.1.jar.txt	2
+org/apache/maven/plugin/javadoc/JavadocUtil/PathTokenizer/nextToken()@g_maven-javadoc-plugin-2.8.1.jar.txt	1
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/updateJavadocComment(java.lang.StringBuffer,java.lang.String,com.thoughtworks.qdox.model.AbstractInheritableJavaEntity,java.lang.String)@g_maven-javadoc-plugin-2.8.1.jar.txt	3
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/updateJavadocComment(java.io.StringWriter,java.lang.String,com.thoughtworks.qdox.model.AbstractInheritableJavaEntity,java.lang.String)@g_maven-javadoc-plugin-2.8.1.jar.txt	0

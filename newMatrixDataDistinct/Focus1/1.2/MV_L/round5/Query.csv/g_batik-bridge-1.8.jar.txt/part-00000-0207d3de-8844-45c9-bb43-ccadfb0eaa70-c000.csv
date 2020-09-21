@@ -1,0 +1,4 @@
+org/apache/batik/gvt/GraphicsNode/getFilter()
+org/w3c/dom/Element/getFirstChild()
+java/lang/String/length()
+org/apache/batik/gvt/filter/MaskRable8Bit/MaskRable8Bit(org.apache.batik.ext.awt.image.renderable.Filter,org.apache.batik.gvt.GraphicsNode,java.awt.geom.Rectangle2D)

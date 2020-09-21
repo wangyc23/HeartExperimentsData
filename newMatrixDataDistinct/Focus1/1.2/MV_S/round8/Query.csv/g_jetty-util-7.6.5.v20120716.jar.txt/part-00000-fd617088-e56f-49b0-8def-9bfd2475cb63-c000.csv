@@ -1,0 +1,4 @@
+java/security/MessageDigest/reset()
+java/lang/String/String(char[])
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

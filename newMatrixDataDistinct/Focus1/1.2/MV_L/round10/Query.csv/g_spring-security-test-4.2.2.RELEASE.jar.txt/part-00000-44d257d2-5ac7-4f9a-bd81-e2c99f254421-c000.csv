@@ -1,0 +1,4 @@
+org/springframework/util/StringUtils/hasLength(java.lang.String)
+org/springframework/util/Assert/hasLength(java.lang.String,java.lang.String)
+org/springframework/security/core/userdetails/UserDetailsService/loadUserByUsername(java.lang.String)
+org/springframework/security/authentication/UsernamePasswordAuthenticationToken/UsernamePasswordAuthenticationToken(java.lang.Object,java.lang.Object,java.util.Collection)

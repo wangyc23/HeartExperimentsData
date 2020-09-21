@@ -1,0 +1,5 @@
+com/randude14/hungergames/games/HungerGame/leave(com.randude14.hungergames.commands.admin.remove.Player,boolean)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	2
+uk/commonline/weather/geo/source/yahoo/YahooGeoLocationParser/parsePlaceQuery(java.io.InputStream)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	4
+com/randude14/hungergames/utils/EquatableWeakReference/hashCode()@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	0
+com/randude14/hungergames/GameManager/SponsorBeginPrompt/isNumberValid(com.randude14.hungergames.games.ConversationContext,java.lang.Number)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	3
+com/randude14/hungergames/games/PlayerQueueHandler/onGameEnd(com.randude14.hungergames.api.event.GameEndEvent)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	1

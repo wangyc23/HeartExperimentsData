@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/archive/crawler/selftest/SelfTestBase/getLogsDir()
+java/io/File/File(java.io.File,java.lang.String)
+java/util/List/size()

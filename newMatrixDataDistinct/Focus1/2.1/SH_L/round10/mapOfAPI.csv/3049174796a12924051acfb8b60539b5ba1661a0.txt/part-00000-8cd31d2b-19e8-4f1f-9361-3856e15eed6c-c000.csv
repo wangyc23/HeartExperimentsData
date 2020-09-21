@@ -1,0 +1,3 @@
+0	java/util/Collections/sort(java.util.List,java.util.Comparator)
+1	co/gersua/cloudmooc/mapred/g2q1/InverseComparator/InverseComparator()
+2	java/lang/String/split(java.lang.String,int)

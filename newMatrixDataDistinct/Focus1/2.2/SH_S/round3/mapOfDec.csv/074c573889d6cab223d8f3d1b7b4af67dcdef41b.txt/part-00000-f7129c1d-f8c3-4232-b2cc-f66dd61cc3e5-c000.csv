@@ -1,0 +1,5 @@
+net/lr/tasklist/itests/KarafTest/getConfigFile(java.lang.String)@2e775be709d07d35b179f923aa36c55dc711d36f.txt	3
+net/lr/karaf/jms/command/MoveCommand/execute(net.lr.tutorial.karaf.db.command.CommandSession)@2e775be709d07d35b179f923aa36c55dc711d36f.txt	4
+net/lr/tutorial/karaf/cxf/personservice/impl/PersonServiceImpl/addPerson(net.lr.tutorial.karaf.cxf.personservice.person.Person)@2e775be709d07d35b179f923aa36c55dc711d36f.txt	2
+net/lr/tutorial/karaf/db/command/ShellTable/print()@2e775be709d07d35b179f923aa36c55dc711d36f.txt	1
+net/lr/cxf/cdi/Endpointpublisher/initService()@2e775be709d07d35b179f923aa36c55dc711d36f.txt	0

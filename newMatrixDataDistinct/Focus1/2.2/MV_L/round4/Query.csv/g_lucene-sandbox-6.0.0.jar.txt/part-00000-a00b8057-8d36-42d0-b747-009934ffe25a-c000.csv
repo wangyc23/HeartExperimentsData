@@ -1,0 +1,4 @@
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter$FieldMetaData/access$600(org.apache.lucene.codecs.idversion.VersionBlockTreeTermsWriter$FieldMetaData)
+org/apache/lucene/store/IndexOutput/writeVInt(int)
+java/util/List/size()
+org/apache/lucene/store/IndexOutput/writeVLong(long)

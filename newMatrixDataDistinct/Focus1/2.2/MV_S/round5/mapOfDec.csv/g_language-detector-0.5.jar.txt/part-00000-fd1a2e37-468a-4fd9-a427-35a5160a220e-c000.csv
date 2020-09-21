@@ -1,0 +1,5 @@
+org/languagetool/rules/WordCoherencyDataLoader/loadWords(java.lang.String)@g_languagetool-core-3.0.jar.txt	4
+de/danielnaber/jwordsplitter/tools/FastObjectSaver/load(java.lang.String)@g_jwordsplitter-4.1.jar.txt	0
+org/languagetool/tagging/ManualTagger/loadMapping(java.io.InputStream,java.lang.String)@g_languagetool-core-3.0.jar.txt	2
+org/languagetool/synthesis/ManualSynthesizer/loadMapping(java.io.InputStream,java.lang.String)@g_languagetool-core-3.0.jar.txt	3
+org/languagetool/rules/AbstractSimpleReplaceRule2/loadWords(java.io.InputStream)@g_languagetool-core-3.0.jar.txt	1

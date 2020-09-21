@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/deser/std/MapDeserializer/MapReferringAccumulator/resolveForwardReference(java.lang.Object,java.lang.Object)@g_jackson-databind-2.6.1.jar.txt	4
+org/openrdf/rio/rdfjson/RDFJSONWriter/modelToRdfJsonInternal(org.openrdf.model.Model,org.openrdf.rio.WriterConfig,com.fasterxml.jackson.core.JsonGenerator)@g_sesame-rio-rdfjson-2.7.16.jar.txt	0
+org/openrdf/rio/rdfjson/RDFJSONWriter/writeObject(org.openrdf.model.Value,java.util.Set,com.fasterxml.jackson.core.JsonGenerator)@g_sesame-rio-rdfjson-2.7.16.jar.txt	1
+com/fasterxml/jackson/databind/deser/std/CollectionDeserializer/CollectionReferringAccumulator/resolveForwardReference(java.lang.Object,java.lang.Object)@g_jackson-databind-2.6.1.jar.txt	2
+com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector/_renameWithWrappers(java.util.Map)@g_jackson-databind-2.6.1.jar.txt	3

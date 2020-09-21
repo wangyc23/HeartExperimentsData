@@ -1,0 +1,5 @@
+com/svbio/workflow/service/ITWorkflowServiceComponent/testThrowingModule()@1ef49820a5b27f2323f33f2366922612a20bf8ae.txt	0
+com/svbio/workflow/service/ITDatabaseLoggingActor/setup()@1ef49820a5b27f2323f33f2366922612a20bf8ae.txt	4
+com/svbio/workflow/service/ITWorkflowServiceComponent/setup()@1ef49820a5b27f2323f33f2366922612a20bf8ae.txt	1
+com/svbio/workflow/service/WorkflowServiceModule/provideCommandProvider(com.svbio.workflow.service.WorkflowServiceModule.ForkingExecutorConfiguration,com.svbio.workflow.service.RequirementsProvider)@1ef49820a5b27f2323f33f2366922612a20bf8ae.txt	3
+com/svbio/workflow/service/ITWorkflowServiceComponent/testBinarySum()@1ef49820a5b27f2323f33f2366922612a20bf8ae.txt	2

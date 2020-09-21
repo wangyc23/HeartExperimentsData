@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/apache/lucene/util/SentinelIntSet/clear()
+java/util/Set/size()
+org/apache/lucene/util/SentinelIntSet/put(int)

@@ -1,0 +1,4 @@
+org/apache/wicket/protocol/http/WebApplication/mountBookmarkablePage(java.lang.String,java.lang.Class)
+org/apache/wicket/settings/IMarkupSettings/setDefaultMarkupEncoding(java.lang.String)
+org/apache/wicket/Application/getSessionSettings()
+org/apache/wicket/Application/getMarkupSettings()

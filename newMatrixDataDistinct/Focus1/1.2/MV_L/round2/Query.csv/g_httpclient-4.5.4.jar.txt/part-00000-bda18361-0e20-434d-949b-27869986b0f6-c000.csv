@@ -1,0 +1,4 @@
+org/apache/http/util/CharArrayBuffer/CharArrayBuffer(int)
+org/apache/commons/codec/binary/Base64/Base64(int)
+org/apache/http/util/CharArrayBuffer/append(byte[],int,int)
+org/apache/commons/codec/binary/Base64/encode(byte[])

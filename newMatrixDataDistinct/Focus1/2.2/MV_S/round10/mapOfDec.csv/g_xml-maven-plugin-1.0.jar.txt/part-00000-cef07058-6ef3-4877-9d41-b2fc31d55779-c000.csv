@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/copyDirectoryStructure(java.io.File,java.io.File)@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/invoker/VerifyMojo/execute()@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/getFilesToCopy(org.apache.maven.model.Resource)@g_maven-war-plugin-2.2.jar.txt	2
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/scanProjectsDirectory(java.util.List,java.util.List,java.lang.String)@g_maven-invoker-plugin-2.0.0.jar.txt	0
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/collectProjects(java.io.File,java.lang.String,java.util.Collection,boolean)@g_maven-invoker-plugin-2.0.0.jar.txt	3

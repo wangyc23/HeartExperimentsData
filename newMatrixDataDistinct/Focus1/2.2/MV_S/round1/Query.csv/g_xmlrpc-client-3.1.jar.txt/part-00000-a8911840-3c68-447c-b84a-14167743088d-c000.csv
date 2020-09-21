@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/lang/Object/equals(java.lang.Object)
+org/apache/xmlrpc/common/TypeConverterFactory/getTypeConverter(java.lang.Class)
+java/lang/reflect/Method/getName()

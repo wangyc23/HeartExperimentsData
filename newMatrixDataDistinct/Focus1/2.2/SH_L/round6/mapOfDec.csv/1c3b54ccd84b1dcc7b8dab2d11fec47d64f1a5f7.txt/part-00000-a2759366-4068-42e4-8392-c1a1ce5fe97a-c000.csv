@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/client/TestFromClientSide/assertNResult(org.apache.hadoop.hbase.client.Result,byte[],byte[][],byte[][],byte[][],int[][])@27987b6823f76e575061871e738a4ec4af3c2404.txt	3
+org/apache/hadoop/hbase/regionserver/TestResettingCounters/testResettingCounters()@27987b6823f76e575061871e738a4ec4af3c2404.txt	4
+org/apache/hadoop/hbase/regionserver/TestHRegion/doTestDelete_AndPostInsert(org.apache.hadoop.hbase.client.Delete)@27987b6823f76e575061871e738a4ec4af3c2404.txt	2
+org/apache/hadoop/hbase/mapreduce/TestTimeRangeMapRed/verify()@27987b6823f76e575061871e738a4ec4af3c2404.txt	1
+org/apache/hadoop/hbase/mapred/GroupingTableMap/extractKeyValues(org.apache.hadoop.hbase.client.Result)@27987b6823f76e575061871e738a4ec4af3c2404.txt	0

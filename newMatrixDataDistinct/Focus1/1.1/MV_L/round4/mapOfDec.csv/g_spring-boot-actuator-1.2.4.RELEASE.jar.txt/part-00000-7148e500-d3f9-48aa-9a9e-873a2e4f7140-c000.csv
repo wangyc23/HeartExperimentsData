@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/endpoint/jmx/EndpointMBeanExporter/locateAndRegisterEndpoints()@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	4
+org/springframework/boot/actuate/endpoint/jmx/EndpointMBeanExporter/locateAndRegisterEndpoints()@g_spring-boot-actuator-1.2.3.RELEASE.jar.txt	2
+org/springframework/boot/actuate/autoconfigure/EndpointWebMvcChildContextConfiguration/EndpointHandlerMappingConfiguration/handlerMapping(org.springframework.boot.actuate.endpoint.mvc.MvcEndpoints,org.springframework.beans.factory.ListableBeanFactory)@g_spring-boot-actuator-1.2.3.RELEASE.jar.txt	1
+org/springframework/boot/actuate/autoconfigure/CrshAutoConfiguration/BeanFactoryFilteringPluginDiscovery/getPlugins()@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	3
+org/springframework/boot/actuate/autoconfigure/CrshAutoConfiguration/BeanFactoryFilteringPluginDiscovery/getPlugins()@g_spring-boot-actuator-1.2.3.RELEASE.jar.txt	0

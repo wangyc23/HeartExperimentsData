@@ -1,0 +1,5 @@
+org/apache/sling/discovery/base/connectors/announcement/AnnouncementRegistryImpl/checkExpiredAnnouncements()@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	1
+org/apache/sling/resourceresolver/impl/mapping/MapEntriesTest/test_getVanityPaths_2()@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	0
+org/apache/sling/resourceresolver/impl/ResourceDecoratorReturnsNullTest/isReturnNull(org.apache.sling.api.resource.Resource)@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	3
+org/apache/sling/distribution/serialization/impl/kryo/KryoContentSerializer/ResourceSerializer/write(org.apache.sling.distribution.serialization.impl.kryo.Kryo,org.apache.sling.distribution.serialization.impl.kryo.Output,org.apache.sling.api.resource.Resource)@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	2
+org/apache/sling/validation/impl/ValidationResourceVisitor/visit(org.apache.sling.api.resource.Resource)@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	4

@@ -1,0 +1,5 @@
+com/squareup/okhttp/internal/huc/ResponseCacheTest/assertCookies(java.net.URL,java.lang.String[])@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	0
+com/squareup/okhttp/internal/framed/hpackjson/HpackJsonUtil/storiesForCurrentDraft()@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	4
+com/squareup/okhttp/CacheTest/assertCookies(java.net.URL,java.lang.String[])@0b4a5aaf5d05a8cf37b00354f89bf6f9fe330de3.txt	3
+com/squareup/okhttp/internal/huc/ResponseCacheTest/assertCookies(java.net.URL,java.lang.String[])@0b4a5aaf5d05a8cf37b00354f89bf6f9fe330de3.txt	2
+com/squareup/okhttp/UrlConnectionCacheTest/assertCookies(java.net.URL,java.lang.String[])@0b4a5aaf5d05a8cf37b00354f89bf6f9fe330de3.txt	1

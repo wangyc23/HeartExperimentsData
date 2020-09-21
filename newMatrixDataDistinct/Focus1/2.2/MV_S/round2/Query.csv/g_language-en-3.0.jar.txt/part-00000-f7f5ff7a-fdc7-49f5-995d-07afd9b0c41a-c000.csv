@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+java/lang/String/length()

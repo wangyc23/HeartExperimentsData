@@ -1,0 +1,4 @@
+org/apache/batik/bridge/BridgeContext/setDynamicState(int)
+org/apache/batik/bridge/ViewBox/getPreserveAspectRatioTransform(org.w3c.dom.Element,java.lang.String,java.lang.String,float,float,org.apache.batik.bridge.BridgeContext)
+org/apache/batik/bridge/GVTBuilder/build(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Document)
+org/apache/batik/bridge/SVGAnimationEngine/setCurrentTime(float)

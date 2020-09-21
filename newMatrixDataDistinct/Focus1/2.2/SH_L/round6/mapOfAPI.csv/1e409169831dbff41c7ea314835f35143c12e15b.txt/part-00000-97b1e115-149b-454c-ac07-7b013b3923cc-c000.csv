@@ -1,0 +1,7 @@
+0	org/apache/camel/Service/stop()
+1	org/apache/camel/Message/setHeader(java.lang.String,java.lang.Object)
+2	org/apache/camel/Message/setBody(java.lang.Object)
+3	org/apache/camel/Message/getBody(java.lang.Class)
+4	org/apache/camel/CamelContext/getEndpoint(java.lang.String)
+5	org/apache/camel/Exchange/getIn()
+6	org/apache/camel/Endpoint/createExchange()

@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/xwiki/component/manager/ComponentManager/getInstanceMap(java.lang.reflect.Type)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/addAll(java.util.Collection)

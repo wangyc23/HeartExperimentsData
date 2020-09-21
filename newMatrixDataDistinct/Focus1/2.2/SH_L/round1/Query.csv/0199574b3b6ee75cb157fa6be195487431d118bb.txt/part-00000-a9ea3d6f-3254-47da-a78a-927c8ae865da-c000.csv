@@ -1,0 +1,4 @@
+org/mwg/mlx/algorithm/classifier/LogisticRegressionClassifierNode/initializeClassIfNecessary(org.mwg.plugin.NodeState,int)
+org/mwg/mlx/algorithm/classifier/LogisticRegressionClassifierNode/dot(double[],double[])
+java/lang/Math/abs(double)
+org/mwg/mlx/algorithm/classifier/LogisticRegressionClassifierNode/sigmoid(double)

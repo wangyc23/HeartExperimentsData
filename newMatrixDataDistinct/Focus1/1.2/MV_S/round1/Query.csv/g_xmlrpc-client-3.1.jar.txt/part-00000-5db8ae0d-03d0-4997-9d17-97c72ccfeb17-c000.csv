@@ -1,0 +1,4 @@
+org/apache/xmlrpc/common/XmlRpcRequestProcessor/execute(org.apache.xmlrpc.XmlRpcRequest)
+org/apache/xmlrpc/XmlRpcRequest/getMethodName()
+org/apache/xmlrpc/common/TypeConverterFactory/getTypeConverter(java.lang.Class)
+org/apache/xmlrpc/XmlRpcConfig/isEnabledForExtensions()

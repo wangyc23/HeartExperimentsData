@@ -1,0 +1,5 @@
+org/apache/lucene/queryparser/flexible/core/nodes/BooleanQueryNode/toString()@g_lucene-queryparser-5.0.0.jar.txt	0
+org/apache/lucene/queryparser/simple/SimpleQueryParser/newFuzzyQuery(java.lang.String,int)@g_lucene-queryparser-5.0.0.jar.txt	2
+org/apache/lucene/queryparser/simple/SimpleQueryParser/newDefaultQuery(java.lang.String)@g_lucene-queryparser-5.0.0.jar.txt	3
+org/apache/lucene/queryparser/flexible/core/nodes/OrQueryNode/toString()@g_lucene-queryparser-5.0.0.jar.txt	4
+org/apache/lucene/queryparser/flexible/standard/parser/TokenMgrError/addEscapes(java.lang.String)@g_lucene-queryparser-5.0.0.jar.txt	1

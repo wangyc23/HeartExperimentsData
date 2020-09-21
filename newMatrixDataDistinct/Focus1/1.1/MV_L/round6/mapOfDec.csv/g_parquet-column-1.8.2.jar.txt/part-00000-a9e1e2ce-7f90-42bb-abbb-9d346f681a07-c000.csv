@@ -1,0 +1,5 @@
+org/apache/parquet/hadoop/ParquetInputFormat/getFooters(org.apache.hadoop.mapreduce.JobContext)@g_parquet-hadoop-1.8.2.jar.txt	4
+org/apache/parquet/hadoop/ParquetFileWriter/mergeFooters(org.apache.hadoop.fs.Path,java.util.List)@g_parquet-hadoop-1.8.2.jar.txt	3
+org/apache/parquet/hadoop/ParquetOutputFormat/getRecordWriter(org.apache.hadoop.conf.Configuration,org.apache.hadoop.fs.Path,org.apache.parquet.hadoop.metadata.CompressionCodecName)@g_parquet-hadoop-1.8.2.jar.txt	2
+org/apache/parquet/hadoop/ColumnChunkPageReadStore/getPageReader(org.apache.parquet.column.ColumnDescriptor)@g_parquet-hadoop-1.8.2.jar.txt	0
+org/apache/parquet/hadoop/ParquetInputSplit/toString()@g_parquet-hadoop-1.8.2.jar.txt	1

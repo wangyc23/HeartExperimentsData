@@ -1,0 +1,5 @@
+com/github/kristofa/brave/LoggingSpanCollector/collect(com.twitter.zipkin.gen.Span)@0aa40e73bc25da89f0829dc437158c6088b9d895.txt	4
+com/github/kristofa/brave/AutoValue_BraveCallable/equals(java.lang.Object)@0aa40e73bc25da89f0829dc437158c6088b9d895.txt	2
+com/github/kristofa/brave/BraveCallableTest/testCall()@0aa40e73bc25da89f0829dc437158c6088b9d895.txt	0
+com/github/kristofa/brave/ClientSpanThreadBinderTest/testGetCurrentClientSpan()@0aa40e73bc25da89f0829dc437158c6088b9d895.txt	3
+com/github/kristofa/brave/BraveCallable/call()@0aa40e73bc25da89f0829dc437158c6088b9d895.txt	1

@@ -1,0 +1,5 @@
+0	org/iamfamily/donations/utils/PayPalUtils/getAccessToken()
+1	com/epam/training/dataaccess/model/ServerInfo/ServerInfo()
+2	com/epam/training/services/UserService/addPreference(com.epam.training.dataaccess.model.ServerInfo,com.epam.training.dataaccess.model.User)
+3	com/epam/training/dataaccess/model/ServerInfo/setCpuType(java.lang.String)
+4	com/epam/training/dataaccess/model/ServerInfo/setName(java.lang.String)

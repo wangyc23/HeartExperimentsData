@@ -1,0 +1,5 @@
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/getNameFromAllQualifiers(java.util.Set,java.lang.reflect.AnnotatedElement)@g_hk2-utils-2.2.0.jar.txt	2
+org/jvnet/hk2/component/MultiMap/toString()@g_hk2-utils-2.2.0.jar.txt	0
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/writeSet(java.util.Set,java.lang.Object)@g_hk2-utils-2.2.0.jar.txt	4
+org/jvnet/hk2/component/MultiMap/toString()@g_hk2-utils-2.4.0-b34.jar.txt	1
+org/jvnet/hk2/component/MultiMap/mergeAll(org.jvnet.hk2.component.MultiMap)@g_hk2-utils-2.2.0.jar.txt	3

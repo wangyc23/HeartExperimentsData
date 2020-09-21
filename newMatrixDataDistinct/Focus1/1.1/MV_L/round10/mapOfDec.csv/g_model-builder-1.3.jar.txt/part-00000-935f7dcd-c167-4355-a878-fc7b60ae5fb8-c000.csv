@@ -1,0 +1,5 @@
+org/apache/maven/shared/model/impl/DefaultModelDataSource/replace(org.apache.maven.shared.model.ModelContainer,org.apache.maven.shared.model.ModelContainer)@g_diffutils-1.3.0.jar.txt	3
+org/codehaus/plexus/digest/DigestUtils/cleanChecksum(java.lang.String,java.lang.String,java.lang.String)@g_diffutils-1.3.0.jar.txt	4
+difflib/DiffUtils/processDeltas(java.util.List,java.util.List,int)@g_diffutils-1.3.0.jar.txt	2
+difflib/DiffRowGenerator/generateDiffRows(java.util.List,java.util.List,difflib.Patch)@g_diffutils-1.3.0.jar.txt	1
+difflib/DiffUtils/parseUnifiedDiff(java.util.List)@g_diffutils-1.3.0.jar.txt	0

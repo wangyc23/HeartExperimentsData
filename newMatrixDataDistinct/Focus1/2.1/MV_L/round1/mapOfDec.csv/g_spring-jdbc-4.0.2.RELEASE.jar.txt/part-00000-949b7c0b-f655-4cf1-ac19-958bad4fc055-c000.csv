@@ -1,0 +1,5 @@
+org/springframework/jdbc/support/lob/OracleLobHandler/OracleLobCreator/setBlobAsBytes(java.sql.PreparedStatement,int,byte[])@g_spring-jdbc-4.0.5.RELEASE.jar.txt	2
+org/springframework/jdbc/core/simple/AbstractJdbcInsert/executeInsertAndReturnKeyHolderInternal(java.util.List)@g_spring-jdbc-4.0.5.RELEASE.jar.txt	1
+org/springframework/jdbc/core/JdbcTemplate/6/doInCallableStatement(java.sql.CallableStatement)@g_spring-jdbc-4.0.5.RELEASE.jar.txt	4
+org/springframework/jdbc/support/lob/OracleLobHandler/OracleLobCreator/setClobAsString(java.sql.PreparedStatement,int,java.lang.String)@g_spring-jdbc-4.0.5.RELEASE.jar.txt	0
+org/springframework/jdbc/core/simple/AbstractJdbcCall/addDeclaredParameter(org.springframework.jdbc.core.SqlParameter)@g_spring-jdbc-4.0.5.RELEASE.jar.txt	3

@@ -1,0 +1,5 @@
+org/jvnet/hk2/internal/SystemDescriptor/internalReify(java.lang.Class,org.jvnet.hk2.internal.Collector)@g_hk2-locator-2.4.0-b10.jar.txt	4
+org/jvnet/hk2/internal/ServiceLocatorImpl/internalGetInjecteeDescriptor(org.glassfish.hk2.api.Injectee,boolean)@g_hk2-locator-2.4.0-b10.jar.txt	0
+org/jvnet/hk2/internal/ServiceLocatorImpl/internalGetInjecteeDescriptor(org.glassfish.hk2.api.Injectee,boolean)@g_hk2-locator-2.4.0-b25.jar.txt	1
+org/jvnet/hk2/internal/Utilities/checkFactoryType(java.lang.Class,org.jvnet.hk2.internal.Collector)@g_hk2-locator-2.4.0-b10.jar.txt	2
+org/jvnet/hk2/internal/Utilities/checkFactoryType(java.lang.Class,org.jvnet.hk2.internal.Collector)@g_hk2-locator-2.4.0-b25.jar.txt	3

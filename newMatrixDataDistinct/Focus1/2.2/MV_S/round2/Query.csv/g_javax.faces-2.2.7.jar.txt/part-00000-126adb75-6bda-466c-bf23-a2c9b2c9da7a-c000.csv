@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+java/util/logging/Logger/log(java.util.logging.Level,java.lang.String,java.lang.Throwable)
+java/lang/StringBuilder/StringBuilder()

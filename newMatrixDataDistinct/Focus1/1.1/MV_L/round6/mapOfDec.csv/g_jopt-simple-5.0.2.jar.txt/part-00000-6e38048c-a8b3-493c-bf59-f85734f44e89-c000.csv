@@ -1,0 +1,5 @@
+joptsimple/OptionSet/valuesOf(joptsimple.OptionSpec)@g_constantine-0.6.jar.txt	4
+com/beust/jcommander/JCommander/convertValue(com.beust.jcommander.Parameterized,java.lang.Class,java.lang.String)@g_constantine-0.6.jar.txt	1
+joptsimple/internal/Messages/message(java.util.Locale,java.lang.String,java.lang.Class,java.lang.String,java.lang.Object[])@g_constantine-0.6.jar.txt	2
+com/beust/jcommander/JCommander/readFile(java.lang.String)@g_constantine-0.6.jar.txt	0
+com/kenai/constantine/ConstantSet/main(java.lang.String[])@g_constantine-0.6.jar.txt	3

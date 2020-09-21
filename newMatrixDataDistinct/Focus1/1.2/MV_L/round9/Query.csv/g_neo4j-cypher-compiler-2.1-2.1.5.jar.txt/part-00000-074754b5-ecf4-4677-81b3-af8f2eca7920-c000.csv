@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/compiler/v2_1/executionplan/builders/NodeFetchStrategy$/IndexEquality()
+scala/collection/Seq$/canBuildFrom()
+scala/Tuple2/_1()
+scala/collection/immutable/Map/apply(java.lang.Object)

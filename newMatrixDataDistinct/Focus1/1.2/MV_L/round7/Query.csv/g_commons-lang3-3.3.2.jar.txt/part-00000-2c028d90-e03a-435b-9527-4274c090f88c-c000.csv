@@ -1,0 +1,4 @@
+java/lang/String/length()
+java/lang/String/substring(int,int)
+java/lang/StringBuilder/StringBuilder()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

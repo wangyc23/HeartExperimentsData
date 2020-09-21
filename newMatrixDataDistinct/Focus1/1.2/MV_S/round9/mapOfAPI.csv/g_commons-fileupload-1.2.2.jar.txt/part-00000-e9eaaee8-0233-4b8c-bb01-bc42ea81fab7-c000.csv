@@ -1,0 +1,4 @@
+0	java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream)
+1	java/io/File/renameTo(java.io.File)
+2	org/apache/commons/io/IOUtils/copy(java.io.InputStream,java.io.OutputStream)
+3	java/io/BufferedOutputStream/close()

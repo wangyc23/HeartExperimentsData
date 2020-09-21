@@ -1,0 +1,5 @@
+org/hf/mls/cf/hadoop/ReFormatJob/FormatMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@04169f46b675485df11411cb3e07302c0b292b6a.txt	3
+org/hf/mls/cf/hadoop/CalculateNrsJob/CalculateMapper/map(org.apache.hadoop.io.Writable,org.apache.hadoop.io.Writable,org.apache.hadoop.mapreduce.Mapper.Context)@04169f46b675485df11411cb3e07302c0b292b6a.txt	4
+co/gersua/cloudmooc/mapred/g2q1/Top10CarriersOnTimeReducer/organizeList(java.util.List<co.gersua.cloudmooc.mapred.g2q1.Pair<java.lang.Double,java.lang.String>>[])@04169f46b675485df11411cb3e07302c0b292b6a.txt	2
+org/hf/mls/cf/hadoop/ExtractTmpJob/ReverseReducer/reduce(org.apache.hadoop.io.Text,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@04169f46b675485df11411cb3e07302c0b292b6a.txt	1
+org/hf/mls/ar/hadoop/PreProcessJob/runJob(java.lang.String[])@04169f46b675485df11411cb3e07302c0b292b6a.txt	0

@@ -1,0 +1,4 @@
+org/hamcrest/CoreMatchers/is(T)
+org/baeldung/repository/UserRepository/findByNameStartingWith(java.lang.String)
+java/util/List/size()
+org/baeldung/model/User/User()

@@ -1,0 +1,4 @@
+japa/parser/ast/body/AnnotationDeclaration/getName()
+japa/parser/ast/body/AnnotationDeclaration/getAnnotations()
+japa/parser/ast/visitor/DumpVisitor$SourcePrinter/printLn(java.lang.String)
+japa/parser/ast/body/AnnotationDeclaration/getMembers()

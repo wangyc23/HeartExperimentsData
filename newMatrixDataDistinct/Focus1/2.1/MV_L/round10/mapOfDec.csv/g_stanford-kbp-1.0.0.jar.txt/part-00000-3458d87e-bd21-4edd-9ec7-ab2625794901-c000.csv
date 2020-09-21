@@ -1,0 +1,5 @@
+edu/stanford/nlp/sentiment/SentimentModel/printParamInformation(int)@g_stanford-corenlp-3.5.0.jar.txt	2
+edu/stanford/nlp/time/HeidelTimeAnnotator/annotate(edu.stanford.nlp.util.CoreMap)@g_stanford-corenlp-3.5.0.jar.txt	0
+edu/stanford/nlp/patterns/surface/InvertedIndexByTokens/add(java.util.List,java.lang.String,boolean)@g_stanford-corenlp-3.5.0.jar.txt	4
+edu/stanford/nlp/ling/tokensregex/types/ValueFunctions/21/apply(edu.stanford.nlp.ling.tokensregex.Env,java.util.List)@g_stanford-corenlp-3.5.0.jar.txt	1
+edu/stanford/nlp/trees/GrammaticalRelation/getRelatedNodes(edu.stanford.nlp.trees.TreeGraphNode,edu.stanford.nlp.trees.TreeGraphNode,edu.stanford.nlp.trees.HeadFinder)@g_stanford-corenlp-3.5.0.jar.txt	3

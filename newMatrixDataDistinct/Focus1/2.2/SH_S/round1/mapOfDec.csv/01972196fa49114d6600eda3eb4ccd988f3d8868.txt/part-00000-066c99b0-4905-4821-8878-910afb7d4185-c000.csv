@@ -1,0 +1,5 @@
+ca/ulaval/ift/graal/pagerank/topk/TopKMapper/cleanup(org.apache.hadoop.mapreduce.Mapper.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	3
+ca/ulaval/ift/graal/pagerank/mapreduce/PagerankMapper/map(org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	4
+ca/ulaval/graal/pagerank/parseurl/mapreduce/ParseUrlMapperTest/givenAUrlWithTwoLinksWillEmitTwice()@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	0
+ca/ulaval/ift/graal/pagerank/parseurl/mapreduce/ParseUrlMapper/map(org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	1
+ca/ulaval/ift/graal/pagerank/mapreduce/PagerankReducer/reduce(org.apache.hadoop.io.Text,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	2

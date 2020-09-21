@@ -1,0 +1,5 @@
+org/glassfish/jersey/servlet/internal/ResponseWriter/commit()@g_jersey-container-servlet-core-2.7.jar.txt	0
+org/glassfish/jersey/servlet/internal/ResponseWriter/commit()@g_jersey-container-servlet-core-2.19.jar.txt	1
+org/glassfish/jersey/servlet/ServletContainer/service(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jersey-container-servlet-core-2.7.jar.txt	2
+org/glassfish/jersey/servlet/WebComponent/filterFormParameters(javax.servlet.http.HttpServletRequest,org.glassfish.jersey.server.ContainerRequest)@g_jersey-container-servlet-core-2.7.jar.txt	4
+org/glassfish/jersey/servlet/internal/PersistenceUnitBinder/PersistenceUnitInjectionResolver/resolve(org.glassfish.hk2.api.Injectee,org.glassfish.hk2.api.ServiceHandle)@g_jersey-container-servlet-core-2.7.jar.txt	3

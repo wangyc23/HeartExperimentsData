@@ -1,0 +1,4 @@
+scala/util/parsing/combinator/PackratParsers$PackratReader/pos()
+scala/util/parsing/combinator/PackratParsers$PackratReader/scala$util$parsing$combinator$PackratParsers$$getFromCache(scala.util.parsing.combinator.Parsers$Parser)
+scala/util/parsing/combinator/Parsers$Parser/apply(scala.util.parsing.input.Reader)
+scala/util/parsing/combinator/PackratParsers$MemoEntry/r_$eq(scala.Either)

@@ -1,0 +1,4 @@
+com/sun/jersey/guice/spi/container/GuiceComponentProviderFactory$GuiceManagedComponentProvider/GuiceManagedComponentProvider(com.google.inject.Injector,com.sun.jersey.core.spi.component.ComponentScope,java.lang.Class)
+com/sun/jersey/guice/spi/container/GuiceComponentProviderFactory$GuiceInjectedComponentProvider/GuiceInjectedComponentProvider(com.google.inject.Injector)
+com/google/inject/Key/get(java.lang.Class)
+java/lang/StringBuilder/append(java.lang.String)

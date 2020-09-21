@@ -1,0 +1,4 @@
+cucumber/table/CamelCaseHeaderMapper/uncapitalize(java.lang.String)
+cucumber/table/CamelCaseHeaderMapper/join(java.lang.String[])
+java/lang/String/split(java.lang.String)
+cucumber/table/CamelCaseHeaderMapper/capitalize(java.lang.String)

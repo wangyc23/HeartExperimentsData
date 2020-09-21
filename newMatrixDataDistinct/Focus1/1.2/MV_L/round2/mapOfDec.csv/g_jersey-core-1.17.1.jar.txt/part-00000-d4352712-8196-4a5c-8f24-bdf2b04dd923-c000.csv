@@ -1,0 +1,5 @@
+com/sun/jersey/core/osgi/OsgiRegistry/bundleChanged(org.osgi.framework.BundleEvent)@g_jersey-core-1.18.1.jar.txt	1
+com/sun/jersey/core/osgi/OsgiRegistry/bundleChanged(org.osgi.framework.BundleEvent)@g_jersey-core-1.17.jar.txt	0
+com/sun/jersey/core/osgi/OsgiRegistry/register(org.osgi.framework.Bundle)@g_jersey-core-1.18.1.jar.txt	3
+com/sun/jersey/core/osgi/OsgiRegistry/register(org.osgi.framework.Bundle)@g_jersey-core-1.17.jar.txt	2
+com/sun/jersey/core/osgi/OsgiRegistry/locateAllProviders(java.lang.String)@g_jersey-core-1.17.jar.txt	4

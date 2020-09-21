@@ -1,0 +1,5 @@
+org/apache/hive/service/cli/thrift/TBinaryColumn/equals(org.apache.hive.service.cli.thrift.TBinaryColumn)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	3
+org/apache/hive/service/cli/thrift/TI16Column/equals(org.apache.hive.service.cli.thrift.TI16Column)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	4
+org/apache/hive/service/cli/thrift/THandleIdentifier/equals(org.apache.hive.service.cli.thrift.THandleIdentifier)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	1
+org/apache/hive/service/cli/thrift/TI64Column/equals(org.apache.hive.service.cli.thrift.TI64Column)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	2
+org/apache/hive/service/cli/thrift/TI32Column/equals(org.apache.hive.service.cli.thrift.TI32Column)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	0

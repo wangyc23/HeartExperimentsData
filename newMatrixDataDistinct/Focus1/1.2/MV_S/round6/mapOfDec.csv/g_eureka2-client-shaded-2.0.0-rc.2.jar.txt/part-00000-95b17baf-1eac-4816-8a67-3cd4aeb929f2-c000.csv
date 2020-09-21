@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/ar/ArArchiveInputStream/getNextArEntry()@g_commons-compress-1.4.jar.txt	3
+org/apache/commons/compress/archivers/tar/TarArchiveInputStream/parsePaxHeaders(java.io.InputStream)@g_commons-compress-1.4.jar.txt	1
+org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/putArchiveEntry(org.apache.commons.compress.archivers.ArchiveEntry)@g_commons-compress-1.4.jar.txt	2
+org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream/init(boolean)@g_commons-compress-1.4.jar.txt	0
+org/apache/commons/compress/archivers/ar/ArArchiveOutputStream/writeEntryHeader(org.apache.commons.compress.archivers.ar.ArArchiveEntry)@g_commons-compress-1.4.jar.txt	4

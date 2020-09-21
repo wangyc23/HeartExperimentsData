@@ -1,0 +1,5 @@
+org/infinispan/statetransfer/StateTransferLockImpl/waitForTopology(int,long,java.util.concurrent.TimeUnit)@g_infinispan-core-7.2.5.Final.jar.txt	2
+org/infinispan/affinity/impl/KeyAffinityServiceImpl/getKeyForAddress(org.infinispan.remoting.transport.Address)@g_infinispan-core-7.2.5.Final.jar.txt	0
+org/infinispan/interceptors/distribution/BaseDistributionInterceptor/visitGetAllCommand(org.infinispan.context.InvocationContext,org.infinispan.commands.read.GetAllCommand)@g_infinispan-core-7.2.5.Final.jar.txt	4
+org/infinispan/statetransfer/StateTransferLockImpl/waitForTransactionData(int,long,java.util.concurrent.TimeUnit)@g_infinispan-core-7.2.5.Final.jar.txt	1
+org/infinispan/configuration/parsing/XmlConfigHelper/setValues(java.lang.Object,java.util.Map,boolean,boolean)@g_infinispan-core-7.2.5.Final.jar.txt	3

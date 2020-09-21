@@ -1,0 +1,5 @@
+org/jboss/forge/spec/javaee/jpa/container/NonJTAContainer/setupConnection(org.jboss.forge.spec.javaee.jpa.container.PersistenceUnitDef,org.jboss.forge.spec.javaee.jpa.api.JPADataSource)@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	2
+org/jboss/forge/parser/spi/JavaParserImpl/parse(java.lang.String)@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	4
+org/jboss/forge/spec/javaee/jpa/container/WebLogic12cContainer/setupConnection(org.jboss.forge.spec.javaee.jpa.container.PersistenceUnitDef,org.jboss.forge.spec.javaee.jpa.api.JPADataSource)@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	3
+org/jboss/forge/spec/javaee/jpa/container/CustomJTAContainer/setupConnection(org.jboss.forge.spec.javaee.jpa.container.PersistenceUnitDef,org.jboss.forge.spec.javaee.jpa.api.JPADataSource)@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	1
+org/jboss/forge/spec/javaee/jpa/container/JavaEEDefaultContainer/setupConnection(org.jboss.forge.spec.javaee.jpa.container.PersistenceUnitDef,org.jboss.forge.spec.javaee.jpa.api.JPADataSource)@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	0

@@ -1,0 +1,5 @@
+org/unix4j/unix/sed/SedArguments/convert(org.unix4j.context.ExecutionContext,java.lang.String,java.lang.Class,java.lang.Object)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	4
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_spring-security-crypto-4.0.3.RELEASE.jar.txt	3
+org/springframework/security/crypto/bcrypt/BCrypt/hashpw(java.lang.String,java.lang.String)@g_spring-security-crypto-4.0.3.RELEASE.jar.txt	2
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	1
+org/springframework/security/crypto/bcrypt/BCrypt/hashpw(java.lang.String,java.lang.String)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0

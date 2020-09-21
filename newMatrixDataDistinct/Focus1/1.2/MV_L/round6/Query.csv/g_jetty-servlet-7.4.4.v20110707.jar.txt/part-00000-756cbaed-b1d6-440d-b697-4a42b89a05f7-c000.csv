@@ -1,0 +1,4 @@
+org/eclipse/jetty/servlet/StatisticsServlet/getServletContext()
+org/eclipse/jetty/server/Server/getChildHandlerByClass(java.lang.Class)
+java/lang/management/ManagementFactory/getMemoryMXBean()
+org/eclipse/jetty/server/handler/ContextHandler/getServer()

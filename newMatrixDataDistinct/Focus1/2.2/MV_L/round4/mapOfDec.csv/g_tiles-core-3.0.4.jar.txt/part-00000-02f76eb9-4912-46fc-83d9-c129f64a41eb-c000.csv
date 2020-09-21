@@ -1,0 +1,5 @@
+org/apache/tiles/renderer/impl/BasicRendererFactory/init(java.util.Map)@g_tiles-core-2.2.1.jar.txt	1
+org/apache/tiles/definition/pattern/BasicPatternDefinitionResolver/addDefinitionsAsPatternMatchers(java.util.List,java.util.Map)@g_tiles-core-3.0.5.jar.txt	3
+org/apache/tiles/definition/dao/ResolvingLocaleUrlDefinitionDAO/copyDefinitionMap(java.util.Map)@g_tiles-core-3.0.5.jar.txt	4
+org/apache/tiles/definition/pattern/PrefixedPatternDefinitionResolver/addDefinitionsAsPatternMatchers(java.util.List,java.util.Map)@g_tiles-core-2.2.1.jar.txt	2
+org/apache/tiles/definition/pattern/PrefixedPatternDefinitionResolver/addDefinitionsAsPatternMatchers(java.util.List,java.util.Map)@g_tiles-core-3.0.5.jar.txt	0

@@ -1,0 +1,4 @@
+com/carrotsearch/hppc/BitSet/get(int)
+com/carrotsearch/hppc/IntStack/isEmpty()
+com/carrotsearch/hppc/IntStack/push(int)
+com/carrotsearch/hppc/IntIntOpenHashMap/put(int,int)

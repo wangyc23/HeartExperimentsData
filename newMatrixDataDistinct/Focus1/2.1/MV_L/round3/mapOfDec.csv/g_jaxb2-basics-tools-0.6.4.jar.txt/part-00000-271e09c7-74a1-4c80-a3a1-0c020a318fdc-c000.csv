@@ -1,0 +1,5 @@
+org/jvnet/jaxb2_commons/plugin/mergeable/MergeablePlugin/generateMergeFrom$mergeFrom(com.sun.tools.xjc.outline.ClassOutline,com.sun.codemodel.JDefinedClass)@g_jaxb2-basics-0.6.4.jar.txt	0
+org/jvnet/jaxb2_commons/plugin/inheritance/util/TypeToJTypeConvertingVisitor/visit(japa.parser.ast.type.ClassOrInterfaceType,com.sun.codemodel.JCodeModel)@g_jaxb2-basics-0.6.4.jar.txt	4
+org/jvnet/jaxb2_commons/plugin/inheritance/util/TypeToJTypeConvertingVisitor/visit(japa.parser.ast.type.WildcardType,com.sun.codemodel.JCodeModel)@g_jaxb2-basics-0.6.4.jar.txt	2
+org/jvnet/jaxb2_commons/plugin/jaxbindex/JaxbIndexPlugin/run(com.sun.tools.xjc.outline.Outline,com.sun.tools.xjc.Options,org.xml.sax.ErrorHandler)@g_jaxb2-basics-0.6.4.jar.txt	3
+org/jvnet/jaxb2_commons/plugin/elementwrapper/ElementWrapperPlugin/processWrappedElementsPropertyInfo(org.jvnet.jaxb2_commons.xml.bind.model.MModelInfo,org.jvnet.jaxb2_commons.xml.bind.model.MClassInfo,org.jvnet.jaxb2_commons.xml.bind.model.MElementPropertyInfo,org.jvnet.jaxb2_commons.xml.bind.model.MClassInfo,org.jvnet.jaxb2_commons.xml.bind.model.MElementsPropertyInfo)@g_jaxb2-basics-0.6.4.jar.txt	1

@@ -1,0 +1,5 @@
+br/com/ufra/dao/InspecaoDAOImpl/salvarInspecaoApartirInspecoes(br.com.ufra.entidade.Vistoria,java.util.List)@1e078672573d4866e322f02bba2407be932ff556.txt	3
+br/com/ufra/bean/converter/TecnicoConverter/getAsObject(javax.faces.context.FacesContext,javax.faces.component.UIComponent,java.lang.String)@1e078672573d4866e322f02bba2407be932ff556.txt	2
+br/com/syspartenon/partenon/view/EntradaAgendaMB/visualizarEvento()@1e078672573d4866e322f02bba2407be932ff556.txt	4
+br/com/syspartenon/partenon/business/EnqueteBC/proximaDataInicioEnquete(br.com.syspartenon.partenon.domain.Evento)@1e078672573d4866e322f02bba2407be932ff556.txt	0
+br/com/syspartenon/partenon/view/UsuarioGrupoMB/getBean()@1e078672573d4866e322f02bba2407be932ff556.txt	1

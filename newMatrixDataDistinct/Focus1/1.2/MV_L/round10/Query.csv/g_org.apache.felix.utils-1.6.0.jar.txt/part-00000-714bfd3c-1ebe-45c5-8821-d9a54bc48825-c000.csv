@@ -1,0 +1,4 @@
+java/lang/String/String(char[],int,int)
+java/lang/Character/isWhitespace(char)
+java/lang/String/toLowerCase()
+org/osgi/framework/InvalidSyntaxException/InvalidSyntaxException(java.lang.String,java.lang.String)

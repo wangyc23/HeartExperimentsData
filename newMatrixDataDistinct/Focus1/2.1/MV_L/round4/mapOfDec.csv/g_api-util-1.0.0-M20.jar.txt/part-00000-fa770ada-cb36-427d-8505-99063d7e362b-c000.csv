@@ -1,0 +1,5 @@
+org/springframework/core/type/classreading/AnnotationMetadataReadingVisitor/1/visitEnd()@g_spring-core-2.5.6.SEC01.jar.txt	1
+org/springframework/core/Constants/getValues(java.lang.String)@g_spring-core-2.5.6.SEC01.jar.txt	2
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_spring-core-2.5.6.SEC01.jar.txt	3
+org/springframework/util/ReflectionUtils/findMethod(java.lang.Class,java.lang.String,java.lang.Class[])@g_spring-core-2.5.6.SEC01.jar.txt	0
+org/apache/ivy/osgi/core/ManifestHeaderValue/writeParseException(java.io.PrintStream,java.lang.String,java.text.ParseException)@g_spring-core-2.5.6.SEC01.jar.txt	4

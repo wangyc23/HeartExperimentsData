@@ -1,0 +1,5 @@
+org/apache/ivy/core/cache/DefaultRepositoryCacheManager/cacheModuleDescriptor(org.apache.ivy.plugins.resolver.DependencyResolver,org.apache.ivy.plugins.resolver.util.ResolvedResource,org.apache.ivy.core.module.descriptor.DependencyDescriptor,org.apache.ivy.core.module.descriptor.Artifact,org.apache.ivy.plugins.repository.ResourceDownloader,org.apache.ivy.core.cache.CacheMetadataOptions)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/util/Configurator/endCreateChild()@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/deliver/DeliverEngine/deliver(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,java.lang.String,org.apache.ivy.core.deliver.DeliverOptions)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/util/Configurator/startCreateChild(java.lang.String)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/util/Configurator/addChild(java.lang.String,java.lang.Object)@g_ivy-2.3.0.jar.txt	3

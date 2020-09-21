@@ -1,0 +1,5 @@
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBeanProperty(com.sun.codemodel.JDefinedClass,java.util.List,org.jvnet.ws.wadl.Param,boolean)@g_wadl-core-1.1.6.jar.txt	0
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateConditionalForFaultNode(org.jvnet.ws.wadl.ast.MethodNode,com.sun.codemodel.JBlock,com.sun.codemodel.JVar,com.sun.codemodel.JType,com.sun.codemodel.JExpression)@g_wadl-core-1.1.6.jar.txt	3
+org/jvnet/ws/wadl/ast/WadlAstBuilder/processDescription(java.net.URI,java.io.InputStream)@g_wadl-core-1.1.6.jar.txt	1
+org/jvnet/ws/wadl/ast/PathSegment/evaluate(java.util.Map)@g_wadl-core-1.1.6.jar.txt	2
+org/jvnet/ws/wadl/util/AbstractMultivaluedMap/equalsIgnoreValueOrder(javax.ws.rs.core.MultivaluedMap)@g_wadl-core-1.1.6.jar.txt	4

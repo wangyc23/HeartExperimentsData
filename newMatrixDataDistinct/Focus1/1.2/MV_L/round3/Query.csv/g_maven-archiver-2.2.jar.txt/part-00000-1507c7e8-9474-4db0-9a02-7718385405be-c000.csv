@@ -1,0 +1,4 @@
+org/apache/maven/model/Organization/getName()
+java/util/Iterator/hasNext()
+org/apache/maven/project/MavenProject/getGroupId()
+java/io/File/File(java.lang.String)

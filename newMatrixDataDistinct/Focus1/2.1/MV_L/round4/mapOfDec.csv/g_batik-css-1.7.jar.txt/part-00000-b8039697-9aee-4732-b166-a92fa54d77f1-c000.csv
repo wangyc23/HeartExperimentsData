@@ -1,0 +1,5 @@
+org/apache/batik/css/dom/CSSOMSVGColor/AbstractModificationHandler/colorInsertedBefore(float,int)@g_batik-css-1.8.jar.txt	3
+org/dom4j/tree/AbstractDocumentType/write(java.io.Writer)@g_batik-css-1.8.jar.txt	4
+org/dom4j/bean/BeanElement/setAttributes(org.xml.sax.Attributes,org.dom4j.tree.NamespaceStack,boolean)@g_dom4j-1.6.1.jar.txt	2
+org/apache/batik/css/engine/value/css2/SrcManager/createValue(org.w3c.css.sac.LexicalUnit,org.apache.batik.css.engine.CSSEngine)@g_batik-css-1.8.jar.txt	1
+org/apache/batik/css/parser/Parser/parseSimpleSelector()@g_batik-css-1.8.jar.txt	0

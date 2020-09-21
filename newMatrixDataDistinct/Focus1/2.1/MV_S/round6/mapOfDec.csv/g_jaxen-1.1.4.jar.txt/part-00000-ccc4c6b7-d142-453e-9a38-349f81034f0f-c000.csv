@@ -1,0 +1,5 @@
+freemarker/ext/beans/ClassIntrospector/createClassIntrospectionData(java.lang.Class)@g_commons-jxpath-1.3.jar.txt	0
+freemarker/ext/xml/Navigator/createOperatorMap()@g_commons-jxpath-1.3.jar.txt	4
+freemarker/debug/impl/DebuggerServer/DebuggerAuthProtocol/run()@g_commons-jxpath-1.3.jar.txt	1
+org/apache/commons/jxpath/util/ValueUtils/expandCollection(java.lang.Object,int)@g_commons-jxpath-1.3.jar.txt	3
+freemarker/template/TemplateException/printStackTrace(freemarker.template.TemplateException$StackTraceWriter,boolean,boolean,boolean)@g_commons-jxpath-1.3.jar.txt	2

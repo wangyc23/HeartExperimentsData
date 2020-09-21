@@ -1,0 +1,5 @@
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/io/FileUtils/copyFile(java.io.File,java.io.File)@g_maven-shared-utils-0.1.jar.txt	3
+org/apache/maven/shared/utils/StringUtils/mid(java.lang.String,int,int)@g_maven-shared-utils-0.1.jar.txt	0
+org/apache/maven/shared/utils/StringUtils/mid(java.lang.String,int,int)@g_maven-shared-utils-0.3.jar.txt	1
+org/apache/maven/shared/utils/StringUtils/quoteAndEscape(java.lang.String,char,char[],char[],char,boolean)@g_maven-shared-utils-0.1.jar.txt	4
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/CommandLineUtils/1/call()@g_maven-shared-utils-0.1.jar.txt	2

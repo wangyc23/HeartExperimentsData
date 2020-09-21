@@ -1,0 +1,5 @@
+org/hibernate/jpa/internal/QueryImpl/ParameterRegistrationImpl/bindValue(java.lang.Object,javax.persistence.TemporalType)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	0
+org/hibernate/jpa/internal/schemagen/ScriptTargetOutputToFile/toFileWriter(java.io.File)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	3
+org/hibernate/jpa/internal/EntityManagerFactoryRegistry/removeEntityManagerFactory(java.lang.String,javax.persistence.EntityManagerFactory)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	1
+org/hibernate/jpa/internal/metamodel/AttributeFactory/getDeclarerEntityMetamodel(org.hibernate.jpa.internal.metamodel.AbstractIdentifiableType)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	2
+org/hibernate/jpa/event/internal/jpa/LegacyCallbackProcessor/resolveCallbacks(org.hibernate.annotations.common.reflection.XClass,java.lang.Class,org.hibernate.annotations.common.reflection.ReflectionManager)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	4

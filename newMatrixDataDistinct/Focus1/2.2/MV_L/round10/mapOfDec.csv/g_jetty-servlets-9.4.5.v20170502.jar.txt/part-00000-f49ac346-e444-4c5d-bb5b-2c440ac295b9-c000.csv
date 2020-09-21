@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlets/QoSFilter/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain)@g_jetty-servlets-8.1.22.v20160922.jar.txt	2
+org/eclipse/jetty/servlet/ServletContextHandler/setServletSecurity(javax.servlet.ServletRegistration$Dynamic,javax.servlet.ServletSecurityElement)@g_jetty-servlets-8.1.22.v20160922.jar.txt	3
+org/eclipse/jetty/servlets/ProxyServlet/Transparent/init(javax.servlet.ServletConfig)@g_jetty-servlets-8.1.22.v20160922.jar.txt	1
+org/eclipse/jetty/servlets/CGI/service(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jetty-servlets-8.1.22.v20160922.jar.txt	4
+org/eclipse/jetty/servlets/MultiPartFilter/Wrapper/getParameterBytesAsString(java.lang.String,byte[])@g_jetty-servlets-8.1.22.v20160922.jar.txt	0

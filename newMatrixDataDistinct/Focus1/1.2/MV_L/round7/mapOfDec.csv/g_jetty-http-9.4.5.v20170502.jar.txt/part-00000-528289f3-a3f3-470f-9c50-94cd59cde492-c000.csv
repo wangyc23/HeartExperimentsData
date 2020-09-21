@@ -1,0 +1,5 @@
+org/eclipse/jetty/http/HttpGenerator/generateResponse(org.eclipse.jetty.http.HttpGenerator$ResponseInfo,java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer,boolean)@g_jetty-http-9.2.2.v20140723.jar.txt	3
+org/eclipse/jetty/http/HttpGenerator/generateRequest(org.eclipse.jetty.http.MetaData$Request,java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer,boolean)@g_jetty-http-9.3.8.v20160314.jar.txt	0
+org/eclipse/jetty/http/HttpGenerator/generateRequestLine(org.eclipse.jetty.http.HttpGenerator$RequestInfo,java.nio.ByteBuffer)@g_jetty-http-9.2.2.v20140723.jar.txt	4
+org/eclipse/jetty/http/HttpGenerator/generateRequest(org.eclipse.jetty.http.HttpGenerator$RequestInfo,java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer,boolean)@g_jetty-http-9.2.2.v20140723.jar.txt	2
+org/eclipse/jetty/http/HttpGenerator/generateResponse(org.eclipse.jetty.http.MetaData$Response,boolean,java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer,boolean)@g_jetty-http-9.3.8.v20160314.jar.txt	1

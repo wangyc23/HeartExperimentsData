@@ -1,0 +1,5 @@
+org/restlet/engine/resource/AnnotationUtils/addAnnotationDescriptors(java.util.List,java.lang.Class,java.lang.reflect.Method)@g_org.restlet-2.0.14.jar.txt	4
+org/restlet/engine/http/header/RangeReader/read(java.lang.String)@g_org.restlet-2.0.14.jar.txt	2
+org/restlet/engine/component/ClientRoute/score(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	1
+org/restlet/routing/Validator/beforeHandle(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	3
+org/restlet/resource/Finder/handle(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	0

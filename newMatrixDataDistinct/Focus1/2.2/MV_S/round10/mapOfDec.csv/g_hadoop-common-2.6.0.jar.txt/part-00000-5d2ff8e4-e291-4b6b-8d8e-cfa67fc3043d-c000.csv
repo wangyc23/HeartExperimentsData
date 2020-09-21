@@ -1,0 +1,5 @@
+org/apache/activemq/plugin/DiscardingDLQBroker/sendToDeadLetterQueue(org.apache.activemq.broker.ConnectionContext,org.apache.activemq.broker.region.MessageReference)@g_activemq-core-5.3.2.jar.txt	0
+org/apache/activemq/broker/region/PrefetchSubscription/onDispatch(org.apache.activemq.broker.region.MessageReference,org.apache.activemq.command.Message)@g_activemq-core-5.3.2.jar.txt	1
+org/springframework/beans/factory/support/ConstructorResolver/instantiateUsingFactoryMethod(java.lang.String,org.springframework.beans.factory.support.RootBeanDefinition,java.lang.Object[])@g_spring-2.5.6.jar.txt	4
+org/springframework/remoting/support/RemoteInvocationBasedExporter/invoke(org.springframework.remoting.support.RemoteInvocation,java.lang.Object)@g_spring-2.5.6.jar.txt	2
+org/springframework/transaction/interceptor/TransactionAspectSupport/completeTransactionAfterThrowing(org.springframework.transaction.interceptor.TransactionAspectSupport$TransactionInfo,java.lang.Throwable)@g_spring-2.5.6.jar.txt	3

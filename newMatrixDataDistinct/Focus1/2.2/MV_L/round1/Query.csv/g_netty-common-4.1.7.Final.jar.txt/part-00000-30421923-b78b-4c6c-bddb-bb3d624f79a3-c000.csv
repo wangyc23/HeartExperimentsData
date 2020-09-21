@@ -1,0 +1,4 @@
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+sun/misc/Unsafe/allocateMemory(long)
+java/lang/Long/valueOf(long)
+io/netty/util/internal/PlatformDependent0$4/4(java.nio.ByteBuffer)

@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/eclipse/core/runtime/CoreException/getLocalizedMessage()
+java/util/Map/get(java.lang.Object)
+org/eclipse/core/runtime/IConfigurationElement/getAttribute(java.lang.String)

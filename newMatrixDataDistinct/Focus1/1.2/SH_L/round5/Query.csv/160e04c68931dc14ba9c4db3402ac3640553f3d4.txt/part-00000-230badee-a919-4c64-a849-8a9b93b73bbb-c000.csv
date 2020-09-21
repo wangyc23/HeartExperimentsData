@@ -1,0 +1,4 @@
+com/effectivemaven/centrepoint/model/Project/Project()
+com/effectivemaven/centrepoint/store/MemoryProjectStore/MemoryProjectStore()
+java/util/List/size()
+java/util/Arrays/asList(T[])

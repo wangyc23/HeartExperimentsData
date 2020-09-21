@@ -1,0 +1,5 @@
+org/jgroups/protocols/S3_PING/AWSAuthConnection/copy(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.util.Map)@g_jgroups-3.6.2.Final.jar.txt	2
+org/jgroups/protocols/pbcast/Merger/MergeTask/_run(org.jgroups.util.MergeId,java.util.Collection)@g_jgroups-3.6.2.Final.jar.txt	3
+org/jgroups/demos/StompDraw/onMessage(java.util.Map,byte[],int,int)@g_jgroups-3.6.2.Final.jar.txt	0
+org/jgroups/protocols/S3_PING/AWSAuthConnection/copy(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.util.Map,java.util.Map)@g_jgroups-3.6.2.Final.jar.txt	4
+org/jgroups/jmx/ResourceDMBean/findSetter(java.lang.Object,java.lang.String)@g_jgroups-3.6.2.Final.jar.txt	1

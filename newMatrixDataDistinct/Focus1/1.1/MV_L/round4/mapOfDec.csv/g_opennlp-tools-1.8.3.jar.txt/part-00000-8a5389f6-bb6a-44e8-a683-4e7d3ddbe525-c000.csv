@@ -1,0 +1,5 @@
+opennlp/tools/cmdline/tokenizer/TokenizerTrainerTool/run(java.lang.String,java.lang.String[])@g_opennlp-tools-1.8.2.jar.txt	1
+opennlp/tools/cmdline/CmdLineUtil/loadTrainingParameters(java.lang.String,boolean)@g_opennlp-tools-1.8.2.jar.txt	0
+opennlp/tools/cmdline/sentdetect/SentenceDetectorTrainerTool/run(java.lang.String,java.lang.String[])@g_opennlp-tools-1.8.2.jar.txt	2
+opennlp/tools/cmdline/parser/ParserTool/run(java.lang.String[])@g_opennlp-tools-1.8.2.jar.txt	3
+opennlp/tools/formats/brat/BratDocumentParser/parse(opennlp.tools.formats.brat.BratDocument)@g_opennlp-tools-1.8.2.jar.txt	4

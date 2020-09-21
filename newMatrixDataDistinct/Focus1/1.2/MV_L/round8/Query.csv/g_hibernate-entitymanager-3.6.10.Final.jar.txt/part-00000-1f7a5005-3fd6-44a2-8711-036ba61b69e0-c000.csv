@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String)
+org/hibernate/cfg/AnnotationConfiguration/getProperty(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+org/slf4j/Logger/error(java.lang.String,java.lang.Throwable)

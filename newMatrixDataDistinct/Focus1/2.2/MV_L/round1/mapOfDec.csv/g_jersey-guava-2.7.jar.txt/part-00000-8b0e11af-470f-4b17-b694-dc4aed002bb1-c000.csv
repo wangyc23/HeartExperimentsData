@@ -1,0 +1,5 @@
+jersey/repackaged/com/google/common/cache/LocalCache/Segment/getAndRecordStats(java.lang.Object,int,jersey.repackaged.com.google.common.cache.LocalCache$LoadingValueReference,jersey.repackaged.com.google.common.util.concurrent.ListenableFuture)@g_jersey-guava-2.17.jar.txt	2
+jersey/repackaged/com/google/common/cache/CacheBuilder/toString()@g_jersey-guava-2.17.jar.txt	0
+jersey/repackaged/com/google/common/util/concurrent/Futures/newWithCause(java.lang.Class,java.lang.Throwable)@g_jersey-guava-2.17.jar.txt	4
+jersey/repackaged/com/google/common/collect/MapMaker/toString()@g_jersey-guava-2.17.jar.txt	1
+jersey/repackaged/com/google/common/cache/LocalCache/Segment/waitForLoadingValue(jersey.repackaged.com.google.common.cache.LocalCache$ReferenceEntry,java.lang.Object,jersey.repackaged.com.google.common.cache.LocalCache$ValueReference)@g_jersey-guava-2.17.jar.txt	3

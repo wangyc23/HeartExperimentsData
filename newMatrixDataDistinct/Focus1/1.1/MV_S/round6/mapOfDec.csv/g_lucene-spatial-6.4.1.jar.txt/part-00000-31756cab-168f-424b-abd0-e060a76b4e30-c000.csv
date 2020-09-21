@@ -1,0 +1,5 @@
+org/apache/lucene/spatial/prefix/tree/DateRangePrefixTree/parseCalendar(java.lang.String)@g_lucene-spatial-extras-6.4.1.jar.txt	1
+org/apache/lucene/spatial/SpatialStrategy/makeRecipDistanceValueSource(org.locationtech.spatial4j.shape.Shape)@g_lucene-facet-5.0.0.jar.txt	4
+org/apache/lucene/facet/sortedset/SortedSetDocValuesFacetCounts/count(java.util.List)@g_lucene-facet-5.0.0.jar.txt	2
+org/apache/lucene/facet/FacetsConfig/build(org.apache.lucene.facet.taxonomy.TaxonomyWriter,org.apache.lucene.document.Document)@g_lucene-facet-5.0.0.jar.txt	0
+org/apache/lucene/spatial/geopoint/search/GeoPointInBBoxQueryImpl/toString(java.lang.String)@g_lucene-facet-5.0.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/springside/modules/test/selenium/Selenium2/waitForTextPresent(org.springside.modules.test.selenium.By,java.lang.String)@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	2
+org/springside/modules/web/Servlets/getParametersStartingWith(org.springside.examples.showcase.demos.web.ServletRequest,java.lang.String)@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	0
+org/springside/examples/quickstart/web/task/TaskController/list(java.lang.String,int,org.springside.examples.showcase.demos.log.Model,org.springside.examples.showcase.demos.web.ServletRequest)@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	4
+org/springside/modules/metrics/exporter/JmxExporter/createName(java.lang.String,java.lang.String)@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	3
+org/springside/modules/nosql/redis/JedisShardedTemplate/hkeys(java.lang.String,java.lang.String)@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	1

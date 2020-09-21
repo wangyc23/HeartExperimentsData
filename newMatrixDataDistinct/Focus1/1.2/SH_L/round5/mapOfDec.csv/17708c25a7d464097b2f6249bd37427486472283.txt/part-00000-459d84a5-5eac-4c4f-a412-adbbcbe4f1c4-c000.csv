@@ -1,0 +1,5 @@
+io/apiman/manager/api/exportimport/json/AbstractJsonWriter/writeCheck(java.lang.Enum)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+io/apiman/gateway/platforms/war/micro/GatewayMicroService/addSecurityHandler(io.apiman.manager.test.server.ServletContextHandler)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+io/apiman/manager/test/server/TestEsStorageWrapper/getAllApis(java.lang.String)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+io/apiman/manager/api/rest/impl/OrganizationResourceImpl/createApi(java.lang.String,io.apiman.manager.api.beans.apis.NewApiBean)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0

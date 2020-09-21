@@ -1,0 +1,4 @@
+org/eclipse/emf/ecore/EValidator$SubstitutionLabelProvider/getObjectLabel(org.eclipse.emf.ecore.EObject)
+java/lang/String/valueOf(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/emf/common/util/URI/lastSegment()

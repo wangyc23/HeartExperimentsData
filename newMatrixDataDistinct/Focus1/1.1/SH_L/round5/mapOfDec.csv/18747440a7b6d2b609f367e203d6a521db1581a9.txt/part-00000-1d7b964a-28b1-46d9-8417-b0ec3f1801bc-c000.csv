@@ -1,0 +1,5 @@
+com/example/helloworld/resources/PersonResource/findSafely(long)@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	4
+io/dropwizard/jetty/HttpsConnectorFactory/buildHttpConfiguration()@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	3
+io/dropwizard/server/DefaultServerFactoryTest/doesNotDefaultExceptionMappers()@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	2
+io/dropwizard/views/ViewMessageBodyWriter/writeTo(io.dropwizard.views.View,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],io.dropwizard.servlets.assets.MediaType,io.dropwizard.views.MultivaluedMap,java.io.OutputStream)@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	0
+io/dropwizard/validation/valuehandling/OptionalIntValidatedValueUnwrapperTest/succeedsWhenConstraintsMet()@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	1

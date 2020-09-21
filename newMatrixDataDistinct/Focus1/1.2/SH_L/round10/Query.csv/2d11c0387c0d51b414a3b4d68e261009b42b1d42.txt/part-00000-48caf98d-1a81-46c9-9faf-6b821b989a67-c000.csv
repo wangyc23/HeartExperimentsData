@@ -1,0 +1,4 @@
+org/oztrack/data/access/manager/DaoManager/getJdbcQuery()
+java/lang/Long/toString()
+org/oztrack/data/model/PositionFix/getLatitude()
+org/oztrack/data/model/PositionFix/getLongitude()

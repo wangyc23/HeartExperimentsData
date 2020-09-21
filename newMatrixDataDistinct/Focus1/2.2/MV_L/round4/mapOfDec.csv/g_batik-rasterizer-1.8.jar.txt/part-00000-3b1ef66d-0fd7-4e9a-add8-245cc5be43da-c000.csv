@@ -1,0 +1,5 @@
+org/apache/maven/it/Verifier/executeCommand(java.lang.String)@g_batik-rasterizer-1.7.jar.txt	4
+org/apache/batik/apps/rasterizer/SVGConverter/computeTranscodingHints()@g_batik-rasterizer-1.7.jar.txt	1
+org/apache/batik/apps/rasterizer/Main/RectangleOptionHandler/parseRect(java.lang.String)@g_batik-rasterizer-1.7.jar.txt	0
+org/apache/batik/apps/rasterizer/Main/<clinit>()@g_batik-rasterizer-1.7.jar.txt	3
+org/apache/maven/it/util/cli/Commandline/translateCommandline(java.lang.String)@g_maven-verifier-1.2.jar.txt	2

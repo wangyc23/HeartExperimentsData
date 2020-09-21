@@ -1,0 +1,4 @@
+com/fasterxml/jackson/annotation/SimpleObjectIdResolver/bindItem(com.fasterxml.jackson.annotation.ObjectIdGenerator$IdKey,java.lang.Object)@g_xwiki-rendering-syntax-html5-7.4.2.jar.txt	0
+org/xwiki/rendering/internal/renderer/html5/HTML5ChainingRenderer/beginFormat(org.xwiki.rendering.listener.Format,java.util.Map)@g_xwiki-rendering-syntax-html5-7.4.2.jar.txt	1
+org/xwiki/rendering/internal/renderer/html5/HTML5ChainingRenderer/beginFormat(org.xwiki.rendering.listener.Format,java.util.Map)@g_jackson-annotations-2.5.0.jar.txt	3
+com/fasterxml/jackson/annotation/SimpleObjectIdResolver/bindItem(com.fasterxml.jackson.annotation.ObjectIdGenerator$IdKey,java.lang.Object)@g_jackson-annotations-2.5.0.jar.txt	2

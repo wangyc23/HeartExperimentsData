@@ -1,0 +1,5 @@
+org/eclipse/core/commands/CommandManager/unescape(java.lang.String)@g_org.eclipse.core.commands-3.9.0.jar.txt	2
+org/eclipse/core/commands/operations/TriggeredOperations/remove(org.eclipse.core.commands.operations.IUndoableOperation)@g_org.eclipse.core.commands-3.8.1.jar.txt	4
+org/eclipse/core/commands/Command/toString()@g_org.eclipse.core.commands-3.8.1.jar.txt	1
+org/eclipse/core/commands/CommandManager/unescape(java.lang.String)@g_org.eclipse.core.commands-3.8.1.jar.txt	0
+org/eclipse/core/commands/Command/toString()@g_org.eclipse.core.commands-3.9.0.jar.txt	3

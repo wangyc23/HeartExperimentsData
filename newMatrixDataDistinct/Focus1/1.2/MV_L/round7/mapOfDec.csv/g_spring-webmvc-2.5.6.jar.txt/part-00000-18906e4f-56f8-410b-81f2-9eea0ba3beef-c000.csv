@@ -1,0 +1,5 @@
+org/springframework/orm/hibernate3/HibernateTransactionManager/doGetTransaction()@g_spring-2.5.6.jar.txt	2
+org/springframework/jdbc/core/JdbcTemplate/handleWarnings(java.sql.Statement)@g_spring-2.5.6.jar.txt	1
+org/springframework/ui/velocity/VelocityEngineFactory/initVelocityResourceLoader(org.apache.velocity.app.VelocityEngine,java.lang.String)@g_spring-2.5.6.jar.txt	4
+org/springframework/web/servlet/mvc/AbstractWizardFormController/processFormSubmission(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.Object,org.springframework.validation.BindException)@g_spring-webmvc-3.0.5.RELEASE.jar.txt	0
+org/springframework/ejb/access/LocalSlsbInvokerInterceptor/invokeInContext(org.aopalliance.intercept.MethodInvocation)@g_spring-2.5.6.jar.txt	3

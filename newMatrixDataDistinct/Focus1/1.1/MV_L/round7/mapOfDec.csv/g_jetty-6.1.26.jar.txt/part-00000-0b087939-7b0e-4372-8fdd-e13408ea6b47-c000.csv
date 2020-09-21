@@ -1,0 +1,5 @@
+org/springframework/util/SystemPropertyUtils/resolvePlaceholders(java.lang.String)@g_spring-core-2.5.6.jar.txt	2
+org/mortbay/jetty/deployer/ContextDeployer/doStart()@g_spring-core-2.5.6.jar.txt	3
+org/springframework/core/Constants/getValues(java.lang.String)@g_spring-core-2.5.6.jar.txt	1
+org/mortbay/jetty/Response/setContentType(java.lang.String)@g_spring-core-2.5.6.jar.txt	0
+org/mortbay/jetty/webapp/WebXmlConfiguration/initWebXmlElement(java.lang.String,org.mortbay.xml.XmlParser$Node)@g_spring-core-2.5.6.jar.txt	4

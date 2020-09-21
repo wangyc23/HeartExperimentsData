@@ -1,0 +1,5 @@
+org/bytedeco/javacpp/ClassProperties/addAll(java.lang.String,java.util.Collection)@g_junit-4.8.2.jar.txt	3
+org/bytedeco/javacpp/tools/Parser/macro(org.bytedeco.javacpp.tools.Context,org.bytedeco.javacpp.tools.DeclarationList)@g_junit-4.8.2.jar.txt	0
+org/bytedeco/javacpp/tools/Parser/commentDoc(java.lang.String,int)@g_junit-4.8.2.jar.txt	2
+org/bytedeco/javacpp/tools/Parser/group(org.bytedeco.javacpp.tools.Context,org.bytedeco.javacpp.tools.DeclarationList)@g_junit-4.8.2.jar.txt	1
+org/bytedeco/javacpp/tools/Parser/declarator(org.bytedeco.javacpp.tools.Context,java.lang.String,int,boolean,int,boolean,boolean)@g_junit-4.8.2.jar.txt	4

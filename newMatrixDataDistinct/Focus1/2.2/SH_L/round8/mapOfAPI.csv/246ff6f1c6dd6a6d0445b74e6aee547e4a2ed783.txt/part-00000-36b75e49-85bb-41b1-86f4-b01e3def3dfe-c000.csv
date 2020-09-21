@@ -1,0 +1,4 @@
+0	org/raml/jaxrs/generator/CurrentBuild/getResourceClassExtension(org.raml.jaxrs.generator.extension.resources.ResourceClassExtension,org.raml.jaxrs.generator.v10.Annotations,org.raml.jaxrs.generator.ramltypes.GResource)
+1	org/raml/jaxrs/generator/extension/resources/ResourceClassExtension/onResource(org.raml.jaxrs.generator.extension.resources.ResourceContext,T,TypeSpec.Builder)
+2	org/raml/jaxrs/generator/Names/typeName(java.lang.String[])
+3	org/raml/jaxrs/generator/builders/resources/ResourceBuilder/recurse(TypeSpec.Builder,org.raml.jaxrs.generator.ramltypes.GResource)

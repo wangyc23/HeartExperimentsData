@@ -1,0 +1,4 @@
+java/io/DataOutputStream/writeInt(int)
+it/unimi/dsi/fastutil/longs/Long2LongOpenHashMap/get(long)
+java/util/Iterator/hasNext()
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)

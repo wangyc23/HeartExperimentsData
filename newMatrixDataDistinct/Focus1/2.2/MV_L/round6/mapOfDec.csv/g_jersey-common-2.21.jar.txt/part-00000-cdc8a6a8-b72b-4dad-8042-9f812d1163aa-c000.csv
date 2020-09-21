@@ -1,0 +1,5 @@
+org/glassfish/jersey/message/internal/EntityTagProvider/fromString(java.lang.String)@g_jersey-common-2.22.1.jar.txt	3
+org/glassfish/jersey/message/internal/TracingInfo/getMessages()@g_jersey-common-2.22.1.jar.txt	0
+org/glassfish/jersey/message/internal/TracingLogger/TracingLoggerImpl/logImpl(org.glassfish.jersey.message.internal.TracingLogger$Event,long,java.lang.Object[])@g_jersey-common-2.22.1.jar.txt	4
+org/glassfish/jersey/internal/ServiceFinder/LazyObjectIterator/next()@g_jersey-common-2.22.1.jar.txt	2
+org/glassfish/jersey/message/internal/TracingInfo/getMessages()@g_jersey-common-2.22.2.jar.txt	1

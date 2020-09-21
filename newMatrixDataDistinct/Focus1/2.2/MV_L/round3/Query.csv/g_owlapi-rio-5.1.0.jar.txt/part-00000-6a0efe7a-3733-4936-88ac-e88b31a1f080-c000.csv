@@ -1,0 +1,4 @@
+java/util/stream/Stream/map(java.util.function.Function)
+org/eclipse/rdf4j/model/ValueFactory/createStatement(org.eclipse.rdf4j.model.Resource,org.eclipse.rdf4j.model.IRI,org.eclipse.rdf4j.model.Value)
+org/semanticweb/owlapi/io/RDFTriple/getSubject()
+org/semanticweb/owlapi/model/IRI/toString()

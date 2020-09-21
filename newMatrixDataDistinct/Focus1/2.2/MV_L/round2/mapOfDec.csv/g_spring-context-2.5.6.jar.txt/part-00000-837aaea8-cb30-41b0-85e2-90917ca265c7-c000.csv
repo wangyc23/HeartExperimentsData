@@ -1,0 +1,5 @@
+org/springframework/jmx/export/metadata/AttributesJmxAttributeSource/getManagedOperationParameters(java.lang.reflect.Method)@g_spring-2.5.6.jar.txt	1
+org/springframework/transaction/interceptor/MethodMapTransactionAttributeSource/addTransactionalMethod(java.lang.Class,java.lang.String,org.springframework.transaction.interceptor.TransactionAttribute)@g_spring-2.5.6.jar.txt	4
+org/springframework/orm/hibernate3/LocalSessionFactoryBean/buildSessionFactory()@g_spring-2.5.6.jar.txt	0
+org/springframework/scripting/support/ScriptFactoryPostProcessor/setBeanFactory(org.springframework.beans.factory.BeanFactory)@g_spring-2.5.6.jar.txt	3
+org/springframework/transaction/interceptor/RuleBasedTransactionAttribute/rollbackOn(java.lang.Throwable)@g_spring-2.5.6.jar.txt	2

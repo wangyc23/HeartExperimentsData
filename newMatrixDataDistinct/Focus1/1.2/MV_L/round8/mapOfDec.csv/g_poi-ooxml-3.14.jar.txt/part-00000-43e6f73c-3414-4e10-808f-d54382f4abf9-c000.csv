@@ -1,0 +1,5 @@
+org/apache/poi/poifs/crypt/dsig/facets/XAdESSignatureFacet/preSign(org.w3c.dom.Document,java.util.List,java.util.List)@g_poi-ooxml-3.17.jar.txt	2
+org/apache/poi/poifs/crypt/dsig/facets/KeyInfoSignatureFacet/postSign(org.w3c.dom.Document)@g_poi-ooxml-3.17.jar.txt	3
+org/apache/poi/xssf/usermodel/XSSFPivotCacheDefinition/getPivotArea(org.apache.poi.ss.usermodel.Workbook)@g_poi-ooxml-3.17.jar.txt	4
+org/apache/poi/xssf/usermodel/BaseXSSFEvaluationWorkbook/getExternalName(java.lang.String,java.lang.String,int)@g_poi-ooxml-3.17.jar.txt	0
+org/apache/poi/poifs/crypt/agile/AgileEncryptor/createEncryptionDocument()@g_poi-ooxml-3.17.jar.txt	1

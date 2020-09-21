@@ -1,0 +1,5 @@
+org/jvnet/hk2/internal/Utilities/getAllQualifiers(java.lang.reflect.AnnotatedElement,java.lang.String,org.jvnet.hk2.internal.Collector)@g_hk2-locator-2.4.0-b10.jar.txt	4
+org/jvnet/hk2/internal/ServiceLocatorImpl/_resolveContext(java.lang.Class)@g_hk2-locator-2.4.0-b10.jar.txt	0
+org/jvnet/hk2/internal/ServiceLocatorImpl/_resolveContext(java.lang.Class)@g_hk2-locator-2.4.0-b31.jar.txt	1
+org/jvnet/hk2/internal/SystemDescriptor/getFactoryDescriptor(java.lang.reflect.Method,java.lang.reflect.Type,org.jvnet.hk2.internal.ServiceLocatorImpl,org.jvnet.hk2.internal.Collector)@g_hk2-locator-2.4.0-b10.jar.txt	2
+org/jvnet/hk2/internal/SystemDescriptor/getFactoryDescriptor(java.lang.reflect.Method,java.lang.reflect.Type,org.jvnet.hk2.internal.ServiceLocatorImpl,org.jvnet.hk2.internal.Collector)@g_hk2-locator-2.4.0-b31.jar.txt	3

@@ -1,0 +1,5 @@
+org/sonatype/aether/util/graph/PreorderNodeListGenerator/getArtifacts(boolean)@g_aether-util-1.11.jar.txt	4
+org/sonatype/aether/util/graph/AbstractDepthFirstNodeListGenerator/getClassPath()@g_aether-util-1.13.1.jar.txt	3
+org/sonatype/aether/util/filter/ExclusionsDependencyFilter/accept(org.sonatype.aether.graph.DependencyNode,java.util.List)@g_aether-util-1.13.1.jar.txt	1
+org/sonatype/aether/util/graph/PreorderNodeListGenerator/getClassPath()@g_aether-util-1.11.jar.txt	2
+org/sonatype/aether/util/filter/ExclusionsDependencyFilter/accept(org.sonatype.aether.graph.DependencyNode,java.util.List)@g_aether-util-1.11.jar.txt	0

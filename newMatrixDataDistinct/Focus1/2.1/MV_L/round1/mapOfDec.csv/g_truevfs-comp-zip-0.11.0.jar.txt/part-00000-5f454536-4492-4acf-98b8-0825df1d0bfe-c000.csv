@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/createCentralFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry,java.nio.ByteBuffer,long,boolean)@g_commons-compress-1.14.jar.txt	1
+org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream/read(byte[],int,int)@g_commons-compress-1.14.jar.txt	0
+org/apache/commons/compress/archivers/sevenz/SevenZOutputFile/writeFileCTimes(java.io.DataOutput)@g_commons-compress-1.14.jar.txt	2
+org/apache/commons/compress/compressors/snappy/FramedSnappyCompressorInputStream/readNextBlock()@g_commons-compress-1.14.jar.txt	4
+org/apache/commons/compress/archivers/tar/TarArchiveInputStream/parsePaxHeaders(java.io.InputStream)@g_commons-compress-1.14.jar.txt	3

@@ -1,0 +1,5 @@
+jline/console/history/FileHistory/flush()@g_jline-2.12.jar.txt	4
+jline/SimpleCompletor/complete(java.lang.String,int,java.util.List)@g_jline-1.0.jar.txt	2
+jline/CandidateListCompletionHandler/printCandidates(jline.ConsoleReader,java.util.Collection,boolean)@g_jline-1.0.jar.txt	1
+jline/ClassNameCompletor/getClassNames()@g_jline-1.0.jar.txt	3
+jline/ConsoleReader/printColumns(java.util.Collection)@g_jline-1.0.jar.txt	0

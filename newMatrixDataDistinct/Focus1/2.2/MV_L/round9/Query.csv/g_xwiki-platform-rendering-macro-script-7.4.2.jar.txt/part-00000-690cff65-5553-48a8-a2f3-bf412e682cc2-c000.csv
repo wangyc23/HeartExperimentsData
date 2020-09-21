@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/xwiki/classloader/ExtendedURLStreamHandler/getProtocol()
+java/util/Iterator/hasNext()
+java/net/URI/toString()

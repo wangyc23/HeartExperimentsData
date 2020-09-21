@@ -1,0 +1,5 @@
+net/sf/ehcache/transaction/local/LocalTransactionContext/rollback()@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/CacheManager/clearAllStartingWith(java.lang.String)@g_ehcache-core-1.7.2.jar.txt	1
+net/sf/ehcache/transaction/manager/DefaultTransactionManagerLookup/init()@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/store/DiskStore/expireElements()@g_ehcache-core-1.7.2.jar.txt	0
+net/sf/ehcache/transaction/local/LocalTransactionStore/setAttributeExtractors(java.util.Map)@g_ehcache-core-2.6.2.jar.txt	3

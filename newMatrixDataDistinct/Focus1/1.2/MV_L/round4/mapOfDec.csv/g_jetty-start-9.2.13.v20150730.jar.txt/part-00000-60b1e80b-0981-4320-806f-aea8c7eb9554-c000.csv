@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/international/pennchinese/ChineseEnglishWordMap/readCEDict(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/shiftreduce/PerceptronModel/tagSet()@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/HTKLatticeReader/readInput(java.io.BufferedReader)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/ling/tokensregex/Env/bindStringRegex(java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/BaseLexicon/readData(java.io.BufferedReader)@g_stanford-parser-3.5.2.jar.txt	0

@@ -1,0 +1,5 @@
+gnu/trove/impl/Constants/<clinit>()@g_trove4j-3.0.3.jar.txt	0
+gnu/trove/list/linked/TFloatLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	2
+gnu/trove/list/linked/TLongLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	3
+gnu/trove/list/linked/TCharLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	4
+gnu/trove/list/linked/TShortLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	1

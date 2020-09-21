@@ -1,0 +1,5 @@
+org/apache/cxf/common/jaxb/JAXBContextCache/addJaxbObjectFactory(javax.xml.bind.JAXBException,java.util.Set)@g_cxf-core-3.0.0-milestone1.jar.txt	1
+org/apache/cxf/jaxrs/utils/HttpUtils/encodePartiallyEncoded(java.lang.String,boolean)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/transport/common/gzip/GZIPOutInterceptor/gzipPermitted(org.apache.cxf.message.Message)@g_cxf-core-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/attachment/AttachmentDeserializer/findBoundaryFromInputStream()@g_cxf-core-3.0.0-milestone1.jar.txt	0
+org/apache/cxf/jaxrs/model/URITemplate/match(java.lang.String,javax.ws.rs.core.MultivaluedMap)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/maven/artifact/manager/DefaultWagonManager/getProxy(java.lang.String)@g_maven-compat-3.0.jar.txt	0
+org/apache/maven/project/ModelUtils/orderAfterMerge(java.util.List,java.util.List,java.util.List)@g_maven-compat-3.0.jar.txt	1
+org/apache/maven/repository/legacy/LegacyRepositorySystem/createDependencyArtifact(org.apache.maven.model.Dependency)@g_maven-compat-3.0.jar.txt	2
+org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler/mergeReportPluginDefinitions(org.apache.maven.model.ReportPlugin,org.apache.maven.model.ReportPlugin,boolean)@g_maven-compat-3.0.jar.txt	4
+org/apache/maven/profiles/io/xpp3/ProfilesXpp3Writer/writeProfile(org.apache.maven.profiles.Profile,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-compat-3.0.jar.txt	3

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/apache/lucene/document/Document/removeFields(java.lang.String)
+java/util/Iterator/next()
+org/apache/lucene/document/Document/getFields()

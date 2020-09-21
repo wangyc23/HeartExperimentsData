@@ -1,0 +1,5 @@
+org/apache/http/impl/nio/reactor/IOReactorConfig/copy(org.apache.http.impl.nio.reactor.IOReactorConfig)@g_httpcore-osgi-4.4.4.jar.txt	2
+org/apache/http/impl/nio/reactor/AbstractMultiworkerIOReactor/convert(int,org.apache.http.params.HttpParams)@g_httpcore-nio-4.4.5.jar.txt	0
+org/apache/http/nio/protocol/AsyncNHttpClientHandler/requestReady(org.apache.http.nio.NHttpClientConnection)@g_httpcore-nio-4.4.5.jar.txt	4
+org/apache/http/impl/nio/reactor/AbstractMultiworkerIOReactor/convert(int,org.apache.http.params.HttpParams)@g_httpcore-osgi-4.4.4.jar.txt	3
+org/apache/http/impl/nio/reactor/IOReactorConfig/copy(org.apache.http.impl.nio.reactor.IOReactorConfig)@g_httpcore-nio-4.4.5.jar.txt	1

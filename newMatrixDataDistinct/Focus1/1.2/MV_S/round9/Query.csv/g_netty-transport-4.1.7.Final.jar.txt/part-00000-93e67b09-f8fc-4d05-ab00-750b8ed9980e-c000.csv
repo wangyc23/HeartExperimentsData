@@ -1,0 +1,4 @@
+java/util/ArrayDeque/poll()
+io/netty/util/internal/ObjectUtil/checkNotNull(java.lang.Object,java.lang.String)
+java/lang/StringBuilder/append(int)
+java/lang/StringBuilder/StringBuilder()

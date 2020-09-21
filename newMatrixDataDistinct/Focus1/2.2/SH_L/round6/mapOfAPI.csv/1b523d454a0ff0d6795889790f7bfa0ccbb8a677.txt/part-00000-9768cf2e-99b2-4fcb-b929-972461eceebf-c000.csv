@@ -1,0 +1,8 @@
+0	java/util/List/add(E)
+1	com/cloudera/oryx/computation/common/fn/OryxReduceDoFn/getNumPartitions()
+2	com/cloudera/oryx/app/als/RescorerProvider/getMostActiveUsersRescorer(java.util.List)
+3	com/cloudera/oryx/als/computation/iterate/row/YState/initialize(com.cloudera.oryx.als.computation.iterate.row.TaskInputOutputContext,int,int)
+4	java/util/ArrayList/ArrayList(int)
+5	com/cloudera/oryx/computation/common/fn/OryxReduceDoFn/getPartition()
+6	com/cloudera/oryx/app/als/MultiRescorerProvider/buildRescorer(java.util.List)
+7	com/cloudera/oryx/computation/common/fn/OryxReduceDoFn/initialize()

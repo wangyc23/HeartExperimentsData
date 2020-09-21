@@ -1,0 +1,4 @@
+org/neo4j/kernel/impl/nioneo/xa/NeoStoreXaConnection/clearAllTransactions()
+javax/transaction/xa/XAResource/end(javax.transaction.xa.Xid,int)
+org/neo4j/kernel/impl/nioneo/xa/NeoStoreXaDataSource/getXaConnection()
+org/neo4j/kernel/impl/nioneo/xa/NeoStoreXaDataSource/nextId(java.lang.Class)

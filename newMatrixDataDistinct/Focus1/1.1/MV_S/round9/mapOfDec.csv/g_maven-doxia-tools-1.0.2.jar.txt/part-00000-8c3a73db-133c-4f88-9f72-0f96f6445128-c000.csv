@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/gzip/GZipCompressor/compress()@g_plexus-archiver-1.0-alpha-9.jar.txt	3
+org/apache/maven/shared/artifact/resolver/DefaultProjectDependenciesResolver/getProjectIds(java.util.Collection)@g_plexus-archiver-1.0-alpha-9.jar.txt	2
+org/apache/maven/shared/artifact/resolver/DefaultProjectDependenciesResolver/resolve(java.util.Collection,java.util.Collection,org.apache.maven.execution.MavenSession)@g_maven-artifact-resolver-1.0.jar.txt	0
+org/codehaus/plexus/archiver/zip/AbstractZipUnArchiver/extractFile(java.io.File,java.io.File,java.io.InputStream,java.lang.String,java.util.Date,boolean,java.lang.Integer)@g_plexus-archiver-1.0-alpha-9.jar.txt	1
+org/codehaus/plexus/archiver/war/WarArchiver/zipFile(org.codehaus.plexus.archiver.ArchiveEntry,org.codehaus.plexus.archiver.zip.ZipOutputStream,java.lang.String,int)@g_plexus-archiver-1.0-alpha-9.jar.txt	4

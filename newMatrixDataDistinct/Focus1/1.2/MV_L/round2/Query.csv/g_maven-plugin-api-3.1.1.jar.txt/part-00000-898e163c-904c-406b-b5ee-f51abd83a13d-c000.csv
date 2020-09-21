@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/xml/pull/XmlPullParser/nextTag()
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getAttributeCount()
+java/lang/String/equals(java.lang.Object)
+java/util/List/add(java.lang.Object)

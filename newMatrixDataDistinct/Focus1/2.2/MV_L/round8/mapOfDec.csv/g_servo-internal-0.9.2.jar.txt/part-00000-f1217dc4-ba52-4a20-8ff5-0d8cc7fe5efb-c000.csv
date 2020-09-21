@@ -1,0 +1,5 @@
+com/netflix/servo/jsr166e/ForkJoinPool/<clinit>()@g_servo-internal-0.10.0.jar.txt	0
+com/netflix/servo/jsr166e/ConcurrentHashMapV8/<clinit>()@g_servo-core-0.7.4.jar.txt	3
+com/netflix/servo/publish/JmxMetricPoller/createTagList(javax.management.ObjectName)@g_servo-internal-0.10.0.jar.txt	4
+com/netflix/servo/jsr166e/ForkJoinPool/<clinit>()@g_servo-core-0.7.4.jar.txt	1
+com/netflix/servo/jsr166e/ConcurrentHashMapV8/<clinit>()@g_servo-internal-0.10.0.jar.txt	2

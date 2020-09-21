@@ -1,0 +1,4 @@
+org/jboss/resteasy/security/doseta/KeyRepository/findPrivateKey(org.jboss.resteasy.security.doseta.DKIMSignature)
+org/jboss/resteasy/security/doseta/DKIMSignature/getBased64Signature()
+org/jboss/resteasy/security/doseta/DKIMSignature/sign(java.util.Map,byte[],java.security.PrivateKey)
+org/jboss/resteasy/security/doseta/i18n/Messages/unableToFindKey()

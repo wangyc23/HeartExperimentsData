@@ -1,0 +1,5 @@
+com/google/common/util/concurrent/ThreadFactoryBuilder/1/newThread(java.lang.Runnable)@g_guava-12.0.jar.txt	1
+com/google/common/cache/CustomConcurrentHashMap/Segment/replace(java.lang.Object,int,java.lang.Object)@g_guava-10.0.1.jar.txt	3
+com/google/common/collect/CustomConcurrentHashMap/Segment/reclaimValue(java.lang.Object,int,com.google.common.collect.CustomConcurrentHashMap$ValueReference)@g_guava-10.0.1.jar.txt	2
+com/google/common/collect/CustomConcurrentHashMap/Segment/put(java.lang.Object,int,java.lang.Object,boolean)@g_guava-10.0.1.jar.txt	4
+com/google/common/util/concurrent/ThreadFactoryBuilder/1/newThread(java.lang.Runnable)@g_guava-10.0.1.jar.txt	0

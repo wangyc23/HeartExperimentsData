@@ -1,0 +1,5 @@
+org/apache/ivy/core/cache/DefaultRepositoryCacheManager/doFindModuleInCache(org.apache.ivy.core.module.id.ModuleRevisionId,org.apache.ivy.core.cache.CacheMetadataOptions,java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/xmlpull/v1/XmlPullParserFactory/newPullParser()@g_xmlpull-1.1.3.1.jar.txt	1
+org/apache/ivy/ant/IvyCacheTask/getAllArtifactReports()@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/osgi/updatesite/PluginAdapter/featureAsBundle(java.net.URI,org.apache.ivy.osgi.updatesite.xml.EclipseFeature)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/util/Configurator/setAttribute(java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	0

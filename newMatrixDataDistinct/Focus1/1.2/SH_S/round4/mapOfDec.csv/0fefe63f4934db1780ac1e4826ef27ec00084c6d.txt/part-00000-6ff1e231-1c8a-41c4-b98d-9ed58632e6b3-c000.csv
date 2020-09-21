@@ -1,0 +1,5 @@
+com/mycompany/parsley/ParsleyValidationBehavior/off(java.lang.String[])@1fb2b076b6758208c658334f2942bf7c4bd40b0f.txt	4
+org/planningpoker/wicket/PlanningSession/isParticipating()@1fb2b076b6758208c658334f2942bf7c4bd40b0f.txt	3
+com/mycompany/parsley/ParsleyValidationBehavior/bind(com.wicketinaction.Component)@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	0
+org/planningpoker/wicket/components/PlanningRoundTitleEditableLabel/defaultNullLabel()@1fb2b076b6758208c658334f2942bf7c4bd40b0f.txt	2
+org/objetdirect/wickext/core/commons/WickextPluginInstantiationListener/onInstantiation(org.apache.wicket.Component)@1fb2b076b6758208c658334f2942bf7c4bd40b0f.txt	1

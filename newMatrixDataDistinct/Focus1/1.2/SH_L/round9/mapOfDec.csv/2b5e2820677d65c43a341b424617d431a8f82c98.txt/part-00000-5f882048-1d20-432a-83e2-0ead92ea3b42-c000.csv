@@ -1,0 +1,5 @@
+com/dayatang/utils/Slf4jLogger/getLogger(java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	4
+omw/controllers/ConnexionServlet/postRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@05f4c8fece83cfeb4469846407c47ce650324139.txt	0
+com/dayatang/jpa/EntityRepositoryJpa/findByNamedQuery(java.lang.String,java.util.Map,java.lang.Class)@05f4c8fece83cfeb4469846407c47ce650324139.txt	3
+omw/controllers/InscriptionServlet/postRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@05f4c8fece83cfeb4469846407c47ce650324139.txt	1
+com/dayatang/domain/InstanceFactory/bind(java.lang.Class,T,java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	2

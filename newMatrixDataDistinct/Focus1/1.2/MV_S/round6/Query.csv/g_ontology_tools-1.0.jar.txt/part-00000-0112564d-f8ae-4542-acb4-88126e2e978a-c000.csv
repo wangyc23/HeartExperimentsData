@@ -1,0 +1,4 @@
+javax/swing/JComboBox/removeItemAt(int)
+gate/creole/ontology/Ontology/getName()
+javax/swing/JComboBox/invalidate()
+javax/swing/JComboBox/addItem(java.lang.Object)

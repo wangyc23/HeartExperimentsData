@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(char)
+java/lang/Character/isDefined(char)
+java/lang/Integer/toHexString(int)
+java/lang/StringBuffer/toString()

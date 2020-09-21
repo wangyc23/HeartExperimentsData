@@ -1,0 +1,5 @@
+io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker/finishHandshake(io.netty.channel.Channel,io.netty.handler.codec.http.FullHttpResponse)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	3
+io/netty/microbench/buffer/SwappedByteBufBenchmark/setup()@10a2b9993a93521a0c247dad330fa4234cd3a2f0.txt	1
+io/netty/microbench/buffer/SwappedByteBufBenchmark/setup()@28d8b9e01e3300d65d02c410027123f892348d9f.txt	0
+io/netty/handler/codec/spdy/SpdyFrameEncoder/encodeGoAwayFrame(io.netty.buffer.ByteBufAllocator,int,int)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	4
+io/netty/util/internal/logging/FormattingTuple/trimmedCopy(java.lang.Object[])@28d8b9e01e3300d65d02c410027123f892348d9f.txt	2

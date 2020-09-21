@@ -1,0 +1,3 @@
+0	au/com/ibm/bluecoin/scaffold/IService/getById(B)
+1	org/springframework/security/core/userdetails/UsernameNotFoundException/UsernameNotFoundException(java.lang.String)
+2	au/com/ibm/bluecoin/utils/UserRepositoryUserDetails/UserRepositoryUserDetails(au.com.ibm.bluecoin.model.relational.AppUser)

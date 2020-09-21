@@ -1,0 +1,4 @@
+org/apache/commons/vfs2/provider/url/UrlFileProvider/addFileSystem(java.lang.Comparable,org.apache.commons.vfs2.FileSystem)
+org/apache/commons/vfs2/provider/url/UrlFileProvider/getContext()
+java/net/URL/URL(java.net.URL,java.lang.String)
+java/net/URL/toString()

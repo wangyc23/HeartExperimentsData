@@ -1,0 +1,4 @@
+0	java/util/Collections/sort(java.util.List)
+1	java/util/Collections/unmodifiableList(java.util.List)
+2	org/apache/velocity/tools/generic/ClassTool$MethodSub/MethodSub(java.lang.reflect.Method)
+3	java/lang/Class/getDeclaredMethods()

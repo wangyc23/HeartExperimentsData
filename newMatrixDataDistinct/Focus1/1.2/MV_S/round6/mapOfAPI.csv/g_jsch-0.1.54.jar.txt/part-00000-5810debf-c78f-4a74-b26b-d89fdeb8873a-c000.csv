@@ -1,0 +1,4 @@
+0	javax/crypto/SecretKeyFactory/getInstance(java.lang.String)
+1	java/lang/StringBuilder/append(java.lang.String)
+2	java/lang/StringBuilder/StringBuilder()
+3	javax/crypto/SecretKeyFactory/generateSecret(java.security.spec.KeySpec)

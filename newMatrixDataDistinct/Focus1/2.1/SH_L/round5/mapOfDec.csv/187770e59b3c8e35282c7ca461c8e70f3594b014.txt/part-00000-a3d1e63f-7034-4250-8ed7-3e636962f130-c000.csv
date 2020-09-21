@@ -1,0 +1,5 @@
+coprocessor/ObserverStatisticsExample/main(java.lang.String[])@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	3
+admin/ClusterStatusExample/main(java.lang.String[])@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	1
+filters/FilterListExample/main(java.lang.String[])@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	4
+bulkimport/BulkImportJobExample/usage(java.lang.String)@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	2
+mapreduce/AnalyzeData/AnalyzeMapper/map(mapreduce.ImmutableBytesWritable,client.Result,mapreduce.Context)@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	0

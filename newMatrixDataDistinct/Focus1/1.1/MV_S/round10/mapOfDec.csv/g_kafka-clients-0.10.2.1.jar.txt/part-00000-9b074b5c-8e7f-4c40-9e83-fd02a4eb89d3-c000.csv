@@ -1,0 +1,5 @@
+org/apache/kafka/clients/consumer/internals/Fetcher/1/onSuccess(org.apache.kafka.clients.ClientResponse)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/Cache/NonstopActiveDelegateHolderImpl/terracottaStoreInitialized(net.sf.ehcache.store.TerracottaStore)@g_ehcache-core-2.6.2.jar.txt	2
+org/jgroups/tests/UnicastTestTcpSlow/Acceptor/run()@g_ehcache-core-2.6.2.jar.txt	3
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/store/FrontEndCacheTier/getQuiet(java.lang.Object)@g_ehcache-core-2.6.2.jar.txt	1

@@ -1,0 +1,5 @@
+javax/mail/URLName/decode(java.lang.String)@g_mail-1.4.1.jar.txt	2
+javax/mail/internet/InternetAddress/unquote(java.lang.String)@g_mail-1.4.1.jar.txt	4
+com/sun/mail/mbox/MboxFolder/listWork(java.lang.String,java.lang.String,java.lang.String,int,java.util.Vector)@g_mail-1.4.1.jar.txt	0
+javax/mail/URLName/_encode(java.lang.String)@g_mail-1.4.1.jar.txt	3
+com/sun/mail/mbox/SolarisMailbox/filename(java.lang.String,java.lang.String)@g_mail-1.4.1.jar.txt	1

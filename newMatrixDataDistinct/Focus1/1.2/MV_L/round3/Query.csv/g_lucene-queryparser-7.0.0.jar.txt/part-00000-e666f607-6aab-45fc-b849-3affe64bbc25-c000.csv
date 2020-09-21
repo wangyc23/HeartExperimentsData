@@ -1,0 +1,4 @@
+org/apache/lucene/search/spans/SpanBoostQuery/SpanBoostQuery(org.apache.lucene.search.spans.SpanQuery,float)
+org/w3c/dom/Element/getFirstChild()
+java/util/List/size()
+java/util/List/toArray(java.lang.Object[])

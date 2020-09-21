@@ -1,0 +1,5 @@
+com/sun/codemodel/TypedAnnotationWriter/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_codemodel-2.6.jar.txt	0
+com/sun/org/apache/xml/internal/resolver/Catalog/resolveLocalPublic(int,java.lang.String,java.lang.String,java.lang.String)@g_resolver-20050927.jar.txt	2
+com/sun/codemodel/TypedAnnotationWriter/addArrayValue(java.lang.Object,java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_codemodel-2.6.jar.txt	1
+com/sun/org/apache/xml/internal/resolver/Catalog/parsePendingCatalogs()@g_resolver-20050927.jar.txt	4
+com/sun/org/apache/xml/internal/resolver/readers/SAXCatalogReader/startElement(java.lang.String,org.xml.sax.AttributeList)@g_resolver-20050927.jar.txt	3

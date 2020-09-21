@@ -1,0 +1,5 @@
+org/jgroups/JChannel/MyProbeHandler/handleOperation(java.util.Map,java.lang.String)@g_jgroups-3.6.2.Final.jar.txt	0
+org/jgroups/demos/RelayDemo/print(org.jgroups.View)@g_jgroups-3.6.2.Final.jar.txt	3
+org/jgroups/demos/RelayDemoRpc/print(org.jgroups.View)@g_jgroups-3.6.2.Final.jar.txt	1
+org/jgroups/auth/sasl/SaslUtils/getFactories(java.lang.Class,java.lang.ClassLoader,boolean)@g_jgroups-3.6.2.Final.jar.txt	2
+org/jgroups/util/XMLSchemaGenerator/createXMLTree(org.w3c.dom.Document,java.lang.Class,java.lang.String)@g_jgroups-3.6.2.Final.jar.txt	4

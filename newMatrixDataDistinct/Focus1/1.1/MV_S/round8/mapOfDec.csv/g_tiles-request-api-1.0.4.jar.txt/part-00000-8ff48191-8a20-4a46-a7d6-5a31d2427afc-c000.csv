@@ -1,0 +1,5 @@
+info/informatica/io/ClassAssociation/useArgument(java.io.InputStream,java.net.URL,java.lang.String,java.lang.String)@g_msg-simple-1.1.jar.txt	1
+org/apache/tiles/request/locale/PostfixedApplicationResource/validateLocale(java.util.Locale)@g_msg-simple-1.1.jar.txt	4
+info/informatica/util/CacheMap/expire(int)@g_msg-simple-1.1.jar.txt	0
+info/informatica/text/ExponentFormat/roundExpNumber(java.lang.Number)@g_msg-simple-1.1.jar.txt	2
+info/informatica/awt/ColorUtil/parseRGB(java.lang.String)@g_msg-simple-1.1.jar.txt	3

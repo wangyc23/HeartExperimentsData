@@ -1,0 +1,4 @@
+org/onosproject/net/NetTestTools/did(java.lang.String)
+java/util/Set/size()
+java/util/List/size()
+org/onosproject/net/topology/TopologyService/currentTopology()

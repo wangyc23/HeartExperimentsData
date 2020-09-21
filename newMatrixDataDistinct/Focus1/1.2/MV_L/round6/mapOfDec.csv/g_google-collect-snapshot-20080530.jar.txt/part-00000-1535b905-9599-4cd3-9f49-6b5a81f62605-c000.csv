@@ -1,0 +1,5 @@
+javax/enterprise/util/AnnotationLiteral/hashCode()@g_cdi-api-1.2.jar.txt	1
+com/google/common/collect/Multimaps/MapMultimap/toString()@g_cdi-api-1.0.jar.txt	4
+javax/enterprise/inject/spi/CDI/findAllProviders()@g_cdi-api-1.0.jar.txt	3
+javax/enterprise/util/AnnotationLiteral/hashCode()@g_cdi-api-1.0.jar.txt	0
+javax/enterprise/util/AnnotationLiteral/getMembers()@g_cdi-api-1.0.jar.txt	2

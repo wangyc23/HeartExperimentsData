@@ -1,0 +1,5 @@
+org/drools/lang/dsl/DefaultExpander/substitute(java.lang.String,java.util.List,int,java.util.Map,boolean)@g_drools-compiler-5.5.0.Final.jar.txt	3
+org/drools/rule/builder/dialect/java/JavaRuleBuilderHelper/createVariableContext(java.lang.String,java.lang.String,org.drools.rule.builder.RuleBuildContext,org.drools.rule.Declaration[],org.drools.rule.Declaration[],java.util.Map)@g_drools-compiler-5.5.0.Final.jar.txt	1
+org/drools/compiler/PackageBuilder/sortByHierarchy(java.util.List)@g_drools-compiler-5.5.0.Final.jar.txt	4
+org/drools/rule/builder/dialect/java/JavaFunctionBuilder/build(org.drools.rule.Package,org.drools.lang.descr.FunctionDescr,org.drools.base.TypeResolver,java.util.Map,java.util.List)@g_drools-compiler-5.5.0.Final.jar.txt	2
+org/drools/rule/builder/dialect/java/JavaExprAnalyzer/analyzeBlock(java.lang.String,org.drools.compiler.BoundIdentifiers)@g_drools-compiler-5.5.0.Final.jar.txt	0

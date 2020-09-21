@@ -1,0 +1,4 @@
+io/netty/util/internal/PlatformDependent/copyMemory(long,byte[],int,long)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)
+io/netty/util/internal/MathUtil/isOutOfBounds(int,int,int)

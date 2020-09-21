@@ -1,0 +1,4 @@
+java/lang/Class/getSuperclass()
+java/lang/reflect/Field/setAccessible(boolean)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getName()

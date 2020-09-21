@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Map/get(java.lang.Object)
+org/apache/parquet/column/ColumnDescriptor/getPath()

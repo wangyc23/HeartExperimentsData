@@ -1,0 +1,5 @@
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentStore/saveAttachmentsContent(java.util.List,com.xpn.xwiki.doc.XWikiDocument,boolean,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	3
+com/xpn/xwiki/plugin/webdav/resources/domain/DavWikiFile/init(com.xpn.xwiki.plugin.webdav.resources.XWikiDavResource,java.lang.String,java.lang.String)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	2
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentStore/AttachmentDeleteTransactionRunnable/onRun()@g_xwiki-platform-store-filesystem-attachments-7.0.jar.txt	1
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentRecycleBinStore/saveToRecycleBin(com.xpn.xwiki.doc.XWikiAttachment,java.lang.String,java.util.Date,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	4
+com/xpn/xwiki/gwt/api/server/XWikiServiceImpl/newDocument(com.xpn.xwiki.gwt.api.client.Document,com.xpn.xwiki.doc.XWikiDocument,boolean,boolean,boolean,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	0

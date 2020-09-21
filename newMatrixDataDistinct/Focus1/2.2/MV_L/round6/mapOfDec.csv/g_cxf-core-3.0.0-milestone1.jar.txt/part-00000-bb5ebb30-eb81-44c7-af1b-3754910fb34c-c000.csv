@@ -1,0 +1,5 @@
+org/apache/cxf/common/jaxb/JAXBContextCache/getCachedContextAndSchemas(java.util.Set,java.lang.String,java.util.Map,java.util.Collection,boolean)@g_cxf-core-3.0.16.jar.txt	4
+org/apache/cxf/common/util/UrlUtils/parseQueryString(java.lang.String)@g_cxf-core-3.0.16.jar.txt	0
+org/apache/cxf/interceptor/security/SimpleAuthorizingInterceptor/parseRolesMap(java.util.Map)@g_cxf-core-3.0.16.jar.txt	2
+org/apache/cxf/interceptor/ClientFaultConverter/setStackTrace(org.apache.cxf.interceptor.Fault,org.apache.cxf.message.Message)@g_cxf-core-3.0.16.jar.txt	3
+org/apache/cxf/common/util/SpringClasspathScanner/findClassesInternal(java.util.Collection,java.util.List,java.lang.ClassLoader)@g_cxf-core-3.0.16.jar.txt	1

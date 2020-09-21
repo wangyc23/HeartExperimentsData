@@ -1,0 +1,5 @@
+org/sonatype/aether/impl/internal/DefaultArtifactResolver/resolveArtifacts(org.sonatype.aether.RepositorySystemSession,java.util.Collection)@g_aether-impl-1.7.jar.txt	4
+org/sonatype/aether/impl/internal/DefaultMetadataResolver/resolveMetadata(org.sonatype.aether.RepositorySystemSession,java.util.Collection)@g_aether-impl-1.7.jar.txt	0
+org/sonatype/aether/impl/internal/DefaultServiceLocator/getServices(java.lang.Class)@g_aether-impl-1.7.jar.txt	3
+org/sonatype/aether/impl/internal/DataPool/Descriptor/clone(java.util.List)@g_aether-impl-1.7.jar.txt	2
+org/sonatype/aether/impl/internal/DefaultDependencyCollector/mergeDeps(java.util.List,java.util.List)@g_aether-impl-1.7.jar.txt	1

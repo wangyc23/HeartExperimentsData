@@ -1,0 +1,4 @@
+org/apache/kylin/storage/hbase/coprocessor/CoprocessorProjector/AggrKey/length()
+org/apache/kylin/storage/hbase/coprocessor/CoprocessorProjector/AggrKey/compareTo(org.apache.kylin.storage.hbase.coprocessor.CoprocessorProjector.AggrKey)
+org/apache/kylin/storage/hbase/coprocessor/CoprocessorProjector/AggrKey/equals(java.lang.Object)
+org/apache/kylin/storage/hbase/coprocessor/CoprocessorProjector/AggrKey/get()

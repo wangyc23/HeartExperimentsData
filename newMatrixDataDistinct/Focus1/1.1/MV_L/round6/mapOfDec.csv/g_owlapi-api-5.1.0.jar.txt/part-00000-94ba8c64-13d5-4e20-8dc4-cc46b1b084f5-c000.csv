@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owlapi/modularity/SyntacticLocalityModuleExtractor/extractLogicalAxioms(boolean[],java.util.Set,com.clarkparsia.owlapi.modularity.locality.LocalityClass,boolean)@g_owlapi-distribution-5.1.0.jar.txt	4
+org/semanticweb/owlapi/util/AnnotationValueShortFormProvider/getShortForm(org.semanticweb.owlapi.model.OWLEntity)@g_owlapi-distribution-5.1.0.jar.txt	0
+org/semanticweb/owlapi/util/PropertyAssertionValueShortFormProvider/getShortForm(org.semanticweb.owlapi.model.OWLEntity)@g_owlapi-distribution-5.1.0.jar.txt	1
+org/semanticweb/owlapi/util/AbstractOWLOntologyStorer/storeOntology(org.semanticweb.owlapi.model.OWLOntology,org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.OWLOntologyFormat)@g_owlapi-distribution-5.1.0.jar.txt	2
+org/semanticweb/owlapi/util/NamespaceUtil/generatePrefix(java.lang.String)@g_owlapi-distribution-5.1.0.jar.txt	3

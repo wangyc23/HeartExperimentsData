@@ -1,0 +1,5 @@
+org/apache/lucene/demo/facet/SimpleSortedSetFacetsExample/drillDown()@g_lucene-demo-6.6.0.jar.txt	2
+org/apache/lucene/index/PKIndexSplitter/createIndex(org.apache.lucene.index.IndexWriterConfig,org.apache.lucene.store.Directory,org.apache.lucene.index.DirectoryReader,org.apache.lucene.search.Query,boolean)@g_lucene-misc-6.4.1.jar.txt	0
+org/apache/lucene/demo/facet/SimpleFacetsExample/facetsOnly()@g_lucene-demo-6.6.0.jar.txt	3
+org/apache/lucene/demo/facet/ExpressionAggregationFacetsExample/search()@g_lucene-demo-6.6.0.jar.txt	1
+org/apache/lucene/demo/facet/MultiCategoryListsFacetsExample/search()@g_lucene-demo-6.6.0.jar.txt	4

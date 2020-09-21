@@ -1,0 +1,5 @@
+org/springframework/jdbc/core/JdbcTemplate/extractReturnedResults(java.sql.CallableStatement,java.util.List,java.util.List,int)@g_spring-jdbc-4.0.7.RELEASE.jar.txt	3
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/processTableColumns(java.sql.DatabaseMetaData,org.springframework.jdbc.core.metadata.GenericTableMetaDataProvider$TableMetaData)@g_spring-jdbc-4.0.6.RELEASE.jar.txt	4
+org/springframework/jdbc/core/JdbcTemplate/6/doInCallableStatement(java.sql.CallableStatement)@g_spring-jdbc-4.0.6.RELEASE.jar.txt	0
+org/springframework/jdbc/core/JdbcTemplate/6/doInCallableStatement(java.sql.CallableStatement)@g_spring-jdbc-4.0.7.RELEASE.jar.txt	2
+org/springframework/jdbc/core/JdbcTemplate/extractReturnedResults(java.sql.CallableStatement,java.util.List,java.util.List,int)@g_spring-jdbc-4.0.6.RELEASE.jar.txt	1

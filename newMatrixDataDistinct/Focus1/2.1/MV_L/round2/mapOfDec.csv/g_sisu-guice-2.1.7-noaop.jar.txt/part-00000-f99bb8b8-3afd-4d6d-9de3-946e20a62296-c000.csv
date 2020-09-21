@@ -1,0 +1,5 @@
+com/google/inject/util/Providers/guicify(javax.inject.Provider)@g_sisu-guice-3.1.0-no_aop.jar.txt	3
+com/google/inject/TypeLiteral/getExceptionTypes(java.lang.reflect.Member)@g_sisu-guice-3.1.0-no_aop.jar.txt	1
+com/google/inject/TypeLiteral/getParameterTypes(java.lang.reflect.Member)@g_sisu-guice-3.1.0-no_aop.jar.txt	0
+com/google/common/util/concurrent/AbstractService/notifyFailed(java.lang.Throwable)@g_sisu-guice-3.1.0-no_aop.jar.txt	4
+com/google/inject/internal/BytecodeGen/<clinit>()@g_sisu-guice-3.1.0-no_aop.jar.txt	2

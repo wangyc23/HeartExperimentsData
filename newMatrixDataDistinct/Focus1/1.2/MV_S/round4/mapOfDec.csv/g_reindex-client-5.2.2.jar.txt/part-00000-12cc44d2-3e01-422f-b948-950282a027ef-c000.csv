@@ -1,0 +1,5 @@
+org/elasticsearch/percolator/TransportMultiPercolateAction/doExecute(org.elasticsearch.percolator.MultiPercolateRequest,org.elasticsearch.action.ActionListener)@g_percolator-client-5.2.2.jar.txt	2
+org/elasticsearch/percolator/PercolateQueryBuilder/createMultiDocumentSearcher(org.apache.lucene.analysis.Analyzer,org.elasticsearch.index.mapper.ParsedDocument)@g_percolator-client-5.2.2.jar.txt	1
+org/elasticsearch/percolator/RestPercolateAction/parseExistingDocPercolate(org.elasticsearch.percolator.PercolateRequest,org.elasticsearch.rest.RestRequest,org.elasticsearch.client.node.NodeClient)@g_percolator-client-5.2.2.jar.txt	0
+org/elasticsearch/index/reindex/TransportReindexAction/lambda$buildRestClient$2(org.elasticsearch.index.reindex.remote.RemoteInfo,long,java.util.List,org.apache.http.impl.nio.client.HttpAsyncClientBuilder)@g_percolator-client-5.2.2.jar.txt	4
+org/elasticsearch/percolator/PercolatorFieldMapper/verifyQuery(org.elasticsearch.index.query.QueryBuilder)@g_percolator-client-5.2.2.jar.txt	3

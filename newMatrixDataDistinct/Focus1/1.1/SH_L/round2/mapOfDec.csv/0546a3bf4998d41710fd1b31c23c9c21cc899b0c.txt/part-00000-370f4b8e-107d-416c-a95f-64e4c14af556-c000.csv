@@ -1,0 +1,5 @@
+org/jboss/forge/dev/java/JavaPluginTest/testCreateJavaInterfaceNamed()@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	0
+org/jboss/forge/spec/validation/ValidationPluginTest/testValidationProviderDependenciesAreInstalledWhenSetUp()@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	2
+org/jboss/forge/shell/test/plugins/builtin/CopyPluginTest/testCopyFileToNewFile()@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	1
+org/jboss/forge/spec/cdi/BeansPluginTest/testOverwriteBean()@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	3
+org/jboss/forge/shell/test/plugins/builtin/ForgePluginTest/testFindPlugin()@269f038e2c1a04cf2f6561858a141a9261eacb60.txt	4

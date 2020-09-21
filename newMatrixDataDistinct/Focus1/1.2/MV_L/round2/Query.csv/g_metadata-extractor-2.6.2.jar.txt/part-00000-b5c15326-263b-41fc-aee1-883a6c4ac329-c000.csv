@@ -1,0 +1,4 @@
+com/drew/lang/BufferBoundsException/getMessage()
+com/drew/metadata/icc/IccDirectory/setByteArray(int,byte[])
+java/lang/Object/getClass()
+com/drew/metadata/icc/IccDirectory/addError(java.lang.String)

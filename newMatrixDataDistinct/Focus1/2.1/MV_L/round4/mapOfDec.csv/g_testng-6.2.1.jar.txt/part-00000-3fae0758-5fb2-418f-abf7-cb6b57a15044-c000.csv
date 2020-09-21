@@ -1,0 +1,5 @@
+org/testng/xml/XmlTest/toString()@g_spring-core-2.5.6.SEC01.jar.txt	3
+org/testng/xml/LaunchSuite/ClassesAndMethodsSuite/initContentBuffer(org.testng.reporters.XMLStringBuffer)@g_spring-core-2.5.6.SEC01.jar.txt	0
+org/springframework/core/Constants/getValues(java.lang.String)@g_spring-core-2.5.6.SEC01.jar.txt	1
+org/apache/ivy/core/module/descriptor/DefaultModuleDescriptor/addArtifact(java.lang.String,org.apache.ivy.core.module.descriptor.Artifact)@g_spring-core-2.5.6.SEC01.jar.txt	2
+org/testng/internal/PoolService/submitTasksAndWait(java.lang.Object,java.util.List)@g_spring-core-2.5.6.SEC01.jar.txt	4

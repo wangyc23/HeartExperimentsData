@@ -1,0 +1,5 @@
+com/amazonaws/auth/QueryStringSigner/calculateStringToSignV1(java.util.Map)@g_aws-java-sdk-core-1.9.3.jar.txt	2
+com/amazonaws/transform/StaxUnmarshallerContext/updateContext(javax.xml.stream.events.XMLEvent)@g_aws-java-sdk-core-1.9.3.jar.txt	4
+com/amazonaws/http/HttpRequestFactory/configureHeaders(org.apache.http.client.methods.HttpRequestBase,com.amazonaws.Request,com.amazonaws.http.ExecutionContext,com.amazonaws.ClientConfiguration)@g_aws-java-sdk-core-1.9.3.jar.txt	3
+com/amazonaws/auth/policy/internal/JsonPolicyReader/createPolicyFromJsonString(java.lang.String)@g_aws-java-sdk-core-1.9.3.jar.txt	1
+com/amazonaws/auth/AWSCredentialsProviderChain/getCredentials()@g_aws-java-sdk-core-1.9.3.jar.txt	0

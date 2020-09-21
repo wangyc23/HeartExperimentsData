@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/StringBuilder/setLength(int)
+java/util/ArrayList/toArray(java.lang.Object[])
+java/util/ArrayList/size()

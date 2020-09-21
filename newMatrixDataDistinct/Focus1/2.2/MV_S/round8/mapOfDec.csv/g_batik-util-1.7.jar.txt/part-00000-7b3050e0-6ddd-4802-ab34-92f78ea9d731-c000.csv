@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/qdox/qdox/junit/APITestCase/assertInterfacesEqual(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.JavaClass,org.carrot2.util.preprocessor.shaded.qdox.qdox.model.JavaClass)@g_attributes-processor-1.0.1.jar.txt	4
+org/apache/maven/it/Verifier/executeGoals(java.util.List,java.util.Map)@g_maven-verifier-1.2.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/velocity/anakia/NodeList/toString()@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/qdox/qdox/junit/APITestCase/assertFieldsEqual(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.JavaClass,org.carrot2.util.preprocessor.shaded.qdox.qdox.model.JavaClass)@g_attributes-processor-1.0.1.jar.txt	2
+org/apache/maven/it/Verifier/main(java.lang.String[])@g_maven-verifier-1.2.jar.txt	0

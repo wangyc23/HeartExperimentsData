@@ -1,0 +1,5 @@
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.sonatype.guice.plexus.scanners.PlexusTypeRegistry)@g_sisu-inject-plexus-2.1.1.jar.txt	0
+org/sonatype/guice/plexus/scanners/PlexusTypeRegistry/loadOnStart(java.lang.String,java.lang.String)@g_sisu-inject-plexus-2.1.1.jar.txt	4
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.sonatype.guice.plexus.scanners.PlexusTypeRegistry)@g_sisu-inject-plexus-1.4.2.jar.txt	1
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parseRequirement(org.codehaus.plexus.util.xml.pull.MXParser,org.sonatype.guice.bean.reflect.ClassSpace,java.util.Map)@g_sisu-inject-plexus-2.1.1.jar.txt	2
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parseRequirement(org.codehaus.plexus.util.xml.pull.MXParser,org.sonatype.guice.bean.reflect.ClassSpace,java.util.Map)@g_sisu-inject-plexus-1.4.2.jar.txt	3

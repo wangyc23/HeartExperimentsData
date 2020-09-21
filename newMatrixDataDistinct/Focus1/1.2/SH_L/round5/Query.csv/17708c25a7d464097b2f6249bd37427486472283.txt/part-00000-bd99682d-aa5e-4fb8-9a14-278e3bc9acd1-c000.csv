@@ -1,0 +1,4 @@
+io/apiman/gateway/engine/beans/ApiRequest/getRawRequest()
+io/apiman/gateway/engine/beans/ApiRequest/getApiId()
+io/apiman/gateway/engine/beans/ApiRequest/getRemoteAddr()
+io/apiman/gateway/engine/beans/ApiRequest/getType()

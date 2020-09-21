@@ -1,0 +1,5 @@
+org/springframework/core/SimpleAliasRegistry/resolveAliases(org.springframework.util.StringValueResolver)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	3
+org/springframework/core/annotation/AnnotationUtils/retrieveAnnotationAttributes(java.lang.reflect.AnnotatedElement,java.lang.annotation.Annotation,boolean,boolean)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	4
+org/springframework/util/xml/StaxStreamHandler/startElementInternal(javax.xml.namespace.QName,org.xml.sax.Attributes,java.util.Map)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	1
+org/springframework/cglib/proxy/LazyLoaderGenerator/generate(org.springframework.cglib.core.ClassEmitter,org.springframework.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	0
+org/springframework/core/style/DefaultValueStyler/style(java.util.Collection)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	2

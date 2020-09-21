@@ -1,0 +1,5 @@
+org/neo4j/ogm/integration/RelationshipEntityTest/shouldReplaceOneEndOfR()@g_neo4j-ogm-1.1.2-tests.jar.txt	0
+org/neo4j/ogm/integration/convertible/NumericConversionTest/shouldSaveAndRetrieveNumbers()@g_neo4j-ogm-1.1.2-tests.jar.txt	1
+org/neo4j/ogm/integration/satellite/SatelliteIntegrationTest/shouldRollbackLongTransaction()@g_neo4j-ogm-1.1.2-tests.jar.txt	4
+org/neo4j/ogm/integration/pizza/PizzaIntegrationTest/shouldBeAbleToSaveAndLoadAPizzaWithSeasonings()@g_neo4j-ogm-1.1.2-tests.jar.txt	3
+org/neo4j/ogm/integration/pizza/PizzaIntegrationTest/shouldBeAbleToSaveAndRetrieveFullyLoadedPizza()@g_neo4j-ogm-1.1.2-tests.jar.txt	2

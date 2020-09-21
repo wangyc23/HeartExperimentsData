@@ -1,0 +1,5 @@
+jena/cmd/CommandLineBase/processArgv(java.lang.String[])@g_jena-base-3.5.0.jar.txt	2
+org/apache/jena/atlas/lib/IRILib/plainFilenameToURL(java.lang.String)@g_jena-base-3.5.0.jar.txt	0
+org/apache/jena/atlas/logging/java/TextFormatter/format(java.util.logging.LogRecord)@g_jena-base-3.5.0.jar.txt	4
+org/apache/jena/atlas/lib/IRILib/plainFilenameToURL(java.lang.String)@g_jena-base-3.0.0.jar.txt	1
+org/apache/jena/atlas/lib/Trie/partialSearch(java.lang.String)@g_jena-base-3.5.0.jar.txt	3

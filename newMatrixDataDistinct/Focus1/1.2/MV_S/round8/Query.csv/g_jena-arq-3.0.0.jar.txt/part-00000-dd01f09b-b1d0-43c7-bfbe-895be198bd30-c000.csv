@@ -1,0 +1,4 @@
+org/apache/jena/rdf/model/Resource/getURI()
+org/apache/jena/graph/Node/getLiteralLanguage()
+java/lang/String/substring(int)
+java/lang/String/startsWith(java.lang.String)

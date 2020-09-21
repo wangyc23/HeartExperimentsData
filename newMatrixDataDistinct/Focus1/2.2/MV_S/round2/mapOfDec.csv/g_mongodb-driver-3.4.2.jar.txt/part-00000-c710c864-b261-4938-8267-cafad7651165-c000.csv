@@ -1,0 +1,5 @@
+com/mongodb/QueryBuilder/get()@g_mongo-java-driver-3.4.2.jar.txt	3
+com/mongodb/gridfs/CLI/main(java.lang.String[])@g_mongo-java-driver-3.4.2.jar.txt	2
+com/mongodb/DBCollection/getIndexNameFromIndexFields(com.mongodb.DBObject)@g_mongo-java-driver-3.4.2.jar.txt	1
+org/bson/BsonBinaryReader/doSkipValue()@g_mongo-java-driver-3.4.2.jar.txt	0
+org/bson/BsonBinaryReader/readBsonType()@g_mongo-java-driver-3.4.2.jar.txt	4

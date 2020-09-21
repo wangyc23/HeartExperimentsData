@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/Vector/size()
+java/lang/StringBuilder/append(int)
+java/lang/Error/Error(java.lang.String)

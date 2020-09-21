@@ -1,0 +1,5 @@
+net/java/sen/ReadingProcessor/splitComplexToken(java.lang.String,java.lang.String,int)@g_lucene-gosen-ipadic-1.2.1.jar.txt	1
+net/java/sen/filter/stream/CommentFilter/preProcess(net.java.sen.dictionary.Sentence)@g_lucene-gosen-ipadic-1.2.1.jar.txt	3
+net/java/sen/compiler/CostMatrixBuilder/build()@g_lucene-gosen-ipadic-1.2.1.jar.txt	2
+org/apache/solr/analysis/JapanesePartOfSpeechKeepFilterFactory/inform(org.apache.solr.common.ResourceLoader)@g_lucene-gosen-ipadic-1.2.1.jar.txt	4
+net/java/sen/ReadingProcessor/process()@g_lucene-gosen-ipadic-1.2.1.jar.txt	0

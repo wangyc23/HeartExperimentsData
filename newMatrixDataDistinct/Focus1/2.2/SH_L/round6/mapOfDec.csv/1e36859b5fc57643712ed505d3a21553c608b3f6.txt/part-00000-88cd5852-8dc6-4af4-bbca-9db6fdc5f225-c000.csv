@@ -1,0 +1,5 @@
+io/corbel/iam/api/TokenResource/upgradeToken(io.corbel.lib.ws.auth.AuthorizationInfo,java.lang.String,java.lang.String)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	0
+io/corbel/resources/rem/acl/AclGetRem/collectionWithAcl(java.lang.String,io.corbel.resources.rem.request.RequestParameters,java.net.URI,java.util.Optional,java.util.Optional)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	2
+io/corbel/resources/rem/ImageGetRem/resource(java.lang.String,io.corbel.resources.rem.request.ResourceId,io.corbel.resources.rem.request.RequestParameters,java.util.Optional)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	1
+io/corbel/resources/rem/ImageGetRemTest/before()@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	3
+io/corbel/iam/api/UserResource/getUserProfiles(java.lang.String,io.corbel.lib.ws.auth.AuthorizationInfo,io.corbel.lib.queries.jaxrs.QueryParameters)@128ec9b7a07b86a7c19f4260498f1bd520d69d94.txt	4

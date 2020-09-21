@@ -1,0 +1,4 @@
+org/codehaus/jackson/JsonGenerator/useDefaultPrettyPrinter()
+org/codehaus/jettison/mapped/Configuration/Configuration(java.util.Map)
+org/codehaus/jettison/badgerfish/BadgerFishXMLStreamWriter/BadgerFishXMLStreamWriter(java.io.Writer)
+org/codehaus/jettison/mapped/Configuration/Configuration()

@@ -1,0 +1,5 @@
+com/amazonaws/services/ec2/model/transform/SecurityGroupStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	3
+com/amazonaws/services/ec2/model/transform/NetworkInterfaceStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	2
+com/amazonaws/services/ec2/model/transform/InstanceAttributeStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	0
+com/amazonaws/services/ec2/model/transform/GroupIdentifierStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	1
+com/amazonaws/services/ec2/model/transform/ReplaceRouteTableAssociationResultStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	4

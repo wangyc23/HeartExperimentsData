@@ -1,0 +1,4 @@
+org/apache/maven/artifact/versioning/VersionRange/createFromVersion(java.lang.String)
+org/apache/maven/artifact/resolver/filter/ExcludesArtifactFilter/ExcludesArtifactFilter(java.util.List)
+java/util/Iterator/hasNext()
+org/apache/maven/artifact/factory/ArtifactFactory/createDependencyArtifact(java.lang.String,java.lang.String,org.apache.maven.artifact.versioning.VersionRange,java.lang.String,java.lang.String,java.lang.String)

@@ -1,0 +1,5 @@
+org/eclipse/core/commands/CommandManager/unescape(java.lang.String)@g_org.eclipse.core.commands-3.9.0.jar.txt	0
+org/springframework/cloud/util/SpringFactoryImportSelector/selectImports(org.springframework.core.type.AnnotationMetadata)@g_spring-cloud-commons-1.1.0.BUILD-20151112.162550-48.jar.txt	2
+org/eclipse/core/internal/commands/util/Util/safeCopy(java.util.Map,java.lang.Class,java.lang.Class,boolean,boolean)@g_org.eclipse.core.commands-3.9.0.jar.txt	4
+org/eclipse/core/commands/operations/TriggeredOperations/remove(org.eclipse.core.commands.operations.IUndoableOperation)@g_org.eclipse.core.commands-3.9.0.jar.txt	3
+org/eclipse/core/commands/Command/toString()@g_org.eclipse.core.commands-3.9.0.jar.txt	1

@@ -1,0 +1,5 @@
+org/jsonschema2pojo/rules/DefaultRule/getDefaultSet(com.sun.codemodel.JType,com.fasterxml.jackson.databind.JsonNode)@g_jsonschema2pojo-core-0.4.0.jar.txt	1
+org/jsonschema2pojo/rules/DefaultRule/getDefaultList(com.sun.codemodel.JType,com.fasterxml.jackson.databind.JsonNode)@g_jsonschema2pojo-core-0.4.0.jar.txt	0
+org/jsonschema2pojo/rules/EnumRule/getConstantName(java.lang.String)@g_jsonschema2pojo-core-0.4.0.jar.txt	2
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBeanProperty(com.sun.codemodel.JDefinedClass,java.util.List,org.jvnet.ws.wadl.Param,boolean)@g_wadl-core-1.1.6.jar.txt	3
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/getMethodName(org.jvnet.ws.wadl.ast.MethodNode,org.jvnet.ws.wadl.ast.RepresentationNode,org.jvnet.ws.wadl.ast.RepresentationNode,com.sun.codemodel.JType)@g_wadl-core-1.1.6.jar.txt	4

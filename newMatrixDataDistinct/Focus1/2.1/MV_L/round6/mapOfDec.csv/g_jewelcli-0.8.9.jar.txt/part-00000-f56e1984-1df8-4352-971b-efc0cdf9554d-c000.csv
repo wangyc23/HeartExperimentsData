@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/generic/XmlTool/find(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	4
+org/springframework/core/BridgeMethodResolver/findBridgedMethod(java.lang.reflect.Method)@g_spring-core-2.5.6.jar.txt	1
+org/springframework/core/io/support/ResourceArrayPropertyEditor/setValue(java.lang.Object)@g_spring-core-2.5.6.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/exception/NestableDelegate/printStackTrace(java.io.PrintWriter)@g_attributes-processor-1.0.1.jar.txt	3
+org/springframework/core/SimpleAliasRegistry/getAliases(java.lang.String)@g_spring-core-2.5.6.jar.txt	2

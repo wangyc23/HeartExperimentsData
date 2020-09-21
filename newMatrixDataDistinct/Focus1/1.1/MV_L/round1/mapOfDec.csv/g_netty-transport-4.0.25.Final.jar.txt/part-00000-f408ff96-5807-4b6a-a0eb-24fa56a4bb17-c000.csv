@@ -1,0 +1,5 @@
+io/netty/channel/DefaultChannelId/<clinit>()@g_netty-transport-4.0.27.Final.jar.txt	3
+io/netty/channel/nio/NioEventLoop/register(java.nio.channels.SelectableChannel,int,io.netty.channel.nio.NioTask)@g_netty-transport-4.1.7.Final.jar.txt	1
+io/netty/channel/DefaultChannelId/defaultProcessId()@g_netty-transport-4.0.27.Final.jar.txt	4
+io/netty/channel/nio/NioEventLoop/register(java.nio.channels.SelectableChannel,int,io.netty.channel.nio.NioTask)@g_netty-transport-4.0.27.Final.jar.txt	0
+io/netty/bootstrap/Bootstrap/doResolveAndConnect0(io.netty.channel.Channel,java.net.SocketAddress,java.net.SocketAddress,io.netty.channel.ChannelPromise)@g_netty-transport-4.0.27.Final.jar.txt	2

@@ -1,0 +1,4 @@
+java/lang/Class/getSimpleName()
+java/lang/Class/getAnnotation(java.lang.Class)
+javax/xml/bind/annotation/XmlRootElement/name()
+javax/xml/bind/annotation/XmlElementRef/name()

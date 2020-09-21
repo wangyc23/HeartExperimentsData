@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/repository/vfs/VfsRepository/list(java.lang.String)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorWriter/printExtraAttributes(java.util.Map,java.io.PrintWriter,java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/plugins/report/XmlReportWriter/outputArtifacts(org.apache.ivy.core.report.ConfigurationResolveReport,java.io.PrintWriter,org.apache.ivy.core.resolve.IvyNode)@g_ivy-2.3.0.jar.txt	2
+org/xwiki/classloader/internal/ResourceLoader/JarInfo/setIndex(java.util.List)@g_xwiki-commons-classloader-api-7.4.2.jar.txt	0
+org/apache/ivy/plugins/report/XmlReportWriter/output(org.apache.ivy.core.report.ConfigurationResolveReport,java.lang.String[],java.io.OutputStream)@g_ivy-2.3.0.jar.txt	1

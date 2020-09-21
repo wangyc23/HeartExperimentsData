@@ -1,0 +1,5 @@
+org/apache/sis/internal/jaxb/gmd/Country/getLocale(org.apache.sis.internal.jaxb.Context,org.apache.sis.internal.jaxb.gmd.LanguageCode,org.apache.sis.internal.jaxb.gmd.Country,java.lang.Class)@g_sis-utility-0.6.jar.txt	1
+org/apache/sis/io/TabularFormat/getColumnSeparatorMatcher(java.lang.CharSequence)@g_sis-utility-0.6.jar.txt	4
+org/apache/sis/util/logging/MonolineFormatter/format(java.util.logging.LogRecord)@g_sis-utility-0.6.jar.txt	2
+org/apache/sis/util/iso/RecordDefinition/toString(java.lang.String,java.lang.Object)@g_sis-utility-0.6.jar.txt	0
+org/apache/sis/measure/AngleFormat/format(double,java.lang.StringBuffer,java.text.FieldPosition)@g_sis-utility-0.6.jar.txt	3

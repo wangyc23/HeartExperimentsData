@@ -1,0 +1,5 @@
+org/apache/jena/util/LocatorFile/open(java.lang.String)@g_jena-core-3.5.0.jar.txt	2
+org/apache/jena/rdfxml/xmlinput/NTriple/process(java.lang.String)@g_jena-core-3.5.0.jar.txt	4
+org/apache/jena/util/LocatorZip/open(java.lang.String)@g_jena-core-3.5.0.jar.txt	3
+org/apache/jena/util/LocatorURL/open(java.lang.String)@g_jena-core-3.4.0.jar.txt	1
+org/apache/jena/util/LocatorURL/open(java.lang.String)@g_jena-core-3.5.0.jar.txt	0

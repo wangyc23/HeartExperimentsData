@@ -1,0 +1,5 @@
+com/sun/syndication/io/impl/RSS091UserlandParser/parseChannel(org.jdom.Element)@g_rome-1.0.0.jar.txt	2
+com/sun/syndication/io/impl/Atom03Parser/parseEntry(org.jdom.Element)@g_rome-1.0.0.jar.txt	0
+com/sun/syndication/io/impl/Atom03Parser/parseEntry(org.jdom.Element)@g_rome-1.0.jar.txt	4
+com/sun/syndication/io/impl/Atom10Parser/parseEntry(com.sun.syndication.feed.atom.Feed,org.jdom.Element,java.lang.String)@g_rome-1.0.0.jar.txt	1
+com/sun/syndication/io/impl/Atom03Parser/parseFeed(org.jdom.Element)@g_rome-1.0.0.jar.txt	3

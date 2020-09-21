@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/spi/v2_1/TransactionBoundQueryContext/NodeOperations/getById(long)@g_neo4j-cypher-2.1.7.jar.txt	3
+org/neo4j/cypher/internal/spi/v2_0/TransactionBoundQueryContext/NodeOperations/getById(long)@g_neo4j-cypher-2.1.7.jar.txt	0
+org/neo4j/cypher/internal/spi/v2_0/TransactionBoundExecutionContext/NodeOperations/getById(long)@g_neo4j-cypher-2.0.1.jar.txt	1
+org/neo4j/cypher/internal/CypherCompiler/VersionProxy/getQueryCacheSize()@g_neo4j-cypher-2.1.7.jar.txt	4
+org/neo4j/cypher/internal/CypherCompiler/preParse(org.neo4j.cypher.internal.CypherQueryWithOptions)@g_neo4j-cypher-2.1.7.jar.txt	2

@@ -1,0 +1,4 @@
+org/xwiki/filter/FilterEventParameters/get(java.lang.Object)
+org/xwiki/filter/xml/internal/output/FilterStreamXMLStreamWriter/writeStartElement(java.lang.String)
+java/util/Locale/equals(java.lang.Object)
+org/xwiki/filter/FilterEventParameters/containsKey(java.lang.Object)

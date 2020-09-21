@@ -1,0 +1,5 @@
+org/apache/fontbox/cff/Type1CharString/rrcurveTo(java.lang.Number,java.lang.Number,java.lang.Number,java.lang.Number,java.lang.Number,java.lang.Number)@g_fontbox-2.0.8.jar.txt	2
+org/apache/fontbox/cff/CFFParser/readRealNumber(org.apache.fontbox.cff.CFFDataInput,int)@g_fontbox-2.0.8.jar.txt	4
+org/apache/fontbox/cff/Type1CharString/handleCommand(java.util.List,org.apache.fontbox.cff.CharStringCommand)@g_fontbox-2.0.8.jar.txt	0
+org/apache/fontbox/cff/Type1CharString/closepath()@g_fontbox-2.0.8.jar.txt	3
+org/apache/fontbox/ttf/CmapSubtable/processSubtype2(org.apache.fontbox.ttf.TTFDataStream,int)@g_fontbox-2.0.8.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/project/ModelUtils/orderAfterMerge(java.util.List,java.util.List,java.util.List)@g_maven-compat-3.0-alpha-2.jar.txt	4
+org/apache/maven/project/path/DefaultPathTranslator/alignToBaseDirectory(org.apache.maven.model.Model,java.io.File)@g_maven-compat-3.0-alpha-2.jar.txt	2
+org/apache/maven/project/path/DefaultPathTranslator/unalignFromBaseDirectory(org.apache.maven.model.Model,java.io.File)@g_maven-compat-3.0-alpha-2.jar.txt	0
+org/apache/maven/artifact/versioning/ComparableVersion/ListItem/compareTo(org.apache.maven.artifact.versioning.ComparableVersion$Item)@g_maven-compat-3.0-alpha-2.jar.txt	1
+org/apache/maven/artifact/manager/DefaultWagonManager/putRemoteFile(org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.lang.String,org.apache.maven.wagon.events.TransferListener)@g_maven-compat-3.0-alpha-2.jar.txt	3

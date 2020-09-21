@@ -1,0 +1,5 @@
+org/codehaus/plexus/resource/loader/JarResourceLoader/getResource(java.lang.String)@g_plexus-velocity-1.1.7.jar.txt	3
+org/codehaus/plexus/resource/DefaultResourceManager/getResource(java.lang.String)@g_plexus-velocity-1.1.7.jar.txt	1
+org/codehaus/plexus/resource/loader/JarResourceLoader/loadJar(java.lang.String)@g_plexus-velocity-1.1.7.jar.txt	2
+org/codehaus/plexus/resource/DefaultResourceManager/createResourceAsFile(org.codehaus.plexus.resource.PlexusResource,java.io.File)@g_plexus-velocity-1.1.7.jar.txt	4
+org/codehaus/plexus/resource/loader/URLResourceLoader/getResource(java.lang.String)@g_plexus-velocity-1.1.7.jar.txt	0

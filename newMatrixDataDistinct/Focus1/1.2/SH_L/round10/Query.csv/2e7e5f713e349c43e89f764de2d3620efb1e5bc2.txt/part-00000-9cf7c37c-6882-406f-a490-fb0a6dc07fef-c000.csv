@@ -1,0 +1,4 @@
+io/undertow/server/handlers/JDBCLogHandler/awaitWrittenForTest()
+io/undertow/testutils/DefaultServer/getDefaultServerAddress()
+io/undertow/testutils/HttpClientUtils/readResponse(io.undertow.servlet.test.spec.HttpResponse)
+io/undertow/server/handlers/JDBCLogHandler/getBytesField()

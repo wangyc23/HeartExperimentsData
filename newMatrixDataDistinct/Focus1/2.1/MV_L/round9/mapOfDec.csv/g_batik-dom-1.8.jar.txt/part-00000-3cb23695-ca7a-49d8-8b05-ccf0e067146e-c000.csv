@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xs/traversers/XSAttributeChecker/checkAttributes(org.w3c.dom.Element,boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo,boolean)@g_xercesImpl-2.8.0.jar.txt	0
+org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser/traverseFacets(org.w3c.dom.Element,org.apache.xerces.impl.dv.XSSimpleType,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_xercesImpl-2.8.0.jar.txt	3
+org/apache/xml/serialize/ObjectFactory/findJarServiceProvider(java.lang.String)@g_xercesImpl-2.8.0.jar.txt	2
+org/apache/xml/serialize/XMLSerializer/checkUnboundNamespacePrefixedNode(org.w3c.dom.Node)@g_xercesImpl-2.8.0.jar.txt	1
+org/apache/xerces/jaxp/DocumentBuilderFactoryImpl/getFeature(java.lang.String)@g_xercesImpl-2.8.0.jar.txt	4

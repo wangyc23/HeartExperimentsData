@@ -1,0 +1,5 @@
+org/xwiki/crypto/internal/asymmetric/generator/BcRSAKeyPairGenerator/generate(org.xwiki.crypto.params.generator.KeyGenerationParameters)@g_xwiki-commons-crypto-common-7.4.jar.txt	4
+org/xwiki/crypto/internal/asymmetric/generator/BcDHKeyPairGenerator/generate(org.xwiki.crypto.params.generator.KeyGenerationParameters)@g_xwiki-commons-crypto-common-7.4.jar.txt	3
+org/xwiki/crypto/internal/asymmetric/generator/BcRSAKeyPairGenerator/generate(org.xwiki.crypto.params.generator.KeyGenerationParameters)@g_xwiki-commons-crypto-common-7.0.jar.txt	1
+org/xwiki/crypto/internal/asymmetric/generator/BcDHKeyPairGenerator/generate(org.xwiki.crypto.params.generator.KeyGenerationParameters)@g_xwiki-commons-crypto-common-7.0.jar.txt	0
+org/xwiki/crypto/internal/asymmetric/generator/BcDSAKeyPairGenerator/generate(org.xwiki.crypto.params.generator.KeyGenerationParameters)@g_xwiki-commons-crypto-common-7.0.jar.txt	2

@@ -1,0 +1,5 @@
+coin/notify/NotificationListener/initExecutor()@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	3
+eu/scape_project/archiventory/hadoop/ArcRecordReader/nextKeyValue()@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	4
+eu/scape_project/archiventory/Archiventory/createContainer(java.io.InputStream,java.lang.String)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	1
+eu/scape_project/archiventory/container/TestContainer/createTempTestFile(java.lang.String)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	0
+dk/statsbiblioteket/scape/arcunpacker/mapred/ArcRecordReader/getPos()@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	2

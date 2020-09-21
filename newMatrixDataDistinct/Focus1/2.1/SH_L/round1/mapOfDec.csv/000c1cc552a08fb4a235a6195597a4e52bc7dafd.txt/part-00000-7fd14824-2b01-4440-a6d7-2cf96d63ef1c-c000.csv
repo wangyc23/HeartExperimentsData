@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/mapreduce/replication/VerifyReplication/main(java.lang.String[])@27987b6823f76e575061871e738a4ec4af3c2404.txt	2
+org/apache/hadoop/hbase/mapreduce/ImportTsv/main(java.lang.String[])@27987b6823f76e575061871e738a4ec4af3c2404.txt	1
+org/apache/hadoop/hbase/util/HBaseFsck/main(java.lang.String[])@27987b6823f76e575061871e738a4ec4af3c2404.txt	3
+org/apache/hadoop/hbase/HBaseConfiguration/create(org.apache.hadoop.hbase.Configuration)@27987b6823f76e575061871e738a4ec4af3c2404.txt	0
+org/apache/hadoop/hbase/client/TestHCM/createNewConfigurations()@27987b6823f76e575061871e738a4ec4af3c2404.txt	4

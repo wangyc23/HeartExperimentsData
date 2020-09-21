@@ -1,0 +1,4 @@
+org/w3c/dom/Node/getNextSibling()
+org/jbpm/designer/server/StencilSetUtil/getChild(org.w3c.dom.Node,java.lang.String)
+org/w3c/dom/Node/getFirstChild()
+org/w3c/dom/Node/getNodeName()

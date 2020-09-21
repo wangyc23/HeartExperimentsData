@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/nioneo/xa/Command/PropertyCommand/writeToFile(org.neo4j.kernel.impl.transaction.xaframework.LogBuffer)@g_neo4j-kernel-1.8.jar.txt	0
+org/neo4j/kernel/KernelData/shutdown(org.neo4j.kernel.impl.util.StringLogger)@g_neo4j-kernel-1.8.jar.txt	3
+org/neo4j/kernel/impl/transaction/xaframework/XaLogicalLogFiles/determineState()@g_neo4j-kernel-1.8.jar.txt	4
+org/neo4j/kernel/impl/transaction/RWLock/dumpStack()@g_neo4j-kernel-1.8.jar.txt	1
+org/neo4j/kernel/impl/core/Primitive/setProperty(org.neo4j.kernel.impl.core.NodeManager,org.neo4j.graphdb.PropertyContainer,java.lang.String,java.lang.Object)@g_neo4j-kernel-1.8.jar.txt	2

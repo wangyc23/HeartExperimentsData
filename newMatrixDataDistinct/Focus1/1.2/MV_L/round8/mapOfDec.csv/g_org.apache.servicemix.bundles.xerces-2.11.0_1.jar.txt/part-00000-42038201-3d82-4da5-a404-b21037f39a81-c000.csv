@@ -1,0 +1,5 @@
+org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl/applyFacets(org.apache.xerces.impl.dv.XSFacets,short,short,short,org.apache.xerces.impl.dv.ValidationContext)@g_xercesImpl-2.11.0.jar.txt	0
+org/apache/xerces/impl/xpath/XPath/parseExpression(org.apache.xerces.xni.NamespaceContext)@g_xercesImpl-2.11.0.jar.txt	4
+org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser/traverseFacets(org.w3c.dom.Element,org.apache.xerces.impl.dv.XSSimpleType,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_xercesImpl-2.11.0.jar.txt	3
+org/apache/xerces/impl/xpath/regex/Token/UnionToken/addChild(org.apache.xerces.impl.xpath.regex.Token)@g_xercesImpl-2.11.0.jar.txt	2
+org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl/applyFacets(org.apache.xerces.impl.dv.XSFacets,short,short,short,org.apache.xerces.impl.dv.ValidationContext)@g_xerces-impl-2.9.0.jar.txt	1

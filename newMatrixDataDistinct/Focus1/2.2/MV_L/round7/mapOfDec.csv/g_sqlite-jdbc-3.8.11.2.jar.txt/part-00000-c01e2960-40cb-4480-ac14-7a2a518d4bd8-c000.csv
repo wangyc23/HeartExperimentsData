@@ -1,0 +1,5 @@
+com/mysql/jdbc/PreparedStatement/getDateTimePattern(java.lang.String,boolean)@g_mysql-connector-java-5.1.18.jar.txt	0
+com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper/unwrap(java.lang.Class)@g_mysql-connector-java-5.1.6.jar.txt	4
+com/mysql/jdbc/LoadBalancingConnectionProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],boolean)@g_mysql-connector-java-5.1.18.jar.txt	1
+com/mysql/jdbc/SQLError/dumpSqlStatesMappingsAsXml()@g_mysql-connector-java-5.1.18.jar.txt	2
+com/mysql/jdbc/ConnectionImpl/getTransactionIsolation()@g_mysql-connector-java-5.1.18.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/log4j/xml/DOMConfigurator/parseChildrenOfLoggerElement(org.w3c.dom.Element,org.apache.log4j.Logger,boolean)@g_log4j-1.2.12.jar.txt	4
+org/apache/log4j/lf5/viewer/configure/ConfigurationManager/processLogTableColumns(org.w3c.dom.Document)@g_log4j-1.2.12.jar.txt	2
+org/apache/log4j/xml/DOMConfigurator/findAppenderByName(org.w3c.dom.Document,java.lang.String)@g_log4j-1.2.12.jar.txt	1
+org/apache/log4j/xml/DOMConfigurator/parse(org.w3c.dom.Element)@g_log4j-1.2.12.jar.txt	3
+org/jdom/input/DOMBuilder/buildTree(org.w3c.dom.Node,org.jdom.Document,org.jdom.Element,boolean)@g_jdom-1.0.jar.txt	0

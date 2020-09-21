@@ -1,0 +1,1 @@
+org/apache/batik/bridge/SVGUtilities/convertFilterPrimitiveRegion(org.w3c.dom.Element,org.w3c.dom.Element,org.apache.batik.gvt.GraphicsNode,java.awt.geom.Rectangle2D,java.awt.geom.Rectangle2D,org.apache.batik.bridge.BridgeContext)

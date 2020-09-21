@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/dayatang/domain/AbstractEntity/setVersion(int)
+java/util/List/add(E)
+org/dayatang/springtest/domain/MyEntity/setName(java.lang.String)

@@ -1,0 +1,4 @@
+javax/ws/rs/core/MultivaluedMap/getFirst(java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Map/get(java.lang.Object)
+com/sun/jersey/multipart/MultiPart/setProviders(javax.ws.rs.ext.Providers)

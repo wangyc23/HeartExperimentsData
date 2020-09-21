@@ -1,0 +1,5 @@
+joptsimple/util/EnumConverter/valuePattern()@g_airline-io-2.1.1.jar.txt	1
+joptsimple/internal/Columns/piecesOfEmbeddedLine(java.lang.String,int)@g_airline-io-2.1.1.jar.txt	0
+com/kenai/constantine/platform/ConstantResolver/getConstant(java.lang.Enum)@g_airline-io-2.1.1.jar.txt	4
+joptsimple/OptionSet/valuesOf(joptsimple.OptionSpec)@g_airline-io-2.1.1.jar.txt	3
+com/github/rvesse/airline/io/printers/UsagePrinter/appendWords(java.lang.Iterable,boolean)@g_airline-io-2.1.1.jar.txt	2

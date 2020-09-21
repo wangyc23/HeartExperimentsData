@@ -1,0 +1,5 @@
+org/xwiki/job/internal/AbstractJobStatus/startListening()@g_nexus-restlet1x-model-2.7.2-01.jar.txt	4
+org/xwiki/job/internal/AbstractJob/jobFinished(java.lang.Throwable)@g_nexus-restlet1x-model-2.7.2-01.jar.txt	2
+org/xwiki/container/servlet/internal/DefaultServletContainerInitializer/initializeRequest(javax.servlet.http.HttpServletRequest,java.lang.Object)@g_nexus-restlet1x-model-2.7.2-01.jar.txt	1
+org/xwiki/container/servlet/XWikiServletContextListener/contextInitialized(javax.servlet.ServletContextEvent)@g_nexus-restlet1x-model-2.7.2-01.jar.txt	3
+org/xwiki/job/internal/xstream/SafeReflectionConverter/2/writeField(java.lang.String,java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_nexus-restlet1x-model-2.7.2-01.jar.txt	0

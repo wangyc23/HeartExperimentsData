@@ -1,0 +1,5 @@
+org/apache/ws/commons/schema/SchemaBuilder/handleConstraint(org.w3c.dom.Element,java.lang.Class)@g_xmlschema-core-2.2.2.jar.txt	4
+org/jdom/ProcessingInstruction/toString(java.util.Map)@g_jdom-1.1.3.jar.txt	1
+org/apache/ws/commons/schema/XmlSchemaSerializer/serializeSchemaElement(org.apache.ws.commons.schema.XmlSchema,boolean)@g_xmlschema-core-2.2.2.jar.txt	0
+org/apache/ws/commons/schema/XmlSchemaSerializer/serializeAttribute(org.w3c.dom.Document,org.apache.ws.commons.schema.XmlSchemaAttribute,org.apache.ws.commons.schema.XmlSchema)@g_xmlschema-core-2.2.2.jar.txt	3
+org/apache/ws/commons/schema/XmlSchemaSerializer/setupNamespaces(org.w3c.dom.Document,org.apache.ws.commons.schema.XmlSchema)@g_xmlschema-core-2.2.2.jar.txt	2

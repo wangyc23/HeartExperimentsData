@@ -1,0 +1,5 @@
+org/jboss/forge/parser/spi/JavaParserImpl/parse(java.lang.String)@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	1
+org/jboss/forge/shell/test/ShellIgnoreEOFTest/testEOFAbortsPluginPromptButDoesNotShutdown()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	0
+org/jboss/forge/shell/util/GeneralUtils/parseSystemPathspec(org.jboss.forge.project.services.ResourceFactory,org.jboss.forge.resources.Resource,org.jboss.forge.resources.Resource,java.lang.String[])@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	4
+org/jboss/forge/maven/facets/MavenMetadataFacet/getProjectVersion()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	3
+org/jboss/forge/parser/java/impl/AbstractJavaSource/getImports()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	2

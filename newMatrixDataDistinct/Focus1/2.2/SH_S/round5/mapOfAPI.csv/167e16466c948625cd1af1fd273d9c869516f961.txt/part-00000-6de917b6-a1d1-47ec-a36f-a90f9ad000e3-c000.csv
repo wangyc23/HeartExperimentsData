@@ -1,0 +1,8 @@
+0	org/slf4j/Logger/error(java.lang.String,java.lang.Object,java.lang.Object)
+1	mark/conover/crypto/util/SecureClientUtil/safeClose(java.io.InputStream)
+2	org/apache/commons/io/IOUtils/toByteArray(java.io.InputStream)
+3	org/apache/isis/applib/AbstractContainedObject/getContainer()
+4	org/isisaddons/wicket/svg/fixture/scripts/SvgWicketAppTearDownFixture/SvgWicketAppTearDownFixture(java.lang.String)
+5	org/isisaddons/wicket/svg/fixture/scripts/todo/SvgWicketToDoItemsFixture/SvgWicketToDoItemsFixture()
+6	org/apache/isis/applib/DomainObjectContainer/getUser()
+7	java/lang/Class/getResourceAsStream(java.lang.String)

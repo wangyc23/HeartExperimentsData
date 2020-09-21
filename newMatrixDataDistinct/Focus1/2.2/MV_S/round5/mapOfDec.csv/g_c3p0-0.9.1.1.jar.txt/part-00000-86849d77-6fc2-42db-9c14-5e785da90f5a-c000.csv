@@ -1,0 +1,5 @@
+org/apache/ivy/osgi/core/BundleInfoAdapter/getConfigurations(org.apache.ivy.osgi.core.BundleInfo)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/cache/ParserSettingsMonitor/hasChanged(org.apache.ivy.plugins.parser.ParserSettings)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/resolve/ResolveEngine/resolveConflict(org.apache.ivy.core.resolve.VisitNode,org.apache.ivy.core.resolve.VisitNode,java.lang.String,java.util.Collection)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/plugins/resolver/ChainResolver/dumpSettings()@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/ant/IvyCachePath/doExecute()@g_ivy-2.3.0.jar.txt	0

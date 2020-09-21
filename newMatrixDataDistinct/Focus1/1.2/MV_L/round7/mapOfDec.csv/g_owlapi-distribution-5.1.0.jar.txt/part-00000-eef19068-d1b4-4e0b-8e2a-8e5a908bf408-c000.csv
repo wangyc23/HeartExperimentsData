@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/krss2/renderer/KRSS2ObjectRenderer/visit(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-parsers-5.1.0.jar.txt	1
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLSubClassOfAxiom)@g_owlapi-distribution-4.5.0.jar.txt	2
+org/semanticweb/owlapi/profiles/OWL2ELProfile/OWL2ELProfileObjectVisitor/visit(org.semanticweb.owlapi.model.OWLSubPropertyChainOfAxiom)@g_owlapi-distribution-4.5.0.jar.txt	0
+org/semanticweb/owlapi/reasoner/impl/OWLReasonerBase/computeDiff(java.util.Set,java.util.Set)@g_owlapi-distribution-4.5.0.jar.txt	3
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/getSameIndividuals(org.semanticweb.owlapi.model.OWLNamedIndividual)@g_owlapi-distribution-4.5.0.jar.txt	4

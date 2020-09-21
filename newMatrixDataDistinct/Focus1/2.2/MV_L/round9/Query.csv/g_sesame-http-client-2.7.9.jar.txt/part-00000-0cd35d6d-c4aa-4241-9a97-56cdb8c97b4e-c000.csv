@@ -1,0 +1,4 @@
+java/util/List/size()
+java/util/Iterator/next()
+java/util/Set/iterator()
+java/util/Map$Entry/getValue()

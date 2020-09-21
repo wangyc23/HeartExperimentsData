@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/Job/getTaskFailureEventString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapred/MultiFileSplit/toString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0
+org/apache/hadoop/mapred/BackupStore/MemoryCache/createInMemorySegment()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapred/join/Parser/WNode/getRecordReader(org.apache.hadoop.mapred.InputSplit,org.apache.hadoop.mapred.JobConf,org.apache.hadoop.mapred.Reporter)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/fs/ChecksumFileSystem/create(org.apache.hadoop.fs.Path,org.apache.hadoop.fs.permission.FsPermission,boolean,boolean,int,short,long,org.apache.hadoop.util.Progressable)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3

@@ -1,0 +1,4 @@
+java/net/URLClassLoader/getURLs()
+java/lang/RuntimePermission/RuntimePermission(java.lang.String)
+java/security/PermissionCollection/add(java.security.Permission)
+java/io/File/getCanonicalFile()

@@ -1,0 +1,5 @@
+com/esotericsoftware/minlog/Log/Logger/log(int,java.lang.String,java.lang.String,java.lang.Throwable)@g_minlog-1.2.jar.txt	0
+org/apache/maven/plugin/logging/SystemStreamLog/print(java.lang.String,java.lang.CharSequence,java.lang.Throwable)@g_minlog-1.2.jar.txt	2
+org/apache/maven/plugin/logging/SystemStreamLog/error(java.lang.CharSequence,java.lang.Throwable)@g_minlog-1.2.jar.txt	1
+org/apache/commons/logging/impl/SimpleLog/log(int,java.lang.Object,java.lang.Throwable)@g_minlog-1.2.jar.txt	3
+com/esotericsoftware/minlog/Log/Logger/log(int,java.lang.String,java.lang.String,java.lang.Throwable)@g_maven-plugin-api-2.0.9.jar.txt	4

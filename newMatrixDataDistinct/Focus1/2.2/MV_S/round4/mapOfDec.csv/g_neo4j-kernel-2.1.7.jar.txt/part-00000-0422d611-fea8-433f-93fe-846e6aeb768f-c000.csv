@@ -1,0 +1,5 @@
+org/apache/lucene/index/ConcurrentMergeScheduler/maybeStall(org.apache.lucene.index.IndexWriter)@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/index/IndexUpgrader/printUsage()@g_lucene-core-7.0.0.jar.txt	0
+org/apache/lucene/codecs/compressing/CompressingStoredFieldsWriter/<clinit>()@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/util/NamedSPILoader/reload(java.lang.ClassLoader)@g_lucene-core-7.0.0.jar.txt	1
+org/apache/lucene/util/AttributeSource/addAttribute(java.lang.Class)@g_lucene-core-7.0.0.jar.txt	2

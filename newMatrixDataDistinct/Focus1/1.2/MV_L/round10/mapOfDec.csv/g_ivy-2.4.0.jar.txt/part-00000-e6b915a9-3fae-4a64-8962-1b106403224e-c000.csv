@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/lock/FileBasedLockStrategy/NIOFileLocker/unlock(java.io.File)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/util/StringUtils/getErrorMessage(java.lang.Throwable)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/core/settings/IvySettings/load(java.io.File)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/util/url/IvyAuthenticator/isProxyAuthentication()@g_ivy-2.3.0.jar.txt	1

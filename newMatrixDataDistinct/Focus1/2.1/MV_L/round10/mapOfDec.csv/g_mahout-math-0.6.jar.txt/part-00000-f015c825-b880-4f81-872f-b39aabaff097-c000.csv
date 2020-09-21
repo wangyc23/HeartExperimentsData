@@ -1,0 +1,5 @@
+org/apache/mahout/math/matrix/linalg/LUDecompositionQuick/decompose(org.apache.mahout.math.matrix.DoubleMatrix2D)@g_mahout-math-0.3.jar.txt	1
+optimization/Uncmin_f77/heschk_f77(int,double[],optimization.Uncmin_methods,double[],double[],double[][],double[],double[],double,double,int[],double[],double[],double[])@g_optimization-1.0.jar.txt	3
+optimization/Uncmin_f77/grdchk_f77(int,double[],optimization.Uncmin_methods,double[],double[],double[],double[],double[],double,double,double[])@g_optimization-1.0.jar.txt	2
+org/apache/mahout/math/matrix/linalg/Algebra/toString(org.apache.mahout.math.matrix.DoubleMatrix2D)@g_mahout-math-0.3.jar.txt	4
+org/apache/mahout/math/AbstractVector/norm(double)@g_mahout-math-0.3.jar.txt	0

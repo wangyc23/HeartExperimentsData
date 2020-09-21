@@ -1,0 +1,5 @@
+net/sf/jabb/util/db/ConnectionUtility/closeConnection(java.sql.Connection,java.sql.Statement,java.sql.Statement,java.sql.ResultSet,java.sql.ResultSet)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	3
+oops/chapter21/section7/p3/DeTask2/compareTo(java.util.concurrent.Delayed)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	1
+org/sample/concurrency/wait_notify/ProducerConsumerExample/MailConsumer/run()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	0
+org/zghurskyi/patterns/behavioral/CommandPattern/Flashlight/turnOff()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	2
+org/zghurskyi/algorithms/BinaryTree/printInorder(org.zghurskyi.algorithms.BinaryTree.Node)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	4

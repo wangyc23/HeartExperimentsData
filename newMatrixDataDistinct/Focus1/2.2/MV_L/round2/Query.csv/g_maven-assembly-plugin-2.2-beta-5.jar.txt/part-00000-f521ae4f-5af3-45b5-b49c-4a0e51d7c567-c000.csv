@@ -1,0 +1,4 @@
+org/codehaus/plexus/archiver/ArchiverException/ArchiverException(java.lang.String)
+java/lang/String/startsWith(java.lang.String)
+java/lang/StringBuffer/append(java.lang.String)
+java/lang/StringBuffer/StringBuffer()

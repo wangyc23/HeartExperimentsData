@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+javax/xml/namespace/QName/getNamespaceURI()
+com/sun/tools/xjc/model/CPluginCustomization/markAsAcknowledged()
+org/w3c/dom/Element/getLocalName()

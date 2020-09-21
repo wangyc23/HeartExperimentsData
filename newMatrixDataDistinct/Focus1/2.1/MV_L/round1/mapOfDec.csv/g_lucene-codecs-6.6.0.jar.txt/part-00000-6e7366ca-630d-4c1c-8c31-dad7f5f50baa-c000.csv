@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/memory/DirectDocValuesProducer/getMissingBits(org.apache.lucene.index.FieldInfo,long,long)@g_lucene-codecs-5.5.0.jar.txt	3
+org/apache/lucene/codecs/simpletext/SimpleTextLiveDocsFormat/writeLiveDocs(org.apache.lucene.util.MutableBits,org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentCommitInfo,int,org.apache.lucene.store.IOContext)@g_lucene-codecs-5.5.0.jar.txt	2
+org/apache/lucene/codecs/blockterms/BlockTermsReader/FieldReader/SegmentTermsEnum/seekExact(long)@g_lucene-codecs-5.5.0.jar.txt	0
+org/apache/lucene/codecs/blockterms/BlockTermsWriter/TermsWriter/finish()@g_lucene-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/TermsWriter/writeBlocks(int,int)@g_lucene-codecs-5.5.0.jar.txt	4

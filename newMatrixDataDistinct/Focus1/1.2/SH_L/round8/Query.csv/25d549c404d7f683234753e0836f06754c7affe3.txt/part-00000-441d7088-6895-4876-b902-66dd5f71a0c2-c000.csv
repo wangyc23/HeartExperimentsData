@@ -1,0 +1,4 @@
+org/apache/slider/core/registry/docstore/PublishedConfiguration/PublishedConfiguration(java.lang.String,java.lang.Iterable)
+org/apache/slider/providers/agent/AgentProviderService/getClusterName()
+org/apache/slider/providers/agent/application/metadata/ConfigFile/getType()
+org/apache/slider/providers/agent/application/metadata/ConfigFile/getDictionaryName()

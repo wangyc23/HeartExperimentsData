@@ -1,0 +1,5 @@
+org/apache/lucene/misc/IndexMergeTool/main(java.lang.String[])@g_lucene-misc-6.4.1.jar.txt	1
+org/apache/lucene/facet/FacetsConfig/processSSDVFacetFields(java.util.Map,org.apache.lucene.document.Document)@g_lucene-facet-5.0.0.jar.txt	3
+org/apache/lucene/facet/FacetsConfig/processAssocFacetFields(org.apache.lucene.facet.taxonomy.TaxonomyWriter,java.util.Map,org.apache.lucene.document.Document)@g_lucene-facet-5.0.0.jar.txt	2
+org/apache/lucene/facet/FacetsConfig/build(org.apache.lucene.facet.taxonomy.TaxonomyWriter,org.apache.lucene.document.Document)@g_lucene-facet-5.0.0.jar.txt	4
+org/apache/lucene/index/MultiPassIndexSplitter/split(org.apache.lucene.index.IndexReader,org.apache.lucene.store.Directory[],boolean)@g_lucene-misc-6.4.1.jar.txt	0

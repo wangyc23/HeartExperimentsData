@@ -1,0 +1,4 @@
+java/lang/reflect/AccessibleObject/setAccessible(boolean)
+java/lang/Class/getDeclaredMethod(java.lang.String,java.lang.Class[])
+java/lang/String/trim()
+java/lang/Class/getDeclaredField(java.lang.String)

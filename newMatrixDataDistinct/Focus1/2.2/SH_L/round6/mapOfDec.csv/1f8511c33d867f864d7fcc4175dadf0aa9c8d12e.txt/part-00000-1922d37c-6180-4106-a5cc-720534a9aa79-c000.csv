@@ -1,0 +1,5 @@
+org/jboss/resteasy/plugins/servlet/ResteasyServletInitializer/register(java.lang.Class,java.util.Set,java.util.Set,javax.servlet.ServletContext)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+org/jboss/resteasy/test/providers/jaxb/JAXBCache/buildContextPath(java.lang.String[])@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+org/jboss/resteasy/client/core/executors/URLConnectionClientExecutor/commitHeaders(org.jboss.resteasy.client.ClientRequest,java.net.HttpURLConnection)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+se/unlogic/standardutils/dao/AnnotatedDAO/getCriterias(se.unlogic.standardutils.dao.HighLevelQuery,boolean)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+org/jboss/resteasy/test/client/ParameterListTest/TestResource/matrixList(java.util.List)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1

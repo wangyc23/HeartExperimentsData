@@ -1,0 +1,5 @@
+org/hibernate/cfg/BinderHelper/createSyntheticPropertyReference(org.hibernate.cfg.Ejb3JoinColumn[],org.hibernate.mapping.PersistentClass,org.hibernate.mapping.PersistentClass,org.hibernate.mapping.Value,boolean,org.hibernate.cfg.Mappings)@g_hibernate-core-3.6.9.Final.jar.txt	0
+org/hibernate/cfg/annotations/MapBinder/createFormulatedValue(org.hibernate.mapping.Value,org.hibernate.mapping.Collection,java.lang.String,org.hibernate.mapping.PersistentClass,org.hibernate.cfg.Mappings)@g_hibernate-core-3.6.9.Final.jar.txt	2
+org/hibernate/cfg/annotations/TableBinder/bindFk(org.hibernate.mapping.PersistentClass,org.hibernate.mapping.PersistentClass,org.hibernate.cfg.Ejb3JoinColumn[],org.hibernate.mapping.SimpleValue,boolean,org.hibernate.cfg.Mappings)@g_hibernate-core-3.6.9.Final.jar.txt	4
+org/hibernate/cfg/Configuration/buildRecursiveOrderedFkSecondPasses(java.util.List,java.util.Map,java.lang.String,java.lang.String)@g_hibernate-core-3.6.9.Final.jar.txt	3
+org/hibernate/cfg/Configuration/buildUniqueKeyFromColumnNames(org.hibernate.mapping.Table,java.lang.String,java.lang.String[])@g_hibernate-core-3.6.9.Final.jar.txt	1

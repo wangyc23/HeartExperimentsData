@@ -1,0 +1,5 @@
+org/junit/validator/AnnotationValidatorFactory/createAnnotationValidator(org.junit.validator.ValidateWith)@g_junit-4.12-beta-3.jar.txt	4
+org/aspectj/internal/lang/reflect/AjTypeImpl/getPerClause()@g_junit-4.12-beta-3.jar.txt	3
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_junit-4.12-beta-3.jar.txt	2
+junit/framework/TestSuite/addTestsFromTestCase(java.lang.Class)@g_junit-4.12-beta-3.jar.txt	1
+org/junit/runners/model/TestClass/getAnnotatedMethodValues(java.lang.Object,java.lang.Class,java.lang.Class)@g_junit-4.12-beta-3.jar.txt	0

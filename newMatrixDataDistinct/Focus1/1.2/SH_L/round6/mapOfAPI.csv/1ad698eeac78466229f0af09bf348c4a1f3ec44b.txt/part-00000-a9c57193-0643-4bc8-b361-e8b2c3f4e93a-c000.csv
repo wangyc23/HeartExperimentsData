@@ -1,0 +1,4 @@
+0	twitter4j/User/getScreenName()
+1	org/slf4j/Logger/info(java.lang.String,java.lang.Object)
+2	java/lang/String/toLowerCase()
+3	twitter4j/Status/getUser()

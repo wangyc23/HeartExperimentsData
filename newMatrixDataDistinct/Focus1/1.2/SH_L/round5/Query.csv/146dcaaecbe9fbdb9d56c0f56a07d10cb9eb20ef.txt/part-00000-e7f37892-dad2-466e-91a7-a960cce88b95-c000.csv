@@ -1,0 +1,4 @@
+java/sql/Statement/close()
+java/sql/PreparedStatement/executeUpdate()
+java/sql/Connection/close()
+java/sql/Connection/prepareStatement(java.lang.String)

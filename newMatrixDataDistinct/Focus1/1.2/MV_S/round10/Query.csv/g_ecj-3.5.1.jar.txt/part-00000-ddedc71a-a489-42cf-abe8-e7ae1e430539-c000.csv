@@ -1,0 +1,4 @@
+java/io/StringReader/StringReader(java.lang.String)
+java/lang/StringBuffer/toString()
+java/io/PrintWriter/flush()
+java/io/StringWriter/StringWriter()

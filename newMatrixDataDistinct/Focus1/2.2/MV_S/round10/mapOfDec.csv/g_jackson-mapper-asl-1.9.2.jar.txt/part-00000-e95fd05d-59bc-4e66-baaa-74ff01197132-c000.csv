@@ -1,0 +1,5 @@
+org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint/appendAccessToken(org.springframework.security.oauth2.provider.AuthorizationRequest,org.springframework.security.oauth2.common.OAuth2AccessToken)@g_spring-security-oauth2-2.0.13.RELEASE.jar.txt	3
+org/springframework/security/oauth2/provider/token/store/jwk/JwkDefinitionSource/loadJwkDefinitions(java.net.URL)@g_spring-security-oauth2-2.0.13.RELEASE.jar.txt	4
+org/springframework/security/oauth2/provider/token/store/jwk/JwtHeaderConverter/convert(java.lang.String)@g_spring-security-oauth2-2.0.13.RELEASE.jar.txt	2
+org/springframework/security/oauth2/provider/token/store/jwk/JwkSetConverter/convert(java.io.InputStream)@g_spring-security-oauth2-2.0.13.RELEASE.jar.txt	1
+org/springframework/security/oauth2/provider/approval/ApprovalStoreUserApprovalHandler/getUserApprovalRequest(org.springframework.security.oauth2.provider.AuthorizationRequest,org.springframework.security.core.Authentication)@g_spring-security-oauth2-2.0.13.RELEASE.jar.txt	0

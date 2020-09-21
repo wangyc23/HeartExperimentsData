@@ -1,0 +1,4 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+java/lang/StringBuffer/StringBuffer()

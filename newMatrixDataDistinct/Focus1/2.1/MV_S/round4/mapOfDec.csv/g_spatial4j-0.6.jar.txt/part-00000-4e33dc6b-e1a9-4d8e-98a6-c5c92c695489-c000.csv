@@ -1,0 +1,5 @@
+org/locationtech/spatial4j/shape/jts/JtsGeometry/unwrapDateline(com.vividsolutions.jts.geom.Polygon)@g_lucene-core-7.0.0.jar.txt	2
+org/locationtech/spatial4j/io/WKTWriter/toString(org.locationtech.spatial4j.shape.Shape)@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/index/LogMergePolicy/findForcedMerges(org.apache.lucene.index.SegmentInfos,int,java.util.Map,org.apache.lucene.index.IndexWriter)@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/search/MultiTermQueryConstantScoreWrapper/1/rewrite(org.apache.lucene.index.LeafReaderContext)@g_lucene-core-7.0.0.jar.txt	1
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_lucene-core-7.0.0.jar.txt	0

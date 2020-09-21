@@ -1,0 +1,5 @@
+org/springframework/data/mongodb/core/convert/DBObjectAccessor/put(org.springframework.data.mongodb.core.mapping.MongoPersistentProperty,java.lang.Object)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	4
+org/springframework/data/mongodb/config/MongoCredentialPropertyEditor/setAsText(java.lang.String)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	1
+org/springframework/data/mongodb/core/query/Criteria/getCriteriaObject()@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	2
+org/springframework/data/mongodb/core/aggregation/ConditionalOperators/Cond/getClauses(org.springframework.data.mongodb.core.aggregation.AggregationOperationContext,java.lang.String,java.lang.Object)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	0
+org/springframework/data/mongodb/core/aggregation/SpelExpressionTransformer/lookupConversionFor(org.springframework.data.mongodb.core.spel.ExpressionNode)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	3

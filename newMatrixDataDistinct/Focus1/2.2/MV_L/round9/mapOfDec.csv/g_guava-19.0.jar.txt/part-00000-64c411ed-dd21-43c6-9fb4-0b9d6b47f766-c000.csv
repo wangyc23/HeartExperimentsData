@@ -1,0 +1,5 @@
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-19.0-rc3.jar.txt	0
+com/google/common/base/FinalizableReferenceQueue/DecoupledLoader/getBaseUrl()@g_guava-19.0-rc3.jar.txt	2
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-15.0.jar.txt	1
+com/google/common/io/Files/simplifyPath(java.lang.String)@g_guava-19.0-rc3.jar.txt	3
+com/google/common/base/CharMatcher/precomputedInternal()@g_guava-19.0-rc3.jar.txt	4

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/xml/sax/XMLReader/parse(java.lang.String)
+java/util/Iterator/next()
+java/util/List/add(java.lang.Object)

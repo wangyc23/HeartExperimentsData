@@ -1,0 +1,4 @@
+java/lang/String/substring(int,int)
+java/lang/StringBuilder/StringBuilder()
+java/lang/Character/isSpaceChar(char)
+java/lang/StringBuilder/append(java.lang.String)

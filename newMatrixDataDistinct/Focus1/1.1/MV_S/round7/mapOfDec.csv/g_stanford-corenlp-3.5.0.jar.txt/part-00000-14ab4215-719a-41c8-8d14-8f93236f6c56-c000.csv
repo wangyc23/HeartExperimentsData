@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/EnglishTreebankParserParams/EnglishSubcategoryStripper/transformTree(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/TueBaDZParserParams/transformTree(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalStructure/collapsePrepAndPoss(java.util.Collection)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/stats/Counters/toTiedRankCounter(edu.stanford.nlp.stats.Counter)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/trees/international/french/FrenchXMLTreeReader/getTreeFromXML(org.w3c.dom.Node)@g_stanford-parser-3.5.2.jar.txt	1

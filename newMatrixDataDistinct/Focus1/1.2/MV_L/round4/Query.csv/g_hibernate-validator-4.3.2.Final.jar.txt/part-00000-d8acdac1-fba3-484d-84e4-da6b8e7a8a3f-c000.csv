@@ -1,0 +1,4 @@
+org/hibernate/validator/internal/util/logging/Log_$logger/getMoreThanOneValidatorFoundForTypeException$str()
+javax/validation/UnexpectedTypeException/getStackTrace()
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/lang/StringBuilder/StringBuilder()

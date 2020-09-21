@@ -1,0 +1,5 @@
+org/springframework/context/annotation/ConfigurationClassParser/SourceClass/getMemberClasses()@g_spring-context-4.2.3.BUILD-20151114.225414-58.jar.txt	4
+org/springframework/context/support/ReloadableResourceBundleMessageSource/refreshProperties(java.lang.String,org.springframework.context.support.ReloadableResourceBundleMessageSource$PropertiesHolder)@g_spring-context-4.2.3.BUILD-20151114.225414-58.jar.txt	3
+org/springframework/context/annotation/ConfigurationClassPostProcessor/processConfigBeanDefinitions(org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-context-4.2.3.BUILD-20151114.225414-58.jar.txt	2
+org/springframework/jndi/JndiLocatorSupport/lookup(java.lang.String,java.lang.Class)@g_spring-context-4.2.3.BUILD-20151114.225414-58.jar.txt	0
+org/springframework/jndi/JndiLocatorSupport/lookup(java.lang.String,java.lang.Class)@g_spring-context-4.2.3.BUILD-SNAPSHOT.jar.txt	1

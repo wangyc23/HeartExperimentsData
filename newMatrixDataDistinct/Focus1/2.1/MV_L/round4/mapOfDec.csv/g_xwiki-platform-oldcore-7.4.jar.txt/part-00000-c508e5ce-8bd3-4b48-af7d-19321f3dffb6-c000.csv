@@ -1,0 +1,5 @@
+com/xpn/xwiki/objects/classes/DBListClass/returnCol(java.lang.String,boolean)@g_xwiki-platform-oldcore-7.4.2.jar.txt	1
+com/xpn/xwiki/pdf/impl/FileSystemURLFactory/getAttachmentKey(java.util.List,java.lang.String,java.lang.String,java.lang.String)@g_xwiki-platform-oldcore-7.4.2.jar.txt	0
+com/xpn/xwiki/internal/DefaultCoreConfiguration/getDefaultDocumentSyntax()@g_xwiki-platform-oldcore-7.4.2.jar.txt	2
+com/xpn/xwiki/XWiki/rollback(com.xpn.xwiki.doc.XWikiDocument,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-oldcore-7.4.2.jar.txt	4
+com/xpn/xwiki/objects/classes/NumberClass/fromString(java.lang.String)@g_xwiki-platform-oldcore-7.4.2.jar.txt	3

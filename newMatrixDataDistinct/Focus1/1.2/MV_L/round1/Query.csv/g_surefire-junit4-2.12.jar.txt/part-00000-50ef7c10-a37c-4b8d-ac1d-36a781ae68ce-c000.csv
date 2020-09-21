@@ -1,0 +1,4 @@
+org/apache/maven/surefire/report/PojoStackTraceWriter/PojoStackTraceWriter(java.lang.String,java.lang.String,java.lang.Throwable)
+org/apache/maven/surefire/report/RunListener/testSetCompleted(org.apache.maven.surefire.report.ReportEntry)
+org/apache/maven/surefire/report/SimpleReportEntry/SimpleReportEntry(java.lang.String,java.lang.String)
+java/lang/Class/getName()

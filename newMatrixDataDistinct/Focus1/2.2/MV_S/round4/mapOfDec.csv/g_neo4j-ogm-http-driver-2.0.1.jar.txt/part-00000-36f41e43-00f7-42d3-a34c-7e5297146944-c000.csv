@@ -1,0 +1,5 @@
+org/neo4j/ogm/metadata/info/DomainInfo/implement(org.neo4j.ogm.metadata.info.ClassInfo,org.neo4j.ogm.metadata.info.InterfaceInfo)@g_neo4j-ogm-1.1.2.jar.txt	2
+org/neo4j/ogm/mapper/EntityGraphMapper/haveRelationEndsChanged(java.lang.Object,java.lang.Long)@g_neo4j-ogm-1.1.2.jar.txt	4
+org/neo4j/ogm/mapper/EntityGraphMapper/map(java.lang.Object,int)@g_neo4j-ogm-1.1.2.jar.txt	1
+org/neo4j/ogm/mapper/EntityGraphMapper/mapEntityReferences(java.lang.Object,org.neo4j.ogm.cypher.compiler.NodeBuilder,int,org.neo4j.ogm.cypher.compiler.CypherCompiler)@g_neo4j-ogm-1.1.2.jar.txt	3
+org/neo4j/ogm/metadata/ClassPathScanner/scan(java.util.List,org.neo4j.ogm.metadata.info.ClassFileProcessor)@g_neo4j-ogm-1.1.2.jar.txt	0

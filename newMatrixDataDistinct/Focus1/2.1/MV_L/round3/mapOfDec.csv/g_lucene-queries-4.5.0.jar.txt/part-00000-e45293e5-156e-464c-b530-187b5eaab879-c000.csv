@@ -1,0 +1,5 @@
+org/apache/lucene/queries/function/valuesource/SumTotalTermFreqValueSource/createWeight(java.util.Map,org.apache.lucene.search.IndexSearcher)@g_lucene-queries-4.2.1.jar.txt	3
+org/apache/lucene/queries/CommonTermsQuery/collectTermContext(org.apache.lucene.index.IndexReader,java.util.List,org.apache.lucene.index.TermContext[],org.apache.lucene.index.Term[])@g_lucene-queries-4.6.0.jar.txt	2
+org/apache/lucene/queries/function/valuesource/SumTotalTermFreqValueSource/createWeight(java.util.Map,org.apache.lucene.search.IndexSearcher)@g_lucene-queries-4.6.0.jar.txt	0
+org/apache/lucene/queries/TermsFilter/getDocIdSet(org.apache.lucene.index.AtomicReaderContext,org.apache.lucene.util.Bits)@g_lucene-queries-4.2.1.jar.txt	4
+org/apache/lucene/queries/TermsFilter/getDocIdSet(org.apache.lucene.index.AtomicReaderContext,org.apache.lucene.util.Bits)@g_lucene-queries-4.6.0.jar.txt	1

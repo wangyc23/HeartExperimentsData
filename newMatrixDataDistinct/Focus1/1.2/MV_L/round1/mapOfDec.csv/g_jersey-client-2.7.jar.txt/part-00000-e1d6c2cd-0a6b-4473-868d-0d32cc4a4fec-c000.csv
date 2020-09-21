@@ -1,0 +1,5 @@
+org/glassfish/jersey/client/filter/EncodingFilter/filter(javax.ws.rs.client.ClientRequestContext)@g_jersey-client-2.21.jar.txt	2
+org/glassfish/jersey/client/authentication/DigestAuthenticator/createNextAuthToken(org.glassfish.jersey.client.authentication.DigestAuthenticator$DigestScheme,javax.ws.rs.client.ClientRequestContext,org.glassfish.jersey.client.authentication.HttpAuthenticationFilter$Credentials)@g_jersey-client-2.21.jar.txt	3
+org/glassfish/jersey/client/authentication/HttpAuthenticationFilter/repeatRequest(javax.ws.rs.client.ClientRequestContext,javax.ws.rs.client.ClientResponseContext,java.lang.String)@g_jersey-client-2.21.jar.txt	0
+org/glassfish/jersey/client/authentication/HttpAuthenticationFilter/repeatRequest(javax.ws.rs.client.ClientRequestContext,javax.ws.rs.client.ClientResponseContext,java.lang.String)@g_jersey-client-2.22.2.jar.txt	1
+org/glassfish/jersey/client/filter/EncodingFilter/filter(javax.ws.rs.client.ClientRequestContext)@g_jersey-client-2.22.2.jar.txt	4

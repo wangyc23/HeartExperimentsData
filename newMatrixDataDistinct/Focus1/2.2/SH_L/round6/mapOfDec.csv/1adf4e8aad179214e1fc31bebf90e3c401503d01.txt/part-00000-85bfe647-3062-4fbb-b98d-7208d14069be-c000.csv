@@ -1,0 +1,5 @@
+org/okbqa/rocknrole/graph/Node/matches(org.okbqa.rocknrole.graph.Node)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+org/okbqa/rocknrole/graph/interpreter/GraphReader/interpret(java.lang.String)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+nl/illuminated/arduino/ArduinoPort/SerialPortReader/run()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+org/okbqa/rocknrole/graph/Graph/collapseEdges(java.util.List)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0
+org/okbqa/rocknrole/parsing/ETRI/socket(java.lang.String)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1

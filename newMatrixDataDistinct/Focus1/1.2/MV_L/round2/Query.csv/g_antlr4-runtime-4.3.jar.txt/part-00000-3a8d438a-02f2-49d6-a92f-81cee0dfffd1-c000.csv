@@ -1,0 +1,4 @@
+java/util/ListIterator/hasNext()
+java/util/ListIterator/add(java.lang.Object)
+java/util/ListIterator/set(java.lang.Object)
+java/util/ListIterator/next()

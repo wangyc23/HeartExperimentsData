@@ -1,0 +1,5 @@
+com/jayway/jsonpath/spi/mapper/JsonSmartMappingProvider/FloatReader/convert(java.lang.Object)@g_json-path-2.2.0.jar.txt	1
+com/jayway/jsonpath/Filter/AndFilter/toString()@g_json-path-2.2.0.jar.txt	2
+com/jayway/jsonpath/spi/mapper/JsonSmartMappingProvider/DateReader/convert(java.lang.Object)@g_json-path-2.2.0.jar.txt	3
+com/jayway/jsonpath/spi/mapper/JsonSmartMappingProvider/DoubleReader/convert(java.lang.Object)@g_json-path-2.2.0.jar.txt	4
+com/jayway/jsonpath/internal/filter/ValueNode/PathNode/evaluate(com.jayway.jsonpath.Predicate$PredicateContext)@g_json-path-2.2.0.jar.txt	0

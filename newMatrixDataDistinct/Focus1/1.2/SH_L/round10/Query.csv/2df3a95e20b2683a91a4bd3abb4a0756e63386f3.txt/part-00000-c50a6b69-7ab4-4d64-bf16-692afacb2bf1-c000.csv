@@ -1,0 +1,4 @@
+org/apache/drill/exec/record/TransferPair/transfer()
+org/apache/drill/exec/record/RecordBatch/getRecordCount()
+org/apache/drill/exec/record/selection/SelectionVector2/allocateNew(int)
+org/apache/drill/exec/physical/impl/limit/LimitRecordBatch/limitWithNoSV(int)

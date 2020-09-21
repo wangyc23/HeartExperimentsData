@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+java/lang/reflect/Array/newInstance(java.lang.Class,int)
+org/apache/solr/client/solrj/beans/DocumentObjectBinder$DocField/set(java.lang.Object,java.lang.Object)
+java/util/List/size()

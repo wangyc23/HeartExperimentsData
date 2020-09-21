@@ -1,0 +1,4 @@
+org/openrdf/model/impl/ValueFactoryImpl/createLiteral(java.lang.String,org.openrdf.model.URI)
+org/openrdf/model/impl/ValueFactoryImpl/createBNode(java.lang.String)
+org/semanticweb/owlapi/io/RDFLiteral/getLexicalValue()
+org/semanticweb/owlapi/io/RDFLiteral/getLang()

@@ -1,0 +1,5 @@
+org/openrdf/query/parser/sparql/UpdateExprBuilder/visit(org.openrdf.query.parser.sparql.ast.ASTInsertData,java.lang.Object)@g_onejar-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/federation/SPARQLFederatedService/evaluateInternal(org.openrdf.query.algebra.Service,info.aduna.iteration.CloseableIteration,java.lang.String)@g_onejar-2.7.9.jar.txt	0
+org/openrdf/query/resultio/text/csv/SPARQLResultsCSVParser/parse(java.io.InputStream)@g_onejar-2.7.9.jar.txt	4
+org/openrdf/http/client/SesameHTTPClient/upload(org.apache.commons.httpclient.methods.RequestEntity,java.lang.String,boolean,org.openrdf.model.Resource[])@g_onejar-2.7.9.jar.txt	2
+info/aduna/logging/file/logback/FileLogReader/getNext()@g_onejar-2.7.9.jar.txt	3

@@ -1,0 +1,4 @@
+org/xwiki/rendering/block/XDOM/getChildren()
+java/util/ListIterator/remove()
+java/util/ListIterator/hasNext()
+java/util/ListIterator/add(java.lang.Object)

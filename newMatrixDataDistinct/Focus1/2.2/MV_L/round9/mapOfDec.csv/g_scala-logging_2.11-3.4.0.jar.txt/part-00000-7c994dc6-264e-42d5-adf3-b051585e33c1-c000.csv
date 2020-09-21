@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/frontend/v2_3/helpers/TreeZipper/Location/rightMost()@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	0
+org/neo4j/cypher/internal/frontend/v2_3/perty/gen/scalaDocGen/handleMutableMapType/mapEmpty(scala.collection.mutable.Map)@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	1
+org/neo4j/cypher/internal/frontend/v2_3/ast/ASTSlicingPhrase/class/containsNoIdentifiers(org.neo4j.cypher.internal.frontend.v2_3.ast.ASTSlicingPhrase)@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	2
+org/neo4j/cypher/internal/frontend/v2_3/perty/recipe/DocRecipe/strategyExpander/expandForPrinting/expand$1(scala.collection.Seq,scala.collection.Seq)@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	4
+org/neo4j/cypher/internal/frontend/v2_3/perty/gen/scalaDocGen/handleMutableSetType/typecreator17/1/apply(scala.reflect.api.Mirror)@g_neo4j-cypher-frontend-2.3-2.3.3.jar.txt	3

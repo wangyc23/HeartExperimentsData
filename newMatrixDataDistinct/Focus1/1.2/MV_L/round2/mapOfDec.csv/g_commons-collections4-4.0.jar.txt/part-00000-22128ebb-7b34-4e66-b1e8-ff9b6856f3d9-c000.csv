@@ -1,0 +1,5 @@
+org/apache/commons/collections4/map/ListOrderedMap/put(int,java.lang.Object,java.lang.Object)@g_commons-collections4-4.1.jar.txt	0
+org/apache/commons/collections4/map/TransformedMap/transformMap(java.util.Map)@g_commons-collections4-4.1.jar.txt	4
+org/apache/commons/collections4/MapUtils/putAll(java.util.Map,java.lang.Object[])@g_commons-collections4-4.1.jar.txt	1
+org/apache/commons/collections4/map/ListOrderedMap/putAll(int,java.util.Map)@g_commons-collections4-4.1.jar.txt	3
+org/apache/commons/collections4/map/LRUMap/reuseMapping(org.apache.commons.collections4.map.AbstractLinkedMap$LinkEntry,int,int,java.lang.Object,java.lang.Object)@g_commons-collections4-4.1.jar.txt	2

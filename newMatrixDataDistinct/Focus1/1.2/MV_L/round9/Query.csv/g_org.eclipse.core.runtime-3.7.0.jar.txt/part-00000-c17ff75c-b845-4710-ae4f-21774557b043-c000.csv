@@ -1,0 +1,4 @@
+org/eclipse/osgi/framework/log/FrameworkLogEntry/FrameworkLogEntry(java.lang.Object,java.lang.String,int,int,java.lang.String,int,java.lang.Throwable,org.eclipse.osgi.framework.log.FrameworkLogEntry[])
+java/lang/StringBuffer/append(long)
+org/eclipse/core/runtime/Status/getSeverity()
+org/eclipse/core/runtime/Status/Status(int,java.lang.String,int,java.lang.String,java.lang.Throwable)

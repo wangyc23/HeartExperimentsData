@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/xml/Xpp3DomBuilder/build(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-utils-1.5.8.jar.txt	4
+org/codehaus/plexus/util/InterpolationFilterReader/read()@g_plexus-utils-1.5.8.jar.txt	1
+org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_plexus-utils-1.5.8.jar.txt	2
+org/springframework/util/NumberUtils/convertNumberToTargetClass(java.lang.Number,java.lang.Class)@g_spring-core-2.5.6.jar.txt	0
+org/codehaus/plexus/util/TypeFormat/parseDouble(java.lang.CharSequence)@g_plexus-utils-1.5.8.jar.txt	3

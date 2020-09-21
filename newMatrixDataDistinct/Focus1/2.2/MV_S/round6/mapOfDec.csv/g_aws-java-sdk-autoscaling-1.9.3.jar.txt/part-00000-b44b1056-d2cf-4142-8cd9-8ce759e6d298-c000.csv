@@ -1,0 +1,5 @@
+com/amazonaws/services/ec2/model/transform/DescribeInternetGatewaysRequestMarshaller/marshall(com.amazonaws.services.ec2.model.DescribeInternetGatewaysRequest)@g_aws-java-sdk-ec2-1.9.3.jar.txt	1
+com/amazonaws/services/ec2/model/transform/RevokeSecurityGroupIngressRequestMarshaller/marshall(com.amazonaws.services.ec2.model.RevokeSecurityGroupIngressRequest)@g_aws-java-sdk-ec2-1.9.3.jar.txt	0
+com/amazonaws/services/ec2/model/transform/UnassignPrivateIpAddressesRequestMarshaller/marshall(com.amazonaws.services.ec2.model.UnassignPrivateIpAddressesRequest)@g_aws-java-sdk-ec2-1.9.3.jar.txt	4
+com/amazonaws/services/ec2/model/transform/MonitorInstancesRequestMarshaller/marshall(com.amazonaws.services.ec2.model.MonitorInstancesRequest)@g_aws-java-sdk-ec2-1.9.3.jar.txt	2
+com/amazonaws/services/ec2/model/transform/TerminateInstancesRequestMarshaller/marshall(com.amazonaws.services.ec2.model.TerminateInstancesRequest)@g_aws-java-sdk-ec2-1.9.3.jar.txt	3

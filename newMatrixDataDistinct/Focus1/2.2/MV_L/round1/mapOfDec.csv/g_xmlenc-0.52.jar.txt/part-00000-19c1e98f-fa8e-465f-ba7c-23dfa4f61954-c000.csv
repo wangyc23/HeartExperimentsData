@@ -1,0 +1,5 @@
+org/xmlpull/v1/sax2/Driver/parseSubTree(org.xmlpull.v1.XmlPullParser)@g_xpp3-1.1.4c.jar.txt	3
+org/xmlpull/v1/builder/impl/XmlElementImpl/RequiredElementContentIterator/findNextEl()@g_xpp3-1.1.4c.jar.txt	2
+org/xmlpull/v1/builder/impl/XmlElementImpl/requiredTextContent()@g_xpp3-1.1.4c.jar.txt	4
+org/xmlpull/v1/XmlPullParserFactory/newPullParser()@g_xpp3-1.1.4c.jar.txt	1
+org/xmlpull/v1/sax2/Driver/parse(org.xml.sax.InputSource)@g_xpp3-1.1.4c.jar.txt	0

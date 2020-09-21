@@ -1,0 +1,4 @@
+com/xeiam/xchange/ExchangeFactory/createExchange(com.xeiam.xchange.ExchangeSpecification)
+com/xeiam/xchange/service/streaming/StreamingExchangeService/connect()
+java/lang/Thread/interrupt()
+com/xeiam/xchange/ExchangeSpecification/setSecretKey(java.lang.String)

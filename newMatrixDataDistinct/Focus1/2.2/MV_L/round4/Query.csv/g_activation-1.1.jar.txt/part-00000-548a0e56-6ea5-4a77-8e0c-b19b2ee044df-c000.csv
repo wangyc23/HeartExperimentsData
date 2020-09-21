@@ -1,0 +1,4 @@
+java/lang/Character/isWhitespace(char)
+java/lang/String/charAt(int)
+java/util/Vector/size()
+java/lang/StringBuffer/append(char)

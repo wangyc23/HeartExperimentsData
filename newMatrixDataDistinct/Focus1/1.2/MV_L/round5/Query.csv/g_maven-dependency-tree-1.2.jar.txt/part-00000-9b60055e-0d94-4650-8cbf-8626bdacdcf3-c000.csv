@@ -1,0 +1,4 @@
+org/apache/maven/project/MavenProject/getRemoteArtifactRepositories()
+org/apache/maven/artifact/resolver/ArtifactCollector/collect(java.util.Set,org.apache.maven.artifact.Artifact,java.util.Map,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List,org.apache.maven.artifact.metadata.ArtifactMetadataSource,org.apache.maven.artifact.resolver.filter.ArtifactFilter,java.util.List)
+java/lang/StringBuffer/append(java.lang.Object)
+org/apache/maven/project/MavenProject/createArtifacts(org.apache.maven.artifact.factory.ArtifactFactory,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter)

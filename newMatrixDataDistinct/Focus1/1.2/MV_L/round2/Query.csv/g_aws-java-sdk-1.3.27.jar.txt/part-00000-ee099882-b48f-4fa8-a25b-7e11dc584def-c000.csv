@@ -1,0 +1,4 @@
+com/amazonaws/transform/SimpleTypeStaxUnmarshallers$DateStaxUnmarshaller/getInstance()
+com/amazonaws/transform/SimpleTypeStaxUnmarshallers$StringStaxUnmarshaller/getInstance()
+com/amazonaws/transform/SimpleTypeStaxUnmarshallers$IntegerStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)
+javax/xml/stream/events/XMLEvent/isStartElement()

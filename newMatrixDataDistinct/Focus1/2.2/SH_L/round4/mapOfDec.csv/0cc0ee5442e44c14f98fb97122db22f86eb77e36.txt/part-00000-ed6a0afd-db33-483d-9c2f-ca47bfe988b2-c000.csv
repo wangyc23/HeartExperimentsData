@@ -1,0 +1,5 @@
+org/wso2/jaggery/integration/tests/hostObjects/core/CollectionHostObjectTestCase/collectionMembers()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	4
+org/apache/maven/pom/_4_0/Profile/Dependencies/getDependency()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	1
+org/codice/ddf/spatial/ogc/wfs/v2_0_0/catalog/source/WfsFilterDelegate/createLineString(org.codice.ddf.spatial.ogc.csw.catalog.converter.Geometry)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0
+org/codice/ddf/spatial/ogc/wfs/v1_0_0/catalog/source/WfsFilterDelegate/propertyIsLike(java.lang.String,java.lang.String,boolean)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	2
+org/codice/ddf/spatial/ogc/csw/catalog/source/CswFilterFactory/createContainsType(java.lang.String,java.lang.String,org.codice.ddf.spatial.ogc.csw.catalog.common.CswConstants.BinarySpatialOperand)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	3

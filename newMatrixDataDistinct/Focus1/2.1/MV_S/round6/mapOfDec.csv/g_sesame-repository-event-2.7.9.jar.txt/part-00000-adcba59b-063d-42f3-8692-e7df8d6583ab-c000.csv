@@ -1,0 +1,5 @@
+org/openrdf/sail/helpers/SailConnectionBase/endUpdate(org.openrdf.sail.UpdateContext)@g_sesame-sail-api-2.7.9.jar.txt	0
+org/openrdf/sail/helpers/SailBase/shutDown()@g_sesame-sail-api-2.7.9.jar.txt	2
+org/openrdf/sail/inferencer/fc/ForwardChainingRDFSInferencerConnection/applyRuleRdfs7_1()@g_sesame-sail-api-2.7.9.jar.txt	4
+org/openrdf/sail/inferencer/fc/ForwardChainingRDFSInferencerConnection/applyRuleRdfs7_2()@g_sesame-sail-api-2.7.9.jar.txt	3
+info/aduna/concurrent/locks/LockManager/releaseAbandoned()@g_sesame-sail-api-2.7.9.jar.txt	1

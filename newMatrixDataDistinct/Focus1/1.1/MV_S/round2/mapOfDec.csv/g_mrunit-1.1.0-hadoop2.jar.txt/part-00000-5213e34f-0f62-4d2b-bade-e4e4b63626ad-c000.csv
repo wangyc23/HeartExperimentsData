@@ -1,0 +1,5 @@
+org/apache/hadoop/mrunit/internal/mapreduce/MockReduceContextWrapper/create()@g_zuul-core-1.0.28.jar.txt	3
+com/netflix/zuul/ZuulFilter/TestUnit/testSort()@g_zuul-core-1.0.28.jar.txt	4
+com/netflix/zuul/FilterLoader/getFiltersByType(java.lang.String)@g_zuul-core-1.0.28.jar.txt	2
+org/apache/hadoop/mrunit/internal/util/DistCacheUtils/extractArchiveToTemp(org.apache.hadoop.fs.Path,java.io.File)@g_zuul-core-1.0.28.jar.txt	0
+org/apache/hadoop/mrunit/MapDriver/run()@g_zuul-core-1.0.28.jar.txt	1

@@ -1,0 +1,5 @@
+wikibooks/hadoop/chapter05/DelayCountMapperWithCounter/setup(org.apache.hadoop.mapreduce.Mapper.Context)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	2
+de/l3s/warc/reader/ext/WARCFileRecordReader/initialize(org.apache.hadoop.mapreduce.TaskAttemptContext,org.apache.hadoop.fs.Path)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	3
+wikibooks/hadoop/chapter07/MapperWithMapSideJoin/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	4
+com/aliyun/emr/example/EMapReduceOSSUtil/stripHttp(java.lang.String)@06914ee7c6178afadfc7488489fdf20388035aaa.txt	0
+com/aliyun/emr/example/EMapReduceOSSUtil/buildOSSCompleteUri(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@06914ee7c6178afadfc7488489fdf20388035aaa.txt	1

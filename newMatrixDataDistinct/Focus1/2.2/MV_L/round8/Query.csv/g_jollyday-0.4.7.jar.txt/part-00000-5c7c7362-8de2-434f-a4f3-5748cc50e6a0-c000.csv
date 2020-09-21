@@ -1,0 +1,4 @@
+java/util/logging/Logger/warning(java.lang.String)
+java/net/URL/URL(java.lang.String)
+java/lang/String/equals(java.lang.Object)
+java/io/InputStream/close()

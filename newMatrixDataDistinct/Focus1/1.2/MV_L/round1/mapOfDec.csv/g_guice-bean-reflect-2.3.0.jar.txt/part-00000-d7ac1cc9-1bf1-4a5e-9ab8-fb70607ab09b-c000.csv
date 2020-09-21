@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/reflect/URLClassSpace/normalizeEntry(java.net.URL)@g_sisu-inject-bean-2.3.0.jar.txt	0
+org/sonatype/guice/bean/reflect/ResourceEnumeration/findResource(java.lang.String)@g_sisu-inject-bean-2.3.0.jar.txt	2
+org/sonatype/guice/bean/reflect/URLClassSpace/getClassPathEntries(java.net.URL)@g_sisu-inject-bean-2.3.0.jar.txt	3
+org/eclipse/sisu/reflect/URLClassSpace/getClassPathEntries(java.net.URL)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	4
+org/eclipse/sisu/reflect/URLClassSpace/normalizeEntry(java.net.URL)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	1

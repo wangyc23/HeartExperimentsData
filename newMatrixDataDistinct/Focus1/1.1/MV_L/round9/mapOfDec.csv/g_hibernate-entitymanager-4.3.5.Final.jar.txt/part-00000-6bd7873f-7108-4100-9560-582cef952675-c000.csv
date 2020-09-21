@@ -1,0 +1,5 @@
+org/hibernate/jpa/internal/EntityManagerFactoryImpl/HibernatePersistenceUnitUtil/getIdentifier(java.lang.Object)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	2
+org/hibernate/jpa/internal/metamodel/AttributeFactory/4/resolveMember(org.hibernate.jpa.internal.metamodel.AttributeFactory$AttributeContext)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	4
+org/hibernate/jpa/internal/metamodel/AttributeFactory/PluralAttributeMetadataImpl/getClassFromGenericArgument(java.lang.reflect.Type)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	1
+org/hibernate/jpa/internal/QueryImpl/ParameterRegistrationImpl/bindValue(java.lang.Object,javax.persistence.TemporalType)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	0
+org/hibernate/jpa/internal/EntityManagerFactoryRegistry/removeEntityManagerFactory(java.lang.String,javax.persistence.EntityManagerFactory)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	3

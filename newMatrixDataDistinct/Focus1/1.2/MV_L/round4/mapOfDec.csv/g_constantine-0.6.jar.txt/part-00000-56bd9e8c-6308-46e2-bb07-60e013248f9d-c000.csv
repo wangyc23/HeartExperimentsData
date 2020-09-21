@@ -1,0 +1,5 @@
+joptsimple/OptionSet/valuesOf(joptsimple.OptionSpec)@g_jopt-simple-5.0.2.jar.txt	3
+joptsimple/AbstractOptionSpec/arrangeOptions(java.util.List)@g_jopt-simple-5.0.2.jar.txt	4
+joptsimple/util/EnumConverter/valuePattern()@g_jopt-simple-5.0.2.jar.txt	2
+com/github/rvesse/airline/io/printers/UsagePrinter/appendTable(java.lang.Iterable,int)@g_airline-io-2.1.1.jar.txt	1
+com/github/rvesse/airline/io/printers/UsagePrinter/appendWords(java.lang.Iterable,boolean)@g_airline-io-2.1.1.jar.txt	0

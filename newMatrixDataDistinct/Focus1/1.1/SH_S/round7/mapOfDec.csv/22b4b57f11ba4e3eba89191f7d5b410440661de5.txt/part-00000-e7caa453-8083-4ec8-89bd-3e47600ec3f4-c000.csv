@@ -1,0 +1,5 @@
+org/apache/spark/streaming/JavaAPISuite/testReduce()@027b53237cd3203173d61e9dbe56571d1745224e.txt	3
+eu/scape_project/archiventory/container/TestContainer/createTempTestFile(java.lang.String)@027b53237cd3203173d61e9dbe56571d1745224e.txt	0
+org/apache/spark/streaming/JavaAPISuite/testFlatMapValues()@027b53237cd3203173d61e9dbe56571d1745224e.txt	4
+org/apache/spark/mllib/recommendation/JavaALSSuite/runImplicitALSWithNegativeWeight()@027b53237cd3203173d61e9dbe56571d1745224e.txt	2
+org/apache/spark/streaming/JavaAPISuite/testCountByValue()@027b53237cd3203173d61e9dbe56571d1745224e.txt	1

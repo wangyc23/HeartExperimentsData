@@ -1,0 +1,4 @@
+0	org/apache/mahout/math/matrix/DoubleMatrix1D/toStringShort()
+1	org/apache/mahout/math/list/DoubleArrayList/elements()
+2	org/apache/mahout/math/matrix/DoubleMatrix2D/toStringShort()
+3	org/apache/mahout/math/matrix/DoubleMatrix1D/size()

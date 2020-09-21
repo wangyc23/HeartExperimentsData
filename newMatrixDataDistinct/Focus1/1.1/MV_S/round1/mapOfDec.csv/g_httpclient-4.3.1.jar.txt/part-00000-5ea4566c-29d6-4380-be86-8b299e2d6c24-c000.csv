@@ -1,0 +1,5 @@
+org/apache/http/impl/conn/DefaultClientConnectionOperator/openConnection(org.apache.http.conn.OperatedClientConnection,org.apache.http.HttpHost,java.net.InetAddress,org.apache.http.protocol.HttpContext,org.apache.http.params.HttpParams)@g_httpclient-osgi-4.5.3.jar.txt	1
+org/apache/http/impl/conn/IdleConnectionHandler/closeExpiredConnections()@g_httpclient-osgi-4.5.3.jar.txt	3
+org/apache/http/impl/client/cache/CachingHttpClient/negotiateResponseFromVariants(org.apache.http.HttpHost,org.apache.http.client.methods.HttpRequestWrapper,org.apache.http.protocol.HttpContext,java.util.Map)@g_httpclient-osgi-4.5.3.jar.txt	4
+org/apache/http/client/protocol/ResponseProcessCookies/processCookies(org.apache.http.HeaderIterator,org.apache.http.cookie.CookieSpec,org.apache.http.cookie.CookieOrigin,org.apache.http.client.CookieStore)@g_httpclient-osgi-4.5.3.jar.txt	2
+org/apache/http/impl/conn/SingleClientConnManager/getConnection(org.apache.http.conn.routing.HttpRoute,java.lang.Object)@g_httpclient-osgi-4.5.3.jar.txt	0

@@ -1,0 +1,4 @@
+java/util/regex/Pattern/compile(java.lang.String,int)
+org/salarymaster/DAO/SuggestionDAOMongo/iterToList(com.mongodb.client.FindIterable)
+com/mongodb/client/MongoCollection/find(org.bson.conversions.Bson)
+com/mongodb/client/FindIterable/limit(int)

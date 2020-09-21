@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/dvparser/DVParser/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/lexparser/BaseLexicon/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/trees/CollocationFinder/getMangledTree(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/optimization/CGMinimizer/minimize(edu.stanford.nlp.optimization.DiffFunction,double,double[],int)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/FactoredParser/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	2

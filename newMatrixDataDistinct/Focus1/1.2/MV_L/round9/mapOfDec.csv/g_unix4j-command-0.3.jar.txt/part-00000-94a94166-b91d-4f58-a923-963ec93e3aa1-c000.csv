@@ -1,0 +1,5 @@
+org/unix4j/unix/sed/SedArguments/convert(org.unix4j.context.ExecutionContext,java.lang.String,java.lang.Class,java.lang.Object)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0
+org/unix4j/unix/grep/CountMatchingLinesProcessor/finish(org.unix4j.io.Input,org.unix4j.processor.LineProcessor)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	1
+org/unix4j/unix/uniq/GlobalProcessor/UniqueDuplicateCount/finish()@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	4
+org/unix4j/unix/find/FindArguments/convert(org.unix4j.context.ExecutionContext,java.lang.String,java.lang.Class,java.lang.Object)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	3
+org/unix4j/unix/grep/GrepArguments/getForContext(org.unix4j.context.ExecutionContext)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	2

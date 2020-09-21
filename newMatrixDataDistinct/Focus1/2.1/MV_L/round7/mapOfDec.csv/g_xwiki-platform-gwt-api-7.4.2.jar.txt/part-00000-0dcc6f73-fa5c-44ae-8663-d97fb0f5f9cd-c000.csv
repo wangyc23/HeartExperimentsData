@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/retrieveFeed(java.net.URL,int)@g_xwiki-platform-feed-api-7.4.2.jar.txt	0
+com/xpn/xwiki/gwt/api/client/dialog/ChoiceDialog/setActive(com.google.gwt.user.client.ui.Button)@g_xwiki-platform-feed-api-7.4.2.jar.txt	2
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/retrieveFeed(java.lang.String,org.apache.commons.httpclient.HttpMethod)@g_xwiki-platform-feed-api-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/feed/FeedPlugin/getFeedEntryClass(com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/feed/FeedPluginApi/getBlogFeed(java.lang.String,int,int,java.lang.String,java.util.Map)@g_xwiki-platform-feed-api-7.4.2.jar.txt	3

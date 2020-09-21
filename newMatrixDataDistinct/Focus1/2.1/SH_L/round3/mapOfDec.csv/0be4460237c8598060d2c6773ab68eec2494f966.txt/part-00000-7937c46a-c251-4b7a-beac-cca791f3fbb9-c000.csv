@@ -1,0 +1,5 @@
+KeyFieldBasedComparatorTest/secondKey()@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	3
+WholeFileRecordReader/initialize(org.apache.hadoop.mapreduce.InputSplit,org.apache.hadoop.mapreduce.TaskAttemptContext)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	1
+MaxWidgetIdGenericAvro/MaxWidgetMapper/close()@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	0
+oldapi/JoinRecordWithStationName/run(java.lang.String[])@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	2
+v3/MaxTemperatureMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	4

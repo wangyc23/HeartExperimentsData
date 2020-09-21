@@ -1,0 +1,5 @@
+io/undertow/server/handlers/session/SSLSessionTestCase/testSslSession()@09a546f46ed58be5555260f83b37e7804915f084.txt	0
+io/undertow/server/handlers/proxy/ProxyHandlerXForwardedForTestCase/testXForwardedSsl()@09a546f46ed58be5555260f83b37e7804915f084.txt	4
+io/undertow/servlet/test/upgrade/SslUpgradeTestCase/runTest(java.lang.String)@09a546f46ed58be5555260f83b37e7804915f084.txt	3
+io/undertow/server/handlers/session/InMemorySessionTestCase/inMemorySessionTest()@09a546f46ed58be5555260f83b37e7804915f084.txt	1
+io/undertow/server/handlers/session/URLRewritingSessionTestCase/setup()@09a546f46ed58be5555260f83b37e7804915f084.txt	2

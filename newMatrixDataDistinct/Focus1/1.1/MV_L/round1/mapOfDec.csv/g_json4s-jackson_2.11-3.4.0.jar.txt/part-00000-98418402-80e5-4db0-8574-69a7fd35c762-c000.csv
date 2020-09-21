@@ -1,0 +1,5 @@
+org/json4s/Extraction/CollectionBuilder/result()@g_json4s-native_2.11-3.4.0.jar.txt	4
+org/json4s/MonadicJValue/org$json4s$MonadicJValue$$find$3(org.json4s.JsonAST$JValue,scala.Function1)@g_json4s-native_2.11-3.4.0.jar.txt	3
+org/json4s/native/JsonMethods/class/parseOpt(org.json4s.native.JsonMethods,org.json4s.JsonInput,boolean,boolean)@g_json4s-native_2.11-3.4.0.jar.txt	0
+org/json4s/native/JsonParser/parse(org.json4s.JsonInput,boolean,boolean)@g_json4s-native_2.11-3.4.0.jar.txt	2
+org/json4s/native/JsonMethods/class/parse(org.json4s.native.JsonMethods,org.json4s.JsonInput,boolean,boolean)@g_json4s-native_2.11-3.4.0.jar.txt	1

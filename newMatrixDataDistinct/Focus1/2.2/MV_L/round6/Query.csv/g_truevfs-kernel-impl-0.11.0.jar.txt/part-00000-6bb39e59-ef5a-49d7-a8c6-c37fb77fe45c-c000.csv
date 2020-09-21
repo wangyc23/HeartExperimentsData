@@ -1,0 +1,4 @@
+scala/Some/x()
+java/nio/file/FileSystemException/FileSystemException(java.lang.String,java.lang.String,java.lang.String)
+net/java/truevfs/kernel/spec/FsCovariantNode/get(net.java.truecommons.cio.Entry$Type)
+scala/collection/mutable/StringBuilder/StringBuilder()

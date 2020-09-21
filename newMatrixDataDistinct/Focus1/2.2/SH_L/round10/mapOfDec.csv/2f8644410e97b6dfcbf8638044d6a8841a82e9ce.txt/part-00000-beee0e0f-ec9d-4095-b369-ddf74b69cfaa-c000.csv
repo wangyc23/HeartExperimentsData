@@ -1,0 +1,5 @@
+org/apache/sling/jcr/webdav/impl/servlets/SlingWebDavServlet/getLocatorFactory()@0ff3757c82faabae2f17efddab67cae35d44705b.txt	2
+org/apache/sling/scripting/jsp/jasper/compiler/ELParser/hasNextChar()@0ff3757c82faabae2f17efddab67cae35d44705b.txt	4
+com/adobe/acs/commons/wcm/impl/ComponentErrorHandlerImpl/isFirstInChain(org.apache.sling.api.SlingHttpServletRequest)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	3
+org/apache/sling/jcr/webdav/impl/servlets/SlingWebDavServlet/deactivate(org.apache.sling.models.impl.ComponentContext)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	1
+org/apache/sling/jcr/webdav/impl/servlets/SlingWebDavServlet/activate(org.apache.sling.models.impl.ComponentContext)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	0

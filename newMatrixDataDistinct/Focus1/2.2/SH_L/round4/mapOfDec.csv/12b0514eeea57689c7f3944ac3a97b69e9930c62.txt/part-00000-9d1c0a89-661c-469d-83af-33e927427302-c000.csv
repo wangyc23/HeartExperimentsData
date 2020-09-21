@@ -1,0 +1,5 @@
+org/graylog2/ConfigurationTest/setUp()@0973a0a861314026c83fdbf923f865dfde8e0387.txt	0
+edu/ben/coursemanager/dao/NewsDao/getNewsID(edu.ben.coursemanager.model.News)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	4
+org/graylog2/plugins/PluginInstaller/install()@0973a0a861314026c83fdbf923f865dfde8e0387.txt	1
+edu/ben/coursemanager/servlet/AccountServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	3
+edu/ben/coursemanager/servlet/ViewCourseServlet/doPost(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	2

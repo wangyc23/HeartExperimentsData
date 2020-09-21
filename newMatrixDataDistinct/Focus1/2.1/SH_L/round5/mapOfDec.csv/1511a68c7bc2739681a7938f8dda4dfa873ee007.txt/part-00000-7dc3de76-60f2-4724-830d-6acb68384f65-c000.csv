@@ -1,0 +1,5 @@
+com/tinkerpop/blueprints/util/io/graphson/GraphSONUtility/includeKey(java.lang.String,java.util.List,com.tinkerpop.blueprints.util.io.graphson.ElementPropertyConfig.ElementPropertiesRule)@0df0fe4b87add3a4d9b9b2db21aaa58d68f42458.txt	2
+com/xeiam/xchange/empoex/service/polling/EmpoExTradeServiceRaw/getEmpoExOpenOrders()@0df0fe4b87add3a4d9b9b2db21aaa58d68f42458.txt	3
+demo/oauth/server/controllers/MemoryOAuthDataProvider/getRequestToken(java.lang.String)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@0df0fe4b87add3a4d9b9b2db21aaa58d68f42458.txt	1
+com/xeiam/xchange/itbit/v1/ItBitAdapters/adaptPrivateOrders(com.xeiam.xchange.itbit.v1.dto.trade.ItBitOrder[])@0df0fe4b87add3a4d9b9b2db21aaa58d68f42458.txt	4

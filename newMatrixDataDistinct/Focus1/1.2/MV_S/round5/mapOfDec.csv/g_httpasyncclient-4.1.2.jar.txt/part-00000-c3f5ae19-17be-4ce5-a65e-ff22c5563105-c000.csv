@@ -1,0 +1,5 @@
+org/apache/http/impl/client/DefaultRequestDirector/tryExecute(org.apache.http.impl.client.RoutedRequest,org.apache.http.protocol.HttpContext)@g_httpclient-4.3.1.jar.txt	0
+org/apache/http/impl/client/DefaultRequestDirector/tryConnect(org.apache.http.impl.client.RoutedRequest,org.apache.http.protocol.HttpContext)@g_httpclient-osgi-4.5.3.jar.txt	4
+org/apache/http/impl/client/DefaultRequestDirector/tryExecute(org.apache.http.impl.client.RoutedRequest,org.apache.http.protocol.HttpContext)@g_httpclient-osgi-4.5.3.jar.txt	3
+org/apache/http/impl/execchain/RetryExec/execute(org.apache.http.conn.routing.HttpRoute,org.apache.http.client.methods.HttpRequestWrapper,org.apache.http.client.protocol.HttpClientContext,org.apache.http.client.methods.HttpExecutionAware)@g_httpclient-4.3.1.jar.txt	2
+org/apache/http/impl/client/DefaultRequestDirector/tryConnect(org.apache.http.impl.client.RoutedRequest,org.apache.http.protocol.HttpContext)@g_httpclient-4.3.1.jar.txt	1

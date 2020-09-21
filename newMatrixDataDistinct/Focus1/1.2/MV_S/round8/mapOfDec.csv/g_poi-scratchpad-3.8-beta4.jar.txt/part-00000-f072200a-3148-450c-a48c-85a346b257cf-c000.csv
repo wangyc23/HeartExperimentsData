@@ -1,0 +1,5 @@
+org/apache/poi/hssf/usermodel/HSSFSheet/removeRow(org.apache.poi.ss.usermodel.Row)@g_poi-3.13.jar.txt	1
+org/apache/poi/hdgf/chunks/ChunkFactory/createChunk(byte[],int)@g_poi-scratchpad-3.11.jar.txt	0
+org/apache/poi/hslf/usermodel/SlideShow/buildSlidesAndNotes()@g_poi-scratchpad-3.11.jar.txt	3
+org/apache/poi/hwpf/model/FIBFieldHandler/toString()@g_poi-scratchpad-3.11.jar.txt	2
+org/apache/poi/hdgf/pointers/PointerFactory/createPointer(byte[],int)@g_poi-scratchpad-3.11.jar.txt	4

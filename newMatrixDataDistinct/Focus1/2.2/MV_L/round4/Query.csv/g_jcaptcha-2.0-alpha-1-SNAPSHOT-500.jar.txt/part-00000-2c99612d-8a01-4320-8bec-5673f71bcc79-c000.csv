@@ -1,0 +1,4 @@
+java/util/Random/nextBoolean()
+java/awt/image/BufferedImage/getType()
+java/awt/Graphics2D/drawImage(java.awt.Image,int,int,int,int,int,int,int,int,java.awt.image.ImageObserver)
+java/awt/image/BufferedImage/getHeight()

@@ -1,0 +1,4 @@
+slavetest/AbstractHaTest/disableVerificationAfterTest()
+slavetest/AbstractHaTest/createBigMasterStore(int)
+slavetest/AbstractHaTest/executeJob(slavetest.Job,int)
+slavetest/AbstractHaTest/startUpMaster(java.util.Map)

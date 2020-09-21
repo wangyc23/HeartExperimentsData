@@ -1,0 +1,5 @@
+org/codehaus/plexus/classworlds/realm/Entry/matches(java.lang.String)@g_plexus-classworlds-2.5.1.jar.txt	0
+org/codehaus/plexus/classworlds/launcher/ConfigurationParser/parse(java.io.InputStream)@g_plexus-classworlds-2.2.3.jar.txt	1
+org/codehaus/plexus/classworlds/launcher/Launcher/getMainMethod()@g_plexus-classworlds-2.2.3.jar.txt	3
+org/codehaus/plexus/classworlds/launcher/Launcher/mainWithExitCode(java.lang.String[])@g_plexus-classworlds-2.2.3.jar.txt	2
+org/codehaus/classworlds/DefaultClassRealm/addConstituent(java.lang.String,byte[])@g_plexus-classworlds-2.2.3.jar.txt	4

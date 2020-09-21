@@ -1,0 +1,4 @@
+info/aduna/io/IndentingWriter/writeEOL()
+org/openrdf/rio/trig/TriGWriter/closePreviousStatement()
+info/aduna/io/IndentingWriter/write(java.lang.String)
+org/openrdf/rio/trig/TriGWriter/writeResource(org.openrdf.model.Resource)

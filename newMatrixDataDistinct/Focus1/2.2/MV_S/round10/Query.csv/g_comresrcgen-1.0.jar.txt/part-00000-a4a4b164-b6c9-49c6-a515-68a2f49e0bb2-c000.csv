@@ -1,0 +1,4 @@
+com/sun/codemodel/JExpr/_new(com.sun.codemodel.JClass)
+java/util/Properties/get(java.lang.Object)
+com/sun/codemodel/JPackage/_class(int,java.lang.String)
+java/io/File/File(java.io.File,java.lang.String)

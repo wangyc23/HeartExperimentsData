@@ -1,0 +1,5 @@
+es/uam/eps/ir/ranksys/novelty/inverted/br/AlphaBayesRuleReranker/likelihood(org.ranksys.core.util.tuples.Tuple2od)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	1
+es/uam/eps/ir/ranksys/core/model/UserModel/getModel(U)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	2
+es/uam/eps/ir/ranksys/core/preference/SimplePreferenceData/numUsers()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+es/uam/eps/ir/ranksys/novelty/inverted/br/AlphaBayesRuleReranker/prior(I)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	0
+org/ranksys/compression/preferences/RatingCODECPreferenceData/ul(es.uam.eps.ir.ranksys.fast.preference.FastPreferenceData)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3

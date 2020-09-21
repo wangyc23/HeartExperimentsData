@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/asm/ClassWriter/newConstItem(java.lang.Object)@g_guice-bean-binders-2.3.0.jar.txt	1
+com/google/inject/assistedinject/FactoryProvider2/removeAssistedDeps(java.util.Set)@g_guice-bean-binders-2.3.0.jar.txt	0
+org/sonatype/guice/bean/binders/QualifiedTypeBinder/newInstance(java.lang.Class)@g_guice-bean-binders-2.3.0.jar.txt	4
+org/sonatype/guice/bean/scanners/QualifierCache/qualify(org.sonatype.guice.bean.reflect.ClassSpace,java.lang.String)@g_guice-bean-binders-2.3.0.jar.txt	3
+com/google/inject/assistedinject/FactoryProvider/1/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_guice-bean-binders-2.3.0.jar.txt	2

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/w3c/dom/NodeList/getLength()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

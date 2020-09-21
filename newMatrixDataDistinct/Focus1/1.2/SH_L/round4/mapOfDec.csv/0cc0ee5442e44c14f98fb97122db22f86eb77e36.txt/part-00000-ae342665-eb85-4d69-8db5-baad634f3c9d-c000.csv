@@ -1,0 +1,5 @@
+uk/ac/ic/wlgitbridge/snapshot/getforversion/SnapshotFile/toJson()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	3
+uk/ac/ic/wlgitbridge/snapshot/servermock/util/FileUtil/fileContentsEqual(java.nio.file.Path,java.nio.file.Path)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	2
+uk/ac/ic/wlgitbridge/util/Log/warn(java.lang.String)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	1
+uk/ac/ic/wlgitbridge/snapshot/getdoc/GetDocResult/getName()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	4
+org/wso2/jaggery/integration/tests/hostObjects/core/HttpClientTestCase/testHttpClientPut()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0

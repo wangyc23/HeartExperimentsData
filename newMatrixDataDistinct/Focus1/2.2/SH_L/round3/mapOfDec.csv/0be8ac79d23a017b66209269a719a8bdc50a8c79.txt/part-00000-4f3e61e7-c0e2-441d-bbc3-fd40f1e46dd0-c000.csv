@@ -1,0 +1,5 @@
+com/kijes/ela/common/ElaUser/toString()@054a71f9f03acb35779250cb2616cf53e05ed69b.txt	0
+com/kijes/ela/serial/command/Command/toSerialFormat()@054a71f9f03acb35779250cb2616cf53e05ed69b.txt	3
+com/kijes/ela/serial/command/Command/createFromString(java.lang.String)@054a71f9f03acb35779250cb2616cf53e05ed69b.txt	1
+com/kijes/ela/common/ElaStatus/toString()@054a71f9f03acb35779250cb2616cf53e05ed69b.txt	2
+org/efaps/esjp/sales/document/AbstractDocument_Base/getRevisionSequenceFieldValue(org.efaps.esjp.sales.document.Parameter,java.lang.String)@2df151a3924c5d31859899cd08a22946068ea1cd.txt	4

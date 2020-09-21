@@ -1,0 +1,4 @@
+org/apache/mahout/math/stats/OnlineSummarizer/getMean()
+org/apache/mahout/math/stats/OnlineSummarizer/getCount()
+org/apache/mahout/math/stats/OnlineSummarizer/getMedian()
+java/util/List/size()

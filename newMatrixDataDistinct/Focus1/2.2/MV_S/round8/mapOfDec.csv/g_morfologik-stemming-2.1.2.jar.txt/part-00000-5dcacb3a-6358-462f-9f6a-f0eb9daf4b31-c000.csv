@@ -1,0 +1,5 @@
+net/java/truecommons/shed/UriEncoder/encode(java.lang.String,net.java.truecommons.shed.UriEncoder$Encoding,java.lang.StringBuilder)@g_truecommons-shed-2.5.0.jar.txt	1
+morfologik/speller/Speller/getAllReplacements(java.lang.String,int,int)@g_morfologik-speller-1.10.0.jar.txt	4
+morfologik/speller/Speller/getFrequency(java.lang.CharSequence)@g_morfologik-speller-1.10.0.jar.txt	3
+morfologik/speller/Speller/findReplacements(java.lang.String)@g_morfologik-speller-1.10.0.jar.txt	2
+net/java/truecommons/shed/UriBuilder/getString()@g_truecommons-shed-2.5.0.jar.txt	0

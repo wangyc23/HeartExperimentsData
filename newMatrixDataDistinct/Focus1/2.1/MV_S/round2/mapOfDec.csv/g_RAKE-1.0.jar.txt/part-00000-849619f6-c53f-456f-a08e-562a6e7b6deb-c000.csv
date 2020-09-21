@@ -1,0 +1,5 @@
+org/apache/zookeeper/server/util/OSMXBean/getOpenFileDescriptorCount()@g_zookeeper-3.4.6.jar.txt	4
+org/apache/jute/compiler/JRecord/getCsharpNameSpace()@g_zookeeper-3.4.6.jar.txt	1
+be/frma/langguess/LangProfileReader/read(java.io.InputStream)@g_language-detector-0.5.jar.txt	0
+org/apache/jute/compiler/JRecord/genCppCode(java.io.FileWriter,java.io.FileWriter)@g_zookeeper-3.4.6.jar.txt	3
+org/apache/zookeeper/server/quorum/QuorumPeerConfig/parseProperties(java.util.Properties)@g_zookeeper-3.4.6.jar.txt	2

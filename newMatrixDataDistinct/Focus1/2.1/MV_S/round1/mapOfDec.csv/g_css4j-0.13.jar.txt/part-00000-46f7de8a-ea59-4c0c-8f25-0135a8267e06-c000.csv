@@ -1,0 +1,5 @@
+com/steadystate/css/parser/HandlerBase/warning(org.w3c.css.sac.CSSParseException)@g_flying-saucer-core-9.0.4.jar.txt	0
+org/xhtmlrenderer/util/IOUtil/openStreamAtUrl(java.lang.String)@g_flying-saucer-core-9.0.4.jar.txt	2
+org/xhtmlrenderer/css/parser/property/CounterPropertyBuilder/buildDeclarations(org.xhtmlrenderer.css.constants.CSSName,java.util.List,int,boolean,boolean)@g_flying-saucer-core-9.0.4.jar.txt	1
+org/xhtmlrenderer/css/style/derived/LengthValue/calcFloatProportionalValue(org.xhtmlrenderer.css.style.CalculatedStyle,org.xhtmlrenderer.css.constants.CSSName,java.lang.String,float,short,float,org.xhtmlrenderer.css.style.CssContext)@g_flying-saucer-core-9.0.4.jar.txt	4
+org/xhtmlrenderer/swing/UriResolver/resolve(java.lang.String)@g_flying-saucer-core-9.0.4.jar.txt	3

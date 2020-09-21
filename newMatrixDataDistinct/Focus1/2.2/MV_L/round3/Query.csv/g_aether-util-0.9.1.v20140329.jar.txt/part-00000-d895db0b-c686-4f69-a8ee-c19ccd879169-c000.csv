@@ -1,0 +1,4 @@
+org/eclipse/aether/repository/Proxy/Proxy(java.lang.String,java.lang.String,int,org.eclipse.aether.repository.Authentication)
+java/net/InetSocketAddress/getHostName()
+java/net/ProxySelector/getDefault()
+java/net/ProxySelector/select(java.net.URI)

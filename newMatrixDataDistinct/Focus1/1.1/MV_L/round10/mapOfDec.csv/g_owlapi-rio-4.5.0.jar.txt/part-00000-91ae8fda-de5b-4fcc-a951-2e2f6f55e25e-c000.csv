@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rio/RioTrixParserFactory/TrixParserImpl/parseDocumentSource(org.semanticweb.owlapi.io.OWLOntologyDocumentSource,java.lang.String,org.openrdf.rio.RDFHandler)@g_owlapi-rio-5.1.0.jar.txt	1
+org/semanticweb/owlapi/rio/OWLAPIRioTrixParser/parse(java.lang.Object)@g_owlapi-rio-5.1.0.jar.txt	4
+org/semanticweb/owlapi/rio/utils/RioUtils/tripleAsStatements(org.semanticweb.owlapi.io.RDFTriple,org.eclipse.rdf4j.model.Resource[])@g_owlapi-rio-5.1.0.jar.txt	3
+org/semanticweb/owlapi/rio/RioRenderer/writeNamespaces()@g_owlapi-rio-5.1.0.jar.txt	2
+org/semanticweb/owlapi/rio/RioParserImpl/RioParserRDFHandler/handleStatement(org.eclipse.rdf4j.model.Statement)@g_owlapi-rio-5.1.0.jar.txt	0

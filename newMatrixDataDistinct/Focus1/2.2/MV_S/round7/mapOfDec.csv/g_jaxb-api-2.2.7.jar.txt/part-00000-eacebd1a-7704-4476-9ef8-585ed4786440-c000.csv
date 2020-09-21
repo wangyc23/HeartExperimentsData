@@ -1,0 +1,5 @@
+org/jvnet/mimepull/UUDecoderStream/readPrefix()@g_mimepull-1.9.3.jar.txt	0
+org/jvnet/mimepull/FactoryFinder/findJarServiceProviderName(java.lang.String)@g_mimepull-1.9.3.jar.txt	4
+javax/xml/bind/JAXB/toResult(java.lang.Object)@g_mimepull-1.9.3.jar.txt	3
+javax/xml/bind/helpers/AbstractUnmarshallerImpl/unmarshal(java.io.File)@g_mimepull-1.9.3.jar.txt	1
+org/jvnet/mimepull/MIMEParser/MIMEEventIterator/next()@g_mimepull-1.9.3.jar.txt	2

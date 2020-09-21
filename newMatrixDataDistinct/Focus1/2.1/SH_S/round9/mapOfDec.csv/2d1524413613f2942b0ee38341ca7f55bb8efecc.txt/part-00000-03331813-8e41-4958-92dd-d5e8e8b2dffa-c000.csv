@@ -1,0 +1,5 @@
+ca/ulaval/ift/graal/pagerank/topk/TopKMapper/cleanup(org.apache.hadoop.mapreduce.Mapper.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	1
+ca/ulaval/ift/graal/pagerank/mapreduce/PagerankMapper/map(org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	2
+org/linkeddata/utils/QueryChunks/generateInsertChunks(java.lang.String,org.linkeddata.utils.Model,java.lang.String)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	4
+com/trigram/mapred/BookInputFormat/createRecordReader(org.apache.hadoop.mapreduce.InputSplit,org.apache.hadoop.mapreduce.TaskAttemptContext)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	3
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/generateUrls(java.util.List,java.util.List,int)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	0

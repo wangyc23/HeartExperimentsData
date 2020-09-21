@@ -1,0 +1,4 @@
+java/io/PrintStream/print(java.lang.String)
+java/lang/StringBuilder/append(int)
+org/eclipse/emf/ecore/xml/type/internal/RegEx$Match/getBeginning(int)
+java/lang/String/length()

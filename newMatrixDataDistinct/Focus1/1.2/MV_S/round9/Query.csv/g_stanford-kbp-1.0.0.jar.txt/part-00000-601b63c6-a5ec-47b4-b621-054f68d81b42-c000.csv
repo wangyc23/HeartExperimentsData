@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+edu/stanford/nlp/kbp/common/Props$4/4()

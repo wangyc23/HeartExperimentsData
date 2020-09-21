@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/semanticweb/owlapi/io/OWLParserFactory/createParser()
+java/lang/String/split(java.lang.String)
+org/semanticweb/owlapi/model/OWLOntologyManager/removeOntology(org.semanticweb.owlapi.model.OWLOntology)

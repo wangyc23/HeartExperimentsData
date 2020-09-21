@@ -1,0 +1,5 @@
+org/apache/ivy/core/search/SearchEngine/findModuleRevisionIds(org.apache.ivy.plugins.resolver.DependencyResolver,org.apache.ivy.core.module.id.ModuleRevisionId,org.apache.ivy.plugins.matcher.PatternMatcher)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/util/url/ApacheURLLister/retrieveListing(java.net.URL,boolean,boolean)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/module/descriptor/DefaultModuleDescriptor/addArtifact(java.lang.String,org.apache.ivy.core.module.descriptor.Artifact)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/plugins/resolver/CacheResolver/ensureConfigured()@g_ivy-2.3.0.jar.txt	4
+org/codehaus/plexus/component/discovery/AbstractComponentDiscoverer/findComponents(org.codehaus.plexus.context.Context,org.codehaus.classworlds.ClassRealm)@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	0

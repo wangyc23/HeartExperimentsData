@@ -1,0 +1,5 @@
+org/ibex/nestedvm/UnixRuntime/Pipe/Writer/write(byte[],int,int)@g_sqlite-jdbc-3.6.20.jar.txt	1
+org/ibex/nestedvm/UnixRuntime/_exited()@g_sqlite-jdbc-3.6.20.jar.txt	0
+org/ibex/nestedvm/Interpreter/sourceLine(int)@g_sqlite-jdbc-3.6.20.jar.txt	2
+org/apache/tools/ant/taskdefs/Checksum/validateAndExecute()@g_sqlite-jdbc-3.6.20.jar.txt	3
+org/ibex/nestedvm/util/Platform/Jdk11/_listRoots()@g_sqlite-jdbc-3.6.20.jar.txt	4

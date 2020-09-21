@@ -1,0 +1,4 @@
+com/xpn/xwiki/doc/XWikiDocument/isMinorEdit()
+com/xpn/xwiki/doc/XWikiDocument/getAttachmentList()
+java/util/Iterator/hasNext()
+com/xpn/xwiki/doc/XWikiDocument/getRenderedContent(com.xpn.xwiki.XWikiContext)

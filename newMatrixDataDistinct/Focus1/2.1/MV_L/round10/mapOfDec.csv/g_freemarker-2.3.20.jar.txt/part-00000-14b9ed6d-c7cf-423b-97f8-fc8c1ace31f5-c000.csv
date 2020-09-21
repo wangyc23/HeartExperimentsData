@@ -1,0 +1,5 @@
+freemarker/template/utility/StringUtil/FTLStringLiteralDec(java.lang.String)@g_freemarker-2.3.22.jar.txt	4
+freemarker/core/_CoreStringUtils/camelCaseToUnderscored(java.lang.String)@g_freemarker-2.3.22.jar.txt	3
+freemarker/template/utility/StringUtil/FTLStringLiteralEnc(java.lang.String,char,boolean)@g_freemarker-2.3.22.jar.txt	2
+freemarker/ext/xml/NodeListModel/get(java.lang.String)@g_freemarker-2.3.22.jar.txt	1
+freemarker/core/_ObjectBuilderSettingEvaluator/fetchNumberLike(boolean)@g_freemarker-2.3.22.jar.txt	0

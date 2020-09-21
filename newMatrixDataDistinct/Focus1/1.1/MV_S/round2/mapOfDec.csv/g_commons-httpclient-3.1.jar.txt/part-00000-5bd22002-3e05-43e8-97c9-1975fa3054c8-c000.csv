@@ -1,0 +1,5 @@
+org/springframework/util/ConcurrencyThrottleSupport/beforeAccess()@g_spring-2.5.6.jar.txt	4
+org/springframework/jdbc/core/metadata/GenericCallMetaDataProvider/processProcedureColumns(java.sql.DatabaseMetaData,java.lang.String,java.lang.String,java.lang.String)@g_spring-2.5.6.jar.txt	2
+org/springframework/orm/toplink/support/CommonsLoggingSessionLog904/log(oracle.toplink.sessions.SessionLogEntry)@g_spring-2.5.6.jar.txt	1
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/initializeWithMetaData(java.sql.DatabaseMetaData)@g_spring-2.5.6.jar.txt	3
+org/springframework/jdbc/core/metadata/Db2CallMetaDataProvider/initializeWithMetaData(java.sql.DatabaseMetaData)@g_spring-2.5.6.jar.txt	0

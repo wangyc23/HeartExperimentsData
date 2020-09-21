@@ -1,0 +1,4 @@
+java/awt/GradientPaint/getColor2()
+java/awt/geom/Rectangle2D/getMaxX()
+java/awt/geom/Rectangle2D/getMaxY()
+java/awt/geom/Rectangle2D/getCenterX()

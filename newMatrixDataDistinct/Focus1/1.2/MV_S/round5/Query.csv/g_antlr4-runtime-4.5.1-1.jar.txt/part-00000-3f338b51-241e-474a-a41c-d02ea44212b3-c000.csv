@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(int)
+java/lang/StackTraceElement/getLineNumber()
+java/lang/StringBuilder/StringBuilder()
+java/lang/StackTraceElement/getFileName()

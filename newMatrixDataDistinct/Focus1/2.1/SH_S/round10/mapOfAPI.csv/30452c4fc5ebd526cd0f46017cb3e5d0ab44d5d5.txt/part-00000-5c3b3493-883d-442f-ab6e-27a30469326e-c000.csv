@@ -1,0 +1,6 @@
+0	java/util/concurrent/BlockingQueue/put(E)
+1	java/io/BufferedReader/readLine()
+2	java/util/logging/Logger/log(java.util.logging.Level,java.lang.String,java.lang.Throwable)
+3	java/util/logging/Logger/getLogger(java.lang.String)
+4	java/lang/Class/getName()
+5	com/nulli/openam/plugins/MockPrincipal/MockPrincipal(java.lang.String)

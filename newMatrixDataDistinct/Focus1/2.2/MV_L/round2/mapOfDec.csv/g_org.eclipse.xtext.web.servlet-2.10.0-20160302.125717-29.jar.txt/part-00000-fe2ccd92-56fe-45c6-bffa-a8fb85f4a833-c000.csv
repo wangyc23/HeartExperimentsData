@@ -1,0 +1,5 @@
+org/eclipse/xtext/web/server/XtextServiceDispatcher/getInt(org.eclipse.xtext.web.server.IServiceContext,java.lang.String,com.google.common.base.Optional)@g_org.eclipse.xtext.web-2.10.0-SNAPSHOT.jar.txt	4
+org/eclipse/xtext/web/servlet/XtextServlet/doService(org.eclipse.xtext.web.server.XtextServiceDispatcher$ServiceDescriptor,javax.servlet.http.HttpServletResponse)@g_org.eclipse.xtext.web.servlet-2.10.0-SNAPSHOT.jar.txt	2
+org/eclipse/xtext/web/server/XtextServiceDispatcher/getBoolean(org.eclipse.xtext.web.server.IServiceContext,java.lang.String,com.google.common.base.Optional)@g_org.eclipse.xtext.web-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtext/web/servlet/XtextResourcesServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_org.eclipse.xtext.web.servlet-2.10.0-SNAPSHOT.jar.txt	0
+org/eclipse/xtext/web/servlet/HttpServiceContext/initializeParameters()@g_org.eclipse.xtext.web.servlet-2.10.0-SNAPSHOT.jar.txt	1

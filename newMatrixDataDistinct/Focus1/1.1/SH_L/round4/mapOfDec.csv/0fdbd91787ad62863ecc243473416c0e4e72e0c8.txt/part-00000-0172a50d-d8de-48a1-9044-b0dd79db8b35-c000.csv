@@ -1,0 +1,5 @@
+retrofit/mime/MultipartTypedOutput/MimePart/build()@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	2
+com/softwaremill/common/cdi/validation/PasswordValidator/isValid(java.lang.String,javax.validation.ConstraintValidatorContext)@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	0
+com/softwaremill/common/conf/ConfigurationTest/shouldReturnSystemPopertyOnNonExistingKey()@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	1
+com/softwaremill/common/util/dependency/D/inject(java.lang.Class,java.lang.annotation.Annotation[])@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	4
+retrofit/RestAdapterTest/observableCallsOnError()@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	3

@@ -1,0 +1,4 @@
+java/lang/Class/getConstructors()
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+java/lang/Object/equals(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)

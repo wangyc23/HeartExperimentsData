@@ -1,0 +1,4 @@
+org/apache/maven/model/Resource/setDirectory(java.lang.String)
+org/apache/maven/project/MavenProject/getBuild()
+org/eclipse/tycho/core/osgitools/OsgiManifest/getBundleSymbolicName()
+java/lang/StringBuilder/append(java.lang.String)

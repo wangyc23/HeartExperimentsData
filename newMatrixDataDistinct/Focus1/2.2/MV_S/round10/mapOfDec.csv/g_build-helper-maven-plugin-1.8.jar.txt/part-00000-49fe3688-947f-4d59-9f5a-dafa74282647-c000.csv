@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/InstallPluginsMojo/execute()@g_maven-eclipse-plugin-2.9.jar.txt	4
+org/apache/maven/plugin/eclipse/writers/rad/RadWebSettingsWriter/writeModuleTypeFacetCore(org.codehaus.plexus.util.xml.XMLWriter)@g_maven-eclipse-plugin-2.9.jar.txt	2
+org/apache/maven/plugin/eclipse/InstallPluginsMojo/install(org.apache.maven.artifact.Artifact,org.apache.maven.project.MavenProject)@g_maven-eclipse-plugin-2.9.jar.txt	1
+org/apache/maven/plugin/eclipse/writers/EclipseManifestWriter/getMetaInfBaseDirectory(org.apache.maven.project.MavenProject)@g_maven-eclipse-plugin-2.9.jar.txt	3
+org/apache/maven/plugin/eclipse/writers/EclipseClasspathWriter/addDependency(org.codehaus.plexus.util.xml.XMLWriter,org.apache.maven.plugin.ide.IdeDependency)@g_maven-eclipse-plugin-2.9.jar.txt	0

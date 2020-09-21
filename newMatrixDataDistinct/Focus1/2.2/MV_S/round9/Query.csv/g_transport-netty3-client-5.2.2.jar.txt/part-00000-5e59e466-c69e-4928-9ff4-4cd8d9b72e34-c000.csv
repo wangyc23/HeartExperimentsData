@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/elasticsearch/transport/netty3/Netty3Transport/bindServer(java.lang.String,org.elasticsearch.common.settings.Settings)
+org/elasticsearch/transport/netty3/Netty3Transport/buildProfileSettings()
+org/elasticsearch/transport/TcpTransport/doStart()

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/EclipsePlugin/extractResourceDirs(java.util.Set,java.util.List,java.io.File,java.io.File,boolean,java.lang.String)@g_maven-eclipse-plugin-2.9.jar.txt	3
+org/apache/maven/plugin/eclipse/EclipsePlugin/writeAdditionalConfig()@g_maven-eclipse-plugin-2.9.jar.txt	0
+org/apache/maven/plugin/eclipse/writers/rad/RadApplicationXMLWriter/createNewApplicationXml()@g_maven-eclipse-plugin-2.9.jar.txt	4
+org/apache/maven/plugin/eclipse/EclipsePlugin/setup()@g_maven-eclipse-plugin-2.9.jar.txt	1
+org/apache/maven/plugin/DefaultExtensionRealmCache/put(java.util.List,org.codehaus.plexus.classworlds.realm.ClassRealm,org.apache.maven.project.ExtensionDescriptor)@g_maven-eclipse-plugin-2.9.jar.txt	2

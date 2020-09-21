@@ -1,0 +1,4 @@
+org/glassfish/jersey/server/ContainerRequest/setWriter(org.glassfish.jersey.server.spi.ContainerResponseWriter)
+java/util/Iterator/hasNext()
+org/glassfish/jersey/grizzly2/httpserver/GrizzlyHttpContainer$ResponseWriter/ResponseWriter(org.glassfish.grizzly.http.server.Response,boolean)
+org/glassfish/grizzly/http/server/Request/getHeaderNames()

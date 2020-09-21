@@ -1,0 +1,4 @@
+java/io/BufferedReader/close()
+java/lang/Thread/currentThread()
+java/io/File/File(java.lang.String)
+java/lang/System/getProperty(java.lang.String)

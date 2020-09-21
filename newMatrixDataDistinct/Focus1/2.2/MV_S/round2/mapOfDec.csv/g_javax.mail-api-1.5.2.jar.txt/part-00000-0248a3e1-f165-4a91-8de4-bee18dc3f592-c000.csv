@@ -1,0 +1,5 @@
+javax/mail/URLName/decode(java.lang.String)@g_mail-1.4.1.jar.txt	0
+javax/mail/internet/InternetAddress/unquote(java.lang.String)@g_mail-1.4.1.jar.txt	4
+javax/mail/internet/MimeUtility/doEncode(java.lang.String,boolean,java.lang.String,int,java.lang.String,boolean,boolean,java.lang.StringBuffer)@g_mail-1.4.1.jar.txt	2
+javax/mail/URLName/decode(java.lang.String)@g_javax.mail.glassfish-1.4.1.v201005082020.jar.txt	1
+javax/mail/URLName/_encode(java.lang.String)@g_mail-1.4.1.jar.txt	3

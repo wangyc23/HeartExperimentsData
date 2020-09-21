@@ -1,0 +1,5 @@
+twitter4j/HttpParameter/containsFile(twitter4j.HttpParameter[])@099d27c4c6e7d11ebf755049b061e7b306c32dc6.txt	2
+twitter4j/SiteStreamsImpl/next(twitter4j.StatusListener)@099d27c4c6e7d11ebf755049b061e7b306c32dc6.txt	4
+twitter4j/UserJSONImplTest/testProfileImageURL()@099d27c4c6e7d11ebf755049b061e7b306c32dc6.txt	1
+twitter4j/auth/OAuthTest/testIllegalStatus()@099d27c4c6e7d11ebf755049b061e7b306c32dc6.txt	0
+twitter4j/UserJSONImpl/createUserList(twitter4j.JSONArray,twitter4j.HttpResponse,twitter4j.conf.Configuration)@099d27c4c6e7d11ebf755049b061e7b306c32dc6.txt	3

@@ -1,0 +1,4 @@
+org/w3c/dom/Node/getNodeValue()
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+org/w3c/dom/NamedNodeMap/getLength()
+org/w3c/dom/Node/getLocalName()

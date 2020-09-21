@@ -1,0 +1,5 @@
+edu/upc/eetac/dsa/secretsites/dao/PhotoDAOImpl/setPhotoRating(java.lang.String,java.lang.String,float)@146dcaaecbe9fbdb9d56c0f56a07d10cb9eb20ef.txt	3
+edu/upc/eetac/dsa/secretsites/dao/InterestPointDAOImpl/setInterestPointStatus(java.lang.String,java.lang.String,java.lang.String)@146dcaaecbe9fbdb9d56c0f56a07d10cb9eb20ef.txt	1
+edu/upc/eetac/dsa/secretsites/dao/CommentDAOImpl/getCommentById(java.lang.String)@146dcaaecbe9fbdb9d56c0f56a07d10cb9eb20ef.txt	4
+edu/upc/eetac/dsa/secretsites/dao/UserDAOImpl/createUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@146dcaaecbe9fbdb9d56c0f56a07d10cb9eb20ef.txt	2
+edu/upc/eetac/dsa/secretsites/dao/InterestPointDAOImpl/deleteInterestPointStatus(java.lang.String,java.lang.String)@146dcaaecbe9fbdb9d56c0f56a07d10cb9eb20ef.txt	0

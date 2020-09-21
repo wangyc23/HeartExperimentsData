@@ -1,0 +1,5 @@
+org/eclipse/xtext/xbase/parser/antlr/internal/InternalXbaseParser/ruleXWhileExpression()@g_org.eclipse.xtext.xbase-2.10.0-20160515.042315-72.jar.txt	4
+org/eclipse/xtext/xbase/parser/antlr/internal/InternalXbaseParser/ruleXClosure()@g_org.eclipse.xtext.xbase-2.10.0-20160515.042315-72.jar.txt	2
+org/eclipse/xtext/xbase/parser/antlr/internal/InternalXbaseParser/ruleXSynchronizedExpression()@g_org.eclipse.xtext.xbase-2.10.0-20160515.042315-72.jar.txt	3
+org/eclipse/xtext/xbase/parser/antlr/internal/InternalXbaseParser/ruleXAssignment()@g_org.eclipse.xtext.xbase-2.10.0-20160515.042315-72.jar.txt	1
+org/eclipse/xtext/xbase/parser/antlr/internal/InternalXbaseParser/ruleXUnaryOperation()@g_org.eclipse.xtext.xbase-2.10.0-20160515.042315-72.jar.txt	0

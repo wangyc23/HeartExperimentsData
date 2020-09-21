@@ -1,0 +1,5 @@
+at/mfpjn/workflow/aggregation/ReceiverJSPAggregationStrategy/aggregate(org.apache.camel.Exchange,org.apache.camel.Exchange)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	0
+uk/commonline/weather/geo/jaxrs/Ping/processRequest(uk.commonline.weather.geo.jaxrs.HttpServletRequest,uk.commonline.weather.geo.jaxrs.HttpServletResponse)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	2
+at/mfpjn/workflow/controller/HomeController/storeAccessToken(at.mfpjn.workflow.model.Customer,long,twitter4j.auth.AccessToken)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	3
+at/mfpjn/workflow/aggregation/ReceiverAggregationStrategy/aggregate(org.apache.camel.Exchange,org.apache.camel.Exchange)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	1
+at/mfpjn/workflow/controller/ErrorController/defaultErrorHandler(javax.servlet.http.HttpServletRequest,java.lang.Exception)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	4

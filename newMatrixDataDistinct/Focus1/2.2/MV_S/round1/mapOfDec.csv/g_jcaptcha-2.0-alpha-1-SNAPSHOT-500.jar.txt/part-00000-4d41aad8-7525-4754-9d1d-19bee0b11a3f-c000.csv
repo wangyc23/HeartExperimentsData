@@ -1,0 +1,5 @@
+com/jhlabs/image/ShatterFilter/filter(java.awt.image.BufferedImage,java.awt.image.BufferedImage)@g_filters-2.0.235.jar.txt	4
+com/jhlabs/image/TransformFilter/filter(java.awt.image.BufferedImage,java.awt.image.BufferedImage)@g_filters-2.0.235.jar.txt	1
+com/jhlabs/image/CurlFilter/filter(java.awt.image.BufferedImage,java.awt.image.BufferedImage)@g_filters-2.0.235.jar.txt	3
+com/jhlabs/image/WholeImageFilter/filter(java.awt.image.BufferedImage,java.awt.image.BufferedImage)@g_filters-2.0.235.jar.txt	0
+com/jhlabs/image/BorderFilter/filter(java.awt.image.BufferedImage,java.awt.image.BufferedImage)@g_filters-2.0.235.jar.txt	2

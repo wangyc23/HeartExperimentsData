@@ -1,0 +1,4 @@
+org/apache/commons/codec/language/bm/Rule$2/2(java.lang.String,java.lang.String,java.lang.String,org.apache.commons.codec.language.bm.Rule$PhonemeExpr,int,java.lang.String)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String,java.lang.Throwable)
+java/lang/String/split(java.lang.String)
+java/lang/StringBuilder/append(int)

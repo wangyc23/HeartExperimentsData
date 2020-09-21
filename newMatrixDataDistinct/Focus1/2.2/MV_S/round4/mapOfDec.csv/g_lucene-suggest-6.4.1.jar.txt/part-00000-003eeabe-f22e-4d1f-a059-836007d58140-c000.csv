@@ -1,0 +1,5 @@
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-6.0.0.jar.txt	2
+org/apache/lucene/search/TermAutomatonQuery/createWeight(org.apache.lucene.search.IndexSearcher,boolean)@g_lucene-sandbox-6.0.0.jar.txt	3
+org/apache/lucene/search/TermAutomatonQuery/TermAutomatonWeight/scorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/codecs/simpletext/SimpleTextSegmentInfoFormat/write(org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentInfo,org.apache.lucene.store.IOContext)@g_lucene-codecs-5.5.0.jar.txt	4
+org/apache/lucene/codecs/bloom/BloomFilteringPostingsFormat/BloomFilteredFieldsConsumer/close()@g_lucene-codecs-5.5.0.jar.txt	0

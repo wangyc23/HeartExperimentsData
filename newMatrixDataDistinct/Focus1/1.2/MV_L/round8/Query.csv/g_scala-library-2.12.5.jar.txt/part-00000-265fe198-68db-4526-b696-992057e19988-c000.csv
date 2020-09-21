@@ -1,0 +1,4 @@
+scala/collection/immutable/RedBlackTree$/updNth(scala.collection.immutable.RedBlackTree$Tree,int,java.lang.Object,java.lang.Object,boolean)
+scala/collection/immutable/RedBlackTree$Tree/right()
+scala/collection/immutable/RedBlackTree$Tree/key()
+scala/collection/immutable/RedBlackTree$/balanceLeft(boolean,java.lang.Object,java.lang.Object,scala.collection.immutable.RedBlackTree$Tree,scala.collection.immutable.RedBlackTree$Tree)

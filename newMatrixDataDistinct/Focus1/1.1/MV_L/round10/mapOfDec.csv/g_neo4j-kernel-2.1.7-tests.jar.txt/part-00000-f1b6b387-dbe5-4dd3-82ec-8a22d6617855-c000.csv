@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/nioneo/store/TestXa/testBrokenNodeCommand()@g_neo4j-kernel-2.1.6-tests.jar.txt	3
+org/neo4j/kernel/impl/nioneo/store/TestXa/testLogicalLogPrepared()@g_neo4j-kernel-2.1.6-tests.jar.txt	4
+org/neo4j/kernel/impl/nioneo/store/TestXa/testLogicalLogPreparedPropertyBlocks()@g_neo4j-kernel-2.1.6-tests.jar.txt	2
+org/neo4j/kernel/impl/nioneo/store/TestXa/testBrokenCommand()@g_neo4j-kernel-2.1.6-tests.jar.txt	0
+org/neo4j/kernel/impl/nioneo/store/TestXa/testBrokenPrepare()@g_neo4j-kernel-2.1.6-tests.jar.txt	1

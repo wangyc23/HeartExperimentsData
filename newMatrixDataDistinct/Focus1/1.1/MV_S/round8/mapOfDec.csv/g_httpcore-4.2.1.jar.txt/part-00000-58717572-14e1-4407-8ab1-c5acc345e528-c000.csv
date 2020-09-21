@@ -1,0 +1,5 @@
+javax/xml/stream/FactoryLocator/locate(java.lang.String,java.lang.String,java.lang.ClassLoader)@g_jaxrpc-api-1.1.jar.txt	4
+org/apache/http/protocol/UriPatternMatcher/lookup(java.lang.String)@g_jaxrpc-api-1.1.jar.txt	0
+org/apache/http/impl/io/AbstractSessionInputBuffer/appendDecoded(org.apache.http.util.CharArrayBuffer,java.nio.ByteBuffer)@g_jaxrpc-api-1.1.jar.txt	3
+org/apache/http/impl/io/AbstractSessionOutputBuffer/writeEncoded(java.nio.CharBuffer)@g_jaxrpc-api-1.1.jar.txt	1
+org/apache/http/util/VersionInfo/loadVersionInfo(java.lang.String,java.lang.ClassLoader)@g_jaxrpc-api-1.1.jar.txt	2

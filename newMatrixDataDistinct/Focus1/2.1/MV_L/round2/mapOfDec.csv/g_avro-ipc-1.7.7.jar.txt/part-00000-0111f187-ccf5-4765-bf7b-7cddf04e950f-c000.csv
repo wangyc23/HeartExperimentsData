@@ -1,0 +1,5 @@
+org/apache/avro/ipc/trace/TestTracingUtil/testListSampling()@g_avro-ipc-1.7.7-tests.jar.txt	0
+org/apache/avro/io/Perf/FooBarSpecificRecordTest/genSingleRecord(java.util.Random)@g_avro-ipc-1.7.7-tests.jar.txt	1
+org/apache/avro/generic/TestDeepCopy/testDeepCopy()@g_avro-ipc-1.7.7-tests.jar.txt	3
+org/apache/avro/specific/TestSpecificRecordBuilder/testManualBuildPerformance()@g_avro-ipc-1.7.7-tests.jar.txt	2
+org/apache/avro/ipc/trace/TestFileSpanStorage/testTonsOfSpans()@g_avro-ipc-1.7.7-tests.jar.txt	4

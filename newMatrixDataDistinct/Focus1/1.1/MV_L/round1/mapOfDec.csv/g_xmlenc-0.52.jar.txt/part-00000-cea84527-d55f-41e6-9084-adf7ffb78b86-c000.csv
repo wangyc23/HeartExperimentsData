@@ -1,0 +1,5 @@
+org/unbescape/java/JavaEscapeUtil/escape(char[],int,int,java.io.Writer,org.unbescape.java.JavaEscapeLevel)@g_unbescape-1.1.0.RELEASE.jar.txt	4
+org/unbescape/json/JsonEscapeUtil/escape(char[],int,int,java.io.Writer,org.unbescape.json.JsonEscapeType,org.unbescape.json.JsonEscapeLevel)@g_unbescape-1.1.0.RELEASE.jar.txt	1
+org/unbescape/properties/PropertiesKeyEscapeUtil/escape(char[],int,int,java.io.Writer,org.unbescape.properties.PropertiesKeyEscapeLevel)@g_unbescape-1.1.0.RELEASE.jar.txt	3
+org/unbescape/javascript/JavaScriptEscapeUtil/escape(char[],int,int,java.io.Writer,org.unbescape.javascript.JavaScriptEscapeType,org.unbescape.javascript.JavaScriptEscapeLevel)@g_unbescape-1.1.0.RELEASE.jar.txt	0
+org/unbescape/html/HtmlEscapeUtil/escape(char[],int,int,java.io.Writer,org.unbescape.html.HtmlEscapeType,org.unbescape.html.HtmlEscapeLevel)@g_unbescape-1.1.0.RELEASE.jar.txt	2

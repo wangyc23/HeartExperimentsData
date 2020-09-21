@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/QualifierCache/qualify(org.sonatype.guice.bean.reflect.ClassSpace,java.lang.String)@g_governator-core-1.10.4.jar.txt	3
+com/netflix/governator/guice/concurrent/ConcurrentProviders/1/create()@g_governator-core-1.10.4.jar.txt	0
+com/netflix/governator/guice/serviceloader/ServiceLoaderModule/ServiceBinderImpl/configure()@g_governator-core-1.10.4.jar.txt	4
+com/netflix/governator/guice/LoadersBootstrapModule/configure(com.netflix.governator.guice.BootstrapBinder)@g_governator-core-1.10.4.jar.txt	2
+com/netflix/governator/guice/ModulesEx/fromClass(java.lang.Class,boolean)@g_governator-core-1.10.4.jar.txt	1

@@ -1,0 +1,4 @@
+org/gagravarr/ogg/OggPacketReader/skipToGranulePosition(int,long)
+org/gagravarr/ogg/OggPacketReader/getNextPacket()
+org/gagravarr/ogg/OggFile/getPacketReader()
+org/gagravarr/ogg/OggPacket/getGranulePosition()

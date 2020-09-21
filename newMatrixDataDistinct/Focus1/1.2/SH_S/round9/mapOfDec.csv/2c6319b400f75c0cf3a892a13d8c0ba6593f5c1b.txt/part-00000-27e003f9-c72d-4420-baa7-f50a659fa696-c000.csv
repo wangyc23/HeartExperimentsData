@@ -1,0 +1,5 @@
+org/springside/examples/quickstart/functional/BaseFunctionalTestCase/buildDataSourceOnce()@0595196613f9786688516e6c79e2a23cbd37f5b1.txt	4
+org/ng12306/web/system/functional/gui/SecurityFT/anonymousUserAccessSystem()@0595196613f9786688516e6c79e2a23cbd37f5b1.txt	2
+org/springside/examples/quickstart/service/account/AccountService/deleteUser(java.lang.Long)@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	1
+org/springside/examples/quickstart/web/account/UserAdminController/getUser(java.lang.Long,org.springframework.ui.Model)@0595196613f9786688516e6c79e2a23cbd37f5b1.txt	3
+org/springside/examples/quickstart/service/task/TaskService/deleteTask(java.lang.Long)@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	0

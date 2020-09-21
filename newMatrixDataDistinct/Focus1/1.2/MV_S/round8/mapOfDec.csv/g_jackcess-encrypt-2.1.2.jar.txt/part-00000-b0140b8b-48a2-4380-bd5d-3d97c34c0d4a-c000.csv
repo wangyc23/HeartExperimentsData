@@ -1,0 +1,5 @@
+com/healthmarketscience/jackcess/impl/LongValueColumnImpl/readLongValue(byte[])@g_jackcess-2.1.8.jar.txt	3
+com/healthmarketscience/jackcess/impl/TableImpl/readColumnUsageMaps(java.nio.ByteBuffer)@g_jackcess-2.1.8.jar.txt	0
+com/healthmarketscience/jackcess/impl/TableImpl/createRow(java.lang.Object[],java.nio.ByteBuffer,int,java.util.Map)@g_jackcess-2.1.8.jar.txt	1
+com/healthmarketscience/jackcess/impl/PropertyMaps/Handler/read(byte[],int,com.healthmarketscience.jackcess.impl.RowIdImpl)@g_jackcess-2.1.8.jar.txt	2
+com/healthmarketscience/jackcess/impl/IndexPageCache/updateEntry(com.healthmarketscience.jackcess.impl.IndexPageCache$CacheDataPage,int,com.healthmarketscience.jackcess.impl.IndexData$Entry,com.healthmarketscience.jackcess.impl.IndexPageCache$UpdateType)@g_jackcess-2.1.8.jar.txt	4

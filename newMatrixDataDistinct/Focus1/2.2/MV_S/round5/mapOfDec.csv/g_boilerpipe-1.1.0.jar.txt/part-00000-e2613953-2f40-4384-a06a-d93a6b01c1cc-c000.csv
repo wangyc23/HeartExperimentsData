@@ -1,0 +1,5 @@
+org/semarglproject/xml/XmlUtils/isPrefixIgnorable(java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_hamcrest-core-1.1.jar.txt	0
+de/l3s/boilerpipe/sax/HTMLFetcher/fetch(java.net.URL)@g_hamcrest-core-1.1.jar.txt	3
+de/l3s/boilerpipe/document/TextBlock/mergeNext(de.l3s.boilerpipe.document.TextBlock)@g_hamcrest-core-1.1.jar.txt	2
+de/l3s/boilerpipe/sax/CommonTagActions/6/start(de.l3s.boilerpipe.sax.BoilerpipeHTMLContentHandler,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_hamcrest-core-1.1.jar.txt	4
+de/l3s/boilerpipe/sax/HTMLHighlighter/Implementation/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_hamcrest-core-1.1.jar.txt	1

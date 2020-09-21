@@ -1,0 +1,4 @@
+org/kie/api/runtime/manager/RuntimeEnvironmentBuilder/get()
+org/jbpm/services/task/identity/JBossUserGroupCallbackImpl/JBossUserGroupCallbackImpl(java.lang.String)
+javax/persistence/Persistence/createEntityManagerFactory(java.lang.String)
+org/jbpm/test/JBPMHelper/startH2Server()

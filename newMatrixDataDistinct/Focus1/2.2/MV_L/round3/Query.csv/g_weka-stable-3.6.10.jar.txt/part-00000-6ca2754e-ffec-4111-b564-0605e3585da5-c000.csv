@@ -1,0 +1,4 @@
+weka/classifiers/rules/Prism$PrismRule/notCoveredBy(weka.core.Instances)
+weka/classifiers/rules/Prism$Test/access$202(weka.classifiers.rules.Prism$Test,int)
+weka/classifiers/rules/Prism$PrismRule/PrismRule(weka.classifiers.rules.Prism,weka.core.Instances,int)
+java/util/Enumeration/hasMoreElements()

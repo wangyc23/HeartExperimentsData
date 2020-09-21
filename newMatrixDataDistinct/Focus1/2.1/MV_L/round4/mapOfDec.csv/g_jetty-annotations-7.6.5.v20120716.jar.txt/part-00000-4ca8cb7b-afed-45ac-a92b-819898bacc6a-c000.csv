@@ -1,0 +1,5 @@
+org/eclipse/jetty/plus/jaas/spi/LdapLoginModule/getUserRolesByDn(javax.naming.directory.DirContext,java.lang.String)@g_jetty-plus-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/annotations/AnnotationParser/parseJar(java.util.Set,org.eclipse.jetty.util.resource.Resource,org.eclipse.jetty.annotations.ClassNameResolver)@g_jetty-annotations-9.3.8.v20160314.jar.txt	0
+org/eclipse/jetty/annotations/AnnotationParser/parse(java.util.Set,org.eclipse.jetty.util.resource.Resource,org.eclipse.jetty.annotations.ClassNameResolver)@g_jetty-annotations-9.3.8.v20160314.jar.txt	1
+org/eclipse/jetty/annotations/AnnotationConfiguration/parseWebInfLib(org.eclipse.jetty.webapp.WebAppContext,org.eclipse.jetty.annotations.AnnotationParser)@g_jetty-annotations-9.3.8.v20160314.jar.txt	4
+org/eclipse/jetty/plus/webapp/EnvConfiguration/bindEnvEntries(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-plus-7.6.5.v20120716.jar.txt	3

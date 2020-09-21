@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/eclipse/ocl/AbstractEnvironment/getTypeResolver()
+org/eclipse/ocl/AbstractEnvironment/getUMLReflection()
+java/util/List/isEmpty()

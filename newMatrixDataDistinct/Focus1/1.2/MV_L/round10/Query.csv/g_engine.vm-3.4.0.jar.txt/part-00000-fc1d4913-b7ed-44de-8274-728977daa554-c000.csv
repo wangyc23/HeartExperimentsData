@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/eclipse/m2m/atl/common/ATLLogger/log(java.util.logging.Level,java.lang.String,java.lang.Throwable)
+java/util/Map/get(java.lang.Object)
+java/io/FileOutputStream/FileOutputStream(java.lang.String)

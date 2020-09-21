@@ -1,0 +1,5 @@
+org/xwiki/security/authorization/cache/internal/DefaultSecurityCacheLoader/getRules(org.xwiki.security.SecurityReference)@g_xwiki-platform-security-api-7.4.jar.txt	4
+org/xwiki/security/authorization/cache/internal/DefaultSecurityCache/SecurityCacheEntry/logNewEntry()@g_xwiki-platform-security-api-7.4.jar.txt	0
+org/xwiki/security/authorization/Right/getTargetedEntityType()@g_xwiki-platform-security-api-7.4.jar.txt	2
+org/xwiki/security/authorization/cache/internal/DefaultSecurityCache/SecurityCacheEntry/logNewEntry()@g_xwiki-platform-security-api-7.0.jar.txt	1
+org/xwiki/security/authorization/cache/internal/DefaultSecurityCache/getGroupsFor(org.xwiki.security.UserSecurityReference,org.xwiki.security.SecurityReference)@g_xwiki-platform-security-api-7.4.jar.txt	3

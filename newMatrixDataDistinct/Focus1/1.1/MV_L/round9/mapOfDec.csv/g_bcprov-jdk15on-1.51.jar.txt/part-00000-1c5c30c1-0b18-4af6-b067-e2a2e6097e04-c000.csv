@@ -1,0 +1,5 @@
+org/bouncycastle/jcajce/provider/symmetric/util/BaseStreamCipher/engineInit(int,java.security.Key,java.security.spec.AlgorithmParameterSpec,java.security.SecureRandom)@g_bcprov-jdk15on-1.53.jar.txt	3
+org/bouncycastle/pqc/math/linearalgebra/IntegerFunctions/ressol(java.math.BigInteger,java.math.BigInteger)@g_bcprov-jdk15on-1.53.jar.txt	2
+org/bouncycastle/jcajce/provider/symmetric/util/BaseWrapCipher/engineUnwrap(byte[],java.lang.String,int)@g_bcprov-jdk15on-1.53.jar.txt	1
+org/bouncycastle/jce/provider/RFC3281CertPathUtilities/processAttrCert7(org.bouncycastle.x509.X509AttributeCertificate,java.security.cert.CertPath,java.security.cert.CertPath,org.bouncycastle.jcajce.PKIXExtendedParameters,java.util.Set)@g_bcprov-jdk15on-1.53.jar.txt	4
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcprov-jdk15on-1.53.jar.txt	0

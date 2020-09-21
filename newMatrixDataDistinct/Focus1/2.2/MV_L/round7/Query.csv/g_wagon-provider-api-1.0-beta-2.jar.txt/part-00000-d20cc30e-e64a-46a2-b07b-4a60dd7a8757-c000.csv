@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/IOUtil/close(java.io.InputStream)
+java/io/File/getName()
+java/io/File/exists()
+java/lang/StringBuffer/toString()

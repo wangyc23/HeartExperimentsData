@@ -1,0 +1,4 @@
+org/wso2/carbon/rule/common/Input/setNameSpace(java.lang.String)
+org/wso2/carbon/rule/common/Fact/setNamespace(java.lang.String)
+org/wso2/carbon/rule/common/Operation/toOM()
+org/wso2/carbon/rule/common/Output/setWrapperElementName(java.lang.String)

@@ -1,0 +1,5 @@
+org/junit/internal/runners/MethodValidator/validateTestMethods(java.lang.Class,boolean)@g_junit-4.10.jar.txt	1
+org/junit/runners/model/MultipleFailureException/getMessage()@g_junit-4.11.jar.txt	4
+org/junit/runners/Parameterized/getParametersMethod(org.junit.runners.model.TestClass)@g_junit-4.10.jar.txt	2
+org/junit/runners/model/TestClass/getAnnotatedMethodValues(java.lang.Object,java.lang.Class,java.lang.Class)@g_junit-4.11.jar.txt	3
+org/junit/internal/runners/MethodValidator/validateTestMethods(java.lang.Class,boolean)@g_junit-4.11.jar.txt	0

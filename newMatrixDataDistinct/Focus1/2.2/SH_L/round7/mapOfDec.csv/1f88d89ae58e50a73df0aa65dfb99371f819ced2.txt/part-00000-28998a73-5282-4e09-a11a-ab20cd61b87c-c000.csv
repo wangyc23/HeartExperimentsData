@@ -1,0 +1,5 @@
+com/example/TimeseriesIndexService/getIt()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	3
+com/example/SampleStreamExample/runStaticTwitterStream(org.glassfish.jersey.server.ChunkedOutput,java.lang.String)@2419bc5b971bf64063be9d3c90dad3171f182854.txt	2
+shop/services/OrderResourceBean/addCancelHeader(javax.ws.rs.core.UriInfo,javax.ws.rs.core.Response.ResponseBuilder)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	4
+com/example/TimeseriesService/getIt()@2419bc5b971bf64063be9d3c90dad3171f182854.txt	0
+com/example/TimeseriesService/getItWithCount(java.lang.Integer)@2419bc5b971bf64063be9d3c90dad3171f182854.txt	1

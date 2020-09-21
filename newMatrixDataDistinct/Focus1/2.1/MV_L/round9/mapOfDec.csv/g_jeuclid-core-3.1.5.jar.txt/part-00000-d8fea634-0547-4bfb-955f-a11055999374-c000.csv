@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/font/FileSystemFontProvider/toDebugString()@g_pdfbox-2.0.8.jar.txt	2
+org/apache/pdfbox/pdfparser/COSParser/parseTrailer()@g_pdfbox-2.0.8.jar.txt	3
+org/apache/pdfbox/pdmodel/encryption/StandardSecurityHandler/validatePerms(org.apache.pdfbox.pdmodel.encryption.PDEncryption,int,boolean)@g_pdfbox-2.0.8.jar.txt	4
+org/apache/pdfbox/pdfparser/PDFStreamParser/parseNextToken()@g_pdfbox-2.0.8.jar.txt	0
+org/apache/pdfbox/pdfparser/COSParser/parseXrefTable(long)@g_pdfbox-2.0.8.jar.txt	1

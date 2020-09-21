@@ -1,0 +1,4 @@
+org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder/BCryptPasswordEncoder()
+java/lang/String/toLowerCase()
+study/models/User/User(java.lang.String,java.lang.String,java.lang.String)
+study/models/User/setPermission(study.models.User.Permissions)

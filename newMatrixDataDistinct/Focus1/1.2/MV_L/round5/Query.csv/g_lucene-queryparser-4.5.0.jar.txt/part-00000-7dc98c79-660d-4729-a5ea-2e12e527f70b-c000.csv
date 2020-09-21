@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.CharSequence)
+java/util/Iterator/hasNext()
+org/apache/lucene/queryparser/flexible/core/nodes/BooleanQueryNode/getChildren()
+org/apache/lucene/queryparser/flexible/core/nodes/BooleanQueryNode/isRoot()

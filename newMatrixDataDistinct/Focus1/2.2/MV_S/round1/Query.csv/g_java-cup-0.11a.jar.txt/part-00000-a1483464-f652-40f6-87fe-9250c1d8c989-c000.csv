@@ -1,0 +1,4 @@
+java_cup/lalr_item/dot_at_end()
+java_cup/lalr_item/the_production()
+java/lang/StringBuffer/append(int)
+java/lang/StringBuffer/append(java.lang.String)

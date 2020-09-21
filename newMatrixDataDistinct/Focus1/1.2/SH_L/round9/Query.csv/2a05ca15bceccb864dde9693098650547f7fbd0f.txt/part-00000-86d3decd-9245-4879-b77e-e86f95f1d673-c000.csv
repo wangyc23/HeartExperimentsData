@@ -1,0 +1,4 @@
+java/util/Map/Entry/getValue()
+java/lang/String/compareToIgnoreCase(java.lang.String)
+org/slurry/cache4guice/cache/util/Cache4GuiceHelperImpl/getCacheManager()
+java/util/Map/Entry/getKey()

@@ -1,0 +1,5 @@
+org/apache/catalina/webresources/AbstractArchiveResourceSet/list(java.lang.String)@g_morfologik-stemming-2.1.2.jar.txt	2
+org/apache/catalina/startup/Tomcat/getWebappConfigFileFromJar(java.io.File,java.lang.String)@g_morfologik-stemming-2.1.2.jar.txt	1
+org/apache/catalina/realm/JNDIRealm/addAttributeValues(java.lang.String,javax.naming.directory.Attributes,java.util.ArrayList)@g_morfologik-stemming-2.1.2.jar.txt	0
+org/apache/tomcat/util/net/SecureNio2Channel/write(java.nio.ByteBuffer[],int,int,long,java.util.concurrent.TimeUnit,java.lang.Object,java.nio.channels.CompletionHandler)@g_morfologik-stemming-2.1.2.jar.txt	4
+org/apache/catalina/connector/Response/doIsEncodeable(org.apache.catalina.connector.Request,org.apache.catalina.Session,java.lang.String)@g_morfologik-stemming-2.1.2.jar.txt	3

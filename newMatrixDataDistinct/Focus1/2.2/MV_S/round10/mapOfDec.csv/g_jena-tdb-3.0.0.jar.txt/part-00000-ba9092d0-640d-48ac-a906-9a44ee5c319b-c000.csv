@@ -1,0 +1,5 @@
+riotcmd/utf8/main(java.lang.String[])@g_jena-arq-3.0.0.jar.txt	1
+org/apache/jena/sparql/util/DateTimeStruct/_parseTime(org.apache.jena.sparql.util.DateTimeStruct,int,java.lang.String)@g_jena-arq-3.0.0.jar.txt	0
+org/apache/jena/atlas/json/io/parserjavacc/javacc/TokenMgrError/addEscapes(java.lang.String)@g_jena-arq-3.0.0.jar.txt	4
+org/apache/jena/sparql/sse/builders/BuilderPrefixMapping/build(org.apache.jena.shared.PrefixMapping,org.apache.jena.sparql.sse.Item)@g_jena-arq-3.0.0.jar.txt	3
+org/apache/jena/sparql/lang/sparql_11/TokenMgrError/addEscapes(java.lang.String)@g_jena-arq-3.0.0.jar.txt	2

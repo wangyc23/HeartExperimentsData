@@ -1,0 +1,5 @@
+org/springframework/data/convert/MappingContextTypeInformationMapper/safelyAddToCache(org.springframework.data.util.ClassTypeInformation,java.lang.Object)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	3
+org/springframework/data/projection/SpelEvaluatingMethodInterceptor/potentiallyCreateExpressionsForMethodsOnTargetInterface(org.springframework.expression.spel.standard.SpelExpressionParser,java.lang.Class)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	2
+org/springframework/data/repository/support/Repositories/cacheRepositoryFactory(java.lang.String)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	1
+org/springframework/data/mapping/PreferredConstructor/isConstructorParameter(org.springframework.data.mapping.PersistentProperty)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	4
+org/springframework/data/util/ClassTypeInformation/getTypeVariableMap(java.lang.Class,java.util.Collection)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	0

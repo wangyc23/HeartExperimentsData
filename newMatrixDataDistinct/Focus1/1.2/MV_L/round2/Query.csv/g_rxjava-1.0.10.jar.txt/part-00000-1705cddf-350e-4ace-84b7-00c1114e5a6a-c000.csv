@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/Throwable/initCause(java.lang.Throwable)
+java/util/Set/contains(java.lang.Object)
+java/lang/RuntimeException/RuntimeException(java.lang.String)

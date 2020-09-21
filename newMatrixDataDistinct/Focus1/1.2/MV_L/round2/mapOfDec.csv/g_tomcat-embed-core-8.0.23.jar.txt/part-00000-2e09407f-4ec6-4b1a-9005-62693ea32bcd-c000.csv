@@ -1,0 +1,5 @@
+org/apache/tomcat/util/net/NioBlockingSelector/BlockPoller/run()@g_tomcat-embed-core-8.0.28.jar.txt	2
+org/apache/tomcat/util/net/NioEndpoint/Poller/cancelledKey(java.nio.channels.SelectionKey,org.apache.tomcat.util.net.SocketStatus)@g_tomcat-embed-core-8.0.28.jar.txt	3
+org/apache/tomcat/util/net/NioBlockingSelector/BlockPoller/3/run()@g_tomcat-embed-core-8.0.26.jar.txt	1
+org/apache/tomcat/util/net/NioBlockingSelector/BlockPoller/3/run()@g_tomcat-embed-core-8.0.28.jar.txt	0
+org/apache/tomcat/util/net/NioBlockingSelector/BlockPoller/run()@g_tomcat-embed-core-8.0.26.jar.txt	4

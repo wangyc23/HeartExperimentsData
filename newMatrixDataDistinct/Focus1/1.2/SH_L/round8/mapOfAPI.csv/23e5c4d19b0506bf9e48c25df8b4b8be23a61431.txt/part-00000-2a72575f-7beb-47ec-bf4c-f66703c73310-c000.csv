@@ -1,0 +1,8 @@
+0	java/util/Arrays/asList(T[])
+1	java/lang/Math/sqrt(double)
+2	java/lang/Math/abs(int)
+3	java/util/List/isEmpty()
+4	dk/sst/snomedcave/model/Drug/getName()
+5	java/lang/String/format(java.lang.String,java.lang.Object[])
+6	java/lang/Math/abs(double)
+7	dk/sst/snomedcave/dao/DrugRepository/findByNameLike(java.lang.String)

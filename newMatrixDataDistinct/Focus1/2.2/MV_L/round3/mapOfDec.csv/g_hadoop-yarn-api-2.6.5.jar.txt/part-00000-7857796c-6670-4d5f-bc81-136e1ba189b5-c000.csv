@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/proto/YarnProtos/ContainerReportProto/Builder/buildPartial()@g_hadoop-yarn-api-2.6.0.jar.txt	0
+org/apache/hadoop/yarn/proto/YarnProtos/ResourceRequestProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.0.jar.txt	4
+org/apache/hadoop/yarn/proto/YarnProtos/NodeReportProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.0.jar.txt	2
+org/apache/hadoop/yarn/proto/YarnServiceProtos/ReservationSubmissionRequestProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.0.jar.txt	1
+org/apache/hadoop/yarn/proto/ApplicationHistoryServerProtos/ContainerHistoryDataProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.ApplicationHistoryServerProtos$ContainerHistoryDataProto)@g_hadoop-yarn-api-2.6.0.jar.txt	3

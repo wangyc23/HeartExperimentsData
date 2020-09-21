@@ -1,0 +1,5 @@
+org/openrdf/repository/http/HTTPRepositoryConnection/scheduleUpdate(org.openrdf.repository.http.HTTPUpdate)@g_sesame-repository-manager-2.7.9.jar.txt	4
+org/openrdf/repository/http/HTTPRepositoryConnection/add(java.net.URL,java.lang.String,org.openrdf.rio.RDFFormat,org.openrdf.model.Resource[])@g_sesame-repository-manager-2.7.9.jar.txt	2
+org/openrdf/repository/manager/RepositoryProvider/getRepositoryIdOfRepository(java.lang.String)@g_sesame-repository-manager-2.7.9.jar.txt	3
+org/openrdf/repository/manager/RemoteRepositoryManager/removeRepository(java.lang.String)@g_sesame-repository-manager-2.7.9.jar.txt	1
+org/openrdf/repository/manager/RepositoryProvider/normalize(java.lang.String)@g_sesame-repository-manager-2.7.9.jar.txt	0

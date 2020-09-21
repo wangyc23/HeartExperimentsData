@@ -1,0 +1,5 @@
+com/sun/jna/Function/convertArgument(java.lang.Object[],int,java.lang.reflect.Method,com.sun.jna.TypeMapper,boolean,java.lang.Class)@g_jna-4.1.0.jar.txt	4
+com/sun/jna/NativeLibrary/<clinit>()@g_jna-4.1.0.jar.txt	3
+morfologik/stemming/DictionaryLookup/lookup(java.lang.CharSequence)@g_morfologik-stemming-2.1.2.jar.txt	0
+com/sun/jna/Structure/toString(int,boolean,boolean)@g_jna-4.1.0.jar.txt	2
+morfologik/stemming/DictionaryIterator/next()@g_morfologik-stemming-2.1.2.jar.txt	1

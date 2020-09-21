@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/rendered/AbstractRed/init(java.util.List,java.awt.Rectangle,java.awt.image.ColorModel,java.awt.image.SampleModel,int,int,java.util.Map)@g_xmlgraphics-commons-1.5.jar.txt	2
+org/apache/xmlgraphics/image/loader/impl/PNGFile/getImageRawPNG(org.apache.xmlgraphics.image.loader.ImageInfo)@g_xmlgraphics-commons-1.5.jar.txt	0
+org/apache/xmlgraphics/image/GraphicsUtil/copyRaster(java.awt.image.Raster,int,int)@g_xmlgraphics-commons-1.5.jar.txt	3
+com/jhlabs/composite/MiscCompositeContext/compose(java.awt.image.Raster,java.awt.image.Raster,java.awt.image.WritableRaster)@g_filters-2.0.235.jar.txt	1
+org/apache/xmlgraphics/image/rendered/AbstractRed/copyBand(java.awt.image.Raster,int,java.awt.image.WritableRaster,int)@g_xmlgraphics-commons-1.5.jar.txt	4

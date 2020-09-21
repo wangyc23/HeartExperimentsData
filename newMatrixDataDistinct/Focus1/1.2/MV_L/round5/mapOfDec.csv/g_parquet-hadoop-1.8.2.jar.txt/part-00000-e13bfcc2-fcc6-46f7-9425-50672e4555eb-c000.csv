@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/task/reduce/MergeManagerImpl/OnDiskMerger/merge(java.util.List)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	1
+org/apache/hadoop/mapreduce/lib/input/FileInputFormat/getSplits(org.apache.hadoop.mapreduce.JobContext)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapreduce/task/reduce/MergeManagerImpl/finalMerge(org.apache.hadoop.mapred.JobConf,org.apache.hadoop.fs.FileSystem,java.util.List,java.util.List)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/mapred/Merger/MergeQueue/merge(java.lang.Class,java.lang.Class,int,int,org.apache.hadoop.fs.Path,org.apache.hadoop.mapred.Counters$Counter,org.apache.hadoop.mapred.Counters$Counter,org.apache.hadoop.util.Progress)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3
+org/apache/hadoop/mapreduce/task/reduce/MergeManagerImpl/OnDiskMerger/merge(java.util.List)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0

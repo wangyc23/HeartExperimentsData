@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/lang/String/toUpperCase()
+java/lang/String/length()
+java/lang/StringBuilder/StringBuilder()

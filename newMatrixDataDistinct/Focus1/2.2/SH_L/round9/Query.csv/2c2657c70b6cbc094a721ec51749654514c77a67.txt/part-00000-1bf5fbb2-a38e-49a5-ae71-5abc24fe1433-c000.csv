@@ -1,0 +1,4 @@
+com/rop/sample/request/LogonRequest/setUserName(java.lang.String)
+com/rop/client/DefaultRopClient/buildClientRequest()
+com/rop/client/CompositeResponse/getSuccessResponse()
+com/rop/sample/request/LogonRequest/setPassword(java.lang.String)

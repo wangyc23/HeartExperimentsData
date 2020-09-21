@@ -1,0 +1,5 @@
+org/apache/tomcat/util/net/SecureNioChannel/read(java.nio.ByteBuffer)@g_tomcat-embed-core-8.5.11.jar.txt	3
+org/apache/tomcat/util/net/SecureNioChannel/handshakeUnwrap(boolean)@g_tomcat-embed-core-8.5.11.jar.txt	1
+org/apache/tomcat/util/buf/B2CConverter/convert(org.apache.tomcat.util.buf.ByteChunk,org.apache.tomcat.util.buf.CharChunk,boolean)@g_tomcat-embed-core-8.5.11.jar.txt	0
+org/apache/tomcat/util/buf/C2BConverter/convert(org.apache.tomcat.util.buf.CharChunk,org.apache.tomcat.util.buf.ByteChunk)@g_tomcat-embed-core-8.5.11.jar.txt	4
+org/apache/tomcat/util/buf/C2BConverter/convert(java.nio.CharBuffer,java.nio.ByteBuffer)@g_tomcat-embed-core-8.5.11.jar.txt	2

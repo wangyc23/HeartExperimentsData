@@ -1,0 +1,5 @@
+info/informatica/io/ClassAssociation/useArgument(java.io.InputStream,java.net.URL,java.lang.String,java.lang.String)@g_jclf-2.3.0.jar.txt	2
+info/informatica/text/ExponentFormat/roundExpNumber(java.lang.Number)@g_jclf-2.3.0.jar.txt	3
+info/informatica/awt/ColorUtil/parseRGB(java.lang.String)@g_jclf-2.3.0.jar.txt	4
+com/github/fge/msgsimple/bundle/PropertiesBundle/createBundle(java.lang.String,java.nio.charset.Charset,long,java.util.concurrent.TimeUnit)@g_msg-simple-1.1.jar.txt	0
+com/github/fge/msgsimple/locale/LocaleUtils/parseLocale(java.lang.String)@g_msg-simple-1.1.jar.txt	1

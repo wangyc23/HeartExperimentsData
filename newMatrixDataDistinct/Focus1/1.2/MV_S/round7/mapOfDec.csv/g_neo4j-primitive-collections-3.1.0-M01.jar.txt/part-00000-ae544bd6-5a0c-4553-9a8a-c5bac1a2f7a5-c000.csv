@@ -1,0 +1,5 @@
+org/apache/lucene/index/IndexWriter/prepareCommitInternal()@g_lucene-core-7.0.0.jar.txt	3
+org/neo4j/collection/pool/LinkedQueuePool/acquire()@g_neo4j-primitive-collections-2.2.5.jar.txt	0
+org/apache/lucene/index/BufferedUpdates/addNumericUpdate(org.apache.lucene.index.DocValuesUpdate$NumericDocValuesUpdate,int)@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/index/IndexWriter/getReader(boolean,boolean)@g_lucene-core-7.0.0.jar.txt	1
+org/apache/lucene/index/BufferedUpdates/addBinaryUpdate(org.apache.lucene.index.DocValuesUpdate$BinaryDocValuesUpdate,int)@g_lucene-core-7.0.0.jar.txt	2

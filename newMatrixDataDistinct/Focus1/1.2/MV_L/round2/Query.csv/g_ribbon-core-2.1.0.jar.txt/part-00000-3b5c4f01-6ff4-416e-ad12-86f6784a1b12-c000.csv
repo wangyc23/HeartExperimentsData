@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/lang/String/replaceAll(java.lang.String,java.lang.String)
+org/apache/commons/configuration/AbstractConfiguration/getString(java.lang.String)
+com/netflix/config/ConfigurationManager/getConfigInstance()

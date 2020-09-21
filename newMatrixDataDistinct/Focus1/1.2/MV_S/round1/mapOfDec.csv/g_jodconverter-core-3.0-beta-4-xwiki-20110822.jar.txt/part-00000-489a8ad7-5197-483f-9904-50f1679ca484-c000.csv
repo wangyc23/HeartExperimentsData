@@ -1,0 +1,5 @@
+cc/mallet/grmm/inference/gbp/RegionGraph/computeCountingNumbers()@g_mallet-2.0.7.jar.txt	4
+cc/mallet/grmm/learning/ACRF/dumpOneGraph(cc.mallet.grmm.learning.ACRF$UnrolledGraph)@g_mallet-2.0.7.jar.txt	2
+cc/mallet/fst/semi_supervised/constraints/TwoLabelGEConstraints/preProcess(cc.mallet.types.InstanceList)@g_mallet-2.0.7.jar.txt	1
+cc/mallet/fst/semi_supervised/pr/CRFTrainerByPR/train(cc.mallet.types.InstanceList,int,int,int)@g_mallet-2.0.7.jar.txt	0
+cc/mallet/fst/semi_supervised/GELattice/runForward(cc.mallet.fst.CRF,java.util.ArrayList,java.util.ArrayList,double[][],double[][][],int[][],cc.mallet.types.FeatureVectorSequence)@g_mallet-2.0.7.jar.txt	3

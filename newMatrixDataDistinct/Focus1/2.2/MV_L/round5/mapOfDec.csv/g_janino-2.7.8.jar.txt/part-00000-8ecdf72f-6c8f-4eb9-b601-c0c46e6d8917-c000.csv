@@ -1,0 +1,5 @@
+org/springframework/asm/commons/Method/map(java.lang.String)@g_spring-asm-3.0.5.RELEASE.jar.txt	0
+org/codehaus/janino/tools/HprofScrubber/dumpSamples(org.codehaus.janino.tools.HprofScrubber$Sample[],java.util.Map)@g_spring-asm-3.0.5.RELEASE.jar.txt	4
+org/codehaus/janino/UnitCompiler/assignSyntheticParametersToSyntheticFields(org.codehaus.janino.Java$ConstructorDeclarator)@g_spring-asm-3.0.5.RELEASE.jar.txt	2
+org/codehaus/janino/UnitCompiler/findIMethod(org.codehaus.janino.Java$MethodInvocation)@g_spring-asm-3.0.5.RELEASE.jar.txt	3
+org/springframework/asm/commons/Method/map(java.lang.String)@g_spring-asm-3.1.3.RELEASE.jar.txt	1

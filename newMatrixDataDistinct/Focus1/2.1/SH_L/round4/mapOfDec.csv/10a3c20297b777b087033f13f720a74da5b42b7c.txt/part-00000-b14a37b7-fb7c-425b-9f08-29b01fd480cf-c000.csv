@@ -1,0 +1,5 @@
+br/com/ufra/rn/VistoriaRN/excluir(br.com.ufra.entidade.Vistoria)@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	4
+br/com/syspartenon/partenon/view/EntradaAgendaMB/visualizarEvento()@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	3
+com/sldg/erp/service/UsuarioService/autenticar(com.sldg.erp.model.Usuario)@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	1
+br/com/syspartenon/partenon/business/EnqueteBC/proximaDataInicioEnquete(br.com.syspartenon.partenon.domain.Evento)@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	0
+br/com/syspartenon/partenon/persistence/MovimentacaoDAO/findAll(br.com.syspartenon.partenon.domain.Evento)@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	2

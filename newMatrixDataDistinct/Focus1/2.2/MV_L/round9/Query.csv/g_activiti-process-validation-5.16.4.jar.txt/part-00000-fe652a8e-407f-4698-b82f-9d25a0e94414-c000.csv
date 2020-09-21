@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/activiti/bpmn/model/Operation/getId()
+java/util/Iterator/hasNext()
+org/activiti/bpmn/model/Interface/getOperations()

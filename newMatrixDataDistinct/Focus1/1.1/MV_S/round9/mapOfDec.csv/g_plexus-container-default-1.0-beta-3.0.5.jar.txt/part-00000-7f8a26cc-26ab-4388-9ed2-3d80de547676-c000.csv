@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/discovery/PlexusXmlComponentDiscoverer/discoverConfiguration(org.codehaus.plexus.context.Context,org.codehaus.plexus.classworlds.realm.ClassRealm)@g_plexus-container-default-1.5.5.jar.txt	3
+org/codehaus/plexus/component/collections/ComponentMap/getComponentMap()@g_plexus-container-default-1.5.5.jar.txt	1
+org/codehaus/plexus/ComponentDescriptorBeanModule/configure(com.google.inject.Binder)@g_plexus-container-default-1.5.5.jar.txt	4
+org/codehaus/plexus/component/collections/AbstractComponentCollection/checkUpdate()@g_plexus-container-default-1.5.5.jar.txt	2
+org/codehaus/plexus/DefaultComponentRegistry/lookupMap(java.lang.Class,java.lang.String,java.util.List)@g_plexus-container-default-1.5.5.jar.txt	0

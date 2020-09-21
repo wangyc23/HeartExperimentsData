@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/nndep/DependencyParser/loadModelFile(java.lang.String,boolean)@g_stanford-parser-3.5.2.jar.txt	1
+net/java/sen/filter/reading/NumberFilter/filterReadings(java.util.List,net.java.sen.filter.ReadingNode)@g_lucene-gosen-ipadic-1.2.1.jar.txt	4
+edu/stanford/nlp/international/arabic/Buckwalter/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	2
+net/java/sen/tools/CompoundWordTableCompiler/buildTable(java.io.BufferedReader,int,int,java.lang.String)@g_lucene-gosen-ipadic-1.2.1.jar.txt	3
+edu/stanford/nlp/parser/nndep/DependencyParser/setupClassifierForTraining(java.util.List,java.util.List,java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	0

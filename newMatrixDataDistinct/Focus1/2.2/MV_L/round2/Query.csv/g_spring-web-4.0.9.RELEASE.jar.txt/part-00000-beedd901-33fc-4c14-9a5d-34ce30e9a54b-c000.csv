@@ -1,0 +1,4 @@
+org/springframework/core/annotation/AnnotationUtils/findAnnotation(java.lang.Class,java.lang.Class)
+java/util/Iterator/hasNext()
+org/springframework/util/ReflectionUtils/doWithMethods(java.lang.Class,org.springframework.util.ReflectionUtils$MethodCallback,org.springframework.util.ReflectionUtils$MethodFilter)
+org/springframework/web/bind/annotation/support/HandlerMethodResolver$1/1(org.springframework.web.bind.annotation.support.HandlerMethodResolver,java.lang.Class)

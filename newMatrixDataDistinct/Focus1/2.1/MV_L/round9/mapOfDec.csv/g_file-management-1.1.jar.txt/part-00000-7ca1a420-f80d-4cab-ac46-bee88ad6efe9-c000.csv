@@ -1,0 +1,5 @@
+org/apache/maven/shared/model/fileset/io/xpp3/FileSetXpp3Reader/parseSetBase(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_file-management-1.2.1.jar.txt	1
+org/apache/maven/shared/model/fileset/io/xpp3/FileSetXpp3Reader/parseFileSet(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_file-management-1.2.1.jar.txt	0
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parsePluginContainer(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-model-2.0.9.jar.txt	3
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseResource(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-model-2.0.9.jar.txt	4
+org/apache/maven/shared/model/fileset/io/xpp3/FileSetXpp3Reader/parseMapper(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_file-management-1.2.1.jar.txt	2

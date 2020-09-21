@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/AbstractDependencyMojo/copyFile(java.io.File,java.io.File)@g_maven-dependency-plugin-2.2.jar.txt	2
+org/apache/maven/plugin/dependency/CopyDependenciesMojo/execute()@g_maven-dependency-plugin-2.2.jar.txt	3
+org/apache/maven/plugin/dependency/fromConfiguration/UnpackMojo/execute()@g_maven-dependency-plugin-2.2.jar.txt	0
+org/apache/maven/plugin/dependency/UnpackDependenciesMojo/execute()@g_maven-dependency-plugin-2.2.jar.txt	1
+org/apache/maven/plugin/dependency/fromConfiguration/UnpackMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	4

@@ -1,0 +1,4 @@
+org/eclipse/jetty/websocket/api/extensions/Frame/getOpCode()
+java/nio/ByteBuffer/flip()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)

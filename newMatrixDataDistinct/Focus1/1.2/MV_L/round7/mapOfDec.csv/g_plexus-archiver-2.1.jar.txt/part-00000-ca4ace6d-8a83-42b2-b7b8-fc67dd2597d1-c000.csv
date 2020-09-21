@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/AbstractArchiver/asResourceCollection(org.codehaus.plexus.archiver.ArchivedFileSet)@g_plexus-archiver-2.2.jar.txt	1
+org/codehaus/plexus/archiver/AbstractArchiver/asResourceCollection(org.codehaus.plexus.archiver.ArchivedFileSet)@g_plexus-archiver-2.1.1.jar.txt	0
+org/codehaus/plexus/archiver/AbstractArchiver/1/hasNext()@g_plexus-archiver-2.1.1.jar.txt	4
+org/codehaus/plexus/archiver/util/FilterSupport/include(java.io.InputStream,java.lang.String)@g_plexus-archiver-2.1.1.jar.txt	2
+org/codehaus/plexus/archiver/AbstractArchiver/isUptodate()@g_plexus-archiver-2.1.1.jar.txt	3

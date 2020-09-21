@@ -1,0 +1,5 @@
+org/semarglproject/rdf/RdfXmlParser/isAttrsValidForParseType(org.xml.sax.Attributes)@g_semargl-rdf-0.7.jar.txt	2
+org/semarglproject/rdf/RdfXmlParser/processPropertyAttrs(java.lang.String,org.xml.sax.Attributes)@g_semargl-rdf-0.7.jar.txt	1
+org/apache/jasper/compiler/Validator/DirectiveVisitor/visit(org.apache.jasper.compiler.Node$PageDirective)@g_jsp-2.1-glassfish-2.1.v20100127.jar.txt	3
+org/semarglproject/rdf/RdfXmlParser/processResourceAttrs(java.lang.String,org.xml.sax.Attributes)@g_semargl-rdf-0.7.jar.txt	0
+org/apache/jasper/compiler/Dumper/DumpVisitor/getAttributes(org.xml.sax.Attributes)@g_jsp-2.1-glassfish-2.1.v20100127.jar.txt	4

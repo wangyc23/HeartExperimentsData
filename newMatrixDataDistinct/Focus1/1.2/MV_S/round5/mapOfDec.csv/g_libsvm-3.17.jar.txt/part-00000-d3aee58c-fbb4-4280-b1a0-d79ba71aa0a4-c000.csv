@@ -1,0 +1,5 @@
+net/java/sen/compiler/DictionaryBuilder/createConnectionCostFile(java.lang.String,java.lang.String,short,java.lang.String)@g_lucene-gosen-ipadic-1.2.1.jar.txt	4
+net/java/sen/filter/stream/CompositeTokenFilter/readRules(java.io.BufferedReader)@g_lucene-gosen-ipadic-1.2.1.jar.txt	3
+net/java/sen/compiler/CostMatrixBuilder/build()@g_lucene-gosen-ipadic-1.2.1.jar.txt	1
+net/java/sen/compiler/CostMatrixBuilder/getIdList(java.lang.String[],boolean)@g_lucene-gosen-ipadic-1.2.1.jar.txt	0
+net/java/sen/filter/stream/CompoundWordFilter/postProcess(java.util.List)@g_lucene-gosen-ipadic-1.2.1.jar.txt	2

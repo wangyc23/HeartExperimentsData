@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/SubAnt/execute(java.io.File,java.io.File)@g_ant-1.9.3.jar.txt	4
+org/apache/tools/ant/taskdefs/LoadResource/execute()@g_ant-1.10.1.jar.txt	1
+org/apache/tools/ant/taskdefs/LoadResource/execute()@g_ant-1.9.3.jar.txt	0
+org/apache/tools/ant/taskdefs/cvslib/CvsTagDiff/writeTagDiff(org.apache.tools.ant.taskdefs.cvslib.CvsTagEntry[])@g_ant-1.9.3.jar.txt	2
+org/apache/tools/ant/taskdefs/Untar/expandFile(org.apache.tools.ant.util.FileUtils,java.io.File,java.io.File)@g_ant-1.9.3.jar.txt	3

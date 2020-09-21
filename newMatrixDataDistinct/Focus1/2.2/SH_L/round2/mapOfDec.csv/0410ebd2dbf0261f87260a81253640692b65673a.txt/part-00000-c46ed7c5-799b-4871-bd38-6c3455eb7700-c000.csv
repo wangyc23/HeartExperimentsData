@@ -1,0 +1,5 @@
+org/atmosphere/util/IntrospectionUtils/setProperty(java.lang.Object,java.lang.String)@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	2
+org/atmosphere/util/IntrospectionUtils/getProperty(java.lang.Object,java.lang.String)@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	1
+org/atmosphere/cpr/Action/equals(java.lang.Object)@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	4
+org/atmosphere/util/IntrospectionUtils/hasHook(java.lang.Object,java.lang.String)@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	0
+org/atmosphere/util/IntrospectionUtils/invokeProperty(java.lang.Object,java.lang.String,java.lang.String,java.lang.String)@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	3

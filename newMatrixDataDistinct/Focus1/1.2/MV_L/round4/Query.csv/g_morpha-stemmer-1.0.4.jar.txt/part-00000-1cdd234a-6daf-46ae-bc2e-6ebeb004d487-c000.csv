@@ -1,0 +1,4 @@
+java/lang/Character/toLowerCase(char)
+java/lang/Character/toUpperCase(char)
+java/lang/StringBuffer/toString()
+java/lang/Character/isLowerCase(char)

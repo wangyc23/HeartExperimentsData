@@ -1,0 +1,4 @@
+0	com/google/gwt/dom/client/Element/getParentNode()
+1	com/google/gwt/dom/client/ImageElement/getAlt()
+2	com/google/gwt/dom/client/ImageElement/setSrc(java.lang.String)
+3	com/google/gwt/core/client/GWT/getModuleBaseURL()

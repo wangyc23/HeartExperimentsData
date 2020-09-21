@@ -1,0 +1,5 @@
+edu/stanford/nlp/util/StringUtils/argsToPropertiesWithResolve(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/util/CollectionValuedMap/toString()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/stats/Distribution/simpleGoodTuring(edu.stanford.nlp.stats.Counter,int)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/semgraph/semgrex/Alignment/toString(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/metrics/UnlabeledAttachmentEval/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	1

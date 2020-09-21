@@ -1,0 +1,5 @@
+org/apache/http/config/SocketConfig/copy(org.apache.http.config.SocketConfig)@g_httpcore-4.4.3.jar.txt	4
+org/apache/http/impl/bootstrap/ServerBootstrap/create()@g_httpcore-4.4.4.jar.txt	2
+org/apache/http/entity/ContentType/withParameters(org.apache.http.NameValuePair[])@g_httpcore-4.4.4.jar.txt	3
+org/apache/http/impl/bootstrap/ServerBootstrap/create()@g_httpcore-4.4.3.jar.txt	0
+org/apache/http/entity/ContentType/withParameters(org.apache.http.NameValuePair[])@g_httpcore-4.4.3.jar.txt	1

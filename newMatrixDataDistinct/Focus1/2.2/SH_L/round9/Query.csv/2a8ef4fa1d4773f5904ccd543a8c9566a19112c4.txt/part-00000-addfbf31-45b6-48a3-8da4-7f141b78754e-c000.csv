@@ -1,0 +1,4 @@
+java/util/HashSet/contains(java.lang.Object)
+org/jdesktop/beansbinding/BeanProperty/create(java.lang.String)
+org/jdesktop/beansbinding/BeanProperty/getValue(S)
+java/util/HashSet/HashSet()

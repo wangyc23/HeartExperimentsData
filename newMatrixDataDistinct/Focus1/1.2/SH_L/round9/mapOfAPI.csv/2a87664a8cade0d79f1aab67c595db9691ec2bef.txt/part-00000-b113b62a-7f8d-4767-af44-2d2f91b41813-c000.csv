@@ -1,0 +1,4 @@
+0	org/wso2/msf4j/internal/router/SSLClientContext/getClientContext()
+1	java/net/HttpURLConnection/setRequestMethod(java.lang.String)
+2	java/net/URL/openConnection()
+3	java/net/URI/toURL()

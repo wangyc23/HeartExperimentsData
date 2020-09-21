@@ -1,0 +1,4 @@
+org/apache/tools/ant/taskdefs/Replace/getLocation()
+org/apache/tools/ant/taskdefs/Replace$FileOutput/flush()
+java/lang/StringBuilder/append(java.lang.String)
+java/io/File/exists()

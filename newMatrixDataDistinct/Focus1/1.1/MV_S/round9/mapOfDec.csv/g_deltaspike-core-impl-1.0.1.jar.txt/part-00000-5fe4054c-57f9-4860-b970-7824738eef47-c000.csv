@@ -1,0 +1,5 @@
+com/sun/faces/renderkit/html_basic/RadioRenderer/renderOption(javax.faces.context.FacesContext,javax.faces.component.UIComponent,javax.faces.convert.Converter,javax.faces.model.SelectItem,java.lang.Object,java.lang.Object[],boolean,int,com.sun.faces.renderkit.html_basic.HtmlBasicRenderer$OptionComponentInfo)@g_javax.faces-2.2.7.jar.txt	1
+javax/faces/component/UIComponentBase/getFacesListeners(java.lang.Class)@g_javax.faces-2.2.7.jar.txt	3
+javax/faces/convert/NumberConverter/getAsObject(javax.faces.context.FacesContext,javax.faces.component.UIComponent,java.lang.String)@g_javax.faces-2.2.7.jar.txt	4
+javax/faces/component/UIInput/updateModel(javax.faces.context.FacesContext)@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/el/CompositeComponentAttributesELResolver/getType(javax.el.ELContext,java.lang.Object,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	0

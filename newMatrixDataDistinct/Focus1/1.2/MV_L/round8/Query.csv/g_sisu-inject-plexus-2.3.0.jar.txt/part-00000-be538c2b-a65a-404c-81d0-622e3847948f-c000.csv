@@ -1,0 +1,4 @@
+org/codehaus/plexus/component/configurator/converters/composite/ArrayConverter/getClassForImplementationHint(java.lang.Class,org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.ClassLoader)
+org/codehaus/plexus/util/StringUtils/capitalizeFirstLetter(java.lang.String)
+java/lang/Class/getComponentType()
+java/lang/StringBuilder/append(java.lang.String)

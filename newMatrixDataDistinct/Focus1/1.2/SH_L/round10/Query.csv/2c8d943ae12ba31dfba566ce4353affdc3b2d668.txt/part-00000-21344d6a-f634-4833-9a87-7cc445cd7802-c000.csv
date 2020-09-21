@@ -1,0 +1,4 @@
+org/activiti/engine/delegate/DelegateExecution/getProcessInstanceId()
+org/activiti/engine/impl/context/Context/getCommandContext()
+org/activiti/engine/impl/persistence/entity/ExecutionEntity/getActivityId()
+org/activiti/engine/impl/persistence/entity/ExecutionEntity/getDeleteReason()

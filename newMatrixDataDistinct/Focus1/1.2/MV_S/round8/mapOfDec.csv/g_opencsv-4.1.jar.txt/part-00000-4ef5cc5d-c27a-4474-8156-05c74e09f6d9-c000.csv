@@ -1,0 +1,5 @@
+liquibase/dbdoc/HTMLWriter/writeChanges(java.lang.String,java.io.FileWriter,java.util.List)@g_liquibase-core-2.0.5.jar.txt	0
+net/didion/jwnl/dictionary/morph/DetachSuffixesOperation/execute(net.didion.jwnl.data.POS,java.lang.String,net.didion.jwnl.dictionary.morph.BaseFormSet)@g_jwnl-1.3.3.jar.txt	4
+liquibase/parser/core/formattedsql/FormattedSqlChangeLogParser/parseBoolean(java.util.regex.Matcher,liquibase.changelog.ChangeSet,boolean)@g_liquibase-core-2.0.5.jar.txt	2
+liquibase/integration/servlet/LiquibaseServletListener/contextInitialized(javax.servlet.ServletContextEvent)@g_liquibase-core-2.0.5.jar.txt	1
+liquibase/change/core/LoadUpdateDataChange/getWhereClause(liquibase.statement.core.InsertOrUpdateStatement,liquibase.database.Database)@g_liquibase-core-2.0.5.jar.txt	3

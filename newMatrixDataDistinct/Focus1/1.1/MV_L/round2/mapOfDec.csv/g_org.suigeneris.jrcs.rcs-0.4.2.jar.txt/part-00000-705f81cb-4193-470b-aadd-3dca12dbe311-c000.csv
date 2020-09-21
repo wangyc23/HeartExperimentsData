@@ -1,0 +1,5 @@
+org/apache/ivy/core/report/ConfigurationResolveReport/getArtifactsReports(org.apache.ivy.core.report.DownloadStatus,boolean)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/report/ResolveReport/getEvictedNodes()@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listTokenValues(org.apache.ivy.plugins.repository.Repository,java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/osgi/obr/xml/OBRXMLWriter/writeManifests(java.util.Iterator,org.xml.sax.ContentHandler,boolean)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/plugins/repository/sftp/SFTPRepository/resolveResource(java.lang.String)@g_ivy-2.3.0.jar.txt	2

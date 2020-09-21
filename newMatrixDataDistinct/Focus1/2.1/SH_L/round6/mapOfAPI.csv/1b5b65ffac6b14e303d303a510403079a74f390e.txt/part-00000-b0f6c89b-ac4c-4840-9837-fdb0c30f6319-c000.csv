@@ -1,0 +1,8 @@
+0	java/lang/Object/Object()
+1	ch/randelshofer/media/jpeg/CMYKJPEGImageReader/createNativeJPEGReader()
+2	javax/imageio/ImageReader/setInput(java.lang.Object)
+3	org/apache/camel/spit/parser/spitParser/end()
+4	javax/imageio/ImageReader/readRaster(int,javax.imageio.ImageReadParam)
+5	javax/imageio/ImageIO/createImageInputStream(java.lang.Object)
+6	com/adobe/acs/commons/util/PathInfoUtil/getLastSuffixSegment(com.adobe.acs.commons.analysis.jcrchecksum.impl.servlets.SlingHttpServletRequest)
+7	ch/randelshofer/media/jpeg/CMYKJPEGImageReader/createRGBAImageFromRGBA(java.awt.image.Raster,java.awt.color.ICC_Profile)

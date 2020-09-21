@@ -1,0 +1,4 @@
+javax/servlet/FilterChain/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse)
+org/neo4j/logging/Log/warn(java.lang.String,java.lang.Object[])
+org/neo4j/server/security/auth/AuthManager/authenticate(java.lang.String,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)

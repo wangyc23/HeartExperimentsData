@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+org/codehaus/jettison/mapped/MappedXMLStreamWriter$JSONPropertyString/getKey()
+java/lang/String/trim()
+org/codehaus/jettison/mapped/MappedXMLStreamWriter$JSONProperty/getValue()

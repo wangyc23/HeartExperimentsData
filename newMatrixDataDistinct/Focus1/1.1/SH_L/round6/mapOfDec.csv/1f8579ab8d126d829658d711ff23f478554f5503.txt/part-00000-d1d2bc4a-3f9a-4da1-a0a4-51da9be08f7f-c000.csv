@@ -1,0 +1,5 @@
+org/streaminer/util/hash/MurmurHash3/hash(long[])@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	1
+edu/indiana/soic/ts/streaming/dataflow/utils/SymbolEncoder/getSymbolIndex(java.lang.String)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	3
+org/streaminer/stream/membership/BloomFilterAltTest/testContains_GenericType()@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	4
+org/streaminer/stream/quantile/EnsembleQuantiles/getQuantile(double)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	2
+org/streaminer/stream/quantile/GKQuantiles/sortWorkingSet(java.util.List)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	0

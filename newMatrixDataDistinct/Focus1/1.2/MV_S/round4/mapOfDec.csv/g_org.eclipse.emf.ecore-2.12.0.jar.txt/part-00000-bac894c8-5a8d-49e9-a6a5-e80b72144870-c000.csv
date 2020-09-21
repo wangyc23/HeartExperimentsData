@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/util/EcoreValidator/validateEAttribute_ConsistentTransient(org.eclipse.emf.ecore.EAttribute,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-2.3.0-v200706262000.jar.txt	4
+org/eclipse/emf/ecore/util/FeatureMapUtil/EntryImpl/validate()@g_org.eclipse.emf.ecore-2.9.1.v20130827-0309.jar.txt	1
+org/eclipse/emf/ecore/util/FeatureMapUtil/EntryImpl/validate()@g_ecore-2.3.0-v200706262000.jar.txt	0
+org/eclipse/emf/ecore/impl/EStructuralFeatureImpl/BasicFeatureMapEntry/validate(java.lang.Object)@g_ecore-2.3.0-v200706262000.jar.txt	2
+org/eclipse/emf/ecore/impl/EStructuralFeatureImpl/BasicFeatureMapEntry/validate(java.lang.Object)@g_org.eclipse.emf.ecore-2.9.1.v20130827-0309.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/io/DirectoryScanner/scandir(java.io.File,java.lang.String,boolean)@g_surefire-api-2.17.jar.txt	3
+org/apache/maven/plugin/surefire/runorder/RunEntryStatisticsMap/getPrioritizedTests(java.util.List,java.util.Comparator)@g_surefire-api-2.17.jar.txt	4
+org/apache/maven/surefire/util/DefaultDirectoryScanner/processIncludesExcludes(java.util.List)@g_surefire-api-2.17.jar.txt	0
+org/apache/maven/surefire/SpecificTestClassFilter/accept(java.lang.Class)@g_surefire-api-2.17.jar.txt	2
+org/apache/maven/surefire/util/DefaultDirectoryScanner/processIncludesExcludes(java.util.List)@g_surefire-api-2.16.jar.txt	1

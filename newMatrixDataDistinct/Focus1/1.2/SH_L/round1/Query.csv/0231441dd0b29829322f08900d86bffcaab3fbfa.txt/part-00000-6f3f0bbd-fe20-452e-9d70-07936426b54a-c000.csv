@@ -1,0 +1,4 @@
+java/util/HashMap/put(K,V)
+java/util/Random/nextInt()
+org/apache/flink/stormcompatibility/wrappers/StormSpoutCollector/emit(java.lang.String,java.util.List,java.lang.Object)
+java/util/HashMap/HashMap()

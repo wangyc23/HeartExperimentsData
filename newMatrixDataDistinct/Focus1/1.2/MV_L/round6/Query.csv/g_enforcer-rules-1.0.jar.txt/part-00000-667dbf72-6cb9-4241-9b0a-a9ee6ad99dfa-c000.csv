@@ -1,0 +1,4 @@
+org/apache/maven/artifact/Artifact/isSnapshot()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/maven/enforcer/rule/api/EnforcerRuleException/EnforcerRuleException(java.lang.String)
+org/apache/maven/artifact/Artifact/getId()

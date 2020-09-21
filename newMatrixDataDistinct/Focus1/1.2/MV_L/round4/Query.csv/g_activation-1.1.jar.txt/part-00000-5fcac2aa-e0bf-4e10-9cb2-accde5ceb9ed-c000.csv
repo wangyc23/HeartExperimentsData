@@ -1,0 +1,4 @@
+java/util/Map/get(java.lang.Object)
+java/util/Set/iterator()
+java/util/List/add(java.lang.Object)
+java/lang/String/startsWith(java.lang.String)

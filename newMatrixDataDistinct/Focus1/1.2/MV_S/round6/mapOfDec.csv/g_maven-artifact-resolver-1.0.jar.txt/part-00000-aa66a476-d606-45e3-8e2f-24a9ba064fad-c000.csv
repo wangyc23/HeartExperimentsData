@@ -1,0 +1,5 @@
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/addPomWithAncestry(org.apache.maven.artifact.Artifact,java.util.List,org.apache.maven.artifact.repository.ArtifactRepository,org.apache.maven.artifact.repository.ArtifactRepository,java.util.Map,org.apache.maven.project.MavenProject)@g_maven-repository-builder-1.0-alpha-2.jar.txt	3
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/buildRepositoryFilter(org.apache.maven.shared.repository.model.RepositoryInfo,org.apache.maven.project.MavenProject)@g_maven-repository-builder-1.0-alpha-2.jar.txt	2
+org/apache/maven/archiver/MavenArchiver/getManifest(org.apache.maven.project.MavenProject,org.apache.maven.archiver.ManifestConfiguration,java.util.Map)@g_maven-archiver-2.2.jar.txt	0
+org/apache/maven/archiver/MavenArchiver/getManifest(org.apache.maven.project.MavenProject,org.apache.maven.archiver.MavenArchiveConfiguration)@g_maven-archiver-2.2.jar.txt	1
+org/apache/maven/shared/repository/DefaultRepositoryAssembler/getManagedVersionMap(org.apache.maven.project.MavenProject)@g_maven-repository-builder-1.0-alpha-2.jar.txt	4

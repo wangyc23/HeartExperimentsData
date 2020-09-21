@@ -1,0 +1,5 @@
+io/undertow/server/handlers/proxy/ProxyHandlerXForwardedForTestCase/testXForwardedSsl()@09a546f46ed58be5555260f83b37e7804915f084.txt	3
+io/undertow/servlet/test/streams/ServletInputStreamEarlyCloseClientSideTestCase/testServletInputStreamEarlyClose()@09a546f46ed58be5555260f83b37e7804915f084.txt	4
+io/undertow/server/handlers/BadRequestTestCase/testBadRequest()@09a546f46ed58be5555260f83b37e7804915f084.txt	1
+io/undertow/server/handlers/JDBCLogDatabaseTestCase/testSingleLogMessageToDatabase()@09a546f46ed58be5555260f83b37e7804915f084.txt	0
+io/undertow/server/handlers/accesslog/AccessLogFileTestCase/verifySingleLogMessageToFile(java.nio.file.Path,io.undertow.server.handlers.accesslog.DefaultAccessLogReceiver)@09a546f46ed58be5555260f83b37e7804915f084.txt	2

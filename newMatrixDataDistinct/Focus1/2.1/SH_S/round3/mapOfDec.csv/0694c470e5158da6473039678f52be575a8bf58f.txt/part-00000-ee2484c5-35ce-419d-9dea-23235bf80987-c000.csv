@@ -1,0 +1,5 @@
+com/sonal/flashcardapp/domain/FcUsers/hashCode()@2f8b7296fab8e44acbec1e360762c0d26d536306.txt	2
+com/sonal/flashcardapp/dao/jdbc/FcCardDaoJdbcImpl/deleteCard(int)@2f8b7296fab8e44acbec1e360762c0d26d536306.txt	4
+com/sonal/flashcardapp/services/CardService/deleteCard(int)@2f8b7296fab8e44acbec1e360762c0d26d536306.txt	1
+com/sonal/flashcardapp/dao/jdbc/FcUserDaoJdbcImpl/getUsersList()@2f8b7296fab8e44acbec1e360762c0d26d536306.txt	3
+yb/upc/edu/cn/component/CORSFilter/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain)@2f8b7296fab8e44acbec1e360762c0d26d536306.txt	0

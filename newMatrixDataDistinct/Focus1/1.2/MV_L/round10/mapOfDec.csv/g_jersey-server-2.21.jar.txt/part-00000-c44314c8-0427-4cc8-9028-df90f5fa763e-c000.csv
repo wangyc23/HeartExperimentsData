@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/model/ResourceMethodInvoker/addNameBoundProviders(java.util.Collection,org.glassfish.jersey.model.NameBound,javax.ws.rs.core.MultivaluedMap,javax.ws.rs.core.MultivaluedMap)@g_jersey-server-2.25.1.jar.txt	3
+org/glassfish/jersey/server/ApplicationHandler/filterNameBound(java.lang.Iterable,java.util.Collection,org.glassfish.jersey.model.internal.ComponentBag,java.util.Collection,javax.ws.rs.core.MultivaluedMap)@g_jersey-server-2.25.1.jar.txt	0
+org/glassfish/jersey/server/internal/inject/FormParamValueFactoryProvider/FormParamValueFactory/switchUrlEncoding(org.glassfish.jersey.server.ContainerRequest,javax.ws.rs.core.Form)@g_jersey-server-2.25.1.jar.txt	4
+org/glassfish/jersey/server/ApplicationHandler/filterNameBound(java.lang.Iterable,java.util.Collection,org.glassfish.jersey.model.internal.ComponentBag,java.util.Collection,javax.ws.rs.core.MultivaluedMap)@g_jersey-server-2.19.jar.txt	1
+org/glassfish/jersey/server/filter/EncodingFilter/filter(javax.ws.rs.container.ContainerRequestContext,javax.ws.rs.container.ContainerResponseContext)@g_jersey-server-2.25.1.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/font/PDType1AfmPfbFont/load(org.apache.pdfbox.pdmodel.PDDocument,java.io.InputStream,java.io.InputStream)@g_pdfbox-1.7.0.jar.txt	4
+org/apache/pdfbox/ExtractImages/processResources(org.apache.pdfbox.pdmodel.PDResources,java.lang.String,boolean)@g_pdfbox-1.7.0.jar.txt	3
+org/apache/pdfbox/pdfparser/NonSequentialPDFParser/parseObjectDynamically(int,int,boolean)@g_pdfbox-1.7.0.jar.txt	1
+org/apache/pdfbox/pdfparser/NonSequentialPDFParser/parseDictObjects(org.apache.pdfbox.cos.COSDictionary,org.apache.pdfbox.cos.COSName[])@g_pdfbox-1.7.0.jar.txt	2
+org/apache/pdfbox/pdmodel/font/PDType1CFont/load()@g_pdfbox-1.7.0.jar.txt	0

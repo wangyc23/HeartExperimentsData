@@ -1,0 +1,5 @@
+org/hibernate/ejb/AbstractEntityManagerImpl/joinTransaction(boolean)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	2
+org/hibernate/ejb/Ejb3Configuration/prepareProperties(java.util.Properties,java.util.Map)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	3
+org/hibernate/ejb/packaging/ExplodedJarVisitor/doProcessElements()@g_hibernate-entitymanager-3.5.5-Final.jar.txt	0
+org/hibernate/ejb/packaging/ExplodedJarVisitor/doProcessElements()@g_hibernate-entitymanager-3.6.10.Final.jar.txt	4
+org/hibernate/ejb/Ejb3Configuration/configure(java.util.Properties,java.util.Map)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	1

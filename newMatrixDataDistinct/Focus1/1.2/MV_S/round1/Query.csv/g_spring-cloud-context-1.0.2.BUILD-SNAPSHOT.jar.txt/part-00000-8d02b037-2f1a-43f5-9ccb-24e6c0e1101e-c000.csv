@@ -1,0 +1,4 @@
+org/springframework/util/ResourceUtils/getURL(java.lang.String)
+org/springframework/core/env/ConfigurableEnvironment/resolvePlaceholders(java.lang.String)
+org/springframework/boot/logging/LoggingSystem/get(java.lang.ClassLoader)
+org/apache/commons/logging/Log/warn(java.lang.Object)

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/nio/CharBuffer/wrap(java.lang.CharSequence)
+java/nio/CharBuffer/limit(int)
+java/lang/String/isEmpty()

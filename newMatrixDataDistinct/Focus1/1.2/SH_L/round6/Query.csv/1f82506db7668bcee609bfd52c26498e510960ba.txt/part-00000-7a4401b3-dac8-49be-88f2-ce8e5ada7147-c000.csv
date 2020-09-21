@@ -1,0 +1,4 @@
+org/springframework/data/neo4j/support/mapping/StoredEntityType/getAlias()
+org/springframework/data/neo4j/support/typerepresentation/AbstractIndexingTypeRepresentationStrategy/readAliasFrom(S)
+org/springframework/data/neo4j/support/Neo4jTemplate/getStoredJavaType(java.lang.Object)
+org/springframework/data/neo4j/aspects/support/typerepresentation/IndexingRelationshipTypeRepresentationStrategyTest/rel(org.springframework.data.neo4j.aspects.support.typerepresentation.IndexingRelationshipTypeRepresentationStrategyTest.Link)

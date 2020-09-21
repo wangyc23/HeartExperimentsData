@@ -1,0 +1,5 @@
+com/sun/jersey/server/impl/modelapi/validation/BasicValidator/visitAbstractResourceMethod(com.sun.jersey.api.model.AbstractResourceMethod)@g_jersey-server-1.13.jar.txt	4
+com/sun/jersey/api/container/ContainerFactory/createContainer(java.lang.Class,com.sun.jersey.api.core.ResourceConfig,com.sun.jersey.core.spi.component.ioc.IoCComponentProviderFactory)@g_jersey-server-1.13.jar.txt	2
+com/sun/jersey/api/container/filter/GZIPContentEncodingFilter/filter(com.sun.jersey.spi.container.ContainerRequest)@g_jersey-server-1.13.jar.txt	3
+com/sun/jersey/api/container/filter/ResourceDebuggingFilterFactory/SubResourceLocatorFilter/filter(com.sun.jersey.spi.container.ContainerRequest)@g_jersey-server-1.13.jar.txt	1
+com/sun/jersey/server/impl/component/ResourceFactory/getComponentProviderFactory(java.lang.Class)@g_jersey-server-1.13.jar.txt	0

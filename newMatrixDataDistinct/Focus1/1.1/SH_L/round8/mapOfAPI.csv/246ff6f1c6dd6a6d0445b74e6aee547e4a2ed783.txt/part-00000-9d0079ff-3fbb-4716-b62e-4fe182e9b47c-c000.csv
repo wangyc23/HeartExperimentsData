@@ -1,0 +1,4 @@
+0	org/raml/jaxrs/generator/utils/RamlV10/withV10(java.lang.Object,java.lang.String)
+1	java/net/URL/toString()
+2	java/io/PrintStream/println(char[])
+3	java/net/URL/URL(java.net.URL,java.lang.String)

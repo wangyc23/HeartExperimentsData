@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/buildIndices()@g_owlapi-tools-4.5.0.jar.txt	4
+com/clarkparsia/owlapi/explanation/io/ConciseExplanationRenderer/renderSingleExplanation(java.lang.String,java.util.Set)@g_owlapi-tools-4.5.0.jar.txt	3
+org/semanticweb/owlapi/metrics/HiddenGCICount/recomputeMetric()@g_owlapi-tools-4.5.0.jar.txt	1
+org/semanticweb/owlapi/metrics/NumberOfClassesWithMultipleInheritance/recomputeMetric()@g_owlapi-tools-4.5.0.jar.txt	2
+uk/ac/manchester/cs/owlapi/modularity/SyntacticLocalityModuleExtractor/extractAsOntology(java.util.Set,org.semanticweb.owlapi.model.IRI,int,int,org.semanticweb.owlapi.reasoner.OWLReasoner,boolean)@g_owlapi-tools-4.5.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/eclipse/jetty/io/nio/DirectNIOBuffer/readFrom(java.io.InputStream,int)@g_jetty-io-7.4.4.v20110707.jar.txt	3
+org/eclipse/jetty/io/nio/DirectNIOBuffer/readFrom(java.io.InputStream,int)@g_jetty-io-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/io/nio/SslConnection/unwrap(org.eclipse.jetty.io.Buffer)@g_jetty-io-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/io/nio/DirectNIOBuffer/writeTo(java.io.OutputStream)@g_jetty-io-7.4.4.v20110707.jar.txt	1
+org/eclipse/jetty/io/nio/DirectNIOBuffer/writeTo(java.io.OutputStream)@g_jetty-io-7.6.5.v20120716.jar.txt	0

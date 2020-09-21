@@ -1,0 +1,4 @@
+org/eclipse/emf/common/util/TreeIterator/next()
+java/util/Iterator/hasNext()
+com/google/common/collect/Lists/newArrayList()
+com/google/common/collect/Sets/newHashSet()

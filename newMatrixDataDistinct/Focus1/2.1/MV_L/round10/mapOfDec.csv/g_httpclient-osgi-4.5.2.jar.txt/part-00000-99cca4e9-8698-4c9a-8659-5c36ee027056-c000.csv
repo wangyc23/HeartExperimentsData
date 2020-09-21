@@ -1,0 +1,5 @@
+org/apache/http/impl/client/DefaultConnectionKeepAliveStrategy/getKeepAliveDuration(org.apache.http.HttpResponse,org.apache.http.protocol.HttpContext)@g_httpclient-osgi-4.5.3.jar.txt	3
+org/apache/http/impl/conn/DefaultClientConnectionOperator/openConnection(org.apache.http.conn.OperatedClientConnection,org.apache.http.HttpHost,java.net.InetAddress,org.apache.http.protocol.HttpContext,org.apache.http.params.HttpParams)@g_httpclient-osgi-4.5.3.jar.txt	1
+org/apache/http/impl/cookie/RFC2965Spec/createCookies(org.apache.http.HeaderElement[],org.apache.http.cookie.CookieOrigin)@g_httpclient-osgi-4.5.3.jar.txt	4
+org/apache/http/impl/client/cache/ConditionalRequestBuilder/buildConditionalRequestFromVariants(org.apache.http.client.methods.HttpRequestWrapper,java.util.Map)@g_httpclient-osgi-4.5.3.jar.txt	0
+org/apache/http/client/protocol/ResponseProcessCookies/processCookies(org.apache.http.HeaderIterator,org.apache.http.cookie.CookieSpec,org.apache.http.cookie.CookieOrigin,org.apache.http.client.CookieStore)@g_httpclient-osgi-4.5.3.jar.txt	2

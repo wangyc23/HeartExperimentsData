@@ -1,0 +1,5 @@
+org/apache/felix/bundleplugin/BundleAllPlugin/getBuiltFile(org.apache.maven.artifact.Artifact)@g_bndlib-2.3.0.jar.txt	3
+aQute/configurable/Configurable/ConfigurableHandler/convert(java.lang.reflect.Type,java.lang.Object)@g_bndlib-2.3.0.jar.txt	4
+aQute/bnd/build/Project/getBundles(aQute.bnd.service.Strategy,java.lang.String,java.lang.String)@g_bndlib-2.3.0.jar.txt	2
+aQute/bnd/make/coverage/CoverageResource/doMethod(aQute.lib.tag.Tag,aQute.bnd.osgi.Clazz$MethodDef)@g_bndlib-2.3.0.jar.txt	1
+org/apache/felix/obrplugin/ObrInstallFile/execute()@g_bndlib-2.3.0.jar.txt	0

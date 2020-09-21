@@ -1,0 +1,4 @@
+com/digitalpetri/opcua/stack/core/serialization/xml/XmlDecoder/decodeDiagnosticInfo(java.lang.String)
+com/digitalpetri/opcua/stack/core/serialization/xml/XmlDecoder/decodeExpandedNodeId(java.lang.String)
+com/digitalpetri/opcua/stack/core/serialization/xml/XmlDecoder/decodeUInt64(java.lang.String)
+com/digitalpetri/opcua/stack/core/serialization/xml/XmlDecoder/decodeInt64(java.lang.String)

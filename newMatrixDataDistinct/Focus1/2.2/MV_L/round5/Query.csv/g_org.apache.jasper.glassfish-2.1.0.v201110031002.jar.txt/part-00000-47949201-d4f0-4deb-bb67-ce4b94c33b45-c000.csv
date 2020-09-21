@@ -1,0 +1,4 @@
+org/apache/jasper/compiler/ELParser$Token/toString()
+org/apache/jasper/compiler/ELParser$Token/toChar()
+org/apache/jasper/compiler/ELNode$Nodes/add(org.apache.jasper.compiler.ELNode)
+java/lang/StringBuffer/length()

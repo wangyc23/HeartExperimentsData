@@ -1,0 +1,5 @@
+weka/gui/beans/Classifier/handleIncrementalEvent()@g_weka-dev-3.9.1.jar.txt	4
+weka/gui/knowledgeflow/steps/SubstringReplacerStepEditorDialog/layoutEditor()@g_weka-dev-3.9.1.jar.txt	0
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_weka-dev-3.9.1.jar.txt	1
+weka/core/pmml/Discretize/setUpField()@g_weka-dev-3.9.1.jar.txt	3
+weka/datagenerators/classifiers/classification/RDG1/RuleList/toString()@g_weka-dev-3.9.1.jar.txt	2

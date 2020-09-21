@@ -1,0 +1,4 @@
+java/util/zip/Inflater/finished()
+java/lang/StringBuilder/append(boolean)
+java/lang/StringBuilder/StringBuilder()
+java/util/zip/Inflater/needsDictionary()

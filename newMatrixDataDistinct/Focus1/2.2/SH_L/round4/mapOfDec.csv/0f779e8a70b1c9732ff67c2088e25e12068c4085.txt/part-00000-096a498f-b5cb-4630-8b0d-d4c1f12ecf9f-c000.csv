@@ -1,0 +1,5 @@
+se/unlogic/standardutils/populators/TimeStampPopulator/getValue(java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+org/jboss/resteasy/test/async/ComprehensiveJaxrsTest/cancelDateTest()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+Acme/Serve/Serve/ServeConnection/writeHeaders()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+org/jboss/resteasy/security/doseta/DKIMSignature/setTimestamp()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+org/jboss/resteasy/test/nextgen/resource/ResponseTest/DateReaderWriter/writeTo(java.util.Date,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.OutputStream)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0

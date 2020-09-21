@@ -1,0 +1,5 @@
+org/eclipse/sisu/plexus/binders/PlexusXmlBeanModule/configure(com.google.inject.Binder)@g_org.eclipse.sisu.plexus-0.0.0.M2a.jar.txt	1
+org/sonatype/guice/plexus/binders/PlexusXmlBeanModule/configure(com.google.inject.Binder)@g_sisu-inject-plexus-2.1.1.jar.txt	0
+org/sonatype/guice/plexus/converters/PlexusXmlBeanConverter/parseBean(org.codehaus.plexus.util.xml.pull.MXParser,com.google.inject.TypeLiteral,java.lang.Class)@g_sisu-inject-plexus-2.1.1.jar.txt	4
+org/eclipse/sisu/plexus/scanners/PlexusTypeRegistry/getComponents()@g_org.eclipse.sisu.plexus-0.0.0.M2a.jar.txt	3
+org/sonatype/guice/plexus/scanners/PlexusTypeRegistry/getComponents()@g_sisu-inject-plexus-2.1.1.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/jute/compiler/CppGenerator/genCode()@g_zookeeper-3.4.6.jar.txt	4
+org/apache/jute/compiler/JRecord/genJavaCode(java.io.File)@g_zookeeper-3.4.6.jar.txt	2
+org/apache/jute/compiler/JRecord/genCppCode(java.io.FileWriter,java.io.FileWriter)@g_zookeeper-3.4.6.jar.txt	0
+org/apache/zookeeper/server/NIOServerCnxnFactory/run()@g_zookeeper-3.4.6.jar.txt	3
+org/apache/jute/compiler/JRecord/genCsharpCode(java.io.File)@g_zookeeper-3.4.6.jar.txt	1

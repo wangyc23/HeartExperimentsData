@@ -1,0 +1,5 @@
+org/neo4j/cypher/ExecutionEngine/createCorrectParser()@g_neo4j-cypher-1.8.jar.txt	1
+org/neo4j/cypher/SyntaxException/toString()@g_neo4j-cypher-1.8.jar.txt	0
+org/neo4j/cypher/internal/pipes/SlicePipe/createResults(org.neo4j.cypher.internal.pipes.QueryState)@g_neo4j-cypher-1.8.jar.txt	2
+org/neo4j/cypher/internal/parser/v1_7/CypherParserImpl/anonfun/query/7/apply(scala.util.parsing.combinator.Parsers$$tilde)@g_neo4j-cypher-1.8.jar.txt	3
+org/neo4j/cypher/internal/parser/v1_8/StringLiteral/anonfun/stringLit/1/apply(scala.util.parsing.input.Reader)@g_neo4j-cypher-1.8.jar.txt	4

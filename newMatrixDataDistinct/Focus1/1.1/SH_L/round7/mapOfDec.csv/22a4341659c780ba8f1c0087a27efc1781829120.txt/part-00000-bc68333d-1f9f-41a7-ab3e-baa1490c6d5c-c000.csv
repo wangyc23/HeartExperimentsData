@@ -1,0 +1,5 @@
+org/kiji/schema/filter/OperatorRowFilter/equals(java.lang.Object)@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	3
+org/kiji/schema/DecodedCell/hashCode()@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	2
+org/apache/avro/io/Perf/IntTest/readInternal(org.apache.avro.io.Decoder)@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	0
+org/apache/avro/io/JsonDecoder/readNull()@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	4
+org/kiji/schema/tools/TestDeleteTool/teardownTestDeleteTool()@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	1

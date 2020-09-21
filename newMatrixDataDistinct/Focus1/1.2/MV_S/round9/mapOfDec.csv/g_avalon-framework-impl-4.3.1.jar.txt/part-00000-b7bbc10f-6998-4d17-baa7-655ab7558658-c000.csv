@@ -1,0 +1,5 @@
+org/apache/avalon/framework/configuration/SAXConfigurationHandler/endElement(java.lang.String,java.lang.String,java.lang.String)@g_avalon-framework-4.1.3.jar.txt	3
+org/apache/avalon/framework/configuration/NamespacedSAXConfigurationHandler/endElement(java.lang.String,java.lang.String,java.lang.String)@g_avalon-framework-4.1.3.jar.txt	4
+org/apache/avalon/framework/configuration/DefaultConfigurationSerializer/serializeElement(org.xml.sax.ContentHandler,org.xml.sax.helpers.NamespaceSupport,org.apache.avalon.framework.configuration.Configuration)@g_avalon-framework-4.1.3.jar.txt	2
+org/apache/avalon/framework/configuration/AbstractConfiguration/getValueAsInteger()@g_avalon-framework-4.1.3.jar.txt	0
+org/apache/avalon/framework/configuration/AbstractConfiguration/getAttributeAsInteger(java.lang.String)@g_avalon-framework-4.1.3.jar.txt	1

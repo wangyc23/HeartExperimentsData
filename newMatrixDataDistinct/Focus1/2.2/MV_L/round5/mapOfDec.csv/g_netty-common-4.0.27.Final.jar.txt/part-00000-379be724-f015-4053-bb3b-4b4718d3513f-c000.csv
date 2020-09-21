@@ -1,0 +1,5 @@
+io/netty/util/internal/Cleaner0/<clinit>()@g_netty-common-4.1.7.Final.jar.txt	1
+io/netty/util/internal/PlatformDependent0/<clinit>()@g_netty-common-4.0.25.Final.jar.txt	0
+io/netty/util/internal/chmv8/ConcurrentHashMapV8/<clinit>()@g_netty-common-4.0.25.Final.jar.txt	4
+io/netty/util/internal/PlatformDependent/maxDirectMemory0()@g_netty-common-4.0.25.Final.jar.txt	3
+io/netty/util/internal/chmv8/ForkJoinPool/<clinit>()@g_netty-common-4.0.25.Final.jar.txt	2

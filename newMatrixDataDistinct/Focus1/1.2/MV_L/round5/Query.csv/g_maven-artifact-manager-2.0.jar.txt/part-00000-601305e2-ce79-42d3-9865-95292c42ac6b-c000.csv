@@ -1,0 +1,4 @@
+org/apache/maven/wagon/observers/ChecksumObserver/getActualChecksum()
+java/lang/StringBuffer/append(java.lang.Object)
+java/io/File/File(java.lang.String)
+java/lang/String/substring(int,int)

@@ -1,0 +1,5 @@
+org/xwiki/rest/internal/resources/ModificationsResourceImpl/getModifications(java.lang.String,java.lang.Integer,java.lang.Integer,java.lang.String,java.lang.Long,java.lang.Boolean)@g_xwiki-platform-rest-server-7.1.1.jar.txt	1
+org/xwiki/rest/internal/resources/objects/ObjectPropertyResourceImpl/getObjectProperty(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.String,java.lang.Boolean)@g_xwiki-platform-rest-server-7.1.1.jar.txt	2
+org/xwiki/rest/internal/resources/comments/CommentsResourceImpl/postComment(java.lang.String,java.lang.String,java.lang.String,org.xwiki.rest.model.jaxb.Comment)@g_xwiki-platform-rest-server-7.1.1.jar.txt	3
+org/xwiki/rest/internal/resources/attachments/AttachmentAtPageVersionResourceImpl/getAttachment(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_xwiki-platform-rest-server-7.1.1.jar.txt	4
+org/xwiki/rest/internal/resources/attachments/AttachmentResourceImpl/getAttachment(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_xwiki-platform-rest-server-7.1.1.jar.txt	0

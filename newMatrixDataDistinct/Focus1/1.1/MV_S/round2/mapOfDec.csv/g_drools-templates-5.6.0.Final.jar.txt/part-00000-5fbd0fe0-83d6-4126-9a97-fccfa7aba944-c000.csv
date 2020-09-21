@@ -1,0 +1,5 @@
+org/drools/template/parser/ColumnFactory/createColumn(java.lang.String,java.lang.String)@g_plexus-digest-1.0.jar.txt	1
+org/drools/template/model/AttributedDRLElement/renderDRL(org.drools.template.model.DRLOutput)@g_plexus-digest-1.0.jar.txt	0
+org/drools/template/model/AttributedDRLElement/asStringLiteral(java.lang.String)@g_plexus-digest-1.0.jar.txt	4
+org/drools/template/parser/DefaultGenerator/generate(java.lang.String,org.drools.template.parser.Row)@g_plexus-digest-1.0.jar.txt	2
+org/drools/template/model/SnippetBuilder/buildForAll(java.lang.String)@g_plexus-digest-1.0.jar.txt	3

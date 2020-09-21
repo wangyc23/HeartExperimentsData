@@ -1,0 +1,5 @@
+com/opencsv/bean/opencsvUtils/determineMappingStrategy(java.lang.Class,java.util.Locale)@g_jwnl-1.3.3.jar.txt	3
+liquibase/dbdoc/HTMLWriter/writeChanges(java.lang.String,java.io.FileWriter,java.util.List)@g_liquibase-core-2.0.5.jar.txt	0
+net/didion/jwnl/dictionary/morph/DetachSuffixesOperation/execute(net.didion.jwnl.data.POS,java.lang.String,net.didion.jwnl.dictionary.morph.BaseFormSet)@g_jwnl-1.3.3.jar.txt	2
+liquibase/parser/core/formattedsql/FormattedSqlChangeLogParser/parseBoolean(java.util.regex.Matcher,liquibase.changelog.ChangeSet,boolean)@g_liquibase-core-2.0.5.jar.txt	1
+liquibase/sqlgenerator/core/AddAutoIncrementGeneratorSQLite/generateSql(liquibase.statement.core.AddAutoIncrementStatement,liquibase.database.Database,liquibase.sqlgenerator.SqlGeneratorChain)@g_jwnl-1.3.3.jar.txt	4

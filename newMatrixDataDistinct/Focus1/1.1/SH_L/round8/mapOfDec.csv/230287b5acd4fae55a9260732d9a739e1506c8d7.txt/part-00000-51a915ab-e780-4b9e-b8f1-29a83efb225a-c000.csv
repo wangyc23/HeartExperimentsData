@@ -1,0 +1,5 @@
+org/wso2/msf4j/examples/petstore/util/fe/client/PetServiceClient/addPet(org.wso2.msf4j.examples.petstore.util.model.Pet)@2a87664a8cade0d79f1aab67c595db9691ec2bef.txt	1
+org/wso2/msf4j/examples/petstore/util/fe/client/UserServiceClient/addUser(org.wso2.msf4j.examples.petstore.util.model.User)@2a87664a8cade0d79f1aab67c595db9691ec2bef.txt	4
+org/wso2/msf4j/examples/petstore/util/fe/client/PetServiceClient/list()@2a87664a8cade0d79f1aab67c595db9691ec2bef.txt	2
+org/wso2/msf4j/examples/petstore/util/fe/client/TxnServiceClient/addOrder(org.wso2.msf4j.examples.petstore.util.fe.model.Cart,org.wso2.msf4j.examples.petstore.util.model.CreditCard)@2a87664a8cade0d79f1aab67c595db9691ec2bef.txt	3
+org/wso2/msf4j/examples/petstore/util/fe/client/PetCategoryServiceClient/removePetCategory(org.wso2.msf4j.examples.petstore.util.model.Category)@2a87664a8cade0d79f1aab67c595db9691ec2bef.txt	0

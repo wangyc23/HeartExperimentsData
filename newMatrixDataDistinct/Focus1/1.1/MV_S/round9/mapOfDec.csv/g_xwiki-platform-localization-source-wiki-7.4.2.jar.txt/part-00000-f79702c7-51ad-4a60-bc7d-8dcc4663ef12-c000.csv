@@ -1,0 +1,5 @@
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLink(org.xwiki.rendering.block.Block,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-localization-source-jar-7.4.2.jar.txt	1
+org/xwiki/localization/jar/internal/RootClassLoaderTranslationBundle/createBundle(java.util.Locale)@g_xwiki-platform-localization-source-jar-7.4.2.jar.txt	2
+org/xwiki/localization/jar/internal/JARTranslationBundleFactory/getBundle(java.lang.String)@g_xwiki-platform-localization-source-jar-7.4.2.jar.txt	3
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLinks(org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-localization-source-jar-7.4.2.jar.txt	4
+org/xwiki/localization/jar/internal/RootClassLoaderTranslationBundle/getResourceProperties(java.util.Locale)@g_xwiki-platform-localization-source-jar-7.4.2.jar.txt	0

@@ -1,0 +1,5 @@
+org/hibernate/cfg/annotations/EntityBinder/bindEntity()@g_hibernate-core-4.3.10.Final.jar.txt	1
+org/hibernate/dialect/DerbyDialect/getLimitString(java.lang.String,int,int)@g_hibernate-core-4.3.10.Final.jar.txt	2
+org/hibernate/internal/util/config/ConfigurationHelper/getInteger(java.lang.String,java.util.Map)@g_hibernate-core-4.3.10.Final.jar.txt	0
+org/hibernate/dialect/Oracle9iDialect/getLimitString(java.lang.String,boolean)@g_hibernate-core-4.3.10.Final.jar.txt	3
+org/hibernate/tool/hbm2ddl/DatabaseMetadata/initSequences(java.sql.Connection,org.hibernate.dialect.Dialect)@g_hibernate-core-4.3.10.Final.jar.txt	4

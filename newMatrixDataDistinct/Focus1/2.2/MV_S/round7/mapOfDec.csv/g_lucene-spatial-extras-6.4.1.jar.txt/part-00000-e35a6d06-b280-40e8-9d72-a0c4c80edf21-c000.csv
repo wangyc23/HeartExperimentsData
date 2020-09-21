@@ -1,0 +1,5 @@
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_lucene-spatial-6.4.1.jar.txt	0
+org/apache/lucene/codecs/lucene70/Lucene70DocValuesConsumer/addTermsDict(org.apache.lucene.index.SortedSetDocValues)@g_lucene-spatial-6.4.1.jar.txt	4
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_lucene-spatial-6.4.1.jar.txt	1
+org/apache/lucene/index/SegmentInfos/applyMergeChanges(org.apache.lucene.index.MergePolicy$OneMerge,boolean)@g_lucene-spatial-6.4.1.jar.txt	3
+org/apache/lucene/store/LockVerifyServer/main(java.lang.String[])@g_lucene-spatial-6.4.1.jar.txt	2

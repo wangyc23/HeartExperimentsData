@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/store/kvstore/KeyValueStoreFileFormat/open(org.neo4j.io.fs.FileSystemAbstraction,java.io.File,org.neo4j.io.pagecache.PageCache)@g_neo4j-kernel-3.3.0.jar.txt	0
+org/neo4j/kernel/impl/store/StoreFactory/createEmptyDynamicStore(java.io.File,int,java.lang.String,org.neo4j.kernel.IdType)@g_neo4j-kernel-2.2.1.jar.txt	2
+org/neo4j/kernel/api/exceptions/schema/SchemaKernelException/messageWithLabelAndPropertyName(org.neo4j.kernel.api.TokenNameLookup,java.lang.String,org.neo4j.kernel.api.schema.LabelSchemaDescriptor)@g_neo4j-kernel-3.3.0.jar.txt	4
+org/neo4j/kernel/impl/store/kvstore/KeyValueStoreFileFormat/open(org.neo4j.io.fs.FileSystemAbstraction,java.io.File,org.neo4j.io.pagecache.PageCache)@g_neo4j-kernel-2.2.1.jar.txt	1
+org/neo4j/kernel/impl/store/kvstore/KeyValueStoreFile/throwOutOfBounds(org.neo4j.io.pagecache.PageCursor,int)@g_neo4j-kernel-3.3.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/hibernate/jpa/internal/QueryImpl/ParameterRegistrationImpl/bindValue(java.lang.Object,javax.persistence.TemporalType)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	4
+org/hibernate/jpa/boot/archive/internal/ArchiveHelper/getJarURLFromURLEntry(java.net.URL,java.lang.String)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	2
+org/hibernate/jpa/boot/internal/EntityManagerFactoryBuilderImpl/addJaccDefinition(java.lang.String,java.lang.Object)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	0
+org/hibernate/jpa/boot/internal/EntityManagerFactoryBuilderImpl/addJaccDefinition(java.lang.String,java.lang.Object)@g_hibernate-entitymanager-4.3.10.Final.jar.txt	1
+org/hibernate/jpa/boot/archive/internal/ArchiveHelper/getJarURLFromURLEntry(java.net.URL,java.lang.String)@g_hibernate-entitymanager-4.3.10.Final.jar.txt	3

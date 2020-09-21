@@ -1,0 +1,5 @@
+0	es/uvigo/ei/sing/pandrugs/controller/RegistrationController/register(java.lang.String,java.lang.String,java.lang.String)
+1	es/uvigo/ei/sing/pandrugs/persistence/entity/Registration/getPassword()
+2	es/uvigo/ei/sing/pandrugs/persistence/entity/Registration/getLogin()
+3	org/easymock/IExpectationSetters/andThrow(java.lang.Throwable)
+4	java/io/File/File(java.lang.String)

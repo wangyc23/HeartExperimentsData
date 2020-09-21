@@ -1,0 +1,4 @@
+com/kenai/jaffl/provider/jffi/AsmRuntime$6/6(com.kenai.jaffl.Pointer[],long[])
+com/kenai/jaffl/provider/jffi/AsmRuntime$5/5(com.kenai.jaffl.Pointer[],int[])
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)

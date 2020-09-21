@@ -1,0 +1,4 @@
+org/apache/batik/css/dom/CSSOMSVGPaint$AbstractModificationHandler/textChanged(java.lang.String)
+java/lang/StringBuffer/toString()
+java/lang/StringBuffer/append(char)
+java/lang/StringBuffer/append(float)

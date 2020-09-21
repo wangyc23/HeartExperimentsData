@@ -1,0 +1,5 @@
+junit/runner/BaseTestRunner/getTest(java.lang.String)@g_junit-4.7.jar.txt	4
+org/junit/runners/Parameterized/getParametersMethod(org.junit.runners.model.TestClass)@g_junit-4.8.1.jar.txt	3
+org/junit/runners/Parameterized/getParametersMethod(org.junit.runners.model.TestClass)@g_junit-4.7.jar.txt	2
+org/junit/internal/runners/MethodValidator/validateTestMethods(java.lang.Class,boolean)@g_junit-4.8.1.jar.txt	1
+org/junit/internal/runners/MethodValidator/validateTestMethods(java.lang.Class,boolean)@g_junit-4.7.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/lucene/queries/CommonTermsQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-queries-4.2.1.jar.txt	0
+org/apache/lucene/facet/search/TopKInEachNodeHandler/rearrangeChilrenOfNode(org.apache.lucene.facet.search.FacetResultNode,org.apache.lucene.util.PriorityQueue)@g_lucene-queries-4.2.1.jar.txt	4
+org/apache/lucene/facet/search/DrillSidewaysQuery/1/scorer(org.apache.lucene.index.AtomicReaderContext,boolean,boolean,org.apache.lucene.util.Bits)@g_lucene-queries-4.2.1.jar.txt	3
+org/apache/lucene/facet/sortedset/SortedSetDocValuesFacetCounts/count(java.util.List)@g_lucene-queries-4.2.1.jar.txt	2
+org/apache/lucene/queries/function/BoostedQuery/CustomScorer/explain(int)@g_lucene-queries-4.2.1.jar.txt	1

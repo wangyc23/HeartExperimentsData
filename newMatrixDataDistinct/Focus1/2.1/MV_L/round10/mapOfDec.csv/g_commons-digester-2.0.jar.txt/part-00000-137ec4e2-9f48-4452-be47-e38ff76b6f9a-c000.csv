@@ -1,0 +1,5 @@
+org/apache/commons/digester/parser/XercesParser/configureOldXerces(javax.xml.parsers.SAXParser,java.util.Properties)@g_commons-digester-2.1.jar.txt	1
+org/apache/commons/digester/CallMethodRule/end()@g_commons-digester-2.1.jar.txt	4
+org/apache/commons/digester/Digester/peek(java.lang.String,int)@g_commons-digester-2.1.jar.txt	0
+org/apache/commons/digester/Digester/endElement(java.lang.String,java.lang.String,java.lang.String)@g_commons-digester-2.1.jar.txt	3
+org/apache/commons/digester/Digester/endPrefixMapping(java.lang.String)@g_commons-digester-2.1.jar.txt	2

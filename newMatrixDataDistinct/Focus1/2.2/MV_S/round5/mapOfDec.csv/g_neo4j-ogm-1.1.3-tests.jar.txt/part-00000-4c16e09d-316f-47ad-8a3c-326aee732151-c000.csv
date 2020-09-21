@@ -1,0 +1,5 @@
+org/springframework/data/neo4j/examples/movies/MoviesIntegrationTest/shouldDeleteUser()@g_spring-data-neo4j-4.0.0.RELEASE-tests.jar.txt	4
+org/neo4j/ogm/unit/mapper/MappingContextTest/clearOne()@g_neo4j-ogm-1.1.2-tests.jar.txt	1
+org/neo4j/ogm/unit/session/transaction/TransactionTest/assertNotDirtyAfterCommit()@g_neo4j-ogm-1.1.2-tests.jar.txt	0
+org/neo4j/ogm/unit/mapper/cypher/CypherCompilerTest/shouldCorrectlyRemoveRelationshipWhenItemIsDisconnectedFromNonOwningSide()@g_neo4j-ogm-1.1.2-tests.jar.txt	3
+org/neo4j/ogm/unit/mapper/model/bike/BikeTest/testDeserialiseBikeModel()@g_neo4j-ogm-1.1.2-tests.jar.txt	2

@@ -1,0 +1,5 @@
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/locateTableAndProcessMetaData(java.sql.DatabaseMetaData,java.lang.String,java.lang.String,java.lang.String)@g_spring-2.5.6.jar.txt	2
+org/springframework/beans/factory/support/DisposableBeanAdapter/invokeCustomDestroyMethod()@g_spring-2.5.6.jar.txt	4
+org/apache/commons/chain/CatalogFactory/getCommand(java.lang.String)@g_commons-chain-1.1.jar.txt	0
+org/springframework/transaction/jta/WebLogicJtaTransactionManager/loadWebLogicTransactionClasses()@g_spring-2.5.6.jar.txt	3
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/initializeWithMetaData(java.sql.DatabaseMetaData)@g_spring-2.5.6.jar.txt	1

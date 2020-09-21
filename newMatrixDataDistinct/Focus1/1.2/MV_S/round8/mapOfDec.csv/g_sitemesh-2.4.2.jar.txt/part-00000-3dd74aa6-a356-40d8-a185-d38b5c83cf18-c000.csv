@@ -1,0 +1,5 @@
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_jempbox-1.8.13.jar.txt	2
+org/apache/log4j/spi/ThrowableInformation/getThrowableStrRep()@g_log4j-1.2.15.jar.txt	1
+org/apache/log4j/varia/HUP/run()@g_jempbox-1.8.13.jar.txt	4
+org/apache/log4j/net/SocketAppender/Connector/run()@g_jempbox-1.8.13.jar.txt	3
+org/apache/jempbox/impl/XMLUtil/asByteArray(org.w3c.dom.Document,java.lang.String)@g_jempbox-1.8.13.jar.txt	0

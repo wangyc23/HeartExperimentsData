@@ -1,0 +1,5 @@
+org/apache/maven/surefire/booter/MasterProcessReader/CommandRunnable/run()@g_surefire-api-2.17.jar.txt	0
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/io/Java7Support/createSymbolicLink(java.io.File,java.io.File)@g_surefire-api-2.17.jar.txt	1
+org/apache/maven/surefire/util/UrlUtils/getURL(java.io.File)@g_surefire-api-2.17.jar.txt	4
+org/apache/maven/surefire/testset/TestListResolver/mergeIncludedAndExcludedTests(java.util.Collection,java.util.Collection)@g_surefire-api-2.17.jar.txt	3
+org/apache/maven/plugin/surefire/runorder/RunEntryStatisticsMap/serialize(java.io.File)@g_surefire-api-2.17.jar.txt	2

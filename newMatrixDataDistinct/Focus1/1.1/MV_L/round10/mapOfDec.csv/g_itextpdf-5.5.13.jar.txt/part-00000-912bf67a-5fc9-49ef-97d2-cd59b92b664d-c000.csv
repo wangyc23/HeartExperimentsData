@@ -1,0 +1,5 @@
+com/lowagie/text/pdf/PdfCopy/copyAcroForm(com.lowagie.text.pdf.PdfReader)@g_itext-2.1.2.jar.txt	4
+com/itextpdf/text/pdf/XfaForm/Xml2SomDatasets/insertNode(org.w3c.dom.Node,java.lang.String)@g_itext-2.1.2.jar.txt	3
+com/itextpdf/text/pdf/AcroFields/setFieldProperty(java.lang.String,java.lang.String,java.lang.Object,int[])@g_itext-2.1.2.jar.txt	1
+com/lowagie/text/pdf/PdfGraphics2D/doAttributes(java.text.AttributedCharacterIterator)@g_itext-2.1.2.jar.txt	2
+com/lowagie/text/pdf/codec/Base64/encodeObject(java.io.Serializable,int)@g_itext-2.1.2.jar.txt	0

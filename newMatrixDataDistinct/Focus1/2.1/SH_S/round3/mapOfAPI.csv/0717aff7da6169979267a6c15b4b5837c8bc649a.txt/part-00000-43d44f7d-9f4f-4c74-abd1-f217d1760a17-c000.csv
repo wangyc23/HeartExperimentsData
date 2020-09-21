@@ -1,0 +1,7 @@
+0	java/util/List/add(E)
+1	org/apache/wicket/util/tester/WicketTester/assertRenderedPage(java.lang.Class)
+2	java/lang/Thread/sleep(long)
+3	org/apache/wicket/util/tester/BaseWicketTester/startPage(java.lang.Class)
+4	no/koteng/appstore/RepositoryUtil/REPOSITORIES/values()
+5	java/util/ArrayList/ArrayList()
+6	no/koteng/appstore/RepositoryUtil/fetchBuildInformation(no.koteng.appstore.RepositoryUtil.REPOSITORIES)

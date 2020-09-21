@@ -1,0 +1,4 @@
+com/xpn/xwiki/doc/XWikiDocument/getDocumentReference()
+com/xpn/xwiki/XWikiContext/getWiki()
+java/lang/StringBuilder/append(java.lang.String)
+org/xwiki/rendering/macro/wikibridge/WikiMacroVisibility/ordinal()

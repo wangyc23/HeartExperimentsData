@@ -1,0 +1,4 @@
+org/eclipse/tycho/core/TargetPlatformConfiguration/getEnvironments()
+org/apache/maven/project/MavenProject/getRemoteArtifactRepositories()
+org/eclipse/tycho/p2/target/facade/PomDependencyCollector/setProjectLocation(java.io.File)
+org/eclipse/tycho/p2/resolver/facade/P2ResolverFactory/newPomDependencyCollector()

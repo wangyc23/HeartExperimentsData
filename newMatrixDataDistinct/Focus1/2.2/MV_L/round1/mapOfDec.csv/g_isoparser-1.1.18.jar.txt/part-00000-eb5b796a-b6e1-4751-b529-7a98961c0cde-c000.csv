@@ -1,0 +1,5 @@
+com/googlecode/mp4parser/authoring/builder/FragmentedMp4Builder/createPdin(com.googlecode.mp4parser.authoring.Movie)@g_isoparser-1.0.2.jar.txt	0
+com/googlecode/mp4parser/authoring/builder/DefaultMp4Builder/createStco(com.googlecode.mp4parser.authoring.Track,com.googlecode.mp4parser.authoring.Movie,java.util.Map,com.coremedia.iso.boxes.SampleTableBox)@g_isoparser-1.0.2.jar.txt	4
+com/googlecode/mp4parser/authoring/tracks/ChangeTimeScaleTrack/adjustTts(java.util.List,double)@g_isoparser-1.0-RC-1.jar.txt	2
+com/googlecode/mp4parser/authoring/tracks/ChangeTimeScaleTrack/adjustCtts(java.util.List,double)@g_isoparser-1.0.2.jar.txt	1
+com/googlecode/mp4parser/authoring/tracks/ChangeTimeScaleTrack/adjustCtts(java.util.List,double)@g_isoparser-1.0-RC-1.jar.txt	3

@@ -1,0 +1,4 @@
+org/eclipse/jetty/websocket/server/pathmap/PathMappings$MappedResource/getPathSpec()
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+java/lang/String/length()
+org/eclipse/jetty/util/log/Logger/isDebugEnabled()

@@ -1,0 +1,5 @@
+org/springframework/context/event/AbstractApplicationEventMulticaster/ListenerRetriever/getApplicationListeners()@g_spring-context-3.1.4.RELEASE.jar.txt	4
+org/springframework/context/support/AbstractApplicationContext/invokeBeanFactoryPostProcessors(org.springframework.beans.factory.config.ConfigurableListableBeanFactory)@g_spring-context-3.2.2.RELEASE.jar.txt	3
+org/springframework/context/support/AbstractApplicationContext/invokeBeanFactoryPostProcessors(org.springframework.beans.factory.config.ConfigurableListableBeanFactory)@g_spring-context-3.1.4.RELEASE.jar.txt	2
+org/springframework/context/support/AbstractApplicationContext/registerBeanPostProcessors(org.springframework.beans.factory.config.ConfigurableListableBeanFactory)@g_spring-context-3.2.2.RELEASE.jar.txt	1
+org/springframework/context/support/AbstractApplicationContext/registerBeanPostProcessors(org.springframework.beans.factory.config.ConfigurableListableBeanFactory)@g_spring-context-3.1.4.RELEASE.jar.txt	0

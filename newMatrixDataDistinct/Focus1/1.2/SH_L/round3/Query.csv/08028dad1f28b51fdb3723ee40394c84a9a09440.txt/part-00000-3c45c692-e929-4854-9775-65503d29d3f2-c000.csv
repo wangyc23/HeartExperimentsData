@@ -1,0 +1,4 @@
+com/pearson/xldash/di/model/DeleteLog/getAffecteduser_id()
+com/pearson/xldash/di/model/DeleteLog/getResult_id()
+java/lang/String/isEmpty()
+com/pearson/xldash/di/model/DeleteLog/getSrc_asgmt_id()

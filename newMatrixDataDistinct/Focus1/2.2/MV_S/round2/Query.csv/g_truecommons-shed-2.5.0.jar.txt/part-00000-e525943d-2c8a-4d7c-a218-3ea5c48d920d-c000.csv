@@ -1,0 +1,4 @@
+java/nio/CharBuffer/capacity()
+java/nio/ByteBuffer/flip()
+java/nio/CharBuffer/hasRemaining()
+net/java/truecommons/shed/UriEncoder$Encoding/access$000(net.java.truecommons.shed.UriEncoder$Encoding)

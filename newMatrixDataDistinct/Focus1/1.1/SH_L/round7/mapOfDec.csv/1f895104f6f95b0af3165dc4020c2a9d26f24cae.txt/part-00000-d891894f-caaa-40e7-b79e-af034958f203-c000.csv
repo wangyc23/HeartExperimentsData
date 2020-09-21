@@ -1,0 +1,5 @@
+com/payneteasy/superfly/security/SuperflyAuthenticationProviderTest/testNoRoles()@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	0
+com/payneteasy/superfly/security/SuperflyHOTPAuthenticationProviderTest/testBadCredentials()@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	1
+omw/dao/impl/AnnonceDaoImpl/updateProposition(java.lang.Integer,java.lang.Integer,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	4
+com/ibm/taste/example/movie/servlet/MovieRecommenderServlet/writeRecommendations(com.ibm.taste.example.movie.model.RecommendMovieList,java.io.PrintWriter)@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	2
+com/payneteasy/superfly/client/SuperflyDataSender/send()@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	3

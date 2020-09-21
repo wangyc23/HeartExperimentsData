@@ -1,0 +1,5 @@
+org/springframework/data/mapping/PropertyPath/create(java.lang.String,org.springframework.data.util.TypeInformation,java.lang.String,java.util.List)@g_spring-data-commons-1.9.2.RELEASE.jar.txt	0
+org/springframework/data/web/PagedResourcesAssemblerArgumentResolver/findMatchingPageableParameter(org.springframework.core.MethodParameter)@g_spring-data-commons-1.9.4.RELEASE.jar.txt	3
+org/springframework/data/mapping/PropertyPath/create(java.lang.String,org.springframework.data.util.TypeInformation,java.lang.String,java.util.List)@g_spring-data-commons-1.9.4.RELEASE.jar.txt	2
+org/springframework/data/web/PagedResourcesAssemblerArgumentResolver/findMatchingPageableParameter(org.springframework.core.MethodParameter)@g_spring-data-commons-1.9.2.RELEASE.jar.txt	1
+org/springframework/data/rest/webmvc/BaseUri/getRepositoryLookupPath(java.lang.String)@g_spring-data-commons-1.9.2.RELEASE.jar.txt	4

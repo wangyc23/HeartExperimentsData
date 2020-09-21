@@ -1,0 +1,4 @@
+java/net/URI/URI(java.lang.String)
+org/apache/http/impl/client/AbstractHttpClient/getCredentialsProvider()
+org/apache/http/util/EntityUtils/toString(org.apache.http.HttpEntity)
+com/alibaba/fastjson/JSON/parseObject(java.lang.String)

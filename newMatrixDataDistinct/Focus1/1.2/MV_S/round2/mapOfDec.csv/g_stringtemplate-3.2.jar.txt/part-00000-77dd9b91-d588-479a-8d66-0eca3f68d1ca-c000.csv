@@ -1,0 +1,5 @@
+org/apache/struts/validator/validwhen/ValidWhenLexer/mWS(boolean)@g_struts-core-1.3.8.jar.txt	1
+org/apache/struts/validator/validwhen/ValidWhenLexer/mDECIMAL_LITERAL(boolean)@g_struts-core-1.3.8.jar.txt	3
+org/apache/struts/validator/validwhen/ValidWhenLexer/mHEX_LITERAL(boolean)@g_struts-core-1.3.8.jar.txt	0
+org/apache/struts/validator/validwhen/ValidWhenLexer/mSTRING_LITERAL(boolean)@g_struts-core-1.3.8.jar.txt	4
+org/apache/struts/validator/validwhen/ValidWhenLexer/mIDENTIFIER(boolean)@g_struts-core-1.3.8.jar.txt	2

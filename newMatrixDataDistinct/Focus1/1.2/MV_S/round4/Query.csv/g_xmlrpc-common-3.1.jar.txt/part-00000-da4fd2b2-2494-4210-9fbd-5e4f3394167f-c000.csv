@@ -1,0 +1,4 @@
+java/io/BufferedWriter/BufferedWriter(java.io.Writer)
+java/lang/StringBuffer/toString()
+org/apache/ws/commons/serialize/XMLWriter/setEncoding(java.lang.String)
+org/apache/ws/commons/serialize/XMLWriter/setIndenting(boolean)

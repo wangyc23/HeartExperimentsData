@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/springframework/web/context/support/ServletContextResourceLoader/ServletContextResourceLoader(javax.servlet.ServletContext)
+org/springframework/beans/PropertyAccessorFactory/forBeanPropertyAccess(java.lang.Object)
+org/springframework/web/servlet/HttpServletBean$ServletConfigPropertyValues/ServletConfigPropertyValues(javax.servlet.ServletConfig,java.util.Set)

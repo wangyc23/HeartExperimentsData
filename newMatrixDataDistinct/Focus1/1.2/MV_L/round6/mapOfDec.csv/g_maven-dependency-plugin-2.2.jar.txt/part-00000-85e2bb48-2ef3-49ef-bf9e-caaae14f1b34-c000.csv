@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/fromConfiguration/CopyMojo/execute()@g_maven-dependency-plugin-2.3.jar.txt	4
+org/apache/maven/plugin/dependency/treeSerializers/DOTDependencyNodeVisitor/visit(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-dependency-plugin-2.3.jar.txt	1
+org/apache/maven/plugin/dependency/tree/GraphmlDependencyNodeVisitor/endVisit(org.apache.maven.shared.dependency.graph.DependencyNode)@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/treeSerializers/GraphmlDependencyNodeVisitor/endVisit(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-dependency-plugin-2.3.jar.txt	0
+org/apache/maven/plugin/dependency/tree/DOTDependencyNodeVisitor/visit(org.apache.maven.shared.dependency.graph.DependencyNode)@g_maven-dependency-plugin-2.8.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/optional/jsp/WLJspc/scanDir(java.lang.String[])@g_ant-1.9.3.jar.txt	4
+org/apache/tools/ant/types/Path/addExisting(org.apache.tools.ant.types.Path,boolean)@g_ant-1.9.3.jar.txt	0
+org/apache/tools/ant/taskdefs/ExecuteOn/getCommandline(java.lang.String[],java.io.File[])@g_ant-1.9.3.jar.txt	2
+org/apache/tools/ant/AntClassLoader/getResourceURL(java.io.File,java.lang.String)@g_ant-1.9.3.jar.txt	3
+org/apache/tools/ant/taskdefs/optional/depend/Depend/scanDir(java.io.File,java.lang.String[])@g_ant-1.9.3.jar.txt	1

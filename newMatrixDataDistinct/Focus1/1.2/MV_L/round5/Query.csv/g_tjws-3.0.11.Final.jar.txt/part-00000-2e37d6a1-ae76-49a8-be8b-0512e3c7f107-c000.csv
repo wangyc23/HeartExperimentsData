@@ -1,0 +1,4 @@
+java/lang/String/length()
+javax/servlet/http/HttpServletResponse/sendRedirect(java.lang.String)
+java/lang/String/substring(int)
+java/lang/StringBuilder/append(char)

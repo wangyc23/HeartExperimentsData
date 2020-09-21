@@ -1,0 +1,5 @@
+org/apache/zookeeper/ClientCnxn/SendThread/startConnect()@g_zookeeper-3.4.6.jar.txt	1
+org/apache/zookeeper/MultiResponse/serialize(org.apache.jute.OutputArchive,java.lang.String)@g_metrics-json-3.1.2.jar.txt	3
+org/apache/zookeeper/ClientCnxn/SendThread/pingRwServer()@g_zookeeper-3.4.6.jar.txt	0
+org/apache/zookeeper/ZooKeeper/getClientCnxnSocket()@g_metrics-json-3.1.2.jar.txt	2
+org/apache/zookeeper/server/upgrade/UpgradeSnapShotV1/recurseThroughDataTree(org.apache.zookeeper.server.DataTree,java.lang.String)@g_metrics-json-3.1.2.jar.txt	4

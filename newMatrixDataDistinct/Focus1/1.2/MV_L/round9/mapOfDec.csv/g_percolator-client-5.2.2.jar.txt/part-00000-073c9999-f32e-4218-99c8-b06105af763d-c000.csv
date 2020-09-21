@@ -1,0 +1,5 @@
+org/elasticsearch/percolator/TransportMultiPercolateAction/doExecute(org.elasticsearch.percolator.MultiPercolateRequest,org.elasticsearch.action.ActionListener)@g_reindex-client-5.2.2.jar.txt	2
+org/elasticsearch/percolator/PercolatorFieldMapper/verifyQuery(org.elasticsearch.index.query.QueryBuilder)@g_reindex-client-5.2.2.jar.txt	3
+org/elasticsearch/index/reindex/remote/RemoteScrollableHitSource/1RetryHelper/1/onSuccess(org.elasticsearch.client.Response)@g_reindex-client-5.2.2.jar.txt	0
+org/elasticsearch/index/reindex/remote/RemoteScrollableHitSource/1RetryHelper/1/onFailure(java.lang.Exception)@g_reindex-client-5.2.2.jar.txt	1
+org/elasticsearch/percolator/PercolateResponse/Match/writeTo(org.elasticsearch.common.io.stream.StreamOutput)@g_reindex-client-5.2.2.jar.txt	4

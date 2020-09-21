@@ -1,0 +1,4 @@
+org/codehaus/plexus/personality/plexus/lifecycle/phase/InitializationException/getMessage()
+java/lang/StringBuffer/toString()
+java/lang/String/startsWith(java.lang.String)
+java/lang/StringBuffer/append(java.lang.String)

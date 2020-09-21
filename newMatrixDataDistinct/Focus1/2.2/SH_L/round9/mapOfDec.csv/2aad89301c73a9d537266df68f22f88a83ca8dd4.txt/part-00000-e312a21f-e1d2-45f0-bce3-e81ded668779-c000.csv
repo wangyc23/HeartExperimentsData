@@ -1,0 +1,5 @@
+com/cdoframework/cdolib/service/framework/transfilter/xsd/CreteriasType/setCreteriasTypeItem(int,com.cdoframework.cdolib.service.framework.transfilter.xsd.CreteriasTypeItem)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	0
+org/apache/mina/generated/thrift/UserStorage/retrieve_result/equals(org.apache.mina.generated.thrift.UserStorage.retrieve_result)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	4
+com/cdoframework/cdolib/servicebus/xsd/ServiceBus/iterateZkConsumer()@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	3
+com/cdoframework/cdolib/data/cdo/CDOArrayField/toProto(java.lang.String,com.cdo.google.protocol.GoogleCDO.CDOProto.Builder)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	2
+com/cdoframework/cdolib/data/cdo/LongArrayField/getLength()@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	1

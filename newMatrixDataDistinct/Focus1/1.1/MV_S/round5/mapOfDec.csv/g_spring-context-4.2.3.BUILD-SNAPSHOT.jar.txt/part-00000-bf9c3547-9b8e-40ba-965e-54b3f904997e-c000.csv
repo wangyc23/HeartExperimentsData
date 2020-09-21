@@ -1,0 +1,5 @@
+org/springframework/format/datetime/standard/DateTimeFormatterFactory/createDateTimeFormatter(java.time.format.DateTimeFormatter)@g_spring-context-4.2.3.BUILD-20151114.143958-56.jar.txt	1
+org/springframework/format/datetime/joda/DateTimeFormatterFactory/createDateTimeFormatter(org.joda.time.format.DateTimeFormatter)@g_spring-context-4.2.3.BUILD-20151114.143958-56.jar.txt	0
+org/springframework/format/datetime/standard/DateTimeFormatterFactory/createDateTimeFormatter(java.time.format.DateTimeFormatter)@g_spring-context-4.2.3.BUILD-20151114.225414-58.jar.txt	3
+org/springframework/format/datetime/joda/DateTimeFormatterFactory/createDateTimeFormatter(org.joda.time.format.DateTimeFormatter)@g_spring-context-4.2.3.BUILD-20151114.225414-58.jar.txt	2
+org/springframework/context/config/PropertyPlaceholderBeanDefinitionParser/doParse(org.w3c.dom.Element,org.springframework.beans.factory.support.BeanDefinitionBuilder)@g_spring-context-4.2.3.BUILD-20151114.143958-56.jar.txt	4

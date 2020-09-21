@@ -1,0 +1,5 @@
+org/apache/hive/service/cli/thrift/TUnionTypeEntry/TUnionTypeEntryTupleScheme/read(org.apache.thrift.protocol.TProtocol,org.apache.hive.service.cli.thrift.TUnionTypeEntry)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	4
+org/apache/spark/sql/hive/test/Complex/ComplexTupleScheme/read(org.apache.thrift.protocol.TProtocol,org.apache.spark.sql.hive.test.Complex)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	1
+org/apache/spark/launcher/AbstractCommandBuilder/getEffectiveConfig()@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	2
+org/apache/hive/service/cli/thrift/TOpenSessionReq/TOpenSessionReqTupleScheme/read(org.apache.thrift.protocol.TProtocol,org.apache.hive.service.cli.thrift.TOpenSessionReq)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	3
+org/apache/spark/sql/hive/test/Complex/ComplexStandardScheme/read(org.apache.thrift.protocol.TProtocol,org.apache.spark.sql.hive.test.Complex)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	0

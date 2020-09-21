@@ -1,0 +1,4 @@
+java/util/stream/Stream/map(java.util.function.Function)
+java/util/Map/isEmpty()
+java/util/Collection/stream()
+java/util/ArrayList/stream()

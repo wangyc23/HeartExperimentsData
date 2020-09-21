@@ -1,0 +1,5 @@
+org/springframework/security/config/http/HttpSecurityBeanDefinitionParser/registerFilterChainProxyIfNecessary(org.springframework.beans.factory.xml.ParserContext,java.lang.Object)@g_spring-security-config-4.0.1.RELEASE.jar.txt	4
+org/springframework/security/config/http/FilterInvocationSecurityMetadataSourceParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.0.1.RELEASE.jar.txt	0
+org/springframework/security/config/http/CsrfBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.0.1.RELEASE.jar.txt	1
+org/springframework/integration/config/xml/IntegrationNamespaceUtils/parseInnerHandlerDefinition(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	2
+org/springframework/integration/config/DefaultConfiguringBeanFactoryPostProcessor/registerErrorChannel(org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	3

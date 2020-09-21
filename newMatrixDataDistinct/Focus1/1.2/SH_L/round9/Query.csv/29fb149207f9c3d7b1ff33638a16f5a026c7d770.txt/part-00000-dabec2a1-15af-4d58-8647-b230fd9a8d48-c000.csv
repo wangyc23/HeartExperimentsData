@@ -1,0 +1,4 @@
+java/nio/channels/NetworkChannel/setOption(java.net.SocketOption,T)
+java/util/Map/keySet()
+java/util/concurrent/atomic/AtomicReference/get()
+io/netty/channel/ChannelException/ChannelException(java.lang.Throwable)

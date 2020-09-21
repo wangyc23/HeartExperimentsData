@@ -1,0 +1,5 @@
+org/bouncycastle/crypto/engines/ElGamalEngine/processBlock(byte[],int,int)@g_bcprov-jdk15on-1.53.jar.txt	4
+org/bouncycastle/jcajce/spec/SkeinParameterSpec/Builder/setPersonalisation(java.util.Date,java.util.Locale,java.lang.String,java.lang.String)@g_bcprov-jdk15on-1.53.jar.txt	3
+org/bouncycastle/math/ec/ECPoint/Fp/timesPow2(int)@g_bcprov-jdk15on-1.53.jar.txt	0
+org/bouncycastle/crypto/params/SkeinParameters/Builder/setPersonalisation(java.util.Date,java.lang.String,java.lang.String)@g_bcprov-jdk15on-1.53.jar.txt	2
+org/bouncycastle/crypto/signers/ECNRSigner/generateSignature(byte[])@g_bcprov-jdk15on-1.53.jar.txt	1

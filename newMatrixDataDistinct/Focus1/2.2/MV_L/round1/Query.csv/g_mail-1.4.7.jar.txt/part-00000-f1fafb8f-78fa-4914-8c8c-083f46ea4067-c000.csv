@@ -1,0 +1,4 @@
+com/sun/mail/pop3/POP3Folder/getStore()
+java/io/InputStream/read(byte[])
+java/lang/StringBuffer/toString()
+java/lang/ref/SoftReference/get()

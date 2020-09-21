@@ -1,0 +1,5 @@
+org/objectweb/asm/util/Textifier/visitMethod(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@g_parboiled-java-1.1.6.jar.txt	3
+org/objectweb/asm/util/CheckMethodAdapter/checkMethodIdentifier(int,java.lang.String,java.lang.String)@g_parboiled-java-1.1.6.jar.txt	0
+org/parboiled/transform/ClassNodeInitializer/visitMethod(int,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@g_parboiled-java-1.1.6.jar.txt	2
+org/parboiled/transform/CachingGenerator/Arguments/unroll(java.lang.Object[],java.util.List)@g_parboiled-java-1.1.6.jar.txt	4
+org/parboiled/transform/AsmUtils/createClassReader(java.lang.Class)@g_parboiled-java-1.1.6.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/toolchain/DefaultToolchain/matchesRequirements(java.util.Map)@g_maven-toolchain-2.0.9.jar.txt	3
+org/apache/maven/toolchain/model/io/xpp3/MavenToolchainsXpp3Reader/parsePersistedToolchains(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-toolchain-2.0.9.jar.txt	2
+org/apache/maven/toolchain/java/DefaultJavaToolchainFactory/createToolchain(org.apache.maven.toolchain.model.ToolchainModel)@g_maven-toolchain-2.0.9.jar.txt	0
+org/apache/maven/toolchain/java/DefaultJavaToolchainFactory/createToolchain(org.apache.maven.toolchain.model.ToolchainModel)@g_maven-toolchain-1.0.jar.txt	1
+org/apache/maven/toolchain/model/io/xpp3/MavenToolchainsXpp3Reader/parseToolchainModel(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-toolchain-2.0.9.jar.txt	4

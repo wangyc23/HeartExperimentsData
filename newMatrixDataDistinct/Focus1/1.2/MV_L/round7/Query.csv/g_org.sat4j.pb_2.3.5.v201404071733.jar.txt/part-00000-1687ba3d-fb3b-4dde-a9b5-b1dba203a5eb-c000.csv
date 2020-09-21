@@ -1,0 +1,4 @@
+org/sat4j/specs/IVecInt/get(int)
+java/math/BigInteger/signum()
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/math/BigInteger/negate()

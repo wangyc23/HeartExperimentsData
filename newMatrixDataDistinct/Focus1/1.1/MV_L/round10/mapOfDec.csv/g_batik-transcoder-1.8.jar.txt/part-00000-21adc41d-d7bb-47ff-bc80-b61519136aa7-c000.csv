@@ -1,0 +1,5 @@
+org/jfree/chart/renderer/xy/XYStepRenderer/drawItem(java.awt.Graphics2D,org.jfree.chart.renderer.xy.XYItemRendererState,java.awt.geom.Rectangle2D,org.jfree.chart.plot.PlotRenderingInfo,org.jfree.chart.plot.XYPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.axis.ValueAxis,org.jfree.data.xy.XYDataset,int,int,org.jfree.chart.plot.CrosshairState,int)@g_batik-transcoder-1.7.jar.txt	1
+org/jfree/chart/axis/CyclicNumberAxis/drawTickMarksAndLabels(java.awt.Graphics2D,double,java.awt.geom.Rectangle2D,java.awt.geom.Rectangle2D,org.jfree.ui.RectangleEdge)@g_batik-transcoder-1.7.jar.txt	4
+org/jfree/chart/panel/CrosshairOverlay/drawVerticalCrosshair(java.awt.Graphics2D,java.awt.geom.Rectangle2D,double,org.jfree.chart.plot.Crosshair)@g_batik-transcoder-1.7.jar.txt	3
+org/jfree/chart/title/TextTitle/drawVertical(java.awt.Graphics2D,java.awt.geom.Rectangle2D)@g_batik-transcoder-1.7.jar.txt	2
+org/apache/batik/transcoder/wmf/tosvg/WMFPainter/drawString(int,java.awt.Graphics2D,java.text.AttributedCharacterIterator,float,float,java.awt.font.TextLayout,org.apache.batik.transcoder.wmf.tosvg.WMFFont,int)@g_batik-transcoder-1.7.jar.txt	0

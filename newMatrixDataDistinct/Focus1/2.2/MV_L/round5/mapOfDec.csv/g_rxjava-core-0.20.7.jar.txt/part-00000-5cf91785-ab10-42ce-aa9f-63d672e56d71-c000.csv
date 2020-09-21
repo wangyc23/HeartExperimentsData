@@ -1,0 +1,5 @@
+rx/plugins/RxJavaPlugins/getPluginImplementationViaProperty(java.lang.Class)@g_rxjava-1.0.11.jar.txt	0
+rx/observers/TestObserver/assertReceivedOnNext(java.util.List)@g_rxjava-1.0.11.jar.txt	2
+rx/plugins/RxJavaPlugins/getPluginImplementationViaProperty(java.lang.Class)@g_rxjava-1.0.10.jar.txt	1
+rx/internal/util/RxRingBuffer/<clinit>()@g_rxjava-1.0.11.jar.txt	4
+rx/observers/TestObserver/assertReceivedOnNext(java.util.List)@g_rxjava-1.0.10.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/maven/plugins/shade/mojo/RelativizePath/convertToRelativePath(java.io.File,java.io.File)@g_maven-shade-plugin-2.2.jar.txt	2
+org/apache/maven/plugins/shade/DefaultShader/shade(org.apache.maven.plugins.shade.ShadeRequest)@g_maven-shade-plugin-2.2.jar.txt	0
+org/apache/maven/plugins/shade/mojo/ShadeMojo/replaceFile(java.io.File,java.io.File)@g_maven-shade-plugin-2.2.jar.txt	1
+org/apache/maven/plugins/shade/DefaultShader/shade(org.apache.maven.plugins.shade.ShadeRequest)@g_maven-shade-plugin-2.1.jar.txt	3
+org/apache/maven/plugins/shade/mojo/ShadeMojo/replaceFile(java.io.File,java.io.File)@g_maven-shade-plugin-2.1.jar.txt	4

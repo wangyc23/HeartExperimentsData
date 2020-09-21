@@ -1,0 +1,5 @@
+org/apache/commons/codec/language/Nysiis/nysiis(java.lang.String)@g_commons-codec-1.6.jar.txt	4
+org/apache/commons/codec/language/ColognePhonetic/colognePhonetic(java.lang.String)@g_commons-codec-1.6.jar.txt	0
+org/apache/commons/codec/language/ColognePhonetic/colognePhonetic(java.lang.String)@g_commons-codec-1.9.jar.txt	1
+org/apache/commons/codec/digest/UnixCrypt/crypt(byte[],java.lang.String)@g_commons-codec-1.6.jar.txt	3
+org/apache/commons/codec/language/bm/Lang/guessLanguages(java.lang.String)@g_commons-codec-1.6.jar.txt	2

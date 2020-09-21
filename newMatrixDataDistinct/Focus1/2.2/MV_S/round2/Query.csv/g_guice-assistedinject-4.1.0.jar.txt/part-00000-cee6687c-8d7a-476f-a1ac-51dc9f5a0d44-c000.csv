@@ -1,0 +1,4 @@
+com/google/inject/util/Providers/of(java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+com/google/inject/binder/LinkedBindingBuilder/toProvider(com.google.inject.Provider)

@@ -1,0 +1,5 @@
+com/ctc/wstx/util/URLUtil/inputStreamFromURL(java.net.URL)@g_wstx-asl-3.2.7.jar.txt	3
+com/ctc/wstx/dtd/DTDValidator/validateAttribute(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_wstx-asl-3.2.7.jar.txt	0
+com/ctc/wstx/api/ReaderConfig/getCustomInternalEntities()@g_wstx-asl-3.2.7.jar.txt	2
+com/ctc/wstx/evt/SimpleStartElement/outputNsAndAttr(javax.xml.stream.XMLStreamWriter)@g_wstx-asl-3.2.7.jar.txt	1
+net/rootdev/javardfa/uri/URIExtractor11/getURI(javax.xml.stream.events.StartElement,javax.xml.stream.events.Attribute,net.rootdev.javardfa.EvalContext)@g_wstx-asl-3.2.7.jar.txt	4

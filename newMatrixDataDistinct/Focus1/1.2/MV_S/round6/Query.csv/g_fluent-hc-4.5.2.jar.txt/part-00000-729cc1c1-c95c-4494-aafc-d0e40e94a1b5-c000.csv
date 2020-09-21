@@ -1,0 +1,4 @@
+javax/net/ssl/SSLContext/getInstance(java.lang.String)
+org/apache/http/impl/client/HttpClientBuilder/create()
+org/apache/http/config/RegistryBuilder/create()
+org/apache/http/conn/ssl/SSLConnectionSocketFactory/getSocketFactory()

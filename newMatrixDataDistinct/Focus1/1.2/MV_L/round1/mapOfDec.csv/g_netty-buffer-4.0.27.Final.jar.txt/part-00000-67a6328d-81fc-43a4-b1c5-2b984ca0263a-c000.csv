@@ -1,0 +1,5 @@
+io/netty/buffer/UnsafeByteBufUtil/getBytes(io.netty.buffer.AbstractByteBuf,long,int,java.nio.ByteBuffer)@g_netty-buffer-4.1.7.Final.jar.txt	2
+io/netty/buffer/Unpooled/wrappedBuffer(java.nio.ByteBuffer)@g_netty-buffer-4.0.25.Final.jar.txt	0
+io/netty/buffer/Unpooled/wrappedBuffer(java.nio.ByteBuffer)@g_netty-buffer-4.1.7.Final.jar.txt	1
+io/netty/buffer/ByteBufUtil/encodeString0(io.netty.buffer.ByteBufAllocator,boolean,java.nio.CharBuffer,java.nio.charset.Charset)@g_netty-buffer-4.0.25.Final.jar.txt	4
+io/netty/buffer/UnsafeByteBufUtil/setBytes(io.netty.buffer.AbstractByteBuf,long,int,java.nio.ByteBuffer)@g_netty-buffer-4.1.7.Final.jar.txt	3

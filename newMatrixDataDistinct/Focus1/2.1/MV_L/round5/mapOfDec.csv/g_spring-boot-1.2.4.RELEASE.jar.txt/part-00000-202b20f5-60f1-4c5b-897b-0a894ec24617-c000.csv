@@ -1,0 +1,5 @@
+org/springframework/boot/bind/PropertySourcesPropertyValues/processDefaultPropertySource(org.springframework.core.env.PropertySource,org.springframework.core.env.PropertySourcesPropertyResolver,org.springframework.boot.bind.PropertyNamePatternsMatcher,java.util.Collection)@g_spring-boot-1.2.3.RELEASE.jar.txt	2
+org/springframework/boot/bind/RelaxedDataBinder/getPropertyValuesForNamePrefix(org.springframework.beans.MutablePropertyValues)@g_spring-boot-1.2.3.RELEASE.jar.txt	4
+org/springframework/boot/context/config/ConfigFileApplicationListener/Loader/getSearchLocations()@g_spring-boot-1.2.3.RELEASE.jar.txt	1
+org/springframework/boot/bind/PropertiesConfigurationFactory/validate(org.springframework.boot.bind.RelaxedDataBinder)@g_spring-boot-1.2.3.RELEASE.jar.txt	0
+org/springframework/boot/cloudfoundry/VcapApplicationListener/flatten(java.util.Properties,java.util.Map,java.lang.String)@g_spring-boot-1.2.3.RELEASE.jar.txt	3

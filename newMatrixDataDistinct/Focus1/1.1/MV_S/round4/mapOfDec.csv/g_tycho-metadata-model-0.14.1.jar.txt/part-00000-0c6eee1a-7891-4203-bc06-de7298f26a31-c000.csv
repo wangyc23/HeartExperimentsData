@@ -1,0 +1,5 @@
+org/carrot2/source/lucene/LuceneDocumentSourceDescriptor/<clinit>()@g_solr-carrot2-core-3.5.0.jar.txt	3
+org/eclipse/tycho/p2/resolver/P2DependencyResolver/doResolveDependencies(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,java.util.List,org.eclipse.tycho.core.DependencyResolverConfiguration,org.eclipse.tycho.artifacts.TargetPlatform,org.eclipse.tycho.p2.resolver.facade.P2Resolver,org.eclipse.tycho.core.TargetPlatformConfiguration)@g_tycho-p2-facade-0.23.1.jar.txt	0
+org/carrot2/text/preprocessing/LabelFilterProcessorDescriptor/<clinit>()@g_solr-carrot2-core-3.5.0.jar.txt	4
+org/carrot2/text/preprocessing/filter/MinLengthLabelFilterDescriptor/<clinit>()@g_solr-carrot2-core-3.5.0.jar.txt	1
+org/carrot2/source/ambient/Odp239DocumentSourceDescriptor/<clinit>()@g_solr-carrot2-core-3.5.0.jar.txt	2

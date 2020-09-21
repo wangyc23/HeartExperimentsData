@@ -1,0 +1,4 @@
+org/objectweb/asm/ClassReader/accept(org.objectweb.asm.ClassVisitor,int)
+org/apache/commons/io/IOUtils/copy(java.io.InputStream,java.io.OutputStream)
+java/util/jar/JarInputStream/close()
+java/util/jar/JarInputStream/JarInputStream(java.io.InputStream)

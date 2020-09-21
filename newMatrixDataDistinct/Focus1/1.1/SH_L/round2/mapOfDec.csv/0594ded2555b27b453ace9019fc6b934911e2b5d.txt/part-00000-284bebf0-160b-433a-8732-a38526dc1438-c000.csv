@@ -1,0 +1,5 @@
+io/milton/mail/StandardMessageFactoryImpl/AttachmentReadingDataSource/getContentType()@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	3
+io/milton/http/fs/FsMemoryLockManager/refresh(java.lang.String,io.milton.resource.LockableResource)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	1
+com/myastronomy/resource/GalaxyResource/getChildren()@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	2
+io/milton/common/ContentTypeUtils/findAcceptableContentTypeForName(java.lang.String,java.lang.String)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	0
+io/milton/http/XmlWriter/writeElement(java.lang.String,java.lang.String,io.milton.http.XmlWriter.Type)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	4

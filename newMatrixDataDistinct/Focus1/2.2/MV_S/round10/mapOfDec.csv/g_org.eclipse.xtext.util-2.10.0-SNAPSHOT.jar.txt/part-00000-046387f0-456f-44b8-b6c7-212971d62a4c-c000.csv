@@ -1,0 +1,5 @@
+org/eclipse/xtext/util/Files/copyFiles(java.lang.String,java.lang.String,java.util.List)@g_org.eclipse.xtext.util-2.10.0-20160515.041343-74.jar.txt	4
+org/eclipse/xtext/util/formallang/ProductionFormatter/format(org.eclipse.xtext.util.formallang.Production,java.lang.Object,java.lang.Iterable,java.lang.String,boolean,boolean)@g_org.eclipse.xtext.util-2.10.0-20160515.041343-74.jar.txt	1
+org/eclipse/xtext/util/formallang/NfaGraphFormatter/format(org.eclipse.xtext.util.formallang.Nfa)@g_org.eclipse.xtext.util-2.10.0-20160515.041343-74.jar.txt	3
+org/eclipse/xtext/util/formallang/PdaListFormatter/format(org.eclipse.xtext.util.formallang.Pda,java.lang.Object)@g_org.eclipse.xtext.util-2.10.0-20160515.041343-74.jar.txt	2
+org/eclipse/xtext/util/formallang/StringCfg/toString()@g_org.eclipse.xtext.util-2.10.0-20160515.041343-74.jar.txt	0

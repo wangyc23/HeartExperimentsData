@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/ArrayList/add(java.lang.Object)
+java/util/ArrayList/size()
+java/util/ArrayList/addAll(java.util.Collection)

@@ -1,0 +1,4 @@
+org/codehaus/plexus/logging/AbstractLogEnabled/getLogger()
+org/apache/maven/artifact/resolver/ArtifactResolver/resolveTransitively(java.util.Set,org.apache.maven.artifact.Artifact,java.util.Map,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List,org.apache.maven.artifact.metadata.ArtifactMetadataSource)
+org/apache/maven/project/MavenProject/getDependencyArtifacts()
+java/lang/Throwable/getMessage()

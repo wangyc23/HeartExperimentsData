@@ -1,0 +1,4 @@
+org/apache/poi/ddf/EscherChildAnchorRecord/setOptions(short)
+org/apache/poi/hssf/usermodel/HSSFChildAnchor/getDy1()
+org/apache/poi/hssf/usermodel/HSSFChildAnchor/getDx2()
+java/lang/Math/max(int,int)

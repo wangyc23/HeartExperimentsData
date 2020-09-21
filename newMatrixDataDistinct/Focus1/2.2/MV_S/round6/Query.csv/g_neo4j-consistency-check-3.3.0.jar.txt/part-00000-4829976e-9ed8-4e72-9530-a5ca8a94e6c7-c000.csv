@@ -1,0 +1,4 @@
+org/neo4j/consistency/checking/cache/CacheAccess$Client/getFromCache(long,int)
+java/util/Iterator/hasNext()
+java/util/function/Predicate/test(java.lang.Object)
+org/neo4j/kernel/impl/store/record/RelationshipRecord/getType()

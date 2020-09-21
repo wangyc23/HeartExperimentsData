@@ -1,0 +1,5 @@
+org/apache/activemq/protobuf/compiler/JavaGenerator/writeFile(java.lang.String,org.apache.activemq.protobuf.compiler.JavaGenerator$Closure)@g_common-java-2.0.2.jar.txt	0
+com/google/protobuf/GeneratedMessage/Builder/isInitialized()@g_common-java-2.0.2.jar.txt	2
+com/google/protobuf/DescriptorProtos/SourceCodeInfo/Location/Builder/buildPartial()@g_common-java-2.0.2.jar.txt	1
+com/google/protobuf/AbstractMessage/hashFields(int,java.util.Map)@g_common-java-2.0.2.jar.txt	3
+org/apache/activemq/protobuf/compiler/AltJavaGenerator/generateBeanEquals(org.apache.activemq.protobuf.compiler.MessageDescriptor,java.lang.String)@g_common-java-2.0.2.jar.txt	4

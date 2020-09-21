@@ -1,0 +1,5 @@
+org/eclipse/jgit/util/FS_Win32_Cygwin/runInShell(java.lang.String,java.lang.String[])@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	4
+org/eclipse/jgit/util/FS_POSIX/runInShell(java.lang.String,java.lang.String[])@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	3
+org/eclipse/jgit/api/MergeCommand/call()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	2
+org/eclipse/jgit/api/RenameBranchCommand/call()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	1
+com/netflix/hystrix/contrib/javanica/cache/HystrixCacheKeyGenerator/generateCacheKey(com.netflix.hystrix.contrib.javanica.cache.CacheInvocationContext)@g_hystrix-javanica-1.4.20.jar.txt	0

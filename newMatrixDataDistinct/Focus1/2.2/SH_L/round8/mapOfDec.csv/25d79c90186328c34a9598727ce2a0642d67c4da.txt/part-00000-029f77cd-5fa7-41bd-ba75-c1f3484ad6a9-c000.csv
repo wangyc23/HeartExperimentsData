@@ -1,0 +1,5 @@
+com/lucidworks/pig/SyntheticDoc/toPigValue(org.apache.solr.common.SolrInputField)@10009d49e71147069d6d5082ba9a06f1a47312f4.txt	0
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	2
+com/gs/cluster/ConsoleFormatter/displayAttributes(java.util.Map)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	3
+com/lucidworks/pig/SyntheticDoc/toPigType(java.lang.String)@10009d49e71147069d6d5082ba9a06f1a47312f4.txt	1
+com/gs/extractor/impl/TencentExtractor/process()@2aba7b19079a7af2e00355cdb996ae2085016663.txt	4

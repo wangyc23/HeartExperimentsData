@@ -1,0 +1,5 @@
+com/googlecode/mp4parser/authoring/builder/FragmentedMp4Builder/createMoofMdat(com.googlecode.mp4parser.authoring.Movie)@g_isoparser-1.0.2.jar.txt	4
+com/googlecode/mp4parser/authoring/builder/FragmentedMp4Builder/createTrun(long,long,com.googlecode.mp4parser.authoring.Track,int)@g_isoparser-1.0.2.jar.txt	0
+com/googlecode/mp4parser/util/Path/getPaths(java.lang.Object,java.lang.String,boolean)@g_isoparser-1.0.2.jar.txt	1
+com/googlecode/mp4parser/authoring/tracks/AppendTrack/getCompositionTimeEntries()@g_isoparser-1.0.2.jar.txt	2
+com/googlecode/mp4parser/authoring/tracks/MultiplyTimeScaleTrack/adjustCtts(java.util.List,int)@g_isoparser-1.0.2.jar.txt	3

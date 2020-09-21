@@ -1,0 +1,5 @@
+org/springframework/boot/autoconfigure/logging/AutoConfigurationReportLoggingInitializer/getLogMessage(org.springframework.boot.autoconfigure.condition.ConditionEvaluationReport)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	4
+demo/hw/server/IntegerUserMapAdapter/marshal(java.util.Map)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+org/springframework/boot/devtools/restart/classloader/ClassLoaderFiles/addAll(org.springframework.boot.devtools.restart.classloader.ClassLoaderFiles)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	3
+org/apache/cxf/demo/aegis/commands/ReadZoo/go()@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+demo/oauth/server/controllers/SampleOAuthDataProvider/removeRegisteredClient(java.lang.String)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0

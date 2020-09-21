@@ -1,0 +1,4 @@
+org/apache/maven/plugin/war/WarManifestMojo/getArchive()
+org/apache/maven/plugin/war/WarManifestMojo/getWarSourceDirectory()
+org/codehaus/plexus/util/WriterFactory/newWriter(java.io.File,java.lang.String)
+org/apache/maven/artifact/DependencyResolutionRequiredException/getMessage()

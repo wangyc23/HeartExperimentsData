@@ -1,0 +1,5 @@
+org/apache/commons/lang/Entities/doUnescape(java.io.Writer,java.lang.String,int)@g_commons-lang-2.6.jar.txt	1
+org/apache/commons/lang/WordUtils/swapCase(java.lang.String)@g_commons-lang-2.4.jar.txt	3
+org/apache/commons/lang/StringUtils/splitWorker(java.lang.String,java.lang.String,int,boolean)@g_commons-lang-2.4.jar.txt	4
+org/apache/commons/lang/StringUtils/replaceEach(java.lang.String,java.lang.String[],java.lang.String[],boolean,int)@g_commons-lang-2.4.jar.txt	2
+org/apache/commons/lang/Entities/doUnescape(java.io.Writer,java.lang.String,int)@g_commons-lang-2.4.jar.txt	0

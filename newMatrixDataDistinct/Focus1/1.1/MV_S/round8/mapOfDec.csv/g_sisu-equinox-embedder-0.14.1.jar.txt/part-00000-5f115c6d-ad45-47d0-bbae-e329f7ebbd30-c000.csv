@@ -1,0 +1,5 @@
+org/eclipse/tycho/surefire/TestMojo/scanForTests()@g_tycho-surefire-plugin-0.23.1.jar.txt	3
+org/eclipse/tycho/surefire/provisioning/BundlesPublisher/publishBundles(java.io.File)@g_tycho-surefire-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/surefire/TestMojo/getIUsToInstall(java.util.Set)@g_tycho-surefire-plugin-0.23.1.jar.txt	1
+org/eclipse/tycho/surefire/TestMojo/getFrameworkExtensions()@g_tycho-surefire-plugin-0.23.1.jar.txt	0
+org/eclipse/tycho/surefire/provider/impl/ProviderHelper/validateCandidates(java.util.List)@g_tycho-surefire-plugin-0.23.1.jar.txt	4

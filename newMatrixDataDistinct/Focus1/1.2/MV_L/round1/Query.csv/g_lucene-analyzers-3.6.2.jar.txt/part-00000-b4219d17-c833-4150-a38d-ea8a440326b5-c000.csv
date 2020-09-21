@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+org/apache/lucene/analysis/pt/RSLPStemmerBase$Step/Step(java.lang.String,org.apache.lucene.analysis.pt.RSLPStemmerBase$Rule[],int,java.lang.String[])
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)

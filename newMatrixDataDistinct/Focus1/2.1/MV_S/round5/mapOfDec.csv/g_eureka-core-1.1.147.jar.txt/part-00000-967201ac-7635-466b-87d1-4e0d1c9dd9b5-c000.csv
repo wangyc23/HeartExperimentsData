@@ -1,0 +1,5 @@
+com/netflix/discovery/DiscoveryClient/getAndUpdateDelta(com.netflix.discovery.shared.Applications)@g_eureka-client-1.3.4.jar.txt	0
+com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient/getApplicationsInternal(java.lang.String,java.lang.String[])@g_eureka-client-1.3.4.jar.txt	1
+com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient/getApplication(java.lang.String)@g_eureka-client-1.3.4.jar.txt	2
+com/netflix/discovery/DiscoveryClient/getAndStoreFullRegistry()@g_eureka-client-1.3.4.jar.txt	4
+com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient/getInstanceInternal(java.lang.String)@g_eureka-client-1.3.4.jar.txt	3

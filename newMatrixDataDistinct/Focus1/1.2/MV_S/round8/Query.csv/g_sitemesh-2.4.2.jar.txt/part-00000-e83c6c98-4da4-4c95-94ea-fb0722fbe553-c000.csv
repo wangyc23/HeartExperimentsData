@@ -1,0 +1,4 @@
+javax/servlet/http/HttpServletRequest/getServletPath()
+javax/servlet/http/HttpServletRequest/getContextPath()
+javax/servlet/http/HttpServletRequest/getAttribute(java.lang.String)
+java/io/StringWriter/StringWriter()

@@ -1,0 +1,4 @@
+morfologik/fsa/FSAFinalStatesIterator/restartFrom(int)
+java/nio/CharBuffer/put(char)
+java/util/Arrays/copyOf(java.lang.Object[],int)
+java/nio/ByteBuffer/clear()

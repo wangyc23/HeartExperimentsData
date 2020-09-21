@@ -1,0 +1,5 @@
+org/neo4j/helpers/collection/LruCache/resize(int)@g_neo4j-collections-3.1.0-M01.jar.txt	1
+gnu/trove/list/linked/TIntLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	2
+gnu/trove/impl/hash/TObjectHash/objectInfo(java.lang.Object)@g_trove4j-3.0.3.jar.txt	4
+gnu/trove/list/linked/TLongLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	3
+org/neo4j/helpers/collection/CachingIterator/position(int)@g_neo4j-collections-3.1.0-M01.jar.txt	0

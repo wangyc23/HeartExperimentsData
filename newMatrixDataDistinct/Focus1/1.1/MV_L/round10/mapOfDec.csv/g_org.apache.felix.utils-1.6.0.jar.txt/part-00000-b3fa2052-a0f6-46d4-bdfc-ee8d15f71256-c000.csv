@@ -1,0 +1,5 @@
+org/kxml2/io/KXmlParser/setInput(java.io.InputStream,java.lang.String)@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	0
+gnu/trove/map/hash/TFloatFloatHashMap/putAll(java.util.Map)@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	4
+org/apache/felix/bundlerepository/impl/ObrCommandImpl/parseInfo(java.lang.String)@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	2
+gnu/trove/map/hash/TLongIntHashMap/putAll(java.util.Map)@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	3
+org/apache/felix/utils/filter/FilterImpl/Parser/parse_attr()@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	1

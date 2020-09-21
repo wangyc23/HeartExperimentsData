@@ -1,0 +1,4 @@
+javax/ws/rs/ext/WriterInterceptorContext/getOutputStream()
+javax/ws/rs/core/MultivaluedMap/getFirst(java.lang.Object)
+javax/ws/rs/core/UriInfo/getQueryParameters()
+java/util/List/isEmpty()

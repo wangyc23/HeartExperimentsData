@@ -1,0 +1,4 @@
+java/lang/Class/getResourceAsStream(java.lang.String)
+java/net/URL/toExternalForm()
+java/lang/Class/getResource(java.lang.String)
+java/lang/Object/getClass()

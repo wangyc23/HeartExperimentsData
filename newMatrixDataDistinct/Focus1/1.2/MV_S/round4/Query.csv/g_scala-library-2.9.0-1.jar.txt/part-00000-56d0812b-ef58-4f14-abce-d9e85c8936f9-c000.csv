@@ -1,0 +1,4 @@
+scala/collection/immutable/LongMap$Bin/Bin(long,long,scala.collection.immutable.LongMap,scala.collection.immutable.LongMap)
+scala/collection/immutable/LongMap$Tip/Tip(long,java.lang.Object)
+scala/collection/immutable/LongMapUtils$/join(long,scala.collection.immutable.LongMap,long,scala.collection.immutable.LongMap)
+scala/collection/immutable/LongMap$Bin/mask()

@@ -1,0 +1,5 @@
+org/eclipse/emf/compare/match/eobject/IdentifierEObjectMatcher/matchPerId(java.util.Iterator,java.util.Iterator,java.util.Iterator,java.util.List,java.util.List,java.util.List)@g_compare-3.1.0.jar.txt	2
+org/eclipse/m2m/atl/emftvm/impl/ModuleImpl/toString()@g_compare-3.1.0.jar.txt	1
+org/eclipse/emf/compare/utils/EMFComparePrettyPrinter/printMatch(org.eclipse.emf.compare.Match,java.io.PrintStream)@g_compare-3.1.0.jar.txt	4
+org/eclipse/uml2/common/util/DerivedEObjectEList/DerivedListIterator/prepareNext()@g_compare-3.1.0.jar.txt	3
+org/eclipse/emf/compare/merge/ResourceAttachmentChangeMerger/findOrCreateTargetResource(org.eclipse.emf.compare.Match,boolean)@g_compare-3.1.0.jar.txt	0

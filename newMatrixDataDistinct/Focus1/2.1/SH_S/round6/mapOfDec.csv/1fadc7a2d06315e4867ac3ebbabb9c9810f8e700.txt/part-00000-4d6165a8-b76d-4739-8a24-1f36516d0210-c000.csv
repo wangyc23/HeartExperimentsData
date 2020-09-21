@@ -1,0 +1,5 @@
+com/enlight/task/data/TaskData/randomTask()@22a005d0990c96fc4413c90b32838ecb95cad3f7.txt	4
+com/surfilter/flood/maintain/rest/TaskRestController/update(com.surfilter.flood.maintain.entity.Task)@22a005d0990c96fc4413c90b32838ecb95cad3f7.txt	0
+com/enlight/task/web/account/RegisterController/register(com.enlight.task.entity.User,com.enlight.task.web.account.RedirectAttributes)@22a005d0990c96fc4413c90b32838ecb95cad3f7.txt	3
+com/enlight/task/functional/gui/TaskGuiFT/crudTask()@22a005d0990c96fc4413c90b32838ecb95cad3f7.txt	2
+com/mytest/myproject/web/task/TaskController/getTask(java.lang.Long)@22a005d0990c96fc4413c90b32838ecb95cad3f7.txt	1

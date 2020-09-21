@@ -1,0 +1,5 @@
+org/eclipse/tycho/osgi/runtime/TychoOsgiRuntimeLocator/addRuntimeArtifacts(org.eclipse.tycho.osgi.runtime.WorkspaceTychoOsgiRuntimeLocator,org.eclipse.sisu.equinox.embedder.EquinoxRuntimeLocator$EquinoxRuntimeDescription,org.apache.maven.execution.MavenSession,org.eclipse.tycho.osgi.runtime.TychoOsgiRuntimeArtifacts)@g_tycho-core-0.14.1.jar.txt	3
+org/eclipse/tycho/core/resolver/DefaultTargetPlatformConfigurationReader/addTargetArtifact(org.eclipse.tycho.core.TargetPlatformConfiguration,org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,org.codehaus.plexus.util.xml.Xpp3Dom)@g_tycho-core-0.14.1.jar.txt	2
+org/eclipse/tycho/core/osgitools/targetplatform/DefaultTargetPlatform/getInstallableUnits()@g_tycho-core-0.14.1.jar.txt	4
+org/eclipse/tycho/surefire/TestMojo/getToolchain()@g_tycho-core-0.14.1.jar.txt	1
+org/eclipse/tycho/core/locking/FileLockerImpl/lock(long)@g_tycho-core-0.14.1.jar.txt	0

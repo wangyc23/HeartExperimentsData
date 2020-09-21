@@ -1,0 +1,5 @@
+org/openrdf/rio/rdfxml/SAXFilter/characters(char[],int,int)@g_sesame-rio-rdfxml-2.7.9.jar.txt	4
+org/openrdf/query/parser/sparql/GraphPattern/buildTupleExpr()@g_sesame-queryparser-sparql-2.7.9.jar.txt	2
+org/openrdf/rio/rdfxml/RDFXMLParser/parse(org.xml.sax.InputSource)@g_sesame-rio-rdfxml-2.7.9.jar.txt	3
+org/openrdf/rio/rdfxml/RDFXMLWriter/writeHeader()@g_sesame-rio-rdfxml-2.7.9.jar.txt	1
+org/openrdf/rio/rdfxml/SAXFilter/appendStartTag(java.lang.String,org.xml.sax.Attributes)@g_sesame-rio-rdfxml-2.7.9.jar.txt	0

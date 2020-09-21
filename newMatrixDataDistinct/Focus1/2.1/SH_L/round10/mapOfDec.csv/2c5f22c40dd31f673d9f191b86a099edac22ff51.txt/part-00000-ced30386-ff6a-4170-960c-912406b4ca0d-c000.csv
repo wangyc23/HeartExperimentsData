@@ -1,0 +1,5 @@
+com/BD2/Proto_Music/servlets/Controlador_Buscar/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@0ff1bc0945d44fe20d69378a9046863b4b477770.txt	0
+omw/controllers/RechercherServlet/postRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@0ff1bc0945d44fe20d69378a9046863b4b477770.txt	2
+omw/metier/UtilisateurManager/countUsersMailUsed(java.lang.String)@0ff1bc0945d44fe20d69378a9046863b4b477770.txt	1
+com/BD2/Proto_Music/servlets/Controlador_SusAmigos/processRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@0ff1bc0945d44fe20d69378a9046863b4b477770.txt	4
+listener/Listener/contextInitialized(javax.servlet.ServletContextEvent)@0ff1bc0945d44fe20d69378a9046863b4b477770.txt	3

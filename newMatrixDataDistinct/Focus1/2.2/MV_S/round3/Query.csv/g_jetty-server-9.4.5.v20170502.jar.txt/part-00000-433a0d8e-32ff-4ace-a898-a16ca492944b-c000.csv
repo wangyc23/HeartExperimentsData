@@ -1,0 +1,4 @@
+org/eclipse/jetty/server/session/JDBCSessionDataStore$SessionTableSchema/getCreateTimeColumn()
+org/eclipse/jetty/util/ClassLoadingObjectInputStream/close()
+org/eclipse/jetty/util/ClassLoadingObjectInputStream/readObject()
+java/sql/ResultSet/getString(java.lang.String)

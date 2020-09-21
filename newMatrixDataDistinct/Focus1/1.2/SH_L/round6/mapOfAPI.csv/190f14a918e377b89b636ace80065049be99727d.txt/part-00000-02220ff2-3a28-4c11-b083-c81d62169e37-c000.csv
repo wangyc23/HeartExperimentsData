@@ -1,0 +1,4 @@
+0	java/io/BufferedWriter/write(java.lang.String,int,int)
+1	java/nio/file/Files/newBufferedWriter(java.nio.file.Path,java.nio.charset.Charset,java.nio.file.OpenOption[])
+2	java/lang/String/length()
+3	java/nio/charset/Charset/forName(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/lucene/search/join/JoinUtil/createJoinQuery(java.lang.String,boolean,java.lang.String,java.lang.Class,org.apache.lucene.search.Query,org.apache.lucene.search.IndexSearcher,org.apache.lucene.search.join.ScoreMode)@g_lucene-join-6.4.1.jar.txt	1
+org/apache/lucene/search/join/TermsIncludingScoreQuery/1/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-join-6.2.1.jar.txt	4
+org/apache/lucene/search/join/JoinUtil/createJoinQuery(java.lang.String,boolean,java.lang.String,java.lang.Class,org.apache.lucene.search.Query,org.apache.lucene.search.IndexSearcher,org.apache.lucene.search.join.ScoreMode)@g_lucene-join-6.2.1.jar.txt	0
+org/apache/lucene/search/join/ToParentBlockJoinIndexSearcher/search(java.util.List,org.apache.lucene.search.Weight,org.apache.lucene.search.Collector)@g_lucene-join-6.2.1.jar.txt	2
+org/apache/lucene/search/join/QueryBitSetProducer/getBitSet(org.apache.lucene.index.LeafReaderContext)@g_lucene-join-6.2.1.jar.txt	3

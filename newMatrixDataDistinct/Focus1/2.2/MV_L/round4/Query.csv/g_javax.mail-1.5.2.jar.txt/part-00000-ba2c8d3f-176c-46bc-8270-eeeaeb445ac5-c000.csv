@@ -1,0 +1,4 @@
+com/sun/mail/pop3/POP3Folder/getStore()
+java/io/InputStream/read(byte[])
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)

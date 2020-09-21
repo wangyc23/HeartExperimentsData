@@ -1,0 +1,5 @@
+org/jacoco/core/runtime/AgentOptions/toString()@g_org.jacoco.core-0.7.5.201505241946.jar.txt	0
+org/neo4j/codegen/source/MethodSourceWriter/constant(java.lang.Object)@g_neo4j-codegen-3.1.0.jar.txt	4
+org/jacoco/core/instr/Instrumenter/instrumentZip(java.io.InputStream,java.io.OutputStream,java.lang.String)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	1
+org/neo4j/codegen/ByteCodeUtils/internalDesc(org.neo4j.codegen.MethodDeclaration,boolean)@g_neo4j-codegen-3.1.0.jar.txt	3
+org/neo4j/codegen/CompilationFailureException/source(java.util.List)@g_neo4j-codegen-3.1.0.jar.txt	2

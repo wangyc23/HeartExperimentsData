@@ -1,0 +1,5 @@
+com/sun/mail/imap/protocol/IMAPProtocol/fetchSequenceNumbers(long,long)@g_mail-1.4.7.jar.txt	2
+com/sun/mail/imap/protocol/IMAPProtocol/authplain(java.lang.String,java.lang.String,java.lang.String)@g_mail-1.4.7.jar.txt	4
+com/sun/mail/imap/protocol/IMAPProtocol/authntlm(java.lang.String,java.lang.String,java.lang.String)@g_mail-1.4.7.jar.txt	1
+com/sun/mail/imap/protocol/IMAPProtocol/authlogin(java.lang.String,java.lang.String)@g_mail-1.4.7.jar.txt	0
+com/sun/mail/imap/protocol/IMAPSaslAuthenticator/authenticate(java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_mail-1.4.7.jar.txt	3

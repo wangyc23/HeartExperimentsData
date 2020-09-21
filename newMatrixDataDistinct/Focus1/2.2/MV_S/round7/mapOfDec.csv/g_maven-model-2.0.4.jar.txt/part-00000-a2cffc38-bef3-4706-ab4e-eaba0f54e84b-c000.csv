@@ -1,0 +1,5 @@
+org/apache/maven/profiles/io/xpp3/ProfilesXpp3Reader/parseProfilesRoot(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-profile-2.0.6.jar.txt	2
+org/apache/maven/profiles/io/xpp3/ProfilesXpp3Reader/parseProfile(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-profile-2.0.6.jar.txt	1
+org/apache/maven/profiles/io/xpp3/ProfilesXpp3Reader/parseRepositoryBase(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-profile-2.0.6.jar.txt	4
+org/apache/maven/profiles/io/xpp3/ProfilesXpp3Reader/parseRepository(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-profile-2.0.6.jar.txt	3
+org/apache/maven/plugin/registry/io/xpp3/PluginRegistryXpp3Reader/parsePluginRegistry(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-plugin-registry-2.0.6.jar.txt	0

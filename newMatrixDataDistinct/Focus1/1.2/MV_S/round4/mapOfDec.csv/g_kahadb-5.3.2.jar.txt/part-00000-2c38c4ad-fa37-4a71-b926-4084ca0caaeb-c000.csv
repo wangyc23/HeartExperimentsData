@@ -1,0 +1,5 @@
+org/apache/activemq/transport/http/HttpClientTransport/doStart()@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/kaha/impl/KahaStore/lock()@g_activemq-all-5.7.0.jar.txt	1
+org/apache/activemq/kaha/impl/KahaStore/lock()@g_activemq-core-5.3.2.jar.txt	0
+org/apache/kahadb/util/LockFile/lock()@g_activemq-all-5.7.0.jar.txt	3
+org/apache/activemq/kaha/impl/async/ControlFile/lock()@g_activemq-all-5.7.0.jar.txt	2

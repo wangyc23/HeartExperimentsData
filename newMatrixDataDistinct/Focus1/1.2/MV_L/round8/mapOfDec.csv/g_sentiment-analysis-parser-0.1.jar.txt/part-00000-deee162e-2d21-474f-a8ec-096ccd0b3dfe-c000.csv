@@ -1,0 +1,5 @@
+opennlp/tools/cmdline/ArgumentParser/parse(java.lang.String[],java.lang.Class)@g_opennlp-tools-1.8.3.jar.txt	3
+opennlp/tools/cmdline/parser/ParserTool/run(java.lang.String[])@g_opennlp-tools-1.8.3.jar.txt	2
+opennlp/tools/cmdline/CLI/usage()@g_opennlp-tools-1.8.3.jar.txt	0
+opennlp/tools/formats/ad/ADSentenceStream/SentenceParser/parse(java.lang.String,int,boolean,boolean)@g_opennlp-tools-1.8.3.jar.txt	4
+opennlp/tools/cmdline/CLI/usage()@g_opennlp-tools-1.8.2.jar.txt	1

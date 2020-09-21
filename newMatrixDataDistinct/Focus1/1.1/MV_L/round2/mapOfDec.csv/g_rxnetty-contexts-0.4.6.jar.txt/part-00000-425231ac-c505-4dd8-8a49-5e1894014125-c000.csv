@@ -1,0 +1,5 @@
+net/sf/ehcache/CacheManager/createTerracottaStore(net.sf.ehcache.Ehcache)@g_ehcache-core-1.7.2.jar.txt	4
+net/sf/ehcache/distribution/MulticastRMICacheManagerPeerProvider/registerPeer(java.lang.String)@g_ehcache-core-1.7.2.jar.txt	2
+io/reactivex/netty/contexts/ContextSerializationHelper/getSerializedHeader(java.util.Collection,boolean,com.netflix.server.context.DirectionAwareContextSerializer$Direction)@g_rxnetty-contexts-0.4.9.jar.txt	0
+net/sf/ehcache/distribution/RMICacheManagerPeerListener/notifyCacheAdded(java.lang.String)@g_ehcache-core-1.7.2.jar.txt	3
+net/sf/ehcache/Cache/getAllWithLoader(java.util.Collection,java.lang.Object)@g_ehcache-core-1.7.2.jar.txt	1

@@ -1,0 +1,5 @@
+org/codehaus/jackson/map/ser/CustomSerializerFactory/addSpecificMapping(java.lang.Class,org.codehaus.jackson.map.JsonSerializer)@g_neo4j-rest-graphdb-2.0.1.jar.txt	1
+org/codehaus/jackson/map/deser/BasicDeserializerFactory/createMapDeserializer(org.codehaus.jackson.map.DeserializationConfig,org.codehaus.jackson.map.DeserializerProvider,org.codehaus.jackson.map.type.MapType,org.codehaus.jackson.map.BeanProperty)@g_neo4j-rest-graphdb-2.0.1.jar.txt	3
+org/neo4j/rest/graphdb/ExecutingRestAPI/toNodeIterableResult(org.neo4j.rest.graphdb.RequestResult)@g_neo4j-rest-graphdb-2.0.1.jar.txt	2
+org/codehaus/jackson/map/jsontype/impl/ClassNameIdResolver/_idFrom(java.lang.Object,java.lang.Class)@g_neo4j-rest-graphdb-2.0.1.jar.txt	4
+org/codehaus/jackson/map/ser/std/MapSerializer/serializeFieldsUsing(java.util.Map,org.codehaus.jackson.JsonGenerator,org.codehaus.jackson.map.SerializerProvider,org.codehaus.jackson.map.JsonSerializer)@g_neo4j-rest-graphdb-2.0.1.jar.txt	0

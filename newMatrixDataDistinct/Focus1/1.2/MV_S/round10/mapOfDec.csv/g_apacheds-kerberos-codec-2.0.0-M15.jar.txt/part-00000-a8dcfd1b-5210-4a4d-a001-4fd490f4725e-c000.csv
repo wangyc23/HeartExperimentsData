@@ -1,0 +1,5 @@
+net/sf/ehcache/writer/writebehind/CoalesceKeysFilter/filter(java.util.List,net.sf.ehcache.writer.writebehind.OperationConverter)@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/hibernate/management/impl/QueryStats/fromTabularData(javax.management.openmbean.TabularData)@g_ehcache-core-2.6.2.jar.txt	2
+org/apache/directory/api/util/Strings/listToString(java.util.List,java.lang.String)@g_api-util-1.0.0-M20.jar.txt	0
+net/sf/ehcache/pool/impl/AbstractBalancedAccessEvictor/freeSpace(java.util.Collection,long)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/config/ConfigurationHelper/createDefaultCacheDecorators(net.sf.ehcache.Ehcache,net.sf.ehcache.config.CacheConfiguration)@g_ehcache-core-2.6.2.jar.txt	1

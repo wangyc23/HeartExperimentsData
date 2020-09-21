@@ -1,0 +1,5 @@
+org/bouncycastle/asn1/util/ASN1Dump/outputApplicationSpecific(java.lang.String,java.lang.String,boolean,org.bouncycastle.asn1.ASN1Primitive,java.lang.String)@g_bcprov-jdk15on-1.47.jar.txt	3
+org/bouncycastle/mozilla/SignedPublicKeyAndChallenge/getPublicKey(java.lang.String)@g_bcprov-jdk15on-1.47.jar.txt	2
+org/bouncycastle/cert/dane/fetcher/JndiDANEFetcherFactory/build(java.lang.String)@g_bcprov-jdk15on-1.47.jar.txt	4
+org/bouncycastle/x509/examples/AttrCertExample/createClientCert(java.security.PublicKey,java.security.PrivateKey,java.security.PublicKey)@g_bcprov-jdk15on-1.47.jar.txt	1
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcprov-jdk15on-1.47.jar.txt	0

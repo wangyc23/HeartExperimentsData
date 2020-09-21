@@ -1,0 +1,5 @@
+org/eclipse/bpmn2/util/QNameURIHandler/deresolve(org.eclipse.emf.common.util.URI)@g_org.eclipse.bpmn2-0.7.0.010.jar.txt	1
+org/eclipse/bpmn2/impl/ExtensionAttributeDefinitionImpl/setExtensionDefinition(org.eclipse.bpmn2.ExtensionDefinition)@g_org.eclipse.bpmn2-0.7.0.010.jar.txt	4
+eu/learnpad/transformations/model2model/ATLTransformation/getModulesList()@g_LearnpadModelTransformation-0.0.1-SNAPSHOT.jar.txt	3
+eu/learnpad/transformations/model2text/generator/AcceleoStandaloneStarter/registerLibraries()@g_LearnpadModelTransformation-0.0.1-SNAPSHOT.jar.txt	2
+eu/learnpad/transformations/model2text/main/WebHome/myInitialize(org.eclipse.emf.common.util.URI,java.io.File,java.util.List)@g_LearnpadModelTransformation-0.0.1-SNAPSHOT.jar.txt	0

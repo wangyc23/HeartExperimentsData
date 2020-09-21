@@ -1,0 +1,4 @@
+java/lang/Throwable/printStackTrace()
+java/io/PrintStream/println(java.lang.String)
+java/lang/Thread/currentThread()
+java/io/InputStream/close()

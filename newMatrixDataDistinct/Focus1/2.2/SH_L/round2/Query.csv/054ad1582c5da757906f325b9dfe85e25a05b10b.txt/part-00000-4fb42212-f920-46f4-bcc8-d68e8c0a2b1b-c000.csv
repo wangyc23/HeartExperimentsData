@@ -1,0 +1,4 @@
+models/Pet/setId(long)
+models/Pet/setPhotoUrls(java.util.List)
+models/Tag/setName(java.lang.String)
+models/Pet/Pet()

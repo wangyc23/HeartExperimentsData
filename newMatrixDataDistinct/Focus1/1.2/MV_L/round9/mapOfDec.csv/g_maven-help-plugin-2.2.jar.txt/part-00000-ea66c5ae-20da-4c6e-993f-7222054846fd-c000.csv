@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/utils/translators/ClassifierTypeTranslator/translate(java.util.Set,org.apache.maven.plugin.logging.Log)@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/tree/TreeMojo/createVerboseDependencyNodeFilter()@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/dependency/utils/resolvers/DefaultArtifactsResolver/resolve(java.util.Set,org.apache.maven.plugin.logging.Log)@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/resolvers/HelpMojo/build()@g_maven-dependency-plugin-2.10.jar.txt	1
+org/apache/maven/plugin/dependency/resolvers/HelpMojo/build()@g_maven-dependency-plugin-2.8.jar.txt	0

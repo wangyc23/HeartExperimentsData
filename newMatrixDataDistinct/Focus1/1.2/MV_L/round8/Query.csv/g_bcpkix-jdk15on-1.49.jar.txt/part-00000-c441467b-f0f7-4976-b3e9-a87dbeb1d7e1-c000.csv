@@ -1,0 +1,4 @@
+org/bouncycastle/asn1/ASN1ObjectIdentifier/getId()
+java/lang/StringBuilder/append(java.lang.String)
+org/bouncycastle/asn1/cms/ContentInfo/getContentType()
+org/bouncycastle/asn1/ASN1ObjectIdentifier/equals(java.lang.Object)

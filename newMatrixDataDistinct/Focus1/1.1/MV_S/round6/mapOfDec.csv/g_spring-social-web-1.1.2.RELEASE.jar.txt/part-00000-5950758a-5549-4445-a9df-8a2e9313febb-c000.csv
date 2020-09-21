@@ -1,0 +1,5 @@
+org/springframework/security/web/authentication/preauth/AbstractPreAuthenticatedProcessingFilter/requiresAuthentication(javax.servlet.http.HttpServletRequest)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	1
+org/springframework/security/web/authentication/rememberme/TokenBasedRememberMeServices/processAutoLoginCookie(java.lang.String[],javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	2
+org/springframework/security/web/session/HttpSessionEventPublisher/sessionCreated(javax.servlet.http.HttpSessionEvent)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	0
+org/springframework/social/facebook/api/impl/FacebookTemplate/delete(java.lang.String,java.lang.String)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	3
+org/springframework/security/web/authentication/preauth/j2ee/WebXmlMappableAttributesRetriever/afterPropertiesSet()@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	4

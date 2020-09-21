@@ -1,0 +1,4 @@
+scala/Predef$/intWrapper(int)
+scala/Predef$/wrapRefArray(java.lang.Object[])
+scala/reflect/api/TypeTags/TypeTag()
+org/apache/bahir/sql/streaming/mqtt/MQTTTextStreamSource$$typecreator3$1/1(org.apache.bahir.sql.streaming.mqtt.MQTTTextStreamSource)

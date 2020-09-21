@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getName()
+java/lang/StringBuilder/StringBuilder()
+org/codehaus/plexus/util/xml/pull/XmlPullParser/nextText()
+java/util/HashSet/HashSet()

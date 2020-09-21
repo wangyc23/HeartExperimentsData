@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/emftvm/util/DefaultModuleResolver/resolveModule(java.lang.String)@g_emftvm-3.6.0.jar.txt	3
+org/eclipse/m2m/atl/emftvm/jit/CodeBlockJIT/generateExecute(org.objectweb.asm.MethodVisitor,org.eclipse.m2m.atl.emftvm.CodeBlock,java.lang.String)@g_emftvm-3.6.0.jar.txt	2
+org/eclipse/m2m/atl/emftvm/impl/MetamodelImpl/registerTypeChain(java.util.Map,org.eclipse.emf.common.util.EList,java.lang.String,java.util.Set,java.util.Set)@g_emftvm-3.6.0.jar.txt	1
+org/eclipse/m2m/atl/emftvm/impl/MetamodelImpl/registerTypeChain(java.util.Map,org.eclipse.emf.ecore.EClassifier,java.lang.String,java.util.Set,java.util.Set)@g_emftvm-3.6.0.jar.txt	4
+org/eclipse/m2m/atl/emftvm/profiler/Profiler/toString()@g_emftvm-3.6.0.jar.txt	0

@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/lang/Throwable/initCause(java.lang.Throwable)
+java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])
+javax/xml/stream/XMLOutputFactory/createXMLEventWriter(java.io.OutputStream)

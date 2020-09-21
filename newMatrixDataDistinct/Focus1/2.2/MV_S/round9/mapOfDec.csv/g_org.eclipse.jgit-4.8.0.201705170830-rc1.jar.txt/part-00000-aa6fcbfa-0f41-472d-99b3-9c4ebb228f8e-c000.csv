@@ -1,0 +1,5 @@
+com/optimaize/langdetect/profiles/LanguageProfileReader/read(java.lang.ClassLoader,java.lang.String,java.util.Collection)@g_language-detector-0.5.jar.txt	0
+com/optimaize/langdetect/profiles/LanguageProfileReader/readAll(java.io.File)@g_language-detector-0.5.jar.txt	1
+com/optimaize/langdetect/NgramFrequencyData/create(java.util.Collection,java.util.Collection)@g_language-detector-0.5.jar.txt	3
+com/cybozu/labs/langdetect/CommandLineInterface/batchTest()@g_language-detector-0.5.jar.txt	2
+com/optimaize/langdetect/ngram/NgramExtractor/extractGrams(java.lang.CharSequence)@g_language-detector-0.5.jar.txt	4

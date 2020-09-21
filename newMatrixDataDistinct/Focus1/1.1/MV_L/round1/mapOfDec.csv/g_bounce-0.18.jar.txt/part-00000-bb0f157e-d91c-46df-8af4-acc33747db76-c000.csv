@@ -1,0 +1,5 @@
+weka/gui/PackageManager/13/hyperlinkUpdate(javax.swing.event.HyperlinkEvent)@g_weka-dev-3.9.1.jar.txt	1
+weka/datagenerators/classifiers/classification/RDG1/RuleList/toString()@g_weka-stable-3.8.0.jar.txt	4
+weka/gui/PackageManager/13/hyperlinkUpdate(javax.swing.event.HyperlinkEvent)@g_weka-stable-3.8.0.jar.txt	0
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_weka-stable-3.8.0.jar.txt	3
+weka/gui/knowledgeflow/steps/SubstringReplacerStepEditorDialog/layoutEditor()@g_weka-stable-3.8.0.jar.txt	2

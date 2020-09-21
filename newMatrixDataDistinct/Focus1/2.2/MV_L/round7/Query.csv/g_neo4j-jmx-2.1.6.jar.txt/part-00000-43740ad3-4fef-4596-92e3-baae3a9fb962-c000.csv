@@ -1,0 +1,4 @@
+org/neo4j/kernel/impl/util/StringLogger/warn(java.lang.String,java.lang.Throwable)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

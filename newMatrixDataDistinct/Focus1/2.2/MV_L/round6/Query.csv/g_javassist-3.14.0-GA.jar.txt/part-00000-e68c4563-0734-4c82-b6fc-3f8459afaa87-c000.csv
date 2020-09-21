@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+java/lang/Class/getComponentType()
+java/lang/StringBuffer/append(char)
+java/lang/Class/isPrimitive()

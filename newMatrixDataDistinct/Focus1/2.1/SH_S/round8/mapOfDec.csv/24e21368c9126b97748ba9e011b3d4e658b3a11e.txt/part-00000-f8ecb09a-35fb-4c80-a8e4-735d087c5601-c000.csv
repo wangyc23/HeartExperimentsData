@@ -1,0 +1,5 @@
+eu/scape_project/archiventory/container/ZipContainerTest/testInit()@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	3
+eu/scape_project/archiventory/Archiventory/createContainer(java.io.InputStream,java.lang.String)@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	1
+eu/scape_project/archiventory/container/ZipContainer/unzip(java.lang.String,java.io.InputStream)@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	2
+eu/scape_project/archiventory/container/TestContainer/createTempTestFile(java.lang.String)@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	0
+de/l3s/warc/reader/ext/WARCFileRecordReader/isHeaderRecord(org.archive.io.ArchiveRecordHeader)@1366438933553c6004dd8ee4c0a67ac4c5829f64.txt	4

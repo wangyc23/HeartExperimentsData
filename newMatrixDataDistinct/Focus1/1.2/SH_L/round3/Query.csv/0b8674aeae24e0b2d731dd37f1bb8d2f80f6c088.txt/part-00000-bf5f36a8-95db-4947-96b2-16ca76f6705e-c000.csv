@@ -1,0 +1,4 @@
+com/salesmanager/web/shop/controller/AbstractController/getSessionAttribute(java.lang.String,com.salesmanager.web.admin.controller.products.HttpServletRequest)
+java/lang/Integer/intValue()
+com/salesmanager/core/business/merchant/model/MerchantStore/getStoreTemplate()
+com/salesmanager/core/business/catalog/product/model/review/ProductReview/setCustomer(com.salesmanager.core.business.customer.model.Customer)

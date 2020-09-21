@@ -1,0 +1,4 @@
+io/netty/buffer/ByteBuf/getUnsignedByte(int)
+io/netty/buffer/ByteBuf/getLong(int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)

@@ -1,0 +1,4 @@
+java/awt/Dimension/Dimension(int,int)
+net/sourceforge/jeuclid/converter/Converter/getInstance()
+java/lang/String/replaceAll(java.lang.String,java.lang.String)
+org/w3c/dom/Element/getAttribute(java.lang.String)

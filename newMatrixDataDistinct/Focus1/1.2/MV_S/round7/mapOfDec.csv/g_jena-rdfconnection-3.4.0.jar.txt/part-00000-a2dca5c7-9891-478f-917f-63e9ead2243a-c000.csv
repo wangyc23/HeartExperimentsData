@@ -1,0 +1,5 @@
+org/apache/jena/query/text/TextQueryPF/objectToStruct(org.apache.jena.sparql.pfunction.PropFuncArg,boolean)@g_jena-text-3.0.0.jar.txt	4
+org/apache/jena/query/text/DatasetGraphText/commit()@g_jena-text-3.0.0.jar.txt	2
+org/eclipse/jetty/websocket/api/extensions/ExtensionConfig/getParameterizedName()@g_websocket-api-9.2.2.v20140723.jar.txt	1
+org/eclipse/jetty/websocket/api/UpgradeRequest/getHeader(java.lang.String)@g_websocket-api-9.2.2.v20140723.jar.txt	0
+org/apache/jena/query/text/TextIndexLucene/doc(org.apache.jena.query.text.Entity)@g_jena-text-3.0.0.jar.txt	3

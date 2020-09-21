@@ -1,0 +1,5 @@
+org/apache/lucene/queries/function/valuesource/TotalTermFreqValueSource/createWeight(java.util.Map,org.apache.lucene.search.IndexSearcher)@g_lucene-queries-6.5.0.jar.txt	4
+org/apache/lucene/queries/CommonTermsQuery/collectTermContext(org.apache.lucene.index.IndexReader,java.util.List,org.apache.lucene.index.TermContext[],org.apache.lucene.index.Term[])@g_lucene-queries-6.5.0.jar.txt	0
+org/apache/lucene/queries/payloads/SpanPayloadCheckQuery/toString(java.lang.String)@g_lucene-queries-6.5.0.jar.txt	2
+org/apache/lucene/queries/CommonTermsQuery/buildQuery(int,org.apache.lucene.index.TermContext[],org.apache.lucene.index.Term[])@g_lucene-queries-6.5.0.jar.txt	3
+org/apache/lucene/queries/CommonTermsQuery/collectTermContext(org.apache.lucene.index.IndexReader,java.util.List,org.apache.lucene.index.TermContext[],org.apache.lucene.index.Term[])@g_lucene-queries-6.6.0.jar.txt	1

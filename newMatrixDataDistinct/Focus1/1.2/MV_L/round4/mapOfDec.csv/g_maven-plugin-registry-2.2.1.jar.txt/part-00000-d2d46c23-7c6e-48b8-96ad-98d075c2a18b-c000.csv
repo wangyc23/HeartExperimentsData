@@ -1,0 +1,5 @@
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writeDependency(org.apache.maven.model.Dependency,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	2
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writePluginExecution(org.apache.maven.model.PluginExecution,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	1
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writePlugin(org.apache.maven.model.Plugin,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	4
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writeModel(org.apache.maven.model.Model,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	0
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writeReportPlugin(org.apache.maven.model.ReportPlugin,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-2.2.1.jar.txt	3

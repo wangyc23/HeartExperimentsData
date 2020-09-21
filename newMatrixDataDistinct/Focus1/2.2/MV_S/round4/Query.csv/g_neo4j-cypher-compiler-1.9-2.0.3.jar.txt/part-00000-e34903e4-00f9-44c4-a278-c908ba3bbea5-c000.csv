@@ -1,0 +1,4 @@
+scala/collection/immutable/List/mkString(java.lang.String)
+scala/collection/immutable/List/isEmpty()
+scala/collection/immutable/List/filter(scala.Function1)
+scala/Tuple2/_1()

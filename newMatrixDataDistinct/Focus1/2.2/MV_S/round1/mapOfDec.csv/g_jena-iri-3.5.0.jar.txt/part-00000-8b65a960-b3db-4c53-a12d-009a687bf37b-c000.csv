@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/renderer/xwiki20/XWikiSyntaxEscapeHandler/escape(java.lang.StringBuffer,org.xwiki.rendering.internal.renderer.xwiki20.XWikiSyntaxListenerChain,boolean,java.util.regex.Pattern)@g_hamcrest-core-1.1.jar.txt	0
+org/apache/jena/iri/impl/ComponentPatternParser/mySplit(java.lang.String)@g_hamcrest-core-1.1.jar.txt	3
+org/xwiki/rendering/internal/renderer/xwiki20/XWikiSyntaxEscapeWikiPrinter/printVerbatimContent(java.lang.String)@g_hamcrest-core-1.1.jar.txt	1
+org/apache/jena/iri/impl/Main/main(java.lang.String[])@g_hamcrest-core-1.1.jar.txt	4
+org/apache/jena/iri/impl/ViolationCodeInfo/specs(int,org.apache.jena.iri.impl.IRIFactoryImpl,java.lang.String)@g_hamcrest-core-1.1.jar.txt	2

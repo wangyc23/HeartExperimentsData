@@ -1,0 +1,4 @@
+java/lang/Character/isISOControl(char)
+java/lang/Character/isWhitespace(char)
+java/lang/Character/isLetterOrDigit(char)
+java/lang/Character/isLetter(char)

@@ -1,0 +1,4 @@
+java/util/concurrent/atomic/AtomicReference/set(V)
+java/util/concurrent/atomic/AtomicReference/get()
+com/adobe/acs/commons/workflow/bulk/removal/WorkflowRemovalStatus/setForceQuitAt(java.util.Calendar)
+java/util/concurrent/atomic/AtomicBoolean/set(boolean)

@@ -1,0 +1,5 @@
+org/apache/commons/math/stat/Frequency/getCumFreq(java.lang.Comparable)@g_commons-math-2.2.jar.txt	4
+org/apache/commons/math/analysis/interpolation/MicrosphereInterpolatingFunction/value(double[])@g_commons-math-2.2.jar.txt	3
+org/apache/commons/math/util/TransformerMap/equals(java.lang.Object)@g_commons-math-2.2.jar.txt	2
+org/apache/commons/math/ode/AbstractIntegrator/acceptStep(org.apache.commons.math.ode.sampling.AbstractStepInterpolator,double[],double[],double)@g_commons-math-2.2.jar.txt	1
+org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator/integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[])@g_commons-math-2.2.jar.txt	0

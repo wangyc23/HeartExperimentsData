@@ -1,0 +1,4 @@
+java/io/FileInputStream/available()
+java/lang/StringBuffer/toString()
+java/io/FileInputStream/close()
+java/lang/StringBuffer/StringBuffer(java.lang.String)

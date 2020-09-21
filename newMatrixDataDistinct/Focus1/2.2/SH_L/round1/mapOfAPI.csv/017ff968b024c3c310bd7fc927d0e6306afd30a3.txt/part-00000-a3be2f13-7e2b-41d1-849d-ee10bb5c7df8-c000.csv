@@ -1,0 +1,4 @@
+0	org/hibernate/Session/beginTransaction()
+1	org/recipesearch/hibernatesearch/util/Indexer/indexWithHibernate()
+2	org/hibernate/Session/getTransaction()
+3	org/recipesearch/hibernatesearch/util/Indexer/Indexer()

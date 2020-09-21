@@ -1,0 +1,5 @@
+org/openrdf/rio/turtle/TurtleWriter/startRDF()@g_sesame-rio-turtle-2.7.9.jar.txt	1
+org/openrdf/rio/turtle/TurtleWriter/startRDF()@g_sesame-rio-turtle-2.7.16.jar.txt	3
+org/openrdf/rio/turtle/TurtleParser/parseURI()@g_sesame-rio-turtle-2.7.9.jar.txt	4
+org/openrdf/rio/turtle/TurtleWriter/handleStatement(org.openrdf.model.Statement)@g_sesame-rio-turtle-2.7.9.jar.txt	0
+org/openrdf/rio/turtle/TurtleWriter/handleStatement(org.openrdf.model.Statement)@g_sesame-rio-turtle-2.7.16.jar.txt	2

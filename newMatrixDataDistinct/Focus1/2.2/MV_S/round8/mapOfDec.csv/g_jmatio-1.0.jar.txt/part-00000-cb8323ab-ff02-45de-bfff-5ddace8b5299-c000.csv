@@ -1,0 +1,5 @@
+com/healthmarketscience/jackcess/impl/TableImpl/readColumnUsageMaps(java.nio.ByteBuffer)@g_jackcess-2.1.8.jar.txt	3
+com/healthmarketscience/jackcess/impl/IndexPageCache/splitDataPage(com.healthmarketscience.jackcess.impl.IndexPageCache$CacheDataPage)@g_jackcess-2.1.8.jar.txt	1
+com/healthmarketscience/jackcess/impl/IndexPageCache/updateEntry(com.healthmarketscience.jackcess.impl.IndexPageCache$CacheDataPage,int,com.healthmarketscience.jackcess.impl.IndexData$Entry,com.healthmarketscience.jackcess.impl.IndexPageCache$UpdateType)@g_jackcess-2.1.8.jar.txt	4
+org/neo4j/kernel/impl/locking/community/RagManager/checkWaitOnRecursive(javax.transaction.Transaction,javax.transaction.Transaction,java.util.List,java.util.Stack)@g_neo4j-kernel-2.1.7.jar.txt	0
+com/healthmarketscience/jackcess/impl/JetFormat/getFormat(java.nio.channels.FileChannel)@g_jackcess-2.1.8.jar.txt	2

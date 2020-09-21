@@ -1,0 +1,4 @@
+java/util/Map/get(java.lang.Object)
+feign/ReflectiveFeign$FeignInvocationHandler/hashCode()
+java/lang/reflect/Method/getName()
+java/lang/Boolean/valueOf(boolean)

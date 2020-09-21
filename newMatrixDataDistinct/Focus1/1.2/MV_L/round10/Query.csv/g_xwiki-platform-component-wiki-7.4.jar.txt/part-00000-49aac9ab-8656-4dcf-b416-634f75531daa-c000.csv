@@ -1,0 +1,4 @@
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/lang/Class/getName()
+java/lang/reflect/Method/getName()
+java/lang/Object/toString()

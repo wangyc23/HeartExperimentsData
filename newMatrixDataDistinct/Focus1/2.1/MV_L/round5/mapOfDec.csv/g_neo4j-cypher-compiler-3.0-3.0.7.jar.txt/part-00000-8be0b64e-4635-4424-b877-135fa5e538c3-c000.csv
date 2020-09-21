@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_0/planner/logical/cardinality/assumeIndependence/PatternSelectivityCalculator/anonfun/6/anonfun/apply/3/anonfun/apply/4/apply(org.neo4j.cypher.internal.compiler.v3_0.planner.logical.cardinality.TokenSpec)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_0/ast/rewriters/inliningContextCreator/anonfun/apply/1/applyOrElse(java.lang.Object,scala.Function1)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	2
+org/neo4j/cypher/internal/compiler/v3_0/planner/logical/steps/getDegreeRewriter/anonfun/rewriter/1/applyOrElse(java.lang.Object,scala.Function1)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	1
+org/neo4j/cypher/internal/compiler/v3_0/planner/logical/steps/triadicSelectionFinder/matchingRelationshipPattern(org.neo4j.cypher.internal.frontend.v3_0.ast.PatternExpression,java.lang.String,java.lang.String,scala.collection.Seq,org.neo4j.cypher.internal.frontend.v3_0.SemanticDirection)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	0
+org/neo4j/cypher/internal/compiler/v3_0/pipes/SlicePipe/planDescription()@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	3

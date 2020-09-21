@@ -1,0 +1,5 @@
+org/apache/maven/plugin/surefire/SurefireDependencyResolver/getProviderClasspath(java.lang.String,java.lang.String,org.apache.maven.artifact.Artifact)@g_maven-surefire-common-2.12.4.jar.txt	0
+org/codehaus/plexus/util/FileUtils/loadFile(java.io.File)@g_maven-surefire-common-2.12.4.jar.txt	1
+org/codehaus/plexus/util/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_maven-surefire-common-2.12.4.jar.txt	4
+org/apache/maven/plugin/surefire/ProviderList/resolve(org.apache.maven.plugin.logging.Log)@g_maven-surefire-common-2.12.4.jar.txt	2
+org/apache/maven/plugin/surefire/report/plexus/util/xml/Xpp3DomBuilder/build(org.apache.maven.plugin.surefire.report.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-surefire-common-2.12.4.jar.txt	3

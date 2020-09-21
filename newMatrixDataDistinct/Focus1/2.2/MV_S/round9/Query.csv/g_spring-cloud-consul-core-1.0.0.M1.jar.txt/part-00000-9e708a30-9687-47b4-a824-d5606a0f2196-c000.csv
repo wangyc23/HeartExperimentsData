@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+com/ecwid/consul/v1/ConsulClient/getCatalogServices(com.ecwid.consul.v1.QueryParams)
+com/ecwid/consul/v1/ConsulClient/getCatalogNodes(com.ecwid.consul.v1.QueryParams)

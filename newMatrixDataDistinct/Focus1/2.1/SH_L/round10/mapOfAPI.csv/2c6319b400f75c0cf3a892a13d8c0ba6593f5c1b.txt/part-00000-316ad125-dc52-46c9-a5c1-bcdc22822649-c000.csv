@@ -1,0 +1,6 @@
+0	org/springside/modules/test/selenium/Selenium2/open(java.lang.String)
+1	org/springside/modules/test/selenium/Selenium2/type(org.springside.modules.test.selenium.By,java.lang.String)
+2	javax/persistence/EntityManager/getEntityManagerFactory()
+3	org/springside/modules/test/selenium/Selenium2/getValue(org.springside.modules.test.selenium.By)
+4	org/springside/modules/test/selenium/Selenium2/getTitle()
+5	org/springside/modules/test/selenium/Selenium2/click(org.springside.modules.test.selenium.By)

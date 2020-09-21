@@ -1,0 +1,5 @@
+org/apache/activemq/protobuf/compiler/AltJavaGenerator/generateEnum(org.apache.activemq.protobuf.compiler.EnumDescriptor)@g_activemq-all-5.7.0.jar.txt	1
+org/apache/activemq/protobuf/compiler/JavaGenerator/generateEnum(org.apache.activemq.protobuf.compiler.EnumDescriptor)@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/openwire/tool/CSharpMarshallingGenerator/generateTightMarshal2Body(java.io.PrintWriter)@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/openwire/tool/JavaMarshallingGenerator/generateTightMarshal1Body(java.io.PrintWriter)@g_activemq-all-5.7.0.jar.txt	3
+org/apache/activemq/openwire/tool/JavaMarshallingGenerator/generateLooseMarshalBody(java.io.PrintWriter)@g_activemq-all-5.7.0.jar.txt	2

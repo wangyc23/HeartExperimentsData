@@ -1,0 +1,5 @@
+com/google/common/util/concurrent/MoreExecutors/invokeAnyImpl(com.google.common.util.concurrent.ListeningExecutorService,java.util.Collection,boolean,long,java.util.concurrent.TimeUnit)@g_guava-20.0.jar.txt	3
+com/google/common/collect/Serialization/writeMultimap(com.google.common.collect.Multimap,java.io.ObjectOutputStream)@g_guava-20.0.jar.txt	2
+com/google/common/collect/ImmutableSortedMultiset/copyOfSortedEntries(java.util.Comparator,java.util.Collection)@g_guava-22.0.jar.txt	1
+com/google/common/collect/Maps/EntrySet/retainAll(java.util.Collection)@g_guava-20.0.jar.txt	4
+com/google/common/collect/ImmutableSortedMultiset/copyOfSortedEntries(java.util.Comparator,java.util.Collection)@g_guava-20.0.jar.txt	0

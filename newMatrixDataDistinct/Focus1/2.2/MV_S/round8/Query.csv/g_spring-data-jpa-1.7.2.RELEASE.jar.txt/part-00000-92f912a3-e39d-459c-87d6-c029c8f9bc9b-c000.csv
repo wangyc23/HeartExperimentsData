@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+javax/persistence/TypedQuery/getResultList()
+java/util/Iterator/hasNext()
+org/springframework/data/jpa/repository/support/SimpleJpaRepository$ByIdsSpecification/ByIdsSpecification(org.springframework.data.jpa.repository.support.JpaEntityInformation)

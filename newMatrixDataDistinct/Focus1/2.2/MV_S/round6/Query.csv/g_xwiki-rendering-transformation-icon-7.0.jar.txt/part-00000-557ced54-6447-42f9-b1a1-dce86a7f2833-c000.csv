@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+org/xwiki/rendering/listener/reference/ResourceReference/ResourceReference(java.lang.String,org.xwiki.rendering.listener.reference.ResourceType)
+org/xwiki/rendering/block/Block/getChildren()

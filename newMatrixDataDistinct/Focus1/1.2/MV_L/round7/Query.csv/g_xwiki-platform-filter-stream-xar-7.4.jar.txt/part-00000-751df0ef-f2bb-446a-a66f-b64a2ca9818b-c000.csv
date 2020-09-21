@@ -1,0 +1,4 @@
+org/xwiki/model/reference/LocalDocumentReference/getParent()
+org/xwiki/model/reference/LocalDocumentReference/getName()
+org/xwiki/filter/FilterEventParameters/get(java.lang.Object)
+org/xwiki/filter/xml/internal/output/FilterStreamXMLStreamWriter/writeStartElement(java.lang.String)

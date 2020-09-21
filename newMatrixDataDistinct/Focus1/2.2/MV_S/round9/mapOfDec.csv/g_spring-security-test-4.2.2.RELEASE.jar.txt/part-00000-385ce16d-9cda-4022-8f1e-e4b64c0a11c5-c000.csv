@@ -1,0 +1,5 @@
+org/springframework/security/oauth2/config/xml/ConfigUtils/createSecurityMetadataSource(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-web-4.0.0.RELEASE.jar.txt	2
+org/springframework/security/oauth2/provider/token/store/KeyStoreKeyFactory/getKeyPair(java.lang.String,char[])@g_spring-security-web-4.0.0.RELEASE.jar.txt	4
+org/springframework/security/web/authentication/switchuser/SwitchUserFilter/getSourceAuthentication(org.springframework.security.core.Authentication)@g_spring-security-web-4.0.0.RELEASE.jar.txt	3
+org/springframework/security/web/session/HttpSessionEventPublisher/sessionCreated(javax.servlet.http.HttpSessionEvent)@g_spring-security-web-4.0.0.RELEASE.jar.txt	1
+org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerSecurityConfiguration/configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)@g_spring-security-web-4.0.0.RELEASE.jar.txt	0

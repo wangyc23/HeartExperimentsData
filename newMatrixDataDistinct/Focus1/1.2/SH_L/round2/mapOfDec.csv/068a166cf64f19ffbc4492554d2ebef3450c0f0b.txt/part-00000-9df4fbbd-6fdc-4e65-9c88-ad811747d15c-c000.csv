@@ -1,0 +1,5 @@
+com/salesforce/phoenix/query/ConnectionQueryServicesImpl/createTable(java.util.List,boolean,java.util.Map,java.util.List,byte[][])@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	3
+com/salesforce/phoenix/coprocessor/MetaDataEndpointImpl/mutateColumn(java.util.List,com.salesforce.phoenix.coprocessor.MetaDataEndpointImpl.Verifier)@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	0
+com/salesforce/phoenix/coprocessor/MetaDataEndpointImpl/createTable(java.util.List)@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	1
+com/salesforce/phoenix/util/SchemaUtil/getTableDisplayName(byte[],byte[])@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	4
+com/salesforce/phoenix/coprocessor/MetaDataEndpointImpl/dropTable(java.util.List,boolean)@0df221feccd902c3588acb543ef30e8fda34e6eb.txt	2

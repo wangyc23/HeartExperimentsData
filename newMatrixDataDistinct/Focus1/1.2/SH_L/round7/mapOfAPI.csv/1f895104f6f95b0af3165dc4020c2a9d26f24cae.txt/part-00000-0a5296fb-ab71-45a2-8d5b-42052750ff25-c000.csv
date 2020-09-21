@@ -1,0 +1,7 @@
+0	com/ibm/taste/example/movie/model/RecommendMovieList/getRecommendMovies()
+1	com/payneteasy/superfly/security/authentication/CompoundAuthentication/addReadyAuthentication(com.payneteasy.superfly.web.security.Authentication)
+2	com/ibm/taste/example/movie/model/RecommendMovie/toString()
+3	com/payneteasy/superfly/security/processor/SSOUserShortCircuitingPostProcessor/postProcess(com.payneteasy.superfly.web.security.Authentication)
+4	com/payneteasy/superfly/security/AbstractSSOUserAwareTest/createSSOUser(int)
+5	java/io/PrintWriter/println(java.lang.String)
+6	com/payneteasy/superfly/security/authentication/SSOUserTransportAuthenticationToken/SSOUserTransportAuthenticationToken(com.payneteasy.superfly.api.SSOUser)

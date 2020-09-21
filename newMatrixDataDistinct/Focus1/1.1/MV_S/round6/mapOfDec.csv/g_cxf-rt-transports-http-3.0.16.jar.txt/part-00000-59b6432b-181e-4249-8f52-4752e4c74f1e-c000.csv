@@ -1,0 +1,5 @@
+org/apache/cxf/transport/http/HTTPConduit/convertToAbsoluteUrlIfNeeded(java.lang.String,java.lang.String,java.lang.String,org.apache.cxf.message.Message)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	1
+org/apache/cxf/transport/http/HTTPConduit/detectAuthorizationLoop(java.lang.String,org.apache.cxf.message.Message,java.net.URI,java.lang.String)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/transport/http/HTTPConduit/WrappedOutputStream/handleResponseInternal()@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/transport/http/HTTPConduit/checkAllowedRedirectUri(java.lang.String,java.lang.String,java.lang.String,org.apache.cxf.message.Message)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/transport/http/AbstractHTTPDestination/setEncoding(org.apache.cxf.message.Message,javax.servlet.http.HttpServletRequest,java.lang.String)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	0

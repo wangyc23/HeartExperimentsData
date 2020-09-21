@@ -1,0 +1,4 @@
+java/io/File/getParent()
+java/util/Iterator/hasNext()
+java/util/Collection/isEmpty()
+java/util/Iterator/next()

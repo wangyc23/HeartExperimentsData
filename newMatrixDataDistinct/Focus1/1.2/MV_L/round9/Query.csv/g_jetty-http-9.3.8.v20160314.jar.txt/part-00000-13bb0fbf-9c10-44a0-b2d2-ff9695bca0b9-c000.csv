@@ -1,0 +1,4 @@
+java/lang/IllegalStateException/IllegalStateException()
+org/eclipse/jetty/http/HttpVersion/ordinal()
+org/eclipse/jetty/util/BufferUtil/flipToFill(java.nio.ByteBuffer)
+org/eclipse/jetty/http/HttpGenerator$State/ordinal()

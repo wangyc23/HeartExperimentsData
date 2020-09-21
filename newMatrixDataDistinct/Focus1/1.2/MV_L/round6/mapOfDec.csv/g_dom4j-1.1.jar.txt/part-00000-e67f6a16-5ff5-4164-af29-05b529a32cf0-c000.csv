@@ -1,0 +1,5 @@
+org/jdom/output/XMLOutputter/escapeAttributeEntities(java.lang.String)@g_jdom-1.0.jar.txt	2
+org/jdom/input/SAXBuilder/fileToURL(java.io.File)@g_jdom-1.0.jar.txt	3
+org/jdom/ProcessingInstruction/parseData(java.lang.String)@g_jdom-1.0.jar.txt	4
+org/jdom/output/XMLOutputter/toString()@g_jdom-1.0.jar.txt	1
+org/jdom/output/XMLOutputter/escapeElementEntities(java.lang.String)@g_jdom-1.0.jar.txt	0

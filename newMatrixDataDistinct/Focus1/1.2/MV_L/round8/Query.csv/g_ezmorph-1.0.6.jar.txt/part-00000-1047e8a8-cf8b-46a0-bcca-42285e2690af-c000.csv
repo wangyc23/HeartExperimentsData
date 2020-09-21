@@ -1,0 +1,4 @@
+java/lang/reflect/Array/newInstance(java.lang.Class,int[])
+java/lang/reflect/Array/getLength(java.lang.Object)
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/Throwable/getMessage()

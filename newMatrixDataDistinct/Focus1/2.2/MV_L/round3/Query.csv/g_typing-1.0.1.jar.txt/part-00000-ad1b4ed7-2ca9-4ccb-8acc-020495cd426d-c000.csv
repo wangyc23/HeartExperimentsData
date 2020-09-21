@@ -1,0 +1,4 @@
+java/util/stream/Stream/map(java.util.function.Function)
+java/lang/String/valueOf(java.lang.Object)
+java/util/stream/Stream/collect(java.util.stream.Collector)
+anatlyzer/atl/graph/CallExprNode/followDepending(java.util.function.Consumer)

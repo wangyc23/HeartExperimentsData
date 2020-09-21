@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/engine/emfvm/adapter/EMFModelAdapter/setID(java.lang.Object,java.lang.Object)@g_engine.emfvm-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/engine/emfvm/ASMOperation/exec(org.eclipse.m2m.atl.engine.emfvm.lib.AbstractStackFrame,org.eclipse.core.runtime.IProgressMonitor)@g_engine.emfvm-3.4.0.jar.txt	0
+org/eclipse/m2m/atl/engine/emfvm/adapter/EMFModelAdapter/registerVMTypeOperations(java.util.Map)@g_engine.emfvm-3.4.0.jar.txt	1
+org/eclipse/m2m/atl/engine/emfvm/adapter/EMFModelAdapter/internalSet(org.eclipse.m2m.atl.engine.emfvm.lib.AbstractStackFrame,java.lang.Object,org.eclipse.emf.ecore.EObject,org.eclipse.emf.ecore.EStructuralFeature)@g_engine.emfvm-3.4.0.jar.txt	2
+org/eclipse/m2m/atl/engine/emfvm/lib/TransientLinkSet/addLink2(org.eclipse.m2m.atl.engine.emfvm.lib.TransientLink,boolean)@g_engine.emfvm-3.4.0.jar.txt	3

@@ -1,0 +1,5 @@
+ucar/nc2/iosp/uamiv/UAMIVServiceProvider/readData(ucar.nc2.Variable,ucar.ma2.Section)@g_spice-zapper-1.2.jar.txt	4
+ucar/nc2/dt/point/WriterCFStationObsDataset/createRecordVariables(java.util.List)@g_spice-zapper-1.2.jar.txt	3
+ucar/nc2/iosp/gempak/GempakParameterTable/getInputStream(java.lang.String)@g_spice-zapper-1.2.jar.txt	0
+org/sonatype/spice/zapper/internal/protobuf/protos/ZapperProtos/SegmentFooter/Builder/mergeFrom(com.google.protobuf.CodedInputStream,com.google.protobuf.ExtensionRegistryLite)@g_spice-zapper-1.2.jar.txt	1
+ucar/nc2/iosp/nids/Nidsheader/convert(byte[],ucar.ma2.DataType,int,int)@g_spice-zapper-1.2.jar.txt	2

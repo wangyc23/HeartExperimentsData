@@ -1,0 +1,5 @@
+net/arnx/jsonic/web/GatewayFilter/doFilter(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.servlet.FilterChain)@g_plexus-digest-1.0.jar.txt	4
+net/arnx/jsonic/JSON/Context/getSetProperties(java.lang.Class)@g_plexus-digest-1.0.jar.txt	2
+org/jmock/internal/ReturnDefaultValueAction/createDefaultResults()@g_jmock-2.6.0.jar.txt	0
+net/arnx/jsonic/ClassConverter/convert(net.arnx.jsonic.JSON,net.arnx.jsonic.JSON$Context,java.lang.Object,java.lang.Class,java.lang.reflect.Type)@g_plexus-digest-1.0.jar.txt	3
+net/arnx/jsonic/ByteConverter/convert(net.arnx.jsonic.JSON,net.arnx.jsonic.JSON$Context,java.lang.Object,java.lang.Class,java.lang.reflect.Type)@g_plexus-digest-1.0.jar.txt	1

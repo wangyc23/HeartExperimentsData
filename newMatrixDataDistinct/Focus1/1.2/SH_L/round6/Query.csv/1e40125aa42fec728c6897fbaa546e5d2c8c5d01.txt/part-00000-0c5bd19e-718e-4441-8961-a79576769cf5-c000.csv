@@ -1,0 +1,4 @@
+de/jetwick/snacktory/HtmlFetcher/getFromCache(java.lang.String,java.lang.String)
+de/jetwick/snacktory/JResult/setFaviconUrl(java.lang.String)
+de/jetwick/snacktory/JResult/setRssUrl(java.lang.String)
+java/lang/String/toLowerCase()

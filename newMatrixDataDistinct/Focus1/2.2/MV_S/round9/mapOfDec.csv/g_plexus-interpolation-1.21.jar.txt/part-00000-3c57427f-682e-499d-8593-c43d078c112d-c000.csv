@@ -1,0 +1,5 @@
+org/codehaus/plexus/interpolation/os/OperatingSystemUtils/getSystemEnvVars(boolean)@g_xwiki-commons-component-api-7.0.jar.txt	2
+org/codehaus/plexus/interpolation/object/FieldBasedObjectInterpolator/InterpolateObjectAction/interpolateMap(java.lang.Object,java.lang.String,java.lang.reflect.Field)@g_xwiki-commons-component-api-7.0.jar.txt	3
+org/codehaus/plexus/interpolation/multi/MultiDelimiterInterpolatorFilterReader/read()@g_xwiki-commons-component-api-7.0.jar.txt	4
+org/codehaus/plexus/interpolation/object/FieldBasedObjectInterpolator/InterpolateObjectAction/evaluateArray(java.lang.Object,java.lang.String)@g_xwiki-commons-component-api-7.0.jar.txt	1
+org/xwiki/component/util/ReflectionUtils/unserializeType(java.lang.String,java.lang.ClassLoader)@g_xwiki-commons-component-api-7.0.jar.txt	0

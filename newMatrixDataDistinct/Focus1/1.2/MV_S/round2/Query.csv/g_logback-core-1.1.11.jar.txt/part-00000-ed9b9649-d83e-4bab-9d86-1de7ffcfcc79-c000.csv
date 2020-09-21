@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/ClassLoader/loadClass(java.lang.String)

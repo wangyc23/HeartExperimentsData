@@ -1,0 +1,5 @@
+org/neo4j/bolt/v1/messaging/PackStreamMessageFormatV1/Reader/read(org.neo4j.bolt.v1.messaging.MessageHandler)@g_neo4j-server-3.0.1.jar.txt	4
+org/neo4j/server/rest/batch/StreamingBatchOperationResults/writeError(int,java.lang.String)@g_neo4j-server-3.0.1.jar.txt	1
+org/neo4j/server/rest/repr/PathRepresentation/directions()@g_neo4j-server-3.0.1.jar.txt	2
+org/neo4j/server/plugins/PluginPointFactoryImpl/createFrom(org.neo4j.server.plugins.ServerPlugin,java.lang.reflect.Method,java.lang.Class)@g_neo4j-server-3.0.1.jar.txt	3
+org/neo4j/shell/kernel/apps/TransactionProvidingApp/toExpander(org.neo4j.graphdb.GraphDatabaseService,org.neo4j.graphdb.Direction,java.util.Map,boolean,boolean)@g_neo4j-server-3.0.1.jar.txt	0

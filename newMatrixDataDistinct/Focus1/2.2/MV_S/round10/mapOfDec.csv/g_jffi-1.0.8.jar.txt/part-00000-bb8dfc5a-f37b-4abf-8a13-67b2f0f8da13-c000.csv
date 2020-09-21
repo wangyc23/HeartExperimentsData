@@ -1,0 +1,5 @@
+com/github/fommil/jni/JniLoader/liberalLoad(java.io.File,java.lang.String)@g_jniloader-1.1.jar.txt	4
+com/github/fommil/jni/JniLoader/load(java.lang.String[])@g_jniloader-1.1.jar.txt	2
+com/sun/jna/Native/register(java.lang.Class,com.sun.jna.NativeLibrary)@g_jna-4.1.0.jar.txt	1
+com/sun/jna/Library/Handler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_jna-4.1.0.jar.txt	0
+com/github/fommil/jni/JniNamer/abi(java.lang.String)@g_jniloader-1.1.jar.txt	3

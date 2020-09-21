@@ -1,0 +1,5 @@
+com/iluwatar/featuretoggle/pattern/tieredversion/TieredFeatureToggleVersionTest/setUp()@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	3
+com/iluwatar/caching/DbManager/upsertDb(com.iluwatar.caching.UserAccount)@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	2
+com/iluwatar/dao/DbCustomerDaoTest/ConnectionSuccess/ExistingCustomer/updationShouldBeSuccessAndAccessingTheSameCustomerShouldReturnUpdatedInformation()@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	1
+com/epimorphics/sparql/query/QueryShape/appendWhere(com.epimorphics.sparql.templates.Settings,java.lang.StringBuilder)@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	4
+com/epimorphics/rdfutil/RDFNodeWrapper/toString()@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	0

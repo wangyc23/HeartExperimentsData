@@ -1,0 +1,8 @@
+0	io/dropwizard/logging/DefaultLoggingFactory/setAppenders(java.util.List)
+1	zipkin/storage/cassandra/CassandraSpanStore/getServiceNames()
+2	io/dropwizard/logging/DefaultLoggingFactoryPrintErrorMessagesTest/newFileAppenderFactory(java.io.File)
+3	zipkin/storage/cassandra/CassandraSpanStore/getTraceIdsBySpanName(java.lang.String,java.lang.String,long,long,int)
+4	io/dropwizard/validation/valuehandling/OptionalIntValidatedValueUnwrapperTest/Example/Example()
+5	java/util/OptionalInt/of(int)
+6	java/util/Collections/singletonList(T)
+7	zipkin/storage/cassandra/CassandraSpanStore/getTraceIdsByServiceNames(java.util.List,long,long,int)

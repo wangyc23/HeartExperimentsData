@@ -1,0 +1,5 @@
+org/apache/batik/dom/svg/AbstractSVGMatrix/multiply(org.w3c.dom.svg.SVGMatrix)@g_batik-svg-dom-1.7.jar.txt	0
+org/apache/batik/dom/svg/SAXSVGDocumentFactory/createDocument(java.lang.String)@g_batik-svg-dom-1.7.jar.txt	3
+org/apache/batik/dom/svg/AbstractSVGTransformList/SVGTransformItem/assign(org.w3c.dom.svg.SVGTransform)@g_batik-svg-dom-1.7.jar.txt	2
+com/github/junrar/util/VolumeHelper/nextVolumeName(java.lang.String,boolean)@g_batik-svg-dom-1.7.jar.txt	4
+org/apache/batik/dom/svg/SVGOMSVGElement/1/matrixTransform(org.w3c.dom.svg.SVGMatrix)@g_batik-svg-dom-1.7.jar.txt	1

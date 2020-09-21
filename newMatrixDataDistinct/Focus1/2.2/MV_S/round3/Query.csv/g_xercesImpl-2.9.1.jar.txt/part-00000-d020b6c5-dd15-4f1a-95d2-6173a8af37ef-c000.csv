@@ -1,0 +1,4 @@
+java/lang/StringBuffer/StringBuffer(int)
+java/util/Vector/size()
+java/util/Vector/isEmpty()
+java/lang/String/indexOf(java.lang.String)

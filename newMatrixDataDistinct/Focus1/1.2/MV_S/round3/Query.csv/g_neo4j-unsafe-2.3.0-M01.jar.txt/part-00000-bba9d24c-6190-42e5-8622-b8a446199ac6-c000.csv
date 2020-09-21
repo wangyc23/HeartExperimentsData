@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/lang/LinkageError/addSuppressed(java.lang.Throwable)
+java/lang/reflect/Field/get(java.lang.Object)
+java/lang/reflect/Field/setAccessible(boolean)

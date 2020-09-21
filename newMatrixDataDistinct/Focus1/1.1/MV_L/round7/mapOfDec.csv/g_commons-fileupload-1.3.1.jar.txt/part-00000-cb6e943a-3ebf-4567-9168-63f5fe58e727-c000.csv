@@ -1,0 +1,5 @@
+org/apache/commons/fileupload/util/Streams/checkFileName(java.lang.String)@g_commons-fileupload-1.3.jar.txt	3
+org/apache/commons/fileupload/disk/DiskFileItem/write(java.io.File)@g_commons-fileupload-1.3.jar.txt	2
+org/apache/commons/fileupload/FileUploadBase/FileItemIteratorImpl/FileItemStreamImpl/1/raiseError(long,long)@g_commons-fileupload-1.3.jar.txt	4
+org/apache/commons/fileupload/FileUploadBase/parseParameterMap(org.apache.commons.fileupload.RequestContext)@g_commons-fileupload-1.3.3.jar.txt	1
+org/apache/commons/fileupload/FileUploadBase/parseParameterMap(org.apache.commons.fileupload.RequestContext)@g_commons-fileupload-1.3.jar.txt	0

@@ -1,0 +1,5 @@
+org/hibernate/cfg/annotations/reflection/JPAOverridenAnnotationReader/buildSqlResultsetMappings(org.dom4j.Element,org.hibernate.cfg.annotations.reflection.XMLContext$Default)@g_hibernate-core-3.6.10.Final.jar.txt	2
+org/hibernate/cfg/annotations/reflection/JPAOverridenAnnotationReader/buildNamedQueries(org.dom4j.Element,boolean,org.hibernate.cfg.annotations.reflection.XMLContext$Default)@g_hibernate-core-3.6.10.Final.jar.txt	0
+org/hibernate/cfg/Configuration/MappingsImpl/getTableUniqueConstraints()@g_hibernate-core-3.6.10.Final.jar.txt	4
+org/hibernate/cfg/annotations/reflection/JPAOverridenAnnotationReader/getCascades(org.hibernate.annotations.common.annotationfactory.AnnotationDescriptor,org.dom4j.Element,org.hibernate.cfg.annotations.reflection.XMLContext$Default)@g_hibernate-core-3.6.10.Final.jar.txt	1
+org/hibernate/cfg/annotations/reflection/JPAOverridenAnnotationReader/getSecondaryTables(org.dom4j.Element,org.hibernate.cfg.annotations.reflection.XMLContext$Default)@g_hibernate-core-3.6.10.Final.jar.txt	3

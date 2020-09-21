@@ -1,0 +1,4 @@
+org/springframework/data/neo4j/mapping/Neo4jPersistentTestBase/readGroup(org.springframework.data.test.snippets.Node)
+org/springframework/data/neo4j/mapping/Neo4jPersistentTestBase/set(java.lang.Iterable)
+org/springframework/data/neo4j/model/Group/getReadOnlyPersons()
+org/springframework/data/neo4j/mapping/Neo4jPersistentTestBase/set(T[])

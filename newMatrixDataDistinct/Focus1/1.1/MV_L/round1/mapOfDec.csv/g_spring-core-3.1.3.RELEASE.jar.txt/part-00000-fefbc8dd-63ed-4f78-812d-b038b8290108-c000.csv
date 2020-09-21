@@ -1,0 +1,5 @@
+org/springframework/util/xml/StaxEventXMLReader/getAttributes(javax.xml.stream.events.StartElement)@g_spring-core-3.1.4.RELEASE.jar.txt	1
+org/springframework/core/env/PropertySourcesPropertyResolver/getPropertyAsClass(java.lang.String,java.lang.Class)@g_spring-core-3.1.4.RELEASE.jar.txt	0
+org/springframework/core/io/support/PathMatchingResourcePatternResolver/doFindMatchingFileSystemResources(java.io.File,java.lang.String)@g_spring-core-3.1.4.RELEASE.jar.txt	4
+org/springframework/core/convert/support/GenericConversionService/findConverterForClassPair(org.springframework.core.convert.TypeDescriptor,org.springframework.core.convert.TypeDescriptor)@g_spring-core-3.1.4.RELEASE.jar.txt	3
+org/springframework/core/convert/support/GenericConversionService/toString()@g_spring-core-3.1.4.RELEASE.jar.txt	2

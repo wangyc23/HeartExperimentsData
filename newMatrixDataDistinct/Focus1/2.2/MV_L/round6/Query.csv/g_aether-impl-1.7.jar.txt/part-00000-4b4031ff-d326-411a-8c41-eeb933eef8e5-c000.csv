@@ -1,0 +1,4 @@
+java/util/Properties/get(java.lang.Object)
+java/io/File/File(java.io.File,java.lang.String)
+java/util/Iterator/hasNext()
+org/sonatype/aether/impl/internal/EnhancedLocalRepositoryManager/getRepository()

@@ -1,0 +1,4 @@
+java/io/File/isDirectory()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/regex/Pattern/quote(java.lang.String)
+java/io/File/File(java.lang.String)

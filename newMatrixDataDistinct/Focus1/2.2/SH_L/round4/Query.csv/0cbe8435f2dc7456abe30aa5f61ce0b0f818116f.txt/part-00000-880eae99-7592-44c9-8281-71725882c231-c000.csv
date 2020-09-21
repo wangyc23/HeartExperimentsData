@@ -1,0 +1,4 @@
+org/ops4j/pax/exam/CoreOptions/mavenBundle()
+org/ops4j/pax/exam/CoreOptions/provision(org.ops4j.pax.exam.options.ProvisionOption<?>[])
+org/ops4j/pax/exam/OptionUtils/combine(org.ops4j.pax.exam.Option[],org.ops4j.pax.exam.Option[])
+org/ops4j/pax/exam/options/MavenArtifactProvisionOption/groupId(java.lang.String)

@@ -1,0 +1,4 @@
+org/w3c/dom/Node/getNodeValue()
+org/w3c/dom/NodeList/getLength()
+org/w3c/dom/Element/getElementsByTagName(java.lang.String)
+org/w3c/dom/Element/getFirstChild()

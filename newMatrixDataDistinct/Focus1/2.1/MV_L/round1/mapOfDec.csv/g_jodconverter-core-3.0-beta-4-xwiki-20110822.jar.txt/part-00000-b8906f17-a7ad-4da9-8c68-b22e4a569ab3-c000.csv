@@ -1,0 +1,5 @@
+py4j/reflection/ReflectionEngine/getPublicStaticFieldNames(java.lang.Class)@g_jniloader-1.1.jar.txt	1
+org/artofsolving/jodconverter/process/LinuxProcessManager/findPid(org.artofsolving.jodconverter.process.ProcessQuery)@g_jniloader-1.1.jar.txt	0
+org/artofsolving/jodconverter/office/OfficeConnection/connect()@g_jniloader-1.1.jar.txt	4
+com/github/fommil/jni/JniLoader/extract(java.lang.String)@g_jniloader-1.1.jar.txt	2
+py4j/commands/DirCommand/execute(java.lang.String,java.io.BufferedReader,java.io.BufferedWriter)@g_jniloader-1.1.jar.txt	3

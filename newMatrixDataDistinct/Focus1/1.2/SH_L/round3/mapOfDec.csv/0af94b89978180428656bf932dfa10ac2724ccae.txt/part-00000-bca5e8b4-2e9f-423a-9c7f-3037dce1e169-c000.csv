@@ -1,0 +1,5 @@
+com/manning/hip/ch3/proto/StockProtos/StockAvg/getSerializedSize()@176eb535f792596923ab1f78f71fe4887c80fe04.txt	2
+com/manning/hip/ch3/proto/StockProtocolBuffersMapReduce/PBReducer/reduce(org.apache.hadoop.io.Text,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	4
+com/manning/hip/ch3/proto/StockProtos/StockAvg/writeTo(com.google.protobuf.CodedOutputStream)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	1
+com/manning/hip/ch3/proto/StockProtos/StockAvg/Builder/clone()@176eb535f792596923ab1f78f71fe4887c80fe04.txt	3
+com/manning/hip/ch3/proto/StockProtos/StockAvg/Builder/mergeFrom(com.manning.hip.ch3.proto.StockProtos.StockAvg)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	0

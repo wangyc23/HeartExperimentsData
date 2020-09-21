@@ -1,0 +1,4 @@
+org/apache/xml/serializer/ToXMLStream/getDoctypePublic()
+org/apache/xml/serializer/ToXMLStream/getEncoding()
+org/apache/xml/serializer/ToXMLStream/getDoctypeSystem()
+java/lang/StringBuffer/toString()

@@ -1,0 +1,5 @@
+cucumber/runtime/formatter/AverageUsageStatisticStrategyTest/calculateNull()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	2
+cucumber/runtime/rhino/RhinoHookDefinition/getLocation(boolean)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	4
+cucumber/runtime/formatter/HTMLFormatter/feature(cucumber.runtime.formatter.Feature)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	1
+cucumber/runtime/junit/SanityChecker/run(java.lang.Class,boolean)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0
+cucumber/runtime/gosu/GosuStepDefinition/getPattern()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	3

@@ -1,0 +1,5 @@
+org/apache/log4j/xml/Log4jEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_log4j-1.2.17.jar.txt	0
+org/apache/log4j/xml/Log4jEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_log4j-1.2.14.jar.txt	1
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_log4j-1.2.17.jar.txt	2
+org/apache/log4j/varia/HUP/run()@g_log4j-1.2.17.jar.txt	4
+org/apache/log4j/PropertyConfigurator/parseAppenderFilters(java.util.Properties,java.lang.String,org.apache.log4j.Appender)@g_log4j-1.2.17.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/tomcat/websocket/PerMessageDeflate/sendMessagePart(java.util.List)@g_tomcat-embed-websocket-8.0.26.jar.txt	0
+org/apache/tomcat/websocket/PerMessageDeflate/getMoreData(byte,boolean,int,java.nio.ByteBuffer)@g_tomcat-embed-websocket-8.0.26.jar.txt	1
+org/apache/tomcat/websocket/pojo/PojoMessageHandlerWholeBinary/decode(java.nio.ByteBuffer)@g_tomcat-embed-websocket-8.0.26.jar.txt	4
+org/apache/tomcat/websocket/WsRemoteEndpointImplBase/OutputBufferSendHandler/write()@g_tomcat-embed-websocket-8.0.26.jar.txt	3
+org/apache/tomcat/websocket/AsyncChannelWrapperSecure/WebSocketSslHandshakeThread/run()@g_tomcat-embed-websocket-8.0.26.jar.txt	2

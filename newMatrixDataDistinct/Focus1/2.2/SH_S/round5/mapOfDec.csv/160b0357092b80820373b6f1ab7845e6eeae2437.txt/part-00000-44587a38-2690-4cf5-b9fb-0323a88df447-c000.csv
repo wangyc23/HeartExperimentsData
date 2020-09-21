@@ -1,0 +1,5 @@
+com/andy/IO/MongoDB/getTemperatures()@080105b957971bcc31b18607f1c02edbfefb5d9d.txt	1
+com/andy/IO/PostgresDB/getTemperatures()@080105b957971bcc31b18607f1c02edbfefb5d9d.txt	4
+com/andy/IO/MongoDB/getQueue()@080105b957971bcc31b18607f1c02edbfefb5d9d.txt	2
+com/andy/IO/MongoDB/getHistory()@080105b957971bcc31b18607f1c02edbfefb5d9d.txt	0
+com/andy/MongoDBTest/testUpdateCycle()@080105b957971bcc31b18607f1c02edbfefb5d9d.txt	3

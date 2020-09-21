@@ -1,0 +1,5 @@
+org/ictclas4j/segment/AdjustSeg/finaAdjust(java.util.ArrayList,org.ictclas4j.segment.PosTagger,org.ictclas4j.segment.PosTagger)@g_ictclas4j-1.0.1.jar.txt	4
+org/ictclas4j/segment/PosTagger/personRecognize(org.ictclas4j.segment.SegGraph,java.util.ArrayList)@g_ictclas4j-1.0.1.jar.txt	2
+org/ictclas4j/utility/GFString/sortByLen(java.util.ArrayList,boolean)@g_ictclas4j-1.0.1.jar.txt	1
+org/ictclas4j/utility/GFString/readTxtFile2(java.lang.String)@g_ictclas4j-1.0.1.jar.txt	3
+org/ictclas4j/utility/GFString/encode7bit(java.lang.String)@g_ictclas4j-1.0.1.jar.txt	0

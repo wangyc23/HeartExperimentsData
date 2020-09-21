@@ -1,0 +1,4 @@
+java/lang/Class/getSimpleName()
+java/util/Iterator/hasNext()
+java/util/concurrent/atomic/AtomicInteger/get()
+java/lang/StringBuilder/StringBuilder(java.lang.String)

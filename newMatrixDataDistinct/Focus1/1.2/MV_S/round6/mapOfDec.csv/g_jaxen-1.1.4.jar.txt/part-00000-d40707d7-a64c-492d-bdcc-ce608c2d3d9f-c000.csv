@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listTokenValues(org.apache.ivy.plugins.repository.Repository,java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/osgi/repo/AbstractOSGiResolver/listTokenValues(java.util.Set,java.util.Map)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorWriter/printInfoTag(org.apache.ivy.core.module.descriptor.ModuleDescriptor,java.io.PrintWriter)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/osgi/p2/P2ArtifactParser/RepositoryHandler/1/childHanlded(org.apache.ivy.osgi.util.DelegetingHandler)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/Main/outputCachePath(org.apache.ivy.Ivy,java.io.File,org.apache.ivy.core.module.descriptor.ModuleDescriptor,java.lang.String[],java.lang.String)@g_ivy-2.3.0.jar.txt	0

@@ -1,0 +1,4 @@
+org/apache/falcon/entity/ClusterHelper/getStorageUrl(org.apache.falcon.entity.Cluster)
+java/util/Properties/setProperty(java.lang.String,java.lang.String)
+org/apache/falcon/util/StartupProperties/get()
+org/apache/falcon/entity/ClusterHelper/getLocation(org.apache.falcon.entity.Cluster,org.apache.falcon.entity.ClusterLocationType)

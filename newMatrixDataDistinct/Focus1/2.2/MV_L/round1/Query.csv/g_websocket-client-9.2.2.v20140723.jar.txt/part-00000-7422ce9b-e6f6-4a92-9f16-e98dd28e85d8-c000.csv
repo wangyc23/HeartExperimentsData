@@ -1,0 +1,4 @@
+org/eclipse/jetty/websocket/client/WebSocketClient/addBean(java.lang.Object)
+java/lang/Class/getSimpleName()
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+java/lang/StringBuilder/append(int)

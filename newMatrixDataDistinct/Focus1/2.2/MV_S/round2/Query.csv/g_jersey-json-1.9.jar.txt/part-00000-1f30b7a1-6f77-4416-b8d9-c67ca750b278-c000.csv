@@ -1,0 +1,4 @@
+org/codehaus/jackson/JsonFactory/createJsonParser(java.io.Reader)
+org/codehaus/jettison/mapped/Configuration/Configuration(java.util.Map)
+com/sun/jersey/core/util/ReaderWriter/readFromAsString(java.io.Reader)
+org/codehaus/jettison/mapped/MappedNamespaceConvention/MappedNamespaceConvention(org.codehaus.jettison.mapped.Configuration)

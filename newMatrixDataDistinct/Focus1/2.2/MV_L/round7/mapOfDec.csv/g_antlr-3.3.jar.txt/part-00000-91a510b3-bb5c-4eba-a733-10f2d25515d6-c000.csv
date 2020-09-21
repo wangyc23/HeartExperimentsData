@@ -1,0 +1,5 @@
+com/github/sommeri/less4j/utils/debugonly/DebugAndTestPrint/printComments(java.util.List)@g_less4j-1.15.4.jar.txt	4
+com/github/sommeri/less4j/utils/debugonly/DebugUtils/doCheckParentChildRelationshipsSanity(com.github.sommeri.less4j.core.ast.ASTCssNode,java.lang.String)@g_less4j-1.15.4.jar.txt	3
+com/github/sommeri/less4j/commandline/CommandLinePrint/ensureDirectory(java.lang.String)@g_less4j-1.15.4.jar.txt	1
+com/github/sommeri/less4j/core/parser/TermBuilder/buildFromLongIdentifier(com.github.sommeri.less4j.core.parser.HiddenTokenAwareTree,com.github.sommeri.less4j.core.parser.HiddenTokenAwareTree)@g_less4j-1.15.4.jar.txt	0
+com/github/sommeri/less4j/utils/Base64/decodeFromFile(java.lang.String)@g_less4j-1.15.4.jar.txt	2

@@ -1,0 +1,4 @@
+com/jetdrone/nashorn/next/RequireJS/RequireJS(xyz.jetdrone.vertx.factory.Vertx)
+java/io/File/File(java.lang.String,java.lang.String)
+java/lang/System/getProperty(java.lang.String)
+com/jetdrone/nashorn/next/RequireJS/main(java.lang.String)

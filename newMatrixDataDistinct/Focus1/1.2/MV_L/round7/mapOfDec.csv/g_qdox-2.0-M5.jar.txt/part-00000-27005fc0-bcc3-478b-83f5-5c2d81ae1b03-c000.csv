@@ -1,0 +1,5 @@
+com/thoughtworks/qdox/model/impl/DefaultJavaParameterizedType/getGenericCanonicalName()@g_qdox-2.0-M3.jar.txt	2
+com/thoughtworks/qdox/model/impl/DefaultJavaMethod/getSignature(boolean,boolean)@g_qdox-2.0-M3.jar.txt	1
+com/thoughtworks/qdox/model/impl/DefaultJavaType/resolve(com.thoughtworks.qdox.model.JavaType,com.thoughtworks.qdox.model.JavaClass,com.thoughtworks.qdox.model.JavaClass)@g_qdox-2.0-M3.jar.txt	4
+com/thoughtworks/qdox/model/impl/DefaultJavaParameterizedType/getGenericValue()@g_qdox-2.0-M3.jar.txt	3
+com/thoughtworks/qdox/builder/impl/ModelBuilder/endMethod(com.thoughtworks.qdox.parser.structs.MethodDef)@g_qdox-2.0-M3.jar.txt	0

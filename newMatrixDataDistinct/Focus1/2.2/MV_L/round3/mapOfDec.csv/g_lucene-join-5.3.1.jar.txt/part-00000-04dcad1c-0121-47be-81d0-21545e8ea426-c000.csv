@@ -1,0 +1,5 @@
+org/apache/lucene/search/join/JoinUtil/createJoinQuery(java.lang.String,org.apache.lucene.search.Query,org.apache.lucene.search.Query,org.apache.lucene.search.IndexSearcher,org.apache.lucene.search.join.ScoreMode,org.apache.lucene.index.MultiDocValues$OrdinalMap,int,int)@g_lucene-join-6.2.1.jar.txt	1
+org/apache/lucene/search/join/JoinUtil/createJoinQuery(java.lang.String,org.apache.lucene.search.Query,org.apache.lucene.search.Query,org.apache.lucene.search.IndexSearcher,org.apache.lucene.search.join.ScoreMode,org.apache.lucene.index.MultiDocValues$OrdinalMap,int,int)@g_lucene-join-6.0.0.jar.txt	0
+org/apache/lucene/search/join/CheckJoinIndex/check(org.apache.lucene.index.IndexReader,org.apache.lucene.search.join.BitSetProducer)@g_lucene-join-6.2.1.jar.txt	3
+org/apache/lucene/search/join/CheckJoinIndex/check(org.apache.lucene.index.IndexReader,org.apache.lucene.search.join.BitSetProducer)@g_lucene-join-6.0.0.jar.txt	2
+org/apache/lucene/search/join/ToParentBlockJoinIndexSearcher/search(java.util.List,org.apache.lucene.search.Weight,org.apache.lucene.search.Collector)@g_lucene-join-6.0.0.jar.txt	4

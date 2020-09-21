@@ -1,0 +1,5 @@
+ognl/ListPropertyAccessor/getSourceAccessor(ognl.OgnlContext,java.lang.Object,java.lang.Object)@g_ognl-3.0.8.jar.txt	4
+ognl/OgnlRuntime/findObjectIndexedPropertyDescriptors(java.lang.Class,java.util.Map)@g_ognl-3.0.8.jar.txt	3
+org/apache/tiles/BasicAttributeContext/addMissing(java.util.Map)@g_tiles-api-3.0.5.jar.txt	2
+org/apache/tiles/BasicAttributeContext/addMissingAttributes(java.util.Map,java.util.Map)@g_tiles-api-3.0.5.jar.txt	0
+org/apache/tiles/BasicAttributeContext/deepCopyAttributeMap(java.util.Map)@g_tiles-api-3.0.5.jar.txt	1

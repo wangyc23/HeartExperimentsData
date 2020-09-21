@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/codice/ddf/spatial/ogc/catalog/common/EndpointOperationInfoResourceComparator/getOperationRank(org.codice.ddf.spatial.ogc.catalog.common.OperationResourceInfo,java.lang.String,java.lang.String)
+java/util/Map/Entry/getValue()
+java/util/List/isEmpty()

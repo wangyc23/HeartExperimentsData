@@ -1,0 +1,5 @@
+info/informatica/io/Dir/main(java.lang.String[])@g_jclf-2.3.0.jar.txt	1
+info/informatica/text/mapper/CombinedTextMapper/map(java.lang.String,java.lang.String)@g_jclf-2.3.0.jar.txt	4
+info/informatica/util/locale/LoaderResourceFactory/loadBundle(java.lang.String,java.lang.String)@g_jclf-2.3.0.jar.txt	2
+info/informatica/util/FormattedResourceBundle/getLocalBundle(java.lang.String,java.util.Locale,java.lang.ClassLoader)@g_jclf-2.3.0.jar.txt	0
+info/informatica/util/locale/LocaleEnum/loadBestLocalizedFile(java.util.Locale)@g_jclf-2.3.0.jar.txt	3

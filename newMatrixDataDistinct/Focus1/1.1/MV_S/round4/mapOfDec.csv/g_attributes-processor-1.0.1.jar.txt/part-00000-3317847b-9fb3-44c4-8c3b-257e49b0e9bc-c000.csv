@@ -1,0 +1,5 @@
+org/apache/ivy/core/search/SearchEngine/findModuleRevisionIds(org.apache.ivy.plugins.resolver.DependencyResolver,org.apache.ivy.core.module.id.ModuleRevisionId,org.apache.ivy.plugins.matcher.PatternMatcher)@g_ivy-2.3.0.jar.txt	4
+org/apache/tools/ant/taskdefs/Expand/expandFile(org.apache.tools.ant.util.FileUtils,java.io.File,java.io.File)@g_ivy-2.3.0.jar.txt	2
+org/apache/tools/ant/types/CommandlineJava/SysProperties/addDefinitionsToList(java.util.ListIterator)@g_ivy-2.3.0.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/StringUtils/splitWorker(java.lang.String,java.lang.String,int,boolean)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0

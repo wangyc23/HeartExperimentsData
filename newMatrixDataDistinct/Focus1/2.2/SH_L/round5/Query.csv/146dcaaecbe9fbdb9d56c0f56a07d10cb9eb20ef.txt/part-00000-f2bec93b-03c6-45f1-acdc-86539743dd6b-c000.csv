@@ -1,0 +1,4 @@
+edu/upc/eetac/dsa/secretsites/dao/AuthTokenDAOImpl/AuthTokenDAOImpl()
+edu/upc/eetac/dsa/secretsites/auth/Authorized/getInstance()
+edu/upc/eetac/dsa/secretsites/auth/Authorized/isAuthorized(edu.upc.eetac.dsa.secretsites.auth.ContainerRequestContext)
+edu/upc/eetac/dsa/secretsites/dao/AuthTokenDAOImpl/getUserByAuthToken(java.lang.String)

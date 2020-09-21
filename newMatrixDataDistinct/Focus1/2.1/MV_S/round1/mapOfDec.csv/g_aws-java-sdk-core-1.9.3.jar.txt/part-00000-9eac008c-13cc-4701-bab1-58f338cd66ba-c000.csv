@@ -1,0 +1,5 @@
+org/apache/hadoop/ha/SshFenceByTcpPort/createSession(java.lang.String,org.apache.hadoop.ha.SshFenceByTcpPort$Args)@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/ha/ShellCommandFencer/addTargetInfoAsEnvVars(org.apache.hadoop.ha.HAServiceTarget,java.util.Map)@g_hadoop-common-2.6.0.jar.txt	3
+org/apache/hadoop/metrics/util/MetricsDynamicMBeanBase/invoke(java.lang.String,java.lang.Object[],java.lang.String[])@g_hadoop-common-2.6.0.jar.txt	4
+org/apache/hadoop/fs/shell/FsUsage/TableBuilder/printToStream(java.io.PrintStream)@g_hadoop-common-2.6.0.jar.txt	1
+org/apache/hadoop/http/HttpServer2/Builder/build()@g_hadoop-common-2.6.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/linkeddata/utils/QueryChunks/writeInsertQuery(org.linkeddata.utils.Model,java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	1
+org/salarymaster/DAO/SalaryDAOMongo/getSalaryCountByCity(java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	2
+org/salarymaster/controller/StatController/getMap(java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	0
+com/zendaimoney/mqmonitor/command/Command/insert(java.util.Date,long,long,long,long,long)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	4
+org/salarymaster/DAO/SalaryDAOMongo/getSalaryByState(java.lang.String,int,int,int,java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	3

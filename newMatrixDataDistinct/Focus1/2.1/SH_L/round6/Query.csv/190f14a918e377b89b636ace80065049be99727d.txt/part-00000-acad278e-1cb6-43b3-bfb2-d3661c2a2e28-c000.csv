@@ -1,0 +1,1 @@
+java/util/concurrent/CompletableFuture/thenCombine(java.util.concurrent.CompletionStage,java.util.function.BiFunction)

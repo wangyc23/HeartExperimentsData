@@ -1,0 +1,5 @@
+org/neo4j/helpers/collection/LruCache/resize(int)@g_neo4j-collections-3.1.0-M01.jar.txt	0
+org/apache/commons/collections4/trie/AbstractPatriciaTrie/RangeMap/subMap(java.lang.Object,java.lang.Object)@g_neo4j-collections-3.1.0-M01.jar.txt	4
+org/apache/commons/collections4/bidimap/TreeBidiMap/insertValue(org.apache.commons.collections4.bidimap.TreeBidiMap$Node)@g_neo4j-collections-3.1.0-M01.jar.txt	1
+org/neo4j/helpers/collection/MapUtil/load(java.io.InputStream)@g_neo4j-collections-3.1.0-M01.jar.txt	2
+org/apache/commons/collections4/bidimap/TreeBidiMap/doPut(java.lang.Comparable,java.lang.Comparable)@g_neo4j-collections-3.1.0-M01.jar.txt	3

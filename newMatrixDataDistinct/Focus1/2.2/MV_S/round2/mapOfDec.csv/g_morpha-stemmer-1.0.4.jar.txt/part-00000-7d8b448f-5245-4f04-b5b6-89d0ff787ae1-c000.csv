@@ -1,0 +1,5 @@
+ucar/unidata/util/StringUtil/escape(java.lang.String,java.lang.String)@g_unidataCommon-4.2.20.jar.txt	4
+ucar/unidata/util/StringUtil/stripTags(java.lang.String)@g_unidataCommon-4.2.20.jar.txt	2
+ucar/unidata/util/StringUtil/escape2(java.lang.String,java.lang.String)@g_unidataCommon-4.2.20.jar.txt	3
+ucar/unidata/util/StringUtil/allow(java.lang.String,java.lang.String,char)@g_unidataCommon-4.2.20.jar.txt	1
+org/atteo/evo/inflector/TwoFormInflector/irregular(java.lang.String,java.lang.String)@g_evo-inflector-1.2.1.jar.txt	0

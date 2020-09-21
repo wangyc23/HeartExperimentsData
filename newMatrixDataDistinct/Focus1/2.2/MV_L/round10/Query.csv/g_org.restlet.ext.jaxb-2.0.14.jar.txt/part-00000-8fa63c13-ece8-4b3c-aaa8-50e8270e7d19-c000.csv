@@ -1,0 +1,4 @@
+javax/xml/transform/sax/SAXSource/SAXSource(org.xml.sax.XMLReader,org.xml.sax.InputSource)
+javax/xml/bind/JAXBException/JAXBException(java.lang.String,java.lang.Throwable)
+javax/xml/parsers/SAXParserFactory/newInstance()
+javax/xml/parsers/SAXParser/getXMLReader()

@@ -1,0 +1,4 @@
+javax/servlet/http/HttpServletRequest/getHeader(java.lang.String)
+study/models/User/getAuthorities()
+study/models/User/getCurrentUser()
+study/models/LinkInfo/getAuthor()

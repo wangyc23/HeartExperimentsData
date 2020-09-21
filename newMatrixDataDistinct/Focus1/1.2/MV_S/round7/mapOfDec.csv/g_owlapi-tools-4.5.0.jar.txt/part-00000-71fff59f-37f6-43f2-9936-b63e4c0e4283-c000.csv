@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rdf/rdfxml/renderer/XMLWriterImpl/setupEntities()@g_owlapi-parsers-4.5.0.jar.txt	2
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/AbstractHierarchyInfo/tarjan(org.semanticweb.owlapi.model.OWLObject,int,java.util.Stack,java.util.Map,java.util.Map,java.util.Set,java.util.Set,java.util.Set,java.util.Map,java.util.Set,java.util.Set)@g_owlapi-impl-4.5.0.jar.txt	0
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/fixIllegalPunnings(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-impl-4.5.0.jar.txt	4
+org/semanticweb/owlapi/rdf/model/RDFGraph/computeRemappingForSharedNodes()@g_owlapi-parsers-4.5.0.jar.txt	1
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/checkForImportsChange(org.semanticweb.owlapi.model.OWLOntologyChange)@g_owlapi-impl-4.5.0.jar.txt	3

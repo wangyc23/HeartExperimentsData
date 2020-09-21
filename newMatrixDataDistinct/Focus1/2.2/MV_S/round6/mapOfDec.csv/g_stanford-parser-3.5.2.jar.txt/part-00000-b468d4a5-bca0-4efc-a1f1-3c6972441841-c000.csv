@@ -1,0 +1,5 @@
+edu/stanford/nlp/dcoref/Document/initializeCorefCluster()@g_stanford-corenlp-3.5.0.jar.txt	3
+edu/stanford/nlp/util/Execution/fillOptionsImpl(java.lang.Object[],java.lang.Class[],java.util.Properties,boolean)@g_stanford-corenlp-3.5.0.jar.txt	2
+edu/stanford/nlp/trees/tregex/Relation/getRelation(java.lang.String,java.util.function.Function,edu.stanford.nlp.trees.HeadFinder)@g_stanford-corenlp-3.5.0.jar.txt	1
+edu/stanford/nlp/fsm/TransducerGraph/addArc(edu.stanford.nlp.fsm.TransducerGraph$Arc)@g_stanford-corenlp-3.5.0.jar.txt	4
+edu/stanford/nlp/trees/tregex/TregexPattern/main(java.lang.String[])@g_stanford-corenlp-3.5.0.jar.txt	0

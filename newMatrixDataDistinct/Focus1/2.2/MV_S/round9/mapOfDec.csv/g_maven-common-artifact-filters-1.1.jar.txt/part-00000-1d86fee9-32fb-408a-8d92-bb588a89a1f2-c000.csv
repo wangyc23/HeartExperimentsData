@@ -1,0 +1,5 @@
+org/apache/maven/project/DefaultProjectBuilder/build(java.util.List,java.util.List,java.util.List,boolean,boolean,org.apache.maven.project.ProjectBuildingRequest,org.apache.maven.project.ReactorModelPool,org.apache.maven.project.ReactorModelCache)@g_maven-core-3.0.jar.txt	0
+org/apache/maven/ReactorReader/findVersions(org.sonatype.aether.artifact.Artifact)@g_maven-core-3.0.jar.txt	3
+org/apache/maven/project/DefaultProjectBuildingHelper/createProjectRealm(org.apache.maven.project.MavenProject,org.apache.maven.model.Model,org.apache.maven.project.ProjectBuildingRequest)@g_maven-core-3.0.jar.txt	2
+org/apache/maven/plugin/prefix/internal/DefaultPluginPrefixResolver/resolveFromRepository(org.apache.maven.plugin.prefix.PluginPrefixRequest)@g_maven-core-3.0.jar.txt	4
+org/apache/maven/exception/DefaultExceptionHandler/handle(org.apache.maven.project.ProjectBuildingResult)@g_maven-core-3.0.jar.txt	1

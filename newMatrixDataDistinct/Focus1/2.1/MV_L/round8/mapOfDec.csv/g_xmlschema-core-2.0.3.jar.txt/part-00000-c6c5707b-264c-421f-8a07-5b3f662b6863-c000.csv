@@ -1,0 +1,5 @@
+org/apache/ws/commons/schema/XmlSchemaSerializer/appendElement(org.w3c.dom.Document,org.w3c.dom.Element,org.w3c.dom.Node,org.apache.ws.commons.schema.XmlSchema)@g_xmlschema-core-2.2.2.jar.txt	2
+org/apache/ws/commons/schema/extensions/DefaultExtensionSerializer/serialize(org.apache.ws.commons.schema.XmlSchemaObject,java.lang.Class,org.w3c.dom.Node)@g_xmlschema-core-2.2.2.jar.txt	0
+org/apache/batik/svggen/SVGLookupOp/toSVG(java.awt.image.LookupOp)@g_xmlschema-core-2.2.2.jar.txt	4
+org/apache/batik/svggen/SVGTexturePaint/toSVG(java.awt.TexturePaint)@g_xmlschema-core-2.2.2.jar.txt	1
+org/apache/batik/svggen/DefaultStyleHandler/setStyle(org.w3c.dom.Element,java.util.Map,org.apache.batik.svggen.SVGGeneratorContext)@g_xmlschema-core-2.2.2.jar.txt	3

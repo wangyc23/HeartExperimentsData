@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/text/ExtendedMessageFormat/appendQuotedString(java.lang.String,java.text.ParsePosition,org.carrot2.util.preprocessor.shaded.apache.commons.lang.text.StrBuilder,boolean)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationGreaterEquals(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationGreaterEquals)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationMultiply(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationMultiply)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationGreaterThan(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationGreaterThan)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/RandomStringUtils/random(int,int,int,boolean,boolean,char[],java.util.Random)@g_attributes-processor-1.0.1.jar.txt	4

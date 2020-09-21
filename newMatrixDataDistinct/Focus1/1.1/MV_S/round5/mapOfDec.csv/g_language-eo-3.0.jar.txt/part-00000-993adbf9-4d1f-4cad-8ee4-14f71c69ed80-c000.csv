@@ -1,0 +1,5 @@
+org/languagetool/tokenizers/br/BretonWordTokenizer/tokenize(java.lang.String)@g_language-br-3.0.jar.txt	3
+org/languagetool/tagging/br/BretonTagger/tag(java.util.List)@g_language-pt-3.0.jar.txt	4
+org/languagetool/rules/br/TopoReplaceRule/loadWords(java.io.InputStream)@g_language-br-3.0.jar.txt	2
+org/languagetool/rules/br/TopoReplaceRule/match(org.languagetool.AnalyzedSentence)@g_language-br-3.0.jar.txt	1
+org/languagetool/tagging/br/BretonTagger/tag(java.util.List)@g_language-br-3.0.jar.txt	0

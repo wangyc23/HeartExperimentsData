@@ -1,0 +1,5 @@
+io/netty/buffer/PooledUnsafeDirectByteBuf/getBytes(int,io.netty.buffer.ByteBuf,int,int)@g_netty-buffer-4.0.27.Final.jar.txt	0
+io/netty/buffer/UnpooledUnsafeDirectByteBuf/getBytes(int,io.netty.buffer.ByteBuf,int,int)@g_netty-buffer-4.0.27.Final.jar.txt	3
+io/netty/buffer/UnpooledUnsafeDirectByteBuf/capacity(int)@g_netty-buffer-4.0.27.Final.jar.txt	2
+io/netty/buffer/CompositeByteBuf/capacity(int)@g_netty-buffer-4.0.27.Final.jar.txt	1
+io/netty/buffer/AbstractByteBuf/checkIndex(int,int)@g_netty-buffer-4.0.27.Final.jar.txt	4

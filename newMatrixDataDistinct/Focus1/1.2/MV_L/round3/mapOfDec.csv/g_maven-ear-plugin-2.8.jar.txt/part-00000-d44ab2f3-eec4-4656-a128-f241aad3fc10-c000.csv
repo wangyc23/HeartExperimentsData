@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/performPackaging(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.2.jar.txt	2
+org/apache/maven/plugin/war/WarMojo/performPackaging(java.io.File)@g_maven-war-plugin-2.2.jar.txt	0
+org/apache/maven/plugin/war/packaging/AbstractWarPackagingTask/copyFilteredFile(java.lang.String,org.apache.maven.plugin.war.packaging.WarPackagingContext,java.io.File,java.lang.String)@g_maven-war-plugin-2.2.jar.txt	1
+org/apache/maven/plugin/war/WarMojo/performPackaging(java.io.File)@g_maven-war-plugin-2.4.jar.txt	4
+org/apache/maven/plugin/war/packaging/DependenciesAnalysisPackagingTask/removeDependency(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.model.Dependency)@g_maven-war-plugin-2.2.jar.txt	3

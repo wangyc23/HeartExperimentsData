@@ -1,0 +1,4 @@
+org/objectweb/asm/Type/getDimensions()
+org/objectweb/asm/Type/getDescriptor()
+org/objectweb/asm/Type/getType(java.lang.String)
+org/objectweb/asm/Type/getElementType()

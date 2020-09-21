@@ -1,0 +1,5 @@
+tachyon/thrift/MasterService/worker_heartbeat_args/worker_heartbeat_argsTupleScheme/read(org.apache.thrift.protocol.TProtocol,tachyon.thrift.MasterService.worker_heartbeat_args)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	2
+tachyon/thrift/MasterService/worker_getPriorityDependencyList_args/worker_getPriorityDependencyList_argsStandardScheme/write(org.apache.thrift.protocol.TProtocol,tachyon.thrift.MasterService.worker_getPriorityDependencyList_args)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	0
+tachyon/proto/journal/Block/BlockInfoEntry/newBuilderForType(com.google.protobuf.GeneratedMessage.BuilderParent)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	1
+tachyon/examples/JournalCrashTest/main(java.lang.String[])@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	4
+tachyon/thrift/MasterService/addCheckpoint_args/addCheckpoint_argsStandardScheme/write(org.apache.thrift.protocol.TProtocol,tachyon.thrift.MasterService.addCheckpoint_args)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	3

@@ -1,0 +1,4 @@
+com/amazonaws/DefaultRequest/DefaultRequest(com.amazonaws.AmazonWebServiceRequest,java.lang.String)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+com/amazonaws/AmazonClientException/AmazonClientException(java.lang.String)

@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/lang/String/length()
+org/apache/commons/lang3/StringEscapeUtils/unescapeHtml4(java.lang.String)
+java/lang/String/substring(int,int)

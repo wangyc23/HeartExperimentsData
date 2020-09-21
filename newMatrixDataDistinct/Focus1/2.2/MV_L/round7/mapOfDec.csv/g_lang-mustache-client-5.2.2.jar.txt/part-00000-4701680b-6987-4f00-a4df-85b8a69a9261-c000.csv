@@ -1,0 +1,5 @@
+org/elasticsearch/index/reindex/ReindexRequest/validate()@g_reindex-client-5.2.2.jar.txt	0
+org/elasticsearch/index/reindex/RestReindexAction/extractStringStringMap(java.util.Map,java.lang.String)@g_reindex-client-5.2.2.jar.txt	4
+org/elasticsearch/percolator/PercolateQueryBuilder/createMultiDocumentSearcher(org.apache.lucene.analysis.Analyzer,org.elasticsearch.index.mapper.ParsedDocument)@g_percolator-client-5.2.2.jar.txt	3
+org/elasticsearch/index/reindex/AbstractBulkByScrollRequest/validate()@g_reindex-client-5.2.2.jar.txt	1
+org/elasticsearch/percolator/PercolateQueryBuilder/lambda$null$3(org.apache.lucene.index.LeafReader,org.elasticsearch.index.query.QueryShardContext,boolean,int)@g_percolator-client-5.2.2.jar.txt	2

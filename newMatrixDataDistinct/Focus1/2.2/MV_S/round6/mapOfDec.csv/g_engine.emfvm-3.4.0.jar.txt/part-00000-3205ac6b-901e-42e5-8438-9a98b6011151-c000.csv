@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/engine/vm/nativelib/ASMMap/toString()@g_engine.vm-3.4.0.jar.txt	0
+org/eclipse/m2m/atl/engine/vm/InstanceNativeOperation/exec(org.eclipse.m2m.atl.engine.vm.StackFrame)@g_engine.vm-3.4.0.jar.txt	3
+org/eclipse/m2m/atl/engine/vm/ASMInterpreter/realMain(java.lang.String[],org.eclipse.m2m.atl.engine.vm.PluginClassLoader)@g_engine.vm-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/engine/vm/ASMStackFrame/toString()@g_engine.vm-3.4.0.jar.txt	2
+org/eclipse/m2m/atl/engine/vm/SimpleDebugger/terminated()@g_engine.vm-3.4.0.jar.txt	1

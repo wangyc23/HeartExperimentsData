@@ -1,0 +1,4 @@
+com/boozallen/cognition/ingest/accumulo/utils/AccumuloConnectionConfig/getKey()
+com/boozallen/cognition/ingest/accumulo/utils/AccumuloConnectionConfig/getMaxMem()
+com/boozallen/cognition/ingest/accumulo/utils/AccumuloConnectionConfig/getInstance()
+com/boozallen/cognition/ingest/accumulo/utils/AccumuloConnectionConfig/getZooServers()

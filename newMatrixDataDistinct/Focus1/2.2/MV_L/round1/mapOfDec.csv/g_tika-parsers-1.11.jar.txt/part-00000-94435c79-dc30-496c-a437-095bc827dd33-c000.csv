@@ -1,0 +1,5 @@
+org/apache/tika/parser/ocr/TesseractOCRParser/parse(org.apache.tika.io.TikaInputStream,java.io.File,org.apache.tika.parser.ParseContext,org.apache.tika.sax.XHTMLContentHandler,org.apache.tika.parser.ocr.TesseractOCRConfig)@g_tika-parsers-1.17.jar.txt	2
+org/apache/tika/parser/crypto/Pkcs7Parser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.7.jar.txt	1
+org/apache/tika/parser/crypto/TSDParser/parseTSDContent(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.17.jar.txt	4
+org/apache/tika/parser/isatab/ISArchiveParser/parseInvestigation(java.lang.String[],org.apache.tika.sax.XHTMLContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.17.jar.txt	3
+org/apache/tika/parser/crypto/Pkcs7Parser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.17.jar.txt	0

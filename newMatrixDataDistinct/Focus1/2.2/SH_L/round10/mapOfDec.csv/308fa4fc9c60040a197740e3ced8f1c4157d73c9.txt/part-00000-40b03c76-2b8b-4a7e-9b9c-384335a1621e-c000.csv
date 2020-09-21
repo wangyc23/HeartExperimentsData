@@ -1,0 +1,5 @@
+org/javaee7/cdi/built/in/TestServlet/doGet(org.javaee7.ejb.stateless.remote.HttpServletRequest,org.javaee7.ejb.stateless.remote.HttpServletResponse)@11386a707e9bfed4573a6837d57283a0bafa1df5.txt	0
+org/javaee7/jaxrs/invocation/MyResource/get()@11386a707e9bfed4573a6837d57283a0bafa1df5.txt	2
+org/javaee7/jaxrs/request/binding/MyResource/getList(int,int)@11386a707e9bfed4573a6837d57283a0bafa1df5.txt	1
+org/javaee7/batch/chunk/exception/MyRetryWriteListener/onRetryWriteException(java.util.List,java.lang.Exception)@11386a707e9bfed4573a6837d57283a0bafa1df5.txt	3
+org/javaee7/jaspic/wrapping/WrappingTest/createDeployment()@11386a707e9bfed4573a6837d57283a0bafa1df5.txt	4

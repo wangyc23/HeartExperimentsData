@@ -1,0 +1,5 @@
+org/apache/commons/crypto/NativeCodeLoader/extractLibraryFile(java.lang.String,java.lang.String,java.lang.String)@g_jaxrpc-api-1.1.jar.txt	4
+org/apache/commons/crypto/NativeCodeLoader/findNativeLibrary()@g_jaxrpc-api-1.1.jar.txt	3
+org/apache/commons/crypto/OsInfo/getArchName()@g_jaxrpc-api-1.1.jar.txt	1
+org/apache/commons/crypto/random/CryptoRandomFactory/getCryptoRandom(java.util.Properties)@g_jaxrpc-api-1.1.jar.txt	2
+org/apache/commons/crypto/jna/OpenSslJnaCipher/tokenizeTransformation(java.lang.String)@g_jaxrpc-api-1.1.jar.txt	0

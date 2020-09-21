@@ -1,0 +1,5 @@
+org/json/simple/parser/Yylex/yylex()@g_xpp3-1.1.4c.jar.txt	2
+org/xmlpull/v1/builder/impl/XmlElementImpl/cloneList(org.xmlpull.v1.builder.impl.XmlElementImpl,java.util.List)@g_xpp3-1.1.4c.jar.txt	4
+org/xmlpull/mxp1_serializer/MXSerializer/writeElementContent(java.lang.String,java.io.Writer)@g_xpp3-1.1.4c.jar.txt	1
+org/xmlpull/v1/builder/impl/XmlElementImpl/requiredTextContent()@g_xpp3-1.1.4c.jar.txt	0
+org/xmlpull/v1/XmlPullParserFactory/newSerializer()@g_xpp3-1.1.4c.jar.txt	3

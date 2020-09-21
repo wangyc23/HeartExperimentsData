@@ -1,0 +1,5 @@
+com/jakubstas/swagger/rest/UsersEndpoint/getLocation(com.jakubstas.swagger.model.User)@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	4
+org/dyrda/javabrains/filters/SecuredFilter/filter(javax.ws.rs.container.ContainerRequestContext)@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	3
+com/jakubstas/swagger/service/ProductService/deleteProduct(java.lang.String)@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	1
+org/dyrda/javabrains/resourses/CommentResource/updateComment(javax.ws.rs.core.UriInfo,long,long,org.dyrda.javabrains.model.Comment)@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	0
+org/dyrda/javabrains/service/MessageService/getMessage(long)@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	2

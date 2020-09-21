@@ -1,0 +1,5 @@
+net/sourceforge/jeuclid/MathMLSerializer/serializeDocument(org.w3c.dom.Node,boolean,boolean)@g_stax-utils-20070216.jar.txt	3
+net/sourceforge/jeuclid/parser/Parser/parse(javax.xml.transform.Source)@g_jeuclid-core-3.1.5.jar.txt	1
+net/sourceforge/jeuclid/converter/Converter/convert(org.w3c.dom.Node,java.io.File,java.lang.String,net.sourceforge.jeuclid.MutableLayoutContext)@g_stax-utils-20070216.jar.txt	2
+org/apache/ws/commons/schema/XmlSchemaCollection/getGroupByQName(javax.xml.namespace.QName)@g_stax-utils-20070216.jar.txt	4
+net/sourceforge/jeuclid/MathMLSerializer/serializeDocument(org.w3c.dom.Node,boolean,boolean)@g_jeuclid-core-3.1.5.jar.txt	0

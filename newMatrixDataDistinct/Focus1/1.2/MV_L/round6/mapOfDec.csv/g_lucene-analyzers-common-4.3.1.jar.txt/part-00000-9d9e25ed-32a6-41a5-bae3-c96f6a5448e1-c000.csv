@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/compound/hyphenation/PatternParser/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_lucene-analyzers-common-4.7.0.jar.txt	4
+org/apache/lucene/analysis/util/WordlistLoader/getLines(java.io.InputStream,java.nio.charset.Charset)@g_lucene-analyzers-common-4.6.0.jar.txt	1
+org/apache/lucene/analysis/util/WordlistLoader/getLines(java.io.InputStream,java.nio.charset.Charset)@g_lucene-analyzers-common-4.7.0.jar.txt	0
+org/apache/lucene/analysis/synonym/SlowSynonymFilterFactory/splitSmart(java.lang.String,java.lang.String,boolean)@g_lucene-analyzers-common-4.7.0.jar.txt	3
+org/apache/lucene/analysis/synonym/SlowSynonymFilterFactory/splitWS(java.lang.String,boolean)@g_lucene-analyzers-common-4.7.0.jar.txt	2

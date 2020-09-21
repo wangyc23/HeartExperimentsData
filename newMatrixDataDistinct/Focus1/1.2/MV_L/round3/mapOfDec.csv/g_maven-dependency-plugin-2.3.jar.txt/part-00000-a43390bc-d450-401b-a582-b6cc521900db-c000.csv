@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/AnalyzeReportView/generateDependenciesTable(org.apache.maven.doxia.sink.Sink,java.util.Iterator)@g_maven-dependency-plugin-2.2.jar.txt	0
+org/apache/maven/plugin/dependency/utils/translators/ClassifierTypeTranslator/translate(java.util.Set,org.apache.maven.plugin.logging.Log)@g_maven-dependency-plugin-2.2.jar.txt	4
+org/apache/maven/plugin/dependency/utils/DependencyUtil/getFormattedFileName(org.apache.maven.artifact.Artifact,boolean,boolean)@g_maven-dependency-plugin-2.2.jar.txt	2
+org/apache/maven/plugin/dependency/utils/DependencyUtil/getFormattedOutputDirectory(boolean,boolean,boolean,boolean,boolean,java.io.File,org.apache.maven.artifact.Artifact)@g_maven-dependency-plugin-2.2.jar.txt	3
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateDependenciesTable(org.apache.maven.doxia.sink.Sink,java.util.Iterator)@g_maven-dependency-plugin-2.8.jar.txt	1

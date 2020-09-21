@@ -1,0 +1,4 @@
+org/xwiki/component/internal/DocumentDeletedListener/onEvent(org.xwiki.observation.event.Event,java.lang.Object,java.lang.Object)@g_xwiki-platform-component-multi-7.4.jar.txt	3
+org/xwiki/component/internal/WikiDeletedListener/onEvent(org.xwiki.observation.event.Event,java.lang.Object,java.lang.Object)@g_xwiki-platform-component-multi-7.4.jar.txt	1
+org/xwiki/component/internal/DocumentDeletedListener/onEvent(org.xwiki.observation.event.Event,java.lang.Object,java.lang.Object)@g_xwiki-platform-component-multi-7.0.jar.txt	0
+org/xwiki/component/internal/WikiDeletedListener/onEvent(org.xwiki.observation.event.Event,java.lang.Object,java.lang.Object)@g_xwiki-platform-component-multi-7.0.jar.txt	2

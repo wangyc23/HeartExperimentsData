@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/common/xml/XMLWriter/_writeAtts()@g_rdf4j-util-2.1.4.jar.txt	0
+org/eclipse/rdf4j/common/xml/XMLReaderFactory/createXMLReader()@g_rdf4j-util-2.1.4.jar.txt	3
+org/eclipse/rdf4j/common/io/IOUtil/readBytes(java.io.File)@g_rdf4j-util-2.1.4.jar.txt	2
+org/eclipse/rdf4j/common/io/FileUtil/getRelativePath(java.io.File,java.io.File)@g_rdf4j-util-2.1.4.jar.txt	4
+org/eclipse/rdf4j/common/xml/DocumentUtil/getDocument(java.net.URL,boolean,boolean,javax.xml.validation.Schema)@g_rdf4j-util-2.1.4.jar.txt	1

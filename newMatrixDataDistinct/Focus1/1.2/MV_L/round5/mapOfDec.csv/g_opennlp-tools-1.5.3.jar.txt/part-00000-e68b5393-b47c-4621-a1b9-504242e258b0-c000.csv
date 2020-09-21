@@ -1,0 +1,5 @@
+opennlp/tools/coref/resolver/ResolverUtils/getStringMatchFeatures(opennlp.tools.coref.mention.MentionContext,opennlp.tools.coref.DiscourseEntity)@g_opennlp-tools-1.5.2-incubating.jar.txt	4
+opennlp/tools/coref/sim/SimilarityModel/getCommonNumberFeatures(opennlp.tools.coref.sim.Context,opennlp.tools.coref.sim.Context)@g_opennlp-tools-1.5.2-incubating.jar.txt	1
+opennlp/tools/coref/sim/SimilarityModel/setExtents(opennlp.tools.coref.sim.Context[])@g_opennlp-tools-1.5.2-incubating.jar.txt	3
+opennlp/tools/util/featuregen/WindowFeatureGenerator/createFeatures(java.util.List,java.lang.String[],int,java.lang.String[])@g_opennlp-tools-1.5.2-incubating.jar.txt	0
+opennlp/tools/coref/sim/GenderModel/getFeatures(opennlp.tools.coref.sim.Context)@g_opennlp-tools-1.5.2-incubating.jar.txt	2

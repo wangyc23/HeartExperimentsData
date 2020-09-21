@@ -1,0 +1,4 @@
+java/security/cert/X509Certificate/getPublicKey()
+java/util/Iterator/hasNext()
+java/security/cert/TrustAnchor/getCAPublicKey()
+java/security/cert/TrustAnchor/getTrustedCert()

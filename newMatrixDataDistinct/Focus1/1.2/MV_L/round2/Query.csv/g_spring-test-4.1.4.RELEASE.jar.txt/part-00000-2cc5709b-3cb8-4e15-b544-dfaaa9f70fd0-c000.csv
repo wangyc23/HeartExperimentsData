@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/insert(int,java.lang.String)
+java/util/Map/get(java.lang.Object)

@@ -1,0 +1,5 @@
+org/xwiki/component/annotation/ComponentAnnotationLoader/getDeclaredComponents(java.io.InputStream)@g_xwiki-commons-component-default-7.0.jar.txt	0
+org/xwiki/properties/internal/DefaultBeanDescriptor/extractPropertyDescriptor(java.beans.PropertyDescriptor,java.lang.Object)@g_xwiki-commons-component-default-7.0.jar.txt	4
+org/xwiki/component/embed/EmbeddableComponentManager/getComponentDescriptorList(java.lang.reflect.Type)@g_xwiki-commons-component-default-7.0.jar.txt	3
+org/xwiki/component/annotation/ComponentDescriptorFactory/createComponentDescriptor(java.lang.Class,java.lang.String,java.lang.reflect.Type)@g_xwiki-commons-component-default-7.0.jar.txt	2
+org/xwiki/query/internal/CountDocumentFilter/filterStatement(java.lang.String,java.lang.String)@g_xwiki-commons-component-default-7.0.jar.txt	1

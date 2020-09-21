@@ -1,0 +1,4 @@
+javax/servlet/http/HttpServletRequest/getServletPath()
+java/lang/StringBuilder/append(java.lang.String)
+javax/ws/rs/core/UriBuilder/replaceQuery(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

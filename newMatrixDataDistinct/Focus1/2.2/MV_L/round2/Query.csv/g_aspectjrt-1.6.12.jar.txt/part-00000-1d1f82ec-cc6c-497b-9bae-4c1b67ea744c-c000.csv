@@ -1,0 +1,4 @@
+java/lang/reflect/Constructor/getExceptionTypes()
+java/lang/reflect/Constructor/getParameterTypes()
+java/lang/reflect/Constructor/getDeclaringClass()
+java/lang/reflect/Method/getModifiers()

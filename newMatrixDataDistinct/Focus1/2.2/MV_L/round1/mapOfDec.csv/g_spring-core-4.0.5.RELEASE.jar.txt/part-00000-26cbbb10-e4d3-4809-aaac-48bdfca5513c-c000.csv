@@ -1,0 +1,5 @@
+org/springframework/core/convert/support/MapToMapConverter/convert(java.lang.Object,org.springframework.core.convert.TypeDescriptor,org.springframework.core.convert.TypeDescriptor)@g_spring-core-4.0.9.RELEASE.jar.txt	3
+org/springframework/core/type/classreading/MethodMetadataReadingVisitor/getAllAnnotationAttributes(java.lang.String,boolean)@g_spring-core-4.0.9.RELEASE.jar.txt	4
+org/springframework/util/ClassUtils/<clinit>()@g_spring-core-4.0.9.RELEASE.jar.txt	1
+org/springframework/core/Constants/toCodeForSuffix(java.lang.Object,java.lang.String)@g_spring-core-4.0.9.RELEASE.jar.txt	2
+org/springframework/core/annotation/AnnotatedElementUtils/5/process(java.lang.annotation.Annotation,int)@g_spring-core-4.0.9.RELEASE.jar.txt	0

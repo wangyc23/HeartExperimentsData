@@ -1,0 +1,5 @@
+org/springframework/data/repository/support/Repositories/cacheRepositoryFactory(java.lang.String)@g_spring-data-commons-1.12.1.RELEASE.jar.txt	3
+org/springframework/data/repository/query/EvaluationContextExtensionInformation/RootObjectInformation/getFunctions(java.lang.Object)@g_spring-data-commons-1.12.1.RELEASE.jar.txt	0
+org/springframework/data/repository/core/support/FactoryBeanTypePredictingBeanPostProcessor/predictBeanType(java.lang.Class,java.lang.String)@g_spring-data-commons-1.12.1.RELEASE.jar.txt	2
+org/springframework/data/util/ClassTypeInformation/getTypeVariableMap(java.lang.Class,java.util.Collection)@g_spring-data-commons-1.12.1.RELEASE.jar.txt	1
+org/springframework/data/convert/MappingContextTypeInformationMapper/safelyAddToCache(org.springframework.data.util.ClassTypeInformation,java.lang.Object)@g_spring-data-commons-1.12.1.RELEASE.jar.txt	4

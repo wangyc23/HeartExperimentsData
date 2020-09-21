@@ -1,0 +1,4 @@
+0	org/jboss/marshalling/util/Kind/ordinal()
+1	org/jboss/marshalling/river/RiverUnmarshaller/readByte()
+2	org/jboss/marshalling/river/RiverUnmarshaller/readDouble()
+3	org/jboss/marshalling/river/RiverUnmarshaller/readChar()

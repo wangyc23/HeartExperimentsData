@@ -1,0 +1,4 @@
+java/lang/reflect/Field/get(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getAnnotation(java.lang.Class)
+java/util/Iterator/next()

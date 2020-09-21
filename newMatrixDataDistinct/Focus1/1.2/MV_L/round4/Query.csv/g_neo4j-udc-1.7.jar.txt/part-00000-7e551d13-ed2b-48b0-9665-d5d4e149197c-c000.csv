@@ -1,0 +1,4 @@
+java/net/URLConnection/setDoInput(boolean)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/net/URLConnection/setUseCaches(boolean)

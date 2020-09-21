@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+org/gagravarr/ogg/OggPacketReader/getNextPacket()
+org/apache/tika/metadata/Metadata/add(java.lang.String,java.lang.String)
+org/gagravarr/ogg/OggFile/OggFile(java.io.InputStream)

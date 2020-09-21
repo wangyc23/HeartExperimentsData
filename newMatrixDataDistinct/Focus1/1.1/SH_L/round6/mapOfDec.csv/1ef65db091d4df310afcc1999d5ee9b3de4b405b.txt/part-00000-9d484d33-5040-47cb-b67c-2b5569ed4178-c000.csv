@@ -1,0 +1,5 @@
+pl/pwr/news/service/user/UserServiceImpl/findByActivationHash(java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	4
+ca/intelliware/ihtsdo/mlds/web/rest/ReleaseVersionsResourceTest/stubSaveReleaseVersion(long)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1
+ca/intelliware/ihtsdo/mlds/service/affiliatesimport/AffiliatesImportGenerator/generateEmail(ca.intelliware.ihtsdo.mlds.service.affiliatesimport.FieldMapping,int,ca.intelliware.ihtsdo.mlds.service.affiliatesimport.AffiliatesImportGenerator.GeneratorContext)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	0
+ca/intelliware/ihtsdo/mlds/service/UserMembershipCalculationTest/setup()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+ca/intelliware/ihtsdo/mlds/web/rest/AffiliateResourceTest/updateAffiliateShouldFailWhenChangingStandingStateFromApplying()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2

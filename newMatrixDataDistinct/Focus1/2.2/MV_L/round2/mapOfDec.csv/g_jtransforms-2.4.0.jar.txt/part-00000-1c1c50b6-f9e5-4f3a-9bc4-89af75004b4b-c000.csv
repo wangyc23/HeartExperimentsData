@@ -1,0 +1,5 @@
+org/eclipse/osgi/container/ModuleContainer/ContainerStartLevel/dispatchEvent(org.eclipse.osgi.container.Module,org.osgi.framework.FrameworkListener[],int,java.lang.Integer)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+org/eclipse/osgi/storage/Storage/loadGenerations(java.io.DataInputStream)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/cleanup(int[],boolean)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	0
+org/eclipse/osgi/storage/NativeCodeFinder/getNativePaths()@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/getCollisionMap(java.util.Collection)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	1

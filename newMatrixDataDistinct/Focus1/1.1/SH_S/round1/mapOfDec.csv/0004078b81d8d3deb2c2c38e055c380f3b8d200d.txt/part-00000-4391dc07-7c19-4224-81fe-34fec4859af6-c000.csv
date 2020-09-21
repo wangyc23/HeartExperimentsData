@@ -1,0 +1,5 @@
+com/esrichina/service/impl/RolesServiceImpl/saveUserRole(com.esrichina.entity.UserRoles)@1e53477fec378843176330243c4bbbdb217a4b3e.txt	3
+com/waimai/ops/utils/CommonUtil/genRandomNum(int,boolean)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	0
+com/waimai/ops/utils/PoiUtils/main(java.lang.String[])@1e53477fec378843176330243c4bbbdb217a4b3e.txt	4
+com/esrichina/util/HttpClientUtils/getLinkTagsContent(java.lang.String)@1e53477fec378843176330243c4bbbdb217a4b3e.txt	1
+com/esrichina/controller/RoleController/permissio(com.esrichina.controller.Model)@1e53477fec378843176330243c4bbbdb217a4b3e.txt	2

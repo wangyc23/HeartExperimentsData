@@ -1,0 +1,4 @@
+org/codehaus/plexus/components/io/resources/PlexusIoURLResource/setLastModified(long)
+java/util/zip/ZipEntry/getSize()
+org/codehaus/plexus/components/io/resources/PlexusIoURLResource/setSize(long)
+org/codehaus/plexus/components/io/resources/PlexusIoURLResource/setName(java.lang.String)

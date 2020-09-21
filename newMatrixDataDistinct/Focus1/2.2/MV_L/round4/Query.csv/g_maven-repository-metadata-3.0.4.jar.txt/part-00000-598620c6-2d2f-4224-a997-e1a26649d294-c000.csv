@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getAttributeValue(int)
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getAttributeName(int)
+org/codehaus/plexus/util/xml/pull/XmlPullParser/nextText()
+java/util/HashSet/HashSet()

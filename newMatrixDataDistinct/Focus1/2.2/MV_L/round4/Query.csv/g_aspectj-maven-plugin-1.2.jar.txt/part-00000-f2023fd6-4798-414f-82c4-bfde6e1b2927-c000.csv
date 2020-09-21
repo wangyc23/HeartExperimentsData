@@ -1,0 +1,4 @@
+org/aspectj/tools/ajc/Main/Main()
+org/apache/maven/project/MavenProject/getCompileSourceRoots()
+org/codehaus/mojo/aspectj/AbstractAjcCompiler/getLog()
+java/util/Iterator/hasNext()

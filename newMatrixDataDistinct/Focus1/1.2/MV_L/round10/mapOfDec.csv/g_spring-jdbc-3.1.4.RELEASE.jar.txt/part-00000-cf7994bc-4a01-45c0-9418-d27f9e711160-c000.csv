@@ -1,0 +1,5 @@
+org/springframework/jdbc/core/metadata/CallMetaDataContext/matchInParameterValuesWithCallParameters(java.util.Map)@g_spring-jdbc-4.0.7.RELEASE.jar.txt	4
+org/springframework/jdbc/core/metadata/CallMetaDataContext/reconcileParameters(java.util.List)@g_spring-jdbc-4.0.5.RELEASE.jar.txt	3
+org/springframework/jdbc/core/metadata/CallMetaDataContext/reconcileParameters(java.util.List)@g_spring-jdbc-4.0.7.RELEASE.jar.txt	1
+org/springframework/jdbc/core/metadata/TableMetaDataContext/matchInParameterValuesWithInsertColumns(java.util.Map)@g_spring-jdbc-4.0.5.RELEASE.jar.txt	2
+org/springframework/jdbc/core/metadata/TableMetaDataContext/matchInParameterValuesWithInsertColumns(java.util.Map)@g_spring-jdbc-4.0.7.RELEASE.jar.txt	0

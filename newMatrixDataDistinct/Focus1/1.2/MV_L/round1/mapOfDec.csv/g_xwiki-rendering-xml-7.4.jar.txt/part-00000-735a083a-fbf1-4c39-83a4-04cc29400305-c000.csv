@@ -1,0 +1,5 @@
+org/xwiki/rendering/renderer/printer/XMLWikiPrinter/printXMLElement(java.lang.String,java.util.Map)@g_xwiki-rendering-xml-7.4.2.jar.txt	4
+org/xwiki/rendering/renderer/printer/XMLWikiPrinter/createAttributes(java.util.Map)@g_xwiki-rendering-xml-7.4.2.jar.txt	3
+org/xwiki/localization/script/LocalizationScriptService/render(java.lang.String,org.xwiki.rendering.syntax.Syntax,java.util.Collection)@g_xwiki-platform-localization-script-7.4.2.jar.txt	1
+org/xwiki/rendering/xml/internal/parser/AbstractStreamParser/createParser(org.xwiki.rendering.listener.Listener)@g_xwiki-rendering-xml-7.4.2.jar.txt	0
+org/xwiki/localization/script/LocalizationScriptService/render(java.lang.String,org.xwiki.rendering.syntax.Syntax,java.util.Collection)@g_xwiki-rendering-xml-7.4.2.jar.txt	2

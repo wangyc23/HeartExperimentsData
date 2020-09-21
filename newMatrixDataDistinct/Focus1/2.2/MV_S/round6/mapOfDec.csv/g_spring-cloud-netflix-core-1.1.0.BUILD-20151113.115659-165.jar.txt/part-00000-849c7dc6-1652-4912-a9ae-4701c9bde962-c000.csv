@@ -1,0 +1,5 @@
+org/springframework/cloud/netflix/zuul/filters/route/SimpleHostRoutingFilter/forward(org.apache.http.client.HttpClient,java.lang.String,java.lang.String,javax.servlet.http.HttpServletRequest,org.springframework.util.MultiValueMap,org.springframework.util.MultiValueMap,java.io.InputStream)@g_spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar.txt	4
+org/springframework/cloud/netflix/zuul/filters/ProxyRouteLocator/getMatchingRoute(java.lang.String)@g_spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar.txt	2
+org/springframework/cloud/netflix/feign/support/SpringEncoder/encode(java.lang.Object,java.lang.reflect.Type,feign.RequestTemplate)@g_spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar.txt	1
+org/springframework/cloud/netflix/ribbon/eureka/EurekaRibbonClientConfiguration/preprocess()@g_spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar.txt	0
+org/springframework/cloud/netflix/metrics/atlas/AtlasMetricObserver/update(java.util.List)@g_spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar.txt	3

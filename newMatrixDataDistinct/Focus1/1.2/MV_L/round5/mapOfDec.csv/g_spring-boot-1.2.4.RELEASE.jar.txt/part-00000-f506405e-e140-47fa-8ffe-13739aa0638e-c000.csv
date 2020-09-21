@@ -1,0 +1,5 @@
+org/springframework/boot/context/embedded/AbstractEmbeddedServletContainerFactory/getArchiveFileDocumentRoot(java.lang.String)@g_spring-boot-1.2.6.RELEASE.jar.txt	3
+org/springframework/boot/context/embedded/AbstractEmbeddedServletContainerFactory/getArchiveFileDocumentRoot(java.lang.String)@g_spring-boot-1.2.3.RELEASE.jar.txt	2
+org/springframework/boot/bind/PropertiesConfigurationFactory/validate(org.springframework.boot.bind.RelaxedDataBinder)@g_spring-boot-1.2.3.RELEASE.jar.txt	4
+org/springframework/boot/context/embedded/tomcat/TomcatResources/addClasspathResources()@g_spring-boot-1.2.6.RELEASE.jar.txt	1
+org/springframework/boot/context/embedded/tomcat/TomcatResources/addClasspathResources()@g_spring-boot-1.2.3.RELEASE.jar.txt	0

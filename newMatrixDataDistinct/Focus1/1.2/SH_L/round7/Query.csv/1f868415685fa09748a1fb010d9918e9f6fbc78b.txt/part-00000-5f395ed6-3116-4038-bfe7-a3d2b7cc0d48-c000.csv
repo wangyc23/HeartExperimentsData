@@ -1,0 +1,4 @@
+org/apache/spark/sql/hive/test/Complex/setAStringIsSet(boolean)
+java/util/HashMap/HashMap(java.util.Map)
+org/apache/spark/sql/hive/test/Complex/setLintIsSet(boolean)
+org/apache/spark/sql/hive/test/Complex/setLStringIsSet(boolean)

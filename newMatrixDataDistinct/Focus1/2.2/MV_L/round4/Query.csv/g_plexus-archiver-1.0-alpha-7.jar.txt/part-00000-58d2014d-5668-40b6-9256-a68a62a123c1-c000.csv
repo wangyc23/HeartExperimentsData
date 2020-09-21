@@ -1,0 +1,4 @@
+java/io/File/isDirectory()
+java/lang/StringBuffer/append(java.lang.Object)
+java/io/File/exists()
+java/io/File/File(java.lang.String)

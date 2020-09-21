@@ -1,0 +1,5 @@
+org/apache/spark/sql/execution/CodegenSupport/anonfun/evaluateRequiredVariables/1/apply(scala.Tuple2)@g_spark-sql_2.11-2.2.0.jar.txt	1
+org/apache/spark/sql/execution/datasources/parquet/ParquetWriteSupport/org$apache$spark$sql$execution$datasources$parquet$ParquetWriteSupport$$makeWriter(org.apache.spark.sql.types.DataType)@g_spark-sql_2.11-2.2.0.jar.txt	2
+org/apache/spark/sql/execution/command/AlterTableSetLocationCommand/run(org.apache.spark.sql.SparkSession)@g_spark-sql_2.11-2.2.0.jar.txt	0
+org/apache/spark/sql/execution/datasources/jdbc/JdbcRelationProvider/createRelation(org.apache.spark.sql.SQLContext,org.apache.spark.sql.SaveMode,scala.collection.immutable.Map,org.apache.spark.sql.Dataset)@g_spark-sql_2.11-2.2.0.jar.txt	3
+org/apache/spark/sql/execution/SparkSqlAstBuilder/anonfun/visitManageResource/1/apply()@g_spark-sql_2.11-2.2.0.jar.txt	4

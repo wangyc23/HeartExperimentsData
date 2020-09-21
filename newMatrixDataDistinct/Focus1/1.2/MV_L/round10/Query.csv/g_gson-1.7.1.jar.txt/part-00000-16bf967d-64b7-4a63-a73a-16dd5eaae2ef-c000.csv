@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+com/google/gson/internal/$Gson$Types$ParameterizedTypeImpl/ParameterizedTypeImpl(java.lang.reflect.Type,java.lang.reflect.Type,java.lang.reflect.Type[])
+java/lang/reflect/GenericArrayType/getGenericComponentType()
+java/lang/Class/getComponentType()

@@ -1,0 +1,4 @@
+org/apache/pdfbox/pdmodel/interactive/documentnavigation/outline/PDDocumentOutline/appendChild(org.apache.pdfbox.pdmodel.interactive.documentnavigation.outline.PDOutlineItem)
+java/lang/System/exit(int)
+java/lang/StringBuilder/StringBuilder()
+java/util/List/get(int)

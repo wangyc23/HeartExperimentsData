@@ -1,0 +1,5 @@
+com/svbio/workflow/runtimecontext/ITRuntimeContextComponent/setup()@2b580b570b3da993f753285904fc9b11ffe305f2.txt	1
+com/github/jakz/nit/merger/Merger/mergeToCloneArchives(java.nio.file.Path)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	4
+com/github/jakz/nit/gui/GameListPanel/populateByClones()@2b580b570b3da993f753285904fc9b11ffe305f2.txt	3
+com/github/jakz/nit/Args/generateDatCompareParser(net.sourceforge.argparse4j.inf.ArgumentParser)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	2
+com/svbio/workflow/base/LifecycleManager/startAllServices()@2b580b570b3da993f753285904fc9b11ffe305f2.txt	0

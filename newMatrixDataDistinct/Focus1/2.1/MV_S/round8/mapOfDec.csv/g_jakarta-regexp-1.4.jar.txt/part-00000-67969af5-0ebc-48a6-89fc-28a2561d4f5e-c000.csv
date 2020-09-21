@@ -1,0 +1,5 @@
+org/apache/maven/it/Verifier/retrieveLocalRepo(java.lang.String)@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/it/util/FileUtils/sizeOfDirectory(java.io.File)@g_maven-verifier-1.2.jar.txt	3
+org/apache/xalan/templates/ElemNumber/formatNumberList(org.apache.xalan.transformer.TransformerImpl,long[],int)@g_maven-verifier-1.2.jar.txt	1
+org/apache/regexp/REDemo/init()@g_xalan-2.7.2.jar.txt	0
+org/apache/xalan/xsltc/compiler/Parser/getQName(java.lang.String,java.lang.String,java.lang.String)@g_maven-verifier-1.2.jar.txt	2

@@ -1,0 +1,4 @@
+org/apache/spark/unsafe/Platform/getInt(java.lang.Object,long)
+org/apache/spark/unsafe/memory/MemoryLocation/getBaseOffset()
+org/apache/spark/unsafe/memory/MemoryBlock/size()
+org/apache/spark/unsafe/array/LongArray/get(int)

@@ -1,0 +1,5 @@
+com/univocity/parsers/common/AbstractWriter/writeValuesFromMap(java.util.Map,java.util.Map)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0
+com/univocity/parsers/common/AbstractWriter/wrapObjectArray(java.util.Map)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	2
+com/univocity/parsers/fixed/Lookup/getLookupFormats(java.util.Map,com.univocity.parsers.fixed.FixedWidthFormat)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	3
+com/univocity/parsers/common/fields/FieldConversionMapping/reverseConversions(boolean,int,java.lang.Object,boolean[])@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	1
+org/unix4j/unix/wc/WcArguments/convert(org.unix4j.context.ExecutionContext,java.lang.String,java.lang.Class,java.lang.Object)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	4

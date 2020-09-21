@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+javax/xml/bind/Marshaller/marshal(java.lang.Object,java.io.OutputStream)
+java/lang/String/format(java.lang.String,java.lang.Object[])
+javax/xml/bind/Marshaller/getProperty(java.lang.String)

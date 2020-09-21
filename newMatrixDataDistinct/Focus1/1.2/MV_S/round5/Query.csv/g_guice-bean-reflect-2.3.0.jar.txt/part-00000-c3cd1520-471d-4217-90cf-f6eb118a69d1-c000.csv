@@ -1,0 +1,4 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/net/URL/getProtocol()
+java/lang/String/equals(java.lang.Object)
+java/lang/String/substring(int,int)

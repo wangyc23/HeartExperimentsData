@@ -1,0 +1,5 @@
+org/eclipse/osgi/util/ManifestElement/getArrayFromList(java.lang.String,java.lang.String)@g_org.eclipse.osgi-3.7.1.jar.txt	4
+org/eclipse/osgi/framework/internal/core/Framework/findVMProfile()@g_org.eclipse.osgi-3.7.1.jar.txt	3
+org/apache/log4j/helpers/OptionConverter/substVars(java.lang.String,java.util.Properties)@g_log4j-1.2.12.jar.txt	2
+org/eclipse/osgi/framework/internal/core/Framework/setBootDelegation()@g_org.eclipse.osgi-3.7.1.jar.txt	1
+org/eclipse/core/runtime/adaptor/LocationManager/computeDefaultUserAreaLocation(java.lang.String)@g_org.eclipse.osgi-3.7.1.jar.txt	0

@@ -1,0 +1,4 @@
+org/neo4j/io/fs/FileUtils/size(org.neo4j.io.fs.FileSystemAbstraction,java.io.File)
+java/util/Iterator/next()
+org/apache/commons/lang3/mutable/MutableLong/longValue()
+java/lang/Iterable/iterator()

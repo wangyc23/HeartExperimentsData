@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/selectors/ExtendSelector/selectorCreate()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/types/XMLCatalog/getCatalogResolver()@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/JDBCTask/getDriver()@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/Main/createLogger()@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector/configure()@g_ant-1.6.5.jar.txt	2

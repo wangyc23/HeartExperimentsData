@@ -1,0 +1,5 @@
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/setCrossRefsParameter(org.eclipse.emf.ecore.EObject)@g_typing-1.0.1.jar.txt	2
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/copyCollectionOperationCallExp(org.eclipse.emf.ecore.EObject)@g_typing-1.0.1.jar.txt	4
+anatlyzer/atlext/processing/AbstractDynamicToStaticCopier/copySimpleInPatternElement(org.eclipse.emf.ecore.EObject)@g_typing-1.0.1.jar.txt	1
+anatlyzer/atl/util/ATLSerializer/inSimpleOutPatternElement(anatlyzer.atlext.ATL.SimpleOutPatternElement)@g_typing-1.0.1.jar.txt	3
+org/eclipse/xtext/common/types/impl/JvmDeclaredTypeImplCustom/4/get()@g_org.eclipse.xtext.common.types-2.10.0-20160515.041857-73.jar.txt	0

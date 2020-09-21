@@ -1,0 +1,5 @@
+org/gagravarr/flac/TestFlacFileRead/testReadOgg()@g_vorbis-java-tika-0.6.jar.txt	2
+org/gagravarr/vorbis/TestVorbisFileWrite/testReadWriteRead()@g_vorbis-java-tika-0.6.jar.txt	1
+org/gagravarr/ogg/TestBasicRead/testPackets()@g_vorbis-java-tika-0.6.jar.txt	0
+org/gagravarr/ogg/TestWriteBoundaries/testMix()@g_vorbis-java-tika-0.6.jar.txt	3
+org/gagravarr/ogg/TestBasicRead/testPages()@g_vorbis-java-tika-0.6.jar.txt	4

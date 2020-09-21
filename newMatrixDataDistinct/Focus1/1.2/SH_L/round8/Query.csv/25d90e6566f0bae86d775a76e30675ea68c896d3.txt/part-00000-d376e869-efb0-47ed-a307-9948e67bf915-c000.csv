@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/io/PrintStream/println(java.lang.String)
+kg/apc/jmeter/functions/StrLen/setParameters(java.util.Collection)
+kg/apc/jmeter/functions/StrLen/StrLen()

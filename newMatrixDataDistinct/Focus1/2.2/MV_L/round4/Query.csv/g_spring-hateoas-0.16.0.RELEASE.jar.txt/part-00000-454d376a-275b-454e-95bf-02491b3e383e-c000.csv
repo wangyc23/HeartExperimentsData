@@ -1,0 +1,4 @@
+org/springframework/beans/factory/support/BeanDefinitionReaderUtils/generateBeanName(org.springframework.beans.factory.config.BeanDefinition,org.springframework.beans.factory.support.BeanDefinitionRegistry)
+org/springframework/beans/factory/support/BeanDefinitionReaderUtils/registerBeanDefinition(org.springframework.beans.factory.config.BeanDefinitionHolder,org.springframework.beans.factory.support.BeanDefinitionRegistry)
+org/springframework/beans/factory/config/BeanDefinitionHolder/BeanDefinitionHolder(org.springframework.beans.factory.config.BeanDefinition,java.lang.String)
+org/springframework/context/annotation/ImportBeanDefinitionRegistrar/registerBeanDefinitions(org.springframework.core.type.AnnotationMetadata,org.springframework.beans.factory.support.BeanDefinitionRegistry)

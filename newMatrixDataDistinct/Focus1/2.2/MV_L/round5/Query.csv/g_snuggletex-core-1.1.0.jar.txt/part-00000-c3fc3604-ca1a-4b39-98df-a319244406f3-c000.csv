@@ -1,0 +1,4 @@
+java/lang/Class/getMethods()
+java/lang/Character/toLowerCase(char)
+java/lang/reflect/Method/getAnnotation(java.lang.Class)
+java/lang/String/substring(int)

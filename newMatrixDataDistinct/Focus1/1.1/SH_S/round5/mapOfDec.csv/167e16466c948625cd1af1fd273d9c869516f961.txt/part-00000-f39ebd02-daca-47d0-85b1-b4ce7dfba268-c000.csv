@@ -1,0 +1,5 @@
+org/isisaddons/wicket/svg/fixture/dom/SvgWicketToDoItems/newToDo(java.lang.String,org.isisaddons.wicket.svg.fixture.dom.SvgWicketToDoItem.Category,org.isisaddons.wicket.svg.fixture.dom.SvgWicketToDoItem.Subcategory,org.joda.time.LocalDate,java.math.BigDecimal,java.math.BigDecimal)@0374a6ffef7f0f265c1f5fbe3631204967d960d5.txt	3
+org/isisaddons/wicket/svg/fixture/app/SvgWicketService/showFirstMap()@0374a6ffef7f0f265c1f5fbe3631204967d960d5.txt	1
+org/isisaddons/wicket/svg/fixture/scripts/todo/SvgWicketToDoItemsFixture/daysFromToday(int)@0374a6ffef7f0f265c1f5fbe3631204967d960d5.txt	2
+com/creamsugardonut/HttpStaticFileServerInitializer/initChannel(io.netty.channel.socket.SocketChannel)@0374a6ffef7f0f265c1f5fbe3631204967d960d5.txt	0
+org/isisaddons/wicket/svg/fixture/scripts/todo/SvgWicketToDoItemsFixture/execute(org.apache.isis.applib.fixturescripts.FixtureScript.ExecutionContext)@0374a6ffef7f0f265c1f5fbe3631204967d960d5.txt	4

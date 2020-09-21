@@ -1,0 +1,5 @@
+org/jdom/adapters/XercesDOMAdapter/createDocument()@g_jdom-1.0.jar.txt	0
+org/jdom/adapters/CrimsonDOMAdapter/createDocument()@g_jdom-1.0.jar.txt	1
+org/jdom/xpath/XPath/setXPathClass(java.lang.Class)@g_jdom-1.0.jar.txt	2
+org/jdom/output/NamespaceStack/toString()@g_jdom-1.0.jar.txt	3
+org/jdom/adapters/OracleV2DOMAdapter/createDocument()@g_jdom-1.0.jar.txt	4

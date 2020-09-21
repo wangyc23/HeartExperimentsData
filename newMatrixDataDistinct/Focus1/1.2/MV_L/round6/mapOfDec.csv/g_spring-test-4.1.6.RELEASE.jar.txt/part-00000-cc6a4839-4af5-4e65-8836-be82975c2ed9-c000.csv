@@ -1,0 +1,5 @@
+org/springframework/test/context/ContextCache/remove(org.springframework.test.context.MergedContextConfiguration,org.springframework.test.annotation.DirtiesContext$HierarchyMode)@g_spring-test-4.1.4.RELEASE.jar.txt	4
+org/springframework/test/web/ModelAndViewAssert/assertModelAttributeValues(org.springframework.web.servlet.ModelAndView,java.util.Map)@g_spring-test-4.2.2.RELEASE.jar.txt	1
+org/springframework/test/context/support/AbstractTestContextBootstrapper/resolveExplicitContextLoaderClass(java.util.List)@g_spring-test-4.1.4.RELEASE.jar.txt	3
+org/springframework/test/web/ModelAndViewAssert/assertModelAttributeValues(org.springframework.web.servlet.ModelAndView,java.util.Map)@g_spring-test-4.1.4.RELEASE.jar.txt	0
+org/springframework/test/web/servlet/result/PrintingResultHandler/printModelAndView(org.springframework.web.servlet.ModelAndView)@g_spring-test-4.1.4.RELEASE.jar.txt	2

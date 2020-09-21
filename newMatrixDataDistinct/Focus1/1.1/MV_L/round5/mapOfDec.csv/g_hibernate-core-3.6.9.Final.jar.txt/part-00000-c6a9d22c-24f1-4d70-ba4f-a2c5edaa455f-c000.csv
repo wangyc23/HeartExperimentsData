@@ -1,0 +1,5 @@
+org/hibernate/engine/StatefulPersistenceContext/getIndexInOwner(java.lang.String,java.lang.String,java.lang.Object,java.util.Map)@g_hibernate-core-3.6.10.Final.jar.txt	2
+org/hibernate/cfg/AnnotationBinder/processIdPropertiesIfNotAlready(java.util.Map,org.hibernate.cfg.Mappings,org.hibernate.mapping.PersistentClass,org.hibernate.cfg.annotations.EntityBinder,org.hibernate.cfg.PropertyHolder,java.util.HashMap,org.hibernate.cfg.InheritanceState$ElementsToProcess,boolean,java.util.Set)@g_hibernate-core-3.6.10.Final.jar.txt	0
+org/hibernate/type/MapType/replaceElements(java.lang.Object,java.lang.Object,java.lang.Object,java.util.Map,org.hibernate.engine.SessionImplementor)@g_hibernate-core-3.6.10.Final.jar.txt	4
+org/hibernate/util/IdentityMap/entryList()@g_hibernate-core-3.6.10.Final.jar.txt	3
+org/hibernate/cfg/Configuration/MetadataSourceQueue/processHbmXmlQueue()@g_hibernate-core-3.6.10.Final.jar.txt	1

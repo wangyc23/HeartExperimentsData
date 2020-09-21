@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/internal/inject/MatrixParamAsPrimitiveTest/_testWrappersDefault(java.lang.String,java.lang.String)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+org/glassfish/jersey/media/multipart/ParameterizedHeadersMapTest/testGetFirst()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1
+org/glassfish/jersey/process/internal/Stages/process(DATA,org.glassfish.jersey.process.internal.Stage,org.glassfish.jersey.internal.util.collection.Ref)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+org/glassfish/jersey/jsonp/JsonProcessingAutoDiscoverableClientTest/testAutoDiscoverableGlobalDisabledServerEnabled()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+org/glassfish/jersey/examples/sse/DomainResource/Process/run()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0

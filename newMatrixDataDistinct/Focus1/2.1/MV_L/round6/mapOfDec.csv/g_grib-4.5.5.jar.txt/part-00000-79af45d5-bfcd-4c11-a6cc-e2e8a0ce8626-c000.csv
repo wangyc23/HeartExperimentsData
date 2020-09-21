@@ -1,0 +1,5 @@
+ucar/nc2/iosp/gempak/GempakSoundingIOSP/buildFile(boolean)@g_netcdf-4.2.20.jar.txt	4
+ucar/nc2/iosp/sigmet/SigmetIOServiceProvider/readToByteChannel11(ucar.nc2.Variable,ucar.ma2.Section,java.nio.channels.WritableByteChannel)@g_netcdf-4.2.20.jar.txt	2
+thredds/catalog/query/DqcFactory/setDefaults()@g_netcdf-4.2.20.jar.txt	3
+ucar/nc2/iosp/gempak/GempakParameterTable/getInputStream(java.lang.String)@g_netcdf-4.2.20.jar.txt	0
+ucar/nc2/iosp/hdf4/ODLparser/parseValueCollection(org.jdom2.Element,java.lang.String)@g_netcdf-4.2.20.jar.txt	1

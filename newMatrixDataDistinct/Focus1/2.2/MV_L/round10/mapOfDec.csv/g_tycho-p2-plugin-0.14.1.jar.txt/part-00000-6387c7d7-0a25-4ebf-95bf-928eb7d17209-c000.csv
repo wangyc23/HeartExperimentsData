@@ -1,0 +1,5 @@
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/execute()@g_maven-gpg-plugin-1.6.jar.txt	1
+org/eclipse/tycho/plugins/p2/AbstractP2MetadataMojo/generateMetadata()@g_tycho-p2-plugin-0.23.1.jar.txt	0
+org/apache/maven/plugin/gpg/HelpMojo/execute()@g_maven-gpg-plugin-1.6.jar.txt	2
+org/apache/maven/plugin/gpg/GpgSigner/generateSignatureForFile(java.io.File,java.io.File)@g_maven-gpg-plugin-1.6.jar.txt	4
+org/apache/maven/plugin/gpg/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-gpg-plugin-1.6.jar.txt	3

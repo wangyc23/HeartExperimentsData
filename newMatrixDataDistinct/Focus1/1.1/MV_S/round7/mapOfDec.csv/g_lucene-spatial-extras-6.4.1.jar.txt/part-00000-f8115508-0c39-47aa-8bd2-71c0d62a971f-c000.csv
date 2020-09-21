@@ -1,0 +1,5 @@
+org/apache/lucene/spatial/bbox/BBoxStrategy/createIndexableFields(org.locationtech.spatial4j.shape.Rectangle)@g_lucene-spatial-6.4.1.jar.txt	3
+org/apache/lucene/codecs/blockterms/BlockTermsWriter/TermsWriter/finish()@g_lucene-spatial-6.4.1.jar.txt	0
+org/apache/lucene/spatial/geopoint/search/GeoPointInBBoxQueryImpl/toString(java.lang.String)@g_lucene-spatial-6.4.1.jar.txt	1
+org/apache/lucene/codecs/simpletext/SimpleTextStoredFieldsReader/readField(org.apache.lucene.util.BytesRef,org.apache.lucene.index.FieldInfo,org.apache.lucene.index.StoredFieldVisitor)@g_lucene-spatial-6.4.1.jar.txt	2
+org/apache/lucene/codecs/simpletext/SimpleTextDocValuesWriter/addSortedSetField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,java.lang.Iterable,java.lang.Iterable)@g_lucene-spatial-6.4.1.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/maven/tools/plugin/generator/PluginDescriptorGenerator/writeDescriptor(java.io.File,org.apache.maven.tools.plugin.PluginToolsRequest,boolean)@g_maven-plugin-tools-generators-3.4.jar.txt	3
+org/apache/maven/tools/plugin/generator/PluginDescriptorGenerator/processMojoDescriptor(org.apache.maven.plugin.descriptor.MojoDescriptor,org.codehaus.plexus.util.xml.XMLWriter,boolean)@g_maven-plugin-tools-generators-3.4.jar.txt	1
+org/apache/maven/tools/plugin/generator/PluginXdocGenerator/writeParameterList(org.apache.maven.plugin.descriptor.MojoDescriptor,java.lang.String,java.util.List,org.codehaus.plexus.util.xml.XMLWriter)@g_maven-plugin-tools-generators-3.4.jar.txt	0
+org/apache/maven/tools/plugin/generator/PluginXdocGenerator/writeParameterDetails(org.apache.maven.plugin.descriptor.MojoDescriptor,java.util.List,org.codehaus.plexus.util.xml.XMLWriter)@g_maven-plugin-tools-generators-3.4.jar.txt	2
+org/apache/maven/tools/plugin/scanner/DefaultMojoScanner/populatePluginDescriptor(org.apache.maven.tools.plugin.PluginToolsRequest)@g_maven-plugin-tools-api-3.4.jar.txt	4

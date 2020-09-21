@@ -1,0 +1,2 @@
+0	org/dyrda/jersey/date/converter/MyDateStringConverter/getConverter(java/lang/Class,java/lang/reflect/Type,java/lang/annotation/Annotation[])/$anonymous1/()
+1	org/springframework/security/core/GrantedAuthority/getAuthority()

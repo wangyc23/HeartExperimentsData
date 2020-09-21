@@ -1,0 +1,5 @@
+com/yahoo/platform/yui/compressor/JavaScriptCompressor/<clinit>()@g_yuicompressor-2.4.7.jar.txt	0
+org/mozilla/javascript/commonjs/module/provider/SoftCachingModuleScriptProvider/readObject(java.io.ObjectInputStream)@g_yuicompressor-2.4.7.jar.txt	1
+org/mozilla/javascript/xml/impl/xmlbeans/XML/childIndex()@g_yuicompressor-2.4.7.jar.txt	2
+org/mozilla/javascript/xml/impl/xmlbeans/XML/addNamespace(org.mozilla.javascript.xml.impl.xmlbeans.Namespace)@g_yuicompressor-2.4.7.jar.txt	3
+org/mozilla/javascript/Context/getSourcePositionFromStack(int[])@g_yuicompressor-2.4.7.jar.txt	4

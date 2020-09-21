@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/Job/waitForCompletion(boolean)
+org/apache/hadoop/fs/FileSystem/exists(org.apache.hadoop.fs.Path)
+org/apache/hadoop/mapreduce/Job/setNumReduceTasks(int)
+org/apache/hadoop/mapreduce/Job/setReducerClass(java.lang.Class)

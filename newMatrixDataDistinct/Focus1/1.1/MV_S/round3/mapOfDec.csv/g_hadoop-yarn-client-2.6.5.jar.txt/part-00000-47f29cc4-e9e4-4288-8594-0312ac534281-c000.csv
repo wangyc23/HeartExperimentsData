@@ -1,0 +1,5 @@
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	1
+org/apache/hadoop/http/HttpServer2/createWebAppContext(java.lang.String,org.apache.hadoop.conf.Configuration,org.apache.hadoop.security.authorize.AccessControlList,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/FrenchTreebankParserParams/setOptionFlag(java.lang.String[],int)@g_stanford-parser-3.5.2.jar.txt	3
+org/apache/hadoop/util/GenericOptionsParser/processGeneralOptions(org.apache.hadoop.conf.Configuration,org.apache.commons.cli.CommandLine)@g_hadoop-common-2.6.0.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/w3c/css/sac/LexicalUnit/getStringValue()
+java/lang/StringBuffer/append(char)
+java/lang/StringBuffer/toString()

@@ -1,0 +1,5 @@
+org/openrdf/query/algebra/evaluation/impl/SameTermFilterOptimizer/SameTermFilterVisitor/meet(org.openrdf.query.algebra.Filter)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	2
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/popStacks(org.openrdf.model.Resource)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/function/numeric/Ceil/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	4
+org/openrdf/rio/rdfxml/RDFXMLParser/parse(org.xml.sax.InputSource)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	0
+org/openrdf/query/algebra/evaluation/function/string/Replace/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	3

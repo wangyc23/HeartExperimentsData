@@ -1,0 +1,5 @@
+org/jfree/chart/renderer/category/BarRenderer3D/drawItem(java.awt.Graphics2D,org.jfree.chart.renderer.category.CategoryItemRendererState,java.awt.geom.Rectangle2D,org.jfree.chart.plot.CategoryPlot,org.jfree.chart.axis.CategoryAxis,org.jfree.chart.axis.ValueAxis,org.jfree.data.category.CategoryDataset,int,int,int)@g_jfreechart-1.0.19.jar.txt	3
+weka/classifiers/functions/supportVector/RegSMOImproved/getOptions()@g_jfreechart-1.0.19.jar.txt	4
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_jfreechart-1.0.19.jar.txt	1
+weka/gui/knowledgeflow/steps/SubstringReplacerStepEditorDialog/layoutEditor()@g_jfreechart-1.0.19.jar.txt	0
+weka/knowledgeflow/steps/FlowByExpression/ExpressionClause/init(weka.core.Instances,weka.core.Environment)@g_jfreechart-1.0.19.jar.txt	2

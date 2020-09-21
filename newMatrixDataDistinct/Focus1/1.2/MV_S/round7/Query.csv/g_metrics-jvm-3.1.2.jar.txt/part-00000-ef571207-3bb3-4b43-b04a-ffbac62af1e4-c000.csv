@@ -1,0 +1,4 @@
+java/lang/String/toLowerCase()
+java/util/Collections/unmodifiableMap(java.util.Map)
+java/lang/Thread$State/toString()
+java/util/HashMap/HashMap()

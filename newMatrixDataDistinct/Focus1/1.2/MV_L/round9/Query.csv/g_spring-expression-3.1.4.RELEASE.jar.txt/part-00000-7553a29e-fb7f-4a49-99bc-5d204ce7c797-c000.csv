@@ -1,0 +1,4 @@
+java/lang/Float/compare(float,float)
+java/lang/Number/floatValue()
+java/lang/Comparable/compareTo(java.lang.Object)
+java/lang/Long/valueOf(long)

@@ -1,0 +1,5 @@
+cn/vansky/framework/common/util/HttpClientUtils/execute(java.util.Map,java.lang.String)@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	2
+cn/vansky/framework/core/kv/service/impl/KvServiceImpl/transformResult(java.util.List,cn.vansky.framework.core.kv.handler.KvHandlerSupport)@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	1
+cn/vansky/exception/parse/PropertiesParseTest/testGetInstance()@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	4
+cn/vansky/framework/core/kv/handler/DefaultKvHandler/setupTemplates(cn.vansky.framework.core.kv.handler.ST,java.util.Map)@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	3
+cn/vansky/framework/common/util/MapUtils/mapConvertToList(java.util.Map,java.lang.Object)@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	0

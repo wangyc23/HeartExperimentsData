@@ -1,0 +1,5 @@
+org/apache/maven/shared/dependency/analyzer/ClassFileVisitorUtils/accept(java.net.URL,org.apache.maven.shared.dependency.analyzer.ClassFileVisitor)@g_maven-dependency-analyzer-1.4.jar.txt	0
+org/apache/maven/shared/dependency/analyzer/ProjectDependencyAnalysis/toString()@g_maven-dependency-analyzer-1.4.jar.txt	1
+org/apache/maven/shared/dependency/analyzer/DefaultProjectDependencyAnalyzer/buildArtifactClassMap(org.apache.maven.project.MavenProject)@g_maven-dependency-analyzer-1.4.jar.txt	4
+org/apache/maven/shared/dependency/analyzer/ProjectDependencyAnalysis/forceDeclaredDependenciesUsage(java.lang.String[])@g_maven-dependency-analyzer-1.4.jar.txt	2
+org/apache/maven/shared/dependency/analyzer/ClassFileVisitorUtils/acceptDirectory(java.io.File,org.apache.maven.shared.dependency.analyzer.ClassFileVisitor)@g_maven-dependency-analyzer-1.4.jar.txt	3

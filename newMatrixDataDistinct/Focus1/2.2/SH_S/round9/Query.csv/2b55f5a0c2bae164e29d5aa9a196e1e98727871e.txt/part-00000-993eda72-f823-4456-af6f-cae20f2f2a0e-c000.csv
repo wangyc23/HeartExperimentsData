@@ -1,0 +1,4 @@
+org/jasypt/util/text/BasicTextEncryptor/setPassword(java.lang.String)
+org/jasypt/util/text/BasicTextEncryptor/BasicTextEncryptor()
+java/lang/StringBuffer/StringBuffer(java.lang.String)
+java/lang/StringBuffer/reverse()

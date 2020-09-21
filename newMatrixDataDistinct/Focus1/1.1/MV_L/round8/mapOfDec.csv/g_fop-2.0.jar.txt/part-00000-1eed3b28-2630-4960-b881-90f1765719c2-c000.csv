@@ -1,0 +1,5 @@
+org/apache/fop/fo/properties/FontShorthandProperty/Maker/make(org.apache.fop.fo.PropertyList,java.lang.String,org.apache.fop.fo.FObj)@g_fop-1.1.jar.txt	1
+org/apache/fop/render/ps/PSBorderPainter/drawBorderLine(org.apache.xmlgraphics.ps.PSGenerator,float,float,float,float,boolean,boolean,int,java.awt.Color)@g_fop-1.1.jar.txt	3
+org/apache/fop/util/ColorUtil/parseAsFopRgbIcc(org.apache.fop.apps.FOUserAgent,java.lang.String)@g_fop-1.1.jar.txt	0
+org/apache/fop/render/pdf/PDFImageHandlerSVG/handleImage(org.apache.fop.render.RenderingContext,org.apache.xmlgraphics.image.loader.Image,java.awt.Rectangle)@g_fop-1.1.jar.txt	2
+org/apache/fop/layoutmgr/BreakingAlgorithm/forceNode(org.apache.fop.layoutmgr.BreakingAlgorithm$KnuthNode,int,int,int,double,double,int,int,int)@g_fop-1.1.jar.txt	4

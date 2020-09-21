@@ -1,0 +1,5 @@
+0	org/springframework/security/access/SecurityConfig/equals(java.lang.Object)
+1	com/porterhead/security/HierarchicalJsr250Voter/extractAuthorities(org.springframework.security.core.Authentication)
+2	org/springframework/security/access/annotation/Jsr250Voter/supports(org.springframework.security.access.ConfigAttribute)
+3	org/dyrda/jersey/date/converter/MyDateStringConverter/getConverter(java/lang/Class,java/lang/reflect/Type,java/lang/annotation/Annotation[])/$anonymous1/()
+4	org/springframework/security/core/GrantedAuthority/getAuthority()

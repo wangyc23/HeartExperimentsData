@@ -1,0 +1,5 @@
+org/springframework/mock/jndi/SimpleNamingContext/lookup(java.lang.String)@g_spring-test-4.1.6.RELEASE.jar.txt	4
+org/springframework/test/web/client/MockRestServiceServer/getVerifyMessage()@g_spring-test-4.1.6.RELEASE.jar.txt	2
+org/springframework/test/context/support/ContextLoaderUtils/buildContextHierarchyMap(java.lang.Class)@g_spring-test-4.1.6.RELEASE.jar.txt	3
+org/springframework/messaging/simp/broker/SimpleBrokerMessageHandler/sendMessageToSubscribers(java.lang.String,org.springframework.messaging.Message)@g_spring-messaging-4.1.6.RELEASE.jar.txt	1
+org/springframework/messaging/handler/annotation/support/MethodArgumentNotValidException/getValidationErrorMessage(org.springframework.validation.BindingResult)@g_spring-messaging-4.1.6.RELEASE.jar.txt	0

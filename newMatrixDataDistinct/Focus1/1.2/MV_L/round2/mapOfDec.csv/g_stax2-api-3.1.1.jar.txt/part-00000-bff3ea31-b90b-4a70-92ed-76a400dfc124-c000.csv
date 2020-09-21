@@ -1,0 +1,5 @@
+org/codehaus/stax2/ri/Stax2WriterAdapter/copyStartElement(javax.xml.stream.XMLStreamReader)@g_stax2-api-3.1.4.jar.txt	0
+org/codehaus/stax2/ri/Stax2WriterAdapter/copyStartElement(javax.xml.stream.XMLStreamReader)@g_wstx-asl-3.2.6.jar.txt	2
+org/codehaus/stax2/ri/evt/StartElementEventImpl/writeUsing(org.codehaus.stax2.XMLStreamWriter2)@g_stax2-api-3.1.4.jar.txt	4
+org/codehaus/stax2/ri/evt/Stax2EventAllocatorImpl/createStartElement(javax.xml.stream.XMLStreamReader,javax.xml.stream.Location)@g_stax2-api-3.1.4.jar.txt	3
+org/codehaus/stax2/ri/Stax2WriterImpl/copyStartElement(javax.xml.stream.XMLStreamReader)@g_stax2-api-3.1.4.jar.txt	1

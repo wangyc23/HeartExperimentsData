@@ -1,0 +1,4 @@
+org/apache/maven/artifact/handler/ArtifactHandler/isAddedToClasspath()
+java/util/Iterator/hasNext()
+java/util/Set/size()
+org/apache/maven/artifact/DependencyResolutionRequiredException/DependencyResolutionRequiredException(org.apache.maven.artifact.Artifact)

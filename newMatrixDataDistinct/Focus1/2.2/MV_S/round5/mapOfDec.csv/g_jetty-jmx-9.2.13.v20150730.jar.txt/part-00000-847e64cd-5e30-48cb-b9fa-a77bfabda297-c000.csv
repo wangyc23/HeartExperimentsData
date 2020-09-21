@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/HttpChannel/handle()@g_jetty-server-9.4.5.v20170502.jar.txt	3
+org/eclipse/jetty/server/CachedContentFactory/CachedHttpContent/getPrecompressedContents()@g_jetty-server-9.4.5.v20170502.jar.txt	2
+org/eclipse/jetty/server/Server/doStop()@g_jetty-server-9.4.5.v20170502.jar.txt	1
+org/eclipse/jetty/server/ShutdownMonitor/ShutdownMonitorRunnable/stopLifeCycles(java.util.function.Predicate,boolean)@g_jetty-server-9.4.5.v20170502.jar.txt	4
+org/eclipse/jetty/server/handler/ThreadLimitHandler/getForwarded(org.eclipse.jetty.server.Request)@g_jetty-server-9.4.5.v20170502.jar.txt	0

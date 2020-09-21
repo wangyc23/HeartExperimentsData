@@ -1,0 +1,4 @@
+java/lang/Boolean/parseBoolean(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/addAll(java.util.Collection)
+java/lang/String/equals(java.lang.Object)

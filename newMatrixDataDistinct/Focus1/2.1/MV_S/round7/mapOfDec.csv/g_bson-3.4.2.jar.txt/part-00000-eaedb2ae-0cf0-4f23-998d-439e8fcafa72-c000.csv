@@ -1,0 +1,5 @@
+org/bson/json/JsonReader/doSkipValue()@g_mongo-java-driver-3.4.2.jar.txt	0
+com/mongodb/connection/netty/NettyStream/openAsync(com.mongodb.connection.AsyncCompletionHandler)@g_mongo-java-driver-3.4.2.jar.txt	4
+com/mongodb/MongoOptions/toClientOptions()@g_mongo-java-driver-3.4.2.jar.txt	3
+org/apache/commons/lang3/ClassUtils/getShortClassName(java.lang.String)@g_mongo-java-driver-3.4.2.jar.txt	1
+com/mongodb/ConnectionString/parseOptions(java.lang.String)@g_mongo-java-driver-3.4.2.jar.txt	2

@@ -1,0 +1,4 @@
+java/lang/Throwable/printStackTrace()
+java/io/File/getName()
+com/alibaba/rocketmq/tools/github/SyncDocsToGithubSubCommand/syncWiki(com.alibaba.rocketmq.tools.github.GHRepository,java.lang.String,java.lang.String)
+com/alibaba/rocketmq/common/MixAll/file2String(java.io.File)

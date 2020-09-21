@@ -1,0 +1,4 @@
+0	org/openrdf/model/Literal/getLabel()
+1	org/openrdf/model/Statement/getSubject()
+2	org/openrdf/model/URI/stringValue()
+3	org/openrdf/model/Statement/getContext()

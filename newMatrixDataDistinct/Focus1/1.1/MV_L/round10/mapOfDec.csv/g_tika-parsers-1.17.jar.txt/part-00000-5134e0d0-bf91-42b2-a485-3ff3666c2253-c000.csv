@@ -1,0 +1,5 @@
+org/apache/tika/parser/microsoft/HSLFExtractor/handleSlideEmbeddedResources(org.apache.poi.hslf.usermodel.HSLFSlide,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	2
+org/apache/tika/parser/microsoft/ooxml/XWPFWordExtractorDecorator/extractParagraph(org.apache.poi.xwpf.usermodel.XWPFParagraph,org.apache.tika.parser.microsoft.ooxml.XWPFListManager,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	3
+org/apache/tika/parser/microsoft/WordExtractor/handlePictureCharacterRun(org.apache.poi.hwpf.usermodel.CharacterRun,org.apache.poi.hwpf.usermodel.Picture,org.apache.tika.parser.microsoft.WordExtractor$PicturesSource,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	1
+org/apache/tika/parser/mbox/OutlookPSTParser/parseFolder(org.apache.tika.sax.XHTMLContentHandler,com.pff.PSTFolder,org.apache.tika.extractor.EmbeddedDocumentExtractor)@g_tika-parsers-1.11.jar.txt	0
+org/apache/tika/parser/pdf/PDF2XHTML/addFieldString(org.apache.pdfbox.pdmodel.interactive.form.PDField,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	4

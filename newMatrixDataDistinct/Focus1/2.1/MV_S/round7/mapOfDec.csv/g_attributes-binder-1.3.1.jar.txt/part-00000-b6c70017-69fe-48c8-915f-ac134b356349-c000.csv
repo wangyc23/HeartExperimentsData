@@ -1,0 +1,5 @@
+com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter/MappingList/add(java.lang.Object)@g_xstream-1.4.4.jar.txt	3
+com/thoughtworks/xstream/converters/reflection/AbstractAttributedCharacterIteratorAttributeConverter/readResolve()@g_xstream-1.4.4.jar.txt	1
+com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider/visitSerializableFields(java.lang.Object,com.thoughtworks.xstream.converters.reflection.ReflectionProvider$Visitor)@g_xstream-1.4.4.jar.txt	2
+com/thoughtworks/xstream/converters/reflection/SerializableConverter/readField(java.io.ObjectStreamField,java.lang.Class,java.lang.Object)@g_xstream-1.4.4.jar.txt	4
+com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter/getCallbacks(java.lang.Object)@g_xstream-1.4.4.jar.txt	0

@@ -1,0 +1,5 @@
+io/undertow/predicate/PredicateParsingTestCase/testPredicateContextVariable()@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	4
+io/undertow/predicate/PredicateParsingTestCase/testDefaultArrayValue()@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	0
+io/undertow/protocols/ajp/AjpResponseParser/parse(java.nio.ByteBuffer)@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	3
+io/undertow/server/handlers/DisableCacheHandler/handleRequest(io.undertow.server.HttpServerExchange)@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	2
+io/undertow/server/handlers/proxy/mod_cluster/MCMPHandler/processOK(io.undertow.server.HttpServerExchange)@2e7e5f713e349c43e89f764de2d3620efb1e5bc2.txt	1

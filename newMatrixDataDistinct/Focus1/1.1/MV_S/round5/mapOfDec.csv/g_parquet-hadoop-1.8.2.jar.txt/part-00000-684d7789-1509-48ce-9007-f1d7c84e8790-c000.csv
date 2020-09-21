@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/task/reduce/Fetcher/verifySanity(long,long,int,java.util.Set,org.apache.hadoop.mapreduce.TaskAttemptID)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/kafka/common/config/ConfigDef/parse(java.util.Map)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapreduce/Job/getTaskFailureEventString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0
+org/apache/kafka/clients/consumer/internals/Fetcher/createFetchRequests()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/mapred/MapTask/MapOutputBuffer/mergeParts()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3

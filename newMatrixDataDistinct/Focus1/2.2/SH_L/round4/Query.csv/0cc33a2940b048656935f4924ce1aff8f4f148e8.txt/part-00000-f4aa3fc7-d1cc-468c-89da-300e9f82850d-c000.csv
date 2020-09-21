@@ -1,0 +1,4 @@
+org/kimios/kernel/hibernate/HFactory/getSession()
+java/lang/Long/parseLong(java.lang.String)
+java/util/Vector/addAll(java.util.Collection)
+org/kimios/utils/configuration/ConfigurationManager/getValue(java.lang.String)

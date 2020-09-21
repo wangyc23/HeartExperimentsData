@@ -1,0 +1,5 @@
+au/com/ibm/bluecoin/service/ApplicationConfig/networkServiceStarter()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	0
+org/jboss/as/quickstarts/html5_mobile/rest/MemberService/createViolationResponse(java.util.Set)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	3
+org/jboss/as/quickstarts/wsat/simple/RestaurantServiceATImpl/reset()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	2
+org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl/deleteTask(org.jboss.as.quickstarts.tasksrs.model.Task)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	1
+org/jboss/as/quickstarts/ejb_security_interceptors/DelegationLoginModule/login()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	4

@@ -1,0 +1,5 @@
+opennlp/tools/cmdline/doccat/DoccatCrossValidatorTool/run(java.lang.String,java.lang.String[])@g_opennlp-tools-1.8.2.jar.txt	4
+opennlp/tools/cmdline/postag/POSTaggerEvaluatorTool/run(java.lang.String,java.lang.String[])@g_opennlp-tools-1.8.2.jar.txt	3
+opennlp/tools/cmdline/langdetect/LanguageDetectorEvaluatorTool/run(java.lang.String,java.lang.String[])@g_opennlp-tools-1.8.2.jar.txt	2
+opennlp/tools/cmdline/namefind/CensusDictionaryCreatorTool/run(java.lang.String[])@g_opennlp-tools-1.8.2.jar.txt	1
+opennlp/tools/cmdline/dictionary/DictionaryBuilderTool/run(java.lang.String[])@g_opennlp-tools-1.8.2.jar.txt	0

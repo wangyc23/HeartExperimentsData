@@ -1,0 +1,5 @@
+io/netty/handler/ssl/util/SelfSignedCertificate/safeClose(java.io.File,java.io.OutputStream)@02d7dac5849bf9334462484d345bd02d8cef1226.txt	4
+io/netty/util/internal/ConcurrentSet/size()@02d7dac5849bf9334462484d345bd02d8cef1226.txt	3
+io/netty/channel/LoggingHandler/channelActive(io.netty.channel.ChannelHandlerContext)@02d7dac5849bf9334462484d345bd02d8cef1226.txt	0
+io/netty/handler/codec/DefaultTextHeaders/set(java.lang.CharSequence,java.lang.CharSequence)@02d7dac5849bf9334462484d345bd02d8cef1226.txt	2
+io/netty/util/AsciiString/split(java.lang.String,int)@02d7dac5849bf9334462484d345bd02d8cef1226.txt	1

@@ -1,0 +1,4 @@
+java/awt/image/DataBufferByte/getData()
+java/lang/Exception/printStackTrace()
+java/io/DataInputStream/readFully(byte[],int,int)
+java/awt/image/WritableRaster/getDataBuffer()

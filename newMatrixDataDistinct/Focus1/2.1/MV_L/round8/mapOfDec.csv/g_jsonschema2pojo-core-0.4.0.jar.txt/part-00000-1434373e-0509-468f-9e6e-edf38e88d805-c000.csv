@@ -1,0 +1,5 @@
+org/jsonschema2pojo/rules/EnumRule/createEnum(com.fasterxml.jackson.databind.JsonNode,java.lang.String,com.sun.codemodel.JClassContainer)@g_wadl-core-1.1.6.jar.txt	4
+com/sun/tools/localizer/resourcegen/ResourceGenTask/execute()@g_wadl-core-1.1.6.jar.txt	1
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBeanProperty(com.sun.codemodel.JDefinedClass,java.util.List,org.jvnet.ws.wadl.Param,boolean)@g_wadl-core-1.1.6.jar.txt	0
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateConditionalForFaultNode(org.jvnet.ws.wadl.ast.MethodNode,com.sun.codemodel.JBlock,com.sun.codemodel.JVar,com.sun.codemodel.JType,com.sun.codemodel.JExpression)@g_wadl-core-1.1.6.jar.txt	3
+org/jsonschema2pojo/ContentResolver/resolveFromClasspath(java.net.URI)@g_wadl-core-1.1.6.jar.txt	2

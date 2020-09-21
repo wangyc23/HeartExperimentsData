@@ -1,0 +1,5 @@
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	2
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	1
+org/springframework/asm/commons/SerialVersionUIDAdder/computeSVUID()@g_spring-2.5.6.jar.txt	3
+org/apache/commons/validator/GenericTypeValidator/formatDate(java.lang.String,java.util.Locale)@g_spring-2.5.6.jar.txt	4
+org/apache/commons/validator/ValidatorResources/1/begin(java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_commons-validator-1.2.0.jar.txt	0

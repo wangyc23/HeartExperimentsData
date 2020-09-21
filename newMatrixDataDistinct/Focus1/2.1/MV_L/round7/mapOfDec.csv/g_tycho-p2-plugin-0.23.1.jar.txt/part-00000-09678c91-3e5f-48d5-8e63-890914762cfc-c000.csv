@@ -1,0 +1,5 @@
+org/apache/maven/plugin/gpg/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_tycho-p2-plugin-0.14.1.jar.txt	3
+org/eclipse/tycho/plugins/p2/BaselineValidator/getDelta(org.eclipse.tycho.p2.tools.baseline.facade.BaselineService,java.util.Map,java.util.Map)@g_tycho-p2-plugin-0.14.1.jar.txt	1
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/execute()@g_tycho-p2-plugin-0.14.1.jar.txt	4
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/generatePomFile()@g_tycho-p2-plugin-0.14.1.jar.txt	2
+org/eclipse/tycho/plugins/p2/AbstractP2MetadataMojo/generateMetadata()@g_tycho-p2-plugin-0.14.1.jar.txt	0

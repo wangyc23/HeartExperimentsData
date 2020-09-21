@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(char)
+javax/management/RuntimeOperationsException/RuntimeOperationsException(java.lang.RuntimeException,java.lang.String)
+java/lang/String/substring(int,int)
+java/lang/String/indexOf(java.lang.String)

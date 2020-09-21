@@ -1,0 +1,5 @@
+org/giwi/camel/dav/RemoteFilePollingConsumerPollStrategy/rollback(org.apache.camel.Consumer,org.apache.camel.Endpoint,int,java.lang.Exception)@2a04823bf99a6d437a9f6653520b2aa21d6d599d.txt	3
+at/mfpjn/workflow/controller/SenderController/createConfirmationEmail(java.lang.String,java.lang.String,java.lang.String)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	0
+org/giwi/camel/dav/test/FromFileToDavTest/testFromFileToDav()@2a04823bf99a6d437a9f6653520b2aa21d6d599d.txt	1
+org/giwi/camel/dav/test/FromDavFilterTest/createRegistry()@2a04823bf99a6d437a9f6653520b2aa21d6d599d.txt	4
+org/giwi/camel/dav/test/DavChangedReadLockTest/writeSlowFile()@2a04823bf99a6d437a9f6653520b2aa21d6d599d.txt	2

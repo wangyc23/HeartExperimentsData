@@ -1,0 +1,4 @@
+org/mockito/Mockito/mock(java.lang.Class)
+org/neo4j/kernel/impl/api/store/PersistenceCache/apply(java.util.Collection)
+java/util/Arrays/asList(java.lang.Object[])
+org/neo4j/kernel/impl/cache/AutoLoadingCache/getIfCached(long)

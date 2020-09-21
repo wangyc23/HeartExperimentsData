@@ -1,0 +1,5 @@
+org/neo4j/unsafe/impl/internal/dragons/UnsafeUtil/1/run()@g_neo4j-unsafe-2.2.1.jar.txt	0
+org/apache/spark/unsafe/types/CalendarInterval/fromDayTimeString(java.lang.String)@g_neo4j-unsafe-2.2.1.jar.txt	4
+org/apache/spark/unsafe/types/UTF8String/translate(java.util.Map)@g_neo4j-unsafe-2.2.1.jar.txt	2
+org/neo4j/unsafe/impl/internal/dragons/UnsafeUtil/<clinit>()@g_neo4j-unsafe-2.2.1.jar.txt	3
+org/apache/spark/unsafe/Platform/allocateDirectBuffer(int)@g_spark-unsafe_2.11-2.2.0.jar.txt	1

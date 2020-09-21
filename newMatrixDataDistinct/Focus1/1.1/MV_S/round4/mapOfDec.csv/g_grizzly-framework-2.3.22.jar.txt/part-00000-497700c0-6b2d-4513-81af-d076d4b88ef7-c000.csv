@@ -1,0 +1,5 @@
+com/sun/faces/facelets/impl/DefaultFaceletContext/popClient(com.sun.faces.facelets.TemplateClient)@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/renderkit/RenderKitUtils/renderUnhandledMessages(javax.faces.context.FacesContext)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/mgbean/BeanManager/validateReferences(com.sun.faces.mgbean.BeanBuilder,java.util.List,java.util.List)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/config/ConfigManager/getConfigDocuments(javax.servlet.ServletContext,java.util.List,java.util.concurrent.ExecutorService,boolean)@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/context/ExceptionHandlerImpl/handle()@g_javax.faces-2.2.7.jar.txt	2

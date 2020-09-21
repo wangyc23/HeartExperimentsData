@@ -1,0 +1,5 @@
+net/sf/ehcache/config/ConfigurationFactory/parseConfiguration(java.net.URL)@g_ehcache-core-1.7.2.jar.txt	3
+net/sf/ehcache/config/BeanHandler/setAttribute(net.sf.ehcache.config.BeanHandler$ElementInfo,java.lang.String,java.lang.String)@g_ehcache-core-1.7.2.jar.txt	1
+net/sf/ehcache/store/DiskStore/createNewIndexFile()@g_ehcache-core-1.7.2.jar.txt	0
+net/sf/ehcache/distribution/RMICacheManagerPeerListener/notifyCacheRemoved(java.lang.String)@g_ehcache-core-1.7.2.jar.txt	4
+net/sf/ehcache/distribution/RMICacheManagerPeerListener/notifyCacheAdded(java.lang.String)@g_ehcache-core-1.7.2.jar.txt	2

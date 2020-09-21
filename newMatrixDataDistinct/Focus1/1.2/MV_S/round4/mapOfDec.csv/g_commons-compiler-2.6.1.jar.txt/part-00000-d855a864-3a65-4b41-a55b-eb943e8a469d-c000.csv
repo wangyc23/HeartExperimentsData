@@ -1,0 +1,5 @@
+org/apache/commons/jxpath/util/MethodLookupUtils/lookupMethod(java.lang.Class,java.lang.String,java.lang.Object[])@g_commons-jxpath-1.3.jar.txt	1
+org/apache/commons/jxpath/functions/MethodFunction/invoke(org.apache.commons.jxpath.ExpressionContext,java.lang.Object[])@g_commons-jxpath-1.3.jar.txt	2
+org/apache/commons/jxpath/JXPathContextFactory/findFactory(java.lang.String,java.lang.String)@g_commons-jxpath-1.3.jar.txt	3
+org/apache/commons/jxpath/util/MethodLookupUtils/lookupStaticMethod(java.lang.Class,java.lang.String,java.lang.Object[])@g_commons-jxpath-1.3.jar.txt	4
+org/apache/commons/jxpath/util/ValueUtils/setValue(java.lang.Object,java.beans.PropertyDescriptor,int,java.lang.Object)@g_commons-jxpath-1.3.jar.txt	0

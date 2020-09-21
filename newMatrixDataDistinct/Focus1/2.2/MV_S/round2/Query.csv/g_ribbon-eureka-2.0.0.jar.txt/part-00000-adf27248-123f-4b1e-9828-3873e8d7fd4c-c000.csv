@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String)
+com/netflix/appinfo/InstanceInfo/getStatus()
+java/util/ArrayList/ArrayList()
+com/netflix/appinfo/InstanceInfo$Builder/setPort(int)

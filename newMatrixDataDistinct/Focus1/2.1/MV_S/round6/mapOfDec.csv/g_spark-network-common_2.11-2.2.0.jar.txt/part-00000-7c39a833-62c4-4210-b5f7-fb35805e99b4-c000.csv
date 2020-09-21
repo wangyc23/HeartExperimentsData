@@ -1,0 +1,5 @@
+org/carrot2/shaded/guava/common/base/CharMatcher/anyOf(java.lang.CharSequence)@g_guava-19.0-rc3.jar.txt	3
+org/carrot2/shaded/guava/common/cache/LocalCache/Segment/replace(java.lang.Object,int,java.lang.Object,java.lang.Object)@g_guava-19.0-rc3.jar.txt	4
+com/google/common/cache/LocalCache/Segment/removeLoadingValue(java.lang.Object,int,com.google.common.cache.LocalCache$LoadingValueReference)@g_guava-19.0-rc3.jar.txt	2
+org/carrot2/shaded/guava/common/cache/LocalCache/Segment/insertLoadingValueReference(java.lang.Object,int,boolean)@g_guava-19.0-rc3.jar.txt	1
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_guava-19.0-rc3.jar.txt	0

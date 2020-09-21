@@ -1,0 +1,5 @@
+camelinaction/BigFileCachedThreadPoolTest/testBigFile()@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	4
+camelinaction/SimulateErrorUsingInterceptorTest/SimulateHttpErrorProcessor/process(camelinaction.Exchange)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	3
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/deserialize(org.apache.hadoop.io.Writable)@185bb0fd821acf606a3197e85dc3c573c24307df.txt	1
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/deparseMap(java.lang.Object,org.apache.hadoop.hive.serde2.objectinspector.MapObjectInspector)@185bb0fd821acf606a3197e85dc3c573c24307df.txt	0
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/parseMap(java.lang.Object,org.apache.hadoop.hive.serde2.typeinfo.MapTypeInfo)@185bb0fd821acf606a3197e85dc3c573c24307df.txt	2

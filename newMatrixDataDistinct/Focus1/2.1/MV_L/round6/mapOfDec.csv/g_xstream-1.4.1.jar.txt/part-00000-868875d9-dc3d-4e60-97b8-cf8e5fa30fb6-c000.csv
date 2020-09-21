@@ -1,0 +1,5 @@
+com/thoughtworks/xstream/io/binary/Token/writeId(java.io.DataOutput,long,byte)@g_xstream-1.4.2.jar.txt	0
+com/thoughtworks/xstream/core/util/Base64Encoder/decode(java.lang.String)@g_xstream-1.4.2.jar.txt	2
+com/thoughtworks/xstream/io/binary/Token/writeId(java.io.DataOutput,long,byte)@g_xstream-1.3.1.jar.txt	3
+com/thoughtworks/xstream/io/binary/Token/readId(java.io.DataInput,byte)@g_xstream-1.4.2.jar.txt	1
+com/thoughtworks/xstream/io/binary/Token/readId(java.io.DataInput,byte)@g_xstream-1.3.1.jar.txt	4

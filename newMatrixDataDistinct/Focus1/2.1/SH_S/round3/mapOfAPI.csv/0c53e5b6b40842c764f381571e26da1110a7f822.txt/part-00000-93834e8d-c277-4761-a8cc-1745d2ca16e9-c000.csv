@@ -1,0 +1,5 @@
+0	model/Event/getName()
+1	java/lang/ClassLoader/getResource(java.lang.String)
+2	model/Event/getDate()
+3	model/Event/getArtist()
+4	dao/EventDAOImpl/getEvent(java.lang.String,java.lang.String,java.lang.String)

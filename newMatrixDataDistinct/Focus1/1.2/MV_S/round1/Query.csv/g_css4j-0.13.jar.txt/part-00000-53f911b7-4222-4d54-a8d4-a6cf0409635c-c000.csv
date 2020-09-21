@@ -1,0 +1,4 @@
+org/apache/log4j/Logger/info(java.lang.Object)
+java/lang/StringBuilder/append(int)
+info/informatica/doc/style/css/dom/DOMCSSStyleRule$SpecificityComparator/SpecificityComparator()
+java/util/SortedSet/iterator()

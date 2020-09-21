@@ -1,0 +1,4 @@
+org/mvel2/compiler/ExpressionCompiler/reduce()
+java/lang/Integer/intValue()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/toString()

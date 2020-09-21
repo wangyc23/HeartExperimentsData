@@ -1,0 +1,4 @@
+org/apache/jackrabbit/webdav/xml/DomUtil/addChildElement(org.w3c.dom.Element,java.lang.String,org.apache.jackrabbit.webdav.xml.Namespace)
+org/apache/jackrabbit/webdav/property/DavPropertyName/getNamespace()
+org/apache/jackrabbit/webdav/xml/DomUtil/setAttribute(org.w3c.dom.Element,java.lang.String,org.apache.jackrabbit.webdav.xml.Namespace,java.lang.String)
+org/apache/jackrabbit/webdav/jcr/search/SearchResultProperty/getName()

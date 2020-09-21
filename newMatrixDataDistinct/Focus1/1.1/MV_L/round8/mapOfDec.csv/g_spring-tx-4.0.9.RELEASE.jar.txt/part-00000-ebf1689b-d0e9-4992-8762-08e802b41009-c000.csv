@@ -1,0 +1,5 @@
+org/springframework/transaction/annotation/SpringTransactionAnnotationParser/parseTransactionAnnotation(org.springframework.core.annotation.AnnotationAttributes)@g_spring-tx-4.2.3.BUILD-20151114.225414-58.jar.txt	4
+org/springframework/transaction/annotation/SpringTransactionAnnotationParser/parseTransactionAnnotation(org.springframework.core.annotation.AnnotationAttributes)@g_spring-tx-4.2.2.RELEASE.jar.txt	1
+org/springframework/transaction/config/TxAdviceBeanDefinitionParser/parseAttributeSource(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-tx-4.2.3.BUILD-20151114.225414-58.jar.txt	3
+org/springframework/transaction/config/TxAdviceBeanDefinitionParser/parseAttributeSource(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-tx-4.2.2.RELEASE.jar.txt	0
+org/springframework/transaction/interceptor/TransactionAttributeEditor/setAsText(java.lang.String)@g_spring-tx-4.2.2.RELEASE.jar.txt	2

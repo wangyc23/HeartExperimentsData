@@ -1,0 +1,5 @@
+org/apache/sling/commons/log/logback/internal/util/Util/toList(java.lang.Object)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	3
+org/apache/sling/commons/log/logback/internal/Activator/start(org.apache.sling.models.impl.BundleContext)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	1
+org/apache/sling/event/impl/jobs/JobHandler/persistJobProperties(java.lang.String[])@0ff3757c82faabae2f17efddab67cae35d44705b.txt	4
+com/adobe/acs/commons/logging/impl/JsonEventLogger/convertValue(java.lang.Object)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	0
+org/apache/sling/scripting/sightly/impl/html/dom/HtmlParserTest/print(int,org.apache.sling.scripting.sightly.impl.html.dom.template.TemplateNode)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	2

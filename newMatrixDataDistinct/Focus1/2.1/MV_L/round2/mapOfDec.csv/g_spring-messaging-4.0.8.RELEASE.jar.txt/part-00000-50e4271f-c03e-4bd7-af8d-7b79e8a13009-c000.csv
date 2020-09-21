@@ -1,0 +1,5 @@
+org/springframework/messaging/simp/stomp/StompEncoder/writeHeaders(org.springframework.messaging.simp.stomp.StompCommand,java.util.Map,byte[],java.io.DataOutputStream)@g_spring-messaging-4.1.6.RELEASE.jar.txt	3
+org/springframework/messaging/simp/user/DefaultUserDestinationResolver/resolveDestination(org.springframework.messaging.Message)@g_spring-messaging-4.1.6.RELEASE.jar.txt	2
+org/springframework/messaging/simp/SimpMessagingTemplate/processHeadersToSend(java.util.Map)@g_spring-messaging-4.1.6.RELEASE.jar.txt	0
+org/springframework/messaging/handler/annotation/support/MethodArgumentNotValidException/getValidationErrorMessage(org.springframework.validation.BindingResult)@g_spring-messaging-4.1.6.RELEASE.jar.txt	4
+org/springframework/messaging/MessageHeaders/writeObject(java.io.ObjectOutputStream)@g_spring-messaging-4.1.6.RELEASE.jar.txt	1

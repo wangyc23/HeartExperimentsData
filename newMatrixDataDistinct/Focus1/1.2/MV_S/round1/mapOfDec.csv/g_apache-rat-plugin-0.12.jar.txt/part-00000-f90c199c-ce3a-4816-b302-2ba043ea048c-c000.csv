@@ -1,0 +1,5 @@
+org/jooq/util/maven/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_jooq-codegen-maven-3.7.1.jar.txt	4
+org/jooq/util/maven/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_jooq-codegen-maven-3.7.1.jar.txt	3
+org/springframework/boot/maven/HelpMojo/execute()@g_spring-boot-maven-plugin-1.2.6.RELEASE.jar.txt	2
+org/springframework/boot/maven/RunMojo/addAgents(java.util.List)@g_spring-boot-maven-plugin-1.2.6.RELEASE.jar.txt	1
+org/jooq/util/maven/HelpMojo/execute()@g_jooq-codegen-maven-3.7.1.jar.txt	0

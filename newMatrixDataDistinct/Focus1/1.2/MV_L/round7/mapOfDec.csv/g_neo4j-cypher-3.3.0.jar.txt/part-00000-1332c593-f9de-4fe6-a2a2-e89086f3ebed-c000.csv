@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/spi/v3_1/codegen/GeneratedMethodStructure/trace(java.lang.String,scala.Function1)@g_neo4j-cypher-3.1.0.jar.txt	3
+org/neo4j/cypher/internal/spi/v3_1/codegen/GeneratedMethodStructure/anonfun/visitorAccept/1/anonfun/5/anonfun/apply/1/apply(java.lang.String)@g_neo4j-cypher-3.1.0.jar.txt	2
+org/neo4j/cypher/internal/spi/v3_1/codegen/Templates/anon/2/accept(org.neo4j.codegen.CodeBlock)@g_neo4j-cypher-3.1.0.jar.txt	4
+org/neo4j/cypher/internal/spi/v3_1/codegen/GeneratedMethodStructure/anonfun/15/apply(org.neo4j.codegen.CodeBlock)@g_neo4j-cypher-3.1.0.jar.txt	0
+org/neo4j/cypher/internal/spi/v3_1/codegen/GeneratedMethodStructure/anonfun/14/apply(org.neo4j.codegen.CodeBlock)@g_neo4j-cypher-3.1.0.jar.txt	1

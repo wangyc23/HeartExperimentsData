@@ -1,0 +1,4 @@
+org/eclipse/xtend/lib/macro/TransformationContext/getPrimitiveInt()
+org/eclipse/xtend/lib/macro/declaration/MutableMethodDeclaration/setReturnType(org.eclipse.xtend.lib.macro.declaration.TypeReference)
+org/eclipse/xtend/lib/macro/declaration/MutableMethodDeclaration/setBody(org.eclipse.xtend2.lib.StringConcatenationClient)
+org/eclipse/xtend/lib/macro/TransformationContext/getPrimarySourceElement(org.eclipse.xtend.lib.macro.declaration.Element)

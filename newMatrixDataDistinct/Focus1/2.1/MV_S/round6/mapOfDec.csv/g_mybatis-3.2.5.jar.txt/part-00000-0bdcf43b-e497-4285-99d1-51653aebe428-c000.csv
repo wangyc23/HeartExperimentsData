@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/resolver/StateWriter/writeList(java.io.DataOutputStream,java.util.List)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/osgi/internal/resolver/ImportPackageSpecificationImpl/isSatisfiedBy(org.eclipse.osgi.service.resolver.BaseDescription)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/getFileGenerations(java.io.File)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/osgi/internal/module/ResolverImpl/resolveBundle(org.eclipse.osgi.internal.module.ResolverBundle,java.util.List)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/internal/resolver/StateWriter/writeMap(java.io.DataOutputStream,java.util.Map)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0

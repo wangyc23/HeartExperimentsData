@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_3/docgen/plannerDocGen/queryGraphConverter/unquote()@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	0
+org/neo4j/cypher/internal/compiler/v2_3/ast/convert/plannerQuery/StatementConverters/QueryConverter/asUnionQuery()@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_3/docgen/astPhraseDocGen/ReturnItemsConverter/unquote()@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	4
+org/neo4j/cypher/internal/compiler/v2_3/executionplan/MatchPattern/apply(scala.collection.Seq)@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	2
+org/neo4j/cypher/internal/compiler/v2_3/executionplan/builders/IndexLookupBuilder/apply(org.neo4j.cypher.internal.compiler.v2_3.executionplan.ExecutionPlanInProgress,org.neo4j.cypher.internal.compiler.v2_3.spi.PlanContext,org.neo4j.cypher.internal.compiler.v2_3.pipes.PipeMonitor)@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	3

@@ -1,0 +1,4 @@
+org/apache/maven/settings/Settings/getProfiles()
+java/util/ArrayList/ArrayList()
+org/apache/maven/settings/Settings/setLocalRepository(java.lang.String)
+org/apache/maven/settings/Settings/setPluginGroups(java.util.List)

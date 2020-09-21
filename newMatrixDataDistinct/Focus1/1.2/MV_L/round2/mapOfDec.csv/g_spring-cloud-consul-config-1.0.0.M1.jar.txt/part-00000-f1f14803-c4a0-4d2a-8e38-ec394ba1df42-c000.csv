@@ -1,0 +1,5 @@
+org/springframework/cloud/consul/discovery/ConsulServerList/getServers()@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	3
+org/springframework/cloud/consul/discovery/TtlScheduler/heartbeatServices()@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	0
+org/springframework/cloud/consul/discovery/ConsulDiscoveryClient/addInstancesToList(java.util.List,java.lang.String)@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	4
+org/springframework/cloud/consul/discovery/filters/FilteringAgentClient/getAliveAgents()@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	1
+org/springframework/cloud/consul/discovery/filters/ServiceCheckServerListFilter/getFilteredListOfServers(java.util.List)@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	2

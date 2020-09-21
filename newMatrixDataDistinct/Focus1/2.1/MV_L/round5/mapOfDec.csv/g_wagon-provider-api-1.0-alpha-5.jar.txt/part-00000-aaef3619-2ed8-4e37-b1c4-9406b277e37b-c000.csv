@@ -1,0 +1,5 @@
+org/apache/maven/wagon/PathUtils/authorization(java.lang.String)@g_wagon-provider-api-1.0-alpha-6.jar.txt	4
+org/apache/maven/wagon/WagonUtils/putDirectory(java.io.File,org.apache.maven.wagon.Wagon,boolean)@g_wagon-provider-api-1.0-beta-2.jar.txt	1
+org/apache/maven/wagon/PathUtils/port(java.lang.String)@g_wagon-provider-api-1.0-alpha-6.jar.txt	2
+org/apache/maven/wagon/WagonUtils/putDirectory(java.io.File,org.apache.maven.wagon.Wagon,boolean)@g_wagon-provider-api-1.0-alpha-6.jar.txt	0
+org/apache/maven/wagon/util/FileUtils/resolveFile(java.io.File,java.lang.String)@g_wagon-provider-api-1.0-alpha-6.jar.txt	3

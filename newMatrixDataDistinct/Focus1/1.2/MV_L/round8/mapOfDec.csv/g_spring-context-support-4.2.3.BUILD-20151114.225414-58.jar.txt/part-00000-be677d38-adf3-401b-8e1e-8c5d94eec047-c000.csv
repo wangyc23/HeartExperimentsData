@@ -1,0 +1,5 @@
+org/springframework/cache/jcache/interceptor/AbstractCacheInterceptor/extractFrom(java.util.Collection)@g_spring-context-support-4.2.3.BUILD-SNAPSHOT.jar.txt	3
+org/springframework/scheduling/quartz/SchedulerFactoryBean/createScheduler(org.quartz.SchedulerFactory,java.lang.String)@g_spring-context-support-4.2.3.BUILD-SNAPSHOT.jar.txt	2
+org/springframework/cache/ehcache/EhCacheCache/get(java.lang.Object,java.lang.Class)@g_spring-context-support-4.2.3.BUILD-SNAPSHOT.jar.txt	4
+org/springframework/scheduling/quartz/JobDetailFactoryBean/afterPropertiesSet()@g_spring-context-support-4.1.6.RELEASE.jar.txt	1
+org/springframework/scheduling/quartz/JobDetailFactoryBean/afterPropertiesSet()@g_spring-context-support-4.2.3.BUILD-SNAPSHOT.jar.txt	0

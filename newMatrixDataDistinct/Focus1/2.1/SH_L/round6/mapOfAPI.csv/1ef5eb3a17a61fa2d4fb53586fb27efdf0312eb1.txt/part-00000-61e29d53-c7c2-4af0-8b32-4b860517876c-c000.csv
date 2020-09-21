@@ -1,0 +1,8 @@
+0	javax/persistence/EntityManager/remove(java.lang.Object)
+1	org/openqa/selenium/By/xpath(java.lang.String)
+2	javax/persistence/EntityManager/contains(java.lang.Object)
+3	javax/persistence/EntityManager/merge(T)
+4	org/jboss/as/quickstarts/kitchensinkrf/util/UAgentInfo/detectTierTablet()
+5	org/jboss/as/quickstarts/tasksJsf/User/hashCode()
+6	org/jboss/as/quickstarts/wsat/simple/MockRestaurantManager/reset()
+7	java/lang/String/hashCode()

@@ -1,0 +1,5 @@
+org/apache/batik/dom/AbstractDocument/normalizeDocument(org.w3c.dom.Element,boolean,boolean,boolean,boolean,boolean,boolean,org.w3c.dom.DOMErrorHandler)@g_batik-dom-1.8.jar.txt	1
+org/apache/batik/dom/util/SAXDocumentFactory/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_batik-dom-1.8.jar.txt	3
+org/apache/batik/dom/util/DOMUtilities/deepCloneDocument(org.w3c.dom.Document,org.w3c.dom.DOMImplementation)@g_batik-dom-1.8.jar.txt	2
+org/apache/batik/dom/AbstractDocument/splitCdata(org.w3c.dom.Element,org.w3c.dom.Node,org.w3c.dom.DOMErrorHandler)@g_batik-dom-1.8.jar.txt	4
+org/apache/batik/dom/util/DOMUtilities/parseXML(java.lang.String,org.w3c.dom.Document,java.lang.String,java.util.Map,java.lang.String,org.apache.batik.dom.util.SAXDocumentFactory)@g_batik-dom-1.8.jar.txt	0

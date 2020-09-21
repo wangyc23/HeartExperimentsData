@@ -1,0 +1,4 @@
+java/net/Socket/getInputStream()
+java/lang/String/length()
+java/lang/StringBuffer/toString()
+java/net/Socket/getOutputStream()

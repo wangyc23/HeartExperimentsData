@@ -1,0 +1,5 @@
+org/springframework/context/annotation/CommonAnnotationBeanPostProcessor/WebServiceRefElement/getResourceToInject(java.lang.Object,java.lang.String)@g_spring-context-4.0.9.RELEASE.jar.txt	1
+org/springframework/context/annotation/CommonAnnotationBeanPostProcessor/WebServiceRefElement/getResourceToInject(java.lang.Object,java.lang.String)@g_spring-context-4.0.0.RELEASE.jar.txt	0
+org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider/isCandidateComponent(org.springframework.core.type.classreading.MetadataReader)@g_spring-context-4.0.0.RELEASE.jar.txt	3
+org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor/onApplicationEvent(org.springframework.context.event.ContextRefreshedEvent)@g_spring-context-4.0.0.RELEASE.jar.txt	2
+org/springframework/context/event/AbstractApplicationEventMulticaster/getApplicationListeners(org.springframework.context.ApplicationEvent)@g_spring-context-4.0.0.RELEASE.jar.txt	4

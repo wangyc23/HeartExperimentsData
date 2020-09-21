@@ -1,0 +1,6 @@
+0	io/netty/handler/codec/DelimiterBasedFrameDecoder/DelimiterBasedFrameDecoder(int,io.netty.buffer.ByteBuf[])
+1	java/util/List/get(int)
+2	java/util/Random/nextInt(int)
+3	org/slf4j/Logger/debug(java.lang.String,java.lang.Object)
+4	io/netty/util/internal/ThreadLocalRandom/current()
+5	java/util/List/size()

@@ -1,0 +1,5 @@
+org/apache/commons/io/FileUtils/doCopyDirectory(java.io.File,java.io.File,java.io.FileFilter,boolean,java.util.List)@g_commons-io-2.4.jar.txt	4
+org/apache/commons/io/FilenameUtils/splitOnTokens(java.lang.String)@g_commons-io-2.2.jar.txt	1
+org/apache/commons/io/HexDump/dump(byte[],long,java.io.OutputStream,int)@g_commons-io-2.4.jar.txt	2
+org/apache/commons/io/FileUtils/cleanDirectory(java.io.File)@g_commons-io-2.4.jar.txt	3
+org/apache/commons/io/FilenameUtils/splitOnTokens(java.lang.String)@g_commons-io-2.4.jar.txt	0

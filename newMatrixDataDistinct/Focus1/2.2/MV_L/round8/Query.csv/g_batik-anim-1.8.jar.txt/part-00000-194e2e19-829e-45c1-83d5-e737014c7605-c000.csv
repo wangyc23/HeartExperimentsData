@@ -1,0 +1,4 @@
+java/awt/geom/AffineTransform/getTranslateX()
+java/awt/geom/AffineTransform/getTranslateY()
+org/apache/batik/anim/dom/SVGOMSVGElement$1/getScreenTransform()
+org/w3c/dom/svg/SVGMatrix/getA()

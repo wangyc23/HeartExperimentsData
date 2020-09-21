@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/lang/String/split(java.lang.String,int)
+java/lang/Boolean/parseBoolean(java.lang.String)
+org/glassfish/jersey/client/authentication/DigestAuthenticator$Algorithm/parse(java.lang.String)

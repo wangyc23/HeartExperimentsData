@@ -1,0 +1,5 @@
+org/eclipse/osgi/baseadaptor/BaseAdaptor/listEntryPaths(java.util.List,java.lang.String,java.lang.String,int)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+net/sf/ezmorph/object/ObjectListMorpher/morph(java.lang.Object)@g_ezmorph-1.0.6.jar.txt	3
+net/sf/ezmorph/object/SwitchingMorpher/equals(java.lang.Object)@g_ezmorph-1.0.6.jar.txt	1
+net/sf/ezmorph/bean/MorphDynaClass/process()@g_ezmorph-1.0.6.jar.txt	0
+net/sf/ezmorph/object/SwitchingMorpher/hashCode()@g_ezmorph-1.0.6.jar.txt	2

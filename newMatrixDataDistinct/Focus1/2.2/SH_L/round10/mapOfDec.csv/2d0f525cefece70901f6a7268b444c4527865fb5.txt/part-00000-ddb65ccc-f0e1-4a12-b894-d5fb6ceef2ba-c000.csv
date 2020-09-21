@@ -1,0 +1,5 @@
+cn/jpush/api/schedule/model/TriggerPayload/toJSON()@09fd67ee82248de9ae414aee604fa3e885bf62fa.txt	1
+cn/jpush/api/device/DeviceClient/getUserOnlineStatus(java.lang.String[])@09fd67ee82248de9ae414aee604fa3e885bf62fa.txt	0
+cn/jpush/api/push/model/audience/AudienceTest/testAudience()@09fd67ee82248de9ae414aee604fa3e885bf62fa.txt	3
+cn/jpush/api/push/model/notification/IosAlert/toJSON()@09fd67ee82248de9ae414aee604fa3e885bf62fa.txt	4
+cn/jpush/api/schedule/model/TriggerPayloadTest/testBuildPeriodical()@09fd67ee82248de9ae414aee604fa3e885bf62fa.txt	2

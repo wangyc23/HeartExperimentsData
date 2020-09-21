@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/loader/impl/imageio/ImageLoaderImageIO/loadImage(org.apache.xmlgraphics.image.loader.ImageInfo,java.util.Map,org.apache.xmlgraphics.image.loader.ImageSessionContext)@g_xmlgraphics-commons-1.5.jar.txt	1
+org/apache/xmlgraphics/image/loader/impl/PNGFile/getImageRawPNG(org.apache.xmlgraphics.image.loader.ImageInfo)@g_xmlgraphics-commons-1.5.jar.txt	0
+org/apache/pdfbox/pdfparser/BaseParser/parseCOSString()@g_filters-2.0.235.jar.txt	3
+org/apache/xmlgraphics/image/loader/pipeline/ImageProviderPipeline/forceCaching(org.apache.xmlgraphics.image.loader.Image)@g_filters-2.0.235.jar.txt	4
+org/apache/pdfbox/pdmodel/font/PDType1AfmPfbFont/load(org.apache.pdfbox.pdmodel.PDDocument,java.io.InputStream,java.io.InputStream)@g_filters-2.0.235.jar.txt	2

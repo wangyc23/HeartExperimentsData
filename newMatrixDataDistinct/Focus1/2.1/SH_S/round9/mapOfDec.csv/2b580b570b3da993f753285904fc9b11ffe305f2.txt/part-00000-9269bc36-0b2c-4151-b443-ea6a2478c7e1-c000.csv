@@ -1,0 +1,5 @@
+com/guillaumecl/caskdays/models/Beer/fromJSON(com.fasterxml.jackson.databind.JsonNode)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+com/github/jakz/nit/batch/BatchOperations/loadExpectedGameSetList(com.github.jakz.nit.batch.BatchOptions,com.github.jakz.nit.Options)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1
+com/guillaumecl/caskdays/external/BeerListParser/extractBeerList(org.jsoup.nodes.Document)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3
+com/guillaumecl/caskdays/external/BeerListParser/getSite()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0
+com/github/jakz/nit/config/Config/PlatformDeserializer/deserialize(com.google.gson.JsonElement,java.lang.reflect.Type,com.google.gson.JsonDeserializationContext)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2

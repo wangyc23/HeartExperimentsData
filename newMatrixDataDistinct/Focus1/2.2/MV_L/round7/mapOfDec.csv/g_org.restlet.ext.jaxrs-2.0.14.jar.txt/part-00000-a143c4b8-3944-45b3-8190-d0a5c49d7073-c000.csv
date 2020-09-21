@@ -1,0 +1,5 @@
+org/restlet/engine/component/ClientRoute/score(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	4
+org/restlet/engine/http/adapter/ServerAdapter/commit(org.restlet.engine.http.HttpResponse)@g_org.restlet-2.0.14.jar.txt	3
+org/restlet/engine/security/AuthenticatorUtils/parseResponse(org.restlet.Request,java.lang.String,org.restlet.util.Series)@g_org.restlet-2.0.14.jar.txt	1
+org/restlet/service/ConverterService/toObject(org.restlet.representation.Representation,java.lang.Class,org.restlet.resource.UniformResource)@g_org.restlet-2.0.14.jar.txt	2
+org/restlet/resource/Finder/handle(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	0

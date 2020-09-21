@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/util/NamespaceUtil/generatePrefix(java.lang.String)@g_owlapi-compatibility-4.5.0.jar.txt	2
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/handleImport(java.util.Set)@g_owlapi-compatibility-4.5.0.jar.txt	3
+uk/ac/manchester/cs/owl/owlapi/OWLDataFactoryImpl/makeSingletonDisjoinClassWarningAnnotation(java.util.Collection,org.semanticweb.owlapi.model.OWLClassExpression,org.semanticweb.owlapi.model.OWLClassExpression)@g_owlapi-compatibility-4.5.0.jar.txt	4
+org/coode/owlapi/obo12/parser/PartOfTagValueHandler/handle(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_owlapi-distribution-5.1.0.jar.txt	1
+org/coode/owlapi/obo12/parser/PartOfTagValueHandler/handle(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_owlapi-compatibility-4.5.0.jar.txt	0

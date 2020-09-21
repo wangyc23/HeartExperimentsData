@@ -1,0 +1,4 @@
+0	net/BukkitPE/network/protocol/TransferPacket/TransferPacket()
+1	net/BukkitPE/event/Event/isCancelled()
+2	net/BukkitPE/Player/dataPacket(net.BukkitPE.network.protocol.DataPacket)
+3	net/BukkitPE/Server/getPluginManager()

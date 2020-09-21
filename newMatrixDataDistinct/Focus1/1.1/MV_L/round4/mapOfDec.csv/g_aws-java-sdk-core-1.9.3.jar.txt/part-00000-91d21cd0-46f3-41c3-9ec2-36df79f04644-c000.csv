@@ -1,0 +1,5 @@
+org/springframework/core/type/classreading/AnnotationMetadataReadingVisitor/1/visitEnd()@g_jets3t-0.9.0.jar.txt	3
+com/amazonaws/auth/AbstractAWSSigner/sign(byte[],byte[],com.amazonaws.auth.SigningAlgorithm)@g_jets3t-0.9.0.jar.txt	4
+org/springframework/ejb/access/LocalSlsbInvokerInterceptor/invokeInContext(org.aopalliance.intercept.MethodInvocation)@g_jets3t-0.9.0.jar.txt	2
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_jets3t-0.9.0.jar.txt	1
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_jets3t-0.9.0.jar.txt	0

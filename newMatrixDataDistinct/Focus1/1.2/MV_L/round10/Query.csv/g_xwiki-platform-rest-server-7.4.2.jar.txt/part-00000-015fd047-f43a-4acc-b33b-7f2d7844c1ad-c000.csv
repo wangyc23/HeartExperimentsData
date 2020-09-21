@@ -1,0 +1,4 @@
+org/xwiki/rest/model/jaxb/ObjectFactory/createTranslation()
+com/xpn/xwiki/api/Document/getWiki()
+java/lang/String/equals(java.lang.Object)
+org/xwiki/rest/model/jaxb/ObjectFactory/createLink()

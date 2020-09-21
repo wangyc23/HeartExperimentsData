@@ -1,0 +1,5 @@
+com/netflix/client/config/DefaultClientConfigImpl/loadDefaultValues()@g_ribbon-core-2.1.0.jar.txt	1
+com/netflix/client/config/DefaultClientConfigImpl/get(com.netflix.client.config.IClientConfigKey)@g_ribbon-core-2.0.0.jar.txt	3
+com/netflix/client/config/CommonClientConfigKey/<clinit>()@g_ribbon-core-2.0.0.jar.txt	2
+com/netflix/client/ClientException/getErrorCodes(java.lang.Class)@g_ribbon-core-2.0.0.jar.txt	4
+com/netflix/client/config/DefaultClientConfigImpl/loadDefaultValues()@g_ribbon-core-2.0.0.jar.txt	0

@@ -1,0 +1,5 @@
+jp/ac/shinshu/u/ealps/portal/dao/adb2/RelationDAO/selectRelationCourseBeanList(java.lang.String,int)@2e9cf83834e195e9c50b1e1bb8f9e8230f65b93b.txt	3
+com/waimai/ops/service/AppLogService/getBookingAndCreateLog(java.lang.String,java.lang.String)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	1
+jp/ac/shinshu/u/ealps/portal/bean/RelationCourseBean/getOpLecValue()@2e9cf83834e195e9c50b1e1bb8f9e8230f65b93b.txt	2
+com/waimai/ops/service/AppLogService/getOnlineError(java.lang.String,java.lang.String)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	0
+jp/ac/shinshu/u/ealps/portal/service/UtilityService/getYearList()@2e9cf83834e195e9c50b1e1bb8f9e8230f65b93b.txt	4

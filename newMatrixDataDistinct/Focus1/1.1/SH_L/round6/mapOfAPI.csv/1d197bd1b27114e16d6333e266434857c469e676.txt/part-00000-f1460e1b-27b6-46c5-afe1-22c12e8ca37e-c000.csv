@@ -1,0 +1,8 @@
+0	scala/Tuple2/_2()
+1	java/util/Arrays/asList(T[])
+2	java/util/HashSet/HashSet(java.util.Collection)
+3	scala/Tuple2/Tuple2(T1,T2)
+4	org/junit/Assert/assertEquals(java.lang.Object,java.lang.Object)
+5	org/apache/avro/data/RecordBuilderBase/defaultValue(org.apache.avro.Schema.Field)
+6	org/apache/spark/streaming/api/java/JavaDStream/flatMapToPair(org.apache.spark.api.java.function.PairFlatMapFunction)
+7	scala/Tuple2/_1()

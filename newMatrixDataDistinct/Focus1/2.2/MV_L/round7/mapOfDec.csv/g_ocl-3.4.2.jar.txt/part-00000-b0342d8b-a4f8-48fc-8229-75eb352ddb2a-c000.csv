@@ -1,0 +1,5 @@
+org/eclipse/ocl/parser/AbstractOCLAnalyzer/tupleLiteralExpCS(org.eclipse.ocl.cst.TupleLiteralExpCS,org.eclipse.ocl.Environment)@g_ocl-3.4.0-v20140524-1358.jar.txt	3
+org/eclipse/ocl/expressions/operations/LoopExpOperations/checkLoopVariableType(org.eclipse.ocl.expressions.LoopExp,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ocl-3.4.0-v20140524-1358.jar.txt	0
+org/eclipse/ocl/parser/AbstractOCLAnalyzer/messageExpCS(org.eclipse.ocl.cst.MessageExpCS,org.eclipse.ocl.Environment)@g_ocl-3.4.0-v20140524-1358.jar.txt	2
+org/eclipse/ocl/expressions/operations/MessageExpOperations/checkSignalArguments(org.eclipse.ocl.expressions.MessageExp,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ocl-3.4.0-v20140524-1358.jar.txt	4
+org/eclipse/ocl/expressions/operations/LoopExpOperations/checkLoopVariableType(org.eclipse.ocl.expressions.LoopExp,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_org.eclipse.ocl-3.4.2.v20140725-2242.jar.txt	1

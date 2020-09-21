@@ -1,0 +1,5 @@
+org/springframework/boot/autoconfigure/data/elasticsearch/ElasticsearchAutoConfiguration/createNodeClient()@g_spring-boot-autoconfigure-1.3.0.BUILD-20151114.062217-807.jar.txt	3
+org/springframework/boot/autoconfigure/condition/AbstractNestedCondition/MemberConditions/getMatchOutcomes()@g_spring-boot-autoconfigure-1.3.0.BUILD-SNAPSHOT.jar.txt	1
+org/springframework/boot/autoconfigure/condition/AbstractNestedCondition/MemberConditions/getMatchOutcomes()@g_spring-boot-autoconfigure-1.3.0.BUILD-20151114.062217-807.jar.txt	0
+org/springframework/boot/autoconfigure/condition/OnBeanCondition/getMatchingBeans(org.springframework.context.annotation.ConditionContext,org.springframework.boot.autoconfigure.condition.OnBeanCondition$BeanSearchSpec)@g_spring-boot-autoconfigure-1.3.0.BUILD-20151114.062217-807.jar.txt	2
+org/springframework/boot/autoconfigure/condition/BeanTypeRegistry/OptimizedBeanTypeRegistry/getNamesForType(java.lang.Class)@g_spring-boot-autoconfigure-1.3.0.BUILD-20151114.062217-807.jar.txt	4

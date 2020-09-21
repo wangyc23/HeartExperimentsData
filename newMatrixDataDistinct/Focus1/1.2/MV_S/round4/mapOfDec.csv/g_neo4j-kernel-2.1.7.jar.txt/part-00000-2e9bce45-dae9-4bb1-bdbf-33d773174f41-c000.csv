@@ -1,0 +1,5 @@
+org/jgroups/protocols/UNICAST/down(org.jgroups.Event)@g_jgroups-3.6.2.Final.jar.txt	2
+org/jgroups/protocols/MERGE3/ViewConsistencyChecker/_run()@g_jgroups-3.6.2.Final.jar.txt	1
+org/jgroups/protocols/UNICAST2/down(org.jgroups.Event)@g_jgroups-3.6.2.Final.jar.txt	4
+org/jgroups/protocols/relay/Relayer/Bridge/viewAccepted(org.jgroups.View)@g_jgroups-3.6.2.Final.jar.txt	3
+org/jgroups/protocols/Discovery/disseminateDiscoveryInformation(java.util.List,java.util.List,java.util.List)@g_jgroups-3.6.2.Final.jar.txt	0

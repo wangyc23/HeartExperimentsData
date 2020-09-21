@@ -1,0 +1,5 @@
+org/jboss/arquillian/core/impl/ExtensionParseTestCase/shouldBeAbleToReadAndInvokeInjectionPoints()@214c90f7d50ac449ba93faa7e8fe6c6ddd1eb314.txt	3
+org/jboss/arquillian/core/impl/ExtensionParseTestCase/shouldBeAbleToReadAndInvokeObserverMethods()@214c90f7d50ac449ba93faa7e8fe6c6ddd1eb314.txt	0
+org/jboss/arquillian/core/impl/ExtensionParseTestCase/shouldBeAbleToInjectEventAndFireNewEvent()@22a0bd215fd3956faae633b657276befedc4a56e.txt	4
+org/jboss/arquillian/core/impl/ExtensionParseTestCase/shouldBeAbleToInjectEventAndFireNewEvent()@214c90f7d50ac449ba93faa7e8fe6c6ddd1eb314.txt	2
+org/jboss/arquillian/core/impl/ExtensionParseTestCase/shouldBeAbleToReadAndInvokeObserverMethods()@22a0bd215fd3956faae633b657276befedc4a56e.txt	1

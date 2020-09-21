@@ -1,0 +1,4 @@
+javax/security/auth/callback/UnsupportedCallbackException/UnsupportedCallbackException(javax.security.auth.callback.Callback,java.lang.String)
+javax/security/auth/callback/PasswordCallback/setPassword(char[])
+java/util/Arrays/asList(java.lang.Object[])
+org/eclipse/jetty/plus/jaas/callback/DefaultCallbackHandler/getUserName()

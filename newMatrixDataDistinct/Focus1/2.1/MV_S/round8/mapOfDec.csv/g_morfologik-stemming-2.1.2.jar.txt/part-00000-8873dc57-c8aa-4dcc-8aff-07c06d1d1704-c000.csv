@@ -1,0 +1,5 @@
+morfologik/stemming/DictionaryMetadataBuilder/withOutputConversionPairs(java.util.Map)@g_truecommons-shed-2.5.0.jar.txt	3
+morfologik/speller/Speller/findReplacements(java.lang.String)@g_truecommons-shed-2.5.0.jar.txt	0
+morfologik/stemming/DictionaryMetadataBuilder/withEquivalentChars(java.util.Map)@g_truecommons-shed-2.5.0.jar.txt	4
+morfologik/stemming/TrimSuffixEncoder/decode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_truecommons-shed-2.5.0.jar.txt	2
+morfologik/speller/Speller/isMisspelled(java.lang.String)@g_truecommons-shed-2.5.0.jar.txt	1

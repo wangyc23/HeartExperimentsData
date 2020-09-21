@@ -1,0 +1,5 @@
+com/jiang/framework/message/UserProto/C_USER_LOGIN/Builder/setStieBytes(com.google.protobuf.ByteString)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	4
+com/ibm/taste/example/movie/utils/DBUtil/execuateQuery(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	2
+com/ibm/taste/example/movie/model/table/MovieTable/getAllMovies()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	3
+com/jiang/framework/message/UserProto/C_USER_LOGIN/Builder/clearKey()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	0
+com/jiang/framework/service/impl/BatchExcuteService/batchInsert(java.util.List)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	1

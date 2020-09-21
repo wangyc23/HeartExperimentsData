@@ -1,0 +1,5 @@
+org/springframework/security/acls/jdbc/BasicLookupStrategy/readAclsById(java.util.List,java.util.List)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	0
+org/springframework/classify/util/MethodInvokerUtils/1/doWith(java.lang.reflect.Method)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/acls/AclEntryVoter/vote(org.springframework.security.core.Authentication,org.aopalliance.intercept.MethodInvocation,java.util.Collection)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/acls/jdbc/BasicLookupStrategy/ProcessResultSet/extractData(java.sql.ResultSet)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	2
+org/springframework/retry/interceptor/StatefulRetryOperationsInterceptor/invoke(org.aopalliance.intercept.MethodInvocation)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	1

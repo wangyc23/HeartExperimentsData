@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rdf/rdfxml/parser/OWLRDFConsumer/importsClosureChanged()@g_owlapi-distribution-4.5.0.jar.txt	1
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseDatatypeFrame()@g_owlapi-distribution-4.5.0.jar.txt	0
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/preProcess()@g_owlapi-distribution-4.5.0.jar.txt	3
+org/semanticweb/owlapi/model/OWLDocumentFormatImpl/determineIllegalPunnings(boolean,java.util.Collection,java.util.Collection)@g_owlapi-distribution-4.5.0.jar.txt	4
+uk/ac/manchester/cs/owl/owlapi/OWLImmutableOntologyImpl/getReferencingAxioms(org.semanticweb.owlapi.model.OWLPrimitive,org.semanticweb.owlapi.model.parameters.Imports)@g_owlapi-distribution-4.5.0.jar.txt	2

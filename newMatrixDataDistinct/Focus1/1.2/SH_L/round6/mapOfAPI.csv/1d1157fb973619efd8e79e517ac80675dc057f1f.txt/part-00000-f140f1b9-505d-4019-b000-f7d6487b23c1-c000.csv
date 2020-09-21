@@ -1,0 +1,4 @@
+0	org/spout/api/geo/World/getData()
+1	org/spout/api/component/entity/EntityComponent/getOwner()
+2	org/spout/api/component/entity/PhysicsComponent/getTransform()
+3	org/spout/api/entity/Entity/getPhysics()

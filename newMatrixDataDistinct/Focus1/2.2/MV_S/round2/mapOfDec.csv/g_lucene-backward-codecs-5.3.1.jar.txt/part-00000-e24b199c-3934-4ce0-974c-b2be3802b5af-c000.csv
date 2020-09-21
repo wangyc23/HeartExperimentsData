@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/memory/FSTOrdTermsWriter/close()@g_lucene-codecs-5.5.0.jar.txt	4
+org/apache/lucene/codecs/memory/MemoryDocValuesConsumer/addBinaryField(org.apache.lucene.index.FieldInfo,java.lang.Iterable)@g_lucene-codecs-5.5.0.jar.txt	0
+org/apache/lucene/codecs/memory/MemoryDocValuesConsumer/addNumericField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,boolean)@g_lucene-codecs-5.5.0.jar.txt	3
+org/apache/lucene/codecs/memory/MemoryDocValuesConsumer/addSortedNumericField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,java.lang.Iterable)@g_lucene-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/blockterms/BlockTermsWriter/TermsWriter/finish()@g_lucene-codecs-5.5.0.jar.txt	2

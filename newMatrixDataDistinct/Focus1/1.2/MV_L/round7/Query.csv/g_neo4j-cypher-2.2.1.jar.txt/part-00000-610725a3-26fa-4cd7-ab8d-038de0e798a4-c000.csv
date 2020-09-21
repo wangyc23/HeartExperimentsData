@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+scala/collection/Seq/isEmpty()
+org/neo4j/cypher/internal/compiler/v2_2/InvalidSemanticsException/InvalidSemanticsException(java.lang.String)
+org/neo4j/cypher/internal/CypherCompiler$$anonfun$7/7(org.neo4j.cypher.internal.CypherCompiler)

@@ -1,0 +1,4 @@
+java/util/Hashtable/get(java.lang.Object)
+org/w3c/dom/Element/setAttribute(java.lang.String,java.lang.String)
+java/lang/String/lastIndexOf(int)
+java/lang/String/substring(int)

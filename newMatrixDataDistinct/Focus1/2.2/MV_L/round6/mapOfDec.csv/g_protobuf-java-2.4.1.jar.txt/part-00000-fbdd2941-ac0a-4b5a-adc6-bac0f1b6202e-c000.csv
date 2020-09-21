@@ -1,0 +1,5 @@
+com/google/protobuf/Descriptors/MethodDescriptor/crossLink()@g_protobuf-java-2.5.0.jar.txt	3
+com/google/protobuf/DescriptorProtos/SourceCodeInfo/Location/Builder/mergeFrom(com.google.protobuf.DescriptorProtos$SourceCodeInfo$Location)@g_protobuf-java-2.5.0.jar.txt	0
+com/google/protobuf/Descriptors/DescriptorPool/addFieldByNumber(com.google.protobuf.Descriptors$FieldDescriptor)@g_protobuf-java-2.5.0.jar.txt	4
+com/google/protobuf/DescriptorProtos/SourceCodeInfo/Location/Builder/buildPartial()@g_protobuf-java-2.5.0.jar.txt	1
+org/sonatype/spice/zapper/internal/protobuf/protos/ZapperProtos/SegmentFooter/Builder/mergeFrom(com.google.protobuf.CodedInputStream,com.google.protobuf.ExtensionRegistryLite)@g_protobuf-java-2.5.0.jar.txt	2

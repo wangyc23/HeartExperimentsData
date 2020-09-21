@@ -1,0 +1,5 @@
+org/eclipse/jetty/jmx/MBeanContainer/remove(org.eclipse.jetty.util.component.Container$Relationship)@g_jetty-jmx-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/jmx/ObjectMBean/getAttribute(java.lang.String)@g_jetty-jmx-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/jmx/MBeanContainer/removeBean(java.lang.Object)@g_jetty-jmx-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/jmx/ObjectMBean/setAttribute(javax.management.Attribute)@g_jetty-jmx-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/jmx/ObjectMBean/setAttributes(javax.management.AttributeList)@g_jetty-jmx-7.6.5.v20120716.jar.txt	0

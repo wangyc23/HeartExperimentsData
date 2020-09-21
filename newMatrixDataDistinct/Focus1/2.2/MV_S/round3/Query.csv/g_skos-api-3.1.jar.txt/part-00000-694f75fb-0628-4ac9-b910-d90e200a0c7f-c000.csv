@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+org/semanticweb/owlapi/model/OWLNamedIndividual/asOWLNamedIndividual()
+org/semanticweb/owlapi/model/OWLObjectPropertyAssertionAxiom/getObject()

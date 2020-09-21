@@ -1,0 +1,4 @@
+org/eclipse/jetty/server/Request/isHandled()
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/jetty/server/Request/getResponse()
+org/eclipse/jetty/server/Authentication$Wrapped/getHttpServletResponse()

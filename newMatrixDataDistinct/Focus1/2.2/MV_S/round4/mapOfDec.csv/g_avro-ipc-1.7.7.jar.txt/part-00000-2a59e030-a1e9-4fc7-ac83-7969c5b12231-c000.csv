@@ -1,0 +1,5 @@
+net/sf/ehcache/hibernate/management/impl/CacheRegionStats/fromTabularData(javax.management.openmbean.TabularData)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/hibernate/management/impl/EntityStats/fromTabularData(javax.management.openmbean.TabularData)@g_ehcache-core-2.6.2.jar.txt	3
+org/apache/zookeeper/server/NettyServerCnxnFactory/shutdown()@g_zookeeper-3.4.6.jar.txt	0
+org/apache/zookeeper/server/NettyServerCnxn/close()@g_zookeeper-3.4.6.jar.txt	1
+net/sf/ehcache/store/MemoryOnlyStore/BruteForceSearchManager/executeQuery(java.lang.String,net.sf.ehcache.store.StoreQuery,java.util.Map)@g_ehcache-core-2.6.2.jar.txt	2

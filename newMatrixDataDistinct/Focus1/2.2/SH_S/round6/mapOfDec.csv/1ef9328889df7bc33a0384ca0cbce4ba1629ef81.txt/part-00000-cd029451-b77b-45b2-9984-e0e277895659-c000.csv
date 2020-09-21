@@ -1,0 +1,5 @@
+dk/miw/playlists/LastFmAggregationStrategy/aggregate(org.apache.camel.Exchange,org.apache.camel.Exchange)@2a04823bf99a6d437a9f6653520b2aa21d6d599d.txt	0
+dk/miw/playlists/ChannelList/getChannels()@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	2
+rapid/container/TestContainerList/shouldListContainersWithLimit()@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	4
+rapid/container/TestContainerInspect/inspectContainer()@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	1
+com/kodcu/rapid/path/Network/connectToNetwork(java.lang.String,com.kodcu.rapid.path.JsonObject)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	3

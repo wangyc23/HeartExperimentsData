@@ -1,0 +1,5 @@
+org/eclipse/jetty/util/security/CertificateValidator/validate(java.security.KeyStore,java.security.cert.Certificate)@g_jetty-util-8.1.22.v20160922.jar.txt	3
+org/eclipse/jetty/util/security/CertificateValidator/validate(java.security.cert.Certificate[])@g_jetty-util-8.1.22.v20160922.jar.txt	2
+org/eclipse/jetty/util/security/CertificateValidator/validate(java.security.KeyStore,java.security.cert.Certificate)@g_jetty-util-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/util/ajax/JSON/parseNumber(org.eclipse.jetty.util.ajax.JSON$Source)@g_jetty-util-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/util/security/CertificateValidator/validate(java.security.cert.Certificate[])@g_jetty-util-7.6.5.v20120716.jar.txt	0

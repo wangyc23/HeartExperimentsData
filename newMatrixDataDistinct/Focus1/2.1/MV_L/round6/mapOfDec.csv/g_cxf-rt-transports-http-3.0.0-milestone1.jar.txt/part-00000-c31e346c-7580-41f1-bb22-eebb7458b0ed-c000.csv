@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/impl/CacheControlHeaderProvider/addFields(java.util.List,java.lang.String)@g_cxf-rt-transports-http-3.0.16.jar.txt	3
+org/apache/cxf/jaxrs/provider/XSLTJaxbProvider/marshalToOutputStream(javax.xml.bind.Marshaller,java.lang.Object,java.io.OutputStream,javax.ws.rs.core.MediaType)@g_cxf-rt-transports-http-3.0.16.jar.txt	4
+org/apache/cxf/jaxrs/impl/RequestImpl/evaluateIfMatch(javax.ws.rs.core.EntityTag)@g_cxf-rt-transports-http-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/interceptor/JAXRSOutExceptionMapperInterceptor/handleFault(org.apache.cxf.message.Message)@g_cxf-rt-transports-http-3.0.16.jar.txt	2
+org/apache/cxf/transport/http/AbstractHTTPDestination/getId(java.util.Map)@g_cxf-rt-transports-http-3.0.16.jar.txt	0

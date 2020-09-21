@@ -1,0 +1,5 @@
+org/eclipse/aether/internal/impl/DefaultArtifactResolver/getFile(org.eclipse.aether.RepositorySystemSession,org.eclipse.aether.artifact.Artifact,java.io.File)@g_aether-impl-1.0.2.v20150114.jar.txt	1
+org/eclipse/aether/internal/impl/DefaultArtifactResolver/getFile(org.eclipse.aether.RepositorySystemSession,org.eclipse.aether.artifact.Artifact,java.io.File)@g_aether-impl-1.1.0.jar.txt	3
+org/eclipse/aether/internal/impl/SimpleLocalRepositoryManager/getPathForArtifact(org.eclipse.aether.artifact.Artifact,boolean)@g_aether-impl-1.0.2.v20150114.jar.txt	4
+org/eclipse/aether/internal/impl/EnhancedLocalRepositoryManager/isTracked(java.util.Properties,java.io.File)@g_aether-impl-1.1.0.jar.txt	2
+org/eclipse/aether/internal/impl/EnhancedLocalRepositoryManager/isTracked(java.util.Properties,java.io.File)@g_aether-impl-1.0.2.v20150114.jar.txt	0

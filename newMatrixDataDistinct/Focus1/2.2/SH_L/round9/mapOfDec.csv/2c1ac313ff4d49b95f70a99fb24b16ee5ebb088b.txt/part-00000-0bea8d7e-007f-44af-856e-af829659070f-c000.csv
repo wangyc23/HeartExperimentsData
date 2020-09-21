@@ -1,0 +1,5 @@
+org/sindice/siren/qparser/tuple/query/builders/BooleanQueryNodeBuilder/build(org.apache.lucene.queryParser.core.nodes.QueryNode)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	1
+org/sindice/siren/qparser/analysis/NTripleQueryTokenizerImpl/zzScanError(int)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	4
+org/sindice/siren/qparser/analysis/EntityQueryTokenizerImpl/zzScanError(int)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	0
+org/sindice/siren/analysis/TupleTokenizerImpl/zzScanError(int)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	3
+org/sindice/siren/qparser/analysis/TabularQueryTokenizerImpl/zzScanError(int)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	2

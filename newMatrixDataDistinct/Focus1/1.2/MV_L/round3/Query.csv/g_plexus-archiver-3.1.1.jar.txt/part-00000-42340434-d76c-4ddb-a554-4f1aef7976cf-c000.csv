@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+org/codehaus/plexus/components/io/attributes/PlexusIoResourceAttributes/getUserId()
+java/lang/String/length()
+org/codehaus/plexus/logging/Logger/info(java.lang.String)

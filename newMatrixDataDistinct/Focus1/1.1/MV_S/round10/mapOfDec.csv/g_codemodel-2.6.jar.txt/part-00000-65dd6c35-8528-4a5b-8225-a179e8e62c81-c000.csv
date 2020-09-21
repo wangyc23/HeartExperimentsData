@@ -1,0 +1,5 @@
+com/sun/xml/xsom/impl/util/SchemaTreeTraverser/complexType(com.sun.xml.xsom.XSComplexType)@g_jaxb-xjc-2.2.6.jar.txt	4
+com/sun/xml/xsom/impl/util/SchemaWriter/attributeUse(com.sun.xml.xsom.XSAttributeUse)@g_jaxb-xjc-2.2.6.jar.txt	2
+com/sun/codemodel/JFormatter/id(java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	0
+com/sun/tools/jxc/model/nav/ApNavigator/getSuperClass(javax.lang.model.element.TypeElement)@g_jaxb-xjc-2.2.6.jar.txt	1
+com/sun/tools/jxc/ApBasedTask/ApAdapter/logAndAddFilesToCompile(org.apache.tools.ant.types.Commandline)@g_jaxb-xjc-2.2.6.jar.txt	3

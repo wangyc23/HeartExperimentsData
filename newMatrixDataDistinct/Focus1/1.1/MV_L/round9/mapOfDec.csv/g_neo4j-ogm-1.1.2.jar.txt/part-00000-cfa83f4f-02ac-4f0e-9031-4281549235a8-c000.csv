@@ -1,0 +1,5 @@
+org/neo4j/ogm/session/SessionFactory/openSession(java.lang.String)@g_neo4j-ogm-core-2.0.1.jar.txt	3
+net/sf/ehcache/management/ResourceClassLoader/findClass(java.lang.String)@g_neo4j-ogm-core-2.0.1.jar.txt	2
+net/sf/ehcache/store/FrontEndCacheTier/getQuiet(java.lang.Object)@g_neo4j-ogm-core-2.0.1.jar.txt	1
+org/neo4j/ogm/metadata/ClassPathScanner/scanClassFileEntry(java.io.InputStream,java.util.zip.ZipEntry)@g_neo4j-ogm-core-2.0.1.jar.txt	4
+net/sf/ehcache/store/disk/DiskStorageFactory/DiskWriteTask/call()@g_neo4j-ogm-core-2.0.1.jar.txt	0

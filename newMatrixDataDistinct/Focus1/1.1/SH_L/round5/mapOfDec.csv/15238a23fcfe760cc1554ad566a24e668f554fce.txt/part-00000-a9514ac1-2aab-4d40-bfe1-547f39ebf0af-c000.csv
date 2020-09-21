@@ -1,0 +1,5 @@
+org/apache/oozie/command/coord/CoordCommandUtils/dryRunCoord(org.apache.oozie.command.coord.Element,org.apache.oozie.CoordinatorActionBean)@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	2
+org/apache/oozie/command/coord/CoordActionStartXCommand/execute()@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	4
+org/apache/oozie/executor/jpa/TestCoordActionGetForInfoJPAExecutor/_testGetForInfo(java.lang.String,java.lang.String,org.apache.oozie.client.CoordinatorAction.Status,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.util.Date,java.lang.String,java.util.Date,int,java.util.Date)@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	1
+org/apache/oozie/command/coord/CoordMaterializeTransitionXCommand/writeActionSlaRegistration(java.lang.String,org.apache.oozie.CoordinatorActionBean,org.apache.oozie.Configuration)@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	0
+org/apache/oozie/service/TestJMSTopicService/testTopicAsUser()@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	3

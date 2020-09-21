@@ -1,0 +1,4 @@
+org/xwiki/rendering/block/XDOM/getChildren()
+org/xwiki/rendering/macro/MacroContentParser/parse(java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext,boolean,boolean)
+org/xwiki/rendering/block/Block/addChildren(java.util.List)
+java/util/Collections/emptyList()

@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/io/PrintStream/println(java.lang.String)
+java/util/List/isEmpty()
+java/io/IOException/getMessage()

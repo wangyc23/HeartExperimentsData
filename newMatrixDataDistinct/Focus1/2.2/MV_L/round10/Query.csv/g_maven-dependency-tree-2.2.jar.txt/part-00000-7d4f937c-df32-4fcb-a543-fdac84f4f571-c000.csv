@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+org/sonatype/aether/artifact/Artifact/getVersion()
+org/sonatype/aether/artifact/Artifact/getGroupId()

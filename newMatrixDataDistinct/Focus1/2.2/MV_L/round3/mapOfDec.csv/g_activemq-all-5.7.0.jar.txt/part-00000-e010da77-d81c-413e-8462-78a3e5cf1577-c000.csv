@@ -1,0 +1,5 @@
+org/apache/activemq/util/URISupport/parseQuery(java.lang.String)@g_activemq-core-5.3.2.jar.txt	4
+org/apache/activemq/command/ActiveMQMessage/<clinit>()@g_activemq-core-5.3.2.jar.txt	3
+org/apache/activemq/broker/BrokerService/getTransportConnectorURIsAsMap()@g_activemq-core-5.3.2.jar.txt	2
+org/apache/activemq/util/TypeConversionSupport/<clinit>()@g_activemq-core-5.3.2.jar.txt	0
+org/apache/activemq/security/SimpleAuthenticationPlugin/setUsers(java.util.List)@g_activemq-core-5.3.2.jar.txt	1

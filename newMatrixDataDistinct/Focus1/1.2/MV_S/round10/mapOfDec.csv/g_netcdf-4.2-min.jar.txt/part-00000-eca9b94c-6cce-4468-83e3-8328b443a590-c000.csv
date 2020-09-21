@@ -1,0 +1,5 @@
+ucar/nc2/iosp/hdf5/H5header/GroupBTree/readAllEntries(long,java.util.List)@g_netcdf-4.2.20.jar.txt	3
+ucar/nc2/iosp/noaa/Ghcnm2/isValidFile(ucar.unidata.io.RandomAccessFile)@g_netcdf-4.2.20.jar.txt	1
+thredds/catalog/crawl/CatalogExtractor/transfer(java.lang.String,java.lang.String)@g_netcdf-4.2.20.jar.txt	0
+ucar/nc2/iosp/netcdf3/N3outputStreamWriter/writeRecordData(java.io.DataOutputStream,java.util.List)@g_netcdf-4.2.20.jar.txt	4
+ucar/nc2/iosp/netcdf3/N3header/writeHeader(int,boolean,boolean,java.util.Formatter)@g_netcdf-4.2.20.jar.txt	2

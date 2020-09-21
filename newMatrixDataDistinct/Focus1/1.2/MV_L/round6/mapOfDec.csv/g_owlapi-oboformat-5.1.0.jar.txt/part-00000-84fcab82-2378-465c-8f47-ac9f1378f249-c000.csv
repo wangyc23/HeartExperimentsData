@@ -1,0 +1,5 @@
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLDeclarationAxiom)@g_owlapi-oboformat-4.5.0.jar.txt	4
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-oboformat-4.5.0.jar.txt	0
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/trGenericPropertyValue(org.semanticweb.owlapi.model.OWLAnnotationProperty,org.semanticweb.owlapi.model.OWLAnnotationValue,java.util.Set,org.obolibrary.oboformat.model.Frame)@g_owlapi-oboformat-4.5.0.jar.txt	3
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLClassAssertionAxiom)@g_owlapi-oboformat-4.5.0.jar.txt	2
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/owlObjectToTag(org.semanticweb.owlapi.model.OWLObject)@g_owlapi-oboformat-4.5.0.jar.txt	1

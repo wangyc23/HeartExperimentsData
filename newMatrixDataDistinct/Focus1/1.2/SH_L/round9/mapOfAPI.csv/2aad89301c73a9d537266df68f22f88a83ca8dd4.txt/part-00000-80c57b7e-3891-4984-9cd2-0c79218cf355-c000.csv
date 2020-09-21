@@ -1,0 +1,6 @@
+0	org/apache/mina/generated/thrift/UserProfile/equals(org.apache.mina.generated.thrift.UserProfile)
+1	org/trustedanalytics/atk/engine/frame/plugins/load/TextPlugin/MultiLineTaggedInputFormat/TaggedRecordReader/NestedMatchFinder/checkEmptyElementNode(byte[][],int[],byte[][],int[],int)
+2	org/apache/mina/generated/thrift/UserStorage/retrieve_result/isSetSuccess()
+3	org/trustedanalytics/atk/engine/frame/plugins/load/TextPlugin/MultiLineTaggedInputFormat/TaggedRecordReader/NestedMatchFinder/checkStartTagForDepth(int[],int)
+4	org/trustedanalytics/atk/engine/frame/plugins/load/TextPlugin/MultiLineTaggedInputFormat/TaggedRecordReader/NestedMatchFinder/checkComments(int[],int[],int)
+5	org/trustedanalytics/atk/engine/frame/plugins/load/TextPlugin/MultiLineTaggedInputFormat/TaggedRecordReader/NestedMatchFinder/noLongerInBlock(int[])

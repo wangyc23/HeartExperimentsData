@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/xbean/recipe/ObjectRecipe/setAutoMatchProperty(java.lang.String,java.lang.Object)
+org/apache/xbean/recipe/ObjectRecipe/setProperty(java.lang.String,java.lang.Object)
+java/util/List/iterator()

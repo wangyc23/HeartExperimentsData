@@ -1,0 +1,5 @@
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_guava-21.0.jar.txt	4
+com/google/common/io/Files/simplifyPath(java.lang.String)@g_guava-21.0.jar.txt	0
+com/google/common/collect/Sets/CartesianSet/create(java.util.List)@g_guava-21.0.jar.txt	2
+com/google/common/io/Files/simplifyPath(java.lang.String)@g_guava-22.0.jar.txt	1
+com/google/common/collect/Sets/CartesianSet/create(java.util.List)@g_guava-22.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/tools/ant/Main/processArgs(java.lang.String[])@g_ant-1.6.5.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/CollectionUtils/index(java.lang.Object,java.lang.Object)@g_attributes-processor-1.0.1.jar.txt	3
+org/apache/tools/ant/Main/runBuild(java.lang.ClassLoader)@g_ant-1.6.5.jar.txt	0
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationNot(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationNot)@g_attributes-processor-1.0.1.jar.txt	4
+org/apache/tools/ant/types/selectors/DateSelector/setParameters(org.apache.tools.ant.types.Parameter[])@g_ant-1.6.5.jar.txt	2

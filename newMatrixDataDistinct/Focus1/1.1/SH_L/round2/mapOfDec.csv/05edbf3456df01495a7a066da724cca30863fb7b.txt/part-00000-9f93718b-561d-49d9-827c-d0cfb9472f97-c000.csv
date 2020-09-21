@@ -1,0 +1,5 @@
+org/apache/spark/streaming/JavaAPISuite/convert(java.util.List)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	0
+org/apache/spark/streaming/JavaAPISuite/testTransformWith()@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	4
+org/apache/hive/service/cli/thrift/TBoolColumn/addToValues(boolean)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	2
+org/apache/spark/launcher/ChildProcAppHandle/addListener(org.apache.spark.launcher.SparkAppHandle.Listener)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	1
+org/apache/hive/service/cli/thrift/TBinaryColumn/addToValues(java.nio.ByteBuffer)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	3

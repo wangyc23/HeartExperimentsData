@@ -1,0 +1,7 @@
+0	au/com/ibm/bluecoin/service/impl/UserSvc/getDao()
+1	com/flavien/models/User/getPassword()
+2	au/com/ibm/bluecoin/scaffold/AbstractService/getDao()
+3	org/springframework/security/core/userdetails/UsernameNotFoundException/UsernameNotFoundException(java.lang.String)
+4	org/springframework/security/core/userdetails/User/User(java.lang.String,java.lang.String,boolean,boolean,boolean,boolean,java.util.Collection)
+5	au/com/ibm/bluecoin/dao/relational/AbstractDao/getRepository()
+6	org/springframework/data/repository/CrudRepository/findOne(ID)

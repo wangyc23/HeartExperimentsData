@@ -1,0 +1,5 @@
+net/sf/ehcache/distribution/MulticastRMICacheManagerPeerProvider/listRemoteCachePeers(net.sf.ehcache.Ehcache)@g_ehcache-core-2.6.2.jar.txt	4
+com/netflix/servo/jmx/OrderedObjectNameMapper/createObjectName(java.lang.String,com.netflix.servo.monitor.Monitor)@g_servo-core-0.7.4.jar.txt	0
+net/sf/ehcache/distribution/ManualRMICacheManagerPeerProvider/listRemoteCachePeers(net.sf.ehcache.Ehcache)@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/config/BeanHandler/chooseSetMethod(java.lang.Class,java.lang.String,java.lang.String,java.lang.Class)@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/config/CacheConfiguration/verifyPoolAllocationsBeforeAddingTo(net.sf.ehcache.CacheManager,long,long,long)@g_ehcache-core-2.6.2.jar.txt	2

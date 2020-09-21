@@ -1,0 +1,5 @@
+org/objectweb/asm/ClassWriter/a(java.lang.Object)@g_asm-3.1.jar.txt	1
+org/sonatype/guice/bean/scanners/index/SisuIndex/main(java.lang.String[])@g_asm-3.0.jar.txt	4
+org/sonatype/guice/bean/scanners/index/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_asm-3.0.jar.txt	2
+org/objectweb/asm/ClassWriter/a(java.lang.Object)@g_asm-3.0.jar.txt	0
+org/sonatype/guice/bean/scanners/index/AbstractSisuIndex/writeTable(java.lang.Object,java.util.Set)@g_asm-3.0.jar.txt	3

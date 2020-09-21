@@ -1,0 +1,5 @@
+com/sonal/flashcardapp/resthandlers/CardsRestHandler/deleteCard(int)@0694c470e5158da6473039678f52be575a8bf58f.txt	0
+com/sonal/flashcardapp/resthandlers/DeckRestHandler/updateDeck(com.sonal.flashcardapp.domain.FcDeck,int)@0694c470e5158da6473039678f52be575a8bf58f.txt	4
+com/sonal/flashcardapp/resthandlers/DeckRestHandler/insertCard(com.sonal.flashcardapp.domain.FcDeck,int)@0694c470e5158da6473039678f52be575a8bf58f.txt	2
+com/sonal/flashcardapp/resthandlers/CardsRestHandler/insertCard(com.sonal.flashcardapp.domain.FcCard,int)@0694c470e5158da6473039678f52be575a8bf58f.txt	3
+com/sonal/flashcardapp/resthandlers/CardsRestHandler/updateCard(int,com.sonal.flashcardapp.domain.FcCard)@0694c470e5158da6473039678f52be575a8bf58f.txt	1

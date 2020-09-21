@@ -1,0 +1,5 @@
+pages/GroupChangeAccessPage/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	2
+pages/ScheduleDelGroupPage/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	0
+pages/ChangePasswordPage/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	4
+pages/SignUpPage/teacherAuth(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	1
+pages/StudentChangeGroupPage/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	3

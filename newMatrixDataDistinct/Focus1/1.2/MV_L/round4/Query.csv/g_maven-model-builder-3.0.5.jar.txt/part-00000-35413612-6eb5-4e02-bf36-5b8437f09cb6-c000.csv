@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/apache/maven/model/Build/getTestSourceDirectory()
+org/apache/maven/model/Build/setSourceDirectory(java.lang.String)
+org/apache/maven/model/Build/getResources()

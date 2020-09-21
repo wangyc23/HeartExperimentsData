@@ -1,0 +1,5 @@
+org/springframework/cloud/netflix/zuul/filters/route/RibbonCommand/getSetter(java.lang.String)@g_spring-cloud-netflix-core-1.0.2.RELEASE.jar.txt	0
+org/springframework/cloud/netflix/feign/support/SpringMvcContract/processAnnotationOnMethod(feign.MethodMetadata,java.lang.annotation.Annotation,java.lang.reflect.Method)@g_netlib-java-0.9.3.jar.txt	4
+org/springframework/cloud/netflix/zuul/filters/ProxyRequestHelper/debug(java.lang.String,java.lang.String,org.springframework.util.MultiValueMap,org.springframework.util.MultiValueMap,java.io.InputStream)@g_netlib-java-0.9.3.jar.txt	3
+org/springframework/cloud/netflix/zuul/filters/post/SendErrorFilter/run()@g_netlib-java-0.9.3.jar.txt	2
+org/netlib/generate/JavaGenerator/parseJavadocDescription(java.lang.reflect.Method,java.lang.String)@g_netlib-java-0.9.3.jar.txt	1

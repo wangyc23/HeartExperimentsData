@@ -1,0 +1,5 @@
+org/apache/ivy/ant/IvyAntSettings/defineDefaultSettingFile(org.apache.ivy.core.settings.IvyVariableContainer,org.apache.tools.ant.ProjectComponent)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater/UpdaterHandler/1/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser/Parser/confStarted(org.xml.sax.Attributes)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/settings/XmlSettingsParser/settingsStarted(java.lang.String,java.util.Map)@g_ivy-2.3.0.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/velocity/texen/ant/TexenTask/execute()@g_attributes-processor-1.0.1.jar.txt	0

@@ -1,0 +1,5 @@
+org/glassfish/grizzly/Grizzly/<clinit>()@g_mimepull-1.9.3.jar.txt	2
+org/glassfish/grizzly/memory/Buffers/put(java.nio.ByteBuffer,int,int,java.nio.ByteBuffer)@g_mimepull-1.9.3.jar.txt	4
+org/glassfish/grizzly/utils/Charsets/preloadAllCharsets()@g_mimepull-1.9.3.jar.txt	1
+org/glassfish/grizzly/utils/ServiceFinder/parse(java.lang.Class,java.net.URL,java.util.Set)@g_mimepull-1.9.3.jar.txt	3
+org/glassfish/grizzly/nio/transport/TCPNIOAsyncQueueWriter/writeCompositeRecord(org.glassfish.grizzly.nio.NIOConnection,org.glassfish.grizzly.nio.transport.TCPNIOAsyncQueueWriter$CompositeQueueRecord)@g_mimepull-1.9.3.jar.txt	0

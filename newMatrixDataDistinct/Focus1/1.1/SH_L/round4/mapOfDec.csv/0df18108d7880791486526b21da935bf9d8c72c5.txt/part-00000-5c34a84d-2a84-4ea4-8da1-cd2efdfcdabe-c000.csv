@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/greeter/domain/ManagedBeanUserDao/createUser(org.jboss.as.quickstarts.greeter.domain.User)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	4
+org/jboss/as/quickstarts/tasksrs/model/Task/equals(java.lang.Object)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	3
+org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl/deleteTask(org.jboss.as.quickstarts.tasksrs.model.Task)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	1
+edu/ben/coursemanager/test/NewsDaoTest/updateNewsTest()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	0
+org/jboss/as/quickstarts/wsat/simple/RestaurantServiceATImpl/reset()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	2

@@ -1,0 +1,5 @@
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/addServletWithDefaultConfiguration(javax.servlet.ServletContext,java.util.Set)@g_jersey-servlet-1.19.jar.txt	2
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/addServletWithExistingRegistration(javax.servlet.ServletContext,javax.servlet.ServletRegistration,java.lang.Class,java.util.Set)@g_jersey-servlet-1.19.jar.txt	0
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/addServletWithDefaultConfiguration(javax.servlet.ServletContext,java.util.Set)@g_jersey-servlet-1.13.jar.txt	3
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/addServletWithExistingRegistration(javax.servlet.ServletContext,javax.servlet.ServletRegistration,java.lang.Class,java.util.Set)@g_jersey-servlet-1.13.jar.txt	1
+com/sun/jersey/spi/container/servlet/ServletContainer/configure(com.sun.jersey.spi.container.servlet.WebConfig,com.sun.jersey.api.core.ResourceConfig,com.sun.jersey.spi.container.WebApplication)@g_jersey-servlet-1.19.jar.txt	4

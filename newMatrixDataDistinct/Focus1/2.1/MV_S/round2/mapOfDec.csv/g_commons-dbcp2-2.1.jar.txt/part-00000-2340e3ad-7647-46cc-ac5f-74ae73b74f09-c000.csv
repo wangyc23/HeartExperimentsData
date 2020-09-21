@@ -1,0 +1,5 @@
+org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory/connectionClosed(javax.sql.ConnectionEvent)@g_commons-dbcp-1.3.jar.txt	3
+org/apache/commons/dbcp/datasources/InstanceKeyDataSource/getConnection(java.lang.String,java.lang.String)@g_commons-dbcp-1.3.jar.txt	4
+liquibase/snapshot/jvm/OracleDatabaseSnapshotGenerator/readUniqueConstraints(liquibase.snapshot.DatabaseSnapshot,java.lang.String,java.sql.DatabaseMetaData)@g_liquibase-core-2.0.5.jar.txt	0
+liquibase/snapshot/jvm/PostgresDatabaseSnapshotGenerator/getColumnsForUniqueConstraint(liquibase.database.Database,long,java.sql.Array,liquibase.database.structure.UniqueConstraint)@g_liquibase-core-2.0.5.jar.txt	1
+liquibase/snapshot/jvm/PostgresDatabaseSnapshotGenerator/readUniqueConstraints(liquibase.snapshot.DatabaseSnapshot,java.lang.String,java.sql.DatabaseMetaData)@g_liquibase-core-2.0.5.jar.txt	2

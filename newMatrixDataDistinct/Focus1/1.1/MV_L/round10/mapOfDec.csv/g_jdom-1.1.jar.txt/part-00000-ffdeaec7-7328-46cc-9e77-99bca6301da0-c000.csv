@@ -1,0 +1,5 @@
+org/jdom/output/XMLOutputter/escapeElementEntities(java.lang.String)@g_jdom-1.1.3.jar.txt	0
+org/codehaus/plexus/util/reflection/Reflector/getConstructor(java.lang.Class,java.lang.Class[])@g_plexus-utils-1.5.12.jar.txt	3
+org/jdom/output/XMLOutputter/escapeAttributeEntities(java.lang.String)@g_jdom-1.1.3.jar.txt	1
+hidden/org/codehaus/plexus/interpolation/StringSearchInterpolator/interpolate(java.lang.String,hidden.org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-utils-1.5.12.jar.txt	4
+org/codehaus/plexus/util/reflection/Reflector/_getMethod(java.lang.Class,java.lang.String,java.lang.Class[])@g_plexus-utils-1.5.12.jar.txt	2

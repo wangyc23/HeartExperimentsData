@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/TreeAnnotatorAndBinarizer/printRuleCounts()@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/lexparser/LexicalizedParser/getParserFromSerializedFile(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/FactoredLexicon/initRulesWithWord()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/SplittingGrammarExtractor/outputTransitions(edu.stanford.nlp.trees.Tree,int,java.util.IdentityHashMap,java.util.IdentityHashMap)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/LexicalizedParser/getAnnotatedBinaryTreebankFromTreebank(edu.stanford.nlp.trees.Treebank,edu.stanford.nlp.trees.Treebank,edu.stanford.nlp.trees.Treebank,edu.stanford.nlp.parser.lexparser.Options)@g_stanford-parser-3.5.2.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/EclipsePlugin/extractResourceDirs(java.util.Set,java.util.List,java.io.File,java.io.File,boolean,java.lang.String)@g_maven-eclipse-plugin-2.9.jar.txt	0
+org/apache/maven/plugin/ide/AbstractIdeSupportMojo/doDependencyResolution()@g_maven-eclipse-plugin-2.9.jar.txt	3
+org/apache/maven/plugin/eclipse/writers/myeclipse/MyEclipseSpringBeansWriter/write()@g_maven-eclipse-plugin-2.9.jar.txt	1
+org/apache/maven/plugin/ide/AbstractIdeSupportMojo/getReactorProject(org.apache.maven.artifact.Artifact)@g_maven-eclipse-plugin-2.9.jar.txt	4
+org/apache/maven/plugin/ide/IdeUtils/getPluginConfigurationDom(org.apache.maven.project.MavenProject,java.lang.String,java.lang.String[])@g_maven-eclipse-plugin-2.9.jar.txt	2

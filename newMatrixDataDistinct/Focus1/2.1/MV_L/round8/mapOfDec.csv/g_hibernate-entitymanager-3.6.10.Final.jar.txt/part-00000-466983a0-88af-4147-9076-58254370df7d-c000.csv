@@ -1,0 +1,5 @@
+org/hibernate/ejb/metamodel/MetadataContext/wrapUp()@g_hibernate-entitymanager-3.5.5-Final.jar.txt	2
+org/hibernate/ejb/QueryImpl/extractParameterInfo(java.util.Map)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	1
+org/hibernate/ejb/event/ListenerCallback/readObject(java.io.ObjectInputStream)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	4
+org/hibernate/ejb/packaging/JarVisitorFactory/getVisitor(java.net.URL,org.hibernate.ejb.packaging.Filter[],java.lang.String)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	3
+org/hibernate/ejb/AbstractEntityManagerImpl/createQuery(java.lang.String,java.lang.Class)@g_hibernate-entitymanager-3.5.5-Final.jar.txt	0

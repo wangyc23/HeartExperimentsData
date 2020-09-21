@@ -1,0 +1,5 @@
+javax/servlet/http/HttpUtils/parseQueryString(java.lang.String)@g_javax.servlet-api-3.0.1.jar.txt	0
+org/ccil/cowan/tagsoup/CommandLine/process(java.lang.String,java.io.OutputStream)@g_servlet-api-2.3.jar.txt	3
+javax/servlet/ServletSecurityElement/checkMethodNames(java.util.Collection)@g_servlet-api-2.3.jar.txt	4
+org/ccil/cowan/tagsoup/HTMLScanner/scan(java.io.Reader,org.ccil.cowan.tagsoup.ScanHandler)@g_servlet-api-2.3.jar.txt	2
+javax/servlet/http/HttpUtils/parseQueryString(java.lang.String)@g_servlet-api-2.3.jar.txt	1

@@ -1,0 +1,4 @@
+org/xwiki/rendering/util/ParserUtils/removeTopLevelParagraph(java.util.List)
+org/xwiki/rendering/block/MacroBlock/getParameters()
+java/util/ArrayList/ArrayList(java.util.Collection)
+java/util/List/isEmpty()

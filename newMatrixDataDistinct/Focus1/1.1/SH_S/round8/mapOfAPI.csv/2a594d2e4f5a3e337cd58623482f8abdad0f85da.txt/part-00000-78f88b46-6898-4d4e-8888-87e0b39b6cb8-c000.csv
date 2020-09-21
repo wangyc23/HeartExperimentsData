@@ -1,0 +1,7 @@
+0	java/lang/String/substring(int,int)
+1	fr/esiea/tetris/model/Model/getTetrimino()
+2	com/sportdataconnect/strictly/api/model/WeekId/extractOpeningNumbers(java.lang.String)
+3	com/sportdataconnect/strictly/api/model/WeekId/WeekId(int,java.lang.Integer,java.lang.String)
+4	java/lang/String/length()
+5	java/lang/Integer/parseInt(java.lang.String)
+6	java/lang/String/startsWith(java.lang.String)

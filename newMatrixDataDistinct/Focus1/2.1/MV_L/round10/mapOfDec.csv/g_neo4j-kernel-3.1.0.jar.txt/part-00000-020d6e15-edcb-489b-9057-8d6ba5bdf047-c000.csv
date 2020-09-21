@@ -1,0 +1,5 @@
+org/neo4j/kernel/configuration/docs/AsciiDocListGenerator/generateListAndTableCombo(java.util.List)@g_neo4j-kernel-3.0.1.jar.txt	3
+org/neo4j/helpers/Args/asArgs()@g_neo4j-kernel-3.0.1.jar.txt	1
+org/neo4j/kernel/impl/proc/ProcedureRegistry/validateSignature(org.neo4j.kernel.api.proc.ProcedureSignature,java.util.List,java.lang.String)@g_neo4j-kernel-3.0.1.jar.txt	2
+org/neo4j/unsafe/impl/batchimport/cache/idmapping/string/ParallelSort/sortRadix()@g_neo4j-kernel-3.0.1.jar.txt	0
+org/neo4j/kernel/impl/locking/community/RagManager/checkWaitOn(java.lang.Object,java.lang.Object)@g_neo4j-kernel-3.0.1.jar.txt	4

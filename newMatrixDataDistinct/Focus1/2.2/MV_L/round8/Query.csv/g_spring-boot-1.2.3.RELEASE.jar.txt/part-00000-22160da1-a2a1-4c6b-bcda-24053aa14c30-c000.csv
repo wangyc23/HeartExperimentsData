@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/springframework/boot/context/properties/EnableConfigurationPropertiesImportSelector$ConfigurationPropertiesBeanRegistrar/registerBeanDefinition(org.springframework.beans.factory.support.BeanDefinitionRegistry,java.lang.Class,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/springframework/util/StringUtils/hasText(java.lang.String)

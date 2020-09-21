@@ -1,0 +1,5 @@
+org/codehaus/jackson/map/ser/BasicSerializerFactory/<clinit>()@g_jackson-mapper-asl-1.7.4.jar.txt	1
+org/codehaus/jackson/map/introspect/BasicBeanDescription/findGetters(org.codehaus.jackson.map.introspect.VisibilityChecker,java.util.Collection)@g_jackson-mapper-asl-1.8.9.jar.txt	3
+org/codehaus/jackson/map/ser/BasicSerializerFactory/<clinit>()@g_jackson-mapper-asl-1.8.9.jar.txt	0
+org/codehaus/jackson/map/ser/CustomSerializerFactory/addSpecificMapping(java.lang.Class,org.codehaus.jackson.map.JsonSerializer)@g_jackson-mapper-asl-1.8.9.jar.txt	2
+org/codehaus/jackson/map/jsontype/impl/StdSubtypeResolver/_collectAndResolve(org.codehaus.jackson.map.introspect.AnnotatedMember,org.codehaus.jackson.map.MapperConfig,org.codehaus.jackson.map.AnnotationIntrospector,java.util.Collection)@g_jackson-mapper-asl-1.8.9.jar.txt	4

@@ -1,0 +1,5 @@
+org/springframework/jndi/JndiLocatorSupport/lookup(java.lang.String,java.lang.Class)@g_spring-context-4.2.4.RELEASE.jar.txt	1
+org/springframework/context/support/AbstractApplicationContext/initMessageSource()@g_spring-context-4.2.6.RELEASE.jar.txt	4
+org/springframework/context/annotation/ConfigurationClassParser/SourceClass/getMemberClasses()@g_spring-context-4.2.6.RELEASE.jar.txt	2
+org/springframework/context/support/ReloadableResourceBundleMessageSource/refreshProperties(java.lang.String,org.springframework.context.support.ReloadableResourceBundleMessageSource$PropertiesHolder)@g_spring-context-4.2.6.RELEASE.jar.txt	3
+org/springframework/jndi/JndiLocatorSupport/lookup(java.lang.String,java.lang.Class)@g_spring-context-4.2.6.RELEASE.jar.txt	0

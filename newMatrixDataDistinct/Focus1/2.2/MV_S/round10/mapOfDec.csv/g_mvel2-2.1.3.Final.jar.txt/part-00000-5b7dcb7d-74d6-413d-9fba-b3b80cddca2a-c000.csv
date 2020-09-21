@@ -1,0 +1,5 @@
+ognl/OgnlRuntime/getStaticField(ognl.OgnlContext,java.lang.String,java.lang.String)@g_ognl-3.0.8.jar.txt	4
+ognl/OgnlRuntime/findObjectIndexedPropertyDescriptors(java.lang.Class,java.util.Map)@g_ognl-3.0.8.jar.txt	3
+ognl/enhance/ExpressionCompiler/createLocalReferences(ognl.OgnlContext,javassist.ClassPool,javassist.CtClass,javassist.CtClass,javassist.CtClass[])@g_ognl-3.0.8.jar.txt	2
+ognl/OgnlRuntime/<clinit>()@g_ognl-3.0.8.jar.txt	1
+org/codehaus/swizzle/confluence/MapObject/checkXmlRpcTypes(java.lang.Object)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	0

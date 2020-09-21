@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/io/PrintStream/println(java.lang.String)
+java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])
+java/io/PrintStream/println(char[])

@@ -1,0 +1,4 @@
+java/util/SortedSet/add(java.lang.Object)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/util/SortedMap/get(java.lang.Object)
+java/lang/Integer/valueOf(int)

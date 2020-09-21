@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+org/apache/fontbox/cmap/CMapParser$LiteralName/access$100(org.apache.fontbox.cmap.CMapParser$LiteralName)
+java/lang/StringBuilder/append(java.lang.String)
+java/io/PushbackInputStream/unread(int)

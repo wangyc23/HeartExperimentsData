@@ -1,0 +1,5 @@
+edu/mit/ll/nics/nicsdao/impl/TaskingDAOImpl/opPeriodExists(long,long,long)@02cb3e291714656352a777a6b3bdd3e6126ca0c7.txt	0
+edu/mit/ll/nics/nicsdao/impl/TaskingDAOImpl/updateAssignmentLeader(long,long,long)@02cb3e291714656352a777a6b3bdd3e6126ca0c7.txt	1
+edu/mit/ll/nics/nicsdao/impl/TaskingDAOImpl/createOperationalPeriod(long,long,long)@02cb3e291714656352a777a6b3bdd3e6126ca0c7.txt	4
+edu/mit/ll/nics/nicsdao/impl/UserDAOImpl/findUserByField(java.lang.String,java.lang.String,boolean)@02cb3e291714656352a777a6b3bdd3e6126ca0c7.txt	2
+edu/mit/ll/nics/nicsdao/impl/TaskingDAOImpl/getResourceAssign(long,long,long)@02cb3e291714656352a777a6b3bdd3e6126ca0c7.txt	3

@@ -1,0 +1,5 @@
+org/apache/ivy/ant/IvyArtifactReport/doExecute()@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/ant/IvyInfo/doExecute()@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/osgi/obr/xml/OBRXMLWriter/writeManifests(java.util.Iterator,org.xml.sax.ContentHandler,boolean)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/osgi/obr/xml/OBRXMLParser/ResourceHandler/6/childHanlded(org.apache.ivy.osgi.util.DelegetingHandler)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/ant/IvyConvertPom/doExecute()@g_ivy-2.3.0.jar.txt	3

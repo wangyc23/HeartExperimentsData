@@ -1,0 +1,5 @@
+org/netlib/generate/JavaGenerator/createJNIWrapper(java.lang.reflect.Method,java.util.List)@g_geronimo-stax-api_1.0_spec-1.0.1.jar.txt	2
+javax/xml/stream/FactoryLocator/locate(java.lang.String,java.lang.String,java.lang.ClassLoader)@g_geronimo-stax-api_1.0_spec-1.0.1.jar.txt	3
+edu/jhu/nlp/wikipedia/WikiTextParser/getPlainText()@g_geronimo-stax-api_1.0_spec-1.0.1.jar.txt	4
+org/netlib/generate/JavaGenerator/parseParameterNames(java.lang.reflect.Method,java.lang.String)@g_geronimo-stax-api_1.0_spec-1.0.1.jar.txt	1
+org/netlib/generate/JavaGenerator/parseJavadocDescription(java.lang.reflect.Method,java.lang.String)@g_geronimo-stax-api_1.0_spec-1.0.1.jar.txt	0

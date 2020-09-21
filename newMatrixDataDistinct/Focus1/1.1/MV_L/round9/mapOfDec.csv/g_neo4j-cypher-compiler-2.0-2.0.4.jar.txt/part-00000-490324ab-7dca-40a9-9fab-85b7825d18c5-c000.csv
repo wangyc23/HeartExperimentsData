@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_0/pipes/EagerAggregationPipe/createEmptyResult$1(scala.collection.immutable.Map,scala.collection.Seq)@g_neo4j-cypher-compiler-2.0-2.0.3.jar.txt	4
+org/neo4j/cypher/internal/compiler/v2_0/SimpleTypedFunction/anonfun/checkTypes/1/anonfun/3/apply(scala.Tuple2,org.neo4j.cypher.internal.compiler.v2_0.ast.Expression)@g_neo4j-cypher-compiler-2.0-2.0.3.jar.txt	0
+org/neo4j/cypher/internal/compiler/v2_0/commands/PathExpression/symbolTableDependencies()@g_neo4j-cypher-compiler-2.0-2.0.3.jar.txt	2
+org/neo4j/cypher/internal/compiler/v2_0/pipes/matching/PatternGraph/validatePattern(scala.collection.immutable.Map,scala.collection.immutable.Map)@g_neo4j-cypher-compiler-2.0-2.0.3.jar.txt	3
+org/neo4j/cypher/internal/compiler/v2_0/mutation/UpdateAction/class/description(org.neo4j.cypher.internal.compiler.v2_0.mutation.UpdateAction)@g_neo4j-cypher-compiler-2.0-2.0.3.jar.txt	1

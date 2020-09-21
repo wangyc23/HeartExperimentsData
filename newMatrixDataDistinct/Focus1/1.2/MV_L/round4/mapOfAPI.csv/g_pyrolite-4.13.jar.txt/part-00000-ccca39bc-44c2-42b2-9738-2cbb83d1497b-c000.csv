@@ -1,0 +1,4 @@
+0	java/util/zip/Inflater/inflate(byte[])
+1	java/util/zip/Inflater/setInput(byte[])
+2	java/io/ByteArrayOutputStream/ByteArrayOutputStream(int)
+3	java/io/ByteArrayOutputStream/write(byte[],int,int)

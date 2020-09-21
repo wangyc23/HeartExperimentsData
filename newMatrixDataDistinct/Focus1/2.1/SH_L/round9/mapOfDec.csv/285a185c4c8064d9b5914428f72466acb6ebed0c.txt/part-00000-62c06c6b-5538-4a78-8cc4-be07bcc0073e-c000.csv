@@ -1,0 +1,5 @@
+cucumber/runtime/RuntimeGlue/writeStepdefsJson(java.util.List,java.net.URL)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	2
+cucumber/runtime/RuntimeGlue/stepDefinitionMatches(java.lang.String,cucumber.runtime.Step)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	3
+cucumber/runtime/autocomplete/StepdefGenerator/generate(java.util.Collection,java.util.List)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	1
+cucumber/runtime/autocomplete/StepdefGeneratorTest/generates_code_completion_metadata()@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	0
+cucumber/runtime/autocomplete/StepdefGeneratorTest/generates_code_completion_metadata()@04638a8dae9afa91905ea0e243f73f684f561226.txt	4

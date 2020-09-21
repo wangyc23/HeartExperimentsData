@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/client/api/impl/AMRMClientImpl/addContainerRequest(org.apache.hadoop.yarn.client.api.AMRMClient$ContainerRequest)@g_hadoop-yarn-client-2.6.0.jar.txt	1
+org/apache/hadoop/yarn/client/api/impl/AMRMClientImpl/resolveRacks(java.util.List)@g_hadoop-yarn-client-2.6.0.jar.txt	0
+org/apache/hadoop/mapred/YarnChild/main(java.lang.String[])@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	4
+org/apache/hadoop/mapreduce/jobhistory/JobHistoryEventHandler/serviceStop()@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	2
+org/apache/hadoop/mapreduce/v2/app/job/impl/TaskAttemptImpl/createCommonContainerLaunchContext(java.util.Map,org.apache.hadoop.conf.Configuration,org.apache.hadoop.security.token.Token,org.apache.hadoop.mapred.JobID,org.apache.hadoop.security.Credentials)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	3

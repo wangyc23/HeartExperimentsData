@@ -1,0 +1,4 @@
+org/apache/lucene/store/ByteArrayDataInput/readShort()
+org/apache/lucene/util/fst/FST/findTargetArc(int,org.apache.lucene.util.fst.FST$Arc,org.apache.lucene.util.fst.FST$Arc,org.apache.lucene.util.fst.FST$BytesReader)
+org/apache/lucene/store/ByteArrayDataInput/setPosition(int)
+java/util/List/addAll(java.util.Collection)

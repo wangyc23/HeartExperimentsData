@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.CharSequence)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(int)
+java/lang/Throwable/getMessage()

@@ -1,0 +1,4 @@
+org/glassfish/hk2/utilities/general/GeneralUtilities/getSystemProperty(java.lang.String,java.lang.String)
+org/glassfish/hk2/utilities/reflection/Logger/debug(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(boolean)

@@ -1,0 +1,4 @@
+org/xwiki/rendering/transformation/MacroTransformationContext/getCurrentMacroBlock()
+java/lang/StringBuilder/append(java.lang.String)
+org/xwiki/rendering/transformation/TransformationContext/getTargetSyntax()
+org/xwiki/rendering/transformation/MacroTransformationContext/getTransformationContext()

@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/graphviz/GraphVizMacro/execute(java.io.Writer,org.radeox.macro.parameter.MacroParameter)@g_xwiki-platform-oldcore-7.0.jar.txt	4
+com/xpn/xwiki/web/ExportAction/exportXAR(com.xpn.xwiki.XWikiContext)@g_xwiki-platform-oldcore-7.0.jar.txt	2
+com/xpn/xwiki/user/impl/xwiki/XWikiAuthServiceImpl/authenticate(java.lang.String,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-oldcore-7.0.jar.txt	3
+com/xpn/xwiki/util/Util/normalizeLanguage(java.lang.String)@g_xwiki-platform-oldcore-7.0.jar.txt	1
+com/xpn/xwiki/XWiki/sendValidationEmail(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-oldcore-7.0.jar.txt	0

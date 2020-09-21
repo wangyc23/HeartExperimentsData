@@ -1,0 +1,5 @@
+org/apache/maven/plugin/resources/remote/io/xpp3/SupplementalDataModelXpp3Reader/read(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-3.0.3.jar.txt	3
+org/apache/maven/plugin/resources/remote/HelpMojo/execute()@g_maven-repository-metadata-3.0.3.jar.txt	2
+org/apache/maven/artifact/repository/metadata/Versioning/clone()@g_maven-repository-metadata-3.0.3.jar.txt	0
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/validate()@g_maven-repository-metadata-3.0.3.jar.txt	4
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/initalizeClassloader(org.apache.maven.plugin.resources.remote.RemoteResourcesClassLoader,java.util.List)@g_maven-repository-metadata-3.0.3.jar.txt	1

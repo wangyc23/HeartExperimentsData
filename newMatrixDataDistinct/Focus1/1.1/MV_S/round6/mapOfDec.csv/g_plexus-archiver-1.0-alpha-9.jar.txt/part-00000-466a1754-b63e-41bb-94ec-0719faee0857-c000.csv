@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/jar/Manifest/Attribute/write(java.io.PrintWriter)@g_plexus-archiver-2.1.jar.txt	1
+org/apache/tools/ant/taskdefs/Jikes/compile(java.lang.String[])@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/AntStructure/execute()@g_ant-1.6.5.jar.txt	4
+org/codehaus/plexus/archiver/jar/JarArchiver/createIndexList(org.codehaus.plexus.archiver.zip.ZipOutputStream)@g_plexus-archiver-2.1.jar.txt	0
+org/apache/tools/ant/taskdefs/Javadoc/execute()@g_ant-1.6.5.jar.txt	2

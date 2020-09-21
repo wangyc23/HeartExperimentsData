@@ -1,0 +1,5 @@
+io/druid/server/coordination/ZkCoordinator/removeSegment(io.druid.timeline.DataSegment,io.druid.server.coordination.DataSegmentChangeCallback)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	0
+io/druid/segment/BitmapOffset/clone()@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	4
+io/druid/query/aggregation/AggregatorUtilTest/testCondenseAggregators()@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	3
+io/druid/guice/ConfigProvider/bind(io.druid.server.initialization.Binder,java.lang.Class,java.util.Map)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	1
+io/druid/query/filter/DimFilterCacheHelper/computeCacheKey(byte,java.util.List)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	2

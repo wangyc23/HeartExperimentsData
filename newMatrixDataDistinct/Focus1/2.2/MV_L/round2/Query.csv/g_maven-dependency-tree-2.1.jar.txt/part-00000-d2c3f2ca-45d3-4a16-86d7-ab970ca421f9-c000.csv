@@ -1,0 +1,4 @@
+org/apache/maven/project/ProjectDependenciesResolver/resolve(org.apache.maven.project.DependencyResolutionRequest)
+java/lang/NoSuchMethodException/getMessage()
+org/apache/maven/project/ProjectBuildingRequest/getRepositorySession()
+org/apache/maven/project/DependencyResolutionException/getMessage()

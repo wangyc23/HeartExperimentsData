@@ -1,0 +1,4 @@
+de/pdark/decentxml/XMLWriter/flush()
+de/pdark/decentxml/XMLWriter/setIndent(java.lang.String)
+de/pdark/decentxml/Document/toXML(de.pdark.decentxml.XMLWriter)
+de/pdark/decentxml/Document/getEncoding()

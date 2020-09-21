@@ -1,0 +1,5 @@
+org/aspectj/runtime/reflect/Factory/makeEncSJP(java.lang.reflect.Member)@g_aspectjrt-1.6.11.jar.txt	0
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_aspectjrt-1.6.11.jar.txt	2
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclareErrorOrWarnings()@g_aspectjrt-1.6.11.jar.txt	3
+org/aspectj/runtime/reflect/Factory/makeEncSJP(java.lang.reflect.Member)@g_aspectjrt-1.6.12.jar.txt	1
+org/aspectj/runtime/internal/cflowstack/ThreadStackImpl11/getThreadStack()@g_aspectjrt-1.6.11.jar.txt	4

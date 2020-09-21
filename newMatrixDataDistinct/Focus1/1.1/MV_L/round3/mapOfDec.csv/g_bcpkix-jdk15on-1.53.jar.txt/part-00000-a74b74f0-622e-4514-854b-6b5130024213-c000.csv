@@ -1,0 +1,5 @@
+org/bouncycastle/operator/jcajce/OperatorHelper/getSignatureName(org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_bcpkix-jdk15on-1.54.jar.txt	1
+org/bouncycastle/operator/jcajce/JceKTSKeyUnwrapper/generateUnwrappedKey(org.bouncycastle.asn1.x509.AlgorithmIdentifier,byte[])@g_bcpkix-jdk15on-1.54.jar.txt	0
+org/bouncycastle/pkcs/bc/PKCS12PBEUtils/createMacCalculator(org.bouncycastle.asn1.ASN1ObjectIdentifier,org.bouncycastle.crypto.ExtendedDigest,org.bouncycastle.asn1.pkcs.PKCS12PBEParams,char[])@g_bcpkix-jdk15on-1.54.jar.txt	2
+org/bouncycastle/openssl/PEMReader/KeyPairParser/readKeyPair(org.bouncycastle.util.io.pem.PemObject)@g_bcpkix-jdk15on-1.54.jar.txt	4
+org/bouncycastle/cms/SignerInformation/getSingleValuedSignedAttribute(org.bouncycastle.asn1.ASN1ObjectIdentifier,java.lang.String)@g_bcpkix-jdk15on-1.54.jar.txt	3

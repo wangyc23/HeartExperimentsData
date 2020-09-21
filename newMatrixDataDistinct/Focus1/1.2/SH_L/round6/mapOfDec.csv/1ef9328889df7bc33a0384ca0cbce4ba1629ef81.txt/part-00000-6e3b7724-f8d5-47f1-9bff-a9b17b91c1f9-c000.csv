@@ -1,0 +1,5 @@
+org/javaee7/jaxrs/request/binding/MyResource/getList(int,int)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	2
+org/javaee7/ejb/stateful/CartBeanWithInterfaceTest/shouldAddManyItems()@25d79c90186328c34a9598727ce2a0642d67c4da.txt	3
+com/tamingtext/fuzzy/OverlapMeasures/cosine(java.lang.String,int,java.lang.String[])@25d79c90186328c34a9598727ce2a0642d67c4da.txt	0
+org/javaee7/jaxrs/request/binding/TestServlet/processRequest(org.javaee7.ejb.stateless.remote.HttpServletRequest,org.javaee7.ejb.stateless.remote.HttpServletResponse)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	4
+org/javaee7/cdi/built/in/TestServlet/doGet(org.javaee7.ejb.stateless.remote.HttpServletRequest,org.javaee7.ejb.stateless.remote.HttpServletResponse)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	1

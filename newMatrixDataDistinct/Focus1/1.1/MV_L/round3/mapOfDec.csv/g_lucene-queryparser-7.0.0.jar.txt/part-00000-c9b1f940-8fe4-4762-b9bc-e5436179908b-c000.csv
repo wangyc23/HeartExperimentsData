@@ -1,0 +1,5 @@
+org/apache/lucene/queryparser/flexible/core/nodes/BooleanQueryNode/toString()@g_lucene-queryparser-7.2.1.jar.txt	4
+org/apache/lucene/queryparser/xml/builders/SpanOrTermsBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-7.2.1.jar.txt	0
+org/apache/lucene/queryparser/xml/builders/SpanOrBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-7.2.1.jar.txt	1
+org/apache/lucene/queryparser/complexPhrase/ComplexPhraseQueryParser/ComplexPhraseQuery/addComplexPhraseClause(java.util.List,org.apache.lucene.search.BooleanQuery)@g_lucene-queryparser-7.2.1.jar.txt	2
+org/apache/lucene/queryparser/xml/builders/SpanNearBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-7.2.1.jar.txt	3

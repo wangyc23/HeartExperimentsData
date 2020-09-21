@@ -1,0 +1,4 @@
+java/lang/Throwable/printStackTrace()
+java/io/InputStream/read(byte[])
+java/lang/ClassLoader/getResourceAsStream(java.lang.String)
+java/io/OutputStream/write(byte[],int,int)

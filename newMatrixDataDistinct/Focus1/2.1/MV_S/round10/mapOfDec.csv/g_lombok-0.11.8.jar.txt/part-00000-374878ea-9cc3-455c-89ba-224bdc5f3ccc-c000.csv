@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationGreaterThan(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationGreaterThan)@g_jna-4.1.0.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_jna-4.1.0.jar.txt	1
+com/sun/jna/Structure/validateField(java.lang.String,java.lang.Class)@g_jna-4.1.0.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/builder/EqualsBuilder/reflectionAppend(java.lang.Object,java.lang.Object,java.lang.Class,org.carrot2.util.preprocessor.shaded.apache.commons.lang.builder.EqualsBuilder,boolean,java.lang.String[])@g_jna-4.1.0.jar.txt	2
+lombok/javac/handlers/HandleEqualsAndHashCode/generateMethods(lombok.javac.JavacNode,lombok.javac.JavacNode,com.sun.tools.javac.util.List,com.sun.tools.javac.util.List,java.lang.Boolean,boolean,lombok.javac.handlers.JavacHandlerUtil$FieldAccess)@g_jna-4.1.0.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/tiles/reflect/ClassUtil/collectBeanInfo(java.lang.Class,java.util.Map)@g_tiles-request-api-1.0.4.jar.txt	4
+org/apache/tiles/BasicAttributeContext/addMissing(java.util.Map)@g_tiles-api-2.2.1.jar.txt	1
+org/apache/tiles/BasicAttributeContext/addMissingAttributes(java.util.Map,java.util.Map)@g_tiles-api-2.2.1.jar.txt	3
+org/apache/tiles/BasicAttributeContext/deepCopyAttributeMap(java.util.Map)@g_tiles-api-2.2.1.jar.txt	2
+org/apache/tiles/request/collection/ScopeMap/ScopeEntrySet/retainAll(java.util.Collection)@g_tiles-request-api-1.0.4.jar.txt	0

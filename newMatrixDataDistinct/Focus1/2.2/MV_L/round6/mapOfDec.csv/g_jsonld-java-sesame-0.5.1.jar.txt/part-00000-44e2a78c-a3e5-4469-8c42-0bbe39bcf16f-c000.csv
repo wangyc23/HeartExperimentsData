@@ -1,0 +1,5 @@
+com/github/jsonldjava/core/Context/serialize()@g_jsonld-java-0.5.1.jar.txt	3
+com/github/jsonldjava/core/JsonLdUtils/deepCompare(java.lang.Object,java.lang.Object,java.lang.Boolean)@g_jsonld-java-0.5.1.jar.txt	2
+org/eclipse/rdf4j/rio/jsonld/JSONLDParser/parse(java.io.InputStream,java.lang.String)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	0
+com/github/jsonldjava/core/NormalizeUtils/hashPaths(java.lang.String,java.util.Map,com.github.jsonldjava.core.UniqueNamer,com.github.jsonldjava.core.UniqueNamer)@g_jsonld-java-0.5.1.jar.txt	4
+org/eclipse/rdf4j/rio/jsonld/JSONLDParser/parse(java.io.Reader,java.lang.String)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	1

@@ -1,0 +1,5 @@
+0	com/trier/exam/shopping/model/Product/setId(java.lang.Long)
+1	com/trier/exam/shopping/service/AbstractService/persist(T)
+2	com/trier/exam/shopping/model/Product/getId()
+3	com/trier/exam/shopping/service/AbstractService/findById(java.lang.Long)
+4	com/example/sdn4rc2/web/BaseController/addPageAttr(com.example.sdn4rc2.service.PageBean,org.springframework.ui.Model)

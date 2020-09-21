@@ -1,0 +1,5 @@
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_chill-java-0.8.0.jar.txt	4
+com/twitter/chill/Base64/encodeBytesToBytes(byte[],int,int,int)@g_chill-java-0.8.0.jar.txt	2
+net/iharder/Base64/decodeFromFile(java.lang.String)@g_chill-java-0.8.0.jar.txt	1
+com/twitter/chill/Base64/decode(java.lang.String,int)@g_chill-java-0.8.0.jar.txt	0
+com/twitter/chill/Base64/encodeObject(java.io.Serializable,int)@g_chill-java-0.8.0.jar.txt	3

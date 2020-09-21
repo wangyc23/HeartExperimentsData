@@ -1,0 +1,4 @@
+org/eclipse/core/runtime/IPath/removeFileExtension()
+org/eclipse/core/runtime/IPath/append(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/core/runtime/IPath/addFileExtension(java.lang.String)

@@ -1,0 +1,4 @@
+org/apache/jena/grande/Utils/toString(java.lang.String[])
+java/lang/Class/getName()
+java/lang/Integer/parseInt(java.lang.String)
+java/lang/Object/getClass()

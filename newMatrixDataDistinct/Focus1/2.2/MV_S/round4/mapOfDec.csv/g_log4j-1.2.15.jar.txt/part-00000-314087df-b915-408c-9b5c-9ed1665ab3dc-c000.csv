@@ -1,0 +1,5 @@
+org/apache/ivy/core/report/ConfigurationResolveReport/getArtifactsReports(org.apache.ivy.core.report.DownloadStatus,boolean)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/report/ResolveReport/getArtifactsReports(org.apache.ivy.core.module.id.ModuleRevisionId)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/report/ResolveReport/getEvictedNodes()@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/repository/RepositoryManagementEngine/analyze()@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/report/ResolveReport/getArtifactsReports(org.apache.ivy.core.report.DownloadStatus,boolean)@g_ivy-2.3.0.jar.txt	0

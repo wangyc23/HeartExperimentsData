@@ -1,0 +1,4 @@
+java/lang/reflect/Field/get(java.lang.Object)
+java/lang/reflect/Field/setAccessible(boolean)
+lombok/delombok/ant/Tasks$Delombok/getLocation()
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])

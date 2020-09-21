@@ -1,0 +1,4 @@
+java/io/File/exists()
+java/io/File/getAbsolutePath()
+java/io/InputStreamReader/close()
+java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream)

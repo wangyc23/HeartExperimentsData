@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Execute/addVMSLogicals(java.util.Vector,java.io.BufferedReader)@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/MacroInstance/copy(org.apache.tools.ant.UnknownElement)@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/types/PropertySet/getProperties()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/taskdefs/Jar/writeIndexLikeList(java.util.List,java.util.List,java.io.PrintWriter)@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/types/Assertions/applyAssertions(java.util.List)@g_ant-1.6.5.jar.txt	2

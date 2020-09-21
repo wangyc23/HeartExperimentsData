@@ -1,0 +1,5 @@
+javax/xml/datatype/Duration/addTo(java.util.Date)@g_xml-apis-1.3.03.jar.txt	0
+javax/xml/xpath/XPathFactoryFinder/loadFromServicesFile(java.lang.String,java.lang.String,java.io.InputStream)@g_xml-apis-1.3.03.jar.txt	3
+javax/xml/datatype/FactoryFinder/findJarServiceProvider(java.lang.String)@g_xml-apis-1.3.03.jar.txt	2
+javax/xml/transform/FactoryFinder/find(java.lang.String,java.lang.String)@g_xml-apis-1.3.03.jar.txt	4
+javax/xml/datatype/Duration/addTo(java.util.Date)@g_xml-apis-1.3.04.jar.txt	1

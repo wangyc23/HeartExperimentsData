@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+javax/mail/Session/getDefaultInstance(java.util.Properties,javax.mail.Authenticator)
+java/io/PrintStream/println(java.lang.String)
+java/security/cert/PKIXParameters/PKIXParameters(java.util.Set)

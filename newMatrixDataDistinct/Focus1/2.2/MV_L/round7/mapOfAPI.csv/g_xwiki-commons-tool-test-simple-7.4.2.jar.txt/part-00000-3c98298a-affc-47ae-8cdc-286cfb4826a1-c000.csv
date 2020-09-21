@@ -1,0 +1,4 @@
+0	ch/qos/logback/classic/Logger/setAdditive(boolean)
+1	org/slf4j/LoggerFactory/getLogger(java.lang.Class)
+2	org/xwiki/test/LogRule$LogLevel/getLevel()
+3	ch/qos/logback/classic/Logger/isAdditive()

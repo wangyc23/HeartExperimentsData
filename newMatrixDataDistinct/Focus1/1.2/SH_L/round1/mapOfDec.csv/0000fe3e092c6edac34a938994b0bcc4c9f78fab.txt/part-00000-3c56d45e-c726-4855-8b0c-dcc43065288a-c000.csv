@@ -1,0 +1,5 @@
+org/linkeddata/utils/QueryChunks/writeInsertQuery(org.linkeddata.utils.Model,java.lang.String)@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	1
+br/com/project/seguranca/beans/base/PesquisarController/convertToEntity(I)@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	2
+vaeke/restcountries/v1/CountryServiceTest/getByAlpha3()@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	0
+br/com/project/seguranca/util/reflect/ReflectUtil/copiarPropriedades(java.lang.Object,java.lang.Object)@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	3
+vaeke/restcountries/v0/rest/CountryRest/getBySubregion(java.lang.String)@2d10c156aa8cae76eda0c0c644ed60a213e09fc7.txt	4

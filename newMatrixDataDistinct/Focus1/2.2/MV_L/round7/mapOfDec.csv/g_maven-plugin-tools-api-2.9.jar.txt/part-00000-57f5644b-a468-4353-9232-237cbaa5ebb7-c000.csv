@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/reader/ReadWorkspaceLocations/readWorkspace(org.apache.maven.plugin.eclipse.WorkspaceConfiguration,org.apache.maven.plugin.logging.Log)@g_maven-eclipse-plugin-2.9.jar.txt	2
+org/apache/maven/plugin/eclipse/writers/wtp/AbstractWtpResourceWriter/addDependency(org.codehaus.plexus.util.xml.XMLWriter,org.apache.maven.plugin.ide.IdeDependency,org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.lang.String)@g_maven-eclipse-plugin-2.9.jar.txt	3
+org/apache/maven/plugin/eclipse/EclipsePlugin/getProjectNameTemplateForMavenProject(org.apache.maven.project.MavenProject)@g_maven-plugin-tools-generators-3.4.jar.txt	4
+org/apache/maven/plugin/eclipse/writers/EclipseAjdtWriter/addDependency(java.util.Properties,org.apache.maven.plugin.ide.IdeDependency,java.lang.String,int)@g_maven-eclipse-plugin-2.9.jar.txt	1
+org/apache/maven/tools/plugin/generator/GeneratorUtils/MojoParserCallback/handleStartTag(javax.swing.text.html.HTML$Tag,javax.swing.text.MutableAttributeSet,int)@g_maven-plugin-tools-generators-3.4.jar.txt	0

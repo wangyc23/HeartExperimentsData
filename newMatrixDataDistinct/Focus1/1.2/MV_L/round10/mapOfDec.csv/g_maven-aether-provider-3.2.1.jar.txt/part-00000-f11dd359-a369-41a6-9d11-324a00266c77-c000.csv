@@ -1,0 +1,5 @@
+org/apache/maven/repository/internal/RemoteSnapshotMetadataGenerator/prepare(java.util.Collection)@g_maven-aether-provider-3.3.9.jar.txt	2
+org/apache/maven/repository/internal/LocalSnapshotMetadata/createMetadata(org.eclipse.aether.artifact.Artifact,boolean)@g_maven-aether-provider-3.3.9.jar.txt	4
+org/apache/maven/repository/internal/ArtifactDescriptorUtils/toRemoteRepository(org.apache.maven.model.Repository)@g_maven-aether-provider-3.3.9.jar.txt	0
+org/apache/maven/repository/internal/DefaultVersionRangeResolver/readVersions(org.eclipse.aether.RepositorySystemSession,org.eclipse.aether.RequestTrace,org.eclipse.aether.metadata.Metadata,org.eclipse.aether.repository.ArtifactRepository,org.eclipse.aether.resolution.VersionRangeResult)@g_maven-aether-provider-3.3.9.jar.txt	1
+org/apache/maven/repository/internal/LocalSnapshotMetadata/createMetadata(org.sonatype.aether.artifact.Artifact,boolean)@g_maven-aether-provider-3.3.9.jar.txt	3

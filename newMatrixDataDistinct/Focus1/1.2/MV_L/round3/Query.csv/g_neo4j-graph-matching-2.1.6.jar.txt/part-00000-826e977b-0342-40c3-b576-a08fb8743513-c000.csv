@@ -1,0 +1,4 @@
+org/neo4j/graphdb/Node/getProperty(java.lang.String,java.lang.Object)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Map/get(java.lang.Object)

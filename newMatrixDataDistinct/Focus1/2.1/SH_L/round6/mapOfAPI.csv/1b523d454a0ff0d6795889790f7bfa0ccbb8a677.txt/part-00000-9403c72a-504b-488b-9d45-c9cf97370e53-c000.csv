@@ -1,0 +1,5 @@
+0	java/util/List/add(E)
+1	com/cloudera/oryx/app/als/RescorerProvider/getMostActiveUsersRescorer(java.util.List)
+2	java/util/ArrayList/ArrayList(int)
+3	com/cloudera/oryx/app/als/MultiRescorerProvider/buildRescorer(java.util.List)
+4	com/cloudera/oryx/computation/common/fn/OryxReduceDoFn/initialize()

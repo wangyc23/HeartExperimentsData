@@ -1,0 +1,5 @@
+org/jfree/chart/plot/PolarPlot/translateToJava2D(double,double,org.jfree.chart.axis.ValueAxis,java.awt.geom.Rectangle2D)@g_ivy-2.3.0.jar.txt	4
+org/jfree/chart/renderer/category/AreaRenderer/getLegendItem(int,int)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/ant/AntBuildTrigger/progress(org.apache.ivy.core.event.IvyEvent)@g_ivy-2.3.0.jar.txt	2
+org/jfree/chart/renderer/xy/XYStepRenderer/drawItem(java.awt.Graphics2D,org.jfree.chart.renderer.xy.XYItemRendererState,java.awt.geom.Rectangle2D,org.jfree.chart.plot.PlotRenderingInfo,org.jfree.chart.plot.XYPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.axis.ValueAxis,org.jfree.data.xy.XYDataset,int,int,org.jfree.chart.plot.CrosshairState,int)@g_ivy-2.3.0.jar.txt	0
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer/drawDomainMarker(java.awt.Graphics2D,org.jfree.chart.plot.XYPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.plot.Marker,java.awt.geom.Rectangle2D)@g_ivy-2.3.0.jar.txt	1

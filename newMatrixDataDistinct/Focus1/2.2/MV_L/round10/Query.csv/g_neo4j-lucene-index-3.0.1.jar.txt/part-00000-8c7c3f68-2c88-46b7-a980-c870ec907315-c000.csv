@@ -1,0 +1,4 @@
+org/neo4j/helpers/ArrayUtil/isEmpty(java.lang.Object[])
+org/apache/lucene/index/CheckIndex/close()
+java/util/Iterator/hasNext()
+org/neo4j/io/IOUtils/closeAllSilently(java.util.Collection)

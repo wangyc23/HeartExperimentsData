@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/selectors/ExtendSelector/selectorCreate()@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/JDBCTask/getDriver()@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/Main/createLogger()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/email/EmailTask/execute()@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/taskdefs/AntStructure/printElementDecl(java.io.PrintWriter,java.lang.String,java.lang.Class)@g_ant-1.6.5.jar.txt	1

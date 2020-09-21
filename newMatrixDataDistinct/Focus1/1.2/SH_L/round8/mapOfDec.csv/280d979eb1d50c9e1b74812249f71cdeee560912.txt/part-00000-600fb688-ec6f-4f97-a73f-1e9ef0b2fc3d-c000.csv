@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/endpoint/RequestMappingEndpoint/extractHandlerMappings(java.util.Collection,java.util.Map)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	4
+org/springframework/boot/configurationmetadata/SimpleConfigurationMetadataRepository/include(org.springframework.boot.configurationmetadata.ConfigurationMetadataRepository)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	2
+org/springframework/boot/actuate/health/CompositeHealthIndicator/health()@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	0
+org/springframework/boot/configurationprocessor/ConfigurationMetadataAnnotationProcessor/getAnnotationElementValues(javax.lang.model.element.AnnotationMirror)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	3
+org/springframework/boot/actuate/health/CompositeHealthIndicator/health()@20cc3d79a4f85cd17c8e746083aea5f98fb13f54.txt	1

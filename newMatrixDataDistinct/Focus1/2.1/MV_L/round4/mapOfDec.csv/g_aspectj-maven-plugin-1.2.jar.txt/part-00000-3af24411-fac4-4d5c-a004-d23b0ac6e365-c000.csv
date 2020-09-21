@@ -1,0 +1,5 @@
+org/springframework/boot/maven/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	4
+org/springframework/boot/maven/RepackageMojo/execute()@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	3
+org/codehaus/mojo/aspectj/AbstractAjcCompiler/addModulesArgument(java.lang.String,java.util.List,org.codehaus.mojo.aspectj.Module[],java.lang.String,java.lang.String)@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	1
+org/springframework/boot/maven/StartMojo/waitForSpringApplication(long,int)@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	2
+org/springframework/boot/maven/RepackageMojo/getTargetFile()@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	0

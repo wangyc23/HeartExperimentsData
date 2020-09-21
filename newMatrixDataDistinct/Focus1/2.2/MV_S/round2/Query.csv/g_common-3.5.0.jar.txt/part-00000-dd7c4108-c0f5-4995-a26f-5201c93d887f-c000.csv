@@ -1,0 +1,4 @@
+java/lang/String/valueOf(java.lang.Object)
+java/lang/StringBuffer/append(char)
+java/io/PrintWriter/PrintWriter(java.io.Writer,boolean)
+java/util/logging/LogRecord/getThrown()

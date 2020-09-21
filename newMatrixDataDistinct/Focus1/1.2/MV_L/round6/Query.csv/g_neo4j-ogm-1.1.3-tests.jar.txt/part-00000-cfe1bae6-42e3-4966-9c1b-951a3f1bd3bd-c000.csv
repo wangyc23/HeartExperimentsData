@@ -1,0 +1,4 @@
+org/neo4j/ogm/session/Session/load(java.lang.Class,java.lang.Long)
+java/lang/Byte/valueOf(java.lang.String)
+java/lang/Float/valueOf(float)
+java/util/List/size()

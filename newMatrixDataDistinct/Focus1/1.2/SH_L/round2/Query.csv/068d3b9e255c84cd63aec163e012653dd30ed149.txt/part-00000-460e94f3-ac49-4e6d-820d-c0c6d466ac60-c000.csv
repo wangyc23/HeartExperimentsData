@@ -1,0 +1,4 @@
+org/jboss/solder/servlet/http/CookieParamProducer/getCookie(java.lang.String,org.jboss.solder.logging.InjectionPoint)
+org/jboss/solder/servlet/http/CookieParamProducer/getCookieValue(java.lang.String,org.jboss.solder.logging.InjectionPoint)
+org/jboss/solder/servlet/http/CookieParamProducer/getCookieName(org.jboss.solder.logging.InjectionPoint)
+java/lang/reflect/Method/invoke(java.lang.Object,java.lang.Object[])

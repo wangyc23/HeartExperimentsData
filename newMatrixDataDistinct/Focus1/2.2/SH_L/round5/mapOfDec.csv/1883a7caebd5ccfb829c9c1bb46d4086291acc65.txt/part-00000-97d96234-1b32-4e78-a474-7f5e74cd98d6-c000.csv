@@ -1,0 +1,5 @@
+org/apache/hive/service/cli/thrift/TColumnDesc/TColumnDescTupleScheme/read(org.apache.thrift.protocol.TProtocol,org.apache.hive.service.cli.thrift.TColumnDesc)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	2
+org/apache/hive/service/cli/thrift/TDoubleColumn/TDoubleColumnTupleScheme/read(org.apache.thrift.protocol.TProtocol,org.apache.hive.service.cli.thrift.TDoubleColumn)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	3
+org/apache/spark/unsafe/map/BytesToBytesMap/MapIterator/advanceToNextPage()@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	1
+org/apache/spark/sql/execution/datasources/parquet/VectorizedParquetRecordReader/initialize(org.apache.spark.sql.execution.datasources.parquet.InputSplit,org.apache.spark.sql.execution.datasources.parquet.TaskAttemptContext)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	0
+org/apache/spark/network/protocol/ChunkFetchFailure/encode(org.apache.spark.network.shuffle.protocol.mesos.ByteBuf)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	4

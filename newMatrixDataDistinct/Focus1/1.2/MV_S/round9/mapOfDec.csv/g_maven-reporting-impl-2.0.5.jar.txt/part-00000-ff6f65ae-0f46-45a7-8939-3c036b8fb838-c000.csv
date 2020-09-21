@@ -1,0 +1,5 @@
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/execute()@g_maven-gpg-plugin-1.6.jar.txt	2
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/toUrl(java.lang.String)@g_maven-invoker-plugin-2.0.0.jar.txt	0
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/writeBuildReport(org.apache.maven.plugin.invoker.model.BuildJob)@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/cloneProjects(java.util.Collection)@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/invoker/HelpMojo/execute()@g_maven-invoker-plugin-2.0.0.jar.txt	3

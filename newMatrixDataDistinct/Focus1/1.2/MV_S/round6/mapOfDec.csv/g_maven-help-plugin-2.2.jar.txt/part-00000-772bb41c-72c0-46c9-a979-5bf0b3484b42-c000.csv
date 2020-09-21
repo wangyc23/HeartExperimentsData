@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/utils/resolvers/DefaultArtifactsResolver/resolve(java.util.Set,org.apache.maven.plugin.logging.Log)@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/manualPurge(java.util.List)@g_maven-dependency-plugin-2.8.jar.txt	2
+org/codehaus/mojo/buildhelper/HelpMojo/build()@g_build-helper-maven-plugin-1.8.jar.txt	1
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/DirectDependencyFilter/artifactsGAMatch(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.Artifact)@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/dependency/resolvers/HelpMojo/build()@g_maven-dependency-plugin-2.8.jar.txt	0

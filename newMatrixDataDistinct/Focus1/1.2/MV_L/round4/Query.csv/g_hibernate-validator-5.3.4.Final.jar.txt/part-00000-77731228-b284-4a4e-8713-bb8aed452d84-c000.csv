@@ -1,0 +1,4 @@
+java/lang/StringBuilder/substring(int,int)
+java/lang/StringBuilder/append(java.lang.String)
+org/hibernate/validator/internal/metadata/aggregated/ExecutableMetaData/isConstrained()
+org/hibernate/validator/internal/metadata/aggregated/ExecutableMetaData/getType()

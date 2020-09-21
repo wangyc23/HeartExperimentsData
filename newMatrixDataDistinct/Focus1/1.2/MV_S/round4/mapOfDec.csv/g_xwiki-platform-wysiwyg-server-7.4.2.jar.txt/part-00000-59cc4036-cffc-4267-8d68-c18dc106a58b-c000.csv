@@ -1,0 +1,5 @@
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLink(org.xwiki.rendering.block.Block,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	2
+org/xwiki/uiextension/internal/WikiUIExtensionParameters/get()@g_xwiki-platform-uiextension-api-7.4.2.jar.txt	1
+org/xwiki/uiextension/internal/WikiUIExtensionRenderer/execute()@g_xwiki-platform-uiextension-api-7.4.2.jar.txt	0
+org/xwiki/wysiwyg/server/internal/plugin/macro/XWikiMacroService/getUntranslatedMacroDescriptor(java.lang.String,java.lang.String)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	3
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/updateRelativeLinks(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	4

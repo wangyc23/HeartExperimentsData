@@ -1,0 +1,5 @@
+org/apache/lucene/payloads/PayloadSpanUtil/queryToSpanQuery(org.apache.lucene.search.Query,java.util.Collection)@g_lucene-memory-4.5.0.jar.txt	2
+org/apache/lucene/queryparser/xml/builders/NumericRangeFilterBuilder/getFilter(org.w3c.dom.Element)@g_lucene-memory-4.5.0.jar.txt	4
+org/apache/lucene/queryparser/flexible/standard/parser/TokenMgrError/addEscapes(java.lang.String)@g_lucene-memory-4.5.0.jar.txt	1
+org/apache/lucene/queryparser/flexible/core/nodes/BooleanQueryNode/toString()@g_lucene-memory-4.5.0.jar.txt	0
+org/apache/lucene/queryparser/flexible/core/nodes/OrQueryNode/toString()@g_lucene-memory-4.5.0.jar.txt	3

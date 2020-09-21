@@ -1,0 +1,7 @@
+0	java/util/Map/remove(java.lang.Object)
+1	java/util/Map/containsKey(java.lang.Object)
+2	com/jakubstas/swagger/service/EntityNotFoundException/EntityNotFoundException()
+3	com/jakubstas/swagger/model/User/getUserName()
+4	javax/json/JsonArrayBuilder/add(javax.json.JsonObjectBuilder)
+5	javax/ws/rs/core/UriBuilder/fromUri(java.lang.String)
+6	javax/ws/rs/core/UriBuilder/build(java.lang.Object[])

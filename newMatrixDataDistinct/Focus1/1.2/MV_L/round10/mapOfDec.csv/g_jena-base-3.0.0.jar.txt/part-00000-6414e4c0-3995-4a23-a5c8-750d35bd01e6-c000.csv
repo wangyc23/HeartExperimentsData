@@ -1,0 +1,5 @@
+org/apache/jena/atlas/lib/IRILib/plainFilenameToURL(java.lang.String)@g_jena-base-3.4.0.jar.txt	1
+org/apache/jena/atlas/lib/IRILib/plainFilenameToURL(java.lang.String)@g_jena-base-3.5.0.jar.txt	3
+org/apache/jena/atlas/lib/EscapeStr/unescape(java.lang.String,char,boolean)@g_jena-base-3.4.0.jar.txt	0
+org/apache/jena/atlas/lib/EscapeStr/unescape(java.lang.String,char,boolean)@g_jena-base-3.5.0.jar.txt	2
+jena/cmd/CommandLineBase/processArgv(java.lang.String[])@g_jena-base-3.4.0.jar.txt	4

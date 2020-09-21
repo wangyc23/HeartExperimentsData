@@ -1,0 +1,5 @@
+org/apache/poi/hssf/record/cf/FontFormatting/toString()@g_poi-3.13.jar.txt	3
+org/apache/poi/ss/formula/functions/Complex/evaluate(int,int,org.apache.poi.ss.formula.eval.ValueEval,org.apache.poi.ss.formula.eval.ValueEval,org.apache.poi.ss.formula.eval.ValueEval)@g_poi-3.14.jar.txt	0
+org/apache/poi/hpsf/Section/toString()@g_poi-3.14.jar.txt	4
+org/apache/poi/ss/formula/functions/Complex/evaluate(int,int,org.apache.poi.ss.formula.eval.ValueEval,org.apache.poi.ss.formula.eval.ValueEval,org.apache.poi.ss.formula.eval.ValueEval)@g_poi-3.13.jar.txt	1
+org/apache/poi/hssf/record/cf/FontFormatting/toString()@g_poi-3.14.jar.txt	2

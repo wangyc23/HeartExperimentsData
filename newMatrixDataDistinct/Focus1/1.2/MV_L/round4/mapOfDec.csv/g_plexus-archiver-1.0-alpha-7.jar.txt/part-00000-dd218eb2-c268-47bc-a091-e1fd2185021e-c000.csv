@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/jar/JarArchiver/filesetManifest(java.io.File,java.io.InputStream)@g_plexus-archiver-1.0-alpha-9.jar.txt	1
+org/codehaus/plexus/archiver/jar/JarArchiver/getManifest(java.io.File)@g_plexus-archiver-1.2.jar.txt	2
+org/codehaus/plexus/archiver/jar/Manifest/getDefaultManifest()@g_plexus-archiver-1.2.jar.txt	4
+org/codehaus/plexus/archiver/jar/JarArchiver/filesetManifest(java.io.File,java.io.InputStream)@g_plexus-archiver-1.2.jar.txt	0
+org/codehaus/plexus/archiver/jar/JarArchiver/getManifest(java.io.File)@g_plexus-archiver-1.0-alpha-9.jar.txt	3

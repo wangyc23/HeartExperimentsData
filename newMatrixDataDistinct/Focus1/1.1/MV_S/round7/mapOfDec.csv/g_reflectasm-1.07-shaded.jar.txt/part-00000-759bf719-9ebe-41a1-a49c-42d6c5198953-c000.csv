@@ -1,0 +1,5 @@
+org/apache/xbean/asm5/commons/Method/map(java.lang.String,boolean)@g_asm-5.2.jar.txt	2
+org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-5.2.jar.txt	0
+com/esotericsoftware/reflectasm/FieldAccess/get(java.lang.Class)@g_asm-5.2.jar.txt	3
+org/apache/xbean/asm5/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_xbean-asm5-shaded-4.4.jar.txt	1
+com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/ClassWriter/a(java.lang.Object)@g_asm-5.2.jar.txt	4

@@ -1,0 +1,2 @@
+0	org/apache/wicket/Component/onConfigure()
+1	com/trier/exam/shopping/service/AbstractService/delete(java.lang.Long)

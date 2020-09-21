@@ -1,0 +1,5 @@
+com/google/common/primitives/Ints/tryParse(java.lang.String,int)@g_jena-shaded-guava-3.0.0.jar.txt	3
+org/apache/jena/ext/com/google/common/reflect/TypeResolver/TypeTable/where(java.util.Map)@g_jena-shaded-guava-3.0.0.jar.txt	2
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_jena-shaded-guava-3.0.0.jar.txt	0
+org/apache/jena/ext/com/google/common/net/HostAndPort/fromString(java.lang.String)@g_jena-shaded-guava-3.0.0.jar.txt	4
+org/carrot2/shaded/guava/common/cache/LocalCache/Segment/insertLoadingValueReference(java.lang.Object,int,boolean)@g_jena-shaded-guava-3.0.0.jar.txt	1

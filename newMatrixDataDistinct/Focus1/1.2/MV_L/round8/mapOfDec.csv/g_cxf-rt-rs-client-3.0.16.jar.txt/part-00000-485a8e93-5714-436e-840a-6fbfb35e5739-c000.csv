@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/client/ClientProxyImpl/checkResponse(java.lang.reflect.Method,javax.ws.rs.core.Response,org.apache.cxf.message.Message)@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	1
+org/apache/cxf/jaxrs/client/ClientProxyImpl/getParametersInfo(java.lang.Object[],org.apache.cxf.jaxrs.model.OperationResourceInfo)@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/jaxrs/client/ClientProxyImpl/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	0
+org/apache/cxf/jaxrs/client/JAXRSClientFactoryBean/setHeaders(java.util.Map)@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/jaxrs/client/ClientProxyImpl/handleForm(javax.ws.rs.core.MultivaluedMap,java.util.List,java.lang.Object[])@g_cxf-rt-rs-client-3.0.0-milestone1.jar.txt	2

@@ -1,0 +1,4 @@
+org/springframework/data/rest/core/mapping/CrudMethodsSupportedHttpMethods$ExposureAwareCrudMethods/exposesFindOne()
+org/springframework/data/rest/core/mapping/CrudMethodsSupportedHttpMethods$ExposureAwareCrudMethods/exposesDelete()
+java/lang/String/format(java.lang.String,java.lang.Object[])
+org/springframework/util/Assert/notNull(java.lang.Object,java.lang.String)

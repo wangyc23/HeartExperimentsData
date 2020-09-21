@@ -1,0 +1,5 @@
+org/osgi/framework/CapabilityPermissionCollection/add(java.security.Permission)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/osgi/framework/BundlePermissionCollection/add(java.security.Permission)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/internal/serviceregistry/FilteredServiceListener/serviceChanged(org.osgi.framework.ServiceEvent)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/osgi/framework/AdaptPermissionCollection/add(java.security.Permission)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/framework/internal/core/FilterImpl/compare_String(int,java.lang.String,java.lang.Object)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3

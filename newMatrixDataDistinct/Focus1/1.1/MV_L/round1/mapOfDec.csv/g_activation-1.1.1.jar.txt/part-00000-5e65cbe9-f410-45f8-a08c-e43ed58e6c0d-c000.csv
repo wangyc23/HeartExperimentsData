@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/cli/CommandLineUtils/1/run()@g_plexus-utils-1.5.6.jar.txt	3
+hidden/org/codehaus/plexus/interpolation/RegexBasedInterpolator/interpolate(java.lang.String,hidden.org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.regex.Pattern,int)@g_plexus-utils-1.5.6.jar.txt	2
+com/sun/activation/registries/MailcapFile/parseLine(java.lang.String)@g_activation-1.1.jar.txt	1
+org/codehaus/plexus/util/LineOrientedInterpolatingReader/evaluateExpressions(java.util.Set)@g_plexus-utils-1.5.6.jar.txt	4
+com/sun/activation/registries/MailcapFile/mergeResults(java.util.Map,java.util.Map)@g_activation-1.1.jar.txt	0

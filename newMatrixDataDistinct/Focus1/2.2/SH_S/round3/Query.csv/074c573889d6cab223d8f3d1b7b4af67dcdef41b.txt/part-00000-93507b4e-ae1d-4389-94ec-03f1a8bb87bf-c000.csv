@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+org/drools/runtime/rule/Activation/getFactHandles()
+java/lang/Object/getClass()
+java/lang/Object/toString()

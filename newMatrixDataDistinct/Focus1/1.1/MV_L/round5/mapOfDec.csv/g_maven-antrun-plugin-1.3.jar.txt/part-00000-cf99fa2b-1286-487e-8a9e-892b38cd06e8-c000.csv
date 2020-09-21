@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-javadoc-plugin-2.9.1.jar.txt	1
+org/apache/maven/plugin/javadoc/JavadocUtil/pruneDirs(org.apache.maven.project.MavenProject,java.util.List)@g_maven-javadoc-plugin-2.9.1.jar.txt	3
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/collectBootClasspathArtifacts()@g_maven-javadoc-plugin-2.9.1.jar.txt	4
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/collectDocletArtifacts()@g_maven-javadoc-plugin-2.9.1.jar.txt	2
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getTagletPath()@g_maven-javadoc-plugin-2.9.1.jar.txt	0

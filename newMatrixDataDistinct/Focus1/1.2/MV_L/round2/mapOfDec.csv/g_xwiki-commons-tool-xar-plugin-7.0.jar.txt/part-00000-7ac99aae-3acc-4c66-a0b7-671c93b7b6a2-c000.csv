@@ -1,0 +1,5 @@
+org/xwiki/tool/xar/XARMojo/performArchive()@g_xwiki-commons-tool-xar-plugin-7.4.2.jar.txt	2
+org/xwiki/tool/xar/XARMojo/addFilesToArchive(org.codehaus.plexus.archiver.zip.ZipArchiver,java.io.File,java.io.File)@g_xwiki-commons-tool-xar-plugin-7.4.jar.txt	1
+org/xwiki/tool/xar/XARMojo/addFilesToArchive(org.codehaus.plexus.archiver.zip.ZipArchiver,java.io.File,java.io.File)@g_xwiki-commons-tool-xar-plugin-7.4.2.jar.txt	0
+org/xwiki/tool/xar/XARMojo/performArchive()@g_xwiki-commons-tool-xar-plugin-7.4.jar.txt	3
+org/xwiki/tool/xar/UnXARMojo/unpackDependentXars(org.apache.maven.artifact.Artifact)@g_xwiki-commons-tool-xar-plugin-7.4.2.jar.txt	4

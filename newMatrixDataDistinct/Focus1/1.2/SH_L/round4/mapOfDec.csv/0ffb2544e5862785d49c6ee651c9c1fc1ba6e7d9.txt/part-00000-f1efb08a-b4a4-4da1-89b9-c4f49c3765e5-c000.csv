@@ -1,0 +1,5 @@
+com/manning/hip/ch13/SideEffectJob/runJob(java.lang.String,java.lang.String)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	0
+com/manning/hip/ch4/joins/replicated/Main/runJob(org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	2
+com/manning/hip/ch3/binary/CustomBinaryMapReduce/runJob(java.lang.String,java.lang.String)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	4
+com/manning/hip/ch4/joins/semijoin/ReplicatedFilterJob/runJob(org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	3
+com/manning/hip/ch13/OptimizedMRForDebugging/runJob(java.lang.String,java.lang.String)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	1

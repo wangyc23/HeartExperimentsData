@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/util/Iterator/hasNext()
+java/lang/Class/getName()
+aQute/bnd/make/component/ServiceComponent$ComponentMaker/createComponentResource(java.util.Map,java.lang.String,java.util.Map)

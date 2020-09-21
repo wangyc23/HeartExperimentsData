@@ -1,0 +1,4 @@
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getCrc()
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream$CurrentEntry/access$100(org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry)
+org/apache/commons/compress/archivers/zip/ZipArchiveEntry/getCompressedSize()
+java/util/zip/Deflater/reset()

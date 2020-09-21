@@ -1,0 +1,4 @@
+java/nio/file/Files/isExecutable(java.nio.file.Path)
+java/nio/file/Files/isSymbolicLink(java.nio.file.Path)
+java/io/File/getName()
+java/nio/file/attribute/FileTime/toMillis()

@@ -1,0 +1,4 @@
+org/apache/velocity/app/VelocityEngine/setProperty(java.lang.String,java.lang.Object)
+java/util/Iterator/hasNext()
+org/springframework/util/CollectionUtils/mergePropertiesIntoMap(java.util.Properties,java.util.Map)
+org/apache/velocity/app/VelocityEngine/init()

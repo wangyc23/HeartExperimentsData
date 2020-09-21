@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/xml/PrettyPrintXMLWriter/escapeXmlAttribute(java.lang.String)@g_plexus-utils-1.5.1.jar.txt	0
+org/codehaus/plexus/util/xml/XmlReader/getXmlProlog(java.io.BufferedInputStream,java.lang.String)@g_plexus-utils-1.5.1.jar.txt	4
+org/apache/spark/unsafe/types/CalendarInterval/fromYearMonthString(java.lang.String)@g_spark-unsafe_2.11-2.2.0.jar.txt	2
+org/apache/spark/unsafe/types/CalendarInterval/fromSingleUnitString(java.lang.String,java.lang.String)@g_spark-unsafe_2.11-2.2.0.jar.txt	3
+org/apache/spark/unsafe/types/CalendarInterval/fromDayTimeString(java.lang.String)@g_spark-unsafe_2.11-2.2.0.jar.txt	1

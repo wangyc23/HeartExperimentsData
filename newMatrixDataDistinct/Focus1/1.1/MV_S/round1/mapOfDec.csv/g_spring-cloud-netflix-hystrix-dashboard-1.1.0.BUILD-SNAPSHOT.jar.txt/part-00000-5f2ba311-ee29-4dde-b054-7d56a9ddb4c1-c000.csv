@@ -1,0 +1,5 @@
+org/jets3t/apps/uploader/XmlGenerator/generateXml()@g_jets3t-0.9.3.jar.txt	4
+org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration/ProxyStreamServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-cloud-netflix-hystrix-dashboard-1.1.0.BUILD-20151113.115735-165.jar.txt	0
+org/jets3t/apps/cockpitlite/CockpitLite/listObjects()@g_jets3t-0.9.3.jar.txt	2
+org/jets3t/service/S3Service/putObjectMaybeAsMultipart(java.lang.String,org.jets3t.service.model.StorageObject,long)@g_jets3t-0.9.3.jar.txt	3
+org/jets3t/service/multi/SimpleThreadedStorageService/reorderStorageObjects(java.lang.String[],java.util.List)@g_jets3t-0.9.3.jar.txt	1

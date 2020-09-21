@@ -1,0 +1,5 @@
+org/obolibrary/obo2owl/OWLAPIObo2Owl/trTypedefToAnnotationProperty(org.obolibrary.oboformat.model.Frame)@g_owlapi-distribution-5.1.0.jar.txt	1
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/fixIllegalPunnings(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-distribution-5.1.0.jar.txt	3
+uk/ac/manchester/cs/atomicdecomposition/AtomicDecompositionImpl/explore(uk.ac.manchester.cs.atomicdecomposition.Atom,boolean,org.semanticweb.owlapitools.decomposition.IdentityMultiMap)@g_owlapi-distribution-5.1.0.jar.txt	2
+org/semanticweb/owlapi/util/OntologyIRIShortFormProvider/initWellKnownShortForms()@g_owlapi-distribution-5.1.0.jar.txt	4
+org/semanticweb/owlapi/util/NamespaceUtil/generatePrefix(java.lang.String)@g_owlapi-distribution-5.1.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/xml/dtm/ref/sax2dtm/SAX2DTM2/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_xalan-2.7.2.jar.txt	0
+org/apache/xalan/processor/ProcessorKey/setPropertiesFromAttributes(org.apache.xalan.processor.StylesheetHandler,java.lang.String,org.xml.sax.Attributes,org.apache.xalan.templates.ElemTemplateElement)@g_xalan-2.7.2.jar.txt	4
+org/apache/xalan/processor/ProcessorLRE/startElement(org.apache.xalan.processor.StylesheetHandler,java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_xalan-2.7.2.jar.txt	2
+org/apache/xml/dtm/ref/sax2dtm/SAX2DTM/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_xalan-2.7.2.jar.txt	3
+org/apache/xalan/xsltc/trax/SAX2DOM/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_xalan-2.7.2.jar.txt	1

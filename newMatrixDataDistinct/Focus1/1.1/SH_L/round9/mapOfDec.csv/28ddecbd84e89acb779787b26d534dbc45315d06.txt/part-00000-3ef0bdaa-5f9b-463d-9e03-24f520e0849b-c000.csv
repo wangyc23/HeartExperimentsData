@@ -1,0 +1,5 @@
+com/manning/hip/ch3/proto/StockProtos/Stock/Builder/getDate()@176eb535f792596923ab1f78f71fe4887c80fe04.txt	4
+com/manning/hip/ch3/proto/StockProtos/StockAvg/Builder/getDescriptorForType()@176eb535f792596923ab1f78f71fe4887c80fe04.txt	3
+com/manning/hip/ch3/avro/gen/Stock/Builder/setOpen(double)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	1
+org/hf/mls/ar/hadoop/PreProcessJob/runJob(java.lang.String[])@176eb535f792596923ab1f78f71fe4887c80fe04.txt	2
+com/manning/hip/ch10/GeolocUDF/lookup(java.lang.String,java.lang.String)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	0

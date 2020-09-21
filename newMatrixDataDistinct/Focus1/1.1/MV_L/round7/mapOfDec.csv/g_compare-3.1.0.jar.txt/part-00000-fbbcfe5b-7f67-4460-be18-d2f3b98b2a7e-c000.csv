@@ -1,0 +1,5 @@
+org/eclipse/emf/compare/match/resource/NameSimilarityMatchingStrategy/matchResources(java.lang.Iterable,java.lang.Iterable,java.lang.Iterable)@g_org.eclipse.xtend.lib.macro-2.10.0-20160515.041248-74.jar.txt	4
+org/eclipse/emf/compare/conflict/DefaultConflictDetector/checkContainmentConflict(org.eclipse.emf.compare.Comparison,org.eclipse.emf.compare.ReferenceChange,java.lang.Iterable)@g_org.eclipse.xtend.lib.macro-2.10.0-20160515.041248-74.jar.txt	1
+org/eclipse/emf/compare/match/eobject/internal/ProximityIndex/findTheClosest(org.eclipse.emf.compare.Comparison,org.eclipse.emf.ecore.EObject,org.eclipse.emf.compare.match.eobject.EObjectIndex$Side,org.eclipse.emf.compare.match.eobject.EObjectIndex$Side,boolean)@g_org.eclipse.xtend.lib.macro-2.10.0-20160515.041248-74.jar.txt	0
+org/eclipse/xtend/lib/macro/file/Path/normalize(java.lang.Iterable)@g_org.eclipse.xtend.lib.macro-2.10.0-20160515.041248-74.jar.txt	3
+org/eclipse/emf/compare/impl/DiffImpl/setMatch(org.eclipse.emf.compare.Match)@g_org.eclipse.xtend.lib.macro-2.10.0-20160515.041248-74.jar.txt	2

@@ -1,0 +1,5 @@
+org/springframework/security/config/annotation/web/builders/WebSecurity/performBuild()@g_spring-security-config-4.0.1.RELEASE.jar.txt	0
+org/springframework/data/neo4j/support/typerepresentation/SubReferenceNodeTypeRepresentationStrategy/writeTypeTo(org.neo4j.graphdb.Node,org.springframework.data.neo4j.support.mapping.StoredEntityType)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	4
+org/springframework/security/config/annotation/method/configuration/GlobalMethodSecuritySelector/selectImports(org.springframework.core.type.AnnotationMetadata)@g_spring-security-config-4.0.1.RELEASE.jar.txt	1
+org/springframework/data/neo4j/support/typerepresentation/SubReferenceNodeTypeRepresentationStrategy/updateSuperClassSubrefs(org.springframework.data.neo4j.support.mapping.StoredEntityType,org.neo4j.graphdb.Node)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	2
+org/springframework/data/neo4j/querydsl/SDNAnnotationProcessor/createConfiguration(javax.annotation.processing.RoundEnvironment)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	3

@@ -1,0 +1,4 @@
+java/util/Map/get(java.lang.Object)
+java/lang/String/startsWith(java.lang.String)
+java/util/Enumeration/hasMoreElements()
+java/util/Enumeration/nextElement()

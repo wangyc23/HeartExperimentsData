@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Short/longValue()
+java/lang/Integer/longValue()
+java/lang/Long/longValue()

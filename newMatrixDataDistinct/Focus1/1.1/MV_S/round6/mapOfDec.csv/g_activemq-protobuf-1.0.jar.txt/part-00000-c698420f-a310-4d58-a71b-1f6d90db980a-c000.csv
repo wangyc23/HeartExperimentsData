@@ -1,0 +1,5 @@
+org/apache/activemq/protobuf/compiler/AltJavaGenerator/generateEnum(org.apache.activemq.protobuf.compiler.EnumDescriptor)@g_activemq-all-5.7.0.jar.txt	2
+org/apache/log4j/net/SocketAppender/Connector/run()@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/transport/http/HttpClientTransport/doStart()@g_activemq-all-5.7.0.jar.txt	3
+org/apache/activemq/protobuf/compiler/JavaGenerator/generateEnum(org.apache.activemq.protobuf.compiler.EnumDescriptor)@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/jaas/LDAPLoginModule/getRoles(javax.naming.directory.DirContext,java.lang.String,java.lang.String,java.util.List)@g_activemq-all-5.7.0.jar.txt	1

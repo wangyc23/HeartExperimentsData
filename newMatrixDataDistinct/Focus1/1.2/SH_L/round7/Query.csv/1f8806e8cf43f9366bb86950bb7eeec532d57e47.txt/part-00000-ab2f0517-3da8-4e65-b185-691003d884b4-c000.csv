@@ -1,0 +1,4 @@
+org/springframework/boot/cli/compiler/MavenSettings/getLocalRepository()
+org/springframework/boot/cli/compiler/MavenSettingsReader/MavenSettingsReader()
+org/springframework/boot/cli/compiler/RepositoryConfigurationFactory/addDefaultCacheAsRepository(java.lang.String,java.util.List)
+org/springframework/boot/cli/compiler/RepositoryConfigurationFactory/addActiveProfileRepositories(java.util.List,java.util.List)

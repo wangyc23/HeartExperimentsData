@@ -1,0 +1,4 @@
+org/neo4j/graphdb/config/Setting/name()
+java/util/Iterator/hasNext()
+org/neo4j/graphdb/factory/GraphDatabaseSettings$BoltConnector/BoltConnector()
+org/neo4j/graphdb/factory/GraphDatabaseSettings/boltConnectors(org.neo4j.kernel.configuration.Config)

@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/net/URI/normalize()
+java/util/Iterator/hasNext()
+java/io/File/File(java.net.URI)

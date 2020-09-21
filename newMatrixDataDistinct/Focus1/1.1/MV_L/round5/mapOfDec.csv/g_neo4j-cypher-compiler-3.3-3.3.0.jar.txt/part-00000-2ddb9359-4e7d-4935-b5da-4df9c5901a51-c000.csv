@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_2/executionplan/checkForEagerLoadCsv/apply(org.neo4j.cypher.internal.compiler.v3_2.pipes.Pipe)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_2/RuntimeName/apply(java.lang.String)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	3
+org/neo4j/cypher/internal/compiler/v3_2/pipes/CachingExpandInto/anon/1/fetchNextOrNull()@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	1
+org/neo4j/cypher/internal/compiler/v3_2/planner/logical/plans/AsDynamicPropertyNonScannable/unapply(java.lang.Object)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	2
+org/neo4j/cypher/internal/compiler/v3_2/pipes/VarLengthExpandPipe/anon/1/next()@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	0

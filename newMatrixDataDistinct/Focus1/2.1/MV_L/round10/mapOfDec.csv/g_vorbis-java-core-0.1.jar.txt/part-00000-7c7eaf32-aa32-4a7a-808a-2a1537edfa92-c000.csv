@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/common/PDPageLabels/findLabels(org.apache.pdfbox.pdmodel.common.PDNumberTreeNode)@g_pdfbox-1.6.0.jar.txt	4
+org/gagravarr/ogg/OggPacketReader/getNextPacket()@g_vorbis-java-core-0.8.jar.txt	1
+org/gagravarr/vorbis/VorbisStyleComments/write()@g_vorbis-java-core-0.8.jar.txt	0
+org/gagravarr/theora/TheoraFile/close()@g_vorbis-java-core-0.8.jar.txt	3
+org/gagravarr/theora/TheoraFile/ensureSkeleton()@g_vorbis-java-core-0.8.jar.txt	2

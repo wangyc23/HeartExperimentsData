@@ -1,0 +1,4 @@
+org/codehaus/plexus/interpolation/RegexBasedInterpolator/RegexBasedInterpolator()
+org/codehaus/plexus/logging/Logger/warn(java.lang.String)
+org/codehaus/plexus/interpolation/RegexBasedInterpolator/interpolate(java.lang.String,java.lang.String)
+java/io/StringWriter/StringWriter()

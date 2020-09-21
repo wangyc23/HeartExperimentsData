@@ -1,0 +1,4 @@
+java/lang/String/equals(java.lang.Object)
+java/nio/file/Path/subpath(int,int)
+org/xwiki/model/reference/DocumentReference/toString()
+java/lang/String/hashCode()

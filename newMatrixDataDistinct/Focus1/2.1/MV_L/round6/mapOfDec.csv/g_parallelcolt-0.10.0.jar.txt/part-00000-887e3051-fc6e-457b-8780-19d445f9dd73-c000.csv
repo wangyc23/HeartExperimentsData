@@ -1,0 +1,5 @@
+hep/aida/tfloat/ref/FloatConverter/toXML(hep.aida.tfloat.FloatIHistogram1D)@g_apache-mime4j-core-0.7.jar.txt	2
+cern/colt/matrix/tfloat/algo/FloatFormatter/toTitleString(cern.colt.matrix.tfloat.FloatMatrix2D,java.lang.String[],java.lang.String[],java.lang.String,java.lang.String,java.lang.String,hep.aida.tfloat.bin.FloatBinFunction1D[])@g_apache-mime4j-core-0.7.jar.txt	1
+cern/colt/matrix/tlong/LongMatrix2D/viewSelection(java.util.Set)@g_apache-mime4j-core-0.7.jar.txt	4
+cern/colt/matrix/BenchmarkMatrixKernel/readSettings1D()@g_apache-mime4j-core-0.7.jar.txt	3
+cern/colt/matrix/tdouble/algo/DenseDoubleAlgebra/vectorNorm2(cern.colt.matrix.tdouble.DoubleMatrix2D)@g_apache-mime4j-core-0.7.jar.txt	0

@@ -1,0 +1,5 @@
+com/amazonaws/services/ec2/model/transform/DescribeInternetGatewaysRequestMarshaller/marshall(com.amazonaws.services.ec2.model.DescribeInternetGatewaysRequest)@g_aws-java-sdk-ec2-1.9.3.jar.txt	4
+com/amazonaws/services/ec2/model/transform/RevokeSecurityGroupIngressRequestMarshaller/marshall(com.amazonaws.services.ec2.model.RevokeSecurityGroupIngressRequest)@g_aws-java-sdk-ec2-1.9.3.jar.txt	2
+com/amazonaws/services/ec2/AmazonEC2Client/invoke(com.amazonaws.Request,com.amazonaws.transform.Unmarshaller,com.amazonaws.http.ExecutionContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	0
+com/amazonaws/services/ec2/model/transform/GeneratePreSignUrlRequestHandler/beforeRequest(com.amazonaws.Request)@g_aws-java-sdk-ec2-1.9.3.jar.txt	3
+com/amazonaws/services/autoscaling/AmazonAutoScalingClient/invoke(com.amazonaws.Request,com.amazonaws.transform.Unmarshaller,com.amazonaws.http.ExecutionContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	1

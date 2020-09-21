@@ -1,0 +1,4 @@
+org/apache/log4j/MDC/getContext()
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+java/util/Map/putAll(java.util.Map)

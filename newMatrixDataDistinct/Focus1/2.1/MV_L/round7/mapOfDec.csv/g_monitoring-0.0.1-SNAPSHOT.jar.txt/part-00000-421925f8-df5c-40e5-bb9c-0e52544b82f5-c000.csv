@@ -1,0 +1,5 @@
+eu/learnpad/simulator/mon/storage/H2Controller/setLearnerAbsoluteGlobalScore(java.lang.String,float)@g_semvec-lucene-tools-1.4.jar.txt	4
+eu/learnpad/simulator/mon/impl/ComplexEventProcessorImpl/run()@g_semvec-lucene-tools-1.4.jar.txt	2
+io/seldon/db/SeldonMySQLDocumentStore/getUserItemsUsingItemNames(long)@g_semvec-lucene-tools-1.4.jar.txt	1
+eu/learnpad/simulator/mon/impl/ServiceLocatorImpl/readSoapRequest(java.lang.String)@g_semvec-lucene-tools-1.4.jar.txt	0
+net/didion/jwnl/princeton/data/PrincetonWN30DatabaseDictionaryElementFactory/createSynset(net.didion.jwnl.data.POS,long,java.sql.ResultSet,java.sql.ResultSet,java.sql.ResultSet,java.sql.ResultSet)@g_semvec-lucene-tools-1.4.jar.txt	3

@@ -1,0 +1,5 @@
+net/minidev/json/JSONUtil/convertToX(java.lang.Object,java.lang.Class)@g_xwiki-platform-resource-api-7.4.2.jar.txt	4
+net/minidev/json/reader/BeansWriter/writeJSONString(java.lang.Object,java.lang.Appendable,net.minidev.json.JSONStyle)@g_xwiki-platform-resource-api-7.4.2.jar.txt	3
+net/minidev/json/writer/JsonReader/getMapper(java.lang.Class)@g_xwiki-platform-resource-api-7.4.2.jar.txt	2
+net/minidev/json/reader/JsonWriter/init()@g_xwiki-platform-resource-api-7.4.2.jar.txt	1
+net/minidev/json/JSONUtil/convertToStrict(java.lang.Object,java.lang.Class)@g_xwiki-platform-resource-api-7.4.2.jar.txt	0

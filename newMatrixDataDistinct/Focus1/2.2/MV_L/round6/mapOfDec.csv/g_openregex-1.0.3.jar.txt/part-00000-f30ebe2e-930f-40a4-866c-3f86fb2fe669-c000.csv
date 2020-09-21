@@ -1,0 +1,5 @@
+org/reflections/util/ClasspathHelper/forResource(java.lang.String,java.lang.ClassLoader[])@g_reflections-0.9.9-RC2.jar.txt	3
+edu/washington/cs/knowitall/logic/LogicExpressionParser/tokenize(java.lang.String)@g_openregex-1.1.1.jar.txt	2
+edu/washington/cs/knowitall/regex/FiniteAutomaton/Automaton/lookingAt(java.util.List,int)@g_openregex-1.1.1.jar.txt	0
+edu/washington/cs/knowitall/regex/RegularExpressionParser/tokenize(java.lang.String)@g_openregex-1.1.1.jar.txt	1
+org/reflections/util/FilterBuilder/parsePackages(java.lang.String)@g_reflections-0.9.9-RC2.jar.txt	4

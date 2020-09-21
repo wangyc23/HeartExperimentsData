@@ -1,0 +1,5 @@
+org/javaee7/extra/nosql/neo4j/PersonSessionBean/initDB()@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	3
+org/atmosphere/cpr/AtmosphereFilter/doFilter(org.atmosphere.cpr.ServletRequest,org.atmosphere.cpr.ServletResponse,org.atmosphere.websocket.FilterChain)@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	4
+org/atmosphere/tests/http/BroadcasterLifecycleTest/findFreePort()@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	1
+org/atmosphere/util/IntrospectionUtils/hasHook(java.lang.Object,java.lang.String)@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	0
+org/javaee7/websocket/properties/MyEndpoint/echoText(java.lang.String,org.javaee7.websocket.endpoint.programmatic.async.Session)@12acb402a83cff4a37482cd6f7c19e75f26ec1e2.txt	2

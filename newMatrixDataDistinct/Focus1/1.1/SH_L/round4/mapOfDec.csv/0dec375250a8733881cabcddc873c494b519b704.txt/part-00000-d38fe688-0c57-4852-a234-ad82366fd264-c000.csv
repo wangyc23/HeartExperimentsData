@@ -1,0 +1,5 @@
+org/apache/solr/common/util/Base64/byteArrayToBase64(byte[],int,int)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	0
+org/apache/solr/client/solrj/response/GroupCommand/add(org.apache.solr.client.solrj.response.Group)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	2
+org/apache/ranger/biz/UserMgr/createUser(org.apache.ranger.view.VXPortalUser,int)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	1
+org/apache/ranger/common/PropertiesUtil/getIntProperty(java.lang.String,int)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	4
+org/apache/ranger/biz/TestRangerBizUtil/testGetFileNameWithoutExtension_NoFile()@25d79c90186328c34a9598727ce2a0642d67c4da.txt	3

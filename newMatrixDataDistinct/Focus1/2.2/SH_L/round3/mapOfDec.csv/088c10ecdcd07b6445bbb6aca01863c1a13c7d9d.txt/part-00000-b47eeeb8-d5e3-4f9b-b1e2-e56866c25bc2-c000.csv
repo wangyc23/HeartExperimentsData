@@ -1,0 +1,5 @@
+io/dropwizard/hibernate/JerseyIntegrationTest/findsExistingData()@18747440a7b6d2b609f367e203d6a521db1581a9.txt	1
+io/dropwizard/hibernate/SessionFactoryFactoryTest/callsBundleToConfigure()@18747440a7b6d2b609f367e203d6a521db1581a9.txt	3
+io/dropwizard/hibernate/SessionFactoryFactoryTest/managesTheSessionFactory()@18747440a7b6d2b609f367e203d6a521db1581a9.txt	4
+io/dropwizard/hibernate/JerseyIntegrationTest/createsNewData()@18747440a7b6d2b609f367e203d6a521db1581a9.txt	2
+io/dropwizard/hibernate/SessionFactoryFactoryTest/buildsAWorkingSessionFactory()@18747440a7b6d2b609f367e203d6a521db1581a9.txt	0

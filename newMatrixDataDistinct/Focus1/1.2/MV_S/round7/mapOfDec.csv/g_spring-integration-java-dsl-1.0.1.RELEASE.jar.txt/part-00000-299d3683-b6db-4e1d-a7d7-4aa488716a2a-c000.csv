@@ -1,0 +1,5 @@
+org/springframework/data/repository/support/ReflectionRepositoryInvoker/invokeQueryMethod(java.lang.reflect.Method,java.util.Map,org.springframework.data.domain.Pageable,org.springframework.data.domain.Sort)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	3
+org/springframework/security/core/authority/mapping/MapBasedAttributes2GrantedAuthoritiesMapper/preProcessMap(java.util.Map)@g_spring-security-core-3.2.3.RELEASE.jar.txt	0
+org/springframework/data/convert/MappingContextTypeInformationMapper/safelyAddToCache(org.springframework.data.util.ClassTypeInformation,java.lang.Object)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	4
+org/springframework/security/core/userdetails/memory/UserMap/setUsers(java.util.Map)@g_spring-security-core-3.2.3.RELEASE.jar.txt	1
+org/springframework/data/util/ClassTypeInformation/getTypeVariableMap(java.lang.Class,java.util.Collection)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	2

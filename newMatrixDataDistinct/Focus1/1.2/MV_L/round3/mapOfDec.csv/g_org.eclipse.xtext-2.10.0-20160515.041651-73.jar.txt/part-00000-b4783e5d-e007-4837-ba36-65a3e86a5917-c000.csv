@@ -1,0 +1,5 @@
+org/eclipse/xtext/formatting/impl/ElementMatcherProvider/TransitionMatcher/findTransitionsToToken(org.eclipse.xtext.formatting.impl.MatcherState,java.util.Set,boolean,boolean,java.util.Set)@g_org.eclipse.xtext-2.10.0-SNAPSHOT.jar.txt	1
+org/eclipse/xtext/validation/impl/ConcreteSyntaxConstraintProvider/createSummarizedAssignments(org.eclipse.xtext.CompoundElement,java.util.List,org.eclipse.emf.ecore.EClass,boolean)@g_org.eclipse.xtext-2.10.0-SNAPSHOT.jar.txt	0
+org/eclipse/xtext/formatting2/debug/TextRegionAccessToString/toString()@g_org.eclipse.xtext-2.10.0-SNAPSHOT.jar.txt	4
+org/eclipse/xtext/serializer/analysis/SyntacticSequencerPDAProvider/createEmitterStates(org.eclipse.xtext.serializer.analysis.ISerState,org.eclipse.xtext.serializer.analysis.ISerState,org.eclipse.xtext.serializer.analysis.SyntacticSequencerPDAProvider$SynAbsorberState,java.util.Map)@g_org.eclipse.xtext-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtext/serializer/analysis/SyntacticSequencerPDAProvider/SynNavigable/isSyntacticallyAmbiguous(java.util.List)@g_org.eclipse.xtext-2.10.0-SNAPSHOT.jar.txt	2

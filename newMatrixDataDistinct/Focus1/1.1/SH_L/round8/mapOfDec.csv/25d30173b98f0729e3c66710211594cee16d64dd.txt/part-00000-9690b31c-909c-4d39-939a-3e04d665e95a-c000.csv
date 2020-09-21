@@ -1,0 +1,5 @@
+io/netty/handler/codec/spdy/DefaultSpdySynStreamFrame/setPriority(byte)@29fb149207f9c3d7b1ff33638a16f5a026c7d770.txt	4
+io/netty/util/internal/chmv8/ConcurrentHashMapV8/TreeBin/removeTreeNode(io.netty.util.internal.chmv8.ConcurrentHashMapV8.TreeNode)@29fb149207f9c3d7b1ff33638a16f5a026c7d770.txt	2
+io/netty/channel/socket/aio/DefaultAioSocketChannelConfig/setOption(io.netty.channel.ChannelOption,T)@29fb149207f9c3d7b1ff33638a16f5a026c7d770.txt	0
+io/netty/test/udt/util/EchoByteHandler/channelActive(io.netty.channel.ChannelHandlerContext)@29fb149207f9c3d7b1ff33638a16f5a026c7d770.txt	3
+io/netty/channel/LoggingHandler/channelActive(io.netty.channel.ChannelHandlerContext)@29fb149207f9c3d7b1ff33638a16f5a026c7d770.txt	1

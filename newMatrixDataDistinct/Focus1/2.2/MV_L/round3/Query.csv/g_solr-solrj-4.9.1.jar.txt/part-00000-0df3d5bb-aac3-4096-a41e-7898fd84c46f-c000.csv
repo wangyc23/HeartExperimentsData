@@ -1,0 +1,4 @@
+org/apache/http/HttpResponse/getStatusLine()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Queue/remove(java.lang.Object)
+java/util/concurrent/locks/Lock/lock()

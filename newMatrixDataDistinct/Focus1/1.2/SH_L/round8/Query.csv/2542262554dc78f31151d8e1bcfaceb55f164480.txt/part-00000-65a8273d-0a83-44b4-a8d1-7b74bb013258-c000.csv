@@ -1,0 +1,4 @@
+org/commonjava/maven/galley/io/checksum/AbstractChecksumGenerator/getDigestHex()
+org/commonjava/maven/galley/io/checksum/AbstractChecksumGenerator/getDigestType()
+org/commonjava/maven/galley/io/checksum/TransferMetadata/TransferMetadata(java.util.Map,java.lang.Long)
+org/commonjava/maven/galley/model/Transfer/getLocation()

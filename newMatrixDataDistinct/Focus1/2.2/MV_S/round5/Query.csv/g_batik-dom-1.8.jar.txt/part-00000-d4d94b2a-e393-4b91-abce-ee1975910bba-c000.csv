@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Integer/Integer(int)
+org/apache/batik/dom/AbstractNode/getNodeName()
+java/lang/String/equals(java.lang.Object)

@@ -1,0 +1,4 @@
+org/apache/hadoop/hbase/thrift/generated/Hbase/mutateRowTs_args/isSetRow()
+java/nio/ByteBuffer/equals(java.lang.Object)
+org/apache/hadoop/hbase/thrift/generated/Hbase/mutateRowTs_args/isSetAttributes()
+org/apache/hadoop/hbase/thrift/generated/Hbase/mutateRowTs_args/isSetMutations()

@@ -1,0 +1,5 @@
+org/eclipse/jetty/websocket/api/util/WSURI/toWebsocket(java.net.URI)@g_websocket-api-9.2.2.v20140723.jar.txt	4
+org/eclipse/jetty/websocket/api/util/WSURI/toHttp(java.net.URI)@g_websocket-api-9.2.2.v20140723.jar.txt	3
+org/apache/jena/query/text/TextQueryPF/objectToStruct(org.apache.jena.sparql.pfunction.PropFuncArg,boolean)@g_websocket-api-9.2.2.v20140723.jar.txt	2
+org/apache/jena/query/text/TextIndexLucene/doc(org.apache.jena.query.text.Entity)@g_websocket-api-9.2.2.v20140723.jar.txt	1
+org/apache/jena/query/text/DatasetGraphText/commit()@g_websocket-api-9.2.2.v20140723.jar.txt	0

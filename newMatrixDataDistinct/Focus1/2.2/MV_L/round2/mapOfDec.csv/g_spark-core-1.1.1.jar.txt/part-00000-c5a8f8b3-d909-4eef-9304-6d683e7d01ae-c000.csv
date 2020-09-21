@@ -1,0 +1,5 @@
+net/sf/ehcache/distribution/MulticastRMICacheManagerPeerProvider/registerPeer(java.lang.String)@g_ehcache-core-1.7.2.jar.txt	0
+net/sf/ehcache/distribution/RMIAsynchronousCacheReplicator/replicationThreadMain()@g_ehcache-core-1.7.2.jar.txt	1
+net/sf/ehcache/store/DiskStore/dispose()@g_ehcache-core-1.7.2.jar.txt	3
+net/sf/ehcache/distribution/RMIBootstrapCacheLoader/acquireCachePeers(net.sf.ehcache.Ehcache)@g_ehcache-core-1.7.2.jar.txt	4
+net/sf/ehcache/constructs/web/ShutdownListener/contextDestroyed(javax.servlet.ServletContextEvent)@g_ehcache-core-1.7.2.jar.txt	2

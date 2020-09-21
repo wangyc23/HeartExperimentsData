@@ -1,0 +1,5 @@
+org/apache/batik/util/ParsedURLDefaultProtocolHandler/unescapeStr(java.lang.String)@g_batik-util-1.8.jar.txt	2
+org/apache/batik/util/ParsedURLDefaultProtocolHandler/parseURL(org.apache.batik.util.ParsedURL,java.lang.String)@g_batik-util-1.8.jar.txt	1
+org/apache/batik/util/ParsedURLDefaultProtocolHandler/parseURL(java.lang.String)@g_batik-util-1.8.jar.txt	0
+org/springframework/util/DefaultPropertiesPersister/doLoad(java.util.Properties,java.io.Reader)@g_spring-core-2.5.6.jar.txt	3
+org/apache/batik/util/Service/providers(java.lang.Class)@g_batik-util-1.8.jar.txt	4

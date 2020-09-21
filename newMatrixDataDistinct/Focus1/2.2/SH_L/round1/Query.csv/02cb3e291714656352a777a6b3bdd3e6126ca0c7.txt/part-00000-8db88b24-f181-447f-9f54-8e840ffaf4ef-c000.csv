@@ -1,0 +1,4 @@
+edu/mit/ll/nics/common/rabbitmq/RabbitClient/getChannel()
+com/rabbitmq/client/Channel/basicPublish(java.lang.String,java.lang.String,com.rabbitmq.client.AMQP.BasicProperties,byte[])
+java/io/PrintStream/println(java.lang.String)
+java/lang/String/getBytes()

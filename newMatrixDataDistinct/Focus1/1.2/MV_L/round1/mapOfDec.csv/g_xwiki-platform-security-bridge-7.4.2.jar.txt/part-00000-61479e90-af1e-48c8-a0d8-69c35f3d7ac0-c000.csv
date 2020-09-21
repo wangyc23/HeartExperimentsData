@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/activitystream/impl/ActivityStreamImpl/generateEventId(com.xpn.xwiki.plugin.activitystream.api.ActivityEvent,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	2
+org/xwiki/rendering/wikimacro/internal/CoreWikiMacroBindingInitializer/initialize(org.xwiki.model.reference.DocumentReference,org.xwiki.rendering.macro.wikibridge.WikiMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext,java.util.Map)@g_xwiki-platform-rendering-wikimacro-store-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/activitystream/eventstreambridge/BridgeEventStream/searchEvents(org.xwiki.query.Query)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/activitystream/impl/ActivityStreamImpl/getFeedEntry(com.xpn.xwiki.plugin.activitystream.api.ActivityEvent,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	0
+com/xpn/xwiki/plugin/activitystream/impl/ActivityStreamImpl/onEvent(org.xwiki.observation.event.Event,java.lang.Object,java.lang.Object)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	3

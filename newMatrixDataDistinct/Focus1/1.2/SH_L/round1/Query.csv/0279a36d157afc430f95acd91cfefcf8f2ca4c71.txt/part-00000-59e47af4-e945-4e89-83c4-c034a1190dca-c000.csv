@@ -1,0 +1,4 @@
+eu/stratosphere/sopremo/type/IArrayNode/size()
+eu/stratosphere/sopremo/expressions/ArrayAccess/isSelectingAll()
+eu/stratosphere/sopremo/type/IArrayNode/get(int)
+eu/stratosphere/sopremo/expressions/ArrayAccess/resolveIndex(int,int)

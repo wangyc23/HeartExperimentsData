@@ -1,0 +1,4 @@
+org/codehaus/plexus/logging/Logger/isDebugEnabled()
+java/util/ArrayList/ArrayList()
+java/util/List/isEmpty()
+org/apache/maven/shared/io/location/FileLocatorStrategy/FileLocatorStrategy()

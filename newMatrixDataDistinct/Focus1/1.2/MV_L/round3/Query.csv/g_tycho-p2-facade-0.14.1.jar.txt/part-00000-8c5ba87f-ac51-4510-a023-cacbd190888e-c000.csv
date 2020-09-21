@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+org/apache/maven/model/Dependency/getType()
+java/util/List/size()

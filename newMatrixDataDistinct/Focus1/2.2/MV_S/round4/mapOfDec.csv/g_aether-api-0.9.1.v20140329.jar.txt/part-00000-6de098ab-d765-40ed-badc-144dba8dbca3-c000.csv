@@ -1,0 +1,5 @@
+org/eclipse/aether/artifact/AbstractArtifact/toString()@g_xwiki-commons-text-7.4.2.jar.txt	3
+org/apache/maven/plugin/surefire/runorder/RunEntryStatisticsMap/serialize(java.io.File)@g_xwiki-commons-text-7.4.2.jar.txt	4
+org/eclipse/aether/collection/UnsolvableVersionConflictException/toPath(java.util.List)@g_xwiki-commons-text-7.4.2.jar.txt	2
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/StringUtils/unifyLineSeparators(java.lang.String,java.lang.String)@g_surefire-api-2.16.jar.txt	0
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/StringUtils/quoteAndEscape(java.lang.String,char,char[],char[],char,boolean)@g_surefire-api-2.16.jar.txt	1

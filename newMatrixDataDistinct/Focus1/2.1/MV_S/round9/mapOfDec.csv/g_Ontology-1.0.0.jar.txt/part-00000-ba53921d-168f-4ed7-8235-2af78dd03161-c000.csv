@@ -1,0 +1,5 @@
+com/ontotext/gate/vr/ClassNode/createRootNode(gate.creole.ontology.Ontology,gate.creole.gazetteer.MappingDefinition,java.util.Map)@g_ontology_tools-1.0.jar.txt	3
+org/neo4j/ogm/unit/mapper/EntityGraphMapperTest/testDeleteExistingReferenceFromIncomingSide()@g_ontology_tools-1.0.jar.txt	1
+gate/creole/ontology/impl/sesame/OWLIMOntology/createTmpDir(java.io.File,java.lang.String)@g_ontology_tools-1.0.jar.txt	2
+org/neo4j/ogm/unit/metadata/MetaDataTest/testFindIterableMethodWithUniqueParameterisedType()@g_ontology_tools-1.0.jar.txt	4
+gate/creole/ontology/ocat/AnnotationEditor/AddChangeAnnotationAction/actionPerformed(java.awt.event.ActionEvent)@g_ontology_tools-1.0.jar.txt	0

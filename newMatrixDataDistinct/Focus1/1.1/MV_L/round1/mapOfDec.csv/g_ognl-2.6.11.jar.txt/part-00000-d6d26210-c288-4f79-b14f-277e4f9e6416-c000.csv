@@ -1,0 +1,5 @@
+org/apache/ibatis/ognl/OgnlOps/bigDecValue(java.lang.Object)@g_mybatis-3.2.5.jar.txt	4
+org/apache/ibatis/ognl/OgnlRuntime/getDeclaredMethods(java.lang.Class,java.lang.String,boolean)@g_mybatis-3.2.5.jar.txt	3
+ognl/OgnlRuntime/getMethods(java.lang.Class,boolean)@g_ognl-3.0.8.jar.txt	0
+ognl/OgnlRuntime/getDeclaredMethods(java.lang.Class,java.lang.String,boolean)@g_ognl-3.0.8.jar.txt	2
+ognl/enhance/ExpressionCompiler/getInterfaceClass(java.lang.Class)@g_ognl-3.0.8.jar.txt	1

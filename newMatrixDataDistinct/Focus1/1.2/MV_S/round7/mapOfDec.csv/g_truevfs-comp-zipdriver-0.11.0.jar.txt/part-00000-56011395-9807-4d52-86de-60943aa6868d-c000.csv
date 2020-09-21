@@ -1,0 +1,5 @@
+net/java/truevfs/access/TUriResolver/parent(net.java.truevfs.kernel.spec.FsNodePath)@g_truevfs-access-0.11.0.jar.txt	1
+net/java/truevfs/access/TFile/parse(net.java.truevfs.kernel.spec.FsNodePath,net.java.truevfs.access.TArchiveDetector)@g_truevfs-access-0.11.0.jar.txt	0
+net/java/truevfs/access/TFileSystem/newByteChannel(net.java.truevfs.access.TPath,java.util.Set,java.nio.file.attribute.FileAttribute[])@g_truevfs-access-0.11.0.jar.txt	3
+net/java/truevfs/access/TUriResolver/resolve(java.lang.String)@g_truevfs-access-0.11.0.jar.txt	4
+net/java/truevfs/access/TFile/list(java.io.FilenameFilter)@g_truevfs-access-0.11.0.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/mapreduce/LoadIncrementalHFiles/tryLoad(org.apache.hadoop.hbase.mapreduce.LoadIncrementalHFiles.LoadQueueItem,org.apache.hadoop.hbase.client.HConnection,org.apache.hadoop.hbase.client.HTable,java.util.Deque,org.apache.hadoop.hbase.util.Pair,java.util.concurrent.ExecutorService)@27987b6823f76e575061871e738a4ec4af3c2404.txt	4
+org/apache/hadoop/hbase/master/DeadServer/clone()@27987b6823f76e575061871e738a4ec4af3c2404.txt	0
+org/apache/hadoop/hbase/replication/regionserver/ReplicationSourceManager/logRolled(org.apache.hadoop.hbase.master.Path)@27987b6823f76e575061871e738a4ec4af3c2404.txt	1
+org/apache/hadoop/hbase/TestKeyValue/testBinaryKeys()@27987b6823f76e575061871e738a4ec4af3c2404.txt	3
+org/apache/hadoop/hbase/zookeeper/ZKAssign/asyncCreateNodeOffline(org.apache.hadoop.hbase.zookeeper.ZooKeeperWatcher,org.apache.hadoop.hbase.HRegionInfo,org.apache.hadoop.hbase.ServerName,AsyncCallback.StringCallback,java.lang.Object)@27987b6823f76e575061871e738a4ec4af3c2404.txt	2

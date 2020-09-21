@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/macro/velocity/filter/HTMLVelocityMacroFilter/flushWhiteSpaces(java.lang.StringBuffer,org.xwiki.rendering.internal.macro.velocity.filter.HTMLVelocityMacroFilter$FilterContext,boolean)@g_xwiki-platform-rendering-macro-velocity-7.0.jar.txt	4
+org/xwiki/rendering/internal/macro/velocity/VelocityMacro/evaluateString(org.xwiki.rendering.macro.velocity.VelocityMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-rendering-macro-velocity-7.0.jar.txt	1
+org/xwiki/rendering/internal/macro/velocity/filter/HTMLVelocityMacroFilter/clean(java.lang.String)@g_xwiki-platform-rendering-macro-velocity-7.0.jar.txt	0
+org/xwiki/rendering/internal/macro/velocity/VelocityMacro/evaluateString(org.xwiki.rendering.macro.velocity.VelocityMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-rendering-macro-velocity-7.4.jar.txt	3
+org/xwiki/rendering/internal/macro/velocity/filter/HTMLVelocityMacroFilter/clean(java.lang.String)@g_xwiki-platform-rendering-macro-velocity-7.4.jar.txt	2

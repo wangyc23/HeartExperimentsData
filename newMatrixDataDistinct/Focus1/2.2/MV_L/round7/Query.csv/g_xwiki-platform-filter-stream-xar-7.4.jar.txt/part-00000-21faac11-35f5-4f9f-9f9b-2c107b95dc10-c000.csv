@@ -1,0 +1,4 @@
+javax/xml/stream/XMLStreamReader/getElementText()
+org/xwiki/filter/xar/internal/input/AttachmentReader/convert(java.lang.Class,java.lang.String)
+java/util/Map/get(java.lang.Object)
+javax/xml/stream/XMLStreamReader/nextTag()

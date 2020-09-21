@@ -1,0 +1,5 @@
+okhttp3/internal/huc/ResponseCacheTest/defaultExpirationDateFullyCachedForLessThan24Hours()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	3
+okhttp3/internal/huc/ResponseCacheTest/requestMaxStale()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	4
+okhttp3/internal/huc/ResponseCacheTest/testRequestMethod(java.lang.String,boolean)@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	1
+okhttp3/internal/huc/ResponseCacheTest/getHeadersDeletesCached100LevelWarnings()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	0
+okhttp3/internal/huc/ResponseCacheTest/conditionalHitDoesNotUpdateCache()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	2

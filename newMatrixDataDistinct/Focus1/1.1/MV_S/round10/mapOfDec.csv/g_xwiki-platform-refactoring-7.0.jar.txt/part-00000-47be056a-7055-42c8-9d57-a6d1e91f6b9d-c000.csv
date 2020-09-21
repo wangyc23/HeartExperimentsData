@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/transformation/icon/IconTransformation/initialize()@g_xwiki-platform-refactoring-api-7.4.2.jar.txt	3
+org/xwiki/refactoring/internal/splitter/DefaultDocumentSplitter/split(org.xwiki.refactoring.WikiDocument,java.util.List,int,java.util.List,org.xwiki.refactoring.splitter.criterion.SplittingCriterion,org.xwiki.refactoring.splitter.criterion.naming.NamingCriterion)@g_xwiki-platform-refactoring-api-7.4.2.jar.txt	1
+org/xwiki/rendering/internal/transformation/icon/IconTransformation/parseTree(java.util.List)@g_xwiki-rendering-transformation-icon-7.0.jar.txt	2
+org/xwiki/refactoring/splitter/criterion/naming/HeadingNameNamingCriterion/getDocumentName(org.xwiki.rendering.block.XDOM)@g_xwiki-platform-refactoring-api-7.4.2.jar.txt	0
+org/xwiki/rendering/internal/transformation/icon/IconTransformation/convertToDeepTree(org.xwiki.rendering.block.Block,java.lang.String)@g_xwiki-platform-refactoring-api-7.4.2.jar.txt	4

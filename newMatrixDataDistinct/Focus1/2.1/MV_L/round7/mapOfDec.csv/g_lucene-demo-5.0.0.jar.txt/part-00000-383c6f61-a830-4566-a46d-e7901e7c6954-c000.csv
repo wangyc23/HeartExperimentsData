@@ -1,0 +1,5 @@
+org/apache/lucene/demo/facet/SimpleSortedSetFacetsExample/drillDown()@g_lucene-demo-6.6.0.jar.txt	3
+org/apache/lucene/demo/facet/AssociationsFacetsExample/sumAssociations()@g_lucene-demo-6.6.0.jar.txt	2
+org/apache/lucene/demo/facet/SimpleFacetsExample/facetsWithSearch()@g_lucene-demo-6.6.0.jar.txt	4
+org/apache/lucene/demo/facet/SimpleFacetsExample/drillSideways()@g_lucene-demo-6.6.0.jar.txt	0
+org/apache/lucene/demo/facet/ExpressionAggregationFacetsExample/search()@g_lucene-demo-6.6.0.jar.txt	1

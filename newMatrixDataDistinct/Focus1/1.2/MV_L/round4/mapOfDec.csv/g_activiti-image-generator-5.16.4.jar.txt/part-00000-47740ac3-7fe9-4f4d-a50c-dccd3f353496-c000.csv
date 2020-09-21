@@ -1,0 +1,5 @@
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawTask(java.lang.String,org.activiti.bpmn.model.GraphicInfo,boolean)@g_activiti-image-generator-5.17.0.jar.txt	4
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawConnection(int[],int[],boolean,boolean,java.lang.String,org.activiti.bpmn.model.AssociationDirection,boolean,double)@g_activiti-image-generator-6.0.0.Beta1.jar.txt	2
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawCatchingEvent(org.activiti.bpmn.model.GraphicInfo,boolean,java.awt.image.BufferedImage,java.lang.String,double)@g_activiti-image-generator-6.0.0.Beta1.jar.txt	3
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawCatchingEvent(org.activiti.bpmn.model.GraphicInfo,boolean,java.awt.image.BufferedImage,java.lang.String,double)@g_activiti-image-generator-5.17.0.jar.txt	1
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawConnection(int[],int[],boolean,boolean,java.lang.String,org.activiti.bpmn.model.AssociationDirection,boolean,double)@g_activiti-image-generator-5.17.0.jar.txt	0

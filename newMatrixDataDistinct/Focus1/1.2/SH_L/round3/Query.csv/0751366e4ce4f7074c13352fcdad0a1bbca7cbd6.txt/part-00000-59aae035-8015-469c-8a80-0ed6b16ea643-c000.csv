@@ -1,0 +1,4 @@
+org/hibernate/ogm/datastore/neo4j/dialect/impl/BaseNeo4jQueries/params(java.lang.Object[],int)
+org/hibernate/ogm/datastore/neo4j/dialect/impl/BaseNeo4jQueries/params(java.lang.Object[])
+java/util/Map/putAll(java.util.Map)
+org/hibernate/ogm/datastore/neo4j/dialect/impl/BaseNeo4jEntityQueries/getUpdateToOneQuery(java.lang.String)

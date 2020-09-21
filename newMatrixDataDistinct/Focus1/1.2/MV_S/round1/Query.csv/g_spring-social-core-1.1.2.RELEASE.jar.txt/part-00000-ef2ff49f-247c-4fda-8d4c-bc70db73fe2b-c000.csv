@@ -1,0 +1,4 @@
+org/springframework/util/MultiValueMap/setAll(java.util.Map)
+org/springframework/util/LinkedMultiValueMap/LinkedMultiValueMap(int)
+java/util/Iterator/hasNext()
+org/springframework/util/MultiValueMap/size()

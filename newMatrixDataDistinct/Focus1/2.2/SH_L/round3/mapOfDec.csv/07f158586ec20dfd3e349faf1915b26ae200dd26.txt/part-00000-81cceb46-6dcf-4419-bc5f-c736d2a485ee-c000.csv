@@ -1,0 +1,5 @@
+com/softwaremill/common/conf/ConfigurationTest/shouldReturnSystemPopertyOnNonExistingKey()@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	4
+com/softwaremill/common/faces/validator/MultiValidator/getAllChildren(javax.faces.component.UIComponent)@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	1
+com/softwaremill/common/cdi/validation/PasswordValidator/isValid(java.lang.String,javax.validation.ConstraintValidatorContext)@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	3
+com/softwaremill/common/paypal/button/PaypalButtonGenerator/addItems(com.softwaremill.common.paypal.button.PaypalCartItem[])@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	2
+com/softwaremill/common/util/RichList/flatMap(com.google.common.base.Function)@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	0

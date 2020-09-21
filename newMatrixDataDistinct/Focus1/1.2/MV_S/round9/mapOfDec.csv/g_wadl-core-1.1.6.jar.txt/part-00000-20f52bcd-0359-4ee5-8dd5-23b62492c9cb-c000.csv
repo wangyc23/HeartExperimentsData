@@ -1,0 +1,5 @@
+org/jsonschema2pojo/rules/EnumRule/addFactoryMethod(com.fasterxml.jackson.databind.JsonNode,com.sun.codemodel.JDefinedClass)@g_jsonschema2pojo-core-0.4.0.jar.txt	0
+org/jsonschema2pojo/rules/DefaultRule/getDefaultSet(com.sun.codemodel.JType,com.fasterxml.jackson.databind.JsonNode)@g_jsonschema2pojo-core-0.4.0.jar.txt	3
+org/jsonschema2pojo/rules/DefaultRule/getDefaultList(com.sun.codemodel.JType,com.fasterxml.jackson.databind.JsonNode)@g_jsonschema2pojo-core-0.4.0.jar.txt	2
+org/jsonschema2pojo/rules/EnumRule/addQuickLookupMap(com.sun.codemodel.JDefinedClass)@g_jsonschema2pojo-core-0.4.0.jar.txt	4
+org/jvnet/jaxb2_commons/plugin/copyable/CopyablePlugin/generateCopyTo$copyTo1(com.sun.tools.xjc.outline.ClassOutline,com.sun.codemodel.JDefinedClass)@g_jaxb2-basics-0.6.4.jar.txt	1

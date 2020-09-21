@@ -1,0 +1,4 @@
+java/util/concurrent/atomic/AtomicIntegerFieldUpdater/get(java.lang.Object)
+io/netty/util/HashedWheelTimer$Worker/processCancelledTasks()
+io/netty/util/HashedWheelTimer$Worker/transferTimeoutsToBuckets()
+java/util/Queue/poll()

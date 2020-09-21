@@ -1,0 +1,6 @@
+0	org/apache/sling/jcr/webdav/impl/helper/SlingResourceConfig/SlingResourceConfig(org.apache.sling.jcr.webdav.impl.helper.MimeTypeService,java.util.Dictionary,org.apache.sling.jcr.webdav.impl.helper.ItemFilter)
+1	com/adobe/acs/commons/packaging/impl/PackageHelperImpl/removePackage(com.adobe.acs.commons.packaging.impl.JcrPackageManager,java.lang.String,java.lang.String,java.lang.String)
+2	org/apache/sling/jcr/webdav/impl/servlets/SlingWebDavServlet/getRepository()
+3	java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)
+4	org/apache/sling/jcr/webdav/impl/servlets/SlingSimpleWebDavServlet/SlingSimpleWebDavServlet(org.apache.sling.jcr.webdav.impl.helper.SlingResourceConfig,org.sakaiproject.nakamura.site.Repository)
+5	org/apache/sling/jcr/webdav/impl/helper/SlingResourceConfig/getServletContextPath()

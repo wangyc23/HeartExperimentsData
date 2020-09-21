@@ -1,0 +1,4 @@
+java/lang/Class/isInterface()
+org/springframework/aop/scope/ScopedProxyFactoryBean/isProxyTargetClass()
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+org/springframework/aop/framework/ProxyFactory/addAdvice(org.aopalliance.aop.Advice)

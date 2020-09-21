@@ -1,0 +1,5 @@
+org/apache/fluo/recipes/core/types/TypedSnapshotBase/MapConverter/toBytesMap()@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	3
+org/apache/mina/transport/nio/SslTest/startJDKClient(int)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	4
+org/apache/mina/http2/api/Http2PushPromiseFrameTest/encodeNoPadding()@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	0
+org/apache/mina/http2/codec/Http2ProtocolDecoder/decode(java.nio.ByteBuffer,org.apache.mina.http2.impl.Http2Connection)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	2
+org/apache/mina/generated/thrift/UserStorage/retrieve_result/isSet(org.apache.mina.generated.thrift.UserStorage.retrieve_result._Fields)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	1

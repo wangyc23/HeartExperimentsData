@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/proto/YarnProtos/StrictPreemptionContractProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.YarnProtos$StrictPreemptionContractProto)@g_hadoop-yarn-api-2.6.0.jar.txt	2
+org/apache/hadoop/yarn/proto/YarnServiceProtos/AllocateResponseProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.YarnServiceProtos$AllocateResponseProto)@g_hadoop-yarn-api-2.6.0.jar.txt	1
+org/apache/hadoop/yarn/proto/YarnServiceProtos/StopContainersRequestProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.YarnServiceProtos$StopContainersRequestProto)@g_hadoop-yarn-api-2.6.0.jar.txt	0
+org/apache/hadoop/yarn/proto/YarnServiceProtos/GetNodesToLabelsResponseProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.YarnServiceProtos$GetNodesToLabelsResponseProto)@g_hadoop-yarn-api-2.6.0.jar.txt	3
+org/apache/hadoop/yarn/proto/YarnServiceProtos/GetContainerStatusesResponseProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.YarnServiceProtos$GetContainerStatusesResponseProto)@g_hadoop-yarn-api-2.6.0.jar.txt	4

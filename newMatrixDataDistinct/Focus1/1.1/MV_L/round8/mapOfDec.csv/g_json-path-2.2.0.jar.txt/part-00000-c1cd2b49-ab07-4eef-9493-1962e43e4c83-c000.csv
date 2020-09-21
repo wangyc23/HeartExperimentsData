@@ -1,0 +1,5 @@
+com/jayway/jsonpath/spi/json/AbstractJsonProvider/length(java.lang.Object)@g_jsonassert-1.4.0.jar.txt	4
+com/jayway/jsonpath/spi/mapper/JsonOrgMappingProvider/mapToObject(java.lang.Object)@g_jsonassert-1.4.0.jar.txt	0
+com/jayway/jsonpath/internal/filter/ValueNode/PathNode/evaluate(com.jayway.jsonpath.Predicate$PredicateContext)@g_jsonassert-1.4.0.jar.txt	2
+com/jayway/jsonpath/internal/path/PredicatePathToken/evaluate(java.lang.String,com.jayway.jsonpath.internal.PathRef,java.lang.Object,com.jayway.jsonpath.internal.path.EvaluationContextImpl)@g_jsonassert-1.4.0.jar.txt	3
+com/jayway/jsonpath/internal/path/PathToken/handleObjectProperty(java.lang.String,java.lang.Object,com.jayway.jsonpath.internal.path.EvaluationContextImpl,java.util.List)@g_jsonassert-1.4.0.jar.txt	1

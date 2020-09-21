@@ -1,0 +1,8 @@
+0	com/trier/exam/shopping/model/Product/setId(java.lang.Long)
+1	com/example/sdn4rc2/service/Pagination/calcPage(int,int,int)
+2	com/example/sdn4rc2/service/GenericCRUDService/count()
+3	com/trier/exam/shopping/service/AbstractService/persist(T)
+4	com/trier/exam/shopping/model/Product/getId()
+5	com/example/sdn4rc2/service/GenericCRUDService/findAll(int,int,java.lang.String)
+6	com/trier/exam/shopping/service/AbstractService/findById(java.lang.Long)
+7	com/example/sdn4rc2/web/BaseController/addPageAttr(com.example.sdn4rc2.service.PageBean,org.springframework.ui.Model)

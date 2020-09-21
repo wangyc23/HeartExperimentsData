@@ -1,0 +1,5 @@
+org/osgi/dto/DTO/appendDTO(java.lang.StringBuilder,java.util.Map,java.lang.String,org.osgi.dto.DTO)@g_osgi-3.10.0-v20140606-1445.jar.txt	3
+org/eclipse/osgi/internal/location/BasicLocation/set(java.net.URL,boolean,java.lang.String)@g_osgi-3.10.0-v20140606-1445.jar.txt	1
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/closeOutputFile(java.util.zip.Checksum)@g_osgi-3.10.0-v20140606-1445.jar.txt	0
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_osgi-3.10.0-v20140606-1445.jar.txt	4
+org/eclipse/osgi/internal/log/EventAdminLogListener/convertEvent(org.osgi.service.log.LogEntry)@g_osgi-3.10.0-v20140606-1445.jar.txt	2

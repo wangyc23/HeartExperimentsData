@@ -1,0 +1,5 @@
+org/apache/flume/api/NettyAvroRpcClient/SSLCompressionChannelFactory/newChannel(org.apache.flume.api.ChannelPipeline)@17806a9a04ba977e85316ad35f94850b10d0af96.txt	0
+org/apache/flume/source/ThriftSource/configure(org.apache.flume.Context)@17806a9a04ba977e85316ad35f94850b10d0af96.txt	2
+org/apache/flume/api/ThriftRpcClient/createSSLContext(java.lang.String,java.lang.String,java.lang.String)@17806a9a04ba977e85316ad35f94850b10d0af96.txt	1
+org/apache/flume/source/http/HTTPSource/HTTPSourceSocketConnector/newServerSocket(java.lang.String,int,int)@17806a9a04ba977e85316ad35f94850b10d0af96.txt	3
+org/apache/flume/source/AvroSource/configure(org.apache.flume.Context)@17806a9a04ba977e85316ad35f94850b10d0af96.txt	4

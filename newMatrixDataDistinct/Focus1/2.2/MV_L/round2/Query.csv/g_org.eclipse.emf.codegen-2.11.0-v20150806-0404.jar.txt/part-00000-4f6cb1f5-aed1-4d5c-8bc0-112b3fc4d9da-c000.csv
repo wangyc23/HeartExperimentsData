@@ -1,0 +1,4 @@
+org/eclipse/text/edits/TextEdit/removeChild(org.eclipse.text.edits.TextEdit)
+java/util/Map/get(java.lang.Object)
+org/eclipse/text/edits/InsertEdit/getOffset()
+java/util/List/add(java.lang.Object)

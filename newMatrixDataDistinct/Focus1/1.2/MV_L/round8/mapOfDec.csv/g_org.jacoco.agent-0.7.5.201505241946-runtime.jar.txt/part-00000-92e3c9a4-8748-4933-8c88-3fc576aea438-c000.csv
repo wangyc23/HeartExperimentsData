@@ -1,0 +1,5 @@
+org/jacoco/core/instr/Instrumenter/instrumentZip(java.io.InputStream,java.io.OutputStream,java.lang.String)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	0
+org/jacoco/core/internal/instr/FieldProbeArrayStrategy/createInitMethod(org.objectweb.asm.ClassVisitor,int)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	4
+org/objectweb/asm/xml/Processor/process()@g_asm-debug-all-5.0.3.jar.txt	1
+org/jacoco/core/internal/analysis/BundleCoverageImpl/groupByPackage(java.util.Collection,java.util.Collection)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	2
+org/objectweb/asm/util/CheckMethodAdapter/checkMethodIdentifier(int,java.lang.String,java.lang.String)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	3

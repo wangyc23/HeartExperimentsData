@@ -1,0 +1,5 @@
+org/apache/ws/commons/schema/XmlSchemaSerializer/appendElement(org.w3c.dom.Document,org.w3c.dom.Element,org.w3c.dom.Node,org.apache.ws.commons.schema.XmlSchema)@g_xmlschema-core-2.2.2.jar.txt	1
+org/apache/batik/svggen/SVGTexturePaint/toSVG(java.awt.TexturePaint)@g_xmlschema-core-2.2.2.jar.txt	0
+org/apache/ws/commons/schema/XmlSchemaCollection/getGroupByQName(javax.xml.namespace.QName)@g_xmlschema-core-2.2.2.jar.txt	3
+org/apache/batik/svggen/SVGAlphaComposite/compositeToSVG(java.awt.AlphaComposite)@g_xmlschema-core-2.2.2.jar.txt	2
+org/apache/batik/svggen/DefaultStyleHandler/setStyle(org.w3c.dom.Element,java.util.Map,org.apache.batik.svggen.SVGGeneratorContext)@g_xmlschema-core-2.2.2.jar.txt	4

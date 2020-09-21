@@ -1,0 +1,5 @@
+org/eclipse/xtend/maven/XtendCompile/getClassPath()@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	1
+org/eclipse/xtend/maven/XtendTestCompile/internalExecute()@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtend/maven/XtendTestCompile/getTestClassPath()@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	2
+org/eclipse/xtend/maven/AbstractXtendCompilerMojo/getBootClassPath()@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	4
+org/eclipse/xtend/maven/XtendCompile/internalExecute()@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	0

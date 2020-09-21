@@ -1,0 +1,5 @@
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/executeCopy(org.openrdf.query.algebra.Copy,org.openrdf.sail.UpdateContext)@g_sesame-repository-sail-2.7.9.jar.txt	4
+org/openrdf/query/algebra/evaluation/iterator/BottomUpJoinIterator/getNextElement()@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	3
+org/openrdf/query/algebra/evaluation/impl/EvaluationStrategyImpl/evaluate(org.openrdf.query.algebra.CompareAny,org.openrdf.query.BindingSet)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	2
+org/openrdf/query/algebra/evaluation/impl/EvaluationStrategyImpl/evaluate(org.openrdf.query.algebra.CompareAll,org.openrdf.query.BindingSet)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/impl/EvaluationStrategyImpl/evaluate(org.openrdf.query.algebra.In,org.openrdf.query.BindingSet)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	0

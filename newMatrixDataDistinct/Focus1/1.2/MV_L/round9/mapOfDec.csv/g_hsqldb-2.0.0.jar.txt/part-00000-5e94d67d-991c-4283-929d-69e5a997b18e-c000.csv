@@ -1,0 +1,5 @@
+org/hsqldb/server/ServerConnection/readNullTermdUTF(int,java.io.InputStream)@g_hsqldb-2.3.2.jar.txt	3
+org/hsqldb/util/DatabaseManagerSwing/addToRecent(java.lang.String)@g_hsqldb-2.3.1.jar.txt	4
+org/hsqldb/server/ServerConnection/init()@g_hsqldb-2.3.1.jar.txt	0
+org/hsqldb/server/ServerConnection/readNullTermdUTF(int,java.io.InputStream)@g_hsqldb-2.3.1.jar.txt	2
+org/hsqldb/server/ServerConnection/init()@g_hsqldb-2.3.2.jar.txt	1

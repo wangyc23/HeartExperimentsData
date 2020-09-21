@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/model/impl/LinkedHashModel/writeObject(java.io.ObjectOutputStream)@g_sesame-model-2.7.16.jar.txt	4
+org/eclipse/rdf4j/model/datatypes/XMLDatatypeUtil/normalizeFPNumber(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_sesame-model-2.7.16.jar.txt	2
+org/eclipse/rdf4j/model/util/Literals/createLiteral(org.eclipse.rdf4j.model.ValueFactory,java.lang.Object,boolean)@g_sesame-model-2.7.16.jar.txt	1
+org/openrdf/model/util/Literals/createLiteral(org.openrdf.model.ValueFactory,java.lang.Object,boolean)@g_sesame-model-2.7.16.jar.txt	0
+org/eclipse/rdf4j/model/util/RDFCollections/extract(org.eclipse.rdf4j.model.util.GetStatementOptional,org.eclipse.rdf4j.model.Resource,java.util.function.Consumer,java.util.function.Function,org.eclipse.rdf4j.model.Resource[])@g_sesame-model-2.7.16.jar.txt	3

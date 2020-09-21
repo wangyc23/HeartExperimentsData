@@ -1,0 +1,5 @@
+org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator/createCustomException(java.lang.String,java.lang.String,java.sql.SQLException,java.lang.Class)@g_spring-jdbc-4.1.6.RELEASE.jar.txt	0
+org/springframework/jdbc/core/metadata/GenericCallMetaDataProvider/initializeWithMetaData(java.sql.DatabaseMetaData)@g_spring-jdbc-4.1.6.RELEASE.jar.txt	3
+org/springframework/jdbc/core/metadata/Db2CallMetaDataProvider/initializeWithMetaData(java.sql.DatabaseMetaData)@g_spring-jdbc-4.1.6.RELEASE.jar.txt	4
+org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator/createCustomException(java.lang.String,java.lang.String,java.sql.SQLException,java.lang.Class)@g_spring-jdbc-4.0.7.RELEASE.jar.txt	1
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/processTableColumns(java.sql.DatabaseMetaData,org.springframework.jdbc.core.metadata.GenericTableMetaDataProvider$TableMetaData)@g_spring-jdbc-4.1.6.RELEASE.jar.txt	2

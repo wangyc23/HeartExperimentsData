@@ -1,0 +1,5 @@
+org/openrdf/query/parser/sparql/PrefixDeclProcessor/process(org.openrdf.query.parser.sparql.ast.ASTOperationContainer)@g_sesame-queryparser-sparql-2.7.9.jar.txt	1
+org/openrdf/query/parser/sparql/TupleExprBuilder/visit(org.openrdf.query.parser.sparql.ast.ASTSelectQuery,java.lang.Object)@g_sesame-queryparser-sparql-2.7.9.jar.txt	2
+org/openrdf/query/parser/sparql/TupleExprBuilder/visit(org.openrdf.query.parser.sparql.ast.ASTInlineData,java.lang.Object)@g_sesame-queryparser-sparql-2.7.9.jar.txt	0
+org/openrdf/query/parser/sparql/UpdateExprBuilder/visit(org.openrdf.query.parser.sparql.ast.ASTDeleteWhere,java.lang.Object)@g_sesame-queryparser-sparql-2.7.9.jar.txt	3
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/executeCreate(org.openrdf.query.algebra.Create,org.openrdf.sail.UpdateContext)@g_sesame-queryparser-sparql-2.7.9.jar.txt	4

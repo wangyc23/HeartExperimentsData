@@ -1,0 +1,4 @@
+java/lang/String/regionMatches(int,java.lang.String,int,int)
+java/lang/String/charAt(int)
+java/lang/String/length()
+java/lang/String/equals(java.lang.Object)

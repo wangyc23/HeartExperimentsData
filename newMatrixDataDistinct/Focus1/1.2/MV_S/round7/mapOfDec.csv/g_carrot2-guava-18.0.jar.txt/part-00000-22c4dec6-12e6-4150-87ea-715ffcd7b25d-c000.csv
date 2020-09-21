@@ -1,0 +1,5 @@
+org/springframework/core/SimpleAliasRegistry/resolveAliases(org.springframework.util.StringValueResolver)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	1
+org/springframework/core/type/classreading/AnnotationReadingVisitorUtils/getMergedAnnotationAttributes(org.springframework.util.LinkedMultiValueMap,java.util.Map,java.lang.String)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	4
+org/springframework/core/Constants/toCodeForSuffix(java.lang.Object,java.lang.String)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	3
+org/springframework/util/xml/StaxStreamHandler/startElementInternal(javax.xml.namespace.QName,org.xml.sax.Attributes,java.util.Map)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	0
+org/springframework/util/ClassUtils/<clinit>()@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	2

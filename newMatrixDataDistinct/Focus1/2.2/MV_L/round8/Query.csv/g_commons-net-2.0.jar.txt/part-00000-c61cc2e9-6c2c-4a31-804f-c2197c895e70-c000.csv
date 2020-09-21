@@ -1,0 +1,4 @@
+java/lang/String/length()
+java/lang/Character/isDigit(char)
+java/util/ArrayList/clear()
+java/util/ArrayList/add(java.lang.Object)

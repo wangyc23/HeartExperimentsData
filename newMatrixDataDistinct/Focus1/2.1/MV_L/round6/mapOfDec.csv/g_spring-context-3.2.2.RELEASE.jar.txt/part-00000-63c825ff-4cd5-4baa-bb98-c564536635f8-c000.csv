@@ -1,0 +1,5 @@
+org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader/loadBeanDefinitionsFromImportedResources(java.util.Map)@g_spring-context-4.0.0.RELEASE.jar.txt	0
+org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider/isCandidateComponent(org.springframework.core.type.classreading.MetadataReader)@g_spring-context-4.0.0.RELEASE.jar.txt	3
+org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader/loadBeanDefinitionsFromImportedResources(java.util.Map)@g_spring-context-4.0.6.RELEASE.jar.txt	1
+org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor/onApplicationEvent(org.springframework.context.event.ContextRefreshedEvent)@g_spring-context-4.0.0.RELEASE.jar.txt	2
+org/springframework/context/annotation/AnnotationBeanNameGenerator/determineBeanNameFromAnnotation(org.springframework.beans.factory.annotation.AnnotatedBeanDefinition)@g_spring-context-4.0.0.RELEASE.jar.txt	4

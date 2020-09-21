@@ -1,0 +1,5 @@
+org/osgi/framework/AdaptPermissionCollection/add(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	2
+org/osgi/framework/BundlePermissionCollection/add(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	4
+org/osgi/framework/ServicePermissionCollection/add(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	3
+org/osgi/framework/PackagePermissionCollection/add(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	0
+org/osgi/framework/CapabilityPermissionCollection/add(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	1

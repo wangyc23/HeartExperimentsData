@@ -1,0 +1,5 @@
+org/apache/maven/plugins/site/SiteRunMojo/createWebApplication()@g_maven-site-plugin-3.0.jar.txt	3
+org/apache/maven/plugins/site/SiteMojo/execute()@g_maven-site-plugin-3.0.jar.txt	0
+org/apache/maven/plugins/site/SiteMojo/renderLocale(java.util.Locale,java.util.List)@g_maven-site-plugin-3.0.jar.txt	4
+org/apache/maven/plugins/site/SiteDescriptorAttachMojo/execute()@g_maven-site-plugin-3.0.jar.txt	2
+org/apache/maven/plugins/site/render/SiteMojo/execute()@g_maven-site-plugin-3.4.jar.txt	1

@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/ComponentValueSetter/setValueUsingSetter(java.lang.Object)@g_guice-plexus-shim-2.3.0.jar.txt	4
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/getChildType(org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.Class,java.lang.ClassLoader)@g_guice-plexus-shim-2.3.0.jar.txt	1
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/newCollection(org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.ClassLoader)@g_guice-plexus-shim-2.3.0.jar.txt	0
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/newCollection(org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.ClassLoader)@g_sisu-inject-plexus-2.3.0.jar.txt	2
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/getChildType(org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.Class,java.lang.ClassLoader)@g_sisu-inject-plexus-2.3.0.jar.txt	3

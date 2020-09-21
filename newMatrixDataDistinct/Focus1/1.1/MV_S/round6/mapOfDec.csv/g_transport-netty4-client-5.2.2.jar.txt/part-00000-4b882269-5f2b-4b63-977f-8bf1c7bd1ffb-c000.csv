@@ -1,0 +1,5 @@
+org/elasticsearch/transport/netty3/Netty3Utils/<clinit>()@g_transport-netty3-client-5.2.2.jar.txt	3
+org/elasticsearch/http/netty3/Netty3HttpServerTransport/bindAddress(java.net.InetAddress)@g_transport-netty3-client-5.2.2.jar.txt	1
+org/neo4j/commandline/arguments/Arguments/description(java.lang.String)@g_transport-netty3-client-5.2.2.jar.txt	4
+org/elasticsearch/http/netty4/Netty4HttpServerTransport/bindAddress(java.net.InetAddress)@g_transport-netty3-client-5.2.2.jar.txt	2
+org/elasticsearch/transport/netty3/Netty3Utils/maybeDie(java.lang.Throwable)@g_transport-netty3-client-5.2.2.jar.txt	0

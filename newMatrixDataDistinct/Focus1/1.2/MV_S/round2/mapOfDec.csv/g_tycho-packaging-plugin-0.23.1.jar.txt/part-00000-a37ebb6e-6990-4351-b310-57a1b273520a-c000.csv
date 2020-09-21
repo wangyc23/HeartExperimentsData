@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getSystemProperties(java.io.File,java.lang.String)@g_maven-invoker-plugin-2.0.0.jar.txt	2
+org/eclipse/tycho/plugins/p2/publisher/PublishProductMojo/getExpandedLauncherBinaries()@g_tycho-p2-publisher-plugin-0.23.1.jar.txt	0
+org/apache/maven/plugin/invoker/InvokerProperties/configureInvocation(org.apache.maven.shared.invoker.InvocationRequest,int)@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/runBuilds(java.io.File,org.apache.maven.plugin.invoker.model.BuildJob[])@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/collectProjects(java.io.File,java.lang.String,java.util.Collection,boolean)@g_maven-invoker-plugin-2.0.0.jar.txt	3

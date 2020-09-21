@@ -1,0 +1,5 @@
+com/netflix/blitz4j/LoggingConfiguration/convertConfiguredAppendersToAsync(java.util.Properties)@g_blitz4j-1.36.0.jar.txt	4
+com/netflix/blitz4j/AsyncAppender/append(org.apache.log4j.spi.LoggingEvent)@g_blitz4j-1.36.0.jar.txt	1
+com/netflix/blitz4j/LoggingContext/getLocationInfo(java.lang.Class)@g_blitz4j-1.36.0.jar.txt	0
+com/netflix/blitz4j/AsyncAppender/LogSummary/createEvent()@g_blitz4j-1.36.0.jar.txt	2
+com/netflix/blitz4j/AsyncAppender/setOriginalAppenderName(java.lang.String)@g_blitz4j-1.36.0.jar.txt	3

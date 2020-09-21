@@ -1,0 +1,4 @@
+org/jboss/arquillian/container/spi/event/UnDeployManagedDeployments/UnDeployManagedDeployments()
+org/jboss/arquillian/container/spi/client/deployment/DeploymentDescription/getArchive()
+org/jboss/arquillian/container/spi/client/deployment/DeploymentDescription/getDescriptor()
+org/jboss/arquillian/container/spi/Container/setState(org.jboss.arquillian.container.spi.Container.State)

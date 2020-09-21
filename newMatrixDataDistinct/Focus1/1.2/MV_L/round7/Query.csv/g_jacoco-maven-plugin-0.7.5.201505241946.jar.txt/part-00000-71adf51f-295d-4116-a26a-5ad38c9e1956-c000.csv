@@ -1,0 +1,4 @@
+org/apache/maven/shared/model/fileset/util/FileSetManager/getIncludedFiles(org.apache.maven.shared.model.fileset.FileSet)
+java/lang/StringBuilder/append(java.lang.String)
+org/jacoco/core/tools/ExecFileLoader/load(java.io.File)
+java/util/Iterator/next()

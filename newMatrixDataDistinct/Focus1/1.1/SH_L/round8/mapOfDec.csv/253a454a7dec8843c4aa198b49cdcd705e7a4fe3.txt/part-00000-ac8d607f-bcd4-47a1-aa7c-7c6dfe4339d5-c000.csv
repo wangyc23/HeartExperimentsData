@@ -1,0 +1,5 @@
+org/whispersystems/textsecuregcm/controllers/FederationControllerV1/getKeysV1(org.whispersystems.textsecuregcm.federation.FederatedPeer,java.lang.String,java.lang.String)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	3
+org/whispersystems/textsecuregcm/tests/controllers/KeyControllerTest/unauthorizedRequestTestV1()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	2
+org/whispersystems/textsecuregcm/storage/PubSubProtos/PubSubMessage/Builder/setType(org.whispersystems.textsecuregcm.storage.PubSubProtos.PubSubMessage.Type)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	1
+org/whispersystems/textsecuregcm/entities/MessageProtos/Envelope/Builder/clearContent()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	4
+org/wso2/jaggery/integration/tests/hostObjects/core/HttpClientTestCase/testHttpClientPut()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0

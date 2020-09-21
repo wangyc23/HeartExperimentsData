@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/codehaus/jackson/type/JavaType/getValueHandler()
+org/codehaus/jackson/type/JavaType/getTypeHandler()
+java/lang/StringBuilder/StringBuilder()

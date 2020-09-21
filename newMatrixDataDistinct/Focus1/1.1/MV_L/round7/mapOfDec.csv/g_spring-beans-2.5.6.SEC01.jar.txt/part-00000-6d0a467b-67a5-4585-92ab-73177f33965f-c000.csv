@@ -1,0 +1,5 @@
+org/springframework/beans/factory/support/DefaultListableBeanFactory/resolveDependency(org.springframework.beans.factory.config.DependencyDescriptor,java.lang.String,java.util.Set,org.springframework.beans.TypeConverter)@g_spring-beans-2.5.6.jar.txt	1
+org/springframework/aop/scope/ScopedProxyFactoryBean/setBeanFactory(org.springframework.beans.factory.BeanFactory)@g_spring-2.5.6.jar.txt	3
+org/springframework/beans/propertyeditors/CustomMapEditor/createMap(java.lang.Class,int)@g_spring-beans-2.5.6.jar.txt	0
+org/springframework/beans/propertyeditors/CustomCollectionEditor/createCollection(java.lang.Class,int)@g_spring-beans-2.5.6.jar.txt	2
+org/springframework/aop/framework/Cglib2AopProxy/ProxyCallbackFilter/accept(java.lang.reflect.Method)@g_spring-2.5.6.jar.txt	4

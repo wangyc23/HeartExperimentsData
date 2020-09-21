@@ -1,0 +1,5 @@
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	1
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	0
+org/springframework/jms/listener/DefaultMessageListenerContainer/scheduleNewInvokerIfAppropriate()@g_spring-2.5.6.jar.txt	4
+org/springframework/context/support/ResourceBundleMessageSource/getResourceBundle(java.lang.String,java.util.Locale)@g_spring-2.5.6.jar.txt	2
+org/apache/hadoop/crypto/CryptoInputStream/read(java.nio.ByteBuffer)@g_spring-2.5.6.jar.txt	3

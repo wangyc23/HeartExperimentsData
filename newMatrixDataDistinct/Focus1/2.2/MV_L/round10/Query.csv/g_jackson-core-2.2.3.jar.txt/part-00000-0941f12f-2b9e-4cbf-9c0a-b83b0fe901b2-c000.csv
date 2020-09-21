@@ -1,0 +1,4 @@
+com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer$Bucket/getNext()
+java/lang/Math/max(int,int)
+java/lang/StringBuilder/append(int)
+com/fasterxml/jackson/core/sym/CharsToNameCanonicalizer$Bucket/Bucket(java.lang.String,com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket)

@@ -1,0 +1,5 @@
+org/apache/maven/project/ModelUtils/cloneExecutions(java.util.List)@g_maven-project-2.0.7.jar.txt	3
+org/apache/maven/project/ModelUtils/cloneProfileResources(java.util.List)@g_maven-project-2.0.7.jar.txt	4
+org/apache/maven/project/artifact/MavenMetadataSource/createArtifacts(org.apache.maven.artifact.factory.ArtifactFactory,java.util.List,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.project.MavenProject)@g_maven-project-2.0.7.jar.txt	2
+org/apache/maven/model/validation/DefaultModelValidator/validateEffectiveModel(org.apache.maven.model.Model,org.apache.maven.model.building.ModelBuildingRequest,org.apache.maven.model.building.ModelProblemCollector)@g_maven-model-builder-3.0.5.jar.txt	1
+org/apache/maven/model/building/DefaultModelBuilder/checkPluginVersions(java.util.List,org.apache.maven.model.building.ModelBuildingRequest,org.apache.maven.model.building.ModelProblemCollector)@g_maven-model-builder-3.0.5.jar.txt	0

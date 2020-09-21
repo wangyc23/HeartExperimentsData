@@ -1,0 +1,5 @@
+org/apache/lucene/queries/function/valuesource/TotalTermFreqValueSource/createWeight(java.util.Map,org.apache.lucene.search.IndexSearcher)@g_lucene-queries-7.0.0.jar.txt	1
+org/apache/lucene/queries/function/valuesource/ScaleFloatFunction/createScaleInfo(java.util.Map,org.apache.lucene.index.LeafReaderContext)@g_lucene-queries-7.0.0.jar.txt	4
+org/apache/lucene/queries/function/valuesource/TotalTermFreqValueSource/createWeight(java.util.Map,org.apache.lucene.search.IndexSearcher)@g_lucene-queries-6.5.0.jar.txt	0
+org/apache/lucene/queries/function/valuesource/SumTotalTermFreqValueSource/createWeight(java.util.Map,org.apache.lucene.search.IndexSearcher)@g_lucene-queries-6.5.0.jar.txt	3
+org/apache/lucene/queries/function/valuesource/ScaleFloatFunction/createScaleInfo(java.util.Map,org.apache.lucene.index.LeafReaderContext)@g_lucene-queries-6.5.0.jar.txt	2

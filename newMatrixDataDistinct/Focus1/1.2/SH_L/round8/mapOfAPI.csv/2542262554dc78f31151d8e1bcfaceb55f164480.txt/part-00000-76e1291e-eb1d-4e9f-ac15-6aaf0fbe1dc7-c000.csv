@@ -1,0 +1,7 @@
+0	org/commonjava/maven/galley/io/checksum/AbstractChecksumGenerator/getDigestHex()
+1	org/commonjava/maven/galley/io/checksum/AbstractChecksumGenerator/getDigestType()
+2	java/io/PrintStream/println(java.lang.String)
+3	org/commonjava/maven/galley/io/checksum/TransferMetadata/TransferMetadata(java.util.Map,java.lang.Long)
+4	org/baeldung/persistence/model/Foo/getId()
+5	org/commonjava/maven/galley/model/Transfer/getLocation()
+6	org/baeldung/persistence/model/Foo/getName()

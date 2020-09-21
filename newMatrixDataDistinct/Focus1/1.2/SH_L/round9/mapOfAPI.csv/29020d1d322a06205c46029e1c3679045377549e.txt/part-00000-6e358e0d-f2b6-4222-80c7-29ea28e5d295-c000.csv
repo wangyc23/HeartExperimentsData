@@ -1,0 +1,4 @@
+0	com/github/dockerjava/api/command/LogContainerCmd/withStdOut()
+1	com/github/dockerjava/api/DockerClient/logContainerCmd(java.lang.String)
+2	com/github/dockerjava/api/command/LogContainerCmd/withStdErr()
+3	org/testng/Assert/fail(java.lang.String)

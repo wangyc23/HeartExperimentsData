@@ -1,0 +1,5 @@
+com/netflix/loadbalancer/Server/getHostPort(java.lang.String)@g_ribbon-loadbalancer-2.1.0.jar.txt	2
+com/netflix/loadbalancer/reactive/ExecutionContextListenerInvoker/isListenerDisabled(com.netflix.loadbalancer.reactive.ExecutionListener)@g_ribbon-loadbalancer-2.1.0.jar.txt	4
+com/netflix/niws/loadbalancer/DiscoveryEnabledNIWSServerList/initWithNiwsConfig(com.netflix.client.config.IClientConfig)@g_ribbon-loadbalancer-2.1.0.jar.txt	0
+com/netflix/loadbalancer/WeightedResponseTimeRule/ServerWeight/maintainWeights()@g_ribbon-loadbalancer-2.1.0.jar.txt	3
+com/netflix/loadbalancer/LoadBalancerContext/getServerFromLoadBalancer(java.net.URI,java.lang.Object)@g_ribbon-loadbalancer-2.1.0.jar.txt	1

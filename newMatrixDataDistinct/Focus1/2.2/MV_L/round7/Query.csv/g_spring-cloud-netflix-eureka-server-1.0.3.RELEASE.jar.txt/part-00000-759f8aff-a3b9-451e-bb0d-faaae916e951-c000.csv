@@ -1,0 +1,4 @@
+com/netflix/appinfo/InstanceInfo/getStatus()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+com/netflix/appinfo/DataCenterInfo/getName()
+com/netflix/eureka/util/StatusInfo/getInstanceInfo()

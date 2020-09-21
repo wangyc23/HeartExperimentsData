@@ -1,0 +1,5 @@
+org/apache/mahout/math/map/AbstractByteObjectMap/pairsSortedByValue(org.apache.mahout.math.list.ByteArrayList,java.util.List)@g_mahout-collections-1.0.jar.txt	3
+org/apache/mahout/math/map/AbstractDoubleObjectMap/pairsSortedByValue(org.apache.mahout.math.list.DoubleArrayList,java.util.List)@g_mahout-collections-1.0.jar.txt	2
+com/netflix/eventbus/impl/EventBusImpl/3/load(java.lang.Class)@g_netflix-eventbus-0.1.2.jar.txt	0
+org/apache/mahout/math/map/AbstractIntObjectMap/pairsSortedByValue(org.apache.mahout.math.list.IntArrayList,java.util.List)@g_mahout-collections-1.0.jar.txt	1
+org/apache/mahout/math/map/AbstractCharObjectMap/pairsSortedByValue(org.apache.mahout.math.list.CharArrayList,java.util.List)@g_mahout-collections-1.0.jar.txt	4

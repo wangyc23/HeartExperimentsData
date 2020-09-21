@@ -1,0 +1,4 @@
+java/lang/IllegalArgumentException/printStackTrace()
+java/util/Map/get(java.lang.Object)
+java/util/List/get(int)
+java/lang/Object/getClass()

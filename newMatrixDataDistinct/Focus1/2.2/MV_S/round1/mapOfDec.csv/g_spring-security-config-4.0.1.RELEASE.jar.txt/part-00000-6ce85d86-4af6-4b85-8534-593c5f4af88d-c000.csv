@@ -1,0 +1,5 @@
+org/springframework/integration/handler/ExpressionCommandMessageProcessor/ExpressionCommandMethodResolver/validateMethod(java.lang.Object,java.lang.String,int)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	1
+org/springframework/integration/handler/DelayHandler/determineDelayForMessage(org.springframework.messaging.Message)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	0
+org/springframework/integration/aggregator/DefaultAggregatingMessageGroupProcessor/aggregatePayloads(org.springframework.integration.store.MessageGroup,java.util.Map)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	2
+org/springframework/integration/util/MessagingMethodInvokerHelper/findHandlerMethodsForTarget(java.lang.Object,java.lang.Class,java.lang.String,boolean)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	4
+org/springframework/integration/handler/advice/ErrorMessageSendingRecoverer/recover(org.springframework.retry.RetryContext)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	3

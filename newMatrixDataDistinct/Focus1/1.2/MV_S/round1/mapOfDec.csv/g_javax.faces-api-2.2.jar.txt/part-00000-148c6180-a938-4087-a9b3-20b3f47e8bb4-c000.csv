@@ -1,0 +1,5 @@
+javax/faces/component/html/HtmlHead/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	0
+javax/faces/component/html/HtmlDataTable/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	4
+javax/faces/component/html/HtmlDoctype/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	3
+javax/faces/component/html/HtmlPanelGroup/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	1
+javax/faces/component/html/HtmlForm/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	2

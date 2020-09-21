@@ -1,0 +1,5 @@
+liquibase/snapshot/jvm/JdbcDatabaseSnapshotGenerator/readIndexes(liquibase.snapshot.DatabaseSnapshot,java.lang.String,java.sql.DatabaseMetaData)@g_liquibase-core-2.0.5.jar.txt	1
+liquibase/integration/commandline/Main/parsePropertiesFile(java.io.InputStream)@g_liquibase-core-2.0.5.jar.txt	0
+liquibase/serializer/core/xml/XMLChangeLogSerializer/nodeToStringBuffer(org.w3c.dom.Node,java.lang.StringBuffer)@g_liquibase-core-2.0.5.jar.txt	4
+liquibase/snapshot/jvm/SQLiteDatabaseSnapshotGenerator/readIndexes(liquibase.snapshot.DatabaseSnapshot,java.lang.String,java.sql.DatabaseMetaData)@g_liquibase-core-2.0.5.jar.txt	2
+liquibase/integration/commandline/Main/doMigration()@g_liquibase-core-2.0.5.jar.txt	3

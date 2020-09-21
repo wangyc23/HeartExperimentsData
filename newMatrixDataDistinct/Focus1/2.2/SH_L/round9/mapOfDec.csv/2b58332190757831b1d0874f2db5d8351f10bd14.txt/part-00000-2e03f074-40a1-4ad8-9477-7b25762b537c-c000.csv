@@ -1,0 +1,5 @@
+org/keycloak/testsuite/oauth/ServiceAccountTest/changeClientIdTest()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	0
+org/keycloak/testsuite/oauth/ClientAuthSignedJWTTest/testDirectGrantRequest()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	1
+org/keycloak/saml/processing/core/saml/v1/writers/SAML11AssertionWriter/write(org.keycloak.dom.saml.v1.assertion.SAML11AssertionType)@0ff77af8ffc119f66c977b6502086496f855f94e.txt	2
+org/keycloak/testsuite/oauth/ClientAuthSignedJWTTest/testServiceAccountAndLogoutSuccess()@0ff77af8ffc119f66c977b6502086496f855f94e.txt	3
+org/keycloak/adapters/tomcat/CatalinaSessionTokenStore/cleanSession(org.keycloak.adapters.tomcat.Session)@0ff77af8ffc119f66c977b6502086496f855f94e.txt	4

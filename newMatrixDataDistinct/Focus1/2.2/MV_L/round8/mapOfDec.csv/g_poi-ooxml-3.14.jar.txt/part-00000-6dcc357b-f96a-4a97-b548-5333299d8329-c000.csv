@@ -1,0 +1,5 @@
+org/apache/poi/xssf/usermodel/XSSFWorkbook/getUniqueSheetName(java.lang.String)@g_poi-ooxml-3.17.jar.txt	3
+org/apache/poi/xssf/usermodel/XSSFSheet/setMargin(short,double)@g_poi-ooxml-3.17.jar.txt	4
+org/apache/poi/xdgf/usermodel/XDGFMasters/onDocumentRead()@g_poi-ooxml-3.17.jar.txt	1
+org/apache/poi/xwpf/usermodel/XWPFRun/getCTPictures(org.apache.xmlbeans.XmlObject)@g_poi-ooxml-3.17.jar.txt	2
+org/apache/poi/xdgf/usermodel/XDGFPages/onDocumentRead()@g_poi-ooxml-3.17.jar.txt	0

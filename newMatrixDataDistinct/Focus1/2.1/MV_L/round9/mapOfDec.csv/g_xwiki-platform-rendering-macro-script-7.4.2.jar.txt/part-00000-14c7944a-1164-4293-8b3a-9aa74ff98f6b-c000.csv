@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/macro/script/DefaultAttachmentClassLoaderFactory/extractURIs(java.lang.String)@g_xwiki-platform-rendering-macro-script-7.4.jar.txt	4
+org/xwiki/rendering/internal/macro/script/DefaultAttachmentClassLoaderFactory/extendAttachmentClassLoader(java.lang.String,org.xwiki.classloader.ExtendedURLClassLoader)@g_xwiki-platform-rendering-macro-script-7.0.jar.txt	1
+org/xwiki/rendering/internal/macro/script/DefaultAttachmentClassLoaderFactory/extendAttachmentClassLoader(java.lang.String,org.xwiki.classloader.ExtendedURLClassLoader)@g_xwiki-platform-rendering-macro-script-7.4.jar.txt	0
+org/xwiki/rendering/internal/macro/script/NestedScriptMacroValidatorListener/check(org.xwiki.observation.event.CancelableEvent,org.xwiki.rendering.transformation.MacroTransformationContext,org.xwiki.rendering.macro.script.ScriptMacroParameters)@g_xwiki-platform-rendering-macro-script-7.4.jar.txt	3
+org/xwiki/rendering/macro/script/AbstractScriptMacro/execute(org.xwiki.rendering.macro.script.ScriptMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-rendering-macro-script-7.4.jar.txt	2

@@ -1,0 +1,5 @@
+org/neo4j/index/impl/lucene/FullTxData/injectOrphans(org.apache.lucene.search.Query)@g_jena-text-3.0.0.jar.txt	2
+org/neo4j/index/impl/lucene/IndexType/CustomType/removeFieldsFromDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)@g_jena-text-3.0.0.jar.txt	1
+org/apache/jena/query/text/assembler/TextDatasetAssembler/open(org.apache.jena.assembler.Assembler,org.apache.jena.rdf.model.Resource,org.apache.jena.assembler.Mode)@g_jena-text-3.0.0.jar.txt	4
+org/apache/jena/query/text/DatasetGraphText/commit()@g_jena-text-3.0.0.jar.txt	0
+examples/JenaTextExample1/loadData(org.apache.jena.query.Dataset,java.lang.String)@g_jena-text-3.0.0.jar.txt	3

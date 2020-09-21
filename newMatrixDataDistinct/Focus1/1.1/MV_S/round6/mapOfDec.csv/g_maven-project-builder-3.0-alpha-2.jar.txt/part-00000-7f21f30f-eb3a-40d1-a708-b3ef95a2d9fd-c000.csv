@@ -1,0 +1,5 @@
+org/apache/maven/project/artifact/MavenMetadataSource/createArtifacts(org.apache.maven.artifact.factory.ArtifactFactory,java.util.List,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.project.MavenProject)@g_maven-project-3.0-alpha-2.jar.txt	4
+org/apache/maven/project/builder/Interpolator/interpolateModelProperties(java.util.List,java.util.List,org.apache.maven.project.builder.PomClassicDomainModel)@g_maven-project-3.0-alpha-2.jar.txt	0
+org/apache/maven/project/builder/profile/JdkMatcher/isMatch(org.apache.maven.shared.model.ModelContainer,java.util.List)@g_maven-project-3.0-alpha-2.jar.txt	3
+org/apache/maven/profiles/io/xpp3/ProfilesXpp3Reader/parseRepository(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-project-3.0-alpha-2.jar.txt	2
+org/apache/maven/project/MavenProject/getTestDependencies()@g_maven-project-3.0-alpha-2.jar.txt	1

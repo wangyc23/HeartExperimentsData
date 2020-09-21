@@ -1,0 +1,4 @@
+org/hibernate/Transaction/commit()
+main/java/com/cart/bookmark/Bookmark/setFolderId(java.lang.String)
+org/hibernate/Transaction/rollback()
+java/io/PrintStream/println(java.lang.Object)

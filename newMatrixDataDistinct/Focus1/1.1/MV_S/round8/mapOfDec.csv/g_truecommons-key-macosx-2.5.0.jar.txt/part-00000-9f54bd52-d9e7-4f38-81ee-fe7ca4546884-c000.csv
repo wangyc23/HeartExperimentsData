@@ -1,0 +1,5 @@
+be/frma/langguess/GenProfile/generate(java.lang.String,java.io.File)@g_jwordsplitter-4.1.jar.txt	3
+com/cybozu/labs/langdetect/CommandLineInterface/detectLang()@g_jwordsplitter-4.1.jar.txt	0
+com/cybozu/labs/langdetect/util/Util/unicodeEncode(java.lang.String)@g_jwordsplitter-4.1.jar.txt	4
+net/java/truecommons/key/macosx/keychain/KeychainUtils/list(net.java.truecommons.shed.Option)@g_jwordsplitter-4.1.jar.txt	2
+de/danielnaber/jwordsplitter/converter/ExportDict/main(java.lang.String[])@g_jwordsplitter-4.1.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/surefire/report/SmartStackTraceParser/toString(java.lang.Throwable,java.lang.Iterable)@g_surefire-junit4-2.17.jar.txt	1
+org/apache/maven/surefire/junit4/JUnit4Provider/invoke(java.lang.Object)@g_surefire-junit4-2.17.jar.txt	0
+edu/emory/mathcs/backport/java/util/concurrent/AbstractExecutorService/invokeAll(java.util.Collection,long,edu.emory.mathcs.backport.java.util.concurrent.TimeUnit)@g_surefire-junit4-2.17.jar.txt	2
+org/apache/maven/surefire/junit/PojoTestSet/executeTestMethod(java.lang.reflect.Method,java.lang.Object[],org.apache.maven.surefire.report.RunListener)@g_surefire-junit4-2.17.jar.txt	3
+edu/emory/mathcs/backport/java/util/concurrent/CopyOnWriteArrayList/COWSubList/addAll(int,java.util.Collection)@g_surefire-junit4-2.17.jar.txt	4

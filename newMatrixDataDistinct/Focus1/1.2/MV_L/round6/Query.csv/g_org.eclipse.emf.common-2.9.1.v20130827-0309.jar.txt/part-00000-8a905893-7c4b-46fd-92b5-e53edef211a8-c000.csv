@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/net/URL/toString()
+java/net/URL/URL(java.lang.String)
+java/lang/Class/getResource(java.lang.String)

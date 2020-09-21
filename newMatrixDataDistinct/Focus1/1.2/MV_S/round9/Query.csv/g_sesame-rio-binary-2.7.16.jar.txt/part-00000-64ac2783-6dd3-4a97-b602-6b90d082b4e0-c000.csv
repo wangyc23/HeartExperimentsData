@@ -1,0 +1,4 @@
+org/openrdf/rio/RDFHandler/startRDF()
+org/openrdf/rio/RDFHandler/endRDF()
+java/lang/StringBuilder/append(java.lang.String)
+java/io/DataInputStream/DataInputStream(java.io.InputStream)

@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/transformation/macro/MacroErrorManager/containsError(org.xwiki.rendering.block.XDOM)@g_xwiki-rendering-transformation-macro-7.0.jar.txt	4
+org/xwiki/rendering/internal/transformation/macro/MacroErrorManager/generateError(org.xwiki.rendering.block.MacroBlock,java.lang.String,java.lang.String)@g_xwiki-rendering-transformation-macro-7.0.jar.txt	0
+org/xwiki/rendering/internal/transformation/macro/MacroTransformation/transform(org.xwiki.rendering.block.Block,org.xwiki.rendering.transformation.TransformationContext)@g_xwiki-rendering-transformation-macro-7.4.2.jar.txt	3
+org/xwiki/rendering/internal/transformation/macro/MacroErrorManager/generateError(org.xwiki.rendering.block.MacroBlock,java.lang.String,java.lang.String)@g_xwiki-rendering-transformation-macro-7.4.2.jar.txt	2
+org/xwiki/rendering/internal/transformation/macro/MacroTransformation/transform(org.xwiki.rendering.block.Block,org.xwiki.rendering.transformation.TransformationContext)@g_xwiki-rendering-transformation-macro-7.0.jar.txt	1

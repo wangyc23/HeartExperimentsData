@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/block/BlockMatcherConverter/convertToType(java.lang.reflect.Type,java.lang.Object)@g_xwiki-rendering-api-7.4.jar.txt	3
+org/xwiki/rendering/internal/block/ProtectedBlockFilter/getChildrenByType(org.xwiki.rendering.block.Block,java.lang.Class,boolean)@g_xwiki-rendering-api-7.4.jar.txt	2
+org/xwiki/test/jmock/AbstractMockingComponentTestCase/registerMockDependencies(org.xwiki.component.descriptor.ComponentDescriptor,java.util.List)@g_xwiki-commons-tool-test-component-7.4.2.jar.txt	0
+org/xwiki/rendering/block/PlainTextBlockFilter/filter(org.xwiki.rendering.block.Block)@g_xwiki-rendering-api-7.4.jar.txt	1
+org/xwiki/component/annotation/ComponentDescriptorFactory/createComponentDescriptor(java.lang.Class,java.lang.String,java.lang.reflect.Type)@g_xwiki-commons-tool-test-component-7.4.2.jar.txt	4

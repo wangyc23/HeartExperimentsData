@@ -1,0 +1,4 @@
+java/net/URLClassLoader/getURLs()
+java/io/File/isDirectory()
+java/net/URL/toString()
+java/lang/StringBuilder/append(java.lang.String)

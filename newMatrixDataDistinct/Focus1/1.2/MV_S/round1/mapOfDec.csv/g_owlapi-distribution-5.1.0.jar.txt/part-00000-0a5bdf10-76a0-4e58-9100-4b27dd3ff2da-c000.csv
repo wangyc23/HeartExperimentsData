@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rdf/rdfxml/parser/OWLRDFConsumer/translateDataRange(org.semanticweb.owlapi.model.IRI)@g_owlapi-parsers-4.5.0.jar.txt	2
+org/semanticweb/owlapi/rdf/model/RDFGraph/rebuildAnonRoots()@g_owlapi-parsers-4.5.0.jar.txt	3
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLSubClassOfAxiom)@g_owlapi-oboformat-5.1.0.jar.txt	0
+org/obolibrary/macro/MacroExpansionVisitor/MacroExpansions/expand(org.semanticweb.owlapi.model.OWLAnnotationAssertionAxiom)@g_owlapi-oboformat-5.1.0.jar.txt	1
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseClassAxiomRemainder(org.semanticweb.owlapi.model.OWLClassExpression)@g_owlapi-parsers-4.5.0.jar.txt	4

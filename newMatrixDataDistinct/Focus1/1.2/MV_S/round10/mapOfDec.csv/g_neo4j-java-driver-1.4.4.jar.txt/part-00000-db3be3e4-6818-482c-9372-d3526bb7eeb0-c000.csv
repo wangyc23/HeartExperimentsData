@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/util/ArrayMap/synchronizedRemove(java.lang.Object)@g_neo4j-kernel-2.1.7.jar.txt	1
+org/neo4j/helpers/collection/MapUtil/approximatelyEqual(java.util.Map,java.util.Map,double)@g_neo4j-kernel-2.1.7.jar.txt	2
+org/neo4j/graphdb/factory/GraphDatabaseBuilder/loadPropertiesFromURL(java.net.URL)@g_neo4j-kernel-2.1.7.jar.txt	4
+org/apache/sis/storage/StorageConnector/closeAllExcept(java.lang.Object)@g_sis-storage-0.6.jar.txt	3
+org/neo4j/kernel/impl/util/ArrayMap/remove(java.lang.Object)@g_neo4j-kernel-2.1.7.jar.txt	0

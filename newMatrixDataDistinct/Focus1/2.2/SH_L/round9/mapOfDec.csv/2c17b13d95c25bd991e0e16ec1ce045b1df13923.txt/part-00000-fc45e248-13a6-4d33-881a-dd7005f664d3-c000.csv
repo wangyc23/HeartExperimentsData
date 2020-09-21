@@ -1,0 +1,5 @@
+org/springframework/boot/builder/SpringApplicationBuilderTests/initializersCreatedOnce()@036b90f6faa64a672155458543153890c21b0ebe.txt	0
+org/springframework/boot/builder/SpringApplicationBuilderTests/initializersIncludeDefaults()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	4
+org/springframework/boot/builder/SpringApplicationBuilderTests/initializersIncludeDefaults()@036b90f6faa64a672155458543153890c21b0ebe.txt	1
+org/springframework/boot/builder/SpringApplicationBuilderTests/initializersCreatedOnceForChild()@036b90f6faa64a672155458543153890c21b0ebe.txt	2
+org/springframework/boot/builder/SpringApplicationBuilderTests/initializersCreatedOnce()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	3

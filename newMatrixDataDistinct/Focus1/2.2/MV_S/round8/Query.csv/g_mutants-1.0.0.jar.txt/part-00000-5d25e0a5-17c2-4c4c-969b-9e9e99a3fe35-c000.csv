@@ -1,0 +1,4 @@
+org/eclipse/emf/ecore/EStructuralFeature/getUpperBound()
+org/eclipse/emf/ecore/EClassifier/getName()
+org/eclipse/emf/ecore/EStructuralFeature/getName()
+org/eclipse/emf/ecore/EStructuralFeature/getEType()

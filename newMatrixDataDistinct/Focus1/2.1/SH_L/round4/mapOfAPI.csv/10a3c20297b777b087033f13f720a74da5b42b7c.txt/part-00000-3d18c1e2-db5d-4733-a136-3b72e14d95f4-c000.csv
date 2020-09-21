@@ -1,0 +1,3 @@
+0	br/com/ufra/entidade/Vistoria/getDataVistoria()
+1	br/com/ufra/dao/GenericDAOImpl/excluir(T)
+2	br/com/syspartenon/partenon/domain/Usuario/Usuario()

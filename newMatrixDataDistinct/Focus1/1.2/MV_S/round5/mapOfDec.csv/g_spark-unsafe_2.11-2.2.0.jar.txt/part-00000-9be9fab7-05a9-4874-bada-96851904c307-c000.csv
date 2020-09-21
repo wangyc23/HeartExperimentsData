@@ -1,0 +1,5 @@
+org/apache/spark/unsafe/types/UTF8String/translate(java.util.Map)@g_plexus-i18n-1.0-beta-6.jar.txt	1
+org/apache/spark/unsafe/types/CalendarInterval/fromDayTimeString(java.lang.String)@g_plexus-i18n-1.0-beta-6.jar.txt	4
+org/codehaus/plexus/i18n/DefaultI18N/getBundle(java.lang.String,java.util.Locale)@g_plexus-i18n-1.0-beta-6.jar.txt	3
+org/neo4j/unsafe/impl/internal/dragons/UnsafeUtil/<clinit>()@g_neo4j-unsafe-2.2.1.jar.txt	0
+org/neo4j/unsafe/impl/internal/dragons/UnsafeUtil/<clinit>()@g_plexus-i18n-1.0-beta-6.jar.txt	2

@@ -1,0 +1,4 @@
+org/antlr/runtime/tree/TreeAdaptor/becomeRoot(java.lang.Object,java.lang.Object)
+org/antlr/runtime/tree/TreeAdaptor/setTokenBoundaries(java.lang.Object,org.antlr.runtime.Token,org.antlr.runtime.Token)
+com/netflix/infix/lang/infix/antlr/EventFilterParser/pushFollow(org.antlr.runtime.BitSet)
+org/antlr/runtime/tree/TreeAdaptor/nil()

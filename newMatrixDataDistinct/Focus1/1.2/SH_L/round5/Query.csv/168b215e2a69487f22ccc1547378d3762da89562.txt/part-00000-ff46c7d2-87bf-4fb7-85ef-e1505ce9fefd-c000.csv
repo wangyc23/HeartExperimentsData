@@ -1,0 +1,4 @@
+javax/net/ssl/KeyManagerFactory/getInstance(java.lang.String)
+javax/net/ssl/KeyManagerFactory/getKeyManagers()
+javax/net/ssl/KeyManagerFactory/getInstance(java.lang.String,java.lang.String)
+javax/net/ssl/KeyManagerFactory/init(java.security.KeyStore,char[])

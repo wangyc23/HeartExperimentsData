@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/lang/Thread/currentThread()
+java/lang/Thread/getContextClassLoader()
+java/lang/reflect/Method/invoke(java.lang.Object,java.lang.Object[])

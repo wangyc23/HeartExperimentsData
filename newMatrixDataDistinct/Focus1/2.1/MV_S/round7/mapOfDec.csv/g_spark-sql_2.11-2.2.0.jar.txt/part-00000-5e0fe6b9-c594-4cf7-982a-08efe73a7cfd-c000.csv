@@ -1,0 +1,5 @@
+org/apache/spark/sql/execution/QueryExecution/completeString(boolean)@g_spark-catalyst_2.11-2.2.0.jar.txt	2
+org/apache/spark/sql/catalyst/expressions/codegen/GenerateUnsafeProjection/org$apache$spark$sql$catalyst$expressions$codegen$GenerateUnsafeProjection$$writeStructToBuffer(org.apache.spark.sql.catalyst.expressions.codegen.CodegenContext,java.lang.String,scala.collection.Seq,java.lang.String)@g_spark-catalyst_2.11-2.2.0.jar.txt	3
+org/apache/spark/sql/catalyst/plans/QueryPlan/anonfun/generateEquivalentConstraintClasses/1/apply(org.apache.spark.sql.catalyst.expressions.Expression)@g_spark-catalyst_2.11-2.2.0.jar.txt	4
+org/apache/spark/sql/catalyst/analysis/Analyzer/ResolveAggregateFunctions/anonfun/apply/21/anonfun/6/applyOrElse(org.apache.spark.sql.catalyst.expressions.Expression,scala.Function1)@g_spark-catalyst_2.11-2.2.0.jar.txt	1
+org/apache/spark/sql/execution/SparkSqlAstBuilder/anonfun/visitAddTablePartition/1/anonfun/21/apply(org.apache.spark.sql.catalyst.parser.SqlBaseParser$PartitionSpecLocationContext)@g_spark-catalyst_2.11-2.2.0.jar.txt	0

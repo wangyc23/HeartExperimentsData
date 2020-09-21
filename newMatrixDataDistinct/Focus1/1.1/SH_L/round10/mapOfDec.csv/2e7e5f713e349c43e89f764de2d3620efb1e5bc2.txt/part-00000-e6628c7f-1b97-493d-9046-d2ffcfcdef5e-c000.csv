@@ -1,0 +1,5 @@
+io/undertow/server/handlers/encoding/ContentEncodingRepository/addEncodingHandler(java.lang.String,io.undertow.server.handlers.encoding.ContentEncodingProvider,int,io.undertow.predicate.Predicate)@09a546f46ed58be5555260f83b37e7804915f084.txt	2
+io/undertow/protocols/http2/Http2DataStreamSinkChannel/createFrameHeaderImpl()@09a546f46ed58be5555260f83b37e7804915f084.txt	3
+io/undertow/server/handlers/JDBCLogDatabaseTestCase/testSingleLogMessageToDatabase()@09a546f46ed58be5555260f83b37e7804915f084.txt	1
+io/undertow/server/handlers/JDBCLogDatabaseTestCase/testLogLotsOfThreadsToDatabase()@09a546f46ed58be5555260f83b37e7804915f084.txt	0
+io/undertow/security/impl/SimpleNonceManager/getDigest(java.lang.String)@09a546f46ed58be5555260f83b37e7804915f084.txt	4

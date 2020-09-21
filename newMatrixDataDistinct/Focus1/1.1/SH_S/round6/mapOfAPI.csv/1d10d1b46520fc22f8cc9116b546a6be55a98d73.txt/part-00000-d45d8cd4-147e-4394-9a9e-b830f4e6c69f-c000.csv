@@ -1,0 +1,5 @@
+0	java/lang/Object/toString()
+1	java8/Java8Main/print(java8.Java8Main.Printer,java.lang.String)
+2	java/io/PrintStream/println(java.lang.String)
+3	redis/AbstractTest/getJedis()
+4	webService/clent/SayHiService/updateHello(webService.clent.Hello)

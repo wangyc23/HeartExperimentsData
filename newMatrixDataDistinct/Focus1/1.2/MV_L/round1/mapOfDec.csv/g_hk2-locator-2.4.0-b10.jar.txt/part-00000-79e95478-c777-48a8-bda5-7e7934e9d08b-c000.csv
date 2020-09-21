@@ -1,0 +1,5 @@
+org/jvnet/hk2/internal/ServiceLocatorImpl/<clinit>()@g_hk2-locator-2.4.0-b25.jar.txt	0
+org/jvnet/hk2/internal/ServiceLocatorImpl/shutdown()@g_hk2-locator-2.4.0-b25.jar.txt	4
+org/jvnet/hk2/internal/ServiceLocatorImpl/removeConfigurationInternal(java.util.List)@g_hk2-locator-2.4.0-b25.jar.txt	2
+org/jvnet/hk2/internal/SystemInjecteeImpl/toString()@g_hk2-locator-2.4.0-b25.jar.txt	1
+org/jvnet/hk2/internal/ServiceLocatorImpl/addConfigurationInternal(org.jvnet.hk2.internal.DynamicConfigurationImpl)@g_hk2-locator-2.4.0-b25.jar.txt	3

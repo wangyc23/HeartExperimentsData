@@ -1,0 +1,4 @@
+java/util/Hashtable/keySet()
+java/util/Set/add(E)
+java/util/Properties/Properties()
+java/lang/String/contains(java.lang.CharSequence)

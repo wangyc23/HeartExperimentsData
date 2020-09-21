@@ -1,0 +1,5 @@
+org/switchyard/remote/cluster/RandomStrategy/selectEndpoint(javax.xml.namespace.QName)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	3
+org/switchyard/bus/camel/audit/AuditInterceptStrategy/wrapProcessorInInterceptors(org.switchyard.common.camel.CamelContext,org.switchyard.bus.camel.audit.ProcessorDefinition,org.switchyard.bus.camel.audit.Processor,org.switchyard.bus.camel.audit.Processor)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	2
+org/switchyard/test/Invoker/addAttachments(org.switchyard.Message)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	4
+org/switchyard/transform/TransformSequence/getCurrentMessageType(org.switchyard.Exchange)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	0
+org/switchyard/config/BaseConfiguration/getPrefixNamespaceMap()@055e75fab3b15893ac9f642ff9ecf68235922204.txt	1

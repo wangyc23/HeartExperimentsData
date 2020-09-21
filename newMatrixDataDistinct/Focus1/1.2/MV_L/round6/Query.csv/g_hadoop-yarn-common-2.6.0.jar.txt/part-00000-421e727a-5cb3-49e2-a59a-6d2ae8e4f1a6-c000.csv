@@ -1,0 +1,4 @@
+org/apache/hadoop/fs/FileContext/rename(org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Options$Rename[])
+org/apache/hadoop/fs/Path/getFileSystem(org.apache.hadoop.conf.Configuration)
+org/apache/hadoop/security/UserGroupInformation/doAs(java.security.PrivilegedExceptionAction)
+org/apache/hadoop/fs/Path/Path(org.apache.hadoop.fs.Path,java.lang.String)

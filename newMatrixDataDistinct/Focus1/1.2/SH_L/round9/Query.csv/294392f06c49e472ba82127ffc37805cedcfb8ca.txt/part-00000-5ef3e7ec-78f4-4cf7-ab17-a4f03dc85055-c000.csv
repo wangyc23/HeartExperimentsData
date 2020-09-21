@@ -1,0 +1,4 @@
+java/io/BufferedReader/close()
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream,java.lang.String)
+java/lang/String/replace(java.lang.CharSequence,java.lang.CharSequence)
+java/lang/String/startsWith(java.lang.String)

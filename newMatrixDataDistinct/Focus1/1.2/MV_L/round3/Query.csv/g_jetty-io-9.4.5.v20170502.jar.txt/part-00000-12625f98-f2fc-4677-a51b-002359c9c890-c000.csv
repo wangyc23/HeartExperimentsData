@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+org/eclipse/jetty/io/ssl/SslConnection$DecryptedEndPoint/isOutputShutdown()
+org/eclipse/jetty/io/ssl/SslConnection$DecryptedEndPoint/getWriteFlusher()
+org/eclipse/jetty/io/ssl/SslConnection$DecryptedEndPoint/ensureFillInterested()

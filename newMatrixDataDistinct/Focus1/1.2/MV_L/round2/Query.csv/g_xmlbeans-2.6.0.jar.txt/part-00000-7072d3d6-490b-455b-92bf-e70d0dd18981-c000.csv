@@ -1,0 +1,4 @@
+javax/xml/stream/XMLStreamReader/next()
+javax/xml/stream/XMLStreamReader/getAttributeValue(int)
+javax/xml/stream/XMLStreamReader/getPITarget()
+javax/xml/stream/XMLStreamWriter/writeCData(java.lang.String)

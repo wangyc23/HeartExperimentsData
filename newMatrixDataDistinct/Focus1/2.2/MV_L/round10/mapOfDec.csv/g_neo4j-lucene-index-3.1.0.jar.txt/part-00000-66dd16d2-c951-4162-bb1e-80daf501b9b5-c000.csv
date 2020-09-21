@@ -1,0 +1,5 @@
+org/neo4j/index/impl/lucene/IndexType/1/removeFieldsFromDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)@g_neo4j-lucene-index-2.2.5.jar.txt	3
+org/neo4j/kernel/api/impl/index/DirectoryFactory/InMemoryDirectoryFactory/dumpToZip(java.util.zip.ZipOutputStream,byte[])@g_neo4j-lucene-index-2.2.5.jar.txt	1
+org/neo4j/index/impl/lucene/IndexType/CustomType/removeFieldsFromDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)@g_neo4j-lucene-index-2.2.5.jar.txt	4
+org/neo4j/index/impl/lucene/LuceneDataSource/listStoreFiles(boolean)@g_neo4j-lucene-index-2.2.5.jar.txt	2
+org/neo4j/index/impl/lucene/FullTxData/injectOrphans(org.apache.lucene.search.Query)@g_neo4j-lucene-index-2.2.5.jar.txt	0

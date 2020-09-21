@@ -1,0 +1,4 @@
+com/coremedia/iso/boxes/EditListBox/setVersion(int)
+java/lang/Math/round(double)
+java/util/Iterator/hasNext()
+java/util/Iterator/next()

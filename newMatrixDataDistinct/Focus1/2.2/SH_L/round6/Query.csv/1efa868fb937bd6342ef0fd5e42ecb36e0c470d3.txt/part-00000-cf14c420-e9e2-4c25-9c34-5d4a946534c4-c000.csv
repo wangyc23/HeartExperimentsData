@@ -1,0 +1,4 @@
+java/util/concurrent/atomic/AtomicInteger/incrementAndGet()
+java/util/Iterator/hasNext()
+org/apache/fluo/recipes/core/types/TypedTransactionBase/mutate()
+org/apache/fluo/recipes/core/map/Update/getKey()

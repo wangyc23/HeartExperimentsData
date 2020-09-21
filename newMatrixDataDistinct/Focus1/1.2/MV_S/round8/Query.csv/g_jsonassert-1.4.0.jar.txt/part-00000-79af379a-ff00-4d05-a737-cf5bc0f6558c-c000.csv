@@ -1,0 +1,4 @@
+java/util/regex/Pattern/compile(java.lang.String)
+java/lang/Object/toString()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/regex/Matcher/matches()

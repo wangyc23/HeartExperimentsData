@@ -1,0 +1,5 @@
+org/apache/poi/ss/formula/functions/Value/convertTextToNumber(java.lang.String)@g_poi-3.11.jar.txt	4
+org/apache/poi/util/HexDump/dump(byte[],long,int)@g_poi-3.11.jar.txt	0
+org/apache/poi/ss/formula/ptg/ExternSheetNameResolver/prependSheetName(org.apache.poi.ss.formula.FormulaRenderingWorkbook,int,java.lang.String)@g_poi-3.11.jar.txt	2
+org/apache/poi/util/HexDump/dump(byte[],long,java.io.OutputStream,int,int)@g_poi-3.11.jar.txt	1
+org/apache/poi/ss/util/CellReference/parseSheetName(java.lang.String,int)@g_poi-3.11.jar.txt	3

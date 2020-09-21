@@ -1,0 +1,4 @@
+com/sun/codemodel/JMethod/listParams()
+java/lang/String/length()
+java/util/List/size()
+java/lang/Class/cast(java.lang.Object)

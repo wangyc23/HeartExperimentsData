@@ -1,0 +1,6 @@
+0	java/lang/Object/Object()
+1	java/net/ConnectException/ConnectException(java.lang.String)
+2	java/lang/System/currentTimeMillis()
+3	java/lang/Thread/sleep(long)
+4	java/io/PrintStream/println(java.lang.String)
+5	org/slurry/cache4guice/aop/CacheInterceptor/getResultAndCache(org.slurry.cache4guice.cache.util.MethodInvocation,org.slurry.cache4guice.aop.Ehcache,java.lang.String)

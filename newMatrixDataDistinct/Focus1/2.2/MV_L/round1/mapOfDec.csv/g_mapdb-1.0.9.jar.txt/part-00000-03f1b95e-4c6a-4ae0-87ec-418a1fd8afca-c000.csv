@@ -1,0 +1,5 @@
+org/mapdb/Bind/secondaryKey(org.mapdb.Bind$MapWithModificationListener,java.util.Set,org.mapdb.Fun$Function2)@g_mapdb-1.0.7.jar.txt	4
+org/mapdb/Bind/secondaryValue(org.mapdb.Bind$MapWithModificationListener,java.util.Map,org.mapdb.Fun$Function2)@g_mapdb-1.0.7.jar.txt	3
+org/mapdb/Bind/6/update(java.lang.Object,java.lang.Object,java.lang.Object)@g_mapdb-1.0.7.jar.txt	0
+org/mapdb/Bind/secondaryKey(org.mapdb.Bind$MapWithModificationListener,java.util.Map,org.mapdb.Fun$Function2)@g_mapdb-1.0.7.jar.txt	2
+org/mapdb/Bind/3/update(java.lang.Object,java.lang.Object,java.lang.Object)@g_mapdb-1.0.7.jar.txt	1

@@ -1,0 +1,4 @@
+java/net/URL/toExternalForm()
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])
+org/jboss/logging/Logger/warnv(java.lang.String,java.lang.Object)
+java/lang/String/substring(int)

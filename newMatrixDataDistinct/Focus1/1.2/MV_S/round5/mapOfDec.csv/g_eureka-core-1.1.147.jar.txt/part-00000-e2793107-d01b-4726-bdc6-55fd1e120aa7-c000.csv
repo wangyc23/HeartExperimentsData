@@ -1,0 +1,5 @@
+com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider/get()@g_eureka-client-1.3.4.jar.txt	1
+com/netflix/eureka/resources/ResponseCache/generatePayload(com.netflix.eureka.resources.ResponseCache$Key)@g_eureka-client-1.3.4.jar.txt	3
+com/netflix/eureka/InstanceRegistry/evict()@g_eureka-client-1.3.4.jar.txt	2
+org/springframework/cloud/netflix/eureka/server/EurekaServerBootstrap/initEurekaServerContext()@g_eureka-client-1.3.4.jar.txt	4
+com/netflix/discovery/TimedSupervisorTask/run()@g_eureka-client-1.3.4.jar.txt	0

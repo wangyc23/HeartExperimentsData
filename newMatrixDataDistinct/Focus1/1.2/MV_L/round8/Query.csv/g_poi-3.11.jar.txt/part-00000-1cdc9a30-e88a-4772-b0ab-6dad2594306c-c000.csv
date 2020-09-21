@@ -1,0 +1,4 @@
+java/lang/String/length()
+java/lang/StringBuilder/StringBuilder()
+java/lang/Integer/parseInt(java.lang.String)
+java/lang/StringBuilder/toString()

@@ -1,0 +1,8 @@
+0	java/lang/StringBuilder/StringBuilder(java.lang.String)
+1	java/lang/StringBuilder/toString()
+2	java/lang/StringBuilder/append(java.lang.String)
+3	java/lang/StringBuilder/append(java.lang.Object)
+4	eu/stratosphere/sopremo/type/IArrayNode/get(int)
+5	eu/stratosphere/sopremo/expressions/ArrayAccess/isSelectingAll()
+6	eu/stratosphere/sopremo/type/IArrayNode/size()
+7	eu/stratosphere/sopremo/expressions/ArrayAccess/resolveIndex(int,int)

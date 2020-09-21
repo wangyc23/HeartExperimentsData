@@ -1,0 +1,4 @@
+java/net/URI/toURL()
+java/io/File/File(java.lang.String)
+java/lang/StringBuffer/toString()
+java/lang/String/substring(int,int)

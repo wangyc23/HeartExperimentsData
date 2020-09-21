@@ -1,0 +1,4 @@
+org/apache/lucene/util/BytesRefBuilder/BytesRefBuilder()
+java/util/BitSet/nextSetBit(int)
+java/lang/Integer/toString(int)
+org/apache/lucene/util/IOUtils/close(java.io.Closeable[])

@@ -1,0 +1,5 @@
+org/codehaus/jackson/jaxrs/JacksonJsonProvider/writeTo(java.lang.Object,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.OutputStream)@g_jackson-jaxrs-1.9.2.jar.txt	4
+org/codehaus/jackson/jaxrs/JacksonJsonProvider/_findView(org.codehaus.jackson.map.ObjectMapper,java.lang.annotation.Annotation[])@g_jackson-jaxrs-1.9.2.jar.txt	1
+org/codehaus/jackson/jaxrs/MapperConfigurator/_resolveIntrospector(org.codehaus.jackson.jaxrs.Annotations)@g_jackson-jaxrs-1.9.13.jar.txt	3
+org/codehaus/jackson/jaxrs/JacksonJsonProvider/writeTo(java.lang.Object,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.OutputStream)@g_jackson-jaxrs-1.9.13.jar.txt	2
+org/codehaus/jackson/jaxrs/JacksonJsonProvider/_findView(org.codehaus.jackson.map.ObjectMapper,java.lang.annotation.Annotation[])@g_jackson-jaxrs-1.9.13.jar.txt	0

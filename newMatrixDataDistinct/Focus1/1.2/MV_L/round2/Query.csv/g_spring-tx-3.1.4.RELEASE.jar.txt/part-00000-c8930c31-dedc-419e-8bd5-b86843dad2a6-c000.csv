@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/lang/ClassLoader/loadClass(java.lang.String)
+java/lang/reflect/Method/invoke(java.lang.Object,java.lang.Object[])

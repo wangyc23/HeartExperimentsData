@@ -1,0 +1,4 @@
+0	org/apache/beam/sdk/transforms/Count/perElement()
+1	org/apache/beam/sdk/Pipeline/apply(org.apache.beam.sdk.transforms.PTransform)
+2	org/apache/beam/sdk/transforms/Create/of(T[])
+3	org/apache/beam/sdk/values/PCollection/apply(org.apache.beam.sdk.transforms.PTransform)

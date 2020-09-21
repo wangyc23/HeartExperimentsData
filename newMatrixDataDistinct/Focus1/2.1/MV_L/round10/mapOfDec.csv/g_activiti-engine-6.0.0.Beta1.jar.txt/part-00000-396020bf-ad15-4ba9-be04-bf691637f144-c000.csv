@@ -1,0 +1,5 @@
+org/activiti/engine/impl/db/DbSchemaExport/main(java.lang.String[])@g_activiti-engine-5.17.0.jar.txt	3
+org/activiti/engine/impl/bpmn/parser/handler/AbstractActivityBpmnParseHandler/createMultiInstanceLoopCharacteristics(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.Activity)@g_activiti-engine-5.17.0.jar.txt	2
+org/activiti/engine/impl/bpmn/parser/handler/AbstractExternalInvocationBpmnParseHandler/createDataInputAssociation(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.DataAssociation)@g_activiti-engine-5.16.4.jar.txt	1
+org/activiti/engine/impl/bpmn/parser/handler/AbstractExternalInvocationBpmnParseHandler/createDataInputAssociation(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.DataAssociation)@g_activiti-engine-5.17.0.jar.txt	0
+org/activiti/engine/impl/persistence/entity/AbstractEntityManager/getList(java.lang.String,java.lang.Object,org.activiti.engine.impl.persistence.CachedEntityMatcher,boolean)@g_activiti-engine-5.17.0.jar.txt	4

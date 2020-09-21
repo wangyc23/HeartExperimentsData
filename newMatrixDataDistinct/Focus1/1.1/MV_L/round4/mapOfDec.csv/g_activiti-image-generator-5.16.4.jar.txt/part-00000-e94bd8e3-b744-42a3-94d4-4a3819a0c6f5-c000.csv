@@ -1,0 +1,5 @@
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawTask(java.lang.String,org.activiti.bpmn.model.GraphicInfo,boolean)@g_activiti-image-generator-5.17.0.jar.txt	0
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawLabel(java.lang.String,org.activiti.bpmn.model.GraphicInfo,boolean)@g_activiti-image-generator-5.17.0.jar.txt	2
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawNoneEndEvent(org.activiti.bpmn.model.GraphicInfo,double)@g_activiti-image-generator-5.17.0.jar.txt	3
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawConditionalSequenceFlowIndicator(java.awt.geom.Line2D$Double,double)@g_activiti-image-generator-5.17.0.jar.txt	1
+org/activiti/image/impl/DefaultProcessDiagramCanvas/drawStartEvent(org.activiti.bpmn.model.GraphicInfo,java.awt.image.BufferedImage,double)@g_activiti-image-generator-5.17.0.jar.txt	4

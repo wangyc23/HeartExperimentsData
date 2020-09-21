@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Thread/currentThread()
+java/util/Properties/Properties()
+java/io/InputStream/close()

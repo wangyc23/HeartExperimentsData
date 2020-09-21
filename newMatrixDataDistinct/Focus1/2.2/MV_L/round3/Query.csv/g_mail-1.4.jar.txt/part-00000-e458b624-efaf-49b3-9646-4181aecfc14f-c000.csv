@@ -1,0 +1,4 @@
+java/lang/Long/Long(long)
+java/util/Vector/copyInto(java.lang.Object[])
+java/util/Vector/addElement(java.lang.Object)
+com/sun/mail/iap/ProtocolException/getMessage()

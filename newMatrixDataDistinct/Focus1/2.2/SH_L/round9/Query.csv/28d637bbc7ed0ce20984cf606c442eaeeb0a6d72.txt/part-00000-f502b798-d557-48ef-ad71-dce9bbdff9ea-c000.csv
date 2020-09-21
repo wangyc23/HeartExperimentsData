@@ -1,0 +1,4 @@
+cern/colt/matrix/impl/AbstractMatrix2D/rows()
+java/util/stream/IntStream/forEach(java.util.function.IntConsumer)
+cern/colt/matrix/impl/AbstractMatrix2D/columns()
+cern/colt/matrix/impl/DenseDoubleMatrix2D/getQuick(int,int)

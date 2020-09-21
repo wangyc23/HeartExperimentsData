@@ -1,0 +1,5 @@
+org/apache/lucene/search/vectorhighlight/FieldQuery/flatten(org.apache.lucene.search.Query,org.apache.lucene.index.IndexReader,java.util.Collection)@g_lucene-highlighter-4.5.0.jar.txt	3
+org/apache/lucene/search/vectorhighlight/FieldQuery/flatten(org.apache.lucene.search.Query,org.apache.lucene.index.IndexReader,java.util.Collection)@g_lucene-highlighter-4.6.0.jar.txt	2
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extract(org.apache.lucene.search.Query,java.util.Map)@g_lucene-highlighter-4.5.0.jar.txt	1
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extract(org.apache.lucene.search.Query,java.util.Map)@g_lucene-highlighter-4.6.0.jar.txt	0
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/getWeightedSpanTermsWithScores(org.apache.lucene.search.Query,org.apache.lucene.analysis.TokenStream,java.lang.String,org.apache.lucene.index.IndexReader)@g_lucene-highlighter-4.6.0.jar.txt	4

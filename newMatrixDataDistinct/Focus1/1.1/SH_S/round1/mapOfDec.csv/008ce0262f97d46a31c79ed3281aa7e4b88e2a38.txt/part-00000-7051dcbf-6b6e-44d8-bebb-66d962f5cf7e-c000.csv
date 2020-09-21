@@ -1,0 +1,5 @@
+org/commoncrawl/examples/mapreduce/WARCTagCounter/main(java.lang.String[])@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	3
+br/edu/utfpr/medicaoMeteorologica/MedicaoMeteorologicaManager/MedicaoMeteorologicaReducer/reduce(br.edu.utfpr.medicaoMeteorologica.MedicaoWritable,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	2
+org/commoncrawl/warc/WARCFileInputFormat/createRecordReader(org.apache.hadoop.mapreduce.InputSplit,org.apache.hadoop.mapreduce.TaskAttemptContext)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	1
+org/commoncrawl/examples/mapreduce/WARCTagCounter/run(java.lang.String[])@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	4
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/generateUrls(java.util.List,java.util.List,int)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	0

@@ -1,0 +1,4 @@
+java/net/URLEncoder/encode(java.lang.String,java.lang.String)
+org/eclipse/smarthome/automation/Rule/getUID()
+java/lang/Throwable/getMessage()
+org/eclipse/smarthome/core/common/registry/Registry/add(E)

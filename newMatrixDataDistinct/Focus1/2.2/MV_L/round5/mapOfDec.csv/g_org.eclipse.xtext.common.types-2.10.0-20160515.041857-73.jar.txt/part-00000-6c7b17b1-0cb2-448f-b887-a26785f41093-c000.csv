@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/emftvm/impl/CodeBlockImpl/setPostApplyFor(org.eclipse.m2m.atl.emftvm.Rule)@g_emftvm-3.6.0.jar.txt	1
+org/eclipse/m2m/atl/emftvm/impl/CodeBlockImpl/setNestedFor(org.eclipse.m2m.atl.emftvm.CodeBlock)@g_emftvm-3.6.0.jar.txt	0
+org/eclipse/m2m/atl/emftvm/impl/FeatureImpl/setModule(org.eclipse.m2m.atl.emftvm.Module)@g_emftvm-3.6.0.jar.txt	4
+org/eclipse/m2m/atl/emftvm/impl/LocalVariableImpl/setOwningBlock(org.eclipse.m2m.atl.emftvm.CodeBlock)@g_emftvm-3.6.0.jar.txt	3
+org/eclipse/m2m/atl/emftvm/impl/InstructionImpl/setOwningBlock(org.eclipse.m2m.atl.emftvm.CodeBlock)@g_emftvm-3.6.0.jar.txt	2

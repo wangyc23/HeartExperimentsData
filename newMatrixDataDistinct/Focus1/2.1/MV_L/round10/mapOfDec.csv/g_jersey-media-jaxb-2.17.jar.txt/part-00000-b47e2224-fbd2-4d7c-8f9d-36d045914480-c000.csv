@@ -1,0 +1,5 @@
+org/glassfish/jersey/jaxb/internal/XmlCollectionJaxbProvider/writeCollection(java.lang.Class,java.util.Collection,javax.ws.rs.core.MediaType,java.nio.charset.Charset,javax.xml.bind.Marshaller,java.io.OutputStream)@g_jersey-media-jaxb-2.19.jar.txt	2
+org/glassfish/jersey/jaxb/internal/NounInflector/Replacer/replacement(java.lang.String)@g_jersey-media-jaxb-2.21.jar.txt	1
+org/glassfish/jersey/jaxb/internal/XmlCollectionJaxbProvider/writeList(java.lang.Class,java.util.Collection,javax.ws.rs.core.MediaType,java.nio.charset.Charset,javax.xml.bind.Marshaller,java.io.OutputStream)@g_jersey-media-jaxb-2.19.jar.txt	4
+org/glassfish/jersey/jaxb/internal/NounInflector/Replacer/replacement(java.lang.String)@g_jersey-media-jaxb-2.19.jar.txt	0
+org/glassfish/jersey/jaxb/internal/XmlRootObjectJaxbProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-media-jaxb-2.19.jar.txt	3

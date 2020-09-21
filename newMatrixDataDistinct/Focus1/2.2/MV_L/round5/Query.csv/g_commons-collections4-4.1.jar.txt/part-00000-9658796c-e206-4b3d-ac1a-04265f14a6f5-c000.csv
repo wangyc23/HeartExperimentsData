@@ -1,0 +1,4 @@
+org/apache/commons/collections4/trie/AbstractPatriciaTrie$TrieEntry/isEmpty()
+java/lang/StringBuilder/append(int)
+org/apache/commons/collections4/trie/AbstractPatriciaTrie/bitIndex(java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

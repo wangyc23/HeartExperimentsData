@@ -1,0 +1,5 @@
+ch/qos/logback/classic/gaffer/ConfigurationDelegate/_logger_closure1/doCall(java.lang.Object)@g_logback-classic-1.0.13.jar.txt	3
+ch/qos/logback/classic/gaffer/GafferConfigurator/run(java.lang.String)@g_logback-classic-1.0.13.jar.txt	2
+ch/qos/logback/classic/gaffer/ConfigurationDelegate/logger(java.lang.String,ch.qos.logback.classic.Level,java.util.List,java.lang.Boolean)@g_logback-classic-1.1.11.jar.txt	0
+ch/qos/logback/classic/gaffer/GafferConfigurator/run(java.lang.String)@g_logback-classic-1.1.11.jar.txt	4
+ch/qos/logback/classic/gaffer/ConfigurationDelegate/logger(java.lang.String,ch.qos.logback.classic.Level,java.util.List,java.lang.Boolean)@g_logback-classic-1.0.13.jar.txt	1

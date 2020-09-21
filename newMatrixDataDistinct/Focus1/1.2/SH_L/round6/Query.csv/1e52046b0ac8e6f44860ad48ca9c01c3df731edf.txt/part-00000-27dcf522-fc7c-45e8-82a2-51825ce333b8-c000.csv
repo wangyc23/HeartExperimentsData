@@ -1,0 +1,4 @@
+java/security/MessageDigest/digest()
+java/security/MessageDigest/reset()
+org/slf4j/Logger/error(java.lang.String,java.lang.Throwable)
+java/security/MessageDigest/update(byte[],int,int)

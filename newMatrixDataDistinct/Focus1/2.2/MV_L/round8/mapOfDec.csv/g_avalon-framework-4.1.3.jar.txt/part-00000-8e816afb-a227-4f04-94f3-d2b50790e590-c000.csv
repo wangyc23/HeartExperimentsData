@@ -1,0 +1,5 @@
+org/apache/avalon/framework/configuration/NamespacedSAXConfigurationHandler/endElement(java.lang.String,java.lang.String,java.lang.String)@g_avalon-framework-impl-4.3.1.jar.txt	0
+org/apache/avalon/framework/configuration/AbstractConfiguration/getValueAsInteger()@g_avalon-framework-impl-4.3.1.jar.txt	4
+org/apache/avalon/framework/configuration/AbstractConfiguration/getValueAsFloat()@g_avalon-framework-impl-4.3.1.jar.txt	3
+org/apache/tika/config/ServiceLoader/loadServiceProviders(java.lang.Class)@g_tika-core-1.0.jar.txt	2
+org/apache/tika/detect/NameDetector/detect(java.io.InputStream,org.apache.tika.metadata.Metadata)@g_tika-core-1.0.jar.txt	1

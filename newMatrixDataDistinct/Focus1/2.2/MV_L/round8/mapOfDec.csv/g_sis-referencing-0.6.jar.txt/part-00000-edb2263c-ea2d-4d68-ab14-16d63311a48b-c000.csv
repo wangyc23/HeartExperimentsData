@@ -1,0 +1,5 @@
+org/apache/sis/referencing/cs/DirectionAlongMeridian/toString()@g_sis-referencing-0.5.jar.txt	4
+org/apache/sis/referencing/operation/builder/LinearTransformBuilder/toArrays(org.opengis.geometry.DirectPosition[],int)@g_sis-referencing-0.5.jar.txt	0
+org/apache/sis/parameter/Verifier/ensureValidValue(org.opengis.parameter.ParameterDescriptor,java.lang.Object,javax.measure.unit.Unit)@g_sis-referencing-0.5.jar.txt	1
+org/apache/sis/referencing/operation/builder/LinearTransformBuilder/toString()@g_sis-referencing-0.5.jar.txt	3
+org/apache/sis/referencing/operation/transform/ConcatenatedTransform/create(org.opengis.referencing.operation.MathTransform,org.opengis.referencing.operation.MathTransform)@g_sis-referencing-0.5.jar.txt	2

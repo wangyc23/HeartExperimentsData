@@ -1,0 +1,5 @@
+corba/server/Server/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+demo/ws_rm/client/Client/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+demo/callback/server/ServerImpl/registerCallback(javax.xml.ws.wsaddressing.W3CEndpointReference)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+demo/mtom/server/TestMtomPortTypeImpl/testDataHandler(javax.xml.ws.Holder,javax.xml.ws.Holder)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+demo/restful/client/Client/printSource(javax.xml.transform.Source)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0

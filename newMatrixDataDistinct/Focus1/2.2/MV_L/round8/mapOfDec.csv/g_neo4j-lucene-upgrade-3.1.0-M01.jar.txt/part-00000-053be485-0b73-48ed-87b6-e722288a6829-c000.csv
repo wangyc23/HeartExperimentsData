@@ -1,0 +1,5 @@
+org/neo4j/upgrade/lucene/LuceneExplicitIndexUpgrader/upgradeIndexes()@g_neo4j-lucene-upgrade-3.3.0.jar.txt	3
+org/neo4j/upgrade/lucene/LuceneLegacyIndexUpgrader/upgradeIndexes()@g_neo4j-lucene-upgrade-3.0.1.jar.txt	2
+org/neo4j/upgrade/loader/EmbeddedJarLoader/loadJarFromRelativePath(java.lang.String)@g_neo4j-lucene-upgrade-3.0.1.jar.txt	4
+org/neo4j/upgrade/lucene/IndexUpgraderWrapper/upgradeIndex(java.nio.file.Path)@g_neo4j-lucene-upgrade-3.3.0.jar.txt	1
+org/neo4j/upgrade/lucene/IndexUpgraderWrapper/upgradeIndex(java.nio.file.Path)@g_neo4j-lucene-upgrade-3.0.1.jar.txt	0

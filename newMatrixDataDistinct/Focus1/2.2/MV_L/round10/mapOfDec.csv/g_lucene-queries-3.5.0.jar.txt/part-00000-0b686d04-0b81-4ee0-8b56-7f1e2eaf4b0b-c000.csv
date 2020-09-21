@@ -1,0 +1,5 @@
+org/apache/lucene/search/ChainedFilter/doChain(org.apache.lucene.util.OpenBitSetDISI,int,org.apache.lucene.search.DocIdSet)@g_lucene-sandbox-4.2.1.jar.txt	2
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/addTerms(org.apache.lucene.index.IndexReader,org.apache.lucene.sandbox.queries.FuzzyLikeThisQuery$FieldVals)@g_lucene-sandbox-4.2.1.jar.txt	0
+org/apache/lucene/sandbox/queries/DuplicateFilter/correctBits(org.apache.lucene.index.AtomicReader,org.apache.lucene.util.Bits)@g_lucene-sandbox-4.2.1.jar.txt	4
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/addTerms(org.apache.lucene.index.IndexReader,org.apache.lucene.sandbox.queries.FuzzyLikeThisQuery$FieldVals)@g_lucene-sandbox-4.3.1.jar.txt	1
+org/apache/lucene/search/BooleanFilter/getDocIdSet(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-4.2.1.jar.txt	3

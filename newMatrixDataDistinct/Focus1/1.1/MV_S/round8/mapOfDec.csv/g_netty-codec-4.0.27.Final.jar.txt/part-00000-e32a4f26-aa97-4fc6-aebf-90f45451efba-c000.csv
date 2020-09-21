@@ -1,0 +1,5 @@
+io/netty/handler/ssl/PemReader/readPrivateKey(java.io.File)@g_netty-codec-http-4.1.7.Final.jar.txt	3
+io/netty/handler/codec/http/HttpObjectEncoder/encode(io.netty.channel.ChannelHandlerContext,java.lang.Object,java.util.List)@g_netty-codec-http-4.1.7.Final.jar.txt	2
+io/netty/handler/codec/http/multipart/AbstractDiskHttpData/getChunk(int)@g_netty-codec-http-4.1.7.Final.jar.txt	4
+io/netty/handler/ssl/SslHandler/unwrap(javax.net.ssl.SSLEngine,java.nio.ByteBuffer,io.netty.buffer.ByteBuf)@g_netty-handler-4.0.25.Final.jar.txt	0
+io/netty/handler/ssl/SslHandler/wrap(io.netty.buffer.ByteBufAllocator,javax.net.ssl.SSLEngine,io.netty.buffer.ByteBuf,io.netty.buffer.ByteBuf)@g_netty-handler-4.0.25.Final.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/cxf/catalog/OASISCatalogManager/loadCatalog(java.net.URL)@g_cxf-core-3.0.16.jar.txt	3
+org/apache/cxf/jaxrs/utils/schemas/SchemaHandler/createSchema(java.util.List,java.lang.String,org.apache.cxf.Bus)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/bus/spring/BusEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_cxf-core-3.0.16.jar.txt	2
+org/apache/cxf/resource/URIResolver/tryClasspath(java.lang.String)@g_cxf-core-3.0.16.jar.txt	1
+org/apache/cxf/common/util/PropertiesLoaderUtils/loadAllProperties(java.lang.String,java.lang.ClassLoader,java.util.logging.Logger,java.util.logging.Level,java.lang.String)@g_cxf-core-3.0.16.jar.txt	0

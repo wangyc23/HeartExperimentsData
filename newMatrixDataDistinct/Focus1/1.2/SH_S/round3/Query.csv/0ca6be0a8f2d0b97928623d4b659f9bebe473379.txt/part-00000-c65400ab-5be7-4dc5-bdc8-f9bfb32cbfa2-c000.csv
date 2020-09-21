@@ -1,0 +1,4 @@
+org/jboss/seam/examples/booking/model/Booking/getCheckinDate()
+org/jboss/seam/examples/booking/model/Hotel/getName()
+java/text/DateFormat/getDateInstance(int)
+java/text/DateFormat/format(java.util.Date)

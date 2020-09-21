@@ -1,0 +1,5 @@
+org/xwiki/messagestream/internal/DefaultMessageStream/getRecentDirectMessages(int,int)@g_xwiki-platform-messagestream-api-7.4.2.jar.txt	3
+org/xwiki/rest/internal/resources/attachments/AttachmentResourceImpl/getAttachment(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_xwiki-platform-messagestream-api-7.4.2.jar.txt	0
+org/xwiki/rest/internal/resources/wikis/WikiSearchQueryResourceImpl/search(java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer,java.lang.Boolean,java.lang.String,java.lang.String,java.lang.Boolean,java.lang.String)@g_xwiki-platform-messagestream-api-7.4.2.jar.txt	2
+org/xwiki/rest/internal/resources/pages/PageTagsResourceImpl/setTags(java.lang.String,java.lang.String,java.lang.String,org.xwiki.rest.model.jaxb.Tags)@g_xwiki-platform-messagestream-api-7.4.2.jar.txt	1
+org/xwiki/rest/internal/representations/objects/FormUrlEncodedObjectReader/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_xwiki-platform-messagestream-api-7.4.2.jar.txt	4

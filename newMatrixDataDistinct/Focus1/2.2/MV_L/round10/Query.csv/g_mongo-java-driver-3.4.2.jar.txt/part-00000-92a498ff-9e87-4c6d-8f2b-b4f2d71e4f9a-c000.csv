@@ -1,0 +1,4 @@
+com/mongodb/DBObject/put(java.lang.String,java.lang.Object)
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()
+java/lang/Boolean/valueOf(boolean)

@@ -1,0 +1,5 @@
+org/springframework/cglib/proxy/LazyLoaderGenerator/generate(org.springframework.cglib.core.ClassEmitter,org.springframework.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_spring-core-4.2.1.RELEASE.jar.txt	2
+org/springframework/core/type/classreading/AnnotationReadingVisitorUtils/getMergedAnnotationAttributes(org.springframework.util.LinkedMultiValueMap,java.util.Map,java.lang.String)@g_spring-core-4.2.1.RELEASE.jar.txt	0
+org/springframework/util/xml/XMLEventStreamWriter/doWriteNamespace(javax.xml.stream.events.Namespace)@g_spring-core-4.2.1.RELEASE.jar.txt	1
+org/springframework/util/xml/StaxEventXMLReader/handleEndElement(javax.xml.stream.events.EndElement)@g_spring-core-4.2.1.RELEASE.jar.txt	4
+org/springframework/util/xml/StaxEventXMLReader/handleStartElement(javax.xml.stream.events.StartElement)@g_spring-core-4.2.1.RELEASE.jar.txt	3

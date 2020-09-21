@@ -1,0 +1,4 @@
+com/fasterxml/jackson/databind/deser/std/NumberDeserializers$IntegerDeserializer/_deserializeFromArray(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)
+com/fasterxml/jackson/core/io/NumberInput/parseInt(java.lang.String)
+java/lang/Long/parseLong(java.lang.String)
+com/fasterxml/jackson/databind/deser/std/NumberDeserializers$IntegerDeserializer/_coerceEmptyString(com.fasterxml.jackson.databind.DeserializationContext,boolean)

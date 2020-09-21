@@ -1,0 +1,5 @@
+org/infinispan/configuration/parsing/Parser70/parseStackFile(org.infinispan.configuration.parsing.XMLExtendedStreamReader,org.infinispan.configuration.parsing.ConfigurationBuilderHolder)@g_infinispan-core-7.0.3.Final.jar.txt	2
+org/infinispan/configuration/parsing/Parser70/parseLocalCache(org.infinispan.configuration.parsing.XMLExtendedStreamReader,org.infinispan.configuration.parsing.ConfigurationBuilderHolder)@g_infinispan-core-7.0.3.Final.jar.txt	4
+org/infinispan/configuration/parsing/Parser70/parseJGroups(org.infinispan.configuration.parsing.XMLExtendedStreamReader,org.infinispan.configuration.parsing.ConfigurationBuilderHolder)@g_infinispan-core-7.0.3.Final.jar.txt	3
+org/infinispan/configuration/parsing/Parser70/parseInterceptor(org.infinispan.configuration.parsing.XMLExtendedStreamReader,org.infinispan.configuration.parsing.ConfigurationBuilderHolder)@g_infinispan-core-7.0.3.Final.jar.txt	0
+org/infinispan/configuration/parsing/Parser70/parseGlobalAuthorization(org.infinispan.configuration.parsing.XMLExtendedStreamReader,org.infinispan.configuration.parsing.ConfigurationBuilderHolder)@g_infinispan-core-7.0.3.Final.jar.txt	1

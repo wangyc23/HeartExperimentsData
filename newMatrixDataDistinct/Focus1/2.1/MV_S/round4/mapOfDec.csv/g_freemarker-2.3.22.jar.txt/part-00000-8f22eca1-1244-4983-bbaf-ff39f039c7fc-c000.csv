@@ -1,0 +1,5 @@
+freemarker/ext/xml/_JdomNavigator/getChildren(java.lang.Object,java.lang.String,java.lang.String,java.util.List)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/ant/IvyInstall/doExecute()@g_ivy-2.3.0.jar.txt	3
+org/apache/maven/it/util/FileUtils/loadFile(java.io.File)@g_ivy-2.3.0.jar.txt	2
+freemarker/ext/beans/ClassIntrospector/createClassIntrospectionData(java.lang.Class)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/core/report/ResolveReport/getArtifactsReports(org.apache.ivy.core.report.DownloadStatus,boolean)@g_ivy-2.3.0.jar.txt	4

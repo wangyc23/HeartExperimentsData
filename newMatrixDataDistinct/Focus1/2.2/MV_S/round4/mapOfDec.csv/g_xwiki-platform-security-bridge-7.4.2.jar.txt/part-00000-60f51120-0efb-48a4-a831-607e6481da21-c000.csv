@@ -1,0 +1,5 @@
+org/xwiki/security/authorization/internal/XWikiCachingRightService/hasProgrammingRights(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	1
+org/xwiki/rendering/wikimacro/internal/DefaultWikiMacroInitializer/registerExistingWikiMacros(boolean,java.lang.String)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	3
+org/xwiki/security/internal/DefaultUserBridge/getGroupsReferencesFor(org.xwiki.model.reference.WikiReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	4
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLink(org.xwiki.rendering.block.Block,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	0
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/updateRelativeLinks(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	2

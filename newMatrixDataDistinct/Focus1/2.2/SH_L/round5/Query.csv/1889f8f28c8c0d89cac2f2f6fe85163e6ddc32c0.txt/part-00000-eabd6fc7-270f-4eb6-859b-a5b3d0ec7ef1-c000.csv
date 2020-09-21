@@ -1,0 +1,4 @@
+org/opendaylight/protocol/util/BitArray/BitArray(int)
+org/opendaylight/protocol/util/BitArray/toByteBuf(org.opendaylight.protocol.pcep.impl.ByteBuf)
+org/opendaylight/protocol/rsvp/parser/impl/te/SessionAttributeLspObjectParser/getPadding(int)
+org/opendaylight/protocol/util/BitArray/set(int,java.lang.Boolean)

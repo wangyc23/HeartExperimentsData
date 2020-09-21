@@ -1,0 +1,4 @@
+javax/enterprise/inject/spi/InjectionPoint/getMember()
+javax/enterprise/inject/spi/Annotated/isAnnotationPresent(java.lang.Class)
+java/lang/StringBuilder/StringBuilder()
+java/lang/reflect/Method/getParameterTypes()

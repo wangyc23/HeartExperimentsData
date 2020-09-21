@@ -1,0 +1,4 @@
+org/apache/lucene/search/FieldComparator/compare(int,int)
+java/util/TreeSet/size()
+java/util/HashMap/remove(java.lang.Object)
+java/util/HashMap/put(java.lang.Object,java.lang.Object)

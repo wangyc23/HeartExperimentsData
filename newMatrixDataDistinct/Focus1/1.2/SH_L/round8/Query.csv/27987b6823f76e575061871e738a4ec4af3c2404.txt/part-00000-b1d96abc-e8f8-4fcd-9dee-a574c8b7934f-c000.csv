@@ -1,0 +1,4 @@
+java/util/concurrent/locks/ReentrantReadWriteLock/ReadLock/unlock()
+org/apache/hadoop/hbase/regionserver/Store/compact(org.apache.hadoop.hbase.regionserver.compactions.CompactionRequest)
+org/apache/hadoop/hbase/regionserver/HRegion/equals(java.lang.Object)
+org/apache/hadoop/hbase/monitoring/MonitoredTask/markComplete(java.lang.String)

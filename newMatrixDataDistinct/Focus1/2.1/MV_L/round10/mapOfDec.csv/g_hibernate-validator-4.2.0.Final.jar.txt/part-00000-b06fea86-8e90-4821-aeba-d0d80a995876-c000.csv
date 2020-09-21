@@ -1,0 +1,5 @@
+org/hibernate/validator/engine/groups/GroupChainGenerator/getGroupChainFor(java.util.Collection)@g_hibernate-validator-4.1.0.Final.jar.txt	0
+org/hibernate/validator/internal/util/logging/Log_/logger/getWrongTypeForGroupsParameterException(java.lang.String,java.lang.ClassCastException)@g_hibernate-validator-4.1.0.Final.jar.txt	3
+org/hibernate/validator/metadata/ParameterMetaData/toString()@g_hibernate-validator-4.1.0.Final.jar.txt	2
+org/hibernate/validator/util/annotationfactory/AnnotationProxy/toString()@g_hibernate-validator-4.1.0.Final.jar.txt	4
+org/hibernate/validator/internal/engine/ValidatorImpl/validatePropertyForDefaultGroup(org.hibernate.validator.internal.engine.ValueContext,org.hibernate.validator.internal.engine.ValidationContext,java.util.List)@g_hibernate-validator-4.3.0.Final.jar.txt	1

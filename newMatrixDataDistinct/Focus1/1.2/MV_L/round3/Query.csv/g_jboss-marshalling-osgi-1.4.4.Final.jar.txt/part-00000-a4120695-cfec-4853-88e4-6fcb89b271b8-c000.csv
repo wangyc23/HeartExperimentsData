@@ -1,0 +1,4 @@
+java/lang/Enum/name()
+org/jboss/marshalling/serial/SerialMarshaller/writeChar(int)
+java/io/Externalizable/writeExternal(java.io.ObjectOutput)
+org/jboss/marshalling/serial/SerialMarshaller/writeFloat(float)

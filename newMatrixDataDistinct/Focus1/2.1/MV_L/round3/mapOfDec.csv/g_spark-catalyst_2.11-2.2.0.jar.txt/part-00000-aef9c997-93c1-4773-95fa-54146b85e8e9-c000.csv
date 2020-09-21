@@ -1,0 +1,5 @@
+org/apache/spark/sql/execution/datasources/DataSourceStrategy/translateFilter(org.apache.spark.sql.catalyst.expressions.Expression)@g_spark-sql_2.11-2.2.0.jar.txt	4
+org/apache/spark/sql/execution/joins/BroadcastNestedLoopJoinExec/defaultJoin(org.apache.spark.broadcast.Broadcast)@g_spark-sql_2.11-2.2.0.jar.txt	0
+org/apache/spark/sql/execution/python/EvaluatePython/fromJava(java.lang.Object,org.apache.spark.sql.types.DataType)@g_spark-sql_2.11-2.2.0.jar.txt	2
+org/apache/spark/sql/execution/exchange/BroadcastExchangeExec/anonfun/relationFuture/1/anonfun/apply/1/apply()@g_spark-sql_2.11-2.2.0.jar.txt	3
+org/apache/spark/sql/execution/WholeStageCodegenExec/doExecute()@g_spark-sql_2.11-2.2.0.jar.txt	1

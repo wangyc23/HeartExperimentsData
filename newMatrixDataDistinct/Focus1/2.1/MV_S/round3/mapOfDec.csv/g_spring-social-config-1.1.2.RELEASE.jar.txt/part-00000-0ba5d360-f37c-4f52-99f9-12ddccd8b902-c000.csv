@@ -1,0 +1,5 @@
+org/springframework/jdbc/object/BatchSqlUpdate/update(java.lang.Object[])@g_spring-jdbc-4.2.5.RELEASE.jar.txt	2
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	1
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-jdbc-4.2.5.RELEASE.jar.txt	0
+org/springframework/security/access/intercept/AbstractSecurityInterceptor/beforeInvocation(java.lang.Object)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	4
+org/springframework/security/access/expression/method/ExpressionBasedPostInvocationAdvice/after(org.springframework.security.core.Authentication,org.aopalliance.intercept.MethodInvocation,org.springframework.security.access.prepost.PostInvocationAttribute,java.lang.Object)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	3

@@ -1,0 +1,5 @@
+org/eclipse/aether/connector/basic/PartialFile/LockFile/lock(java.io.File,java.io.File,int,org.eclipse.aether.connector.basic.PartialFile$RemoteAccessChecker,org.eclipse.aether.spi.log.Logger,boolean[])@g_aether-connector-basic-1.1.0.jar.txt	2
+org/eclipse/aether/connector/basic/PartialFile/Factory/newInstance(java.io.File,org.eclipse.aether.connector.basic.PartialFile$RemoteAccessChecker)@g_aether-connector-basic-1.1.0.jar.txt	1
+org/eclipse/aether/connector/basic/ChecksumValidator/clearTempFiles()@g_aether-connector-basic-1.1.0.jar.txt	0
+org/eclipse/aether/connector/basic/BasicRepositoryConnector/GetTaskRunner/runTask()@g_aether-connector-basic-1.1.0.jar.txt	3
+org/eclipse/aether/connector/basic/ChecksumValidator/createTempFile(java.io.File)@g_aether-connector-basic-1.1.0.jar.txt	4

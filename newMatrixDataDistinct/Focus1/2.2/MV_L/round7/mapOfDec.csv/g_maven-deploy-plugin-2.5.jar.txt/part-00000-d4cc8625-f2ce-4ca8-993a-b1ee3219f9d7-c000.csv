@@ -1,0 +1,5 @@
+org/apache/maven/plugin/install/InstallMojo/execute()@g_maven-install-plugin-2.3.1.jar.txt	1
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/execute()@g_maven-gpg-plugin-1.6.jar.txt	2
+org/apache/maven/plugin/gpg/GpgSigner/generateSignatureForFile(java.io.File,java.io.File)@g_maven-gpg-plugin-1.6.jar.txt	3
+org/apache/maven/plugin/install/InstallFileMojo/execute()@g_maven-install-plugin-2.3.1.jar.txt	0
+org/apache/maven/plugin/gpg/GpgSignAttachedMojo/execute()@g_maven-gpg-plugin-1.6.jar.txt	4

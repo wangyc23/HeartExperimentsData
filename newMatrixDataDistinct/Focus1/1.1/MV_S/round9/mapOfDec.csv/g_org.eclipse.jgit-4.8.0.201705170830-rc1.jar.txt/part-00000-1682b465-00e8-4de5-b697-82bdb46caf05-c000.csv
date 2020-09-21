@@ -1,0 +1,5 @@
+org/eclipse/jgit/api/PullCommand/call()@g_java-getopt-1.0.13.jar.txt	2
+org/eclipse/jgit/internal/storage/dfs/DfsPackFile/copyAsIs(org.eclipse.jgit.internal.storage.pack.PackOutputStream,org.eclipse.jgit.internal.storage.dfs.DfsObjectToPack,boolean,org.eclipse.jgit.internal.storage.dfs.DfsReader)@g_java-getopt-1.0.13.jar.txt	1
+org/eclipse/jgit/internal/storage/file/GC/writePack(java.util.Set,java.util.Set,java.util.Set,java.util.List)@g_java-getopt-1.0.13.jar.txt	4
+org/eclipse/jgit/internal/storage/pack/PackWriter/writeDeltaObjectDeflate(org.eclipse.jgit.internal.storage.pack.PackOutputStream,org.eclipse.jgit.internal.storage.pack.ObjectToPack)@g_java-getopt-1.0.13.jar.txt	0
+org/eclipse/jgit/api/RebaseCommand/cherryPickCommitPreservingMerges(org.eclipse.jgit.revwalk.RevCommit)@g_java-getopt-1.0.13.jar.txt	3

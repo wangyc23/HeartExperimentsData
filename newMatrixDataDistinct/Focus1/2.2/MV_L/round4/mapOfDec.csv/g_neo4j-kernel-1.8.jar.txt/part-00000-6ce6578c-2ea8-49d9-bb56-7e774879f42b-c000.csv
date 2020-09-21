@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/storemigration/legacystore/LegacyDynamicRecordFetcher/getArrayFor(org.neo4j.kernel.impl.storemigration.legacystore.LegacyPropertyRecord)@g_neo4j-kernel-1.7.jar.txt	3
+org/neo4j/kernel/impl/core/IntArrayIterator/fetchNextOrNull()@g_neo4j-kernel-1.7.jar.txt	2
+org/neo4j/kernel/impl/storemigration/legacystore/LegacyDynamicRecordFetcher/joinRecordsIntoString(long,java.util.List)@g_neo4j-kernel-1.7.jar.txt	4
+org/neo4j/kernel/impl/transaction/XaDataSourceManager/recover(java.util.Iterator)@g_neo4j-kernel-1.7.jar.txt	1
+org/neo4j/kernel/impl/nioneo/store/PropertyStore/readFullByteArray(long,java.lang.Iterable,org.neo4j.kernel.impl.nioneo.store.AbstractDynamicStore)@g_neo4j-kernel-1.7.jar.txt	0

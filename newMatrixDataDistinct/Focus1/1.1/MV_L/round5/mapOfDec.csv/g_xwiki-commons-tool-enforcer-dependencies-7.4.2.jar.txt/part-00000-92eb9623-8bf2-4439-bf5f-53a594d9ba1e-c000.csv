@@ -1,0 +1,5 @@
+org/apache/maven/plugins/enforcer/RequirePluginVersions/hasValidVersionSpecified(org.apache.maven.enforcer.rule.api.EnforcerRuleHelper,org.apache.maven.model.Plugin,java.util.List)@g_xwiki-commons-tool-enforcer-dependencies-7.4.jar.txt	3
+org/xwiki/tool/enforcer/ValidateDependencyVersion/validateDependencies(java.util.List)@g_xwiki-commons-tool-enforcer-dependencies-7.4.jar.txt	0
+org/apache/maven/plugins/enforcer/AbstractRequireFiles/execute(org.apache.maven.enforcer.rule.api.EnforcerRuleHelper)@g_xwiki-commons-tool-enforcer-dependencies-7.4.jar.txt	4
+org/apache/maven/plugins/enforcer/RequireUpperBoundDeps/buildTreeString(org.apache.maven.shared.dependency.tree.DependencyNode)@g_xwiki-commons-tool-enforcer-dependencies-7.4.jar.txt	2
+org/apache/maven/plugins/enforcer/utils/ArtifactMatcher/Pattern/match(org.apache.maven.artifact.Artifact)@g_xwiki-commons-tool-enforcer-dependencies-7.4.jar.txt	1

@@ -1,0 +1,5 @@
+org/edr/resource/BudgetResource/deleteBudget(java.lang.Long)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	1
+app/util/HtmlSpecialChars/replaceChars(java.lang.String)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	0
+org/edr/util/jpa/LocalDateUserType/nullSafeGet(java.sql.ResultSet,java.lang.String[],org.hibernate.engine.spi.SessionImplementor,java.lang.Object)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	2
+org/edr/junit/AbstractJunitTest/fillExpectedDataSet()@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	4
+app/util/currency/CurrencyWorker/getJSON()@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	3

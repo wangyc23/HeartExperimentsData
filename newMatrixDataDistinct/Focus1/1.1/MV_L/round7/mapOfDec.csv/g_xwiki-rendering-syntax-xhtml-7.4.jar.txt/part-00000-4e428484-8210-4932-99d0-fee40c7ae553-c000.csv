@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XWikiCommentHandler/handleImageCommentStop(java.lang.String,org.xwiki.rendering.wikimodel.xhtml.impl.TagStack)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	4
+org/xwiki/rendering/internal/renderer/xhtml/XHTMLMarkerResourceReferenceSerializer/serialize(org.xwiki.rendering.listener.reference.ResourceReference)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	3
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XHTMLXWikiGeneratorListener/onReference(org.xwiki.rendering.wikimodel.WikiReference)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	1
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XWikiCommentHandler/handleLinkCommentStop(java.lang.String,org.xwiki.rendering.wikimodel.xhtml.impl.TagStack)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	0
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XWikiCommentHandler/handleImageCommentStop(java.lang.String,org.xwiki.rendering.wikimodel.xhtml.impl.XhtmlHandler$TagStack)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	2

@@ -1,0 +1,4 @@
+ucar/nc2/iosp/hdf5/H5tiledLayoutBB$DataChunk/isBitSet(int,int)
+ucar/nc2/iosp/hdf5/H5tiledLayoutBB$DataChunk/checkfletcher32(byte[])
+ucar/nc2/iosp/hdf5/H5tiledLayoutBB$DataChunk/shuffle(byte[],int)
+java/lang/StringBuilder/StringBuilder()

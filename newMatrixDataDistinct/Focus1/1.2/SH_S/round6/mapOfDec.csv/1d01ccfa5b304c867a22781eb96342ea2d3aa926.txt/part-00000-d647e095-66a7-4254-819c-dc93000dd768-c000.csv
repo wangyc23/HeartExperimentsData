@@ -1,0 +1,5 @@
+org/richfaces/demo/ActionListenerBean/handleActionMethodComposite(org.richfaces.demo.ActionEvent)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	0
+org/richfaces/example/PasswordValidationBean/storeNewPassword()@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	4
+org/richfaces/demo/CalendarBean/doCurrentDataChangeListener(org.richfaces.demo.CurrentDateChangeEvent)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	2
+org/richfaces/demo/DataBean/getEmployeeList()@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	3
+org/richfaces/demo/RF10888/contains(java.lang.String,org.richfaces.demo.Function)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	1

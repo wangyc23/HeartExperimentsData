@@ -1,0 +1,4 @@
+pitt/search/semanticvectors/vectors/RealVector/toString()
+pitt/search/semanticvectors/vectors/RealVector/RealVector(float[])
+java/lang/String/contains(java.lang.CharSequence)
+java/io/PrintStream/println(java.lang.String)

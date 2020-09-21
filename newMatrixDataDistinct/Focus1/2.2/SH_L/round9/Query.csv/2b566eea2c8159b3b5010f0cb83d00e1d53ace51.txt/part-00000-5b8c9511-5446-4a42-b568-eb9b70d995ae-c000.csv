@@ -1,0 +1,4 @@
+java/math/BigDecimal/BigDecimal(double)
+java/text/DecimalFormat/DecimalFormat(java.lang.String)
+java/math/BigDecimal/setScale(int,int)
+java/math/BigDecimal/doubleValue()

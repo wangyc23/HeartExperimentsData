@@ -1,0 +1,5 @@
+org/apache/maven/shared/filtering/PropertyUtils/getPropertyValue(java.lang.String,java.util.Properties)@g_maven-filtering-1.1.jar.txt	2
+org/apache/maven/shared/filtering/DefaultMavenFileFilter/getDefaultFilterWrappers(org.apache.maven.shared.filtering.AbstractMavenFilteringRequest)@g_maven-filtering-1.1.jar.txt	3
+org/apache/maven/shared/filtering/DefaultMavenFileFilter/loadProperties(java.util.Properties,java.util.List,java.util.Properties)@g_maven-filtering-1.1.jar.txt	1
+org/apache/maven/shared/filtering/DefaultMavenResourcesFiltering/copyDirectoryLayout(java.io.File,java.io.File,org.codehaus.plexus.util.Scanner)@g_maven-filtering-1.1.jar.txt	4
+org/apache/maven/shared/filtering/DefaultMavenFileFilter/copyFile(java.io.File,java.io.File,boolean,java.util.List,java.lang.String,boolean)@g_maven-filtering-1.1.jar.txt	0

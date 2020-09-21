@@ -1,0 +1,5 @@
+tables/UserInfoDAO/getUserInfoByID(int)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	2
+tables/GroupDAO/getGroupByID(int)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	4
+com/ibm/taste/example/movie/utils/DBUtil/getDataSource()@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	3
+tables/StudentDAO/getStudentsByGroupID(int)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	1
+tables/GroupDAO/create(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	0

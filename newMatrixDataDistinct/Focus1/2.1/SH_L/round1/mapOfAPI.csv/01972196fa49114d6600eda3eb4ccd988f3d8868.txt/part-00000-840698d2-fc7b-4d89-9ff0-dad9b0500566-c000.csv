@@ -1,0 +1,6 @@
+0	org/apache/hadoop/util/ToolRunner/run(org.apache.hadoop.conf.Configuration,org.apache.hadoop.util.Tool,java.lang.String[])
+1	org/apache/hadoop/conf/Configuration/Configuration()
+2	org/hf/mls/cf/hadoop/CFItemBaseJob/runJobs(java.lang.String[])
+3	org/hf/mls/cf/hadoop/CFItemBaseJob/CFItemBaseJob()
+4	wikibooks/hadoop/chapter07/TaggedKey/setCarrierCode(java.lang.String)
+5	org/hf/mls/ar/hadoop/PreProcessJob/PreProcessJob()

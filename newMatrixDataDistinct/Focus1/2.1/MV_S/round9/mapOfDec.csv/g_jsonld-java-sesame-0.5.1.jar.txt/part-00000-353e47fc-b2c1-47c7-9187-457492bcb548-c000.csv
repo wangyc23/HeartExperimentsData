@@ -1,0 +1,5 @@
+com/github/jsonldjava/sesame/SesameJSONLDParser/parse(java.io.Reader,java.lang.String)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	2
+org/openrdf/query/QueryResults/report(org.openrdf.query.GraphQueryResult,org.openrdf.rio.RDFHandler)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	1
+org/openrdf/query/dawg/DAWGTestResultSetParser/getBindingNames(org.openrdf.model.Resource)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	4
+org/openrdf/query/dawg/DAWGTestResultSetParser/reportSolution(org.openrdf.model.Resource,java.util.List)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	3
+org/eclipse/rdf4j/rio/jsonld/JSONLDInternalRDFParser/parse(java.lang.Object)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	0

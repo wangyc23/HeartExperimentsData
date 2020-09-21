@@ -1,0 +1,5 @@
+com/jmatio/io/MatFileInputStream/readLong()@g_objenesis-1.2.jar.txt	1
+com/jmatio/io/MatFileInputStream/readShort()@g_objenesis-1.2.jar.txt	4
+com/jmatio/io/MatFileIncrementalWriter/writeHeader(java.nio.channels.WritableByteChannel)@g_objenesis-1.2.jar.txt	0
+com/jmatio/io/MatFileInputStream/readFloat()@g_objenesis-1.2.jar.txt	3
+org/springframework/asm/ClassReader/readConst(int,char[])@g_objenesis-1.2.jar.txt	2

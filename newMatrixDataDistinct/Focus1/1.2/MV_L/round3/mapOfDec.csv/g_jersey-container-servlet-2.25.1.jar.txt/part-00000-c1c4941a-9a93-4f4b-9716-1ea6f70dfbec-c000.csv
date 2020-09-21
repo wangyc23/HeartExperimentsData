@@ -1,0 +1,5 @@
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/findJerseyServletNames(javax.servlet.ServletContext)@g_jetty-continuation-7.4.4.v20110707.jar.txt	4
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/addServletWithDefaultConfiguration(javax.servlet.ServletContext,java.util.Set)@g_jetty-continuation-7.4.4.v20110707.jar.txt	2
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/getInitParams(javax.servlet.ServletRegistration)@g_jetty-continuation-7.4.4.v20110707.jar.txt	3
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/addServletWithApplication(javax.servlet.ServletContext,java.lang.Class,java.util.Set)@g_jetty-continuation-7.4.4.v20110707.jar.txt	1
+org/glassfish/jersey/servlet/init/FilterUrlMappingsProviderImpl/getFilterUrlMappings(javax.servlet.FilterConfig)@g_jetty-continuation-7.4.4.v20110707.jar.txt	0

@@ -1,0 +1,5 @@
+org/sindice/siren/qparser/analysis/TokenizerTestBase/assertTokenizesTo(org.apache.lucene.analysis.Tokenizer,java.lang.String,java.lang.String[],java.lang.String[])@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	4
+org/sindice/siren/analysis/filter/TestURIEncodingFilter/assertURLDecodedTo(org.apache.lucene.analysis.Tokenizer,java.lang.String,java.lang.String,java.lang.String[],java.lang.String[],int[])@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	0
+org/sindice/siren/analysis/TestTupleTokenizer/assertTokenizesTo(org.apache.lucene.analysis.Tokenizer,java.lang.String,java.lang.String[],java.lang.String[],java.lang.String[],int[],int[],int[])@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	3
+org/sindice/siren/analysis/filter/TestURILocalnameFilter/assertNormalisesTo(org.apache.lucene.analysis.Tokenizer,java.lang.String,java.lang.String[],java.lang.String[],int[],int[],int[])@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	2
+org/sindice/siren/analysis/TestWhitespaceTupleAnalyzer/assertAnalyzesTo(org.apache.lucene.analysis.Analyzer,java.lang.String,java.lang.String[],java.lang.String[],int[],int[],int[])@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	1

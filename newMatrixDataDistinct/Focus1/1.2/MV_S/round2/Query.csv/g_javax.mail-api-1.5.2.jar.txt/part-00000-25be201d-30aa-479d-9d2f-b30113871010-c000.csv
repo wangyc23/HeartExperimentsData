@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+java/lang/String/charAt(int)
+java/lang/String/length()
+com/sun/mail/util/BEncoderStream/BEncoderStream(java.io.OutputStream)

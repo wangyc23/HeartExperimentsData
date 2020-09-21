@@ -1,0 +1,5 @@
+org/springframework/cloud/util/InetUtils/getFirstNonLoopbackAddress()@g_spring-cloud-commons-1.1.0.BUILD-SNAPSHOT.jar.txt	2
+org/springframework/cloud/util/SpringFactoryImportSelector/selectImports(org.springframework.core.type.AnnotationMetadata)@g_spring-cloud-commons-1.0.2.BUILD-20150625.113433-24.jar.txt	1
+org/springframework/cloud/util/SpringFactoryImportSelector/selectImports(org.springframework.core.type.AnnotationMetadata)@g_spring-cloud-commons-1.1.0.BUILD-SNAPSHOT.jar.txt	0
+org/springframework/cloud/client/discovery/health/DiscoveryClientHealthIndicator/health()@g_spring-cloud-commons-1.1.0.BUILD-SNAPSHOT.jar.txt	3
+org/springframework/cloud/util/InetUtils/getFirstNonLoopbackAddress()@g_spring-cloud-commons-1.0.2.BUILD-20150625.113433-24.jar.txt	4

@@ -1,0 +1,5 @@
+org/springframework/beans/factory/support/PropertiesBeanDefinitionReader/registerBeanDefinition(java.lang.String,java.util.Map,java.lang.String,java.lang.String)@g_spring-2.5.6.jar.txt	1
+org/springframework/beans/TypeConverterDelegate/convertToTypedCollection(java.util.Collection,java.lang.String,org.springframework.core.MethodParameter)@g_spring-2.5.6.jar.txt	2
+org/springframework/beans/propertyeditors/CustomCollectionEditor/setValue(java.lang.Object)@g_spring-2.5.6.jar.txt	4
+org/springframework/orm/hibernate3/LocalSessionFactoryBean/buildSessionFactory()@g_spring-2.5.6.jar.txt	0
+org/springframework/beans/TypeConverterDelegate/convertToTypedArray(java.lang.Object,java.lang.String,java.lang.Class)@g_spring-2.5.6.jar.txt	3

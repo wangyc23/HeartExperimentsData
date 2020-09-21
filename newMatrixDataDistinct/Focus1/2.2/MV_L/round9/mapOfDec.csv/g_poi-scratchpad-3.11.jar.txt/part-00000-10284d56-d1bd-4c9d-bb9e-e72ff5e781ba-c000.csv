@@ -1,0 +1,5 @@
+org/apache/poi/hslf/record/AnimationInfoAtom/toString()@g_poi-scratchpad-3.9.jar.txt	3
+org/apache/poi/hslf/extractor/PowerPointExtractor/getText(boolean,boolean,boolean,boolean)@g_poi-scratchpad-3.9.jar.txt	0
+org/apache/poi/hslf/extractor/PowerPointExtractor/getText(boolean,boolean,boolean,boolean)@g_poi-scratchpad-3.8.jar.txt	1
+org/apache/poi/hslf/record/StyleTextPropAtom/toString()@g_poi-scratchpad-3.9.jar.txt	4
+org/apache/poi/hslf/dev/SlideShowRecordDumper/printEscherContainerRecord(org.apache.poi.ddf.EscherContainerRecord)@g_poi-scratchpad-3.9.jar.txt	2

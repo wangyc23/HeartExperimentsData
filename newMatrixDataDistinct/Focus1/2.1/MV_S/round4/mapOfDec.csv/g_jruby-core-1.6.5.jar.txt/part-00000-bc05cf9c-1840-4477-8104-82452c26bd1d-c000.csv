@@ -1,0 +1,5 @@
+edu/stanford/nlp/stats/Counters/toVerticalString(edu.stanford.nlp.stats.Counter,int,java.lang.String,boolean)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/util/Execution/usageAndExit(java.util.Map)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/io/IOUtils/findStreamInClasspathOrFileSystem(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/lexparser/BaseLexicon/printLexStats()@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/stats/Counters/saveCounter(edu.stanford.nlp.stats.Counter,java.io.OutputStream)@g_stanford-parser-3.5.2.jar.txt	1

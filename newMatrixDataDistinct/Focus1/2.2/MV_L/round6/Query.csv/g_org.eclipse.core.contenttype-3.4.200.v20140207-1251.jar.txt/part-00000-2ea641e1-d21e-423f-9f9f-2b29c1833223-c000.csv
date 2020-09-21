@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+java/lang/Thread/getName()
+java/lang/Thread/currentThread()
+java/lang/StringBuffer/append(java.lang.Object)

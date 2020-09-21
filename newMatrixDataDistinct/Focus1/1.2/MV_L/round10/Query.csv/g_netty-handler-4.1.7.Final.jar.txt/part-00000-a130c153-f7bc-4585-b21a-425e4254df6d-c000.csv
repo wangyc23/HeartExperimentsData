@@ -1,0 +1,4 @@
+io/netty/handler/ssl/ReferenceCountedOpenSslServerContext$ExtendedTrustManagerVerifyCallback/ExtendedTrustManagerVerifyCallback(io.netty.handler.ssl.OpenSslEngineMap,javax.net.ssl.X509ExtendedTrustManager)
+io/netty/handler/ssl/ReferenceCountedOpenSslServerContext/setKeyMaterial(long,java.security.cert.X509Certificate[],java.security.PrivateKey,java.lang.String)
+org/apache/tomcat/jni/SSLContext/setVerify(long,int,int)
+io/netty/util/internal/ObjectUtil/checkNotNull(java.lang.Object,java.lang.String)

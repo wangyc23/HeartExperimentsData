@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStreamHandler/getHostAddress(java.net.URL)@g_org.eclipse.osgi-3.7.1.jar.txt	4
+org/eclipse/osgi/framework/debug/Debug/printStackTrace(java.lang.Throwable)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/osgi/framework/internal/core/ConsoleManager/ConsoleSocketGetter/run()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/osgi/framework/internal/core/ConsoleManager/ConsoleSocketGetter/run()@g_org.eclipse.osgi-3.7.1.jar.txt	0
+org/eclipse/osgi/framework/debug/Debug/printStackTrace(java.lang.Throwable)@g_org.eclipse.osgi-3.7.1.jar.txt	1

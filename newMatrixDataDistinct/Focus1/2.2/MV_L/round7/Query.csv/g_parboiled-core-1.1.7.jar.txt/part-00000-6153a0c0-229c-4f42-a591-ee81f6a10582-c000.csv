@@ -1,0 +1,4 @@
+java/util/Queue/isEmpty()
+java/lang/Class/getGenericSuperclass()
+java/lang/Object/equals(java.lang.Object)
+java/lang/reflect/ParameterizedType/getRawType()

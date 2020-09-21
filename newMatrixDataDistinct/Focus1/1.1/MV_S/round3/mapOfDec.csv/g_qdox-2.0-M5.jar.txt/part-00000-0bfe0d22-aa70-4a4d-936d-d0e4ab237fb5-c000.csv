@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getBootclassPath()@g_maven-plugin-tools-java-3.4.jar.txt	2
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/getJavadocComment(java.lang.String,com.thoughtworks.qdox.model.AbstractInheritableJavaEntity,com.thoughtworks.qdox.model.DocletTag)@g_maven-plugin-tools-java-3.4.jar.txt	1
+com/thoughtworks/qdox/builder/impl/EvaluatingVisitor/visit(com.thoughtworks.qdox.model.expression.Subtract)@g_maven-plugin-tools-java-3.4.jar.txt	3
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getTagletPath()@g_maven-plugin-tools-java-3.4.jar.txt	0
+com/thoughtworks/qdox/builder/impl/EvaluatingVisitor/visit(com.thoughtworks.qdox.model.expression.ShiftLeft)@g_maven-plugin-tools-java-3.4.jar.txt	4

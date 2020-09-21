@@ -1,0 +1,5 @@
+scala/collection/parallel/mutable/ParFlatHashTable/ParFlatHashTableIterator/check()@g_scala-library-2.9.0-1.jar.txt	2
+scala/util/parsing/combinator/PackratParsers/class/scala$util$parsing$combinator$PackratParsers$$recall(scala.util.parsing.combinator.PackratParsers,scala.util.parsing.combinator.Parsers$Parser,scala.util.parsing.combinator.PackratParsers$PackratReader)@g_scala-library-2.9.0-1.jar.txt	1
+scala/collection/immutable/IntMap/intersectionWith(scala.collection.immutable.IntMap,scala.Function3)@g_scala-library-2.9.0-1.jar.txt	4
+scala/actors/threadpool/AbstractExecutorService/invokeAll(java.util.Collection)@g_scala-library-2.9.0-1.jar.txt	3
+scala/util/parsing/combinator/PackratParsers/class/grow(scala.util.parsing.combinator.PackratParsers,scala.util.parsing.combinator.Parsers$Parser,scala.util.parsing.combinator.PackratParsers$PackratReader,scala.util.parsing.combinator.PackratParsers$Head)@g_scala-library-2.9.0-1.jar.txt	0

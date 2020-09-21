@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+java/nio/ByteBuffer/isReadOnly()
+java/nio/Buffer/limit(int)
+java/nio/Buffer/position(int)

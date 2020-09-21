@@ -1,0 +1,4 @@
+cn/lcf/entity/User/setName(java.lang.String)
+cn/lcf/entity/User/User()
+cn/lcf/dao/IUserDao/add(cn.lcf.entity.User)
+java/lang/String/valueOf(long)

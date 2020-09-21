@@ -1,0 +1,5 @@
+org/apache/lucene/index/PersistentSnapshotDeletionPolicy/persist()@g_lucene-core-6.2.1.jar.txt	0
+org/apache/lucene/index/PersistentSnapshotDeletionPolicy/persist()@g_lucene-core-6.0.0.jar.txt	2
+org/apache/lucene/index/SegmentInfos/write(org.apache.lucene.store.Directory,org.apache.lucene.store.IndexOutput)@g_lucene-core-6.2.1.jar.txt	1
+org/apache/lucene/index/SegmentInfos/write(org.apache.lucene.store.Directory,org.apache.lucene.store.IndexOutput)@g_lucene-core-6.0.0.jar.txt	3
+org/apache/lucene/codecs/lucene62/Lucene62SegmentInfoFormat/write(org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentInfo,org.apache.lucene.store.IOContext)@g_lucene-core-6.2.1.jar.txt	4

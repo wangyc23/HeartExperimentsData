@@ -1,0 +1,5 @@
+org/springframework/http/server/ServletServerHttpResponse/writeHeaders()@g_spring-messaging-4.1.6.RELEASE.jar.txt	4
+org/springframework/web/method/annotation/ExceptionHandlerMethodResolver/detectExceptionMappings(java.lang.reflect.Method)@g_spring-messaging-4.1.6.RELEASE.jar.txt	2
+org/springframework/messaging/simp/user/UserDestinationMessageHandler/handleMessage(org.springframework.messaging.Message)@g_spring-messaging-4.1.6.RELEASE.jar.txt	3
+org/springframework/web/util/HierarchicalUriComponents/verifyUriComponent(java.lang.String,org.springframework.web.util.HierarchicalUriComponents$Type)@g_spring-messaging-4.1.6.RELEASE.jar.txt	1
+org/springframework/messaging/handler/annotation/support/PayloadArgumentResolver/validate(org.springframework.messaging.Message,org.springframework.core.MethodParameter,java.lang.Object)@g_spring-messaging-4.1.6.RELEASE.jar.txt	0

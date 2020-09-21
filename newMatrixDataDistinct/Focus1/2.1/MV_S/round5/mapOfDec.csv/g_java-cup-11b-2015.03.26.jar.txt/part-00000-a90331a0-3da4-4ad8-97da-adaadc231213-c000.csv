@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Copydir/execute()@g_java-cup-0.11a.jar.txt	3
+java_cup/lalr_state/report_shift_reduce(java_cup.lalr_item,int)@g_java-cup-0.11a.jar.txt	0
+org/apache/tools/ant/types/selectors/ExtendSelector/selectorCreate()@g_java-cup-0.11a.jar.txt	4
+org/apache/tools/ant/taskdefs/Checksum/validateAndExecute()@g_java-cup-0.11a.jar.txt	2
+java_cup/lalr_state/dump_state(java_cup.lalr_state)@g_java-cup-0.11a.jar.txt	1

@@ -1,0 +1,6 @@
+0	java/util/Iterator/hasNext()
+1	java/util/Iterator/next()
+2	Acme/Utils/SimpleBuffer/getEmptyBuffer()
+3	java/sql/DriverManager/getDrivers()
+4	java/lang/System/arraycopy(java.lang.Object,int,java.lang.Object,int,int)
+5	java/lang/Math/max(int,int)

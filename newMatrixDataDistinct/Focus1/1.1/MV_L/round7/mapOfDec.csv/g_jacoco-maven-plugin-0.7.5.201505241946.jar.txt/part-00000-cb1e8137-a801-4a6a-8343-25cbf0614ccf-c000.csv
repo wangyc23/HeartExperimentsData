@@ -1,0 +1,5 @@
+org/jacoco/maven/AbstractAgentMojo/executeMojo()@g_maven-surefire-plugin-2.18.1.jar.txt	2
+org/jacoco/maven/AbstractAgentMojo/createAgentOptions()@g_maven-surefire-plugin-2.18.1.jar.txt	3
+org/jacoco/maven/AbstractReportMojo/executeReport(java.util.Locale)@g_maven-surefire-plugin-2.18.1.jar.txt	1
+org/jacoco/maven/InstrumentMojo/executeMojo()@g_maven-surefire-plugin-2.18.1.jar.txt	4
+org/jacoco/maven/BundleCreator/createBundle(org.jacoco.core.data.ExecutionDataStore)@g_maven-surefire-plugin-2.18.1.jar.txt	0

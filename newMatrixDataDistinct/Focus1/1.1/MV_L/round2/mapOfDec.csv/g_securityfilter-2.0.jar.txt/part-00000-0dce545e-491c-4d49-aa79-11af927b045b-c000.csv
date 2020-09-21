@@ -1,0 +1,5 @@
+org/securityfilter/config/SecurityConfig/loadConfig(java.net.URL)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	3
+org/springframework/security/rsa/crypto/RsaSecretEncryptor/encrypt(byte[],java.security.PublicKey,org.springframework.security.rsa.crypto.RsaAlgorithm,java.lang.String,boolean)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	1
+org/xwiki/rendering/internal/renderer/xwiki20/XWikiSyntaxEscapeHandler/escapeFirstMatchedCharacter(java.util.regex.Pattern,java.lang.StringBuffer)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	2
+org/springframework/security/rsa/crypto/RsaKeyHelper/encodePublicKey(java.security.interfaces.RSAPublicKey,java.lang.String)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	0
+org/securityfilter/authenticator/persistent/DefaultPersistentLoginManager/getValidationHash(java.lang.String,java.lang.String,java.lang.String)@g_spring-security-rsa-1.0.1.RELEASE.jar.txt	4

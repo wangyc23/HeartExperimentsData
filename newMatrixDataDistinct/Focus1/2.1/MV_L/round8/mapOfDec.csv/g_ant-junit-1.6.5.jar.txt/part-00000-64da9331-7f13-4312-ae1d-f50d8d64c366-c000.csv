@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/AbstractFileSet/clone()@g_ant-1.6.5.jar.txt	4
+org/apache/ivy/osgi/core/ManifestHeaderValue/writeParseException(java.io.PrintStream,java.lang.String,java.text.ParseException)@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Copy/doFileOperations()@g_ant-1.6.5.jar.txt	1
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/types/Path/addExisting(org.apache.tools.ant.types.Path,boolean)@g_ant-1.6.5.jar.txt	3

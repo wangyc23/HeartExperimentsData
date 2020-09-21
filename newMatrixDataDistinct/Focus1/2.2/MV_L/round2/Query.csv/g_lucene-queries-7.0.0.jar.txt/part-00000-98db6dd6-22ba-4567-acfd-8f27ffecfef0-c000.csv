@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+org/apache/lucene/index/Term/Term(java.lang.String,org.apache.lucene.util.BytesRef)
+org/apache/lucene/index/LeafReader/totalTermFreq(org.apache.lucene.index.Term)

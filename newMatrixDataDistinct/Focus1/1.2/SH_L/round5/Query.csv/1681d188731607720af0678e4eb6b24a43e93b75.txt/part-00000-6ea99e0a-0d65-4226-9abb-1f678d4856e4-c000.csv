@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+com/facebook/presto/block/BlockUtils/toTupleIterable(com.facebook.presto.block.Block)
+com/facebook/presto/serde/BlocksFileWriter/close()
+java/util/Iterator/next()

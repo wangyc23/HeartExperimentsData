@@ -1,0 +1,5 @@
+org/apache/http/impl/client/AbstractAuthenticationHandler/parseChallenges(org.apache.http.Header[])@g_httpclient-4.2.3.jar.txt	2
+org/apache/http/client/utils/URLEncodedUtils/parse(java.lang.String,java.nio.charset.Charset)@g_httpclient-4.2.3.jar.txt	0
+org/apache/http/client/utils/URLEncodedUtils/parse(java.lang.String,java.nio.charset.Charset)@g_httpclient-4.2.1.jar.txt	1
+org/apache/http/impl/cookie/NetscapeDraftHeaderParser/parseHeader(org.apache.http.util.CharArrayBuffer,org.apache.http.message.ParserCursor)@g_httpclient-4.2.3.jar.txt	3
+org/apache/http/impl/client/AuthenticationStrategyImpl/getChallenges(org.apache.http.HttpHost,org.apache.http.HttpResponse,org.apache.http.protocol.HttpContext)@g_httpclient-4.2.3.jar.txt	4

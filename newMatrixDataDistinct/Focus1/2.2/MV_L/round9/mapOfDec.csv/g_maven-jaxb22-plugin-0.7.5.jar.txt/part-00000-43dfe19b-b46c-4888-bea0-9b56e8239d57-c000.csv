@@ -1,0 +1,5 @@
+org/jvnet/mjiip/v_2/OptionsFactory/createOptions(org.jvnet.jaxb2.maven2.OptionsConfiguration)@g_maven-jaxb2-plugin-0.7.5.jar.txt	0
+org/apache/maven/plugin/dependency/fromConfiguration/CopyMojo/execute()@g_maven-dependency-plugin-2.2.jar.txt	1
+org/apache/maven/plugin/dependency/treeSerializers/DOTDependencyNodeVisitor/visit(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-dependency-plugin-2.2.jar.txt	3
+org/apache/maven/plugin/dependency/treeSerializers/GraphmlDependencyNodeVisitor/endVisit(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-dependency-plugin-2.2.jar.txt	4
+org/apache/maven/plugin/dependency/AbstractAnalyzeMojo/logArtifacts(java.util.Set,boolean)@g_maven-dependency-plugin-2.2.jar.txt	2

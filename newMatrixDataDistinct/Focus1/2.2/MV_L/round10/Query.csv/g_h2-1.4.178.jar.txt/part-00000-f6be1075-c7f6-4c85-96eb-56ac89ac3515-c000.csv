@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/allocate(int)
+org/h2/mvstore/StreamStore$Stream/nextBuffer()
+java/nio/ByteBuffer/put(java.nio.ByteBuffer)
+java/nio/ByteBuffer/limit()

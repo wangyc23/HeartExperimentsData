@@ -1,0 +1,5 @@
+org/apache/maven/plugins/source/AbstractSourceJarMojo/packageSources(java.util.List)@g_maven-source-plugin-3.0.0.jar.txt	2
+org/apache/maven/plugins/source/HelpMojo/execute()@g_maven-source-plugin-3.0.0.jar.txt	1
+org/apache/maven/plugin/war/AbstractWarMojo/buildWebapp(org.apache.maven.project.MavenProject,java.io.File)@g_maven-war-plugin-2.2.jar.txt	3
+org/apache/maven/plugins/source/AbstractSourceJarMojo/archiveProjectContent(org.apache.maven.project.MavenProject,org.codehaus.plexus.archiver.Archiver)@g_maven-source-plugin-3.0.0.jar.txt	0
+org/apache/maven/plugin/war/overlay/OverlayManager/getAssociatedArtifact(org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.2.jar.txt	4

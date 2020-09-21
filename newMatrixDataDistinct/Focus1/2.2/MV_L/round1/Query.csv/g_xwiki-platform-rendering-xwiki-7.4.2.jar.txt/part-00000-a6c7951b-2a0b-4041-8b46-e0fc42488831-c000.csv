@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+org/xwiki/component/manager/ComponentManager/getInstanceList(java.lang.reflect.Type)
+java/util/Iterator/next()

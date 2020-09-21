@@ -1,0 +1,5 @@
+io/netty/handler/codec/http/websocketx/extensions/WebSocketServerExtensionHandlerTest/testMainSuccess()@0ffdf59c240a583481233e344c76fb939986aab1.txt	2
+io/netty/handler/codec/http/websocketx/extensions/compression/PerMessageDeflateServerExtensionHandshakerTest/testCustomHandshake()@0ffdf59c240a583481233e344c76fb939986aab1.txt	4
+io/netty/handler/codec/http/websocketx/extensions/WebSocketClientExtensionHandlerTest/testFallbackSuccess()@0ffdf59c240a583481233e344c76fb939986aab1.txt	0
+io/netty/handler/codec/http/websocketx/extensions/WebSocketClientExtensionHandlerTest/testMainSuccess()@0ffdf59c240a583481233e344c76fb939986aab1.txt	3
+io/netty/handler/codec/http/websocketx/extensions/compression/PerMessageDeflateServerExtensionHandshakerTest/testNormalHandshake()@0ffdf59c240a583481233e344c76fb939986aab1.txt	1

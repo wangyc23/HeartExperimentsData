@@ -1,0 +1,4 @@
+java/net/URL/toExternalForm()
+java/util/zip/ZipFile/ZipFile(java.io.File)
+java/util/zip/ZipEntry/getName()
+java/util/logging/Logger/log(java.util.logging.Level,java.lang.String)

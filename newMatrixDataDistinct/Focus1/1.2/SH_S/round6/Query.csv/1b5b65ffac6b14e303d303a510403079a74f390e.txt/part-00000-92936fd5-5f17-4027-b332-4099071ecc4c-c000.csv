@@ -1,0 +1,4 @@
+java/util/HashMap/HashMap(java.util.Map)
+org/apache/camel/component/esper/EsperProducer/getEsperRuntime()
+org/apache/camel/component/esper/EsperEndpoint/getName()
+org/apache/camel/component/esper/EsperEndpoint/isMapEvents()

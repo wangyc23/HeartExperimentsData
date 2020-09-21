@@ -1,0 +1,5 @@
+gaffer/accumulostore/retriever/impl/AccumuloIDWithinSetRetrieverTest/shouldDealWithFalsePositivesGaffer1Store()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	4
+com/yahoo/ycsb/db/CouchbaseClient/encode(java.util.HashMap)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	0
+com/yahoo/ycsb/db/MemcachedClient/toJson(java.util.Map)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	1
+com/yahoo/ycsb/generator/Generator/lastString()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	2
+com/yahoo/ycsb/generator/Generator/nextString()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	3

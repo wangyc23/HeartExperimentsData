@@ -1,0 +1,4 @@
+org/commonjava/web/fd/model/WorkspaceFile/getContentLength()
+java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])
+org/commonjava/web/fd/model/WorkspaceFile/getContentType()
+java/lang/String/getBytes(java.lang.String)

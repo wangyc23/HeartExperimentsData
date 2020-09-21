@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/reflection/Reflector/getConstructor(java.lang.Class,java.lang.Class[])@g_plexus-utils-1.5.6.jar.txt	3
+org/codehaus/plexus/util/LineOrientedInterpolatingReader/evaluateExpressions(java.util.Set)@g_plexus-utils-1.5.6.jar.txt	4
+com/sun/activation/registries/MailcapFile/mergeResults(java.util.Map,java.util.Map)@g_activation-1.1.1.jar.txt	0
+com/sun/activation/registries/MailcapFile/parseLine(java.lang.String)@g_activation-1.1.1.jar.txt	1
+org/codehaus/plexus/util/reflection/Reflector/_getMethod(java.lang.Class,java.lang.String,java.lang.Class[])@g_plexus-utils-1.5.6.jar.txt	2

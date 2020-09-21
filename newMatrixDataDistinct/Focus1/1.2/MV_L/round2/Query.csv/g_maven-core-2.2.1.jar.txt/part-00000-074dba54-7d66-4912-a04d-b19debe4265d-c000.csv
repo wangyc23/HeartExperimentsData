@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/maven/artifact/versioning/DefaultArtifactVersion/DefaultArtifactVersion(java.lang.String)
+java/util/List/isEmpty()
+java/io/File/getCanonicalFile()

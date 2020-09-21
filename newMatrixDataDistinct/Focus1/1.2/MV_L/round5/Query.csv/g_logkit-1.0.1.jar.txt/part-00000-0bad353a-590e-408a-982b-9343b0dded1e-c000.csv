@@ -1,0 +1,4 @@
+java/lang/Throwable/Throwable()
+java/io/StringWriter/getBuffer()
+java/lang/StringBuffer/charAt(int)
+java/lang/StringBuffer/append(char)

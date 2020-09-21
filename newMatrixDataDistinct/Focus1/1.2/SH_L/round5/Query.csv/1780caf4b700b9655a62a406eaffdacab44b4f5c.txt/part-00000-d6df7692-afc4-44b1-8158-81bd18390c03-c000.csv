@@ -1,0 +1,4 @@
+twitter4j/conf/ConfigurationBuilder/setOAuthAccessTokenSecret(java.lang.String)
+twitter4j/conf/ConfigurationBuilder/build()
+twitter4j/conf/ConfigurationBuilder/setOAuthConsumerKey(java.lang.String)
+net/vvakame/vvakame10js/model/TwitterToken/getTokenSecret()

@@ -1,0 +1,5 @@
+scala/reflect/internal/Printers/CodePrinter/checkRootPackage$1(scala.reflect.internal.Trees$Tree)@g_truevfs-driver-file-0.11.0.jar.txt	0
+scala/reflect/internal/Trees/class/deriveCaseDef(scala.reflect.internal.SymbolTable,scala.reflect.internal.Trees$Tree,scala.Function1)@g_truevfs-driver-file-0.11.0.jar.txt	2
+scala/reflect/api/StandardLiftables/StandardUnliftableInstances/anonfun/unliftTuple2/1/isDefinedAt(scala.reflect.api.Trees$TreeApi)@g_truevfs-driver-file-0.11.0.jar.txt	1
+scala/reflect/internal/ReificationSupport/ReificationSupportImpl/SyntacticImport/anonfun/12/apply(scala.reflect.internal.Trees$ImportSelector)@g_truevfs-driver-file-0.11.0.jar.txt	4
+scala/reflect/runtime/JavaMirrors/JavaMirror/JavaMethodMirror/jinvoke(scala.collection.Seq)@g_truevfs-driver-file-0.11.0.jar.txt	3

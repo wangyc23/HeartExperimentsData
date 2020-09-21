@@ -1,0 +1,5 @@
+com/squareup/okhttp/internal/huc/JavaApiConverter/createOkBody(java.net.URLConnection)@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	4
+com/squareup/okhttp/mockwebserver/rule/MockWebServerRuleTest/afterStopsServer()@2ea5f78d52daf68d6bc162a7bbfb166ad29aee90.txt	2
+com/squareup/okhttp/mockwebserver/rule/MockWebServerRuleTest/typicalUsage()@2ea5f78d52daf68d6bc162a7bbfb166ad29aee90.txt	0
+com/squareup/okhttp/mockwebserver/rule/MockWebServerRuleTest/beforePlaysServer()@2ea5f78d52daf68d6bc162a7bbfb166ad29aee90.txt	1
+com/squareup/okhttp/internal/huc/ResponseCacheTest/retainServedDateFormat()@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	3

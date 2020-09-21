@@ -1,0 +1,5 @@
+org/hibernate/validator/engine/PathImpl/parseProperty(java.lang.String)@g_classmate-1.1.0.jar.txt	2
+org/jboss/classfilewriter/util/DescriptorUtils/parameterDescriptors(java.lang.String)@g_classmate-1.1.0.jar.txt	1
+com/fasterxml/classmate/TypeResolver/resolveSubtype(com.fasterxml.classmate.ResolvedType,java.lang.Class)@g_classmate-1.1.0.jar.txt	0
+org/hibernate/validator/metadata/ConstraintHelper/isMultiValueConstraint(java.lang.annotation.Annotation)@g_classmate-1.1.0.jar.txt	3
+org/hibernate/validator/xml/XmlMappingParser/convertStringToReturnType(java.lang.Class,java.lang.String)@g_classmate-1.1.0.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/xmlrpc/webserver/Connection/writeResponseHeader(org.apache.xmlrpc.webserver.RequestData,int)@g_xmlrpc-server-3.1.jar.txt	3
+org/apache/xmlrpc/webserver/XmlRpcServletServer/getConfig(javax.servlet.http.HttpServletRequest)@g_xmlrpc-server-3.1.jar.txt	0
+org/apache/xmlrpc/webserver/Connection/getRequestConfig()@g_xmlrpc-server-3.1.jar.txt	1
+org/apache/xmlrpc/client/XmlRpcLiteHttpTransport/getInputStream()@g_xmlrpc-server-3.1.jar.txt	2
+org/apache/xmlrpc/client/XmlRpcLiteHttpTransport/getOutputStream()@g_xmlrpc-server-3.1.jar.txt	4

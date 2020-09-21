@@ -1,0 +1,5 @@
+org/apache/pdfbox/util/PDFText2HTML/getTitle()@g_pdfbox-1.8.8.jar.txt	1
+org/apache/pdfbox/pdfparser/XrefTrailerResolver/setStartxref(long)@g_pdfbox-1.8.1.jar.txt	4
+org/apache/pdfbox/pdmodel/PDResources/reverseMap(java.util.Map,java.lang.Class)@g_pdfbox-1.8.1.jar.txt	3
+org/apache/pdfbox/util/PDFText2HTML/getTitle()@g_pdfbox-1.8.1.jar.txt	0
+org/apache/pdfbox/pdfparser/NonSequentialPDFParser/initialParse()@g_pdfbox-1.8.1.jar.txt	2

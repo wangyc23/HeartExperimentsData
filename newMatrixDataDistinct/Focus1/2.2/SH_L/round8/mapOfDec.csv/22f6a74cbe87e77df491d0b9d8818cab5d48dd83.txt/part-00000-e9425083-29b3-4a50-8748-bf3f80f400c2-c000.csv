@@ -1,0 +1,5 @@
+org/deeplearning4j/text/invertedindex/LuceneInvertedIndex/addWordsToDoc(int,java.util.List)@1c50912f1039a2f629c549d23e852666647eb2d3.txt	1
+org/deeplearning4j/text/invertedindex/LuceneInvertedIndex/totalWords()@1c50912f1039a2f629c549d23e852666647eb2d3.txt	3
+org/deeplearning4j/models/sequencevectors/graph/walkers/impl/RandomWalker/hasNext()@1c50912f1039a2f629c549d23e852666647eb2d3.txt	4
+org/deeplearning4j/clustering/algorithm/BaseClusteringAlgorithm/applyClusteringStrategy()@1c50912f1039a2f629c549d23e852666647eb2d3.txt	2
+org/deeplearning4j/clustering/algorithm/condition/ConvergenceCondition/isSatisfied(org.deeplearning4j.clustering.algorithm.iteration.IterationHistory)@1c50912f1039a2f629c549d23e852666647eb2d3.txt	0

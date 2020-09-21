@@ -1,0 +1,5 @@
+org/apache/lucene/util/packed/Packed64/set(int,long[],int,int)@g_lucene-core-4.6.0.jar.txt	4
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_lucene-core-4.6.0.jar.txt	2
+org/apache/lucene/util/packed/PackedInts/Mutable/set(int,long[],int,int)@g_lucene-core-4.6.0.jar.txt	3
+org/apache/lucene/util/BytesRefHash/add(org.apache.lucene.util.BytesRef,int)@g_lucene-core-4.5.0.jar.txt	1
+org/apache/lucene/util/BytesRefHash/add(org.apache.lucene.util.BytesRef,int)@g_lucene-core-4.6.0.jar.txt	0

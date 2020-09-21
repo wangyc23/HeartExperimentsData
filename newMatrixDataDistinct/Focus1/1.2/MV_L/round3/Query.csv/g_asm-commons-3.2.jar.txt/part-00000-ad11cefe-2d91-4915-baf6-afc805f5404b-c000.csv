@@ -1,0 +1,4 @@
+org/objectweb/asm/Type/getDescriptor()
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/StringBuffer/toString()
+java/lang/String/substring(int)

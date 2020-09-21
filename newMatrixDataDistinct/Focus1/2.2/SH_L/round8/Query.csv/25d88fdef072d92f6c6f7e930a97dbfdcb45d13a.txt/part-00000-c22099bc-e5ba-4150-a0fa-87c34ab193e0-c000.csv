@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+gaffer/data/element/Element/getGroup()
+gaffer/data/element/Edge/getSource()
+java/lang/String/equals(java.lang.Object)

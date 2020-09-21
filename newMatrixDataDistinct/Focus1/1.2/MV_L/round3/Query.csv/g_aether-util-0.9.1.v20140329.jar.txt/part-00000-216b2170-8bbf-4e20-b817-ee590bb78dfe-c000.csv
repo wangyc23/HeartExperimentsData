@@ -1,0 +1,4 @@
+org/eclipse/aether/graph/Dependency/getScope()
+java/util/HashMap/HashMap(java.util.Map)
+org/eclipse/aether/graph/Dependency/getExclusions()
+java/util/Collection/addAll(java.util.Collection)

@@ -1,0 +1,5 @@
+javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV/validate(java.lang.String,java.lang.String,javax.servlet.jsp.tagext.PageData)@g_jstl-1.2.jar.txt	3
+org/apache/taglibs/standard/lang/support/ExpressionEvaluatorManager/getEvaluatorByName(java.lang.String)@g_javax.servlet.jsp.jstl-1.2.0.v201105211821.jar.txt	4
+org/apache/taglibs/standard/tlv/JstlBaseTLV/validate(int,java.lang.String,java.lang.String,javax.servlet.jsp.tagext.PageData)@g_jstl-1.2.jar.txt	1
+javax/servlet/jsp/jstl/tlv/ScriptFreeTLV/validate(java.lang.String,java.lang.String,javax.servlet.jsp.tagext.PageData)@g_jstl-1.2.jar.txt	2
+javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV/validate(java.lang.String,java.lang.String,javax.servlet.jsp.tagext.PageData)@g_javax.servlet.jsp.jstl-1.2.0.v201105211821.jar.txt	0

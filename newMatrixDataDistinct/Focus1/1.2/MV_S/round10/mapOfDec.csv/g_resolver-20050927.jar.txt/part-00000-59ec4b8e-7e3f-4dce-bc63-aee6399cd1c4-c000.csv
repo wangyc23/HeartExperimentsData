@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector/useParameter(org.apache.tools.ant.types.Parameter)@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/types/selectors/SizeSelector/setParameters(org.apache.tools.ant.types.Parameter[])@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/Manifest/Section/addAttributeAndCheck(org.apache.tools.ant.taskdefs.Manifest$Attribute)@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/filters/StripLineComments/read()@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/taskdefs/SQLExec/runStatements(java.io.Reader,java.io.PrintStream)@g_ant-1.6.5.jar.txt	2

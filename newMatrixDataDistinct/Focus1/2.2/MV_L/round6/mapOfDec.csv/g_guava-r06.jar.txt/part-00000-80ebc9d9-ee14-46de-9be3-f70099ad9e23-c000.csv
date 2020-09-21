@@ -1,0 +1,5 @@
+com/google/common/util/concurrent/AbstractListeningExecutorService/invokeAll(java.util.Collection,long,java.util.concurrent.TimeUnit)@g_sisu-guava-0.9.9.jar.txt	0
+com/google/common/collect/LinkedListMultimap/replaceValues(java.lang.Object,java.lang.Iterable)@g_guava-r08.jar.txt	4
+com/google/common/util/concurrent/AbstractListeningExecutorService/doInvokeAny(java.util.Collection,boolean,long)@g_sisu-guava-0.9.9.jar.txt	2
+com/google/common/collect/Maps/difference(java.util.Map,java.util.Map)@g_guava-r08.jar.txt	3
+com/google/common/util/concurrent/AbstractListeningExecutorService/invokeAll(java.util.Collection)@g_sisu-guava-0.9.9.jar.txt	1

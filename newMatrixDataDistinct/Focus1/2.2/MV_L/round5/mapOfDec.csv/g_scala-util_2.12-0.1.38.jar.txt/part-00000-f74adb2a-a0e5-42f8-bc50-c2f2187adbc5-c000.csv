@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_0/helpers/TypeSafeMathSupport/class/plus(org.neo4j.cypher.internal.compiler.v3_0.helpers.TypeSafeMathSupport,java.lang.Object,java.lang.Object)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_0/helpers/TypeSafeMathSupport/IntSum/add(java.lang.Object)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	2
+org/neo4j/cypher/internal/compiler/v3_0/helpers/TypeSafeMathSupport/class/multiply(org.neo4j.cypher.internal.compiler.v3_0.helpers.TypeSafeMathSupport,java.lang.Object,java.lang.Object)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	3
+org/neo4j/cypher/internal/compiler/v3_0/helpers/TypeSafeMathSupport/class/divide(org.neo4j.cypher.internal.compiler.v3_0.helpers.TypeSafeMathSupport,java.lang.Object,java.lang.Object)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	0
+org/neo4j/cypher/internal/compiler/v3_0/helpers/TypeSafeMathSupport/class/minus(org.neo4j.cypher.internal.compiler.v3_0.helpers.TypeSafeMathSupport,java.lang.Object,java.lang.Object)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	1

@@ -1,0 +1,4 @@
+java/util/ListIterator/hasNext()
+java/util/ListIterator/add(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/jetty/webapp/Configuration$ClassList/listIterator()

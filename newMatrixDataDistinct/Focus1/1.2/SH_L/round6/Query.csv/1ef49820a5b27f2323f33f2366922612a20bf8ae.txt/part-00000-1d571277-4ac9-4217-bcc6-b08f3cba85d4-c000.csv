@@ -1,0 +1,4 @@
+com/svbio/workflow/api/ExecutionStatus/setExecutionId(long)
+com/svbio/workflow/api/ExecutionStatusList/setList(java.util.List)
+com/svbio/workflow/servlet/ITWorkflowServletModule/uriBuilder(java.lang.String,java.lang.Class<?>[])
+com/svbio/workflow/api/ExecutionStatusList/ExecutionStatusList()

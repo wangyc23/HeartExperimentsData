@@ -1,0 +1,5 @@
+cucumber/runtime/android/AndroidInstrumentationReporter/startOfScenarioLifeCycle(cucumber.runtime.formatter.Scenario)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	2
+cucumber/runtime/formatter/HTMLFormatter/feature(cucumber.runtime.formatter.Feature)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	1
+cucumber/runtime/formatter/JUnitFormatter/after(cucumber.runtime.formatter.Match,cucumber.runtime.formatter.Result)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	4
+cucumber/runtime/FeatureBuilder/parse(cucumber.runtime.io.Resource,java.util.List)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	3
+cucumber/runtime/junit/SanityChecker/run(java.lang.Class,boolean)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	0

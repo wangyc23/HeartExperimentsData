@@ -1,0 +1,4 @@
+java/lang/Integer/Integer(int)
+org/apache/batik/dom/AbstractNode/getNodeName()
+java/lang/StringBuffer/append(java.lang.String)
+java/lang/StringBuffer/append(char)

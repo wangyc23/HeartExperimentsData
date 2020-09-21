@@ -1,0 +1,5 @@
+org/neo4j/tooling/ImportTool/printInputFiles(java.lang.String,java.util.Collection,java.io.PrintStream)@g_neo4j-import-tool-3.1.0.jar.txt	1
+org/neo4j/commandline/dbms/CsvImporter/doImport()@g_neo4j-import-tool-3.1.0.jar.txt	4
+org/neo4j/upgrade/lucene/IndexUpgraderWrapper/upgradeIndex(java.nio.file.Path)@g_neo4j-import-tool-3.1.0.jar.txt	3
+org/neo4j/tooling/ImportTool/main(java.lang.String[],boolean)@g_neo4j-import-tool-3.1.0.jar.txt	0
+org/neo4j/upgrade/lucene/LuceneLegacyIndexUpgrader/upgradeIndexes()@g_neo4j-lucene-upgrade-3.1.0-M01.jar.txt	2

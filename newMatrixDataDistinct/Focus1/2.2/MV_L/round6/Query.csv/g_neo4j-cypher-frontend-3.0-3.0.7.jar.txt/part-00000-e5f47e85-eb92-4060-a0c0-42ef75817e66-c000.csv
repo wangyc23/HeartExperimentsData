@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/frontend/v3_0/parser/Patterns/operator(java.lang.String)
+org/neo4j/cypher/internal/frontend/v3_0/parser/Patterns$$anonfun$PatternPart$1$$anonfun$apply$6/6(org.neo4j.cypher.internal.frontend.v3_0.parser.Patterns$$anonfun$PatternPart$1)
+org/parboiled/scala/rules/Rule1/$bar(org.parboiled.scala.rules.Rule1)
+org/neo4j/cypher/internal/frontend/v3_0/parser/Patterns/RichRule2(org.parboiled.scala.rules.Rule2)

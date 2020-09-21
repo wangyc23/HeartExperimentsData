@@ -1,0 +1,5 @@
+org/springframework/data/repository/config/RepositoryBeanDefinitionBuilder/registerCustomImplementation(org.springframework.data.repository.config.RepositoryConfiguration)@g_spring-data-commons-1.9.1.RELEASE.jar.txt	3
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/findAnnotation(java.lang.Class)@g_spring-data-commons-1.9.0.RELEASE.jar.txt	4
+org/springframework/data/repository/core/support/TransactionalRepositoryProxyPostProcessor/AbstractFallbackTransactionAttributeSource/getTransactionAttribute(java.lang.reflect.Method,java.lang.Class)@g_spring-data-commons-1.9.0.RELEASE.jar.txt	0
+org/springframework/data/repository/core/support/TransactionalRepositoryProxyPostProcessor/AbstractFallbackTransactionAttributeSource/getTransactionAttribute(java.lang.reflect.Method,java.lang.Class)@g_spring-data-commons-1.9.1.RELEASE.jar.txt	2
+org/springframework/data/repository/config/RepositoryBeanDefinitionBuilder/registerCustomImplementation(org.springframework.data.repository.config.RepositoryConfiguration)@g_spring-data-commons-1.9.0.RELEASE.jar.txt	1

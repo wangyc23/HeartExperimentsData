@@ -1,0 +1,5 @@
+org/apache/maven/plugin/surefire/report/DefaultReporterFactory/printTestFailures(org.apache.maven.surefire.report.DefaultDirectConsoleReporter,org.apache.maven.plugin.surefire.report.DefaultReporterFactory$TestResultType)@g_maven-surefire-common-2.18.1.jar.txt	0
+org/apache/maven/plugin/surefire/SurefireProperties/addList(java.util.List,java.lang.String)@g_maven-surefire-common-2.18.1.jar.txt	3
+org/apache/maven/surefire/shade/org/apache/commons/io/output/ByteArrayOutputStream/toBufferedInputStream()@g_maven-surefire-common-2.18.1.jar.txt	2
+org/apache/maven/plugin/surefire/booterclient/ForkStarter/runSuitesForkOnceMultiple(org.apache.maven.plugin.surefire.SurefireProperties,int)@g_maven-surefire-common-2.18.1.jar.txt	1
+org/apache/maven/plugin/surefire/report/StatelessXmlReporter/getRunTimeForAllTests(java.util.Map)@g_maven-surefire-common-2.18.1.jar.txt	4

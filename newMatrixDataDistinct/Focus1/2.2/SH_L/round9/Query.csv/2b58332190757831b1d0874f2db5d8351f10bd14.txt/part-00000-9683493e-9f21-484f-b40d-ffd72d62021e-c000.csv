@@ -1,0 +1,4 @@
+org/keycloak/adapters/as7/CatalinaUserSessionManagement/login(org.keycloak.adapters.as7.Session,java.lang.String,java.lang.String)
+java/lang/Class/getName()
+org/keycloak/adapters/as7/CatalinaRequestAuthenticator/getRolesFromToken(org.keycloak.adapters.RefreshableKeycloakSecurityContext)
+org/keycloak/representations/IDToken/getSessionState()

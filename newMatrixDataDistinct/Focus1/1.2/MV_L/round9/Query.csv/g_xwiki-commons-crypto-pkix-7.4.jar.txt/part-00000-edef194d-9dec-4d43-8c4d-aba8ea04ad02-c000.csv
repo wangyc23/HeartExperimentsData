@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/bouncycastle/cms/SignerInfoGeneratorBuilder/SignerInfoGeneratorBuilder(org.bouncycastle.operator.DigestCalculatorProvider)
+java/util/Collection/isEmpty()
+java/util/Collection/size()

@@ -1,0 +1,4 @@
+java/util/Properties/getProperty(java.lang.String)
+java/util/Properties/setProperty(java.lang.String,java.lang.String)
+java/util/StringTokenizer/StringTokenizer(java.lang.String,java.lang.String)
+java/util/Hashtable/clone()

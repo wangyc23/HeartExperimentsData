@@ -1,0 +1,4 @@
+io/undertow/util/HeaderMap/add(io.undertow.util.HttpString,java.lang.String)
+java/util/HashMap/put(K,V)
+java/lang/AbstractStringBuilder/setLength(int)
+io/undertow/server/HttpServerExchange/getRequestHeaders()

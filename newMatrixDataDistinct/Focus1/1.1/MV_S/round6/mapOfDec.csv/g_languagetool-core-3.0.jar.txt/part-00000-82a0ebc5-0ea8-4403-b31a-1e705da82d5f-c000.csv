@@ -1,0 +1,5 @@
+de/danielnaber/jwordsplitter/AbstractWordSplitter/getAllSplits(java.lang.String,boolean)@g_jwordsplitter-4.1.jar.txt	0
+com/optimaize/langdetect/profiles/util/LanguageLister/readFilesFromClassPathFolder(java.lang.String)@g_language-detector-0.5.jar.txt	2
+org/languagetool/tools/Tools/selectBitextRules(java.util.List,java.util.List,java.util.List,boolean)@g_jwordsplitter-4.1.jar.txt	4
+com/optimaize/langdetect/NgramFrequencyData/create(java.util.Collection,java.util.Collection)@g_language-detector-0.5.jar.txt	3
+com/cybozu/labs/langdetect/CommandLineInterface/batchTest()@g_language-detector-0.5.jar.txt	1

@@ -1,0 +1,5 @@
+org/thymeleaf/util/DartUtils/printObject(java.lang.StringBuilder,java.lang.Object)@g_thymeleaf-2.1.5.RELEASE.jar.txt	4
+org/thymeleaf/util/DateUtils/formatISO(java.lang.Object)@g_thymeleaf-2.1.5.RELEASE.jar.txt	2
+org/thymeleaf/util/DOMUtils/extractFragmentFromNode(org.thymeleaf.dom.Node,java.lang.String,java.lang.String,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	0
+org/thymeleaf/templateparser/xmlsax/AbstractNonValidatingSAXTemplateParser/XmlSAXHandler/endElement(java.lang.String,java.lang.String,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	3
+org/thymeleaf/processor/ElementNameProcessorMatcher/matches(org.thymeleaf.dom.Node,org.thymeleaf.processor.ProcessorMatchingContext)@g_thymeleaf-2.1.5.RELEASE.jar.txt	1

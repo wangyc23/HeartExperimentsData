@@ -1,0 +1,4 @@
+java/lang/reflect/Field/getName()
+java/lang/Class/getSuperclass()
+java/util/HashMap/containsKey(java.lang.Object)
+java/util/Collection/toArray(java.lang.Object[])

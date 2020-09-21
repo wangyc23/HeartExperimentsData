@@ -1,0 +1,4 @@
+scala/collection/Seq$/canBuildFrom()
+scala/Tuple2/_1()
+scala/collection/Seq/map(scala.Function1,scala.collection.generic.CanBuildFrom)
+org/neo4j/cypher/internal/compiler/v2_0/executionplan/builders/NodeFetchStrategy$/IndexEquality()

@@ -1,0 +1,5 @@
+org/eclipse/osgi/storage/bundlefile/ZipBundleFile/containsDir(java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2
+org/eclipse/osgi/storage/bundlefile/ZipBundleFile/getZipEntry(java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+lpg/runtime/DiagnoseParser/misspell(int,int)@g_java-2.0.17-v201004271640.jar.txt	0
+org/eclipse/osgi/storage/bundlefile/ZipBundleFile/getExtractFile(java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	1
+org/eclipse/osgi/storage/Storage/listEntryPaths(java.util.List,java.lang.String,java.lang.String,int)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4

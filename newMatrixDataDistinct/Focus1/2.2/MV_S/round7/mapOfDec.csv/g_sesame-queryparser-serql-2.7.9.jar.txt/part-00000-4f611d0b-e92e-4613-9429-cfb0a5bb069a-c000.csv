@@ -1,0 +1,5 @@
+org/openrdf/query/parser/sparql/UpdateExprBuilder/visit(org.openrdf.query.parser.sparql.ast.ASTInsertData,java.lang.Object)@g_sesame-queryparser-sparql-2.7.9.jar.txt	3
+org/openrdf/query/parser/sparql/TupleExprBuilder/processOrderClause(org.openrdf.query.parser.sparql.ast.ASTOrderClause,org.openrdf.query.algebra.TupleExpr,org.openrdf.query.algebra.Group)@g_sesame-queryparser-sparql-2.7.9.jar.txt	4
+org/openrdf/query/parser/sparql/TupleExprBuilder/visit(org.openrdf.query.parser.sparql.ast.ASTSelect,java.lang.Object)@g_sesame-queryparser-sparql-2.7.9.jar.txt	0
+org/openrdf/query/parser/sparql/TupleExprBuilder/visit(org.openrdf.query.parser.sparql.ast.ASTPathSequence,java.lang.Object)@g_sesame-queryparser-sparql-2.7.9.jar.txt	1
+org/openrdf/query/parser/sparql/TupleExprBuilder/visit(org.openrdf.query.parser.sparql.ast.ASTInlineData,java.lang.Object)@g_sesame-queryparser-sparql-2.7.9.jar.txt	2

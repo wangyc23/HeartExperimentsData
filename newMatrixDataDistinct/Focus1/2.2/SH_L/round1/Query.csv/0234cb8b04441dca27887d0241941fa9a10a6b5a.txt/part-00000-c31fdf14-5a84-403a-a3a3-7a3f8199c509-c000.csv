@@ -1,0 +1,4 @@
+org/dspace/content/service/BitstreamService/retrieve(org.dspace.core.Context,org.dspace.content.Bitstream)
+org/dspace/license/service/CreativeCommonsService/getLicenseRdfBitstream(org.dspace.content.Item)
+org/dspace/content/DSpaceObject/getType()
+java/io/OutputStream/close()

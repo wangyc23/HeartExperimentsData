@@ -1,0 +1,4 @@
+org/apache/lucene/search/MatchNoDocsQuery/MatchNoDocsQuery()
+org/apache/lucene/index/IndexReader/leaves()
+org/apache/lucene/search/join/GlobalOrdinalsWithScoreCollector$NoScore/NoScore(java.lang.String,org.apache.lucene.index.MultiDocValues$OrdinalMap,long,int,int)
+org/apache/lucene/search/IndexSearcher/rewrite(org.apache.lucene.search.Query)

@@ -1,0 +1,3 @@
+0	java/io/PrintStream/println(java.lang.String)
+1	org/apache/slider/core/registry/docstore/PublishedConfiguration/PublishedConfiguration(java.lang.String,java.lang.Iterable)
+2	java/lang/String/String(byte[],java.lang.String)

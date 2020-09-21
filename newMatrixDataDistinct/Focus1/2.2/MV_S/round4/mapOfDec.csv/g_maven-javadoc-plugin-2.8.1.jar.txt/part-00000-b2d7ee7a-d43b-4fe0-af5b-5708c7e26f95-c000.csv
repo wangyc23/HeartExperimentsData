@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/InstallMojo/createTestRepository()@g_maven-invoker-plugin-2.0.0.jar.txt	2
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getInvokerProperties(java.io.File)@g_maven-invoker-plugin-2.0.0.jar.txt	3
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getSystemProperties(java.io.File,java.lang.String)@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/dependency/fromDependencies/BuildClasspathMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-dependency-plugin-2.8.jar.txt	4

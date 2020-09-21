@@ -1,0 +1,5 @@
+org/springframework/beans/factory/support/BeanDefinitionValueResolver/resolveInnerBean(java.lang.Object,java.lang.String,org.springframework.beans.factory.config.BeanDefinition)@g_spring-2.5.6.jar.txt	3
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	1
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	0
+org/apache/fop/fo/properties/FontShorthandProperty/Maker/make(org.apache.fop.fo.PropertyList,java.lang.String,org.apache.fop.fo.FObj)@g_spring-2.5.6.jar.txt	4
+org/springframework/orm/jpa/JpaTemplate/12/doInJpa(javax.persistence.EntityManager)@g_spring-2.5.6.jar.txt	2

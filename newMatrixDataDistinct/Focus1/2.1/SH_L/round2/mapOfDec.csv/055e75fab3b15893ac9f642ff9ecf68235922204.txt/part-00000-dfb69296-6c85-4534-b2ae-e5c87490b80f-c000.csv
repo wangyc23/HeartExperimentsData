@@ -1,0 +1,5 @@
+org/wso2/carbon/datasource/MiscellaneousHelper/handleException(java.lang.String)@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	0
+org/switchyard/common/io/resource/SimpleResource/setLocation(java.lang.String)@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	3
+org/switchyard/transform/internal/json/JSONTransformerTest/test_JSONResultUser()@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	1
+org/codice/ddf/spatial/ogc/csw/catalog/source/CswFilterFactory/createEnvelopeType(java.lang.String)@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	4
+org/codice/ddf/spatial/ogc/csw/catalog/source/TestCswCqlFilter/testPropertyIsEqualToStringLiteralAnyText()@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	2

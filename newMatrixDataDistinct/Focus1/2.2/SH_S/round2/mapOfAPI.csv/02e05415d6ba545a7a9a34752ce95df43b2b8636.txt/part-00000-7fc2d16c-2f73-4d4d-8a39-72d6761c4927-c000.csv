@@ -1,0 +1,6 @@
+0	util/RedisFileImport/getInstance()
+1	tables/UserInfo/setId(int)
+2	util/RedisFileImport/status()
+3	java/sql/ResultSet/getString(java.lang.String)
+4	tables/UserInfo/UserInfo()
+5	java/sql/ResultSet/getInt(java.lang.String)

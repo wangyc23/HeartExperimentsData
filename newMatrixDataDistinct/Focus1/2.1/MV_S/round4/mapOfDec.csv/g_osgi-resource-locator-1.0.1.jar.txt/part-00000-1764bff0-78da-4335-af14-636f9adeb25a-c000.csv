@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owl/owlapi/MapPointer/filterAxioms(org.semanticweb.owlapi.util.OWLAxiomSearchFilter,java.lang.Object)@g_owlapi-impl-4.5.0.jar.txt	4
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/applyChanges(java.util.List)@g_owlapi-impl-4.5.0.jar.txt	0
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/removeValue(java.util.Map,java.lang.Object)@g_owlapi-impl-4.5.0.jar.txt	1
+uk/ac/manchester/cs/owl/owlapi/OWLSameIndividualAxiomImpl/asOWLSubClassOfAxioms()@g_owlapi-impl-4.5.0.jar.txt	3
+uk/ac/manchester/cs/owl/owlapi/OWLDifferentIndividualsAxiomImpl/asOWLSubClassOfAxioms()@g_owlapi-impl-4.5.0.jar.txt	2

@@ -1,0 +1,5 @@
+com/yahoo/ycsb/db/SolrClientTest/getDB(java.util.Properties)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	1
+com/yahoo/ycsb/db/OrientDBClientTest/setup()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	0
+com/yahoo/ycsb/db/CassandraClient8/main(java.lang.String[])@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	4
+com/yahoo/ycsb/workloads/ConstantOccupancyWorkload/init(java.util.Properties)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	2
+com/yahoo/ycsb/db/JdbcDBClientTest/setup()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	3

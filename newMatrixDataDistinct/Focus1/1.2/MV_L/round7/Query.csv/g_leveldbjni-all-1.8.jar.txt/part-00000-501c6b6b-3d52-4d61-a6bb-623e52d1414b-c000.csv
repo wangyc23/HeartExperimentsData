@@ -1,0 +1,4 @@
+java/util/ArrayList/iterator()
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+org/fusesource/hawtjni/runtime/NativeStats$StatsInterface/functionCounter(int)

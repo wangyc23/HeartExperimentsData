@@ -1,0 +1,4 @@
+org/apache/falcon/regression/core/helpers/ColoHelper/getProcessHelper()
+org/apache/falcon/regression/core/bundle/Bundle/getProcessData()
+org/apache/falcon/regression/core/util/InstanceUtil/validateSuccess(org.apache.falcon.resource.InstancesResult,org.apache.falcon.regression.core.bundle.Bundle,org.apache.falcon.resource.InstancesResult.WorkflowStatus)
+org/apache/falcon/regression/core/util/OozieUtil/createMissingDependencies(org.apache.falcon.regression.core.helpers.ColoHelper,org.apache.falcon.entity.v0.EntityType,java.lang.String,int)

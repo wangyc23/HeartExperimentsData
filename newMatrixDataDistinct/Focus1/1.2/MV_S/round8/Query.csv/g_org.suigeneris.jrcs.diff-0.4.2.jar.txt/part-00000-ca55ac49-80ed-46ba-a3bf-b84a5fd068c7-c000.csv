@@ -1,0 +1,4 @@
+java/util/Random/nextBoolean()
+java/util/ArrayList/ArrayList(java.util.Collection)
+java/util/List/toArray()
+java/util/Arrays/asList(java.lang.Object[])

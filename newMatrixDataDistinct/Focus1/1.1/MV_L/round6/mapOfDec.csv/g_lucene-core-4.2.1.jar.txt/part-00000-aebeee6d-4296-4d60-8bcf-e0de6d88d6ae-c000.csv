@@ -1,0 +1,5 @@
+org/apache/lucene/search/FieldCacheImpl/getTermsIndex(org.apache.lucene.index.AtomicReader,java.lang.String,float)@g_lucene-core-4.3.1.jar.txt	4
+org/apache/lucene/search/SortField/getComparator(int,int)@g_lucene-core-4.3.1.jar.txt	2
+org/apache/lucene/search/FieldCacheImpl/Cache/printNewInsanity(java.io.PrintStream,java.lang.Object)@g_lucene-core-4.5.0.jar.txt	1
+org/apache/lucene/search/FieldCacheImpl/Cache/printNewInsanity(java.io.PrintStream,java.lang.Object)@g_lucene-core-4.3.1.jar.txt	0
+org/apache/lucene/util/CommandLineUtil/adjustDirectoryClassName(java.lang.String)@g_lucene-core-4.3.1.jar.txt	3

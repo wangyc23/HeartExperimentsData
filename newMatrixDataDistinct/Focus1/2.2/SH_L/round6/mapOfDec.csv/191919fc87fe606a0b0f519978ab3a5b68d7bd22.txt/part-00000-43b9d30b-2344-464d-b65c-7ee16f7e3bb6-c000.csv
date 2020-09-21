@@ -1,0 +1,5 @@
+org/apache/avro/compiler/specific/TestSpecificCompiler/testManglingForProtocols()@1f8849fad6c3d15315efa4ba48549816081b4fae.txt	4
+org/apache/avro/TestProtocolParsing/parseMessage(java.lang.String)@1f8849fad6c3d15315efa4ba48549816081b4fae.txt	0
+org/apache/avro/TestProtocolParsing/parseMessage(java.lang.String)@2118286c7e050859ae4d7ff65fea4be54a64450f.txt	1
+org/apache/avro/ipc/stats/TestStatsPluginAndServlet/main(java.lang.String[])@1f8849fad6c3d15315efa4ba48549816081b4fae.txt	2
+org/apache/avro/compiler/specific/SpecificCompiler/addStringType(org.apache.avro.Protocol)@1f8849fad6c3d15315efa4ba48549816081b4fae.txt	3

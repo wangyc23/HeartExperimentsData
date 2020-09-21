@@ -1,0 +1,5 @@
+org/openrdf/rio/turtle/TurtleWriter/startRDF()@g_sesame-rio-turtle-2.7.9.jar.txt	2
+org/openrdf/rio/rdfxml/RDFXMLParser/parse(org.xml.sax.InputSource)@g_sesame-rio-rdfxml-2.7.9.jar.txt	3
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/popStacks(org.openrdf.model.Resource)@g_sesame-rio-rdfxml-2.7.9.jar.txt	4
+org/openrdf/rio/rdfxml/RDFXMLWriter/writeHeader()@g_sesame-rio-rdfxml-2.7.9.jar.txt	0
+org/openrdf/rio/rdfxml/SAXFilter/appendStartTag(java.lang.String,org.xml.sax.Attributes)@g_sesame-rio-rdfxml-2.7.9.jar.txt	1

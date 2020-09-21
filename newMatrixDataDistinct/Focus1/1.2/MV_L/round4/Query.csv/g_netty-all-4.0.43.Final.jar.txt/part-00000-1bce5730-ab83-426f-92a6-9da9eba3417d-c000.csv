@@ -1,0 +1,4 @@
+java/io/FileInputStream/getChannel()
+java/nio/channels/FileChannel/read(java.nio.ByteBuffer)
+java/nio/channels/FileChannel/close()
+java/io/FileInputStream/close()

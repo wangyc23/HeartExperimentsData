@@ -1,0 +1,8 @@
+0	java/util/List/add(E)
+1	java/util/Map/put(K,V)
+2	org/efaps/esjp/sales/PaymentSchedule_Base/createPositions(org.efaps.esjp.sales.document.Parameter,org.efaps.esjp.sales.document.CreatedDoc)
+3	org/efaps/esjp/sales/document/AbstractDocument_Base/AbstractUIPosition/getMap4JavaScript(org.efaps.esjp.sales.document.Parameter)
+4	java/util/ArrayList/ArrayList()
+5	org/efaps/esjp/sales/document/AbstractDocumentSum_Base/createDoc(org.efaps.esjp.sales.document.Parameter)
+6	java/lang/String/toLowerCase()
+7	java/lang/Integer/valueOf(java.lang.String)

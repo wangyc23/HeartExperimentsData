@@ -1,0 +1,4 @@
+org/eclipse/osgi/service/datalocation/Location/lock()
+java/lang/Thread/sleep(long)
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/osgi/service/datalocation/Location/getURL()

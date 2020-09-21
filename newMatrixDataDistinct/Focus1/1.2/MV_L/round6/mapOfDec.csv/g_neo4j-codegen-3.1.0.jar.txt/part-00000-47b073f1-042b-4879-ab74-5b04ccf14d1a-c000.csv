@@ -1,0 +1,5 @@
+org/neo4j/codegen/asm/util/CheckClassAdapter/verify(org.neo4j.codegen.asm.ClassReader,java.lang.ClassLoader,boolean,java.io.PrintWriter)@g_neo4j-codegen-3.3.0.jar.txt	4
+org/neo4j/codegen/bytecode/ByteCodeVerifier/check(java.lang.ClassLoader,java.util.Collection)@g_neo4j-codegen-3.3.0.jar.txt	3
+org/neo4j/codegen/source/ClassSourceWriter/typeParameters(java.lang.StringBuilder,org.neo4j.codegen.MethodDeclaration)@g_neo4j-codegen-3.3.0.jar.txt	0
+org/neo4j/codegen/ByteCodeUtils/internalDesc(org.neo4j.codegen.MethodDeclaration,boolean)@g_neo4j-codegen-3.3.0.jar.txt	2
+org/neo4j/codegen/source/ClassWriter/typeParameters(java.lang.StringBuilder,org.neo4j.codegen.MethodDeclaration)@g_neo4j-codegen-3.0.1.jar.txt	1

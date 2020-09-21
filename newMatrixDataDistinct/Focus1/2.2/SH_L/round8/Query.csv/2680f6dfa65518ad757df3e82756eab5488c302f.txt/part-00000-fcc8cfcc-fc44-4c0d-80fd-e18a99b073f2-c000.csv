@@ -1,0 +1,4 @@
+org/jboss/arquillian/core/impl/ExtensionParseTestCase/ExtensionWithObservers/ExtensionWithObservers()
+org/jboss/arquillian/core/spi/ObserverMethod/invoke(org.jboss.arquillian.core.spi.Manager,java.lang.Object)
+java/util/List/size()
+org/jboss/arquillian/core/impl/ExtensionImpl/of(java.lang.Object)

@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/model/OWLDatatype/getIRI()
+java/util/Iterator/next()
+java/util/Set/iterator()
+org/semanticweb/owlapi/model/OWLDatatypeRestriction/getFacetRestrictions()

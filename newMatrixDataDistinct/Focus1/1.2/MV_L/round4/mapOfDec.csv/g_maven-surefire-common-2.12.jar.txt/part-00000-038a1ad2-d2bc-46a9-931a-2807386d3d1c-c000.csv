@@ -1,0 +1,5 @@
+org/apache/maven/plugin/surefire/SurefireDependencyResolver/getProviderClasspath(java.lang.String,java.lang.String,org.apache.maven.artifact.Artifact)@g_maven-surefire-common-2.12.4.jar.txt	0
+org/apache/maven/plugin/surefire/SurefireDependencyResolver/getProviderClasspath(java.lang.String,java.lang.String,org.apache.maven.artifact.Artifact)@g_maven-surefire-common-2.16.jar.txt	4
+org/apache/maven/plugin/surefire/AbstractSurefireMojo/getArtifactClasspath(org.apache.maven.artifact.Artifact)@g_maven-surefire-common-2.12.4.jar.txt	3
+org/apache/maven/plugin/surefire/ProviderList/resolve(org.apache.maven.plugin.logging.Log)@g_maven-surefire-common-2.12.4.jar.txt	1
+org/apache/maven/plugin/surefire/util/DirectoryScanner/processIncludesExcludes(java.util.List)@g_maven-surefire-common-2.12.4.jar.txt	2

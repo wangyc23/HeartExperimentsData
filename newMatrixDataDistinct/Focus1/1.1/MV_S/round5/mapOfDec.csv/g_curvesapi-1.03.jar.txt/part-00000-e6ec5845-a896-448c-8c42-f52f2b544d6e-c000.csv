@@ -1,0 +1,5 @@
+com/google/gson/stream/JsonReader/nextLong()@g_gson-2.3.1.jar.txt	4
+com/google/gson/Gson/getAdapter(com.google.gson.reflect.TypeToken)@g_gson-2.3.1.jar.txt	1
+com/google/gson/internal/Gson/Types/getRawType(java.lang.reflect.Type)@g_gson-2.3.1.jar.txt	3
+com/google/gson/internal/bind/ReflectiveTypeAdapterFactory/getBoundFields(com.google.gson.Gson,com.google.gson.reflect.TypeToken,java.lang.Class)@g_gson-2.3.1.jar.txt	0
+com/google/gson/stream/JsonReader/nextInt()@g_gson-2.3.1.jar.txt	2

@@ -1,0 +1,5 @@
+com/mongodb/MongoClientURI/parseOptions(java.lang.String)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	3
+org/bson/BasicBSONEncoder/_putObjectField(java.lang.String,java.lang.Object)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	2
+org/springframework/data/mongodb/core/aggregation/ConditionalOperators/Cond/getClauses(org.springframework.data.mongodb.core.aggregation.AggregationOperationContext,java.lang.String,java.lang.Object)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	1
+org/springframework/data/mongodb/core/convert/DefaultDbRefResolver/LazyLoadingInterceptor/proxyToString(java.lang.Object)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	0
+org/springframework/data/mongodb/repository/query/MongoQueryCreator/from(org.springframework.data.repository.query.parser.Part,org.springframework.data.mongodb.core.mapping.MongoPersistentProperty,org.springframework.data.mongodb.core.query.Criteria,java.util.Iterator)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	4

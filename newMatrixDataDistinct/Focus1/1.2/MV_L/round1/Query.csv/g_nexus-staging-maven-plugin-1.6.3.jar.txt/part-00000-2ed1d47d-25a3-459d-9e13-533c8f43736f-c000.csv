@@ -1,0 +1,4 @@
+org/sonatype/nexus/maven/staging/deploy/DeployMojo/getWorkDirectoryRoot()
+org/apache/maven/artifact/installer/ArtifactInstallationException/getMessage()
+org/apache/maven/artifact/Artifact/isSnapshot()
+org/sonatype/nexus/maven/staging/deploy/DeployMojo/getDeployStrategy(java.lang.String)

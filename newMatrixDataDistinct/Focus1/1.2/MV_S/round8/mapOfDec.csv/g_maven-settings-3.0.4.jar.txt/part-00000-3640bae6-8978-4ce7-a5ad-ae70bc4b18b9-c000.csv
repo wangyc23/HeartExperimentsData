@@ -1,0 +1,5 @@
+org/apache/maven/shared/model/fileset/io/xpp3/FileSetXpp3Reader/parseFileSet(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_file-management-1.1.jar.txt	3
+org/apache/maven/shared/model/fileset/io/xpp3/FileSetXpp3Reader/parseSetBase(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_file-management-1.1.jar.txt	4
+org/apache/maven/usability/plugin/io/xpp3/ParamdocXpp3Reader/parseExpressionDocumentation(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-plugin-parameter-documenter-2.0.9.jar.txt	2
+org/apache/maven/shared/model/fileset/util/FileSetManager/findDeletableDirectories(org.apache.maven.shared.model.fileset.FileSet)@g_file-management-1.1.jar.txt	0
+org/apache/maven/shared/model/fileset/util/FileSetManager/findDeletableFiles(org.apache.maven.shared.model.fileset.FileSet,java.util.Set)@g_file-management-1.1.jar.txt	1

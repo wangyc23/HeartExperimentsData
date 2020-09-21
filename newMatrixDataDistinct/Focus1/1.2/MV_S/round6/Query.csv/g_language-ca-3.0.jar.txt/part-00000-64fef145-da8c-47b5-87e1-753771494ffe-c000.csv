@@ -1,0 +1,4 @@
+org/languagetool/rules/ca/AccentuationCheckRule/toRuleMatchArray(java.util.List)
+java/lang/String/toLowerCase()
+org/languagetool/AnalyzedTokenReadings/getStartPos()
+java/util/regex/Matcher/matches()

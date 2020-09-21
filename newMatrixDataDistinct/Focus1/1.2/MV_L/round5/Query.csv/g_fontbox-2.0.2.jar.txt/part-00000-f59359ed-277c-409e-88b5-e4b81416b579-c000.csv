@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/lang/Double/valueOf(double)
+org/apache/fontbox/cff/CFFDataInput/setPosition(int)
+java/util/List/size()

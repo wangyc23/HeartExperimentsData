@@ -1,0 +1,5 @@
+edu/cmu/lti/jawjaw/db/datamover/DataMover/copyTable(java.lang.String)@g_jawjaw-0.1.0.jar.txt	1
+org/h2/util/OsgiDataSourceFactory/setupH2DataSource(org.h2.jdbcx.JdbcDataSource,java.util.Properties)@g_h2-1.4.178.jar.txt	4
+edu/cmu/lti/jawjaw/db/datamover/Database/generateCreate(java.lang.String)@g_jawjaw-0.1.0.jar.txt	0
+org/h2/util/ToChar/toChar(java.math.BigDecimal,java.lang.String,java.lang.String)@g_h2-1.4.178.jar.txt	3
+org/h2/expression/Function/getValueWithArgs(org.h2.engine.Session,org.h2.expression.Expression[])@g_h2-1.4.178.jar.txt	2

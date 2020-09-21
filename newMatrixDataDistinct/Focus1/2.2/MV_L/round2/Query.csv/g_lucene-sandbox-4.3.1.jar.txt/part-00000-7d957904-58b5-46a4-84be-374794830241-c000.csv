@@ -1,0 +1,4 @@
+java/util/HashSet/contains(java.lang.Object)
+org/apache/lucene/sandbox/queries/SlowFuzzyTermsEnum/docFreq()
+org/apache/lucene/analysis/TokenStream/end()
+org/apache/lucene/index/Term/Term(java.lang.String,org.apache.lucene.util.BytesRef)

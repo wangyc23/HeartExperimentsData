@@ -1,0 +1,4 @@
+java/lang/String/lastIndexOf(int,int)
+java/lang/StringBuffer/toString()
+java/lang/String/substring(int,int)
+java/lang/String/indexOf(java.lang.String)

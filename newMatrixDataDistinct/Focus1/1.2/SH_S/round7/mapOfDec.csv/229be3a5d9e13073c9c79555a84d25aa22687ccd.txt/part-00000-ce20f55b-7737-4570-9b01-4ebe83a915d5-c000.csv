@@ -1,0 +1,5 @@
+com/nikolas/wicketsecurity/business/security/control/SecurityRealm/doGetAuthenticationInfo(org.apache.shiro.authc.AuthenticationToken)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	4
+com/sldg/erp/service/UsuarioService/autenticar(com.sldg.erp.model.Usuario)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	0
+com/nikolas/wicketsecurity/business/security/control/ShiroInterceptor/around(javax.interceptor.InvocationContext)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	2
+org/springside/examples/quickstart/web/account/UserAdminController/delete(java.lang.Long,org.springframework.web.servlet.mvc.support.RedirectAttributes)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	3
+org/springside/examples/quickstart/web/account/UserAdminController/getUser(java.lang.Long,org.springframework.ui.Model)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parsePlugin(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-compat-3.0-alpha-2.jar.txt	1
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseVersioning(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-compat-3.0-alpha-2.jar.txt	0
+org/apache/maven/artifact/versioning/VersionRange/parseRestriction(java.lang.String)@g_maven-compat-3.0-alpha-2.jar.txt	4
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseSnapshot(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-compat-3.0-alpha-2.jar.txt	2
+org/apache/maven/artifact/resolver/DefaultArtifactResolver/resolve(org.apache.maven.artifact.Artifact,java.util.List,org.apache.maven.artifact.repository.ArtifactRepository,boolean)@g_maven-compat-3.0-alpha-2.jar.txt	3

@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/gagravarr/ogg/OggPacketReader/getNextPacket()
+org/gagravarr/ogg/OggFile/getPacketReader()
+org/gagravarr/flac/FlacFirstOggPacket/isFlacStream(org.gagravarr.ogg.OggPacket)

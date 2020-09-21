@@ -1,0 +1,5 @@
+org/springframework/boot/autoconfigure/mongo/MongoProperties/createMongoClient(com.mongodb.MongoClientOptions)@g_spring-boot-autoconfigure-1.2.6.RELEASE.jar.txt	1
+org/springframework/boot/autoconfigure/web/DefaultErrorAttributes/addStatus(java.util.Map,org.springframework.web.context.request.RequestAttributes)@g_spring-boot-autoconfigure-1.2.6.RELEASE.jar.txt	3
+org/springframework/boot/autoconfigure/mail/MailSenderAutoConfiguration/mailSender()@g_spring-boot-autoconfigure-1.2.6.RELEASE.jar.txt	0
+org/springframework/boot/autoconfigure/web/ServerProperties/customize(org.springframework.boot.context.embedded.ConfigurableEmbeddedServletContainer)@g_spring-boot-autoconfigure-1.2.6.RELEASE.jar.txt	2
+org/springframework/boot/autoconfigure/redis/RedisAutoConfiguration/AbstractRedisConfiguration/createSentinels(org.springframework.boot.autoconfigure.redis.RedisProperties$Sentinel)@g_spring-boot-autoconfigure-1.2.6.RELEASE.jar.txt	4

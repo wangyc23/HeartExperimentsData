@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/jobhistory/FileNameIndexUtils/getIndexInfo(java.lang.String)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	4
+org/apache/hadoop/mapred/LocalJobRunner/Job/run()@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	1
+org/apache/hadoop/mapred/LocalDistributedCacheManager/setup(org.apache.hadoop.mapred.JobConf)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	2
+org/apache/hadoop/mapred/LocalDistributedCacheManager/close()@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	0
+org/apache/hadoop/mapreduce/v2/security/client/ClientHSTokenSelector/selectToken(org.apache.hadoop.io.Text,java.util.Collection)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	3

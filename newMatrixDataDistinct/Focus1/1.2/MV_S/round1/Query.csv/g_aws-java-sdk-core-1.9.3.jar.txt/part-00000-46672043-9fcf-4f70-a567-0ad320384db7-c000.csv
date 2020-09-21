@@ -1,0 +1,4 @@
+org/apache/http/client/methods/HttpPatch/setEntity(org.apache.http.HttpEntity)
+java/lang/StringBuilder/append(java.lang.String)
+java/net/URI/toString()
+org/apache/http/client/methods/HttpPost/setEntity(org.apache.http.HttpEntity)

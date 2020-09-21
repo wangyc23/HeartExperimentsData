@@ -1,0 +1,5 @@
+org/apache/maven/doxia/module/apt/AptParser/Figure/traverse()@g_doxia-module-fml-1.0.jar.txt	3
+org/apache/maven/doxia/module/apt/AptParser/parse(java.io.Reader,org.apache.maven.doxia.sink.Sink)@g_doxia-module-apt-1.0.jar.txt	0
+org/apache/maven/doxia/module/fml/FmlParser/writeAnswerWithSource(org.apache.maven.doxia.sink.Sink,java.lang.String)@g_doxia-module-fml-1.0.jar.txt	1
+org/apache/maven/doxia/module/apt/AptParser/DefinitionListItem/traverse()@g_doxia-module-fml-1.0.jar.txt	4
+org/apache/maven/doxia/module/fml/FmlParser/createSink(org.apache.maven.doxia.module.fml.model.Faqs,org.apache.maven.doxia.sink.Sink)@g_doxia-module-fml-1.0.jar.txt	2

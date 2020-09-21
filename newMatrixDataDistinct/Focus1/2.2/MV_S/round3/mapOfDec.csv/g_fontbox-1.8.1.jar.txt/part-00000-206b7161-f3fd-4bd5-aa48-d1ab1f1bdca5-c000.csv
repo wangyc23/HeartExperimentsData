@@ -1,0 +1,5 @@
+org/springframework/security/access/method/MapBasedMethodSecurityMetadataSource/addSecureMethod(java.lang.Class,java.lang.reflect.Method,java.util.List)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3
+org/apache/hadoop/security/NetgroupCache/getNetgroups(java.lang.String,java.util.List)@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/security/authorize/DefaultImpersonationProvider/init(java.lang.String)@g_hadoop-common-2.6.0.jar.txt	1
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/buildRolesReachableInOneStepMap()@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/buildRolesReachableInOneOrMoreStepsMap()@g_spring-security-core-3.2.3.RELEASE.jar.txt	0

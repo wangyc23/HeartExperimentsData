@@ -1,0 +1,5 @@
+org/springframework/security/config/http/FilterInvocationSecurityMetadataSourceParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.0.1.RELEASE.jar.txt	3
+org/springframework/security/config/annotation/authentication/configuration/AuthenticationConfiguration/lazyBean(java.lang.Class)@g_spring-security-config-4.0.1.RELEASE.jar.txt	2
+org/springframework/security/config/annotation/configuration/AutowireBeanFactoryObjectPostProcessor/postProcess(java.lang.Object)@g_spring-security-config-4.1.0.RELEASE.jar.txt	1
+org/springframework/security/config/http/AuthenticationConfigBuilder/createX509Filter(org.springframework.beans.factory.config.BeanReference)@g_spring-security-config-4.0.1.RELEASE.jar.txt	4
+org/springframework/security/config/annotation/configuration/AutowireBeanFactoryObjectPostProcessor/postProcess(java.lang.Object)@g_spring-security-config-4.0.1.RELEASE.jar.txt	0

@@ -1,0 +1,5 @@
+com/ctc/wstx/sw/RepairingNsStreamWriter/doSetPrefix(java.lang.String,java.lang.String)@g_wstx-asl-3.2.7.jar.txt	2
+com/ctc/wstx/sw/SimpleOutputElement/getPrefixes(java.lang.String)@g_wstx-asl-3.2.7.jar.txt	3
+com/ctc/wstx/evt/SimpleStartElement/outputNsAndAttr(java.io.Writer)@g_wstx-asl-3.2.7.jar.txt	0
+com/ctc/wstx/dtd/DTDElement/mergeMissingAttributesFrom(com.ctc.wstx.sr.InputProblemReporter,com.ctc.wstx.dtd.DTDElement,boolean)@g_wstx-asl-3.2.7.jar.txt	4
+com/ctc/wstx/evt/MergedNsContext/doGetPrefixes(java.lang.String)@g_wstx-asl-3.2.7.jar.txt	1

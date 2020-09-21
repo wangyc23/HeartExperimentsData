@@ -1,0 +1,4 @@
+java/util/List/isEmpty()
+org/xwiki/model/reference/WikiReference/getName()
+org/xwiki/sheet/SheetBinder/bind(org.xwiki.bridge.DocumentModelBridge,org.xwiki.model.reference.DocumentReference)
+java/lang/String/equals(java.lang.Object)

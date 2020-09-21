@@ -1,0 +1,4 @@
+scala/collection/immutable/IndexedSeq/collect(scala.PartialFunction,scala.collection.generic.CanBuildFrom)
+scala/collection/immutable/Set/toIndexedSeq()
+scala/collection/mutable/Set$/empty()
+scala/collection/immutable/IndexedSeq$/canBuildFrom()

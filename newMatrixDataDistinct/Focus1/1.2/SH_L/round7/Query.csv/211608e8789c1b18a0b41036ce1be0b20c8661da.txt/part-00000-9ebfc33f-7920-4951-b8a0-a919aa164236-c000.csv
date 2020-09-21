@@ -1,0 +1,4 @@
+cucumber/runtime/ParameterInfo/convert(java.lang.String,cucumber.runtime.xstream.LocalizedXStreams.LocalizedXStream,java.util.Locale)
+java/util/List/get(int)
+cucumber/runtime/ParameterInfo/fromMethod(java.lang.reflect.Method)
+java/lang/Object/getClass()

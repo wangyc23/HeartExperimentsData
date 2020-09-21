@@ -1,0 +1,5 @@
+net/sf/saxon/style/XSLKey/compileDeclaration(net.sf.saxon.style.Compilation,net.sf.saxon.style.ComponentDeclaration)@g_commons-lang3-3.1.jar.txt	1
+org/apache/commons/lang3/StringEscapeUtils/CsvUnescaper/translate(java.lang.CharSequence,int,java.io.Writer)@g_commons-lang3-3.1.jar.txt	0
+net/sf/saxon/Query/processSourceFile(java.lang.String,boolean)@g_commons-lang3-3.1.jar.txt	3
+net/sf/saxon/style/XSLImportSchema/readSchema()@g_commons-lang3-3.1.jar.txt	2
+org/apache/commons/lang3/builder/ReflectionToStringBuilder/appendFieldsIn(java.lang.Class)@g_commons-lang3-3.1.jar.txt	4

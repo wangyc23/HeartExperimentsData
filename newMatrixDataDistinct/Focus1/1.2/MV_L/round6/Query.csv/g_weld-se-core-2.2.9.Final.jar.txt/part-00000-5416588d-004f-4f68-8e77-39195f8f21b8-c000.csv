@@ -1,0 +1,4 @@
+org/jboss/weld/bootstrap/api/ServiceRegistry/add(java.lang.Class,org.jboss.weld.bootstrap.api.Service)
+java/lang/Boolean/equals(java.lang.Object)
+org/jboss/weld/security/GetSystemPropertyAction/GetSystemPropertyAction(java.lang.String)
+com/google/common/collect/ImmutableSet/builder()

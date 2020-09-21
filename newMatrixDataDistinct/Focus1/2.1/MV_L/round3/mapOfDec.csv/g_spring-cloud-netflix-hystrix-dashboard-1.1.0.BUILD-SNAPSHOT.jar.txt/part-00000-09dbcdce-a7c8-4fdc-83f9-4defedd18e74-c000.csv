@@ -1,0 +1,5 @@
+org/jets3t/service/impl/rest/httpclient/RestStorageService/addRequestHeadersToConnection(org.apache.http.client.methods.HttpUriRequest,java.util.Map)@g_jets3t-0.9.0.jar.txt	2
+org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration/ProxyStreamServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-cloud-netflix-hystrix-dashboard-1.1.0.BUILD-20151113.115735-165.jar.txt	0
+org/jets3t/service/S3Service/putObjectMaybeAsMultipart(java.lang.String,org.jets3t.service.model.StorageObject,long)@g_jets3t-0.9.0.jar.txt	4
+org/jets3t/service/utils/MultipartUtils/uploadObjects(java.lang.String,org.jets3t.service.S3Service,java.util.List,org.jets3t.service.multi.s3.S3ServiceEventListener)@g_jets3t-0.9.0.jar.txt	1
+org/jets3t/service/model/S3BucketLoggingStatus/toXMLBuilder()@g_jets3t-0.9.0.jar.txt	3

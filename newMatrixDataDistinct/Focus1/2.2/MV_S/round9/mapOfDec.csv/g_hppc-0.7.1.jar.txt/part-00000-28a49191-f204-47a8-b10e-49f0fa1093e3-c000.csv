@@ -1,0 +1,5 @@
+com/github/fommil/netlib/LAPACK/<clinit>()@g_core-1.1.jar.txt	1
+com/github/fommil/netlib/ARPACK/<clinit>()@g_core-1.1.jar.txt	0
+org/glassfish/grizzly/servlet/ApplicationDispatcher/wrapRequest(org.glassfish.grizzly.servlet.ApplicationDispatcher$State)@g_grizzly-http-servlet-2.3.19.jar.txt	4
+com/github/fommil/netlib/BLAS/<clinit>()@g_core-1.1.jar.txt	2
+org/glassfish/grizzly/servlet/WebappContext/getRequestDispatcher(java.lang.String)@g_grizzly-http-servlet-2.3.19.jar.txt	3

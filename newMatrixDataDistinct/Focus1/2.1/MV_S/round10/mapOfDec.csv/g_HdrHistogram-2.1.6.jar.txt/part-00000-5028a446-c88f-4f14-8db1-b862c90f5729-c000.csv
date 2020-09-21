@@ -1,0 +1,5 @@
+com/jmatio/io/MatFileWriter/writeMatrix(java.io.DataOutputStream,com.jmatio.types.MLArray)@g_jmatio-1.0.jar.txt	2
+com/jmatio/io/MatFileInputStream/readLong()@g_jmatio-1.0.jar.txt	0
+morfologik/stemming/TrimPrefixAndSuffixEncoder/encode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_jmatio-1.0.jar.txt	4
+org/HdrHistogram/AbstractHistogram/outputPercentileDistribution(java.io.PrintStream,int,java.lang.Double,boolean)@g_jmatio-1.0.jar.txt	1
+com/jmatio/io/MatFileWriter/write(java.nio.channels.WritableByteChannel,java.util.Collection)@g_jmatio-1.0.jar.txt	3

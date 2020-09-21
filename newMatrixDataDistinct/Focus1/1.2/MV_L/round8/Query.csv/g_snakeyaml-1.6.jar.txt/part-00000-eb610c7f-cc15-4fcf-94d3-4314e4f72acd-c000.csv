@@ -1,0 +1,4 @@
+java/lang/String/valueOf(char)
+java/lang/String/substring(int,int)
+java/lang/String/toCharArray()
+java/lang/StringBuilder/toString()

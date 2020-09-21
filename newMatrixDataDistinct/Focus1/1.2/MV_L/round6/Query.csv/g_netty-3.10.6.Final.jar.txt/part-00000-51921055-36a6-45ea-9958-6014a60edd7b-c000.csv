@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/isReadOnly()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/IndexOutOfBoundsException/IndexOutOfBoundsException(java.lang.String)
+java/nio/ByteBuffer/hasRemaining()

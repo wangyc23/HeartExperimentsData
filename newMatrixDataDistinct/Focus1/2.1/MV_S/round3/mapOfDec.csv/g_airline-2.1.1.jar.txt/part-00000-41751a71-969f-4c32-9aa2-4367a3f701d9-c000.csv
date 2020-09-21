@@ -1,0 +1,5 @@
+org/carrot2/util/attribute/AttributeDescriptor/prepareForSerialization()@g_xwiki-commons-component-api-7.0.jar.txt	4
+org/xwiki/component/util/ReflectionUtils/setFieldValue(java.lang.Object,java.lang.String,java.lang.Object)@g_xwiki-commons-component-api-7.0.jar.txt	3
+com/github/rvesse/airline/help/common/AbstractUsageGenerator/toUsage(com.github.rvesse.airline.model.OptionMetadata)@g_xwiki-commons-component-api-7.0.jar.txt	2
+org/carrot2/util/attribute/AttributeBinder/AttributeTransformerFromString/transform(java.lang.Object,java.lang.String,java.lang.reflect.Field)@g_xwiki-commons-component-api-7.0.jar.txt	1
+com/github/rvesse/airline/help/cli/CliGlobalUsageSummaryGenerator/outputCommandList(com.github.rvesse.airline.io.printers.UsagePrinter,com.github.rvesse.airline.model.GlobalMetadata)@g_xwiki-commons-component-api-7.0.jar.txt	0

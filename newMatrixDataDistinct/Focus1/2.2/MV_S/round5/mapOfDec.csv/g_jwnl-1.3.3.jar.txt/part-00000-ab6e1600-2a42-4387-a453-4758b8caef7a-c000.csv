@@ -1,0 +1,5 @@
+org/postgresql/jdbc2/AbstractJdbc2Array/buildArrayList()@g_postgresql-9.3-1102-jdbc41.jar.txt	3
+org/postgresql/jdbc2/AbstractJdbc2Statement/modifyJdbcCall(java.lang.String)@g_postgresql-9.3-1102-jdbc41.jar.txt	4
+org/postgresql/jdbc2/AbstractJdbc2Statement/escapeFunction(java.lang.String,java.lang.String,boolean)@g_postgresql-9.3-1102-jdbc41.jar.txt	2
+org/postgresql/Driver/parseURL(java.lang.String,java.util.Properties)@g_postgresql-9.3-1102-jdbc41.jar.txt	1
+org/postgresql/jdbc2/AbstractJdbc2Statement/parseSql(java.lang.String,int,java.lang.StringBuffer,boolean,boolean)@g_postgresql-9.3-1102-jdbc41.jar.txt	0

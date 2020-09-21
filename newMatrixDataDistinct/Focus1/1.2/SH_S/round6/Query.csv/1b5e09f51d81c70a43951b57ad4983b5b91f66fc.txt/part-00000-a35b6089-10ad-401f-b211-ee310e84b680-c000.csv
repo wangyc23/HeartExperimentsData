@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+javax/xml/parsers/DocumentBuilder/parse(java.io.InputStream)
+org/w3c/dom/NodeList/getLength()
+java/lang/Double/parseDouble(java.lang.String)

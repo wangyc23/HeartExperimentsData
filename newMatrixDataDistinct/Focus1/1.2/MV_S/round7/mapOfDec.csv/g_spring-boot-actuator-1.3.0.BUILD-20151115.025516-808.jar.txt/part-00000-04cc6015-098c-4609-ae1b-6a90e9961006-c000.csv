@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onHistogramAdded(java.lang.String,com.codahale.metrics.Histogram)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	0
+org/springframework/boot/actuate/endpoint/EnvironmentEndpoint/extract(java.lang.String,java.util.Map,org.springframework.core.env.PropertySource)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	3
+org/springframework/boot/actuate/trace/WebRequestTraceFilter/enhanceTrace(java.util.Map,javax.servlet.http.HttpServletResponse)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	4
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onTimerAdded(java.lang.String,com.codahale.metrics.Timer)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	1
+org/springframework/web/multipart/commons/CommonsFileUploadSupport/parseFileItems(java.util.List,java.lang.String)@g_spring-web-4.2.3.BUILD-20151114.143958-56.jar.txt	2

@@ -1,0 +1,4 @@
+java/io/File/getName()
+com/alibaba/rocketmq/tools/command/message/Store/putConsumeQueue(java.lang.String,int,com.alibaba.rocketmq.store.ConsumeQueue)
+java/io/PrintStream/println(java.lang.String)
+java/io/File/File(java.lang.String)

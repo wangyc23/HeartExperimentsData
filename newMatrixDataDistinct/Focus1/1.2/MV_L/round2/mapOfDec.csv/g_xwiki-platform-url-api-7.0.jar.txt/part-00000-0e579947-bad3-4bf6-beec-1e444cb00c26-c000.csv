@@ -1,0 +1,5 @@
+org/xwiki/classloader/internal/protocol/attachmentjar/AttachmentURLStreamHandler/getAttachmentReference(java.net.URL)@g_xwiki-platform-classloader-protocol-attachmentjar-7.0.jar.txt	4
+org/xwiki/classloader/internal/protocol/attachmentjar/AttachmentURLStreamHandler/getAttachmentReference(java.net.URL)@g_xwiki-platform-url-api-7.4.jar.txt	2
+org/xwiki/url/ExtendedURL/extractParameters(java.net.URI)@g_xwiki-platform-url-api-7.4.jar.txt	1
+org/xwiki/url/ExtendedURL/serialize()@g_xwiki-platform-url-api-7.4.jar.txt	0
+org/xwiki/url/internal/AbstractExtendedURLResourceTypeResolver/resolve(java.lang.String,org.xwiki.url.ExtendedURL,java.util.Map)@g_xwiki-platform-url-api-7.4.jar.txt	3

@@ -1,0 +1,4 @@
+java/io/File/canWrite()
+java/io/File/isDirectory()
+org/xwiki/component/manager/ComponentManager/getInstance(java.lang.reflect.Type,java.lang.String)
+java/io/File/exists()

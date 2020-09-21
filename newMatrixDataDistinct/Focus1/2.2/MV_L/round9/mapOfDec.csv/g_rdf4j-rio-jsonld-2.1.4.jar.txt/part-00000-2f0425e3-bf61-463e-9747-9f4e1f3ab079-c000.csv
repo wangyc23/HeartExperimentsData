@@ -1,0 +1,5 @@
+com/github/jsonldjava/utils/JsonLdUrl/removeDotSegments(java.lang.String,boolean)@g_jsonld-java-sesame-0.5.1.jar.txt	4
+com/github/jsonldjava/sesame/SesameRDFParser/parse(java.lang.Object)@g_jsonld-java-sesame-0.5.1.jar.txt	3
+com/github/jsonldjava/core/JsonLdUtils/deepCompare(java.lang.Object,java.lang.Object,java.lang.Boolean)@g_jsonld-java-sesame-0.5.1.jar.txt	2
+com/github/jsonldjava/sesame/SesameJSONLDParser/parse(java.io.InputStream,java.lang.String)@g_jsonld-java-sesame-0.5.1.jar.txt	0
+com/github/jsonldjava/sesame/SesameJSONLDParser/parse(java.io.Reader,java.lang.String)@g_jsonld-java-sesame-0.5.1.jar.txt	1

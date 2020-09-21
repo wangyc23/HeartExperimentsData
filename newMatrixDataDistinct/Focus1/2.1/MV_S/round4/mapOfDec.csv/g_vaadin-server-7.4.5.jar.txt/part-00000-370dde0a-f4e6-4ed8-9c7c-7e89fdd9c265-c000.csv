@@ -1,0 +1,5 @@
+javax/faces/webapp/FacesServlet/initHttpMethodValidityVerification()@g_javax.faces-2.2.7.jar.txt	3
+javax/faces/validator/BeanValidator/parseValidationGroups(java.lang.String)@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/config/processor/FacesFlowDefinitionConfigProcessor/synthesizeEmptyFlowDefinition(java.net.URI)@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/config/processor/FaceletTaglibConfigProcessor/createMethod(java.lang.Class,java.lang.String)@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/config/processor/ResourceLibraryContractsConfigProcessor/processResourceLibraryContracts(org.w3c.dom.NodeList,java.util.HashMap)@g_javax.faces-2.2.7.jar.txt	1

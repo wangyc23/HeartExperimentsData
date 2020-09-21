@@ -1,0 +1,5 @@
+zxm/istock/ft/market/Symbols/classifyByMarket(java.util.Collection)@07534c078ef8c9f2d93d8b3f2fc4ca65ee3e88bf.txt	0
+com/xeiam/xchange/coinfloor/CoinfloorAdapters/adaptOrderClosed(java.lang.String)@00856899fe586c72567f17502db1af85157ecbd2.txt	2
+com/xeiam/xchange/coinfloor/CoinfloorAdapters/adaptOrders(java.lang.String)@00856899fe586c72567f17502db1af85157ecbd2.txt	3
+com/xeiam/xchange/cryptsy/CryptsyAdapters/adaptPublicTrades(java.util.Map)@00856899fe586c72567f17502db1af85157ecbd2.txt	4
+com/xeiam/xchange/coinfloor/CoinfloorAdapters/adaptBalancesChanged(java.lang.String)@00856899fe586c72567f17502db1af85157ecbd2.txt	1

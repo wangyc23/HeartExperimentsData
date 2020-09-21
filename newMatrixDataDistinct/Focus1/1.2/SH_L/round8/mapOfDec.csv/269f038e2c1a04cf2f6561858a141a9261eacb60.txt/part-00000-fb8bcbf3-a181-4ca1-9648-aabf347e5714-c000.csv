@@ -1,0 +1,5 @@
+org/jboss/forge/spec/validation/ValidationPluginTest/testUserConfigIsAddedToGeneratedValidationDescriptorWhenSetUp()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	3
+org/jboss/forge/spec/jpa/NewFieldPluginTest/testNewManyToManyRelationship()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	4
+org/jboss/forge/spec/validation/completer/PropertyCompleterTest/testCompletionOnClassWithProperties()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	0
+org/jboss/forge/spec/validation/ValidationPluginTest/testValidationProviderDependenciesAreInstalledWhenSetUp()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	1
+org/jboss/forge/spec/jpa/NewFieldPluginNegativeTest/testNewFieldWithoutEntityDoesNotCreateFile()@0546a3bf4998d41710fd1b31c23c9c21cc899b0c.txt	2

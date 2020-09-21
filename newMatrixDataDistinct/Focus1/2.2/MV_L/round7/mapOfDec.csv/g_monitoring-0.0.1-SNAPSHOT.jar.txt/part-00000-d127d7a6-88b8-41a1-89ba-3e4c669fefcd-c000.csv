@@ -1,0 +1,5 @@
+io/seldon/semvec/CreateLuceneIndexFromDb/saveDocument(long,org.apache.lucene.search.IndexSearcher,org.apache.lucene.index.IndexWriter,java.io.BufferedWriter)@g_semvec-lucene-tools-1.4.jar.txt	1
+net/didion/jwnl/JWNL/insertParams(java.lang.String,java.lang.Object[])@g_jwnl-1.4_rc3.jar.txt	4
+io/seldon/db/SeldonMySQLDocumentStore/getUserActionAttrs(long,java.util.Set)@g_semvec-lucene-tools-1.4.jar.txt	3
+io/seldon/nlp/ConceptFinder/find_concepts(java.lang.String[])@g_semvec-lucene-tools-1.4.jar.txt	0
+io/seldon/nlp/AddEntities/process(java.lang.String)@g_semvec-lucene-tools-1.4.jar.txt	2

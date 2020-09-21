@@ -1,0 +1,5 @@
+edu/stanford/nlp/util/logging/PrettyLogger/log(edu.stanford.nlp.util.logging.Redwood$RedwoodChannels,java.lang.String,java.lang.Object)@g_stanford-corenlp-3.5.0.jar.txt	3
+edu/stanford/nlp/dcoref/MUCMentionExtractor/nextDoc()@g_stanford-corenlp-3.5.0.jar.txt	0
+edu/stanford/nlp/ie/crf/CRFClassifier/trainWeights(int[][][][],int[][],edu.stanford.nlp.optimization.Evaluator[],int,double[][][][])@g_stanford-corenlp-3.5.0.jar.txt	2
+edu/stanford/nlp/util/MetaClass/cast(java.lang.String,java.lang.reflect.Type)@g_stanford-corenlp-3.5.0.jar.txt	1
+edu/stanford/nlp/util/MetaClass/cast(java.lang.String,java.lang.reflect.Type)@g_stanford-parser-3.5.2.jar.txt	4

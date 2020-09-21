@@ -1,0 +1,5 @@
+org/apache/tomcat/websocket/WsWebSocketContainer/connectToServer(javax.websocket.Endpoint,javax.websocket.ClientEndpointConfig,java.net.URI)@g_tomcat-embed-websocket-8.0.23.jar.txt	1
+org/apache/tomcat/websocket/WsWebSocketContainer/connectToServer(javax.websocket.Endpoint,javax.websocket.ClientEndpointConfig,java.net.URI)@g_tomcat-embed-websocket-8.0.20.jar.txt	0
+org/apache/tomcat/websocket/PerMessageDeflate/sendMessagePart(java.util.List)@g_tomcat-embed-websocket-8.0.20.jar.txt	2
+org/apache/tomcat/websocket/WsSession/sendCloseMessage(javax.websocket.CloseReason)@g_tomcat-embed-websocket-8.0.20.jar.txt	4
+org/apache/tomcat/websocket/WsSession/doClose(javax.websocket.CloseReason,javax.websocket.CloseReason)@g_tomcat-embed-websocket-8.0.20.jar.txt	3

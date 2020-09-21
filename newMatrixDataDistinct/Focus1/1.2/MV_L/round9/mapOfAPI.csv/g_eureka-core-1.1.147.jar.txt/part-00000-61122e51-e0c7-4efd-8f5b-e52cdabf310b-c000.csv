@@ -1,0 +1,4 @@
+0	com/netflix/eureka/cluster/PeerEurekaNode$ReplicationTask/getAction()
+1	com/netflix/eureka/cluster/PeerEurekaNode$ReplicationInstanceResponse/getResponseEntity()
+2	com/netflix/eureka/cluster/PeerEurekaNode$ReplicationInstance/setOverriddenStatus(java.lang.String)
+3	com/netflix/eureka/cluster/PeerEurekaNode$ReplicationInstance/setLastDirtyTimestamp(long)

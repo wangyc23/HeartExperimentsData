@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+java/util/Arrays/copyOfRange(byte[],int,int)
+java/nio/ByteBuffer/arrayOffset()
+java/nio/ByteBuffer/array()

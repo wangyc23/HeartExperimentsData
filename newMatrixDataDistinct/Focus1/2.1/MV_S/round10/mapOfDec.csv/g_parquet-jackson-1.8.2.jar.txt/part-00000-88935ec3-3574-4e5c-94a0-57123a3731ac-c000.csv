@@ -1,0 +1,5 @@
+com/eureka2/shading/apache/avro/reflect/ReflectData/getProtocol(java.lang.Class)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	1
+com/eureka2/shading/codehaus/jackson/map/JsonMappingException/Reference/toString()@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	2
+com/eureka2/shading/thoughtworks/paranamer/JavadocParanamer/lookupParameterNames(java.lang.reflect.AccessibleObject,boolean)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	0
+com/eureka2/shading/apache/avro/reflect/ReflectData/createSchema(java.lang.reflect.Type,java.util.Map)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	4
+com/eureka2/shading/apache/avro/reflect/ReflectData/getFields(java.lang.Class,boolean)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	3

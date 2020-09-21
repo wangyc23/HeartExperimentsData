@@ -1,0 +1,5 @@
+demo/hw/server/IntegerUserMapAdapter/marshal(java.util.Map)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+org/apache/cxf/demo/aegis/commands/ReadZoo/go()@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+demo/oauth/server/controllers/SampleOAuthDataProvider/removeRegisteredClient(java.lang.String)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+org/springframework/boot/actuate/endpoint/ConfigurationPropertiesReportEndpoint/extract(org.springframework.boot.ApplicationContext,org.springframework.boot.actuate.autoconfigure.ObjectMapper)@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	0
+org/springframework/boot/cli/util/SystemProperties/doWithSystemProperties(java.lang.Runnable,java.lang.String[])@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	1

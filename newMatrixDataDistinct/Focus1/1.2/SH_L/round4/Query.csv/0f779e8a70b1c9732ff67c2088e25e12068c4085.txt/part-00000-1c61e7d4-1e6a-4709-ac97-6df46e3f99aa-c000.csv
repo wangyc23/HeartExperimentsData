@@ -1,0 +1,4 @@
+org/springframework/security/core/userdetails/UsernameNotFoundException/UsernameNotFoundException(java.lang.String)
+com/flavien/models/User/getPassword()
+org/springframework/data/repository/CrudRepository/findOne(ID)
+org/springframework/security/core/userdetails/User/User(java.lang.String,java.lang.String,boolean,boolean,boolean,boolean,java.util.Collection)

@@ -1,0 +1,4 @@
+java/io/File/exists()
+java/io/File/File(java.lang.String)
+java/lang/Integer/valueOf(int)
+java/lang/Integer/valueOf(java.lang.String)

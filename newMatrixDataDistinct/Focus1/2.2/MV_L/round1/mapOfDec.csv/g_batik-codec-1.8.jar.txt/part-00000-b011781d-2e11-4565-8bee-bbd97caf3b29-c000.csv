@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/codec/png/PNGImage/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_xmlgraphics-commons-2.0.1.jar.txt	3
+org/apache/xmlgraphics/image/codec/png/PNGRed/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_xmlgraphics-commons-2.0.1.jar.txt	2
+org/apache/batik/ext/awt/image/codec/png/PNGImage/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_batik-codec-1.7.jar.txt	0
+org/apache/batik/ext/awt/image/codec/png/PNGRed/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_batik-codec-1.7.jar.txt	1
+org/apache/batik/ext/awt/image/codec/tiff/TIFFImage/getTile(int,int)@g_batik-codec-1.7.jar.txt	4

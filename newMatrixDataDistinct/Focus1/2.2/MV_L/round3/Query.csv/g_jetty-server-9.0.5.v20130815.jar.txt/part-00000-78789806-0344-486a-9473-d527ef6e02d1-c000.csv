@@ -1,0 +1,4 @@
+java/security/SecureRandom/generateSeed(int)
+java/util/Random/setSeed(long)
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+java/lang/Runtime/getRuntime()

@@ -1,0 +1,5 @@
+com/cloudera/oryx/als/computation/RepeatedFoldInIT/testFoldIn()@1b523d454a0ff0d6795889790f7bfa0ccbb8a677.txt	1
+com/cloudera/oryx/rdf/common/pmml/DecisionForestPMML/buildTreeModel(com.cloudera.oryx.rdf.common.tree.DecisionForest,java.util.Map,com.cloudera.oryx.rdf.common.pmml.MiningFunctionType,com.cloudera.oryx.kmeans.serving.generation.MiningSchema,int,com.cloudera.oryx.rdf.common.tree.DecisionTree,com.cloudera.oryx.common.settings.InboundSettings)@1b523d454a0ff0d6795889790f7bfa0ccbb8a677.txt	4
+com/cloudera/oryx/common/servcomp/Namespaces/getPaddedGenerationID(int)@1b523d454a0ff0d6795889790f7bfa0ccbb8a677.txt	2
+com/cloudera/oryx/kmeans/serving/web/AssignServlet/doGet(com.cloudera.oryx.serving.web.HttpServletRequest,com.cloudera.oryx.serving.web.HttpServletResponse)@1b523d454a0ff0d6795889790f7bfa0ccbb8a677.txt	3
+com/cloudera/oryx/common/log/MemoryHandlerTest/testManyLogLines()@1b523d454a0ff0d6795889790f7bfa0ccbb8a677.txt	0

@@ -1,0 +1,5 @@
+org/apache/commons/logging/LogFactory/getConfigurationFile(java.lang.ClassLoader,java.lang.String)@g_commons-logging-1.1.jar.txt	1
+org/apache/commons/logging/LogFactory/getConfigurationFile(java.lang.ClassLoader,java.lang.String)@g_commons-logging-1.1.1.jar.txt	3
+org/apache/commons/logging/LogFactory/getFactory()@g_commons-logging-1.1.1.jar.txt	2
+org/apache/commons/logging/impl/WeakHashtable/entrySet()@g_commons-logging-1.1.jar.txt	4
+org/apache/commons/logging/LogFactory/getFactory()@g_commons-logging-1.1.jar.txt	0

@@ -1,0 +1,4 @@
+0	org/drools/android/roboguice/KSessionImpl/KSessionImpl(java.lang.String)
+1	org/drools/android/roboguice/DroolsContainerModule/KSessionProvider/KSessionProvider(org.drools.examples.carinsurance.workflow.KieSessionModel,org.drools.examples.conway.KieContainer)
+2	org/drools/android/roboguice/DroolsContainerModule/KBaseProvider/KBaseProvider(org.drools.examples.carinsurance.workflow.KieBaseModel,org.drools.examples.conway.KieContainer)
+3	org/drools/android/DroolsAndroidContext/setContext(org.drools.android.Context)

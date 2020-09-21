@@ -1,0 +1,5 @@
+org/apache/maven/doxia/index/IndexEntry/toString(int)@g_doxia-core-1.4.jar.txt	4
+org/apache/maven/doxia/document/io/xpp3/DocumentXpp3Writer/writeDocumentCover(org.apache.maven.doxia.document.DocumentCover,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_doxia-core-1.4.jar.txt	3
+org/apache/maven/doxia/macro/toc/TocMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.4.jar.txt	2
+org/apache/maven/doxia/parser/AbstractXmlParser/parseXml(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-core-1.4.jar.txt	0
+org/apache/maven/doxia/util/HtmlTools/unescapeHTML(java.lang.String,boolean)@g_doxia-core-1.4.jar.txt	1

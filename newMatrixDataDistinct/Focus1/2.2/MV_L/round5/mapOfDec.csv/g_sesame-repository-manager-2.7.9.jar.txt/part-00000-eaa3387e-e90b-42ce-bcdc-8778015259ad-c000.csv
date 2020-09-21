@@ -1,0 +1,5 @@
+net/sf/ehcache/config/CacheConfiguration/parsePercentage(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/hibernate/EhCacheProvider/start(java.util.Properties)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/config/Configuration/parsePercentage(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/management/ResourceClassLoader/findClass(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/search/expression/ILike/convertRegex(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	2

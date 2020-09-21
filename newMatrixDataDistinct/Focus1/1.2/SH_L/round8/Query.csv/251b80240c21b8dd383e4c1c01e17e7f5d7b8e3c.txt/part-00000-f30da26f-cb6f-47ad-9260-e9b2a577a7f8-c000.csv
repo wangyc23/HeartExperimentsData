@@ -1,0 +1,4 @@
+org/apache/mahout/cf/taste/impl/recommender/svd/SVDRecommender/SVDRecommender(org.apache.mahout.cf.taste.model.DataModel,org.apache.mahout.cf.taste.impl.recommender.svd.Factorizer)
+java/util/Iterator/hasNext()
+org/apache/mahout/cf/taste/impl/recommender/svd/ParallelSGDFactorizerTest/setUpToyData()
+org/slf4j/Logger/info(java.lang.String)

@@ -1,0 +1,5 @@
+org/codehaus/plexus/digest/DigestUtils/cleanChecksum(java.lang.String,java.lang.String,java.lang.String)@g_plexus-digest-1.0.jar.txt	4
+uk/ac/susx/informatics/Morpha/capitalise(java.lang.String)@g_morpha-stemmer-1.0.4.jar.txt	0
+uk/ac/susx/informatics/Morpha/capitalise(java.lang.String)@g_plexus-digest-1.0.jar.txt	3
+org/codehaus/plexus/digest/DigestUtils/cleanChecksum(java.lang.String,java.lang.String,java.lang.String)@g_morpha-stemmer-1.0.4.jar.txt	1
+org/atteo/evo/inflector/TwoFormInflector/irregular(java.lang.String,java.lang.String)@g_morpha-stemmer-1.0.4.jar.txt	2

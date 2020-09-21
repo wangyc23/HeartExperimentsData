@@ -1,0 +1,5 @@
+com/mchange/v2/c3p0/cfg/C3P0ConfigUtils/findAllC3P0SystemProperties()@g_c3p0-0.9.1.jar.txt	3
+com/mchange/v2/debug/ThreadNameStackTraceRecorder/getDump(java.lang.String)@g_c3p0-0.9.1.jar.txt	0
+com/mchange/v2/naming/JavaBeanObjectFactory/createPropertyMap(java.lang.Class,java.util.Map)@g_c3p0-0.9.1.jar.txt	4
+org/springframework/core/style/DefaultValueStyler/style(java.util.Map)@g_spring-core-2.5.6.jar.txt	1
+org/springframework/core/style/DefaultValueStyler/style(java.util.Collection)@g_spring-core-2.5.6.jar.txt	2

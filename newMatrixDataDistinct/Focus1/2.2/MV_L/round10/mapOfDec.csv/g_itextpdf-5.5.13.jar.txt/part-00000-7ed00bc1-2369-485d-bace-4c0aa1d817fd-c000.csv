@@ -1,0 +1,5 @@
+com/lowagie/text/pdf/XfaForm/Xml2SomDatasets/processDatasetsInternal(org.w3c.dom.Node)@g_itext-2.1.2.jar.txt	0
+com/lowagie/text/pdf/XfaForm/Xml2SomDatasets/insertNode(org.w3c.dom.Node,java.lang.String)@g_itext-2.1.2.jar.txt	4
+com/adobe/xmp/impl/ParseRDF/rdf_LiteralPropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.2.jar.txt	3
+com/adobe/xmp/impl/ParseRDF/rdf_ResourcePropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.2.jar.txt	2
+com/lowagie/text/pdf/XfaForm/Xml2SomTemplate/processTemplate(org.w3c.dom.Node,java.util.HashMap)@g_itext-2.1.2.jar.txt	1

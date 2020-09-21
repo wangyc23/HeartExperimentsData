@@ -1,0 +1,5 @@
+org/apache/tools/ant/Diagnostics/doReportTasksAvailability(java.io.PrintStream)@g_xpp3-1.1.4c.jar.txt	4
+org/apache/tools/ant/types/selectors/ExtendSelector/selectorCreate()@g_xpp3-1.1.4c.jar.txt	2
+org/apache/tools/ant/taskdefs/Checksum/validateAndExecute()@g_xpp3-1.1.4c.jar.txt	0
+org/apache/tools/ant/taskdefs/Copydir/execute()@g_xpp3-1.1.4c.jar.txt	1
+org/apache/tools/ant/types/AbstractFileSet/clone()@g_xpp3-1.1.4c.jar.txt	3

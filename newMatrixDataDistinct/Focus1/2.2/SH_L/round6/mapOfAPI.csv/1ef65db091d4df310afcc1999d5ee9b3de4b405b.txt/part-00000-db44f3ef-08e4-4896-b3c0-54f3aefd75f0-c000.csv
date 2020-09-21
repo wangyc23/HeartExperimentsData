@@ -1,0 +1,5 @@
+0	ca/intelliware/ihtsdo/mlds/service/ReleasePackagePrioritizerTest/withIhtsdoPackage(long,java.lang.Integer)
+1	org/hamcrest/CoreMatchers/equalTo(T)
+2	ca/intelliware/ihtsdo/mlds/service/ReleasePackagePrioritizer/prioritize(ca.intelliware.ihtsdo.mlds.domain.ReleasePackage,java.lang.Integer)
+3	pl/pwr/news/repository/user/UserRepository/findByActivationHash(java.lang.String)
+4	ca/intelliware/ihtsdo/mlds/domain/ReleasePackage/getPriority()

@@ -1,0 +1,5 @@
+weka/datagenerators/classifiers/classification/RDG1/updateDecisionList(java.util.Random,weka.core.Instance)@g_weka-dev-3.9.1.jar.txt	3
+weka/gui/knowledgeflow/steps/SubstringReplacerStepEditorDialog/layoutEditor()@g_weka-dev-3.9.1.jar.txt	0
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_weka-dev-3.9.1.jar.txt	1
+weka/experiment/PairedTTester/listOptions()@g_weka-dev-3.9.1.jar.txt	4
+weka/datagenerators/classifiers/classification/RDG1/RuleList/toString()@g_weka-dev-3.9.1.jar.txt	2

@@ -1,0 +1,4 @@
+org/springframework/beans/factory/xml/ParserContext/getReaderContext()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/size()
+org/apache/commons/logging/Log/info(java.lang.Object)

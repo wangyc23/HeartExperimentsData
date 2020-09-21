@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/repository/vfs/VfsRepository/list(java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/util/url/HttpClientHandler/openStream(java.net.URL)@g_ivy-2.3.0.jar.txt	2
+org/xhtmlrenderer/css/parser/property/CounterPropertyBuilder/buildDeclarations(org.xhtmlrenderer.css.constants.CSSName,java.util.List,int,boolean,boolean)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/osgi/repo/RelativeURLRepository/getResource(java.lang.String)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0

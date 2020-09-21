@@ -1,0 +1,5 @@
+org/drools/template/model/AttributedDRLElement/asStringLiteral(java.lang.String)@g_drools-templates-5.6.0.Final.jar.txt	3
+org/drools/template/parser/ColumnFactory/createColumn(java.lang.String,java.lang.String)@g_drools-templates-5.6.0.Final.jar.txt	0
+org/ictclas4j/utility/DebugUtil/outputPostag(java.util.ArrayList)@g_ictclas4j-1.0.1.jar.txt	4
+org/drools/template/model/AttributedDRLElement/renderDRL(org.drools.template.model.DRLOutput)@g_drools-templates-5.6.0.Final.jar.txt	2
+org/drools/template/model/SnippetBuilder/buildForAll(java.lang.String)@g_drools-templates-5.6.0.Final.jar.txt	1

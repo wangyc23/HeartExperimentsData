@@ -1,0 +1,5 @@
+org/apache/maven/plugin/resources/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-resources-plugin-2.6.jar.txt	4
+org/apache/maven/plugin/resources/HelpMojo/execute()@g_maven-resources-plugin-2.6.jar.txt	1
+org/apache/maven/plugin/resources/HelpMojo/build()@g_maven-resources-plugin-2.6.jar.txt	0
+org/apache/maven/plugin/resources/ResourcesMojo/execute()@g_maven-resources-plugin-2.6.jar.txt	3
+org/apache/maven/plugin/resources/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-resources-plugin-2.6.jar.txt	2

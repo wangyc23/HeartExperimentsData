@@ -1,0 +1,3 @@
+0	redis/clients/jedis/Jedis/Jedis(java.lang.String)
+1	com/guillaumecl/caskdays/Config/setJedis(redis.clients.jedis.Jedis)
+2	java/lang/RuntimeException/RuntimeException(java.lang.Throwable)

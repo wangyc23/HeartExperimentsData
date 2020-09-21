@@ -1,0 +1,5 @@
+org/codehaus/plexus/DefaultPlexusContainer/lookupPlexusXml(org.codehaus.plexus.ContainerConfiguration)@g_sisu-inject-plexus-1.4.2.jar.txt	3
+org/sonatype/guice/plexus/annotations/ComponentImpl/equals(java.lang.Object)@g_sisu-inject-plexus-2.1.1.jar.txt	4
+org/sonatype/guice/plexus/config/Roles/camelizeName(java.lang.String)@g_sisu-inject-plexus-2.1.1.jar.txt	0
+org/codehaus/plexus/DefaultPlexusContainer/lookupPlexusXml(org.codehaus.plexus.ContainerConfiguration)@g_sisu-inject-plexus-2.1.1.jar.txt	2
+org/sonatype/guice/plexus/config/Roles/camelizeName(java.lang.String)@g_sisu-inject-plexus-1.4.2.jar.txt	1

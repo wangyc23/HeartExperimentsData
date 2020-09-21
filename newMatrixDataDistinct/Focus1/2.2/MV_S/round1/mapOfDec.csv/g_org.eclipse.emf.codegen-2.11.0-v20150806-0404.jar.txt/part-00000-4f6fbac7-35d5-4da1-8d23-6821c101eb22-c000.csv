@@ -1,0 +1,5 @@
+org/apache/felix/resolver/ResolverImpl/mergeUses(org.apache.felix.resolver.ResolverImpl$ResolveSession,org.osgi.resource.Resource,org.apache.felix.resolver.ResolverImpl$Packages,org.osgi.resource.Capability,java.util.List,org.osgi.resource.Capability,java.util.Map,org.apache.felix.resolver.Candidates,java.util.Map)@g_osgi-3.10.0-v20140606-1445.jar.txt	1
+org/apache/felix/resolver/ResolverImpl/getPackageSourcesInternal(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Capability,java.util.Map,java.util.List,java.util.Set)@g_osgi-3.10.0-v20140606-1445.jar.txt	4
+org/apache/felix/resolver/ResolverImpl/resolve(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource,org.osgi.resource.Requirement,java.util.List)@g_osgi-3.10.0-v20140606-1445.jar.txt	0
+org/apache/felix/resolver/ResolverImpl/calculatePackageSpaces(org.apache.felix.resolver.ResolverImpl$ResolveSession,org.osgi.resource.Resource,org.apache.felix.resolver.Candidates,java.util.Map,java.util.Map,java.util.Set)@g_osgi-3.10.0-v20140606-1445.jar.txt	2
+org/apache/felix/resolver/Candidates/populateDependents()@g_osgi-3.10.0-v20140606-1445.jar.txt	3

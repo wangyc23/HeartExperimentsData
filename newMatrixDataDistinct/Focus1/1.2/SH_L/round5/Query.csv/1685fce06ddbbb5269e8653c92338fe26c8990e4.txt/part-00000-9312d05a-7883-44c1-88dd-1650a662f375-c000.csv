@@ -1,0 +1,4 @@
+com/iluwatar/model/view/controller/GiantController/setHealth(com.iluwatar.model.view.controller.Health)
+com/iluwatar/model/view/controller/GiantController/GiantController(com.iluwatar.model.view.controller.GiantModel,com.iluwatar.model.view.controller.GiantView)
+com/iluwatar/model/view/controller/Health/values()
+org/mockito/Mockito/mock(java.lang.Class)

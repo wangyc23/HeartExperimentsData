@@ -1,0 +1,5 @@
+org/glassfish/hk2/utilities/cache/LRUHybridCache/compute(java.lang.Object)@g_hk2-utils-2.4.0-b10.jar.txt	2
+org/glassfish/hk2/utilities/cache/Cache/compute(java.lang.Object)@g_hk2-utils-2.4.0-b10.jar.txt	0
+org/glassfish/hk2/utilities/general/Hk2ThreadLocal/get()@g_hk2-utils-2.4.0-b31.jar.txt	4
+org/glassfish/hk2/utilities/cache/LRUHybridCache/compute(java.lang.Object)@g_hk2-utils-2.4.0-b31.jar.txt	3
+org/glassfish/hk2/utilities/cache/Cache/compute(java.lang.Object)@g_hk2-utils-2.4.0-b31.jar.txt	1

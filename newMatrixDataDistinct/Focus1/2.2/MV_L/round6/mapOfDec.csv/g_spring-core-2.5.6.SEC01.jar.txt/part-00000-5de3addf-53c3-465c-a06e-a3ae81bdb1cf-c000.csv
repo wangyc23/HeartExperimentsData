@@ -1,0 +1,5 @@
+org/springframework/jdbc/support/JdbcUtils/getResultSetValue(java.sql.ResultSet,int,java.lang.Class)@g_spring-2.5.6.jar.txt	4
+org/springframework/asm/ClassReader/readConst(int,char[])@g_spring-2.5.6.jar.txt	1
+org/springframework/asm/ClassReader/readConst(int,char[])@g_spring-core-2.5.6.jar.txt	0
+org/springframework/util/NumberUtils/convertNumberToTargetClass(java.lang.Number,java.lang.Class)@g_spring-2.5.6.jar.txt	3
+org/springframework/util/NumberUtils/convertNumberToTargetClass(java.lang.Number,java.lang.Class)@g_spring-core-2.5.6.jar.txt	2

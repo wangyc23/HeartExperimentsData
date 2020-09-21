@@ -1,0 +1,5 @@
+org/apache/http/impl/client/cache/ConditionalRequestBuilder/buildConditionalRequest(org.apache.http.client.methods.HttpRequestWrapper,org.apache.http.client.cache.HttpCacheEntry)@g_httpclient-cache-4.5.3.jar.txt	0
+org/apache/http/impl/client/cache/RequestProtocolCompliance/stripOtherFreshnessDirectivesWithNoCache(org.apache.http.HttpRequest)@g_httpclient-cache-4.5.3.jar.txt	4
+org/apache/http/impl/client/cache/ResponseCachingPolicy/isResponseCacheable(java.lang.String,org.apache.http.HttpResponse)@g_httpclient-cache-4.5.3.jar.txt	1
+org/apache/http/impl/client/cache/ResponseCachingPolicy/isResponseCacheable(java.lang.String,org.apache.http.HttpResponse)@g_httpclient-cache-4.2.6.jar.txt	2
+org/apache/http/impl/client/cache/ResponseProtocolCompliance/warningsWithNonMatchingWarnDatesAreRemoved(org.apache.http.HttpResponse)@g_httpclient-cache-4.5.3.jar.txt	3

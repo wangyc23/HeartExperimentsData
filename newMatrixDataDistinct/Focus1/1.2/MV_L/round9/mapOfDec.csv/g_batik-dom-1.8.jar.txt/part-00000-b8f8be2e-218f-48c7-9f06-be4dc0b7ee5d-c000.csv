@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xs/traversers/XSAttributeChecker/checkAttributes(org.w3c.dom.Element,boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo,boolean)@g_xercesImpl-2.8.0.jar.txt	4
+org/apache/xerces/xinclude/XIncludeTextReader/getReader(org.apache.xerces.xni.parser.XMLInputSource)@g_xercesImpl-2.8.0.jar.txt	1
+org/apache/xerces/jaxp/validation/ValidatorHandlerImpl/validate(javax.xml.transform.Source,javax.xml.transform.Result)@g_xercesImpl-2.8.1.jar.txt	2
+org/apache/xerces/jaxp/validation/ValidatorHandlerImpl/validate(javax.xml.transform.Source,javax.xml.transform.Result)@g_xercesImpl-2.8.0.jar.txt	0
+org/apache/xerces/xinclude/XIncludeTextReader/getReader(org.apache.xerces.xni.parser.XMLInputSource)@g_xercesImpl-2.8.1.jar.txt	3

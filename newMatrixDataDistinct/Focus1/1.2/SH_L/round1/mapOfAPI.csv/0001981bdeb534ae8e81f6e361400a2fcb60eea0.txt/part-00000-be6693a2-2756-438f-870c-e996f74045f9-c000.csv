@@ -1,0 +1,4 @@
+0	com/inmethod/grid/common/AbstractGrid/setItemEdit(com.inmethod.grid.common.IModel,boolean)
+1	com/inmethod/grid/column/AbstractColumn/getGrid()
+2	com/inmethod/grid/common/AbstractGrid/isSelectToEdit()
+3	com/inmethod/grid/common/AbstractGrid/update()

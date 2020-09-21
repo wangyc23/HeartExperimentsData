@@ -1,0 +1,5 @@
+org/bouncycastle/operator/jcajce/OperatorHelper/createRawSignature(org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_bcpkix-jdk15on-1.53.jar.txt	2
+org/bouncycastle/cms/bc/BcPasswordRecipient/extractSecretKey(org.bouncycastle.asn1.x509.AlgorithmIdentifier,org.bouncycastle.asn1.x509.AlgorithmIdentifier,byte[],byte[])@g_bcpkix-jdk15on-1.53.jar.txt	3
+org/bouncycastle/operator/jcajce/OperatorHelper/getSignatureName(org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_bcpkix-jdk15on-1.53.jar.txt	1
+org/bouncycastle/cms/jcajce/JcePasswordRecipientInfoGenerator/generateEncryptedBytes(org.bouncycastle.asn1.x509.AlgorithmIdentifier,byte[],org.bouncycastle.operator.GenericKey)@g_bcpkix-jdk15on-1.53.jar.txt	4
+org/bouncycastle/operator/jcajce/JceKTSKeyUnwrapper/generateUnwrappedKey(org.bouncycastle.asn1.x509.AlgorithmIdentifier,byte[])@g_bcpkix-jdk15on-1.53.jar.txt	0

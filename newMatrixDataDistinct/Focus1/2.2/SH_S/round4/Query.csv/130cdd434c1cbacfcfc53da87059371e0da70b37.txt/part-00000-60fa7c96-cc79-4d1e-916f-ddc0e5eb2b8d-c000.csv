@@ -1,0 +1,4 @@
+javax/persistence/criteria/CriteriaQuery/select(javax.persistence.criteria.Selection)
+javax/persistence/criteria/CriteriaQuery/orderBy(javax.persistence.criteria.Order[])
+javax/persistence/criteria/AbstractQuery/from(java.lang.Class)
+javax/persistence/EntityManager/getCriteriaBuilder()

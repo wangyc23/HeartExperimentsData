@@ -1,0 +1,4 @@
+java/util/LinkedList/LinkedList()
+com/google/gson/JsonElement/getAsJsonObject()
+java/util/List/add(E)
+com/google/gson/JsonElement/getAsJsonArray()

@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+org/apache/maven/execution/MavenSession/getSystemProperties()
+java/util/Properties/getProperty(java.lang.String)
+java/io/IOException/IOException(java.lang.String)

@@ -1,0 +1,4 @@
+0	au/com/ibm/bluecoin/model/relational/AppUser/setLogin(java.lang.String)
+1	au/com/ibm/bluecoin/model/relational/AppUser/setPassword(java.lang.String)
+2	au/com/ibm/bluecoin/model/relational/AppUser/getPassword()
+3	au/com/ibm/bluecoin/model/relational/AppUser/addRole(java.lang.String)

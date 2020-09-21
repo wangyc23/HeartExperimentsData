@@ -1,0 +1,4 @@
+org/jboss/classfilewriter/util/Boxing/boxIfNessesary(org.jboss.classfilewriter.code.CodeAttribute,java.lang.String)
+org/jboss/classfilewriter/code/CodeAttribute/returnInstruction()
+org/jboss/classfilewriter/code/CodeAttribute/dup()
+org/jboss/classfilewriter/code/CodeAttribute/checkcast(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/jackrabbit/webdav/jcr/version/report/NodeTypesReport/getNodeTypes(javax.jcr.Session,org.apache.jackrabbit.webdav.version.report.ReportInfo)@g_jackrabbit-jcr-server-1.4.jar.txt	1
+com/xpn/xwiki/gwt/api/client/widgets/WordListSuggestOracle/1/onSuggestionsReady(com.google.gwt.user.client.ui.SuggestOracle$Request,com.google.gwt.user.client.ui.SuggestOracle$Response)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	3
+org/apache/jackrabbit/webdav/jcr/version/report/JcrPrivilegeReport/addResponses(org.apache.jackrabbit.webdav.DavResourceLocator)@g_jackrabbit-jcr-server-1.4.jar.txt	4
+org/apache/jackrabbit/webdav/simple/DeltaVResourceImpl/getReferenceResources(org.apache.jackrabbit.webdav.property.DavPropertyName)@g_jackrabbit-jcr-server-1.4.jar.txt	0
+com/xpn/xwiki/gwt/api/server/XWikiServiceImpl/customQuery(java.lang.String,java.util.Map,int,int)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	2

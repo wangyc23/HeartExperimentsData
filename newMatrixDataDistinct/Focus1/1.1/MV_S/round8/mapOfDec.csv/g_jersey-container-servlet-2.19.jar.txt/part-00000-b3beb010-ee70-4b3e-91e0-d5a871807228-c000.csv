@@ -1,0 +1,5 @@
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/addServletWithDefaultConfiguration(javax.servlet.ServletContext,java.util.Set)@g_jersey-servlet-1.19.jar.txt	1
+com/sun/jersey/server/impl/container/servlet/PerSessionFactory/SessionMap/valueUnbound(javax.servlet.http.HttpSessionBindingEvent)@g_jersey-servlet-1.19.jar.txt	2
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/addServletWithExistingRegistration(javax.servlet.ServletContext,javax.servlet.ServletRegistration,java.lang.Class,java.util.Set)@g_jersey-servlet-1.19.jar.txt	0
+com/sun/jersey/server/impl/cdi/CDIExtension/processAnnotatedField(javax.enterprise.inject.spi.AnnotatedField,java.lang.Class,boolean,java.util.Map)@g_jersey-servlet-1.19.jar.txt	4
+com/sun/jersey/core/impl/provider/entity/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-servlet-1.19.jar.txt	3

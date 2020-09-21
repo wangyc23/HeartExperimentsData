@@ -1,0 +1,4 @@
+java/util/Properties/get(java.lang.Object)
+java/util/logging/Logger/warning(java.lang.String)
+java/net/URL/toExternalForm()
+java/util/Iterator/hasNext()

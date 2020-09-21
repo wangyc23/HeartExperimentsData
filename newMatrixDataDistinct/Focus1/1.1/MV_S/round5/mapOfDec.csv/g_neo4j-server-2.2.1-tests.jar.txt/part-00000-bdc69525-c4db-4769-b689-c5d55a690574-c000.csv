@@ -1,0 +1,5 @@
+org/neo4j/server/rest/transactional/error/ErrorDocumentationGeneratorTest/tablesShouldFormatAsAsciiDoc()@g_neo4j-server-3.0.1-tests.jar.txt	1
+org/neo4j/server/web/logging/HTTPLoggingDocIT/givenExplicitlyEnabledServerLoggingConfigurationShouldLogAccess()@g_neo4j-server-3.0.1-tests.jar.txt	3
+org/neo4j/server/rest/transactional/integration/RowFormatMetaFieldTest/setUp()@g_neo4j-server-3.0.1-tests.jar.txt	2
+org/neo4j/server/rest/IndexNodeDocIT/shouldBeAbleToRemoveIndexingById()@g_neo4j-server-3.0.1-tests.jar.txt	4
+org/neo4j/server/rest/transactional/integration/TransactionMatchers/assertElementAtMetaIndex(org.neo4j.test.server.HTTP$Response,int[],java.lang.String)@g_neo4j-server-3.0.1-tests.jar.txt	0

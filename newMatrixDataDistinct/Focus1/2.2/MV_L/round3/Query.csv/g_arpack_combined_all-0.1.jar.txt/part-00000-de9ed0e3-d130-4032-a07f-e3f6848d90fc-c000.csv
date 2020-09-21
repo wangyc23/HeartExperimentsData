@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+java/lang/StringBuffer/toString()
+java/lang/Object/getClass()
+java/lang/Math/sqrt(double)

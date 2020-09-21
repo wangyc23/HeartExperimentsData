@@ -1,0 +1,5 @@
+com/fengjing/framework/webservice/springws/client/saaj/StudentDetailsClient/writeStudentResponse(javax.xml.soap.SOAPMessage)@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	3
+com/finaxys/finaxysplatform/dataprovidersimulator/service/impl/StockQuoteServiceImpl/add(com.finaxys.finaxysplatform.core.domain.StockQuote)@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	0
+org/hippoecm/hst/demo/components/HstForm/doAction(org.hippoecm.hst.demo.components.HstRequest,org.hippoecm.hst.demo.components.HstResponse)@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	1
+com/finaxys/finaxysplatform/persistence/hbase/HBaseFetchEntityHandler/fetchArrayField(java.lang.reflect.Field,com.finaxys.finaxysplatform.persistence.hbase.QueuedObject,byte[])@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	4
+com/fengjing/framework/spring/jdbc/service/impl/ProducrServiceTest/listAll()@293aff5ab8f1ecf1f124b6fb663b91b7d0e581c4.txt	2

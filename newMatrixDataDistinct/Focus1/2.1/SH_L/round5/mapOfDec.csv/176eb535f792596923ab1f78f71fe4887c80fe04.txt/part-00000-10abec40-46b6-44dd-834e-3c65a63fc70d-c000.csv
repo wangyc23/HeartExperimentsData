@@ -1,0 +1,5 @@
+com/manning/hip/ch3/proto/StockProtos/StockAvg/Builder/getDescriptorForType()@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	4
+org/hf/mls/cf/hadoop/StaticEvalJob/PreStaticReducer/reduce(org.apache.hadoop.io.Text,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	1
+com/manning/hip/ch3/avro/gen/Stock/Builder/setOpen(double)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	3
+org/hf/mls/ar/hadoop/PreProcessJob/runJob(java.lang.String[])@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	2
+org/hf/mls/mahout/driver/MahoutDriver/run(java.lang.String[])@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	0

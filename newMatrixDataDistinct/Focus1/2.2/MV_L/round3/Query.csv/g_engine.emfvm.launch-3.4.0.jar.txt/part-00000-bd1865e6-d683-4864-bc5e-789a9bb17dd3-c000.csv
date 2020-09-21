@@ -1,0 +1,4 @@
+org/eclipse/m2m/atl/debug/core/adwp/IntegerValue/valueOf(int)
+org/eclipse/m2m/atl/debug/core/adwp/RealValue/valueOf(double)
+java/lang/Double/doubleValue()
+org/eclipse/m2m/atl/debug/core/adwp/BooleanValue/valueOf(boolean)

@@ -1,0 +1,5 @@
+org/apache/poi/hslf/record/PPDrawing/findEscherChildren(org.apache.poi.ddf.DefaultEscherRecordFactory,byte[],int,int,java.util.Vector)@g_poi-scratchpad-3.9.jar.txt	2
+org/apache/poi/hssf/converter/ExcelToHtmlConverter/processCell(org.apache.poi.hssf.usermodel.HSSFCell,org.w3c.dom.Element,int,int,float)@g_poi-scratchpad-3.9.jar.txt	3
+org/apache/poi/hdf/model/util/BTreeSet/BTreeNode/mergeLeft(int)@g_poi-scratchpad-3.9.jar.txt	4
+org/apache/poi/hwpf/model/FIBFieldHandler/toString()@g_poi-scratchpad-3.9.jar.txt	0
+org/apache/poi/hslf/dev/SlideShowRecordDumper/printEscherContainerRecord(org.apache.poi.ddf.EscherContainerRecord)@g_poi-scratchpad-3.9.jar.txt	1

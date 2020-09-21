@@ -1,0 +1,8 @@
+0	java/lang/Object/Object()
+1	java/util/regex/Pattern/compile(java.lang.String)
+2	java/lang/String/isEmpty()
+3	java/util/regex/Matcher/matches()
+4	org/apache/eagle/query/parser/ComparisonOperator/toString()
+5	java/lang/String/toLowerCase()
+6	java/lang/String/trim()
+7	java/util/regex/Pattern/matcher(java.lang.CharSequence)

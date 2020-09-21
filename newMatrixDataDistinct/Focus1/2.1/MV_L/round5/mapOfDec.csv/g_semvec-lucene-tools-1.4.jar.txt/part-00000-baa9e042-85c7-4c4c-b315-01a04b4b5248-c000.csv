@@ -1,0 +1,5 @@
+org/h2/server/web/WebServer/getSession(java.lang.String)@g_jwnl-1.4_rc3.jar.txt	2
+org/h2/server/pg/PgServer/listen()@g_jwnl-1.4_rc3.jar.txt	4
+org/h2/util/ToChar/toChar(java.math.BigDecimal,java.lang.String,java.lang.String)@g_h2-1.4.178.jar.txt	1
+org/h2/expression/Function/getValueWithArgs(org.h2.engine.Session,org.h2.expression.Expression[])@g_h2-1.4.178.jar.txt	0
+org/h2/tools/Recover/createTemporaryTable(java.io.PrintWriter)@g_jwnl-1.4_rc3.jar.txt	3

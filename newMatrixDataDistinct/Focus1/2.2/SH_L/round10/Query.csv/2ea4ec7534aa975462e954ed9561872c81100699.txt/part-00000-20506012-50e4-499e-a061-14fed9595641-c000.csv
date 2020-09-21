@@ -1,0 +1,4 @@
+java/util/Map/get(java.lang.Object)
+org/exoplatform/portal/mop/page/DataCache/loadPage(org.exoplatform.portal.pom.config.POMSession,org.exoplatform.portal.mop.page.PageKey)
+org/exoplatform/commons/serialization/MarshalledObject/unmarshall()
+org/exoplatform/commons/serialization/MarshalledObject/marshall(S)

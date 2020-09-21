@@ -1,0 +1,5 @@
+com/iluwatar/featuretoggle/pattern/propertiesversion/PropertiesFeatureToggleVersionTest/testFeatureTurnedOn()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	3
+org/apache/servicemix/examples/drools/camel/blueprint/osgi/DebugAgendaEventListener/afterRuleFlowGroupDeactivated(org.apache.servicemix.examples.drools.spring.osgi.RuleFlowGroupDeactivatedEvent)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	2
+com/iluwatar/dao/DbCustomerDaoTest/ConnectionSuccess/ExistingCustomer/updationShouldBeSuccessAndAccessingTheSameCustomerShouldReturnUpdatedInformation()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	1
+org/apache/servicemix/examples/drools/test/SimpleTest/testPool()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	0
+com/iluwatar/reader/writer/lock/ReaderWriterLock/ReadLock/lockInterruptibly()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	4

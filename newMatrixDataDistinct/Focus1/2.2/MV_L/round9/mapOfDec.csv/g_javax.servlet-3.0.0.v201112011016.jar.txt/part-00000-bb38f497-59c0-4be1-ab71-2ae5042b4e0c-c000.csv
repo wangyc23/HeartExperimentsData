@@ -1,0 +1,5 @@
+javax/servlet/http/HttpUtils/parseQueryString(java.lang.String)@g_javax.servlet-api-3.0.1.jar.txt	2
+javax/servlet/http/HttpUtils/parseName(java.lang.String,java.lang.StringBuilder)@g_javax.servlet-api-3.1.0.jar.txt	1
+javax/servlet/http/HttpServlet/doTrace(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_javax.servlet-api-3.0.1.jar.txt	4
+javax/servlet/http/HttpUtils/parseName(java.lang.String,java.lang.StringBuilder)@g_javax.servlet-api-3.0.1.jar.txt	0
+javax/servlet/ServletSecurityElement/checkMethodNames(java.util.Collection)@g_javax.servlet-api-3.0.1.jar.txt	3

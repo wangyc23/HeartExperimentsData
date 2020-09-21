@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+com/tinkerpop/gremlin/process/Path/size()
+java/util/Iterator/next()
+com/tinkerpop/gremlin/process/graph/traversal/step/map/PathTest/get_g_V_repeatXoutX_timesX2X_path_by_byXnameX_byXlangX()

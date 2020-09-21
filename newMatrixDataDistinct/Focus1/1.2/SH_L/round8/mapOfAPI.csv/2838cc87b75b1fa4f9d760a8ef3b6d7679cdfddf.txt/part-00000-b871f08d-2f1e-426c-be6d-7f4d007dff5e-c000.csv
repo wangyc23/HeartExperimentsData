@@ -1,0 +1,4 @@
+0	org/apache/mina/http2/api/Http2Frame/getStreamID()
+1	org/apache/mina/http2/api/Http2DataFrame/getPadding()
+2	org/apache/mina/http2/api/Http2DataFrame/getData()
+3	org/apache/mina/http2/impl/Http2Connection/decode(java.nio.ByteBuffer)

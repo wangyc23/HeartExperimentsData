@@ -1,0 +1,5 @@
+org/apache/tomcat/websocket/WsFrameBase/processDataBinary()@g_tomcat-embed-websocket-8.0.26.jar.txt	3
+org/apache/tomcat/websocket/WsSession/sendCloseMessage(javax.websocket.CloseReason)@g_tomcat-embed-websocket-8.0.26.jar.txt	1
+org/apache/tomcat/websocket/WsFrameBase/processDataBinary()@g_tomcat-embed-websocket-8.0.20.jar.txt	2
+org/apache/tomcat/websocket/WsSession/sendCloseMessage(javax.websocket.CloseReason)@g_tomcat-embed-websocket-8.0.20.jar.txt	0
+org/apache/tomcat/websocket/WsWebSocketContainer/createRequest(java.net.URI,java.util.Map)@g_tomcat-embed-websocket-8.0.20.jar.txt	4

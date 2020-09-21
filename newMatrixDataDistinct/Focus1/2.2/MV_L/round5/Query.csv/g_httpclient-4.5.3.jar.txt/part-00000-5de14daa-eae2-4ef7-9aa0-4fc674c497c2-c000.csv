@@ -1,0 +1,4 @@
+org/apache/http/entity/StringEntity/StringEntity(java.lang.String,org.apache.http.entity.ContentType)
+org/apache/http/entity/AbstractHttpEntity/setContentEncoding(java.lang.String)
+org/apache/http/entity/AbstractHttpEntity/setContentType(java.lang.String)
+org/apache/http/entity/InputStreamEntity/InputStreamEntity(java.io.InputStream,long,org.apache.http.entity.ContentType)

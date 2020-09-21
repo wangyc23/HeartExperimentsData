@@ -1,0 +1,4 @@
+org/carrot2/source/google/GoogleDocumentSourceDescriptor$Attributes/Attributes(org.carrot2.source.google.GoogleDocumentSourceDescriptor$1)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Collections/unmodifiableMap(java.util.Map)

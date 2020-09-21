@@ -1,0 +1,5 @@
+org/springframework/security/core/authority/mapping/MapBasedAttributes2GrantedAuthoritiesMapper/preProcessMap(java.util.Map)@g_spring-security-core-3.2.3.RELEASE.jar.txt	0
+org/springframework/security/core/userdetails/memory/UserMap/setUsers(java.util.Map)@g_spring-security-core-3.2.3.RELEASE.jar.txt	1
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/buildRolesReachableInOneOrMoreStepsMap()@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/access/method/DelegatingMethodSecurityMetadataSource/getAttributes(java.lang.reflect.Method,java.lang.Class)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/authentication/AbstractAuthenticationToken/toString()@g_spring-security-core-3.2.3.RELEASE.jar.txt	2

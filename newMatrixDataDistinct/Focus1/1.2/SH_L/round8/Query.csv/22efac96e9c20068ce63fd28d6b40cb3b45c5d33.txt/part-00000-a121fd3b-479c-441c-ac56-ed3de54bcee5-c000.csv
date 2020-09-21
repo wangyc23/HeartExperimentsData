@@ -1,0 +1,4 @@
+org/jboss/errai/otec/harness/OTTestingLogger/OTTestingLogger()
+org/jboss/errai/otec/AbstractOtecTest/assertSystemAssertionsEnabled()
+java/io/PrintStream/println(char[])
+org/jboss/errai/otec/harness/OTTestingLogger/repeat(char,int)

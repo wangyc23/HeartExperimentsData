@@ -1,0 +1,4 @@
+io/netty/channel/ChannelFuture/sync()
+io/netty/bootstrap/Bootstrap/connect(java.lang.String,int)
+io/netty/channel/ChannelFuture/channel()
+io/netty/bootstrap/AbstractBootstrap/handler(io.netty.channel.ChannelHandler)

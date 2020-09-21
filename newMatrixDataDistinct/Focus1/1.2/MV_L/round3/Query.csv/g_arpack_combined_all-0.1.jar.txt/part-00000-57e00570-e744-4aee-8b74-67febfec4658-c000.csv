@@ -1,0 +1,4 @@
+java/lang/Class/getDeclaredMethods()
+java/io/PrintStream/println(java.lang.String)
+java/lang/Math/max(int,int)
+java/lang/StringBuffer/toString()

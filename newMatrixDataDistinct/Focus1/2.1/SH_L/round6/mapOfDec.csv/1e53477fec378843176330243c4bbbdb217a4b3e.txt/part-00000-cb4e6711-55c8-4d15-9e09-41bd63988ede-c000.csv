@@ -1,0 +1,5 @@
+main/SongKickEventSearch/getTotalEntries(java.lang.String)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	4
+main/SongKickEventSearch/readAll(java.io.Reader)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	0
+dao/LocationDAOImpl/getConnection()@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	3
+edu/upc/eetac/dsa/secretsites/auth/AuthorizedResource/setPath(java.lang.String)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	1
+edu/upc/eetac/dsa/secretsites/dao/InterestPointDAOImpl/deleteInterestPointStatus(java.lang.String,java.lang.String)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	2

@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+java/lang/Object/equals(java.lang.Object)
+java/beans/PropertyDescriptor/getPropertyEditorClass()
+javax/servlet/ServletRequest/getParameterValues(java.lang.String)

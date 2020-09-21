@@ -1,0 +1,5 @@
+parquet/thrift/ParquetWriteProtocol/MapWriteProtocol/writeMapEnd()@0c5a1f63f104e80118870d550a768abedfa49720.txt	4
+parquet/thrift/ParquetWriteProtocol/MapWriteProtocol/writeMapBegin(parquet.thrift.TMap)@0c5a1f63f104e80118870d550a768abedfa49720.txt	1
+parquet/io/ColumnIO/getParent(int)@0c5a1f63f104e80118870d550a768abedfa49720.txt	0
+parquet/io/MessageColumnIO/MessageColumnIORecordConsumer/endField(java.lang.String,int)@0c5a1f63f104e80118870d550a768abedfa49720.txt	3
+parquet/thrift/ThriftRecordConverter/hasMissingRequiredFieldInGroupType(parquet.schema.GroupType,parquet.schema.GroupType)@0c5a1f63f104e80118870d550a768abedfa49720.txt	2

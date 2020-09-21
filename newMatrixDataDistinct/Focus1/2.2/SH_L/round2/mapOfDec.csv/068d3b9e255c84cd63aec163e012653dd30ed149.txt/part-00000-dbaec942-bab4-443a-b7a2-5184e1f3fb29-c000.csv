@@ -1,0 +1,5 @@
+org/apache/deltaspike/core/impl/message/DefaultMessage/markAsUnresolved(java.lang.String)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	3
+org/apache/deltaspike/data/impl/util/QueryUtils/uncapitalize(java.lang.String)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	1
+org/apache/deltaspike/test/core/impl/activation/DefaultClassDeactivatorTest/deploy()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	2
+org/apache/deltaspike/test/utils/ShrinkWrapArchiveUtil/addFileArchive(java.io.File,java.lang.String[],java.lang.String[],java.lang.String)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	0
+org/apache/deltaspike/data/impl/builder/postprocessor/CountQueryPostProcessor/QueryExtraction/splitQuery()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	4

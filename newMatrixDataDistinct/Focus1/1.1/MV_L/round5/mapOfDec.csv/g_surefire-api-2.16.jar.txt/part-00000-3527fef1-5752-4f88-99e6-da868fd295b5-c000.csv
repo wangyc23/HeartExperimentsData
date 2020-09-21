@@ -1,0 +1,5 @@
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/io/DirectoryScanner/scandir(java.io.File,java.lang.String,boolean)@g_surefire-api-2.17.jar.txt	4
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/StringUtils/unifyLineSeparators(java.lang.String,java.lang.String)@g_surefire-api-2.17.jar.txt	3
+org/apache/maven/surefire/SpecificTestClassFilter/accept(java.lang.Class)@g_surefire-api-2.17.jar.txt	2
+org/apache/maven/surefire/util/UrlUtils/getURL(java.io.File)@g_surefire-api-2.18.1.jar.txt	1
+org/apache/maven/surefire/util/UrlUtils/getURL(java.io.File)@g_surefire-api-2.17.jar.txt	0

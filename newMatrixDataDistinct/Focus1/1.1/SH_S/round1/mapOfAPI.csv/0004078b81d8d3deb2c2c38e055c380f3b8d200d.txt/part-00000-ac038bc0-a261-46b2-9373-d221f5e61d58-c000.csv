@@ -1,0 +1,8 @@
+0	java/lang/StringBuilder/StringBuilder(java.lang.String)
+1	java/util/Random/nextInt(int)
+2	java/lang/StringBuilder/toString()
+3	java/lang/Math/abs(int)
+4	java/lang/String/toCharArray()
+5	java/util/Random/Random()
+6	java/lang/StringBuilder/append(char)
+7	com/waimai/ops/utils/CommonUtil/isComplexPwd(java.lang.String)

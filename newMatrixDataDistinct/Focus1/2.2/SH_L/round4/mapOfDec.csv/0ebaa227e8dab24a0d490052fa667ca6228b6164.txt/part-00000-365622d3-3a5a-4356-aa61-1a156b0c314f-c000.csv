@@ -1,0 +1,5 @@
+co/gersua/cloudmooc/mapred/g2q1q2/all/Top10CarriersOnTimeReducer/reduce(org.apache.hadoop.io.NullWritable,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@04169f46b675485df11411cb3e07302c0b292b6a.txt	4
+co/gersua/cloudmooc/capstone/csv/tx/CSVTransformer/transform(java.io.File,java.io.File,co.gersua.cloudmooc.capstone.csv.tx.SeparatorEnum,java.lang.String[])@04169f46b675485df11411cb3e07302c0b292b6a.txt	1
+co/gersua/cloudmooc/mapred/g3q2/BestFlightReducer/reduce(org.apache.hadoop.io.Text,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@04169f46b675485df11411cb3e07302c0b292b6a.txt	2
+co/gersua/cloudmooc/capstone/csv/tx/CSVTransformer/wordSplitter(java.lang.String)@04169f46b675485df11411cb3e07302c0b292b6a.txt	0
+co/gersua/cloudmooc/spark/g1q3/Main/main(java.lang.String[])@04169f46b675485df11411cb3e07302c0b292b6a.txt	3

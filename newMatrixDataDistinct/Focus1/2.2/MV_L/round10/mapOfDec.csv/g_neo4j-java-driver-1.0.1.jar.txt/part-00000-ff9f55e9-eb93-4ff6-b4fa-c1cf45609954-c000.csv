@@ -1,0 +1,5 @@
+org/neo4j/driver/internal/security/TrustOnFirstUseTrustManager/load()@g_neo4j-java-driver-1.4.4.jar.txt	0
+org/neo4j/driver/internal/cluster/RoutingContext/parseParameters(java.net.URI)@g_neo4j-java-driver-1.4.4.jar.txt	1
+org/neo4j/driver/internal/connector/socket/TrustOnFirstUseTrustManager/createKnownCertFileIfNotExists()@g_neo4j-java-driver-1.4.4.jar.txt	3
+org/neo4j/driver/internal/security/TrustOnFirstUseTrustManager/createKnownCertFileIfNotExists()@g_neo4j-java-driver-1.4.4.jar.txt	2
+org/neo4j/driver/internal/connector/socket/ChunkedInput/ensure(int)@g_neo4j-java-driver-1.4.4.jar.txt	4

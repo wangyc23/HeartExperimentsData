@@ -1,0 +1,5 @@
+org/neo4j/server/rest/web/DatabaseActions/getOrCreateIndexedNode(java.lang.String,java.lang.String,java.lang.String,java.lang.Long,java.util.Map)@g_neo4j-server-3.0.1.jar.txt	1
+org/neo4j/server/rest/transactional/GraphExtractionWriter/writeProperties(org.codehaus.jackson.JsonGenerator,org.neo4j.graphdb.PropertyContainer)@g_neo4j-server-3.0.1.jar.txt	4
+org/neo4j/server/rest/transactional/ExecutionResultSerializer/notifications(java.lang.Iterable)@g_neo4j-server-3.0.1.jar.txt	2
+org/neo4j/server/rest/web/DatabaseActions/dropSchemaIndex(java.lang.String,java.lang.String)@g_neo4j-server-3.0.1.jar.txt	0
+org/neo4j/server/rest/repr/IndexRepresentation/serialize(org.neo4j.server.rest.repr.MappingSerializer)@g_neo4j-server-3.0.1.jar.txt	3

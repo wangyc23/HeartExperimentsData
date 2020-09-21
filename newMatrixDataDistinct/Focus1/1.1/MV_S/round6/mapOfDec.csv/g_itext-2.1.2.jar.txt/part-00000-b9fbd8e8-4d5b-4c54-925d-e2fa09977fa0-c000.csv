@@ -1,0 +1,5 @@
+com/itextpdf/text/pdf/PdfCopy/fixStructureTreeRoot(java.util.HashSet,java.util.HashSet)@g_itextpdf-5.5.13.jar.txt	1
+com/itextpdf/text/pdf/AcroFields/setFieldProperty(java.lang.String,java.lang.String,java.lang.Object,int[])@g_itextpdf-5.5.13.jar.txt	3
+com/itextpdf/text/pdf/PdfWriter/addSharedObjectsToBody()@g_itextpdf-5.5.13.jar.txt	0
+com/lowagie/text/pdf/PdfGraphics2D/doAttributes(java.text.AttributedCharacterIterator)@g_itextpdf-5.5.13.jar.txt	4
+com/lowagie/text/pdf/codec/Base64/encodeObject(java.io.Serializable,int)@g_itextpdf-5.5.13.jar.txt	2

@@ -1,0 +1,5 @@
+org/openrdf/http/protocol/transaction/TransactionSAXParser/createContexts(int)@g_sesame-http-protocol-2.7.9.jar.txt	1
+org/openrdf/query/resultio/sparqlxml/SPARQLXMLWriterBase/writeQName(org.openrdf.model.URI)@g_sesame-http-protocol-2.7.9.jar.txt	4
+org/openrdf/http/protocol/transaction/TransactionWriter/serialize(org.openrdf.http.protocol.transaction.operations.SPARQLUpdateOperation,info.aduna.xml.XMLWriter)@g_sesame-http-protocol-2.7.9.jar.txt	0
+org/openrdf/query/resultio/sparqlxml/SPARQLResultsSAXParser/startTag(java.lang.String,java.util.Map,java.lang.String)@g_sesame-http-protocol-2.7.9.jar.txt	3
+org/openrdf/query/resultio/sparqlxml/SPARQLXMLParserBase/parseQueryResultInternal(java.io.InputStream,boolean,boolean)@g_sesame-http-protocol-2.7.9.jar.txt	2

@@ -1,0 +1,6 @@
+0	java/io/File/File(java.net.URI)
+1	java/sql/Connection/close()
+2	java/lang/ClassLoader/getResource(java.lang.String)
+3	java/nio/file/Files/createTempDirectory(java.lang.String,java.nio.file.attribute.FileAttribute<?>[])
+4	java/net/URL/toURI()
+5	java/lang/String/charAt(int)

@@ -1,0 +1,5 @@
+retrofit/MockRestAdapter/calculateDelayForCall()@14605e35dbaf8b322336885b479ea464dcd2c403.txt	2
+com/codahale/metrics/benchmarks/generated/ReservoirBenchmark_perfSlidingTimeWindowReservoir/perfSlidingTimeWindowReservoir_thrpt_jmhStub(org.openjdk.jmh.runner.InfraControl,org.openjdk.jmh.results.RawResults,com.codahale.metrics.benchmarks.generated.ReservoirBenchmark_jmh,org.openjdk.jmh.infra.generated.Blackhole_jmh)@14605e35dbaf8b322336885b479ea464dcd2c403.txt	3
+com/softwaremill/common/cdi/validation/PasswordValidator/isValid(java.lang.String,javax.validation.ConstraintValidatorContext)@14605e35dbaf8b322336885b479ea464dcd2c403.txt	1
+com/codahale/metrics/ManualClock/getTime()@14605e35dbaf8b322336885b479ea464dcd2c403.txt	0
+retrofit/converter/JacksonConverterTest/MyObject/equals(java.lang.Object)@14605e35dbaf8b322336885b479ea464dcd2c403.txt	4

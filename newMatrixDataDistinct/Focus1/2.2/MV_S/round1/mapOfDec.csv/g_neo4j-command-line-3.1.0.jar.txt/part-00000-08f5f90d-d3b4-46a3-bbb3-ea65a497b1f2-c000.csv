@@ -1,0 +1,5 @@
+org/elasticsearch/indices/IndicesService/doStop()@g_elasticsearch-5.2.2.jar.txt	2
+org/elasticsearch/gateway/PrimaryShardAllocator/buildNodeDecisions(org.elasticsearch.gateway.PrimaryShardAllocator$NodesToAllocate,org.elasticsearch.gateway.AsyncShardFetch$FetchResult,java.util.Set)@g_elasticsearch-5.2.2.jar.txt	1
+org/elasticsearch/action/admin/indices/mapping/get/TransportGetFieldMappingsIndexAction/shardOperation(org.elasticsearch.action.admin.indices.mapping.get.GetFieldMappingsIndexRequest,org.elasticsearch.index.shard.ShardId)@g_elasticsearch-5.2.2.jar.txt	0
+org/elasticsearch/discovery/zen/UnicastZenPing/sendPings(org.elasticsearch.common.unit.TimeValue,org.elasticsearch.discovery.zen.UnicastZenPing$PingingRound)@g_elasticsearch-5.2.2.jar.txt	3
+org/elasticsearch/discovery/zen/ElectMasterService/hasEnoughCandidates(java.util.Collection)@g_elasticsearch-5.2.2.jar.txt	4

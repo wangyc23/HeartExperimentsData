@@ -1,0 +1,5 @@
+com/netflix/servo/jsr166e/ConcurrentHashMapV8/SearchEntriesTask/compute()@g_json-patch-1.7.jar.txt	3
+com/github/fge/jackson/JsonNumEquals/doHash(com.fasterxml.jackson.databind.JsonNode)@g_json-patch-1.7.jar.txt	2
+com/netflix/servo/publish/JmxMetricPoller/createTagList(javax.management.ObjectName)@g_json-patch-1.7.jar.txt	1
+com/netflix/servo/publish/BaseMetricPoller/poll(com.netflix.servo.publish.MetricFilter,boolean)@g_json-patch-1.7.jar.txt	4
+com/github/fge/jsonpatch/AddOperation/addToArray(com.github.fge.jackson.jsonpointer.JsonPointer,com.fasterxml.jackson.databind.JsonNode)@g_json-patch-1.7.jar.txt	0

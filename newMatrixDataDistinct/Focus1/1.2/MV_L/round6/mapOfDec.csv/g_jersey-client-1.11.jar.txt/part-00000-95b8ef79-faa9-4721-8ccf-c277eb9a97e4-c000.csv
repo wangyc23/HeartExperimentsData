@@ -1,0 +1,5 @@
+com/sun/jersey/api/client/Client/init(com.sun.jersey.api.client.ClientHandler,com.sun.jersey.api.client.config.ClientConfig,com.sun.jersey.core.spi.component.ioc.IoCComponentProviderFactory)@g_jersey-client-1.9.jar.txt	4
+com/sun/jersey/client/urlconnection/URLConnectionClientHandler/URLConnectionResponse/toString()@g_jersey-client-1.9.jar.txt	0
+com/sun/jersey/api/client/ClientResponse/getEntity(java.lang.Class,java.lang.reflect.Type)@g_jersey-client-1.9.jar.txt	2
+com/sun/jersey/client/urlconnection/URLConnectionClientHandler/URLConnectionResponse/toString()@g_jersey-client-1.13.jar.txt	1
+com/sun/jersey/api/client/filter/LoggingFilter/printRequestHeaders(java.lang.StringBuilder,long,javax.ws.rs.core.MultivaluedMap)@g_jersey-client-1.9.jar.txt	3

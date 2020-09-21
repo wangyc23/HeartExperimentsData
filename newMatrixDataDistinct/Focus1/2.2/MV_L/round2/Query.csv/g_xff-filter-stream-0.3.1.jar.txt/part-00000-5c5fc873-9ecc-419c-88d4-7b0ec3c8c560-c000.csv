@@ -1,0 +1,4 @@
+org/xwiki/rest/model/jaxb/Property/getName()
+org/xwiki/filter/xff/internal/input/XFFInputFilter/endWikiClassProperty(java.lang.String,java.lang.String,org.xwiki.filter.FilterEventParameters)
+java/util/Iterator/hasNext()
+org/xwiki/rest/model/jaxb/Attribute/getValue()

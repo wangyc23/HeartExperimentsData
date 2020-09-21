@@ -1,0 +1,5 @@
+org/apache/lucene/demo/xmlparser/FormBasedXmlQueryDemo/init(javax.servlet.ServletConfig)@g_lucene-demo-6.6.0.jar.txt	2
+org/apache/lucene/demo/xmlparser/FormBasedXmlQueryDemo/openExampleIndex()@g_lucene-demo-6.6.0.jar.txt	1
+org/apache/lucene/demo/xmlparser/FormBasedXmlQueryDemo/openExampleIndex()@g_lucene-demo-5.0.0.jar.txt	4
+org/apache/lucene/demo/xmlparser/FormBasedXmlQueryDemo/doPost(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_lucene-demo-6.6.0.jar.txt	0
+org/apache/lucene/demo/xmlparser/FormBasedXmlQueryDemo/doPost(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_lucene-demo-5.0.0.jar.txt	3

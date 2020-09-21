@@ -1,0 +1,4 @@
+java/lang/String/split(java.lang.String)
+java/lang/Double/parseDouble(java.lang.String)
+org/ankus/io/TextDoublePairWritableComparable/TextDoublePairWritableComparable(java.lang.String,double)
+java/lang/StringBuffer/append(java.lang.String)

@@ -1,0 +1,4 @@
+com/thoughtworks/xstream/converters/SingleValueConverter/toString(java.lang.Object)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+com/thoughtworks/xstream/mapper/Mapper/shouldSerializeMember(java.lang.Class,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)

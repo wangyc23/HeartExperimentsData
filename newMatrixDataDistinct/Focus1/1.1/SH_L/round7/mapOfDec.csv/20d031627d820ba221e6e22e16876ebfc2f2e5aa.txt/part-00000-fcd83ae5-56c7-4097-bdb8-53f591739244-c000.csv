@@ -1,0 +1,5 @@
+org/opentripplanner/common/geometry/SparseMatrixZSampleGrid/delaunify()@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	3
+org/opentripplanner/visibility/Polyline/eliminate_redundant_vertices(double)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	0
+org/opentripplanner/routing/impl/OnBoardDepartServiceImplTest/testOnBoardDepartureTime()@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	2
+org/opentripplanner/routing/core/RoutingContext/setServiceDays()@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	1
+org/opentripplanner/common/geometry/DirectionUtilsTest/testAzimuth()@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	4

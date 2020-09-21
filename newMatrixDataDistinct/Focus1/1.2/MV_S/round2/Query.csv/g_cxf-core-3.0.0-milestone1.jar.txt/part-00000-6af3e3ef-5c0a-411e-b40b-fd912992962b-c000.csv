@@ -1,0 +1,4 @@
+java/net/URL/openStream()
+java/net/URL/toString()
+java/util/Properties/Properties()
+java/util/logging/Logger/log(java.util.logging.Level,java.lang.String,java.lang.Object)

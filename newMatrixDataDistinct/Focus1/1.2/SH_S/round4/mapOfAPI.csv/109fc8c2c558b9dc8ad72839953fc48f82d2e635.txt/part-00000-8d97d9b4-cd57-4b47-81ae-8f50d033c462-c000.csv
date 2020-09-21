@@ -1,0 +1,4 @@
+0	at/ac/tuwien/service/impl/TemplateServiceImpl/fileRemover(java.lang.String)
+1	java/io/File/getName()
+2	java/util/zip/ZipOutputStream/putNextEntry(java.util.zip.ZipEntry)
+3	java/util/zip/ZipOutputStream/ZipOutputStream(java.io.OutputStream)

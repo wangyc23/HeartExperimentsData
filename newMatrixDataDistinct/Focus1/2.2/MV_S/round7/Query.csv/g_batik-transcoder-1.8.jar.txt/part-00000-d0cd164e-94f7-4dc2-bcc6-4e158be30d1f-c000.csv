@@ -1,0 +1,4 @@
+org/apache/batik/anim/dom/SVGOMDocument/setParsedURL(org.apache.batik.util.ParsedURL)
+org/apache/batik/bridge/BridgeContext/setDynamicState(int)
+org/apache/batik/bridge/GVTBuilder/build(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Document)
+org/apache/batik/bridge/SVGAnimationEngine/setCurrentTime(float)

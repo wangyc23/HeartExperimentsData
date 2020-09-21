@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/spi/v2_0/TransactionBoundQueryContext/addIndexRule(int,int)@g_neo4j-cypher-2.2.5.jar.txt	1
+org/neo4j/cypher/internal/spi/v2_2/TransactionBoundQueryContext/getRelationshipsForIds(org.neo4j.graphdb.Node,org.neo4j.graphdb.Direction,scala.Option)@g_neo4j-cypher-2.2.5.jar.txt	3
+org/neo4j/cypher/internal/spi/v2_2/TransactionBoundQueryContext/addIndexRule(int,int)@g_neo4j-cypher-2.2.5.jar.txt	2
+org/neo4j/cypher/internal/compatibility/CompatibilityFor2_0/ExecutionPlanWrapper/run(org.neo4j.kernel.GraphDatabaseAPI,org.neo4j.cypher.internal.TransactionInfo,org.neo4j.cypher.internal.compiler.v2_2.ExecutionMode,scala.collection.immutable.Map,org.neo4j.kernel.impl.query.QuerySession)@g_neo4j-cypher-2.2.5.jar.txt	0
+org/neo4j/cypher/internal/CollectionFrosting/RichTraversable/collectSingle(scala.PartialFunction)@g_neo4j-cypher-2.2.5.jar.txt	4

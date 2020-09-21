@@ -1,0 +1,5 @@
+org/eclipse/jetty/client/AsyncHttpConnection/handle()@g_jetty-server-9.4.5.v20170502.jar.txt	3
+org/eclipse/jetty/server/ResourceService/getPreferredEncodingOrder(javax.servlet.http.HttpServletRequest)@g_jetty-server-9.4.5.v20170502.jar.txt	2
+org/eclipse/jetty/server/handler/ShutdownHandler/handle(java.lang.String,org.eclipse.jetty.server.Request,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jetty-server-9.4.5.v20170502.jar.txt	4
+org/eclipse/jetty/server/handler/DebugHandler/handle(java.lang.String,org.eclipse.jetty.server.Request,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jetty-server-9.4.5.v20170502.jar.txt	1
+org/eclipse/jetty/server/handler/gzip/GzipHandler/handle(java.lang.String,org.eclipse.jetty.server.Request,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jetty-server-9.4.5.v20170502.jar.txt	0

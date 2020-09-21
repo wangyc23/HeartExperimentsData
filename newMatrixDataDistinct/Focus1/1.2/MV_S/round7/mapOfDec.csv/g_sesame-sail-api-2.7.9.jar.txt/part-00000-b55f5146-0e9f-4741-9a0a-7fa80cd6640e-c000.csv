@@ -1,0 +1,5 @@
+info/aduna/io/FileUtil/createTempDir(java.lang.String)@g_onejar-2.7.9.jar.txt	1
+org/openrdf/sail/memory/FileIO/write(java.io.File,java.io.File)@g_onejar-2.7.9.jar.txt	4
+net/sf/ehcache/terracotta/RotatingSnapshotFile/readAll()@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/store/disk/DiskStorageFactory/shutdown()@g_ehcache-core-2.6.2.jar.txt	3
+org/openrdf/sail/helpers/DirectoryLockManager/tryLock()@g_onejar-2.7.9.jar.txt	0

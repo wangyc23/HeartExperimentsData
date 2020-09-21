@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/kitchensink/exception/DeltaSpikeJSFExceptionHandlerFactory/getExceptionHandler()@229a59a387073da61f904ba2e9b2a2947c27c377.txt	2
+com/onslyde/service/PerformanceService/speedreport(java.lang.String)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	3
+org/jboss/as/quickstart/cdi/parameterlogger/model/ParameterLoggerInterceptor/aroundInvoke(javax.interceptor.InvocationContext)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	4
+org/jboss/as/quickstarts/tasksJsf/UserDaoTest/userDao_should_create_user_so_it_could_be_retrieved_from_userDao_by_username()@229a59a387073da61f904ba2e9b2a2947c27c377.txt	1
+org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl/deleteTask(org.jboss.as.quickstarts.tasksrs.model.Task)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	0

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/deploy/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-gpg-plugin-1.6.jar.txt	3
+org/apache/maven/plugin/deploy/DeployFileMojo/readModel(java.io.File)@g_maven-gpg-plugin-1.6.jar.txt	4
+org/apache/maven/plugin/deploy/DeployFileMojo/generatePomFile()@g_maven-deploy-plugin-2.8.2.jar.txt	1
+org/apache/maven/plugin/deploy/HelpMojo/execute()@g_maven-gpg-plugin-1.6.jar.txt	2
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/generatePomFile()@g_maven-gpg-plugin-1.6.jar.txt	0

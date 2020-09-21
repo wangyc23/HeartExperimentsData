@@ -1,0 +1,8 @@
+0	java/lang/Object/Object()
+1	java/util/Arrays/asList(T[])
+2	com/kyip/api/buildstartportal/external/datatype/StartProject/setStarted(boolean)
+3	java/io/PrintStream/println(char[])
+4	java/io/PrintStream/println(java.lang.Object)
+5	com/kyip/api/buildstartportal/external/datatype/SingleProject/getPath()
+6	com/kyip/api/buildstartportal/external/datatype/StartProject/getPort()
+7	com/kyip/api/buildstartportal/external/ListStartProjectsResponse/setProjects(java.util.List)

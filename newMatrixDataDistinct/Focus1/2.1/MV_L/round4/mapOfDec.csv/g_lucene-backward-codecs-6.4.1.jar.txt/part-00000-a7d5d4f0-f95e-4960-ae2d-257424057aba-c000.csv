@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/lucene45/Lucene45DocValuesConsumer/addSortedSetField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,java.lang.Iterable,java.lang.Iterable)@g_lucene-backward-codecs-5.5.0.jar.txt	3
+org/apache/lucene/codecs/lucene49/Lucene49DocValuesConsumer/addTermsDict(org.apache.lucene.index.FieldInfo,java.lang.Iterable)@g_lucene-backward-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/lucene50/Lucene50DocValuesConsumer/addNumericField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,boolean)@g_lucene-backward-codecs-5.5.0.jar.txt	0
+org/apache/lucene/codecs/lucene50/Lucene50DocValuesConsumer/addBinaryField(org.apache.lucene.index.FieldInfo,java.lang.Iterable)@g_lucene-backward-codecs-5.5.0.jar.txt	2
+org/apache/lucene/codecs/lucene50/Lucene50DocValuesConsumer/addAddresses(org.apache.lucene.index.FieldInfo,java.lang.Iterable)@g_lucene-backward-codecs-5.5.0.jar.txt	4

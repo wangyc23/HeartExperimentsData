@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/AbstractArchiver/asResourceCollection(org.codehaus.plexus.archiver.ArchivedFileSet)@g_plexus-archiver-2.2.jar.txt	1
+org/codehaus/plexus/archiver/AbstractArchiver/asResourceCollection(org.codehaus.plexus.archiver.ArchivedFileSet)@g_plexus-archiver-2.1.1.jar.txt	0
+org/codehaus/plexus/archiver/gzip/GZipCompressor/compress()@g_plexus-archiver-2.1.1.jar.txt	4
+org/codehaus/plexus/archiver/jar/JdkManifestFactory/getDefaultManifest()@g_plexus-archiver-2.1.1.jar.txt	2
+org/codehaus/plexus/archiver/zip/AbstractZipUnArchiver/extractFile(java.io.File,java.io.File,java.io.InputStream,java.lang.String,java.util.Date,boolean,java.lang.Integer)@g_plexus-archiver-2.1.1.jar.txt	3

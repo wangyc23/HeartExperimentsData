@@ -1,0 +1,5 @@
+org/apache/fontbox/cff/CFFFontROS/getWidth(int)@g_fontbox-1.8.10.jar.txt	0
+org/apache/fontbox/cff/CFFFontROS/getWidth(int)@g_fontbox-1.8.8.jar.txt	2
+org/apache/fontbox/cff/CFFFont/getWidth(int)@g_fontbox-1.8.10.jar.txt	1
+org/apache/fontbox/ttf/TTFSubFont/buildPostTable()@g_fontbox-1.8.10.jar.txt	4
+org/apache/fontbox/cff/CFFFont/getWidth(int)@g_fontbox-1.8.8.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/tools/ant/util/ChainedMapper/mapFileName(java.lang.String)@g_ant-1.6.5.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/velocity/util/introspection/MethodMap/getBestMatch(java.util.List,java.lang.Class[])@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/exception/NestableDelegate/printStackTrace(java.io.PrintWriter)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/functors/SwitchTransformer/getInstance(java.util.Map)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/ClassUtils/getResources(java.lang.String,java.lang.Object)@g_attributes-processor-1.0.1.jar.txt	0

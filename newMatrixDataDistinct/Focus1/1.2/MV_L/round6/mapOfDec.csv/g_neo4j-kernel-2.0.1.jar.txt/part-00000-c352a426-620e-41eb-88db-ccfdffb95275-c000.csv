@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/nioneo/store/IdGeneratorImpl/freeId(long)@g_neo4j-kernel-1.8.jar.txt	4
+org/neo4j/kernel/impl/locking/community/RWLock/releaseReadLock(javax.transaction.Transaction)@g_neo4j-kernel-2.1.7.jar.txt	2
+org/neo4j/kernel/impl/transaction/RWLock/releaseReadLock(javax.transaction.Transaction)@g_neo4j-kernel-1.8.jar.txt	0
+org/neo4j/kernel/impl/locking/community/RWLock/releaseWriteLock(javax.transaction.Transaction)@g_neo4j-kernel-2.1.7.jar.txt	3
+org/neo4j/kernel/impl/transaction/RWLock/releaseWriteLock(javax.transaction.Transaction)@g_neo4j-kernel-1.8.jar.txt	1

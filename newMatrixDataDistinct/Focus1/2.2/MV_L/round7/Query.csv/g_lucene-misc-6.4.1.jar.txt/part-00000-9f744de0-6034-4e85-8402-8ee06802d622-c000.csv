@@ -1,0 +1,4 @@
+org/apache/lucene/index/Terms/iterator()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/lucene/index/Fields/iterator()

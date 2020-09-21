@@ -1,0 +1,4 @@
+com/itextpdf/text/pdf/XfaForm$Xml2SomDatasets/inverseSearchAdd(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/w3c/dom/Node/getLocalName()
+java/lang/Integer/toString()

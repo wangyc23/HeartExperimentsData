@@ -1,0 +1,5 @@
+ognl/ListPropertyAccessor/getSourceAccessor(ognl.OgnlContext,java.lang.Object,java.lang.Object)@g_ognl-3.0.8.jar.txt	2
+ognl/OgnlRuntime/callAppropriateMethod(ognl.OgnlContext,java.lang.Object,java.lang.Object,java.lang.String,java.lang.String,java.util.List,java.lang.Object[])@g_ognl-3.0.8.jar.txt	4
+ognl/ASTMethod/toSetSourceString(ognl.OgnlContext,java.lang.Object)@g_ognl-3.0.8.jar.txt	0
+ognl/ASTMethod/toGetSourceString(ognl.OgnlContext,java.lang.Object)@g_ognl-3.0.8.jar.txt	1
+ognl/ASTStaticField/isNodeConstant(ognl.OgnlContext)@g_ognl-3.0.8.jar.txt	3

@@ -1,0 +1,4 @@
+org/xwiki/rendering/listener/Listener/beginDocument(org.xwiki.rendering.listener.MetaData)
+org/xwiki/rendering/listener/Listener/endParagraph(java.util.Map)
+java/lang/StringBuffer/length()
+org/xwiki/rendering/listener/Listener/onWord(java.lang.String)

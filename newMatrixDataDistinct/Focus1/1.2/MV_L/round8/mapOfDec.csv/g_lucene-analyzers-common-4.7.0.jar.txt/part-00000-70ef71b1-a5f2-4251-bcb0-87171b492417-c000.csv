@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/util/CharTokenizer/incrementToken()@g_lucene-analyzers-common-4.6.0.jar.txt	2
+org/apache/lucene/analysis/commongrams/CommonGramsFilter/gramToken()@g_lucene-analyzers-common-4.6.0.jar.txt	4
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/unhyphenate()@g_lucene-analyzers-common-4.6.0.jar.txt	3
+org/apache/lucene/collation/CollationKeyFilter/incrementToken()@g_lucene-analyzers-common-4.6.0.jar.txt	0
+org/apache/lucene/collation/CollationKeyFilter/incrementToken()@g_lucene-analyzers-common-4.9.1.jar.txt	1

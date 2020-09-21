@@ -1,0 +1,4 @@
+com/codahale/metrics/json/MetricsModule$TimerSerializer/TimerSerializer(java.util.concurrent.TimeUnit,java.util.concurrent.TimeUnit,boolean,com.codahale.metrics.json.MetricsModule$1)
+com/codahale/metrics/json/MetricsModule$CounterSerializer/CounterSerializer(com.codahale.metrics.json.MetricsModule$1)
+com/fasterxml/jackson/databind/Module$SetupContext/addSerializers(com.fasterxml.jackson.databind.ser.Serializers)
+com/codahale/metrics/json/MetricsModule$GaugeSerializer/GaugeSerializer(com.codahale.metrics.json.MetricsModule$1)

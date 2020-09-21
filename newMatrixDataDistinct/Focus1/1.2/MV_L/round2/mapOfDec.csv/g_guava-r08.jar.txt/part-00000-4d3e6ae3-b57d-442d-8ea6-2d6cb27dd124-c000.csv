@@ -1,0 +1,5 @@
+com/google/common/collect/ImmutableMultiset/readObject(java.io.ObjectInputStream)@g_guava-r06.jar.txt	3
+com/google/common/io/Files/createParentDirs(java.io.File)@g_guava-r06.jar.txt	2
+com/google/common/collect/ComputingConcurrentHashMap/compute(com.google.common.collect.CustomConcurrentHashMap$Segment,java.lang.Object,com.google.common.collect.CustomConcurrentHashMap$ReferenceEntry)@g_guava-r06.jar.txt	1
+com/google/common/base/FinalizableReferenceQueue/DecoupledLoader/getBaseUrl()@g_guava-r06.jar.txt	4
+com/google/common/io/Files/deleteDirectoryContents(java.io.File)@g_guava-r06.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/log4j/net/SocketAppender/Connector/run()@g_log4j-1.2.15.jar.txt	2
+com/opensymphony/module/sitemesh/mapper/RobotDecoratorMapper/isBot(javax.servlet.http.HttpServletRequest)@g_log4j-1.2.15.jar.txt	4
+org/apache/log4j/helpers/OptionConverter/substVars(java.lang.String,java.util.Properties)@g_log4j-1.2.15.jar.txt	0
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_log4j-1.2.15.jar.txt	1
+org/apache/log4j/varia/HUP/run()@g_log4j-1.2.15.jar.txt	3

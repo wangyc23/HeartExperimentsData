@@ -1,0 +1,4 @@
+java/io/RandomAccessFile/close()
+java/nio/channels/FileChannel/lock()
+java/io/File/exists()
+java/io/File/mkdir()

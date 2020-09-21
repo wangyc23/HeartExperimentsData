@@ -1,0 +1,5 @@
+org/springframework/jdbc/support/SQLExceptionSubclassTranslator/doTranslate(java.lang.String,java.lang.String,java.sql.SQLException)@g_spring-jdbc-4.0.6.RELEASE.jar.txt	2
+org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator/doTranslate(java.lang.String,java.lang.String,java.sql.SQLException)@g_spring-jdbc-4.0.6.RELEASE.jar.txt	0
+org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator/doTranslate(java.lang.String,java.lang.String,java.sql.SQLException)@g_spring-jdbc-4.0.7.RELEASE.jar.txt	1
+org/springframework/jdbc/support/SQLStateSQLExceptionTranslator/doTranslate(java.lang.String,java.lang.String,java.sql.SQLException)@g_spring-jdbc-4.0.6.RELEASE.jar.txt	4
+org/springframework/jdbc/support/SQLExceptionSubclassTranslator/doTranslate(java.lang.String,java.lang.String,java.sql.SQLException)@g_spring-jdbc-4.0.7.RELEASE.jar.txt	3

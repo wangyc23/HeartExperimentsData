@@ -1,0 +1,5 @@
+org/apache/shiro/realm/activedirectory/ActiveDirectoryRealm/getRoleNamesForUser(java.lang.String,javax.naming.ldap.LdapContext)@g_shiro-core-1.2.2.jar.txt	0
+org/apache/shiro/realm/AuthorizingRealm/getAuthorizationCacheLazy()@g_shiro-core-1.2.2.jar.txt	2
+org/apache/shiro/authc/credential/SimpleCredentialsMatcher/equals(java.lang.Object,java.lang.Object)@g_shiro-core-1.2.2.jar.txt	4
+org/apache/shiro/jndi/JndiLocator/lookup(java.lang.String,java.lang.Class)@g_shiro-core-1.2.2.jar.txt	1
+org/apache/shiro/realm/ldap/DefaultLdapContextFactory/getLdapContext(java.lang.Object,java.lang.Object)@g_shiro-core-1.2.2.jar.txt	3

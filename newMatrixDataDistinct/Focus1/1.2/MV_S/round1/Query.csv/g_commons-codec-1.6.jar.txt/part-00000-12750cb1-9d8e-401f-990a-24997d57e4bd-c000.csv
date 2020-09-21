@@ -1,0 +1,4 @@
+org/apache/commons/codec/language/ColognePhonetic$CologneInputBuffer/length()
+org/apache/commons/codec/language/ColognePhonetic$CologneInputBuffer/CologneInputBuffer(org.apache.commons.codec.language.ColognePhonetic,char[])
+org/apache/commons/codec/language/ColognePhonetic$CologneOutputBuffer/CologneOutputBuffer(org.apache.commons.codec.language.ColognePhonetic,int)
+java/lang/String/length()

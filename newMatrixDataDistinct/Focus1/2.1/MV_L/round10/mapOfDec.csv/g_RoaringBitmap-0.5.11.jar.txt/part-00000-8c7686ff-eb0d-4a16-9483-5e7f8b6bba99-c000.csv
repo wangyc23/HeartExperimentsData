@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/arj/ArjArchiveInputStream/readLocalFileHeader()@g_commons-compress-1.9.jar.txt	4
+org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream/read(byte[],int,int)@g_commons-compress-1.9.jar.txt	1
+org/apache/commons/compress/archivers/sevenz/SevenZFile/readUnpackInfo(java.io.DataInput,org.apache.commons.compress.archivers.sevenz.Archive)@g_commons-compress-1.9.jar.txt	2
+org/roaringbitmap/buffer/MutableRoaringArray/deserialize(java.io.DataInput)@g_RoaringBitmap-0.4.9.jar.txt	0
+org/apache/commons/compress/compressors/gzip/GzipCompressorInputStream/init(boolean)@g_commons-compress-1.9.jar.txt	3

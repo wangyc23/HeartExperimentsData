@@ -1,0 +1,4 @@
+org/apache/sis/metadata/iso/quality/AbstractElement$Dates/size()
+org/apache/sis/util/resources/Errors/format(short,java.lang.Object,java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Collection/size()

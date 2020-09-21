@@ -1,0 +1,4 @@
+com/doume/max/entity/KeyType/setKeyValue(java.lang.Long)
+com/doume/max/entity/KeyType/setOid(java.lang.Long)
+com/doume/max/entity/KeyType/setKeyClass(java.lang.String)
+com/doume/max/entity/KeyType/setKeyName(java.lang.String)

@@ -1,0 +1,4 @@
+java/net/InetAddress/getLocalHost()
+java/io/PrintStream/println(java.lang.String)
+java/lang/String/equals(java.lang.Object)
+java/io/PrintWriter/flush()

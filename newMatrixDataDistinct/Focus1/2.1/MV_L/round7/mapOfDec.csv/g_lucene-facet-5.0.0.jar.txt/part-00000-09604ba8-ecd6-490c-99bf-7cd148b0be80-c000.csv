@@ -1,0 +1,5 @@
+org/apache/lucene/facet/taxonomy/directory/DirectoryTaxonomyWriter/findCategory(org.apache.lucene.facet.taxonomy.CategoryPath)@g_lucene-facet-4.3.1.jar.txt	3
+org/apache/lucene/facet/search/DrillSidewaysScorer/doDrillDownAdvanceScoring(org.apache.lucene.search.Collector,org.apache.lucene.index.DocsEnum[][],org.apache.lucene.search.Collector[])@g_lucene-facet-4.3.1.jar.txt	4
+org/apache/lucene/facet/taxonomy/directory/DirectoryTaxonomyReader/getOrdinal(org.apache.lucene.facet.taxonomy.CategoryPath)@g_lucene-facet-4.3.1.jar.txt	0
+org/apache/lucene/facet/search/DrillSidewaysScorer/doUnionScoring(org.apache.lucene.search.Collector,org.apache.lucene.index.DocsEnum[][],org.apache.lucene.search.Collector[])@g_lucene-facet-4.3.1.jar.txt	2
+org/apache/lucene/facet/taxonomy/directory/DirectoryTaxonomyWriter/perhapsFillCache()@g_lucene-facet-4.3.1.jar.txt	1

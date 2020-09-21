@@ -1,0 +1,5 @@
+com/sun/faces/renderkit/RenderKitUtils/getSubmitHandler(javax.faces.context.FacesContext,javax.faces.component.UIComponent,java.util.Collection,java.lang.String,boolean)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/application/NavigationHandlerImpl/findWildCardMatch(javax.faces.context.FacesContext,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.util.Map)@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/renderkit/html_basic/AjaxBehaviorRenderer/buildAjaxCommand(javax.faces.component.behavior.ClientBehaviorContext,javax.faces.component.behavior.AjaxBehavior,boolean)@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/mgbean/BeanManager/validateReferences(com.sun.faces.mgbean.BeanBuilder,java.util.List,java.util.List)@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/config/JavaClassScanningAnnotationScanner/processClasspath(java.util.Set,java.util.Set)@g_javax.faces-2.2.7.jar.txt	1

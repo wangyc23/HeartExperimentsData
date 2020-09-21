@@ -1,0 +1,5 @@
+com/healthmarketscience/jackcess/impl/IndexData/readDataPage(com.healthmarketscience.jackcess.impl.IndexData$DataPage)@g_jackcess-2.1.8.jar.txt	4
+com/healthmarketscience/jackcess/impl/UsageMap/updateMap(int,int,java.nio.ByteBuffer,boolean,boolean)@g_jackcess-2.1.8.jar.txt	2
+com/healthmarketscience/jackcess/impl/TableImpl/createRow(java.lang.Object[],java.nio.ByteBuffer,int,java.util.Map)@g_jackcess-2.1.8.jar.txt	1
+com/healthmarketscience/jackcess/impl/JetFormat/getFormat(java.nio.channels.FileChannel)@g_jackcess-2.1.8.jar.txt	0
+com/healthmarketscience/jackcess/impl/LongValueColumnImpl/writeLongValue(byte[],int)@g_jackcess-2.1.8.jar.txt	3

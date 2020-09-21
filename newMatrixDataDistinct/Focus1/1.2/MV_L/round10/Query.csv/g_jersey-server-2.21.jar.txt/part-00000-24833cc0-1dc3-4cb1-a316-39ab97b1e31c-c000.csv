@@ -1,0 +1,4 @@
+javax/ws/rs/core/MultivaluedMap/add(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+org/glassfish/jersey/model/internal/RankedProvider/RankedProvider(java.lang.Object,int)
+java/util/Iterator/next()

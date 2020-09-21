@@ -1,0 +1,5 @@
+org/eclipse/xtext/util/formallang/PdaListFormatter/format(org.eclipse.xtext.util.formallang.Pda)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	0
+org/eclipse/xtext/util/formallang/NfaToProduction/mergeOptionalIntoMany(org.eclipse.xtext.util.formallang.NfaToProduction$StateAlias,org.eclipse.xtext.util.formallang.NfaToProduction$StateAlias)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	4
+org/eclipse/xtext/util/formallang/NfaUtil/sort(org.eclipse.xtext.util.formallang.Nfa)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtext/util/formallang/NfaToProduction/mergeOptionalIntoMany(org.eclipse.xtext.util.formallang.NfaToProduction$StateAlias,java.util.Set)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	2
+org/eclipse/xtext/util/formallang/NfaUtil/backtrack(org.eclipse.xtext.util.formallang.Nfa,java.lang.Object,org.eclipse.xtext.util.formallang.NfaUtil$BacktrackHandler)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	1

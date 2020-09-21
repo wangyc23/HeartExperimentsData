@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/frontend/v2_3/ast/Pattern/anonfun/ensureNoDuplicateRelationships/1/apply(scala.Function1,scala.collection.Seq)@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	4
+org/neo4j/cypher/internal/frontend/v2_3/perty/gen/scalaDocGen/handleImmutableMapType/mapTyped(scala.collection.immutable.Map,scala.reflect.api.TypeTags$TypeTag,scala.reflect.api.TypeTags$TypeTag)@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	3
+com/typesafe/scalalogging/LoggerMacro/debugMessageCauseMarker(scala.reflect.macros.blackbox.Context,scala.reflect.api.Exprs$Expr,scala.reflect.api.Exprs$Expr,scala.reflect.api.Exprs$Expr)@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	0
+org/neo4j/cypher/internal/frontend/v2_3/parser/Strings/anonfun/UTF32/1/apply()@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	2
+org/neo4j/cypher/internal/frontend/v2_3/parser/InvalidInputErrorFormatter/format(org.parboiled.errors.InvalidInputError)@g_neo4j-cypher-frontend-2.3-2.3.7.jar.txt	1

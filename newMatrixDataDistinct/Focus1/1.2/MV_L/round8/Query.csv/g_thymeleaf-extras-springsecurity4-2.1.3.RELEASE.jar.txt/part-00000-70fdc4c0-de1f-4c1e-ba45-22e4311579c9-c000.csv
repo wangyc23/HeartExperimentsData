@@ -1,0 +1,4 @@
+org/springframework/context/ApplicationContext/getBeansOfType(java.lang.Class)
+java/lang/Class/getSimpleName()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Map/putAll(java.util.Map)

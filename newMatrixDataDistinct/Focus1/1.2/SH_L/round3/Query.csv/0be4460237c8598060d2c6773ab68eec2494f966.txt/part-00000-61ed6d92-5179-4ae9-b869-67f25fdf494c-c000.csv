@@ -1,0 +1,4 @@
+org/hamcrest/CoreMatchers/is(T)
+org/apache/hadoop/conf/Configuration/Configuration()
+org/apache/hadoop/conf/Configuration/addResource(java.lang.String)
+java/lang/System/setProperty(java.lang.String,java.lang.String)

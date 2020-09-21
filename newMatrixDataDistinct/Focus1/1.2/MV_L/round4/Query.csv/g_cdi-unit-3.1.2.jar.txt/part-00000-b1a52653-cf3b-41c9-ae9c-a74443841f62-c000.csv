@@ -1,0 +1,4 @@
+javax/enterprise/inject/spi/InjectionTarget/inject(java.lang.Object,javax.enterprise.context.spi.CreationalContext)
+javax/naming/InitialContext/InitialContext()
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+javax/enterprise/inject/spi/BeanManager/createAnnotatedType(java.lang.Class)

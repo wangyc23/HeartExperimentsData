@@ -1,0 +1,4 @@
+java/lang/Thread/currentThread()
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/StringBuffer/toString()
+java/lang/Class/forName(java.lang.String,boolean,java.lang.ClassLoader)

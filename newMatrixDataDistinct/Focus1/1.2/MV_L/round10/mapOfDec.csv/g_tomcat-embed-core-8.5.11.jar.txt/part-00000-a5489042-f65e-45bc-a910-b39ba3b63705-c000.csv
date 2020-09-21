@@ -1,0 +1,5 @@
+org/apache/catalina/filters/RemoteIpFilter/XForwardedResponse/sendRedirect(java.lang.String)@g_tomcat-embed-core-8.0.28.jar.txt	4
+org/apache/tomcat/util/digester/Digester/resolveEntity(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_tomcat-embed-core-8.0.28.jar.txt	2
+org/apache/tomcat/util/descriptor/LocalResolver/resolveEntity(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_tomcat-embed-core-8.0.28.jar.txt	0
+org/apache/tomcat/util/digester/Digester/resolveEntity(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_tomcat-embed-core-8.0.26.jar.txt	3
+org/apache/tomcat/util/descriptor/LocalResolver/resolveEntity(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_tomcat-embed-core-8.0.26.jar.txt	1

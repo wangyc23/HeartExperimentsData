@@ -1,0 +1,5 @@
+org/neo4j/unsafe/impl/batchimport/staging/SpectrumExecutionMonitor/fitInProgress(long)@g_neo4j-kernel-3.3.0.jar.txt	0
+org/neo4j/kernel/impl/transaction/state/RecordChanges/create(long,java.lang.Object)@g_neo4j-kernel-3.3.0.jar.txt	3
+org/neo4j/kernel/impl/transaction/command/PhysicalLogCommandReaderV3_0/readPropertyRecord(long,org.neo4j.storageengine.api.ReadableChannel)@g_neo4j-kernel-3.3.0.jar.txt	2
+org/neo4j/kernel/impl/storemigration/participant/ExplicitIndexMigrator/migrateExplicitIndexes(org.neo4j.kernel.impl.storemigration.monitoring.MigrationProgressMonitor$Section)@g_neo4j-kernel-3.3.0.jar.txt	1
+org/neo4j/kernel/impl/store/kvstore/KeyValueStoreFile/throwOutOfBounds(org.neo4j.io.pagecache.PageCursor,int)@g_neo4j-kernel-3.3.0.jar.txt	4

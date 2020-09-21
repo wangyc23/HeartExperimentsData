@@ -1,0 +1,4 @@
+org/springframework/security/core/context/SecurityContext/getAuthentication()
+java/lang/String/valueOf(java.lang.Object)
+org/springframework/security/web/util/TextEscapeUtils/escapeEntities(java.lang.String)
+org/springframework/security/core/context/SecurityContextHolder/getContext()

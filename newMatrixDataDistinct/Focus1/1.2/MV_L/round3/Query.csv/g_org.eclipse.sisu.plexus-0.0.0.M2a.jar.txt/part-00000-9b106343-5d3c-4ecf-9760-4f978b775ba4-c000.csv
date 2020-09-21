@@ -1,0 +1,4 @@
+org/codehaus/plexus/configuration/xml/XmlPlexusConfiguration/getValue()
+org/codehaus/plexus/configuration/xml/XmlPlexusConfiguration/getAttribute(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/codehaus/plexus/configuration/xml/XmlPlexusConfiguration/getChild(int)

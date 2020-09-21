@@ -1,0 +1,5 @@
+org/eclipse/osgi/util/NLS/load(java.lang.String,java.lang.Class)@g_org.eclipse.osgi-3.11.3.jar.txt	4
+org/eclipse/osgi/container/builders/OSGiManifestBuilderFactory/getNativeCode(org.eclipse.osgi.container.ModuleRevisionBuilder,java.util.Map)@g_org.eclipse.osgi-3.11.3.jar.txt	2
+org/eclipse/osgi/container/ModuleRequirement/getDynamicPackageRequirement(org.eclipse.osgi.container.ModuleRevision,java.lang.String)@g_org.eclipse.osgi-3.11.3.jar.txt	0
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistrationImpl/getService(org.eclipse.osgi.internal.framework.BundleContextImpl,org.eclipse.osgi.internal.serviceregistry.ServiceConsumer)@g_org.eclipse.osgi-3.11.3.jar.txt	3
+org/eclipse/osgi/container/ModuleDatabase/Persistence/load(org.eclipse.osgi.container.ModuleDatabase,java.io.DataInputStream)@g_org.eclipse.osgi-3.11.3.jar.txt	1

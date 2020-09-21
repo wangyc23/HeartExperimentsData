@@ -1,0 +1,5 @@
+com/netflix/ribbon/proxy/processor/HttpAnnotationProcessor/process(java.lang.String,com.netflix.ribbon.http.HttpRequestTemplate$Builder,java.lang.reflect.Method)@g_ribbon-2.1.0.jar.txt	2
+com/netflix/ribbon/proxy/processor/HttpAnnotationProcessor/process(java.lang.String,com.netflix.ribbon.http.HttpRequestTemplate$Builder,java.lang.reflect.Method)@g_ribbon-2.0.2.jar.txt	0
+com/netflix/ribbon/proxy/processor/ClientPropertiesProcessor/exportPropertiesToArchaius(java.lang.String,com.netflix.client.config.IClientConfig,java.lang.String)@g_ribbon-2.0.2.jar.txt	4
+com/netflix/ribbon/http/HttpRequestBuilder/createClientRequest()@g_ribbon-2.1.0.jar.txt	3
+com/netflix/ribbon/http/HttpRequestBuilder/createClientRequest()@g_ribbon-2.0.2.jar.txt	1

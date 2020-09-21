@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+cassandra/CassandraConnection/send(cassandra.protocol.CassandraMessage.Request)
+cassandra/CassandraFuture/await()
+cassandra/CassandraFuture/addListener(cassandra.CassandraFuture.Listener)

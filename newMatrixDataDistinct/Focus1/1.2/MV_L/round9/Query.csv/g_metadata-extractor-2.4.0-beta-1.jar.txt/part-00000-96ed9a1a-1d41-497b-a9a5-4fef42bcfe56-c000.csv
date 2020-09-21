@@ -1,0 +1,4 @@
+java/lang/Boolean/getBoolean(java.lang.String)
+java/lang/Number/doubleValue()
+java/lang/StringBuffer/toString()
+java/lang/StringBuffer/append(int)

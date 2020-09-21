@@ -1,0 +1,5 @@
+org/apache/commons/lang/WordUtils/swapCase(java.lang.String)@g_commons-lang-2.4.jar.txt	1
+org/apache/commons/lang/text/ExtendedMessageFormat/insertFormats(java.lang.String,java.util.ArrayList)@g_commons-lang-2.4.jar.txt	2
+org/apache/commons/lang/StringEscapeUtils/unescapeJava(java.io.Writer,java.lang.String)@g_commons-lang-2.4.jar.txt	3
+org/apache/commons/lang/StringUtils/replaceEach(java.lang.String,java.lang.String[],java.lang.String[],boolean,int)@g_commons-lang-2.4.jar.txt	0
+org/apache/commons/lang/StringUtils/swapCase(java.lang.String)@g_commons-lang-2.4.jar.txt	4

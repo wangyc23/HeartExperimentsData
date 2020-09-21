@@ -1,0 +1,5 @@
+org/apache/lucene/index/TieredMergePolicy/findMerges(org.apache.lucene.index.MergeTrigger,org.apache.lucene.index.SegmentInfos,org.apache.lucene.index.IndexWriter)@g_lucene-core-4.10.3.jar.txt	2
+org/apache/lucene/search/BooleanWeight/scorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-core-5.5.0.jar.txt	3
+org/apache/lucene/store/FSDirectory/listAll(java.nio.file.Path)@g_lucene-core-5.5.0.jar.txt	4
+org/apache/lucene/index/ConcurrentMergeScheduler/updateIOThrottle(org.apache.lucene.index.MergePolicy$OneMerge)@g_lucene-core-5.5.0.jar.txt	1
+org/apache/lucene/index/TieredMergePolicy/findMerges(org.apache.lucene.index.MergeTrigger,org.apache.lucene.index.SegmentInfos,org.apache.lucene.index.IndexWriter)@g_lucene-core-5.5.0.jar.txt	0

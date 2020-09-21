@@ -1,0 +1,5 @@
+org/_3pq/jgrapht/demo/JGraphAdapterDemo/positionVertexAt(java.lang.Object,int,int)@g_openregex-1.1.1.jar.txt	4
+difflib/DiffUtils/parseUnifiedDiff(java.util.List)@g_openregex-1.1.1.jar.txt	0
+org/_3pq/jgrapht/graph/AbstractBaseGraph/DirectedSpecifics/edgesOf(java.lang.Object)@g_openregex-1.1.1.jar.txt	2
+difflib/DiffUtils/processDeltas(java.util.List,java.util.List,int)@g_openregex-1.1.1.jar.txt	3
+difflib/DiffRowGenerator/generateDiffRows(java.util.List,java.util.List,difflib.Patch)@g_openregex-1.1.1.jar.txt	1

@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/frontend/v3_3/symbols/CypherType/toNeoTypeString()
+org/neo4j/cypher/internal/v3_3/logical/plans/FieldSignature$$anonfun$1/1(org.neo4j.cypher.internal.v3_3.logical.plans.FieldSignature)
+scala/Option/getOrElse(scala.Function0)
+scala/StringContext/s(scala.collection.Seq)

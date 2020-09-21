@@ -1,0 +1,4 @@
+net/java/truevfs/kernel/spec/FsMountPoint/getPath()
+net/java/truevfs/kernel/spec/FsNodeName/isRoot()
+net/java/truevfs/kernel/spec/FsCovariantNode/put(net.java.truecommons.cio.Entry$Type,net.java.truevfs.kernel.spec.FsArchiveEntry)
+net/java/truevfs/kernel/spec/FsController/node(net.java.truecommons.shed.BitField,net.java.truevfs.kernel.spec.FsNodeName)

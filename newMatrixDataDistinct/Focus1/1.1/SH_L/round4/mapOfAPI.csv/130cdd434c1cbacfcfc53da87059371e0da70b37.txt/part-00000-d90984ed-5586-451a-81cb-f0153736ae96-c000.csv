@@ -1,0 +1,7 @@
+0	javax/persistence/EntityManager/persist(java.lang.Object)
+1	javax/persistence/EntityManager/remove(java.lang.Object)
+2	org/apache/commons/lang3/builder/ToStringBuilder/ToStringBuilder(java.lang.Object)
+3	java/util/logging/Logger/fine(java.lang.String)
+4	java/lang/String/toCharArray()
+5	java/util/logging/Logger/severe(java.lang.String)
+6	com/onslyde/util/PasswordHash/validatePassword(char[],java.lang.String)

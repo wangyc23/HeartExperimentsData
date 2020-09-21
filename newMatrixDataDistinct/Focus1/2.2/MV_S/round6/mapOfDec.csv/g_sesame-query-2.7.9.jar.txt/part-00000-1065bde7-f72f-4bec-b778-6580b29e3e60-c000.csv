@@ -1,0 +1,5 @@
+org/openrdf/query/algebra/evaluation/iterator/PathIteration/getNextElement()@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	4
+org/openrdf/query/algebra/evaluation/function/FloatCast/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	2
+org/openrdf/query/algebra/evaluation/federation/SPARQLFederatedService/evaluate(java.lang.String,org.openrdf.query.BindingSet,java.lang.String,org.openrdf.query.algebra.evaluation.federation.FederatedService$QueryType,org.openrdf.query.algebra.Service)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	3
+org/openrdf/sail/memory/config/MemoryStoreConfig/parse(org.openrdf.model.Graph,org.openrdf.model.Resource)@g_sesame-sail-memory-2.7.9.jar.txt	0
+org/openrdf/query/algebra/evaluation/function/string/Substring/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	1

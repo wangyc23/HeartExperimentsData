@@ -1,0 +1,4 @@
+java/io/File/File(java.io.File,java.lang.String)
+java/io/File/isDirectory()
+org/codehaus/plexus/components/io/resources/PlexusIoFileResourceCollection/getDefaultFileAttributes()
+java/io/File/getAbsolutePath()

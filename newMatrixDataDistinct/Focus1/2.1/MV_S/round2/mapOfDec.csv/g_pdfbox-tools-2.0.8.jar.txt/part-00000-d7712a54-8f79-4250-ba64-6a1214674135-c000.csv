@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_pdfbox-1.7.0.jar.txt	0
+edu/stanford/nlp/maxent/iis/LambdaSolve/newton(double,int,double)@g_pdfbox-1.7.0.jar.txt	3
+edu/stanford/nlp/parser/lexparser/EnglishUnknownWordModel/getSignature7(java.lang.String,int,java.lang.StringBuilder)@g_pdfbox-1.7.0.jar.txt	4
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_pdfbox-1.7.0.jar.txt	1
+org/apache/pdfbox/pdfparser/PDFStreamParser/parseNextToken()@g_pdfbox-1.7.0.jar.txt	2

@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_plexus-utils-1.5.12.jar.txt	0
+org/codehaus/plexus/util/PathTool/buildRelativePath(java.lang.String,java.lang.String,char)@g_plexus-utils-1.5.12.jar.txt	1
+org/codehaus/plexus/util/DirectoryWalker/scanDir(java.io.File)@g_plexus-utils-1.5.12.jar.txt	3
+hidden/org/codehaus/plexus/interpolation/reflection/ReflectionValueExtractor/evaluate(java.lang.String,java.lang.Object,boolean)@g_plexus-utils-1.5.12.jar.txt	2
+org/codehaus/plexus/util/xml/pull/MXSerializer/startTag(java.lang.String,java.lang.String)@g_plexus-utils-1.5.12.jar.txt	4

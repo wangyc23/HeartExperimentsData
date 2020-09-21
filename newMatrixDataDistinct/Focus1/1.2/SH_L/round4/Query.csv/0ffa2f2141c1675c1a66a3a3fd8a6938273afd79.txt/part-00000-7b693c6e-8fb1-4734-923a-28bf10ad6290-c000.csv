@@ -1,0 +1,4 @@
+java/lang/ClassLoader/getResource(java.lang.String)
+org/jboss/errai/cdi/server/gwt/JettyLauncher/WebAppContextWithReload/WebAppClassLoaderExtension/addContainingClassPathEntry(java.lang.String,java.net.URL,java.lang.String)
+java/lang/ClassLoader/loadClass(java.lang.String)
+java/lang/String/replace(char,char)

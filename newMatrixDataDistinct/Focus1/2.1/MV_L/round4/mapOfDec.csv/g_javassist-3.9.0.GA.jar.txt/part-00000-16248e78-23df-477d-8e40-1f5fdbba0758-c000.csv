@@ -1,0 +1,5 @@
+javassist/util/HotSwapper/findConnector(java.lang.String)@g_javassist-3.12.0.GA.jar.txt	2
+javassist/URLClassPath/fetchClass(java.lang.String,int,java.lang.String,java.lang.String)@g_javassist-3.12.0.GA.jar.txt	0
+javassist/bytecode/ClassFile/read(java.io.DataInputStream)@g_javassist-3.12.0.GA.jar.txt	1
+javassist/tools/web/Viewer/fetchClass(java.lang.String)@g_javassist-3.12.0.GA.jar.txt	3
+javassist/URLClassPath/fetchClass(java.lang.String,int,java.lang.String,java.lang.String)@g_javassist-3.14.0-GA.jar.txt	4

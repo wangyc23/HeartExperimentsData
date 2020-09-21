@@ -1,0 +1,5 @@
+com/lowagie/text/pdf/PdfCell/getLines(float,float)@g_plexus-utils-1.5.6.jar.txt	3
+com/lowagie/text/pdf/FontSelector/process(java.lang.String)@g_plexus-utils-1.5.6.jar.txt	1
+com/lowagie/text/pdf/TrueTypeFont/addRangeUni(java.util.HashMap,boolean,boolean)@g_plexus-utils-1.5.6.jar.txt	4
+com/lowagie/text/pdf/PdfSignatureAppearance/close(com.lowagie.text.pdf.PdfDictionary)@g_plexus-utils-1.5.6.jar.txt	2
+com/lowagie/text/pdf/codec/Base64/encodeObject(java.io.Serializable,int)@g_plexus-utils-1.5.6.jar.txt	0

@@ -1,0 +1,4 @@
+scala/Predef$/augmentString(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder(int)
+scala/collection/immutable/List$/apply(scala.collection.Seq)

@@ -1,0 +1,5 @@
+org/jvnet/mimepull/MIMEMessage/getPart(int)@g_jersey-guice-1.9.jar.txt	1
+org/glassfish/grizzly/servlet/HttpSessionImpl/invalidate()@g_jersey-guice-1.9.jar.txt	2
+org/jvnet/mimepull/FactoryFinder/findJarServiceProviderName(java.lang.String)@g_jersey-guice-1.9.jar.txt	3
+org/glassfish/grizzly/servlet/DefaultServlet/sendFile(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.io.File)@g_jersey-guice-1.9.jar.txt	4
+org/glassfish/grizzly/servlet/WebappContext/registerDefaultServlet(org.glassfish.grizzly.http.server.HttpServer)@g_jersey-guice-1.9.jar.txt	0

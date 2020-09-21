@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/math/BigDecimal/valueOf(long)
+java/lang/Integer/toString()
+java/lang/Integer/longValue()

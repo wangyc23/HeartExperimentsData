@@ -1,0 +1,5 @@
+net/sf/ehcache/Cache/NonstopActiveDelegateHolderImpl/terracottaStoreInitialized(net.sf.ehcache.store.TerracottaStore)@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/distribution/RMIAsynchronousCacheReplicator/replicationThreadMain()@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/constructs/web/ShutdownListener/contextDestroyed(javax.servlet.ServletContextEvent)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/distribution/MulticastRMICacheManagerPeerProvider/registerPeer(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/config/ConfigurationHelper/createCacheDecorators(net.sf.ehcache.Ehcache)@g_ehcache-core-2.6.2.jar.txt	3

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+com/tdunning/math/stats/ArrayDigest/quantile(double,double,double,double,double)
+java/util/List/size()
+com/tdunning/math/stats/ArrayDigest$Index/mean()

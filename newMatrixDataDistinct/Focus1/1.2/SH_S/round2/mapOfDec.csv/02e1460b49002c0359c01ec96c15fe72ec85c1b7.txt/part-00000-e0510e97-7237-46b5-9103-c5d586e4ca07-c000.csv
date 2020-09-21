@@ -1,0 +1,5 @@
+org/wso2/ss/integration/common/clients/RSSManagerClient/detachUserFromDatabase(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@1fb83ea8b65a2bc9acce5cf6eada195609182d30.txt	3
+org/wso2/carbon/rss/sample/JdbcUtil/getConnection()@1fb83ea8b65a2bc9acce5cf6eada195609182d30.txt	4
+org/wso2/ss/integration/common/clients/RSSManagerClient/dropDatabaseUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@1fb83ea8b65a2bc9acce5cf6eada195609182d30.txt	2
+org/wso2/ss/integration/common/clients/RSSManagerClient/getUsersAttachedToDatabase(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@1fb83ea8b65a2bc9acce5cf6eada195609182d30.txt	1
+org/wso2/carbon/rss/sample/JdbcUtil/executeSqlScript(java.sql.Connection,java.io.InputStream)@1fb83ea8b65a2bc9acce5cf6eada195609182d30.txt	0

@@ -1,0 +1,5 @@
+com/sun/jersey/json/impl/reader/Jackson2StaxReader/readNext(boolean)@g_jersey-json-1.9.jar.txt	2
+org/codehaus/jettison/mapped/DefaultConverter/convertToJSONPrimitive(java.lang.String)@g_jersey-json-1.9.jar.txt	4
+com/sun/jersey/json/impl/Stax2JsonFactory/createWriter(java.io.Writer,com.sun.jersey.api.json.JSONConfiguration,boolean)@g_jersey-json-1.9.jar.txt	0
+com/sun/jersey/json/impl/Stax2JsonFactory/createReader(java.io.Reader,com.sun.jersey.api.json.JSONConfiguration,java.lang.String,boolean)@g_jersey-json-1.9.jar.txt	1
+com/sun/jersey/json/impl/Stax2JsonFactory/createReader(java.io.Reader,com.sun.jersey.api.json.JSONConfiguration,java.lang.String,java.lang.Class,javax.xml.bind.JAXBContext,boolean)@g_jersey-json-1.9.jar.txt	3

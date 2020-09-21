@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/permadmin/SecurityAdmin/createMockBundle(java.lang.String[])@g_osgi-3.10.0-v20140606-1445.jar.txt	2
+org/eclipse/osgi/internal/signedcontent/SignedStorageHook/StorageHookImpl/save(java.util.List,java.io.DataOutputStream)@g_osgi-3.10.0-v20140606-1445.jar.txt	1
+org/eclipse/osgi/internal/container/Capabilities/NamespaceSet/findCapabilities(org.osgi.resource.Requirement)@g_osgi-3.10.0-v20140606-1445.jar.txt	4
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_osgi-3.10.0-v20140606-1445.jar.txt	3
+org/eclipse/osgi/internal/permadmin/EquinoxSecurityManager/internalCheckPermission(java.security.Permission,java.lang.Object)@g_osgi-3.10.0-v20140606-1445.jar.txt	0

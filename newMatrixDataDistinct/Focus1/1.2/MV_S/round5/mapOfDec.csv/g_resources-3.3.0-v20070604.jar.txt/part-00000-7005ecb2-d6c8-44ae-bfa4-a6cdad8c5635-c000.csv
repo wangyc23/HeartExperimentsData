@@ -1,0 +1,5 @@
+org/eclipse/core/internal/resources/Folder/assertCreateRequirements(org.eclipse.core.filesystem.IFileStore,org.eclipse.core.filesystem.IFileInfo,int)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	2
+org/eclipse/core/internal/resources/Folder/create(int,boolean,org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	1
+org/eclipse/core/internal/resources/Project/assertCreateRequirements(org.eclipse.core.resources.IProjectDescription)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	4
+org/eclipse/core/internal/resources/Folder/create(int,boolean,org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	3
+org/eclipse/core/internal/resources/Folder/assertCreateRequirements(org.eclipse.core.filesystem.IFileStore,org.eclipse.core.filesystem.IFileInfo,int)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	0

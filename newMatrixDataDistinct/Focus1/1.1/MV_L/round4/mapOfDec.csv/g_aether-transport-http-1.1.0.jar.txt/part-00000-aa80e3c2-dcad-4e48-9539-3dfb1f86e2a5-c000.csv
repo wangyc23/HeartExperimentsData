@@ -1,0 +1,5 @@
+org/jets3t/service/multi/s3/ThreadedS3Service/multipartCompleteUploads(java.util.List)@g_plexus-digest-1.0.jar.txt	4
+org/jets3t/service/utils/MultipartUtils/uploadObjects(java.lang.String,org.jets3t.service.S3Service,java.util.List,org.jets3t.service.multi.s3.S3ServiceEventListener)@g_plexus-digest-1.0.jar.txt	0
+org/jets3t/service/CloudFrontService/listDistributionsImpl(boolean,int)@g_plexus-digest-1.0.jar.txt	2
+org/jets3t/service/utils/Mimetypes/getMimetype(java.lang.String)@g_plexus-digest-1.0.jar.txt	3
+org/jets3t/service/impl/rest/httpclient/RestStorageService/addRequestHeadersToConnection(org.apache.http.client.methods.HttpUriRequest,java.util.Map)@g_plexus-digest-1.0.jar.txt	1

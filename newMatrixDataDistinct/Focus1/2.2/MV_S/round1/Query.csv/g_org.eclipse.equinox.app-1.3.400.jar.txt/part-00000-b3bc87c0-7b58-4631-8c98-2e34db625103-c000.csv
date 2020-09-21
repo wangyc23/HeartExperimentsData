@@ -1,0 +1,4 @@
+java/util/ArrayList/toArray(java.lang.Object[])
+java/util/ArrayList/size()
+org/osgi/framework/Filter/match(java.util.Dictionary)
+java/lang/Thread/sleep(long)

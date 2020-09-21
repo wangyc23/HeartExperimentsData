@@ -1,0 +1,5 @@
+difflib/DiffUtils/parseUnifiedDiff(java.util.List)@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	0
+org/suigeneris/jrcs/diff/DiffHelper/randomEdit(java.lang.Object[],long)@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	2
+difflib/DiffRowGenerator/generateDiffRows(java.util.List,java.util.List,difflib.Patch)@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	1
+gnu/getopt/Getopt/getopt()@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	4
+difflib/DiffUtils/processDeltas(java.util.List,java.util.List,int)@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	3

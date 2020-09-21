@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/duplicate()
+java/nio/ByteBuffer/position(int)
+java/nio/ShortBuffer/limit(int)
+java/nio/ByteBuffer/asLongBuffer()

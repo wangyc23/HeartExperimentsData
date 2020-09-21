@@ -1,0 +1,7 @@
+0	com/github/fishio/logging/Log/getLogger()
+1	java/lang/Object/getClass()
+2	java/lang/Double/doubleToLongBits(double)
+3	java/util/Map/size()
+4	com/github/fishio/multiplayer/server/FishServerHandler/handlePlayerRequest(com.github.fishio.multiplayer.client.FishClientRequestPlayerMessage,com.github.fishio.multiplayer.client.ChannelHandlerContext)
+5	java/util/Objects/equals(java.lang.Object,java.lang.Object)
+6	com/github/fishio/multiplayer/server/FishServerHandler/handleClientUpdate(com.github.fishio.multiplayer.client.FishClientPlayerFishMessage)

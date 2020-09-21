@@ -1,0 +1,5 @@
+org/apache/ws/commons/schema/XmlSchema/serializeInternal(java.io.Writer,java.util.Map)@g_xmlschema-core-2.2.2.jar.txt	4
+org/apache/ws/commons/schema/XmlSchemaSerializer/serializeSchemaElement(org.apache.ws.commons.schema.XmlSchema,boolean)@g_xmlschema-core-2.2.2.jar.txt	3
+org/apache/ws/commons/schema/XmlSchemaSerializer/serializeAttribute(org.w3c.dom.Document,org.apache.ws.commons.schema.XmlSchemaAttribute,org.apache.ws.commons.schema.XmlSchema)@g_xmlschema-core-2.2.2.jar.txt	1
+org/apache/ws/commons/schema/XmlSchemaSerializer/setupNamespaces(org.w3c.dom.Document,org.apache.ws.commons.schema.XmlSchema)@g_xmlschema-core-2.2.2.jar.txt	0
+org/apache/ws/commons/schema/XmlSchemaSerializer/resolveQName(javax.xml.namespace.QName,org.apache.ws.commons.schema.XmlSchema)@g_xmlschema-core-2.2.2.jar.txt	2

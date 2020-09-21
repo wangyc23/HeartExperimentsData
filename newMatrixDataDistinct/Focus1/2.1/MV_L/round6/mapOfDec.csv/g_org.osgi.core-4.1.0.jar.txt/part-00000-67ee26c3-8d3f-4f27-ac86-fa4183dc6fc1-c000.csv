@@ -1,0 +1,5 @@
+org/osgi/framework/VersionRange/toFilterString(java.lang.String)@g_org.osgi.core-4.3.1.jar.txt	2
+org/osgi/framework/CapabilityPermissionCollection/implies(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	0
+org/osgi/framework/FrameworkUtil/FilterImpl/compare_PrimitiveArray(int,java.lang.Class,java.lang.Object,java.lang.Object)@g_org.osgi.core-4.3.1.jar.txt	1
+org/osgi/framework/ServicePermission/Properties/entrySet()@g_org.osgi.core-4.3.1.jar.txt	4
+org/osgi/framework/PackagePermissionCollection/add(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	3

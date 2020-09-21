@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/loader/impl/imageio/ImageLoaderImageIO/getFallbackBufferedImage(javax.imageio.ImageReader,int,javax.imageio.ImageReadParam)@g_batik-codec-1.8.jar.txt	3
+org/apache/xmlgraphics/fonts/Glyphs/loadGlyphList(java.lang.String,java.util.Map)@g_batik-codec-1.8.jar.txt	2
+org/apache/xmlgraphics/image/loader/util/ImageUtil/getPageIndexFromURI(java.lang.String)@g_batik-codec-1.8.jar.txt	1
+org/apache/xmlgraphics/image/loader/impl/imageio/ImageLoaderImageIO/tryToExctractICCProfileFromPNGMetadataNode(org.w3c.dom.Element)@g_batik-codec-1.8.jar.txt	4
+org/apache/batik/ext/awt/image/codec/tiff/TIFFImageEncoder/encode(java.awt.image.RenderedImage,org.apache.batik.ext.awt.image.codec.tiff.TIFFEncodeParam,int,boolean)@g_batik-codec-1.8.jar.txt	0

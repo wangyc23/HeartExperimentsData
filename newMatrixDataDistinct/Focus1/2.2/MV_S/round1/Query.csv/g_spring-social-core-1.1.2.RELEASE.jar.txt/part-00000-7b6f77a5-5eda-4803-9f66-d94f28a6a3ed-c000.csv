@@ -1,0 +1,4 @@
+org/apache/http/conn/ssl/SSLContextBuilder/loadTrustMaterial(java.security.KeyStore,org.apache.http.conn.ssl.TrustStrategy)
+org/apache/http/conn/ssl/SSLContexts/custom()
+java/security/KeyStoreException/printStackTrace()
+java/security/KeyManagementException/printStackTrace()

@@ -1,0 +1,5 @@
+org/apache/kahadb/journal/DataFileAccessor/readRecord(org.apache.kahadb.journal.Location)@g_kahadb-5.3.2.jar.txt	3
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/internalGetQualifierAnnotations(java.lang.reflect.AnnotatedElement)@g_kahadb-5.3.2.jar.txt	4
+org/glassfish/hk2/utilities/reflection/BeanReflectionHelper/getChangeEvents(org.glassfish.hk2.utilities.reflection.ClassReflectionHelper,java.lang.Object,java.lang.Object)@g_hk2-utils-2.4.0-b34.jar.txt	1
+org/glassfish/hk2/utilities/reflection/BeanReflectionHelper/getMapChangeEvents(java.util.Map,java.util.Map)@g_hk2-utils-2.4.0-b34.jar.txt	0
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/deepCopyMetadata(java.util.Map)@g_hk2-utils-2.4.0-b34.jar.txt	2

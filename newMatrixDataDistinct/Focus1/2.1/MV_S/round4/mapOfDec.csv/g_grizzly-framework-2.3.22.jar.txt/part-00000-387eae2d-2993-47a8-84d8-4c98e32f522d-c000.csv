@@ -1,0 +1,5 @@
+com/sun/faces/application/annotation/NamedEventConfigHandler/process(com.sun.faces.application.NamedEventManager,java.lang.Class,java.lang.annotation.Annotation)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/renderkit/html_basic/SelectManyCheckboxListRenderer/renderOption(javax.faces.context.FacesContext,javax.faces.component.UIComponent,javax.faces.convert.Converter,javax.faces.model.SelectItem,java.lang.Object,java.lang.Object[],boolean,int,com.sun.faces.renderkit.html_basic.HtmlBasicRenderer$OptionComponentInfo)@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/application/resource/ResourceHelper/compressContent(com.sun.faces.application.resource.ClientResourceInfo)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/application/annotation/ValidatorConfigHandler/collect(java.lang.Class,java.lang.annotation.Annotation)@g_javax.faces-2.2.7.jar.txt	2
+javax/faces/webapp/UIComponentClassicTagBase/setJspId(java.lang.String)@g_javax.faces-2.2.7.jar.txt	0

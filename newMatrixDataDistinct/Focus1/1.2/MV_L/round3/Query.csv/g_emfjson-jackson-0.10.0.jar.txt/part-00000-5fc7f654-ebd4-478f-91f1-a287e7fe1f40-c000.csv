@@ -1,0 +1,4 @@
+org/eclipse/emf/common/util/EList/iterator()
+java/io/IOException/printStackTrace()
+java/util/Iterator/hasNext()
+com/fasterxml/jackson/core/JsonGenerator/writeEndArray()

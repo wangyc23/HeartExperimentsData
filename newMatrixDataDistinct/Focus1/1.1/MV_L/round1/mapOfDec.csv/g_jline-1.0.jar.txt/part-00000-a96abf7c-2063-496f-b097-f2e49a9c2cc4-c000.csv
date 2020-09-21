@@ -1,0 +1,5 @@
+jline/ConsoleRunner/main(java.lang.String[])@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	1
+jline/SimpleCompletor/complete(java.lang.String,int,java.util.List)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	3
+jline/SimpleCompletor/getStrings(java.io.Reader)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	4
+jline/ArgumentCompletor/AbstractArgumentDelimiter/delimit(java.lang.String,int)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	2
+jline/ArgumentCompletor/complete(java.lang.String,int,java.util.List)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	0

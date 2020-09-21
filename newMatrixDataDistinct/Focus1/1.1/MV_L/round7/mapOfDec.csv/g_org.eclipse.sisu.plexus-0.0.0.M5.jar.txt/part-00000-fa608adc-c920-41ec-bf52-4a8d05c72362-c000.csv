@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/fromConfiguration(org.codehaus.plexus.component.configurator.converters.lookup.ConverterLookup,org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.reflect.Type[],java.lang.Class,java.lang.ClassLoader,org.codehaus.plexus.component.configurator.expression.ExpressionEvaluator,org.codehaus.plexus.component.configurator.ConfigurationListener)@g_org.eclipse.sisu.plexus-0.0.0.M2a.jar.txt	0
+org/eclipse/sisu/plexus/PlexusSpaceModule/configure(com.google.inject.Binder)@g_org.eclipse.sisu.plexus-0.0.0.M2a.jar.txt	2
+org/eclipse/sisu/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.eclipse.sisu.plexus.scanners.PlexusTypeRegistry)@g_org.eclipse.sisu.plexus-0.0.0.M2a.jar.txt	1
+org/eclipse/sisu/plexus/locators/HintedPlexusBeans/iterator()@g_org.eclipse.sisu.plexus-0.0.0.M2a.jar.txt	4
+org/codehaus/plexus/component/configurator/converters/composite/AbstractCollectionConverter/alignPackageName(java.lang.String,java.lang.String)@g_org.eclipse.sisu.plexus-0.0.0.M2a.jar.txt	3

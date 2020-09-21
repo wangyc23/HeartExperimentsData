@@ -1,0 +1,4 @@
+org/codehaus/groovy/jsr223/GroovyScriptEngineImpl/GroovyScriptEngineImpl(groovy.lang.GroovyClassLoader)
+java/util/List/size()
+org/codehaus/groovy/control/CompilerConfiguration/CompilerConfiguration()
+java/util/List/toArray(java.lang.Object[])

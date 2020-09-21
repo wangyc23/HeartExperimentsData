@@ -1,0 +1,4 @@
+javax/servlet/http/HttpServletRequest/getHeader(java.lang.String)
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/mortbay/servlet/GzipFilter/getUserAgent(javax.servlet.ServletRequest)
+org/mortbay/servlet/GzipFilter$GZIPResponseWrapper/finish()

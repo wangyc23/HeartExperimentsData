@@ -1,0 +1,5 @@
+0	org/apache/wicket/Application/get()
+1	org/apache/wicket/Component/onConfigure()
+2	org/apache/wicket/authroles/authentication/AuthenticatedWebSession/get()
+3	org/apache/wicket/authroles/authentication/AuthenticatedWebSession/isSignedIn()
+4	com/trier/exam/shopping/service/AbstractService/delete(java.lang.Long)

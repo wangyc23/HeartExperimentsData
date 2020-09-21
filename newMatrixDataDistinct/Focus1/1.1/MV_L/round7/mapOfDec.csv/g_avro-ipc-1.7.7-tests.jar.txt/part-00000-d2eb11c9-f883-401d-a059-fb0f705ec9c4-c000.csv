@@ -1,0 +1,5 @@
+org/neo4j/ogm/testutil/GraphTestUtils/propertiesToString(org.neo4j.graphdb.PropertyContainer)@g_neo4j-ogm-1.1.3-tests.jar.txt	3
+org/apache/avro/specific/TestSpecificRecordBuilder/testBuilderPerformanceWithDefaultValues()@g_neo4j-ogm-1.1.3-tests.jar.txt	1
+org/neo4j/ogm/unit/mapper/EntityGraphMapperTest/testDeleteExistingReferenceFromIncomingSide()@g_neo4j-ogm-1.1.3-tests.jar.txt	0
+org/apache/avro/compiler/specific/TestSpecificCompiler/testSchemaWithDocs()@g_neo4j-ogm-1.1.3-tests.jar.txt	4
+org/apache/avro/RPCMetaTestPlugin/serverConnecting(org.apache.avro.ipc.RPCContext)@g_neo4j-ogm-1.1.3-tests.jar.txt	2

@@ -1,0 +1,3 @@
+0	purejavacomm/CommPortIdentifier/open(java.lang.String,int)
+1	org/tmf/dsmapi/commons/workflow/Transition/Transition(E)
+2	purejavacomm/CommPortIdentifier/getPortIdentifier(java.lang.String)

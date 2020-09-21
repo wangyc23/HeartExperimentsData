@@ -1,0 +1,5 @@
+no/bekk/bankidsignering/sider/SigneringSideMulti/signerVedKlikkBehavior(no.bekk.bankidsignering.modell.Dokument,no.bekk.bankidsignering.modell.LinkContainer,boolean)@18efeb7d29e204d0816db9598c1a3504f1bec295.txt	4
+no/bekk/bankidsignering/sider/SigneringSideEnkel/signertVedKlikkBehvaior(no.bekk.bankidsignering.modell.Dokument,no.bekk.bankidsignering.modell.LinkContainer)@18efeb7d29e204d0816db9598c1a3504f1bec295.txt	1
+br/ufla/ecommerce/views/BasePage/addCssFile(java.lang.String)@18efeb7d29e204d0816db9598c1a3504f1bec295.txt	2
+no/bekk/bankidsignering/service/BankIDSigneringImpl/lagBankIDAppletEttDokumentEnSoker()@18efeb7d29e204d0816db9598c1a3504f1bec295.txt	0
+nl/cge/wicket/page/ant/QueueinfoPage/hideOnEmpty(java.lang.String[])@18efeb7d29e204d0816db9598c1a3504f1bec295.txt	3

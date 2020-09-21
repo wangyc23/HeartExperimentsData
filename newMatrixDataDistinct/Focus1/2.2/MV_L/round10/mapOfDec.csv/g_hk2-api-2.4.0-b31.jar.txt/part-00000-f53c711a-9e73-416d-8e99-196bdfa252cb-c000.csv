@@ -1,0 +1,5 @@
+org/glassfish/hk2/api/MultiException/getMessage()@g_hk2-api-2.4.0-b34.jar.txt	3
+org/glassfish/hk2/utilities/ServiceLocatorUtilities/addFactoryConstants(org.glassfish.hk2.api.ServiceLocator,org.glassfish.hk2.api.Factory[])@g_hk2-api-2.4.0-b25.jar.txt	1
+org/glassfish/hk2/internal/ServiceLocatorFactoryImpl/destroy(java.lang.String,org.glassfish.hk2.api.ServiceLocator)@g_hk2-api-2.4.0-b34.jar.txt	2
+org/glassfish/hk2/utilities/ServiceLocatorUtilities/addFactoryConstants(org.glassfish.hk2.api.ServiceLocator,org.glassfish.hk2.api.Factory[])@g_hk2-api-2.4.0-b34.jar.txt	0
+org/glassfish/hk2/internal/ServiceLocatorFactoryImpl/callListenerAdded(org.glassfish.hk2.api.ServiceLocator)@g_hk2-api-2.4.0-b34.jar.txt	4

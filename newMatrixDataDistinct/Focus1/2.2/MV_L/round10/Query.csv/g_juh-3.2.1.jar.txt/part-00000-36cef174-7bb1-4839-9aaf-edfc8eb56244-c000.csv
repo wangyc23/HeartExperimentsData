@@ -1,0 +1,4 @@
+java/util/Vector/removeAllElements()
+com/sun/star/lang/XComponent/dispose()
+com/sun/star/lang/XEventListener/disposing(com.sun.star.lang.EventObject)
+java/util/Hashtable/get(java.lang.Object)

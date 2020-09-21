@@ -1,0 +1,4 @@
+org/xwiki/model/reference/DocumentReference/getName()
+org/xwiki/filter/instance/input/InstanceInputEventGenerator/beginWikiDocument(java.lang.String,org.xwiki.filter.FilterEventParameters)
+org/xwiki/filter/FilterEventParameters/FilterEventParameters()
+java/util/Iterator/hasNext()

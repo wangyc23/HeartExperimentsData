@@ -1,0 +1,5 @@
+org/carrot2/util/attribute/BindableDescriptorBuilder/buildDescriptor(java.lang.Object,java.util.Set)@g_attributes-binder-1.2.2.jar.txt	4
+org/carrot2/util/attribute/AttributeDescriptor/prepareForSerialization()@g_attributes-binder-1.2.2.jar.txt	3
+com/beust/jcommander/JCommander/usage(java.lang.StringBuilder)@g_jcommander-1.12.jar.txt	0
+com/beust/jcommander/ParameterDescription/addValue(java.lang.String,boolean)@g_jcommander-1.12.jar.txt	2
+com/beust/jcommander/JCommander/validateOptions()@g_jcommander-1.12.jar.txt	1

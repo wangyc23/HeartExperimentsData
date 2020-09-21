@@ -1,0 +1,5 @@
+com/github/fommil/jni/JniLoader/load(java.lang.String[])@g_jniloader-1.1.jar.txt	3
+org/restlet/engine/util/ListUtils/copySubList(java.util.List,int,int)@g_jniloader-1.1.jar.txt	4
+org/restlet/resource/Handler/updateAllowedMethods(java.util.Set)@g_org.restlet-2.0.14.jar.txt	0
+org/restlet/engine/http/adapter/ServerAdapter/commit(org.restlet.engine.http.HttpResponse)@g_jniloader-1.1.jar.txt	2
+org/restlet/engine/local/DirectoryServerResource/getVariantsReferences()@g_jniloader-1.1.jar.txt	1

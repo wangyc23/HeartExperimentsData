@@ -1,0 +1,5 @@
+org/apache/maven/project/builder/Interpolator/interpolateModelProperties(java.util.List,java.util.List,org.apache.maven.project.builder.PomClassicDomainModel)@g_maven-project-3.0-alpha-2.jar.txt	4
+org/apache/maven/profiles/injection/DefaultProfileInjector/injectPluginDefinition(org.apache.maven.model.Plugin,org.apache.maven.model.Plugin)@g_maven-project-3.0-alpha-2.jar.txt	2
+org/apache/maven/project/MavenProject/getManagedVersionMap()@g_maven-project-3.0-alpha-2.jar.txt	3
+org/apache/maven/project/DefaultMavenProjectBuilder/readModelFromLocalPath(java.lang.String,java.io.File,org.apache.maven.project.builder.PomArtifactResolver,org.apache.maven.project.ProjectBuilderConfiguration)@g_maven-project-3.0-alpha-2.jar.txt	0
+org/apache/maven/project/artifact/MavenMetadataSource/aggregateRepositoryLists(java.util.List,java.util.List)@g_maven-project-3.0-alpha-2.jar.txt	1

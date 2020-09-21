@@ -1,0 +1,5 @@
+org/xwiki/properties/internal/DefaultBeanDescriptor/extractBeanDescriptor()@g_xwiki-platform-url-api-7.4.jar.txt	2
+org/xwiki/url/ExtendedURL/serialize()@g_xwiki-platform-url-api-7.4.jar.txt	0
+org/xwiki/properties/internal/DefaultConverterManager/getConverter(java.lang.reflect.Type)@g_xwiki-platform-url-api-7.4.jar.txt	4
+org/xwiki/url/internal/AbstractExtendedURLResourceTypeResolver/resolve(java.lang.String,org.xwiki.url.ExtendedURL,java.util.Map)@g_xwiki-platform-url-api-7.4.jar.txt	3
+org/xwiki/properties/internal/DefaultBeanDescriptor/extractPropertyDescriptor(java.beans.PropertyDescriptor,java.lang.Object)@g_xwiki-platform-url-api-7.4.jar.txt	1

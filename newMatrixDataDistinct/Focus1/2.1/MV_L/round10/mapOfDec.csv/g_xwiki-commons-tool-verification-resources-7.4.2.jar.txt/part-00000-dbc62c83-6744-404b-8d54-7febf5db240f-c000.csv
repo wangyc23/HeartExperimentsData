@@ -1,0 +1,5 @@
+org/antlr/v4/runtime/misc/NullUsageProcessor/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_antlr4-annotations-4.3.jar.txt	4
+org/sonatype/guice/bean/scanners/index/SisuIndex/getWriter(java.lang.String)@g_antlr4-annotations-4.3.jar.txt	2
+org/sonatype/guice/bean/scanners/index/SisuIndexFinder/findClasses(org.sonatype.guice.bean.reflect.ClassSpace)@g_antlr4-annotations-4.3.jar.txt	3
+org/antlr/v4/runtime/misc/NullUsageProcessor/addElementsToNamedMethodMap(java.util.Set,java.util.Map)@g_antlr4-annotations-4.3.jar.txt	1
+org/sonatype/guice/bean/scanners/index/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_antlr4-annotations-4.3.jar.txt	0

@@ -1,0 +1,4 @@
+0	com/github/brandtg/switchboard/MysqlLogIndexer/checkConfig()
+1	com/github/brandtg/switchboard/LogIndex/putLogHeader(com.github.brandtg.switchboard.LogRegion)
+2	java/io/File/getName()
+3	com/google/code/or/OpenReplicator/setPassword(java.lang.String)

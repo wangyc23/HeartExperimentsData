@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/allocate(int)
+java/nio/ByteBuffer/get(int)
+java/io/IOException/IOException(java.lang.String)
+java/nio/ByteBuffer/flip()

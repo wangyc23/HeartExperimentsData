@@ -1,0 +1,4 @@
+org/apache/velocity/app/VelocityEngine/mergeTemplate(java.lang.String,java.lang.String,org.apache.velocity.context.Context,java.io.Writer)
+org/codehaus/plexus/logging/Logger/isDebugEnabled()
+org/apache/maven/doxia/module/xhtml/decoration/render/RenderingContext/getInputName()
+org/apache/maven/doxia/module/xhtml/decoration/render/RenderingContext/getAttribute(java.lang.String)

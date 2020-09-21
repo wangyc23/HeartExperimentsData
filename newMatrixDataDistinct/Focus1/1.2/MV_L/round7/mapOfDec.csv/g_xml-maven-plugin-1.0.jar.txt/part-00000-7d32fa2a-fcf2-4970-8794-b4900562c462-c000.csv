@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/overlay/OverlayManager/getAssociatedArtifact(org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.1.1.jar.txt	3
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.1.1.jar.txt	2
+org/apache/maven/plugin/war/AbstractWarMojo/buildWebapp(org.apache.maven.project.MavenProject,java.io.File)@g_maven-war-plugin-2.1.1.jar.txt	4
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handeWebAppSourceDirectory(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.1.1.jar.txt	1
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handleDeploymentDescriptors(org.apache.maven.plugin.war.packaging.WarPackagingContext,java.io.File,java.io.File)@g_maven-war-plugin-2.1.1.jar.txt	0

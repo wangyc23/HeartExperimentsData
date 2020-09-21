@@ -1,0 +1,5 @@
+org/bytedeco/javacpp/tools/Parser/declarator(org.bytedeco.javacpp.tools.Context,java.lang.String,int,boolean,int,boolean,boolean)@g_aspectjrt-1.6.11.jar.txt	3
+org/bytedeco/javacpp/ClassProperties/addAll(java.lang.String,java.util.Collection)@g_aspectjrt-1.6.11.jar.txt	2
+org/bytedeco/javacpp/tools/Generator/functionMethods(java.lang.Class,boolean[])@g_aspectjrt-1.6.11.jar.txt	4
+org/bytedeco/javacpp/tools/Parser/macro(org.bytedeco.javacpp.tools.Context,org.bytedeco.javacpp.tools.DeclarationList)@g_aspectjrt-1.6.11.jar.txt	1
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_aspectjrt-1.6.11.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/maven/artifact/manager/DefaultWagonManager/initialize()@g_maven-artifact-manager-2.2.1.jar.txt	4
+org/apache/maven/artifact/manager/DefaultWagonManager/configureWagon(org.apache.maven.wagon.Wagon,java.lang.String,java.lang.String)@g_maven-artifact-manager-2.2.1.jar.txt	0
+org/apache/maven/artifact/manager/DefaultWagonManager/updateUserAgentForHttp(org.apache.maven.wagon.Wagon,org.codehaus.plexus.configuration.PlexusConfiguration)@g_maven-artifact-manager-2.2.1.jar.txt	3
+org/apache/maven/artifact/manager/DefaultWagonManager/getArtifact(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-artifact-manager-2.2.1.jar.txt	2
+org/apache/maven/artifact/manager/DefaultWagonManager/putRemoteFile(org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.lang.String,org.apache.maven.wagon.events.TransferListener)@g_maven-artifact-manager-2.2.1.jar.txt	1

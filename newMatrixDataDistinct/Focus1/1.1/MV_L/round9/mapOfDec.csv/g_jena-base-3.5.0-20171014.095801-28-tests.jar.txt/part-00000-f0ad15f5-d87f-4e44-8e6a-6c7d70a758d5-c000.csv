@@ -1,0 +1,5 @@
+org/neo4j/ogm/unit/metadata/MetaDataTest/testFindMultipleIterableMethodsWithSameParameterisedType()@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	3
+org/apache/jena/atlas/io/TestIndentedWriter/write03()@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	0
+org/neo4j/ogm/unit/entityaccess/relationshipEntities/AnnotatedFieldNonAnnotatedSetterAndNonSetter/shouldPreferAnnotatedFieldOverNonAnnotatedSetterAndNonSetter()@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	4
+org/neo4j/ogm/integration/satellite/SatelliteIntegrationTest/shouldCommitLongTransaction()@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	2
+org/neo4j/ogm/unit/mapper/EntityGraphMapperTest/testDeleteExistingReferenceFromIncomingSide()@g_jena-base-3.5.0-SNAPSHOT-tests.jar.txt	1

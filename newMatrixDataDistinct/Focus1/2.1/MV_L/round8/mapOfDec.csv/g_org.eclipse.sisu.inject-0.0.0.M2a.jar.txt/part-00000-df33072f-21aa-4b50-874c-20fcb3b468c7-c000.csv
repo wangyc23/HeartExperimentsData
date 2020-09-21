@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/reflect/MildKeys/entrySet()@g_sisu-inject-bean-2.3.0.jar.txt	4
+org/sonatype/guice/bean/locators/ImplicitBindings/get(com.google.inject.TypeLiteral)@g_sisu-inject-bean-2.3.0.jar.txt	0
+org/sonatype/guice/bean/binders/TypeConverterMap/getTypeConverter(com.google.inject.TypeLiteral)@g_sisu-inject-bean-2.3.0.jar.txt	2
+org/sonatype/guice/bean/binders/ElementAnalyzer/visit(com.google.inject.spi.PrivateElements)@g_sisu-inject-bean-2.3.0.jar.txt	1
+org/sonatype/guice/bean/containers/SisuGuice/2/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_sisu-inject-bean-2.3.0.jar.txt	3

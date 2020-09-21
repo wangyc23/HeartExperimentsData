@@ -1,0 +1,4 @@
+java/net/Socket/Socket(java.lang.String,int)
+java/io/ObjectInputStream/readUTF()
+java/io/ObjectInputStream/close()
+java/net/Socket/getOutputStream()

@@ -1,0 +1,4 @@
+org/apache/batik/transcoder/TranscoderOutput/getOutputStream()
+java/awt/image/BufferedImage/getSampleModel()
+org/apache/batik/ext/awt/image/rendered/FormatRed/FormatRed(org.apache.batik.ext.awt.image.rendered.CachableRed,java.awt.image.SampleModel)
+java/awt/image/BufferedImage/getWidth()

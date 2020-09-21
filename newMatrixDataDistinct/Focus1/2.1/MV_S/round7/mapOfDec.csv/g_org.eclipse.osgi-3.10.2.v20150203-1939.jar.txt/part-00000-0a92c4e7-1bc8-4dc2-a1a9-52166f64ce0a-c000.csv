@@ -1,0 +1,5 @@
+org/apache/felix/resolver/Candidates/checkSubstitutes(java.util.List)@g_osgi-3.10.0-v20140606-1445.jar.txt	2
+org/eclipse/osgi/container/ModuleContainer/unresolve0(java.util.Collection)@g_osgi-3.10.0-v20140606-1445.jar.txt	3
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/computeUnresolvedProviderResolutionReportEntries(java.util.Map)@g_osgi-3.10.0-v20140606-1445.jar.txt	0
+org/apache/felix/resolver/ResolverImpl/resolve(org.osgi.service.resolver.ResolveContext)@g_osgi-3.10.0-v20140606-1445.jar.txt	4
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/filterFailedToResolve(java.util.List)@g_osgi-3.10.0-v20140606-1445.jar.txt	1

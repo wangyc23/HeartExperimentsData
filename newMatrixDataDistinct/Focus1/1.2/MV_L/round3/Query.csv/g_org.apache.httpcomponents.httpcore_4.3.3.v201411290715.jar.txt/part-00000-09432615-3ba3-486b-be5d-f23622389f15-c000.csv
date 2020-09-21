@@ -1,0 +1,4 @@
+java/lang/Thread/currentThread()
+java/util/Properties/Properties()
+java/io/InputStream/close()
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,7 @@
+0	com/baeldung/orika/Source/Source(java.lang.String,int)
+1	com/baeldung/orika/Source/getAge()
+2	com/baeldung/orika/Source/getName()
+3	com/baeldung/orika/Dest/getAge()
+4	java/io/PrintStream/println(java.lang.String)
+5	org/baeldung/persistence/model/Foo/getId()
+6	org/baeldung/persistence/model/Foo/getName()

@@ -1,0 +1,5 @@
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getCollapserJson(com.netflix.hystrix.HystrixCollapserMetrics)@g_hystrix-metrics-event-stream-1.4.20.jar.txt	1
+com/codahale/metrics/json/MetricsModule/MeterSerializer/serialize(com.codahale.metrics.Meter,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_metrics-graphite-3.1.3.jar.txt	3
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getThreadPoolJson(com.netflix.hystrix.HystrixThreadPoolMetrics)@g_hystrix-metrics-event-stream-1.4.20.jar.txt	2
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getCommandJson(com.netflix.hystrix.HystrixCommandMetrics)@g_hystrix-metrics-event-stream-1.4.20.jar.txt	0
+com/codahale/metrics/json/HealthCheckModule/HealthCheckResultSerializer/serializeThrowable(com.fasterxml.jackson.core.JsonGenerator,java.lang.Throwable,java.lang.String)@g_metrics-graphite-3.1.3.jar.txt	4

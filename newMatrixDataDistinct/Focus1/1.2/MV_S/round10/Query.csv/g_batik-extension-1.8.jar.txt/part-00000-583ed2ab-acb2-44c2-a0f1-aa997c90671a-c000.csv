@@ -1,0 +1,4 @@
+org/apache/batik/bridge/SVGUtilities/convertFilterPrimitiveRegion(org.w3c.dom.Element,org.w3c.dom.Element,org.apache.batik.gvt.GraphicsNode,java.awt.geom.Rectangle2D,java.awt.geom.Rectangle2D,org.apache.batik.bridge.BridgeContext)
+org/apache/batik/extension/svg/BatikHistogramNormalizationElementBridge/updateFilterMap(org.w3c.dom.Element,org.apache.batik.ext.awt.image.renderable.Filter,java.util.Map)
+org/apache/batik/extension/svg/BatikHistogramNormalizationElementBridge/handleColorInterpolationFilters(org.apache.batik.ext.awt.image.renderable.Filter,org.w3c.dom.Element)
+org/apache/batik/ext/awt/image/renderable/PadRable8Bit/PadRable8Bit(org.apache.batik.ext.awt.image.renderable.Filter,java.awt.geom.Rectangle2D,org.apache.batik.ext.awt.image.PadMode)

@@ -1,0 +1,4 @@
+java/util/Map$Entry/getKey()
+org/apache/lucene/util/BytesRef/BytesRef(byte[],int,int)
+org/apache/lucene/util/ArrayUtil/grow(byte[],int)
+org/apache/lucene/document/StringField/StringField(java.lang.String,java.lang.String,org.apache.lucene.document.Field$Store)

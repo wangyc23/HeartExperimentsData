@@ -1,0 +1,5 @@
+org/junit/experimental/max/MaxCore/findLeaves(org.junit.runner.Description,org.junit.runner.Description,java.util.List)@g_junit-4.12.jar.txt	2
+org/junit/experimental/max/MaxCore/findLeaves(org.junit.runner.Description,org.junit.runner.Description,java.util.List)@g_junit-4.7.jar.txt	4
+junit/textui/TestRunner/start(java.lang.String[])@g_junit-4.12.jar.txt	3
+org/junit/ComparisonFailure/ComparisonCompactor/compact(java.lang.String)@g_junit-4.12.jar.txt	1
+org/junit/runner/JUnitCommandLineParseResult/parseOptions(java.lang.String[])@g_junit-4.12.jar.txt	0

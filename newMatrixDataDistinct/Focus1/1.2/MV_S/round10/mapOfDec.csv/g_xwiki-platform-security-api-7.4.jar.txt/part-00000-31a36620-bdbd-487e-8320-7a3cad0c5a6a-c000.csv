@@ -1,0 +1,5 @@
+net/sf/ehcache/Cache/searchAllInStoreWithStats(java.util.Collection)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/config/ConfigurationFactory/translateSystemProperties(java.io.InputStream)@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/Cache/initialise()@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/transaction/local/LocalTransactionContext/unfreezeAndUnlock()@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/config/ConfigurationHelper/createDefaultCacheDecorators(net.sf.ehcache.Ehcache,net.sf.ehcache.config.CacheConfiguration)@g_ehcache-core-2.6.2.jar.txt	3

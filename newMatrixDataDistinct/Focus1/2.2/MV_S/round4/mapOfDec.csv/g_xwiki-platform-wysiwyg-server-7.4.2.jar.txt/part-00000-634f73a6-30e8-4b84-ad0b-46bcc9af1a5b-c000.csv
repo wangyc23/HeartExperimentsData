@@ -1,0 +1,5 @@
+org/xwiki/wysiwyg/server/internal/plugin/importer/XWikiImportService/cleanOfficeHTML(java.lang.String,java.lang.String,java.util.Map)@g_xwiki-platform-rendering-wikimacro-store-7.4.2.jar.txt	3
+org/xwiki/wysiwyg/server/internal/plugin/macro/XWikiMacroService/createMacroParameterType(java.lang.reflect.Type)@g_xwiki-platform-rendering-wikimacro-store-7.4.2.jar.txt	4
+org/xwiki/wysiwyg/server/internal/plugin/macro/XWikiMacroService/getUntranslatedMacroDescriptor(java.lang.String,java.lang.String)@g_xwiki-platform-rendering-wikimacro-store-7.4.2.jar.txt	1
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLink(org.xwiki.rendering.block.Block,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-rendering-wikimacro-store-7.4.2.jar.txt	0
+org/xwiki/wysiwyg/server/internal/wiki/AbstractWikiService/searchDocumentReferences(org.xwiki.query.Query)@g_xwiki-platform-rendering-wikimacro-store-7.4.2.jar.txt	2

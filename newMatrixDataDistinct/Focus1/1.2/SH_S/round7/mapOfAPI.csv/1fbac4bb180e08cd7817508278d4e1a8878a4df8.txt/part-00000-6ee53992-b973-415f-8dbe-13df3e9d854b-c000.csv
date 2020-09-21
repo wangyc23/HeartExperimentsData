@@ -1,0 +1,8 @@
+0	com/done/analytics/domain/VoteResult/getPercentage()
+1	org/apache/camel/model/ProcessorDefinition/process(org.apache.camel.Processor)
+2	com/done/analytics/domain/VoteResult/getPresenter()
+3	org/apache/camel/builder/RouteBuilder/from(java.lang.String)
+4	at/mfpjn/workflow/routebuilder/TwitterReceiverRouteBuilder/configure()/$anonymous1/()
+5	java/lang/String/hashCode()
+6	org/apache/camel/model/ProcessorDefinition/to(java.lang.String)
+7	com/done/analytics/domain/VoteResult/getTopicOwner()

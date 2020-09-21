@@ -1,0 +1,5 @@
+com/mysql/jdbc/DatabaseMetaData/extractForeignKeyFromCreateTable(java.lang.String,java.lang.String)@g_mysql-connector-java-5.1.37.jar.txt	3
+com/mysql/jdbc/StandardSocketFactory/isLocallyConnected(com.mysql.jdbc.ConnectionImpl)@g_mysql-connector-java-5.1.37.jar.txt	0
+com/mysql/jdbc/ConnectionImpl/buildCollationMapping()@g_mysql-connector-java-5.1.37.jar.txt	1
+com/mysql/jdbc/ConnectionImpl/isReadOnly(boolean)@g_mysql-connector-java-5.1.37.jar.txt	2
+com/mysql/jdbc/SQLError/convertShowWarningsToSQLWarnings(com.mysql.jdbc.Connection,int,boolean)@g_mysql-connector-java-5.1.37.jar.txt	4

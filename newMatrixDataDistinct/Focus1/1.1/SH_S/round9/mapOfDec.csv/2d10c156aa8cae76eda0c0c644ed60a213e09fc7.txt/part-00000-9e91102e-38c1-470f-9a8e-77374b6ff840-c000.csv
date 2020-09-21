@@ -1,0 +1,5 @@
+vaeke/restcountries/v1/CountryServiceTest/getByAlpha3()@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	0
+vaeke/restcountries/v1/CountryRestTest/language()@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	4
+vaeke/restcountries/v0/rest/CountryRest/getByAlphaList(java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	3
+vaeke/restcountries/v0/CountryRestTest/language()@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	2
+org/commoncrawl/warc/WARCFileInputFormat/createRecordReader(org.apache.hadoop.mapreduce.InputSplit,org.apache.hadoop.mapreduce.TaskAttemptContext)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	1

@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/allocate(int)
+java/nio/ByteBuffer/put(byte[])
+java/nio/ByteBuffer/put(byte)
+io/druid/query/lookup/LookupExtractor/getCacheKey()

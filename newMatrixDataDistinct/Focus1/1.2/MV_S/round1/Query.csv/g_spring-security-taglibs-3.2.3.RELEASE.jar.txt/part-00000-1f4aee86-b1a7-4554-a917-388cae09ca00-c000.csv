@@ -1,0 +1,4 @@
+org/springframework/context/ApplicationContext/getBeansOfType(java.lang.Class)
+java/lang/Object/equals(java.lang.Object)
+java/io/IOException/IOException(java.lang.String)
+java/util/Iterator/hasNext()

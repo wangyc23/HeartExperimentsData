@@ -1,0 +1,5 @@
+org/languagetool/rules/br/DateCheckFilter/getDayOfMonth(java.lang.String)@g_language-uk-3.0.jar.txt	4
+org/languagetool/tagging/uk/CompoundTagger/cityAvenueMatch(java.lang.String,java.util.List)@g_language-uk-3.0.jar.txt	3
+org/languagetool/tagging/br/BretonTagger/tag(java.util.List)@g_language-uk-3.0.jar.txt	1
+org/languagetool/tagging/uk/CompoundTagger/oAdjMatch(java.lang.String,java.util.List,java.lang.String)@g_language-uk-3.0.jar.txt	2
+org/languagetool/language/Ukrainian/getRuleFileNames()@g_language-uk-3.0.jar.txt	0

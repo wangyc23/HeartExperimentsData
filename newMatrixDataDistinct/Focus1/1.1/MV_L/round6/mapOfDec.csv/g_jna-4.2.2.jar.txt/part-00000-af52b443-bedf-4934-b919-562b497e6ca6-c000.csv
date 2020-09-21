@@ -1,0 +1,5 @@
+com/sun/jna/Function/convertArgument(java.lang.Object[],int,java.lang.reflect.Method,com.sun.jna.TypeMapper,boolean,java.lang.Class)@g_jna-4.1.0.jar.txt	1
+com/sun/jna/Structure/FFIType/get(java.lang.Object,java.lang.Class)@g_jna-4.1.0.jar.txt	0
+com/sun/jna/CallbackReference/getCallback(java.lang.Class,com.sun.jna.Pointer,boolean)@g_jna-4.1.0.jar.txt	3
+com/sun/jna/Pointer/setValue(long,java.lang.Object,java.lang.Class)@g_jna-4.1.0.jar.txt	2
+com/sun/jna/Function/invoke(java.lang.Object[],java.lang.Class,boolean)@g_jna-4.1.0.jar.txt	4

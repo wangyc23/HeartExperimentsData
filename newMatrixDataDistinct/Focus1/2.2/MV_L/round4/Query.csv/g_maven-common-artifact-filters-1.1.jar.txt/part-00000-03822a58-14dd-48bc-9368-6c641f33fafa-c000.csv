@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+java/util/List/removeAll(java.util.Collection)
+java/util/List/isEmpty()

@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/ArrayList/ArrayList()
+com/sun/mail/imap/protocol/FetchResponse/getNumber()
+com/sun/mail/imap/protocol/IMAPProtocol/handleResult(com.sun.mail.iap.Response)

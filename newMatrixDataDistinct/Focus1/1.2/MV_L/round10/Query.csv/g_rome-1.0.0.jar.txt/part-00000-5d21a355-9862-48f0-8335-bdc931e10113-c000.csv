@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/lang/String/toUpperCase()
+java/lang/String/length()
+java/lang/String/substring(int,int)

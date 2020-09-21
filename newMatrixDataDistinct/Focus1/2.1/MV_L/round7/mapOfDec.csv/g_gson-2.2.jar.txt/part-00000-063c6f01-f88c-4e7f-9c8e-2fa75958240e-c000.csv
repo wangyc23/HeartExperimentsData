@@ -1,0 +1,5 @@
+com/google/gson/stream/JsonReader/nextInt()@g_gson-2.2.2.jar.txt	1
+com/google/gson/stream/JsonReader/nextLong()@g_gson-2.2.2.jar.txt	2
+com/google/gson/stream/JsonReader/nextDouble()@g_gson-2.2.2.jar.txt	3
+com/google/gson/stream/JsonReader/peek()@g_gson-2.2.2.jar.txt	0
+com/google/gson/internal/bind/JsonTreeReader/nextDouble()@g_gson-2.2.2.jar.txt	4

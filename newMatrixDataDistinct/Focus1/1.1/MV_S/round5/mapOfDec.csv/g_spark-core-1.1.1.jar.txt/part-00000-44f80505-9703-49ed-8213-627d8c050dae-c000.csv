@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlets/CrossOriginFilter/areHeadersAllowed(javax.servlet.http.HttpServletRequest)@g_jetty-servlets-8.1.22.v20160922.jar.txt	4
+org/eclipse/jetty/servlets/MultiPartFilter/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain)@g_jetty-servlets-8.1.22.v20160922.jar.txt	3
+org/eclipse/jetty/servlets/BalancerServlet/getBalancerNames(javax.servlet.ServletConfig)@g_jetty-servlets-8.1.22.v20160922.jar.txt	2
+org/eclipse/jetty/servlets/PutFilter/1/setHeader(java.lang.String,java.lang.String)@g_jetty-servlets-8.1.22.v20160922.jar.txt	1
+org/eclipse/jetty/servlets/CrossOriginFilter/originMatches(java.lang.String)@g_jetty-servlets-8.1.22.v20160922.jar.txt	0

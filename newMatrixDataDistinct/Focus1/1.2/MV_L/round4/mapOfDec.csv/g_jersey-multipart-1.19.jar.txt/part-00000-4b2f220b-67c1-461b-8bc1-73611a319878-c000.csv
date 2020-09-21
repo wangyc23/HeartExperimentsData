@@ -1,0 +1,5 @@
+com/sun/jersey/multipart/impl/FormDataMultiPartDispatchProvider/FormDataMultiPartParamInjectable/getValue(com.sun.jersey.api.core.HttpContext)@g_jersey-multipart-1.18.1.jar.txt	2
+com/sun/jersey/multipart/impl/MultiPartReaderClientSide/readMultiPart(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-multipart-1.18.1.jar.txt	0
+com/sun/jersey/multipart/impl/FormDataMultiPartDispatchProvider/ListFormDataContentDispositionMultiPartInjectable/getValue(com.sun.jersey.api.core.HttpContext)@g_jersey-multipart-1.18.1.jar.txt	3
+com/sun/jersey/multipart/FormDataMultiPart/getFields()@g_jersey-multipart-1.18.1.jar.txt	4
+com/sun/jersey/multipart/impl/MultiPartWriter/writeTo(com.sun.jersey.multipart.MultiPart,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.OutputStream)@g_jersey-multipart-1.18.1.jar.txt	1

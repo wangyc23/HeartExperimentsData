@@ -1,0 +1,5 @@
+com/tchepannou/kiosk/core/service/LogServiceTest/shouldLogCollection()@05f114a0ec9764491544f93f27096c567f17892c.txt	0
+storm/starter/TweetSpout/open(java.util.Map,backtype.storm.task.TopologyContext,backtype.storm.spout.SpoutOutputCollector)@05f114a0ec9764491544f93f27096c567f17892c.txt	2
+com/tchepannou/kiosk/core/service/LogServiceTest/shouldSortKeys()@05f114a0ec9764491544f93f27096c567f17892c.txt	3
+com/tchepannou/kiosk/core/service/FileService/toFile(java.lang.String)@05f114a0ec9764491544f93f27096c567f17892c.txt	1
+com/tchepannou/kiosk/core/text/TextKitProviderTest/testGetFR()@05f114a0ec9764491544f93f27096c567f17892c.txt	4

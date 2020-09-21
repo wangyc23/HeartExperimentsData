@@ -1,0 +1,5 @@
+com/google/common/io/Files/createTempDir()@g_guava-22.0.jar.txt	0
+com/google/common/primitives/Longs/tryParse(java.lang.String,int)@g_guava-22.0.jar.txt	4
+com/google/common/collect/ConcurrentHashMultiset/add(java.lang.Object,int)@g_guava-22.0.jar.txt	3
+com/google/common/io/Files/createTempDir()@g_guava-20.0.jar.txt	1
+com/google/common/io/BaseEncoding/StandardBaseEncoding/decodeTo(byte[],java.lang.CharSequence)@g_guava-22.0.jar.txt	2

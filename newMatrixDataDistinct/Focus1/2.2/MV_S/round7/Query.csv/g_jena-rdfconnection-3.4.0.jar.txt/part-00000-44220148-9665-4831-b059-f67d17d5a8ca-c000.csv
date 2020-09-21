@@ -1,0 +1,4 @@
+org/apache/jena/sparql/core/DatasetGraph/clear()
+org/apache/jena/rdf/model/Model/removeAll()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/jena/riot/RDFLanguages/isTriples(org.apache.jena.riot.Lang)

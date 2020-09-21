@@ -1,0 +1,5 @@
+org/linkeddata/triplegeo/rest/FileUpload/uploadFiles(org.linkeddata.triplegeo.rest.HttpServletRequest,org.linkeddata.triplegeo.rest.ServletContext)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	3
+org/linkeddata/utils/QueryChunks/writeInsertQuery(org.linkeddata.utils.Model,java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	1
+vaeke/restcountries/v0/CountryRestTest/capital()@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	4
+vaeke/restcountries/v1/CountryServiceTest/getByAlpha3()@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	0
+org/linkeddata/triplegeo/rest/TripleGeoService/getConfiguration(java.lang.String,org.linkeddata.triplegeo.rest.ServletContext)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	2

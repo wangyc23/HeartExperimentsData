@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/awt/Graphics/drawImage(java.awt.Image,int,int,java.awt.image.ImageObserver)
+java/awt/image/BufferedImage/getWidth()
+java/awt/image/BufferedImage/getHeight()

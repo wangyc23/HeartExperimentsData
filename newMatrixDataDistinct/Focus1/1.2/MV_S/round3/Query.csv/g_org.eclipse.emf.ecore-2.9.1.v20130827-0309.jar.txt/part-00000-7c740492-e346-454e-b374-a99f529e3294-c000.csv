@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/net/URI/toString()
+java/net/URL/toURI()
+java/io/File/File(java.lang.String)

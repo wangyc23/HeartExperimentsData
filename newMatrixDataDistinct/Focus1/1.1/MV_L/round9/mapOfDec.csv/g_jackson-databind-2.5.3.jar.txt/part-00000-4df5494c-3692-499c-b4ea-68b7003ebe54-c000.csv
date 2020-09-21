@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/introspect/POJOPropertiesCollector/_sortProperties()@g_jackson-databind-2.5.1.jar.txt	4
+com/fasterxml/jackson/databind/deser/std/NumberDeserializers/NumberDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_jackson-databind-2.5.1.jar.txt	0
+com/fasterxml/jackson/databind/deser/std/NumberDeserializers/NumberDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_jackson-databind-2.5.4.jar.txt	1
+com/fasterxml/jackson/databind/deser/std/CollectionDeserializer/CollectionReferringAccumulator/resolveForwardReference(java.lang.Object,java.lang.Object)@g_jackson-databind-2.5.1.jar.txt	2
+com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers/BooleanDeser/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_jackson-databind-2.5.1.jar.txt	3

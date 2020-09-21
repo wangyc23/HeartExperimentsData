@@ -1,0 +1,4 @@
+org/bouncycastle/asn1/cms/TimeStampedData/getMetaData()
+org/bouncycastle/asn1/cms/TimeStampTokenEvidence/TimeStampTokenEvidence(org.bouncycastle.asn1.cms.TimeStampAndCRL[])
+org/bouncycastle/asn1/cms/TimeStampedData/getDataUri()
+org/bouncycastle/asn1/cms/TimeStampedData/TimeStampedData(org.bouncycastle.asn1.DERIA5String,org.bouncycastle.asn1.cms.MetaData,org.bouncycastle.asn1.ASN1OctetString,org.bouncycastle.asn1.cms.Evidence)

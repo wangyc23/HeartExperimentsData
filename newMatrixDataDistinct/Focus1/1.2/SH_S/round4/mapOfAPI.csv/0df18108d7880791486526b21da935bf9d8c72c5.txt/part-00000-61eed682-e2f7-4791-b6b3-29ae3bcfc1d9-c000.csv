@@ -1,0 +1,6 @@
+0	javax/persistence/Persistence/createEntityManagerFactory(java.lang.String)
+1	javax/servlet/ServletContextEvent/getServletContext()
+2	javax/servlet/ServletContext/removeAttribute(java.lang.String)
+3	org/jbpm/services/task/identity/JBossUserGroupCallbackImpl/JBossUserGroupCallbackImpl(java.lang.String)
+4	org/jbpm/test/JBPMHelper/startH2Server()
+5	org/kie/api/runtime/manager/RuntimeEnvironmentBuilder/get()

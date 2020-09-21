@@ -1,0 +1,5 @@
+org/eclipse/sisu/wire/ElementAnalyzer/addLegacyKeyAlias(java.util.Map,java.lang.Class)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	1
+org/eclipse/sisu/inject/MildKeys/entrySet()@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	2
+org/eclipse/sisu/wire/TypeConverterMap/getTypeConverter(com.google.inject.TypeLiteral)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	3
+org/eclipse/sisu/space/QualifierCache/qualify(org.eclipse.sisu.space.ClassSpace,java.lang.String)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	0
+org/eclipse/sisu/inject/MildValues/entrySet()@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	4

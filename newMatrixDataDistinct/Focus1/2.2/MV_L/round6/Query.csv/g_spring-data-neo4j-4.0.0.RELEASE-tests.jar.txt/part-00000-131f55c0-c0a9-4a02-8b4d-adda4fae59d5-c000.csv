@@ -1,0 +1,4 @@
+java/util/List/size()
+java/util/Iterator/next()
+org/springframework/data/domain/Page/hasNext()
+java/util/Iterator/hasNext()

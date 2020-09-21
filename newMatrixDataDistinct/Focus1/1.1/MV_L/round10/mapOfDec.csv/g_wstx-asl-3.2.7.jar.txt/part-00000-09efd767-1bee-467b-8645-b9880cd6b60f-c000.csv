@@ -1,0 +1,5 @@
+com/ctc/wstx/dtd/FullDTDReader/handleElementDecl()@g_woodstox-core-asl-4.2.0.jar.txt	3
+com/ctc/wstx/dtd/FullDTDReader/handleEntityDecl(boolean)@g_woodstox-core-asl-4.2.0.jar.txt	4
+com/ctc/wstx/dtd/FullDTDReader/handleEntityDecl(boolean)@g_wstx-asl-3.2.6.jar.txt	1
+com/ctc/wstx/dtd/FullDTDReader/handleExternalEntityDecl(com.ctc.wstx.io.WstxInputSource,boolean,java.lang.String,char,javax.xml.stream.Location)@g_wstx-asl-3.2.6.jar.txt	2
+com/ctc/wstx/dtd/FullDTDReader/handleElementDecl()@g_wstx-asl-3.2.6.jar.txt	0

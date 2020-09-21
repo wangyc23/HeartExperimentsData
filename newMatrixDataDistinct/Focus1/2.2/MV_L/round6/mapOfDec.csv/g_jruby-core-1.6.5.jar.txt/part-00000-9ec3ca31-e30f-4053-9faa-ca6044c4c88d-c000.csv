@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/dvparser/DVParser/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/lexparser/SplittingGrammarExtractor/saveTrees(java.util.Collection,double,java.util.Collection,double)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/ling/tokensregex/CoreMapExpressionExtractor/filterInvalidExpressions(java.util.function.Predicate,java.util.List)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/ling/tokensregex/SequenceMatcher/BranchStates/setGroupStart(int,int,int)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/metrics/TaggingEval/display(boolean,java.io.PrintWriter)@g_stanford-parser-3.5.2.jar.txt	2

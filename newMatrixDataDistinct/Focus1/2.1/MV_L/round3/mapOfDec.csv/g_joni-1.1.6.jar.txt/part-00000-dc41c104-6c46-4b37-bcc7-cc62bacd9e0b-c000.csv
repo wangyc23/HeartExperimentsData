@@ -1,0 +1,5 @@
+org/jacoco/core/runtime/AgentOptions/toString()@g_org.jacoco.core-0.7.5.201505241946.jar.txt	4
+org/joni/Parser/parseCharClass()@g_org.jacoco.core-0.7.5.201505241946.jar.txt	3
+org/joni/Lexer/fetchToken()@g_org.jacoco.core-0.7.5.201505241946.jar.txt	0
+org/neo4j/codegen/CompilationFailureException/source(java.util.List)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	2
+org/jacoco/core/internal/analysis/BundleCoverageImpl/groupByPackage(java.util.Collection,java.util.Collection)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/analyze/AbstractAnalyzeMojo/writeDependencyXML(java.util.Set)@g_maven-dependency-plugin-2.10.jar.txt	4
+org/apache/maven/plugin/dependency/resolvers/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-dependency-plugin-2.10.jar.txt	3
+org/apache/maven/plugin/dependency/resolvers/AbstractResolveMojo/getPluginArtifactsFilter()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/resolvers/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/dependency/analyze/AbstractAnalyzeMojo/writeDependencyXML(java.util.Set)@g_maven-dependency-plugin-2.8.jar.txt	1

@@ -1,0 +1,4 @@
+org/apache/maven/artifact/Artifact/getArtifactId()
+org/apache/maven/doxia/sink/Sink/table()
+org/apache/maven/doxia/sink/Sink/bold()
+org/apache/maven/doxia/sink/Sink/text(java.lang.String)

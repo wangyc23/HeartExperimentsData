@@ -1,0 +1,4 @@
+org/eclipse/emf/common/util/URI/appendSegment(java.lang.String)
+java/lang/String/valueOf(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/emf/common/util/URI/trimSegments(int)

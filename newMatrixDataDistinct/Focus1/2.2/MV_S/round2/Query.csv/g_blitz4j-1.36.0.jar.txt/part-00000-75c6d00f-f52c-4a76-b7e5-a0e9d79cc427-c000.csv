@@ -1,0 +1,4 @@
+com/netflix/servo/monitor/Monitors/newTimer(java.lang.String,java.util.concurrent.TimeUnit)
+com/google/common/cache/CacheBuilder/newBuilder()
+com/google/common/cache/CacheBuilder/initialCapacity(int)
+com/netflix/servo/monitor/Monitors/registerObject(java.lang.String,java.lang.Object)

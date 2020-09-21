@@ -1,0 +1,5 @@
+org/eclipse/sisu/bean/BeanListener/hear(com.google.inject.TypeLiteral,com.google.inject.spi.TypeEncounter)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	3
+org/sonatype/guice/bean/locators/ImplicitBindings/get(com.google.inject.TypeLiteral)@g_sisu-inject-bean-2.3.0.jar.txt	0
+org/eclipse/sisu/launch/SisuExtensions/install(com.google.inject.Binder,java.lang.Class,java.lang.Object)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	4
+org/sonatype/guice/bean/inject/BeanListener/hear(com.google.inject.TypeLiteral,com.google.inject.spi.TypeEncounter)@g_sisu-inject-bean-2.3.0.jar.txt	2
+org/sonatype/guice/bean/containers/SisuGuice/2/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_sisu-inject-bean-2.3.0.jar.txt	1

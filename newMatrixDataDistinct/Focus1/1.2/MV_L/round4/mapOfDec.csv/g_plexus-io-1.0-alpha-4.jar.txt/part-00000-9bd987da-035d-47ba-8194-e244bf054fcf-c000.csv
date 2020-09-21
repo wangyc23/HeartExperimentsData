@@ -1,0 +1,5 @@
+org/codehaus/plexus/components/io/resources/proxy/PlexusIoProxyResourceCollection/getResources()@g_plexus-io-2.0.2.jar.txt	1
+org/codehaus/plexus/components/io/resources/proxy/PlexusIoProxyResourceCollection/getResources()@g_plexus-io-1.0.1.jar.txt	0
+org/codehaus/plexus/components/io/attributes/PlexusIoResourceAttributeUtils/executeLs(java.io.File,java.lang.String,org.codehaus.plexus.components.io.attributes.PlexusIoResourceAttributeUtils$LoggerStreamConsumer,org.codehaus.plexus.util.cli.StreamConsumer,org.codehaus.plexus.logging.Logger)@g_plexus-io-1.0.1.jar.txt	4
+org/codehaus/plexus/components/io/attributes/PlexusIoResourceAttributeUtils/AttributeParser/consumeLine(java.lang.String)@g_plexus-io-1.0.1.jar.txt	3
+org/codehaus/plexus/components/io/attributes/PlexusIoResourceAttributeUtils/getFileAttributesByPath(java.io.File,org.codehaus.plexus.logging.Logger,int,boolean)@g_plexus-io-1.0.1.jar.txt	2

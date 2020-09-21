@@ -1,0 +1,5 @@
+net/sf/ehcache/distribution/MulticastKeepaliveHeartbeatSender/MulticastServerThread/run()@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/distribution/ManualRMICacheManagerPeerProvider/listRemoteCachePeers(net.sf.ehcache.Ehcache)@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/pool/impl/DefaultSizeOfEngine/getUserFilter()@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/store/disk/DiskStorageFactory/DiskWriteTask/call()@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/store/FrontEndCacheTier/getQuiet(java.lang.Object)@g_ehcache-core-2.6.2.jar.txt	4

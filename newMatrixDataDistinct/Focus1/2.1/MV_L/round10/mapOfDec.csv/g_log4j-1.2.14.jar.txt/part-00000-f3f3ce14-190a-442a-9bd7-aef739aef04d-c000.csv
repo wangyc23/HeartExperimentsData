@@ -1,0 +1,5 @@
+org/apache/log4j/AsyncAppender/Dispatcher/run()@g_log4j-1.2.15.jar.txt	4
+org/apache/log4j/lf5/viewer/configure/MRUFileManager/load()@g_log4j-1.2.15.jar.txt	0
+org/apache/log4j/jmx/AbstractDynamicMBean/setAttributes(javax.management.AttributeList)@g_log4j-1.2.15.jar.txt	1
+org/apache/log4j/chainsaw/MyTableModel/updateFilteredEvents(boolean)@g_log4j-1.2.15.jar.txt	2
+org/apache/log4j/lf5/viewer/LogBrokerMonitor/createLogLevelCombo()@g_log4j-1.2.15.jar.txt	3

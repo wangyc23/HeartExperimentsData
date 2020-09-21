@@ -1,0 +1,4 @@
+org/slf4j/Logger/warn(java.lang.String,java.lang.Object)
+java/net/URI/normalize()
+java/lang/StringBuilder/append(java.lang.String)
+java/net/URI/toString()

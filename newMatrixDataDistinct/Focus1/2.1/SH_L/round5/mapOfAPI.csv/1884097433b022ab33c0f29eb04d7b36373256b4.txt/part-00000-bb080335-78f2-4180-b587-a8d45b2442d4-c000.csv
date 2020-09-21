@@ -1,0 +1,2 @@
+0	org/elasticsearch/index/query/QueryBuilders/templateQuery(java.lang.String,org.elasticsearch.script.ScriptService.ScriptType,java.util.Map)
+1	java/io/PrintStream/println(java.lang.String)

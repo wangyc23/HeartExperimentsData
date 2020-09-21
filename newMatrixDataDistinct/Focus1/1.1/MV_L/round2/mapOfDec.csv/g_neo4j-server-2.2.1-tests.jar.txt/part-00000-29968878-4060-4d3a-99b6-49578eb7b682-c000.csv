@@ -1,0 +1,5 @@
+org/neo4j/server/rest/GetOnRootDocIT/streaming()@g_neo4j-server-2.2.5-tests.jar.txt	1
+org/neo4j/server/rest/web/RestfulGraphDatabaseTest/shouldBeAbleToParseJsonEvenWithUnicodeMarkerAtTheStart()@g_neo4j-server-2.2.5-tests.jar.txt	2
+org/neo4j/server/rest/CreateRelationshipDocTest/creating_a_loop_relationship()@g_neo4j-server-2.2.5-tests.jar.txt	4
+org/neo4j/server/rest/transactional/integration/TransactionIT/begin_create_two_nodes_delete_one()@g_neo4j-server-2.2.5-tests.jar.txt	3
+org/neo4j/server/rest/LabelsDocIT/replacing_labels_on_a_node()@g_neo4j-server-2.2.5-tests.jar.txt	0

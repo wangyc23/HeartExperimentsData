@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/jar/JarArchiver/zipFile(java.io.InputStream,org.codehaus.plexus.archiver.zip.ZipOutputStream,java.lang.String,long,java.io.File,int)@g_plexus-archiver-1.0-alpha-9.jar.txt	3
+org/codehaus/plexus/archiver/ear/EarArchiver/zipFile(org.codehaus.plexus.archiver.ArchiveEntry,org.codehaus.plexus.archiver.zip.ZipOutputStream,java.lang.String,int)@g_plexus-archiver-1.0-alpha-9.jar.txt	4
+org/codehaus/plexus/archiver/util/ArchiveEntryUtils/chmod(java.io.File,int,org.codehaus.plexus.logging.Logger)@g_plexus-archiver-1.0-alpha-9.jar.txt	2
+org/codehaus/plexus/archiver/zip/AbstractZipUnArchiver/extractFile(java.io.File,java.io.File,java.io.InputStream,java.lang.String,java.util.Date,boolean,java.lang.Integer)@g_plexus-archiver-1.0-alpha-9.jar.txt	0
+org/codehaus/plexus/archiver/war/WarArchiver/zipFile(org.codehaus.plexus.archiver.ArchiveEntry,org.codehaus.plexus.archiver.zip.ZipOutputStream,java.lang.String,int)@g_plexus-archiver-1.0-alpha-9.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/lucene410/Lucene410DocValuesConsumer/addNumericField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,boolean)@g_lucene-backward-codecs-5.3.1.jar.txt	4
+org/apache/lucene/codecs/lucene50/Lucene50DocValuesConsumer/addNumericField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,boolean)@g_lucene-backward-codecs-5.5.0.jar.txt	0
+org/apache/lucene/codecs/lucene49/Lucene49DocValuesConsumer/addNumericField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,boolean)@g_lucene-backward-codecs-5.5.0.jar.txt	2
+org/apache/lucene/codecs/lucene410/Lucene410DocValuesConsumer/addNumericField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,boolean)@g_lucene-backward-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/lucene45/Lucene45DocValuesConsumer/addNumericField(org.apache.lucene.index.FieldInfo,java.lang.Iterable,boolean)@g_lucene-backward-codecs-5.5.0.jar.txt	3

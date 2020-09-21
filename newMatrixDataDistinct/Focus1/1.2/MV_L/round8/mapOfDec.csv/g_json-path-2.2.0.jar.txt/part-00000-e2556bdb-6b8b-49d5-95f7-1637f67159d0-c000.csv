@@ -1,0 +1,5 @@
+org/skyscreamer/jsonassert/JSONParser/parseJSON(java.lang.String)@g_jsonassert-1.4.0.jar.txt	3
+org/skyscreamer/jsonassert/comparator/AbstractComparator/recursivelyCompareJSONArray(java.lang.String,org.json.JSONArray,org.json.JSONArray,org.skyscreamer.jsonassert.JSONCompareResult)@g_jsonassert-1.4.0.jar.txt	1
+org/skyscreamer/jsonassert/comparator/ArraySizeComparator/compareJSONArray(java.lang.String,org.json.JSONArray,org.json.JSONArray,org.skyscreamer.jsonassert.JSONCompareResult)@g_jsonassert-1.4.0.jar.txt	2
+org/skyscreamer/jsonassert/RegularExpressionValueMatcher/equal(java.lang.Object,java.lang.Object)@g_jsonassert-1.4.0.jar.txt	0
+org/skyscreamer/jsonassert/comparator/AbstractComparator/compareJSONArrayOfSimpleValues(java.lang.String,org.json.JSONArray,org.json.JSONArray,org.skyscreamer.jsonassert.JSONCompareResult)@g_jsonassert-1.4.0.jar.txt	4

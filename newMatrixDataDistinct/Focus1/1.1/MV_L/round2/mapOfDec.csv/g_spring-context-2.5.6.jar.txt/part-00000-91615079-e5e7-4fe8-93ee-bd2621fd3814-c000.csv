@@ -1,0 +1,5 @@
+org/springframework/context/support/AbstractApplicationContext/registerBeanPostProcessors(org.springframework.beans.factory.config.ConfigurableListableBeanFactory)@g_spring-2.5.6.jar.txt	0
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	3
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	2
+org/springframework/context/support/AbstractApplicationContext/registerBeanPostProcessors(org.springframework.beans.factory.config.ConfigurableListableBeanFactory)@g_spring-context-3.2.2.RELEASE.jar.txt	1
+org/springframework/ui/velocity/VelocityEngineFactory/initVelocityResourceLoader(org.apache.velocity.app.VelocityEngine,java.lang.String)@g_spring-2.5.6.jar.txt	4

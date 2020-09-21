@@ -1,0 +1,4 @@
+org/apache/maven/doxia/sink/Sink/anchor_()
+java/lang/StringBuffer/StringBuffer(int)
+java/lang/StringBuffer/append(char)
+java/lang/StringBuffer/toString()

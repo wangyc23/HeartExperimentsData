@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/regex/Matcher/appendTail(java.lang.StringBuffer)
+java/lang/StringBuilder/append(java.lang.String)

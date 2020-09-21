@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/kitchensink/spring/controlleradvice/controller/MemberController/registerNewMember(org.jboss.as.quickstarts.kitchensink.spring.controlleradvice.model.Member,org.jboss.as.quickstarts.kitchensink.spring.asyncrequestmapping.controller.BindingResult,org.jboss.as.quickstarts.kitchensink.spring.asyncrequestmapping.controller.Model)@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	0
+org/hoteia/qalingo/core/domain/Tag/hashCode()@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	1
+org/hoteia/qalingo/core/domain/AbstractExtendEntity/getMarketAreaAttributes(java.lang.Long)@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	3
+org/jboss/as/quickstarts/wsat/simple/RestaurantServiceATImpl/reset()@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	2
+org/hoteia/qalingo/core/rest/controller/ContextRestService/selectRetailer(java.lang.String,java.lang.String,java.lang.String)@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	4

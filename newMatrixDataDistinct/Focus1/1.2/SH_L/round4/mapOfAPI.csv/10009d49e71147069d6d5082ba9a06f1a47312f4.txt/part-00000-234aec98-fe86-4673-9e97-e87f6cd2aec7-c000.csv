@@ -1,0 +1,4 @@
+0	java/util/Random/nextInt(int)
+1	org/apache/pig/data/TupleFactory/newTuple(int)
+2	org/apache/pig/data/BagFactory/newDefaultBag()
+3	org/apache/pig/data/DataBag/add(org.apache.pig.data.Tuple)

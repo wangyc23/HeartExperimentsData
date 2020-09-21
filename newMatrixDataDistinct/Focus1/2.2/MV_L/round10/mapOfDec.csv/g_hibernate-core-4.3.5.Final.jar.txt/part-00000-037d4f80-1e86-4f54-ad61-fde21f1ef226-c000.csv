@@ -1,0 +1,5 @@
+org/hibernate/bytecode/buildtime/spi/AbstractInstrumenter/processJarFile(java.io.File,java.util.Set)@g_hibernate-core-4.3.6.Final.jar.txt	4
+org/hibernate/bytecode/buildtime/spi/AbstractInstrumenter/processClassFile(java.io.File,java.util.Set)@g_hibernate-core-4.3.6.Final.jar.txt	0
+org/hibernate/tool/enhance/EnhancementTask/writeEnhancedClass(java.io.File,byte[])@g_hibernate-core-4.3.6.Final.jar.txt	3
+org/hibernate/bytecode/buildtime/spi/AbstractInstrumenter/2/handleEntry(java.util.zip.ZipEntry,byte[])@g_hibernate-core-4.3.6.Final.jar.txt	2
+org/hibernate/bytecode/buildtime/spi/AbstractInstrumenter/processClassFile(java.io.File,java.util.Set)@g_hibernate-core-4.3.10.Final.jar.txt	1

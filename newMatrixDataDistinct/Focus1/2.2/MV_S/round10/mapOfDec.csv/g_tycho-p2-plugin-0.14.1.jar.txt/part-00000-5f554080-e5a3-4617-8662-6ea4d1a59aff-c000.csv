@@ -1,0 +1,5 @@
+org/apache/maven/plugin/deploy/DeployFileMojo/execute()@g_maven-deploy-plugin-2.8.2.jar.txt	0
+org/eclipse/tycho/packaging/ProductExportMojo/includeRootFiles(org.eclipse.tycho.core.shared.TargetEnvironment,java.io.File)@g_tycho-packaging-plugin-0.23.1.jar.txt	2
+org/apache/maven/plugin/deploy/HelpMojo/execute()@g_maven-deploy-plugin-2.8.2.jar.txt	1
+org/eclipse/tycho/packaging/ProductExportMojo/handleRootEntry(java.io.File,java.lang.String,java.lang.String)@g_tycho-packaging-plugin-0.23.1.jar.txt	3
+org/apache/maven/plugin/deploy/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-deploy-plugin-2.8.2.jar.txt	4

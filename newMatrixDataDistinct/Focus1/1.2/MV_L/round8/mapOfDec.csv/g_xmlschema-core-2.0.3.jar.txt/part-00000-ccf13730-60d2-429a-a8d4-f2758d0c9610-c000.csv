@@ -1,0 +1,5 @@
+org/apache/ws/commons/schema/SchemaBuilder/processExtensibilityComponents(org.apache.ws.commons.schema.XmlSchemaObject,org.w3c.dom.Element,boolean)@g_xmlschema-core-2.2.2.jar.txt	4
+org/apache/ws/commons/schema/XmlSchemaSerializer/appendElement(org.w3c.dom.Document,org.w3c.dom.Element,org.w3c.dom.Node,org.apache.ws.commons.schema.XmlSchema)@g_xmlschema-core-2.2.2.jar.txt	3
+com/jamesmurty/utils/XMLBuilder/toWriter(boolean,java.io.Writer,java.util.Properties)@g_java-xmlbuilder-1.0.jar.txt	1
+org/apache/ws/commons/schema/XmlSchema/serializeInternal(java.io.Writer,java.util.Map)@g_xmlschema-core-2.2.2.jar.txt	0
+org/apache/ws/commons/schema/XmlSchemaSerializer/serializeSchemaElement(org.apache.ws.commons.schema.XmlSchema,boolean)@g_xmlschema-core-2.2.2.jar.txt	2

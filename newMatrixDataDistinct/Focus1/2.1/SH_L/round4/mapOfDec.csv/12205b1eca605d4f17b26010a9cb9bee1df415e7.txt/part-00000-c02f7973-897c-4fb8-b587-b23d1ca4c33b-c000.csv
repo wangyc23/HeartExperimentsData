@@ -1,0 +1,5 @@
+org/streaminer/util/hash/Hash/parseHashType(java.lang.String)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	1
+org/streaminer/stream/classifier/bayes/NaiveBayesWOP/learn(org.streaminer.stream.data.Data)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	2
+org/streaminer/stream/classifier/bayes/NaiveBayes/learn(org.streaminer.stream.data.Data)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	0
+net/minecraft/entity/monster/EntityGhast/aD()@14f6608a90fb836559ebffb5611b892dfd24911c.txt	4
+org/streaminer/stream/classifier/tree/LeafNode/toString(int)@14f6608a90fb836559ebffb5611b892dfd24911c.txt	3

@@ -1,0 +1,4 @@
+java/lang/StringBuffer/toString()
+java/lang/String/substring(int,int)
+java/lang/String/lastIndexOf(int)
+java/lang/StringBuffer/append(java.lang.String)

@@ -1,0 +1,5 @@
+org/jvnet/mjiip/v_2/OptionsFactory/createOptions(org.jvnet.jaxb2.maven2.OptionsConfiguration)@g_maven-jaxb2-plugin-0.7.5.jar.txt	0
+org/jacoco/maven/MergeMojo/load(org.jacoco.core.tools.ExecFileLoader)@g_jacoco-maven-plugin-0.7.5.201505241946.jar.txt	4
+org/jacoco/maven/InstrumentMojo/executeMojo()@g_jacoco-maven-plugin-0.7.5.201505241946.jar.txt	3
+org/jacoco/maven/AbstractAgentMojo/executeMojo()@g_jacoco-maven-plugin-0.7.5.201505241946.jar.txt	2
+org/jacoco/maven/AbstractReportMojo/executeReport(java.util.Locale)@g_jacoco-maven-plugin-0.7.5.201505241946.jar.txt	1

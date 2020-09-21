@@ -1,0 +1,5 @@
+org/elasticsearch/percolator/TransportMultiPercolateAction/doExecute(org.elasticsearch.percolator.MultiPercolateRequest,org.elasticsearch.action.ActionListener)@g_percolator-client-5.2.2.jar.txt	0
+org/elasticsearch/index/reindex/RestReindexAction/extractStringStringMap(java.util.Map,java.lang.String)@g_percolator-client-5.2.2.jar.txt	4
+org/elasticsearch/index/reindex/TransportReindexAction/lambda$buildRestClient$2(org.elasticsearch.index.reindex.remote.RemoteInfo,long,java.util.List,org.apache.http.impl.nio.client.HttpAsyncClientBuilder)@g_percolator-client-5.2.2.jar.txt	2
+org/elasticsearch/percolator/TransportMultiPercolateAction/createMultiSearchRequest(org.elasticsearch.percolator.MultiPercolateRequest,java.util.Map,java.util.Map)@g_percolator-client-5.2.2.jar.txt	3
+org/elasticsearch/percolator/PercolatorFieldMapper/verifyQuery(org.elasticsearch.index.query.QueryBuilder)@g_percolator-client-5.2.2.jar.txt	1

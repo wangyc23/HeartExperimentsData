@@ -1,0 +1,5 @@
+org/activiti/bpmn/converter/parser/InterfaceParser/parse(javax.xml.stream.XMLStreamReader,org.activiti.bpmn.model.BpmnModel)@g_activiti-bpmn-converter-6.0.0.Beta1.jar.txt	2
+org/activiti/bpmn/converter/ScriptTaskXMLConverter/convertXMLToElement(javax.xml.stream.XMLStreamReader,org.activiti.bpmn.model.BpmnModel)@g_activiti-bpmn-converter-6.0.0.Beta1.jar.txt	1
+org/activiti/bpmn/converter/UserTaskXMLConverter/convertXMLToElement(javax.xml.stream.XMLStreamReader,org.activiti.bpmn.model.BpmnModel)@g_activiti-bpmn-converter-6.0.0.Beta1.jar.txt	4
+org/activiti/bpmn/converter/parser/DefinitionsParser/parse(javax.xml.stream.XMLStreamReader,org.activiti.bpmn.model.BpmnModel)@g_activiti-bpmn-converter-6.0.0.Beta1.jar.txt	3
+org/activiti/bpmn/converter/child/ActivitiMapExceptionParser/parseChildElement(javax.xml.stream.XMLStreamReader,org.activiti.bpmn.model.BaseElement,org.activiti.bpmn.model.BpmnModel)@g_activiti-bpmn-converter-6.0.0.Beta1.jar.txt	0

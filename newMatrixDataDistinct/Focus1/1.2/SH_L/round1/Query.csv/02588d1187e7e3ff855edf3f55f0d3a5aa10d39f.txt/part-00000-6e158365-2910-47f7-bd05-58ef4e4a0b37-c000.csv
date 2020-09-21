@@ -1,0 +1,4 @@
+java/lang/Character/toLowerCase(char)
+java/lang/String/length()
+java/lang/StringBuilder/StringBuilder(int)
+java/lang/StringBuilder/append(char)

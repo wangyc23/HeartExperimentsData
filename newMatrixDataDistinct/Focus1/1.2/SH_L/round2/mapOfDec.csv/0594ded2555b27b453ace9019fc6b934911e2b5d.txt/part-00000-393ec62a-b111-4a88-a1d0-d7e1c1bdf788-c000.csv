@@ -1,0 +1,5 @@
+io/milton/ldap/LdapUtils/convertLdapToContactReturningAttributes(java.util.Set)@20caa4b30fa46dd597beb03595e152f2da55b899.txt	2
+com/myastronomy/model/UniverseDao/addGalaxy(java.lang.String)@20caa4b30fa46dd597beb03595e152f2da55b899.txt	4
+io/milton/http/caldav/ExpandPropertyReport/parseChildren(io.milton.httpclient.Element)@20caa4b30fa46dd597beb03595e152f2da55b899.txt	1
+com/myastronomy/model/UniverseDao/SolarSystem/addPlanet(java.lang.String)@20caa4b30fa46dd597beb03595e152f2da55b899.txt	3
+io/milton/ldap/LdapPropertyMapper/mapProperties(boolean,java.util.Set,io.milton.resource.PropFindableResource)@20caa4b30fa46dd597beb03595e152f2da55b899.txt	0

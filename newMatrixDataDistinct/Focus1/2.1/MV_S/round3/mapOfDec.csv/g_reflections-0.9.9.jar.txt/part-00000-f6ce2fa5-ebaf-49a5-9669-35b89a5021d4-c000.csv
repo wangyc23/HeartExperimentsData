@@ -1,0 +1,5 @@
+org/reflections/serializers/JavaCodeSerializer/resolveMethod(java.lang.Class)@g_reflections-0.9.9-RC2.jar.txt	2
+org/reflections/Reflections/scan(java.net.URL)@g_reflections-0.9.9-RC2.jar.txt	0
+org/reflections/serializers/JavaCodeSerializer/resolveClassOf(java.lang.Class)@g_reflections-0.9.9-RC2.jar.txt	1
+org/reflections/serializers/JavaCodeSerializer/toString(org.reflections.Reflections)@g_reflections-0.9.9-RC2.jar.txt	3
+org/reflections/serializers/XmlSerializer/read(java.io.InputStream)@g_reflections-0.9.9-RC2.jar.txt	4

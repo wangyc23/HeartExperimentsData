@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/util/WebappStructureSerializer/toXml(org.apache.maven.plugin.war.util.WebappStructure,java.io.File)@g_maven-war-plugin-2.6.jar.txt	4
+org/apache/maven/plugin/war/WarManifestMojo/execute()@g_maven-war-plugin-2.4.jar.txt	1
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handeWebAppSourceDirectory(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.6.jar.txt	2
+org/apache/maven/plugin/war/WarManifestMojo/execute()@g_maven-war-plugin-2.6.jar.txt	0
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.6.jar.txt	3

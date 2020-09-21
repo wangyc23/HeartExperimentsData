@@ -1,0 +1,5 @@
+org/topbraid/spin/util/RelevantProperties/getRelevantPropertiesOfClass(com.hp.hpl.jena.rdf.model.Resource)@g_spin-1.5.0-20150112.084011-1.jar.txt	2
+org/topbraid/spin/util/SPLUtil/addDefaultValuesForType(com.hp.hpl.jena.rdf.model.Resource,java.util.Map,java.util.Set)@g_spin-1.5.0-20150112.084011-1.jar.txt	4
+org/topbraid/spin/util/JenaUtil/hasIndirectType(com.hp.hpl.jena.rdf.model.Resource,com.hp.hpl.jena.rdf.model.Resource)@g_spin-1.5.0-20150112.084011-1.jar.txt	3
+org/topbraid/spin/inference/SPINInferences/runCommandOnClass(org.topbraid.spin.util.CommandWrapper,java.lang.String,com.hp.hpl.jena.rdf.model.Model,com.hp.hpl.jena.rdf.model.Model,com.hp.hpl.jena.rdf.model.Resource,boolean,java.util.Map,java.util.List,org.topbraid.spin.inference.SPINExplanations,java.lang.String,java.util.Set,boolean,org.topbraid.spin.progress.ProgressMonitor)@g_spin-1.5.0-20150112.084011-1.jar.txt	1
+org/topbraid/spin/model/impl/FunctionCallImpl/getFunction()@g_spin-1.5.0-20150112.084011-1.jar.txt	0

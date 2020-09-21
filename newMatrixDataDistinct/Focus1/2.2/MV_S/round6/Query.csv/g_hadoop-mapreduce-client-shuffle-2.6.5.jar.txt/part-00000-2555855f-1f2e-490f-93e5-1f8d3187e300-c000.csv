@@ -1,0 +1,4 @@
+org/apache/hadoop/mapred/proto/ShuffleHandlerRecoveryProtos$JobShuffleInfoProto/access$700(org.apache.hadoop.mapred.proto.ShuffleHandlerRecoveryProtos$JobShuffleInfoProto)
+org/apache/hadoop/mapred/proto/ShuffleHandlerRecoveryProtos$JobShuffleInfoProto$Builder/mergeJobToken(org.apache.hadoop.security.proto.SecurityProtos$TokenProto)
+org/apache/hadoop/mapred/proto/ShuffleHandlerRecoveryProtos$JobShuffleInfoProto/getJobToken()
+org/apache/hadoop/mapred/proto/ShuffleHandlerRecoveryProtos$JobShuffleInfoProto/hasJobToken()

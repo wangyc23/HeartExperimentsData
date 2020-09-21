@@ -1,0 +1,4 @@
+java/lang/ClassLoader/getResource(java.lang.String)
+java/net/URL/getFile()
+java/io/File/File(java.lang.String)
+java/io/FileReader/FileReader(java.io.File)

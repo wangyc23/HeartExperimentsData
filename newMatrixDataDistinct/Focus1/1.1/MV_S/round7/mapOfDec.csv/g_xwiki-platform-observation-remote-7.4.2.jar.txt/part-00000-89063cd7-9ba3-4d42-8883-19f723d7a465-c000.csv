@@ -1,0 +1,5 @@
+org/eclipse/jgit/internal/storage/pack/PackWriter/writeDeltaObjectDeflate(org.eclipse.jgit.internal.storage.pack.PackOutputStream,org.eclipse.jgit.internal.storage.pack.ObjectToPack)@g_org.eclipse.jgit-4.8.0.201705170830-rc1.jar.txt	3
+org/eclipse/jgit/util/FS/readPipe(java.io.File,java.lang.String[],java.lang.String,java.util.Map)@g_org.eclipse.jgit-4.8.0.201705170830-rc1.jar.txt	1
+org/eclipse/jgit/internal/storage/dfs/DfsPackFile/copyAsIs(org.eclipse.jgit.internal.storage.pack.PackOutputStream,org.eclipse.jgit.internal.storage.dfs.DfsObjectToPack,boolean,org.eclipse.jgit.internal.storage.dfs.DfsReader)@g_org.eclipse.jgit-4.8.0.201705170830-rc1.jar.txt	4
+org/eclipse/jgit/internal/ketch/KetchLeader/onReplicaUpdate(org.eclipse.jgit.internal.ketch.KetchReplica)@g_org.eclipse.jgit-4.8.0.201705170830-rc1.jar.txt	2
+org/eclipse/jgit/internal/ketch/ElectionRound/bumpTerm(org.eclipse.jgit.lib.Repository,org.eclipse.jgit.util.time.ProposedTimestamp,org.eclipse.jgit.lib.ObjectInserter)@g_org.eclipse.jgit-4.8.0.201705170830-rc1.jar.txt	0

@@ -1,0 +1,5 @@
+org/springframework/boot/loader/tools/MainClassFinder/getClassEntries(java.util.jar.JarFile,java.lang.String)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	1
+org/springframework/boot/launchscript/SysVinitLaunchScriptIT/parameters()@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	3
+sample/jooq/domain/DefaultCatalog/getSchemas()@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	2
+org/springframework/boot/bind/RelaxedDataBinder/extendCollectionIfNecessary(org.springframework.boot.bind.BeanWrapper,org.springframework.boot.bind.RelaxedDataBinder.BeanPath,int)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	4
+org/springframework/boot/cli/compiler/maven/MavenSettings/determineActiveProfiles(org.springframework.boot.autoconfigure.jooq.Settings)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	0

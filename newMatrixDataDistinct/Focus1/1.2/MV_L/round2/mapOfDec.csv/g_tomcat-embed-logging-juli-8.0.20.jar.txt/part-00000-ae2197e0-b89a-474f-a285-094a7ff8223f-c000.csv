@@ -1,0 +1,5 @@
+org/apache/juli/ClassLoaderLogManager/readConfiguration(java.lang.ClassLoader)@g_tomcat-embed-logging-juli-8.0.23.jar.txt	3
+org/apache/juli/FileHandler/openWriter()@g_tomcat-embed-logging-juli-8.0.26.jar.txt	1
+org/apache/juli/FileHandler/openWriter()@g_tomcat-embed-logging-juli-8.0.23.jar.txt	0
+org/apache/juli/FileHandler/closeWriter()@g_tomcat-embed-logging-juli-8.0.23.jar.txt	4
+org/apache/juli/FileHandler/publish(java.util.logging.LogRecord)@g_tomcat-embed-logging-juli-8.0.23.jar.txt	2

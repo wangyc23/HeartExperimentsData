@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/lang/StringBuffer/append(char)
+com/sun/star/uno/TypeClass/getValue()
+java/lang/String/substring(int,int)

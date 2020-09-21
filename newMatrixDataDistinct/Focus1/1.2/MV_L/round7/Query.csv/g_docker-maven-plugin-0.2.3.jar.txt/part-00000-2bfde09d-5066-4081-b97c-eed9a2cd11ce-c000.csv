@@ -1,0 +1,4 @@
+com/google/common/collect/Ordering/sortedCopy(java.lang.Iterable)
+java/nio/file/Files/write(java.nio.file.Path,java.lang.Iterable,java.nio.charset.Charset,java.nio.file.OpenOption[])
+java/util/Iterator/hasNext()
+com/google/common/collect/Ordering/natural()

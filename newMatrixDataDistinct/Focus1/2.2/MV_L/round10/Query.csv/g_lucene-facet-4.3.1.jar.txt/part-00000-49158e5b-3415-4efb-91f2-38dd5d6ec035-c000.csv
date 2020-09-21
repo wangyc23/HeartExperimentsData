@@ -1,0 +1,4 @@
+org/apache/lucene/index/IndexReader/leaves()
+org/apache/lucene/index/AtomicReader/getLiveDocs()
+org/apache/lucene/util/FixedBitSet/clear(int)
+java/util/Iterator/next()

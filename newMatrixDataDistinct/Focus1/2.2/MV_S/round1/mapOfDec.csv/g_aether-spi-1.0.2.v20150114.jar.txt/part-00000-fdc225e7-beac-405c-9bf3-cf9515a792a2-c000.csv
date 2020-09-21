@@ -1,0 +1,5 @@
+net/java/truevfs/kernel/spec/FsNodePath/parse(java.net.URI,net.java.truevfs.kernel.spec.FsUriModifier)@g_truevfs-kernel-spec-0.11.0.jar.txt	2
+net/java/truevfs/kernel/spec/FsArchiveEntries/toString(net.java.truevfs.kernel.spec.FsArchiveEntry)@g_truevfs-kernel-spec-0.11.0.jar.txt	3
+net/java/truevfs/kernel/spec/FsNodeName/parse(java.net.URI)@g_truevfs-kernel-spec-0.11.0.jar.txt	4
+net/java/truevfs/kernel/spec/FsNodePath/toHierarchicalUri()@g_truevfs-kernel-spec-0.11.0.jar.txt	1
+net/java/truevfs/kernel/spec/FsMountPoint/parse(java.net.URI,net.java.truevfs.kernel.spec.FsUriModifier)@g_truevfs-kernel-spec-0.11.0.jar.txt	0

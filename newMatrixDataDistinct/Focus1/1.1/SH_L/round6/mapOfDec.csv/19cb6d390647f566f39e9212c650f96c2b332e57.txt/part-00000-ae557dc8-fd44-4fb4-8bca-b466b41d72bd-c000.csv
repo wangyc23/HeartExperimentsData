@@ -1,0 +1,5 @@
+jp/ac/shinshu/u/ealps/portal/dao/adb2/RelationDAO/selectRelationCourseBeanList(java.lang.String,int)@2e9cf83834e195e9c50b1e1bb8f9e8230f65b93b.txt	0
+jp/ac/shinshu/u/ealps/portal/dao/adb2/SiteInfoDAO/selectCommonSiteInfoList()@2e9cf83834e195e9c50b1e1bb8f9e8230f65b93b.txt	4
+jp/ac/shinshu/u/ealps/portal/service/UtilityService/getYearList()@2e9cf83834e195e9c50b1e1bb8f9e8230f65b93b.txt	1
+jp/ac/shinshu/u/ealps/portal/dao/adb2/SiteInfoDAO/selectSiteInfoList(int)@2e9cf83834e195e9c50b1e1bb8f9e8230f65b93b.txt	3
+jp/ac/shinshu/u/ealps/portal/dao/adb2/PortalInformationDAO/selectPortalInformationList()@2e9cf83834e195e9c50b1e1bb8f9e8230f65b93b.txt	2

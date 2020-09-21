@@ -1,0 +1,4 @@
+org/apache/lucene/analysis/TokenStream/end()
+java/lang/String/split(java.lang.String)
+java/lang/String/length()
+org/w3c/dom/Element/getAttribute(java.lang.String)

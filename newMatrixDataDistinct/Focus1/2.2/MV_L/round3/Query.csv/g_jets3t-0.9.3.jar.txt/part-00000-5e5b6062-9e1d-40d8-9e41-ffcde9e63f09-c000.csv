@@ -1,0 +1,4 @@
+javax/swing/JTextField/setName(java.lang.String)
+javax/swing/JTextField/setToolTipText(java.lang.String)
+org/jets3t/gui/JHtmlLabel/setHorizontalAlignment(int)
+javax/swing/JPasswordField/setName(java.lang.String)

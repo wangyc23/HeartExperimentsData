@@ -1,0 +1,5 @@
+com/squareup/okhttp/mockwebserver/MockWebServer/SpdySocketHandler/pushPromises(com.squareup.okhttp.internal.spdy.SpdyStream,java.util.List)@2ea5f78d52daf68d6bc162a7bbfb166ad29aee90.txt	0
+com/squareup/okhttp/mockwebserver/MockWebServer/writeHttpResponse(java.net.Socket,com.squareup.okhttp.mockwebserver.BufferedSink,com.squareup.okhttp.mockwebserver.MockResponse)@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	1
+com/squareup/okhttp/internal/spdy/HpackDraft08/Reader/readLiteralHeaderWithoutIndexingIndexedName(int)@2ea5f78d52daf68d6bc162a7bbfb166ad29aee90.txt	4
+com/squareup/okhttp/internal/spdy/NameValueBlockReader/readNameValueBlock(int)@2ea5f78d52daf68d6bc162a7bbfb166ad29aee90.txt	3
+com/squareup/okhttp/mockwebserver/MockWebServer/FramedSocketHandler/writeResponse(com.squareup.okhttp.internal.framed.FramedStream,com.squareup.okhttp.mockwebserver.MockResponse)@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	2

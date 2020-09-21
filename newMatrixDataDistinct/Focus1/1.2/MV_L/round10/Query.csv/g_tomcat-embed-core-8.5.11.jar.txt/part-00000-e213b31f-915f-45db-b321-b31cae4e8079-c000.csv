@@ -1,0 +1,4 @@
+java/net/URI/normalize()
+java/net/URI/URI(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/net/URI/toString()

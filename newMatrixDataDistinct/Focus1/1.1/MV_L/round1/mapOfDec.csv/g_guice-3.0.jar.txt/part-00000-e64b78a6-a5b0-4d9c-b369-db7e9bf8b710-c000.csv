@@ -1,0 +1,5 @@
+com/google/inject/internal/cglib/proxy/MethodInterceptorGenerator/superHelper(com.google.inject.internal.cglib.core.$CodeEmitter,com.google.inject.internal.cglib.core.$MethodInfo,com.google.inject.internal.cglib.proxy.$CallbackGenerator$Context)@g_guice-4.0.jar.txt	1
+com/google/inject/internal/cglib/proxy/MethodInterceptorGenerator/superHelper(com.google.inject.internal.cglib.core.$CodeEmitter,com.google.inject.internal.cglib.core.$MethodInfo,com.google.inject.internal.cglib.proxy.$CallbackGenerator$Context)@g_sisu-guice-3.1.0.jar.txt	4
+com/google/inject/internal/cglib/proxy/Enhancer/emitNewInstanceCallback(com.google.inject.internal.cglib.core.$ClassEmitter)@g_sisu-guice-3.1.0.jar.txt	3
+com/google/inject/internal/cglib/proxy/Enhancer/emitNewInstanceCallback(com.google.inject.internal.cglib.core.$ClassEmitter)@g_guice-4.0.jar.txt	0
+com/google/inject/internal/cglib/reflect/FastClassEmitter/invokeSwitchHelper(com.google.inject.internal.cglib.core.$CodeEmitter,java.util.List,int,com.google.inject.internal.asm.$Type)@g_guice-4.0.jar.txt	2

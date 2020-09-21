@@ -1,0 +1,5 @@
+org/apache/sis/util/collection/RangeSet/equals(java.lang.Object)@g_google-collect-snapshot-20080530.jar.txt	4
+org/apache/sis/util/resources/IndexedResourceBundle/ensureLoaded(java.lang.String)@g_google-collect-snapshot-20080530.jar.txt	0
+org/apache/sis/io/LineAppender/write(int)@g_google-collect-snapshot-20080530.jar.txt	3
+javax/enterprise/util/AnnotationLiteral/getMembers()@g_google-collect-snapshot-20080530.jar.txt	1
+org/apache/sis/util/logging/MonolineFormatter/format(java.util.logging.LogRecord)@g_google-collect-snapshot-20080530.jar.txt	2

@@ -1,0 +1,4 @@
+0	java/io/PrintStream/println(java.lang.String)
+1	org/commonjava/maven/galley/maven/model/view/MavenPomView/resolveExpressions(java.lang.String,java.lang.String[])
+2	org/baeldung/persistence/model/Foo/getId()
+3	org/baeldung/persistence/model/Foo/getName()

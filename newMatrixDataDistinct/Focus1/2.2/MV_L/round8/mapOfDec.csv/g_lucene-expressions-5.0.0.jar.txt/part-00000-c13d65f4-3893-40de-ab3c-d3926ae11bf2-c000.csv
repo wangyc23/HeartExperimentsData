@@ -1,0 +1,5 @@
+com/github/sommeri/less4j/utils/LessPrinter/toVariablesString(java.util.List)@g_less4j-1.15.4.jar.txt	0
+com/github/sommeri/less4j/utils/URIUtils/getRelativePath(java.lang.String,java.lang.String,java.lang.String)@g_less4j-1.15.4.jar.txt	2
+com/github/sommeri/less4j/core/compiler/expressions/strings/AbstractStringReplacer/replacementRound(java.lang.String,java.lang.Object,com.github.sommeri.less4j.core.parser.HiddenTokenAwareTree)@g_less4j-1.15.4.jar.txt	4
+com/github/sommeri/less4j/js/JsRegExp/compile(java.lang.String,java.lang.String)@g_less4j-1.15.4.jar.txt	3
+com/github/sommeri/less4j/utils/Base64/decode(byte[],int,int,int)@g_less4j-1.15.4.jar.txt	1

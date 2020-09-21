@@ -1,0 +1,5 @@
+ch/randelshofer/media/jpeg/CMYKJPEGImageReader/readRGBAImageFromRGBA(java.io.InputStream,java.awt.color.ICC_Profile)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	1
+com/adobe/acs/commons/wcm/impl/ComponentErrorHandlerImpl/doFilter(com.adobe.acs.commons.wcm.impl.ServletRequest,com.adobe.acs.commons.wcm.impl.ServletResponse,com.adobe.acs.commons.wcm.impl.FilterChain)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	2
+org/eclipse/smarthome/automation/internal/commands/CommandlineModuleTypeProvider/remove(java.net.URL)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	0
+org/eclipse/smarthome/core/internal/items/ItemRegistryImpl/getItemsOfType(java.lang.String)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	3
+com/bi/corelog/util/PlatFormatUtil/convertClientFlag(java.lang.String)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	4

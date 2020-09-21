@@ -1,0 +1,5 @@
+anatlyzer/atl/util/ATLUtils/replacePathTag(anatlyzer.atl.model.ATLModel,java.lang.String,java.lang.String,java.lang.String)@g_typing-1.0.1.jar.txt	3
+org/eclipse/m2m/atl/engine/parser/AtlSourceManager/parseMetamodels(java.lang.String)@g_engine-3.4.0.jar.txt	0
+anatlyzer/atl/util/AnalyserUtils/prepare(anatlyzer.atl.model.ATLModel,anatlyzer.atl.util.AnalyserUtils$IAtlFileLoader)@g_typing-1.0.1.jar.txt	2
+anatlyzer/atl/util/ATLUtils/getModelInfo(anatlyzer.atl.model.ATLModel)@g_typing-1.0.1.jar.txt	1
+anatlyzer/atl/util/IgnoredProblems/findIgnoredProblems(anatlyzer.atlext.ATL.Unit)@g_typing-1.0.1.jar.txt	4

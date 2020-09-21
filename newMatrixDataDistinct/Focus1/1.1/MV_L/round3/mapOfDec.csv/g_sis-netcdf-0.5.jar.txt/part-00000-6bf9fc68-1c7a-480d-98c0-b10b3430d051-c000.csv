@@ -1,0 +1,5 @@
+org/apache/sis/io/wkt/Formatter/append(org.apache.sis.io.wkt.FormattableObject)@g_sis-metadata-0.6.jar.txt	2
+org/apache/sis/internal/netcdf/impl/Attribute/dateToISO(java.lang.String)@g_sis-netcdf-0.6.jar.txt	0
+org/apache/sis/io/wkt/GeodeticObjectParser/parseAxis(int,org.apache.sis.io.wkt.Element,java.lang.String,javax.measure.unit.Unit)@g_sis-metadata-0.6.jar.txt	4
+org/apache/sis/io/wkt/GeodeticObjectParser/parseCoordinateSystem(org.apache.sis.io.wkt.Element,java.lang.String,int,boolean,javax.measure.unit.Unit,org.opengis.referencing.datum.Datum)@g_sis-metadata-0.6.jar.txt	3
+org/apache/sis/internal/netcdf/impl/ChannelDecoder/ensureBufferContains(int,int,java.lang.String)@g_sis-netcdf-0.6.jar.txt	1

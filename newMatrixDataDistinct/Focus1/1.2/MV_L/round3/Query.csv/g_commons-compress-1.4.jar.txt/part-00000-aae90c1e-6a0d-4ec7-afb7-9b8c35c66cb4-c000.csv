@@ -1,0 +1,4 @@
+java/nio/charset/CoderResult/isOverflow()
+java/nio/ByteBuffer/position()
+java/nio/charset/CoderResult/isUnmappable()
+java/nio/charset/Charset/newEncoder()

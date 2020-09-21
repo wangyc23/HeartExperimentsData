@@ -1,0 +1,4 @@
+scala/collection/Traversable/collect(scala.PartialFunction,scala.collection.generic.CanBuildFrom)
+scala/collection/immutable/$colon$colon/tl$1()
+java/lang/Object/equals(java.lang.Object)
+scala/collection/immutable/$colon$colon/hd$1()

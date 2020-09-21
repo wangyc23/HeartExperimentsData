@@ -1,0 +1,5 @@
+org/apache/maven/project/DefaultMavenProjectBuilder/createManagedVersionMap(java.lang.String,org.apache.maven.model.DependencyManagement)@g_maven-project-2.0.4.jar.txt	2
+org/apache/maven/project/validation/DefaultModelValidator/validate(org.apache.maven.model.Model)@g_maven-project-2.0.4.jar.txt	1
+org/apache/maven/project/artifact/MavenMetadataSource/createArtifacts(org.apache.maven.artifact.factory.ArtifactFactory,java.util.List,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.project.MavenProject)@g_maven-project-2.0.4.jar.txt	4
+org/apache/maven/project/injection/DefaultModelDefaultsInjector/mergeDependencyWithDefaults(org.apache.maven.model.Dependency,org.apache.maven.model.Dependency)@g_maven-project-2.0.4.jar.txt	3
+org/apache/maven/project/ModelUtils/cloneProfileDependencies(java.util.List)@g_maven-project-2.0.4.jar.txt	0

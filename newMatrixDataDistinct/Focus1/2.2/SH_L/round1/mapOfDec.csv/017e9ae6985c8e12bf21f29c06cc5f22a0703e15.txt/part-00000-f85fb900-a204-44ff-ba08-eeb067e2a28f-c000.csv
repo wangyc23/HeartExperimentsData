@@ -1,0 +1,5 @@
+io/netty/example/http/websocketx/autobahn/AutobahnServerHandler/handleWebSocketFrame(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.websocketx.WebSocketFrame)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	2
+io/netty/example/http/websocketx/sslserver/WebSocketSslServerHandler/handleWebSocketFrame(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.websocketx.WebSocketFrame)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	1
+io/netty/example/http/websocketx/server/WebSocketServerHandler/handleWebSocketFrame(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.websocketx.WebSocketFrame)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	0
+io/netty/handler/codec/http/websocketx/WebSocketServerHandshaker/handshake(io.netty.channel.Channel,io.netty.handler.codec.http.FullHttpRequest,io.netty.handler.codec.http.HttpHeaders,io.netty.channel.ChannelPromise)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	3
+io/netty/buffer/AbstractByteBuf/checkIndex(int,int)@2297c3ff8d6ea49dbc8e6761923fd9d23083a709.txt	4

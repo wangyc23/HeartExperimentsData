@@ -1,0 +1,5 @@
+org/apache/lucene/bkdtree/BKDTreeReader/intersect(org.apache.lucene.bkdtree.BKDTreeReader$QueryState,int,int,int,int,int)@g_lucene-spatial-6.4.1.jar.txt	1
+org/apache/lucene/spatial/geopoint/search/GeoPointInBBoxQueryImpl/toString(java.lang.String)@g_lucene-spatial-6.4.1.jar.txt	0
+org/apache/lucene/spatial/prefix/HeatmapFacetCounter/calcFacets(org.apache.lucene.spatial.prefix.PrefixTreeStrategy,org.apache.lucene.index.IndexReaderContext,org.apache.lucene.util.Bits,org.locationtech.spatial4j.shape.Shape,int,int)@g_lucene-spatial-6.4.1.jar.txt	2
+org/apache/lucene/search/GeoPointTermQueryConstantScoreWrapper/1/getDocIDs(org.apache.lucene.index.LeafReaderContext)@g_lucene-spatial-6.4.1.jar.txt	3
+org/apache/lucene/spatial/prefix/AbstractVisitingPrefixTreeQuery/VisitorTemplate/getDocIdSet()@g_lucene-spatial-6.4.1.jar.txt	4

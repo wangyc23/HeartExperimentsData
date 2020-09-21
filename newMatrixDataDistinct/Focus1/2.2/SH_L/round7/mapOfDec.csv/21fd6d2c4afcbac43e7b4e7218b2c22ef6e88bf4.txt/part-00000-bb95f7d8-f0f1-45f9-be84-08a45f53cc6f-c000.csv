@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/thrift/generated/Hbase/getColumnDescriptors_result/write(org.apache.hadoop.hbase.thrift.generated.TProtocol)@178304f8a5eced8a7a1715859086d23429f71a2c.txt	4
+se/sics/kompics/network/netty/ChannelManager/printStuff()@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	1
+se/sics/kompics/network/netty/serialization/Serializers/printRules()@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	2
+se/sics/kompics/JavaPort/cleanChannels()@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	0
+org/apache/hadoop/hbase/client/Put/heapSize()@178304f8a5eced8a7a1715859086d23429f71a2c.txt	3

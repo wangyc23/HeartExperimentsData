@@ -1,0 +1,5 @@
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-security-core-3.2.3.RELEASE.jar.txt	1
+org/springframework/jdbc/core/metadata/TableMetaDataContext/matchInParameterValuesWithInsertColumns(java.util.Map)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/acls/domain/DefaultPermissionFactory/registerPermission(org.springframework.security.acls.model.Permission,java.lang.String)@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/jdbc/object/BatchSqlUpdate/update(java.lang.Object[])@g_spring-security-core-3.2.3.RELEASE.jar.txt	2
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-security-core-3.2.3.RELEASE.jar.txt	0

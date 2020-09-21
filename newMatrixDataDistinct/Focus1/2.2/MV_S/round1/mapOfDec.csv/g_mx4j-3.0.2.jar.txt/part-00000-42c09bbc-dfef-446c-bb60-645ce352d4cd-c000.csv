@@ -1,0 +1,5 @@
+org/carrot2/util/attribute/AttributeBinder/AttributeBinderActionBind/performAction(org.carrot2.util.attribute.AttributeBinder$BindingTracker,int,java.lang.Object,java.lang.reflect.Field,java.lang.Object,com.google.common.base.Predicate)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/ClassUtils/<clinit>()@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/velocity/runtime/parser/node/ASTNENode/evaluate(org.carrot2.util.preprocessor.shaded.apache.velocity.context.InternalContextAdapter)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/FastHashMap/equals(java.lang.Object)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/velocity/runtime/parser/node/ASTEQNode/evaluate(org.carrot2.util.preprocessor.shaded.apache.velocity.context.InternalContextAdapter)@g_attributes-processor-1.0.1.jar.txt	4

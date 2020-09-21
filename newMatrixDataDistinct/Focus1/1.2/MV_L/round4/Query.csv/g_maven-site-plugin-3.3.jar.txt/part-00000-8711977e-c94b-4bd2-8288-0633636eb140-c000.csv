@@ -1,0 +1,4 @@
+org/apache/maven/doxia/tools/SiteTool/getAvailableLocales(java.lang.String)
+java/util/Iterator/hasNext()
+org/apache/maven/plugins/site/SiteMojo/getLog()
+java/util/Collections/emptyList()

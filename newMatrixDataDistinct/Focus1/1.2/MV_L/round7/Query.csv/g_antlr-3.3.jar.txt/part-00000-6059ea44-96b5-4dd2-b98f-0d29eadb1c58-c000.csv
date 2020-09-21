@@ -1,0 +1,4 @@
+org/antlr/grammar/v3/ANTLRv3Parser/recover(org.antlr.runtime.IntStream,org.antlr.runtime.RecognitionException)
+org/antlr/grammar/v3/ANTLRv3Parser/match(org.antlr.runtime.IntStream,int,org.antlr.runtime.BitSet)
+org/antlr/runtime/tree/TreeAdaptor/rulePostProcessing(java.lang.Object)
+org/antlr/grammar/v3/ANTLRv3Parser$optionsSpec_return/getTree()

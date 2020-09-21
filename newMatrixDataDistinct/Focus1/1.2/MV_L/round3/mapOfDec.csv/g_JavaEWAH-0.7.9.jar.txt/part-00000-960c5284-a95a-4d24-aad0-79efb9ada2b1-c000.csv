@@ -1,0 +1,5 @@
+com/drew/tools/ProcessAllImagesInFolderUtility/UnknownTagHandler/onScanCompleted(java.io.PrintStream)@g_metadata-extractor-2.10.1.jar.txt	2
+com/drew/tools/ExtractJpegSegmentTool/saveSegmentFiles(java.lang.String,com.drew.imaging.jpeg.JpegSegmentData)@g_metadata-extractor-2.10.1.jar.txt	0
+com/drew/tools/ProcessAllImagesInFolderUtility/MarkdownTableOutputHandler/writeOutput(java.io.PrintStream)@g_metadata-extractor-2.10.1.jar.txt	3
+com/drew/metadata/png/PngDescriptor/getTextualDataDescription()@g_metadata-extractor-2.10.1.jar.txt	4
+opennlp/perceptron/PerceptronModelWriter/persist()@g_opennlp-maxent-3.0.3.jar.txt	1

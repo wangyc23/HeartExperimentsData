@@ -1,0 +1,5 @@
+org/eclipse/egit/github/core/service/StargazerService/createStarredRequest(java.lang.String,int,int)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	0
+org/eclipse/egit/github/core/service/TeamService/getTeams(org.eclipse.egit.github.core.IRepositoryIdProvider)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	3
+org/eclipse/egit/github/core/service/TeamService/getRepositories(int)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	2
+org/eclipse/egit/github/core/service/WatcherService/createWatchedRequest(java.lang.String,int,int)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	4
+org/eclipse/egit/github/core/service/CommitService/pageComments(org.eclipse.egit.github.core.IRepositoryIdProvider,java.lang.String,int,int)@g_org.eclipse.egit.github.core-4.8.0.201706111038-r.jar.txt	1

@@ -1,0 +1,4 @@
+org/neo4j/rest/graphdb/traversal/RestTraversal/getMaxDepthValueOrNull(org.neo4j.graphdb.traversal.PruneEvaluator)
+org/neo4j/rest/graphdb/traversal/RestTraversal/maxDepth(int)
+java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)
+org/neo4j/rest/graphdb/traversal/RestTraversal/add(java.lang.String,java.lang.Object)

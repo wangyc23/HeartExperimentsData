@@ -1,0 +1,5 @@
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parsePlugin(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser)@g_maven-model-2.0.jar.txt	2
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseBuild(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser)@g_maven-model-2.0.jar.txt	0
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseDependencyManagement(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser)@g_maven-model-2.0.jar.txt	1
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseRelocation(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser)@g_maven-model-2.0.jar.txt	3
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseActivationOS(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser)@g_maven-model-2.0.jar.txt	4

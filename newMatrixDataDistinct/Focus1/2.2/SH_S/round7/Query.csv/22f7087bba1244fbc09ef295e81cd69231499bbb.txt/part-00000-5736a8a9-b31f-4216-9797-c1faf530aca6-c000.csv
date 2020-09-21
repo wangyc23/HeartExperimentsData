@@ -1,0 +1,4 @@
+javax/persistence/TypedQuery/getResultList()
+javax/persistence/criteria/AbstractQuery/getRoots()
+javax/persistence/criteria/Path/get(java.lang.String)
+javax/persistence/EntityManager/getCriteriaBuilder()

@@ -1,0 +1,5 @@
+org/netlib/generate/JavaGenerator/parseParameterNames(java.lang.reflect.Method,java.lang.String)@g_hamcrest-core-1.1.jar.txt	1
+org/netlib/generate/JavaGenerator/createWrapper(java.lang.reflect.Method)@g_hamcrest-core-1.1.jar.txt	4
+org/hamcrest/core/DescribedAs/describeTo(org.hamcrest.Description)@g_hamcrest-core-1.1.jar.txt	3
+org/netlib/generate/JavaGenerator/getClasses(java.lang.String,org.netlib.generate.JavaGenerator$IClassFilter)@g_hamcrest-core-1.1.jar.txt	2
+org/netlib/generate/JavaGenerator/parseJavadocDescription(java.lang.reflect.Method,java.lang.String)@g_hamcrest-core-1.1.jar.txt	0

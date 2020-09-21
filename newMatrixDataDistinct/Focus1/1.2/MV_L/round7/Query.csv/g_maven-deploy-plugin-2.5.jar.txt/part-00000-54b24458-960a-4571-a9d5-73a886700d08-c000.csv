@@ -1,0 +1,4 @@
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/read(java.io.Reader)
+java/lang/StringBuffer/append(java.lang.Object)
+org/codehaus/plexus/util/ReaderFactory/newXmlReader(java.io.File)
+java/lang/StringBuffer/toString()

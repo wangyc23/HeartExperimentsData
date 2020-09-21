@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/resolvers/ListRepositoriesMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/GetMojo/execute()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/tree/TreeMojo/createVerboseDependencyNodeFilter()@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/maven/plugins/enforcer/EnforceMojo/execute()@g_maven-enforcer-plugin-1.3.1.jar.txt	0
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/reResolveArtifacts(org.apache.maven.project.MavenProject,java.util.Set,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-dependency-plugin-2.8.jar.txt	3

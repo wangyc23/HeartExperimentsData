@@ -1,0 +1,4 @@
+org/objectweb/asm/MethodVisitor/visitParameterAnnotation(int,java.lang.String,boolean)
+org/objectweb/asm/MethodVisitor/visitEnd()
+org/objectweb/asm/MethodVisitor/visitParameter(java.lang.String,int)
+java/util/List/size()

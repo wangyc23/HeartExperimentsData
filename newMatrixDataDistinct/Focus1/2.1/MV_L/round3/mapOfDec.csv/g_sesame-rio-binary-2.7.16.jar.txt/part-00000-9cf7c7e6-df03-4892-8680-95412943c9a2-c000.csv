@@ -1,0 +1,5 @@
+org/openrdf/sail/memory/config/MemoryStoreConfig/parse(org.openrdf.model.Graph,org.openrdf.model.Resource)@g_sesame-rio-trix-2.7.16.jar.txt	3
+org/openrdf/sail/memory/MemoryStore/initializeInternal()@g_sesame-rio-trix-2.7.16.jar.txt	1
+org/openrdf/rio/trix/TriXWriter/writeValue(org.openrdf.model.Value)@g_sesame-rio-trix-2.7.16.jar.txt	4
+org/openrdf/rio/trix/TriXParser/parse(java.lang.Object)@g_sesame-rio-trix-2.7.16.jar.txt	0
+org/openrdf/sail/memory/MemoryStoreConnection/evaluateInternal(org.openrdf.query.algebra.TupleExpr,org.openrdf.query.Dataset,org.openrdf.query.BindingSet,boolean)@g_sesame-rio-trix-2.7.16.jar.txt	2

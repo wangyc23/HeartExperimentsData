@@ -1,0 +1,5 @@
+anatlyzer/atlext/processing/AbstractVisitor/filter(java.lang.String,java.lang.Object[])@g_typing-1.0.1.jar.txt	3
+org/eclipse/m2m/atl/emftvm/impl/ModuleImpl/toString()@g_typing-1.0.1.jar.txt	1
+org/eclipse/emf/compare/match/eobject/IdentifierEObjectMatcher/matchPerId(java.util.Iterator,java.util.Iterator,java.util.Iterator,java.util.List,java.util.List,java.util.List)@g_typing-1.0.1.jar.txt	2
+anatlyzer/atl/model/TypingModel/equalTypes(anatlyzer.atl.types.Type,anatlyzer.atl.types.Type)@g_typing-1.0.1.jar.txt	0
+org/eclipse/m2m/atl/emftvm/impl/CodeBlockImpl/remove(java.lang.Object,java.lang.Object,java.lang.String,org.eclipse.m2m.atl.emftvm.util.StackFrame)@g_typing-1.0.1.jar.txt	4

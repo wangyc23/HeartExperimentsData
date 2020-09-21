@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_0/pipes/matching/EndPoint/decompose(scala.collection.Seq,scala.collection.immutable.Map)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	2
+org/neo4j/cypher/internal/compiler/v3_0/ast/rewriters/inlineProjections/anonfun/3/apply(scala.Tuple2)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	3
+org/neo4j/cypher/internal/compiler/v3_0/ast/rewriters/projectNamedPaths/anonfun/collectProjectibles/1/anonfun/applyOrElse/4/apply(org.neo4j.cypher.internal.compiler.v3_0.ast.rewriters.projectNamedPaths$Projectibles)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	1
+org/neo4j/cypher/internal/compiler/v3_0/ast/rewriters/projectNamedPaths/Proje/a640fff6f44eb3142e481d7be49f6c/anonfun/applyOrElse/1/apply(org.neo4j.cypher.internal.compiler.v3_0.ast.rewriters.projectNamedPaths$Projectibles)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_0/helpers/ArrayBackedMap/$plus(scala.Tuple2)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	0

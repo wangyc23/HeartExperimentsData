@@ -1,0 +1,5 @@
+org/apache/maven/artifact/versioning/ComparableVersion/ListItem/compareTo(org.apache.maven.artifact.versioning.ComparableVersion$Item)@g_maven-site-plugin-3.4.jar.txt	0
+org/apache/maven/plugins/site/deploy/AbstractDeployMojo/getWagon(org.apache.maven.wagon.repository.Repository,org.apache.maven.artifact.manager.WagonManager)@g_maven-site-plugin-3.4.jar.txt	1
+org/apache/maven/plugins/site/run/SiteRunMojo/createWebApplication()@g_maven-site-plugin-3.4.jar.txt	4
+org/apache/maven/plugins/site/run/SiteRunMojo/execute()@g_maven-site-plugin-3.4.jar.txt	3
+org/apache/maven/plugins/site/deploy/wagon/PathUtils/decode(java.lang.String)@g_maven-site-plugin-3.4.jar.txt	2

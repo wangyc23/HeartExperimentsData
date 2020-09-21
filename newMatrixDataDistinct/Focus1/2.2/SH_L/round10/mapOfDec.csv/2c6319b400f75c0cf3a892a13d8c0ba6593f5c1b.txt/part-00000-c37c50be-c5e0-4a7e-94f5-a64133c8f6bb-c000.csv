@@ -1,0 +1,5 @@
+org/springside/modules/test/selenium/Selenium2/waitForTextPresent(org.springside.modules.test.selenium.By,java.lang.String)@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	0
+org/springside/modules/metrics/CounterTest/empty()@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	1
+org/ng12306/web/system/service/account/ShiroDbRealm/ShiroUser/equals(java.lang.Object)@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	2
+org/springside/modules/test/security/shiro/ShiroTestUtilsTest/mockSubject()@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	4
+org/springside/examples/quickstart/functional/gui/RegisterFT/register()@1e53738bcdf36514e73e97eb2825d92e42cc0ace.txt	3

@@ -1,0 +1,5 @@
+org/springframework/boot/autoconfigure/logging/ConditionEvaluationReportMessage/addNonMatchLogMessage(java.lang.StringBuilder,java.lang.String,org.springframework.boot.autoconfigure.condition.ConditionEvaluationReport$ConditionAndOutcomes)@g_spring-boot-autoconfigure-1.5.2.RELEASE.jar.txt	2
+org/springframework/boot/autoconfigure/info/ProjectInfoAutoConfiguration/loadFrom(org.springframework.core.io.Resource,java.lang.String)@g_spring-boot-autoconfigure-1.5.2.RELEASE.jar.txt	4
+org/springframework/boot/autoconfigure/h2/H2ConsoleAutoConfiguration/H2ConsoleSecurityConfiguration/H2ConsoleSecurityConfigurer/configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)@g_spring-boot-autoconfigure-1.5.2.RELEASE.jar.txt	1
+org/springframework/boot/autoconfigure/template/AbstractTemplateViewResolverProperties/applyToViewResolver(java.lang.Object)@g_spring-boot-autoconfigure-1.5.2.RELEASE.jar.txt	0
+org/springframework/boot/autoconfigure/condition/OnExpressionCondition/getMatchOutcome(org.springframework.context.annotation.ConditionContext,org.springframework.core.type.AnnotatedTypeMetadata)@g_spring-boot-autoconfigure-1.5.2.RELEASE.jar.txt	3

@@ -1,0 +1,5 @@
+org/bouncycastle/tsp/cms/CMSTimeStampedDataParser/initialize(org.bouncycastle.asn1.cms.ContentInfoParser)@g_bcpkix-jdk15on-1.53.jar.txt	3
+org/bouncycastle/tsp/cms/CMSTimeStampedData/initialize(org.bouncycastle.asn1.cms.ContentInfo)@g_bcpkix-jdk15on-1.54.jar.txt	1
+org/bouncycastle/operator/jcajce/OperatorHelper/getSignatureName(org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_bcpkix-jdk15on-1.53.jar.txt	2
+org/bouncycastle/cms/KeyAgreeRecipientInfoGenerator/generate(org.bouncycastle.operator.GenericKey)@g_bcpkix-jdk15on-1.53.jar.txt	4
+org/bouncycastle/tsp/cms/CMSTimeStampedData/initialize(org.bouncycastle.asn1.cms.ContentInfo)@g_bcpkix-jdk15on-1.53.jar.txt	0

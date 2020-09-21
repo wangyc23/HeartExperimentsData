@@ -1,0 +1,4 @@
+ch/fhnw/cbr/model/sim/PropertySimResult/isTargetNull()
+ch/fhnw/cbr/model/sim/PropertySimResult/setSourceNull(boolean)
+java/lang/Class/getSimpleName()
+java/lang/Double/valueOf(double)

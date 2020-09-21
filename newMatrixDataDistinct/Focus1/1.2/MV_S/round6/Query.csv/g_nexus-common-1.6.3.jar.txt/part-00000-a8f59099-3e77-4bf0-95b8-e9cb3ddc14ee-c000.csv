@@ -1,0 +1,4 @@
+org/apache/maven/model/Plugin/getArtifactId()
+java/util/Iterator/hasNext()
+org/apache/maven/model/PluginContainer/getPlugins()
+org/apache/maven/model/Plugin/getExecutions()

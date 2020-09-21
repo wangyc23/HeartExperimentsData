@@ -1,0 +1,5 @@
+gnu/trove/list/linked/TIntLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	2
+gnu/trove/impl/hash/TObjectHash/objectInfo(java.lang.Object)@g_trove4j-3.0.3.jar.txt	4
+org/openrdf/model/datatypes/XMLDatatypeUtil/normalizeFPNumber(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_sesame-model-2.7.9.jar.txt	1
+gnu/trove/list/linked/TLongLinkedList/reverse(int,int)@g_trove4j-3.0.3.jar.txt	3
+org/openrdf/model/datatypes/XMLDateTime/parseDateTimeString()@g_sesame-model-2.7.9.jar.txt	0

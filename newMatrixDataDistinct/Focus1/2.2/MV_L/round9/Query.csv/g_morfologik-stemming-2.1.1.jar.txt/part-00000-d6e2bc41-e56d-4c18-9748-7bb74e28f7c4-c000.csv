@@ -1,0 +1,4 @@
+java/nio/CharBuffer/put(char)
+java/nio/ByteBuffer/array()
+java/nio/CharBuffer/flip()
+morfologik/fsa/ByteSequenceIterator/restartFrom(int)

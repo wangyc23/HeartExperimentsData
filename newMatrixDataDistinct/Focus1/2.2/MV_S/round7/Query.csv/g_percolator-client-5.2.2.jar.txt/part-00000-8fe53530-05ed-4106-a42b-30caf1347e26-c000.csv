@@ -1,0 +1,4 @@
+org/apache/lucene/search/BooleanQuery/clauses()
+org/apache/lucene/search/DisjunctionMaxQuery/getDisjuncts()
+org/elasticsearch/common/lucene/search/function/FunctionScoreQuery/getSubQuery()
+java/util/Iterator/next()

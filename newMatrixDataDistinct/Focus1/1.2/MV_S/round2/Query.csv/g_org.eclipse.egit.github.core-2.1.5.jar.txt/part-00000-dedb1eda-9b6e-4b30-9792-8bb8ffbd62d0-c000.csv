@@ -1,0 +1,4 @@
+java/util/HashMap/HashMap(int,float)
+java/lang/String/length()
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/lang/StringBuilder/append(char)

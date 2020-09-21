@@ -1,0 +1,5 @@
+org/apache/james/mime4j/field/structured/parser/TokenMgrError/addEscapes(java.lang.String)@g_apache-mime4j-dom-0.7.jar.txt	3
+org/apache/james/mime4j/field/language/parser/ParseException/add_escapes(java.lang.String)@g_apache-mime4j-dom-0.7.jar.txt	2
+org/apache/james/mime4j/field/contentdisposition/parser/TokenMgrError/addEscapes(java.lang.String)@g_apache-mime4j-dom-0.7.jar.txt	4
+org/apache/james/mime4j/field/structured/parser/ParseException/add_escapes(java.lang.String)@g_apache-mime4j-dom-0.7.jar.txt	1
+net/sf/jsqlparser/parser/TokenMgrError/addEscapes(java.lang.String)@g_jsqlparser-0.9.4.jar.txt	0

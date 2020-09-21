@@ -1,0 +1,5 @@
+opennlp/tools/parser/AbstractBottomUpParser/parse(opennlp.tools.parser.Parse,int)@g_opennlp-tools-1.5.3.jar.txt	4
+opennlp/tools/parser/treeinsert/AttachContextGenerator/getContext(opennlp.tools.parser.Parse[],int,java.util.List,int)@g_opennlp-tools-1.5.2-incubating.jar.txt	3
+opennlp/tools/parser/chunking/CheckContextGenerator/getContext(opennlp.tools.parser.Parse[],java.lang.String,int,int)@g_opennlp-tools-1.5.2-incubating.jar.txt	1
+opennlp/tools/parser/AbstractBottomUpParser/parse(opennlp.tools.parser.Parse,int)@g_opennlp-tools-1.5.2-incubating.jar.txt	0
+opennlp/tools/namefind/NameFinderME/dropOverlappingSpans(opennlp.tools.util.Span[])@g_opennlp-tools-1.5.2-incubating.jar.txt	2

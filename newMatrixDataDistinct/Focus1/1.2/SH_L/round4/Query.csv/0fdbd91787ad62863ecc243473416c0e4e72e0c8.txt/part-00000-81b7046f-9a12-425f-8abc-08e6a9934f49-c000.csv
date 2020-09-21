@@ -1,0 +1,4 @@
+com/softwaremill/common/arquillian/ManifestUtil/addEmptyBeansXml(T)
+org/jboss/shrinkwrap/api/container/ClassContainer/addClass(java.lang.Class)
+org/jboss/shrinkwrap/api/container/ClassContainer/addPackage(java.lang.Package)
+java/lang/Class/getPackage()

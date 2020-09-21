@@ -1,0 +1,5 @@
+org/apache/mahout/math/SequentialAccessSparseVector/copySortedRandomAccessSparseVector(org.apache.mahout.math.Vector)@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	3
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/train(int,org.apache.mahout.math.Vector)@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	0
+org/apache/mahout/cf/taste/hadoop/item/UserVectorSplitterMapper/findSmallestLargeValue(org.apache.mahout.math.Vector)@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	2
+org/apache/mahout/math/hadoop/stochasticsvd/ABtJob/ABtMapper/map(org.apache.mahout.classifier.sgd.Writable,org.apache.mahout.math.VectorWritable,org.apache.mahout.clustering.topdown.postprocessor.Context)@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	4
+org/apache/mahout/classifier/naivebayes/training/StandardThetaTrainer/train(int,org.apache.mahout.math.Vector)@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	1

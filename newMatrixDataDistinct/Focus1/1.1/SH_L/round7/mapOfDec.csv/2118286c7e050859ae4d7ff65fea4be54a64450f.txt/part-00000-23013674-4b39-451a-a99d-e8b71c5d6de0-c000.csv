@@ -1,0 +1,5 @@
+org/apache/avro/TestCompare/render(T,org.apache.avro.Schema,org.apache.avro.io.DatumWriter)@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	0
+org/apache/avro/GenerateBlockingData/main(java.lang.String[])@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	3
+org/apache/avro/io/TestBinaryEncoderFidelity/testDirectBinaryEncoder()@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	2
+org/apache/avro/reflect/TestReflect/testRecordWithNullIO()@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	1
+org/apache/avro/reflect/TestReflect/checkReadWrite(java.lang.Object,org.apache.avro.Schema)@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	4

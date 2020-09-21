@@ -1,0 +1,5 @@
+org/jacoco/core/runtime/AgentOptions/toString()@g_org.jacoco.core-0.7.5.201505241946.jar.txt	2
+com/kenai/jaffl/provider/jffi/Library/loadNativeLibraries()@g_org.jacoco.core-0.7.5.201505241946.jar.txt	4
+com/kenai/jaffl/provider/jffi/X86_64StubCompiler/compile(com.kenai.jffi.Function,java.lang.String,java.lang.Class,java.lang.Class[],com.kenai.jffi.CallingConvention,boolean)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	3
+com/kenai/jaffl/provider/jffi/DefaultInvokerFactory/getMarshaller(java.lang.Class,java.lang.annotation.Annotation[])@g_org.jacoco.core-0.7.5.201505241946.jar.txt	1
+org/jacoco/core/internal/analysis/BundleCoverageImpl/groupByPackage(java.util.Collection,java.util.Collection)@g_org.jacoco.core-0.7.5.201505241946.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/catalina/core/StandardServer/initInternal()@g_tomcat-embed-logging-juli-8.0.28.jar.txt	4
+org/apache/catalina/realm/JNDIRealm/addAttributeValues(java.lang.String,javax.naming.directory.Attributes,java.util.ArrayList)@g_tomcat-embed-logging-juli-8.0.28.jar.txt	2
+org/apache/juli/OneLineFormatter/format(java.util.logging.LogRecord)@g_tomcat-embed-core-8.5.11.jar.txt	1
+org/apache/catalina/startup/Tomcat/getWebappConfigFileFromJar(java.io.File,java.lang.String)@g_tomcat-embed-logging-juli-8.0.28.jar.txt	3
+org/apache/juli/OneLineFormatter/format(java.util.logging.LogRecord)@g_tomcat-embed-logging-juli-8.0.28.jar.txt	0

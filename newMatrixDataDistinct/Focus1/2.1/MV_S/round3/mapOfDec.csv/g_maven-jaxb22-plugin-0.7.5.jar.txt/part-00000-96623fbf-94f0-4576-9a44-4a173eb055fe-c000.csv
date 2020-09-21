@@ -1,0 +1,5 @@
+org/jacoco/maven/AbstractAgentMojo/executeMojo()@g_maven-jaxb2-plugin-0.7.5.jar.txt	4
+org/jacoco/maven/AbstractReportMojo/executeReport(java.util.Locale)@g_maven-jaxb2-plugin-0.7.5.jar.txt	1
+org/jacoco/maven/HelpMojo/build()@g_maven-jaxb2-plugin-0.7.5.jar.txt	2
+org/jacoco/maven/BundleCreator/createBundle(org.jacoco.core.data.ExecutionDataStore)@g_maven-jaxb2-plugin-0.7.5.jar.txt	0
+org/jvnet/mjiip/v_2_2/XJC22Mojo/writeCode(com.sun.tools.xjc.outline.Outline)@g_maven-jaxb2-plugin-0.7.5.jar.txt	3

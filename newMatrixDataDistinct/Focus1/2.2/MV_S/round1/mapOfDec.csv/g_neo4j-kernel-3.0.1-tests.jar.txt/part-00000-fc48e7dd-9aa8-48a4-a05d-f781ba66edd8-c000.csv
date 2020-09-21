@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/transaction/PhysicalLogFilesTest/shouldThrowIfThereIsNoVersionInTheFileName()@g_neo4j-kernel-2.2.1-tests.jar.txt	3
+org/neo4j/kernel/impl/AbstractNeo4jTestCase/unzip(java.lang.Class,java.lang.String)@g_neo4j-kernel-2.2.5-tests.jar.txt	4
+org/neo4j/kernel/impl/transaction/TransactionMetadataCacheTest/shouldThrowWhenCachingATxWithNegativeOffsetPosition()@g_neo4j-kernel-2.2.5-tests.jar.txt	0
+org/neo4j/kernel/impl/transaction/PhysicalLogFilesTest/shouldThrowIfThereIsNoVersionInTheFileName()@g_neo4j-kernel-2.2.5-tests.jar.txt	2
+org/neo4j/kernel/impl/transaction/TransactionMetadataCacheTest/shouldThrowWhenCachingATxWithNegativeOffsetPosition()@g_neo4j-kernel-2.2.1-tests.jar.txt	1

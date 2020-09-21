@@ -1,0 +1,4 @@
+com/alibaba/datax/common/util/Configuration/getChar(java.lang.String,char)
+com/alibaba/datax/plugin/writer/osswriter/util/OssUtil/initOssClient(com.alibaba.datax.common.util.Configuration)
+com/alibaba/datax/common/plugin/AbstractPlugin/getPluginJobConf()
+com/alibaba/datax/common/util/Configuration/getLong(java.lang.String,long)

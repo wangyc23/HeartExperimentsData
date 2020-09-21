@@ -1,0 +1,4 @@
+java/net/MalformedURLException/getMessage()
+java/net/URL/openConnection()
+org/semanticweb/owlapi/io/OWLOntologyDocumentSource/isInputStreamAvailable()
+org/semanticweb/owlapi/model/IRI/toURI()

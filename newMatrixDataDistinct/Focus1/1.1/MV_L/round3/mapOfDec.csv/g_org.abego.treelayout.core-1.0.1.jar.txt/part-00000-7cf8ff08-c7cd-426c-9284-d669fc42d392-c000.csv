@@ -1,0 +1,5 @@
+org/apache/batik/gvt/UpdateTracker/changeStarted(org.apache.batik.gvt.event.GraphicsNodeChangeEvent)@g_batik-gvt-1.8.jar.txt	2
+org/apache/batik/gvt/font/FontFamilyResolver/<clinit>()@g_batik-gvt-1.7.jar.txt	1
+org/apache/batik/gvt/event/AWTEventDispatcher/dispatchMouseEvent(java.awt.event.MouseEvent)@g_batik-gvt-1.7.jar.txt	4
+org/apache/batik/gvt/UpdateTracker/changeStarted(org.apache.batik.gvt.event.GraphicsNodeChangeEvent)@g_batik-gvt-1.7.jar.txt	0
+org/apache/batik/gvt/svg12/MultiResGraphicsNode/primitivePaint(java.awt.Graphics2D)@g_batik-gvt-1.7.jar.txt	3

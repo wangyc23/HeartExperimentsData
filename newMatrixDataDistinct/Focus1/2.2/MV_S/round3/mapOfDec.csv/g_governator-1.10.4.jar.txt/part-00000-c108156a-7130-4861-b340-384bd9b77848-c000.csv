@@ -1,0 +1,5 @@
+com/netflix/governator/ServiceLoaderModuleBuilder/BaseModule/configure()@g_governator-core-1.10.4.jar.txt	0
+com/netflix/governator/Governator/createAutoModule(org.slf4j.Logger,com.netflix.governator.GovernatorConfiguration,java.util.Set,java.util.List)@g_governator-core-1.10.4.jar.txt	3
+com/netflix/governator/Governator/createInjector(com.netflix.governator.GovernatorConfiguration)@g_governator-core-1.10.4.jar.txt	4
+com/netflix/governator/LifecycleModule/LifecycleProvisionListener/onProvision(com.google.inject.spi.ProvisionListener$ProvisionInvocation)@g_governator-core-1.10.4.jar.txt	2
+com/netflix/governator/ElementsEx/getAllSourceModules(java.util.List)@g_governator-core-1.10.4.jar.txt	1

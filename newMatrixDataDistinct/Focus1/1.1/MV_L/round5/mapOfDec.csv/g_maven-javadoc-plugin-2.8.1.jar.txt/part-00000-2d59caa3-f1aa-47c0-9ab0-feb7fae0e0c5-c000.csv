@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/options/io/xpp3/JavadocOptionsXpp3Reader/parseResourcesArtifact(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-javadoc-plugin-2.9.1.jar.txt	1
+org/apache/maven/plugin/javadoc/options/io/xpp3/JavadocOptionsXpp3Reader/read(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-javadoc-plugin-2.9.1.jar.txt	0
+org/apache/maven/plugin/javadoc/options/io/xpp3/JavadocOptionsXpp3Reader/parseJavadocOptions(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-javadoc-plugin-2.9.1.jar.txt	3
+org/apache/maven/plugin/javadoc/options/io/xpp3/JavadocOptionsXpp3Reader/parseTagletArtifact(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-javadoc-plugin-2.9.1.jar.txt	4
+org/apache/maven/plugin/javadoc/options/io/xpp3/JavadocOptionsXpp3Reader/parseDocletArtifact(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-javadoc-plugin-2.9.1.jar.txt	2

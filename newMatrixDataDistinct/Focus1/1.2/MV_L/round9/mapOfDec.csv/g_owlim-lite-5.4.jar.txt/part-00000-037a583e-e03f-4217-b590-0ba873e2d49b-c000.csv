@@ -1,0 +1,5 @@
+org/openrdf/sail/memory/MemoryStore/initializeInternal()@g_sesame-sail-memory-2.7.9.jar.txt	1
+org/openrdf/rio/ntriples/NTriplesUtil/parseURI(java.lang.String,org.openrdf.model.ValueFactory)@g_sesame-rio-ntriples-2.7.9.jar.txt	0
+org/openrdf/rio/ntriples/NTriplesUtil/unescapeString(java.lang.String)@g_sesame-rio-ntriples-2.7.9.jar.txt	3
+org/openrdf/sail/memory/FileIO/write(java.io.File,java.io.File)@g_sesame-sail-memory-2.7.9.jar.txt	2
+org/openrdf/rio/ntriples/NTriplesUtil/parseLiteral(java.lang.String,org.openrdf.model.ValueFactory)@g_sesame-rio-ntriples-2.7.9.jar.txt	4

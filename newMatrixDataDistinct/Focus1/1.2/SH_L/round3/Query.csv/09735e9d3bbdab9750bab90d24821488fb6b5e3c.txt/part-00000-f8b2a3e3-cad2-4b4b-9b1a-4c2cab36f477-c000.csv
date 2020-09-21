@@ -1,0 +1,4 @@
+org/apache/lens/server/session/LensSessionImpl/getLoggedInUser()
+org/apache/lens/api/LensSessionHandle/toString()
+org/apache/lens/server/query/QueryExecutionServiceImpl/executeAsyncInternal(org.apache.lens.api.LensSessionHandle,org.apache.lens.server.api.query.QueryContext)
+org/apache/lens/server/LensService/acquire(org.apache.lens.api.LensSessionHandle)

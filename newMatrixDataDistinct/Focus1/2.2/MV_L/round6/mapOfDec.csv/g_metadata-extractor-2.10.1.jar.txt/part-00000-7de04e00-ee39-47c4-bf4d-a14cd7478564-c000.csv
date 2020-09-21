@@ -1,0 +1,5 @@
+com/drew/imaging/ImageMetadataReader/main(java.lang.String[])@g_metadata-extractor-2.8.0.jar.txt	4
+com/drew/metadata/png/PngDescriptor/getTextualDataDescription()@g_metadata-extractor-2.8.0.jar.txt	3
+com/drew/metadata/exif/GpsDescriptor/getGpsDirectionDescription(int)@g_metadata-extractor-2.8.0.jar.txt	1
+com/drew/tools/ProcessAllImagesInFolderUtility/MarkdownTableOutputHandler/writeOutput(java.io.PrintStream)@g_metadata-extractor-2.8.0.jar.txt	2
+com/drew/tools/ProcessAllImagesInFolderUtility/TextFileOutputHandler/openWriter(java.io.File)@g_metadata-extractor-2.8.0.jar.txt	0

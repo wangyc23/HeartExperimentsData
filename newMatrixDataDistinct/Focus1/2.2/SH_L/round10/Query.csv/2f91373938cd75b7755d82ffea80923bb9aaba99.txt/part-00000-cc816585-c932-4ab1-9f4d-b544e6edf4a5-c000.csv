@@ -1,0 +1,4 @@
+org/drools/KnowledgeBase/getKnowledgePackages()
+org/drools/definition/KnowledgePackage/getName()
+org/drools/conf/KnowledgeBaseOptionsConfiguration/setOption(T)
+java/lang/Object/toString()

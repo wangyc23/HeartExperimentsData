@@ -1,0 +1,4 @@
+org/apache/james/jmap/JMAPModule/VacationMailetCheck/check(java.util.List)
+org/apache/james/transport/matchers/RecipientIsLocal/RecipientIsLocal()
+org/apache/james/mailetcontainer/impl/MatcherMailetPair/MatcherMailetPair(org.apache.mailet.Matcher,org.apache.mailet.Mailet)
+org/apache/james/transport/mailets/Null/Null()

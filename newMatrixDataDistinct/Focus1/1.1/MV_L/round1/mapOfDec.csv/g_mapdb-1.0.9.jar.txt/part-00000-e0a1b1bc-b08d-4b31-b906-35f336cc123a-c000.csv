@@ -1,0 +1,5 @@
+org/mapdb/TxEngine/put(java.lang.Object,org.mapdb.Serializer)@g_mapdb-1.0.7.jar.txt	2
+org/mapdb/StoreDirect/put(java.lang.Object,org.mapdb.Serializer)@g_mapdb-1.0.7.jar.txt	0
+org/mapdb/TxEngine/preallocate(long[])@g_mapdb-1.0.7.jar.txt	1
+org/mapdb/StoreHeap/preallocate(long[])@g_mapdb-1.0.7.jar.txt	3
+org/mapdb/TxEngine/compareAndSwap(long,java.lang.Object,java.lang.Object,org.mapdb.Serializer)@g_mapdb-1.0.7.jar.txt	4

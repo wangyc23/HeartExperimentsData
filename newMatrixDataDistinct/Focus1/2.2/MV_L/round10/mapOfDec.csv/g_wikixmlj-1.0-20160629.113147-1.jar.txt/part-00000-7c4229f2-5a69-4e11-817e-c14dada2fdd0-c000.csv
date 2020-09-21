@@ -1,0 +1,5 @@
+edu/jhu/nlp/util/FileUtil/readFile(java.lang.String)@g_plexus-digest-1.0.jar.txt	4
+edu/jhu/nlp/wikipedia/WikiXMLParser/getInputSource()@g_wikixmlj-1.0-SNAPSHOT.jar.txt	0
+edu/jhu/nlp/util/FileUtil/readFile(java.lang.String)@g_wikixmlj-1.0-SNAPSHOT.jar.txt	1
+org/codehaus/plexus/digest/DigestUtils/cleanChecksum(java.lang.String,java.lang.String,java.lang.String)@g_wikixmlj-1.0-SNAPSHOT.jar.txt	2
+edu/jhu/nlp/wikipedia/WikiTextParser/getPlainText()@g_wikixmlj-1.0-SNAPSHOT.jar.txt	3

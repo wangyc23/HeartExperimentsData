@@ -1,0 +1,5 @@
+egovframework/com/sym/cal/web/EgovCalRestdeManageController/selectNormalDayCalendar(egovframework.com.sym.cal.service.Restde,org.springframework.validation.BindingResult,org.springframework.ui.ModelMap)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	4
+egovframework/com/cop/stf/service/impl/EgovBBSSatisfactionServiceImpl/updateSatisfaction(egovframework.com.cop.bbs.service.Satisfaction)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	0
+egovframework/com/uss/ion/yrc/web/EgovIndvdlYrycManageController/deleteIndvdlYrycManage(egovframework.com.uss.ion.yrc.service.IndvdlYrycManage)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	3
+egovframework/com/sym/prm/service/impl/EgovProgrmManageServiceImpl/selectChangeRequstProcessListTotCnt(egovframework.com.cmm.ComDefaultVO)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	2
+egovframework/com/uss/olh/wor/web/EgovWordDicaryController/deleteWordDicary(egovframework.com.uss.olh.wor.service.WordDicaryVO,egovframework.com.uss.olh.wor.service.WordDicaryDefaultVO)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	1

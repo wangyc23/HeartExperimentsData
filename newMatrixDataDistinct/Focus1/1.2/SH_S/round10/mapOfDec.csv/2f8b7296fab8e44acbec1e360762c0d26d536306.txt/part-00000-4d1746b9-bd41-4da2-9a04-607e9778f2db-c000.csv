@@ -1,0 +1,5 @@
+study/services/LinkInfosService/addLinkInfo(study.models.LinkInfo)@0df316b80ee7c25b24ad9543031923e4fb72040e.txt	4
+study/IndexController/onShortLink(org.springframework.ui.Model,java.lang.Long,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@0df316b80ee7c25b24ad9543031923e4fb72040e.txt	3
+com/porterhead/mail/InMemoryJavaMailSender/send(org.springframework.mail.javamail.MimeMessagePreparator)@03752e89867c8b85c6d5b3635c772c9280818563.txt	0
+study/IndexController/getImage(javax.servlet.http.HttpServletResponse)@0df316b80ee7c25b24ad9543031923e4fb72040e.txt	1
+study/services/LinkInfosService/removeLinkInfo(java.lang.Long)@0df316b80ee7c25b24ad9543031923e4fb72040e.txt	2

@@ -1,0 +1,4 @@
+java/util/List/remove(int)
+java/util/List/size()
+io/swagger/sample/model/Order/getId()
+java/util/List/add(E)

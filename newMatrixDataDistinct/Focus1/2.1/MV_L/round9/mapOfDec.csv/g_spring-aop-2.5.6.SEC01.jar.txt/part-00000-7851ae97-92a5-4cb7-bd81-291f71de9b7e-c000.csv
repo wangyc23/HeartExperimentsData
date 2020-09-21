@@ -1,0 +1,5 @@
+org/springframework/aop/framework/Cglib2AopProxy/getProxy(java.lang.ClassLoader)@g_spring-aop-4.0.0.RELEASE.jar.txt	4
+org/springframework/aop/target/ThreadLocalTargetSource/getTarget()@g_spring-aop-4.0.0.RELEASE.jar.txt	3
+org/springframework/aop/target/CommonsPoolTargetSource/createObjectPool()@g_spring-aop-4.0.0.RELEASE.jar.txt	1
+org/springframework/aop/config/ConfigBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-aop-4.0.0.RELEASE.jar.txt	2
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-aop-4.0.0.RELEASE.jar.txt	0

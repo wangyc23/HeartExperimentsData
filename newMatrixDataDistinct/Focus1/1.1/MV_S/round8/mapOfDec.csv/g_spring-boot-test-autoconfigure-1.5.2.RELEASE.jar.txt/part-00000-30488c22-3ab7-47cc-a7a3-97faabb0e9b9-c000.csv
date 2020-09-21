@@ -1,0 +1,5 @@
+org/springframework/data/repository/config/RepositoryBeanDefinitionParser/registerGenericRepositoryFactoryBean(org.springframework.data.repository.config.RepositoryConfiguration,org.springframework.beans.factory.xml.ParserContext)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	0
+org/springframework/data/repository/cdi/CdiRepositoryBean/getTypes()@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	1
+org/springframework/context/annotation/ConfigurationClassPostProcessor/processConfigBeanDefinitions(org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-context-4.1.7.RELEASE.jar.txt	4
+org/springframework/data/repository/core/support/TransactionalRepositoryProxyPostProcessor/AbstractFallbackTransactionAttributeSource/getTransactionAttribute(java.lang.reflect.Method,java.lang.Class)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	3
+org/springframework/data/repository/config/RepositoryBeanDefinitionBuilder/registerCustomImplementation(org.springframework.beans.factory.support.BeanDefinitionRegistry,org.springframework.core.io.ResourceLoader)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	2

@@ -1,0 +1,5 @@
+org/openrdf/query/resultio/sparqlxml/SPARQLXMLWriterBase/startDocument()@g_sesame-queryresultio-sparqlxml-2.7.9.jar.txt	0
+org/openrdf/query/resultio/sparqlxml/SPARQLXMLParserBase/parseQueryResultInternal(java.io.InputStream,boolean,boolean)@g_sesame-queryresultio-sparqlxml-2.7.9.jar.txt	2
+org/openrdf/rio/trix/TriXParser/parse(java.lang.Object)@g_sesame-queryresultio-sparqlxml-2.7.9.jar.txt	4
+org/openrdf/query/resultio/sparqlxml/SPARQLXMLWriterBase/writeQName(org.openrdf.model.URI)@g_sesame-queryresultio-sparqlxml-2.7.9.jar.txt	3
+org/openrdf/http/protocol/transaction/TransactionSAXParser/createContexts(int)@g_sesame-queryresultio-sparqlxml-2.7.9.jar.txt	1

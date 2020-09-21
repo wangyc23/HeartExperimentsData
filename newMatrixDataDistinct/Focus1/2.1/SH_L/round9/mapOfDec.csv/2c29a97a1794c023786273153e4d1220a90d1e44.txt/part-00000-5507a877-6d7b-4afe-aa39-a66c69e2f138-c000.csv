@@ -1,0 +1,5 @@
+org/apache/aries/blueprint/container/AggregateConverterTest/testConvertProperties()@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	0
+com/lwk/jvm/classloader/custom/ChildFirstURLClassLoader/loadClass(java.lang.String,boolean)@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	4
+org/apache/aries/jndi/InitialContextTest/registerURLObjectFactory(javax.naming.spi.ObjectFactory,java.lang.String)@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	2
+org/apache/aries/jndi/ObjectFactoryTest/testURLReferenceWithMatchingHandler()@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	1
+com/lwk/io/FileUtils/toByteArray2(java.lang.String)@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	3

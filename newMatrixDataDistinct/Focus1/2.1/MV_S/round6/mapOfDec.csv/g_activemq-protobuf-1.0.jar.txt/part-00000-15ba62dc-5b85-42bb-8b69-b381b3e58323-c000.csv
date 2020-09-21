@@ -1,0 +1,5 @@
+org/apache/activemq/transport/WireFormatNegotiator/negociate(org.apache.activemq.command.WireFormatInfo)@g_activemq-all-5.7.0.jar.txt	3
+org/apache/log4j/net/SocketAppender/Connector/run()@g_activemq-all-5.7.0.jar.txt	2
+org/apache/activemq/transport/http/HttpClientTransport/doStart()@g_activemq-all-5.7.0.jar.txt	1
+org/bytedeco/javacpp/tools/Parser/variable(org.bytedeco.javacpp.tools.Context,org.bytedeco.javacpp.tools.DeclarationList)@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/protobuf/compiler/TextFormat/parseInteger(java.lang.String,boolean,boolean)@g_activemq-all-5.7.0.jar.txt	0

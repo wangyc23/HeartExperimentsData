@@ -1,0 +1,5 @@
+org/reflections/util/ConfigurationBuilder/build(java.lang.Object[])@g_reflections-0.9.9-RC2.jar.txt	4
+org/reflections/vfs/UrlTypeVFS/replaceZipSeparatorStartingFrom(java.lang.String,int)@g_reflections-0.9.9-RC2.jar.txt	2
+org/reflections/util/ClasspathHelper/forResource(java.lang.String,java.lang.ClassLoader[])@g_reflections-0.9.9-RC2.jar.txt	0
+org/reflections/util/FilterBuilder/parsePackages(java.lang.String)@g_reflections-0.9.9-RC2.jar.txt	1
+org/reflections/scanners/MemberUsageScanner/scanMember(javassist.CtBehavior)@g_reflections-0.9.9-RC2.jar.txt	3

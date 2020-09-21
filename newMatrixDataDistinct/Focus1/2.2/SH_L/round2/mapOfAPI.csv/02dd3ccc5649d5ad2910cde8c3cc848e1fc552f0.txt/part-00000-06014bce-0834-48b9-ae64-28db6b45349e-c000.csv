@@ -1,0 +1,5 @@
+0	java/lang/StringBuilder/toString()
+1	java/lang/StringBuilder/append(java.lang.String)
+2	no/koteng/appstore/RepositoryUtil/buildArtifactUrl(java.lang.String,java.lang.String)
+3	com/epam/training/dataaccess/model/ServerInfo/getCpuType()
+4	com/epam/training/dataaccess/model/ServerInfo/getName()

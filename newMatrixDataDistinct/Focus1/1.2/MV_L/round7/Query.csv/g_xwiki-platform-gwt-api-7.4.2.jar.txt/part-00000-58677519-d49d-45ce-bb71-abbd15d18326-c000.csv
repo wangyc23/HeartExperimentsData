@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWikiContext/getWiki()
+java/util/List/size()
+com/xpn/xwiki/web/XWikiMessageTool/getDocumentBundles(java.lang.String,java.lang.String)
+java/util/Properties/Properties()

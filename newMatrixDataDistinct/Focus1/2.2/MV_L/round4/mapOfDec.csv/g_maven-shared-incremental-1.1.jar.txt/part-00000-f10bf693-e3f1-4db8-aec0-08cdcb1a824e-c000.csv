@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getInvokerProperties(java.io.File)@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getSystemProperties(java.io.File,java.lang.String)@g_maven-invoker-plugin-2.0.0.jar.txt	2
+org/apache/maven/shared/incremental/IncrementalBuildHelper/inputFileTreeChanged(java.util.Set)@g_maven-shared-incremental-1.0.jar.txt	0
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/cloneProjects(java.util.Collection)@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/collectProjects(java.io.File,java.lang.String,java.util.Collection,boolean)@g_maven-invoker-plugin-2.0.0.jar.txt	3

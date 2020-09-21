@@ -1,0 +1,4 @@
+0	java/io/IOException/printStackTrace()
+1	java/lang/String/trim()
+2	java/lang/String/replaceAll(java.lang.String,java.lang.String)
+3	java/net/URL/openStream()

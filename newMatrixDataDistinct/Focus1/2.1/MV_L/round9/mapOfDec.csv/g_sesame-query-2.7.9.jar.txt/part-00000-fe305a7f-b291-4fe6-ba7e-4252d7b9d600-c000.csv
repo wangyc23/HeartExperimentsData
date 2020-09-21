@@ -1,0 +1,5 @@
+org/openrdf/query/algebra/evaluation/function/datetime/Month/evaluate(org.openrdf.model.ValueFactory,org.openrdf.model.Value[])@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	4
+org/openrdf/query/algebra/evaluation/impl/ConstantOptimizer/ConstantVisitor/meet(org.openrdf.query.algebra.Regex)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	2
+org/openrdf/query/algebra/evaluation/iterator/GroupIterator/buildEntries()@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/impl/ConjunctiveConstraintSplitter/ConstraintVisitor/meet(org.openrdf.query.algebra.Filter)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	3
+org/openrdf/query/QueryResults/report(org.openrdf.query.GraphQueryResult,org.openrdf.rio.RDFHandler)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	0

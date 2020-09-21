@@ -1,0 +1,4 @@
+java/lang/String/charAt(int)
+java/lang/Integer/Integer(int)
+java/lang/Double/Double(double)
+org/apache/commons/jocl/JOCLContentHandler$ConstructorDetails/ConstructorDetails(java.lang.String,org.apache.commons.jocl.JOCLContentHandler$ConstructorDetails,boolean)

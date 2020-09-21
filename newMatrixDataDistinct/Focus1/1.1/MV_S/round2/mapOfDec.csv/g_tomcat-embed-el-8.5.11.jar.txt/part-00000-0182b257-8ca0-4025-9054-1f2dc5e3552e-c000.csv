@@ -1,0 +1,5 @@
+javax/xml/stream/FactoryLocator/locate(java.lang.String,java.lang.String,java.lang.ClassLoader)@g_jaxrpc-api-1.1.jar.txt	2
+javax/el/ImportHandler/importStatic(java.lang.String)@g_jaxrpc-api-1.1.jar.txt	4
+javax/el/ExpressionFactory/newInstance(java.util.Properties)@g_jaxrpc-api-1.1.jar.txt	3
+javax/el/Util/findWrapper(java.lang.Class,java.util.List,java.lang.String,java.lang.Class[],java.lang.Object[])@g_jaxrpc-api-1.1.jar.txt	1
+org/apache/el/parser/AstFunction/getValue(org.apache.el.lang.EvaluationContext)@g_jaxrpc-api-1.1.jar.txt	0

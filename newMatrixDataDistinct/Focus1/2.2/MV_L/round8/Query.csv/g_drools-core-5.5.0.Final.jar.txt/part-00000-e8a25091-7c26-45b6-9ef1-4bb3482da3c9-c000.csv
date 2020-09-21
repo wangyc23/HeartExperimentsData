@@ -1,0 +1,4 @@
+org/drools/rule/builder/dialect/asm/GeneratorHelper$DeclarationAccessorMethod/push(java.lang.Object)
+org/mvel2/asm/MethodVisitor/visitLabel(org.mvel2.asm.Label)
+org/drools/rule/builder/dialect/asm/GeneratorHelper$DeclarationAccessorMethod/invokeVirtual(java.lang.Class,java.lang.String,java.lang.Class,java.lang.Class[])
+org/mvel2/asm/MethodVisitor/visitJumpInsn(int,org.mvel2.asm.Label)

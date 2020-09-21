@@ -1,0 +1,4 @@
+com/exercise/socialconnection/data/graph/Graph/vertices()
+java/util/stream/StreamSupport/stream(java.util.Spliterator,boolean)
+java/util/stream/Stream/collect(java.util.stream.Collector)
+java/util/stream/Collectors/toList()

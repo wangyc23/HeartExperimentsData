@@ -1,0 +1,5 @@
+org/hibernate/loader/Loader/prepareQueryStatement(org.hibernate.engine.QueryParameters,boolean,org.hibernate.engine.SessionImplementor)@g_hibernate-core-3.6.10.Final.jar.txt	1
+org/hibernate/tool/hbm2ddl/SchemaExport/importScript(org.hibernate.tool.hbm2ddl.SchemaExport$NamedReader,java.sql.Statement)@g_hibernate-core-3.6.9.Final.jar.txt	2
+org/hibernate/cfg/Configuration/addProperties(org.dom4j.Element)@g_hibernate-core-3.6.9.Final.jar.txt	4
+org/hibernate/secure/JACCConfiguration/addPermission(java.lang.String,java.lang.String,java.lang.String)@g_hibernate-core-3.6.9.Final.jar.txt	3
+org/hibernate/loader/Loader/prepareQueryStatement(org.hibernate.engine.QueryParameters,boolean,org.hibernate.engine.SessionImplementor)@g_hibernate-core-3.6.9.Final.jar.txt	0

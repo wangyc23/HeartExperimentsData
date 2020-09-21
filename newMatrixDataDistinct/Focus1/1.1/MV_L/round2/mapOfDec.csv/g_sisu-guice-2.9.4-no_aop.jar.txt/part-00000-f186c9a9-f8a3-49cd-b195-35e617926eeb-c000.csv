@@ -1,0 +1,5 @@
+com/google/inject/internal/ProviderMethodsModule/createProviderMethod(com.google.inject.Binder,java.lang.reflect.Method)@g_sisu-guice-3.1.0-no_aop.jar.txt	3
+com/google/inject/internal/Errors/format(java.lang.String,java.util.Collection)@g_sisu-guice-3.1.0-no_aop.jar.txt	2
+com/google/inject/internal/Initializer/injectAll(com.google.inject.internal.Errors)@g_sisu-guice-3.1.0-no_aop.jar.txt	4
+com/google/inject/internal/InjectorShell/Builder/build(com.google.inject.internal.Initializer,com.google.inject.internal.ProcessedBindingData,com.google.inject.internal.util.Stopwatch,com.google.inject.internal.Errors)@g_sisu-guice-3.1.0-no_aop.jar.txt	1
+com/google/inject/spi/InjectionPoint/OverrideIndex/removeIfOverriddenBy(java.lang.reflect.Method,boolean,com.google.inject.spi.InjectionPoint$InjectableMethod)@g_sisu-guice-3.1.0-no_aop.jar.txt	0

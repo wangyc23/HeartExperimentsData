@@ -1,0 +1,4 @@
+org/activiti/bpmn/model/ExtensionElement/setAttributes(java.util.Map)
+java/util/Set/iterator()
+org/activiti/bpmn/model/ExtensionElement/getAttributes()
+java/util/List/add(java.lang.Object)

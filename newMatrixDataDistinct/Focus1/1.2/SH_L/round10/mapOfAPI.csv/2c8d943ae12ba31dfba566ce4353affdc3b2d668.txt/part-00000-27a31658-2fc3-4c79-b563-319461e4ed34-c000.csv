@@ -1,0 +1,5 @@
+0	org/activiti/engine/impl/persistence/entity/ExecutionEntity/getActivityId()
+1	org/activiti/engine/impl/persistence/entity/ExecutionEntity/getDeleteReason()
+2	org/activiti/engine/impl/context/Context/getCommandContext()
+3	org/jbpm/designer/web/profile/impl/JbpmProfileImpl/createUnmarshaller()/$anonymous1/()
+4	org/activiti/engine/delegate/DelegateExecution/getProcessInstanceId()

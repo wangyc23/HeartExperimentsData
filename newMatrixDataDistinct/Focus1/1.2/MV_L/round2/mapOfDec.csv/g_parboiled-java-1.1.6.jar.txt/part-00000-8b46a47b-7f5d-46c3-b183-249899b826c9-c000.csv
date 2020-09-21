@@ -1,0 +1,5 @@
+org/objectweb/asm/commons/Remapper/mapDesc(java.lang.String)@g_asm-commons-4.1.jar.txt	3
+org/parboiled/transform/AsmUtils/createClassReader(java.lang.Class)@g_asm-commons-3.2.jar.txt	4
+org/objectweb/asm/commons/Remapper/mapType(org.objectweb.asm.Type)@g_asm-commons-4.1.jar.txt	2
+org/objectweb/asm/commons/Remapper/mapDesc(java.lang.String)@g_asm-commons-3.2.jar.txt	1
+org/objectweb/asm/commons/Remapper/mapType(org.objectweb.asm.Type)@g_asm-commons-3.2.jar.txt	0

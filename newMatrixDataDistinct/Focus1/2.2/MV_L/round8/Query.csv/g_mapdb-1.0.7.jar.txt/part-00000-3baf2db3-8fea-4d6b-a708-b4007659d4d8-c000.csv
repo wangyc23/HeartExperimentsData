@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/mapdb/Fun$Function2/run(java.lang.Object,java.lang.Object)
+java/util/Collections/addAll(java.util.Collection,java.lang.Object[])
+java/util/Iterator/next()

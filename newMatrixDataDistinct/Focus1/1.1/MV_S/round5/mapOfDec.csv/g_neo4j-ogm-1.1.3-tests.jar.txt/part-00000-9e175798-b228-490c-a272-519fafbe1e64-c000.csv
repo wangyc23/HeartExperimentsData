@@ -1,0 +1,5 @@
+org/neo4j/ogm/integration/tree/TreeIntegrationTest/shouldCreateTreeProperly()@g_neo4j-ogm-1.1.2-tests.jar.txt	4
+org/neo4j/ogm/integration/pizza/PizzaIntegrationTest/shouldBeAbleToSaveAndLoadPizzaWithToppingsAndCrust()@g_neo4j-ogm-1.1.2-tests.jar.txt	1
+org/neo4j/ogm/integration/RelationshipEntityTest/shouldDirectlyUpdateR()@g_neo4j-ogm-1.1.2-tests.jar.txt	2
+org/neo4j/ogm/integration/satellite/SatelliteIntegrationTest/shouldCommitLongTransaction()@g_neo4j-ogm-1.1.2-tests.jar.txt	0
+org/neo4j/ogm/integration/pizza/PizzaIntegrationTest/shouldBeAbleToSaveAndRetrieveFullyLoadedPizza()@g_neo4j-ogm-1.1.2-tests.jar.txt	3

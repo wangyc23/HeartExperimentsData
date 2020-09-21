@@ -1,0 +1,5 @@
+net/didion/jwnl/dictionary/morph/DetachSuffixesOperation/execute(net.didion.jwnl.data.POS,java.lang.String,net.didion.jwnl.dictionary.morph.BaseFormSet)@g_jempbox-1.8.13.jar.txt	2
+org/postgresql/util/HStoreConverter/toBytes(java.util.Map,org.postgresql.core.Encoding)@g_postgresql-9.3-1102-jdbc41.jar.txt	0
+org/postgresql/jdbc2/AbstractJdbc2Connection/oidsToString(java.util.Set)@g_jempbox-1.8.13.jar.txt	3
+org/postgresql/core/types/PGNumber/castToServerType(java.lang.Number,int)@g_postgresql-9.3-1102-jdbc41.jar.txt	1
+org/postgresql/gss/GssAction/run()@g_jempbox-1.8.13.jar.txt	4

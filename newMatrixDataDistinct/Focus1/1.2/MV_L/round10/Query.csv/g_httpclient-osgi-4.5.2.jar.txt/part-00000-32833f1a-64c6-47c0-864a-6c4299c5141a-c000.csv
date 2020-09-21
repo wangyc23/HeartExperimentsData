@@ -1,0 +1,4 @@
+org/apache/http/util/CharArrayBuffer/CharArrayBuffer(int)
+org/apache/http/util/CharArrayBuffer/append(byte[],int,int)
+java/lang/StringBuilder/StringBuilder()
+org/apache/http/util/CharArrayBuffer/append(java.lang.String)

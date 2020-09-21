@@ -1,0 +1,4 @@
+org/apache/maven/project/MavenProject/getCompileClasspathElements()
+org/xenei/junit/contract/ClassPathUtils/findClasses(java.lang.String,java.lang.String)
+java/util/Iterator/hasNext()
+java/net/URI/toURL()

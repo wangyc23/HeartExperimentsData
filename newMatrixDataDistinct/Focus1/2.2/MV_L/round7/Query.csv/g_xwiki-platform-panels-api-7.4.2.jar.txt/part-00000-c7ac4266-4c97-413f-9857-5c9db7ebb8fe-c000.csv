@@ -1,0 +1,4 @@
+org/xwiki/rendering/block/XDOM/clone()
+org/slf4j/Logger/error(java.lang.String,java.lang.Object)
+org/xwiki/job/event/status/JobProgressManager/startStep(java.lang.Object,java.lang.String,java.lang.String,java.lang.Object[])
+org/xwiki/panels/internal/PanelWikiUIExtension$1/1(org.xwiki.panels.internal.PanelWikiUIExtension,org.xwiki.rendering.block.XDOM)

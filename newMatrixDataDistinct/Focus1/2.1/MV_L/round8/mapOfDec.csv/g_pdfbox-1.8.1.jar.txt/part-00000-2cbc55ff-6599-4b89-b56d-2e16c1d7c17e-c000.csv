@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/font/PDTrueTypeFont/getFontWidth(int)@g_pdfbox-1.7.0.jar.txt	4
+org/apache/pdfbox/OverlayPDF/main(java.lang.String[])@g_pdfbox-1.7.0.jar.txt	1
+org/apache/pdfbox/pdmodel/graphics/shading/Type4ShadingContext/getTriangleList(java.awt.geom.AffineTransform,org.apache.pdfbox.util.Matrix)@g_pdfbox-1.7.0.jar.txt	2
+org/apache/pdfbox/pdmodel/graphics/xobject/PDJpeg/getApp14AdobeTransform(byte[])@g_pdfbox-1.8.8.jar.txt	0
+org/apache/pdfbox/pdmodel/interactive/form/PDAppearance/generateListboxAppearance(org.apache.pdfbox.pdmodel.interactive.annotation.PDAnnotationWidget,org.apache.pdfbox.pdmodel.font.PDFont,java.util.List,java.util.List,org.apache.pdfbox.pdmodel.interactive.annotation.PDAppearanceStream,java.lang.String)@g_pdfbox-1.7.0.jar.txt	3

@@ -1,0 +1,5 @@
+dk/statsbiblioteket/scape/arcunpacker/mapreduce/FileUtils/deleteTempFiles(java.io.File)@309096ccb481a893c9b550d2c7461342ea3d1edf.txt	4
+org/linkeddata/utils/QueryChunks/writeInsertQuery(org.linkeddata.utils.Model,java.lang.String)@309096ccb481a893c9b550d2c7461342ea3d1edf.txt	0
+org/commonjava/web/fd/model/Workspace/getFileMetadataMap(java.lang.String)@309096ccb481a893c9b550d2c7461342ea3d1edf.txt	3
+dk/statsbiblioteket/scape/arcunpacker/CLITest/testPrintUsage()@309096ccb481a893c9b550d2c7461342ea3d1edf.txt	2
+org/linkeddata/triplegeo/rest/FileUpload/getWorkingDir(org.linkeddata.triplegeo.rest.ServletContext)@309096ccb481a893c9b550d2c7461342ea3d1edf.txt	1

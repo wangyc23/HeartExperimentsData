@@ -1,0 +1,4 @@
+io/netty/buffer/CompositeByteBuf/CompositeByteBuf(io.netty.buffer.ByteBufAllocator,boolean,int,java.lang.Iterable)
+java/util/ArrayList/ArrayList(int)
+java/util/List/isEmpty()
+java/util/List/add(E)

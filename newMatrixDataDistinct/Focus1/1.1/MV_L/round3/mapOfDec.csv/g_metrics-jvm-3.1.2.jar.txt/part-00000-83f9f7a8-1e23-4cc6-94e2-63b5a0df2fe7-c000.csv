@@ -1,0 +1,5 @@
+org/carrot2/text/preprocessing/filter/MinLengthLabelFilterDescriptor/<clinit>()@g_carrot2-core-3.12.0.jar.txt	0
+org/carrot2/source/boss/BossSearchServiceDescriptor/<clinit>()@g_carrot2-core-3.12.0.jar.txt	2
+org/carrot2/source/pubmed/PathTrackingHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_carrot2-core-3.12.0.jar.txt	4
+org/carrot2/util/tests/SuiteResultInfoWriter/testRunStarted(org.junit.runner.Description)@g_carrot2-core-3.12.0.jar.txt	1
+org/carrot2/util/attribute/AttributeBinder/AttributeBinderActionBind/performAction(org.carrot2.util.attribute.AttributeBinder$BindingTracker,int,java.lang.Object,java.lang.reflect.Field,java.lang.Object,com.google.common.base.Predicate)@g_carrot2-core-3.12.0.jar.txt	3

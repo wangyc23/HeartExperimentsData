@@ -1,0 +1,5 @@
+org/eclipse/jgit/internal/storage/pack/PackWriter/parallelDeltaSearch(org.eclipse.jgit.lib.ProgressMonitor,org.eclipse.jgit.internal.storage.pack.ObjectToPack[],int,int)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	2
+org/eclipse/jgit/api/ApplyCommand/apply(java.io.File,org.eclipse.jgit.patch.FileHeader)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	4
+org/eclipse/jgit/internal/storage/pack/PackWriter/runTasks(java.util.concurrent.ExecutorService,org.eclipse.jgit.lib.ThreadSafeProgressMonitor,org.eclipse.jgit.internal.storage.pack.DeltaTask$Block,java.util.List)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	1
+org/eclipse/jgit/internal/storage/pack/DeltaTask/Block/computeTopPaths()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	0
+org/eclipse/jgit/diff/RenameDetector/findExactRenames(org.eclipse.jgit.lib.ProgressMonitor)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	3

@@ -1,0 +1,5 @@
+jline/ClassNameCompletor/getClassFiles(java.lang.String,java.util.Set,java.io.File,int[])@g_jline-0.9.1.jar.txt	3
+jline/UnixTerminal/getTerminalProperty(java.lang.String)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	4
+jline/ClassNameCompletor/getClassFiles(java.lang.String,java.util.Set,java.io.File,int[])@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	1
+jline/FileNameCompletor/matchFiles(java.lang.String,java.lang.String,java.io.File[],java.util.List)@g_jline-0.9.1.jar.txt	2
+jline/FileNameCompletor/matchFiles(java.lang.String,java.lang.String,java.io.File[],java.util.List)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	0

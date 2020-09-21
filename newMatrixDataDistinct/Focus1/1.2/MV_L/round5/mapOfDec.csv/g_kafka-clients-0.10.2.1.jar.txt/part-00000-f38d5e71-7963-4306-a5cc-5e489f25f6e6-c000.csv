@@ -1,0 +1,5 @@
+org/jgroups/protocols/MERGE3/convertViews()@g_ehcache-core-2.6.2.jar.txt	1
+org/jgroups/util/PropertiesToAsciidoc/main(java.lang.String[])@g_ehcache-core-2.6.2.jar.txt	3
+org/jgroups/protocols/FD_SOCK/printCache()@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/transaction/AbstractTransactionIDFactory/markForCommit(net.sf.ehcache.transaction.TransactionID)@g_ehcache-core-2.6.2.jar.txt	4
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_ehcache-core-2.6.2.jar.txt	0

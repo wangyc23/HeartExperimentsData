@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/springframework/beans/factory/support/BeanDefinitionBuilder/getBeanDefinition()
+org/springframework/beans/factory/support/BeanDefinitionRegistry/registerBeanDefinition(java.lang.String,org.springframework.beans.factory.config.BeanDefinition)
+org/springframework/social/config/support/JdbcConnectionRepositoryConfigSupport/decorateWithScopedProxy(java.lang.String,org.springframework.beans.factory.config.BeanDefinition,org.springframework.beans.factory.support.BeanDefinitionRegistry)

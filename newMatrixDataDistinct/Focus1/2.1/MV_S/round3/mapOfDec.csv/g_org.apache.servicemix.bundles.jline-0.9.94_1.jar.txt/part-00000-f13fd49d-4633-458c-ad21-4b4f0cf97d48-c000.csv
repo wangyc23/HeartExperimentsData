@@ -1,0 +1,5 @@
+org/apache/maven/wagon/AbstractWagon/getTransfer(org.apache.maven.wagon.resource.Resource,java.io.File,java.io.InputStream,boolean,int)@g_wagon-provider-api-1.0-alpha-5.jar.txt	4
+org/apache/maven/it/util/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_maven-verifier-1.2.jar.txt	0
+org/apache/maven/wagon/util/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_wagon-provider-api-1.0-alpha-5.jar.txt	3
+org/apache/maven/it/Verifier/runCommandLine(org.apache.maven.it.util.cli.Commandline,java.io.File)@g_maven-verifier-1.2.jar.txt	1
+org/apache/maven/it/Verifier/verifyExpectedResult(java.lang.String,boolean)@g_maven-verifier-1.2.jar.txt	2

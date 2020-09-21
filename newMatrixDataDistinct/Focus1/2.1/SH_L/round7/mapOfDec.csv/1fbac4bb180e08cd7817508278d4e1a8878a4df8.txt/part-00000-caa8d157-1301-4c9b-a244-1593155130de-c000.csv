@@ -1,0 +1,5 @@
+me/calvinliu/netty/telnet/TelnetClientInitializer/initChannel(io.netty.channel.socket.SocketChannel)@054c196d652616635780c1cd8804bf64116b667e.txt	3
+me/calvinliu/netty/telnet/TelnetServerInitializer/initChannel(io.netty.channel.socket.SocketChannel)@054c196d652616635780c1cd8804bf64116b667e.txt	2
+me/calvinliu/netty/securechat/SecureChatClientInitializer/initChannel(io.netty.channel.socket.SocketChannel)@054c196d652616635780c1cd8804bf64116b667e.txt	0
+me/calvinliu/netty/securechat/SecureChatServerInitializer/initChannel(io.netty.channel.socket.SocketChannel)@054c196d652616635780c1cd8804bf64116b667e.txt	1
+io/netty/example/telnet/TelnetServerInitializer/initChannel(io.netty.channel.socket.SocketChannel)@02d7dac5849bf9334462484d345bd02d8cef1226.txt	4

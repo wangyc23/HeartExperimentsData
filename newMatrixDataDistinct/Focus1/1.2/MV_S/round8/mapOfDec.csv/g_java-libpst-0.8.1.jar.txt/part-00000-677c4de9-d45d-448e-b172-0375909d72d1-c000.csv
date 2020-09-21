@@ -1,0 +1,5 @@
+com/itextpdf/text/pdf/CFFFont/getCID(java.lang.String)@g_itextpdf-5.5.13.jar.txt	0
+com/itextpdf/text/FontFactoryImp/register(java.lang.String,java.lang.String)@g_itextpdf-5.5.13.jar.txt	1
+com/itextpdf/xmp/impl/ParseRDF/rdf_ResourcePropertyElement(com.itextpdf.xmp.impl.XMPMetaImpl,com.itextpdf.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_itextpdf-5.5.13.jar.txt	2
+com/itextpdf/text/pdf/SimpleBookmark/exportToXMLNode(java.util.List,java.io.Writer,int,boolean)@g_itextpdf-5.5.13.jar.txt	4
+com/itextpdf/text/pdf/XfdfReader/endElement(java.lang.String)@g_itextpdf-5.5.13.jar.txt	3

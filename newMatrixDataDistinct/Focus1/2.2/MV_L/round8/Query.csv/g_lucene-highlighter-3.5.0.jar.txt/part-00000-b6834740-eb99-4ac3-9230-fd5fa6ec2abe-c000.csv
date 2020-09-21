@@ -1,0 +1,4 @@
+org/apache/lucene/index/Term/field()
+org/apache/lucene/search/TermRangeQuery/getField()
+org/apache/lucene/search/WildcardQuery/getTerm()
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,5 @@
+org/apache/poi/xssf/usermodel/XSSFSimpleShape/setTextAutofit(org.apache.poi.xssf.usermodel.TextAutofit)@g_poi-ooxml-3.9.jar.txt	3
+org/apache/poi/xwpf/usermodel/XWPFRun/getCTPictures(org.apache.xmlbeans.XmlObject)@g_poi-ooxml-3.9.jar.txt	0
+org/apache/poi/xssf/model/StylesTable/createCellStyle()@g_poi-ooxml-3.9.jar.txt	2
+org/apache/poi/util/OOXMLLite/getLoadedClasses(java.lang.String)@g_poi-ooxml-3.9.jar.txt	1
+org/apache/poi/xwpf/usermodel/XWPFParagraph/buildRunsInOrderFromXml(org.apache.xmlbeans.XmlObject)@g_poi-ooxml-3.9.jar.txt	4

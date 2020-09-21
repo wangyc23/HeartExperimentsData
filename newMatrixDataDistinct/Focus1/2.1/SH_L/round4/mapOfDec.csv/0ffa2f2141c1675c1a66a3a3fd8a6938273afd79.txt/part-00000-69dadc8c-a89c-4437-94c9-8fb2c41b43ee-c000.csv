@@ -1,0 +1,5 @@
+org/jboss/errai/marshalling/client/Marshalling/toJSON(java.lang.Object)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	2
+org/jboss/errai/marshalling/client/Marshalling/toJSON(java.util.List)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	4
+org/jboss/errai/marshalling/tests/ServerMarshallingTest/testEncodeDecode(java.lang.Class,T)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	3
+org/jboss/errai/marshalling/client/protocols/ErraiProtocol/encodePayload(java.util.Map)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	0
+org/jboss/errai/marshalling/client/Marshalling/toJSON(java.util.Map)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	1

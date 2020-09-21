@@ -1,0 +1,4 @@
+javax/ws/rs/core/MediaType/isWildcardType()
+java/util/List/size()
+java/lang/String/equals(java.lang.Object)
+java/util/List/get(int)

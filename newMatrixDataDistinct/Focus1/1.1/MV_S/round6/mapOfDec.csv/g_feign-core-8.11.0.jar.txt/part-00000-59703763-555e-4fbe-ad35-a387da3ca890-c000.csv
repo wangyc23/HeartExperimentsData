@@ -1,0 +1,5 @@
+org/eclipse/osgi/container/ModuleDatabase/Persistence/writeMap(java.util.Map,java.io.DataOutputStream)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	1
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	0
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistrationImpl/createProperties(java.util.Dictionary)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	4
+org/apache/felix/resolver/Candidates/checkSubstitutes(java.util.List)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	3
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/getFileGenerations(java.io.File)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	2

@@ -1,0 +1,4 @@
+scala/sys/process/Process$/Spawn()
+java/lang/Thread/start()
+scala/sys/process/BasicIO$Streamed/stream()
+scala/sys/process/BasicIO$Streamed/process()

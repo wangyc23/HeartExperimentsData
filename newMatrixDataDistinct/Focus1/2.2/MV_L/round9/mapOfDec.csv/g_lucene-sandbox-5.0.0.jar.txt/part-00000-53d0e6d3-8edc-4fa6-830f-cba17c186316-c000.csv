@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/write(org.apache.lucene.index.Fields)@g_lucene-sandbox-6.5.0.jar.txt	3
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/write(org.apache.lucene.index.Fields)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/document/LatLonPointInPolygonQuery/1/scorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-sandbox-6.5.0.jar.txt	4
+org/apache/lucene/document/LatLonPointInPolygonQuery/1/scorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-sandbox-6.0.0.jar.txt	2
+org/apache/lucene/document/LatLonPointDistanceQuery/1/scorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-sandbox-6.0.0.jar.txt	0

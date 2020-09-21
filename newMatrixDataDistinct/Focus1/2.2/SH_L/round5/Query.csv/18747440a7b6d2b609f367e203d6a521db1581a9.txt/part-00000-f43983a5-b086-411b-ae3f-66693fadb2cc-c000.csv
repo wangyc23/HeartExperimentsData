@@ -1,0 +1,4 @@
+io/dropwizard/hibernate/Person/getName()
+io/dropwizard/hibernate/Person/getEmail()
+io/dropwizard/hibernate/SessionFactoryFactoryTest/build()
+io/dropwizard/hibernate/Person/getBirthday()

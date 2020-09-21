@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/core/Framework/findVMProfile()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/osgi/storagemanager/StorageManager/updateTable()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/osgi/framework/internal/core/Framework/setBootDelegation()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/osgi/framework/internal/core/Framework/initializeProperties(java.util.Properties)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/internal/service/security/DefaultAuthorizationEngine/<clinit>()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0

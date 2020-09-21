@@ -1,0 +1,4 @@
+org/json4s/scalap/scalasig/ScalaSigEntryParsers$/objectSymbol()
+scala/Predef$/wrapRefArray(java.lang.Object[])
+org/json4s/scalap/scalasig/ScalaSigEntryParsers$/aliasSymbol()
+org/json4s/scalap/scalasig/ScalaSigEntryParsers$/classSymbol()

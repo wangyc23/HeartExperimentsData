@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+org/apache/maven/project/MavenProject/getCompileSourceRoots()
+java/io/File/File(java.io.File,java.lang.String)
+java/util/Iterator/hasNext()

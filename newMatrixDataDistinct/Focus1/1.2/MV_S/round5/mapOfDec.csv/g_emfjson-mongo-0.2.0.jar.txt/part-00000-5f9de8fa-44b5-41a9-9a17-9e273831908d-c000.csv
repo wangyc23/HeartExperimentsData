@@ -1,0 +1,5 @@
+org/jsonschema2pojo/rules/ObjectRule/createClass(java.lang.String,com.fasterxml.jackson.databind.JsonNode,com.sun.codemodel.JPackage)@g_jsonschema2pojo-core-0.4.0.jar.txt	0
+org/jsonschema2pojo/rules/EnumRule/createEnum(com.fasterxml.jackson.databind.JsonNode,java.lang.String,com.sun.codemodel.JClassContainer)@g_jsonschema2pojo-core-0.4.0.jar.txt	1
+org/springframework/data/mongodb/core/query/Criteria/getCriteriaObject()@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	2
+org/springframework/data/mongodb/repository/query/MongoQueryMethod/isGeoNearQuery(java.lang.reflect.Method)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	4
+org/springframework/data/mongodb/core/convert/DefaultDbRefResolver/LazyLoadingInterceptor/proxyToString(java.lang.Object)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	3

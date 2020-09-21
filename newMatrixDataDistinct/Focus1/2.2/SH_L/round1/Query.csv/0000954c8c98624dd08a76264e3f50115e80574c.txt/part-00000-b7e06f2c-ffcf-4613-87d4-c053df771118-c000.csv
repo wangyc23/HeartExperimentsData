@@ -1,0 +1,4 @@
+pangeanembassy/security/web/ForgotPasswordForm/getEmailAddress()
+org/springframework/mail/SimpleMailMessage/setSubject(java.lang.String)
+org/springframework/mail/SimpleMailMessage/setText(java.lang.String)
+org/springframework/mail/MailSender/send(org.springframework.mail.SimpleMailMessage)

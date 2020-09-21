@@ -1,0 +1,5 @@
+org/junit/internal/runners/MethodValidator/validateTestMethods(java.lang.Class,boolean)@g_junit-4.12-beta-3.jar.txt	0
+junit/framework/TestCase/runTest()@g_junit-4.12-beta-3.jar.txt	2
+org/junit/internal/runners/SuiteMethod/testFromSuiteMethod(java.lang.Class)@g_junit-4.12-beta-3.jar.txt	3
+junit/framework/TestSuite/addTestsFromTestCase(java.lang.Class)@g_junit-4.12-beta-3.jar.txt	1
+org/junit/runners/Parameterized/getParametersMethod()@g_junit-4.12-beta-3.jar.txt	4

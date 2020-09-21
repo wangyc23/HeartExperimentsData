@@ -1,0 +1,5 @@
+org/semarglproject/xml/XmlUtils/isPrefixIgnorable(java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_semargl-core-0.7.jar.txt	2
+org/semarglproject/xml/XmlUtils/serializeOpenTag(java.lang.String,java.lang.String,java.util.Map,org.xml.sax.Attributes,boolean)@g_semargl-core-0.7.jar.txt	0
+org/apache/tiles/BasicAttributeContext/addMissing(java.util.Map)@g_tiles-api-3.0.4.jar.txt	1
+org/apache/tiles/access/TilesAccess/setContainer(org.apache.tiles.request.ApplicationContext,org.apache.tiles.TilesContainer,java.lang.String)@g_tiles-api-3.0.4.jar.txt	3
+org/apache/tiles/BasicAttributeContext/addMissingAttributes(java.util.Map,java.util.Map)@g_tiles-api-3.0.4.jar.txt	4

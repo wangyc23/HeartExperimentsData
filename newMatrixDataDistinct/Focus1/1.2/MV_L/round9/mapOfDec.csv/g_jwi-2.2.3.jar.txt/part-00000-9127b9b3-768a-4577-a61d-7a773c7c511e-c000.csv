@@ -1,0 +1,5 @@
+org/carrot2/source/boss/BossSearchService/query(java.lang.String,int,int)@g_solr-carrot2-core-3.5.0.jar.txt	2
+org/carrot2/source/yahoo/YahooSearchService/parseResponseXML(java.io.InputStream)@g_solr-carrot2-core-3.5.0.jar.txt	3
+org/carrot2/source/pubmed/PubMedDocumentSource/getPubMedAbstracts(java.util.List)@g_solr-carrot2-core-3.5.0.jar.txt	4
+org/carrot2/source/microsoft/BingDocumentSource/doSearch(java.lang.String,int,int)@g_solr-carrot2-core-3.5.0.jar.txt	0
+org/carrot2/source/yahoo/YahooSearchService/query(java.lang.String,int,int)@g_solr-carrot2-core-3.5.0.jar.txt	1

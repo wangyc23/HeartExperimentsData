@@ -1,0 +1,4 @@
+org/apache/aries/unittest/fixture/ArchiveFixture/ManifestFixture/attribute(java.lang.String,java.lang.String)
+org/apache/aries/unittest/fixture/ArchiveFixture/ZipFixture/manifest()
+org/apache/aries/unittest/fixture/ArchiveFixture/ZipFixture/writeOut(java.io.OutputStream)
+java/lang/ClassLoader/getResourceAsStream(java.lang.String)

@@ -1,0 +1,5 @@
+org/springframework/data/repository/config/RepositoryConfigurationDelegate/registerRepositoriesIn(org.springframework.beans.factory.support.BeanDefinitionRegistry,org.springframework.data.repository.config.RepositoryConfigurationExtension)@g_spring-data-commons-1.9.1.RELEASE.jar.txt	2
+org/springframework/data/web/SortHandlerMethodArgumentResolver/foldIntoExpressions(org.springframework.data.domain.Sort)@g_spring-data-commons-1.9.1.RELEASE.jar.txt	0
+org/springframework/data/web/HateoasPageableHandlerMethodArgumentResolver/getPaginationTemplateVariables(org.springframework.core.MethodParameter,org.springframework.web.util.UriComponents)@g_spring-data-commons-1.9.1.RELEASE.jar.txt	3
+org/springframework/data/mapping/context/DefaultPersistentPropertyPath/toPath(java.lang.String,org.springframework.core.convert.converter.Converter)@g_spring-data-commons-1.9.1.RELEASE.jar.txt	4
+org/springframework/data/repository/config/CustomRepositoryImplementationDetector/detectCustomImplementation(java.lang.String,java.lang.Iterable)@g_spring-data-commons-1.9.1.RELEASE.jar.txt	1

@@ -1,0 +1,5 @@
+org/danielli/xultimate/core/json/jackson/JacksonTemplate/readValue(java.io.InputStream,java.lang.Class)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	2
+edu/ben/coursemanager/model/User/compareTo(edu.ben.coursemanager.model.User)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	4
+org/danielli/xultimate/jdbc/datasource/lookup/DataSourceContext/currentLookupKey()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	1
+edu/ben/coursemanager/test/NewsDaoTest/updateNewsTest()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	0
+org/danielli/xultimate/context/image/im4java/support/ImageCompositeTemplateImpl/addWatermarkText(java.io.File,java.io.File,java.lang.String,java.awt.Font,java.awt.Color,org.danielli.xultimate.context.image.model.Gravity)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	3

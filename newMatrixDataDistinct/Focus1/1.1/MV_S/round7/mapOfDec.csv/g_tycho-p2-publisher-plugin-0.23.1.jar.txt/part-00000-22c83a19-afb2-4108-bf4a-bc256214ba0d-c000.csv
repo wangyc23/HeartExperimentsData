@@ -1,0 +1,5 @@
+org/eclipse/tycho/core/osgitools/EclipseRepositoryProject/loadProducts(org.apache.maven.project.MavenProject)@g_tycho-core-0.23.1.jar.txt	3
+org/eclipse/pde/internal/swt/tools/IconExe/main(java.lang.String[])@g_tycho-packaging-plugin-0.23.1.jar.txt	1
+org/eclipse/tycho/core/maven/MavenDependencyInjector/newProjectDependencies(org.eclipse.tycho.ArtifactDescriptor)@g_tycho-core-0.23.1.jar.txt	4
+org/eclipse/tycho/packaging/PackagePluginMojo/createPluginJar()@g_tycho-packaging-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/packaging/IncludeValidationHelper/checkIncludesExist(java.lang.String,java.util.List,org.apache.maven.project.MavenProject,boolean,java.lang.String[])@g_tycho-packaging-plugin-0.23.1.jar.txt	0

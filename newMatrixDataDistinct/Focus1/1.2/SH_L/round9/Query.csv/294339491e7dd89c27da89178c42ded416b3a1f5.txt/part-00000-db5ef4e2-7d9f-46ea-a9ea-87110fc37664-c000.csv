@@ -1,0 +1,4 @@
+java/util/Set/size()
+mx/ecosur/multigame/gente/entity/GenteMove/getTrias()
+mx/ecosur/multigame/gente/entity/GenteGame/move(mx.ecosur.multigame.gente.entity.Move)
+mx/ecosur/multigame/gente/entity/GenteMove/getTesseras()

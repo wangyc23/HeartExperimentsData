@@ -1,0 +1,5 @@
+org/apache/poi/xssf/usermodel/XSSFDrawing/commit()@g_poi-ooxml-3.12.jar.txt	4
+org/apache/poi/xssf/usermodel/charts/XSSFValueAxis/createAxis(long,org.apache.poi.ss.usermodel.charts.AxisPosition)@g_poi-ooxml-3.8.jar.txt	1
+org/apache/poi/xssf/usermodel/charts/XSSFValueAxis/createAxis(long,org.apache.poi.ss.usermodel.charts.AxisPosition)@g_poi-ooxml-3.12.jar.txt	0
+org/apache/poi/util/OOXMLLite/getLoadedClasses(java.lang.String)@g_poi-ooxml-3.12.jar.txt	3
+org/apache/poi/xwpf/usermodel/XWPFRun/getCTPictures(org.apache.xmlbeans.XmlObject)@g_poi-ooxml-3.12.jar.txt	2

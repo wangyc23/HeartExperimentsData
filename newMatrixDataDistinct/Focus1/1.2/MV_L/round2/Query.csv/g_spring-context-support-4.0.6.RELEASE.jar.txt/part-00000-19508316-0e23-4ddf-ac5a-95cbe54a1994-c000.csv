@@ -1,0 +1,4 @@
+net/sf/ehcache/CacheManager/create(net.sf.ehcache.config.Configuration)
+net/sf/ehcache/config/ConfigurationFactory/parseConfiguration()
+net/sf/ehcache/CacheManager/getCacheManager(java.lang.String)
+net/sf/ehcache/config/ConfigurationFactory/parseConfiguration(java.io.InputStream)

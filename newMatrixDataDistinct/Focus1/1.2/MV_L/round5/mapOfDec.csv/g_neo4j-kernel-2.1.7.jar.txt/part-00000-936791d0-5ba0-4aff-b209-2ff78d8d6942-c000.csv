@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/util/CopyOnWriteAfterIteratorHashSet/conditionalRemove(java.util.Collection,boolean)@g_neo4j-kernel-2.1.5.jar.txt	4
+org/neo4j/graphdb/factory/GraphDatabaseBuilder/loadPropertiesFromURL(java.net.URL)@g_neo4j-kernel-2.1.5.jar.txt	3
+org/neo4j/kernel/configuration/Config/applyChanges(java.util.Map)@g_neo4j-kernel-2.1.5.jar.txt	2
+org/neo4j/kernel/impl/coreapi/TxStateTransactionDataSnapshot/takeSnapshot(org.neo4j.kernel.api.TxState,org.neo4j.kernel.impl.core.ThreadToStatementContextBridge)@g_neo4j-kernel-2.1.5.jar.txt	1
+org/neo4j/kernel/impl/api/index/IndexingService/applyRecoveredUpdates()@g_neo4j-kernel-2.1.5.jar.txt	0

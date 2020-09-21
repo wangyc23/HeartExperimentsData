@@ -1,0 +1,5 @@
+com/netflix/discovery/shared/Application/_shuffleAndStoreInstances(boolean,boolean,java.util.Map,com.netflix.discovery.EurekaClientConfig,com.netflix.discovery.InstanceRegionChecker)@g_eureka-core-1.3.4.jar.txt	2
+com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider/get()@g_eureka-core-1.3.4.jar.txt	0
+com/netflix/discovery/util/SystemUtil/getServerIPv4()@g_eureka-core-1.3.4.jar.txt	1
+com/netflix/eureka/cluster/PeerEurekaNode/sendHeartBeat(java.lang.String,java.lang.String,com.netflix.appinfo.InstanceInfo,com.netflix.appinfo.InstanceInfo$InstanceStatus,com.netflix.eureka.cluster.PeerEurekaNode$ReplicationTask)@g_eureka-core-1.3.4.jar.txt	4
+com/netflix/eureka/util/EIPManager/bindEIP()@g_eureka-core-1.3.4.jar.txt	3

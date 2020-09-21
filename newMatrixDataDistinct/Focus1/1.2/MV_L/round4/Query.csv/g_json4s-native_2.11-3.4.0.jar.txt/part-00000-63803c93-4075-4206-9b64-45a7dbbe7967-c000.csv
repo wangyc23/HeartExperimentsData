@@ -1,0 +1,4 @@
+scala/Some/x()
+org/json4s/native/JsonParser$Parser/fail(java.lang.String)
+scala/util/control/NonFatal$/unapply(java.lang.Throwable)
+org/json4s/native/JsonParser$ValStack/peek(java.lang.Class)

@@ -1,0 +1,4 @@
+io/netty/buffer/UnpooledUnsafeNoCleanerDirectByteBuf/capacity()
+java/lang/StringBuilder/append(java.lang.String)
+io/netty/buffer/UnpooledUnsafeNoCleanerDirectByteBuf/maxCapacity()
+java/nio/ByteBuffer/put(java.nio.ByteBuffer)

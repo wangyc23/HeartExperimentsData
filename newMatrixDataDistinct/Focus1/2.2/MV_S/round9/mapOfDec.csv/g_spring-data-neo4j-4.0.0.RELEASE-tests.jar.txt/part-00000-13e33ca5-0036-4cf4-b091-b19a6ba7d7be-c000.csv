@@ -1,0 +1,5 @@
+org/neo4j/ogm/integration/education/EducationIntegrationTest/loadingASchoolWithNegativeDepthShouldLoadAllConnectedEntities()@g_neo4j-ogm-1.1.3-tests.jar.txt	4
+org/neo4j/ogm/unit/mapper/model/bike/BikeTest/testDeserialiseBikeModel()@g_neo4j-ogm-1.1.3-tests.jar.txt	3
+org/neo4j/ogm/unit/session/capability/ExecuteQueryCapabilityTest/modifyingQueryShouldBePermittedWhenQueryingForObjects()@g_neo4j-ogm-1.1.3-tests.jar.txt	2
+org/neo4j/ogm/unit/metadata/MetaDataTest/testFindIterableMethodWithUniqueParameterisedType()@g_neo4j-ogm-1.1.3-tests.jar.txt	1
+org/neo4j/ogm/unit/metadata/MetaDataTest/testFindMultipleIterableMethodsWithSameParameterisedType()@g_neo4j-ogm-1.1.3-tests.jar.txt	0

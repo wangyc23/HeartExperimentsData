@@ -1,0 +1,4 @@
+javax/servlet/RequestDispatcher/forward(javax.servlet.ServletRequest,javax.servlet.ServletResponse)
+omw/metier/AnnonceManager/getInstance()
+javax/servlet/ServletRequest/setAttribute(java.lang.String,java.lang.Object)
+javax/servlet/ServletRequest/getRequestDispatcher(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/repository/vfs/VfsRepository/list(java.lang.String)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listAll(org.apache.ivy.plugins.repository.Repository,java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/plugins/parser/m2/PomModuleDescriptorBuilder/addDependencyMgt(org.apache.ivy.plugins.parser.m2.PomDependencyMgt)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/util/url/BasicURLHandler/checkStatusCode(java.net.URL,java.net.HttpURLConnection)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0

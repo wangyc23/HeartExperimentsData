@@ -1,0 +1,5 @@
+org/apache/ivy/util/FileUtil/dissect(java.lang.String)@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	1
+org/apache/ivy/core/report/ResolveReport/getArtifactsReports(org.apache.ivy.core.report.DownloadStatus,boolean)@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	4
+org/apache/ivy/core/search/SearchEngine/listModules(java.lang.String)@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	2
+org/apache/ivy/ant/IvyRepositoryReport/gen(org.apache.ivy.core.cache.ResolutionCacheManager,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	3
+org/codehaus/plexus/PlexusTestCase/setUp()@g_plexus-container-default-1.0-alpha-9-stable-1.jar.txt	0

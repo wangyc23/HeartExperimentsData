@@ -1,0 +1,5 @@
+au/com/bytecode/opencsv/ResultSetHelperService/getColumnValue(java.sql.ResultSet,int,int)@g_opencsv-2.3.jar.txt	2
+com/opencsv/CSVParser/parseLine(java.lang.String,boolean)@g_opencsv-2.3.jar.txt	3
+com/opencsv/ResultSetHelperService/getColumnValue(java.sql.ResultSet,int,int,boolean,java.lang.String,java.lang.String)@g_opencsv-2.3.jar.txt	1
+au/com/bytecode/opencsv/CSVWriter/getColumnValue(java.sql.ResultSet,int,int)@g_opencsv-2.3.jar.txt	4
+au/com/bytecode/opencsv/CSVParser/parseLine(java.lang.String,boolean)@g_opencsv-2.3.jar.txt	0

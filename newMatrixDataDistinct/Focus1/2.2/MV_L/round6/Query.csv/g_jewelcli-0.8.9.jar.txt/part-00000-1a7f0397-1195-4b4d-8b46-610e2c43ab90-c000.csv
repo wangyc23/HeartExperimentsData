@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Map/values()
+com/lexicalscope/jewelcli/internal/lamdaj/util/iterator/$ResettableIteratorOnArray/ResettableIteratorOnArray(java.lang.Object[])

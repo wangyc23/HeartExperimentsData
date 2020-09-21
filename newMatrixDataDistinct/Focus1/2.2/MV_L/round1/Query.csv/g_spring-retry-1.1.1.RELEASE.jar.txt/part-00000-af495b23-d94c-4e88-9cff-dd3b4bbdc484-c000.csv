@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(int)
+java/lang/StringBuilder/StringBuilder()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String,java.lang.Throwable)
+java/lang/StringBuilder/append(java.lang.Object)

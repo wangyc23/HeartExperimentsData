@@ -1,0 +1,5 @@
+org/baeldung/persistence/dao/rsql/UserRsqlSpecification/toPredicate(org.baeldung.persistence.dao.rsql.Root,org.baeldung.persistence.dao.rsql.CriteriaQuery,org.baeldung.persistence.dao.CriteriaBuilder)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	0
+com/baeldung/persistence/hibernate/FooSortingPersistenceServiceTest/whenCriteriaSortingStringNullsLastAsc_thenNullsLast()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	3
+com/baeldung/persistence/hibernate/FooSortingPersistenceServiceTest/whenHQlSortingByStringNullLast_thenLastNull()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	4
+org/baeldung/guava/GuavaOrderingExamplesTest/whenCollectionIsSortedNullsLastReversed_thenNullAreFirst()@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	2
+org/baeldung/persistence/dao/rsql/UserRsqlSpecification/toPredicate(org.baeldung.persistence.dao.Root,org.baeldung.persistence.dao.CriteriaQuery,org.baeldung.persistence.dao.CriteriaBuilder)@0279e2cf1e70dee0e3a6ec5d3974758d62781f95.txt	1

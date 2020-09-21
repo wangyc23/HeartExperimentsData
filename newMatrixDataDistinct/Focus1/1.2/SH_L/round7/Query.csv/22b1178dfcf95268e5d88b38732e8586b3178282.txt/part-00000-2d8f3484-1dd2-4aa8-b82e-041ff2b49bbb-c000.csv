@@ -1,0 +1,4 @@
+java/lang/CharSequence/toString()
+javax/lang/model/element/ExecutableElement/getSimpleName()
+java/lang/String/equals(java.lang.Object)
+java/util/Map/Entry/getKey()

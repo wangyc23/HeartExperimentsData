@@ -1,0 +1,5 @@
+org/glassfish/grizzly/nio/transport/UDPNIOConnection/drop(java.net.InetAddress,java.net.NetworkInterface,java.net.InetAddress)@g_grizzly-framework-2.3.22.jar.txt	3
+org/glassfish/grizzly/utils/Exceptions/getAllStackTracesAsString()@g_grizzly-framework-2.3.23.jar.txt	1
+org/glassfish/grizzly/utils/Charsets/preloadAllCharsets()@g_grizzly-framework-2.3.22.jar.txt	2
+org/glassfish/grizzly/utils/Exceptions/getAllStackTracesAsString()@g_grizzly-framework-2.3.22.jar.txt	0
+org/glassfish/grizzly/utils/ConcurrentHashMapV8/equals(java.lang.Object)@g_grizzly-framework-2.3.22.jar.txt	4

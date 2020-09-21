@@ -1,0 +1,4 @@
+javax/xml/namespace/QName/QName(java.lang.String,java.lang.String)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/lang/Object/equals(java.lang.Object)
+javax/xml/ws/WebServiceClient/targetNamespace()

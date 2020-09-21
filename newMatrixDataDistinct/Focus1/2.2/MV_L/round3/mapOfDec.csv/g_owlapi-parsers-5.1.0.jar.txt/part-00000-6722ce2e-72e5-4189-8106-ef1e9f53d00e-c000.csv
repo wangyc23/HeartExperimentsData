@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLAnnotationProperty)@g_owlapi-parsers-4.5.0.jar.txt	4
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLDatatype)@g_owlapi-parsers-4.5.0.jar.txt	1
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseFrameSections(boolean,java.util.Set,java.lang.Object,java.util.Map)@g_owlapi-parsers-4.5.0.jar.txt	3
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLDataProperty)@g_owlapi-distribution-5.1.0.jar.txt	0
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLClass)@g_owlapi-parsers-4.5.0.jar.txt	2

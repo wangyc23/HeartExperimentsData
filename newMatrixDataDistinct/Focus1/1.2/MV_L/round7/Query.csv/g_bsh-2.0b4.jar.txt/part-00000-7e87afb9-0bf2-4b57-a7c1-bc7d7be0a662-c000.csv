@@ -1,0 +1,4 @@
+java/net/Socket/getInputStream()
+java/awt/Label/Label(java.lang.String,int)
+bsh/util/AWTRemoteApplet/add(java.lang.String,java.awt.Component)
+java/net/Socket/Socket(java.lang.String,int)

@@ -1,0 +1,4 @@
+org/json/XMLTokener/back()
+org/json/XMLTokener/next()
+org/json/XMLTokener/more()
+java/lang/StringBuffer/append(java.lang.String)

@@ -1,0 +1,5 @@
+org/springframework/transaction/jta/WebLogicJtaTransactionManager/loadWebLogicTransactionClasses()@g_spring-tx-4.2.3.BUILD-SNAPSHOT.jar.txt	3
+org/springframework/transaction/jta/WebLogicJtaTransactionManager/doJtaResume(org.springframework.transaction.jta.JtaTransactionObject,java.lang.Object)@g_spring-tx-4.2.3.BUILD-SNAPSHOT.jar.txt	2
+org/springframework/transaction/jta/WebLogicJtaTransactionManager/doJtaResume(org.springframework.transaction.jta.JtaTransactionObject,java.lang.Object)@g_spring-tx-4.2.3.BUILD-20151114.225414-58.jar.txt	0
+org/springframework/transaction/jta/WebLogicJtaTransactionManager/loadWebLogicTransactionClasses()@g_spring-tx-4.2.3.BUILD-20151114.225414-58.jar.txt	1
+org/springframework/jca/work/jboss/JBossWorkManagerUtils/getWorkManager(java.lang.String)@g_spring-tx-4.2.3.BUILD-20151114.225414-58.jar.txt	4

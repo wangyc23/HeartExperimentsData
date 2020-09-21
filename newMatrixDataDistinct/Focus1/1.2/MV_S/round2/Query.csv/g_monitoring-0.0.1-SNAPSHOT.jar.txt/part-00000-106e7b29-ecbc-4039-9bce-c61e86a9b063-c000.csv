@@ -1,0 +1,4 @@
+java/sql/Connection/prepareStatement(java.lang.String)
+java/lang/Class/getSimpleName()
+java/sql/ResultSet/next()
+java/sql/SQLException/getMessage()

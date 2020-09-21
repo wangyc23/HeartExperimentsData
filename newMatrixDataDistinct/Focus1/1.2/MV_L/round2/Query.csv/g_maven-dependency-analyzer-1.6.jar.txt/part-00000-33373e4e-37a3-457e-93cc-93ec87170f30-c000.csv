@@ -1,0 +1,4 @@
+java/util/jar/JarFile/entries()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/io/File/getName()
+java/util/jar/JarFile/close()

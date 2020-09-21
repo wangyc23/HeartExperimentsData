@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/writers/wtp/EclipseWtpApplicationXMLWriter/updateApplicationXml(org.codehaus.plexus.util.xml.Xpp3Dom,org.codehaus.plexus.util.xml.Xpp3Dom,org.apache.maven.plugin.ide.IdeDependency)@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/GetMojo/execute()@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/eclipse/EclipsePlugin/getProjectNameTemplateForMavenProject(org.apache.maven.project.MavenProject)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportMojo/executeReport(java.util.Locale)@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/eclipse/reader/ReadWorkspaceLocations/getProjectLocation(java.io.File,java.io.File)@g_maven-dependency-plugin-2.8.jar.txt	3

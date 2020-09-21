@@ -1,0 +1,5 @@
+org/json4s/Extraction/ClassInstanceBuilder/anonfun/17/apply(scala.Tuple2)@g_json4s-core_2.11-3.4.0.jar.txt	0
+org/json4s/Xml/org$json4s$Xml$$toJValue$1(org.json4s.Xml$XElem$1)@g_json4s-core_2.11-3.4.0.jar.txt	2
+org/json4s/Extraction/ClassInstanceBuilder/org$json4s$Extraction$ClassInstanceBuilder$$instantiate()@g_json4s-core_2.11-3.4.0.jar.txt	4
+org/json4s/Extraction/decomposeObject$1(java.lang.Class,java.lang.Object,org.json4s.Formats,org.json4s.JsonWriter,java.lang.Object)@g_json4s-core_2.11-3.4.0.jar.txt	3
+org/json4s/prefs/EmptyValueStrategy/anon/2/anonfun/replaceEmpty/2/apply(scala.Tuple2)@g_json4s-core_2.11-3.4.0.jar.txt	1

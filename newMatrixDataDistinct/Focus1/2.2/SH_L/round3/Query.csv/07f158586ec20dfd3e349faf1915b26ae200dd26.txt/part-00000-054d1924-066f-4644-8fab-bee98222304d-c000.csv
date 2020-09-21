@@ -1,0 +1,4 @@
+org/apache/isis/applib/fixturescripts/FixtureScript/ExecutionContext/setParameter(java.lang.String,java.lang.String)
+org/apache/isis/applib/DomainObjectContainer/flush()
+org/apache/isis/applib/AbstractContainedObject/getContainer()
+java/util/List/addAll(java.util.Collection)

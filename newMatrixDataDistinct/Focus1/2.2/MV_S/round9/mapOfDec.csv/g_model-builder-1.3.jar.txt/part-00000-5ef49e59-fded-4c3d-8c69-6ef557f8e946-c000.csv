@@ -1,0 +1,5 @@
+edu/stanford/nlp/semgraph/semgrex/SemgrexPattern/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/trees/EnglishGrammaticalStructure/collapseReferent(java.util.Collection)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/stats/Counters/toTiedRankCounter(edu.stanford.nlp.stats.Counter)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/FactoredParser/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/lexparser/ChineseSimWordAvgDepGrammar/probTBwithSimWords(edu.stanford.nlp.parser.lexparser.IntDependency)@g_stanford-parser-3.5.2.jar.txt	2

@@ -1,0 +1,5 @@
+org/netlib/lapack/Sgeesx/sgeesx(java.lang.String,java.lang.String,java.lang.Object,java.lang.String,int,float[],int,int,org.netlib.util.intW,float[],int,float[],int,float[],int,int,org.netlib.util.floatW,org.netlib.util.floatW,float[],int,int,int[],int,int,boolean[],int,org.netlib.util.intW)@g_unidataCommon-4.2.20.jar.txt	0
+org/apache/lucene/spatial3d/geom/GeoPolygonFactory/EdgeBuffer/replace(java.util.List,org.apache.lucene.spatial3d.geom.GeoPolygonFactory$Edge)@g_unidataCommon-4.2.20.jar.txt	3
+ucar/unidata/geoloc/projection/UtmCoordinateConversion/LatLon2MGRUTM/convertLatLonToMGRUTM(double,double)@g_unidataCommon-4.2.20.jar.txt	4
+ucar/unidata/util/StringUtil/parseCoordinates(java.lang.String)@g_unidataCommon-4.2.20.jar.txt	2
+ucar/unidata/util/Format/formatDouble(double,int,int)@g_unidataCommon-4.2.20.jar.txt	1

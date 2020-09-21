@@ -1,0 +1,4 @@
+com/google/gson/JsonArray/add(com.google.gson.JsonElement)
+com/google/gson/JsonPrimitive/JsonPrimitive(java.lang.String)
+com/google/gson/JsonArray/JsonArray()
+com/google/gson/JsonObject/add(java.lang.String,com.google.gson.JsonElement)

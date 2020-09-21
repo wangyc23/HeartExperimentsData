@@ -1,0 +1,4 @@
+eu/learnpad/rest/utils/internal/DefaultRestUtils/getClient()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/httpclient/HttpClient/executeMethod(org.apache.commons.httpclient.HttpMethod)
+java/lang/StringBuilder/StringBuilder()

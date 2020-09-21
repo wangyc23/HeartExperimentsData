@@ -1,0 +1,4 @@
+java/util/Enumeration/hasMoreElements()
+java/lang/StringBuffer/append(java.lang.String)
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/lang/Boolean/valueOf(java.lang.String)

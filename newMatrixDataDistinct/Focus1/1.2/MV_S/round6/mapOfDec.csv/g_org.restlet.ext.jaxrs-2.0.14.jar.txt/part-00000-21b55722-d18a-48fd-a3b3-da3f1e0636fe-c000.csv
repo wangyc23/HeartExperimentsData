@@ -1,0 +1,5 @@
+org/restlet/routing/Template/format(org.restlet.util.Resolver)@g_org.restlet-2.0.14.jar.txt	2
+org/restlet/engine/http/header/HeaderUtils/addRequestHeaders(org.restlet.Request,org.restlet.util.Series)@g_org.restlet-2.0.14.jar.txt	1
+org/restlet/routing/Route/validateAttributes(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	3
+org/restlet/routing/Validator/beforeHandle(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	0
+org/restlet/routing/Template/getRegexPattern()@g_org.restlet-2.0.14.jar.txt	4

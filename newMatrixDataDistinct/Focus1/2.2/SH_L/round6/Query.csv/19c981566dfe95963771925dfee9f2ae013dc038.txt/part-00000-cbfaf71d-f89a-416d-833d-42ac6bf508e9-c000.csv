@@ -1,0 +1,4 @@
+org/jboss/errai/bus/server/ClusteringTests/testSessionMovesAfterBeingCached()/$anonymous2/()
+org/jboss/errai/bus/server/ClusteringTests/testSessionMovesAfterBeingCached()/$anonymous1/()
+java/util/concurrent/CountDownLatch/CountDownLatch(int)
+org/jboss/errai/bus/server/ClusteringTests/testSessionMovesAfterBeingCached()/StateHolder/StateHolder()

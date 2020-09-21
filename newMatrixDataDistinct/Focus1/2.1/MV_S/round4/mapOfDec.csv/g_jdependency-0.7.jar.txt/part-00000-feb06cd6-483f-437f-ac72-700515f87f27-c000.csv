@@ -1,0 +1,5 @@
+org/codehaus/classworlds/Configurator/configure(java.io.InputStream)@g_classworlds-1.1.jar.txt	4
+org/codehaus/classworlds/UberJarRealmClassLoader/buildIndexForJar(java.net.URL)@g_classworlds-1.1.jar.txt	3
+org/objectweb/asm/util/ASMifier/main(java.lang.String[])@g_asm-util-4.1.jar.txt	2
+org/objectweb/asm/util/Textifier/main(java.lang.String[])@g_asm-util-4.1.jar.txt	0
+org/objectweb/asm/util/CheckClassAdapter/verify(org.objectweb.asm.ClassReader,java.lang.ClassLoader,boolean,java.io.PrintWriter)@g_asm-util-4.1.jar.txt	1

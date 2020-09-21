@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/FileUtils/sizeOfDirectory(java.io.File)@g_plexus-utils-3.0.15.jar.txt	3
+org/codehaus/plexus/util/cli/Commandline/execute()@g_plexus-utils-3.0.15.jar.txt	2
+org/codehaus/plexus/util/DirectoryScanner/scan()@g_plexus-utils-3.0.15.jar.txt	4
+org/codehaus/plexus/util/FileUtils/copyDirectoryStructure(java.io.File,java.io.File,java.io.File,boolean)@g_plexus-utils-3.0.15.jar.txt	0
+org/codehaus/plexus/util/FileUtils/copyDirectoryStructure(java.io.File,java.io.File,java.io.File,boolean)@g_plexus-utils-3.0.17.jar.txt	1

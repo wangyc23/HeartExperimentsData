@@ -1,0 +1,5 @@
+org/springframework/security/config/authentication/AuthenticationManagerBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.0.1.RELEASE.jar.txt	0
+org/springframework/scheduling/config/TaskExecutorFactoryBean/determinePoolSizeRange(org.springframework.beans.BeanWrapper)@g_spring-context-4.1.7.RELEASE.jar.txt	1
+org/springframework/security/config/ldap/LdapUserServiceBeanDefinitionParser/parseUserDetailsClassOrUserMapperRef(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.0.1.RELEASE.jar.txt	2
+org/springframework/security/config/http/FormLoginBeanDefinitionParser/createFilterBean(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_spring-security-config-4.0.1.RELEASE.jar.txt	3
+org/springframework/security/config/http/HttpConfigurationBuilder/createSecurityContextPersistenceFilter()@g_spring-security-config-4.0.1.RELEASE.jar.txt	4

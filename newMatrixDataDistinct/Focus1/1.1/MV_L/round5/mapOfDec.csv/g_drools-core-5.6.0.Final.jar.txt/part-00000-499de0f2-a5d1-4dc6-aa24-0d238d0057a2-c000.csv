@@ -1,0 +1,5 @@
+org/drools/reteoo/BaseLeftTuple/toExternalString()@g_drools-core-5.5.0.Final.jar.txt	2
+org/drools/core/util/debug/SessionInspector/visitChildren(org.drools.common.NetworkNode,java.util.Stack,org.drools.core.util.debug.StatefulKnowledgeSessionInfo)@g_drools-core-5.5.0.Final.jar.txt	1
+org/drools/io/impl/ResourceChangeScannerImpl/unsubscribeNotifier(org.drools.io.ResourceChangeNotifier,org.drools.io.Resource)@g_drools-core-5.5.0.Final.jar.txt	4
+org/drools/audit/WorkingMemoryLogger/extractDeclarations(org.drools.spi.Activation,org.drools.WorkingMemory)@g_drools-core-5.5.0.Final.jar.txt	3
+org/drools/rule/MVELDialectRuntimeData/merge(org.drools.rule.DialectRuntimeRegistry,org.drools.rule.DialectRuntimeData,boolean)@g_drools-core-5.5.0.Final.jar.txt	0

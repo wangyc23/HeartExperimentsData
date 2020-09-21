@@ -1,0 +1,4 @@
+java/sql/ResultSet/getLong(int)
+java/sql/ResultSet/getString(int)
+java/lang/StringBuffer/toString()
+java/sql/PreparedStatement/setLong(int,long)

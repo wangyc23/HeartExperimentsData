@@ -1,0 +1,4 @@
+org/bouncycastle/cert/jcajce/JcaX509v3CertificateBuilder/JcaX509v3CertificateBuilder(org.bouncycastle.asn1.x500.X500Name,java.math.BigInteger,java.util.Date,java.util.Date,org.bouncycastle.asn1.x500.X500Name,java.security.PublicKey)
+org/bouncycastle/cert/X509v3CertificateBuilder/build(org.bouncycastle.operator.ContentSigner)
+java/security/PrivateKey/getEncoded()
+java/security/KeyPairGenerator/initialize(int,java.security.SecureRandom)

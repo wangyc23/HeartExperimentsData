@@ -1,0 +1,4 @@
+org/xwiki/model/reference/DocumentReference/getName()
+com/xpn/xwiki/objects/BaseObject/setStringValue(java.lang.String,java.lang.String)
+org/apache/commons/lang/StringUtils/isBlank(java.lang.String)
+com/xpn/xwiki/XWiki/getDocument(org.xwiki.model.reference.DocumentReference,com.xpn.xwiki.XWikiContext)

@@ -1,0 +1,5 @@
+org/apache/jena/iri/impl/ComponentPatternParser/mySplit(java.lang.String)@g_jena-iri-0.9.1.jar.txt	0
+org/apache/jena/iri/impl/ResolvedRelativeIRI/mergePathsRemoveDots(java.lang.String)@g_jena-iri-1.0.0.jar.txt	3
+org/apache/jena/iri/impl/AbsIRIImpl/removeDotSegments(java.lang.String)@g_jena-iri-0.9.1.jar.txt	4
+org/apache/jena/iri/impl/ComponentPatternParser/mySplit(java.lang.String)@g_jena-iri-1.0.0.jar.txt	2
+org/apache/jena/iri/impl/ResolvedRelativeIRI/mergePathsRemoveDots(java.lang.String)@g_jena-iri-0.9.1.jar.txt	1

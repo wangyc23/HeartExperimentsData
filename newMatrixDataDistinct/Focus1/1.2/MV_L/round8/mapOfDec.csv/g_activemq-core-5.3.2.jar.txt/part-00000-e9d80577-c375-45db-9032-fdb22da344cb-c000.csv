@@ -1,0 +1,5 @@
+org/apache/activemq/usage/Usage/stop()@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/kaha/impl/async/ReadOnlyAsyncDataManager/start()@g_activemq-all-5.7.0.jar.txt	3
+org/apache/activemq/openwire/tool/CSourcesGenerator/generateFile(java.io.PrintWriter)@g_activemq-all-5.7.0.jar.txt	1
+org/apache/activemq/openwire/tool/CHeadersGenerator/generateFields(java.io.PrintWriter,org.codehaus.jam.JClass)@g_activemq-all-5.7.0.jar.txt	2
+org/apache/activemq/openwire/tool/CHeadersGenerator/sort(java.util.List)@g_activemq-all-5.7.0.jar.txt	0

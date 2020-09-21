@@ -1,0 +1,4 @@
+java/awt/Graphics2D/setPaint(java.awt.Paint)
+java/awt/Graphics2D/draw(java.awt.Shape)
+java/awt/Graphics2D/setStroke(java.awt.Stroke)
+java/lang/String/equals(java.lang.Object)

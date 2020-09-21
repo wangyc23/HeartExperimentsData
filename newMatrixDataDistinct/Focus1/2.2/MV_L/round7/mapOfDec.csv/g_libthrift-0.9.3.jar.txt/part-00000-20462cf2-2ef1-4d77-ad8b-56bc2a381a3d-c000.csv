@@ -1,0 +1,5 @@
+org/apache/thrift/transport/TFileTransport/seekToChunk(int)@g_libthrift-0.9.2.jar.txt	3
+org/apache/thrift/server/TThreadedSelectorServer/AcceptThread/select()@g_libthrift-0.9.2.jar.txt	1
+org/apache/thrift/transport/TFileTransport/main(java.lang.String[])@g_libthrift-0.9.2.jar.txt	4
+org/apache/thrift/TMultiplexedProcessor/process(org.apache.thrift.protocol.TProtocol,org.apache.thrift.protocol.TProtocol)@g_libthrift-0.9.2.jar.txt	0
+org/apache/thrift/server/TNonblockingServer/SelectAcceptThread/select()@g_libthrift-0.9.2.jar.txt	2

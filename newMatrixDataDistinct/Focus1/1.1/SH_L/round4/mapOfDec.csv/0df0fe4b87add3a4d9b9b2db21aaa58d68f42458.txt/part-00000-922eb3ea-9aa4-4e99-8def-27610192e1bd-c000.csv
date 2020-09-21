@@ -1,0 +1,5 @@
+com/xeiam/xchange/bitfinex/v1/BitfinexAdapters/adaptTradeHistory(com.xeiam.xchange.bitfinex.v1.dto.trade.BitfinexTradeResponse[],java.lang.String)@00856899fe586c72567f17502db1af85157ecbd2.txt	2
+com/xeiam/xchange/bitfinex/v1/BitfinexAdaptersTest/testAdaptTradeHistory()@00856899fe586c72567f17502db1af85157ecbd2.txt	0
+com/xeiam/xchange/bitfinex/v1/dto/trade/BitfinexTradeDataJSONTest/testPastTrades()@00856899fe586c72567f17502db1af85157ecbd2.txt	1
+com/xeiam/xchange/bitfinex/v1/BitfinexAdaptersTest/testAdaptTradeHistory()@2e7e2f0462b975d1f34f3c206ba93f7647300ad5.txt	3
+com/xeiam/xchange/bitfinex/v1/dto/trade/BitfinexTradeDataJSONTest/testPastTrades()@2e7e2f0462b975d1f34f3c206ba93f7647300ad5.txt	4

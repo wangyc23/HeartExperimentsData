@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/kitchensinkrf/rest/MemberResourceRESTService/createMember(org.jboss.as.quickstarts.kitchensinkrf.model.Member)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	3
+org/jboss/as/quickstarts/kitchensink/exception/handlers/RestExceptionHandler/handleGenericException(org.apache.deltaspike.core.api.exception.control.event.ExceptionEvent,javax.ws.rs.core.Response.ResponseBuilder)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	4
+org/jboss/as/quickstarts/kitchensink_ear/rest/MemberResourceRESTService/createMember(org.jboss.as.quickstarts.kitchensink_ear.model.Member)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	1
+org/jboss/as/quickstarts/html5_mobile/rest/MemberService/createMember(org.jboss.as.quickstarts.html5_mobile.model.Member)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	2
+org/jboss/as/quickstarts/loggingToolsQS/DateService/showDaysUntil(java.lang.String)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	0

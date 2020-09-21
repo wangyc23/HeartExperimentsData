@@ -1,0 +1,4 @@
+java/security/interfaces/DSAParams/getP()
+java/security/interfaces/DSAParams/getQ()
+java/security/KeyPair/getPublic()
+java/security/KeyPairGenerator/initialize(int,java.security.SecureRandom)

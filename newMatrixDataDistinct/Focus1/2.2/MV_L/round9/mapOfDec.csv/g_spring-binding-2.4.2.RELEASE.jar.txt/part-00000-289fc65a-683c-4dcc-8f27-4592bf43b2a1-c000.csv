@@ -1,0 +1,5 @@
+org/springframework/security/crypto/bcrypt/BCrypt/hashpw(java.lang.String,java.lang.String)@g_spring-security-core-3.2.3.RELEASE.jar.txt	1
+org/springframework/security/access/expression/method/ExpressionBasedPreInvocationAdvice/findFilterTarget(java.lang.String,org.springframework.expression.EvaluationContext,org.aopalliance.intercept.MethodInvocation)@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/access/intercept/RunAsManagerImpl/buildRunAs(org.springframework.security.core.Authentication,java.lang.Object,java.util.Collection)@g_spring-security-core-3.2.3.RELEASE.jar.txt	2
+org/springframework/security/access/method/MapBasedMethodSecurityMetadataSource/addSecureMethod(java.lang.Class,java.lang.String,java.util.List)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/core/userdetails/jdbc/JdbcDaoImpl/loadUserByUsername(java.lang.String)@g_spring-security-core-3.2.3.RELEASE.jar.txt	0

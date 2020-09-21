@@ -1,0 +1,4 @@
+org/eclipse/osgi/service/resolver/NativeCodeDescription/getOSVersions()
+org/eclipse/osgi/service/resolver/NativeCodeDescription/getProcessors()
+org/eclipse/osgi/service/resolver/NativeCodeDescription/hasInvalidNativePaths()
+org/eclipse/osgi/service/resolver/NativeCodeDescription/getNativePaths()

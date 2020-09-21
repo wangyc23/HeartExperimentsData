@@ -1,0 +1,5 @@
+org/apache/drill/exec/physical/impl/TestExtractFunctions/testFrom(java.lang.String,java.lang.String,java.lang.String,long[][])@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	0
+org/apache/drill/exec/physical/impl/TestSimpleFragmentRun/runNoExchangeFragment()@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	3
+org/apache/drill/exec/work/batch/TestSpoolingBuffer/testMultipleExchangesSingleThread()@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	2
+org/apache/drill/exec/cache/TestWriteToDisk/test()@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	4
+org/apache/drill/BaseTestQuery/openClient()@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	1

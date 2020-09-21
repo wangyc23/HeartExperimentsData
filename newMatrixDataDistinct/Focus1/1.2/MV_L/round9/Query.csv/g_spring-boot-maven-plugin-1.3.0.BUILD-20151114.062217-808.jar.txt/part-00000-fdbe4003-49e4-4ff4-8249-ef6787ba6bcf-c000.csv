@@ -1,0 +1,4 @@
+org/springframework/boot/maven/AbstractRunMojo/getLog()
+java/lang/StringBuilder/append(java.lang.String)
+java/net/URL/toURI()
+java/lang/StringBuilder/StringBuilder()

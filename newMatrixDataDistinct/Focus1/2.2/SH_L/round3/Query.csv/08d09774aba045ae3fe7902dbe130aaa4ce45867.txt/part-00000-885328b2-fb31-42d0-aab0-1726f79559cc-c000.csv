@@ -1,0 +1,4 @@
+edu/cmu/graphchi/datablocks/DataBlockManager/getRawBlock(int)
+java/io/File/File(java.lang.String)
+edu/cmu/graphchi/ChiFilenames/getShardEdataSize(java.lang.String)
+edu/cmu/graphchi/io/CompressedIO/readCompressed(java.io.File,byte[],int)

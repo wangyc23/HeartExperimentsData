@@ -1,0 +1,4 @@
+javassist/CtClass/addConstructor(javassist.CtConstructor)
+java/lang/Class/getProtectionDomain()
+javassist/ClassPool/getDefault()
+javassist/CtNewMethod/copy(javassist.CtMethod,javassist.CtClass,javassist.ClassMap)

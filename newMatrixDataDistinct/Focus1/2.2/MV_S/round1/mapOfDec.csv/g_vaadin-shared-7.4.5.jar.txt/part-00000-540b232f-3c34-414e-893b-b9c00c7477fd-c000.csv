@@ -1,0 +1,5 @@
+com/google/gwt/i18n/shared/DateTimeFormat/format(java.util.Date,com.google.gwt.i18n.shared.TimeZone)@g_gwt-servlet-2.6.0.jar.txt	2
+com/google/web/bindery/autobean/shared/impl/StringQuoter/tryParseDate(java.lang.String)@g_gwt-servlet-2.6.0.jar.txt	0
+org/apache/lucene/util/SPIClassIterator/loadNextProfile()@g_lucene-core-7.0.0.jar.txt	4
+com/google/gwt/thirdparty/guava/common/base/Preconditions/format(java.lang.String,java.lang.Object[])@g_gwt-servlet-2.6.0.jar.txt	1
+org/apache/lucene/util/automaton/RegExp/parseSimpleExp()@g_lucene-core-7.0.0.jar.txt	3

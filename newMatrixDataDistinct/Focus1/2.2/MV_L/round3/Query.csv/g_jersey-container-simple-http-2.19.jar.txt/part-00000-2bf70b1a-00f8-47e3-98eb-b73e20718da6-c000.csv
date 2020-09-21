@@ -1,0 +1,4 @@
+org/glassfish/jersey/internal/inject/ReferencingFactory/referenceFactory()
+org/glassfish/jersey/simple/SimpleContainer$SimpleBinder/bindFactory(org.glassfish.hk2.api.Factory)
+org/glassfish/hk2/utilities/binding/ServiceBindingBuilder/proxyForSameScope(boolean)
+org/glassfish/hk2/utilities/binding/ServiceBindingBuilder/in(java.lang.Class)

@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/autoconfigure/EndpointWebMvcAutoConfiguration/createChildManagementContext()@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	4
+org/springframework/boot/actuate/endpoint/DataSourcePublicMetrics/metrics()@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	2
+org/springframework/boot/actuate/endpoint/EnvironmentEndpoint/extract(java.lang.String,java.util.Map,org.springframework.core.env.PropertySource)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	3
+org/springframework/boot/actuate/endpoint/SystemPublicMetrics/addGarbageCollectionMetrics(java.util.Collection)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	1
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onTimerAdded(java.lang.String,com.codahale.metrics.Timer)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	0

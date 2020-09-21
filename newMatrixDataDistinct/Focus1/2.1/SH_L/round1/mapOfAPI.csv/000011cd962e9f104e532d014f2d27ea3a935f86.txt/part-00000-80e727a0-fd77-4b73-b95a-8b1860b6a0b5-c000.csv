@@ -1,0 +1,5 @@
+0	com/adobe/acs/commons/workflow/synthetic/impl/SyntheticWorkflowStepImpl/SyntheticWorkflowStepImpl(java.lang.String,com.adobe.acs.commons.workflow.synthetic.SyntheticWorkflowRunner.WorkflowProcessIdType,java.util.Map)
+1	java/util/Date/Date()
+2	pl/pwr/news/service/report/ReportService/create(java.lang.Long,java.lang.String)
+3	javax/servlet/ServletRequest/setAttribute(java.lang.String,java.lang.Object)
+4	javax/servlet/ServletRequest/getAttribute(java.lang.String)

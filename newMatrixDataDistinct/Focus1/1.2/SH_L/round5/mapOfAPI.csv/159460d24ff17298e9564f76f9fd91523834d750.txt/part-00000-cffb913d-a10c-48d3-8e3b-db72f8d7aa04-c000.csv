@@ -1,0 +1,4 @@
+0	java/lang/Enum/name()
+1	java/lang/Class/getDeclaredMethod(java.lang.String,java.lang.Class<?>[])
+2	java/lang/reflect/AccessibleObject/setAccessible(boolean)
+3	org/glassfish/jersey/client/authentication/HttpAuthenticationFilter/Credentials/Credentials(java.lang.String,java.lang.String)

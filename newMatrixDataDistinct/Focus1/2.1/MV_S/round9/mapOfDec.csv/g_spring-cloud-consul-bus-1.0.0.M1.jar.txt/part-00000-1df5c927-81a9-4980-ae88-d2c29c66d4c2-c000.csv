@@ -1,0 +1,5 @@
+net/iharder/base64/Base64/encodeFileToFile(java.lang.String,java.lang.String)@g_spring-integration-mail-4.0.6.RELEASE.jar.txt	2
+org/springframework/integration/mail/MailSendingMessageHandler/convertMessageToMailMessage(org.springframework.messaging.Message)@g_spring-integration-mail-4.0.6.RELEASE.jar.txt	1
+org/springframework/integration/mail/ImapIdleChannelAdapter/IdleTask/run()@g_spring-integration-mail-4.0.6.RELEASE.jar.txt	0
+org/springframework/integration/mail/config/MailReceiverFactoryBean/createReceiver()@g_spring-integration-mail-4.0.6.RELEASE.jar.txt	4
+org/springframework/integration/mail/config/ImapIdleChannelAdapterParser/parseImapMailReceiver(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-integration-mail-4.0.6.RELEASE.jar.txt	3

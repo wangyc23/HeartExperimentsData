@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/xml/type/internal/RegEx/RegularExpression/prepare()@g_org.eclipse.emf.ecore-2.8.3.v20130125-0546.jar.txt	4
+org/eclipse/emf/ecore/util/EcoreValidator/validateEClassifier_UniqueTypeParameterNames(org.eclipse.emf.ecore.EClassifier,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_org.eclipse.emf.ecore-2.8.3.v20130125-0546.jar.txt	2
+org/eclipse/emf/ecore/plugin/EcorePlugin/handlePlatformResourceOptions(java.lang.String[])@g_org.eclipse.emf.ecore-2.8.3.v20130125-0546.jar.txt	0
+org/eclipse/emf/ecore/plugin/EcorePlugin/handlePlatformResourceOptions(java.lang.String[])@g_org.eclipse.emf.ecore-2.9.1.v20130827-0309.jar.txt	1
+org/eclipse/emf/ecore/util/EcoreValidator/validateEPackage_UniqueNsURIs(org.eclipse.emf.ecore.EPackage,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_org.eclipse.emf.ecore-2.8.3.v20130125-0546.jar.txt	3

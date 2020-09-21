@@ -1,0 +1,4 @@
+org/apache/catalina/startup/Tomcat/start()
+java/io/PrintStream/println(java.lang.String)
+org/apache/catalina/startup/Tomcat/addWebapp(java.lang.String,java.lang.String)
+java/io/File/File(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/jena/graph/impl/GraphMatcher/rehash0(int)@g_jena-core-3.0.0.jar.txt	3
+org/apache/jena/rdfxml/xmloutput/impl/Unparser/pleasingTypeIterator()@g_jena-core-3.4.0.jar.txt	1
+org/apache/jena/rdfxml/xmlinput/JenaReader/processArpOptions(org.apache.jena.rdfxml.xmlinput.ARPOptions,java.lang.String,java.lang.Object,org.apache.jena.rdf.model.RDFErrorHandler)@g_jena-core-3.4.0.jar.txt	2
+org/apache/jena/graph/impl/GraphMatcher/rehash0(int)@g_jena-core-3.4.0.jar.txt	0
+jena/schemagen/guessNamespace()@g_jena-core-3.0.0.jar.txt	4

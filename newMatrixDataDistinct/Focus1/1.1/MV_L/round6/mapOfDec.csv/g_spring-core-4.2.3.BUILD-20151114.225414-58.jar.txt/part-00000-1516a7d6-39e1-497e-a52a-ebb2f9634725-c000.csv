@@ -1,0 +1,5 @@
+org/springframework/core/type/classreading/AnnotationReadingVisitorUtils/getMergedAnnotationAttributes(org.springframework.util.LinkedMultiValueMap,java.util.Map,java.lang.String)@g_spring-core-4.1.8.RELEASE.jar.txt	3
+org/springframework/cglib/transform/impl/AddDelegateTransformer/addDelegate(java.lang.reflect.Method)@g_spring-core-4.1.7.RELEASE.jar.txt	1
+org/springframework/cglib/transform/impl/AddDelegateTransformer/addDelegate(java.lang.reflect.Method)@g_spring-core-4.1.8.RELEASE.jar.txt	0
+org/springframework/core/MethodIntrospector/selectInvocableMethod(java.lang.reflect.Method,java.lang.Class)@g_spring-core-4.1.8.RELEASE.jar.txt	4
+org/springframework/util/xml/StaxStreamXMLReader/handleStartElement()@g_spring-core-4.1.8.RELEASE.jar.txt	2

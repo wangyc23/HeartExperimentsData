@@ -1,0 +1,4 @@
+org/codehaus/mojo/aspectj/AbstractAjcCompiler/getLog()
+org/codehaus/plexus/util/FileUtils/resolveFile(java.io.File,java.lang.String)
+org/apache/maven/plugin/logging/Log/info(java.lang.CharSequence)
+java/util/HashSet/HashSet()

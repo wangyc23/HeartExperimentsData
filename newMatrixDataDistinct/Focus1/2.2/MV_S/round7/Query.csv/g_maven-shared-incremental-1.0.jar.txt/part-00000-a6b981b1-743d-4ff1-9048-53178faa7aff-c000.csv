@@ -1,0 +1,4 @@
+org/apache/maven/project/MavenProject/getBuild()
+java/io/File/File(java.io.File,java.lang.String)
+org/apache/maven/plugin/descriptor/MojoDescriptor/getGoal()
+org/apache/maven/plugin/MojoExecutionException/MojoExecutionException(java.lang.String)

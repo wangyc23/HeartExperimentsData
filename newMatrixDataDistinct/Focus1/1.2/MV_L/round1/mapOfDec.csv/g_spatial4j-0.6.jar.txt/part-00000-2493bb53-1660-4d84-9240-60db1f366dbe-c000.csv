@@ -1,0 +1,5 @@
+org/apache/lucene/index/IndexWriter/mergeMiddle(org.apache.lucene.index.MergePolicy$OneMerge,org.apache.lucene.index.MergePolicy)@g_lucene-core-5.0.0.jar.txt	0
+org/apache/lucene/util/QueryBuilder/createFieldQuery(org.apache.lucene.analysis.Analyzer,org.apache.lucene.search.BooleanClause$Occur,java.lang.String,java.lang.String,boolean,int)@g_lucene-core-5.0.0.jar.txt	3
+org/apache/lucene/store/FSDirectory/listAll(java.nio.file.Path)@g_lucene-core-5.0.0.jar.txt	2
+org/apache/lucene/search/DisjunctionMaxQuery/DisjunctionMaxWeight/scorer(org.apache.lucene.index.LeafReaderContext,org.apache.lucene.util.Bits)@g_lucene-core-5.0.0.jar.txt	1
+org/apache/lucene/util/OfflineSorter/sort(java.nio.file.Path,java.nio.file.Path)@g_lucene-core-5.0.0.jar.txt	4

@@ -1,0 +1,4 @@
+org/xwiki/lesscss/internal/cache/ColorThemeCache/clearFromLESSResource(org.xwiki.lesscss.resources.LESSResourceReference)
+com/xpn/xwiki/doc/XWikiDocument/getDocumentReference()
+java/util/Iterator/hasNext()
+java/util/List/isEmpty()

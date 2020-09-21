@@ -1,0 +1,5 @@
+org/eclipse/ocl/ecore/util/EcoreValidator/validateCollectionRange(org.eclipse.ocl.ecore.CollectionRange,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-3.3.0-v20130520-1222.jar.txt	0
+org/eclipse/ocl/ecore/util/EcoreValidator/validateTypeExp(org.eclipse.ocl.ecore.TypeExp,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-3.3.0-v20130520-1222.jar.txt	3
+org/eclipse/ocl/ecore/util/EcoreValidator/validateBooleanLiteralExp(org.eclipse.ocl.ecore.BooleanLiteralExp,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-3.3.0-v20130520-1222.jar.txt	2
+org/eclipse/ocl/ecore/util/EcoreValidator/validateConstraint(org.eclipse.ocl.ecore.Constraint,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-3.3.0-v20130520-1222.jar.txt	1
+org/eclipse/ocl/ecore/util/EcoreValidator/validateCallExp(org.eclipse.ocl.ecore.CallExp,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)@g_ecore-3.3.0-v20130520-1222.jar.txt	4

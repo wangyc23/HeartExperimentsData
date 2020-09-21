@@ -1,0 +1,5 @@
+org/apache/fontbox/cmap/CMapParser/parseNextToken(java.io.PushbackInputStream)@g_fontbox-1.6.0.jar.txt	4
+org/apache/fontbox/cff/AFMFormatter/renderFont(org.apache.fontbox.cff.CFFFont)@g_fontbox-1.6.0.jar.txt	2
+org/apache/fontbox/cff/CFFParser/readFormat1Charset(org.apache.fontbox.cff.CFFDataInput,int,int)@g_fontbox-1.6.0.jar.txt	0
+org/apache/fontbox/cff/CFFParser/readFormat1Charset(org.apache.fontbox.cff.CFFDataInput,int,int)@g_fontbox-1.8.9.jar.txt	1
+org/apache/fontbox/cff/CFFFont/getMappings()@g_fontbox-1.6.0.jar.txt	3

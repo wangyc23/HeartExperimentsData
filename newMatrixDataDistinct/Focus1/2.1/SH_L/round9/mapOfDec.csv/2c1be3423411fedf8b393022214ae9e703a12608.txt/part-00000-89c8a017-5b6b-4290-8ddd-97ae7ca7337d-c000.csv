@@ -1,0 +1,5 @@
+cucumber/runtime/xstream/ClassWithStringAssignableConstructorConverter/canConvert(java.lang.Class)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	1
+cucumber/runtime/io/ClasspathResourceLoader/getDescendants(java.lang.Class,java.lang.String)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	4
+cucumber/runtime/xstream/ListConverter/canConvert(java.lang.Class)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	2
+cucumber/runtime/table/TableConverter/convert(java.lang.reflect.Type,cucumber.api.DataTable)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	0
+cucumber/runtime/ParameterInfo/convert(java.lang.String,cucumber.runtime.xstream.LocalizedXStreams.LocalizedXStream,java.util.Locale)@211608e8789c1b18a0b41036ce1be0b20c8661da.txt	3

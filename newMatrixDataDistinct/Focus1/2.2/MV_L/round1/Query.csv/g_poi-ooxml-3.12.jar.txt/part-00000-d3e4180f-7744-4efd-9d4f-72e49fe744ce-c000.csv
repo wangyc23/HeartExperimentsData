@@ -1,0 +1,4 @@
+org/openxmlformats/schemas/drawingml/x2006/chart/CTValAx/addNewCrossAx()
+org/apache/poi/xssf/usermodel/charts/XSSFValueAxis/setVisible(boolean)
+org/openxmlformats/schemas/drawingml/x2006/chart/CTValAx/addNewTickLblPos()
+org/openxmlformats/schemas/drawingml/x2006/chart/CTValAx/addNewAxPos()

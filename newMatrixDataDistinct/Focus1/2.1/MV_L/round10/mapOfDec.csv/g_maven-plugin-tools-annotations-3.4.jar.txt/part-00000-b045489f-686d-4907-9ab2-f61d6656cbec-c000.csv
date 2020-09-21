@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/utils/DependencyUtil/getDependencyId(org.apache.maven.artifact.Artifact,boolean)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/maven/tools/plugin/extractor/javadoc/JavaJavadocMojoDescriptorExtractor/discoverClasses(org.apache.maven.tools.plugin.PluginToolsRequest)@g_maven-plugin-tools-java-3.4.jar.txt	4
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-plugin-tools-java-3.4.jar.txt	3
+org/apache/maven/plugin/dependency/tree/TreeMojo/serializeVerboseDependencyTree(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-plugin-tools-java-3.4.jar.txt	2
+org/apache/maven/plugin/dependency/fromConfiguration/AbstractFromConfigurationMojo/findDependencyVersion(org.apache.maven.plugin.dependency.fromConfiguration.ArtifactItem,java.util.List,boolean)@g_maven-dependency-plugin-2.8.jar.txt	0

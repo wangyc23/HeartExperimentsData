@@ -1,0 +1,5 @@
+org/apache/maven/project/artifact/MavenMetadataSource/createDependencyFilter(org.apache.maven.model.Dependency,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-core-3.0.4.jar.txt	1
+org/apache/maven/toolchain/DefaultToolchainManagerPrivate/getToolchainsForType(java.lang.String,org.apache.maven.execution.MavenSession)@g_maven-core-3.0.3.jar.txt	4
+org/apache/maven/exception/DefaultExceptionHandler/handle(org.apache.maven.project.ProjectBuildingResult)@g_maven-core-3.0.3.jar.txt	3
+org/apache/maven/project/artifact/MavenMetadataSource/createDependencyFilter(org.apache.maven.model.Dependency,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-core-3.0.3.jar.txt	0
+org/apache/maven/lifecycle/internal/ConcurrentBuildLogger/toGraph()@g_maven-core-3.0.3.jar.txt	2

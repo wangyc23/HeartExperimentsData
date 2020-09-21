@@ -1,0 +1,5 @@
+org/eclipse/osgi/storage/NativeCodeFinder/mapLibraryNames(java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4
+org/eclipse/osgi/util/NLS/buildVariants(java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	0
+org/eclipse/osgi/container/builders/OSGiManifestBuilderFactory/getNativeCode(org.eclipse.osgi.container.ModuleRevisionBuilder,java.util.Map)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+org/eclipse/osgi/internal/framework/legacy/PackageAdminImpl/getBundles(java.lang.String,java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	1

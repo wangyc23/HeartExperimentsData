@@ -1,0 +1,5 @@
+org/h2/server/web/WebApp/getResultSet(java.lang.String,java.sql.ResultSet,boolean,boolean,boolean,long,boolean)@g_h2-1.4.178.jar.txt	1
+org/h2/jdbc/JdbcClob/getSubString(long,int)@g_h2-1.4.178.jar.txt	3
+org/h2/value/Transfer/writeValue(org.h2.value.Value)@g_h2-1.4.178.jar.txt	4
+org/h2/tools/Recover/dumpPageStore(java.lang.String)@g_h2-1.4.178.jar.txt	2
+org/h2/engine/Database/reconnectModified(boolean)@g_h2-1.4.178.jar.txt	0

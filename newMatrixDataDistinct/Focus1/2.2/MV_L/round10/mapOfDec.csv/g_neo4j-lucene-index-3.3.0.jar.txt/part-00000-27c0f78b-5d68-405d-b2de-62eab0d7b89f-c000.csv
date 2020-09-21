@@ -1,0 +1,5 @@
+org/neo4j/index/impl/lucene/explicit/IndexType/getIndexType(java.util.Map)@g_neo4j-lucene-index-2.2.5.jar.txt	1
+org/neo4j/index/impl/lucene/IndexType/CustomType/removeFieldsFromDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)@g_neo4j-lucene-index-2.2.5.jar.txt	0
+org/neo4j/index/impl/lucene/LuceneDataSource/listStoreFiles(boolean)@g_neo4j-lucene-index-2.2.5.jar.txt	4
+org/neo4j/kernel/api/impl/index/DeferredConstraintVerificationUniqueLuceneIndexPopulator/1/process(org.neo4j.kernel.api.index.NodePropertyUpdate)@g_neo4j-lucene-index-2.2.5.jar.txt	2
+org/neo4j/kernel/api/impl/schema/verification/PartitionedUniquenessVerifier/termsForField(java.lang.String)@g_neo4j-lucene-index-2.2.5.jar.txt	3

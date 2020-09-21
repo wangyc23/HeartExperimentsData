@@ -1,0 +1,5 @@
+com/mchange/v2/naming/JavaBeanObjectFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_c3p0-0.9.1.1.jar.txt	2
+org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory/connectionClosed(javax.sql.ConnectionEvent)@g_commons-dbcp2-2.1.jar.txt	3
+org/apache/commons/dbcp2/BasicDataSourceFactory/validatePropertyNames(javax.naming.Reference,javax.naming.Name,java.util.List,java.util.List)@g_commons-dbcp2-2.1.jar.txt	1
+com/mchange/v2/c3p0/impl/AbstractPoolBackedDataSource/close()@g_commons-dbcp2-2.1.jar.txt	4
+org/apache/commons/dbcp2/BasicDataSourceFactory/createDataSource(java.util.Properties)@g_commons-dbcp2-2.1.jar.txt	0

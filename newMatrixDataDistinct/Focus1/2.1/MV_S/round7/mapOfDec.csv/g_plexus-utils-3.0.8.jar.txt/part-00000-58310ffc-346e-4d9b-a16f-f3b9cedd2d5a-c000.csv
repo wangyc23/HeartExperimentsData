@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/PathTool/buildRelativePath(java.lang.String,java.lang.String,char)@g_maven-shared-utils-0.7.jar.txt	1
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_maven-shared-utils-0.7.jar.txt	0
+org/apache/maven/it/util/FileUtils/loadFile(java.io.File)@g_maven-shared-utils-0.7.jar.txt	2
+org/apache/maven/shared/utils/introspection/MethodMap/getMostSpecific(java.util.List,java.lang.Class[])@g_maven-shared-utils-0.7.jar.txt	3
+org/apache/maven/it/util/cli/CommandLineUtils/getSystemEnvVars(boolean)@g_maven-shared-utils-0.7.jar.txt	4

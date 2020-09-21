@@ -1,0 +1,5 @@
+com/google/common/collect/ImmutableSortedMap/copyOfInternal(java.util.Map,java.util.Comparator)@g_guava-r06.jar.txt	1
+com/google/common/collect/ImmutableSet/create(java.lang.Iterable,int)@g_guava-r06.jar.txt	0
+com/google/common/collect/StandardTable/ColumnKeyIterator/computeNext()@g_guava-r08.jar.txt	4
+com/google/common/collect/LinkedListMultimap/replaceValues(java.lang.Object,java.lang.Iterable)@g_guava-r08.jar.txt	2
+com/google/common/collect/StandardTable/Column/removePredicate(com.google.common.base.Predicate)@g_guava-r08.jar.txt	3

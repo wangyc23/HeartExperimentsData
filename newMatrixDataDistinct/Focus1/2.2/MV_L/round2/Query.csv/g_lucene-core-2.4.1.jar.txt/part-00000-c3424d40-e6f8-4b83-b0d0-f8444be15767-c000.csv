@@ -1,0 +1,4 @@
+org/apache/lucene/search/ComplexExplanation/setDescription(java.lang.String)
+org/apache/lucene/search/ComplexExplanation/setValue(float)
+org/apache/lucene/search/ConstantScoreQuery/getBoost()
+java/lang/StringBuffer/append(java.lang.Object)

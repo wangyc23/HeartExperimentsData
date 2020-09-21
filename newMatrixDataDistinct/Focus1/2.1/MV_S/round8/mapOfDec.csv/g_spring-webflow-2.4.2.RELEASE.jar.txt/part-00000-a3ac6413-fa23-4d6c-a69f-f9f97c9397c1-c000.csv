@@ -1,0 +1,5 @@
+org/springframework/webflow/engine/Flow/getStateInstance(java.lang.String)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	2
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	1
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-jdbc-4.2.5.RELEASE.jar.txt	0
+org/springframework/webflow/engine/builder/model/FlowModelFlowBuilder/createFlowApplicationContext(org.springframework.core.io.Resource[])@g_spring-jdbc-4.2.5.RELEASE.jar.txt	3
+org/springframework/jdbc/support/lob/OracleLobHandler/OracleLobCreator/setBlobAsBytes(java.sql.PreparedStatement,int,byte[])@g_spring-jdbc-4.2.5.RELEASE.jar.txt	4

@@ -1,0 +1,5 @@
+org/carrot2/source/microsoft/BingDocumentSource/doSearch(java.lang.String,int,int)@g_solr-carrot2-core-3.5.0.jar.txt	0
+org/carrot2/util/resource/ResourceLookup/getAll(java.lang.String)@g_solr-carrot2-core-3.5.0.jar.txt	4
+org/carrot2/util/attribute/AttributeBinder/AttributeBinderActionBind/detailedExceptionInfo(java.lang.Class)@g_solr-carrot2-core-3.5.0.jar.txt	2
+org/carrot2/text/linguistic/DefaultStemmerFactory/createDefaultStemmers()@g_solr-carrot2-core-3.5.0.jar.txt	1
+org/carrot2/source/yahoo/YahooSearchService/query(java.lang.String,int,int)@g_solr-carrot2-core-3.5.0.jar.txt	3

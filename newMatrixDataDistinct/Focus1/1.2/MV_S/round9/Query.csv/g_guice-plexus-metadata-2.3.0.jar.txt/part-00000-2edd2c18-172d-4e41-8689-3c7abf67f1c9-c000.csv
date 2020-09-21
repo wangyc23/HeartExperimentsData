@@ -1,0 +1,4 @@
+java/lang/Character/toUpperCase(char)
+java/lang/Character/isJavaIdentifierPart(char)
+java/lang/String/charAt(int)
+java/lang/String/length()

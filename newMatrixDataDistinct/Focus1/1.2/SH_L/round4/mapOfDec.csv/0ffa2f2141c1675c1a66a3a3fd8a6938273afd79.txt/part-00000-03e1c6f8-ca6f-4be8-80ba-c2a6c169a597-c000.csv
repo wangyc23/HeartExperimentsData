@@ -1,0 +1,5 @@
+org/jboss/errai/codegen/meta/impl/AbstractMetaClass/asClass()@19c981566dfe95963771925dfee9f2ae013dc038.txt	4
+org/jboss/errai/cdi/server/gwt/JettyLauncher/WebAppContextWithReload/WebAppClassLoaderExtension/findResource(java.lang.String)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	2
+org/jboss/errai/codegen/util/QuickDeps/wildcardMatch(java.lang.ClassLoader,java.util.Map,java.util.Set,java.util.Set,java.lang.String)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	3
+org/jboss/errai/ui/rebind/TranslationServiceGenerator/generateI18nHelperFilesInto(java.util.Map,java.io.File)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	1
+org/jboss/errai/cdi/server/gwt/JettyLauncher/WebAppContextWithReload/WebAppClassLoaderExtension/findClass(java.lang.String)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	0

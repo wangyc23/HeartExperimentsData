@@ -1,0 +1,4 @@
+0	java/awt/Font/Font(java.lang.String,int,int)
+1	java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])
+2	com/ds/utils/ImgFontByte/getFontByteStr()
+3	java/awt/Font/createFont(int,java.io.InputStream)

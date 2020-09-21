@@ -1,0 +1,4 @@
+org/eclipse/core/internal/runtime/RuntimeLog/log(org.eclipse.core.runtime.IStatus)
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/lang/StringBuilder/append(java.lang.Object)
+java/lang/StringBuilder/toString()

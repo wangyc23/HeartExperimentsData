@@ -1,0 +1,5 @@
+org/apache/maven/scm/provider/svn/svnexe/command/checkout/SvnCheckOutConsumer/getFiles()@g_maven-invoker-2.0.11.jar.txt	4
+org/codehaus/plexus/compiler/javac/JavacCompiler/getJavacExecutable()@g_plexus-compiler-javac-1.9.1.jar.txt	2
+org/codehaus/plexus/compiler/javac/JavacCompiler/compileOutOfProcess(org.codehaus.plexus.compiler.CompilerConfiguration,java.lang.String,java.lang.String[])@g_plexus-compiler-javac-1.9.1.jar.txt	3
+org/codehaus/plexus/compiler/javac/JavacCompiler/parseModernError(int,java.lang.String)@g_plexus-compiler-javac-1.9.1.jar.txt	0
+org/apache/maven/shared/invoker/MavenCommandLineBuilder/findMavenExecutable()@g_maven-invoker-2.0.11.jar.txt	1

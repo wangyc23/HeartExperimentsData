@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/apache/maven/project/artifact/ProjectArtifactMetadata/ProjectArtifactMetadata(org.apache.maven.artifact.Artifact,java.io.File)
+java/util/List/isEmpty()
+java/io/File/exists()

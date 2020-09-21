@@ -1,0 +1,4 @@
+0	org/slf4j/Logger/error(java.lang.String)
+1	java/lang/Object/wait(long)
+2	java/lang/Throwable/toString()
+3	org/apache/http/conn/HttpClientConnectionManager/closeIdleConnections(long,java.util.concurrent.TimeUnit)

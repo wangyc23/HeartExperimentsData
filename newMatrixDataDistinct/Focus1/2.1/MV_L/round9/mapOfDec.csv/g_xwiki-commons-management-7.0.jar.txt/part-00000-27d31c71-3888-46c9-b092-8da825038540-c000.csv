@@ -1,0 +1,4 @@
+org/xwiki/management/internal/DefaultJMXBeanRegistration/unregisterMBean(java.lang.String)@g_xwiki-commons-management-7.4.jar.txt	1
+org/xwiki/management/internal/DefaultJMXBeanRegistration/unregisterMBean(java.lang.String)@g_xwiki-commons-management-7.4.2.jar.txt	0
+org/xwiki/management/internal/DefaultJMXBeanRegistration/registerMBean(java.lang.Object,java.lang.String)@g_xwiki-commons-management-7.4.2.jar.txt	2
+org/xwiki/management/internal/DefaultJMXBeanRegistration/registerMBean(java.lang.Object,java.lang.String)@g_xwiki-commons-management-7.4.jar.txt	3

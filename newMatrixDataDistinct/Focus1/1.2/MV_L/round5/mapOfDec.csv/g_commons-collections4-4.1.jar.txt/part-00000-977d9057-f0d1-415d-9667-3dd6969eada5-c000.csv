@@ -1,0 +1,5 @@
+org/apache/commons/collections4/TransformerUtils/switchMapTransformer(java.util.Map)@g_commons-collections4-4.0.jar.txt	1
+org/apache/commons/collections4/splitmap/TransformedSplitMap/transformMap(java.util.Map)@g_commons-collections4-4.0.jar.txt	4
+org/apache/commons/collections4/MapUtils/verbosePrintInternal(java.io.PrintStream,java.lang.Object,java.util.Map,org.apache.commons.collections4.ArrayStack,boolean)@g_commons-collections4-4.0.jar.txt	0
+org/apache/commons/collections4/ClosureUtils/switchMapClosure(java.util.Map)@g_commons-collections4-4.0.jar.txt	3
+org/apache/commons/collections4/map/TransformedMap/transformMap(java.util.Map)@g_commons-collections4-4.0.jar.txt	2

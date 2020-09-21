@@ -1,0 +1,4 @@
+java/util/regex/Matcher/matches()
+java/util/regex/Pattern/matcher(java.lang.CharSequence)
+org/apache/maven/plugin/MojoFailureException/MojoFailureException(java.lang.Object,java.lang.String,java.lang.String)
+org/codehaus/plexus/util/StringUtils/isEmpty(java.lang.String)

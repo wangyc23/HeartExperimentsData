@@ -1,0 +1,4 @@
+scala/Some/x()
+org/neo4j/cypher/internal/frontend/v3_3/ast/RelationshipPattern/copy(scala.Option,scala.collection.Seq,scala.Option,scala.Option,org.neo4j.cypher.internal.frontend.v3_3.SemanticDirection,boolean,org.neo4j.cypher.internal.frontend.v3_3.InputPosition)
+org/neo4j/cypher/internal/frontend/v3_3/ast/RelationshipPattern/variable()
+org/neo4j/cypher/internal/frontend/v3_3/ast/NodePattern/copy(scala.Option,scala.collection.Seq,scala.Option,org.neo4j.cypher.internal.frontend.v3_3.InputPosition)

@@ -1,0 +1,5 @@
+org/eclipse/jetty/io/nio/SelectChannelEndPoint/doUpdateKey()@g_jetty-io-8.1.22.v20160922.jar.txt	3
+org/eclipse/jetty/io/nio/SelectorManager/SelectSet/dump(java.lang.Appendable,java.lang.String)@g_jetty-io-8.1.22.v20160922.jar.txt	1
+org/eclipse/jetty/io/nio/SelectorManager/1/run()@g_jetty-io-8.1.22.v20160922.jar.txt	4
+org/eclipse/jetty/io/nio/SelectorManager/SelectSet/doSelect()@g_jetty-io-8.1.22.v20160922.jar.txt	2
+org/eclipse/jetty/io/nio/SelectorManager/SelectSet/stop()@g_jetty-io-8.1.22.v20160922.jar.txt	0

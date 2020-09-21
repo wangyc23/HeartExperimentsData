@@ -1,0 +1,5 @@
+org/codehaus/swizzle/confluence/MapObjectModified/convert(java.lang.Object)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	0
+org/joda/convert/AnnotationStringConverterFactory/findFromString(java.lang.Class)@g_joda-convert-1.8.jar.txt	3
+org/joda/convert/AnnotationStringConverterFactory/findToStringMethod(java.lang.Class)@g_joda-convert-1.8.jar.txt	2
+org/joda/convert/ReflectionStringConverter/convertToString(java.lang.Object)@g_joda-convert-1.8.jar.txt	4
+org/codehaus/swizzle/confluence/MapObject/checkXmlRpcTypes(java.lang.Object)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	1

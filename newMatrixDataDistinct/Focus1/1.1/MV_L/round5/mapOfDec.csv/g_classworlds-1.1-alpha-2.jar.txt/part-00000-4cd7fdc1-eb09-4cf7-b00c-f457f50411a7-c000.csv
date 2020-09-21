@@ -1,0 +1,5 @@
+com/sun/org/apache/xml/internal/resolver/tools/ResolvingParser/processingInstruction(java.lang.String,java.lang.String)@g_classworlds-1.1.jar.txt	3
+org/codehaus/classworlds/DefaultClassRealm/addConstituent(java.lang.String,byte[])@g_classworlds-1.1.jar.txt	4
+com/sun/org/apache/xml/internal/resolver/readers/SAXCatalogReader/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_classworlds-1.1.jar.txt	1
+com/sun/org/apache/xml/internal/resolver/Catalog/parseCatalogFile(java.lang.String)@g_classworlds-1.1.jar.txt	2
+org/codehaus/classworlds/uberjar/boot/Bootstrapper/bootstrap()@g_classworlds-1.1.jar.txt	0

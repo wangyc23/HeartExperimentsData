@@ -1,0 +1,5 @@
+io/netty/handler/codec/spdy/SpdyHttpEncoder/encode(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.HttpObject,java.util.List)@g_rxnetty-0.4.6.jar.txt	4
+io/reactivex/netty/protocol/http/server/HttpServerResponse/DelegatingFullHttpResponse/copy()@g_rxnetty-0.4.6.jar.txt	1
+io/netty/handler/codec/http/multipart/AbstractMemoryHttpData/renameTo(java.io.File)@g_rxnetty-0.4.6.jar.txt	3
+io/netty/handler/codec/http/HttpObjectEncoder/encode(io.netty.channel.ChannelHandlerContext,java.lang.Object,java.util.List)@g_rxnetty-0.4.6.jar.txt	2
+io/reactivex/netty/protocol/http/server/HttpServerResponse/DelegatingFullHttpResponse/duplicate()@g_rxnetty-0.4.6.jar.txt	0

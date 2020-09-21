@@ -1,0 +1,5 @@
+com/netflix/appinfo/providers/EurekaConfigBasedInstanceInfoProvider/get()@g_eureka-client-1.1.147.jar.txt	0
+com/netflix/discovery/shared/Applications/getReconcileMapDiff(com.netflix.discovery.shared.Applications)@g_eureka-client-1.1.147.jar.txt	1
+com/netflix/appinfo/PropertiesInstanceConfig/getMetadataMap()@g_eureka-client-1.1.147.jar.txt	4
+com/netflix/discovery/DiscoveryClient/HeartbeatThread/run()@g_eureka-client-1.1.147.jar.txt	3
+com/netflix/discovery/DiscoveryClient/CacheRefreshThread/run()@g_eureka-client-1.1.147.jar.txt	2

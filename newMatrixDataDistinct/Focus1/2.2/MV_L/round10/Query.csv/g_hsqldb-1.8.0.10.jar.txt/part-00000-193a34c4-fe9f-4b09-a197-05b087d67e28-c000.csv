@@ -1,0 +1,4 @@
+org/hsqldb/TextTable/setIsReadOnly(boolean)
+java/lang/Integer/Integer(int)
+java/lang/String/length()
+java/lang/Object/getClass()

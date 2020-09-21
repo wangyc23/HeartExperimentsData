@@ -1,0 +1,4 @@
+0	java/lang/Object/toString()
+1	java/util/List/isEmpty()
+2	org/xwiki/rendering/block/XDOM/getChildren()
+3	org/xwiki/rendering/util/ParserUtils/removeTopLevelParagraph(java.util.List)

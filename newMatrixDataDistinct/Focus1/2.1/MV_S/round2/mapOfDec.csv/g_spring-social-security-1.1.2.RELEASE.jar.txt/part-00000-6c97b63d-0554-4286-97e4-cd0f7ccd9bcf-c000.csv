@@ -1,0 +1,5 @@
+org/springframework/social/security/provider/OAuth1AuthenticationService/buildReturnToUrl(javax.servlet.http.HttpServletRequest)@g_spring-social-web-1.1.2.RELEASE.jar.txt	4
+org/springframework/social/connect/web/ReconnectFilter/handleExceptionFromFilterChain(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-social-web-1.1.2.RELEASE.jar.txt	3
+org/springframework/social/connect/web/ProviderSignInController/handleSignIn(org.springframework.social.connect.Connection,org.springframework.social.connect.ConnectionFactory,org.springframework.web.context.request.NativeWebRequest)@g_spring-social-web-1.1.2.RELEASE.jar.txt	0
+org/springframework/social/security/provider/OAuth2AuthenticationService/getAuthToken(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-social-web-1.1.2.RELEASE.jar.txt	1
+org/springframework/social/security/provider/OAuth1AuthenticationService/getAuthToken(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-social-web-1.1.2.RELEASE.jar.txt	2

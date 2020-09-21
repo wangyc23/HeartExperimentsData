@@ -1,0 +1,5 @@
+org/springframework/orm/jpa/persistenceunit/ClassFileTransformerAdapter/transform(java.lang.ClassLoader,java.lang.String,java.lang.Class,java.security.ProtectionDomain,byte[])@g_spring-2.5.6.jar.txt	0
+org/springframework/beans/factory/support/AbstractBeanFactory/registerCustomEditors(org.springframework.beans.PropertyEditorRegistry)@g_spring-2.5.6.jar.txt	4
+org/springframework/jdbc/support/SQLErrorCodesFactory/getErrorCodes(javax.sql.DataSource)@g_spring-2.5.6.jar.txt	3
+org/springframework/beans/factory/support/DisposableBeanAdapter/invokeCustomDestroyMethod()@g_spring-2.5.6.jar.txt	1
+org/springframework/beans/TypeConverterDelegate/convertToTypedMap(java.util.Map,java.lang.String,org.springframework.core.MethodParameter)@g_spring-2.5.6.jar.txt	2

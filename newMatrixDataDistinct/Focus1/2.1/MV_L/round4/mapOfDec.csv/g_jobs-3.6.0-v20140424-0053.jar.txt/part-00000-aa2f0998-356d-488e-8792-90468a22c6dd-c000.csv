@@ -1,0 +1,5 @@
+org/eclipse/core/internal/jobs/ThreadJob/illegalPush(org.eclipse.core.runtime.jobs.ISchedulingRule,org.eclipse.core.runtime.jobs.ISchedulingRule)@g_org.eclipse.core.jobs-3.5.100.jar.txt	0
+org/eclipse/core/internal/jobs/DeadlockDetector/reportDeadlock(org.eclipse.core.internal.jobs.Deadlock)@g_org.eclipse.core.jobs-3.5.100.jar.txt	3
+org/eclipse/core/internal/jobs/ImplicitJobs/endJob(org.eclipse.core.internal.jobs.InternalJob)@g_org.eclipse.core.jobs-3.5.100.jar.txt	2
+org/eclipse/core/internal/jobs/JobManager/doShutdown()@g_org.eclipse.core.jobs-3.5.100.jar.txt	1
+org/eclipse/core/internal/jobs/ThreadJob/illegalPop(org.eclipse.core.runtime.jobs.ISchedulingRule)@g_org.eclipse.core.jobs-3.5.100.jar.txt	4

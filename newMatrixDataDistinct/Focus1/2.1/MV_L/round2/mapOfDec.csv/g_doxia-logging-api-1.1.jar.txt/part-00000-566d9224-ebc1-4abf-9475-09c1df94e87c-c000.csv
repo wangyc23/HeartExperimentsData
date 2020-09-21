@@ -1,0 +1,5 @@
+org/apache/maven/doxia/logging/SystemStreamLog/print(java.lang.String,java.lang.CharSequence,java.lang.Throwable)@g_maven-plugin-api-2.0.4.jar.txt	4
+org/apache/maven/doxia/logging/SystemStreamLog/error(java.lang.CharSequence,java.lang.Throwable)@g_maven-plugin-api-2.0.4.jar.txt	3
+org/apache/maven/plugin/logging/SystemStreamLog/print(java.lang.String,java.lang.CharSequence,java.lang.Throwable)@g_maven-plugin-api-2.0.7.jar.txt	1
+org/apache/maven/plugin/logging/SystemStreamLog/error(java.lang.CharSequence,java.lang.Throwable)@g_maven-plugin-api-2.0.4.jar.txt	2
+org/apache/maven/plugin/logging/SystemStreamLog/print(java.lang.String,java.lang.CharSequence,java.lang.Throwable)@g_maven-plugin-api-2.0.4.jar.txt	0

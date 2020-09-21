@@ -1,0 +1,5 @@
+com/sun/jersey/core/impl/provider/entity/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	0
+com/sun/jersey/core/spi/component/ComponentConstructor/getConstructor()@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	1
+com/sun/jersey/core/spi/scanning/uri/VfsSchemeScanner/scan(java.net.URI,com.sun.jersey.core.spi.scanning.ScannerListener)@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	4
+com/sun/jersey/api/uri/UriTemplate/createURI(java.lang.String[],int,int)@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	3
+com/sun/jersey/api/uri/UriComponent/decodePercentEncodedOctets(java.lang.String,int,java.nio.ByteBuffer)@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	2

@@ -1,0 +1,4 @@
+org/apache/felix/utils/properties/Properties$PropertiesReader/readLine()
+org/apache/felix/utils/properties/Properties$PropertiesReader/checkCombineLines(java.lang.String)
+java/lang/String/charAt(int)
+java/lang/String/length()

@@ -1,0 +1,5 @@
+com/sun/star/lib/uno/bridges/java_remote/java_remote_bridge/freeHolders()@g_jurt-3.2.1.jar.txt	3
+com/sun/star/comp/helper/Bootstrap/bootstrap()@g_jurt-3.2.1.jar.txt	0
+com/sun/star/lib/uno/helper/PropertySet/registerProperty(java.lang.String,java.lang.String,short)@g_jurt-3.2.1.jar.txt	4
+com/sun/star/lib/uno/helper/PropertySetMixin/Info/getProperties()@g_jurt-3.2.1.jar.txt	2
+com/sun/star/lib/uno/protocols/urp/urp/writeRequest(boolean,java.lang.String,com.sun.star.lib.uno.typedesc.TypeDescription,com.sun.star.uno.IMethodDescription,com.sun.star.lib.uno.environments.remote.ThreadId,java.lang.Object[],boolean)@g_jurt-3.2.1.jar.txt	1

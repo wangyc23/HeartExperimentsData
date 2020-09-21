@@ -1,0 +1,5 @@
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/getRequestThreadCount()@g_maven-compiler-plugin-3.6.1.jar.txt	2
+org/jacoco/maven/AbstractReportMojo/createVisitor(java.util.Locale)@g_jacoco-maven-plugin-0.7.5.201505241946.jar.txt	1
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/isDependencyChanged()@g_maven-compiler-plugin-3.6.1.jar.txt	4
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/execute()@g_maven-compiler-plugin-3.6.1.jar.txt	3
+org/apache/maven/plugin/compiler/TestCompilerMojo/preparePaths(java.util.Set)@g_maven-compiler-plugin-3.6.1.jar.txt	0

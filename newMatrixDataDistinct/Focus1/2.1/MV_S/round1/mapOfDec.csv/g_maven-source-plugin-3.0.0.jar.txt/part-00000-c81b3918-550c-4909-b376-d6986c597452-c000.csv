@@ -1,0 +1,5 @@
+org/eclipse/tycho/source/AbstractSourceJarMojo/createArchiver()@g_tycho-source-plugin-0.23.1.jar.txt	0
+org/apache/maven/plugins/source/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_tycho-source-plugin-0.23.1.jar.txt	3
+org/apache/maven/plugins/source/AbstractSourceJarMojo/archiveProjectContent(org.apache.maven.project.MavenProject,org.codehaus.plexus.archiver.Archiver)@g_tycho-source-plugin-0.23.1.jar.txt	4
+org/eclipse/tycho/source/OsgiSourceMojo/generateL10nFile()@g_tycho-source-plugin-0.23.1.jar.txt	1
+org/eclipse/tycho/source/OsgiSourceMojo/getEclipseHeaderSourceRoots()@g_tycho-source-plugin-0.23.1.jar.txt	2

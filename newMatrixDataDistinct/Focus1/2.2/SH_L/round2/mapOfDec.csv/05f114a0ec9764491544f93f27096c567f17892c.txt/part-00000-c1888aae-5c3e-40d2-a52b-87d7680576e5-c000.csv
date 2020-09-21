@@ -1,0 +1,5 @@
+com/codahale/metrics/jvm/BufferPoolMetricSetTest/includesAGaugeForMappedMemoryUsed()@14605e35dbaf8b322336885b479ea464dcd2c403.txt	4
+com/codahale/metrics/jvm/MemoryUsageGaugeSetTest/hasAGaugeForTotalInit()@14605e35dbaf8b322336885b479ea464dcd2c403.txt	3
+com/codahale/metrics/benchmarks/generated/ReservoirBenchmark_perfExponentiallyDecayingReservoir/perfExponentiallyDecayingReservoir_Throughput(org.openjdk.jmh.runner.InfraControl,org.openjdk.jmh.infra.ThreadParams)@14605e35dbaf8b322336885b479ea464dcd2c403.txt	0
+com/codahale/metrics/graphite/PickledGraphite/connect()@14605e35dbaf8b322336885b479ea464dcd2c403.txt	1
+com/codahale/metrics/InstrumentedExecutorsTest/testNewSingleThreadExecutorWithThreadFactoryAndName()@14605e35dbaf8b322336885b479ea464dcd2c403.txt	2

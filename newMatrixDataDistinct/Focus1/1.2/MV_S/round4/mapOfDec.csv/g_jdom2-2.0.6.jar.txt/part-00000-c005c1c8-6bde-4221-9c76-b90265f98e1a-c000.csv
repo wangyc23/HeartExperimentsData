@@ -1,0 +1,5 @@
+org/codehaus/stax2/ri/dom/DOMWrappingReader/next()@g_stax2-api-3.1.4.jar.txt	3
+org/codehaus/stax2/ri/typed/ValueDecoderFactory/IntDecoder/decode(char[],int,int)@g_stax2-api-3.1.4.jar.txt	2
+org/codehaus/stax2/ri/Stax2WriterAdapter/copyEventFromReader(org.codehaus.stax2.XMLStreamReader2,boolean)@g_stax2-api-3.1.4.jar.txt	4
+org/codehaus/stax2/ri/evt/Stax2EventAllocatorImpl/allocate(javax.xml.stream.XMLStreamReader)@g_stax2-api-3.1.4.jar.txt	1
+org/codehaus/stax2/ri/typed/ValueDecoderFactory/LongDecoder/parseUsingBD(java.lang.String,boolean)@g_stax2-api-3.1.4.jar.txt	0

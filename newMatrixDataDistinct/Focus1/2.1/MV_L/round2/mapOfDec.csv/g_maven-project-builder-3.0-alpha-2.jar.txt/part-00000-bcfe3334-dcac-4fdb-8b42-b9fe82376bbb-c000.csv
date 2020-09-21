@@ -1,0 +1,5 @@
+org/apache/maven/shared/model/InterpolatorProperty/toInterpolatorProperties(java.util.Map,java.lang.String)@g_model-builder-1.3.jar.txt	1
+org/apache/maven/shared/model/ModelTransformerContext/processContainers(org.apache.maven.shared.model.ModelDataSource,org.apache.maven.shared.model.ModelDataSource,org.apache.maven.shared.model.ModelContainerInfo)@g_model-builder-1.3.jar.txt	0
+org/apache/maven/shared/model/impl/DefaultModelDataSource/sort(java.util.List,java.lang.String)@g_model-builder-1.3.jar.txt	4
+org/apache/maven/shared/model/ModelTransformerContext/sort(java.util.List,java.lang.String)@g_model-builder-1.3.jar.txt	2
+org/apache/maven/shared/model/ModelTransformerContext/interpolateModelProperties(java.util.List,java.util.List)@g_model-builder-1.3.jar.txt	3

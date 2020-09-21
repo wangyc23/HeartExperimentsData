@@ -1,0 +1,4 @@
+org/apache/flink/stormcompatibility/excamation/ExclamationTopology/parseParameters(java.lang.String[])
+org/apache/flink/stormcompatibility/api/FlinkClient/getConfiguredClient(java.util.Map)
+org/apache/flink/stormcompatibility/api/FlinkTopologyBuilder/createTopology()
+org/apache/flink/stormcompatibility/api/FlinkClient/killTopology(java.lang.String)

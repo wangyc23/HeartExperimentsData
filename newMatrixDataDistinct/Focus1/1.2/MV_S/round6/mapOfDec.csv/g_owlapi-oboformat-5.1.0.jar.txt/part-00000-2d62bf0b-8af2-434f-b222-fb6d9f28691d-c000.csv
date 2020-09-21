@@ -1,0 +1,5 @@
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLAnnotationProperty,org.semanticweb.owlapi.model.OWLAnnotationValue,java.util.Collection,org.obolibrary.oboformat.model.Frame)@g_owlapi-distribution-5.1.0.jar.txt	1
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-distribution-5.1.0.jar.txt	4
+org/obolibrary/oboformat/writer/OBOFormatWriter/write(org.obolibrary.oboformat.model.Frame,java.io.Writer,org.obolibrary.oboformat.writer.OBOFormatWriter$NameProvider)@g_owlapi-distribution-5.1.0.jar.txt	2
+org/obolibrary/oboformat/writer/OBOFormatWriter/writeClauseWithQuotedString(org.obolibrary.oboformat.model.Clause,java.io.Writer)@g_owlapi-distribution-5.1.0.jar.txt	3
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLDeclarationAxiom)@g_owlapi-distribution-5.1.0.jar.txt	0

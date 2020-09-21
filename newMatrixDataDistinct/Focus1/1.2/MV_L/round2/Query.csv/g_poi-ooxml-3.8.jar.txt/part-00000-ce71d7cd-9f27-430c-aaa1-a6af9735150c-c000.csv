@@ -1,0 +1,4 @@
+org/openxmlformats/schemas/drawingml/x2006/main/CTLineProperties/isSetTailEnd()
+org/openxmlformats/schemas/drawingml/x2006/main/STLineEndType$Enum/forInt(int)
+org/openxmlformats/schemas/drawingml/x2006/main/CTLineEndProperties/setType(org.openxmlformats.schemas.drawingml.x2006.main.STLineEndType$Enum)
+org/openxmlformats/schemas/drawingml/x2006/main/CTLineProperties/addNewTailEnd()

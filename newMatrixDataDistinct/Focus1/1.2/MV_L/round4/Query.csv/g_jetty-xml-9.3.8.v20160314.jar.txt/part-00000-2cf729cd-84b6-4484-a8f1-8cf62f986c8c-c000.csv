@@ -1,0 +1,4 @@
+org/xml/sax/InputSource/getPublicId()
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+java/lang/StringBuilder/append(java.lang.String)
+javax/xml/parsers/SAXParser/getXMLReader()

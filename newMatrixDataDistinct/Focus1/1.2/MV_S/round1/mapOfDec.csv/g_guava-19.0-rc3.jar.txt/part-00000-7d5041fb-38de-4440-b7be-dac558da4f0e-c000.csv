@@ -1,0 +1,5 @@
+com/google/common/reflect/TypeResolver/WildcardCapturer/capture(java.lang.reflect.Type)@g_guava-19.0.jar.txt	2
+org/spark_project/guava/io/Files/createTempDir()@g_spark-network-common_2.11-2.2.0.jar.txt	1
+com/google/common/collect/ImmutableListMultimap/readObject(java.io.ObjectInputStream)@g_guava-19.0.jar.txt	4
+com/google/common/io/Files/createTempDir()@g_guava-19.0.jar.txt	0
+com/google/common/primitives/Longs/tryParse(java.lang.String,int)@g_guava-19.0.jar.txt	3

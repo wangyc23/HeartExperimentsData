@@ -1,0 +1,4 @@
+org/eclipse/jdt/core/IJavaProject/getElementName()
+java/lang/StringBuffer/append(char)
+java/lang/Thread/currentThread()
+java/io/PrintStream/println()

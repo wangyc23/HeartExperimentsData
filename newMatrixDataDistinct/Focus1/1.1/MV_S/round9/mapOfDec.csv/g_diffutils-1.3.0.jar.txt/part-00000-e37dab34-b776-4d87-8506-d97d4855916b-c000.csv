@@ -1,0 +1,5 @@
+org/suigeneris/jrcs/diff/DiffHelper/randomEdit(java.lang.Object[],long)@g_java-getopt-1.0.13.jar.txt	1
+GetoptDemo/main(java.lang.String[])@g_java-getopt-1.0.13.jar.txt	4
+difflib/DiffUtils/processDeltas(java.util.List,java.util.List,int)@g_java-getopt-1.0.13.jar.txt	2
+difflib/DiffUtils/parseUnifiedDiff(java.util.List)@g_java-getopt-1.0.13.jar.txt	0
+gnu/getopt/Getopt/getopt()@g_java-getopt-1.0.13.jar.txt	3

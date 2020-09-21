@@ -1,0 +1,5 @@
+org/eclipse/jetty/io/ManagedSelector/processConnect(java.nio.channels.SelectionKey,org.eclipse.jetty.io.ManagedSelector$Connect)@g_jetty-io-9.3.8.v20160314.jar.txt	3
+org/eclipse/jetty/io/ByteArrayEndPoint/addInput(java.nio.ByteBuffer)@g_jetty-io-9.3.8.v20160314.jar.txt	0
+org/eclipse/jetty/io/ssl/SslConnection/DecryptedEndPoint/notifyHandshakeFailed(javax.net.ssl.SSLEngine,java.lang.Throwable)@g_jetty-io-9.3.8.v20160314.jar.txt	4
+org/eclipse/jetty/io/ssl/SslConnection/DecryptedEndPoint/1/succeeded()@g_jetty-io-9.3.8.v20160314.jar.txt	2
+org/eclipse/jetty/io/ByteArrayEndPoint/fill(java.nio.ByteBuffer)@g_jetty-io-9.3.8.v20160314.jar.txt	1

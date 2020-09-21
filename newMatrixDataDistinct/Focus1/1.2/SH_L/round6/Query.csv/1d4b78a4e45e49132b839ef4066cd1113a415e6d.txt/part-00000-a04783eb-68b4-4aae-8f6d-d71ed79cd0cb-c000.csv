@@ -1,0 +1,4 @@
+java/lang/Class/getDeclaredField(java.lang.String)
+java/lang/reflect/ParameterizedType/getActualTypeArguments()
+org/jboss/weld/tests/injectionPoint/PigSty/getPig()
+org/jboss/weld/test/Utils/annotationSetMatches(java.util.Set,java.lang.Class<? extends java.lang.annotation.Annotation>[])

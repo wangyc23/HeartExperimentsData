@@ -1,0 +1,4 @@
+org/springframework/security/core/context/SecurityContext/getAuthentication()
+org/springframework/security/core/Authentication/getPrincipal()
+javax/persistence/Query/getSingleResult()
+org/springframework/validation/Errors/hasErrors()

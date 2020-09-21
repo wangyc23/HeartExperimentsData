@@ -1,0 +1,4 @@
+org/apache/flume/api/RpcClient/close()
+org/apache/flume/test/util/StagedInstall/waitUntilPortOpens(java.lang.String,int,long)
+org/apache/flume/test/util/StagedInstall/isRunning()
+java/io/PrintStream/println(java.lang.String)

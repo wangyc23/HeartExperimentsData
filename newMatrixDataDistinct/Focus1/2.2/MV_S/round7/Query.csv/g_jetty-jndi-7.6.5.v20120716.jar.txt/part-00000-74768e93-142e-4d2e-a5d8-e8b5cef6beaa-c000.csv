@@ -1,0 +1,4 @@
+java/lang/Class/getSimpleName()
+java/util/Iterator/hasNext()
+java/util/WeakHashMap/hashCode()
+java/lang/Appendable/append(java.lang.CharSequence)

@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/compressing/CompressionMode/DeflateDecompressor/decompress(org.apache.lucene.store.DataInput,int,int,int,org.apache.lucene.util.BytesRef)@g_lucene-core-4.5.0.jar.txt	1
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_lucene-core-4.6.0.jar.txt	2
+org/apache/lucene/codecs/lucene46/Lucene46FieldInfosWriter/write(org.apache.lucene.store.Directory,java.lang.String,java.lang.String,org.apache.lucene.index.FieldInfos,org.apache.lucene.store.IOContext)@g_lucene-core-4.6.0.jar.txt	4
+org/apache/lucene/codecs/compressing/CompressionMode/DeflateDecompressor/decompress(org.apache.lucene.store.DataInput,int,int,int,org.apache.lucene.util.BytesRef)@g_lucene-core-4.6.0.jar.txt	0
+org/apache/lucene/search/SortField/getComparator(int,int)@g_lucene-core-4.6.0.jar.txt	3

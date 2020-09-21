@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+net/canarymod/api/world/CanaryWorldManager/worldIsLoaded(java.lang.String)
+java/util/Random/nextInt(int)
+net/minecraft/world/World/M()

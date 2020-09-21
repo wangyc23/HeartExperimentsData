@@ -1,0 +1,5 @@
+0	java/sql/Connection/close()
+1	java/lang/Throwable/printStackTrace()
+2	java/lang/String/valueOf(int)
+3	com/egnore/hadoop/conf/jaxb/Configurations/dump()
+4	java/util/concurrent/atomic/AtomicInteger/addAndGet(int)

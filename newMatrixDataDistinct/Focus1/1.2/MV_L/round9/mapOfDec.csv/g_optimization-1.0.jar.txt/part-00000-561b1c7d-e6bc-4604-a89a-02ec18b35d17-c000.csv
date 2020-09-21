@@ -1,0 +1,5 @@
+org/antlr/runtime/TokenRewriteStream/RewriteOperation/toString()@g_antlr-runtime-3.0.jar.txt	4
+org/antlr/runtime/BaseRecognizer/traceIn(java.lang.String,int,java.lang.Object)@g_antlr-runtime-3.0.jar.txt	2
+org/netlib/util/EasyIn/main(java.lang.String[])@g_arpack_combined_all-0.1.jar.txt	0
+org/antlr/runtime/BaseRecognizer/traceOut(java.lang.String,int,java.lang.Object)@g_antlr-runtime-3.0.jar.txt	3
+org/netlib/util/Util/pause(java.lang.String)@g_arpack_combined_all-0.1.jar.txt	1

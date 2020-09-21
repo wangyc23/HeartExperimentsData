@@ -1,0 +1,5 @@
+com/xpn/xwiki/XWiki/include(java.lang.String,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-oldcore-7.0.jar.txt	4
+com/xpn/xwiki/monitor/api/MonitorPlugin/startRequest(java.lang.String,java.lang.String,java.net.URL)@g_xwiki-platform-oldcore-7.0.jar.txt	3
+com/xpn/xwiki/XWiki/include(java.lang.String,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-oldcore-7.4.jar.txt	1
+com/xpn/xwiki/monitor/api/MonitorData/endTimer(java.lang.String)@g_xwiki-platform-oldcore-7.4.jar.txt	2
+com/xpn/xwiki/monitor/api/MonitorPlugin/startRequest(java.lang.String,java.lang.String,java.net.URL)@g_xwiki-platform-oldcore-7.4.jar.txt	0

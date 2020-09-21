@@ -1,0 +1,5 @@
+storm/starter/TweetSpout/nextTuple()@1691d10126ccad1047718f55f8e88691573c7ccc.txt	2
+storm/starter/ReachTopology/CountAggregator/finishBatch()@1871b40c45fc6fdc9e301112b8739980be6cfe5f.txt	4
+storm/starter/SentimentBolt/execute(backtype.storm.tuple.Tuple)@1691d10126ccad1047718f55f8e88691573c7ccc.txt	3
+org/apache/storm/hdfs/bolt/HdfsFileTopology/SentenceSpout/nextTuple()@1871b40c45fc6fdc9e301112b8739980be6cfe5f.txt	1
+org/apache/storm/hdfs/bolt/SequenceFileTopology/SentenceSpout/nextTuple()@1871b40c45fc6fdc9e301112b8739980be6cfe5f.txt	0

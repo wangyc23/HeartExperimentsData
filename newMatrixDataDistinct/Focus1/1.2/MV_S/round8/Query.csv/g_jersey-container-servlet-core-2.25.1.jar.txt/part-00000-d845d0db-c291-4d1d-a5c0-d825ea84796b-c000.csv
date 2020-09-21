@@ -1,0 +1,4 @@
+org/glassfish/jersey/server/ContainerResponse/getStatus()
+javax/servlet/http/HttpServletResponse/addHeader(java.lang.String,java.lang.String)
+java/util/Map$Entry/getKey()
+javax/ws/rs/core/MultivaluedMap/entrySet()

@@ -1,0 +1,5 @@
+org/apache/batik/ext/awt/image/rendered/ProfileRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	3
+org/apache/xmlgraphics/image/codec/tiff/TIFFImage/getTile(int,int)@g_xmlgraphics-commons-1.5.jar.txt	2
+org/apache/xmlgraphics/image/codec/png/PNGRed/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_xmlgraphics-commons-1.5.jar.txt	0
+org/apache/batik/ext/awt/image/rendered/FilterAsAlphaRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	4
+org/apache/xmlgraphics/image/codec/png/PNGImage/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_xmlgraphics-commons-1.5.jar.txt	1

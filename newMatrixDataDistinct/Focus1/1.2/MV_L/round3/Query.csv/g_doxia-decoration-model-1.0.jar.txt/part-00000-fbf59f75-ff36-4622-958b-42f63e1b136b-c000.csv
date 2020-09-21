@@ -1,0 +1,4 @@
+java/lang/StringBuffer/toString()
+java/lang/StringBuffer/append(java.lang.String)
+java/util/HashSet/HashSet()
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getName()

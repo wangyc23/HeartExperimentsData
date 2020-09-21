@@ -1,0 +1,5 @@
+org/drools/marshalling/impl/ProtobufMessages/ActionQueue/Assert/writeTo(com.google.protobuf.CodedOutputStream)@g_drools-core-5.5.0.Final.jar.txt	4
+org/drools/marshalling/impl/ProtobufMessages/Activation/writeTo(com.google.protobuf.CodedOutputStream)@g_drools-core-5.5.0.Final.jar.txt	1
+org/drools/marshalling/impl/ProtobufMessages/Trigger/CronTrigger/writeTo(com.google.protobuf.CodedOutputStream)@g_drools-core-5.5.0.Final.jar.txt	2
+org/drools/marshalling/impl/ProtobufMessages/FactHandle/writeTo(com.google.protobuf.CodedOutputStream)@g_drools-core-5.5.0.Final.jar.txt	3
+org/drools/marshalling/impl/ProtobufMessages/Header/writeTo(com.google.protobuf.CodedOutputStream)@g_drools-core-5.5.0.Final.jar.txt	0

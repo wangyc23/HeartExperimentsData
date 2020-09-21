@@ -1,0 +1,5 @@
+org/infinispan/commons/util/concurrent/jdk8backported/EquivalentConcurrentHashMapV8/equals(java.lang.Object)@g_infinispan-commons-7.2.5.Final.jar.txt	3
+org/infinispan/commons/util/ClassFinder/infinispanClasses(java.lang.String)@g_infinispan-commons-7.2.5.Final.jar.txt	0
+org/infinispan/commons/util/ClassFinder/withAnnotationDeclared(java.util.List,java.lang.Class)@g_infinispan-commons-7.2.5.Final.jar.txt	4
+org/infinispan/commons/util/OsgiClassLoader/findResources(java.lang.String)@g_infinispan-commons-7.2.5.Final.jar.txt	2
+org/infinispan/commons/util/ClassFinder/findClassesOnPath(java.io.File)@g_infinispan-commons-7.2.5.Final.jar.txt	1

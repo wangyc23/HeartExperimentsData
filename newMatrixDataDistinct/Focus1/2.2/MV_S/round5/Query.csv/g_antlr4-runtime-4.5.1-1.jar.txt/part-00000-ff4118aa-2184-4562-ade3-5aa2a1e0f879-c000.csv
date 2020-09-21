@@ -1,0 +1,4 @@
+org/antlr/v4/runtime/ParserInterpreter/enterRule(org.antlr.v4.runtime.ParserRuleContext,int,int)
+org/antlr/v4/runtime/ParserInterpreter/action(org.antlr.v4.runtime.RuleContext,int,int)
+java/util/Deque/peek()
+org/antlr/v4/runtime/ParserInterpreter/match(int)

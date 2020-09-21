@@ -1,0 +1,4 @@
+org/apache/kylin/rest/exception/BadRequestException/BadRequestException(java.lang.String)
+org/apache/kylin/common/persistence/RootPersistentEntity/getUuid()
+java/util/UUID/randomUUID()
+org/apache/kylin/rest/request/ModelRequest/getProject()

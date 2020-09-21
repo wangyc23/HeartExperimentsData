@@ -1,0 +1,5 @@
+ch/qos/logback/access/tomcat/LogbackValve/startInternal()@g_logback-access-1.1.2.jar.txt	0
+ch/qos/logback/access/spi/AccessEvent/getRequestContent()@g_logback-access-1.1.2.jar.txt	4
+ch/qos/logback/access/net/SimpleSocketServer/runServer()@g_logback-access-1.1.2.jar.txt	2
+ch/qos/logback/access/filter/CountingFilter/start()@g_logback-access-1.1.2.jar.txt	3
+ch/qos/logback/access/net/SimpleSocketServer/init(java.lang.String,java.lang.String)@g_logback-access-1.1.2.jar.txt	1

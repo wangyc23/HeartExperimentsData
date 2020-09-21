@@ -1,0 +1,4 @@
+java/lang/String/charAt(int)
+java/lang/StringBuffer/append(char)
+java/util/ArrayList/ensureCapacity(int)
+java/util/ArrayList/trimToSize()

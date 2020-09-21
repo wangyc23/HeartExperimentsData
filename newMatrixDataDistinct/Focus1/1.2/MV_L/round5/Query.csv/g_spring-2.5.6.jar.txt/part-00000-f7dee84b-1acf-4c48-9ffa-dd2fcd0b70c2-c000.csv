@@ -1,0 +1,4 @@
+org/springframework/scripting/bsh/BshScriptUtils$BshObjectInvocationHandler/isProxyForSameBshObject(java.lang.Object)
+bsh/XThis/invokeMethod(java.lang.String,java.lang.Object[])
+org/springframework/scripting/bsh/BshScriptUtils$BshExecutionException/BshExecutionException(bsh.EvalError,org.springframework.scripting.bsh.BshScriptUtils$1)
+java/lang/StringBuffer/toString()

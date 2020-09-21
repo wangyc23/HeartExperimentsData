@@ -1,0 +1,5 @@
+org/jboss/solder/bean/defaultbean/DefaultBeanExtension/processObserverMethod(org.jboss.solder.bean.defaultbean.ProcessObserverMethod)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	3
+org/jboss/solder/test/el/CustomELResolver/getValue(org.jboss.solder.el.ELContext,java.lang.Object,java.lang.Object)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	4
+org/jboss/solder/servlet/http/CookieParamProducer/getCookieName(org.jboss.solder.logging.InjectionPoint)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	2
+com/dempe/ketty/common/utils/ReflectionUtils/findMethod(java.lang.Class,java.lang.String,java.lang.Class<?>[])@1fc395b016ebde3affd1649e41a2c4d186add9f9.txt	1
+org/jboss/solder/properties/MethodPropertyImpl/getSetterMethod(java.lang.Class,java.lang.String)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	0

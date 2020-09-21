@@ -1,0 +1,4 @@
+org/sculptor/generator/util/GenericAccessObjectManager/AbstractGenericAccessObjectStrategy/addNotFoundException(org.sculptor.generator.util.RepositoryOperation)
+org/sculptor/generator/util/GenericAccessObjectManager/AbstractGenericAccessObjectStrategy/addDefaultDomainObjectType(org.sculptor.generator.util.RepositoryOperation)
+org/sculptor/generator/util/GenericAccessObjectManager/findDslDeclaredIdType(org.sculptor.generator.util.DomainObject)
+org/sculptor/generator/util/PropertiesBase/getIdType()

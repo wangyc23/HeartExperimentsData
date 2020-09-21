@@ -1,0 +1,5 @@
+org/xwiki/rendering/script/RenderingScriptService/getAvailableRendererSyntaxes()@g_xwiki-platform-rendering-xwiki-7.0.jar.txt	4
+org/xwiki/rendering/internal/wiki/XWikiWikiModel/getDocumentEditURL(org.xwiki.rendering.listener.reference.ResourceReference)@g_xwiki-platform-rendering-xwiki-7.4.jar.txt	1
+org/xwiki/rendering/internal/wiki/XWikiWikiModel/getImageURL(org.xwiki.rendering.listener.reference.ResourceReference,java.util.Map)@g_xwiki-platform-rendering-xwiki-7.0.jar.txt	2
+org/xwiki/rendering/internal/wiki/XWikiWikiModel/getDocumentEditURL(org.xwiki.rendering.listener.reference.ResourceReference)@g_xwiki-platform-rendering-xwiki-7.0.jar.txt	0
+org/xwiki/rendering/internal/wiki/XWikiWikiModel/getImageURL(org.xwiki.rendering.listener.reference.ResourceReference,java.util.Map)@g_xwiki-platform-rendering-xwiki-7.4.jar.txt	3

@@ -1,0 +1,4 @@
+0	com/salesforce/keystone/roadrunner/exception/MessageNotSupportedException/MessageNotSupportedException(byte)
+1	com/salesforce/keystone/roadrunner/msgmapper/MessageMapper/hasExtensionRegistry()
+2	com/salesforce/keystone/roadrunner/msgmapper/MessageMapper/newInstance(byte)
+3	com/salesforce/keystone/roadrunner/msgmapper/MessageMapper/getExtensionRegistry()

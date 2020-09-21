@@ -1,0 +1,4 @@
+com/amazonaws/transform/SimpleTypeStaxUnmarshallers$StringStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)
+com/amazonaws/transform/SimpleTypeStaxUnmarshallers$StringStaxUnmarshaller/getInstance()
+com/amazonaws/transform/StaxUnmarshallerContext/nextEvent()
+javax/xml/stream/events/XMLEvent/isAttribute()

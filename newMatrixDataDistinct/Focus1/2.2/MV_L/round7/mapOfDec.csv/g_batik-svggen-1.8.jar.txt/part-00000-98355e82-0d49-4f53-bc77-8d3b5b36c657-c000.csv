@@ -1,0 +1,5 @@
+org/apache/batik/svggen/SVGLookupOp/toSVG(java.awt.image.LookupOp)@g_batik-svggen-1.7.jar.txt	2
+org/apache/batik/svggen/SVGTexturePaint/toSVG(java.awt.TexturePaint)@g_batik-svggen-1.7.jar.txt	1
+org/apache/batik/svggen/SVGClip/toSVG(org.apache.batik.ext.awt.g2d.GraphicContext)@g_batik-svggen-1.7.jar.txt	0
+org/apache/batik/svggen/SVGLinearGradient/toSVG(java.awt.GradientPaint)@g_batik-svggen-1.7.jar.txt	3
+org/apache/batik/svggen/SVGFont/toSVG(java.awt.Font,java.awt.font.FontRenderContext)@g_batik-svggen-1.7.jar.txt	4

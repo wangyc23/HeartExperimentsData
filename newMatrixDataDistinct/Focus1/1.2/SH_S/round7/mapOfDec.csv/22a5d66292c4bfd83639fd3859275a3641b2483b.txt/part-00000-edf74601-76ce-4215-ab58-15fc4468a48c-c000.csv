@@ -1,0 +1,5 @@
+br/com/tecsinapse/camel/controller/EmailController/getFrom(javax.mail.Address[])@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	3
+com/guillaumecl/caskdays/external/BeerListParser/getList()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1
+br/com/tecsinapse/camel/repository/SocialRepository/getTweetsResult(int)@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	2
+br/com/tecsinapse/camel/repository/SocialRepository/getLatests(int,java.util.Map,java.util.Comparator,java.util.function.Function)@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	4
+com/guillaumecl/caskdays/spellcheck/SpellChecker/loadFixes()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0

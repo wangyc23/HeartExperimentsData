@@ -1,0 +1,4 @@
+org/apache/camel/Message/getBody(java.lang.Class)
+dk/miw/playlists/model/Track/setAlbumImageUrl(java.lang.String)
+javax/xml/xpath/XPathFactory/newInstance()
+java/io/StringReader/StringReader(java.lang.String)

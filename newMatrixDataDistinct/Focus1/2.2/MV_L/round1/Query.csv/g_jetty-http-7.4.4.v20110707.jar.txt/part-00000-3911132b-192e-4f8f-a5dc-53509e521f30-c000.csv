@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/security/cert/PKIXBuilderParameters/setRevocationEnabled(boolean)
+java/security/cert/X509CertSelector/X509CertSelector()
+javax/net/ssl/TrustManagerFactory/getTrustManagers()

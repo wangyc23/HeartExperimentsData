@@ -1,0 +1,4 @@
+java/lang/String/valueOf(java.lang.Object)
+java/lang/StringBuffer/append(char)
+java/lang/StringBuffer/toString()
+java/lang/String/lastIndexOf(int)

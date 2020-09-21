@@ -1,0 +1,5 @@
+org/springframework/social/connect/web/ConnectSupport/completeConnection(org.springframework.social.connect.support.OAuth2ConnectionFactory,org.springframework.web.context.request.NativeWebRequest)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	4
+org/springframework/social/facebook/api/impl/FacebookTemplate/publish(java.lang.String,java.lang.String,org.springframework.util.MultiValueMap)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	2
+org/springframework/social/facebook/api/impl/json/ReferenceListDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	3
+org/springframework/social/facebook/api/impl/FacebookTemplate/deserializeDataList(com.fasterxml.jackson.databind.JsonNode,java.lang.Class)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	0
+org/springframework/social/security/provider/OAuth1AuthenticationService/buildReturnToUrl(javax.servlet.http.HttpServletRequest)@g_spring-social-facebook-2.0.1.RELEASE.jar.txt	1

@@ -1,0 +1,5 @@
+org/thymeleaf/spring4/util/FieldUtils/getBindStatus(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,boolean,java.lang.String)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	2
+org/thymeleaf/spring4/view/ThymeleafViewResolver/loadView(java.lang.String,java.util.Locale)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	1
+org/thymeleaf/extras/springsecurity4/dialect/processor/AuthorizeAttrProcessor/isVisible(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	4
+org/thymeleaf/spring4/processor/attr/SpringSelectFieldAttrProcessor/doProcess(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String,java.lang.String,org.springframework.web.servlet.support.BindStatus,java.util.Map)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	3
+org/thymeleaf/extras/springsecurity4/auth/SpringVersionSpecificUtils/<clinit>()@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	0

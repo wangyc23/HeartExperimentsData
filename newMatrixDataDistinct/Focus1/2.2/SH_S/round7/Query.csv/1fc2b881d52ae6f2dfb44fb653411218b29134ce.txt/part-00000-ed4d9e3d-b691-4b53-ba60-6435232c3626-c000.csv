@@ -1,0 +1,4 @@
+javax/swing/JPanel/JPanel(java.awt.LayoutManager)
+javax/swing/JLabel/JLabel(java.lang.String)
+javax/swing/JCheckBox/JCheckBox()
+java/awt/GridLayout/GridLayout(int,int,int,int)

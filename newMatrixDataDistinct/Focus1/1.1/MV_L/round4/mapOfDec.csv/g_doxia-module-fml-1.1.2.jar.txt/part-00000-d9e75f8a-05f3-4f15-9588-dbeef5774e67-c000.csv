@@ -1,0 +1,5 @@
+org/apache/maven/doxia/module/fml/FmlParser/logMessage(java.lang.String,java.lang.String)@g_doxia-module-fml-1.4.jar.txt	1
+org/apache/maven/doxia/parser/AbstractXmlParser/CachedFileEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_doxia-core-1.1.2.jar.txt	3
+org/apache/maven/doxia/module/fml/FmlParser/handleParamStart(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-module-fml-1.4.jar.txt	2
+org/apache/maven/doxia/module/fml/FmlParser/handleMacroEnd(java.lang.StringBuilder)@g_doxia-module-fml-1.4.jar.txt	0
+org/apache/maven/doxia/parser/XhtmlBaseParser/logMessage(java.lang.String,java.lang.String)@g_doxia-core-1.1.2.jar.txt	4

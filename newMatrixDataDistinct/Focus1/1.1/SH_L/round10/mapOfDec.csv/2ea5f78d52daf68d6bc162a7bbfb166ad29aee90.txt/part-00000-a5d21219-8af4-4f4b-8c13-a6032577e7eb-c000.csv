@@ -1,0 +1,5 @@
+com/squareup/okhttp/internal/tls/DistinguishedNameParser/getEscaped()@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	4
+com/squareup/okhttp/internal/http/HttpEngine/sendRequest()@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	3
+com/squareup/okhttp/ConnectionSpec/Builder/supportsTlsExtensions(boolean)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	2
+com/squareup/okhttp/internal/tls/DistinguishedNameParser/findMostSpecific(java.lang.String)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	1
+com/squareup/okhttp/Connection/resetIdleStartTime()@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	0

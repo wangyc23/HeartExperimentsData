@@ -1,0 +1,4 @@
+java/net/URL/getProtocol()
+java/lang/StringBuffer/append(char)
+java/lang/String/length()
+java/net/URL/getFile()

@@ -1,0 +1,5 @@
+0	com/fasterxml/jackson/databind/JsonNode/asText()
+1	com/fasterxml/jackson/databind/JsonNode/get(java.lang.String)
+2	com/exercise/socialconnection/data/graph/BFSTraversal/BFSTraversal(com.exercise.socialconnection.data.graph.Graph)
+3	com/guillaumecl/caskdays/models/Beer/Beer(int,java.lang.String,java.lang.String,java.lang.String)
+4	com/fasterxml/jackson/databind/JsonNode/asInt()

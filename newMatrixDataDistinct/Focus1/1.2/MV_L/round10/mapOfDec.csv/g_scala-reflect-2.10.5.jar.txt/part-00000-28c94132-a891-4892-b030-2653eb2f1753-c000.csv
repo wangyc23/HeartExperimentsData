@@ -1,0 +1,5 @@
+scala/reflect/internal/Types/class/matchesType(scala.reflect.internal.SymbolTable,scala.reflect.internal.Types$Type,scala.reflect.internal.Types$Type,boolean)@g_scala-reflect-2.11.8.jar.txt	1
+scala/reflect/internal/TreeGen/mkAttributedQualifier(scala.reflect.internal.Types$Type,scala.reflect.internal.Symbols$Symbol)@g_scala-reflect-2.11.11.jar.txt	4
+scala/reflect/internal/TypeDebugging/typeDebug/ptTree(scala.reflect.internal.Trees$Tree)@g_scala-reflect-2.11.11.jar.txt	3
+scala/reflect/internal/Types/class/matchesType(scala.reflect.internal.SymbolTable,scala.reflect.internal.Types$Type,scala.reflect.internal.Types$Type,boolean)@g_scala-reflect-2.11.11.jar.txt	0
+scala/reflect/internal/Definitions/DefinitionsClass/isStable(scala.reflect.internal.Types$Type)@g_scala-reflect-2.11.11.jar.txt	2

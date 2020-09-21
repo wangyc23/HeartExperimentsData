@@ -1,0 +1,5 @@
+com/netflix/eureka/InstanceRegistry/getApplicationDeltasFromMultipleRegions(java.lang.String[])@g_eureka-core-1.1.147.jar.txt	3
+com/netflix/eureka/InstanceRegistry/getApplicationDeltas()@g_eureka-core-1.1.147.jar.txt	4
+com/netflix/eureka/InstanceRegistry/cancel(java.lang.String,java.lang.String,boolean)@g_eureka-core-1.1.147.jar.txt	0
+com/netflix/eureka/InstanceRegistry/register(com.netflix.appinfo.InstanceInfo,int,boolean)@g_eureka-core-1.1.147.jar.txt	1
+com/netflix/eureka/InstanceRegistry/evict()@g_eureka-core-1.1.147.jar.txt	2

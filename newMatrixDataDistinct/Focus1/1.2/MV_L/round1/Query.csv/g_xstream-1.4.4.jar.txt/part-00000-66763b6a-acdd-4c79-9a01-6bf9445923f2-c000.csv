@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/reflect/Array/newInstance(java.lang.Class,int)
+java/util/Iterator/next()
+java/util/List/add(java.lang.Object)

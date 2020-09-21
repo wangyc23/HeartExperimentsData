@@ -1,0 +1,5 @@
+org/apache/maven/it/util/FileUtils/deleteFile(java.io.File)@g_maven-verifier-1.2.jar.txt	3
+org/eclipse/jetty/util/thread/QueuedThreadPool/doStop()@g_jetty-runner-8.1.16.v20140903.jar.txt	1
+org/eclipse/jetty/plus/jaas/JAASLoginService/getGroups(javax.security.auth.Subject)@g_jetty-runner-8.1.16.v20140903.jar.txt	4
+org/eclipse/jetty/io/nio/SelectorManager/SelectSet/doSelect()@g_jetty-runner-8.1.16.v20140903.jar.txt	0
+com/sun/mail/imap/IMAPStore/idle()@g_jetty-runner-8.1.16.v20140903.jar.txt	2

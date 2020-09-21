@@ -1,0 +1,5 @@
+org/springframework/boot/context/config/RandomValuePropertySource/getProperty(java.lang.String)@g_spring-boot-1.2.3.RELEASE.jar.txt	0
+org/springframework/boot/context/web/ErrorPageFilter/forwardToErrorPage(java.lang.String,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.Throwable)@g_spring-boot-1.2.3.RELEASE.jar.txt	4
+org/springframework/boot/context/embedded/AbstractEmbeddedServletContainerFactory/getCodeSourceArchive()@g_spring-boot-1.2.3.RELEASE.jar.txt	2
+org/springframework/boot/context/config/RandomValuePropertySource/getProperty(java.lang.String)@g_spring-boot-1.2.4.RELEASE.jar.txt	1
+org/springframework/boot/bind/PropertiesConfigurationFactory/validate(org.springframework.boot.bind.RelaxedDataBinder)@g_spring-boot-1.2.3.RELEASE.jar.txt	3

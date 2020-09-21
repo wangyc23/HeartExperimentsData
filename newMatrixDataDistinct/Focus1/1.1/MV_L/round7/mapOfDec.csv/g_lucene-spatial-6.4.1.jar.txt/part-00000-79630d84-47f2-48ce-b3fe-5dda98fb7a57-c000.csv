@@ -1,0 +1,5 @@
+org/apache/lucene/rangetree/SortedSetRangeTreeQuery/toString(java.lang.String)@g_lucene-sandbox-5.3.1.jar.txt	3
+org/apache/lucene/search/GeoPointDistanceQuery/toString(java.lang.String)@g_lucene-sandbox-5.3.1.jar.txt	2
+org/apache/lucene/sandbox/queries/SlowFuzzyQuery/toString(java.lang.String)@g_lucene-sandbox-5.3.1.jar.txt	1
+org/apache/lucene/search/GeoPointInBBoxQueryImpl/toString(java.lang.String)@g_lucene-sandbox-5.3.1.jar.txt	0
+org/apache/lucene/search/GeoPointInBBoxQuery/toString(java.lang.String)@g_lucene-sandbox-5.3.1.jar.txt	4

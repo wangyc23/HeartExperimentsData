@@ -1,0 +1,4 @@
+org/spout/api/geo/World/getData()
+org/spout/api/entity/Entity/getPhysics()
+org/spout/api/component/entity/EntityComponent/getOwner()
+org/spout/api/component/entity/PhysicsComponent/getTransform()

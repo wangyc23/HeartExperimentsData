@@ -1,0 +1,4 @@
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+java/lang/CharSequence/toString()
+org/fusesource/jansi/AnsiOutputStream/write(byte[])
+java/lang/String/String(byte[])

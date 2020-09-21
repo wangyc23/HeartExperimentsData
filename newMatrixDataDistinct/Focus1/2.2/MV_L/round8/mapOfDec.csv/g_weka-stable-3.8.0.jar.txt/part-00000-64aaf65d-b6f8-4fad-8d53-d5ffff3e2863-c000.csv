@@ -1,0 +1,5 @@
+weka/gui/beans/AttributeSummarizer/renderOffscreenImage(weka.gui.beans.DataSetEvent)@g_weka-dev-3.9.1.jar.txt	1
+weka/gui/beans/ModelPerformanceChart/acceptDataSet(weka.gui.beans.VisualizableErrorEvent)@g_weka-dev-3.9.1.jar.txt	0
+weka/knowledgeflow/steps/DataVisualizer/createOffscreenPlot(weka.gui.visualize.PlotData2D)@g_weka-dev-3.9.1.jar.txt	3
+weka/knowledgeflow/steps/AttributeSummarizer/createOffscreenPlot(weka.knowledgeflow.Data)@g_weka-dev-3.9.1.jar.txt	2
+weka/knowledgeflow/steps/ModelPerformanceChart/addOffscreenErrorPlot(weka.gui.visualize.PlotData2D)@g_weka-dev-3.9.1.jar.txt	4

@@ -1,0 +1,5 @@
+anatlyzer/atl/analyser/EcoreTypeConverter/convertEDataType(org.eclipse.emf.ecore.EDataType)@g_typing-1.0.1.jar.txt	4
+anatlyzer/atl/util/ATLSerializer/inOperatorCallExp(anatlyzer.atlext.OCL.OperatorCallExp)@g_typing-1.0.1.jar.txt	2
+anatlyzer/atl/analyser/generators/UnfoldRecursion/inIterateExp(anatlyzer.atlext.OCL.IterateExp)@g_typing-1.0.1.jar.txt	0
+anatlyzer/atl/analyser/generators/UnfoldRecursion/unfold(anatlyzer.atlext.ATL.Helper,anatlyzer.atlext.OCL.OclExpression,java.util.List,int)@g_typing-1.0.1.jar.txt	1
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/getPrefix(org.eclipse.emf.ecore.EPackage,boolean)@g_org.eclipse.emf.ecore.xmi-2.9.1.v20130827-0309.jar.txt	3

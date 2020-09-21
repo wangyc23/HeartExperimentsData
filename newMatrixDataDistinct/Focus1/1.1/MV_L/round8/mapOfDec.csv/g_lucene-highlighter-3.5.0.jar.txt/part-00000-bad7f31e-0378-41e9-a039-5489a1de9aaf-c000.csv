@@ -1,0 +1,5 @@
+org/apache/lucene/search/highlight/TokenSources/getTokenStream(org.apache.lucene.index.TermPositionVector,boolean)@g_lucene-highlighter-4.2.1.jar.txt	3
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extractWeightedSpanTerms(java.util.Map,org.apache.lucene.search.spans.SpanQuery)@g_lucene-highlighter-4.2.1.jar.txt	4
+org/apache/lucene/search/vectorhighlight/FieldTermStack/main(java.lang.String[])@g_lucene-highlighter-4.2.1.jar.txt	2
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extract(org.apache.lucene.search.Query,java.util.Map)@g_lucene-highlighter-4.5.0.jar.txt	1
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extract(org.apache.lucene.search.Query,java.util.Map)@g_lucene-highlighter-4.2.1.jar.txt	0

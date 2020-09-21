@@ -1,0 +1,5 @@
+org/neo4j/kernel/configuration/Config/parseLongWithUnit(java.lang.String)@g_neo4j-kernel-2.1.7.jar.txt	4
+org/neo4j/kernel/impl/nioneo/store/StoreFactory/createEmptyDynamicStore(java.io.File,int,java.lang.String,org.neo4j.kernel.IdType)@g_neo4j-kernel-2.1.7.jar.txt	0
+org/neo4j/graphdb/factory/SettingsResourceBundle/handleGetObject(java.lang.String)@g_neo4j-kernel-2.1.7.jar.txt	2
+org/neo4j/kernel/impl/nioneo/xa/PropertyTraverser/assertPropertyChain(org.neo4j.kernel.impl.nioneo.store.PrimitiveRecord,org.neo4j.kernel.impl.nioneo.xa.RecordAccess)@g_neo4j-kernel-2.1.7.jar.txt	3
+org/neo4j/kernel/impl/nioneo/xa/command/PhysicalLogNeoXaCommandWriter/PhysicalLogNeoCommandWriter/writePropertyRecord(org.neo4j.kernel.impl.nioneo.store.PropertyRecord)@g_neo4j-kernel-2.1.7.jar.txt	1

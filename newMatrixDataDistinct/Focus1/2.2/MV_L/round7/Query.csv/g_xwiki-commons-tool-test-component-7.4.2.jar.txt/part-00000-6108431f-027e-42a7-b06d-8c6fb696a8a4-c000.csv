@@ -1,0 +1,4 @@
+org/xwiki/component/annotation/ComponentAnnotationLoader/initialize(org.xwiki.component.manager.ComponentManager,java.lang.ClassLoader,java.util.List)
+java/util/ArrayList/ArrayList()
+java/lang/Class/getAnnotation(java.lang.Class)
+org/xwiki/component/annotation/ComponentDeclaration/ComponentDeclaration(java.lang.String)

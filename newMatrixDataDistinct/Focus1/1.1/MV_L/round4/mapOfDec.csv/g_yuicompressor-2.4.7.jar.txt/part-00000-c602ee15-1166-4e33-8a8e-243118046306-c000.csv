@@ -1,0 +1,5 @@
+org/mozilla/javascript/NativeObject/execIdCall(org.mozilla.javascript.IdFunctionObject,org.mozilla.javascript.Context,org.mozilla.javascript.Scriptable,org.mozilla.javascript.Scriptable,java.lang.Object[])@g_rhino-1.7R4.jar.txt	3
+org/mozilla/javascript/xml/impl/xmlbeans/XML/removeNamespace(org.mozilla.javascript.xml.impl.xmlbeans.Namespace)@g_js-1.6R7.jar.txt	0
+org/mozilla/javascript/xml/impl/xmlbeans/XML/removeNamespace(org.mozilla.javascript.xml.impl.xmlbeans.Namespace)@g_rhino-1.7R4.jar.txt	2
+org/mozilla/javascript/NativeObject/execIdCall(org.mozilla.javascript.IdFunctionObject,org.mozilla.javascript.Context,org.mozilla.javascript.Scriptable,org.mozilla.javascript.Scriptable,java.lang.Object[])@g_js-1.6R7.jar.txt	1
+org/mozilla/javascript/commonjs/module/provider/SoftCachingModuleScriptProvider/readObject(java.io.ObjectInputStream)@g_js-1.6R7.jar.txt	4

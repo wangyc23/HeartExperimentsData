@@ -1,0 +1,4 @@
+javax/xml/transform/TransformerFactory/newInstance()
+java/io/IOException/getMessage()
+javax/xml/transform/dom/DOMSource/DOMSource(org.w3c.dom.Node)
+org/apache/ws/commons/schema/XmlSchemaSerializer$XmlSchemaSerializerException/getMessage()

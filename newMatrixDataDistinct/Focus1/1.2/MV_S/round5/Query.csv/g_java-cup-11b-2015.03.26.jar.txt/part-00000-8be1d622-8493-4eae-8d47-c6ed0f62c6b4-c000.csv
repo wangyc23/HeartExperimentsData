@@ -1,0 +1,4 @@
+java/lang/StringBuffer/toString()
+java/lang/StringBuffer/append(int)
+java/io/PrintWriter/print(java.lang.String)
+java/lang/StringBuffer/StringBuffer()

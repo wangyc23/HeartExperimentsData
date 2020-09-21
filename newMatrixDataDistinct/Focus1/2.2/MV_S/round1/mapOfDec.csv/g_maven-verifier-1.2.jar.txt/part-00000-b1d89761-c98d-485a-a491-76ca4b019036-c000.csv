@@ -1,0 +1,5 @@
+org/apache/tools/ant/RuntimeConfigurable/applyPreSet(org.apache.tools.ant.RuntimeConfigurable)@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/types/PropertySet/toString()@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/MacroInstance/copy(org.apache.tools.ant.UnknownElement)@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/taskdefs/MacroInstance/execute()@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/MacroInstance/processTasks()@g_ant-1.6.5.jar.txt	4

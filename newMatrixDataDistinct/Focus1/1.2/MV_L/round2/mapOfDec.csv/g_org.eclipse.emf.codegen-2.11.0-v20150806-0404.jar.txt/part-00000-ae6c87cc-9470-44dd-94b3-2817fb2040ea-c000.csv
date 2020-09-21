@@ -1,0 +1,5 @@
+org/eclipse/jdt/internal/compiler/batch/Main/configure(java.lang.String[])@g_org.eclipse.jdt.core-3.12.3.jar.txt	0
+org/eclipse/jdt/internal/core/dom/rewrite/imports/ImportEditor/deleteRemainingText(org.eclipse.jface.text.IRegion,java.util.Collection)@g_org.eclipse.jdt.core-3.12.3.jar.txt	4
+org/eclipse/jdt/internal/core/JavaModelManager/saving(org.eclipse.core.resources.ISaveContext)@g_org.eclipse.jdt.core-3.12.3.jar.txt	1
+org/eclipse/jdt/internal/core/hierarchy/TypeHierarchy/getImplementingClasses0(org.eclipse.jdt.core.IType)@g_org.eclipse.jdt.core-3.12.3.jar.txt	2
+org/eclipse/jdt/internal/core/search/matching/JavaSearchNameEnvironment/findClass(java.lang.String,char[])@g_org.eclipse.jdt.core-3.12.3.jar.txt	3

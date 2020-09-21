@@ -1,0 +1,4 @@
+java/nio/channels/FileChannel/tryLock()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/io/RandomAccessFile/getChannel()

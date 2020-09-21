@@ -1,0 +1,5 @@
+org/eclipse/jetty/annotations/AnnotationParser/parse(java.util.Set,java.util.List,org.eclipse.jetty.annotations.ClassNameResolver)@g_jetty-annotations-9.3.8.v20160314.jar.txt	4
+org/eclipse/jetty/annotations/WebFilterAnnotation/apply()@g_jetty-annotations-9.3.8.v20160314.jar.txt	1
+org/eclipse/jetty/annotations/ServletContainerInitializersStarter/doStart()@g_jetty-annotations-9.3.8.v20160314.jar.txt	2
+org/eclipse/jetty/annotations/AnnotationParser/parseDir(java.util.Set,org.eclipse.jetty.util.resource.Resource,org.eclipse.jetty.annotations.ClassNameResolver)@g_jetty-annotations-9.3.8.v20160314.jar.txt	3
+org/eclipse/jetty/annotations/AnnotationParser/parseJar(java.util.Set,org.eclipse.jetty.util.resource.Resource,org.eclipse.jetty.annotations.ClassNameResolver)@g_jetty-annotations-9.3.8.v20160314.jar.txt	0

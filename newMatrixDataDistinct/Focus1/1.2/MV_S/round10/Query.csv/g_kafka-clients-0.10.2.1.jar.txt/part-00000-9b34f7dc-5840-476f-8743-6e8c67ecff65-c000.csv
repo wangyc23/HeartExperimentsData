@@ -1,0 +1,4 @@
+javax/net/ssl/SSLEngine/setEnabledCipherSuites(java.lang.String[])
+javax/net/ssl/SSLEngine/getSSLParameters()
+javax/net/ssl/SSLEngine/setWantClientAuth(boolean)
+javax/net/ssl/SSLEngine/setSSLParameters(javax.net.ssl.SSLParameters)

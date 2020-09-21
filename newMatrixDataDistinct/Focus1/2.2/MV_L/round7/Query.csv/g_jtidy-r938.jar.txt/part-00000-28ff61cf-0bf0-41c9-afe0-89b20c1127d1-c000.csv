@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/StringBuffer/toString()
+java/util/Properties/load(java.io.InputStream)
+java/lang/StringBuffer/StringBuffer()

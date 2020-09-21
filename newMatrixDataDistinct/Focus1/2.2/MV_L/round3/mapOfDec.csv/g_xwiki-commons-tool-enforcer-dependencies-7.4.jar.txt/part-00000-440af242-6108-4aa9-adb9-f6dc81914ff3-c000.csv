@@ -1,0 +1,5 @@
+org/xwiki/tool/enforcer/ValidateDependencyVersion/validateDependencies(java.util.List)@g_xwiki-commons-tool-enforcer-dependencies-7.0.jar.txt	0
+org/xwiki/tool/enforcer/ValidateDependencyVersion/getModel(org.apache.maven.enforcer.rule.api.EnforcerRuleHelper)@g_xwiki-commons-tool-enforcer-dependencies-7.0.jar.txt	2
+org/xwiki/tool/enforcer/ValidateDependencyVersion/validateDependencies(java.util.List)@g_xwiki-commons-tool-enforcer-dependencies-7.4.2.jar.txt	1
+org/xwiki/tool/enforcer/AbstractPomCheck/getModel(org.apache.maven.enforcer.rule.api.EnforcerRuleHelper)@g_xwiki-commons-tool-enforcer-dependencies-7.0.jar.txt	3
+org/xwiki/tool/enforcer/XWikiBannedDependencies/compareDependency(java.lang.String[],org.apache.maven.artifact.Artifact)@g_xwiki-commons-tool-enforcer-dependencies-7.0.jar.txt	4

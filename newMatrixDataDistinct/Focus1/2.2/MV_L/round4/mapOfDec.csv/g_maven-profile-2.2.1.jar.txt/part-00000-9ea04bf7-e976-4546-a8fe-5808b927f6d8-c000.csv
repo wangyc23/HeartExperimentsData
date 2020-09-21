@@ -1,0 +1,5 @@
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseVersioning(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-2.2.1.jar.txt	3
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseMetadata(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-2.2.1.jar.txt	1
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseActivationOS(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-settings-2.2.1.jar.txt	4
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseProfile(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-settings-2.2.1.jar.txt	2
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseSettings(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-settings-2.2.1.jar.txt	0

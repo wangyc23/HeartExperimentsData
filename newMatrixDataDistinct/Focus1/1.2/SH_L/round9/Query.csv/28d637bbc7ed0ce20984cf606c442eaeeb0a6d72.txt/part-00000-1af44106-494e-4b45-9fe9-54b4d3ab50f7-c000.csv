@@ -1,0 +1,4 @@
+java/util/Optional/get()
+es/uam/eps/ir/ranksys/fast/preference/IdxPref/IdxPref(int,double)
+java/util/Optional/of(T)
+org/ranksys/fast/preference/FastPointWisePreferenceData/getPreference(int,int)

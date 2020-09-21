@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Replace/execute()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/types/Path/addExisting(org.apache.tools.ant.types.Path,boolean)@g_ant-1.9.3.jar.txt	2
+org/apache/tools/ant/taskdefs/ExecuteOn/getCommandline(java.lang.String[],java.io.File[])@g_ant-1.9.3.jar.txt	4
+org/apache/tools/ant/taskdefs/Replace/execute()@g_ant-1.9.3.jar.txt	0
+org/apache/tools/ant/taskdefs/compilers/DefaultCompilerAdapter/logAndAddFilesToCompile(org.apache.tools.ant.types.Commandline)@g_ant-1.9.3.jar.txt	3

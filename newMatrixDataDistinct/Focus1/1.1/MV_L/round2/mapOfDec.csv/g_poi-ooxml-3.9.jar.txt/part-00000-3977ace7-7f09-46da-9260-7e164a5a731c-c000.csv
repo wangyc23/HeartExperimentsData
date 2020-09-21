@@ -1,0 +1,5 @@
+org/apache/poi/xslf/usermodel/XSLFConnectorShape/setLineTailLength(org.apache.poi.xslf.usermodel.LineEndLength)@g_poi-ooxml-3.8-beta4.jar.txt	2
+org/apache/poi/xslf/usermodel/XSLFConnectorShape/setLineTailWidth(org.apache.poi.xslf.usermodel.LineEndWidth)@g_poi-ooxml-3.8-beta4.jar.txt	1
+org/apache/poi/xslf/usermodel/XSLFConnectorShape/setLineTailDecoration(org.apache.poi.xslf.usermodel.LineDecoration)@g_poi-ooxml-3.8-beta4.jar.txt	0
+org/apache/poi/xslf/usermodel/XSLFSimpleShape/setLineTailWidth(org.apache.poi.xslf.usermodel.LineEndWidth)@g_poi-ooxml-3.11.jar.txt	4
+org/apache/poi/xslf/usermodel/XSLFSimpleShape/setLineTailLength(org.apache.poi.xslf.usermodel.LineEndLength)@g_poi-ooxml-3.11.jar.txt	3

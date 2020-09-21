@@ -1,0 +1,5 @@
+org/sindice/siren/search/TestSirenNumericRangeQuery32/testEnum(int,int)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	0
+org/sindice/siren/demo/ntriples/NTriplesIndexing/main(java.lang.String[])@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	1
+org/sindice/siren/search/TestSirenNumericRangeQuery64/testLeftOpenRange(int)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	2
+org/sindice/siren/analysis/filter/URINormalisationFilter/main(java.lang.String[])@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	4
+org/sindice/siren/demo/IndexQueryNTripleAndTabular/main(java.lang.String[])@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	3

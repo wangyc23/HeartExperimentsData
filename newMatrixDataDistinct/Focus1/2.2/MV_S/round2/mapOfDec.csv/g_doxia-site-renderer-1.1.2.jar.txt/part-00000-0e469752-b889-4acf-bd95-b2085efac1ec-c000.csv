@@ -1,0 +1,5 @@
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/copyDirectory(java.io.File,java.io.File)@g_maven-common-artifact-filters-1.1.jar.txt	4
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/renderDocument(java.io.Writer,org.apache.maven.doxia.sink.render.RenderingContext,org.apache.maven.doxia.siterenderer.SiteRenderingContext)@g_maven-common-artifact-filters-1.1.jar.txt	2
+org/apache/maven/shared/artifact/filter/collection/ScopeFilter/filter(java.util.Set)@g_maven-common-artifact-filters-1.1.jar.txt	0
+org/apache/maven/shared/artifact/filter/PatternIncludesArtifactFilter/reportFilteredArtifacts(org.codehaus.plexus.logging.Logger)@g_maven-common-artifact-filters-1.1.jar.txt	3
+org/apache/maven/shared/artifact/filter/ScopeArtifactFilter/reportFilteredArtifacts(org.codehaus.plexus.logging.Logger)@g_maven-common-artifact-filters-1.1.jar.txt	1

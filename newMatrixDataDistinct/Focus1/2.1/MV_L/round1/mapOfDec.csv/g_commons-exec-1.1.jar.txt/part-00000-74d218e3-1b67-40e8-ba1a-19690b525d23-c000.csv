@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_commons-exec-1.3.jar.txt	3
+org/codehaus/plexus/util/DirectoryScanner/scandir(java.io.File,java.lang.String,boolean)@g_plexus-utils-1.5.15.jar.txt	1
+org/codehaus/plexus/util/cli/CommandLineUtils/translateCommandline(java.lang.String)@g_plexus-utils-1.5.15.jar.txt	0
+org/codehaus/plexus/util/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_plexus-utils-1.5.15.jar.txt	2
+org/codehaus/plexus/util/PathTool/buildRelativePath(java.lang.String,java.lang.String,char)@g_commons-exec-1.3.jar.txt	4

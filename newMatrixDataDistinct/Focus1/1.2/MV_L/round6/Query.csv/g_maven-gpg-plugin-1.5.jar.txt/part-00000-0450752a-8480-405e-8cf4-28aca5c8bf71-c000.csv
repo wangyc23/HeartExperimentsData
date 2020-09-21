@@ -1,0 +1,4 @@
+org/apache/maven/artifact/Artifact/getMetadataList()
+java/lang/StringBuilder/append(int)
+org/apache/maven/artifact/deployer/ArtifactDeploymentException/getLocalizedMessage()
+org/apache/maven/artifact/metadata/ArtifactMetadata/getRemoteFilename()

@@ -1,0 +1,5 @@
+com/ning/compress/lzf/parallel/PLZFOutputStream/close()@g_compress-lzf-1.0.3.jar.txt	1
+com/ning/compress/lzf/LZF/process(java.lang.String[])@g_compress-lzf-1.0.3.jar.txt	2
+com/ning/compress/gzip/GZIPUncompressor/feedCompressedData(byte[],int,int)@g_compress-lzf-1.0.3.jar.txt	0
+com/ning/compress/gzip/OptimizedGZIPInputStream/read(byte[],int,int)@g_compress-lzf-1.0.3.jar.txt	3
+org/xmlpull/mxp1/MXParser/fillBuf()@g_compress-lzf-1.0.3.jar.txt	4

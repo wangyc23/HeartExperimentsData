@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/factory/GraphDatabaseFacade/createNode(org.neo4j.graphdb.Label[])@g_neo4j-kernel-3.3.0.jar.txt	4
+org/neo4j/kernel/impl/store/kvstore/KeyValueStoreFileFormat/create(org.neo4j.io.fs.FileSystemAbstraction,java.io.File,org.neo4j.io.pagecache.PageCache,int,int,org.neo4j.kernel.impl.store.kvstore.Headers,org.neo4j.kernel.impl.store.kvstore.DataProvider)@g_neo4j-kernel-3.3.0.jar.txt	0
+org/neo4j/kernel/impl/transaction/command/PhysicalLogCommandReaderV2_2_10/readIndexValue(byte,org.neo4j.storageengine.api.ReadableChannel)@g_neo4j-kernel-3.3.0.jar.txt	2
+org/neo4j/kernel/impl/store/kvstore/KeyValueStoreFileFormat/create(org.neo4j.io.fs.FileSystemAbstraction,java.io.File,org.neo4j.io.pagecache.PageCache,int,int,org.neo4j.kernel.impl.store.kvstore.Headers,org.neo4j.kernel.impl.store.kvstore.DataProvider)@g_neo4j-kernel-2.2.1.jar.txt	1
+org/neo4j/kernel/impl/coreapi/ExplicitIndexProxy/query(java.lang.Object)@g_neo4j-kernel-3.3.0.jar.txt	3

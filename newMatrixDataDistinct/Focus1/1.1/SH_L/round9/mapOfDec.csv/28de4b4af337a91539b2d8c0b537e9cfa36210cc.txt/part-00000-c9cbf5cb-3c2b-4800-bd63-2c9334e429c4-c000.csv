@@ -1,0 +1,5 @@
+org/springframework/integration/gemfire/inbound/ContinuousQueryMessageProducerTests/testMessageProduced()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	4
+org/springframework/integration/gemfire/inbound/ContinuousQueryMessageProducer/isEventSupported(org.springframework.integration.gemfire.inbound.CqEvent)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	3
+org/springframework/integration/gemfire/fork/ForkUtil/cacheServer(java.lang.String)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	1
+org/wso2/jaggery/integration/tests/hostObjects/core/NativeJSONTestCase/testJSONObjectArray()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	2
+org/wso2/jaggery/integration/tests/hostObjects/core/HttpClientTestCase/testHttpClientPut()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0

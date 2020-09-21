@@ -1,0 +1,5 @@
+org/apache/commons/math3/optim/linear/SimplexSolver/getPivotRow(org.apache.commons.math3.optim.linear.SimplexTableau,int)@g_commons-math3-3.1.1.jar.txt	4
+org/apache/commons/math3/ode/nonstiff/AdamsMoultonIntegrator/integrate(org.apache.commons.math3.ode.ExpandableStatefulODE,double)@g_commons-math3-3.2.jar.txt	1
+org/apache/commons/math3/ode/nonstiff/AdamsMoultonIntegrator/integrate(org.apache.commons.math3.ode.ExpandableStatefulODE,double)@g_commons-math3-3.1.1.jar.txt	0
+org/apache/commons/math3/linear/SymmLQ/solveInPlace(org.apache.commons.math3.linear.RealLinearOperator,org.apache.commons.math3.linear.RealLinearOperator,org.apache.commons.math3.linear.RealVector,org.apache.commons.math3.linear.RealVector,boolean,double)@g_commons-math3-3.1.1.jar.txt	3
+org/apache/commons/math3/distribution/AbstractIntegerDistribution/inverseCumulativeProbability(double)@g_commons-math3-3.1.1.jar.txt	2

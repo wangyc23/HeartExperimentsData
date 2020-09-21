@@ -1,0 +1,5 @@
+org/codehaus/swizzle/confluence/MapObjectModified/convert(java.lang.Object)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	1
+com/github/mustachejava/reflect/BaseObjectHandler/iterate(com.github.mustachejava.Iteration,java.io.Writer,java.lang.Object,java.util.List)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	4
+org/xwiki/resource/AbstractResourceReference/addParameter(java.lang.String,java.lang.Object)@g_xwiki-platform-resource-api-7.4.2.jar.txt	3
+org/codehaus/swizzle/confluence/MapObject/getList(java.lang.String)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	2
+org/codehaus/swizzle/confluence/MapObject/checkXmlRpcTypes(java.lang.Object)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	0

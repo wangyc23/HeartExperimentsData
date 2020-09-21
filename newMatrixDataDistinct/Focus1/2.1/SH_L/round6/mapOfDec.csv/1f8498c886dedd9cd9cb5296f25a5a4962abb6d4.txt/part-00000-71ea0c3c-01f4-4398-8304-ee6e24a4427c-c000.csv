@@ -1,0 +1,5 @@
+com/inductiveautomation/opcua/stack/core/types/structured/GetEndpointsRequest/decode(com.inductiveautomation.opcua.stack.core.serialization.UaDecoder)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	4
+io/netty/channel/LoggingHandler/channelActive(io.netty.channel.ChannelHandlerContext)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	1
+io/netty/handler/ssl/JettyNpnSslEngine/wrap(java.nio.ByteBuffer[],int,int,java.nio.ByteBuffer)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	0
+io/netty/handler/codec/spdy/SpdySession/updateAllSendWindowSizes(int)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	2
+io/netty/buffer/PooledUnsafeDirectByteBuf/nioBuffers(int,int)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	3

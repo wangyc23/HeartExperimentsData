@@ -1,0 +1,5 @@
+com/netflix/infix/lang/infix/antlr/EventFilterParser/exists_predicate()@g_netflix-infix-0.1.2.jar.txt	3
+org/apache/lucene/expressions/js/JavascriptCompiler/beginCompile()@g_lucene-expressions-5.0.0.jar.txt	1
+org/drools/compiler/PackageBuilderConfiguration/buildDialectConfigurationMap()@g_netflix-infix-0.1.2.jar.txt	4
+org/drools/rule/builder/PatternBuilder/processMetadataAnnotations(org.drools.rule.Pattern,java.util.Map)@g_netflix-infix-0.1.2.jar.txt	2
+org/apache/lucene/expressions/js/JavascriptCompiler/<clinit>()@g_lucene-expressions-5.0.0.jar.txt	0

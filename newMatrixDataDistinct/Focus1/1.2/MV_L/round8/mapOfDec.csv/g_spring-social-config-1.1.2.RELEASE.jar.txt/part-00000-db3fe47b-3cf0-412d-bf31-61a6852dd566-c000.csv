@@ -1,0 +1,5 @@
+org/springframework/integration/config/IntegrationConverterInitializer/registerConverter(org.springframework.beans.factory.support.BeanDefinitionRegistry,org.springframework.beans.BeanMetadataElement)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	2
+org/springframework/integration/config/PublisherRegistrar/registerBeanDefinitions(org.springframework.core.type.AnnotationMetadata,org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	3
+org/springframework/integration/config/MessageHistoryRegistrar/registerBeanDefinitions(org.springframework.core.type.AnnotationMetadata,org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	1
+org/springframework/integration/config/IntegrationRegistrar/registerIntegrationProperties(org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	0
+org/springframework/integration/config/DefaultConfiguringBeanFactoryPostProcessor/registerErrorChannel(org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	4

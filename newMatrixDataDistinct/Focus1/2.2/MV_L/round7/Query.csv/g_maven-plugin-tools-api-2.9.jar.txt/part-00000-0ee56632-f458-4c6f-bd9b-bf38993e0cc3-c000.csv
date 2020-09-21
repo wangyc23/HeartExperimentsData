@@ -1,0 +1,4 @@
+javax/swing/text/html/HTML$Tag/breaksFlow()
+java/lang/Object/equals(java.lang.Object)
+java/lang/StringBuilder/append(int)
+org/apache/maven/tools/plugin/util/PluginUtils$MojoParserCallback/newline(boolean)

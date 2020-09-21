@@ -1,0 +1,5 @@
+org/neo4j/ogm/unit/mapper/cypher/NodeEntityQueryTest/testFindByMultipleNestedPropertiesOredDepth0()@g_spring-data-neo4j-4.0.0.RELEASE-tests.jar.txt	4
+org/springframework/data/neo4j/examples/jsr303/JSR303Test/testCanCreateAnAdult()@g_spring-data-neo4j-4.0.0.RELEASE-tests.jar.txt	2
+org/neo4j/ogm/integration/pizza/PizzaIntegrationTest/shouldBeAbleToSaveAndRetrieveFullyLoadedPizza()@g_spring-data-neo4j-4.0.0.RELEASE-tests.jar.txt	3
+org/neo4j/ogm/unit/mapper/EntityGraphMapperTest/testDeleteExistingReferenceFromIncomingSide()@g_spring-data-neo4j-4.0.0.RELEASE-tests.jar.txt	0
+org/apache/avro/specific/TestSpecificRecordBuilder/testBuilderPerformanceWithDefaultValues()@g_spring-data-neo4j-4.0.0.RELEASE-tests.jar.txt	1

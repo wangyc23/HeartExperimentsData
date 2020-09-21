@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/graphics/image/CCITTFactory/extractFromTiff(org.apache.pdfbox.io.RandomAccess,java.io.OutputStream,org.apache.pdfbox.cos.COSDictionary,int)@g_pdfbox-2.0.8.jar.txt	1
+org/apache/pdfbox/pdmodel/graphics/image/CCITTFactory/extractFromTiff(org.apache.pdfbox.io.RandomAccess,java.io.OutputStream,org.apache.pdfbox.cos.COSDictionary,int)@g_pdfbox-2.0.7.jar.txt	0
+org/apache/pdfbox/pdmodel/graphics/shading/PatchMeshesShadingContext/collectPatches(org.apache.pdfbox.pdmodel.graphics.shading.PDShadingType6,java.awt.geom.AffineTransform,org.apache.pdfbox.util.Matrix,int)@g_pdfbox-2.0.7.jar.txt	2
+org/apache/pdfbox/pdmodel/encryption/PublicKeySecurityHandler/prepareForDecryption(org.apache.pdfbox.pdmodel.encryption.PDEncryption,org.apache.pdfbox.cos.COSArray,org.apache.pdfbox.pdmodel.encryption.DecryptionMaterial)@g_pdfbox-2.0.7.jar.txt	4
+org/apache/pdfbox/pdfparser/COSParser/parseFileObject(java.lang.Long,org.apache.pdfbox.cos.COSObjectKey,org.apache.pdfbox.cos.COSObject)@g_pdfbox-2.0.7.jar.txt	3

@@ -1,0 +1,5 @@
+com/sun/xml/bind/marshaller/XMLWriter/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jaxb-impl-2.2.6.jar.txt	0
+com/sun/xml/txw2/output/XMLWriter/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jaxb-impl-2.2.6.jar.txt	1
+com/sun/xml/bind/v2/schemagen/XmlSchemaGenerator/add(com.sun.xml.bind.v2.model.core.ClassInfo)@g_jaxb-impl-2.2.6.jar.txt	3
+javanet/staxutils/StAXStreamContentHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_stax-utils-20070216.jar.txt	2
+com/sun/xml/bind/v2/schemagen/XmlSchemaGenerator/Namespace/writeTo(javax.xml.transform.Result,java.util.Map)@g_jaxb-impl-2.2.6.jar.txt	4

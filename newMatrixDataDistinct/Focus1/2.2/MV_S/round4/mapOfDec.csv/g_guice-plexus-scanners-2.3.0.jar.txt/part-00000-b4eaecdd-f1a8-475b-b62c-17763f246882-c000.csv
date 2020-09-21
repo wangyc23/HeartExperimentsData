@@ -1,0 +1,5 @@
+org/eclipse/sisu/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.eclipse.sisu.plexus.scanners.PlexusTypeRegistry)@g_sisu-inject-plexus-2.1.1.jar.txt	4
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.sonatype.guice.plexus.scanners.PlexusTypeRegistry)@g_sisu-inject-plexus-2.1.1.jar.txt	0
+org/eclipse/sisu/plexus/scanners/PlexusXmlScanner/parseRequirement(org.codehaus.plexus.util.xml.pull.MXParser,org.eclipse.sisu.reflect.ClassSpace,java.util.Map)@g_org.eclipse.sisu.plexus-0.0.0.M2a.jar.txt	3
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parseRequirement(org.codehaus.plexus.util.xml.pull.MXParser,org.sonatype.guice.bean.reflect.ClassSpace,java.util.Map)@g_sisu-inject-plexus-2.1.1.jar.txt	2
+org/eclipse/sisu/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.eclipse.sisu.plexus.scanners.PlexusTypeRegistry)@g_org.eclipse.sisu.plexus-0.0.0.M2a.jar.txt	1

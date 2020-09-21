@@ -1,0 +1,4 @@
+org/apache/maven/model/Dependency/getVersion()
+org/apache/maven/model/Exclusion/getGroupId()
+org/apache/maven/model/Dependency/getManagementKey()
+java/util/HashSet/HashSet(int)

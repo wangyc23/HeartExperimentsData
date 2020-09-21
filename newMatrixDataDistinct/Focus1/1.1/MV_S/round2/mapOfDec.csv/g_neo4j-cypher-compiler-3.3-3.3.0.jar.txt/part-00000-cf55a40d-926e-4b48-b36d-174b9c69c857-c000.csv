@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_2/helpers/ArrayBackedMap/$plus(scala.Tuple2)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	0
+org/neo4j/cypher/internal/compiler/v3_2/spi/CSVResources/openStream(java.net.URL,int,int)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	1
+org/neo4j/cypher/internal/compiler/v3_2/commands/predicates/groupInequalityPredicatesForLegacy/apply(org.neo4j.cypher.internal.frontend.v3_2.helpers.NonEmptyList)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	2
+org/neo4j/cypher/internal/compiler/v3_2/planner/logical/cardinality/assumeIndependence/PatternSelectivityCalculator/anonfun/6/anonfun/apply/3/anonfun/apply/4/apply(org.neo4j.cypher.internal.compiler.v3_2.planner.logical.cardinality.TokenSpec)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_2/planDescription/InternalPlanDescription/Arguments/ExpandExpression/equals(java.lang.Object)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	3

@@ -1,0 +1,4 @@
+org/apache/ivy/ant/IvyBuildNumber$NewRevision/getRevision()
+org/apache/ivy/ant/IvyBuildNumber$NewRevision/getBuildNumber()
+org/apache/ivy/ant/IvyBuildNumber$NewRevision/getNewRevision()
+java/lang/StringBuffer/toString()

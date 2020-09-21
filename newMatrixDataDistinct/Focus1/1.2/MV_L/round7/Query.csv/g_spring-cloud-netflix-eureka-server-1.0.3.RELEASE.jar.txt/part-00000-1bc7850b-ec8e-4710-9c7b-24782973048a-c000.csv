@@ -1,0 +1,4 @@
+org/aopalliance/intercept/MethodInvocation/getArguments()
+java/lang/String/equals(java.lang.Object)
+java/lang/reflect/Method/getName()
+org/springframework/util/ReflectionUtils/invokeMethod(java.lang.reflect.Method,java.lang.Object,java.lang.Object[])

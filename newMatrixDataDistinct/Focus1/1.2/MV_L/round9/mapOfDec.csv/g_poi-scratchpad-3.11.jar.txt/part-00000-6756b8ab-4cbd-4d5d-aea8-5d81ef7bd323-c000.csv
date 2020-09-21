@@ -1,0 +1,5 @@
+org/apache/poi/hwpf/usermodel/TableRow/initCells()@g_poi-scratchpad-3.9.jar.txt	4
+org/apache/poi/hssf/converter/ExcelToHtmlConverter/processCell(org.apache.poi.hssf.usermodel.HSSFCell,org.w3c.dom.Element,int,int,float)@g_poi-scratchpad-3.9.jar.txt	2
+org/apache/poi/hsmf/datatypes/StringChunk/storeString()@g_poi-scratchpad-3.9.jar.txt	0
+org/apache/poi/hslf/record/FontEntityAtom/setFontName(java.lang.String)@g_poi-scratchpad-3.9.jar.txt	3
+org/apache/poi/hsmf/datatypes/StringChunk/storeString()@g_poi-scratchpad-3.8.jar.txt	1

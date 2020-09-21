@@ -1,0 +1,5 @@
+org/apache/poi/ss/format/CellNumberFormatter/formatValue(java.lang.StringBuffer,java.lang.Object)@g_poi-3.14.jar.txt	1
+org/apache/poi/ss/formula/FormulaRenderer/toFormulaString(org.apache.poi.ss.formula.FormulaRenderingWorkbook,org.apache.poi.ss.formula.ptg.Ptg[])@g_poi-3.14.jar.txt	3
+org/apache/poi/hssf/usermodel/HSSFSheet/validateArrayFormulas(org.apache.poi.ss.util.CellRangeAddress)@g_poi-3.14.jar.txt	4
+org/apache/poi/hssf/usermodel/HSSFPatriarch/preSerialize()@g_poi-3.14.jar.txt	2
+org/apache/poi/ss/formula/WorkbookEvaluator/evaluateFormula(org.apache.poi.ss.formula.OperationEvaluationContext,org.apache.poi.ss.formula.ptg.Ptg[])@g_poi-3.14.jar.txt	0

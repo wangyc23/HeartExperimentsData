@@ -1,0 +1,5 @@
+ucar/unidata/util/StringUtil/parseHtmlProperties(java.lang.String)@g_unidataCommon-4.2.20.jar.txt	4
+ucar/unidata/util/DateUtil/parse(java.lang.String)@g_unidataCommon-4.2.20.jar.txt	3
+ucar/unidata/util/StringUtil/parseCoordinates(java.lang.String)@g_unidataCommon-4.2.20.jar.txt	1
+ucar/unidata/util/Format/formatDouble(double,int,int)@g_unidataCommon-4.2.20.jar.txt	0
+ucar/unidata/util/StringUtil/parseTimePeriod(java.lang.String)@g_unidataCommon-4.2.20.jar.txt	2

@@ -1,0 +1,4 @@
+extractorExample/ExtractorTest/MockObserver/MockObserver()
+java/util/Observable/addObserver(java.util.Observer)
+extractorExample/MockRetriever/MockRetriever(java.lang.String[])
+extractorExample/ExtractorTest/assertObserved(extractorExample.ExtractorTest.MockObserver,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)

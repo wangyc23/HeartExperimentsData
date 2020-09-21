@@ -1,0 +1,5 @@
+org/jaxen/jdom/DocumentNavigator/getElementStringValue(java.lang.Object)@g_jaxen-1.1.6.jar.txt	0
+org/jaxen/function/IdFunction/evaluate(java.util.List,java.lang.Object,org.jaxen.Navigator)@g_jaxen-1.1.6.jar.txt	1
+org/jaxen/dom4j/DocumentNavigator/getNamespaceAxisIterator(java.lang.Object)@g_jaxen-1.1.6.jar.txt	4
+org/jaxen/jdom/DocumentNavigator/getNamespaceAxisIterator(java.lang.Object)@g_jaxen-1.1.6.jar.txt	2
+org/jaxen/expr/DefaultStep/evaluate(org.jaxen.Context)@g_jaxen-1.1.6.jar.txt	3

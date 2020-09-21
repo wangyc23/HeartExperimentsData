@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/lang/LinkageError/getMessage()
+java/lang/Class/forName(java.lang.String,boolean,java.lang.ClassLoader)
+java/lang/Class/getClassLoader()

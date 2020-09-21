@@ -1,0 +1,5 @@
+org/neo4j/kernel/StandardExpander/TypeLimitingExpander/reversed()@g_neo4j-kernel-1.7.jar.txt	4
+org/neo4j/kernel/impl/storemigration/StoreMigrationTool/run(java.lang.String,java.lang.String)@g_neo4j-kernel-1.7.jar.txt	0
+org/neo4j/kernel/impl/transaction/xaframework/XaResourceManager/injectOnePhaseCommit(javax.transaction.xa.Xid)@g_neo4j-kernel-1.7.jar.txt	2
+org/neo4j/kernel/StandardExpander/toTypeMap(java.util.Map)@g_neo4j-kernel-1.7.jar.txt	3
+org/neo4j/kernel/impl/transaction/XaDataSourceManager/buildRecoveryInfo(java.util.List,java.util.List,java.util.Map,java.util.Iterator)@g_neo4j-kernel-1.7.jar.txt	1

@@ -1,0 +1,5 @@
+com/googlecode/jmeter/plugins/webdriver/config/WebDriverConfigTest/shouldHandleScenarioWhenBrowserHasAlreadyQuit()@25d90e6566f0bae86d775a76e30675ea68c896d3.txt	1
+kg/apc/jmeter/dbmon/StatementEmul/getResultSetConcurrency()@25d90e6566f0bae86d775a76e30675ea68c896d3.txt	0
+org/apache/parquet/hadoop/TestInputFormat/testOnlyOneKindOfFilterSupported()@25d90e6566f0bae86d775a76e30675ea68c896d3.txt	4
+org/apache/parquet/column/statistics/Statistics/mergeStatistics(org.apache.parquet.column.statistics.Statistics)@25d90e6566f0bae86d775a76e30675ea68c896d3.txt	3
+kg/apc/jmeter/samplers/AbstractIPSamplerTest/testGetPortAsInt()@25d90e6566f0bae86d775a76e30675ea68c896d3.txt	2

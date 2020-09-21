@@ -1,0 +1,4 @@
+com/google/gwt/user/client/ui/TextArea/setVisible(boolean)
+java/lang/StringBuilder/append(java.lang.String)
+com/google/gwt/user/client/ui/TextArea/TextArea()
+com/google/gwt/user/client/ui/TextArea/getText()

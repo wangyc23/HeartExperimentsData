@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+com/google/common/base/Preconditions/checkArgument(boolean,java.lang.String,java.lang.Object[])
+java/lang/reflect/Constructor/getGenericParameterTypes()
+java/lang/StringBuilder/StringBuilder()

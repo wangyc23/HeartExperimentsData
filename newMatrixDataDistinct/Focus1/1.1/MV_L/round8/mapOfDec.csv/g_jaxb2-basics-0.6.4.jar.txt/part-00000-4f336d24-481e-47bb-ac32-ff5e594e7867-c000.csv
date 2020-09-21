@@ -1,0 +1,5 @@
+org/jvnet/jaxb2_commons/xjc/outline/artificial/AnyAttributePropertyOutline/generateSetter()@g_jaxb2-basics-tools-0.6.4.jar.txt	1
+org/jvnet/ws/wadl2java/jersey/Jersey1xResourceClassGenerator/generateExceptionClassInternal(java.lang.String,org.jvnet.ws.wadl.ast.FaultNode)@g_wadl-core-1.1.6.jar.txt	4
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBeanProperty(com.sun.codemodel.JDefinedClass,java.util.List,org.jvnet.ws.wadl.Param,boolean)@g_wadl-core-1.1.6.jar.txt	3
+org/jvnet/jaxb2_commons/xjc/outline/artificial/AnyAttributePropertyOutline/generateGetter()@g_jaxb2-basics-tools-0.6.4.jar.txt	0
+org/jvnet/jaxb2_commons/plugin/mergeable/MergeablePlugin/generateMergeFrom$mergeFrom(com.sun.tools.xjc.outline.ClassOutline,com.sun.codemodel.JDefinedClass)@g_wadl-core-1.1.6.jar.txt	2

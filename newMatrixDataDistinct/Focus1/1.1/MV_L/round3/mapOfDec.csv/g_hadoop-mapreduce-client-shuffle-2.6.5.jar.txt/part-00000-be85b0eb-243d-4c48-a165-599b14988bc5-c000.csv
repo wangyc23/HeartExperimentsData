@@ -1,0 +1,5 @@
+org/springframework/jdbc/core/simple/AbstractJdbcInsert/executeInsertAndReturnKeyHolderInternal(java.util.List)@g_spring-jdbc-4.1.6.RELEASE.jar.txt	2
+org/springframework/jdbc/core/BeanPropertyRowMapper/initialize(java.lang.Class)@g_spring-jdbc-4.1.6.RELEASE.jar.txt	0
+org/springframework/jdbc/support/CustomSQLExceptionTranslatorRegistry/registerTranslator(java.lang.String,org.springframework.jdbc.support.SQLExceptionTranslator)@g_spring-jdbc-4.1.6.RELEASE.jar.txt	3
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/locateTableAndProcessMetaData(java.sql.DatabaseMetaData,java.lang.String,java.lang.String,java.lang.String)@g_spring-jdbc-4.1.6.RELEASE.jar.txt	1
+org/springframework/jdbc/core/namedparam/MapSqlParameterSource/addValues(java.util.Map)@g_spring-jdbc-4.1.6.RELEASE.jar.txt	4

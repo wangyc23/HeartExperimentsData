@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseLiteral(org.semanticweb.owlapi.model.OWLDatatype)@g_owlapi-parsers-5.1.0.jar.txt	3
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseOntologyList()@g_owlapi-parsers-5.1.0.jar.txt	1
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseAxiomWithObjectPropertyStart()@g_owlapi-parsers-5.1.0.jar.txt	0
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseAxiomWithDataPropertyStart()@g_owlapi-parsers-5.1.0.jar.txt	4
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseDataRestriction()@g_owlapi-parsers-5.1.0.jar.txt	2

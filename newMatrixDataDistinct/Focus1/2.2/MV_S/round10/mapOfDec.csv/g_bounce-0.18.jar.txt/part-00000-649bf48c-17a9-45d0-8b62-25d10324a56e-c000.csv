@@ -1,0 +1,5 @@
+weka/gui/beans/KnowledgeFlowApp/createImage(javax.swing.JComponent,java.awt.Rectangle)@g_weka-dev-3.9.1.jar.txt	2
+weka/gui/knowledgeflow/LayoutPanel/initiateConnection(java.lang.String,weka.gui.knowledgeflow.StepVisual,int,int)@g_weka-dev-3.9.1.jar.txt	0
+weka/gui/beans/KnowledgeFlowApp/6/mousePressed(java.awt.event.MouseEvent)@g_weka-dev-3.9.1.jar.txt	1
+weka/gui/beans/KnowledgeFlowApp/CloseableTabTitle/TabButton/paintComponent(java.awt.Graphics)@g_weka-dev-3.9.1.jar.txt	3
+weka/gui/beans/KnowledgeFlowApp/connectComponents(java.beans.EventSetDescriptor,weka.gui.beans.BeanInstance,int,int)@g_weka-dev-3.9.1.jar.txt	4

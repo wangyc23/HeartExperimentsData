@@ -1,0 +1,5 @@
+org/codehaus/groovy/transform/stc/GroovyTypeCheckingExtensionSupport/TypeCheckingDSL/invokeMethod(java.lang.String,java.lang.Object)@g_groovy-all-2.4.2.jar.txt	3
+org/codehaus/groovy/ast/ClassNode/getDeclaredMethodsMap()@g_groovy-all-2.4.2.jar.txt	0
+org/codehaus/groovy/tools/groovydoc/SimpleGroovyClassDocAssembler/visitClassDef(org.codehaus.groovy.antlr.GroovySourceAST,int)@g_groovy-all-2.4.2.jar.txt	1
+org/codehaus/groovy/transform/stc/StaticTypeCheckingVisitor/visitBinaryExpression(org.codehaus.groovy.ast.expr.BinaryExpression)@g_groovy-all-2.4.2.jar.txt	4
+groovy/ui/GroovyMain/process(groovyjarjarcommonscli.CommandLine)@g_groovy-all-2.4.2.jar.txt	2

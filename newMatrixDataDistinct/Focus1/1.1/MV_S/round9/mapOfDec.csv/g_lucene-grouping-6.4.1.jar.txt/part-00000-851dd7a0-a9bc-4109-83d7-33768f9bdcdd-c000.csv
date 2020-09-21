@@ -1,0 +1,5 @@
+org/apache/lucene/search/join/QueryBitSetProducer/getBitSet(org.apache.lucene.index.LeafReaderContext)@g_lucene-join-5.3.1.jar.txt	1
+org/apache/lucene/search/join/ToChildBlockJoinQuery/ToChildBlockJoinScorer/nextDoc()@g_lucene-join-5.3.1.jar.txt	2
+org/apache/lucene/queries/payloads/PayloadScoreQuery/PayloadSpanWeight/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-join-5.3.1.jar.txt	0
+org/apache/lucene/search/grouping/BlockGroupingCollector/getTopGroups(org.apache.lucene.search.Sort,int,int,int,boolean)@g_lucene-join-5.3.1.jar.txt	4
+org/apache/lucene/queries/function/valuesource/QueryDocValues/1/fillValue(int)@g_lucene-join-5.3.1.jar.txt	3

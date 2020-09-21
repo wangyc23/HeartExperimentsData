@@ -1,0 +1,5 @@
+io/netty/handler/ssl/ReferenceCountedOpenSslEngine/setEnabledCipherSuites(java.lang.String[])@g_netty-handler-4.1.7.Final.jar.txt	3
+io/netty/handler/ssl/SniHandler/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@g_netty-handler-4.1.7.Final.jar.txt	0
+io/netty/handler/traffic/GlobalChannelTrafficShapingHandler/getOrSetPerChannel(io.netty.channel.ChannelHandlerContext)@g_netty-handler-4.1.7.Final.jar.txt	2
+io/netty/handler/ssl/ReferenceCountedOpenSslServerContext/newSessionContext(io.netty.handler.ssl.ReferenceCountedOpenSslContext,long,io.netty.handler.ssl.OpenSslEngineMap,java.security.cert.X509Certificate[],javax.net.ssl.TrustManagerFactory,java.security.cert.X509Certificate[],java.security.PrivateKey,java.lang.String,javax.net.ssl.KeyManagerFactory)@g_netty-handler-4.1.7.Final.jar.txt	1
+io/netty/handler/traffic/AbstractTrafficShapingHandler/ReopenReadTimerTask/run()@g_netty-handler-4.1.7.Final.jar.txt	4

@@ -1,0 +1,5 @@
+com/netflix/zuul/filters/ZuulServletFilter/UnitTest/testProcessZuulFilter()@g_zuul-core-1.1.0-rc.1.jar.txt	2
+com/netflix/zuul/http/ZuulServlet/UnitTest/testProcessZuulFilter()@g_zuul-core-1.1.0-rc.1.jar.txt	0
+com/netflix/zuul/ZuulFilter/TestUnit/testShouldFilter()@g_zuul-core-1.1.0-rc.1.jar.txt	1
+com/netflix/zuul/filters/ZuulServletFilter/UnitTest/testRoutingException()@g_zuul-core-1.1.0-rc.1.jar.txt	4
+com/netflix/zuul/filters/ZuulServletFilter/UnitTest/testPostException()@g_zuul-core-1.1.0-rc.1.jar.txt	3

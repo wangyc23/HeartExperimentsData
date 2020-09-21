@@ -1,0 +1,4 @@
+org/eclipse/tycho/locking/facade/FileLocker/lock()
+java/io/File/File(java.io.File,java.lang.String)
+java/util/zip/ZipEntry/isDirectory()
+org/codehaus/plexus/util/io/RawInputStreamFacade/RawInputStreamFacade(java.io.InputStream)

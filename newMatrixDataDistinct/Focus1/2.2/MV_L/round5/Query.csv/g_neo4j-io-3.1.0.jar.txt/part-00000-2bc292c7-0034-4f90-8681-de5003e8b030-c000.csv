@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/lang/StringBuilder/append(int)
+java/io/File/getCanonicalFile()
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,5 @@
+com/google/inject/internal/cglib/core/EmitUtils/push_array(com.google.inject.internal.cglib.core.$CodeEmitter,java.lang.Object[])@g_guice-4.0.jar.txt	4
+com/google/inject/internal/cglib/core/KeyFactory/Generator/generateClass(com.google.inject.internal.asm.$ClassVisitor)@g_guice-4.0.jar.txt	1
+com/google/inject/internal/cglib/core/VisibilityPredicate/evaluate(java.lang.Object)@g_guice-4.0.jar.txt	0
+com/google/inject/internal/ProviderMethod/create(com.google.inject.Key,java.lang.reflect.Method,java.lang.Object,com.google.common.collect.ImmutableSet,java.util.List,java.lang.Class,boolean,java.lang.annotation.Annotation)@g_guice-4.0.jar.txt	3
+com/google/inject/internal/SingleMethodInjector/createMethodInvoker(java.lang.reflect.Method)@g_guice-4.0.jar.txt	2

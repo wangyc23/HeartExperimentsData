@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+java/util/List/addAll(java.util.Collection)
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

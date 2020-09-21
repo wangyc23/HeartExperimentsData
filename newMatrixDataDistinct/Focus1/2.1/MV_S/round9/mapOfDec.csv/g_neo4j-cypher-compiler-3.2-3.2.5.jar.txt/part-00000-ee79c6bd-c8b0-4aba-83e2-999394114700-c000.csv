@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_3/ast/convert/plannerQuery/ExpressionConverters/RangeConvertor/asPatternLength$extension(scala.Option)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	0
+org/neo4j/cypher/internal/compiler/v2_3/planner/logical/greedy/expand/anonfun/apply/1/anonfun/apply/2/anonfun/apply/4/anonfun/1/applyOrElse(org.neo4j.cypher.internal.frontend.v2_3.ast.Expression,scala.Function1)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	3
+org/neo4j/cypher/internal/compiler/v2_3/pipes/SlicePipe/internalCreateResults(scala.collection.Iterator,org.neo4j.cypher.internal.compiler.v2_3.pipes.QueryState)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	2
+org/neo4j/cypher/internal/compiler/v2_3/ast/rewriters/PropertyPredicateNormalizer/anonfun/1/isDefinedAt(java.lang.Object)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_3/ast/convert/commands/ExpressionConverters/listComprehension(org.neo4j.cypher.internal.frontend.v2_3.ast.ListComprehension)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	4

@@ -1,0 +1,5 @@
+org/springframework/cloud/consul/discovery/TtlScheduler/heartbeatServices()@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	0
+org/springframework/cloud/consul/config/ConsulPropertySourceLocator/locate(org.springframework.core.env.Environment)@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	1
+org/springframework/cloud/consul/discovery/filters/FilteringAgentClient/getAliveAgents()@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	4
+org/springframework/cloud/consul/ConsulEndpoint/invoke()@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	3
+org/springframework/cloud/consul/config/ConsulPropertySource/init()@g_spring-cloud-consul-discovery-1.0.0.M1.jar.txt	2

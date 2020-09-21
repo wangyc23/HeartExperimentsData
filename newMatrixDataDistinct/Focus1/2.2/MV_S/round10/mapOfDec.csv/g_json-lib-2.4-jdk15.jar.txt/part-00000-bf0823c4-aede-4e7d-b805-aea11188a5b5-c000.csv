@@ -1,0 +1,5 @@
+ch/qos/logback/classic/pattern/MDCConverter/outputMDCForAllKeys(java.util.Map)@g_logback-classic-1.0.13.jar.txt	1
+net/sf/ezmorph/object/SwitchingMorpher/equals(java.lang.Object)@g_ezmorph-1.0.6.jar.txt	4
+net/sf/ezmorph/bean/MorphDynaClass/process()@g_ezmorph-1.0.6.jar.txt	3
+ch/qos/logback/classic/log4j/XMLLayout/doLayout(ch.qos.logback.classic.spi.ILoggingEvent)@g_logback-classic-1.0.13.jar.txt	0
+net/sf/ezmorph/object/SwitchingMorpher/hashCode()@g_ezmorph-1.0.6.jar.txt	2

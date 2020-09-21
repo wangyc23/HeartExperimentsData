@@ -1,0 +1,5 @@
+org/apache/sis/math/Line/doFit(java.lang.Iterable)@g_sis-utility-0.5.jar.txt	4
+org/apache/sis/xml/XLink/append(java.lang.StringBuilder,java.lang.String,java.lang.Object)@g_sis-utility-0.5.jar.txt	2
+org/apache/sis/util/collection/DefaultTreeTable/Node/toString()@g_sis-utility-0.5.jar.txt	0
+org/apache/sis/util/Classes/changeArrayDimension(java.lang.Class,int)@g_sis-utility-0.5.jar.txt	3
+org/apache/sis/util/iso/RecordDefinition/toString(java.lang.String,java.lang.Object)@g_sis-utility-0.5.jar.txt	1

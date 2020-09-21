@@ -1,0 +1,4 @@
+opennlp/tools/ml/TrainerFactory$TrainerType/equals(java.lang.Object)
+opennlp/tools/cmdline/sentdetect/SentenceDetectorTrainerTool$TrainerToolParams/getParams()
+opennlp/tools/cmdline/sentdetect/SentenceDetectorTrainerTool$TrainerToolParams/getLang()
+opennlp/tools/cmdline/sentdetect/SentenceDetectorTrainerTool$TrainerToolParams/getEosChars()

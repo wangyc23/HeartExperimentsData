@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/server/security/http/RMAuthenticationFilterInitializer/createFilterConfig(org.apache.hadoop.conf.Configuration)@g_hadoop-yarn-server-common-2.6.5.jar.txt	4
+org/apache/hadoop/yarn/conf/HAUtil/getRMHAId(org.apache.hadoop.conf.Configuration)@g_hadoop-yarn-api-2.6.5.jar.txt	2
+org/apache/hadoop/yarn/conf/HAUtil/verifyAndSetCurrentRMHAId(org.apache.hadoop.conf.Configuration)@g_hadoop-yarn-api-2.6.5.jar.txt	0
+org/apache/hadoop/yarn/api/records/ContainerId/fromString(java.lang.String)@g_hadoop-yarn-api-2.6.5.jar.txt	3
+org/apache/hadoop/yarn/conf/HAUtil/verifyAndSetRMHAIdsList(org.apache.hadoop.conf.Configuration)@g_hadoop-yarn-api-2.6.5.jar.txt	1

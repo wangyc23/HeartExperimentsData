@@ -1,0 +1,5 @@
+weka/gui/beans/BeanConnection/getClosestConnections(java.awt.Point,int,java.lang.Integer[])@g_weka-stable-3.8.1.jar.txt	0
+weka/core/ConjugateGradientOptimization/findArgmin(double[],double[][])@g_weka-stable-3.8.1.jar.txt	1
+weka/core/Optimization/lnsrch(double[],double[],double[],double,boolean[],double[][],weka.core.Optimization$DynamicIntArray)@g_weka-stable-3.8.1.jar.txt	2
+weka/filters/supervised/instance/SpreadSubsample/createSubsample()@g_weka-stable-3.8.1.jar.txt	4
+weka/core/Optimization/findArgmin(double[],double[][])@g_weka-stable-3.8.1.jar.txt	3

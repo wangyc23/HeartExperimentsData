@@ -1,0 +1,5 @@
+io/netty/handler/ssl/ApplicationProtocolUtil/toList(int,java.lang.Iterable)@0ffdf59c240a583481233e344c76fb939986aab1.txt	3
+io/netty/handler/ssl/ApplicationProtocolUtil/toList(int,java.lang.String[])@0ffdf59c240a583481233e344c76fb939986aab1.txt	2
+io/netty/handler/ssl/ApplicationProtocolUtil/toList(int,java.lang.Iterable)@10a2b9993a93521a0c247dad330fa4234cd3a2f0.txt	1
+io/netty/handler/ssl/ApplicationProtocolUtil/toList(int,java.lang.String[])@10a2b9993a93521a0c247dad330fa4234cd3a2f0.txt	0
+io/netty/resolver/dns/DnsNameResolver/setResolveAddressTypes(io.netty.channel.socket.InternetProtocolFamily[])@10a2b9993a93521a0c247dad330fa4234cd3a2f0.txt	4

@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/StringUtils/escape(java.lang.String)@g_maven-surefire-common-2.12.4.jar.txt	2
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/CommandLineUtils/1/call()@g_maven-surefire-common-2.12.4.jar.txt	0
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/io/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_maven-surefire-common-2.12.4.jar.txt	3
+org/codehaus/plexus/util/cli/CommandLineUtils/translateCommandline(java.lang.String)@g_maven-surefire-common-2.12.4.jar.txt	1
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/io/FileUtils/rename(java.io.File,java.io.File)@g_maven-surefire-common-2.12.4.jar.txt	4

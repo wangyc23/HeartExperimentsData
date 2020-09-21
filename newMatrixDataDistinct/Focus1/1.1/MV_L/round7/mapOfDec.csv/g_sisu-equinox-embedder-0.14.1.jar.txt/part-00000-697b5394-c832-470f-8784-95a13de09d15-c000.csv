@@ -1,0 +1,5 @@
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/doStart()@g_sisu-equinox-embedder-0.23.1.jar.txt	0
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/getService(java.lang.Class,java.lang.String)@g_sisu-equinox-embedder-0.23.1.jar.txt	2
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/copyToTempFolder(java.io.File)@g_sisu-equinox-embedder-0.23.1.jar.txt	4
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/tryActivateBundle(java.lang.String)@g_sisu-equinox-embedder-0.23.1.jar.txt	3
+org/eclipse/sisu/equinox/embedder/internal/DefaultEquinoxEmbedder/getNonFrameworkArgs()@g_sisu-equinox-embedder-0.23.1.jar.txt	1

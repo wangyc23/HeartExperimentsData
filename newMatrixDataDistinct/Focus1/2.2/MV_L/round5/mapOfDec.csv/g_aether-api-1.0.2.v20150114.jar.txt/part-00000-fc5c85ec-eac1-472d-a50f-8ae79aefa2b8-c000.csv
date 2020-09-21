@@ -1,0 +1,5 @@
+org/eclipse/aether/metadata/AbstractMetadata/toString()@g_aether-api-1.1.0.jar.txt	4
+org/eclipse/aether/artifact/AbstractArtifact/equals(java.lang.Object)@g_aether-api-0.9.1.v20140329.jar.txt	3
+org/eclipse/aether/metadata/AbstractMetadata/toString()@g_aether-api-0.9.1.v20140329.jar.txt	2
+org/eclipse/aether/metadata/AbstractMetadata/equals(java.lang.Object)@g_aether-api-1.1.0.jar.txt	1
+org/eclipse/aether/metadata/AbstractMetadata/equals(java.lang.Object)@g_aether-api-0.9.1.v20140329.jar.txt	0

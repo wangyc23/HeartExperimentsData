@@ -1,0 +1,5 @@
+org/springframework/transaction/interceptor/AbstractFallbackTransactionAttributeSource/getTransactionAttribute(java.lang.reflect.Method,java.lang.Class)@g_spring-tx-4.2.3.BUILD-SNAPSHOT.jar.txt	0
+org/springframework/transaction/interceptor/AbstractFallbackTransactionAttributeSource/getTransactionAttribute(java.lang.reflect.Method,java.lang.Class)@g_spring-tx-4.2.4.RELEASE.jar.txt	1
+org/springframework/jca/work/jboss/JBossWorkManagerUtils/getWorkManager(java.lang.String)@g_spring-tx-4.2.3.BUILD-SNAPSHOT.jar.txt	2
+org/springframework/transaction/interceptor/TransactionAspectSupport/completeTransactionAfterThrowing(org.springframework.transaction.interceptor.TransactionAspectSupport$TransactionInfo,java.lang.Throwable)@g_spring-tx-4.2.3.BUILD-SNAPSHOT.jar.txt	4
+org/springframework/transaction/jta/WebLogicJtaTransactionManager/createTransaction(java.lang.String,int)@g_spring-tx-4.2.3.BUILD-SNAPSHOT.jar.txt	3

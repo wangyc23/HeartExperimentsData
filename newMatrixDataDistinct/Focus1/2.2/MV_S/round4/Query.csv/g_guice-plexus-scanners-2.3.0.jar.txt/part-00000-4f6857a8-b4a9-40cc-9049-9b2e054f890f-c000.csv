@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/IOUtil/close(java.io.InputStream)
+org/codehaus/plexus/util/xml/pull/MXParser/MXParser()
+org/sonatype/guice/bean/reflect/Logs/debug(java.lang.String,java.lang.Object,java.lang.Object)
+org/codehaus/plexus/util/xml/pull/MXParser/require(int,java.lang.String,java.lang.String)

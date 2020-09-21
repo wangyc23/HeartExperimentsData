@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+java/util/Iterator/hasNext()
+org/apache/maven/model/PluginContainer/getPlugins()
+java/util/List/isEmpty()

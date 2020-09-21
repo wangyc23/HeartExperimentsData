@@ -1,0 +1,5 @@
+org/apache/maven/doxia/macro/SwfMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.2.jar.txt	4
+org/apache/maven/doxia/macro/snippet/SnippetMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.2.jar.txt	0
+org/apache/maven/doxia/macro/snippet/SnippetMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.4.jar.txt	1
+org/apache/maven/doxia/macro/EchoMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.2.jar.txt	2
+org/apache/maven/doxia/macro/EchoMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.4.jar.txt	3

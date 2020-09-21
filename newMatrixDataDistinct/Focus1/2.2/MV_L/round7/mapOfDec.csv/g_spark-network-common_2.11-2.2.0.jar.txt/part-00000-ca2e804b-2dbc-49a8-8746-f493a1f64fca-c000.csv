@@ -1,0 +1,5 @@
+com/google/common/cache/CacheBuilder/toString()@g_guava-14.0.1.jar.txt	3
+com/google/common/io/Files/FileByteSource/read()@g_guava-14.0.1.jar.txt	2
+com/google/common/io/Files/createTempDir()@g_guava-14.0.1.jar.txt	4
+com/google/common/io/Files/createTempDir()@g_guava-11.0.2.jar.txt	0
+com/google/common/collect/MapMaker/toString()@g_guava-11.0.2.jar.txt	1

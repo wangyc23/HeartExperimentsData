@@ -1,0 +1,5 @@
+org/drools/template/model/AttributedDRLElement/asStringLiteral(java.lang.String)@g_wikixmlj-1.0-SNAPSHOT.jar.txt	3
+edu/jhu/nlp/wikipedia/WikiXMLParser/getInputSource()@g_wikixmlj-1.0-SNAPSHOT.jar.txt	0
+org/drools/template/parser/ColumnFactory/createColumn(java.lang.String,java.lang.String)@g_wikixmlj-1.0-SNAPSHOT.jar.txt	2
+org/drools/template/model/AttributedDRLElement/renderDRL(org.drools.template.model.DRLOutput)@g_wikixmlj-1.0-SNAPSHOT.jar.txt	1
+edu/jhu/nlp/util/FileUtil/readFile(java.lang.String)@g_wikixmlj-1.0-SNAPSHOT.jar.txt	4

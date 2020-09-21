@@ -1,0 +1,5 @@
+javax/xml/bind/DatatypeConverterImpl/_parseQName(java.lang.CharSequence,javax.xml.namespace.NamespaceContext)@g_jaxb-api-2.2.7.jar.txt	1
+javax/xml/bind/helpers/AbstractUnmarshallerImpl/unmarshal(java.io.File)@g_jaxb-api-2.2.2.jar.txt	3
+javax/xml/bind/DatatypeConverterImpl/_parseBoolean(java.lang.CharSequence)@g_jaxb-api-2.2.2.jar.txt	4
+javax/xml/bind/ContextFinder/loadJAXBProperties(java.lang.ClassLoader,java.lang.String)@g_jaxb-api-2.2.2.jar.txt	2
+javax/xml/bind/DatatypeConverterImpl/_parseQName(java.lang.CharSequence,javax.xml.namespace.NamespaceContext)@g_jaxb-api-2.2.2.jar.txt	0

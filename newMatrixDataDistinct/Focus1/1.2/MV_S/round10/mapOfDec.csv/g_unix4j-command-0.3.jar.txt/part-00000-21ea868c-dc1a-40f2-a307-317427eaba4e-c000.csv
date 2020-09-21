@@ -1,0 +1,5 @@
+com/univocity/parsers/fixed/Lookup/calculateMaxFieldLengths(com.univocity.parsers.fixed.FixedWidthFields,java.util.Map,java.util.Map)@g_univocity-parsers-2.2.1.jar.txt	0
+com/univocity/parsers/common/AbstractWriter/wrapObjectArray(java.util.Map)@g_univocity-parsers-2.2.1.jar.txt	3
+com/univocity/parsers/common/AbstractWriter/writeValuesFromMap(java.util.Map,java.util.Map)@g_univocity-parsers-2.2.1.jar.txt	1
+com/univocity/parsers/fixed/Lookup/getLookupFormats(java.util.Map,com.univocity.parsers.fixed.FixedWidthFormat)@g_univocity-parsers-2.2.1.jar.txt	4
+com/univocity/parsers/common/fields/FieldConversionMapping/reverseConversions(boolean,int,java.lang.Object,boolean[])@g_univocity-parsers-2.2.1.jar.txt	2

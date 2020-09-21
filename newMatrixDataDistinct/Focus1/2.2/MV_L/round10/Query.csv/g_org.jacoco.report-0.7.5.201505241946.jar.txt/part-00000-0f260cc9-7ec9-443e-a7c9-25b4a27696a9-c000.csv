@@ -1,0 +1,4 @@
+org/jacoco/report/internal/html/page/ClassPage/getNode()
+org/jacoco/report/internal/html/page/ClassPage/addItem(org.jacoco.report.internal.html.table.ITableItem)
+java/util/Iterator/next()
+org/jacoco/core/analysis/IMethodCoverage/getSignature()

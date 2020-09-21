@@ -1,0 +1,5 @@
+org/aspectj/weaver/bcel/LazyClassGen/getChildClasses(org.aspectj.weaver.bcel.BcelWorld)@g_aspectjweaver-1.8.4.jar.txt	2
+org/aspectj/weaver/tools/cache/DefaultCacheKeyResolver/createClassLoaderScope(java.lang.ClassLoader,java.util.List)@g_aspectjweaver-1.8.2.jar.txt	1
+org/aspectj/runtime/internal/cflowstack/ThreadCounterImpl11/getThreadCounter()@g_aspectjweaver-1.8.4.jar.txt	3
+org/aspectj/weaver/loadtime/ClassLoaderWeavingAdaptor/accept(java.lang.String,byte[])@g_aspectjweaver-1.8.4.jar.txt	4
+org/aspectj/weaver/tools/cache/DefaultCacheKeyResolver/createClassLoaderScope(java.lang.ClassLoader,java.util.List)@g_aspectjweaver-1.8.4.jar.txt	0

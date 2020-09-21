@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/ArrayList/ArrayList(int)
+java/lang/Double/valueOf(double)
+java/util/Arrays/fill(double[],double)

@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+java/sql/Connection/createStatement()
+pl/com/sages/hadoop/hive/HiveServer2JdbcClient/isConnected()
+java/sql/Statement/executeQuery(java.lang.String)

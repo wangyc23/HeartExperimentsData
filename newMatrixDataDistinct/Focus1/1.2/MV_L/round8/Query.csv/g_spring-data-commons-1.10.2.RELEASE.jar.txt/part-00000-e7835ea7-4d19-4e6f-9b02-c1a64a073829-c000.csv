@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/springframework/core/annotation/AnnotationUtils/findAnnotation(java.lang.reflect.Method,java.lang.Class)
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/getSetter()
+java/util/Iterator/next()

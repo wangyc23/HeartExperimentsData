@@ -1,0 +1,4 @@
+org/apache/mahout/classifier/bayes/InMemoryBayesDatastore/getFeatureID(java.lang.String)
+org/apache/mahout/classifier/bayes/InvalidDatastoreException/InvalidDatastoreException(java.lang.String)
+org/apache/mahout/math/Matrix/getQuick(int,int)
+java/lang/String/equals(java.lang.Object)

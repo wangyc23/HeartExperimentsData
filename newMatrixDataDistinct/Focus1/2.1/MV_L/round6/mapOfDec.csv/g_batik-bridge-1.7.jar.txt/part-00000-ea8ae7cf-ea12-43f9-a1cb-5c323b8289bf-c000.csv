@@ -1,0 +1,5 @@
+org/apache/batik/bridge/svg12/XPathPatternContentSelector/SelectedNodes/update(org.w3c.dom.Node)@g_batik-bridge-1.8.jar.txt	2
+org/apache/batik/bridge/svg12/DefaultXBLManager/cloneTemplate(org.apache.batik.anim.dom.XBLOMTemplateElement)@g_batik-bridge-1.8.jar.txt	3
+org/apache/batik/bridge/FontFace/getFontFamily(org.apache.batik.bridge.BridgeContext,org.apache.batik.util.ParsedURL)@g_batik-bridge-1.8.jar.txt	1
+org/apache/batik/bridge/SVGMaskElementBridge/createMask(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Element,org.w3c.dom.Element,org.apache.batik.gvt.GraphicsNode)@g_batik-bridge-1.8.jar.txt	4
+org/apache/batik/bridge/SVGClipPathElementBridge/createClip(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Element,org.w3c.dom.Element,org.apache.batik.gvt.GraphicsNode)@g_batik-bridge-1.8.jar.txt	0

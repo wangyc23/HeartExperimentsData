@@ -1,0 +1,4 @@
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter$PendingTerm/PendingTerm(org.apache.lucene.util.BytesRef,org.apache.lucene.codecs.BlockTermState)
+org/apache/lucene/util/BytesRef/deepCopyOf(org.apache.lucene.util.BytesRef)
+org/apache/lucene/util/BytesRef/copyBytes(org.apache.lucene.util.BytesRef)
+org/apache/lucene/util/fst/NoOutputs/getNoOutput()

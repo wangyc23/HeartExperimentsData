@@ -1,0 +1,5 @@
+org/apache/hadoop/hive/serde2/objectinspector/primitive/ParquetStringInspector/getPrimitiveJavaObject(java.lang.Object)@0c5a1f63f104e80118870d550a768abedfa49720.txt	3
+parquet/io/ColumnIO/getParent(int)@0c5a1f63f104e80118870d550a768abedfa49720.txt	2
+oops/references/App243/main(java.lang.String[])@0c5a1f63f104e80118870d550a768abedfa49720.txt	4
+parquet/io/PrimitiveColumnIO/getFirst(int)@0c5a1f63f104e80118870d550a768abedfa49720.txt	0
+parquet/io/PrimitiveColumnIO/getLast(int)@0c5a1f63f104e80118870d550a768abedfa49720.txt	1

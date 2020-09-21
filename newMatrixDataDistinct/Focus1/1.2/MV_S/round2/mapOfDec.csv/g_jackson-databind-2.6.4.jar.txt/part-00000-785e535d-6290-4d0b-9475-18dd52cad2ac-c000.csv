@@ -1,0 +1,5 @@
+org/emfjson/jackson/databind/deser/ResourceDeserializer/getResource(com.fasterxml.jackson.databind.DeserializationContext,org.eclipse.emf.ecore.resource.Resource)@g_emfjson-jackson-1.0.0.jar.txt	1
+org/emfjson/jackson/databind/property/EObjectFeatureProperty/deserializeAndSet(com.fasterxml.jackson.core.JsonParser,org.eclipse.emf.ecore.EObject,com.fasterxml.jackson.databind.DeserializationContext,org.eclipse.emf.ecore.resource.Resource)@g_emfjson-jackson-1.0.0.jar.txt	4
+org/emfjson/jackson/databind/property/EObjectPropertyMap/Builder/find(com.fasterxml.jackson.databind.DeserializationContext,org.eclipse.emf.ecore.EClass,java.util.Iterator)@g_emfjson-jackson-1.0.0.jar.txt	0
+org/emfjson/jackson/databind/property/EObjectPropertyMap/Builder/collectProperties(com.fasterxml.jackson.databind.DatabindContext,org.eclipse.emf.ecore.EClass)@g_emfjson-jackson-1.0.0.jar.txt	2
+org/emfjson/jackson/databind/deser/EObjectDeserializer/handleUnknownProperty(com.fasterxml.jackson.core.JsonParser,org.eclipse.emf.ecore.resource.Resource,com.fasterxml.jackson.databind.DeserializationContext)@g_emfjson-jackson-1.0.0.jar.txt	3

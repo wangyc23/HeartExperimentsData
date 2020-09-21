@@ -1,0 +1,4 @@
+com/xpn/xwiki/doc/XWikiAttachmentArchive/clone()
+com/xpn/xwiki/doc/XWikiAttachment/fromXML(org.dom4j.Element)
+com/xpn/xwiki/doc/XWikiAttachment/setDoc(com.xpn.xwiki.doc.XWikiDocument)
+com/xpn/xwiki/doc/XWikiAttachment/getAttachment_archive()

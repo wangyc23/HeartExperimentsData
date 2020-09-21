@@ -1,0 +1,5 @@
+org/ictclas4j/segment/PosTagger/personRecognize(org.ictclas4j.segment.SegGraph,java.util.ArrayList)@g_maven-surefire-plugin-2.12.jar.txt	3
+org/ictclas4j/utility/GFString/encode7bit(java.lang.String)@g_maven-surefire-plugin-2.12.jar.txt	0
+org/ictclas4j/utility/GFString/sortByLen(java.util.ArrayList,boolean)@g_maven-surefire-plugin-2.12.jar.txt	1
+org/apache/maven/plugin/surefire/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-surefire-plugin-2.12.jar.txt	2
+org/ictclas4j/utility/GFString/readTxtFile2(java.lang.String)@g_maven-surefire-plugin-2.12.jar.txt	4

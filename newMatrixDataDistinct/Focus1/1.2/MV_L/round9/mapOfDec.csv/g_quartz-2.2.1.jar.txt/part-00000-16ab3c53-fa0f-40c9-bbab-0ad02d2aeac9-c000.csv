@@ -1,0 +1,5 @@
+org/terracotta/quartz/collections/SerializationHelper/serialize(java.lang.Object)@g_quartz-2.2.0.jar.txt	0
+org/terracotta/quartz/DefaultClusteredJobStore/scheduleRecoveryIfNeeded(org.terracotta.quartz.wrappers.TriggerWrapper,org.terracotta.quartz.wrappers.FiredTrigger)@g_quartz-2.2.0.jar.txt	4
+org/quartz/impl/jdbcjobstore/SimplePropertiesTriggerPersistenceDelegateSupport/loadExtendedTriggerProperties(java.sql.Connection,org.quartz.TriggerKey)@g_quartz-2.2.0.jar.txt	1
+org/terracotta/quartz/DefaultClusteredJobStore/evalOrphanedTrigger(org.terracotta.quartz.wrappers.TriggerWrapper,boolean)@g_quartz-2.2.0.jar.txt	2
+org/terracotta/quartz/DefaultClusteredJobStore/schedulerStarted()@g_quartz-2.2.0.jar.txt	3

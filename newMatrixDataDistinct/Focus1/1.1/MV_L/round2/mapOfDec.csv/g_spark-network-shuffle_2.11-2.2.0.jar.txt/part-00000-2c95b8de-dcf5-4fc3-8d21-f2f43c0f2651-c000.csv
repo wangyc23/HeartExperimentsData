@@ -1,0 +1,5 @@
+edu/cmu/lti/jawjaw/util/CollectionUtil/synsetToOffset(java.lang.String)@g_jawjaw-0.1.0.jar.txt	3
+edu/cmu/lti/ws4j/util/OverlapFinder/getOverlaps(java.lang.String,java.lang.String)@g_ws4j-0.1.0.jar.txt	0
+edu/cmu/lti/ws4j/impl/Lesk/calcFromSuperGloss(java.lang.String,java.lang.String)@g_ws4j-0.1.0.jar.txt	2
+edu/cmu/lti/ws4j/util/ICFinder/loadIC()@g_ws4j-0.1.0.jar.txt	1
+edu/cmu/lti/jawjaw/db/SenseDAO/findSensesByWordid(int)@g_jawjaw-0.1.0.jar.txt	4

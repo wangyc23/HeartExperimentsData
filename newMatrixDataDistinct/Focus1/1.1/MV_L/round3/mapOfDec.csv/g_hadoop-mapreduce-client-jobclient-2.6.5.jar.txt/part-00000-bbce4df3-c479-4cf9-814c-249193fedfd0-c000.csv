@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/lib/join/OverrideRecordReader/fillJoinCollector(org.apache.hadoop.io.WritableComparable)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	0
+org/apache/hadoop/mapred/join/OverrideRecordReader/fillJoinCollector(org.apache.hadoop.io.WritableComparable)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	3
+org/apache/hadoop/mapreduce/task/reduce/ShuffleSchedulerImpl/CopyTimeTracker/getTotalCopyMillis(org.apache.hadoop.mapreduce.task.reduce.ShuffleSchedulerImpl$CopyTimeTracker$Interval)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	4
+org/apache/hadoop/mapreduce/lib/join/Parser/CNode/getSplits(org.apache.hadoop.mapreduce.JobContext)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	2
+org/apache/hadoop/mapreduce/jobhistory/EventWriter/toAvro(org.apache.hadoop.mapreduce.Counters,java.lang.String)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	1

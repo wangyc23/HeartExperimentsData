@@ -1,0 +1,4 @@
+java/lang/ClassLoader/getResource(java.lang.String)
+java/net/URL/openStream()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/logging/Log/isInfoEnabled()

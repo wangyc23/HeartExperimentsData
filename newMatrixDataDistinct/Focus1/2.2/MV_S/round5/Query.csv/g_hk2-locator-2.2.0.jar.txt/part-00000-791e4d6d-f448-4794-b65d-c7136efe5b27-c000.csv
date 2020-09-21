@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/AssertionError/AssertionError(java.lang.Object)
+org/jvnet/hk2/internal/Utilities$2/2(java.lang.reflect.Constructor)
+java/lang/Class/getName()

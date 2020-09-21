@@ -1,0 +1,5 @@
+com/nikolas/wicketsecurity/business/core/AbstractDao/count()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	0
+com/nikolas/wicketsecurity/business/core/AbstractDao/findAll()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	1
+com/nikolas/wicketsecurity/business/core/AbstractDao/findRange(int[])@300499d228b289b009668c0181a2fdcfc67bb28b.txt	2
+com/trier/exam/shopping/service/AbstractService/getDefaultSelect()@22f7087bba1244fbc09ef295e81cd69231499bbb.txt	4
+com/nikolas/wicketsecurity/business/security/control/UserDao/findUserByUsername(java.lang.String)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	3

@@ -1,0 +1,5 @@
+org/eclipse/jetty/http/PathMap/put(java.lang.Object,java.lang.Object)@g_jetty-http-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/http/HttpURI/getDecodedPath()@g_jetty-http-7.4.4.v20110707.jar.txt	1
+org/eclipse/jetty/http/HttpURI/getDecodedPath()@g_jetty-http-7.6.5.v20120716.jar.txt	0
+org/eclipse/jetty/http/security/Credential/Crypt/check(java.lang.Object)@g_jetty-http-7.4.4.v20110707.jar.txt	2
+org/eclipse/jetty/http/security/Credential/MD5/check(java.lang.Object)@g_jetty-http-7.4.4.v20110707.jar.txt	3

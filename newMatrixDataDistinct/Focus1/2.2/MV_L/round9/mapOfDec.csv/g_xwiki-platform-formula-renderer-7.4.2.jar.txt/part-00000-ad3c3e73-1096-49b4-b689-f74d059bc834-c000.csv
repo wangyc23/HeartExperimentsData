@@ -1,0 +1,5 @@
+org/xwiki/formula/internal/NativeFormulaRenderer/executeCommand(java.lang.String[],java.io.File)@g_xwiki-platform-formula-renderer-7.0.jar.txt	4
+org/xwiki/formula/internal/NativeFormulaRenderer/renderImage(java.lang.String,boolean,org.xwiki.formula.FormulaRenderer$FontSize,org.xwiki.formula.FormulaRenderer$Type)@g_xwiki-platform-formula-renderer-7.0.jar.txt	3
+org/xwiki/formula/internal/MathTranFormulaRenderer/renderImage(java.lang.String,boolean,org.xwiki.formula.FormulaRenderer$FontSize,org.xwiki.formula.FormulaRenderer$Type)@g_xwiki-platform-formula-renderer-7.4.jar.txt	1
+org/xwiki/formula/AbstractFormulaRenderer/computeImageID(java.lang.String,boolean,org.xwiki.formula.FormulaRenderer$FontSize,org.xwiki.formula.FormulaRenderer$Type)@g_xwiki-platform-formula-renderer-7.0.jar.txt	2
+org/xwiki/formula/internal/MathTranFormulaRenderer/renderImage(java.lang.String,boolean,org.xwiki.formula.FormulaRenderer$FontSize,org.xwiki.formula.FormulaRenderer$Type)@g_xwiki-platform-formula-renderer-7.0.jar.txt	0

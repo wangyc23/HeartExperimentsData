@@ -1,0 +1,5 @@
+org/jacoco/core/internal/analysis/BundleCoverageImpl/groupByPackage(java.util.Collection,java.util.Collection)@g_asm-tree-4.1.jar.txt	4
+org/joni/Lexer/fetchToken()@g_asm-tree-4.1.jar.txt	3
+org/joni/AsmCompilerSupport/setupMachineInit()@g_joni-1.1.6.jar.txt	0
+org/joni/AsmCompilerSupport/prepareFactory()@g_joni-1.1.6.jar.txt	2
+org/objectweb/asm/tree/MethodNode/accept(org.objectweb.asm.MethodVisitor)@g_asm-tree-4.1.jar.txt	1

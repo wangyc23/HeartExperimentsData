@@ -1,0 +1,4 @@
+java/awt/image/ComponentColorModel/ComponentColorModel(java.awt.color.ColorSpace,boolean,boolean,int,int)
+java/awt/image/Raster/getWidth()
+java/awt/image/DataBufferByte/getData()
+java/awt/color/ColorSpace/getInstance(int)

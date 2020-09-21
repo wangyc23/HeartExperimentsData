@@ -1,0 +1,5 @@
+com/elastisys/scale/cloudpool/kubernetes/TestKubernetesCloudPool/config(com.elastisys.scale.cloudpool.kubernetes.config.PodPoolConfig)@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	1
+com/elastisys/scale/cloudpool/azure/driver/TestAzurePoolDriverOperation/driverConfig()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	3
+com/elastisys/scale/cloudpool/multipool/server/TestRestApi/getConfig()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	2
+com/elastisys/scale/cloudpool/google/compute/driver/TestGcePoolDriverConfiguration/reconfigure()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	4
+com/elastisys/scale/cloudpool/google/commons/utils/InstanceTemplateUrl/equals(java.lang.Object)@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	0

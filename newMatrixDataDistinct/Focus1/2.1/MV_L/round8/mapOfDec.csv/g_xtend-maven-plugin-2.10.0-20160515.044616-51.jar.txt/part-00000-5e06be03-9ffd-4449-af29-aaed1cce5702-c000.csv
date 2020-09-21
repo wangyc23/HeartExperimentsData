@@ -1,0 +1,5 @@
+org/eclipse/xtend/maven/AbstractXtendInstallDebugInfoMojo/createTraceToClassFileMap(java.util.List,java.lang.String)@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	0
+org/codehaus/mojo/exec/ExecJavaMojo/addRelevantPluginDependenciesToClasspath(java.util.List)@g_exec-maven-plugin-1.4.0.jar.txt	4
+org/eclipse/xtend/maven/AbstractXtendInstallDebugInfoMojo/installTraces(com.google.common.collect.Multimap)@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	1
+org/eclipse/xtend/maven/AbstractXtendInstallDebugInfoMojo/installTrace(java.io.File,java.util.Collection)@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	2
+org/codehaus/mojo/exec/ExecJavaMojo/addRelevantProjectDependenciesToClasspath(java.util.List)@g_exec-maven-plugin-1.4.0.jar.txt	3

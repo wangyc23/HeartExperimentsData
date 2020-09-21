@@ -1,0 +1,5 @@
+org/apache/xmlbeans/impl/tool/SchemaCopy/findAllRelative(java.net.URI,java.net.URI)@g_xmlbeans-2.6.0.jar.txt	0
+org/apache/xmlbeans/impl/schema/SchemaTypeSystemImpl/XsbReader/writeHandlePool(org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$HandlePool)@g_xmlbeans-2.6.0.jar.txt	3
+org/apache/xmlbeans/impl/tool/SchemaImportResolver/resolveImports(org.apache.xmlbeans.impl.tool.SchemaImportResolver$SchemaResource[])@g_xmlbeans-2.6.0.jar.txt	1
+org/apache/xmlbeans/impl/schema/StscChecker/checkRestriction(org.apache.xmlbeans.impl.schema.SchemaTypeImpl)@g_xmlbeans-2.6.0.jar.txt	2
+org/apache/xmlbeans/impl/jam/internal/JamServiceContextImpl/excludeSourcePattern(java.io.File[],java.lang.String)@g_xmlbeans-2.6.0.jar.txt	4

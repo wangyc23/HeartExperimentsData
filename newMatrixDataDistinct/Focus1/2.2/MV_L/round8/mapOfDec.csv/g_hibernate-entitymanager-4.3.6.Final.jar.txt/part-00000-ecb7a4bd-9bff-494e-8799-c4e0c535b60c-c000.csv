@@ -1,0 +1,5 @@
+org/hibernate/jpa/internal/EntityManagerFactoryRegistry/getNamedEntityManagerFactory(java.lang.String)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	3
+org/hibernate/jpa/criteria/QueryStructure/renderFromClause(java.lang.StringBuilder,org.hibernate.jpa.criteria.compile.RenderingContext)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	0
+org/hibernate/jpa/criteria/QueryStructure/renderFromClause(java.lang.StringBuilder,org.hibernate.jpa.criteria.compile.RenderingContext)@g_hibernate-entitymanager-4.3.10.Final.jar.txt	1
+org/hibernate/jpa/spi/AbstractEntityManagerImpl/createNamedStoredProcedureQuery(java.lang.String)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	4
+org/hibernate/jpa/boot/internal/EntityManagerFactoryBuilderImpl/buildHibernateConfiguration(org.hibernate.service.ServiceRegistry)@g_hibernate-entitymanager-4.3.5.Final.jar.txt	2

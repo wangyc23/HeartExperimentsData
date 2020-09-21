@@ -1,0 +1,5 @@
+com/netflix/client/config/DefaultClientConfigImpl/loadProperties(java.lang.String)@g_ribbon-core-2.0.2.jar.txt	2
+com/netflix/client/config/DefaultClientConfigImpl/loadDefaultValues()@g_ribbon-core-2.0.2.jar.txt	1
+com/netflix/client/SimpleVipAddressResolver/replaceMacrosFromConfig(java.lang.String)@g_ribbon-core-2.0.2.jar.txt	0
+com/netflix/client/config/CommonClientConfigKey/<clinit>()@g_ribbon-core-2.0.2.jar.txt	4
+org/xwiki/classloader/internal/protocol/attachmentjar/AttachmentURLStreamHandler/getAttachmentReference(java.net.URL)@g_ribbon-core-2.0.2.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/hadoop/security/authentication/util/KerberosUtil/getPrincipalNames(java.lang.String)@g_websocket-server-9.2.2.v20140723.jar.txt	2
+org/apache/hadoop/security/authentication/util/KerberosName/printRules()@g_websocket-server-9.2.2.v20140723.jar.txt	4
+org/eclipse/jetty/websocket/server/WebSocketServerFactory/isUpgradeRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_websocket-server-9.2.2.v20140723.jar.txt	3
+org/apache/hadoop/security/authentication/util/ZKSignerSecretProvider/init(java.util.Properties,javax.servlet.ServletContext,long)@g_hadoop-auth-2.6.0.jar.txt	1
+org/eclipse/jetty/websocket/server/WebSocketUpgradeFilter/init(javax.servlet.FilterConfig)@g_websocket-server-9.2.2.v20140723.jar.txt	0

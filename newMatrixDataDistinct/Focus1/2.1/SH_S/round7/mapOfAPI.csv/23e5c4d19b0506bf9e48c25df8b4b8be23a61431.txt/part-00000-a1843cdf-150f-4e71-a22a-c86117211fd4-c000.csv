@@ -1,0 +1,5 @@
+0	camelinaction/HelloBean/HelloBean()
+1	java/lang/Object/Object()
+2	java/net/ConnectException/ConnectException(java.lang.String)
+3	dk/sst/snomedcave/model/Identity/Identity()
+4	java/lang/String/contains(java.lang.CharSequence)

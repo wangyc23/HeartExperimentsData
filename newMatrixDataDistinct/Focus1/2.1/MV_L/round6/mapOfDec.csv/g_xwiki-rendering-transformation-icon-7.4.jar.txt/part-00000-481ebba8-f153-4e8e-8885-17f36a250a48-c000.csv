@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/transformation/icon/IconTransformation/initialize()@g_xwiki-rendering-transformation-icon-7.0.jar.txt	2
+org/xwiki/rendering/internal/transformation/icon/IconTransformation/initialize()@g_xwiki-rendering-transformation-icon-7.4.2.jar.txt	4
+org/xwiki/rendering/internal/transformation/icon/IconTransformation/parseTree(java.util.List)@g_xwiki-rendering-transformation-icon-7.0.jar.txt	3
+org/xwiki/rendering/internal/transformation/icon/IconTransformation/convertToDeepTree(org.xwiki.rendering.block.Block,java.lang.String)@g_xwiki-rendering-transformation-icon-7.0.jar.txt	0
+org/xwiki/rendering/internal/transformation/icon/IconTransformation/convertToDeepTree(org.xwiki.rendering.block.Block,java.lang.String)@g_xwiki-rendering-transformation-icon-7.4.2.jar.txt	1

@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/Validate/allElementsOfType(java.util.Collection,java.lang.Class)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/FastHashMap/equals(java.lang.Object)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/exception/NestableDelegate/printStackTrace(java.io.PrintWriter)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/attribute/AttributeDescriptor/prepareForSerialization()@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/functors/SwitchTransformer/getInstance(java.util.Map)@g_attributes-processor-1.0.1.jar.txt	2

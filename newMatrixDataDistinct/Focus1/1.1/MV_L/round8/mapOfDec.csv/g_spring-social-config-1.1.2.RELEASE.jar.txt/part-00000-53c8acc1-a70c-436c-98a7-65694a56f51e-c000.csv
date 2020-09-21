@@ -1,0 +1,5 @@
+org/springframework/integration/handler/AbstractMessageHandler/handleMessage(org.springframework.messaging.Message)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	2
+org/springframework/integration/handler/advice/RequestHandlerCircuitBreakerAdvice/doInvoke(org.springframework.integration.handler.advice.AbstractRequestHandlerAdvice$ExecutionCallback,java.lang.Object,org.springframework.messaging.Message)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	4
+org/springframework/integration/aggregator/CorrelatingMessageBarrier/receive()@g_spring-integration-core-4.0.6.RELEASE.jar.txt	0
+org/springframework/integration/expression/ReloadableResourceBundleExpressionSource/loadProperties(org.springframework.core.io.Resource,java.lang.String)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	1
+org/springframework/integration/channel/interceptor/WireTap/preSend(org.springframework.messaging.Message,org.springframework.messaging.MessageChannel)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	3

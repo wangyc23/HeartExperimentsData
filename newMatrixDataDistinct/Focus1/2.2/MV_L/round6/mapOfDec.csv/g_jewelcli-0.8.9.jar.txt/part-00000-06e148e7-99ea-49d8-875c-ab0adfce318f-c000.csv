@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/generic/XmlTool/find(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/util/TagParser/parseParameters(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/generic/IteratorTool/internalWrap(java.lang.Object)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/BindableProcessor/extractInheritedAttrs(java.util.List)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/BindableProcessor/processBindable(javax.lang.model.element.TypeElement)@g_attributes-processor-1.0.1.jar.txt	3

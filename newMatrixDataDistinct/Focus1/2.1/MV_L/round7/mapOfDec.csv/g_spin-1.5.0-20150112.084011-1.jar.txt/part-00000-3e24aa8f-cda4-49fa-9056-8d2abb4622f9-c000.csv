@@ -1,0 +1,5 @@
+org/topbraid/spin/util/SPLUtil/getDefaultValueForType(com.hp.hpl.jena.rdf.model.Resource,com.hp.hpl.jena.rdf.model.Property,java.util.Set)@g_spin-1.5.0-SNAPSHOT.jar.txt	4
+org/topbraid/spin/model/impl/ValuesImpl/getVarNames()@g_spin-1.5.0-SNAPSHOT.jar.txt	1
+org/topbraid/spin/util/RelevantProperties/getRelevantPropertiesOfClass(com.hp.hpl.jena.rdf.model.Resource)@g_spin-1.5.0-SNAPSHOT.jar.txt	0
+org/topbraid/spin/model/visitor/AbstractTriplesVisitor/MyExpressionVisitor/visit(org.topbraid.spin.model.FunctionCall)@g_spin-1.5.0-SNAPSHOT.jar.txt	3
+org/topbraid/spin/model/update/impl/UpdateImpl/printGraphIRIs(org.topbraid.spin.model.print.PrintContext,java.lang.String)@g_spin-1.5.0-SNAPSHOT.jar.txt	2

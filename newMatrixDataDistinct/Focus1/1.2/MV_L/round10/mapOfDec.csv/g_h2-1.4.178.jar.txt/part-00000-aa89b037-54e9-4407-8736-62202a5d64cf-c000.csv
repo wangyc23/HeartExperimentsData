@@ -1,0 +1,5 @@
+org/h2/server/web/WebServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_h2-1.4.191.jar.txt	2
+org/h2/mvstore/type/ObjectDataType/ObjectArrayType/read(java.nio.ByteBuffer,int)@g_h2-1.4.191.jar.txt	1
+org/h2/server/web/WebApp/addDatabaseMetaData(org.h2.tools.SimpleResultSet,java.sql.DatabaseMetaData)@g_h2-1.4.191.jar.txt	4
+org/h2/util/MathUtils/generateAlternativeSeed()@g_h2-1.4.191.jar.txt	3
+org/h2/engine/FunctionAlias/JavaMethod/getValue(org.h2.engine.Session,org.h2.expression.Expression[],boolean)@g_h2-1.4.191.jar.txt	0

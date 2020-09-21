@@ -1,0 +1,5 @@
+study/models/User/isAnonymous()@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	4
+com/example/sdn4rc2/web/CategoryController/index(org.springframework.ui.Model)@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	3
+org/springside/examples/quickstart/web/account/UserAdminController/getUser(java.lang.Long,org.springframework.ui.Model)@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	1
+com/example/sdn4rc2/service/GenericCRUDService/findOne(java.lang.Long)@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	2
+com/example/sdn4rc2/web/ProductController/create(com.example.sdn4rc2.web.ProductForm,org.springframework.ui.Model)@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	0

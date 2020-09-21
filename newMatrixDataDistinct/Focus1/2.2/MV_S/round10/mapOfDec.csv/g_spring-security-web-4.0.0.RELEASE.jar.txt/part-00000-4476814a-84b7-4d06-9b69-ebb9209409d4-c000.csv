@@ -1,0 +1,5 @@
+org/springframework/security/access/method/MapBasedMethodSecurityMetadataSource/addSecureMethod(java.lang.Class,java.lang.reflect.Method,java.util.List)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-security-core-3.2.3.RELEASE.jar.txt	0
+org/springframework/security/access/vote/UnanimousBased/decide(org.springframework.security.core.Authentication,java.lang.Object,java.util.Collection)@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/buildRolesReachableInOneStepMap()@g_spring-security-core-3.2.3.RELEASE.jar.txt	1
+org/springframework/security/access/method/DelegatingMethodSecurityMetadataSource/getAttributes(java.lang.reflect.Method,java.lang.Class)@g_spring-security-core-3.2.3.RELEASE.jar.txt	2

@@ -1,0 +1,5 @@
+org/coode/owlapi/obo12/parser/RelationshipTagValueHandler/handle(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_owlapi-compatibility-4.5.0.jar.txt	3
+org/coode/owlapi/obo12/parser/DefTagValueHandler/handle(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_owlapi-compatibility-4.5.0.jar.txt	1
+org/coode/owlapi/obo12/parser/OBOConsumer/parseXRef(java.lang.String)@g_owlapi-compatibility-4.5.0.jar.txt	4
+org/coode/owlapi/obo12/parser/SynonymTagValueHandler/handle(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_owlapi-compatibility-4.5.0.jar.txt	0
+org/coode/owlapi/obo12/parser/SynonymTypeDefTagHandler/handle(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_owlapi-compatibility-4.5.0.jar.txt	2

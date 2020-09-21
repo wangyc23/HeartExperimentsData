@@ -1,0 +1,4 @@
+javax/lang/model/element/AnnotationMirror/getElementValues()
+javax/annotation/processing/ProcessingEnvironment/getElementUtils()
+java/lang/Object/toString()
+java/util/Iterator/hasNext()

@@ -1,0 +1,7 @@
+0	java/util/Collections/unmodifiableSet(java.util.Set)
+1	java/util/Map/isEmpty()
+2	java/util/LinkedHashSet/LinkedHashSet(java.util.Collection)
+3	java/util/Set/removeAll(java.util.Collection)
+4	org/switchyard/test/SwitchYardTestKit/createMixInRecursively(java.lang.Class)
+5	java/util/Map/keySet()
+6	java/util/TreeSet/TreeSet(java.util.Collection)

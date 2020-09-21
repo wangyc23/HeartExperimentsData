@@ -1,0 +1,5 @@
+org/junit/internal/ArrayComparisonFailure/getMessage()@g_junit-4.8.2.jar.txt	0
+org/junit/internal/ArrayComparisonFailure/getMessage()@g_junit-4.8.jar.txt	1
+org/junit/internal/runners/SuiteMethod/testFromSuiteMethod(java.lang.Class)@g_junit-4.8.2.jar.txt	4
+org/junit/runners/BlockJUnit4ClassRunner/validateRuleField(java.lang.reflect.Field,java.util.List)@g_junit-4.8.2.jar.txt	2
+org/junit/internal/runners/MethodRoadie/1/run()@g_junit-4.8.2.jar.txt	3

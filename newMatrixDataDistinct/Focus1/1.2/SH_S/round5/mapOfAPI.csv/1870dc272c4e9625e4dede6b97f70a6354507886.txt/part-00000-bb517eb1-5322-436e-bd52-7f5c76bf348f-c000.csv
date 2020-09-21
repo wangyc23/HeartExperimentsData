@@ -1,0 +1,8 @@
+0	java/util/List/add(E)
+1	java/util/List/get(int)
+2	java/lang/String/equals(java.lang.Object)
+3	com/wordnik/swagger/sample/model/User/getUsername()
+4	java/util/List/remove(int)
+5	com/wordnik/swagger/sample/model/Order/getId()
+6	models/User/getUsername()
+7	java/util/List/size()

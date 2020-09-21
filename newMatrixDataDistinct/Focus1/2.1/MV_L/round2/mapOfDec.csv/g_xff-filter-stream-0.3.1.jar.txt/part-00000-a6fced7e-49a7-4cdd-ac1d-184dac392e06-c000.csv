@@ -1,0 +1,5 @@
+org/xwiki/xff/core/model/Class/orderedPaths()@g_xff-filter-stream-0.4.0.jar.txt	3
+org/xwiki/filter/xff/internal/input/ClassesReader/routeProperties()@g_xff-filter-stream-0.4.0.jar.txt	2
+org/xwiki/filter/xff/internal/input/ClassesReader/routeProperty(java.nio.file.Path,java.io.InputStream)@g_xff-filter-stream-0.4.0.jar.txt	0
+org/xwiki/xff/core/model/Class/store(java.nio.file.Path)@g_xff-filter-stream-0.4.0.jar.txt	4
+org/xwiki/filter/xff/internal/input/ObjectsReader/routeProperty(java.nio.file.Path,java.io.InputStream)@g_xff-filter-stream-0.4.0.jar.txt	1

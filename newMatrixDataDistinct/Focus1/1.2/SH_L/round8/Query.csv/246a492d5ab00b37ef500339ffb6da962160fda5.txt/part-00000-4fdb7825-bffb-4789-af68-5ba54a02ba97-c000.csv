@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/allocate(int)
+java/nio/channels/SocketChannel/read(java.nio.ByteBuffer)
+java/nio/channels/SocketChannel/write(java.nio.ByteBuffer)
+java/lang/String/String(byte[])

@@ -1,0 +1,5 @@
+org/thymeleaf/Configuration/mergeDialects(java.util.Set)@g_thymeleaf-2.1.5.RELEASE.jar.txt	0
+net/sf/ehcache/Cache/initialise()@g_ehcache-core-2.6.2.jar.txt	3
+org/thymeleaf/ConfigurationPrinterHelper/printDebugConfiguration(org.thymeleaf.ConfigurationPrinterHelper$ConfigLogBuilder,org.thymeleaf.DialectConfiguration)@g_thymeleaf-2.1.5.RELEASE.jar.txt	1
+org/thymeleaf/DialectConfiguration/initialize()@g_thymeleaf-2.1.5.RELEASE.jar.txt	2
+net/sf/ehcache/store/AbstractStore/setAttributeExtractors(java.util.Map)@g_ehcache-core-2.6.2.jar.txt	4

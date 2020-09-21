@@ -1,0 +1,5 @@
+com/github/jakz/nit/Operations/consolidateGameSet(com.github.jakz.nit.emitter.CreatorOptions,com.github.jakz.nit.parser.GameSet)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2
+com/guillaumecl/caskdays/Main/configureJedis(com.guillaumecl.caskdays.Config)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0
+demo/order/ObjectId/getDate()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+com/guillaumecl/caskdays/models/Beer/toString()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3
+demo/invoice/Invoice/addOrder(demo.order.Order)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1

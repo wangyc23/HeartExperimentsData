@@ -1,0 +1,4 @@
+java/io/Reader/read()
+org/codehaus/plexus/interpolation/InterpolationException/getMessage()
+java/lang/String/charAt(int)
+java/lang/StringBuffer/append(char)

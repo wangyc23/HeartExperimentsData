@@ -1,0 +1,5 @@
+org/springframework/cloud/netflix/zuul/filters/ProxyRouteLocator/addConfiguredRoutes(java.util.Map)@g_spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar.txt	4
+org/springframework/cloud/netflix/zuul/filters/ProxyRouteLocator/locateRoutes()@g_spring-cloud-netflix-core-1.0.2.RELEASE.jar.txt	3
+org/springframework/cloud/netflix/zuul/filters/ProxyRouteLocator/locateRoutes()@g_spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar.txt	1
+org/springframework/cloud/netflix/zuul/filters/ProxyRouteLocator/getRoutes()@g_spring-cloud-netflix-core-1.1.0.BUILD-SNAPSHOT.jar.txt	0
+org/springframework/cloud/netflix/zuul/filters/ProxyRouteLocator/getRoutes()@g_spring-cloud-netflix-core-1.0.2.RELEASE.jar.txt	2

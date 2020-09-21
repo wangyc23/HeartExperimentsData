@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+org/apache/maven/artifact/Artifact/getFile()
+java/util/List/add(java.lang.Object)

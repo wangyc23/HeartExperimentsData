@@ -1,0 +1,5 @@
+com/google/common/util/concurrent/FuturesGetChecked/newWithCause(java.lang.Class,java.lang.Throwable)@g_guava-19.0-rc3.jar.txt	4
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-19.0-rc3.jar.txt	2
+com/google/common/cache/LocalCache/Segment/waitForLoadingValue(com.google.common.cache.LocalCache$ReferenceEntry,java.lang.Object,com.google.common.cache.LocalCache$ValueReference)@g_guava-19.0-rc3.jar.txt	3
+com/google/common/io/Files/createParentDirs(java.io.File)@g_guava-19.0-rc3.jar.txt	1
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_guava-19.0-rc3.jar.txt	0

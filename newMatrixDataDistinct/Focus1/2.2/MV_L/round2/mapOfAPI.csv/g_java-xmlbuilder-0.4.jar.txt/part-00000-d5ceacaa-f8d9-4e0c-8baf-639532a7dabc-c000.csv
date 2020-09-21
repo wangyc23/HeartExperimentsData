@@ -1,0 +1,4 @@
+0	java/util/Map$Entry/getKey()
+1	javax/xml/transform/dom/DOMSource/DOMSource(org.w3c.dom.Node)
+2	javax/xml/transform/TransformerFactory/newInstance()
+3	java/util/Set/iterator()

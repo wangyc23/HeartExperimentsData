@@ -1,0 +1,5 @@
+org/jacoco/agent/rt/internal_b0d6a23/asm/ClassWriter/newConstItem(java.lang.Object)@g_asm-4.0.jar.txt	0
+org/jacoco/agent/rt/internal_b0d6a23/ConfigLoader/substSystemProperties(java.util.Properties,java.util.Properties)@g_asm-4.0.jar.txt	4
+org/jacoco/agent/rt/internal_b0d6a23/ClassFileDumper/dump(java.lang.String,byte[])@g_asm-4.0.jar.txt	1
+org/jacoco/agent/rt/internal_b0d6a23/ConfigLoader/loadSystemProperties(java.util.Properties,java.util.Properties)@g_asm-4.0.jar.txt	2
+org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-4.0.jar.txt	3

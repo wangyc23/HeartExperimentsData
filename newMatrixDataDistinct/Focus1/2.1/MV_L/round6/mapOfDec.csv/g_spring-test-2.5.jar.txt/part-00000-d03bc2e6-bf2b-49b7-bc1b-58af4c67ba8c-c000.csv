@@ -1,0 +1,5 @@
+org/springframework/test/context/junit38/AbstractJUnit38SpringContextTests/runTest(org.springframework.test.context.junit38.AbstractJUnit38SpringContextTests$TestExecutionCallback,java.lang.reflect.Method)@g_spring-test-3.0.7.RELEASE.jar.txt	3
+org/springframework/test/context/junit38/AbstractJUnit38SpringContextTests/getTestMethod()@g_spring-test-3.2.8.RELEASE.jar.txt	0
+org/springframework/test/web/ModelAndViewAssert/assertModelAttributeValues(org.springframework.web.servlet.ModelAndView,java.util.Map)@g_spring-test-3.2.8.RELEASE.jar.txt	4
+org/springframework/test/context/junit38/AbstractJUnit38SpringContextTests/getTestMethod()@g_spring-test-3.0.7.RELEASE.jar.txt	2
+org/springframework/test/context/junit38/AbstractJUnit38SpringContextTests/runTest(org.springframework.test.context.junit38.AbstractJUnit38SpringContextTests$TestExecutionCallback,java.lang.reflect.Method)@g_spring-test-3.2.8.RELEASE.jar.txt	1

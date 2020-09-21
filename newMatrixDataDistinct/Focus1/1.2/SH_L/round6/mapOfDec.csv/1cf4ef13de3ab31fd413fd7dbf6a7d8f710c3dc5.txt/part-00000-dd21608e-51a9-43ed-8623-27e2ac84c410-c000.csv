@@ -1,0 +1,5 @@
+tachyon/thrift/MasterService/getFileStatus_args/isSet(tachyon.thrift.MasterService.getFileStatus_args._Fields)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	0
+tachyon/thrift/FileDoesNotExistException/getFieldValue(tachyon.thrift.FileDoesNotExistException._Fields)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	3
+tachyon/thrift/NetAddress/isSet(tachyon.thrift.NetAddress._Fields)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	4
+tachyon/thrift/WorkerService/addCheckpoint_args/isSet(tachyon.thrift.WorkerService.addCheckpoint_args._Fields)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	1
+tachyon/thrift/WorkerService/getUserUfsTempFolder_result/isSet(tachyon.thrift.WorkerService.getUserUfsTempFolder_result._Fields)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	2

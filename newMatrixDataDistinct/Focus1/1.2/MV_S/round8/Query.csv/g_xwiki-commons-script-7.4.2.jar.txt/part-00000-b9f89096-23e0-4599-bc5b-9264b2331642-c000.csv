@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+java/util/Iterator/hasNext()
+org/xwiki/script/internal/safe/SafeList/getWrapped()
+java/util/List/subList(int,int)

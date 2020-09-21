@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+java/lang/Long/valueOf(long)

@@ -1,0 +1,5 @@
+org/apache/maven/model/merge/MavenModelMerger/mergeModelBase_Repositories(org.apache.maven.model.ModelBase,org.apache.maven.model.ModelBase,boolean,java.util.Map)@g_maven-model-builder-3.0.4.jar.txt	0
+org/apache/maven/model/normalization/DefaultModelNormalizer/mergeDuplicates(org.apache.maven.model.Model,org.apache.maven.model.building.ModelBuildingRequest,org.apache.maven.model.building.ModelProblemCollector)@g_maven-model-builder-3.0.4.jar.txt	4
+org/apache/maven/model/merge/MavenModelMerger/mergePlugin_Executions(org.apache.maven.model.Plugin,org.apache.maven.model.Plugin,boolean,java.util.Map)@g_maven-model-builder-3.0.4.jar.txt	3
+org/apache/maven/model/merge/MavenModelMerger/mergeModelBase_Repositories(org.apache.maven.model.ModelBase,org.apache.maven.model.ModelBase,boolean,java.util.Map)@g_maven-model-builder-3.0.5.jar.txt	1
+org/apache/maven/model/management/DefaultPluginManagementInjector/ManagementModelMerger/mergePlugin_Executions(org.apache.maven.model.Plugin,org.apache.maven.model.Plugin,boolean,java.util.Map)@g_maven-model-builder-3.0.4.jar.txt	2

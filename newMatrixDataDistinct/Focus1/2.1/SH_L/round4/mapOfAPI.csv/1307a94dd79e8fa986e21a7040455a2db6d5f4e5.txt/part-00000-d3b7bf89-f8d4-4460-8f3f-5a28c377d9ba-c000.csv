@@ -1,0 +1,3 @@
+0	java/sql/Connection/close()
+1	com/yahoo/ycsb/db/HBaseClient10/HBaseClient10()
+2	java/lang/String/charAt(int)

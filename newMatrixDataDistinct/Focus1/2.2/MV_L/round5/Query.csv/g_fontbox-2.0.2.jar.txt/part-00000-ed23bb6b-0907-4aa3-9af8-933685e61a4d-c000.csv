@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/fontbox/ttf/GlyphRenderer$Point/access$200(org.apache.fontbox.ttf.GlyphRenderer$Point)
+org/apache/fontbox/ttf/GlyphRenderer$Point/access$300(org.apache.fontbox.ttf.GlyphRenderer$Point)
+org/apache/commons/logging/Log/isDebugEnabled()

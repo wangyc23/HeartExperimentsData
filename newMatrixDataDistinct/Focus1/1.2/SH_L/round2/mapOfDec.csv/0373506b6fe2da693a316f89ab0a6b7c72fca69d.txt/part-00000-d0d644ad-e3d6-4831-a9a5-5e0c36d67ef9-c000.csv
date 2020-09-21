@@ -1,0 +1,5 @@
+demo/callback/server/Server/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+demo/jaxrs/service/CustomerServiceSecuredImpl/updateCustomer(java.lang.Long,demo.jaxrs.service.Customer)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+demo/stream/server/GreeterImpl/pingMe()@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+demo/jaxrs/search/client/Client/list(java.lang.String,demo.jaxrs.search.client.HttpClient)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+demo/spring/client/Client/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4

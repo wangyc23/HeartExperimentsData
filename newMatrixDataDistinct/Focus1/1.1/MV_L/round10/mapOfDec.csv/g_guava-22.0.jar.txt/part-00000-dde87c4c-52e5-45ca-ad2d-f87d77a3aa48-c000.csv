@@ -1,0 +1,5 @@
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_guava-21.0.jar.txt	2
+com/google/common/collect/AbstractBiMap/replaceAll(java.util.function.BiFunction)@g_guava-21.0.jar.txt	4
+com/google/common/io/Files/createTempDir()@g_guava-20.0.jar.txt	1
+com/google/common/collect/Streams/mapWithIndex(java.util.stream.DoubleStream,com.google.common.collect.Streams$DoubleFunctionWithIndex)@g_guava-21.0.jar.txt	3
+com/google/common/io/Files/createTempDir()@g_guava-21.0.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/Class/getResource(java.lang.String)
+com/trigram/dao/TrigramDao/TrigramDao(java.lang.String)
+java/net/URL/getPath()
+com/trigram/dao/TrigramDao/hasData()

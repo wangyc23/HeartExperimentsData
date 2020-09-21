@@ -1,0 +1,5 @@
+com/netflix/governator/guice/ModuleListBuilder/ModuleProvider/getIncludeList()@g_governator-1.10.4.jar.txt	4
+com/netflix/governator/lifecycle/LifecycleMethods/addLifeCycleMethods(java.lang.Class,com.google.common.collect.Multimap)@g_governator-1.10.4.jar.txt	0
+net/sf/ehcache/distribution/PayloadUtil/gzip(byte[])@g_governator-1.10.4.jar.txt	3
+net/sf/ehcache/distribution/RMIAsynchronousCacheReplicator/replicationThreadMain()@g_governator-1.10.4.jar.txt	1
+com/netflix/governator/lifecycle/GovernatorFileArchive/toFile(java.net.URL)@g_governator-1.10.4.jar.txt	2

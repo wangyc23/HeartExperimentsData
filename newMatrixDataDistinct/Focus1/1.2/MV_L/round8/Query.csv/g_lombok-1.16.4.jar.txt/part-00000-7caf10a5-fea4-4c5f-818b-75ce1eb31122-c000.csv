@@ -1,0 +1,4 @@
+java/util/jar/JarFile/entries()
+java/util/jar/JarFile/close()
+java/util/jar/JarFile/JarFile(java.lang.String)
+java/util/List/isEmpty()

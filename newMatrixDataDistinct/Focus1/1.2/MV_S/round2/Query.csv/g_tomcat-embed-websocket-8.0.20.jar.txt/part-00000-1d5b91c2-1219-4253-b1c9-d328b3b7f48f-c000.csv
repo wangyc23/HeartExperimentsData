@@ -1,0 +1,4 @@
+org/apache/tomcat/util/res/StringManager/getString(java.lang.String)
+org/apache/tomcat/websocket/TransformationResult/equals(java.lang.Object)
+java/nio/charset/CoderResult/isOverflow()
+java/nio/ByteBuffer/compact()

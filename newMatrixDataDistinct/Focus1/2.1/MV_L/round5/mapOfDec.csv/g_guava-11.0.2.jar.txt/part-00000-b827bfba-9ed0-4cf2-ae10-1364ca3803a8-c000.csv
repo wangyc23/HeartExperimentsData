@@ -1,0 +1,5 @@
+com/google/common/cache/LocalCache/Segment/expand()@g_guava-12.0.jar.txt	4
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-14.0.1.jar.txt	1
+com/google/common/net/HostAndPort/fromString(java.lang.String)@g_guava-12.0.jar.txt	3
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-12.0.jar.txt	0
+com/google/common/cache/LocalCache/Segment/removeLoadingValue(java.lang.Object,int,com.google.common.cache.LocalCache$LoadingValueReference)@g_guava-12.0.jar.txt	2

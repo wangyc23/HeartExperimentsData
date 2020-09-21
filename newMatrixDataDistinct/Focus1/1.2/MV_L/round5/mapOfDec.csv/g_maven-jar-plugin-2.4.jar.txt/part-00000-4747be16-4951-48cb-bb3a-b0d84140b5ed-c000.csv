@@ -1,0 +1,5 @@
+org/springframework/boot/maven/RepackageMojo/execute()@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	2
+org/springframework/boot/maven/AbstractRunMojo/addClasspath(java.util.List)@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	3
+org/apache/maven/plugin/jar/JarSignMojo/execute()@g_maven-jar-plugin-2.2.jar.txt	0
+org/springframework/boot/maven/StartMojo/waitForForkedSpringApplication()@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	4
+org/springframework/boot/maven/StartMojo/waitForSpringApplication(long,int)@g_spring-boot-maven-plugin-1.3.0.BUILD-20151114.062217-808.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/Number/doubleValue()
+java/lang/String/length()
+java/lang/Double/Double(double)
+java/text/ParsePosition/ParsePosition(int)

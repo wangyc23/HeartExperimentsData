@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_3/ast/convert/plannerQuery/ClauseConverters/anonfun/addMatchToLogicalPlanInput/1/apply(org.neo4j.cypher.internal.ir.v3_3.QueryGraph)@g_neo4j-cypher-compiler-3.3-3.3.0.jar.txt	1
+org/neo4j/cypher/internal/ir/v3_2/QueryGraph/withMergeMatch(org.neo4j.cypher.internal.ir.v3_2.QueryGraph)@g_neo4j-cypher-ir-3.2-3.2.5.jar.txt	3
+org/neo4j/cypher/internal/compiler/v3_3/planner/logical/idp/IDPSolver/anonfun/findBestCandidateInBlock/1/1/apply()@g_neo4j-cypher-ir-3.2-3.2.5.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_3/ast/convert/plannerQuery/ClauseConverters/anonfun/addMatchToLogicalPlanInput/2/apply(org.neo4j.cypher.internal.ir.v3_3.QueryGraph)@g_neo4j-cypher-compiler-3.3-3.3.0.jar.txt	0
+org/neo4j/cypher/internal/compiler/v3_3/ast/convert/plannerQuery/PlannerQueryBuilder/org$neo4j$cypher$internal$compiler$v3_3$ast$convert$plannerQuery$PlannerQueryBuilder$$fixArgumentIdsOnOptionalMatch$1(org.neo4j.cypher.internal.ir.v3_3.PlannerQuery)@g_neo4j-cypher-ir-3.2-3.2.5.jar.txt	2

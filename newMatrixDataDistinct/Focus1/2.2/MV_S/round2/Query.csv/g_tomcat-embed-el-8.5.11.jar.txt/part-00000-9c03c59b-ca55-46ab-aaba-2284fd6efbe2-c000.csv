@@ -1,0 +1,4 @@
+java/lang/Class/getComponentType()
+org/apache/el/parser/AstFunction/jjtGetNumChildren()
+java/lang/reflect/InvocationTargetException/getCause()
+java/lang/reflect/Method/getParameterTypes()

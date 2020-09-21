@@ -1,0 +1,4 @@
+org/apache/sis/internal/storage/ChannelDataInput/clearBitOffset()
+java/nio/Buffer/limit(int)
+java/nio/ByteBuffer/clear()
+java/nio/channels/ReadableByteChannel/read(java.nio.ByteBuffer)

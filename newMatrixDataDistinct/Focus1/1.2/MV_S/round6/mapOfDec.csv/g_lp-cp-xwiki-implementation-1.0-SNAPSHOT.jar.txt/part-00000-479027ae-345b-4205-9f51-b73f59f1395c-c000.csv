@@ -1,0 +1,5 @@
+eu/learnpad/rest/utils/internal/DefaultCWRestUtils/putXWikiPackage(java.lang.String)@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	1
+eu/learnpad/rest/utils/internal/DefaultRestUtils/putAttachment(java.lang.String,java.lang.String,java.lang.String,byte[])@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	2
+eu/learnpad/rest/utils/internal/DefaultRestUtils/putPage(java.lang.String,java.lang.String,java.io.InputStream)@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	0
+eu/learnpad/core/impl/or/XwikiBridgeInterfaceRestResource/analyseText(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	3
+org/openrdf/http/client/HTTPClient/getBackgroundTupleQueryResult(org.apache.commons.httpclient.HttpMethod)@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	4

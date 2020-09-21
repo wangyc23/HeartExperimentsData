@@ -1,0 +1,7 @@
+0	org/slf4j/Logger/warn(java.lang.String)
+1	com/google/gson/JsonObject/get(java.lang.String)
+2	java/lang/StringBuilder/toString()
+3	java/lang/StringBuilder/append(java.lang.String)
+4	java/lang/StringBuilder/StringBuilder()
+5	com/google/gson/JsonElement/getAsString()
+6	java/util/Map/get(java.lang.Object)

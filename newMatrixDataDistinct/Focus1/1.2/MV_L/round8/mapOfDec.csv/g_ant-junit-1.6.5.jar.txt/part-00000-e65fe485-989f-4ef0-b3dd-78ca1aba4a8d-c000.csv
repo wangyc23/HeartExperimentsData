@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorUpdater/update(java.net.URL,java.io.InputStream,java.io.OutputStream,org.apache.ivy.plugins.parser.xml.UpdateOptions)@g_ivy-2.3.0.jar.txt	1
+org/apache/tools/ant/util/FileUtils/copyFile(java.io.File,java.io.File,org.apache.tools.ant.types.FilterSetCollection,java.util.Vector,boolean,boolean,java.lang.String,java.lang.String,org.apache.tools.ant.Project)@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/taskdefs/Replace/processFile(java.io.File)@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/compilers/Javac12/execute()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Concat/cat()@g_ant-1.6.5.jar.txt	0

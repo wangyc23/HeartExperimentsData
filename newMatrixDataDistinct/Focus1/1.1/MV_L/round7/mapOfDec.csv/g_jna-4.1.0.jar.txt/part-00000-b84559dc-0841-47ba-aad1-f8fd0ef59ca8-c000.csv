@@ -1,0 +1,5 @@
+com/sun/jna/Native/loadNativeDispatchLibrary()@g_jna-4.2.2.jar.txt	2
+com/sun/jna/Native/getTempDir()@g_jna-4.2.2.jar.txt	4
+com/sun/jna/Native/extractFromResourcePath(java.lang.String,java.lang.ClassLoader)@g_jna-4.2.2.jar.txt	1
+com/sun/jna/Native/removeTemporaryFiles()@g_jna-4.2.2.jar.txt	3
+com/sun/jna/NativeLibrary/matchFramework(java.lang.String)@g_jna-4.2.2.jar.txt	0

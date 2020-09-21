@@ -1,0 +1,5 @@
+org/postgresql/jdbc2/AbstractJdbc2Connection/oidsToString(java.util.Set)@g_ws4j-0.1.0.jar.txt	2
+org/postgresql/jdbc2/AbstractJdbc2Statement/executeWithFlags(int)@g_postgresql-9.3-1102-jdbc41.jar.txt	1
+edu/cmu/lti/ws4j/impl/LeacockChodorow/calcRelatedness(edu.cmu.lti.lexical_db.data.Concept,edu.cmu.lti.lexical_db.data.Concept)@g_ws4j-0.1.0.jar.txt	3
+org/postgresql/jdbc2/AbstractJdbc2ResultSet/refreshRow()@g_postgresql-9.3-1102-jdbc41.jar.txt	0
+org/postgresql/core/types/PGDouble/castToServerType(java.lang.Double,int)@g_ws4j-0.1.0.jar.txt	4

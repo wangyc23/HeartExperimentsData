@@ -1,0 +1,5 @@
+net/didion/jwnl/utilities/DictionaryToDatabaseWithUsageCount/createTables(java.lang.String)@g_jwnl-1.4_rc3.jar.txt	0
+net/didion/jwnl/dictionary/morph/Util/split(java.lang.String)@g_jwnl-1.4_rc3.jar.txt	2
+net/didion/jwnl/JWNL/insertParams(java.lang.String,java.lang.Object[])@g_jwnl-1.4_rc3.jar.txt	1
+net/didion/jwnl/utilities/DictionaryToDatabase/createTables(java.lang.String)@g_jwnl-1.4_rc3.jar.txt	3
+org/h2/expression/Function/getValueWithArgs(org.h2.engine.Session,org.h2.expression.Expression[])@g_h2-1.4.178.jar.txt	4

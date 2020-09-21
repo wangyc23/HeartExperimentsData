@@ -1,0 +1,5 @@
+org/jdom2/xpath/XPath/newInstance(java.lang.String)@g_jdom2-2.0.4.jar.txt	3
+org/jdom2/internal/ArrayCopy/copyOfRange(java.lang.Object[],int,int)@g_jdom2-2.0.5.jar.txt	4
+org/jdom2/xpath/XPath/setXPathClass(java.lang.Class)@g_jdom2-2.0.5.jar.txt	0
+org/jdom2/xpath/XPath/setXPathClass(java.lang.Class)@g_jdom2-2.0.4.jar.txt	2
+org/jdom2/xpath/XPath/newInstance(java.lang.String)@g_jdom2-2.0.5.jar.txt	1

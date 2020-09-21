@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/nndep/DependencyParser/genDictionaries(java.util.List,java.util.List)@g_stanford-corenlp-3.5.0.jar.txt	3
+edu/stanford/nlp/ie/AbstractSequenceClassifier/classifyAndWriteAnswers(java.util.Collection,java.io.PrintWriter,edu.stanford.nlp.sequences.DocumentReaderAndWriter,boolean)@g_stanford-corenlp-3.5.0.jar.txt	2
+edu/stanford/nlp/patterns/surface/ScorePatternsRatioModifiedFreq/score()@g_stanford-corenlp-3.5.0.jar.txt	0
+edu/stanford/nlp/ie/machinereading/domains/ace/reader/AceDocument/toXml(int)@g_stanford-corenlp-3.5.0.jar.txt	1
+edu/stanford/nlp/trees/CoordinationTransformer/main(java.lang.String[])@g_stanford-corenlp-3.5.0.jar.txt	4

@@ -1,0 +1,5 @@
+net/sourceforge/jeuclid/converter/Processor/safeReplaceChild(org.w3c.dom.Node,org.w3c.dom.Node,org.w3c.dom.Node)@g_jeuclid-core-3.1.5.jar.txt	4
+net/sourceforge/jeuclid/parser/Parser/parse(javax.xml.transform.Source)@g_jeuclid-core-3.1.5.jar.txt	3
+net/sourceforge/jeuclid/converter/Processor/process(javax.xml.transform.Source,javax.xml.transform.Result,net.sourceforge.jeuclid.LayoutContext)@g_jeuclid-core-3.1.5.jar.txt	2
+net/sourceforge/jeuclid/font/DefaultFontFactory/autoloadFontsFromClasspath()@g_jeuclid-core-3.1.5.jar.txt	1
+net/sourceforge/jeuclid/MathMLSerializer/serializeDocument(org.w3c.dom.Node,boolean,boolean)@g_jeuclid-core-3.1.5.jar.txt	0

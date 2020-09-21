@@ -1,0 +1,5 @@
+org/apache/jena/tdb/base/file/BlockAccessByteArray/write(org.apache.jena.tdb.base.block.Block)@g_jena-tdb-3.4.0.jar.txt	2
+org/apache/jena/tdb/solver/BindingNodeId/putAll(org.apache.jena.tdb.solver.BindingNodeId)@g_jena-tdb-3.4.0.jar.txt	4
+org/apache/jena/tdb/setup/StoreParamsCodec/getInt(org.apache.jena.atlas.json.JsonObject,java.lang.String)@g_jena-tdb-3.4.0.jar.txt	3
+org/apache/jena/tdb/base/file/LocationLock/takeLock(int)@g_jena-tdb-3.4.0.jar.txt	1
+org/apache/jena/tdb/lib/NodeLib/setHash(org.apache.jena.tdb.store.Hash,org.apache.jena.graph.Node)@g_jena-tdb-3.4.0.jar.txt	0

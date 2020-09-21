@@ -1,0 +1,4 @@
+org/deeplearning4j/clustering/cluster/info/ClusterSetInfo/getPointsCount()
+org/deeplearning4j/clustering/algorithm/iteration/IterationHistory/getMostRecentClusterSetInfo()
+org/deeplearning4j/clustering/cluster/info/ClusterSetInfo/getPointLocationChange()
+java/util/concurrent/atomic/AtomicInteger/get()

@@ -1,0 +1,4 @@
+0	org/openrdf/query/algebra/ValueExpr/visit(org.openrdf.query.algebra.QueryModelVisitor)
+1	org/openrdf/query/algebra/LeftJoin/getLeftArg()
+2	org/openrdf/query/algebra/LeftJoin/getCondition()
+3	org/openrdf/query/algebra/evaluation/impl/QueryModelNormalizer$BindingCollector/BindingCollector(org.openrdf.query.algebra.evaluation.impl.QueryModelNormalizer$1)

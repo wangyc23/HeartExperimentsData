@@ -1,0 +1,5 @@
+com/iluwatar/dao/DbCustomerDaoTest/ConnectionSuccess/ExistingCustomer/updationShouldBeSuccessAndAccessingTheSameCustomerShouldReturnUpdatedInformation()@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	4
+com/epimorphics/util/NameUtils/safeVarName(java.lang.String)@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	0
+com/epimorphics/converters/CSVDataSource/normalizeHeader(java.lang.String)@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	1
+com/epimorphics/rdfutil/RDFNodeWrapper/tokeniseWords(java.lang.String)@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	2
+com/epimorphics/rdfutil/RDFNodeWrapper/toString()@293ab4c35a0d1020f0f1e92ace3454ed959078ed.txt	3

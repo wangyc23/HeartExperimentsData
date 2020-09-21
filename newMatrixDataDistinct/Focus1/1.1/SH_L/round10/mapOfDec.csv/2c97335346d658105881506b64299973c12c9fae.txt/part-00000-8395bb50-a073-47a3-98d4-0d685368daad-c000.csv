@@ -1,0 +1,5 @@
+org/drools/simulation/fluent/simulation/impl/DefaultSimulationFluent/runSimulation()@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	0
+org/kie/remote/services/rest/RestStartProcessEveryStrategyTest/setupTestMocks()@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	2
+org/kie/services/client/api/command/RemoteCommandObjectTest/compareKieClassInstanceToGenClassInstance(java.lang.Class,java.lang.Class)@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	3
+org/jbpm/simulation/impl/events/GenericSimulationEvent/addCustomMetric(java.lang.String,java.lang.Object)@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	4
+org/drools/osgi/compiler/OsgiKieModule/getFileNames()@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	1

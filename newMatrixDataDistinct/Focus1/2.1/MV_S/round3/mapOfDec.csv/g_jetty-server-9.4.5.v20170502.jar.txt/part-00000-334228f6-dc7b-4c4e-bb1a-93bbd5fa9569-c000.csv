@@ -1,0 +1,5 @@
+org/eclipse/jetty/jmx/ObjectMBean/mbeanFor(java.lang.Object)@g_jetty-jmx-9.2.13.v20150730.jar.txt	2
+org/eclipse/jetty/websocket/common/extensions/identity/IdentityExtension/setConfig(org.eclipse.jetty.websocket.api.extensions.ExtensionConfig)@g_jetty-jmx-9.2.13.v20150730.jar.txt	1
+org/eclipse/jetty/server/HttpOutput/AsyncWrite/process()@g_jetty-jmx-9.2.13.v20150730.jar.txt	4
+org/eclipse/jetty/server/handler/ThreadLimitHandler/getForwarded(org.eclipse.jetty.server.Request)@g_jetty-jmx-9.2.13.v20150730.jar.txt	3
+org/eclipse/jetty/websocket/common/io/IOState/toString()@g_jetty-jmx-9.2.13.v20150730.jar.txt	0

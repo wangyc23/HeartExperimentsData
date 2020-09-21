@@ -1,0 +1,4 @@
+org/apache/poi/hdf/model/hdftypes/SepxNode/getStart()
+org/apache/poi/hdf/model/hdftypes/PapxNode/getStart()
+org/apache/poi/hdf/model/hdftypes/ChpxNode/getEnd()
+java/lang/Math/max(int,int)

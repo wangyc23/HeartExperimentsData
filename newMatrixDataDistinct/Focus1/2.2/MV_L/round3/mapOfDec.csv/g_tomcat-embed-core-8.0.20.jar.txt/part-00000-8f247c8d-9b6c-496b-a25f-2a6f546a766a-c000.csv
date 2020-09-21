@@ -1,0 +1,5 @@
+org/apache/catalina/servlets/DefaultServlet/serveResource(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,boolean,java.lang.String)@g_tomcat-embed-core-8.0.23.jar.txt	4
+org/apache/catalina/loader/WebappClassLoaderBase/clearReferencesStaticFinal()@g_tomcat-embed-core-8.0.23.jar.txt	0
+org/apache/tomcat/util/descriptor/web/WebXml/toXml()@g_tomcat-embed-core-8.0.23.jar.txt	1
+org/apache/catalina/mbeans/MBeanUtils/destroyMBeanUserDatabase(java.lang.String)@g_tomcat-embed-core-8.0.23.jar.txt	3
+org/apache/catalina/core/NamingContextListener/addResource(org.apache.tomcat.util.descriptor.web.ContextResource)@g_tomcat-embed-core-8.0.23.jar.txt	2

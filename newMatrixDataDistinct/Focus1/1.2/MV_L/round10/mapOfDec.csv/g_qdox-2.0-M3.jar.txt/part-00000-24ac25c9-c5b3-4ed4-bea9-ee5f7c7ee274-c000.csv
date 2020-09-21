@@ -1,0 +1,5 @@
+org/apache/commons/cli/PosixParser/flatten(org.apache.commons.cli.Options,java.lang.String[],boolean)@g_commons-cli-1.3.jar.txt	1
+com/thoughtworks/qdox/model/impl/DefaultJavaType/resolve(com.thoughtworks.qdox.model.JavaType,com.thoughtworks.qdox.model.JavaClass,com.thoughtworks.qdox.model.JavaClass)@g_qdox-2.0-M5.jar.txt	0
+com/thoughtworks/qdox/builder/impl/ModelBuilder/endField()@g_qdox-2.0-M5.jar.txt	4
+com/thoughtworks/qdox/builder/impl/ModelBuilder/endMethod(com.thoughtworks.qdox.parser.structs.MethodDef)@g_qdox-2.0-M5.jar.txt	2
+com/thoughtworks/qdox/builder/impl/ModelBuilder/setAnnotations(com.thoughtworks.qdox.model.impl.AbstractBaseJavaEntity)@g_qdox-2.0-M5.jar.txt	3

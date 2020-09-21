@@ -1,0 +1,5 @@
+org/neo4j/csv/reader/Readables/FromFile/getSingleSuitableEntry(java.util.zip.ZipFile)@g_neo4j-csv-3.1.0-M01.jar.txt	0
+org/neo4j/csv/reader/BufferedCharSeeker/fillBufferIfWeHaveExhaustedIt()@g_neo4j-csv-3.1.0-M01.jar.txt	3
+org/neo4j/csv/reader/Readables/FromFile/apply(java.io.File)@g_neo4j-csv-3.1.0-M01.jar.txt	2
+org/neo4j/csv/reader/Readables/FromFile/getSingleSuitableEntry(java.util.zip.ZipFile)@g_neo4j-csv-2.3.0-M01.jar.txt	4
+org/neo4j/csv/reader/ProcessingSource/nextChunk()@g_neo4j-csv-3.1.0-M01.jar.txt	1

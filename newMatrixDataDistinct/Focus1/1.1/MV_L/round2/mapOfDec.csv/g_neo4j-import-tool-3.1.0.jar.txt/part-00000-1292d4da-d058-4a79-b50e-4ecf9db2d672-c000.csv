@@ -1,0 +1,5 @@
+optimization/Uncmin_f77/heschk_f77(int,double[],optimization.Uncmin_methods,double[],double[],double[][],double[],double[],double,double,int[],double[],double[],double[])@g_neo4j-import-tool-3.3.0.jar.txt	1
+org/neo4j/tooling/ImportTool/printOverview(java.io.File,java.util.Collection,java.util.Collection,org.neo4j.unsafe.impl.batchimport.Configuration,java.io.PrintStream)@g_neo4j-import-tool-3.3.0.jar.txt	2
+org/neo4j/tooling/ImportTool/printUsage(java.io.PrintStream)@g_neo4j-import-tool-3.3.0.jar.txt	0
+org/neo4j/tooling/CharacterConverter/apply(java.lang.String)@g_neo4j-import-tool-3.3.0.jar.txt	3
+org/neo4j/tooling/ImportTool/csvConfiguration(org.neo4j.helpers.Args,boolean)@g_neo4j-import-tool-3.3.0.jar.txt	4

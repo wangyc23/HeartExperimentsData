@@ -1,0 +1,5 @@
+org/junit/experimental/max/MaxCore/findLeaves(org.junit.runner.Description,org.junit.runner.Description,java.util.List)@g_junit-4.7.jar.txt	2
+org/junit/internal/TextListener/printFailures(org.junit.runner.Result)@g_junit-4.7.jar.txt	3
+org/junit/runners/Parameterized/getParametersMethod(org.junit.runners.model.TestClass)@g_junit-4.7.jar.txt	0
+org/junit/runner/JUnitCore/runMain(org.junit.internal.JUnitSystem,java.lang.String[])@g_junit-4.7.jar.txt	4
+org/junit/internal/runners/MethodValidator/validateTestMethods(java.lang.Class,boolean)@g_junit-4.7.jar.txt	1

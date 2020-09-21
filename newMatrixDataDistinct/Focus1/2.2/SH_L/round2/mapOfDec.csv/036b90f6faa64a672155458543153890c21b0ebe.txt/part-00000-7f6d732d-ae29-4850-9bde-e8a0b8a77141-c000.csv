@@ -1,0 +1,5 @@
+org/springframework/boot/builder/SpringApplicationBuilderTests/parentContextCreation()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	4
+org/springframework/boot/builder/SpringApplicationBuilderTests/parentContextCreation()@2c17b13d95c25bd991e0e16ec1ce045b1df13923.txt	1
+org/springframework/boot/builder/SpringApplicationBuilderTests/parentFirstCreation()@1f8806e8cf43f9366bb86950bb7eeec532d57e47.txt	3
+org/springframework/boot/builder/SpringApplicationBuilderTests/parentFirstCreation()@2c17b13d95c25bd991e0e16ec1ce045b1df13923.txt	0
+org/springframework/boot/builder/SpringApplicationBuilderTests/parentContextCreationWithChildShutdown()@2c17b13d95c25bd991e0e16ec1ce045b1df13923.txt	2

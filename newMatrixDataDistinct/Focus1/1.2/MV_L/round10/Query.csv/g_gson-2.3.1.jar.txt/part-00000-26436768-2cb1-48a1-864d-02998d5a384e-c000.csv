@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+java/lang/reflect/GenericArrayType/getGenericComponentType()
+java/lang/reflect/ParameterizedType/getRawType()
+com/google/gson/internal/$Gson$Types/arrayOf(java.lang.reflect.Type)

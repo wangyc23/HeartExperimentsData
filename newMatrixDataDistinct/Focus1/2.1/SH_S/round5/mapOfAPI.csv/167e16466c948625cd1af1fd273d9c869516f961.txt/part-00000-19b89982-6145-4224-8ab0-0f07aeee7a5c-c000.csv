@@ -1,0 +1,5 @@
+0	org/slf4j/Logger/error(java.lang.String,java.lang.Object,java.lang.Object)
+1	mark/conover/crypto/util/SecureClientUtil/safeClose(java.io.InputStream)
+2	org/apache/commons/io/IOUtils/toByteArray(java.io.InputStream)
+3	org/isisaddons/wicket/svg/fixture/scripts/todo/SvgWicketToDoItemsFixture/SvgWicketToDoItemsFixture()
+4	java/lang/Class/getResourceAsStream(java.lang.String)

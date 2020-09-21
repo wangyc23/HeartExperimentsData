@@ -1,0 +1,4 @@
+org/apache/commons/beanutils/DynaProperty/getType()
+java/lang/Class/getComponentType()
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/Object/getClass()

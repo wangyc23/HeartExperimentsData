@@ -1,0 +1,5 @@
+org/apache/hadoop/mapred/MultiFileSplit/toString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0
+org/apache/hadoop/mapreduce/JobStatus/toString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapreduce/lib/join/CompositeInputFormat/compose(java.lang.String,java.lang.Class,java.lang.String[])@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/mapreduce/lib/input/CombineFileSplit/toString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapreduce/task/reduce/Fetcher/getMapOutputURL(org.apache.hadoop.mapreduce.task.reduce.MapHost,java.util.Collection)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3

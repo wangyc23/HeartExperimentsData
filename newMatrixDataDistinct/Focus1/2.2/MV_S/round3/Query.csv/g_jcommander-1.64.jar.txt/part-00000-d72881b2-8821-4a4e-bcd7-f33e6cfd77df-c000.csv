@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/util/ArrayList/ArrayList()
+java/lang/Class/getSimpleName()
+java/lang/StringBuilder/append(java.lang.String)

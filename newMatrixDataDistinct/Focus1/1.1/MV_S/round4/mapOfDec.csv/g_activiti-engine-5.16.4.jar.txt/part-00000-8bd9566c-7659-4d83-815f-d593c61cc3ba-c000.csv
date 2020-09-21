@@ -1,0 +1,5 @@
+javax/el/FactoryFinder/newInstance(java.lang.String,java.lang.ClassLoader,java.util.Properties)@g_javax.el-api-2.2.4.jar.txt	0
+javax/el/ResourceBundleELResolver/getFeatureDescriptors(javax.el.ELContext,java.lang.Object)@g_javax.el-api-2.2.4.jar.txt	4
+org/activiti/engine/impl/calendar/CronExpression/buildExpression(java.lang.String)@g_javax.el-api-2.2.4.jar.txt	3
+org/activiti/engine/impl/bpmn/parser/handler/AbstractActivityBpmnParseHandler/createMultiInstanceLoopCharacteristics(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.Activity)@g_javax.el-api-2.2.4.jar.txt	1
+org/activiti/engine/impl/bpmn/diagram/ProcessDiagramLayoutFactory/getDiagramBoundsFromImage(java.awt.image.BufferedImage,int,int)@g_javax.el-api-2.2.4.jar.txt	2

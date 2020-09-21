@@ -1,0 +1,5 @@
+adressexecutor/AdressAPI/main(java.lang.String[])@1e53477fec378843176330243c4bbbdb217a4b3e.txt	0
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@1e53477fec378843176330243c4bbbdb217a4b3e.txt	1
+com/gs/cluster/ConsoleFormatter/displayAttributes(java.util.Map)@1e53477fec378843176330243c4bbbdb217a4b3e.txt	2
+com/gs/extractor/impl/DefaultContentExtractor/extractFromHtml(java.lang.String)@1e53477fec378843176330243c4bbbdb217a4b3e.txt	4
+com/gs/extractor/TestWangYi/test()@1e53477fec378843176330243c4bbbdb217a4b3e.txt	3

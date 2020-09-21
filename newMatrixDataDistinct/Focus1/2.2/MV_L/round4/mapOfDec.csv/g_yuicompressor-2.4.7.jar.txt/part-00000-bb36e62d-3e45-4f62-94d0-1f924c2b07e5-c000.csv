@@ -1,0 +1,5 @@
+org/mozilla/javascript/JavaMembers/reflect(org.mozilla.javascript.Scriptable,boolean)@g_js-1.6R7.jar.txt	4
+org/mozilla/javascript/xmlimpl/XmlProcessor/beautifyElement(org.w3c.dom.Element,int)@g_js-1.6R7.jar.txt	0
+org/mozilla/javascript/tools/debugger/SwingGui/removeWindow(org.mozilla.javascript.tools.debugger.FileWindow)@g_js-1.6R7.jar.txt	3
+org/mozilla/javascript/DToA/JS_dtobasestr(int,double)@g_js-1.6R7.jar.txt	1
+org/mozilla/javascript/NativeJavaMethod/call(org.mozilla.javascript.Context,org.mozilla.javascript.Scriptable,org.mozilla.javascript.Scriptable,java.lang.Object[])@g_js-1.6R7.jar.txt	2

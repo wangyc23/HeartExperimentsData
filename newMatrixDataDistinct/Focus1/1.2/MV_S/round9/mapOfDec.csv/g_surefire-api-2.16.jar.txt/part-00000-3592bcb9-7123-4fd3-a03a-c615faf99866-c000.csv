@@ -1,0 +1,5 @@
+org/apache/maven/shared/utils/StringUtils/unifyLineSeparators(java.lang.String,java.lang.String)@g_maven-shared-utils-0.7.jar.txt	3
+org/apache/maven/shared/dependency/analyzer/ClassFileVisitorUtils/accept(java.net.URL,org.apache.maven.shared.dependency.analyzer.ClassFileVisitor)@g_maven-dependency-analyzer-1.4.jar.txt	0
+org/apache/maven/shared/utils/reflection/Reflector/getConstructor(java.lang.Class,java.lang.Class[])@g_maven-shared-utils-0.7.jar.txt	1
+org/apache/maven/shared/utils/reflection/Reflector/_getMethod(java.lang.Class,java.lang.String,java.lang.Class[])@g_maven-shared-utils-0.7.jar.txt	4
+org/apache/maven/shared/utils/StringUtils/swapCase(java.lang.String)@g_maven-shared-utils-0.7.jar.txt	2

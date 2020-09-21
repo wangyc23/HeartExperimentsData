@@ -1,0 +1,5 @@
+org/jboss/errai/bus/client/util/BusToolsCli/decodePayloadMap(org.jboss.errai.marshalling.client.api.json.EJValue)@19c981566dfe95963771925dfee9f2ae013dc038.txt	1
+org/jboss/errai/marshalling/client/Marshalling/toJSON(java.lang.Object)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	4
+org/jboss/errai/bus/client/util/BusToolsCli/decodePayloadMap(org.jboss.errai.marshalling.client.api.json.EJValue)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	0
+org/jboss/errai/marshalling/client/protocols/ErraiProtocol/encodePayload(java.util.Map)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	2
+org/jboss/errai/marshalling/client/Marshalling/toJSON(java.util.Map)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	3

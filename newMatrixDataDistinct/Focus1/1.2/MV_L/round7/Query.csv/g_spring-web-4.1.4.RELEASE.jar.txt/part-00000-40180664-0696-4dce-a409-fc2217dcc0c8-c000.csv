@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/io/IOException/IOException(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)

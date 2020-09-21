@@ -1,0 +1,4 @@
+java/lang/RuntimeException/printStackTrace()
+org/eclipse/core/internal/events/AutoBuildJob/setSystem(boolean)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)

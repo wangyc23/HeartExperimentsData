@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/util/Validators/lambda$static$1(java.io.File)@g_neo4j-kernel-3.1.0.jar.txt	3
+org/neo4j/kernel/impl/util/dbstructure/DbStructureTool/main(java.lang.String[])@g_neo4j-kernel-3.1.0.jar.txt	2
+org/neo4j/kernel/impl/store/format/RecordFormatSelector/selectForStore(java.io.File,org.neo4j.io.fs.FileSystemAbstraction,org.neo4j.io.pagecache.PageCache,org.neo4j.logging.LogProvider)@g_neo4j-kernel-3.1.0.jar.txt	0
+org/neo4j/kernel/internal/StoreLocker/checkLock(java.io.File)@g_neo4j-kernel-3.1.0.jar.txt	1
+org/neo4j/kernel/impl/index/IndexConfigStore/write()@g_neo4j-kernel-3.1.0.jar.txt	4

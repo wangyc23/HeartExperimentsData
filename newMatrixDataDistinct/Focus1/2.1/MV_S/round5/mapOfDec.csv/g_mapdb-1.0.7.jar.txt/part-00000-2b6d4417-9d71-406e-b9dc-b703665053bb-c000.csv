@@ -1,0 +1,5 @@
+org/apache/log4j/PropertyConfigurator/parseAppender(java.util.Properties,java.lang.String)@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/store/kahadaptor/KahaReferenceStoreAdapter/getReferenceFileIdsInUse()@g_activemq-all-5.7.0.jar.txt	1
+org/apache/activemq/tool/AcidTestTool/testAcidTransactions()@g_activemq-all-5.7.0.jar.txt	2
+org/apache/activemq/store/amq/AMQPersistenceAdapter/stop()@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/openwire/tool/JavaMarshallingGenerator/generateLooseMarshalBody(java.io.PrintWriter)@g_activemq-all-5.7.0.jar.txt	3

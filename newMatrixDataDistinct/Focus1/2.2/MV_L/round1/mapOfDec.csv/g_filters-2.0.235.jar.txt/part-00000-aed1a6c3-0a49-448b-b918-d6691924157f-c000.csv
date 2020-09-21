@@ -1,0 +1,5 @@
+com/octo/captcha/component/image/textpaster/textdecorator/LineTextDecorator/decorateAttributedString(java.awt.Graphics2D,com.octo.captcha.component.image.textpaster.MutableAttributedString)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	0
+org/apache/pdfbox/pdmodel/font/FileSystemFontProvider/addType1Font(java.io.File)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	3
+org/apache/pdfbox/text/PDFTextStripper/processTextPosition(org.apache.pdfbox.text.TextPosition)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	4
+org/apache/pdfbox/pdmodel/font/TrueTypeEmbedder/subset()@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	1
+org/apache/pdfbox/pdmodel/interactive/form/AppearanceGeneratorHelper/insertGeneratedSelectionHighlight(org.apache.pdfbox.pdmodel.PDPageContentStream,org.apache.pdfbox.pdmodel.interactive.annotation.PDAppearanceStream,org.apache.pdfbox.pdmodel.font.PDFont,float)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	2

@@ -1,0 +1,4 @@
+javax/swing/InputMap/put(javax.swing.KeyStroke,java.lang.Object)
+javax/swing/JComponent/getInputMap(int)
+javax/swing/JRootPane/JRootPane()
+javax/swing/ActionMap/put(java.lang.Object,javax.swing.Action)

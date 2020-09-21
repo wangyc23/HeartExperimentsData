@@ -1,0 +1,5 @@
+org/apache/mahout/math/map/AbstractIntObjectMap/pairsSortedByValue(org.apache.mahout.math.list.IntArrayList,java.util.List)@g_mahout-collections-0.3.jar.txt	1
+org/apache/mahout/math/map/PrimeFinder/statistics(int,int)@g_mahout-collections-0.3.jar.txt	0
+org/apache/mahout/math/map/AbstractCharObjectMap/pairsSortedByValue(org.apache.mahout.math.list.CharArrayList,java.util.List)@g_mahout-collections-0.3.jar.txt	2
+org/apache/mahout/math/map/AbstractObjectIntMap/toStringByValue()@g_mahout-collections-0.3.jar.txt	4
+org/apache/mahout/math/map/AbstractDoubleObjectMap/pairsSortedByValue(org.apache.mahout.math.list.DoubleArrayList,java.util.List)@g_mahout-collections-0.3.jar.txt	3

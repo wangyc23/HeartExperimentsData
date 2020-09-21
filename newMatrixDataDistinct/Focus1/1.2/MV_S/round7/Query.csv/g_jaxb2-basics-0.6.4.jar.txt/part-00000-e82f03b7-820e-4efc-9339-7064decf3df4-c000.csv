@@ -1,0 +1,4 @@
+com/sun/codemodel/JExpr/_this()
+com/sun/codemodel/JDefinedClass/method(int,com.sun.codemodel.JType,java.lang.String)
+com/sun/codemodel/JCodeModel/ref(java.lang.Class)
+com/sun/codemodel/JMethod/param(java.lang.Class,java.lang.String)

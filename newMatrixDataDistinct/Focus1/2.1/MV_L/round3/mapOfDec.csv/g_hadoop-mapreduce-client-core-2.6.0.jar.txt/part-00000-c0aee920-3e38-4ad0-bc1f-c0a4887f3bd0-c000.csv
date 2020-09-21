@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/lib/partition/KeyFieldHelper/parseKey(java.lang.String,java.util.StringTokenizer)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	1
+org/apache/hadoop/mapred/Queue/isHierarchySameAs(org.apache.hadoop.mapred.Queue)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	2
+org/apache/hadoop/mapred/QueueManager/dumpConfiguration(java.io.Writer,java.lang.String,org.apache.hadoop.conf.Configuration)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	0
+org/apache/hadoop/mapred/JobACLsManager/checkAccess(org.apache.hadoop.security.UserGroupInformation,org.apache.hadoop.mapreduce.JobACL,java.lang.String,org.apache.hadoop.security.authorize.AccessControlList)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	4
+org/apache/hadoop/mapreduce/lib/fieldsel/FieldSelectionMapper/setup(org.apache.hadoop.mapreduce.Mapper$Context)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	3

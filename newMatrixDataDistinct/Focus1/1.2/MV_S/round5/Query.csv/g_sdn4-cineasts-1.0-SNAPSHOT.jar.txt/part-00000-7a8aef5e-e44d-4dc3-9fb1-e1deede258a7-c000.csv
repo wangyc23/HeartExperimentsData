@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/String/split(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder(java.lang.String)

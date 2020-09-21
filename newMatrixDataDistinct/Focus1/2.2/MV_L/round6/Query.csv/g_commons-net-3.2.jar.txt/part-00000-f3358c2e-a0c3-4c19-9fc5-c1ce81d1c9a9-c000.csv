@@ -1,0 +1,4 @@
+java/net/InetAddress/getHostAddress()
+javax/net/ssl/SSLSocketFactory/createSocket(java.net.Socket,java.lang.String,int,boolean)
+org/apache/commons/net/smtp/SMTPSClient/getRemoteAddress()
+java/io/BufferedWriter/BufferedWriter(java.io.Writer)

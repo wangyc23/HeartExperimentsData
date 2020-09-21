@@ -1,0 +1,4 @@
+0	agenda/business/ContatoBusiness/deleteById(java.lang.String)
+1	agenda/rest/exceptions/CustomWebApplicationException/CustomWebApplicationException(java.lang.Throwable)
+2	agenda/dao/SessionManager/commit()
+3	agenda/dao/SessionManager/begin()

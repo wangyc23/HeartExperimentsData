@@ -1,0 +1,5 @@
+org/jets3t/service/utils/RestUtils/makeServiceCanonicalString(java.lang.String,java.lang.String,java.util.Map,java.lang.String,java.lang.String,java.util.List)@g_jets3t-0.9.0.jar.txt	3
+org/jets3t/service/utils/FileComparer/generateFileMD5Hash(java.io.File,java.lang.String,org.jets3t.service.io.BytesProgressWatcher)@g_jets3t-0.9.0.jar.txt	4
+org/jets3t/service/utils/SignatureUtils/awsV4EncodeURI(java.lang.CharSequence,boolean)@g_jets3t-0.9.0.jar.txt	2
+org/jets3t/service/impl/rest/httpclient/RestStorageService/getAccountOwnerImpl()@g_jets3t-0.9.0.jar.txt	1
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_jets3t-0.9.0.jar.txt	0

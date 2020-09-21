@@ -1,0 +1,4 @@
+io/netty/util/Signal/expect(io.netty.util.Signal)
+io/netty/channel/ChannelHandlerContext/isRemoved()
+java/lang/StringBuilder/append(java.lang.String)
+io/netty/buffer/ByteBuf/readerIndex(int)

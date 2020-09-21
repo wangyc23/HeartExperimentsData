@@ -1,0 +1,5 @@
+org/springframework/data/web/HateoasPageableHandlerMethodArgumentResolver/getPaginationTemplateVariables(org.springframework.core.MethodParameter,org.springframework.web.util.UriComponents)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	3
+org/springframework/data/web/SortHandlerMethodArgumentResolver/foldIntoExpressions(org.springframework.data.domain.Sort)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	0
+org/springframework/data/web/config/EnableSpringDataWebSupport/SpringDataWebConfigurationImportSelector/selectImports(org.springframework.core.type.AnnotationMetadata)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	2
+org/springframework/data/mapping/context/DefaultPersistentPropertyPath/toPath(java.lang.String,org.springframework.core.convert.converter.Converter)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	4
+org/springframework/data/repository/config/AnnotationRepositoryConfigurationSource/typeFiltersFor(org.springframework.core.annotation.AnnotationAttributes)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	1

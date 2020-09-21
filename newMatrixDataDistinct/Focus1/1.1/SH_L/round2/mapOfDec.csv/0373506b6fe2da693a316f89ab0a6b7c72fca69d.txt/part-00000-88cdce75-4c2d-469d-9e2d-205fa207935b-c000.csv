@@ -1,0 +1,5 @@
+org/openstack4j/openstack/compute/domain/NovaAbsoluteLimit/getImageMetaUsed()@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+demo/callback/server/Server/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+org/openstack4j/openstack/sahara/internal/SaharaImageServiceImpl/list()@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+org/openstack4j/openstack/networking/internal/PortServiceImpl/get(java.lang.String)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1

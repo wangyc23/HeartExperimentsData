@@ -1,0 +1,5 @@
+org/neo4j/ogm/unit/entityaccess/relationships/RelationshipWriterAnnotatedSetterTest/shouldFindWriterForCollection()@g_neo4j-ogm-1.1.2-tests.jar.txt	2
+org/neo4j/ogm/integration/satellite/SatelliteIntegrationTest/shouldCommitLongTransaction()@g_neo4j-ogm-1.1.2-tests.jar.txt	1
+org/neo4j/ogm/unit/entityaccess/relationships/RelationalReaderWriterTest/testUserV13()@g_neo4j-ogm-1.1.2-tests.jar.txt	3
+org/neo4j/ogm/integration/cineasts/annotated/CineastsIntegrationTest/shouldQueryForCollectionOfActorsUsingBespokeCypherQuery()@g_neo4j-ogm-1.1.2-tests.jar.txt	4
+org/neo4j/ogm/unit/mapper/EntityGraphMapperTest/testDeleteExistingReferenceFromIncomingSide()@g_neo4j-ogm-1.1.2-tests.jar.txt	0

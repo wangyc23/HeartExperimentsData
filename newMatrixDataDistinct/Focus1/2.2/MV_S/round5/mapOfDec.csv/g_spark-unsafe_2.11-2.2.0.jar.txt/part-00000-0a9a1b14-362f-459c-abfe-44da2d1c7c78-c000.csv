@@ -1,0 +1,5 @@
+io/netty/util/internal/SystemPropertyUtil/getInt(java.lang.String,int)@g_netty-common-4.0.27.Final.jar.txt	2
+io/netty/util/internal/PlatformDependent/isRoot0()@g_netty-common-4.0.27.Final.jar.txt	0
+io/netty/util/internal/TypeParameterMatcher/find0(java.lang.Object,java.lang.Class,java.lang.String)@g_netty-common-4.0.27.Final.jar.txt	4
+io/netty/util/internal/PlatformDependent/maxDirectMemory0()@g_netty-common-4.0.27.Final.jar.txt	1
+io/netty/util/internal/PlatformDependent/bitMode0()@g_netty-common-4.0.27.Final.jar.txt	3

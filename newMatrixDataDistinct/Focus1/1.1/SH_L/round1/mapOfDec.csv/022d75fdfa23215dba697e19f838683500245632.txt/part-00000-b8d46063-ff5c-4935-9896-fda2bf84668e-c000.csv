@@ -1,0 +1,5 @@
+org/sindice/siren/util/TestScorerCellQueue/testTopNextAndAdjustElsePop()@2df9dee974574a635c4c12af8ce8be990075fcd0.txt	4
+org/apache/solr/core/OptimizeSchedulerListener/newSearcher(org.apache.solr.search.SolrIndexSearcher,org.apache.solr.search.SolrIndexSearcher)@2df9dee974574a635c4c12af8ce8be990075fcd0.txt	2
+org/sindice/siren/search/TestSirenNumericRangeQuery32/testEnum(int,int)@2df9dee974574a635c4c12af8ce8be990075fcd0.txt	0
+org/sindice/siren/solr/SolrServerWrapper/search(org.apache.solr.client.solrj.SolrQuery,java.lang.String)@2df9dee974574a635c4c12af8ce8be990075fcd0.txt	3
+org/sindice/siren/search/TestSirenCellQuery/testShould()@2df9dee974574a635c4c12af8ce8be990075fcd0.txt	1

@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/handler/ContextHandler/getResource(java.lang.String)@g_jetty-server-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/server/AbstractHttpConnection/handleRequest()@g_jetty-server-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/server/Response/sendRedirect(java.lang.String)@g_jetty-server-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/server/handler/ContextHandler/Context/getRequestDispatcher(java.lang.String)@g_jetty-server-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/server/handler/ContextHandler/getResourcePaths(java.lang.String)@g_jetty-server-7.6.5.v20120716.jar.txt	0

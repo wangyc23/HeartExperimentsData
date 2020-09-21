@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/parser/AbstractModuleDescriptorParser/AbstractParser/evaluateCondition(java.lang.String,org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/plugins/repository/ssh/Scp/put(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/plugins/repository/ssh/SshRepository/makePath(java.lang.String,com.jcraft.jsch.Session)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/util/FileUtil/dissect(java.lang.String)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/util/Configurator/setAttribute(java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	4

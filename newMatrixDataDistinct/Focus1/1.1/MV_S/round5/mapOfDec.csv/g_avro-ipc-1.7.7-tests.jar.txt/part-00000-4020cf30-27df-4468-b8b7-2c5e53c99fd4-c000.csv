@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/core/TestPropertyTypes/testShortType()@g_neo4j-ogm-1.1.2-tests.jar.txt	1
+org/neo4j/graphdb/factory/SetCacheProvidersTest/testSetSoftRefCache()@g_neo4j-ogm-1.1.2-tests.jar.txt	3
+org/neo4j/kernel/impl/core/BigStoreIT/assertProperties(java.util.Map,org.neo4j.graphdb.PropertyContainer)@g_neo4j-ogm-1.1.2-tests.jar.txt	4
+org/neo4j/kernel/impl/core/NodeProxyTest/shouldThrowHumaneExceptionsWhenPropertyDoesNotExistOnNode()@g_neo4j-ogm-1.1.2-tests.jar.txt	0
+org/neo4j/kernel/impl/core/TestNeo4jConstrains/testIllegalPropertyType()@g_neo4j-ogm-1.1.2-tests.jar.txt	2

@@ -1,0 +1,5 @@
+com/vladmihalcea/book/hpjp/jdbc/batch/generatedkeys/identity/OracleGeneratedKeysBatchPreparedStatementTest/batchInsert(java.sql.Connection)@05f4c8fece83cfeb4469846407c47ce650324139.txt	2
+com/vladmihalcea/book/hpjp/jdbc/transaction/AutoCommitTest/testManualCommitWithTemplate()@05f4c8fece83cfeb4469846407c47ce650324139.txt	1
+com/vladmihalcea/book/hpjp/hibernate/cache/CollectionCacheTest/testConsistencyIssuesWhenRemovingChildDirectly()@05f4c8fece83cfeb4469846407c47ce650324139.txt	4
+com/vladmihalcea/book/hpjp/hibernate/type/ImmutableType/nullSafeSet(java.sql.PreparedStatement,java.lang.Object,int,com.vladmihalcea.book.hpjp.hibernate.identifier.SharedSessionContractImplementor)@05f4c8fece83cfeb4469846407c47ce650324139.txt	0
+com/vladmihalcea/book/hpjp/hibernate/cache/transactional/TransactionalCacheConcurrencyStrategyTest/testPostEntityEvictModifyLoad()@05f4c8fece83cfeb4469846407c47ce650324139.txt	3

@@ -1,0 +1,4 @@
+org/openxmlformats/schemas/drawingml/x2006/chart/CTValAx/addNewCrossAx()
+org/openxmlformats/schemas/drawingml/x2006/chart/CTValAx/addNewTickLblPos()
+org/openxmlformats/schemas/drawingml/x2006/chart/CTValAx/addNewAxPos()
+org/openxmlformats/schemas/drawingml/x2006/chart/CTTickLblPos/setVal(org.openxmlformats.schemas.drawingml.x2006.chart.STTickLblPos$Enum)

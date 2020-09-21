@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/xmi/impl/XMISaveImpl/writeTopObjects(java.util.List)@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	4
+org/eclipse/emf/ecore/xmi/impl/XMLHandler/validateCreateObjectFromFactory(org.eclipse.emf.ecore.EFactory,java.lang.String,org.eclipse.emf.ecore.EObject,org.eclipse.emf.ecore.EStructuralFeature)@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	3
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/endSave(java.util.List)@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	2
+org/eclipse/emf/ecore/xmi/impl/XMLLoadImpl/traverse(org.w3c.dom.Node,org.eclipse.emf.ecore.xmi.impl.XMLLoadImpl$AttributesProxy,org.xml.sax.helpers.DefaultHandler,org.xml.sax.ext.LexicalHandler)@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	1
+org/eclipse/uml2/common/util/CacheAdapter/InverseCrossReferencer/normalizeURI(org.eclipse.emf.common.util.URI,org.eclipse.emf.ecore.resource.Resource)@g_org.eclipse.emf.ecore.xmi-2.11.1-v20150805-0538.jar.txt	0

@@ -1,0 +1,4 @@
+org/wikibrain/matrix/knn/TestKDDNNFinder/makeSmall()
+java/io/PrintStream/println(java.lang.String)
+org/wikibrain/matrix/knn/TestKDDNNFinder/actualNeighbors(float[],org.wikibrain.matrix.DenseMatrix,int)
+org/wikibrain/matrix/knn/KNNFinder/query(float[],int,int,org.wikibrain.core.dao.sql.TIntSet)

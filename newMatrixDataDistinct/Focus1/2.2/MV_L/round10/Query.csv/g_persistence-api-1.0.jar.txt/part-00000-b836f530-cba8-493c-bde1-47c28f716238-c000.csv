@@ -1,0 +1,4 @@
+java/net/URL/openStream()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Thread/currentThread()
+java/util/Iterator/next()

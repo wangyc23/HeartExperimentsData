@@ -1,0 +1,5 @@
+org/bouncycastle/jce/X509V3CertificateGenerator/generateX509Certificate(java.security.PrivateKey,java.lang.String,java.security.SecureRandom)@g_bcprov-jdk16-140.jar.txt	3
+org/bouncycastle/crypto/engines/NaccacheSternEngine/processBlock(byte[],int,int)@g_bcprov-jdk16-140.jar.txt	4
+org/bouncycastle/x509/X509Util/getImplementation(java.lang.String,java.lang.String,java.security.Provider)@g_bcprov-jdk16-140.jar.txt	0
+org/bouncycastle/jce/provider/BouncyCastleProvider/addMappings(java.util.Map)@g_bcprov-jdk16-140.jar.txt	2
+org/bouncycastle/x509/X509Util/getImplementation(java.lang.String,java.lang.String,java.security.Provider)@g_bcprov-jdk14-138.jar.txt	1

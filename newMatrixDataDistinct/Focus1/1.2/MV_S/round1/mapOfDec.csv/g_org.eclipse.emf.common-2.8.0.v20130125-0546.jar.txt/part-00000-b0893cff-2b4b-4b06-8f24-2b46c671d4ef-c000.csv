@@ -1,0 +1,5 @@
+org/eclipse/emf/common/EMFPlugin/getBaseURL()@g_common-2.3.0-v200706262000.jar.txt	2
+org/eclipse/emf/common/EMFPlugin/InternalHelper/getString(java.lang.String,boolean)@g_common-2.3.0-v200706262000.jar.txt	4
+org/eclipse/emf/common/util/DelegatingResourceLocator/getBaseURL()@g_org.eclipse.emf.common-2.10.1-v20140901-1043.jar.txt	3
+org/eclipse/emf/common/EMFPlugin/main(java.lang.String[])@g_org.eclipse.emf.common-2.10.1-v20140901-1043.jar.txt	1
+org/eclipse/emf/common/EMFPlugin/main(java.lang.String[])@g_common-2.3.0-v200706262000.jar.txt	0

@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/stream/Stream/filter(java.util.function.Predicate)
+java/util/List/forEach(java.util.function.Consumer)
+java/util/stream/Stream/collect(java.util.stream.Collector)

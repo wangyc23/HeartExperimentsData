@@ -1,0 +1,5 @@
+com/manning/hip/ch4/sort/secondary/SortMapReduce/Map/map(org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	4
+com/manning/hip/ch3/avro/gen/Stock/Builder/setOpen(double)@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	2
+code/spark/SparkSQL/main(java.lang.String[])@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	1
+com/manning/hip/ch3/csv/CSVInputFormat/CSVRecordReader/nextKeyValue()@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	3
+code/spark/SparkSQLPractice/main(java.lang.String[])@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	0

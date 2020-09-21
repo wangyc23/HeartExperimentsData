@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/lang/Integer/valueOf(int)
+java/lang/Integer/valueOf(java.lang.String)
+java/util/Hashtable/get(java.lang.Object)

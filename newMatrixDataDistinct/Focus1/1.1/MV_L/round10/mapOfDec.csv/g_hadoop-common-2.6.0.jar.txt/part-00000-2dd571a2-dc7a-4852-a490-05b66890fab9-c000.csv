@@ -1,0 +1,5 @@
+org/apache/hadoop/security/LdapGroupsMapping/extractPassword(java.lang.String)@g_hadoop-common-2.6.5.jar.txt	2
+org/apache/hadoop/io/SequenceFile/Sorter/merge(org.apache.hadoop.fs.Path[],org.apache.hadoop.fs.Path)@g_hadoop-common-2.6.5.jar.txt	0
+org/apache/hadoop/fs/DelegationTokenRenewer/removeRenewAction(org.apache.hadoop.fs.FileSystem)@g_hadoop-common-2.6.5.jar.txt	3
+org/apache/hadoop/metrics2/impl/MetricsSystemImpl/stopSinks()@g_hadoop-common-2.6.5.jar.txt	4
+org/apache/hadoop/security/ssl/SSLHostnameVerifier/AbstractVerifier/check(java.lang.String[],java.lang.String[],java.lang.String[],boolean,boolean)@g_hadoop-common-2.6.5.jar.txt	1

@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+org/eclipse/tycho/model/ProductConfiguration$ConfigurationProperty/ConfigurationProperty(de.pdark.decentxml.Element)
+de/pdark/decentxml/Element/getChild(java.lang.String)

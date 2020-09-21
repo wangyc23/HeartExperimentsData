@@ -1,0 +1,4 @@
+org/eclipse/aether/deployment/DeployRequest/getTrace()
+java/util/Iterator/hasNext()
+org/eclipse/aether/internal/impl/DefaultDeployer$EventCatapult/EventCatapult(org.eclipse.aether.RepositorySystemSession,org.eclipse.aether.RequestTrace,org.eclipse.aether.repository.RemoteRepository,org.eclipse.aether.impl.RepositoryEventDispatcher)
+org/eclipse/aether/spi/connector/MetadataUpload/getException()

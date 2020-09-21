@@ -1,0 +1,5 @@
+org/apache/commons/math3/linear/SymmLQ/solveInPlace(org.apache.commons.math3.linear.RealLinearOperator,org.apache.commons.math3.linear.RealLinearOperator,org.apache.commons.math3.linear.RealVector,org.apache.commons.math3.linear.RealVector,boolean,double)@g_trove4j-3.0.3.jar.txt	0
+org/apache/commons/math3/ode/nonstiff/AdamsFieldStepInterpolator/taylor(org.apache.commons.math3.ode.FieldODEStateAndDerivative,org.apache.commons.math3.RealFieldElement,org.apache.commons.math3.RealFieldElement,org.apache.commons.math3.RealFieldElement[],org.apache.commons.math3.linear.Array2DRowFieldMatrix)@g_trove4j-3.0.3.jar.txt	2
+org/apache/commons/math3/ode/ContinuousOutputFieldModel/append(org.apache.commons.math3.ode.ContinuousOutputFieldModel)@g_trove4j-3.0.3.jar.txt	1
+gnu/trove/map/hash/TByteShortHashMap/putAll(java.util.Map)@g_trove4j-3.0.3.jar.txt	3
+org/apache/commons/math3/util/MathArrays/sortInPlace(double[],org.apache.commons.math3.util.MathArrays$OrderDirection,double[][])@g_trove4j-3.0.3.jar.txt	4

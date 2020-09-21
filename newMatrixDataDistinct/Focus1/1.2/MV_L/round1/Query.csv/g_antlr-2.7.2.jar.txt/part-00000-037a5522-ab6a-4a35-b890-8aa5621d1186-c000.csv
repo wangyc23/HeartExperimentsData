@@ -1,0 +1,4 @@
+java/io/PrintWriter/close()
+java/lang/String/lastIndexOf(int)
+java/lang/String/substring(int)
+java/lang/String/charAt(int)

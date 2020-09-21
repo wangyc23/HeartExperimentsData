@@ -1,0 +1,5 @@
+org/apache/lucene/demo/facet/DistanceFacetsExample/getBoundingBoxQuery(double,double,double)@g_lucene-demo-5.0.0.jar.txt	3
+org/apache/lucene/demo/facet/SimpleFacetsExample/index()@g_lucene-demo-5.0.0.jar.txt	1
+org/apache/lucene/demo/facet/SimpleFacetsExample/drillSideways()@g_lucene-demo-5.0.0.jar.txt	4
+org/apache/lucene/demo/facet/ExpressionAggregationFacetsExample/index()@g_lucene-demo-5.0.0.jar.txt	2
+org/apache/lucene/demo/facet/AssociationsFacetsExample/index()@g_lucene-demo-5.0.0.jar.txt	0

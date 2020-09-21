@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/wso2/carbon/reporting/template/core/util/common/FontStyleDTO/getAlignment()
+org/wso2/carbon/reporting/template/core/util/common/FontStyleDTO/isBold()
+org/wso2/carbon/reporting/template/core/util/common/FontStyleDTO/isStrikeThough()

@@ -1,0 +1,4 @@
+org/neo4j/collection/pool/LinkedQueuePool$Monitor/updatedTargetSize(int)
+java/util/concurrent/atomic/AtomicInteger/incrementAndGet()
+java/util/concurrent/atomic/AtomicInteger/decrementAndGet()
+org/neo4j/collection/pool/LinkedQueuePool$Monitor/acquired(java.lang.Object)

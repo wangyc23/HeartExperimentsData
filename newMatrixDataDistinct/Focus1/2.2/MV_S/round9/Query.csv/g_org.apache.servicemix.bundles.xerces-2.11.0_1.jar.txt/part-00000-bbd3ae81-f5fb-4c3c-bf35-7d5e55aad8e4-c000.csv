@@ -1,0 +1,4 @@
+org/apache/xerces/impl/XMLDocumentFragmentScannerImpl$FragmentContentDispatcher/scanForDoctypeHook()
+org/apache/xerces/impl/XMLDocumentFragmentScannerImpl/isInvalidLiteral(int)
+org/apache/xerces/impl/XMLDocumentFragmentScannerImpl/isValidNCName(int)
+org/apache/xerces/impl/XMLDocumentFragmentScannerImpl/scanPI()

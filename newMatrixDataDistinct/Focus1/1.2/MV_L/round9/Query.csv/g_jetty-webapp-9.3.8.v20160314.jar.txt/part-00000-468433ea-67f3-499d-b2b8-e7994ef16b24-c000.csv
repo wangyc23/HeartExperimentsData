@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+org/eclipse/jetty/webapp/WebAppContext/setAttribute(java.lang.String,java.lang.Object)
+java/util/HashMap/HashMap()
+org/eclipse/jetty/util/log/Logger/isDebugEnabled()

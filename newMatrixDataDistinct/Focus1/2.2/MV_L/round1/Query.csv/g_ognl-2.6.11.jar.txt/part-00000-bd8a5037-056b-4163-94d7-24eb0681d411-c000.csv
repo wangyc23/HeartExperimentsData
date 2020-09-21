@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/lang/Integer/Integer(int)
+java/lang/StringBuffer/append(java.lang.Object)
+java/util/Map/size()

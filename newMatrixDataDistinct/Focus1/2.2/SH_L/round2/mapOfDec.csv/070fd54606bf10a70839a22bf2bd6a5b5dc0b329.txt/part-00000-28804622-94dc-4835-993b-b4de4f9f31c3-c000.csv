@@ -1,0 +1,5 @@
+com/tamingtext/qa/QuestionQParserPlugin/createParser(java.lang.String,org.apache.solr.common.params.SolrParams,org.apache.solr.common.params.SolrParams,com.tamingtext.fuzzy.SolrQueryRequest)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	4
+org/apache/crunch/Pair/cmp(java.lang.Object,java.lang.Object)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	0
+org/apache/crunch/io/From/formattedFile(java.util.List,java.lang.Class,org.apache.crunch.types.PType,org.apache.crunch.types.PType)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	1
+org/apache/crunch/fn/Aggregators/toCombineFn(org.apache.crunch.Aggregator)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	3
+org/apache/crunch/types/writable/Writables/collections(org.apache.crunch.types.PType)@22b4b57f11ba4e3eba89191f7d5b410440661de5.txt	2

@@ -1,0 +1,4 @@
+edu/emory/mathcs/backport/java/util/concurrent/AbstractExecutorService/execute(java.lang.Runnable)
+java/util/ArrayList/ArrayList(int)
+java/util/Iterator/hasNext()
+java/util/Collection/size()

@@ -1,0 +1,5 @@
+org/neo4j/graphmatching/PatternUtil/printGraph(org.neo4j.graphmatching.PatternNode,java.lang.String,java.util.Set,java.io.PrintStream)@g_neo4j-graph-matching-1.7.jar.txt	3
+org/neo4j/graphmatching/PatternMatch/merge(java.lang.Iterable)@g_neo4j-graph-matching-1.7.jar.txt	2
+org/neo4j/graphmatching/PatternMatcher/SimpleRegexValueGetter/getValues(java.lang.String)@g_neo4j-graph-matching-1.7.jar.txt	0
+org/neo4j/graphmatching/PatternFinder/traverse(org.neo4j.graphmatching.PatternPosition,boolean)@g_neo4j-graph-matching-1.7.jar.txt	4
+org/neo4j/graphmatching/PatternMatcher/SimpleRegexValueGetter/getValues(java.lang.String)@g_neo4j-graph-matching-2.1.5.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/reflect/TypeVariable/getGenericDeclaration()
+java/lang/reflect/GenericArrayType/getGenericComponentType()
+java/lang/Object/equals(java.lang.Object)
+com/google/common/base/Objects/equal(java.lang.Object,java.lang.Object)

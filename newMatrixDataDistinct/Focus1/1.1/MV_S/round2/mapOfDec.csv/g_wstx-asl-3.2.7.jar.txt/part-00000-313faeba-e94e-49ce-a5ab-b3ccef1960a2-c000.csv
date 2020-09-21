@@ -1,0 +1,5 @@
+org/codehaus/stax2/ri/Stax2ReaderAdapter/getPrefixedName()@g_stax2-api-3.1.4.jar.txt	4
+com/ctc/wstx/dtd/FullDTDReader/handleElementDecl()@g_stax2-api-3.1.4.jar.txt	3
+org/apache/xmlbeans/impl/schema/SchemaTypeSystemImpl/XsbReader/writeHandlePool(org.apache.xmlbeans.impl.schema.SchemaTypeSystemImpl$HandlePool)@g_stax2-api-3.1.4.jar.txt	1
+org/apache/xmlbeans/impl/schema/StscChecker/checkRestriction(org.apache.xmlbeans.impl.schema.SchemaTypeImpl)@g_stax2-api-3.1.4.jar.txt	0
+org/apache/xmlbeans/impl/common/JarHelper/unjar(java.io.InputStream,java.io.File)@g_stax2-api-3.1.4.jar.txt	2

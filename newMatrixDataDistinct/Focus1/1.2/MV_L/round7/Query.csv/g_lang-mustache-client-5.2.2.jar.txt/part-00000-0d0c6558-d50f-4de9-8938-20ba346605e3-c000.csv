@@ -1,0 +1,4 @@
+java/util/Collections/emptyMap()
+java/lang/Throwable/addSuppressed(java.lang.Throwable)
+org/elasticsearch/action/ActionListener/onFailure(java.lang.Exception)
+org/elasticsearch/index/query/QueryParseContext/QueryParseContext(org.elasticsearch.common.xcontent.XContentParser,org.elasticsearch.common.ParseFieldMatcher)

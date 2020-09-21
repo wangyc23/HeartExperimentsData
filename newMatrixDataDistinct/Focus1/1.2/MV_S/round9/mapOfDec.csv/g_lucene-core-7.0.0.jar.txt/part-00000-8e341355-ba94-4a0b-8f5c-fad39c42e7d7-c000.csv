@@ -1,0 +1,5 @@
+org/elasticsearch/cluster/metadata/MetaDataCreateIndexService/1/execute(org.elasticsearch.cluster.ClusterState)@g_elasticsearch-5.2.2.jar.txt	1
+org/elasticsearch/search/aggregations/pipeline/bucketselector/BucketSelectorPipelineAggregationBuilder/parse(java.lang.String,org.elasticsearch.index.query.QueryParseContext)@g_elasticsearch-5.2.2.jar.txt	0
+org/elasticsearch/client/transport/TransportClientNodesService/addTransportAddresses(org.elasticsearch.common.transport.TransportAddress[])@g_elasticsearch-5.2.2.jar.txt	2
+org/elasticsearch/search/aggregations/pipeline/bucketscript/BucketScriptPipelineAggregationBuilder/parse(java.lang.String,org.elasticsearch.index.query.QueryParseContext)@g_elasticsearch-5.2.2.jar.txt	4
+org/elasticsearch/ingest/IngestDocument/setFieldValue(java.lang.String,java.lang.Object,boolean)@g_elasticsearch-5.2.2.jar.txt	3

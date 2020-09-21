@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/nioneo/xa/NeoStoreTransaction/doRollback()@g_jackcess-2.1.8.jar.txt	2
+org/neo4j/kernel/configuration/Config/applyChanges(java.util.Map)@g_jackcess-2.1.8.jar.txt	1
+com/healthmarketscience/jackcess/impl/IndexPageCache/splitDataPage(com.healthmarketscience.jackcess.impl.IndexPageCache$CacheDataPage)@g_jackcess-2.1.8.jar.txt	3
+org/neo4j/kernel/impl/transaction/xaframework/XaResourceManager/fail(javax.transaction.xa.XAResource,javax.transaction.xa.Xid)@g_jackcess-2.1.8.jar.txt	4
+org/neo4j/kernel/impl/transaction/xaframework/XaResourceManager/commitWriteTx(javax.transaction.xa.Xid,boolean,org.neo4j.kernel.impl.transaction.xaframework.XaTransaction,org.neo4j.kernel.impl.transaction.xaframework.XaResourceManager$TransactionStatus,org.neo4j.kernel.impl.transaction.xaframework.TxIdGenerator)@g_jackcess-2.1.8.jar.txt	0

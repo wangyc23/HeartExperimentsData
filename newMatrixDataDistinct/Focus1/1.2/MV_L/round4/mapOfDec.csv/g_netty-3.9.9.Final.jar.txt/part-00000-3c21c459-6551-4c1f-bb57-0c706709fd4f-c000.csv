@@ -1,0 +1,5 @@
+org/jboss/netty/handler/codec/http/CookieEncoder/encodeServerSide()@g_netty-3.10.6.Final.jar.txt	4
+org/jboss/netty/handler/ssl/SslHandler/unwrap(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.Channel,java.nio.ByteBuffer,int,boolean)@g_netty-3.10.6.Final.jar.txt	1
+org/jboss/netty/handler/ssl/OpenSslEngine/writePlaintextData(java.nio.ByteBuffer)@g_netty-3.10.6.Final.jar.txt	0
+org/jboss/netty/util/internal/ExecutorUtil/terminate(java.lang.ThreadLocal,java.util.concurrent.Executor[])@g_netty-3.10.6.Final.jar.txt	3
+org/jboss/netty/util/HashedWheelTimer/stop()@g_netty-3.10.6.Final.jar.txt	2

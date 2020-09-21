@@ -1,0 +1,5 @@
+com/mycila/xmltool/XMLDocDefinition/getPrefixes(java.lang.String)@g_mycila-xmltool-4.4.ga.jar.txt	3
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_mycila-xmltool-4.4.ga.jar.txt	4
+com/mycila/xmltool/XMLDoc/getInnerText()@g_mycila-xmltool-4.4.ga.jar.txt	0
+com/mycila/xmltool/XMLDocDefinition/readNamespaces()@g_mycila-xmltool-4.4.ga.jar.txt	2
+org/apache/jempbox/impl/XMLUtil/asByteArray(org.w3c.dom.Document,java.lang.String)@g_jempbox-1.6.0.jar.txt	1

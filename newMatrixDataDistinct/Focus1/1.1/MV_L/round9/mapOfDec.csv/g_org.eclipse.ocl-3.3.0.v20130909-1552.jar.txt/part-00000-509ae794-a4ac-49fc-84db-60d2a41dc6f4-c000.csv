@@ -1,0 +1,5 @@
+org/eclipse/ocl/AbstractTypeChecker/findAttribute(java.lang.Object,java.lang.String)@g_ocl-3.4.0-v20140524-1358.jar.txt	2
+org/eclipse/ocl/parser/AbstractOCLAnalyzer/messageExpCS(org.eclipse.ocl.cst.MessageExpCS,org.eclipse.ocl.Environment)@g_ocl-3.4.0-v20140524-1358.jar.txt	4
+org/eclipse/ocl/parser/ValidationVisitor/visitPropertyCallExp(org.eclipse.ocl.expressions.PropertyCallExp)@g_ocl-3.4.0-v20140524-1358.jar.txt	1
+org/eclipse/ocl/parser/ValidationVisitor/visitOperationCallExp(org.eclipse.ocl.expressions.OperationCallExp)@g_ocl-3.4.0-v20140524-1358.jar.txt	0
+org/eclipse/ocl/AbstractTypeChecker/getAttributes(java.lang.Object)@g_ocl-3.4.0-v20140524-1358.jar.txt	3

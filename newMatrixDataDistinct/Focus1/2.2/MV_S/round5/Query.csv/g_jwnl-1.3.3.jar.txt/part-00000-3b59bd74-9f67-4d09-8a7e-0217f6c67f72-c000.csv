@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/lang/String/length()
+java/lang/String/indexOf(java.lang.String,int)
+java/lang/StringBuffer/toString()

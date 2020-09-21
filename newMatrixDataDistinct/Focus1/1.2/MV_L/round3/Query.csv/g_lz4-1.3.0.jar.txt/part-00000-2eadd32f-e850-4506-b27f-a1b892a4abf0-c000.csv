@@ -1,0 +1,4 @@
+net/jpountz/util/ByteBufferUtils/readByte(java.nio.ByteBuffer,int)
+net/jpountz/util/SafeUtils/writeInt(int[],int,int)
+net/jpountz/util/ByteBufferUtils/writeShortLE(java.nio.ByteBuffer,int,int)
+net/jpountz/util/ByteBufferUtils/inNativeByteOrder(java.nio.ByteBuffer)

@@ -1,0 +1,5 @@
+org/objectweb/asm/util/CheckMethodAdapter/1/visitEnd()@g_asm-util-4.1.jar.txt	1
+org/objectweb/asm/util/CheckClassAdapter/verify(org.objectweb.asm.ClassReader,java.lang.ClassLoader,boolean,java.io.PrintWriter)@g_asm-util-3.2.jar.txt	2
+org/objectweb/asm/util/CheckMethodAdapter/1/visitEnd()@g_asm-util-3.2.jar.txt	3
+org/objectweb/asm/util/CheckMethodAdapter/checkMethodIdentifier(int,java.lang.String,java.lang.String)@g_asm-util-4.1.jar.txt	4
+org/objectweb/asm/util/CheckClassAdapter/verify(org.objectweb.asm.ClassReader,java.lang.ClassLoader,boolean,java.io.PrintWriter)@g_asm-util-4.1.jar.txt	0

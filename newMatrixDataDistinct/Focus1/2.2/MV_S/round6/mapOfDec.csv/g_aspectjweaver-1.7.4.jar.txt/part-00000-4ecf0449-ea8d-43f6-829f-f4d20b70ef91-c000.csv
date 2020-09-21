@@ -1,0 +1,5 @@
+org/aspectj/internal/lang/reflect/AjTypeImpl/getPerClause()@g_aspectjrt-1.8.5.jar.txt	0
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_aspectjrt-1.8.5.jar.txt	2
+org/aspectj/internal/lang/reflect/AjTypeImpl/getITDFields()@g_aspectjrt-1.8.5.jar.txt	1
+org/aspectj/lang/Aspects/checkAspectOf(java.lang.reflect.Method,java.lang.Class)@g_aspectjrt-1.8.5.jar.txt	3
+org/aspectj/lang/Aspects/checkHasAspect(java.lang.reflect.Method,java.lang.Class)@g_aspectjrt-1.8.5.jar.txt	4

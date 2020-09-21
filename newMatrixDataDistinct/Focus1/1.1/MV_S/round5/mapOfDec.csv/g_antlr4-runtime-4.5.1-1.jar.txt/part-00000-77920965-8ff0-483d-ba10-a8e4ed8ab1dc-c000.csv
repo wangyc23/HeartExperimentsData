@@ -1,0 +1,5 @@
+org/antlr/v4/runtime/atn/PredictionContext/toStrings(org.antlr.v4.runtime.Recognizer,org.antlr.v4.runtime.atn.PredictionContext,int)@g_antlr4-runtime-4.3.jar.txt	1
+org/antlr/v4/runtime/Parser/dumpDFA()@g_antlr4-runtime-4.3.jar.txt	4
+org/antlr/v4/runtime/BufferedTokenStream/getTokens(int,int,java.util.Set)@g_antlr4-runtime-4.3.jar.txt	3
+org/antlr/v4/runtime/misc/IntervalSet/toString(boolean)@g_antlr4-runtime-4.3.jar.txt	2
+org/antlr/v4/runtime/tree/xpath/XPath/split(java.lang.String)@g_antlr4-runtime-4.3.jar.txt	0

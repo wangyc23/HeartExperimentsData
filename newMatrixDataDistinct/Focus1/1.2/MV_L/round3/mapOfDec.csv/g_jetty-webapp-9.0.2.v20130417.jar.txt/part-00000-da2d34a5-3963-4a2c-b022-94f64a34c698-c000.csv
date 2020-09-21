@@ -1,0 +1,5 @@
+org/eclipse/jetty/webapp/MetaData/resolve(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-webapp-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/webapp/TagLibConfiguration/TagLibListener/extractJarResource(org.eclipse.jetty.util.resource.Resource)@g_jetty-webapp-9.0.5.v20130815.jar.txt	1
+org/eclipse/jetty/webapp/StandardDescriptorProcessor/visitSecurityConstraint(org.eclipse.jetty.webapp.WebAppContext,org.eclipse.jetty.webapp.Descriptor,org.eclipse.jetty.xml.XmlParser$Node)@g_jetty-webapp-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/webapp/WebAppContext/setTempDirectory(java.io.File)@g_jetty-webapp-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/webapp/TagLibConfiguration/TagLibListener/extractJarResource(org.eclipse.jetty.util.resource.Resource)@g_jetty-webapp-7.6.5.v20120716.jar.txt	0

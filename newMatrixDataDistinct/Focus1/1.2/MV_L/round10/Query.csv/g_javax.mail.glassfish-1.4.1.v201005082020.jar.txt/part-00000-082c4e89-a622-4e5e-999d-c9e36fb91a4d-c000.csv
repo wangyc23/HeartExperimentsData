@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/String/regionMatches(boolean,int,java.lang.String,int,int)
+java/io/PrintStream/println(java.lang.String)
+java/lang/String/length()

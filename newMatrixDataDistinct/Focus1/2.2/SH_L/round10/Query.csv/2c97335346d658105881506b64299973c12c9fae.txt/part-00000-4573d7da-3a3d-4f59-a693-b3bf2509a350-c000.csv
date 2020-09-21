@@ -1,0 +1,4 @@
+javax/xml/transform/TransformerFactory/newInstance()
+javax/xml/transform/stream/StreamResult/StreamResult(java.io.Writer)
+javax/xml/transform/dom/DOMSource/DOMSource(org.w3c.dom.Node)
+org/w3c/dom/Node/getFirstChild()

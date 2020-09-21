@@ -1,0 +1,5 @@
+lpg/runtime/DifferTokens/printLines(lpg.runtime.IPrsStream,int,int)@g_lpg.runtime.java-2.0.17.v201004271640.jar.txt	0
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/closeOutputFile(java.util.zip.Checksum)@g_lpg.runtime.java-2.0.17.v201004271640.jar.txt	3
+org/eclipse/osgi/internal/permadmin/SecurityRow/createConditionalPermissionInfo(org.eclipse.osgi.internal.permadmin.SecurityAdmin,java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2
+org/eclipse/osgi/internal/location/BasicLocation/set(java.net.URL,boolean,java.lang.String)@g_lpg.runtime.java-2.0.17.v201004271640.jar.txt	4
+lpg/runtime/DifferLines/printLines(lpg.runtime.IPrsStream,int,int)@g_lpg.runtime.java-2.0.17.v201004271640.jar.txt	1

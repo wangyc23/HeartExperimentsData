@@ -1,0 +1,4 @@
+java/lang/String/regionMatches(boolean,int,java.lang.String,int,int)
+java/lang/String/substring(int,int)
+java/lang/StringBuilder/StringBuilder()
+java/lang/NumberFormatException/toString()

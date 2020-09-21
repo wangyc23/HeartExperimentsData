@@ -1,0 +1,4 @@
+java/lang/CharSequence/length()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/CharSequence/toString()
+java/lang/CharSequence/charAt(int)

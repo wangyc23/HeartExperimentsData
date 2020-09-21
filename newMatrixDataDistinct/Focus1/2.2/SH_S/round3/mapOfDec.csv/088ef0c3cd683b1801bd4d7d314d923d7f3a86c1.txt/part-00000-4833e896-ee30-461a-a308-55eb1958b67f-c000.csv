@@ -1,0 +1,5 @@
+com/guillaumecl/caskdays/Main/configureJedis(com.guillaumecl.caskdays.Config)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+com/harishkannarao/angularjs/service/PhoneService/getPhoneById(java.lang.Long)@1501edc950891163e00ecea3355a991482449594.txt	2
+com/harishkannarao/angularjs/service/UserSessionService/findByUsernameAndAuthToken(java.lang.String,java.lang.String)@1501edc950891163e00ecea3355a991482449594.txt	0
+com/harishkannarao/angularjs/service/UserSessionService/delete(java.lang.String,java.lang.String)@1501edc950891163e00ecea3355a991482449594.txt	3
+com/harishkannarao/angularjs/service/UserService/findByUsernameAndPassword(java.lang.String,java.lang.String)@1501edc950891163e00ecea3355a991482449594.txt	1

@@ -1,0 +1,5 @@
+com/sun/mail/imap/protocol/IMAPProtocol/sort(com.sun.mail.imap.SortTerm[],javax.mail.search.SearchTerm)@g_mail-1.4.7.jar.txt	0
+com/sun/mail/imap/protocol/IMAPProtocol/issueSearch(java.lang.String,javax.mail.search.SearchTerm,java.lang.String)@g_mail-1.4.7.jar.txt	2
+com/sun/mail/imap/protocol/IMAPProtocol/sort(com.sun.mail.imap.SortTerm[],javax.mail.search.SearchTerm)@g_mail-1.4.5.jar.txt	3
+com/sun/mail/util/SocketFetcher/matchCert(java.lang.String,java.security.cert.X509Certificate)@g_mail-1.4.5.jar.txt	4
+com/sun/mail/util/SocketFetcher/matchCert(java.lang.String,java.security.cert.X509Certificate)@g_mail-1.4.7.jar.txt	1

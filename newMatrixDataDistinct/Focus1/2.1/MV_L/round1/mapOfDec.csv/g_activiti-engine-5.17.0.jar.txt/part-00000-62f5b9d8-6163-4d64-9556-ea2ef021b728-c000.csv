@@ -1,0 +1,5 @@
+net/sf/ehcache/store/disk/DiskStorageFactory/DiskWriteTask/call()@g_activiti-engine-6.0.0.Beta1.jar.txt	1
+org/activiti/engine/impl/bpmn/parser/handler/AbstractExternalInvocationBpmnParseHandler/createDataInputAssociation(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.DataAssociation)@g_activiti-engine-6.0.0.Beta1.jar.txt	0
+net/sf/ehcache/config/ConfigurationHelper/createDefaultCacheDecorators(net.sf.ehcache.Ehcache,net.sf.ehcache.config.CacheConfiguration)@g_activiti-engine-6.0.0.Beta1.jar.txt	4
+net/sf/ehcache/management/ResourceClassLoader/findClass(java.lang.String)@g_activiti-engine-6.0.0.Beta1.jar.txt	3
+net/sf/ehcache/store/FrontEndCacheTier/getQuiet(java.lang.Object)@g_activiti-engine-6.0.0.Beta1.jar.txt	2

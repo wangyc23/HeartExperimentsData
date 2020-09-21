@@ -1,0 +1,4 @@
+org/w3c/dom/Node/getNextSibling()
+org/apache/batik/bridge/SVGTextElementBridge/addGlyphPositionAttributes(java.text.AttributedString,org.w3c.dom.Element,org.apache.batik.bridge.BridgeContext)
+org/w3c/dom/Element/getFirstChild()
+org/w3c/dom/Element/getLocalName()

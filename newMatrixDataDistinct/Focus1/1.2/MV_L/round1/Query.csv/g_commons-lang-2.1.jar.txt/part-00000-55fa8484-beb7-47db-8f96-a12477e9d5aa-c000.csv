@@ -1,0 +1,4 @@
+java/lang/Double/isInfinite()
+java/lang/String/valueOf(java.lang.Object)
+java/lang/String/charAt(int)
+java/lang/String/length()

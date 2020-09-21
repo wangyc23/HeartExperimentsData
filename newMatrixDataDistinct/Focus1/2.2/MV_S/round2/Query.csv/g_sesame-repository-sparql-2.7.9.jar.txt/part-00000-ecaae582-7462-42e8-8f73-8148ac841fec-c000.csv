@@ -1,0 +1,4 @@
+org/openrdf/query/impl/MapBindingSet/getBindingNames()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/regex/Matcher/matches()

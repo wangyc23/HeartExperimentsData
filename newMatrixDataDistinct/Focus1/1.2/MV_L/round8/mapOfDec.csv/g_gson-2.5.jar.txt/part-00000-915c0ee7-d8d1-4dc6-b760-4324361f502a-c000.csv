@@ -1,0 +1,5 @@
+com/google/gson/reflect/TypeToken/isAssignableFrom(java.lang.reflect.Type,java.lang.reflect.ParameterizedType,java.util.Map)@g_gson-2.2.2.jar.txt	3
+com/google/gson/internal/Gson/Types/equals(java.lang.reflect.Type,java.lang.reflect.Type)@g_gson-2.2.jar.txt	1
+com/google/gson/internal/Gson/Types/equals(java.lang.reflect.Type,java.lang.reflect.Type)@g_gson-2.2.2.jar.txt	0
+com/google/gson/internal/Gson/Types/canonicalize(java.lang.reflect.Type)@g_gson-2.2.2.jar.txt	2
+com/google/gson/internal/Gson/Types/getRawType(java.lang.reflect.Type)@g_gson-2.2.2.jar.txt	4

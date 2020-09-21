@@ -1,0 +1,5 @@
+org/eclipse/aether/internal/impl/DefaultMetadataResolver/ResolveTask/run()@g_aether-impl-0.9.1.v20140329.jar.txt	3
+org/eclipse/aether/internal/impl/DefaultMetadataResolver/resolve(org.eclipse.aether.RepositorySystemSession,java.util.Collection)@g_aether-impl-0.9.1.v20140329.jar.txt	2
+org/eclipse/aether/internal/impl/DefaultRepositoryLayoutProvider/newRepositoryLayout(org.eclipse.aether.RepositorySystemSession,org.eclipse.aether.repository.RemoteRepository)@g_aether-impl-0.9.1.v20140329.jar.txt	0
+org/eclipse/aether/internal/impl/DefaultRepositoryConnectorProvider/newRepositoryConnector(org.eclipse.aether.RepositorySystemSession,org.eclipse.aether.repository.RemoteRepository)@g_aether-impl-0.9.1.v20140329.jar.txt	4
+org/eclipse/aether/internal/impl/DefaultArtifactResolver/resolve(org.eclipse.aether.RepositorySystemSession,java.util.Collection)@g_aether-impl-0.9.1.v20140329.jar.txt	1

@@ -1,0 +1,5 @@
+com/mysql/jdbc/ServerPreparedStatement/setOneBatchedParameterSet(java.sql.PreparedStatement,int,java.lang.Object)@g_mysql-connector-java-5.1.18.jar.txt	3
+com/mysql/jdbc/ResultSetImpl/getNativeConvertToString(int,com.mysql.jdbc.Field)@g_mysql-connector-java-5.1.18.jar.txt	0
+com/mysql/jdbc/ServerPreparedStatement/executeInternal(int,com.mysql.jdbc.Buffer,boolean,boolean,com.mysql.jdbc.Field[],boolean)@g_mysql-connector-java-5.1.18.jar.txt	4
+com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_mysql-connector-java-5.1.18.jar.txt	1
+com/mysql/jdbc/Messages/<clinit>()@g_mysql-connector-java-5.1.18.jar.txt	2

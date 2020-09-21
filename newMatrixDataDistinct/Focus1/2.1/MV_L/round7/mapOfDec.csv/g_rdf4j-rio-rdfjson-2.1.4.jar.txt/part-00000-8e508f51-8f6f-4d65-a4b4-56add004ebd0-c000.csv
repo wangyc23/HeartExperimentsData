@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/rio/rdfjson/RDFJSONWriter/modelToRdfJsonInternal(org.eclipse.rdf4j.model.Model,org.eclipse.rdf4j.rio.WriterConfig,com.fasterxml.jackson.core.JsonGenerator)@g_sesame-rio-rdfjson-2.7.16.jar.txt	3
+com/fasterxml/jackson/databind/deser/impl/CreatorCollector/addPropertyCreator(com.fasterxml.jackson.databind.introspect.AnnotatedWithParams,boolean,com.fasterxml.jackson.databind.deser.SettableBeanProperty[])@g_sesame-rio-rdfjson-2.7.16.jar.txt	2
+com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers/BooleanDeser/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_sesame-rio-rdfjson-2.7.16.jar.txt	1
+com/fasterxml/jackson/databind/deser/std/CollectionDeserializer/CollectionReferringAccumulator/resolveForwardReference(java.lang.Object,java.lang.Object)@g_sesame-rio-rdfjson-2.7.16.jar.txt	0
+com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers/CharDeser/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_sesame-rio-rdfjson-2.7.16.jar.txt	4

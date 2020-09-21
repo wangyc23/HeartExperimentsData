@@ -1,0 +1,5 @@
+net/java/truecommons/annotations/processing/ServiceImplementationProcessor/processAnnotations(javax.lang.model.element.TypeElement,net.java.truecommons.annotations.processing.ServiceImplementationProcessor$Registry)@g_truecommons-annotations-2.5.0.jar.txt	0
+net/java/truecommons/annotations/processing/ServiceImplementationProcessor/2Visitor/visitDeclared(javax.lang.model.type.DeclaredType,java.lang.Void)@g_truecommons-annotations-2.5.0.jar.txt	4
+org/sonatype/guice/bean/scanners/index/AbstractSisuIndex/writeTable(java.lang.Object,java.util.Set)@g_guice-bean-scanners-2.3.0.jar.txt	3
+org/sonatype/guice/bean/scanners/index/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_guice-bean-scanners-2.3.0.jar.txt	2
+net/java/truecommons/annotations/processing/ServiceImplementationProcessor/Registry/persist()@g_truecommons-annotations-2.5.0.jar.txt	1

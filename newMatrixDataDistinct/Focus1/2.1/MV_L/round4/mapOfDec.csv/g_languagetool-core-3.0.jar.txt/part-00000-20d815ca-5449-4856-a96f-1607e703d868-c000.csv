@@ -1,0 +1,5 @@
+org/languagetool/rules/patterns/Unifier/checkNext(org.languagetool.AnalyzedToken,java.util.Map)@g_jwordsplitter-4.1.jar.txt	4
+org/apache/commons/codec/language/bm/Lang/guessLanguages(java.lang.String)@g_jwordsplitter-4.1.jar.txt	3
+de/danielnaber/jwordsplitter/tools/FileTools/loadFileToSet(java.io.InputStream,java.lang.String)@g_jwordsplitter-4.1.jar.txt	1
+org/languagetool/tools/Tools/selectBitextRules(java.util.List,java.util.List,java.util.List,boolean)@g_jwordsplitter-4.1.jar.txt	2
+de/danielnaber/jwordsplitter/tools/FileTools/loadFile(java.io.InputStream,java.lang.String)@g_jwordsplitter-4.1.jar.txt	0

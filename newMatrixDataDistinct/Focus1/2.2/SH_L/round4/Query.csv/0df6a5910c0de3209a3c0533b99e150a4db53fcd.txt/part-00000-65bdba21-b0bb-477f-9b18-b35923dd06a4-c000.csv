@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+com/cdoframework/cdolib/data/cdo/CDO/setObjectExt(java.lang.String,com.cdoframework.cdolib.data.cdo.Field)
+com/cdoframework/cdolib/service/framework/transfilter/xsd/TransCacheType/getCacheValue()
+com/cdoframework/cdolib/service/framework/transfilter/xsd/CacheValue/getFieldId()

@@ -1,0 +1,5 @@
+org/apache/tika/parser/microsoft/ooxml/AbstractOOXMLExtractor/handleEmbeddedPart(org.apache.poi.openxml4j.opc.PackagePart,org.apache.poi.openxml4j.opc.PackageRelationship,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,java.util.Set)@g_tika-parsers-1.17.jar.txt	4
+org/apache/tika/parser/microsoft/ooxml/SXSLFPowerPointExtractorDecorator/getMainDocumentParts()@g_tika-parsers-1.17.jar.txt	2
+org/apache/tika/parser/microsoft/ooxml/XSLFPowerPointExtractorDecorator/getMainDocumentParts()@g_tika-parsers-1.17.jar.txt	1
+org/apache/tika/parser/microsoft/ooxml/SXSLFPowerPointExtractorDecorator/loadCommentAuthors()@g_tika-parsers-1.17.jar.txt	0
+org/apache/tika/parser/microsoft/ooxml/SXWPFWordExtractorDecorator/handleDocumentPart(org.apache.poi.openxml4j.opc.PackagePart,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.17.jar.txt	3

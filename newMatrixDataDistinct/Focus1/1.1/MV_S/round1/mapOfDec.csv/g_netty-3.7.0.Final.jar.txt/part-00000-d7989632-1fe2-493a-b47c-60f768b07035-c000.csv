@@ -1,0 +1,5 @@
+hidden/io/netty/buffer/CompositeByteBuf/toString()@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	3
+org/jboss/netty/util/HashedWheelTimer/stop()@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	1
+org/jboss/netty/channel/socket/nio/NioServerBoss/process(java.nio.channels.Selector)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	4
+hidden/io/netty/handler/codec/serialization/CompactObjectOutputStream/writeClassDescriptor(java.io.ObjectStreamClass)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	2
+hidden/io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker00/newHandshakeRequest()@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0

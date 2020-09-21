@@ -1,0 +1,5 @@
+javax/xml/validation/SchemaFactoryFinder/_newFactory(java.lang.String)@g_xml-apis-1.3.03.jar.txt	2
+javax/xml/transform/Transformer/reset()@g_xml-apis-1.3.03.jar.txt	4
+javax/xml/datatype/FactoryFinder/which(java.lang.Class)@g_xml-apis-1.3.03.jar.txt	1
+javax/xml/parsers/FactoryFinder/find(java.lang.String,java.lang.String)@g_xml-apis-1.3.03.jar.txt	3
+javax/xml/xpath/XPathFactoryFinder/_newFactory(java.lang.String)@g_xml-apis-1.3.03.jar.txt	0

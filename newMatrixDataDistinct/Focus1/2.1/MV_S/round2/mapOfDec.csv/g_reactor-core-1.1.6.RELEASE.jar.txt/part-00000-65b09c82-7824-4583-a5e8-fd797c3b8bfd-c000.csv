@@ -1,0 +1,5 @@
+org/springframework/util/xml/StaxStreamXMLReader/handleStartElement()@g_ehcache-core-2.6.2.jar.txt	1
+org/springframework/util/FastByteArrayOutputStream/FastByteArrayInputStream/skip(long)@g_ehcache-core-2.6.2.jar.txt	3
+org/springframework/util/StringUtils/changeFirstCharacterCase(java.lang.String,boolean)@g_spring-core-4.2.3.BUILD-20151114.225414-58.jar.txt	0
+org/springframework/core/annotation/SynthesizedAnnotationInvocationHandler/annotationToString()@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/store/disk/DiskStorageFactory/DiskWriteTask/call()@g_ehcache-core-2.6.2.jar.txt	2

@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseFrameSections(boolean,java.util.Set,java.lang.Object,java.util.Map)@g_owlapi-distribution-5.1.0.jar.txt	2
+org/semanticweb/owlapi/util/OWLEntityURIConverter/getChanges()@g_owlapi-distribution-5.1.0.jar.txt	3
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/buildIndices()@g_owlapi-distribution-5.1.0.jar.txt	4
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLSubClassOfAxiom)@g_owlapi-distribution-5.1.0.jar.txt	0
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseAxiomWithObjectPropertyStart()@g_owlapi-distribution-5.1.0.jar.txt	1

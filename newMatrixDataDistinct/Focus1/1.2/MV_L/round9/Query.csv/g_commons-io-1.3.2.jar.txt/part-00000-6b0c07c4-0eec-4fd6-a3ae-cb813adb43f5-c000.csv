@@ -1,0 +1,4 @@
+java/io/File/getName()
+java/io/File/File(java.io.File,java.lang.String)
+java/io/File/isDirectory()
+java/io/File/exists()

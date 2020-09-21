@@ -1,0 +1,5 @@
+org/xwiki/xml/internal/html/filter/AttributeFilter/filter(org.w3c.dom.Document,java.util.Map)@g_hamcrest-core-1.1.jar.txt	4
+org/xwiki/xml/html/HTMLUtils/XWikiXMLOutputter/escapeAmpersand(java.lang.String)@g_hamcrest-core-1.1.jar.txt	2
+org/htmlcleaner/XWikiDOMSerializer/createSubnodes(org.w3c.dom.Document,org.w3c.dom.Element,java.util.List)@g_hamcrest-core-1.1.jar.txt	3
+edu/washington/cs/knowitall/commonlib/StringUtils/splitInto(java.lang.String,java.util.regex.Pattern)@g_common-java-2.0.2.jar.txt	0
+edu/washington/cs/knowitall/commonlib/StringUtils/tokenize(java.lang.String,java.util.regex.Pattern[],java.util.regex.Pattern)@g_common-java-2.0.2.jar.txt	1

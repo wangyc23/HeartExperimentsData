@@ -1,0 +1,4 @@
+java/util/BitSet/get(int)
+java/net/URL/toString()
+java/net/URL/URL(java.lang.String)
+java/lang/StringBuilder/StringBuilder(int)

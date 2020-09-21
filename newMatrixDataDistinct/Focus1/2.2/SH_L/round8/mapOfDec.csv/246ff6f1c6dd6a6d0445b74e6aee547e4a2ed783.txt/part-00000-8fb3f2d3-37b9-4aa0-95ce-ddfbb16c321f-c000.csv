@@ -1,0 +1,5 @@
+org/raml/emitter/IndentedAppendableEmitter/create(org.raml.utilities.IndentedAppendable)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	3
+server/zoo/AnimalsImpl/getAnimals(java.lang.String)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	4
+org/raml/jaxrs/converter/model/JaxRsRamlApi/getBaseUri()@2b580b570b3da993f753285904fc9b11ffe305f2.txt	1
+org/raml/jaxrs/generator/v10/TypeUtilsTest/shouldExtendingAnotherMultipleInheritance()@2b580b570b3da993f753285904fc9b11ffe305f2.txt	2
+org/raml/jaxrs/generator/builders/JavaPoetTypeGeneratorBase/output(org.raml.jaxrs.generator.builders.CodeContainer,org.raml.jaxrs.generator.builders.BuildPhase)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	0

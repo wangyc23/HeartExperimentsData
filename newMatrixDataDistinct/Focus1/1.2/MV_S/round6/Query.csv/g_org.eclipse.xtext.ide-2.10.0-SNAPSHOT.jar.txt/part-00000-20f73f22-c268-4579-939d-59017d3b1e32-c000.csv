@@ -1,0 +1,4 @@
+org/eclipse/xtext/util/TextRegion/TextRegion(int,int)
+org/eclipse/xtext/ide/editor/contentassist/ContentAssistContext$Builder/setOffset(int)
+org/eclipse/xtext/ide/editor/contentassist/ContentAssistContext$Builder/setPreviousModel(org.eclipse.emf.ecore.EObject)
+org/eclipse/xtext/ide/editor/contentassist/ContentAssistContext$Builder/setReplaceRegion(org.eclipse.xtext.util.ITextRegion)

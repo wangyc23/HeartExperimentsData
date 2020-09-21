@@ -1,0 +1,5 @@
+org/springframework/boot/loader/LaunchedURLClassLoader/definePackageIfNecessary(java.lang.String)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	3
+org/springframework/boot/autoconfigure/jms/JmsAutoConfigurationTests/testActiveMQOverriddenPoolAndStandalone()@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	1
+org/springframework/boot/cli/compiler/GroovyCompiler/getExistingUrls()@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	0
+org/springframework/boot/autoconfigure/AutoConfigurationMetadataLoaderTests/getWithDefaultWhenMissingShouldReturnDefault()@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	4
+org/springframework/boot/test/json/JsonContentAssert/isEqualTo(java.lang.Object)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	2

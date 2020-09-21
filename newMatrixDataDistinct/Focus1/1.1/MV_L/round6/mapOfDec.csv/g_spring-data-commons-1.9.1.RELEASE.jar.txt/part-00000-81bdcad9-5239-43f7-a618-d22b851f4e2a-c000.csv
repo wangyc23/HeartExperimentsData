@@ -1,0 +1,5 @@
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/findAnnotation(java.lang.Class)@g_spring-data-commons-1.9.0.RELEASE.jar.txt	2
+org/springframework/data/repository/core/support/RepositoryFactorySupport/DefaultMethodInvokingMethodInterceptor/invoke(org.aopalliance.intercept.MethodInvocation)@g_spring-data-commons-1.9.0.RELEASE.jar.txt	3
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/populateAnnotationCache(java.lang.reflect.Field)@g_spring-data-commons-1.9.2.RELEASE.jar.txt	1
+org/springframework/data/config/TypeFilterParser/parseTypeFilters(org.w3c.dom.Element,org.springframework.data.config.TypeFilterParser$Type)@g_spring-data-commons-1.9.0.RELEASE.jar.txt	4
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/populateAnnotationCache(java.lang.reflect.Field)@g_spring-data-commons-1.9.0.RELEASE.jar.txt	0

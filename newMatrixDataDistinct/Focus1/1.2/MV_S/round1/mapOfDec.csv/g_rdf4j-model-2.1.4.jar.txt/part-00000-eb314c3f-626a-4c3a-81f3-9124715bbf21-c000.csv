@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/model/util/RDFCollections/extract(org.eclipse.rdf4j.model.util.GetStatementOptional,org.eclipse.rdf4j.model.Resource,java.util.function.Consumer,java.util.function.Function,org.eclipse.rdf4j.model.Resource[])@g_sesame-model-2.7.9.jar.txt	4
+org/openrdf/model/util/Literals/createLiteral(org.openrdf.model.ValueFactory,java.lang.Object,boolean)@g_sesame-model-2.7.9.jar.txt	1
+org/neo4j/function/Predicates/await(java.util.function.Supplier,long,java.util.concurrent.TimeUnit,long,java.util.concurrent.TimeUnit)@g_neo4j-common-3.1.0-M01.jar.txt	0
+org/openrdf/model/datatypes/XMLDateTime/parseDateTimeString()@g_sesame-model-2.7.9.jar.txt	3
+org/eclipse/rdf4j/model/util/Literals/createLiteral(org.eclipse.rdf4j.model.ValueFactory,java.lang.Object,boolean)@g_sesame-model-2.7.9.jar.txt	2

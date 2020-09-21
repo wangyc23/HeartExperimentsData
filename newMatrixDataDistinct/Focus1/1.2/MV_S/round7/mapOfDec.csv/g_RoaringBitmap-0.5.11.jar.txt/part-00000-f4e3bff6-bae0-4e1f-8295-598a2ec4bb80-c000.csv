@@ -1,0 +1,5 @@
+com/jmatio/io/MatFileReader/readData(java.nio.ByteBuffer)@g_jmatio-1.0.jar.txt	2
+com/jmatio/io/MatFileIncrementalWriter/writeHeader(java.nio.channels.WritableByteChannel)@g_jmatio-1.0.jar.txt	1
+com/jmatio/io/MatFileWriter/writeHeader(java.nio.channels.WritableByteChannel)@g_jmatio-1.0.jar.txt	3
+com/jmatio/io/MatFileReader/readMatrix(java.nio.ByteBuffer,boolean)@g_jmatio-1.0.jar.txt	4
+com/jmatio/io/MatFileInputStream/readToByteBuffer(java.nio.ByteBuffer,int,com.jmatio.types.ByteStorageSupport)@g_jmatio-1.0.jar.txt	0

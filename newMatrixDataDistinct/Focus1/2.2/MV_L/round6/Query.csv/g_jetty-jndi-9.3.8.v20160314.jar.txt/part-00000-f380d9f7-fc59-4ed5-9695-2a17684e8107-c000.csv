@@ -1,0 +1,4 @@
+org/eclipse/jetty/server/handler/ContextHandler/getCurrentContext()
+java/lang/ClassLoader/getParent()
+java/lang/Thread/currentThread()
+java/lang/ThreadLocal/get()

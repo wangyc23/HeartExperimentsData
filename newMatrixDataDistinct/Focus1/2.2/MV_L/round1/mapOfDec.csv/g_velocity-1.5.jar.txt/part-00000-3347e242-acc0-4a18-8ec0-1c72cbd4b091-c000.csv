@@ -1,0 +1,5 @@
+org/apache/velocity/runtime/log/Log4JLogChute/initAppender(java.lang.String)@g_velocity-1.7.jar.txt	4
+org/apache/velocity/runtime/directive/Foreach/render(org.apache.velocity.context.InternalContextAdapter,java.io.Writer,org.apache.velocity.runtime.parser.node.Node)@g_velocity-1.7.jar.txt	0
+org/apache/velocity/anakia/NodeList/toString()@g_velocity-1.7.jar.txt	1
+org/apache/velocity/util/introspection/UberspectImpl/getIterator(java.lang.Object,org.apache.velocity.util.introspection.Info)@g_velocity-1.7.jar.txt	2
+org/apache/velocity/runtime/parser/node/ASTNENode/evaluate(org.apache.velocity.context.InternalContextAdapter)@g_velocity-1.7.jar.txt	3

@@ -1,0 +1,5 @@
+com/andy/IO/PostgresDB/newCycle(com.andy.Util.Cycle)@080105b957971bcc31b18607f1c02edbfefb5d9d.txt	4
+com/andy/IO/PostgresDB/logTemperature(com.andy.Util.Temperature)@080105b957971bcc31b18607f1c02edbfefb5d9d.txt	3
+main/Exporter/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	1
+bing/BingSearch/getNews(model.Event,model.Location)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	2
+bing/BingSearch/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	0

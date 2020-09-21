@@ -1,0 +1,5 @@
+javax/mail/internet/MimeUtility/decodeText(java.lang.String)@g_mail-1.4.jar.txt	2
+com/sun/mail/util/SocketFetcher/getSocket(java.lang.String,int,java.util.Properties,java.lang.String,boolean)@g_javax.mail.glassfish-1.4.1.v201005082020.jar.txt	3
+javax/mail/internet/MimeUtility/decodeText(java.lang.String)@g_javax.mail.glassfish-1.4.1.v201005082020.jar.txt	0
+javax/mail/internet/ParameterList/toString(int)@g_mail-1.4.jar.txt	1
+com/sun/mail/imap/protocol/IMAPProtocol/issueSearch(java.lang.String,javax.mail.search.SearchTerm,java.lang.String)@g_javax.mail.glassfish-1.4.1.v201005082020.jar.txt	4

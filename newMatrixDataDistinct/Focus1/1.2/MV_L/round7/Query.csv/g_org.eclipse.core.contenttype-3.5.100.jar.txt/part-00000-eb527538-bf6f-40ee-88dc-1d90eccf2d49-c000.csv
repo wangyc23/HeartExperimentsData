@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(int)
+org/eclipse/core/runtime/Status/Status(int,java.lang.String,int,java.lang.String,java.lang.Throwable)
+org/eclipse/core/runtime/Assert/isLegal(boolean,java.lang.String)
+org/eclipse/core/runtime/CoreException/CoreException(org.eclipse.core.runtime.IStatus)

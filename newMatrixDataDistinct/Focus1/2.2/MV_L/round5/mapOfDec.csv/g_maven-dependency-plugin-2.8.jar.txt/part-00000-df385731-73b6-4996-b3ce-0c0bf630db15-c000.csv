@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/utils/DependencyUtil/getFormattedOutputDirectory(boolean,boolean,boolean,boolean,boolean,java.io.File,org.apache.maven.artifact.Artifact)@g_maven-dependency-plugin-2.10.jar.txt	3
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-dependency-plugin-2.10.jar.txt	2
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateDependenciesTable(org.apache.maven.doxia.sink.Sink,java.util.Iterator)@g_maven-dependency-plugin-2.10.jar.txt	0
+org/apache/maven/plugin/dependency/AnalyzeReportView/generateDependenciesTable(org.apache.maven.doxia.sink.Sink,java.util.Iterator)@g_maven-dependency-plugin-2.3.jar.txt	1
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/reResolveArtifacts(org.apache.maven.project.MavenProject,java.util.Set,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-dependency-plugin-2.10.jar.txt	4

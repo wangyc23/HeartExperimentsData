@@ -1,0 +1,5 @@
+org/neo4j/cypher/export/CypherResultSubGraph/from(org.neo4j.cypher.javacompat.ExecutionResult,org.neo4j.graphdb.GraphDatabaseService,boolean)@g_neo4j-cypher-2.1.5.jar.txt	3
+org/neo4j/cypher/export/SubGraphExporter/formatProperties(org.neo4j.graphdb.PropertyContainer)@g_neo4j-cypher-2.1.5.jar.txt	4
+org/neo4j/cypher/export/CypherResultSubGraph/addRelationshipsBetweenNodes()@g_neo4j-cypher-2.1.7.jar.txt	1
+org/neo4j/cypher/export/SubGraphExporter/exportIndexes()@g_neo4j-cypher-2.1.5.jar.txt	2
+org/neo4j/cypher/export/CypherResultSubGraph/addRelationshipsBetweenNodes()@g_neo4j-cypher-2.1.5.jar.txt	0

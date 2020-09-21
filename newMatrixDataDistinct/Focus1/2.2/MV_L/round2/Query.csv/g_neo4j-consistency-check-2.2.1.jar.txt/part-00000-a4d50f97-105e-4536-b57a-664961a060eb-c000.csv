@@ -1,0 +1,4 @@
+org/neo4j/kernel/impl/store/record/IndexRule/getLabel()
+java/util/Iterator/hasNext()
+java/lang/Long/valueOf(long)
+java/lang/Throwable/addSuppressed(java.lang.Throwable)

@@ -1,0 +1,5 @@
+org/hibernate/cfg/HbmBinder/bindSimpleValueType(org.dom4j.Element,org.hibernate.mapping.SimpleValue,org.hibernate.cfg.Mappings)@g_hibernate-core-4.3.6.Final.jar.txt	4
+org/hibernate/bytecode/buildtime/spi/AbstractInstrumenter/processClassFile(java.io.File,java.util.Set)@g_hibernate-core-4.3.6.Final.jar.txt	0
+org/hibernate/hql/internal/antlr/HqlSqlBaseWalker/count(antlr.collections.AST)@g_hibernate-core-4.3.6.Final.jar.txt	3
+org/hibernate/cfg/Ejb3JoinColumn/setJoinAnnotation(javax.persistence.JoinColumn,java.lang.String)@g_hibernate-core-4.3.6.Final.jar.txt	2
+org/hibernate/bytecode/buildtime/spi/AbstractInstrumenter/processClassFile(java.io.File,java.util.Set)@g_hibernate-core-4.3.10.Final.jar.txt	1

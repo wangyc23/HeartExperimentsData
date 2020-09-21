@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handleDeploymentDescriptors(org.apache.maven.plugin.war.packaging.WarPackagingContext,java.io.File,java.io.File)@g_maven-war-plugin-2.5.jar.txt	2
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handeWebAppSourceDirectory(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.5.jar.txt	4
+org/apache/maven/plugin/war/packaging/WarProjectPackagingTask/handleDeploymentDescriptors(org.apache.maven.plugin.war.packaging.WarPackagingContext,java.io.File,java.io.File)@g_maven-war-plugin-2.2.jar.txt	3
+org/apache/maven/plugin/war/AbstractWarMojo/getExcludes()@g_maven-war-plugin-2.5.jar.txt	0
+org/apache/maven/plugin/war/AbstractWarMojo/getExcludes()@g_maven-war-plugin-2.2.jar.txt	1

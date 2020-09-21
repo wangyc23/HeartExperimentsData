@@ -1,0 +1,4 @@
+org/neo4j/graphdb/traversal/LevelSelectorOrderer/nextSelector()
+java/util/concurrent/atomic/AtomicInteger/get()
+org/neo4j/graphdb/traversal/LevelSelectorOrderer$TotalDepth/get()
+org/neo4j/graphdb/traversal/TraversalBranch/length()

@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+java/nio/ByteBuffer/get(byte[],int,int)
+java/nio/ByteBuffer/arrayOffset()
+java/nio/ByteBuffer/remaining()

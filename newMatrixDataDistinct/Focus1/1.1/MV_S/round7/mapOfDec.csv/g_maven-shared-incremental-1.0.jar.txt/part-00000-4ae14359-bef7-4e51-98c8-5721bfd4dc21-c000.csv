@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/InstallMojo/installProjectDependencies(org.apache.maven.project.MavenProject,java.util.Collection,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/eclipse/tycho/packaging/ProductExportMojo/generateConfigIni(org.eclipse.tycho.core.shared.TargetEnvironment,java.io.File)@g_maven-invoker-plugin-2.0.0.jar.txt	3
+org/eclipse/tycho/packaging/ProductExportMojo/createProductArchive(java.io.File,java.lang.String)@g_tycho-packaging-plugin-0.23.1.jar.txt	0
+org/eclipse/tycho/packaging/ProductExportMojo/copyDirectory(java.io.File,java.io.File,java.lang.String)@g_maven-invoker-plugin-2.0.0.jar.txt	2
+org/eclipse/tycho/packaging/PackagePluginMojo/updateManifest()@g_tycho-packaging-plugin-0.23.1.jar.txt	1

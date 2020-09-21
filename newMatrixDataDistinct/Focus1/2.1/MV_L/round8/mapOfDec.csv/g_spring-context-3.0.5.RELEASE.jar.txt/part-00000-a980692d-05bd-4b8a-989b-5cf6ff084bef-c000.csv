@@ -1,0 +1,5 @@
+org/springframework/context/support/AbstractApplicationContext/initLifecycleProcessor()@g_spring-context-3.1.4.RELEASE.jar.txt	2
+org/springframework/cache/interceptor/AbstractFallbackCacheOperationSource/getCacheOperations(java.lang.reflect.Method,java.lang.Class)@g_spring-context-3.1.4.RELEASE.jar.txt	4
+org/springframework/context/support/DefaultLifecycleProcessor/doStart(java.util.Map,java.lang.String,boolean)@g_spring-context-3.1.4.RELEASE.jar.txt	1
+org/springframework/validation/DataBinder/checkAllowedFields(org.springframework.beans.MutablePropertyValues)@g_spring-context-3.1.4.RELEASE.jar.txt	3
+org/springframework/remoting/rmi/RmiBasedExporter/getObjectToExport()@g_spring-context-3.1.4.RELEASE.jar.txt	0

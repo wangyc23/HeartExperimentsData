@@ -1,0 +1,5 @@
+org/apache/maven/plugin/plugin/AbstractGeneratorMojo/execute()@g_maven-plugin-plugin-3.4.jar.txt	0
+org/apache/maven/plugin/plugin/PluginReport/extractPluginDescriptor()@g_maven-plugin-plugin-3.4.jar.txt	1
+org/apache/maven/plugin/plugin/PluginReport/PluginOverviewRenderer/renderUsageSection(boolean)@g_maven-plugin-plugin-3.4.jar.txt	2
+org/apache/maven/plugin/plugin/UpdatePluginRegistryMojo/writeUserRegistry(java.lang.String,java.lang.String,org.apache.maven.plugin.registry.PluginRegistry)@g_maven-plugin-plugin-3.4.jar.txt	4
+org/apache/maven/plugin/plugin/metadata/AddPluginArtifactMetadataMojo/execute()@g_maven-plugin-plugin-3.4.jar.txt	3

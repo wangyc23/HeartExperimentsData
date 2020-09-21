@@ -1,0 +1,4 @@
+0	com/sun/syndication/feed/synd/SyndEntry/setPublishedDate(java.util.Date)
+1	com/sun/syndication/feed/synd/SyndEntry/setAuthor(java.lang.String)
+2	com/sun/syndication/feed/synd/SyndEntry/setTitle(java.lang.String)
+3	com/sun/syndication/feed/synd/SyndEntry/setCategories(java.util.List)

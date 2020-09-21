@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/resolver/ResourceResolver/resolveBundleFromProject(org.apache.maven.plugin.javadoc.resolver.SourceResolverConfig,org.apache.maven.project.MavenProject,org.apache.maven.artifact.Artifact)@g_maven-javadoc-plugin-2.9.1.jar.txt	2
+org/apache/maven/plugin/javadoc/JavadocUtil/getClassNamesFromJar(java.io.File)@g_maven-javadoc-plugin-2.9.1.jar.txt	0
+org/apache/maven/plugin/javadoc/JavadocUtil/copyResource(java.net.URL,java.io.File)@g_maven-javadoc-plugin-2.9.1.jar.txt	3
+org/apache/maven/plugin/javadoc/resolver/ResourceResolver/resolveBundlesFromArtifacts(org.apache.maven.plugin.javadoc.resolver.SourceResolverConfig,java.util.List)@g_maven-javadoc-plugin-2.9.1.jar.txt	4
+org/apache/maven/plugin/javadoc/JavadocUtil/getClassNamesFromJar(java.io.File)@g_maven-javadoc-plugin-2.10.3.jar.txt	1

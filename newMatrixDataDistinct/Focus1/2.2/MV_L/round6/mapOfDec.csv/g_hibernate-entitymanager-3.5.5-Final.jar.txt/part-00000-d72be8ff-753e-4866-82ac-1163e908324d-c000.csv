@@ -1,0 +1,5 @@
+org/hibernate/ejb/packaging/JarProtocolVisitor/init()@g_hibernate-entitymanager-3.6.10.Final.jar.txt	2
+org/hibernate/ejb/packaging/JarVisitorFactory/getJarURLFromURLEntry(java.net.URL,java.lang.String)@g_hibernate-entitymanager-3.6.10.Final.jar.txt	3
+org/hibernate/jpa/boot/archive/internal/ArchiveHelper/getJarURLFromURLEntry(java.net.URL,java.lang.String)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	4
+org/hibernate/ejb/packaging/ExplodedJarVisitor/doProcessElements()@g_hibernate-entitymanager-3.6.10.Final.jar.txt	0
+org/hibernate/ejb/packaging/FileZippedJarVisitor/doProcessElements()@g_hibernate-entitymanager-3.6.10.Final.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/Process/getErrorStream()
+java/io/BufferedReader/close()
+java/io/IOException/IOException(java.lang.String)
+org/apache/catalina/servlets/CGIServlet$CGIRunner/hashToStringArray(java.util.Hashtable)

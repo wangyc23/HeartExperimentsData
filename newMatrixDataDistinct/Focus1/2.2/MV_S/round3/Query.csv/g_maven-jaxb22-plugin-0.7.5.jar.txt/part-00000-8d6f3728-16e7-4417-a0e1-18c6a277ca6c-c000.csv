@@ -1,0 +1,4 @@
+com/sun/codemodel/JPackage/isUnnamed()
+com/sun/codemodel/CodeWriter/openSource(com.sun.codemodel.JPackage,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

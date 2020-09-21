@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+com/fasterxml/jackson/core/JsonParser/getDoubleValue()
+com/fasterxml/jackson/core/JsonParser/getIntValue()
+com/fasterxml/jackson/core/JsonParser/getEmbeddedObject()

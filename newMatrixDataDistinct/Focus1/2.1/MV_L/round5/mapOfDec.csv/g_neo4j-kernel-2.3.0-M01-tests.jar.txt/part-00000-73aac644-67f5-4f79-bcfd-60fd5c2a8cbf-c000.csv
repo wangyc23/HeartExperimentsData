@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/transaction/log/TransactionPositionLocatorTest/shouldFindTransactionLogPosition()@g_neo4j-kernel-2.2.5-tests.jar.txt	4
+org/neo4j/kernel/impl/transaction/log/TransactionPositionLocatorTest/shouldFindTransactionLogPosition()@g_neo4j-kernel-2.2.1-tests.jar.txt	0
+org/neo4j/kernel/impl/transaction/PhysicalLogicalTransactionStoreTest/shouldThrowNoSuchTransactionExceptionIfLogFileIsMissing()@g_neo4j-kernel-2.2.1-tests.jar.txt	1
+org/neo4j/kernel/impl/transaction/TransactionMetadataCacheTest/shouldClearTheCaches()@g_neo4j-kernel-2.2.1-tests.jar.txt	3
+org/neo4j/kernel/impl/transaction/TransactionMetadataCacheTest/shouldThrowWhenCachingATxWithNegativeOffsetPosition()@g_neo4j-kernel-2.2.1-tests.jar.txt	2

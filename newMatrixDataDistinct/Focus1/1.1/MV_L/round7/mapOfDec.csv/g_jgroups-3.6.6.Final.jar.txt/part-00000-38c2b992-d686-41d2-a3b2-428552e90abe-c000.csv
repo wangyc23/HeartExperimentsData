@@ -1,0 +1,5 @@
+edu/stanford/nlp/stats/Counters/printCounterSortedByKeys(edu.stanford.nlp.stats.Counter)@g_jgroups-3.6.2.Final.jar.txt	4
+org/jgroups/protocols/tom/DeliveryManagerImpl/removeLeavers(java.util.Collection)@g_jgroups-3.6.2.Final.jar.txt	0
+org/jgroups/protocols/tom/DeliveryManagerImpl/markReadyToDeliverV2(org.jgroups.protocols.tom.MessageID,long)@g_jgroups-3.6.2.Final.jar.txt	1
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_jgroups-3.6.2.Final.jar.txt	3
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_jgroups-3.6.2.Final.jar.txt	2

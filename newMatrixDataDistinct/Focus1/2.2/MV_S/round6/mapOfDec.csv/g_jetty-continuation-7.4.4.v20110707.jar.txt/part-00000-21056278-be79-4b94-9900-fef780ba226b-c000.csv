@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlets/DoSFilter/init(javax.servlet.FilterConfig)@g_jetty-servlets-8.1.22.v20160922.jar.txt	1
+org/eclipse/jetty/servlets/GzipFilter/init(javax.servlet.FilterConfig)@g_jetty-servlets-8.1.22.v20160922.jar.txt	3
+org/eclipse/jetty/servlets/CrossOriginFilter/init(javax.servlet.FilterConfig)@g_jetty-servlets-8.1.22.v20160922.jar.txt	0
+org/eclipse/jetty/servlets/PutFilter/init(javax.servlet.FilterConfig)@g_jetty-servlets-8.1.22.v20160922.jar.txt	4
+org/eclipse/jetty/servlets/QoSFilter/init(javax.servlet.FilterConfig)@g_jetty-servlets-8.1.22.v20160922.jar.txt	2

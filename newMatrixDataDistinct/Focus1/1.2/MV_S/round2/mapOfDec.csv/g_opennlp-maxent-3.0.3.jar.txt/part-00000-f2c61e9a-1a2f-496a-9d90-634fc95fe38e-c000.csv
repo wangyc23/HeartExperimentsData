@@ -1,0 +1,5 @@
+opennlp/model/TwoPassDataIndexer/index(int,opennlp.model.EventStream,java.util.Map)@g_opennlp-maxent-3.0.2-incubating.jar.txt	4
+opennlp/model/OnePassRealValueDataIndexer/index(java.util.LinkedList,java.util.Map)@g_opennlp-maxent-3.0.2-incubating.jar.txt	3
+opennlp/maxent/io/GISModelWriter/persist()@g_opennlp-maxent-3.0.2-incubating.jar.txt	2
+opennlp/perceptron/PerceptronModelWriter/persist()@g_opennlp-maxent-3.0.2-incubating.jar.txt	1
+opennlp/model/AbstractDataIndexer/sortAndMerge(java.util.List,boolean)@g_opennlp-maxent-3.0.2-incubating.jar.txt	0

@@ -1,0 +1,4 @@
+org/openrdf/query/algebra/helpers/StatementPatternCollector/process(org.openrdf.query.algebra.QueryModelNode)
+java/util/Iterator/hasNext()
+org/openrdf/query/parser/sparql/TupleExprBuilder$VarCollector/access$100(org.openrdf.query.parser.sparql.TupleExprBuilder$VarCollector)
+java/util/Map/isEmpty()

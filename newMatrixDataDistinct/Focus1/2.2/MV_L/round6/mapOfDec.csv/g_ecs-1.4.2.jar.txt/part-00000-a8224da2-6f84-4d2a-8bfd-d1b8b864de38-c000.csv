@@ -1,0 +1,5 @@
+org/apache/log4j/net/SocketServer/main(java.lang.String[])@g_log4j-1.2.12.jar.txt	4
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_log4j-1.2.12.jar.txt	2
+org/jdom/xpath/XPath/setXPathClass(java.lang.Class)@g_jdom-1.0.jar.txt	1
+JDOMAbout/main(java.lang.String[])@g_jdom-1.0.jar.txt	0
+org/apache/log4j/varia/HUP/run()@g_log4j-1.2.12.jar.txt	3

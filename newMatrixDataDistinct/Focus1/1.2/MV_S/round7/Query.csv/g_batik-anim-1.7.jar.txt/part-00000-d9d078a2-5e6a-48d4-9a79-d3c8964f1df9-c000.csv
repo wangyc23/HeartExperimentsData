@@ -1,0 +1,4 @@
+org/apache/batik/dom/svg/AbstractSVGTransform/getType()
+org/apache/batik/dom/svg/AbstractSVGTransform/getAngle()
+org/w3c/dom/svg/SVGMatrix/getA()
+org/w3c/dom/svg/SVGMatrix/getD()

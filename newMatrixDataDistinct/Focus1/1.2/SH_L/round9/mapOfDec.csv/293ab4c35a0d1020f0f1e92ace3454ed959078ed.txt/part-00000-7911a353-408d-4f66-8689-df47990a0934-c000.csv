@@ -1,0 +1,5 @@
+org/jboss/resteasy/util/AcceptParser/parseCharset(java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+org/jboss/resteasy/plugins/providers/multipart/ContentIDUtils/parseAddrSpecFromContentID(java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+org/jboss/resteasy/util/DateUtil/parseDate(java.lang.String,java.util.Collection,java.util.Date)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+Acme/Serve/Serve/ServeConnection/sendRedirect(java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+org/jboss/resteasy/plugins/delegates/EntityTagDelegate/fromString(java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2

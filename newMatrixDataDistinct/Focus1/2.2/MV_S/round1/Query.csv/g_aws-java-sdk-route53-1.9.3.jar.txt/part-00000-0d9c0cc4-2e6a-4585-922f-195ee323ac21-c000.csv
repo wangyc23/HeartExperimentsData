@@ -1,0 +1,4 @@
+com/amazonaws/Request/setResourcePath(java.lang.String)
+java/lang/String/substring(int,int)
+java/lang/String/contains(java.lang.CharSequence)
+java/lang/String/split(java.lang.String)

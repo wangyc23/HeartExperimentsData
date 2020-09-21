@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/io/File/getName()
+org/apache/maven/artifact/Artifact/getFile()
+java/util/Set/iterator()

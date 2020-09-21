@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/StringBuffer/toString()
+java/lang/String/indexOf(java.lang.String)
+java/util/regex/Pattern/matcher(java.lang.CharSequence)

@@ -1,0 +1,4 @@
+java/util/concurrent/atomic/AtomicLong/addAndGet(long)
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+java/lang/StringBuilder/append(long)

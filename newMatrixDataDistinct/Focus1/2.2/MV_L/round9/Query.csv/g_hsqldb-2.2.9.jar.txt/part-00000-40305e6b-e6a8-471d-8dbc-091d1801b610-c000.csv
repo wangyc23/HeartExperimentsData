@@ -1,0 +1,4 @@
+org/hsqldb/ParserDQL/read()
+org/hsqldb/ParserDQL$CompileContext/access$200(org.hsqldb.ParserDQL$CompileContext,java.lang.String,org.hsqldb.TableDerived)
+org/hsqldb/ParserDQL$CompileContext/access$300(org.hsqldb.ParserDQL$CompileContext)
+org/hsqldb/ParserDQL/unexpectedToken(java.lang.String)

@@ -1,0 +1,5 @@
+com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider/write(java.lang.reflect.Field,java.lang.Object,java.lang.Object)@g_geoapi-3.0.0.jar.txt	3
+com/thoughtworks/xstream/io/binary/Token/writeId(java.io.DataOutput,long,byte)@g_geoapi-3.0.0.jar.txt	2
+org/jboss/marshalling/serial/Serial/dumpObject(java.util.Map,java.util.concurrent.atomic.AtomicInteger,java.io.DataInputStream,java.io.BufferedWriter,int,int)@g_geoapi-3.0.0.jar.txt	1
+com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter/getCallbacks(java.lang.Object)@g_geoapi-3.0.0.jar.txt	0
+com/thoughtworks/xstream/core/DefaultConverterLookup/lookupConverterForType(java.lang.Class)@g_geoapi-3.0.0.jar.txt	4

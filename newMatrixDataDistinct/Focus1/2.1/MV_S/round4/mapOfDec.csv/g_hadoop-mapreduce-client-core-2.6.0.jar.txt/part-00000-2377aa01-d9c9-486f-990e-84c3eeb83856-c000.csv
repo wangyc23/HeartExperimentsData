@@ -1,0 +1,5 @@
+org/apache/hadoop/net/NetworkTopology/InnerNode/add(org.apache.hadoop.net.Node)@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/ipc/RPC/Server/getSupportedProtocolVersions(org.apache.hadoop.ipc.RPC$RpcKind,java.lang.String)@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/ipc/RPC/Server/getHighestSupportedProtocol(org.apache.hadoop.ipc.RPC$RpcKind,java.lang.String)@g_hadoop-common-2.6.0.jar.txt	3
+org/apache/hadoop/fs/ftp/FTPFileSystem/rename(org.apache.commons.net.ftp.FTPClient,org.apache.hadoop.fs.Path,org.apache.hadoop.fs.Path)@g_hadoop-common-2.6.0.jar.txt	1
+org/apache/hadoop/security/SaslRpcClient/getServerPrincipal(org.apache.hadoop.ipc.protobuf.RpcHeaderProtos$RpcSaslProto$SaslAuth)@g_hadoop-common-2.6.0.jar.txt	4

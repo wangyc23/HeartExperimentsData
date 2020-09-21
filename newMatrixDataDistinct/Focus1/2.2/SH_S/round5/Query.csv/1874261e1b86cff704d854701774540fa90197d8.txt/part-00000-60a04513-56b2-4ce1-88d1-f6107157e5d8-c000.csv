@@ -1,0 +1,4 @@
+java/io/InputStream/read(byte[])
+java/io/ByteArrayOutputStream/write(byte[],int,int)
+java/io/InputStream/close()
+java/io/ByteArrayOutputStream/toByteArray()

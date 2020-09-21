@@ -1,0 +1,5 @@
+com/sun/jersey/spi/service/ServiceFinder/compatibleManifest(java.net.URL)@g_jersey-core-1.11.jar.txt	2
+com/sun/jersey/api/uri/UriBuilderImpl/schemeSpecificPart(java.lang.String)@g_jersey-core-1.11.jar.txt	4
+com/sun/jersey/core/spi/component/ProviderServices/getServiceClasses(java.lang.Class,java.util.Set)@g_jersey-core-1.11.jar.txt	3
+com/sun/jersey/spi/service/ServiceFinder/getBundleAttribute(java.lang.String)@g_jersey-core-1.11.jar.txt	1
+com/sun/jersey/core/impl/provider/entity/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-core-1.11.jar.txt	0

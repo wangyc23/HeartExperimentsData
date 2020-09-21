@@ -1,0 +1,5 @@
+javax/el/ImportHandler/importStatic(java.lang.String)@g_tomcat-embed-el-8.0.23.jar.txt	3
+javax/el/ImportHandler/importStatic(java.lang.String)@g_tomcat-embed-el-8.0.20.jar.txt	0
+org/apache/el/util/ReflectionUtil/getMethod(org.apache.el.lang.EvaluationContext,java.lang.Object,java.lang.Object,java.lang.Class[],java.lang.Object[])@g_tomcat-embed-el-8.0.20.jar.txt	1
+org/apache/el/util/ReflectionUtil/getMethod(org.apache.el.lang.EvaluationContext,java.lang.Object,java.lang.Object,java.lang.Class[],java.lang.Object[])@g_tomcat-embed-el-8.0.23.jar.txt	4
+javax/el/ELProcessor/defineFunction(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_tomcat-embed-el-8.0.20.jar.txt	2

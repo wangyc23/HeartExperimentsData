@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/QualifierCache/qualify(org.sonatype.guice.bean.reflect.ClassSpace,java.lang.String)@g_truecommons-annotations-2.5.0.jar.txt	4
+org/antlr/v4/runtime/misc/NullUsageProcessor/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_truecommons-annotations-2.5.0.jar.txt	3
+net/java/truecommons/annotations/processing/ServiceImplementationProcessor/processAnnotations(javax.lang.model.element.TypeElement,net.java.truecommons.annotations.processing.ServiceImplementationProcessor$Registry)@g_truecommons-annotations-2.5.0.jar.txt	0
+net/java/truecommons/annotations/processing/ServiceImplementationProcessor/2Visitor/visitDeclared(javax.lang.model.type.DeclaredType,java.lang.Void)@g_truecommons-annotations-2.5.0.jar.txt	1
+org/sonatype/guice/bean/scanners/index/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_truecommons-annotations-2.5.0.jar.txt	2

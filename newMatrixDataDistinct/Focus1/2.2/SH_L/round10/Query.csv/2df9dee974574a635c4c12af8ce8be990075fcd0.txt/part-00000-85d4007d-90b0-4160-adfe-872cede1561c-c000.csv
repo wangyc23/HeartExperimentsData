@@ -1,0 +1,4 @@
+org/wltea/analyzer/core/LetterSegmenter/LetterSegmenter()
+java/util/ArrayList/ArrayList(int)
+java/util/List/add(E)
+org/wltea/analyzer/core/CN_QuantifierSegmenter/CN_QuantifierSegmenter()

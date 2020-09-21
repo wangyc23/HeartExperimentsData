@@ -1,0 +1,5 @@
+org/xwiki/annotation/internal/renderer/AnnotationGeneratorChainingListener/onSpecialSymbol(char)@g_xwiki-rendering-macro-box-7.0.jar.txt	3
+org/xwiki/annotation/internal/DefaultAnnotationService/addAnnotation(java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.util.Map)@g_xwiki-rendering-macro-box-7.0.jar.txt	2
+org/xwiki/annotation/internal/content/AbstractFilterContentAlterer/alter(java.lang.CharSequence)@g_xwiki-rendering-macro-box-7.0.jar.txt	4
+org/xwiki/rendering/macro/box/AbstractBoxMacro/execute(org.xwiki.rendering.macro.box.BoxMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-rendering-macro-box-7.0.jar.txt	1
+org/xwiki/annotation/renderer/LinkLabelGeneratorChainingListener/endLink(org.xwiki.rendering.listener.reference.ResourceReference,boolean,java.util.Map)@g_xwiki-rendering-macro-box-7.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/ivy/core/settings/XmlSettingsParser/doParse(java.net.URL)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	2
+org/apache/ivy/util/XMLHelper/newSAXParser(java.net.URL,java.io.InputStream)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/core/module/descriptor/DefaultModuleDescriptor/addArtifact(java.lang.String,org.apache.ivy.core.module.descriptor.Artifact)@g_attributes-processor-1.0.1.jar.txt	4

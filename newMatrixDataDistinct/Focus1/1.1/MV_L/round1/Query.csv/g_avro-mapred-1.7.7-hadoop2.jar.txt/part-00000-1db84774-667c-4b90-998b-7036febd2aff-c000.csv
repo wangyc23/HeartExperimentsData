@@ -1,0 +1,1 @@
+org/apache/hadoop/mapreduce/lib/output/FileOutputFormat/getCompressOutput(org.apache.hadoop.mapreduce.JobContext)

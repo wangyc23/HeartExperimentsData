@@ -1,0 +1,5 @@
+org/apache/http/impl/nio/codecs/AbstractMessageParser/parse()@g_httpcore-nio-4.4.4.jar.txt	2
+org/apache/http/impl/nio/reactor/AbstractMultiworkerIOReactor/doShutdown()@g_httpcore-nio-4.4.4.jar.txt	0
+org/apache/http/impl/nio/reactor/AbstractMultiworkerIOReactor/doShutdown()@g_httpcore-osgi-4.4.4.jar.txt	1
+org/apache/http/impl/nio/bootstrap/ServerBootstrap/create()@g_httpcore-nio-4.4.4.jar.txt	3
+org/apache/http/nio/pool/RouteSpecificPool/shutdown()@g_httpcore-nio-4.4.4.jar.txt	4

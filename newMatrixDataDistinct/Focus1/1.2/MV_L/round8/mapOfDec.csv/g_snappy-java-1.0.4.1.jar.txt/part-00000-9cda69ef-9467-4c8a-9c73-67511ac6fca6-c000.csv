@@ -1,0 +1,5 @@
+org/xerial/snappy/SnappyFramedInputStream/getFrameMetaData(java.nio.ByteBuffer)@g_snappy-java-1.1.2.6.jar.txt	2
+org/xerial/snappy/OSInfo/getArchName()@g_snappy-java-1.1.2.6.jar.txt	4
+org/xerial/snappy/SnappyLoader/loadSnappySystemProperties()@g_snappy-java-1.1.2.6.jar.txt	3
+org/apache/commons/crypto/NativeCodeLoader/findNativeLibrary()@g_commons-crypto-1.0.0.jar.txt	1
+org/xerial/snappy/SnappyLoader/findNativeLibrary()@g_snappy-java-1.1.2.6.jar.txt	0

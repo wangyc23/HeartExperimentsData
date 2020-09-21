@@ -1,0 +1,5 @@
+org/springframework/data/neo4j/repository/query/IndexBasedStartClause/matchToPartsAndConvert(java.util.Map,java.util.Map,org.springframework.data.neo4j.support.Neo4jTemplate)@g_ehcache-core-1.7.2.jar.txt	3
+org/springframework/data/neo4j/repository/AbstractGraphRepository/query(org.neo4j.cypherdsl.grammar.Execute,org.neo4j.cypherdsl.grammar.Execute,java.util.Map,org.springframework.data.domain.Pageable)@g_ehcache-core-1.7.2.jar.txt	0
+net/sf/ehcache/store/DiskStore/dispose()@g_ehcache-core-1.7.2.jar.txt	2
+org/springframework/data/neo4j/repository/GeoConverter/toWkt(org.springframework.data.geo.Polygon)@g_ehcache-core-1.7.2.jar.txt	1
+net/sf/ehcache/util/ClassLoaderUtil/createNewInstance(java.lang.String,java.lang.Class[],java.lang.Object[])@g_ehcache-core-1.7.2.jar.txt	4

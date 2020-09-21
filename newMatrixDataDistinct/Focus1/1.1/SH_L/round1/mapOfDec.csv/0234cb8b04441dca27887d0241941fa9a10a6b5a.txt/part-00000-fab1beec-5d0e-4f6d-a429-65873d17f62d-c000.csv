@@ -1,0 +1,5 @@
+org/dspace/eperson/dao/impl/EPersonDAOImpl/search(org.dspace.core.Context,java.lang.String,java.util.List,java.util.List,int,int)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	3
+org/dspace/core/Email/InputStreamDataSource/getOutputStream()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	1
+org/dspace/app/xmlui/aspect/administrative/FlowItemUtils/processReorderBitstream(org.dspace.core.Context,java.util.UUID,org.dspace.app.xmlui.aspect.artifactbrowser.Request)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	0
+org/dspace/content/packager/AbstractMETSIngester/removeObject(org.dspace.core.Context,org.dspace.content.DSpaceObject)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	4
+org/dspace/curate/Curator/isContainer(org.dspace.content.DSpaceObject)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	2

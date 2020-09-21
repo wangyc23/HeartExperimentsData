@@ -1,0 +1,4 @@
+org/apache/maven/project/MavenProject/getRemoteArtifactRepositories()
+java/io/File/File(java.io.File,java.lang.String)
+org/apache/maven/project/ProjectBuildingException/getMessage()
+org/codehaus/plexus/logging/Logger/warn(java.lang.String)

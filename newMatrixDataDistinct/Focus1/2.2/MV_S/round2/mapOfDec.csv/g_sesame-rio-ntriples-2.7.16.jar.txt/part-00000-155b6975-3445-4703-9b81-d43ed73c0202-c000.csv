@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/rio/ntriples/NTriplesUtil/parseURI(java.lang.String,org.eclipse.rdf4j.model.ValueFactory)@g_rdf4j-rio-ntriples-2.1.4.jar.txt	0
+org/openrdf/rio/nquads/NQuadsParser/parseContext(int)@g_sesame-rio-nquads-2.7.16.jar.txt	4
+org/openrdf/rio/nquads/NQuadsParser/parseQuad(int)@g_sesame-rio-nquads-2.7.16.jar.txt	3
+org/eclipse/rdf4j/rio/ntriples/NTriplesParser/parseTriple(int)@g_rdf4j-rio-ntriples-2.1.4.jar.txt	2
+org/eclipse/rdf4j/rio/ntriples/NTriplesUtil/unescapeString(java.lang.String)@g_rdf4j-rio-ntriples-2.1.4.jar.txt	1

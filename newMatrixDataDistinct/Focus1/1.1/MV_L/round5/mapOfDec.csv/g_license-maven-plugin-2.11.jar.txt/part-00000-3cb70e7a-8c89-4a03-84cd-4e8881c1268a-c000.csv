@@ -1,0 +1,5 @@
+org/codehaus/mojo/exec/ExecMojo/handleSystemEnvVariables()@g_exec-maven-plugin-1.4.0.jar.txt	2
+com/mycila/maven/plugin/license/AbstractLicenseMojo/buildExcludes()@g_exec-maven-plugin-1.4.0.jar.txt	4
+com/mycila/maven/plugin/license/AbstractLicenseMojo/buildMapping()@g_exec-maven-plugin-1.4.0.jar.txt	1
+org/codehaus/mojo/exec/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_exec-maven-plugin-1.4.0.jar.txt	3
+com/mycila/maven/plugin/license/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_exec-maven-plugin-1.4.0.jar.txt	0

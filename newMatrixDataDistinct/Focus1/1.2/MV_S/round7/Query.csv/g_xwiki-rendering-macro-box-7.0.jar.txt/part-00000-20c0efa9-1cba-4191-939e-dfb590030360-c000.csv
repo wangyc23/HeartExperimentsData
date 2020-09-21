@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/xwiki/rendering/block/Block/addChildren(java.util.List)
+java/lang/StringBuilder/append(java.lang.String)
+org/xwiki/rendering/listener/reference/ResourceReference/getType()

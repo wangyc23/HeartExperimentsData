@@ -1,0 +1,5 @@
+org/jboss/solder/test/util/AnnotationInstanceProviderTest/testIntMemberAnnotationCreation()@068d3b9e255c84cd63aec163e012653dd30ed149.txt	3
+org/jboss/solder/reflection/Reflections/isBindings(java.lang.annotation.Annotation)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	1
+org/jboss/solder/reflection/AnnotationInspector/getMetaAnnotation(org.jboss.solder.logging.Annotated,java.lang.Class)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	0
+org/apache/deltaspike/data/impl/meta/RepositoryMethod/extractMapper(java.lang.reflect.Method,org.apache.deltaspike.data.impl.meta.RepositoryComponent)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	2
+org/jboss/solder/bean/generic/GenericProducerMethod/wrapInjectionPoint(org.jboss.solder.logging.InjectionPoint,java.util.Set)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	4

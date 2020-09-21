@@ -1,0 +1,4 @@
+org/xwiki/rendering/block/MacroBlock/setParameter(java.lang.String,java.lang.String)
+org/xwiki/rendering/block/XDOM/getChildren()
+org/xwiki/rendering/transformation/MacroTransformationContext/getCurrentMacroBlock()
+org/xwiki/rendering/block/Block/traverse(org.xwiki.rendering.listener.Listener)

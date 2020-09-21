@@ -1,0 +1,5 @@
+org/xwiki/xml/html/HTMLUtils/XWikiXMLOutputter/escapeAmpersand(java.lang.String)@g_xwiki-commons-xml-7.0.jar.txt	1
+org/xwiki/xml/internal/html/filter/ListFilter/filter(org.w3c.dom.Element)@g_xwiki-commons-xml-7.0.jar.txt	4
+org/xwiki/xml/internal/html/filter/FontFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-commons-xml-7.0.jar.txt	2
+org/xwiki/xml/internal/html/filter/AttributeFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-commons-xml-7.0.jar.txt	0
+org/xwiki/xml/internal/LocalEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_xwiki-commons-xml-7.0.jar.txt	3

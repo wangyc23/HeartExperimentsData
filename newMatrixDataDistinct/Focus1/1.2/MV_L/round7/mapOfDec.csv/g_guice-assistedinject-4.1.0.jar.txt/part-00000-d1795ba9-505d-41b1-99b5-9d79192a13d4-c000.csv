@@ -1,0 +1,5 @@
+com/google/inject/multibindings/MapBinder/RealMapBinder/MultimapBinder/RealProviderMultimapProvider/initialize(com.google.inject.Injector)@g_guice-multibindings-4.1.0.jar.txt	3
+org/sonatype/guice/bean/binders/QualifiedTypeBinder/bindQualifiedType(java.lang.Class,com.google.inject.Binder)@g_sisu-inject-bean-2.1.1.jar.txt	0
+com/google/inject/multibindings/MapBinder/RealMapBinder/MultimapBinder/RealMultimapProvider/get()@g_guice-multibindings-4.1.0.jar.txt	1
+org/sonatype/guice/bean/scanners/index/QualifiedIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_sisu-inject-bean-2.1.1.jar.txt	4
+com/google/inject/multibindings/Multibinder/RealMultibinder/RealMultibinderCollectionOfProvidersProvider/getDependencies()@g_guice-multibindings-4.1.0.jar.txt	2

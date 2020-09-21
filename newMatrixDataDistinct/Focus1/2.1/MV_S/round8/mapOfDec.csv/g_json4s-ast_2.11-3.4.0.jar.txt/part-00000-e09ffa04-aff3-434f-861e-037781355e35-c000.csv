@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_3/ast/rewriters/PredicateSplitter/$plus(scala.Tuple2)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	3
+org/neo4j/cypher/internal/compiler/v2_3/planner/logical/cardinality/ExpressionSelectivityCalculator/anonfun/10/apply(org.neo4j.cypher.internal.frontend.v2_3.ast.LabelName)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_3/docgen/logicalPlanDocGen/apply(org.neo4j.cypher.internal.compiler.v2_3.planner.logical.plans.LogicalPlan,scala.reflect.api.TypeTags$TypeTag)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	0
+org/neo4j/cypher/internal/compiler/v2_3/codegen/ir/expressions/Addition/cypherType(org.neo4j.cypher.internal.compiler.v2_3.codegen.CodeGenContext)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	4
+org/neo4j/cypher/internal/compiler/v2_3/planner/logical/CardinalityCostModel/apply(org.neo4j.cypher.internal.compiler.v2_3.planner.logical.plans.LogicalPlan,org.neo4j.cypher.internal.compiler.v2_3.planner.logical.Metrics$QueryGraphSolverInput)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	2

@@ -1,0 +1,4 @@
+0	com/sportdataconnect/strictly/api/response/CoupleResultBuilder/setOutcome(java.lang.String)
+1	com/sportdataconnect/strictly/api/response/CoupleResultBuilder/setCoupleId(java.lang.String)
+2	com/sportdataconnect/strictly/api/response/CoupleResultBuilder/setDance(java.lang.String)
+3	com/sportdataconnect/strictly/api/response/CoupleResultBuilder/setMusic(java.lang.String)

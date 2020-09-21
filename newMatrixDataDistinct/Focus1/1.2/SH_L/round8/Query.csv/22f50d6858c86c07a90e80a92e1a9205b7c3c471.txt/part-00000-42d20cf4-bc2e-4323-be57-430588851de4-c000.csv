@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/ArrayList/ArrayList(int)
+com/novthir/security/entity/Organization/getParent()
+java/util/List/removeAll(java.util.Collection)

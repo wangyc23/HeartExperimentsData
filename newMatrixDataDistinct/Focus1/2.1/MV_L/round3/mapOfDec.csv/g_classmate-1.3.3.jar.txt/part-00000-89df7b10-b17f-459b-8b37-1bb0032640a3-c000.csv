@@ -1,0 +1,5 @@
+com/fasterxml/classmate/TypeResolver/resolveSubtype(com.fasterxml.classmate.ResolvedType,java.lang.Class)@g_classmate-1.0.0.jar.txt	1
+com/fasterxml/classmate/ResolvedType/_getFields(boolean)@g_classmate-1.1.0.jar.txt	3
+com/fasterxml/classmate/ResolvedTypeWithMembers/resolveMemberMethods()@g_classmate-1.1.0.jar.txt	2
+com/fasterxml/classmate/MemberResolver/resolve(com.fasterxml.classmate.ResolvedType,com.fasterxml.classmate.AnnotationConfiguration,com.fasterxml.classmate.AnnotationOverrides)@g_classmate-1.1.0.jar.txt	4
+com/fasterxml/classmate/TypeResolver/resolveSubtype(com.fasterxml.classmate.ResolvedType,java.lang.Class)@g_classmate-1.1.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/thymeleaf/util/EvaluationUtil/evaluateAsNumber(java.lang.Object)@g_shiro-core-1.2.2.jar.txt	2
+org/thymeleaf/extras/springsecurity4/util/SpringSecurityVersionUtils/<clinit>()@g_shiro-core-1.2.2.jar.txt	4
+org/thymeleaf/standard/expression/StandardExpressionPreprocessor/preprocess(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,java.lang.String)@g_shiro-core-1.2.2.jar.txt	0
+org/thymeleaf/context/WrappingVariablesMap/entrySet()@g_shiro-core-1.2.2.jar.txt	1
+org/thymeleaf/extras/springsecurity4/dialect/processor/AuthorizeAclAttrProcessor/isVisible(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_shiro-core-1.2.2.jar.txt	3

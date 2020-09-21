@@ -1,0 +1,5 @@
+wikibooks/hadoop/chapter05/DelayCountMapperWithCounter/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	4
+wikibooks/hadoop/chapter07/TaggedKey/readFields(java.io.DataInput)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	1
+wikibooks/hadoop/chapter06/DateKey/compareTo(wikibooks.hadoop.chapter06.DateKey)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	2
+wikibooks/hadoop/chapter06/DelayCountMapperWithDateKey/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	3
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/generateUrls(java.util.List,java.util.List,int)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	0

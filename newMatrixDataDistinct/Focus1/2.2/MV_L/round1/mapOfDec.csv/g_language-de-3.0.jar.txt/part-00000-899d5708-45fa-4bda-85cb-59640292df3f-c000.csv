@@ -1,0 +1,5 @@
+org/languagetool/tagging/uk/CompoundTagger/doGuessCompoundTag(java.lang.String)@g_language-uk-3.0.jar.txt	2
+org/languagetool/tagging/uk/CompoundTagger/getNvPrefixNounMatch(java.lang.String,java.util.List,java.lang.String)@g_language-uk-3.0.jar.txt	4
+org/languagetool/rules/uk/MixedAlphabetsRule/match(org.languagetool.AnalyzedSentence)@g_language-uk-3.0.jar.txt	3
+org/languagetool/tagging/uk/CompoundTagger/oAdjMatch(java.lang.String,java.util.List,java.lang.String)@g_language-uk-3.0.jar.txt	1
+org/languagetool/rules/ca/SimpleReplaceVerbsRule/match(org.languagetool.AnalyzedSentence)@g_language-ca-3.0.jar.txt	0

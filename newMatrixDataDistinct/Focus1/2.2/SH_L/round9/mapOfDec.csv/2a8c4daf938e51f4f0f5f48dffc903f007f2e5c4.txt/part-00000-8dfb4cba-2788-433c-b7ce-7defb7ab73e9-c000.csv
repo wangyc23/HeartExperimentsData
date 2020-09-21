@@ -1,0 +1,5 @@
+uk/ac/ic/wlgitbridge/snapshot/servermock/server/PostbackThread/run()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	4
+uk/ac/ic/wlgitbridge/snapshot/base/Request/performPostRequest()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	0
+uk/ac/ic/wlgitbridge/snapshot/base/Request/performGetRequest()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	2
+uk/ac/ic/wlgitbridge/bridge/WLBridgedProject/buildRepository(com.google.api.client.auth.oauth2.Credential)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	1
+uk/ac/ic/wlgitbridge/util/Log/warn(java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	3

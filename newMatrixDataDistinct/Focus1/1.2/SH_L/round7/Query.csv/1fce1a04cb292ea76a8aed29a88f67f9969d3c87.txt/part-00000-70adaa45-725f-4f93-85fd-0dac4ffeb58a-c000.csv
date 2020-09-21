@@ -1,0 +1,4 @@
+java/lang/management/ThreadMXBean/isThreadContentionMonitoringEnabled()
+java/lang/management/ThreadInfo/getLockOwnerId()
+java/lang/management/ThreadInfo/getThreadName()
+java/lang/management/ThreadInfo/getLockName()

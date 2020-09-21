@@ -1,0 +1,4 @@
+org/apache/lucene/document/StringField/StringField(java.lang.String,java.lang.String,org.apache.lucene.document.Field$Store)
+org/apache/lucene/util/BytesRef/BytesRef(java.lang.CharSequence)
+java/util/Iterator/next()
+java/util/Set/iterator()

@@ -1,0 +1,5 @@
+main/java/com/cart/bookmark/BookmarkController/remove(javax.servlet.http.HttpServletRequest,java.lang.String,java.lang.String)@2b55f5a0c2bae164e29d5aa9a196e1e98727871e.txt	1
+org/recipesearch/web/controllers/AppBindingInitializer/initBinder(org.springframework.web.bind.WebDataBinder,org.springframework.web.context.request.WebRequest)@2b55f5a0c2bae164e29d5aa9a196e1e98727871e.txt	4
+main/java/com/netty/DiscardServer/main(java.lang.String[])@2b55f5a0c2bae164e29d5aa9a196e1e98727871e.txt	2
+org/recipesearch/web/controllers/AdminUsersController/save(org.recipesearch.web.beans.UserBean,org.springframework.validation.BindingResult,org.springframework.web.bind.support.SessionStatus,javax.servlet.http.HttpServletRequest)@2b55f5a0c2bae164e29d5aa9a196e1e98727871e.txt	3
+org/recipesearch/hibernatesearch/po/Recipe/setAuthor(java.lang.String)@2b55f5a0c2bae164e29d5aa9a196e1e98727871e.txt	0

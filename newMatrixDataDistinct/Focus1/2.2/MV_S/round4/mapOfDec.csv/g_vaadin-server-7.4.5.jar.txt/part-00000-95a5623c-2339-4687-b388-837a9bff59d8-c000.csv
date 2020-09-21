@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/international/arabic/ArabicTreeNormalizer/normalizeWholeTree(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.TreeFactory)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/process/WordShapeClassifier/DistributionalClusters/loadWordClusters(java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/util/Execution/fillOptionsImpl(java.lang.Object[],java.lang.Class[],java.util.Properties,boolean)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/sequences/SeqClassifierFlags/setProperties(java.util.Properties,boolean)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/neural/Embedding/loadWordVectors(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	2

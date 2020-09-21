@@ -1,0 +1,4 @@
+java/nio/channels/SelectionKey/attachment()
+org/eclipse/jetty/websocket/WebSocketClientFactory$WebSocketClientSelector/getMaxIdleTime()
+org/eclipse/jetty/io/AsyncEndPoint/setConnection(org.eclipse.jetty.io.Connection)
+org/eclipse/jetty/io/nio/SelectorManager/newConnection(java.nio.channels.SocketChannel,org.eclipse.jetty.io.AsyncEndPoint,java.lang.Object)

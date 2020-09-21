@@ -1,0 +1,5 @@
+org/neo4j/io/fs/FileUtils/copyFile(java.io.File,java.io.File)@g_xwiki-commons-environment-common-7.0.jar.txt	0
+org/neo4j/io/pagecache/impl/muninn/BackgroundTask/run()@g_xwiki-commons-environment-common-7.0.jar.txt	3
+org/neo4j/io/fs/FileUtils/writeToFile(java.io.File,java.lang.String,boolean)@g_xwiki-commons-environment-common-7.0.jar.txt	1
+org/neo4j/io/fs/FileUtils/renameFile(java.io.File,java.io.File)@g_xwiki-commons-environment-common-7.0.jar.txt	2
+org/neo4j/io/fs/FileUtils/moveFile(java.io.File,java.io.File)@g_xwiki-commons-environment-common-7.0.jar.txt	4

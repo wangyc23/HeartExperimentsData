@@ -1,0 +1,5 @@
+org/xmlpull/v1/builder/impl/XmlElementImpl/cloneList(org.xmlpull.v1.builder.impl.XmlElementImpl,java.util.List)@g_xpp3-1.1.4c.jar.txt	2
+org/xmlpull/v1/builder/impl/XmlElementImpl/requiredTextContent()@g_xpp3-1.1.4c.jar.txt	0
+org/xmlpull/v1/wrapper/classic/StaticXmlSerializerWrapper/escapeText(java.lang.String)@g_xpp3-1.1.4c.jar.txt	4
+org/xmlpull/v1/sax2/Driver/parse(org.xml.sax.InputSource)@g_xpp3-1.1.4c.jar.txt	3
+org/xmlpull/v1/XmlPullParserFactory/newSerializer()@g_xpp3-1.1.4c.jar.txt	1

@@ -1,0 +1,4 @@
+0	java/lang/Long/Long(long)
+1	com/sun/syndication/fetcher/impl/HttpURLFeedFetcher/combineFeeds(com.sun.syndication.feed.synd.SyndFeed,com.sun.syndication.feed.synd.SyndFeed)
+2	java/net/URL/toString()
+3	java/net/HttpURLConnection/getLastModified()

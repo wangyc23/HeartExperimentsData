@@ -1,0 +1,4 @@
+org/springframework/security/core/GrantedAuthority/getAuthority()
+org/springframework/security/access/annotation/Jsr250Voter/supports(org.springframework.security.access.ConfigAttribute)
+com/porterhead/security/HierarchicalJsr250Voter/extractAuthorities(org.springframework.security.core.Authentication)
+org/springframework/security/access/SecurityConfig/equals(java.lang.Object)

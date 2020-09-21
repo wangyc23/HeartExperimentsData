@@ -1,0 +1,4 @@
+org/kumoricon/model/session/SessionService/getCurrentSessionForUser(org.kumoricon.model.user.User)
+org/kumoricon/model/order/Payment/setOrder(org.kumoricon.model.order.Order)
+org/kumoricon/model/order/Payment/setPaymentType(org.kumoricon.model.order.Payment.PaymentType)
+org/kumoricon/model/order/Payment/setPaymentTakenBy(org.kumoricon.model.user.User)

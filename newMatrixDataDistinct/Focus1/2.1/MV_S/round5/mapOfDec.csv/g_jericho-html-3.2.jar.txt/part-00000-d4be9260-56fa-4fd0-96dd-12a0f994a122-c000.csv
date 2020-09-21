@@ -1,0 +1,5 @@
+org/apache/sis/util/iso/DefaultRecordSchema/createRecordType(java.lang.CharSequence,java.util.Map)@g_sis-utility-0.5.jar.txt	4
+net/htmlparser/jericho/SourceFormatter/Processor/appendElement(net.htmlparser.jericho.Element,int,int,boolean,boolean)@g_sis-utility-0.5.jar.txt	1
+org/apache/sis/util/collection/DefaultTreeTable/Node/toString()@g_sis-utility-0.5.jar.txt	3
+org/apache/maven/surefire/util/DefaultDirectoryScanner/processIncludesExcludes(java.util.List)@g_sis-utility-0.5.jar.txt	2
+org/apache/sis/util/resources/IndexedResourceBundle/ensureLoaded(java.lang.String)@g_sis-utility-0.5.jar.txt	0

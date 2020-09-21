@@ -1,0 +1,4 @@
+java/lang/Throwable/printStackTrace()
+org/jclouds/examples/rackspace/clouddns/UpdateDomains/close()
+org/jclouds/examples/rackspace/clouddns/UpdateDomains/UpdateDomains(java.lang.String,java.lang.String)
+org/jclouds/examples/rackspace/clouddns/UpdateDomains/updateDomains()

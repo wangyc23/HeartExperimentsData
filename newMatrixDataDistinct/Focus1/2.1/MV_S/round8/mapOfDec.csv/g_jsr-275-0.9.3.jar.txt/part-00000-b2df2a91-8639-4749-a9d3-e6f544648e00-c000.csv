@@ -1,0 +1,5 @@
+com/ibm/icu/util/StringTrieBuilder/DynamicBranchNode/add(com.ibm.icu.util.StringTrieBuilder,java.lang.CharSequence,int,int)@g_icu4j-50.1.1.jar.txt	0
+com/ibm/icu/impl/Normalizer2Impl/makeFCDAndAppend(java.lang.CharSequence,boolean,com.ibm.icu.impl.Normalizer2Impl$ReorderingBuffer)@g_icu4j-50.1.1.jar.txt	2
+com/ibm/icu/text/Normalizer/cmpEquivFold(java.lang.CharSequence,java.lang.CharSequence,int)@g_icu4j-50.1.1.jar.txt	4
+com/ibm/icu/impl/TimeZoneNamesImpl/find(java.lang.CharSequence,int,java.util.EnumSet)@g_icu4j-50.1.1.jar.txt	3
+com/ibm/icu/impl/UTS46/process(java.lang.CharSequence,boolean,boolean,java.lang.StringBuilder,com.ibm.icu.text.IDNA$Info)@g_icu4j-50.1.1.jar.txt	1

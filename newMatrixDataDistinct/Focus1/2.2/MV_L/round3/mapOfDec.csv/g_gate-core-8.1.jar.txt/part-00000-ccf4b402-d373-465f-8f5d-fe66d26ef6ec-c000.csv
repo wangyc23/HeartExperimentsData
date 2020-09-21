@@ -1,0 +1,5 @@
+gate/creole/morph/ParsingFunctions/convertToRegExp(java.lang.String,gate.creole.morph.Storage)@g_ontology_tools-1.0.jar.txt	4
+gate/gui/LuceneDataStoreSearchGUI/TextMouseListener/mouseClicked(java.awt.event.MouseEvent)@g_ontology_tools-1.0.jar.txt	1
+gate/util/Files/updateXmlElement(java.io.BufferedReader,java.lang.String,java.util.Map)@g_ontology_tools-1.0.jar.txt	2
+gate/creole/annic/HTMLGenerator/generateHTMLTable(gate.creole.annic.Pattern)@g_ontology_tools-1.0.jar.txt	3
+gate/gui/NameBearerHandle/DumpToFileAction/1/run()@g_ontology_tools-1.0.jar.txt	0

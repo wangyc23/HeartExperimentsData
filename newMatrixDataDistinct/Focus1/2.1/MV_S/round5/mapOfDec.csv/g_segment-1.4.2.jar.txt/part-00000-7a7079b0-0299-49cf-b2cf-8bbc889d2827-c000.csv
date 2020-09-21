@@ -1,0 +1,5 @@
+org/jdom2/output/support/AbstractStAXStreamProcessor/printElement(javax.xml.stream.XMLStreamWriter,org.jdom2.output.support.FormatStack,org.jdom2.util.NamespaceStack,org.jdom2.Element)@g_jdom2-2.0.6.jar.txt	4
+org/jdom2/input/DOMBuilder/buildTree(org.w3c.dom.Node,org.jdom2.Document,org.jdom2.Element,boolean)@g_jdom2-2.0.6.jar.txt	3
+org/jdom2/output/support/AbstractSAXOutputProcessor/printElement(org.jdom2.output.support.SAXTarget,org.jdom2.output.support.FormatStack,org.jdom2.util.NamespaceStack,org.jdom2.Element)@g_jdom2-2.0.6.jar.txt	2
+org/jdom2/ProcessingInstruction/parseData(java.lang.String)@g_jdom2-2.0.6.jar.txt	0
+org/jdom2/xpath/util/AbstractXPathCompiled/getVariables()@g_jdom2-2.0.6.jar.txt	1

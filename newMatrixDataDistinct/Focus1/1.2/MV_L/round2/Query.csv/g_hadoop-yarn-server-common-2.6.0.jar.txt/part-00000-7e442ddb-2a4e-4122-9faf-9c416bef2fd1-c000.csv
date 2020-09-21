@@ -1,0 +1,4 @@
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto/getUnknownFields()
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto$Builder/onChanged()
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto/hasNodeAction()
+org/apache/hadoop/yarn/proto/YarnServerCommonServiceProtos$RegisterNodeManagerResponseProto/hasDiagnosticsMessage()

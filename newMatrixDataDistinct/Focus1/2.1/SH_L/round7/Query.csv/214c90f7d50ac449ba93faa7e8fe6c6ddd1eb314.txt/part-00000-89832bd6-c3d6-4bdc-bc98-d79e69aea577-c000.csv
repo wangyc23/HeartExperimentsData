@@ -1,0 +1,1 @@
+org/jboss/arquillian/testenricher/ejb/EJBInjectionEnricher/resolveJNDINames(java.lang.Class,java.lang.String,java.lang.String)

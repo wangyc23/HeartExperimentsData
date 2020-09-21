@@ -1,0 +1,4 @@
+0	java/util/AbstractMap/SimpleEntry/SimpleEntry(K,V)
+1	com/smartitengineering/cms/spi/workspace/WorkspaceService/removeRootContent(com.smartitengineering.cms.api.workspace.WorkspaceId,com.smartitengineering.cms.api.content.ContentId)
+2	com/smartitengineering/cms/api/factory/event/EventRegistrar/createEvent(com.smartitengineering.cms.api.event.Event.EventType,com.smartitengineering.cms.api.event.Event.Type,T)
+3	com/smartitengineering/cms/spi/SmartContentSPI/getInstance()

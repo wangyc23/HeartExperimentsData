@@ -1,0 +1,5 @@
+org/apache/felix/utils/properties/Properties/loadLayout(java.io.Reader)@g_org.apache.felix.utils-1.6.0.jar.txt	2
+org/apache/felix/utils/properties/InterpolationHelper/doSubstVars(java.lang.String,java.lang.String,java.util.Map,java.util.Map,org.apache.felix.utils.properties.InterpolationHelper$SubstitutionCallback)@g_org.apache.felix.utils-1.6.0.jar.txt	1
+org/apache/felix/utils/service/BaseManagedServiceFactory/internalUpdate(java.lang.String,java.util.Dictionary)@g_org.apache.felix.utils-1.6.0.jar.txt	3
+org/apache/felix/utils/properties/Properties/put(java.lang.String,java.util.List,java.util.List)@g_org.apache.felix.utils-1.6.0.jar.txt	0
+org/codehaus/plexus/util/cli/CommandLineUtils/executeCommandLine(org.codehaus.plexus.util.cli.Commandline,java.io.InputStream,org.codehaus.plexus.util.cli.StreamConsumer,org.codehaus.plexus.util.cli.StreamConsumer,int)@g_plexus-utils-1.5.8.jar.txt	4

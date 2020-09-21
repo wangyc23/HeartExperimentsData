@@ -1,0 +1,5 @@
+com/netflix/discovery/converters/Converters/autoUnmarshalEligible(com.thoughtworks.xstream.io.HierarchicalStreamReader,java.lang.Object)@g_eureka-client-1.3.4.jar.txt	2
+com/netflix/discovery/converters/Converters/LeaseInfoConverter/unmarshal(com.thoughtworks.xstream.io.HierarchicalStreamReader,com.thoughtworks.xstream.converters.UnmarshallingContext)@g_eureka-client-1.3.4.jar.txt	3
+com/netflix/discovery/converters/Converters/InstanceInfoConverter/unmarshal(com.thoughtworks.xstream.io.HierarchicalStreamReader,com.thoughtworks.xstream.converters.UnmarshallingContext)@g_eureka-client-1.3.4.jar.txt	1
+com/netflix/discovery/converters/Converters/DataCenterInfoConverter/unmarshal(com.thoughtworks.xstream.io.HierarchicalStreamReader,com.thoughtworks.xstream.converters.UnmarshallingContext)@g_eureka-client-1.3.4.jar.txt	0
+com/netflix/discovery/TimedSupervisorTask/run()@g_eureka-client-1.3.4.jar.txt	4

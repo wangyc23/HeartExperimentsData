@@ -1,0 +1,5 @@
+io/netty/channel/LoggingHandler/channelActive(io.netty.channel.ChannelHandlerContext)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	1
+io/netty/handler/codec/dns/DnsMessage/release(java.util.List)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	3
+io/netty/handler/ssl/JettyNpnSslEngine/wrap(java.nio.ByteBuffer[],int,int,java.nio.ByteBuffer)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	0
+io/netty/handler/codec/http/multipart/HttpPostRequestDecoderTest/testBinaryStreamUpload(boolean)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	4
+io/netty/buffer/AdvancedLeakAwareByteBuf/release()@0bf3a12356913a65595bfeea00850a5683b05f41.txt	2

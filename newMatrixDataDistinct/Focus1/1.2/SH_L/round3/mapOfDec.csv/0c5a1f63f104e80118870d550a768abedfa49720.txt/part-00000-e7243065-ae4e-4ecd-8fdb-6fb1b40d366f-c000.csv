@@ -1,0 +1,5 @@
+parquet/hadoop/example/TestInputOutputFormat/testReadWrite()@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	4
+parquet/parser/TestParquetParser/test()@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	0
+parquet/schema/TestMessageType/testNestedTypes()@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	2
+parquet/hadoop/TestParquetFileWriter/testWriteRead()@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	3
+parquet/schema/TestMessageType/test()@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	1

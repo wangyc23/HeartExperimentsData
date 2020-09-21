@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/lang/Enum/name()
+java/lang/reflect/Field/get(java.lang.Object)
+java/util/Iterator/hasNext()

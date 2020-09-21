@@ -1,0 +1,5 @@
+weka/gui/beans/Join/generateMergedHeader()@g_weka-dev-3.9.1.jar.txt	0
+weka/core/Utils/breakUp(java.lang.String,int)@g_weka-dev-3.9.1.jar.txt	2
+weka/core/WekaPackageLibIsolatingClassLoader/checkForNativeLibs(weka.core.packageManagement.Package,java.io.File)@g_weka-dev-3.9.1.jar.txt	4
+weka/core/converters/LibSVMLoader/getStructure()@g_weka-dev-3.9.1.jar.txt	1
+weka/knowledgeflow/steps/Sorter/init(weka.core.Instances)@g_weka-dev-3.9.1.jar.txt	3

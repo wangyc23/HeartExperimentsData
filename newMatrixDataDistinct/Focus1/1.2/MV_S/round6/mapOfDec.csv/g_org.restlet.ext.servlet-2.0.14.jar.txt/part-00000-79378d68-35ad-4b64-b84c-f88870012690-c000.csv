@@ -1,0 +1,5 @@
+com/github/fommil/netlib/LAPACK/<clinit>()@g_core-1.1.jar.txt	1
+org/restlet/ext/servlet/internal/ServletWarClientHelper/handleLocal(org.restlet.Request,org.restlet.Response,java.lang.String)@g_xwiki-platform-resource-servlet-7.4.2.jar.txt	3
+com/github/fommil/netlib/BLAS/<clinit>()@g_core-1.1.jar.txt	0
+org/restlet/ext/servlet/ServerServlet/createApplication(org.restlet.Context)@g_xwiki-platform-resource-servlet-7.4.2.jar.txt	2
+org/restlet/ext/servlet/ServerServlet/init(org.restlet.Component)@g_xwiki-platform-resource-servlet-7.4.2.jar.txt	4

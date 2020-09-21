@@ -1,0 +1,5 @@
+org/custommonkey/xmlunit/DifferenceEngine/compareNodeList(java.util.List,java.util.List,int,org.custommonkey.xmlunit.DifferenceListener,org.custommonkey.xmlunit.ElementQualifier)@g_xmlunit-1.5.jar.txt	4
+com/fasterxml/jackson/module/jaxb/deser/DomElementJsonDeserializer/fromNode(org.w3c.dom.Document,com.fasterxml.jackson.databind.JsonNode)@g_jackson-module-jaxb-annotations-2.6.3.jar.txt	1
+org/custommonkey/xmlunit/jaxp13/XMLUnitNamespaceContext2Jaxp13/getPrefixes(java.lang.String)@g_xmlunit-1.5.jar.txt	3
+org/custommonkey/xmlunit/DifferenceEngine/compareElementAttributes(org.w3c.dom.Element,org.w3c.dom.Element,org.w3c.dom.NamedNodeMap,org.w3c.dom.NamedNodeMap,org.custommonkey.xmlunit.DifferenceListener)@g_xmlunit-1.5.jar.txt	2
+com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector/findObjectIdInfo(com.fasterxml.jackson.databind.introspect.Annotated)@g_jackson-module-jaxb-annotations-2.6.3.jar.txt	0

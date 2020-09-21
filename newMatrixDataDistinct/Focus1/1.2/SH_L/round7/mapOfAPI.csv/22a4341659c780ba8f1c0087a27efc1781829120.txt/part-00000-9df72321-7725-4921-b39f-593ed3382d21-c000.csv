@@ -1,0 +1,7 @@
+0	org/kiji/schema/KijiURI/toString()
+1	org/kiji/schema/KijiURI/KijiURIBuilder/withInstanceName(java.lang.String)
+2	org/kiji/schema/KijiURI/newBuilder(org.kiji.schema.KijiURI)
+3	org/apache/avro/io/JsonDecoder/error(java.lang.String)
+4	org/apache/avro/io/JsonDecoder/advance(org.apache.avro.io.parsing.Symbol)
+5	org/apache/avro/io/Decoder/readInt()
+6	org/kiji/schema/KijiURI/KijiURIBuilder/build()

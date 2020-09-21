@@ -1,0 +1,4 @@
+java/lang/Class/getName()
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(char)
+java/util/Arrays/toString(int[])

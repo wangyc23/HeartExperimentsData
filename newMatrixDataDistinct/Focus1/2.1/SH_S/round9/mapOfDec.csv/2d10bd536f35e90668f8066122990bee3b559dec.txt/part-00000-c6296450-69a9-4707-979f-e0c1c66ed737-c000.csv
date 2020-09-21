@@ -1,0 +1,5 @@
+nl/illuminatedgroup/bankapplicatievoorbeeld/BankEndPoint/withdraw(nl.illuminatedgroup.bankapplicatievoorbeeld.WithdrawRequest)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+main/Main/main(java.lang.String[])@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	4
+nl/illuminated/arduino/ArduinoPort/handleReceivedPackages()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+nl/illuminatedgroup/bankapplicatievoorbeeld/Database/connect()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0
+nl/illuminatedgroup/bankapplicatievoorbeeld/Database/withdraw(java.lang.String,long)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1

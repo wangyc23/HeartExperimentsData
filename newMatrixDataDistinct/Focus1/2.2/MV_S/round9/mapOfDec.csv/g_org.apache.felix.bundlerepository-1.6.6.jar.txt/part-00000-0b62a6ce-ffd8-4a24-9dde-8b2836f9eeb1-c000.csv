@@ -1,0 +1,5 @@
+org/apache/ivy/tools/analyser/JarJarDependencyAnalyser/analyze(org.apache.ivy.tools.analyser.JarModule[])@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/core/deliver/DeliverEngine/deliver(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,java.lang.String,org.apache.ivy.core.deliver.DeliverOptions)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/ant/IvyMakePom/getMappingsMap()@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/ant/IvyBuildList/doExecute()@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/search/SearchEngine/listRevisionEntries(org.apache.ivy.core.search.ModuleEntry)@g_ivy-2.3.0.jar.txt	4

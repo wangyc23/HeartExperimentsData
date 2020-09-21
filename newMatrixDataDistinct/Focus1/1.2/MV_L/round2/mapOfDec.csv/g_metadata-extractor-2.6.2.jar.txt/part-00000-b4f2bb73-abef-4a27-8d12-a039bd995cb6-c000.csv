@@ -1,0 +1,5 @@
+com/drew/metadata/icc/IccReader/extract(com.drew.lang.RandomAccessReader,com.drew.metadata.Metadata,com.drew.metadata.Directory)@g_metadata-extractor-2.10.1.jar.txt	1
+com/drew/metadata/icc/IccReader/extract(com.drew.lang.RandomAccessReader,com.drew.metadata.Metadata)@g_metadata-extractor-2.8.0.jar.txt	0
+com/drew/tools/ProcessUrlUtility/processUrl(java.net.URL)@g_metadata-extractor-2.8.0.jar.txt	3
+com/drew/metadata/Directory/getString(int)@g_metadata-extractor-2.10.1.jar.txt	4
+com/drew/metadata/Directory/getString(int)@g_metadata-extractor-2.8.0.jar.txt	2

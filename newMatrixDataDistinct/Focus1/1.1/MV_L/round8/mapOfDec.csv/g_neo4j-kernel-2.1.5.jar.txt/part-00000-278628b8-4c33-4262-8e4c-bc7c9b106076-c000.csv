@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/api/index/PropertyPhysicalToLogicalConverter/apply(java.util.Collection,java.lang.Iterable,long[],long[])@g_neo4j-kernel-2.1.7.jar.txt	3
+org/neo4j/graphdb/factory/GraphDatabaseBuilder/loadPropertiesFromURL(java.net.URL)@g_neo4j-kernel-2.1.7.jar.txt	1
+org/neo4j/kernel/impl/util/CopyOnWriteAfterIteratorHashSet/conditionalRemove(java.util.Collection,boolean)@g_neo4j-kernel-2.1.7.jar.txt	2
+org/neo4j/kernel/impl/annotations/AnnotationProcessor/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_neo4j-kernel-2.1.7.jar.txt	4
+org/neo4j/kernel/configuration/Config/applyChanges(java.util.Map)@g_neo4j-kernel-2.1.7.jar.txt	0

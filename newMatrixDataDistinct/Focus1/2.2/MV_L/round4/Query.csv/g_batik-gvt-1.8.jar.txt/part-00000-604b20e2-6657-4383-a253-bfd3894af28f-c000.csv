@@ -1,0 +1,4 @@
+java/lang/Throwable/printStackTrace()
+java/util/Iterator/hasNext()
+java/awt/Graphics2D/dispose()
+java/awt/Graphics2D/setComposite(java.awt.Composite)

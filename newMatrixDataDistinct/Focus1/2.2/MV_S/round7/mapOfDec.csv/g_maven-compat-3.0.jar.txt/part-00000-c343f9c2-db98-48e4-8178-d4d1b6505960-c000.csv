@@ -1,0 +1,5 @@
+org/apache/maven/artifact/manager/DefaultWagonManager/getArtifact(org.apache.maven.artifact.Artifact,java.util.List)@g_maven-artifact-manager-2.2.1.jar.txt	3
+org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager/resolve(org.apache.maven.artifact.repository.metadata.RepositoryMetadata,java.util.List,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-artifact-manager-2.2.1.jar.txt	2
+org/apache/maven/artifact/resolver/MultipleArtifactsNotFoundException/constructMessage(java.util.List)@g_maven-compat-3.0-alpha-2.jar.txt	1
+org/apache/maven/artifact/versioning/ManagedVersionMap/toString()@g_maven-compat-3.0-alpha-2.jar.txt	0
+org/apache/maven/artifact/resolver/DefaultArtifactResolver/resolve(org.apache.maven.artifact.Artifact,java.util.List,org.apache.maven.artifact.repository.ArtifactRepository,boolean)@g_maven-artifact-manager-2.2.1.jar.txt	4

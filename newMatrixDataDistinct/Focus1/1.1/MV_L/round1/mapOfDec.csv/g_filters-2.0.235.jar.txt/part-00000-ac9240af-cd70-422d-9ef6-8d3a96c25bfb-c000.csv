@@ -1,0 +1,5 @@
+org/apache/pdfbox/printing/PDFPrintable/print(java.awt.Graphics,java.awt.print.PageFormat,int)@g_pdfbox-2.0.7.jar.txt	3
+org/apache/pdfbox/rendering/PageDrawer/showTransparencyGroup(org.apache.pdfbox.pdmodel.graphics.form.PDTransparencyGroup)@g_pdfbox-2.0.7.jar.txt	4
+org/apache/pdfbox/rendering/PageDrawer/drawPage(java.awt.Graphics,org.apache.pdfbox.pdmodel.common.PDRectangle)@g_pdfbox-2.0.7.jar.txt	2
+com/octo/captcha/component/image/textpaster/NonLinearRandomAngleTextPaster/pasteCharacter(java.awt.Graphics2D,java.text.AttributedString)@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	1
+com/octo/captcha/component/image/backgroundgenerator/EllipseBackgroundGenerator/getBackground()@g_jcaptcha-2.0-alpha-1-SNAPSHOT-500.jar.txt	0

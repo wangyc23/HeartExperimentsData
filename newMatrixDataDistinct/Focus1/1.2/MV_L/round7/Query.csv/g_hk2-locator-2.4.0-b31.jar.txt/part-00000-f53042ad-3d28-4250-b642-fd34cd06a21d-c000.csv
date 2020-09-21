@@ -1,0 +1,4 @@
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/getNameFromAllQualifiers(java.util.Set,java.lang.reflect.AnnotatedElement)
+java/lang/Object/equals(java.lang.Object)
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/getFirstTypeArgument(java.lang.reflect.Type)
+org/glassfish/hk2/api/Injectee/getUnqualified()

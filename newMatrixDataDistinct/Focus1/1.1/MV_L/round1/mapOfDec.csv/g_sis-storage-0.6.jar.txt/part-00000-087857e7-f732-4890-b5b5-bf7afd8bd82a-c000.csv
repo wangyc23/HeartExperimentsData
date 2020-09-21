@@ -1,0 +1,5 @@
+org/apache/sis/index/tree/QuadTreeWriter/writeTreeConfigsToFile(org.apache.sis.index.tree.QuadTree,java.lang.String)@g_sis-storage-0.5.jar.txt	0
+org/apache/sis/index/tree/QuadTree/queryByPointRadius(org.apache.sis.geometry.DirectPosition2D,double,org.apache.sis.index.tree.QuadTreeNode,java.awt.geom.Rectangle2D,java.awt.geom.Rectangle2D)@g_sis-storage-0.5.jar.txt	4
+io/netty/buffer/PooledUnsafeDirectByteBuf/setBytes(int,io.netty.buffer.ByteBuf,int,int)@g_sis-storage-0.5.jar.txt	2
+org/apache/sis/internal/storage/IOUtilities/part(java.lang.Object,boolean)@g_sis-storage-0.5.jar.txt	3
+org/apache/sis/index/tree/QuadTreeWriter/writeNodeToFile(org.apache.sis.index.tree.QuadTreeNode,java.lang.String)@g_sis-storage-0.5.jar.txt	1

@@ -1,0 +1,5 @@
+net/arnx/jsonic/JSON/Context/getSetProperties(java.lang.Class)@g_flexjson-2.1.jar.txt	4
+flexjson/BeanAnalyzer/populateProperties()@g_flexjson-2.1.jar.txt	1
+net/arnx/jsonic/ByteConverter/convert(net.arnx.jsonic.JSON,net.arnx.jsonic.JSON$Context,java.lang.Object,java.lang.Class,java.lang.reflect.Type)@g_flexjson-2.1.jar.txt	3
+flexjson/BeanAnalyzer/uncapitalize(java.lang.String)@g_flexjson-2.1.jar.txt	2
+flexjson/ObjectBinder/bindIntoObject(java.util.Map,java.lang.Object,java.lang.reflect.Type)@g_flexjson-2.1.jar.txt	0

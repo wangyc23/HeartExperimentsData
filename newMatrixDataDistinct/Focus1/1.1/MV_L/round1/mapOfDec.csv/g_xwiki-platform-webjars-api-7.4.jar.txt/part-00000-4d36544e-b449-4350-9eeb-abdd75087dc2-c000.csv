@@ -1,0 +1,5 @@
+org/apache/maven/shared/dependency/analyzer/ClassFileVisitorUtils/accept(java.net.URL,org.apache.maven.shared.dependency.analyzer.ClassFileVisitor)@g_xwiki-platform-webjars-api-7.4.2.jar.txt	3
+org/xwiki/webjars/internal/WebJarsResourceReferenceHandler/serveResource(org.xwiki.webjars.internal.WebJarsResourceReference,java.io.InputStream)@g_xwiki-platform-webjars-api-7.4.2.jar.txt	1
+org/xwiki/webjars/internal/FilesystemResourceReferenceSerializer/copyResourceFromJAR(java.lang.String,java.lang.String,java.lang.String,org.xwiki.url.filesystem.FilesystemExportContext)@g_xwiki-platform-webjars-api-7.4.2.jar.txt	0
+org/apache/maven/shared/dependency/analyzer/ProjectDependencyAnalysis/toString()@g_xwiki-platform-webjars-api-7.4.2.jar.txt	4
+org/xwiki/webjars/script/WebJarsScriptService/url(java.lang.String,java.lang.String,java.util.Map)@g_xwiki-platform-webjars-api-7.4.2.jar.txt	2

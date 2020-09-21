@@ -1,0 +1,5 @@
+edu/stanford/nlp/semgraph/semgrex/SemgrexPattern/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/optimization/AbstractCachingDiffFunction/gradientCheck(int,int,double[])@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/FactoredLexicon/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/trees/MemoryTreebank/processFile(java.io.File)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/ChineseSimWordAvgDepGrammar/probTBwithSimWords(edu.stanford.nlp.parser.lexparser.IntDependency)@g_stanford-parser-3.5.2.jar.txt	1

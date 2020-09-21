@@ -1,0 +1,5 @@
+org/apache/james/mime4j/codec/Base64InputStream/read0(byte[],int,int)@g_hamcrest-core-1.3.jar.txt	1
+de/pdark/decentxml/Element/getChild(int)@g_hamcrest-core-1.3.jar.txt	2
+org/apache/james/mime4j/stream/FallbackBodyDescriptorBuilder/parseContentType(org.apache.james.mime4j.stream.Field)@g_apache-mime4j-core-0.7.2.jar.txt	0
+de/pdark/decentxml/Element/getAttribute(java.lang.String)@g_hamcrest-core-1.3.jar.txt	4
+de/pdark/decentxml/Document/addNode(int,de.pdark.decentxml.Node)@g_hamcrest-core-1.3.jar.txt	3

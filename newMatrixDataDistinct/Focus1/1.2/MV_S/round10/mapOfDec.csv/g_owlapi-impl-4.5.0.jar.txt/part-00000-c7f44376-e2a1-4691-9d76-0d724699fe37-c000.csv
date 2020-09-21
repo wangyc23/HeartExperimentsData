@@ -1,0 +1,5 @@
+org/coode/owlapi/rdfxml/parser/TPPropertyRangeHandler/handleTriple(org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.IRI)@g_skos-api-3.1.jar.txt	4
+com/clarkparsia/owlapi/modularity/locality/SyntacticLocalityEvaluator/AxiomLocalityVisitor/visit(org.semanticweb.owlapi.model.OWLDisjointDataPropertiesAxiom)@g_skos-api-3.1.jar.txt	3
+uk/ac/manchester/cs/owl/owlapi/ParsableOWLOntologyFactory/canLoad(org.semanticweb.owlapi.io.OWLOntologyDocumentSource)@g_skos-api-3.1.jar.txt	0
+org/semanticweb/owlapi/util/AbstractOWLOntologyStorer/storeOntology(org.semanticweb.owlapi.model.OWLOntology,org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.OWLOntologyFormat)@g_skos-api-3.1.jar.txt	2
+org/semanticweb/owlapi/io/AbstractOWLParser/getInputStream(org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.OWLOntologyLoaderConfiguration)@g_skos-api-3.1.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/sis/util/logging/Logging/unexpectedException(java.util.logging.Logger,java.lang.String,java.lang.String,java.lang.Throwable,java.util.logging.Level)@g_sis-utility-0.5.jar.txt	1
+org/apache/sis/measure/AngleFormat/format(double,java.lang.StringBuffer,java.text.FieldPosition)@g_sis-utility-0.5.jar.txt	3
+org/apache/sis/util/collection/WeakEntry/rehash(org.apache.sis.util.collection.WeakEntry[],int,java.lang.String)@g_sis-utility-0.5.jar.txt	0
+org/apache/sis/util/logging/MonolineFormatter/colorAt(java.util.logging.Level)@g_sis-utility-0.5.jar.txt	4
+org/apache/sis/internal/jaxb/Context/warningOccured(org.apache.sis.internal.jaxb.Context,java.util.logging.Logger,java.util.logging.Level,java.lang.Class,java.lang.String,java.lang.Throwable,java.lang.Class,short,java.lang.Object[])@g_sis-utility-0.5.jar.txt	2

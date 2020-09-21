@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+org/eclipse/emf/ecore/EObject/eGet(org.eclipse.emf.ecore.EStructuralFeature)
+org/eclipse/emf/ecore/EStructuralFeature/getEContainingClass()
+java/lang/String/format(java.lang.String,java.lang.Object[])

@@ -1,0 +1,5 @@
+parquet/schema/GroupType/typeEquals(parquet.schema.Type)@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	3
+parquet/io/ColumnIOFactory/ColumnIOCreatorVisitor/visitChildren(parquet.io.GroupColumnIO,parquet.schema.GroupType)@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	0
+parquet/example/data/simple/SimpleGroup/toString(java.lang.String)@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	2
+parquet/schema/GroupType/typeHashCode()@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	1
+parquet/pig/TupleWriteSupport/writeTuple(parquet.schema.GroupType,parquet.pig.summary.Schema,parquet.pig.Tuple)@3043f393e3226d63fd180ef42ee4c080ee2345f4.txt	4

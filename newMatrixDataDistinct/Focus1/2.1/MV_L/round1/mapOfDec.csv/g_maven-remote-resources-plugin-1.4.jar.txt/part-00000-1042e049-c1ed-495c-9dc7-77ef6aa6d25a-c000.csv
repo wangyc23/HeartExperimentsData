@@ -1,0 +1,5 @@
+org/apache/maven/plugin/resources/remote/io/xpp3/RemoteResourcesBundleXpp3Reader/parseRemoteResourcesBundle(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-remote-resources-plugin-1.5.jar.txt	4
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/addSupplementalModelArtifacts()@g_maven-remote-resources-plugin-1.5.jar.txt	1
+org/apache/maven/plugin/dependency/tree/TreeMojo/serializeVerboseDependencyTree(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-remote-resources-plugin-1.5.jar.txt	2
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-remote-resources-plugin-1.5.jar.txt	3
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/execute()@g_maven-remote-resources-plugin-1.5.jar.txt	0

@@ -1,0 +1,5 @@
+com/sun/jersey/json/impl/writer/JsonEncoder/encode(java.lang.String)@g_jersey-json-1.9.jar.txt	4
+com/sun/jersey/json/impl/reader/JsonLexer/yylex()@g_jersey-json-1.9.jar.txt	2
+com/sun/jersey/json/impl/reader/Jackson2StaxReader/readNext(boolean)@g_jersey-json-1.9.jar.txt	1
+com/sun/jersey/json/impl/NameUtil/capitalize(java.lang.String)@g_jersey-json-1.9.jar.txt	0
+com/sun/jersey/json/impl/reader/JsonXmlStreamReader/readNext(boolean)@g_jersey-json-1.9.jar.txt	3

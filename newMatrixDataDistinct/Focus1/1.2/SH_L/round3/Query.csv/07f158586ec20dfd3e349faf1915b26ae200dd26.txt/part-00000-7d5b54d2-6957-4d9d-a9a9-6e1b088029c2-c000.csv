@@ -1,0 +1,4 @@
+org/isisaddons/module/excel/fixture/dom/ExcelModuleDemoToDoItem/setCategory(org.isisaddons.module.excel.fixture.dom.ExcelModuleDemoToDoItem.Category)
+org/apache/isis/applib/DomainObjectContainer/persist(java.lang.Object)
+org/isisaddons/module/excel/fixture/dom/ExcelModuleDemoToDoItem/setDueBy(org.joda.time.LocalDate)
+org/isisaddons/module/excel/fixture/dom/ExcelModuleDemoToDoItem/setSubcategory(org.isisaddons.module.excel.fixture.dom.ExcelModuleDemoToDoItem.Subcategory)

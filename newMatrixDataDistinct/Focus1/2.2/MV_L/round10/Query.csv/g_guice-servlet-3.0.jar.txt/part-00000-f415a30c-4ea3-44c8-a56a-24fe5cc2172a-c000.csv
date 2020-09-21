@@ -1,0 +1,4 @@
+com/google/inject/internal/util/$Lists/newArrayList()
+com/google/inject/Binding/getProvider()
+java/util/Iterator/hasNext()
+com/google/inject/Provider/get()

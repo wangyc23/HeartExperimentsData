@@ -1,0 +1,4 @@
+com/fasterxml/jackson/databind/introspect/VisibilityChecker/withFieldVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)
+org/baeldung/jackson/sandbox/TestElement/setY(java.lang.String)
+com/fasterxml/jackson/databind/ObjectMapper/ObjectMapper()
+com/fasterxml/jackson/databind/introspect/VisibilityChecker/withGetterVisibility(com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility)

@@ -1,0 +1,5 @@
+org/jboss/resteasy/client/core/extractors/ClientResponseProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_jersey-multipart-1.19.jar.txt	1
+com/sun/jersey/multipart/FormDataBodyPart/setName(java.lang.String)@g_jersey-multipart-1.19.jar.txt	0
+org/jboss/resteasy/client/core/BaseClientResponse/copyFromError(org.jboss.resteasy.client.ClientResponse)@g_jersey-multipart-1.19.jar.txt	3
+org/jboss/resteasy/plugins/delegates/LinkDelegate/toString(javax.ws.rs.core.Link)@g_jersey-multipart-1.19.jar.txt	4
+org/jboss/resteasy/util/AcceptParser/parseCharset(java.lang.String)@g_jersey-multipart-1.19.jar.txt	2

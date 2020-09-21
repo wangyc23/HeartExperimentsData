@@ -1,0 +1,5 @@
+org/mockserver/collections/CircularMultiMap/entrySet()@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	0
+org/mockserver/client/serialization/ExpectationSerializerTest/shouldSerializeFullObjectWithParameterBodyResponseAsJava()@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	2
+org/mockserver/proxy/filters/LogFilterDumpToLogTest/shouldDumpAllToLogAsJSONForNull()@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	1
+uk/ac/ic/wlgitbridge/snapshot/servermock/util/FileUtilTest/returnsTrueWhenFilesAreEqualInBothDirectories()@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	4
+org/mockserver/service/grizzlyclient/GrizzlyHttpClientConfiguration/bookService()@02db0d38193bd37091267c4bcb3350ba2049ba2b.txt	3

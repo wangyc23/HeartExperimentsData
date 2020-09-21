@@ -1,0 +1,6 @@
+0	java/lang/reflect/Field/get(java.lang.Object)
+1	java/lang/Class/getDeclaredMethod(java.lang.String,java.lang.Class<?>[])
+2	java/lang/Class/getDeclaredField(java.lang.String)
+3	org/easymock/EasyMock/expect(T)
+4	org/easymock/EasyMock/reset(java.lang.Object[])
+5	java/lang/reflect/AccessibleObject/setAccessible(boolean)

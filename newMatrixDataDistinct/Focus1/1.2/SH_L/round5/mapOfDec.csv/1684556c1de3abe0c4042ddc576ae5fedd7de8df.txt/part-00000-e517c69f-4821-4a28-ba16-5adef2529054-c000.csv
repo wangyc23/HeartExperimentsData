@@ -1,0 +1,5 @@
+org/apache/mahout/math/jet/random/GammaTest/checkGammaCdf(double,double,double[])@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	3
+org/apache/mahout/math/jet/random/GammaTest/testPdf()@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	2
+org/apache/mahout/math/jet/random/GammaTest/testCdf()@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	1
+org/apache/mahout/math/jet/random/GammaTest/testPdf()@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	4
+org/apache/mahout/math/jet/random/GammaTest/testCdf()@308d5e9ceec444b7f94dd6dd2e1bf7bb7096123d.txt	0

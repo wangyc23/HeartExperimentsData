@@ -1,0 +1,5 @@
+weka/gui/explorer/ClassifierPanel/loadClassifier()@g_weka-dev-3.9.1.jar.txt	3
+weka/gui/beans/Classifier/handleIncrementalEvent()@g_weka-dev-3.9.1.jar.txt	4
+org/apache/tools/ant/filters/EscapeUnicode/read()@g_ant-1.6.5.jar.txt	1
+weka/classifiers/evaluation/Evaluation/evaluateModel(weka.classifiers.Classifier,java.lang.String[])@g_weka-dev-3.9.1.jar.txt	2
+org/apache/tools/ant/taskdefs/SQLExec/runStatements(java.io.Reader,java.io.PrintStream)@g_ant-1.6.5.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])
+java/lang/Class/getName()
+java/lang/StringBuilder/StringBuilder()

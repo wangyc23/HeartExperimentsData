@@ -1,0 +1,5 @@
+com/netflix/discovery/DiscoveryClient/updateDelta(com.netflix.discovery.shared.Applications)@g_eureka-client-1.1.147.jar.txt	0
+com/netflix/discovery/AbstractAzToRegionMapper/setRegionsToFetch(java.lang.String[])@g_eureka-client-1.1.147.jar.txt	3
+com/netflix/discovery/shared/Applications/getReconcileMapDiff(com.netflix.discovery.shared.Applications)@g_eureka-client-1.1.147.jar.txt	4
+com/netflix/appinfo/PropertiesInstanceConfig/getMetadataMap()@g_eureka-client-1.1.147.jar.txt	2
+com/netflix/discovery/shared/Application/_shuffleAndStoreInstances(boolean,boolean,java.util.Map,com.netflix.discovery.EurekaClientConfig,com.netflix.discovery.InstanceRegionChecker)@g_eureka-client-1.1.147.jar.txt	1

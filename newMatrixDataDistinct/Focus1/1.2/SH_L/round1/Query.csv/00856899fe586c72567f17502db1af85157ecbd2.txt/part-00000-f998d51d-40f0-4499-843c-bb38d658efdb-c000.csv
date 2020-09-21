@@ -1,0 +1,4 @@
+java/lang/Class/getResourceAsStream(java.lang.String)
+com/xeiam/xchange/btcchina/dto/marketdata/BTCChinaTicker/getTicker()
+com/xeiam/xchange/btcchina/dto/marketdata/BTCChinaTickerObject/getVol()
+com/xeiam/xchange/btcchina/dto/marketdata/BTCChinaTickerObject/getLow()

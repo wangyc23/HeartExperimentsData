@@ -1,0 +1,5 @@
+org/springframework/jmx/export/MBeanExporter/autodetect(org.springframework.jmx.export.MBeanExporter$AutodetectCallback)@g_spring-2.5.6.jar.txt	4
+org/springframework/orm/jpa/persistenceunit/ClassFileTransformerAdapter/transform(java.lang.ClassLoader,java.lang.String,java.lang.Class,java.security.ProtectionDomain,byte[])@g_spring-2.5.6.jar.txt	3
+org/springframework/util/ConcurrencyThrottleSupport/beforeAccess()@g_spring-2.5.6.jar.txt	2
+org/springframework/jdbc/core/metadata/GenericCallMetaDataProvider/processProcedureColumns(java.sql.DatabaseMetaData,java.lang.String,java.lang.String,java.lang.String)@g_spring-2.5.6.jar.txt	0
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/initializeWithMetaData(java.sql.DatabaseMetaData)@g_spring-2.5.6.jar.txt	1

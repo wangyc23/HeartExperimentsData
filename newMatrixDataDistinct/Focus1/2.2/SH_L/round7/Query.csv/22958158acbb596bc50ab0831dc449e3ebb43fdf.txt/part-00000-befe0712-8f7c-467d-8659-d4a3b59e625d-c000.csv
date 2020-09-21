@@ -1,0 +1,4 @@
+java/util/Map/keySet()
+java/util/Set/isEmpty()
+io/fabric8/jube/registry/RepositoryDTO/repository()
+io/fabric8/jube/registry/RegistryFacade/imageJson(java.lang.String)

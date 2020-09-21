@@ -1,0 +1,4 @@
+com/fasterxml/jackson/databind/JsonNode/asText()
+com/fasterxml/jackson/databind/JsonNode/decimalValue()
+com/fasterxml/jackson/databind/JsonNode/isFloat()
+com/fasterxml/jackson/databind/JsonNode/isLong()

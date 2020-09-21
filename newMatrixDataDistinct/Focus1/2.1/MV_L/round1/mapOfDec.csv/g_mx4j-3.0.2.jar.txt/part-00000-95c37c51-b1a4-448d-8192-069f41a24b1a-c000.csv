@@ -1,0 +1,5 @@
+javax/management/relation/RelationService/sendRoleUpdateNotification(java.lang.String,javax.management.relation.Role,java.util.List)@g_spring-core-2.5.6.jar.txt	1
+javax/management/timer/Timer/1/run()@g_spring-core-2.5.6.jar.txt	3
+org/springframework/core/SimpleAliasRegistry/getAliases(java.lang.String)@g_spring-core-2.5.6.jar.txt	4
+org/springframework/core/Constants/getValues(java.lang.String)@g_spring-core-2.5.6.jar.txt	0
+org/springframework/util/ConcurrencyThrottleSupport/beforeAccess()@g_spring-core-2.5.6.jar.txt	2

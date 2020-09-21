@@ -1,0 +1,2 @@
+0	javax/swing/JComponent/setBackground(java.awt.Color)
+1	org/jooq/impl/DSL/countDistinct(org.jooq.Field)

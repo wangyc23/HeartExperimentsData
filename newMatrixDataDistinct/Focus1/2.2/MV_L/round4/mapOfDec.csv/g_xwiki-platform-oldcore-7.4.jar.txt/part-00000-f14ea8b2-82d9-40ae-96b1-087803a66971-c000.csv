@@ -1,0 +1,5 @@
+com/xpn/xwiki/store/migration/hibernate/R40000XWIKI6990DataMigration/hibernateMigrate()@g_xwiki-platform-oldcore-7.4.2.jar.txt	2
+com/xpn/xwiki/store/migration/hibernate/R40000XWIKI6990DataMigration/2/fillDocumentIdConversion(org.hibernate.Session,java.util.Map)@g_xwiki-platform-oldcore-7.4.2.jar.txt	0
+com/xpn/xwiki/store/migration/hibernate/R40000XWIKI6990DataMigration/2/fillStatsConversionMap(org.hibernate.Session,java.lang.Class,java.util.Map)@g_xwiki-platform-oldcore-7.4.2.jar.txt	3
+com/xpn/xwiki/store/migration/hibernate/R40000XWIKI6990DataMigration/2/fillDocumentIdConversion(org.hibernate.Session,java.util.Map)@g_xwiki-platform-oldcore-7.0.jar.txt	1
+com/xpn/xwiki/store/migration/hibernate/R40000XWIKI6990DataMigration/2/fillObjectIdConversion(org.hibernate.Session,java.util.Map)@g_xwiki-platform-oldcore-7.4.2.jar.txt	4

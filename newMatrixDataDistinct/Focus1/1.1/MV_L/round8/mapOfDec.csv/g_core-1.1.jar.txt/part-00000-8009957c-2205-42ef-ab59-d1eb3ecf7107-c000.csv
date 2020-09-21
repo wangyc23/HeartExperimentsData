@@ -1,0 +1,5 @@
+org/restlet/engine/http/header/ContentTypeReader/readValue()@g_jniloader-1.1.jar.txt	3
+org/restlet/engine/http/adapter/ServerAdapter/commit(org.restlet.engine.http.HttpResponse)@g_jniloader-1.1.jar.txt	2
+org/restlet/engine/component/ComponentXmlParser/parse()@g_jniloader-1.1.jar.txt	4
+org/restlet/engine/local/DirectoryServerResource/getVariantsReferences()@g_jniloader-1.1.jar.txt	1
+com/github/fommil/jni/JniNamer/abi(java.lang.String)@g_jniloader-1.1.jar.txt	0

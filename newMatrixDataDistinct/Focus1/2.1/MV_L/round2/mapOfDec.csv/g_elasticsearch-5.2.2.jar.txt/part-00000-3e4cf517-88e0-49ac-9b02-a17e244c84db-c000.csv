@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/lucene70/Lucene70SegmentInfoFormat/write(org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentInfo,org.apache.lucene.store.IOContext)@g_lucene-core-7.0.0.jar.txt	0
+org/apache/lucene/search/SloppyPhraseScorer/repeatingTerms()@g_lucene-core-7.0.0.jar.txt	2
+org/apache/lucene/util/RamUsageEstimator/shallowSizeOfInstance(java.lang.Class)@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/util/automaton/Automaton/getStartPoints()@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/codecs/compressing/CompressingTermVectorsWriter/flushFieldNums()@g_lucene-core-7.0.0.jar.txt	1

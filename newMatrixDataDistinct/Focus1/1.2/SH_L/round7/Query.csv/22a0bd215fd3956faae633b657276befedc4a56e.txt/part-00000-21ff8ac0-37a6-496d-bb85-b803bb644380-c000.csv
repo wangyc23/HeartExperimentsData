@@ -1,0 +1,4 @@
+org/jboss/arquillian/container/spi/client/container/DeployableContainer/deploy(org.jboss.arquillian.protocol.servlet.v_2_5.Archive)
+org/jboss/arquillian/container/spi/client/deployment/TargetDescription/TargetDescription(java.lang.String)
+org/jboss/arquillian/container/spi/client/container/DeployableContainer/getConfigurationClass()
+org/jboss/arquillian/container/impl/LocalContainerRegistry/LocalContainerRegistry(org.jboss.arquillian.core.api.Injector)

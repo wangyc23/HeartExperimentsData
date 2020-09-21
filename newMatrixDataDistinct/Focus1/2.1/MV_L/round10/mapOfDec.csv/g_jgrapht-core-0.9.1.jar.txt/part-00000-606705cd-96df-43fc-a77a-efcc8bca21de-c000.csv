@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owl/owlapi/OWLSameIndividualAxiomImpl/asOWLSubClassOfAxioms()@g_skos-api-3.1.jar.txt	3
+org/coode/owlapi/rdf/rdfxml/RDFXMLRenderer/render(org.coode.owlapi.rdf.model.RDFResourceNode)@g_skos-api-3.1.jar.txt	0
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/getEquivalentObjectProperties(java.util.Set)@g_skos-api-3.1.jar.txt	1
+uk/ac/manchester/cs/owlapi/modularity/SyntacticLocalityModuleExtractor/outputSignature(java.lang.String,java.util.Set,boolean)@g_skos-api-3.1.jar.txt	2
+org/coode/owlapi/manchesterowlsyntax/ManchesterOWLSyntaxEditorParser/parseAnnotatedListItems(java.lang.Object,org.coode.owlapi.manchesterowlsyntax.ManchesterOWLSyntaxEditorParser$AnnotatedListItemParser,java.util.Set)@g_skos-api-3.1.jar.txt	4

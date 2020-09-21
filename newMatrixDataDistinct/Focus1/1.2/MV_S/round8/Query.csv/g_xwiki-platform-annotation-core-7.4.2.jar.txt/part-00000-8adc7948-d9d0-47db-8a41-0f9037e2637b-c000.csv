@@ -1,0 +1,4 @@
+org/xwiki/rendering/listener/QueueListener/onSpecialSymbol(char)
+java/lang/StringBuffer/length()
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(char)

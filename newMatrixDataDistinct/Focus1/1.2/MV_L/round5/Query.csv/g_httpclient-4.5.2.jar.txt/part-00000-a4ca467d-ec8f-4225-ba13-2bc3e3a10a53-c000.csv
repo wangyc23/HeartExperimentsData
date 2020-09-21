@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/logging/Log/isDebugEnabled()
+org/apache/http/impl/conn/SingleClientConnManager$ConnAdapter/isOpen()
+org/apache/http/impl/conn/SingleClientConnManager$ConnAdapter/shutdown()

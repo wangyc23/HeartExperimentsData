@@ -1,0 +1,4 @@
+org/apache/sling/jcr/webdav/impl/helper/SlingResourceConfig/getServletContextPath()
+org/apache/sling/jcr/webdav/impl/servlets/SlingWebDavServlet/getRepository()
+org/apache/sling/jcr/webdav/impl/servlets/SlingSimpleWebDavServlet/SlingSimpleWebDavServlet(org.apache.sling.jcr.webdav.impl.helper.SlingResourceConfig,org.sakaiproject.nakamura.site.Repository)
+org/apache/sling/jcr/webdav/impl/helper/SlingResourceConfig/SlingResourceConfig(org.apache.sling.jcr.webdav.impl.helper.MimeTypeService,java.util.Dictionary,org.apache.sling.jcr.webdav.impl.helper.ItemFilter)

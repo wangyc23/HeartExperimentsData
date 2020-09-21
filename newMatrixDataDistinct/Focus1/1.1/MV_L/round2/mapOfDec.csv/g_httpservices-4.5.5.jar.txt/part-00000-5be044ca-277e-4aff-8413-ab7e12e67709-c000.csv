@@ -1,0 +1,5 @@
+net/sf/ehcache/config/ConfigurationFactory/translateSystemProperties(java.io.InputStream)@g_ehcache-core-1.7.2.jar.txt	3
+ucar/httpservices/CustomSSLProtocolSocketFactory/createSSLContext(org.apache.http.params.HttpParams)@g_ehcache-core-1.7.2.jar.txt	1
+net/sf/ehcache/distribution/RMIAsynchronousCacheReplicator/replicationThreadMain()@g_ehcache-core-1.7.2.jar.txt	0
+org/neo4j/ogm/session/response/RowStatisticsResponse/next()@g_ehcache-core-1.7.2.jar.txt	4
+net/sf/ehcache/config/BeanHandler/findCreateMethod(java.lang.Class,java.lang.String)@g_ehcache-core-1.7.2.jar.txt	2

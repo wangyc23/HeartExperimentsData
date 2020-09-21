@@ -1,0 +1,5 @@
+org/h2/mvstore/MVStoreTool/dump(java.lang.String,java.io.Writer,boolean)@g_h2-1.4.191.jar.txt	1
+org/h2/mvstore/StreamStore/Stream/nextBuffer()@g_h2-1.4.191.jar.txt	0
+org/h2/store/fs/FilePathEncrypt/FileEncrypt/read(java.nio.ByteBuffer,long)@g_h2-1.4.191.jar.txt	3
+org/h2/store/fs/FilePathEncrypt/FileEncrypt/write(java.nio.ByteBuffer,long)@g_h2-1.4.191.jar.txt	4
+org/h2/mvstore/WriteBuffer/grow(int)@g_h2-1.4.191.jar.txt	2

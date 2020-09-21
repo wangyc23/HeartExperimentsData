@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+com/mongodb/BasicDBObject/putAll(org.bson.BSONObject)
+org/springframework/data/mongodb/core/aggregation/GroupOperation$Operation/toDBObject(org.springframework.data.mongodb.core.aggregation.AggregationOperationContext)
+org/springframework/data/mongodb/core/aggregation/ExposedFields$ExposedField/getName()

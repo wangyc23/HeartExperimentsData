@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/lucene50/Lucene50PostingsWriter/finishTerm(org.apache.lucene.codecs.BlockTermState)@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/index/CheckIndex/testSort(org.apache.lucene.index.CodecReader,org.apache.lucene.search.Sort,java.io.PrintStream,boolean)@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_lucene-core-7.0.0.jar.txt	2
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_lucene-core-7.0.0.jar.txt	1
+org/apache/lucene/index/IndexWriter/mergeMiddle(org.apache.lucene.index.MergePolicy$OneMerge,org.apache.lucene.index.MergePolicy)@g_lucene-core-7.0.0.jar.txt	0

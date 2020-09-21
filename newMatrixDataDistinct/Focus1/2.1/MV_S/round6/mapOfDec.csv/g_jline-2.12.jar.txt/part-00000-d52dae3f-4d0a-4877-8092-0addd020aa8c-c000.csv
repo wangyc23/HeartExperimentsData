@@ -1,0 +1,5 @@
+jline/UnixTerminal/getTerminalProperty(java.lang.String)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	0
+jline/TerminalFactory/create()@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	4
+jline/WindowsTerminal/loadLibrary(java.lang.String)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	2
+jline/console/history/FileHistory/flush()@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	3
+jline/console/completer/ArgumentCompleter/complete(java.lang.String,int,java.util.List)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	1

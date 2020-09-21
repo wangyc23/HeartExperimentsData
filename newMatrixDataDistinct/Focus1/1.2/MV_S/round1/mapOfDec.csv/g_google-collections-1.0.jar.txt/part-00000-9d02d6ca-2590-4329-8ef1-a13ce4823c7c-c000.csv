@@ -1,0 +1,5 @@
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_guava-19.0.jar.txt	3
+com/google/common/io/Files/createParentDirs(java.io.File)@g_guava-19.0.jar.txt	2
+com/google/common/base/FinalizableReferenceQueue/DecoupledLoader/getBaseUrl()@g_guava-19.0.jar.txt	0
+com/google/common/hash/BloomFilter/readFrom(java.io.InputStream,com.google.common.hash.Funnel)@g_guava-19.0.jar.txt	1
+com/google/common/collect/CustomConcurrentHashMap/Impl/Segment/remove(java.lang.Object,int)@g_guava-19.0.jar.txt	4

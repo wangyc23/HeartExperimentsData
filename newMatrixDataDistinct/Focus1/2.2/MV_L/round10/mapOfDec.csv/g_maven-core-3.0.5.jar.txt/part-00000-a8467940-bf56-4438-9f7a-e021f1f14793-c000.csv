@@ -1,0 +1,5 @@
+org/apache/maven/plugin/MavenPluginValidator/validate(org.apache.maven.plugin.descriptor.PluginDescriptor)@g_maven-core-3.0.4.jar.txt	2
+org/apache/maven/plugin/MavenPluginValidator/validate(org.apache.maven.plugin.descriptor.PluginDescriptor)@g_maven-core-3.0.3.jar.txt	3
+org/apache/maven/plugin/DefaultPluginDescriptorCache/clone(org.apache.maven.plugin.descriptor.PluginDescriptor)@g_maven-core-3.0.4.jar.txt	0
+org/apache/maven/toolchain/DefaultToolchain/matchesRequirements(java.util.Map)@g_maven-core-3.0.4.jar.txt	4
+org/apache/maven/plugin/DefaultPluginDescriptorCache/clone(org.apache.maven.plugin.descriptor.PluginDescriptor)@g_maven-core-3.0.3.jar.txt	1

@@ -1,0 +1,5 @@
+com/lucidworks/pig/SyntheticDoc/outputSchema(org.apache.pig.impl.logicalLayer.schema.Schema)@2c2710613270b565261a7770ad4d9d630b867e89.txt	3
+com/lucidworks/IndexingSampler/FieldSpec/nextBoolean(java.util.Random)@2c2710613270b565261a7770ad4d9d630b867e89.txt	2
+com/trsst/server/CachingStorage/tokenize(java.lang.Object[])@2c2710613270b565261a7770ad4d9d630b867e89.txt	0
+com/trsst/Common/copyOfRange(byte[],int,int)@2c2710613270b565261a7770ad4d9d630b867e89.txt	4
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/incrementCounter(com.lucidworks.pig.FusionIndexPipelineStoreFunc.Counters,long)@2c2710613270b565261a7770ad4d9d630b867e89.txt	1

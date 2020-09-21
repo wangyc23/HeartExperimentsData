@@ -1,0 +1,5 @@
+org/woelker/telemetrion/core/sensors/DiskSensor/updateValue(java.util.Map,java.lang.String,java.lang.String)@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	0
+org/woelker/telemetrion/core/sensors/MemorySensor/getCurrentValues()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	1
+org/woelker/telemetrion/core/sensors/NetworkSensor/updateValue(java.util.Map,java.lang.String,java.lang.String)@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	2
+com/aol/WordCountMultiThreaded/GetThread/run()@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	3
+com/aol/WordCountAsynchronous/getPageText(java.lang.String)@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	4

@@ -1,0 +1,5 @@
+org/activiti/bpmn/model/BaseElement/setValues(org.activiti.bpmn.model.BaseElement)@g_activiti-bpmn-model-5.16.4.jar.txt	4
+org/activiti/bpmn/model/Process/setValues(org.activiti.bpmn.model.Process)@g_activiti-bpmn-model-5.16.4.jar.txt	3
+org/activiti/bpmn/model/ExtensionElement/setValues(org.activiti.bpmn.model.ExtensionElement)@g_activiti-bpmn-model-5.17.0.jar.txt	1
+org/activiti/bpmn/model/SubProcess/setValues(org.activiti.bpmn.model.SubProcess)@g_activiti-bpmn-model-5.16.4.jar.txt	2
+org/activiti/bpmn/model/ExtensionElement/setValues(org.activiti.bpmn.model.ExtensionElement)@g_activiti-bpmn-model-5.16.4.jar.txt	0

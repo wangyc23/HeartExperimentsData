@@ -1,0 +1,5 @@
+org/eclipse/tycho/packaging/UpdateSiteAssembler/unpackJar(java.io.File,java.io.File)@g_tycho-packaging-plugin-0.14.1.jar.txt	0
+org/eclipse/tycho/packaging/FeatureXmlTransformer/1/visitPlugin(org.eclipse.tycho.core.PluginDescription)@g_tycho-packaging-plugin-0.14.1.jar.txt	4
+org/eclipse/tycho/plugins/p2/publisher/PublishProductMojo/getExpandedLauncherBinaries()@g_tycho-p2-publisher-plugin-0.23.1.jar.txt	3
+org/eclipse/tycho/packaging/FeatureXmlTransformer/getInstallSize(java.io.File)@g_tycho-packaging-plugin-0.14.1.jar.txt	1
+org/eclipse/tycho/packaging/ProductExportMojo/unzipDirectory(java.io.File,java.lang.String,java.io.File,java.lang.String)@g_tycho-packaging-plugin-0.14.1.jar.txt	2

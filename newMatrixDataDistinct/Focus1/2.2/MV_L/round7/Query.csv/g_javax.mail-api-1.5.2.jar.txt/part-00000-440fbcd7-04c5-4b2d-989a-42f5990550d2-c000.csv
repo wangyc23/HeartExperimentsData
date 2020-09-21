@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(char)
+java/lang/String/length()
+java/lang/StringBuffer/toString()
+java/lang/String/getBytes(java.lang.String)

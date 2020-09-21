@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/lib/partition/KeyFieldHelper/parseKey(java.lang.String,java.util.StringTokenizer)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapreduce/TaskAttemptID/forName(java.lang.String)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0
+org/apache/hadoop/mapreduce/tools/CLI/run(java.lang.String[])@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/mapreduce/TaskID/forName(java.lang.String)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapreduce/lib/partition/InputSampler/run(java.lang.String[])@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3

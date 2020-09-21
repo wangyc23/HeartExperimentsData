@@ -1,0 +1,5 @@
+org/springframework/web/servlet/view/velocity/VelocityView/exposeToolAttributes(org.apache.velocity.context.Context,javax.servlet.http.HttpServletRequest)@g_spring-webmvc-4.0.0.RELEASE.jar.txt	3
+org/springframework/web/servlet/DispatcherServlet/getHandler(javax.servlet.http.HttpServletRequest)@g_spring-webmvc-4.0.0.RELEASE.jar.txt	4
+org/springframework/web/servlet/support/AbstractFlashMapManager/getMatchingFlashMap(java.util.List,javax.servlet.http.HttpServletRequest)@g_spring-webmvc-4.0.0.RELEASE.jar.txt	1
+org/springframework/web/servlet/view/jasperreports/AbstractJasperReportsView/convertExporterParameters()@g_spring-webmvc-4.0.0.RELEASE.jar.txt	0
+org/springframework/web/servlet/mvc/condition/ProducesRequestCondition/parseExpressions(java.lang.String[],java.lang.String[])@g_spring-webmvc-4.0.0.RELEASE.jar.txt	2

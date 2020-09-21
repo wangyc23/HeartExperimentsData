@@ -1,0 +1,4 @@
+org/eclipse/sisu/equinox/launching/internal/EquinoxLaunchConfiguration/addVMArguments(java.lang.String[])
+org/eclipse/tycho/core/resolver/shared/PlatformPropertiesUtils/getWS(java.util.Properties)
+org/eclipse/sisu/equinox/launching/EquinoxInstallation/getInstallationDescription()
+org/eclipse/tycho/core/resolver/shared/PlatformPropertiesUtils/getOS(java.util.Properties)

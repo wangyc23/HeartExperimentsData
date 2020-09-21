@@ -1,0 +1,5 @@
+org/springframework/ui/velocity/VelocityEngineFactory/initVelocityResourceLoader(org.apache.velocity.app.VelocityEngine,java.lang.String)@g_spring-context-support-4.2.3.BUILD-20151114.225414-58.jar.txt	4
+org/springframework/cache/jcache/interceptor/AbstractFallbackJCacheOperationSource/getCacheOperation(java.lang.reflect.Method,java.lang.Class)@g_spring-context-support-4.2.3.BUILD-20151114.225414-58.jar.txt	0
+org/springframework/scheduling/quartz/SchedulerAccessor/addTriggerToScheduler(org.quartz.Trigger)@g_spring-context-support-4.2.3.BUILD-20151114.225414-58.jar.txt	2
+org/springframework/ui/velocity/SpringResourceLoader/getResourceStream(java.lang.String)@g_spring-context-support-4.2.3.BUILD-20151114.225414-58.jar.txt	3
+org/springframework/cache/ehcache/EhCacheFactoryBean/afterPropertiesSet()@g_spring-context-support-4.2.3.BUILD-20151114.225414-58.jar.txt	1

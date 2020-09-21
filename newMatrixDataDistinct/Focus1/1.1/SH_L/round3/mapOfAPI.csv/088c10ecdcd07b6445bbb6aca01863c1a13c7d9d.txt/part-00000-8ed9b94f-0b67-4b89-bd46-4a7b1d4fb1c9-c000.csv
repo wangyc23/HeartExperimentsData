@@ -1,0 +1,5 @@
+0	java/util/List/get(int)
+1	java/lang/System/setProperty(java.lang.String,java.lang.String)
+2	io/dropwizard/configuration/ConfigurationFactoryTest/Example/getType()
+3	io/dropwizard/configuration/ConfigurationFactory/build(java.io.File)
+4	java/util/List/size()

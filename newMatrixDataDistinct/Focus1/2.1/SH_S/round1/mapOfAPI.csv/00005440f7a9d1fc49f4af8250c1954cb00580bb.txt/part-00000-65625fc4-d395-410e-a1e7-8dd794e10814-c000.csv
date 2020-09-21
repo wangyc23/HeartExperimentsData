@@ -1,0 +1,4 @@
+0	org/woelker/telemetrion/core/engine/Engine/start()/$anonymous1/()
+1	org/woelker/telemetrion/core/engine/Engine/getCurrentTimestamp()
+2	java/util/concurrent/ScheduledExecutorService/scheduleAtFixedRate(java.lang.Runnable,long,long,java.util.concurrent.TimeUnit)
+3	com/sportdataconnect/strictly/api/response/CoupleResultBuilder/setMusic(java.lang.String)

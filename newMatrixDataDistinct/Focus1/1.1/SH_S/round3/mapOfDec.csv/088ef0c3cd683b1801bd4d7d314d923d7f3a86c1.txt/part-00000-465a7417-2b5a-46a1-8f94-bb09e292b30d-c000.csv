@@ -1,0 +1,5 @@
+com/guillaumecl/caskdays/models/Beer/fromJSON(com.fasterxml.jackson.databind.JsonNode)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3
+com/exercise/socialconnection/data/graph/BFSTraversal/find(java.util.function.Predicate)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1
+br/com/tecsinapse/camel/repository/SocialRepository/arrive(K,V,java.util.Map,java.util.Comparator)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+com/guillaumecl/caskdays/external/BeerListParser/getSite()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0
+com/exercise/socialconnection/repository/Neo4jPersonRepoistoryTest/testfindPath()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2

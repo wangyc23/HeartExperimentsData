@@ -1,0 +1,4 @@
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/fromChildren(org.codehaus.plexus.component.configurator.converters.lookup.ConverterLookup,org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.Class,java.lang.ClassLoader,org.codehaus.plexus.component.configurator.expression.ExpressionEvaluator,org.codehaus.plexus.component.configurator.ConfigurationListener,java.lang.Class)
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/failIfNotTypeCompatible(java.lang.Object,java.lang.Class,org.codehaus.plexus.configuration.PlexusConfiguration)
+java/util/Collections/addAll(java.util.Collection,java.lang.Object[])
+java/lang/Class/isInstance(java.lang.Object)

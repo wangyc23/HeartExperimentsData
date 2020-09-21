@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/lang/StringBuffer/StringBuffer(int)
+java/lang/String/charAt(int)
+java/lang/StringBuffer/append(char)

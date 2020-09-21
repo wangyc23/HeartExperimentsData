@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+org/apache/batik/ext/awt/image/rendered/LRUCache$LRUNode/getNext()
+java/lang/StringBuffer/toString()
+org/apache/batik/ext/awt/image/rendered/LRUCache$LRUNode/getObj()

@@ -1,0 +1,5 @@
+org/objectweb/asm/xml/Processor/SAXWriter/writeAttributes(org.xml.sax.Attributes)@g_asm-debug-all-4.1.jar.txt	0
+org/objectweb/asm/commons/Method/getMethod(java.lang.String,boolean)@g_asm-debug-all-4.1.jar.txt	2
+org/objectweb/asm/util/Textifier/visit(int,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@g_asm-debug-all-4.1.jar.txt	1
+org/objectweb/asm/util/Textifier/visit(java.lang.String,java.lang.Object)@g_asm-debug-all-4.1.jar.txt	4
+org/objectweb/asm/util/ASMifier/appendConstant(java.lang.StringBuffer,java.lang.Object)@g_asm-debug-all-4.1.jar.txt	3

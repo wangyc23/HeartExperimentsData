@@ -1,0 +1,6 @@
+0	org/commonjava/web/fd/data/WorkspaceDataManager/storeWorkspace(org.commonjava.web.fd.model.Workspace)
+1	java/io/File/listFiles()
+2	dk/statsbiblioteket/scape/arcunpacker/CLI/printUsage()
+3	java/io/File/delete()
+4	java/io/File/isDirectory()
+5	dk/statsbiblioteket/scape/arcunpacker/mapreduce/FileUtils/deleteTempFiles(java.io.File)

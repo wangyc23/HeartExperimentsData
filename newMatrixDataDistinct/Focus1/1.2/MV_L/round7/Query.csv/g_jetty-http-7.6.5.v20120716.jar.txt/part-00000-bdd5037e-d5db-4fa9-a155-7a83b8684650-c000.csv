@@ -1,0 +1,4 @@
+org/eclipse/jetty/http/HttpFields$Field/getName()
+org/eclipse/jetty/http/HttpFields$Field/getValue()
+org/eclipse/jetty/util/log/Logger/warn(java.lang.Throwable)
+java/lang/StringBuffer/toString()

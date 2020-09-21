@@ -1,0 +1,5 @@
+org/eclipse/core/commands/ParameterizedCommand/expandParameters(int,org.eclipse.core.commands.IParameter[])@g_org.eclipse.core.commands-3.9.0.jar.txt	4
+javax/faces/validator/BeanValidator/parseValidationGroups(java.lang.String)@g_javax.faces-2.2.7.jar.txt	2
+javax/faces/webapp/FacesServlet/initHttpMethodValidityVerification()@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/config/configprovider/MetaInfFacesConfigResourceProvider/getResources(javax.servlet.ServletContext)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/mgbean/ManagedBeanBuilder/BakedListProperty/set(java.lang.Object,javax.faces.context.FacesContext)@g_javax.faces-2.2.7.jar.txt	1

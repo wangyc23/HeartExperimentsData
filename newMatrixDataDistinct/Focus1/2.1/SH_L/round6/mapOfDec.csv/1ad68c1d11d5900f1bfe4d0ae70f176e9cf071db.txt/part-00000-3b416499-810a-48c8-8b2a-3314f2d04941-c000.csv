@@ -1,0 +1,5 @@
+RemoveInvalidDays/main(java.lang.String[])@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	4
+se/sics/kompics/ChannelFilterSet/addChannelFilter(se.sics.kompics.ChannelCore,se.sics.kompics.ChannelFilter)@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	1
+se/sics/kompics/network/netty/serialization/ReadLockTest/main(java.lang.String[])@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	2
+se/sics/kompics/JavaPort/addChannel(se.sics.kompics.ChannelCore)@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	3
+se/sics/kompics/JavaPort/addChannel(se.sics.kompics.ChannelCore,se.sics.kompics.ChannelFilter)@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	0

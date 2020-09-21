@@ -1,0 +1,5 @@
+org/apache/spark/JavaAPISuite/map()@1d197bd1b27114e16d6333e266434857c469e676.txt	4
+org/apache/spark/examples/JavaSparkPi/main(java.lang.String[])@1d197bd1b27114e16d6333e266434857c469e676.txt	0
+org/apache/spark/examples/JavaStatusTrackerDemo/main(java.lang.String[])@1d197bd1b27114e16d6333e266434857c469e676.txt	1
+org/apache/spark/mllib/regression/JavaLinearRegressionSuite/testPredictJavaRDD()@1d197bd1b27114e16d6333e266434857c469e676.txt	3
+org/apache/spark/JavaAPISuite/testAsyncActionErrorWrapping()@1d197bd1b27114e16d6333e266434857c469e676.txt	2

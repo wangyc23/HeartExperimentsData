@@ -1,0 +1,5 @@
+org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader/loadBeanDefinitionsFromImportedResources(java.util.Map)@g_spring-context-4.1.7.RELEASE.jar.txt	0
+org/springframework/data/util/TypeDiscoverer/getSuperTypeInformation(java.lang.Class)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	2
+org/springframework/data/web/PageableArgumentResolver/resolveArgument(org.springframework.core.MethodParameter,org.springframework.web.context.request.NativeWebRequest)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	3
+org/springframework/data/repository/core/support/TransactionalRepositoryProxyPostProcessor/AbstractFallbackTransactionAttributeSource/getTransactionAttribute(java.lang.reflect.Method,java.lang.Class)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	1
+org/springframework/data/util/ParameterizedTypeInformation/getMapValueType()@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	4

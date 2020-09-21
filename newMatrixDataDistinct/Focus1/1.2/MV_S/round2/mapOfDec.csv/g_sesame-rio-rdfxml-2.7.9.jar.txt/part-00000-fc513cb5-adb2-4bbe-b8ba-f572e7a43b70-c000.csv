@@ -1,0 +1,5 @@
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/handleStatement(org.openrdf.model.Statement)@g_onejar-2.7.9.jar.txt	2
+org/openrdf/query/QueryResults/report(org.openrdf.query.GraphQueryResult,org.openrdf.rio.RDFHandler)@g_onejar-2.7.9.jar.txt	3
+org/openrdf/rio/rdfxml/RDFXMLParser/parse(org.xml.sax.InputSource)@g_onejar-2.7.9.jar.txt	4
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/popStacks(org.openrdf.model.Resource)@g_onejar-2.7.9.jar.txt	1
+org/openrdf/rio/rdfxml/util/RDFXMLPrettyWriter/writeAbbreviatedPredicate(org.openrdf.model.URI,org.openrdf.model.Value)@g_onejar-2.7.9.jar.txt	0

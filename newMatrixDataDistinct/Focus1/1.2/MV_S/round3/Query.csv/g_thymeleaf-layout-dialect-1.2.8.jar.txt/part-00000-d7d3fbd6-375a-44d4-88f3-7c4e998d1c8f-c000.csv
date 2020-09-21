@@ -1,0 +1,4 @@
+org/thymeleaf/dom/Node/setAllNodeLocalVariables(java.util.Map)
+org/thymeleaf/dom/Element/getAttributeValue(java.lang.String)
+nz/net/ultraq/thymeleaf/include/ReplaceProcessor/findFragments(java.util.List)
+org/thymeleaf/dom/Element/getParent()

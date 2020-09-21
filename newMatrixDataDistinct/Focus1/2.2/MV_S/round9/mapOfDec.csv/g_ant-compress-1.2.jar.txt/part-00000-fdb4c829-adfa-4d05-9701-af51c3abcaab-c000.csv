@@ -1,0 +1,5 @@
+org/apache/ivy/core/cache/DefaultRepositoryCacheManager/doFindModuleInCache(org.apache.ivy.core.module.id.ModuleRevisionId,org.apache.ivy.core.cache.CacheMetadataOptions,java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/util/url/HttpClientHandler/openStream(java.net.URL)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/ant/IvyInstall/doExecute()@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/plugins/report/XmlReportParser/parse(java.io.File)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/ant/IvyCachePath/doExecute()@g_ivy-2.3.0.jar.txt	2

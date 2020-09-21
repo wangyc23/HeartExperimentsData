@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(char[],int,int)
+java/util/ListIterator/hasNext()
+java/util/ListIterator/set(java.lang.Object)
+java/lang/StringBuffer/StringBuffer(int)

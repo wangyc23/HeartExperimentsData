@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/createLocalFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry,java.nio.ByteBuffer,boolean,boolean)@g_commons-compress-1.10.jar.txt	1
+org/apache/commons/compress/archivers/tar/TarArchiveOutputStream/handleLongName(org.apache.commons.compress.archivers.tar.TarArchiveEntry,java.lang.String,java.util.Map,java.lang.String,byte,java.lang.String)@g_commons-compress-1.10.jar.txt	2
+org/apache/commons/compress/archivers/zip/NioZipEncoding/encode(java.lang.String)@g_commons-compress-1.10.jar.txt	3
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/rewriteSizesAndCrc(boolean)@g_commons-compress-1.10.jar.txt	4
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/createCentralFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry,java.nio.ByteBuffer,long,boolean)@g_commons-compress-1.10.jar.txt	0

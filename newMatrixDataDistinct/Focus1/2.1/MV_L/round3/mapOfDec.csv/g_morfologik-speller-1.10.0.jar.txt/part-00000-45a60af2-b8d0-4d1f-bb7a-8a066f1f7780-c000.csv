@@ -1,0 +1,5 @@
+morfologik/stemming/DictionaryIterator/bytesToChars(java.nio.ByteBuffer,java.nio.CharBuffer)@g_morfologik-stemming-1.7.0.jar.txt	1
+morfologik/stemming/DictionaryLookup/lookup(java.lang.CharSequence)@g_morfologik-stemming-1.7.0.jar.txt	3
+morfologik/stemming/DictionaryMetadataBuilder/withEquivalentChars(java.util.Map)@g_morfologik-stemming-1.7.0.jar.txt	4
+morfologik/stemming/DictionaryMetadataBuilder/withInputConversionPairs(java.util.Map)@g_morfologik-stemming-1.7.0.jar.txt	2
+morfologik/stemming/WordData/decode(java.nio.ByteBuffer,java.nio.CharBuffer)@g_morfologik-stemming-1.7.0.jar.txt	0

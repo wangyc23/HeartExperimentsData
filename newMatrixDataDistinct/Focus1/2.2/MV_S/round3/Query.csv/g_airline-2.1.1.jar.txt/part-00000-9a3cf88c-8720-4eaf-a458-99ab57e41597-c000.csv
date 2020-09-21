@@ -1,0 +1,4 @@
+com/github/rvesse/airline/io/printers/UsagePrinter/newIndentedPrinter(int)
+java/util/ArrayList/ArrayList()
+com/github/rvesse/airline/io/printers/UsagePrinter/newline()
+com/github/rvesse/airline/help/cli/CliCommandUsageGenerator/sortOptions(java.util.List)

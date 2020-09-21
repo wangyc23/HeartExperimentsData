@@ -1,0 +1,5 @@
+org/bouncycastle/crypto/generators/OpenBSDBCrypt/checkPassword(java.lang.String,char[])@g_bcprov-jdk15on-1.54.jar.txt	4
+org/bouncycastle/jce/provider/BrokenJCEBlockCipher/engineSetMode(java.lang.String)@g_bcprov-jdk15on-1.53.jar.txt	2
+org/bouncycastle/jcajce/provider/symmetric/util/BaseBlockCipher/engineSetMode(java.lang.String)@g_bcprov-jdk15on-1.54.jar.txt	3
+org/bouncycastle/crypto/generators/OpenBSDBCrypt/checkPassword(java.lang.String,char[])@g_bcprov-jdk15on-1.53.jar.txt	1
+org/bouncycastle/jcajce/provider/symmetric/util/BaseBlockCipher/engineSetMode(java.lang.String)@g_bcprov-jdk15on-1.53.jar.txt	0

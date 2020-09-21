@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/io/PrintStream/println(java.lang.String)
+java/io/PrintWriter/PrintWriter(java.io.Writer)
+java/lang/StringBuffer/toString()

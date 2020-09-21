@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/parser/xml/XmlModuleDescriptorParser/Parser/extendsStarted(org.xml.sax.Attributes)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listAll(org.apache.ivy.plugins.repository.Repository,java.lang.String)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/ant/IvyInfo/setProperties(org.apache.ivy.core.module.descriptor.ModuleDescriptor,org.apache.ivy.core.module.id.ModuleRevisionId)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/plugins/resolver/IBiblioResolver/listTokenValues(java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listTokenValues(org.apache.ivy.plugins.resolver.util.URLLister,java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	4

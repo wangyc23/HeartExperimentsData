@@ -1,0 +1,5 @@
+jline/WindowsTerminal/loadLibrary(java.lang.String)@g_jline-1.0.jar.txt	4
+jline/UnixTerminal/exec(java.lang.String[])@g_jline-1.0.jar.txt	0
+jline/console/completer/ArgumentCompleter/complete(java.lang.String,int,java.util.List)@g_jline-1.0.jar.txt	3
+jline/UnixTerminal/getTerminalProperty(java.lang.String)@g_jline-1.0.jar.txt	2
+jline/UnixTerminal/exec(java.lang.String[])@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	1

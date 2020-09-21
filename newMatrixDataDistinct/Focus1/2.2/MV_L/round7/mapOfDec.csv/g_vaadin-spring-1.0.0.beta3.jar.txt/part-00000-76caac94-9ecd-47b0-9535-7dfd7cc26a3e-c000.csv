@@ -1,0 +1,5 @@
+org/apache/shiro/config/ReflectionBuilder/applyProperty(java.lang.Object,java.lang.String,java.lang.Object)@g_shiro-core-1.2.2.jar.txt	0
+org/apache/shiro/realm/jndi/JndiRealmFactory/getRealms()@g_shiro-core-1.2.2.jar.txt	4
+org/apache/shiro/realm/ldap/DefaultLdapContextFactory/getLdapContext(java.lang.Object,java.lang.Object)@g_shiro-core-1.2.2.jar.txt	3
+org/apache/shiro/config/Ini/Section/toMapProps(java.lang.String)@g_shiro-core-1.2.2.jar.txt	1
+org/apache/shiro/realm/jdbc/JdbcRealm/getRoleNamesForUser(java.sql.Connection,java.lang.String)@g_shiro-core-1.2.2.jar.txt	2

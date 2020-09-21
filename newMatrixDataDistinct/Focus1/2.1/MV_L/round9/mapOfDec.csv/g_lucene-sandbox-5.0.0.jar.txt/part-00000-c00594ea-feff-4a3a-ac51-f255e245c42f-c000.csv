@@ -1,0 +1,5 @@
+org/apache/lucene/document/LatLonDocValuesField/toString()@g_lucene-sandbox-6.0.0.jar.txt	0
+org/apache/lucene/sandbox/queries/DuplicateFilter/fastBits(org.apache.lucene.index.LeafReader,org.apache.lucene.util.Bits)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/TermsWriter/writeBlock(int,boolean,int,int,int,boolean,boolean)@g_lucene-sandbox-6.0.0.jar.txt	4
+org/apache/lucene/codecs/idversion/IDVersionSegmentTermsEnum/seekCeil(org.apache.lucene.util.BytesRef)@g_lucene-sandbox-6.0.0.jar.txt	3
+org/apache/lucene/payloads/PayloadSpanUtil/queryToSpanQuery(org.apache.lucene.search.Query,java.util.Collection)@g_lucene-sandbox-6.0.0.jar.txt	2

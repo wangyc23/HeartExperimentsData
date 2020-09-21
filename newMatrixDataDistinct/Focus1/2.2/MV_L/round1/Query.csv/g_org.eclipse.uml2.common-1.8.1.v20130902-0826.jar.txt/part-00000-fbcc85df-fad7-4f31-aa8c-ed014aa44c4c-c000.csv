@@ -1,0 +1,4 @@
+org/eclipse/emf/common/notify/Notification/isTouch()
+org/eclipse/emf/ecore/resource/ResourceSet/getURIConverter()
+org/eclipse/emf/ecore/resource/Resource/getResourceSet()
+org/eclipse/emf/ecore/util/ECrossReferenceAdapter/notifyChanged(org.eclipse.emf.common.notify.Notification)

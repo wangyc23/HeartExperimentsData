@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/ser/std/ByteBufferSerializer/serialize(java.nio.ByteBuffer,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)@g_jackson-databind-2.6.4.jar.txt	2
+com/fasterxml/jackson/databind/deser/BeanDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext,java.lang.Object)@g_jackson-databind-2.6.4.jar.txt	3
+com/fasterxml/jackson/databind/deser/std/CollectionDeserializer/CollectionReferringAccumulator/resolveForwardReference(java.lang.Object,java.lang.Object)@g_jackson-databind-2.6.4.jar.txt	1
+org/springframework/data/rest/core/UriToEntityConverter/convert(java.lang.Object,org.springframework.core.convert.TypeDescriptor,org.springframework.core.convert.TypeDescriptor)@g_jackson-databind-2.6.4.jar.txt	0
+com/fasterxml/jackson/databind/deser/BeanDeserializer/deserializeUsingPropertyBasedWithExternalTypeId(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_jackson-databind-2.6.4.jar.txt	4

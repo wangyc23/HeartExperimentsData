@@ -1,0 +1,5 @@
+org/apache/http/impl/conn/tsccm/ConnPoolByRoute/closeIdleConnections(long,java.util.concurrent.TimeUnit)@g_httpclient-4.3.1.jar.txt	3
+org/apache/http/impl/conn/IdleConnectionHandler/closeExpiredConnections()@g_httpclient-4.3.1.jar.txt	1
+org/apache/http/client/protocol/ResponseProcessCookies/processCookies(org.apache.http.HeaderIterator,org.apache.http.cookie.CookieSpec,org.apache.http.cookie.CookieOrigin,org.apache.http.client.CookieStore)@g_httpclient-4.3.1.jar.txt	0
+org/apache/http/impl/conn/IdleConnectionHandler/closeIdleConnections(long)@g_httpclient-4.3.1.jar.txt	4
+org/apache/http/client/utils/URLEncodedUtils/format(java.util.List,char,java.lang.String)@g_httpclient-4.3.1.jar.txt	2

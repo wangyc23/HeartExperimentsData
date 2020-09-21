@@ -1,0 +1,5 @@
+com/ibm/taste/example/movie/model/Movie/toJSON()@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	4
+com/ibm/taste/example/movie/utils/DBUtil/getConnectionFromDataSource()@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	0
+com/ibm/taste/example/movie/recommender/MovieRecommender/setPreference(long,long,float)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	3
+com/ibm/taste/example/movie/model/table/MovieTable/getMovies(java.util.Collection)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	1
+main/Main2/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	2

@@ -1,0 +1,5 @@
+be/rhok/ejc/service/translation/BingTranslationService/convertLanguage(java.lang.String)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+be/rhok/ejc/service/metadata/ZemantaServiceTest/testGetMetaData()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1
+util/RedisFileImport/importFromSource(java.lang.String)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+be/rhok/ejc/service/metadata/OpenCalaisService/getMetaData(be.rhok.ejc.common.model.metadata.MetaDataCriteria)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+util/RedisFileImport/importFromSource(java.lang.String)@2d10bd536f35e90668f8066122990bee3b559dec.txt	0

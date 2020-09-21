@@ -1,0 +1,5 @@
+org/xwiki/wiki/internal/descriptor/DefaultWikiDescriptorManager/getAllIds()@g_xwiki-platform-wiki-default-7.4.jar.txt	1
+org/bouncycastle/pkcs/PKCS12SafeBag/getBagValue()@g_xwiki-platform-wiki-default-7.4.jar.txt	2
+org/bouncycastle/cert/path/validations/ParentCertIssuedValidation/validate(org.bouncycastle.cert.path.CertPathValidationContext,org.bouncycastle.cert.X509CertificateHolder)@g_xwiki-platform-wiki-default-7.4.jar.txt	0
+org/bouncycastle/pkcs/jcajce/JcePKCSPBEInputDecryptorProviderBuilder/1/get(org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_xwiki-platform-wiki-default-7.4.jar.txt	3
+org/bouncycastle/cert/crmf/CertificateRequestMessage/verifySignature(org.bouncycastle.operator.ContentVerifierProvider,org.bouncycastle.asn1.crmf.POPOSigningKey)@g_xwiki-platform-wiki-default-7.4.jar.txt	4

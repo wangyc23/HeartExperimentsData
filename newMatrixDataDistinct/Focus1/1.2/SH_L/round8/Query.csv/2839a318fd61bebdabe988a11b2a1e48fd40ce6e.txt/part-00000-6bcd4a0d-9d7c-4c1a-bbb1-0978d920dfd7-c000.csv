@@ -1,0 +1,4 @@
+java/util/Date/Date(long)
+org/jtalks/jcommune/web/controller/AdministrationImagesController/getFavIconICO(org.jtalks.jcommune.plugin.questionsandanswers.controller.HttpServletRequest,org.jtalks.jcommune.plugin.questionsandanswers.controller.HttpServletResponse)
+org/jtalks/jcommune/web/util/ImageControllerUtils/getDefaultImage()
+org/jtalks/jcommune/web/controller/AdministrationImagesControllerTest/checkResponse(org.jtalks.jcommune.plugin.questionsandanswers.controller.MockHttpServletResponse)

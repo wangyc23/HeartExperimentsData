@@ -1,0 +1,4 @@
+javax/servlet/http/HttpServletRequest/getParameter(java.lang.String)
+org/springframework/social/connect/support/OAuth1ConnectionFactory/getOAuthOperations()
+org/apache/commons/logging/Log/warn(java.lang.Object)
+org/springframework/social/oauth1/OAuthToken/getValue()

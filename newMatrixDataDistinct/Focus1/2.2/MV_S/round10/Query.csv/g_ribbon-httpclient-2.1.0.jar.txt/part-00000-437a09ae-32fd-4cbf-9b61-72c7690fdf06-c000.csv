@@ -1,0 +1,4 @@
+com/netflix/client/http/HttpRequest/getOverrideConfig()
+com/netflix/client/http/HttpRequest$Builder/loadBalancerKey(java.lang.Object)
+com/netflix/client/http/HttpRequest$Builder/verb(com.netflix.client.http.HttpRequest$Verb)
+com/netflix/client/http/HttpRequest$Builder/setRetriable(boolean)

@@ -1,0 +1,5 @@
+org/apache/batik/ext/awt/image/spi/JDKRegistryEntry/loadImage(java.awt.Image,org.apache.batik.ext.awt.image.renderable.DeferRable)@g_batik-awt-util-1.8.jar.txt	3
+org/apache/batik/ext/awt/image/rendered/ProfileRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.8.jar.txt	0
+org/apache/batik/ext/awt/image/rendered/Any2LumRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.8.jar.txt	4
+org/apache/batik/ext/awt/image/rendered/AbstractRed/makeTile(int,int)@g_batik-awt-util-1.8.jar.txt	2
+org/apache/batik/ext/awt/image/rendered/Any2LsRGBRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.8.jar.txt	1

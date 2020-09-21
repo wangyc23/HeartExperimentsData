@@ -1,0 +1,5 @@
+org/eclipse/xtext/service/AbstractElementFinder/findRuleCalls(org.eclipse.xtext.AbstractRule[])@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	0
+org/eclipse/xtext/service/AbstractElementFinder/findKeywords(java.lang.String[])@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	2
+org/eclipse/xtext/service/AbstractElementFinder/findKeywordPairs(java.lang.String,java.lang.String)@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	1
+org/eclipse/xtext/service/AbstractElementFinder/findCrossReferences(org.eclipse.emf.ecore.EClassifier[])@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	3
+org/eclipse/xtext/formatting/impl/NodeModelStreamer/getLeafs(org.eclipse.xtext.nodemodel.ICompositeNode,int,int)@g_org.eclipse.xtext-2.10.0-20160515.041651-73.jar.txt	4

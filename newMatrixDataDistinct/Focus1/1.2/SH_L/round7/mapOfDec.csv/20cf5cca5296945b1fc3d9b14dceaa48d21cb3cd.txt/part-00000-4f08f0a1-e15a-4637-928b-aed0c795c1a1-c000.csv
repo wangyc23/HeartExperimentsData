@@ -1,0 +1,5 @@
+org/apache/hive/service/cli/thrift/ThriftHttpServlet/doPost(org.apache.hive.service.cli.thrift.HttpServletRequest,org.apache.hive.service.cli.thrift.HttpServletResponse)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	0
+org/apache/spark/util/EnumUtil/parseIgnoreCase(java.lang.Class,java.lang.String)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	4
+org/apache/hive/service/cli/operation/TableTypeMappingFactory/getTableTypeMapping(java.lang.String)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	2
+org/apache/hive/service/cli/thrift/ThriftHttpServlet/doPasswdAuth(org.apache.hive.service.cli.thrift.HttpServletRequest,java.lang.String)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	3
+org/apache/hive/service/cli/thrift/ThriftHttpServlet/isKerberosAuthMode(java.lang.String)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	1

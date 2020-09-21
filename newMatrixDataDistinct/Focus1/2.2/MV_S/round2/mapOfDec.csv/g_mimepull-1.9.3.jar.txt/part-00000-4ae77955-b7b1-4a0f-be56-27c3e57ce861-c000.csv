@@ -1,0 +1,5 @@
+org/glassfish/grizzly/servlet/ApplicationDispatcher/wrapRequest(org.glassfish.grizzly.servlet.ApplicationDispatcher$State)@g_grizzly-http-servlet-2.3.19.jar.txt	3
+org/glassfish/grizzly/servlet/WebappContext/deploy(org.glassfish.grizzly.http.server.HttpServer)@g_grizzly-http-servlet-2.3.19.jar.txt	4
+org/glassfish/grizzly/servlet/WebappContext/normalize(java.lang.String)@g_grizzly-http-servlet-2.3.19.jar.txt	1
+org/glassfish/grizzly/servlet/WebappContext/getRequestDispatcher(java.lang.String)@g_grizzly-http-servlet-2.3.19.jar.txt	0
+com/sun/jersey/guice/spi/container/GuiceComponentProviderFactory/getComponentProvider(com.sun.jersey.core.spi.component.ComponentContext,java.lang.Class)@g_jersey-guice-1.9.jar.txt	2

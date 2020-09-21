@@ -1,0 +1,4 @@
+javax/xml/soap/SOAPPart/getEnvelope()
+javax/xml/soap/SOAPBody/addBodyElement(javax.xml.soap.Name)
+javax/xml/soap/SOAPMessage/getSOAPPart()
+javax/xml/soap/MessageFactory/createMessage()

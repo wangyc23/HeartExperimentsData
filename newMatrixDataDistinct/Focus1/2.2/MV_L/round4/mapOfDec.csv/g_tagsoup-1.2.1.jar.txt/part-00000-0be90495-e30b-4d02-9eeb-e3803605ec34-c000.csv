@@ -1,0 +1,5 @@
+org/apache/regexp/RE/matchNodes(int,int,int)@g_xalan-2.7.2.jar.txt	3
+org/apache/xalan/lib/sql/SQLQueryParser/inlineParser()@g_xalan-2.7.2.jar.txt	1
+org/apache/bcel/util/InstructionFinder/compilePattern(java.lang.String)@g_xalan-2.7.2.jar.txt	4
+org/apache/xalan/xsltc/dom/NodeCounter/formatValue(int,java.lang.String,java.lang.StringBuffer)@g_xalan-2.7.2.jar.txt	2
+org/apache/xalan/templates/ElemNumber/formatNumberList(org.apache.xalan.transformer.TransformerImpl,long[],int)@g_xalan-2.7.2.jar.txt	0

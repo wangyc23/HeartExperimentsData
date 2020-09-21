@@ -1,0 +1,5 @@
+edu/washington/cs/knowitall/logic/LogicExpression/buildAst(java.util.List)@g_openregex-1.1.1.jar.txt	0
+org/semarglproject/rdf/RdfXmlParser/endElement(java.lang.String,java.lang.String,java.lang.String)@g_openregex-1.1.1.jar.txt	2
+org/semarglproject/rdf/RdfXmlParser/processLangAndBase(org.xml.sax.Attributes)@g_openregex-1.1.1.jar.txt	3
+edu/washington/cs/knowitall/logic/LogicExpression/main(java.lang.String[])@g_openregex-1.1.1.jar.txt	4
+edu/washington/cs/knowitall/logic/LogicExpressionParser/readToken(java.lang.String)@g_openregex-1.1.1.jar.txt	1

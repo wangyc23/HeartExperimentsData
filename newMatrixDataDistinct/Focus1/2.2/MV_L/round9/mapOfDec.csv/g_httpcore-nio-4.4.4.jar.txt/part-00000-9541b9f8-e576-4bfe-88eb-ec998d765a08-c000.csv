@@ -1,0 +1,5 @@
+org/apache/http/impl/nio/reactor/SessionOutputBufferImpl/writeLine(org.apache.http.util.CharArrayBuffer)@g_httpcore-nio-4.4.5.jar.txt	4
+org/apache/http/nio/reactor/ssl/SSLIOSession/doHandshake()@g_httpcore-osgi-4.4.4.jar.txt	1
+org/apache/http/nio/reactor/ssl/SSLIOSession/doHandshake()@g_httpcore-nio-4.4.5.jar.txt	0
+org/apache/http/impl/nio/codecs/ChunkEncoder/write(java.nio.ByteBuffer)@g_httpcore-nio-4.4.5.jar.txt	3
+org/apache/http/nio/reactor/ssl/SSLIOSession/toString()@g_httpcore-nio-4.4.5.jar.txt	2

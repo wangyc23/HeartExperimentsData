@@ -1,0 +1,5 @@
+org/apache/jena/atlas/web/MediaType/toHeaderString()@g_jena-arq-3.0.0.jar.txt	2
+org/apache/jena/riot/RDFLanguages/checkRegistration(org.apache.jena.riot.Lang)@g_jena-arq-3.0.0.jar.txt	4
+org/apache/jena/sparql/lang/arq/ParseException/initialise(org.apache.jena.sparql.lang.arq.Token,int[][],java.lang.String[])@g_jena-arq-3.0.0.jar.txt	1
+org/apache/jena/riot/thrift/wire/RDF_VarTuple/<clinit>()@g_jena-arq-3.0.0.jar.txt	0
+org/apache/jena/sparql/core/mem/PMapTripleTable/lambda$null$10(org.apache.jena.graph.Node,org.apache.jena.sparql.core.mem.FourTupleMap$TwoTupleMap,org.apache.jena.graph.Node,org.apache.jena.sparql.core.mem.FourTupleMap$ThreeTupleMap,org.apache.jena.graph.Node,org.apache.jena.atlas.lib.persistent.PersistentSet)@g_jena-arq-3.0.0.jar.txt	3

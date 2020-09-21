@@ -1,0 +1,5 @@
+org/apache/lucene/expressions/js/JavascriptCompiler/1/visitMuldiv(org.apache.lucene.expressions.js.JavascriptParser$MuldivContext)@g_cglib-2.2.0-b21.jar.txt	3
+net/sf/cglib/core/DefaultNamingPolicy/getClassName(java.lang.String,java.lang.String,java.lang.Object,net.sf.cglib.core.Predicate)@g_cglib-2.2.0-b21.jar.txt	1
+org/apache/lucene/expressions/js/JavascriptCompiler/1/visitBooleqne(org.apache.lucene.expressions.js.JavascriptParser$BooleqneContext)@g_cglib-2.2.0-b21.jar.txt	4
+net/sf/cglib/transform/AbstractTransformTask/process(byte[])@g_cglib-2.2.0-b21.jar.txt	2
+org/apache/lucene/expressions/js/JavascriptCompiler/1/pushBoolean(boolean)@g_cglib-2.2.0-b21.jar.txt	0

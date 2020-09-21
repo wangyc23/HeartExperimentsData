@@ -1,0 +1,5 @@
+org/eclipse/core/internal/preferences/PreferenceServiceRegistryHelper/applyRuntimeDefaults(java.lang.String,java.lang.ref.WeakReference)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	3
+org/eclipse/core/internal/preferences/EclipsePreferences/save(org.eclipse.core.runtime.IPath)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	0
+org/eclipse/core/internal/preferences/EclipsePreferences/save(org.eclipse.core.runtime.IPath)@g_org.eclipse.equinox.preferences-3.7.0.jar.txt	1
+org/eclipse/core/internal/preferences/PreferencesService/internalMatches(org.eclipse.core.runtime.preferences.IEclipsePreferences,org.eclipse.core.runtime.preferences.IPreferenceFilter)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	2
+org/eclipse/core/internal/preferences/EclipsePreferences/write(java.util.Properties,org.eclipse.core.runtime.IPath)@g_org.eclipse.equinox.preferences-3.6.1.jar.txt	4

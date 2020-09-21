@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+com/sun/tools/xjc/model/CPropertyInfo/getName(boolean)
+java/lang/StringBuilder/StringBuilder()
+com/sun/codemodel/JDefinedClass/getMethod(java.lang.String,com.sun.codemodel.JType[])

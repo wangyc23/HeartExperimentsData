@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWikiContext/getUserReference()
+com/xpn/xwiki/doc/XWikiDocument/getSyntax()
+com/xpn/xwiki/doc/XWikiDocument/getXDOM()
+com/xpn/xwiki/internal/render/LinkedResourceHelper/getBlocks(org.xwiki.rendering.block.XDOM)

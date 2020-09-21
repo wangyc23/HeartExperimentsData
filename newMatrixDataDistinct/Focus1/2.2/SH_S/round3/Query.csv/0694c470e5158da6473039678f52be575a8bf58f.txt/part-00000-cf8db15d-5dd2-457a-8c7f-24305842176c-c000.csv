@@ -1,0 +1,4 @@
+com/sonal/flashcardapp/domain/FcDeck/setDeckid(int)
+org/slf4j/Logger/info(java.lang.String)
+java/lang/Number/intValue()
+com/sonal/flashcardapp/dao/jdbc/FcDeckDaoJdbcImpl/getDeckParamMap(com.sonal.flashcardapp.domain.FcDeck)

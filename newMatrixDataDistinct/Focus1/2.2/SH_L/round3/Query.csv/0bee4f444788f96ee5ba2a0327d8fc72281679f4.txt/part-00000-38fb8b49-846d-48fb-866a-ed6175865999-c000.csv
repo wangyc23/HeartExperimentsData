@@ -1,0 +1,4 @@
+java/util/List/size()
+java/util/Arrays/asList(T[])
+com/abstratt/kirra/mdd/core/KirraHelper/getUsernameProperty(com.abstratt.mdd.core.runtime.Classifier)
+java/lang/Object/getClass()

@@ -1,0 +1,5 @@
+org/neo4j/shell/kernel/apps/Rmrel/findRel(org.neo4j.graphdb.Node,long)@g_neo4j-shell-2.2.1.jar.txt	0
+org/neo4j/shell/kernel/apps/Cd/completionCandidatesInTx(java.lang.String,org.neo4j.shell.Session)@g_neo4j-shell-3.0.1.jar.txt	3
+org/neo4j/shell/kernel/apps/Rmrel/findRel(org.neo4j.graphdb.Node,long)@g_neo4j-shell-3.0.1.jar.txt	1
+org/neo4j/shell/kernel/apps/Rmnode/exec(org.neo4j.shell.AppCommandParser,org.neo4j.shell.Session,org.neo4j.shell.Output)@g_neo4j-shell-2.2.1.jar.txt	4
+org/neo4j/shell/kernel/apps/Cd/completionCandidatesInTx(java.lang.String,org.neo4j.shell.Session)@g_neo4j-shell-2.2.1.jar.txt	2

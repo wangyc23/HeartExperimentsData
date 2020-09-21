@@ -1,0 +1,5 @@
+org/eclipse/sisu/scanners/index/SisuIndexFinder/findClasses(org.eclipse.sisu.reflect.ClassSpace)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	4
+org/eclipse/sisu/scanners/QualifierCache/qualify(org.eclipse.sisu.reflect.ClassSpace,java.lang.String)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	3
+org/eclipse/sisu/reflect/Logs/identityToString(java.lang.Object)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	2
+org/eclipse/sisu/binders/PlaceholderBeanProvider/interpolate(java.lang.String,java.lang.Class)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	0
+org/eclipse/sisu/wire/PlaceholderBeanProvider/interpolate(java.lang.String,java.lang.Class)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	1

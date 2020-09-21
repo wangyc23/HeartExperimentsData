@@ -1,0 +1,5 @@
+org/codehaus/plexus/resource/DefaultResourceManager/getResource(java.lang.String)@g_plexus-resources-1.0-alpha-5.jar.txt	2
+org/codehaus/plexus/resource/loader/JarResourceLoader/getResource(java.lang.String)@g_plexus-resources-1.0-alpha-5.jar.txt	0
+org/codehaus/plexus/resource/loader/JarResourceLoader/loadJar(java.lang.String)@g_plexus-resources-1.0-alpha-5.jar.txt	1
+org/apache/maven/shared/artifact/filter/collection/ScopeFilter/filter(java.util.Set)@g_maven-common-artifact-filters-1.3.jar.txt	4
+org/codehaus/plexus/resource/DefaultResourceManager/createResourceAsFile(org.codehaus.plexus.resource.PlexusResource,java.io.File)@g_plexus-resources-1.0-alpha-5.jar.txt	3

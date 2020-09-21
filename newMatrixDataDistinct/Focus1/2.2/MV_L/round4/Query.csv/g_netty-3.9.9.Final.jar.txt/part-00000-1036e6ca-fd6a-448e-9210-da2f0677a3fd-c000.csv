@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/Thread/sleep(long)
+org/jboss/netty/handler/traffic/GlobalTrafficShapingHandler$ToSend/ToSend(long,org.jboss.netty.channel.MessageEvent,org.jboss.netty.handler.traffic.GlobalTrafficShapingHandler$1)
+java/util/LinkedList/LinkedList()

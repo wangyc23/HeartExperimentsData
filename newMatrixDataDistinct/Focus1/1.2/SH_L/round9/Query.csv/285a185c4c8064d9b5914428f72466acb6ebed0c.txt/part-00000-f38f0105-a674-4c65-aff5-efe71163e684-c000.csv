@@ -1,0 +1,4 @@
+org/w3c/dom/Element/hasAttribute(java.lang.String)
+org/w3c/dom/Element/getAttribute(java.lang.String)
+org/w3c/dom/Element/setAttribute(java.lang.String,java.lang.String)
+java/lang/Integer/parseInt(java.lang.String)

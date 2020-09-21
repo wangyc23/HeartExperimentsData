@@ -1,0 +1,4 @@
+org/eclipse/jetty/websocket/api/extensions/ExtensionConfig/parse(java.lang.String)
+org/eclipse/jetty/websocket/api/UpgradeException/UpgradeException(java.net.URI,int,java.lang.String)
+org/eclipse/jetty/websocket/common/AcceptHash/hashKey(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)

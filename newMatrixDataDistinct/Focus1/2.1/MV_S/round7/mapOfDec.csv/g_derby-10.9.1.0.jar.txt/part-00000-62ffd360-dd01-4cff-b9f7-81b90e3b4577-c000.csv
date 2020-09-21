@@ -1,0 +1,5 @@
+org/apache/derby/impl/sql/compile/CreateAliasNode/init(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)@g_ant-1.6.5.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BlockingBuffer/get()@g_ant-1.6.5.jar.txt	2
+org/apache/derby/jdbc/ReferenceableDataSource/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/cvslib/CvsVersion/execute()@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/types/Assertions/applyAssertions(java.util.List)@g_ant-1.6.5.jar.txt	3

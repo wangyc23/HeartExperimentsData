@@ -1,0 +1,5 @@
+org/apache/zookeeper/server/PurgeTxnLog/purge(java.io.File,java.io.File,int)@g_zookeeper-3.4.6.jar.txt	2
+org/apache/zookeeper/ZooKeeperMain/checkIfParentQuota(org.apache.zookeeper.ZooKeeper,java.lang.String)@g_zookeeper-3.4.6.jar.txt	0
+org/apache/zookeeper/server/persistence/FileSnap/deserialize(org.apache.zookeeper.server.DataTree,java.util.Map)@g_zookeeper-3.4.6.jar.txt	1
+org/apache/zookeeper/server/PrepRequestProcessor/rollbackPendingChanges(long,java.util.HashMap)@g_zookeeper-3.4.6.jar.txt	3
+org/apache/zookeeper/JLineZNodeCompletor/completeZNode(java.lang.String,java.lang.String,java.util.List)@g_zookeeper-3.4.6.jar.txt	4

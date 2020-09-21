@@ -1,0 +1,4 @@
+java/lang/String/equals(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()
+java/util/List/add(java.lang.Object)
+java/util/HashSet/HashSet()

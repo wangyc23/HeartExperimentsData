@@ -1,0 +1,4 @@
+org/apache/lucene/search/SortRescorer/explain(org.apache.lucene.search.IndexSearcher,org.apache.lucene.search.Explanation,int)
+org/apache/lucene/index/IndexReader/leaves()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/HashMap/HashMap()

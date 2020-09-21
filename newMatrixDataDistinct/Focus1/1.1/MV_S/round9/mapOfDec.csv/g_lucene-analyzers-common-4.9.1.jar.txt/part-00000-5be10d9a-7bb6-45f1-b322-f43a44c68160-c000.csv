@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/hunspell/HunspellStemmer/uniqueStems(char[],int)@g_lucene-analyzers-3.6.2.jar.txt	2
+org/apache/lucene/analysis/hunspell/HunspellDictionary/parseAffix(org.apache.lucene.analysis.CharArrayMap,java.lang.String,java.io.BufferedReader,java.lang.String)@g_lucene-analyzers-3.6.2.jar.txt	1
+org/apache/lucene/analysis/compound/hyphenation/PatternParser/normalizeException(java.util.ArrayList)@g_lucene-analyzers-3.6.2.jar.txt	3
+org/apache/lucene/analysis/shingle/ShingleMatrixFilter/produceNextToken(org.apache.lucene.analysis.Token)@g_lucene-analyzers-3.6.2.jar.txt	4
+org/apache/lucene/analysis/compound/hyphenation/PatternParser/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_lucene-analyzers-3.6.2.jar.txt	0

@@ -1,0 +1,4 @@
+org/apache/lucene/facet/FacetsConfig/build(org.apache.lucene.facet.taxonomy.TaxonomyWriter,org.apache.lucene.document.Document)
+org/apache/lucene/document/NumericDocValuesField/NumericDocValuesField(java.lang.String,long)
+org/apache/lucene/index/IndexWriterConfig/IndexWriterConfig(org.apache.lucene.analysis.Analyzer)
+org/apache/lucene/document/Document/add(org.apache.lucene.index.IndexableField)

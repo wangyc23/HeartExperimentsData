@@ -1,0 +1,4 @@
+org/springframework/mail/SimpleMailMessage/setText(java.lang.String)
+at/mfpjn/workflow/model/Customer/setPassword(java.lang.String)
+org/springframework/mail/MailSender/send(org.springframework.mail.SimpleMailMessage)
+java/security/SecureRandom/SecureRandom()

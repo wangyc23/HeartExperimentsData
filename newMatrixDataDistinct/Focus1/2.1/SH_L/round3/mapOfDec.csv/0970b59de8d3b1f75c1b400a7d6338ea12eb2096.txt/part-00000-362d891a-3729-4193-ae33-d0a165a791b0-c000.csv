@@ -1,0 +1,5 @@
+org/apache/sling/engine/impl/SlingMainServlet/setProductInfo(org.apache.sling.models.impl.BundleContext)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	4
+org/apache/aries/samples/ariestrader/persist/jdbc/TradeJdbc/updateAccountProfile(java.sql.Connection,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	1
+org/apache/sling/scripting/jsp/jasper/compiler/ELParser/hasNextChar()@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	0
+org/apache/aries/cdi/provider/CDIProvider/CdiExtenderCDI/select(java.lang.Class,java.lang.annotation.Annotation[])@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	3
+org/apache/sling/scripting/sightly/impl/engine/compiled/SourceIdentifier/toString()@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	2

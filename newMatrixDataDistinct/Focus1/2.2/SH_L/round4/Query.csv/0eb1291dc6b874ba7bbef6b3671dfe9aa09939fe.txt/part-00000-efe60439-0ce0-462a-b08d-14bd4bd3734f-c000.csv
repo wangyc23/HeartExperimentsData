@@ -1,0 +1,4 @@
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/updatePerLabelThetaNormalizer(int,double)
+org/apache/mahout/classifier/naivebayes/training/ComplementaryThetaTrainer/numFeatures()
+org/apache/mahout/math/Vector/getElement(int)
+org/apache/mahout/math/Vector/Element/index()

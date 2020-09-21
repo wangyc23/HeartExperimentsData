@@ -1,0 +1,5 @@
+org/carrot2/util/tests/SuiteResultInfoWriter/testRunStarted(org.junit.runner.Description)@g_morfologik-fsa-1.7.0.jar.txt	4
+org/carrot2/clustering/lingo/ClusterBuilder/buildLabels(org.carrot2.clustering.lingo.LingoProcessingContext,org.carrot2.text.vsm.ITermWeighting)@g_carrot2-core-3.9.3.jar.txt	2
+org/carrot2/text/preprocessing/filter/MinLengthLabelFilterDescriptor/<clinit>()@g_morfologik-fsa-1.7.0.jar.txt	3
+morfologik/fsa/CFSA2Serializer/computeInlinkCount(morfologik.fsa.FSA)@g_morfologik-fsa-1.7.0.jar.txt	1
+morfologik/fsa/CFSA2Serializer/linearizeAndCalculateOffsets(morfologik.fsa.FSA,com.carrotsearch.hppc.IntArrayList,com.carrotsearch.hppc.IntArrayList,com.carrotsearch.hppc.IntIntOpenHashMap)@g_morfologik-fsa-1.7.0.jar.txt	0

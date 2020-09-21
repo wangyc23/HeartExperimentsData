@@ -1,0 +1,4 @@
+java/io/File/File(java.io.File,java.lang.String)
+org/eclipse/egit/github/core/service/DataService/getCommit(org.eclipse.egit.github.core.IRepositoryIdProvider,java.lang.String)
+com/github/maven/plugins/site/SiteMojo/createClient(java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+org/eclipse/egit/github/core/Reference/getRef()

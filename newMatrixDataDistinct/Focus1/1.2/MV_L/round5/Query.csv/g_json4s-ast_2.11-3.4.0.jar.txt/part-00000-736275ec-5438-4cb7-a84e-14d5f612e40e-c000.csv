@@ -1,0 +1,4 @@
+org/json4s/JsonAST$JObject/JObject(scala.collection.immutable.List)
+org/json4s/Merge$/mergeFields(scala.collection.immutable.List,scala.collection.immutable.List)
+scala/Tuple2/_1()
+scala/Tuple2/_2()

@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/resolver/BasicResolver/reportFailure()@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/search/SearchEngine/listModules(java.lang.String)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/osgi/updatesite/PluginAdapter/featureAsBundle(java.net.URI,org.apache.ivy.osgi.updatesite.xml.EclipseFeature)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/report/ResolveReport/getArtifactsReports(org.apache.ivy.core.report.DownloadStatus,boolean)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/ant/IvyCachePath/doExecute()@g_ivy-2.3.0.jar.txt	2

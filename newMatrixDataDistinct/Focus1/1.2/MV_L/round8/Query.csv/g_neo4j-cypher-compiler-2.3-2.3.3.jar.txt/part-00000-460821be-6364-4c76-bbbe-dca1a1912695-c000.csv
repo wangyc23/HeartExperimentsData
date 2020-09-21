@@ -1,0 +1,4 @@
+scala/collection/Seq/isEmpty()
+org/neo4j/cypher/internal/frontend/v2_3/perty/recipe/Pretty$/sepList()
+org/neo4j/cypher/internal/frontend/v2_3/perty/recipe/Pretty$sepList/sepList(org.neo4j.cypher.internal.frontend.v2_3.perty.recipe.Pretty,scala.collection.TraversableOnce,org.neo4j.cypher.internal.frontend.v2_3.perty.recipe.RecipeAppender,org.neo4j.cypher.internal.frontend.v2_3.perty.recipe.RecipeAppender)
+org/neo4j/cypher/internal/compiler/v2_3/docgen/astPhraseDocGen$ReturnItemsConverter$$anonfun$unquote$2/2(org.neo4j.cypher.internal.compiler.v2_3.docgen.astPhraseDocGen$ReturnItemsConverter)

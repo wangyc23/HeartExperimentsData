@@ -1,0 +1,5 @@
+gnu/trove/map/hash/TFloatDoubleHashMap/putAll(java.util.Map)@g_sesame-model-2.7.9.jar.txt	4
+gnu/trove/map/hash/TByteFloatHashMap/putAll(java.util.Map)@g_sesame-model-2.7.9.jar.txt	3
+org/eclipse/rdf4j/model/util/RDFCollections/extract(org.eclipse.rdf4j.model.util.GetStatementOptional,org.eclipse.rdf4j.model.Resource,java.util.function.Consumer,java.util.function.Function,org.eclipse.rdf4j.model.Resource[])@g_sesame-model-2.7.9.jar.txt	1
+org/openrdf/model/util/Literals/createLiteral(org.openrdf.model.ValueFactory,java.lang.Object,boolean)@g_sesame-model-2.7.9.jar.txt	0
+gnu/trove/map/hash/TDoubleCharHashMap/putAll(java.util.Map)@g_sesame-model-2.7.9.jar.txt	2

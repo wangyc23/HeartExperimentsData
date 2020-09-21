@@ -1,0 +1,5 @@
+edu/washington/cs/knowitall/logic/LogicExpression/buildAst(java.util.List)@g_openregex-1.0.3.jar.txt	2
+edu/washington/cs/knowitall/logic/LogicExpression/tokenize(java.lang.String,com.google.common.base.Function)@g_openregex-1.0.3.jar.txt	4
+edu/washington/cs/knowitall/commonlib/StringUtils/splitInto(java.lang.String,java.util.regex.Pattern)@g_openregex-1.0.3.jar.txt	3
+edu/washington/cs/knowitall/regex/FiniteAutomaton/Automaton/lookingAt(java.util.List,int)@g_openregex-1.0.3.jar.txt	0
+edu/washington/cs/knowitall/regex/RegularExpression/splitInto(java.lang.String,java.util.regex.Pattern)@g_openregex-1.0.3.jar.txt	1

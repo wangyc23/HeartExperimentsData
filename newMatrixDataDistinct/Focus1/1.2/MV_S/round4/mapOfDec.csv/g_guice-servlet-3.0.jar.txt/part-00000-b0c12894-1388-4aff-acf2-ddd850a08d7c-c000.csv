@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/asm/ClassWriter/newConstItem(java.lang.Object)@g_sisu-inject-bean-2.1.1.jar.txt	2
+org/sonatype/guice/bean/reflect/ResourceEnumeration/nextElement()@g_sisu-inject-bean-2.1.1.jar.txt	3
+org/sonatype/guice/bean/containers/Main/selectScanning(java.util.Map)@g_sisu-inject-bean-2.1.1.jar.txt	0
+org/sonatype/guice/bean/inject/BeanListener/hear(com.google.inject.TypeLiteral,com.google.inject.spi.TypeEncounter)@g_sisu-inject-bean-2.1.1.jar.txt	4
+org/sonatype/guice/bean/binders/PlaceholderBeanProvider/interpolate(java.lang.String,java.lang.Class)@g_guice-bean-binders-2.3.0.jar.txt	1

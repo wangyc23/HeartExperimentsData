@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/xtext/xbase/lib/IterableExtensions/sort(java.lang.Iterable)
+org/eclipse/xtext/web/server/XtextServiceDispatcher$2/2(org.eclipse.xtext.web.server.XtextServiceDispatcher,org.eclipse.xtext.web.server.IServiceContext)
+org/apache/log4j/Logger/trace(java.lang.Object)

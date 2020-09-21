@@ -1,0 +1,5 @@
+net/java/truecommons/shed/UriEncoder/encode(java.lang.String,net.java.truecommons.shed.UriEncoder$Encoding,java.lang.StringBuilder)@g_truecommons-shed-2.5.0.jar.txt	0
+net/java/truecommons/shed/BitField/toString()@g_truecommons-shed-2.5.0.jar.txt	3
+com/github/fge/jsonpatch/RemoveOperation/apply(com.fasterxml.jackson.databind.JsonNode)@g_truecommons-shed-2.5.0.jar.txt	2
+com/github/fge/jsonpatch/AddOperation/addToArray(com.github.fge.jackson.jsonpointer.JsonPointer,com.fasterxml.jackson.databind.JsonNode)@g_truecommons-shed-2.5.0.jar.txt	1
+com/github/fge/jackson/JacksonUtils/asMap(com.fasterxml.jackson.databind.JsonNode)@g_truecommons-shed-2.5.0.jar.txt	4

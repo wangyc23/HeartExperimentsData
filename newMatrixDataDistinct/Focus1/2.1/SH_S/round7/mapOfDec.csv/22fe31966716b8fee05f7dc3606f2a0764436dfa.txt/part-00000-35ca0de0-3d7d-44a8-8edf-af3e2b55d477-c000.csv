@@ -1,0 +1,5 @@
+org/dyrda/jersey/date/converter/MyDateStringConverter/getConverter(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[])@168b9c337aa0ae603654638f3f03a641bffc221e.txt	1
+br/com/geladaonline/services/EntityCache/isUpdated(java.lang.String,java.util.Date)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	3
+br/com/geladaonline/services/CervejaService/encontreCerveja(java.lang.String)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	4
+org/dyrda/javabrains/resourses/CommentResource/updateComment(javax.ws.rs.core.UriInfo,long,long,org.dyrda.javabrains.model.Comment)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	0
+com/example/SampleStreamExample/runStaticTwitterStream(org.glassfish.jersey.server.ChunkedOutput,java.lang.String)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	2

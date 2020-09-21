@@ -1,0 +1,4 @@
+org/apache/fop/layoutmgr/AbstractBreaker$BlockSequence/access$000(org.apache.fop.layoutmgr.AbstractBreaker$BlockSequence)
+java/lang/Class/getName()
+java/util/LinkedList/size()
+java/util/List/clear()

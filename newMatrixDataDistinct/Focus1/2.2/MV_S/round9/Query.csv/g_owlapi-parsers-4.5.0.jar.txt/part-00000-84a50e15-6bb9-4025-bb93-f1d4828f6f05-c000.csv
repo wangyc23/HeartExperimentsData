@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/semanticweb/owlapi/model/OWLDataPropertyDomainAxiom/getDomain()
+java/lang/Object/equals(java.lang.Object)
+org/semanticweb/owlapi/model/OWLEquivalentDataPropertiesAxiom/getProperties()

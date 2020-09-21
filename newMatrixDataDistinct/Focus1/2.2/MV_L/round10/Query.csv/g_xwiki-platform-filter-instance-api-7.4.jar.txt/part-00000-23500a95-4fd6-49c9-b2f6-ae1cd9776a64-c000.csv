@@ -1,0 +1,4 @@
+org/xwiki/filter/output/AbstractBeanOutputFilterStream/setProperties(java.lang.Object)
+java/util/Iterator/hasNext()
+org/xwiki/component/manager/ComponentManager/getInstanceList(java.lang.reflect.Type)
+org/xwiki/filter/instance/output/OutputInstanceFilterStreamFactory/createOutputFilterStream(java.util.Map)

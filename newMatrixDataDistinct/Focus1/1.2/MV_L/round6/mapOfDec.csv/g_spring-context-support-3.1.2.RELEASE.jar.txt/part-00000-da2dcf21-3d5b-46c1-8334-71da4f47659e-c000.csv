@@ -1,0 +1,5 @@
+org/springframework/ui/velocity/VelocityEngineFactory/createVelocityEngine()@g_spring-context-support-3.1.4.RELEASE.jar.txt	0
+org/springframework/ui/velocity/VelocityEngineFactory/createVelocityEngine()@g_spring-context-support-4.0.6.RELEASE.jar.txt	1
+org/springframework/scheduling/quartz/SchedulerFactoryBean/initSchedulerFactory(org.quartz.SchedulerFactory)@g_spring-context-support-3.1.4.RELEASE.jar.txt	2
+org/springframework/ui/velocity/VelocityEngineFactory/initVelocityResourceLoader(org.apache.velocity.app.VelocityEngine,java.lang.String)@g_spring-context-support-3.1.4.RELEASE.jar.txt	3
+org/springframework/scheduling/quartz/SchedulerFactoryBean/initSchedulerFactory(org.quartz.SchedulerFactory)@g_spring-context-support-4.0.6.RELEASE.jar.txt	4

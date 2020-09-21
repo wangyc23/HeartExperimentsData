@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/xml/sax/Attributes/getQName(int)
+org/xml/sax/Attributes/getLength()
+org/apache/xalan/processor/ProcessorKey/getElemDef()

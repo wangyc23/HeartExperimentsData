@@ -1,0 +1,5 @@
+org/yaml/snakeyaml/emitter/Emitter/writeLiteral(java.lang.String)@g_snakeyaml-1.15.jar.txt	3
+org/yaml/snakeyaml/scanner/ScannerImpl/fetchMoreTokens()@g_snakeyaml-1.9.jar.txt	1
+org/yaml/snakeyaml/emitter/Emitter/writeFolded(java.lang.String)@g_snakeyaml-1.9.jar.txt	2
+org/yaml/snakeyaml/emitter/Emitter/writeLiteral(java.lang.String)@g_snakeyaml-1.9.jar.txt	0
+org/yaml/snakeyaml/scanner/ScannerImpl/fetchMoreTokens()@g_snakeyaml-1.15.jar.txt	4

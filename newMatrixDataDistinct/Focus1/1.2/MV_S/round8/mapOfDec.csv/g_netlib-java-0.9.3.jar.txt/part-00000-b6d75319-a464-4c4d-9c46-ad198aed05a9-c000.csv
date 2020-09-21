@@ -1,0 +1,5 @@
+org/netlib/generate/JNIGenerator/main(java.lang.String[])@g_wikixmlj-1.0-20160629.113147-1.jar.txt	4
+edu/jhu/nlp/wikipedia/WikiTextParser/getPlainText()@g_wikixmlj-1.0-20160629.113147-1.jar.txt	3
+org/netlib/generate/JavaGenerator/createJNIWrapper(java.lang.reflect.Method,java.util.List)@g_wikixmlj-1.0-20160629.113147-1.jar.txt	2
+org/netlib/generate/JavaGenerator/parseJavadocDescription(java.lang.reflect.Method,java.lang.String)@g_wikixmlj-1.0-20160629.113147-1.jar.txt	0
+org/netlib/generate/JavaGenerator/parseParameterNames(java.lang.reflect.Method,java.lang.String)@g_wikixmlj-1.0-20160629.113147-1.jar.txt	1

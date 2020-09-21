@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/lang/Long/valueOf(long)
+java/lang/Thread/setPriority(int)
+java/lang/String/format(java.lang.String,java.lang.Object[])

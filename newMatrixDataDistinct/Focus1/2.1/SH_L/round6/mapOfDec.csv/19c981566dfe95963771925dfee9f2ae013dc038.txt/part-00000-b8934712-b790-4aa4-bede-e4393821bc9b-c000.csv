@@ -1,0 +1,5 @@
+org/jboss/errai/jpa/test/client/ErraiJpaTest/testPersistProxiedEntity()/AlbumProxy/setFormat(org.jboss.errai.jpa.test.entity.Format)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	4
+org/jboss/errai/config/rebind/EnvUtil/isPortableType(java.lang.Class)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	2
+org/jboss/errai/codegen/builder/impl/StatementBuilder/loadStatic(java.lang.Class,java.lang.String)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	1
+org/jboss/errai/bus/server/ClusteringTests/testSessionMovesAfterBeingCached()@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	0
+org/jboss/errai/ioc/rebind/ioc/bootstrapper/FactoryGenerator/writeToDotErraiFolder(java.lang.String,java.lang.String)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	3

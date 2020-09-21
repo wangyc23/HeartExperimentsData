@@ -1,0 +1,5 @@
+org/glassfish/jersey/jetty/connector/AuthTest/testAuthPost()@159460d24ff17298e9564f76f9fd91523834d750.txt	3
+org/glassfish/jersey/tests/e2e/oauth/OAuthClientServerTest/testRequestSigningWithExceedingCache()@159460d24ff17298e9564f76f9fd91523834d750.txt	2
+org/glassfish/jersey/tests/api/RestrictedHeaderTest/testHeaders(org.glassfish.jersey.grizzly.connector.Client)@159460d24ff17298e9564f76f9fd91523834d750.txt	1
+org/glassfish/jersey/tests/e2e/oauth/OAuthClientServerTest/testRequestSigning()@159460d24ff17298e9564f76f9fd91523834d750.txt	4
+org/glassfish/jersey/tests/api/LocationHeaderTest/checkResource(java.lang.String,java.lang.String)@159460d24ff17298e9564f76f9fd91523834d750.txt	0

@@ -1,0 +1,5 @@
+org/apache/drill/exec/proto/GeneralRPCProtos/CompleteRpcMessage/newBuilderForType(com.google.protobuf.GeneratedMessage.BuilderParent)@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	4
+org/apache/drill/TestExampleQueries/testLimitInSubqAndOrderByOuter()@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	3
+org/apache/drill/jdbc/DatabaseMetaDataGetColumnsTest/test_IS_NULLABLE_hasRightValue_mdrOptVARCHAR()@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	0
+org/apache/drill/exec/expr/fn/HiveFunctionRegistry/resolveFunction(org.apache.drill.common.expression.FunctionCall,boolean)@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	2
+org/apache/drill/exec/vector/complex/MapVector/Accessor/getObject(int)@2df3a95e20b2683a91a4bd3abb4a0756e63386f3.txt	1

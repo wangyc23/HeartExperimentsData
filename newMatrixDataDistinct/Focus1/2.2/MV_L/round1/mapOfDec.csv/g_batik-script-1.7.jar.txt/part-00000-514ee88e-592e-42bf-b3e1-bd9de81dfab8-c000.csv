@@ -1,0 +1,5 @@
+org/apache/batik/script/ImportInfo/addImports(java.net.URL)@g_batik-script-1.8.jar.txt	0
+org/apache/batik/script/rhino/EventTargetWrapper/FunctionAddNSProxy/call(org.mozilla.javascript.Context,org.mozilla.javascript.Scriptable,org.mozilla.javascript.Scriptable,java.lang.Object[])@g_batik-script-1.8.jar.txt	4
+org/codehaus/plexus/interpolation/reflection/ReflectionValueExtractor/evaluate(java.lang.String,java.lang.Object,boolean)@g_batik-script-1.8.jar.txt	1
+org/apache/batik/script/rhino/RhinoInterpreter/3/run(org.mozilla.javascript.Context)@g_batik-script-1.8.jar.txt	3
+org/codehaus/plexus/interpolation/reflection/MethodMap/getMostSpecific(java.util.List,java.lang.Class[])@g_batik-script-1.8.jar.txt	2

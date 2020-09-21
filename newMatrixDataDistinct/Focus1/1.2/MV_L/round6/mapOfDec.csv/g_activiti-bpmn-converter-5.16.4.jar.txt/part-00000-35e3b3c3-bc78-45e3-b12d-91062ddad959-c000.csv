@@ -1,0 +1,5 @@
+org/activiti/bpmn/converter/util/BpmnXMLUtil/writeExtensionElement(org.activiti.bpmn.model.ExtensionElement,java.util.Map,javax.xml.stream.XMLStreamWriter)@g_activiti-bpmn-converter-5.17.0.jar.txt	0
+org/activiti/bpmn/converter/util/BpmnXMLUtil/writeExtensionElement(org.activiti.bpmn.model.ExtensionElement,java.util.Map,javax.xml.stream.XMLStreamWriter)@g_activiti-bpmn-converter-6.0.0.Beta1.jar.txt	1
+org/activiti/bpmn/converter/util/BpmnXMLUtil/writeCustomAttributes(java.util.Collection,javax.xml.stream.XMLStreamWriter,java.util.Map,java.util.List[])@g_activiti-bpmn-converter-6.0.0.Beta1.jar.txt	3
+org/activiti/bpmn/converter/util/BpmnXMLUtil/writeCustomAttributes(java.util.Collection,javax.xml.stream.XMLStreamWriter,java.util.Map,java.util.List[])@g_activiti-bpmn-converter-5.17.0.jar.txt	2
+org/activiti/bpmn/converter/BaseBpmnXMLConverter/writeFormProperties(org.activiti.bpmn.model.FlowElement,boolean,javax.xml.stream.XMLStreamWriter)@g_activiti-bpmn-converter-5.17.0.jar.txt	4

@@ -1,0 +1,4 @@
+org/apache/maven/archiver/MavenArchiver/getArchiver()
+org/apache/maven/archiver/MavenArchiver/setOutputFile(java.io.File)
+org/apache/maven/plugin/jar/AbstractJarMojo/getLog()
+java/io/File/exists()

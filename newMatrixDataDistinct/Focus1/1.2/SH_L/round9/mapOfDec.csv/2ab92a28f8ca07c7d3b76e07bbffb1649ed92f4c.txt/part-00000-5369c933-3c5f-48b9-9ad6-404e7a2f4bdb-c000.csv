@@ -1,0 +1,5 @@
+com/maxmind/geoip/LookupService/init()@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	3
+com/maxmind/geoip/LookupService/getDatabaseInfo()@2d10636dc514efc3af2fe9540d4a65154d775c71.txt	1
+com/maxmind/geoip/LookupService/seekCountry(long)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	2
+com/maxmind/geoip/LookupService/getDatabaseInfo()@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	0
+com/maxmind/geoip/LookupService/seekCountryV6(java.net.InetAddress)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	4

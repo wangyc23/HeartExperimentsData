@@ -1,0 +1,4 @@
+org/apache/tools/ant/BuildException/BuildException(java.lang.String,java.lang.Throwable,org.apache.tools.ant.Location)
+org/apache/tools/ant/types/Environment/getVariables()
+org/apache/tools/ant/types/CommandlineJava/describeCommand()
+org/apache/tools/ant/taskdefs/Execute/Execute(org.apache.tools.ant.taskdefs.ExecuteStreamHandler,org.apache.tools.ant.taskdefs.ExecuteWatchdog)

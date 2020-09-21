@@ -1,0 +1,5 @@
+net/sf/ehcache/writer/writebehind/CoalesceKeysFilter/filter(java.util.List,net.sf.ehcache.writer.writebehind.OperationConverter)@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/writer/writebehind/AbstractWriteBehindQueue/processBatchedOperations(java.util.List)@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/distribution/RMICacheManagerPeerListener/notifyCacheAdded(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/distribution/MulticastRMICacheManagerPeerProvider/registerPeer(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/store/MemoryOnlyStore/BruteForceSearchManager/executeQuery(java.lang.String,net.sf.ehcache.store.StoreQuery,java.util.Map)@g_ehcache-core-2.6.2.jar.txt	0

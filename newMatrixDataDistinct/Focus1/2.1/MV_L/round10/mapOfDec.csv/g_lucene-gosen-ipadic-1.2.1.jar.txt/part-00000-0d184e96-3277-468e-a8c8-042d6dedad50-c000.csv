@@ -1,0 +1,5 @@
+com/optimaize/langdetect/ngram/NgramExtractor/extractGrams(java.lang.CharSequence)@g_junrar-0.7.jar.txt	1
+net/java/sen/ReadingProcessor/splitComplexToken(java.lang.String,java.lang.String,int)@g_junrar-0.7.jar.txt	4
+net/java/sen/compiler/IpadicPreprocessor/loadCForms()@g_junrar-0.7.jar.txt	3
+com/cybozu/labs/langdetect/CommandLineInterface/detectLang()@g_junrar-0.7.jar.txt	0
+net/java/sen/compiler/IpadicPreprocessor/buildConnectionCSV(java.lang.String)@g_junrar-0.7.jar.txt	2

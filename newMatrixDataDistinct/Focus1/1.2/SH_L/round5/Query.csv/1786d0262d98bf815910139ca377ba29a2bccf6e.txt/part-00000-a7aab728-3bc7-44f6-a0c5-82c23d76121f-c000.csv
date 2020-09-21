@@ -1,0 +1,4 @@
+org/wicketstuff/calendarviews/model/BasicEvent/setEndTime(java.util.Date)
+org/wicketstuff/calendarviews/model/BasicEvent/setStartTime(java.util.Date)
+org/wicketstuff/calendarviews/model/BasicCategorizedEvent/setCssClassForCategory(java.lang.String)
+java/util/Random/nextInt(int)

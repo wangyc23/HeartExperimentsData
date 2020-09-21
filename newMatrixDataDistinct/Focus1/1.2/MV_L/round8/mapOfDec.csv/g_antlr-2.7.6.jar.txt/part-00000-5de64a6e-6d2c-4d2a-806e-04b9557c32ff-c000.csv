@@ -1,0 +1,5 @@
+antlr/CppCodeGenerator/genInclude(antlr.LexerGrammar)@g_antlr-2.7.7.jar.txt	3
+antlr/PythonCodeGenerator/gen(antlr.TreeWalkerGrammar)@g_antlr-2.7.7.jar.txt	0
+antlr/CSharpCodeGenerator/genBody(antlr.LexerGrammar)@g_antlr-2.7.7.jar.txt	4
+antlr/PythonCodeGenerator/gen(antlr.LexerGrammar)@g_antlr-2.7.7.jar.txt	2
+antlr/PythonCodeGenerator/gen(antlr.ParserGrammar)@g_antlr-2.7.7.jar.txt	1

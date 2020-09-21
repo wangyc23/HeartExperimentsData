@@ -1,0 +1,5 @@
+org/apache/jempbox/xmp/XMPSchema/setLanguageProperty(java.lang.String,java.lang.String,java.lang.String)@g_xmlschema-core-2.0.3.jar.txt	3
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_xmlschema-core-2.0.3.jar.txt	1
+org/apache/ws/commons/schema/extensions/DefaultExtensionSerializer/serialize(org.apache.ws.commons.schema.XmlSchemaObject,java.lang.Class,org.w3c.dom.Node)@g_xmlschema-core-2.0.3.jar.txt	0
+org/apache/jempbox/xmp/XMPSchema/merge(org.apache.jempbox.xmp.XMPSchema)@g_xmlschema-core-2.0.3.jar.txt	4
+org/apache/ws/commons/schema/XmlSchemaSerializer/serializeSchemaElement(org.apache.ws.commons.schema.XmlSchema,boolean)@g_xmlschema-core-2.0.3.jar.txt	2

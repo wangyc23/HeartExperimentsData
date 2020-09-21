@@ -1,0 +1,4 @@
+java/lang/Class/getSuperclass()
+java/util/List/size()
+java/lang/StringBuffer/toString()
+java/lang/Class/getPackage()

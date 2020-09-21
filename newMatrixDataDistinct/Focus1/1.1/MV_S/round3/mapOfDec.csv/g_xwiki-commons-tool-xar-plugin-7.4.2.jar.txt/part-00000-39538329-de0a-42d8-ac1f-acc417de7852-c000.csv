@@ -1,0 +1,5 @@
+com/xpn/xwiki/tool/backup/AbstractPackager/createXWikiContext(java.lang.String,java.io.File)@g_maven-artifact-resolver-1.0.jar.txt	3
+org/xwiki/tool/packager/PackageMojo/expandJettyDistribution()@g_maven-artifact-resolver-1.0.jar.txt	4
+org/xwiki/tool/xar/UnXARMojo/unpackDependentXars(org.apache.maven.artifact.Artifact)@g_maven-artifact-resolver-1.0.jar.txt	1
+org/xwiki/tool/packager/PackageMojo/resolveJettyArtifact()@g_maven-artifact-resolver-1.0.jar.txt	2
+com/xpn/xwiki/tool/backup/Exporter/exportDocuments(java.io.File,java.lang.String,java.io.File)@g_maven-artifact-resolver-1.0.jar.txt	0

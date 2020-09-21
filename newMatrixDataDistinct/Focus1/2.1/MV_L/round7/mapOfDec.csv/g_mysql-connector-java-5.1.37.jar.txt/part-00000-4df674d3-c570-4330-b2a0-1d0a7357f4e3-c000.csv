@@ -1,0 +1,5 @@
+com/mysql/jdbc/log/LogFactory/getLogger(java.lang.String,java.lang.String,com.mysql.jdbc.ExceptionInterceptor)@g_mysql-connector-java-5.1.18.jar.txt	1
+com/mysql/jdbc/ConnectionPropertiesImpl/postInitialization()@g_mysql-connector-java-5.1.18.jar.txt	2
+com/mysql/jdbc/Util/loadExtensions(com.mysql.jdbc.Connection,java.util.Properties,java.lang.String,java.lang.String,com.mysql.jdbc.ExceptionInterceptor)@g_mysql-connector-java-5.1.18.jar.txt	3
+com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_mysql-connector-java-5.1.18.jar.txt	0
+com/mysql/jdbc/NonRegisteringDriver/parseURL(java.lang.String,java.util.Properties)@g_mysql-connector-java-5.1.18.jar.txt	4

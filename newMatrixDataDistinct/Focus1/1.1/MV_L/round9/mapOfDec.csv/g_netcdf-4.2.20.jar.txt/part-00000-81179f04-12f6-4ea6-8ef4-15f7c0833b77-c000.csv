@@ -1,0 +1,5 @@
+ucar/nc2/iosp/nids/Nidsheader/convert(byte[],ucar.ma2.DataType,int,int)@g_netcdf-4.2-min.jar.txt	4
+ucar/nc2/iosp/hdf5/H5tiledLayoutBB/DataChunk/getByteBuffer()@g_netcdf-4.2-min.jar.txt	0
+ucar/nc2/iosp/hdf4/ODLparser/parseValueCollection(org.jdom2.Element,java.lang.String)@g_netcdf-4.2-min.jar.txt	3
+ucar/nc2/iosp/hdf5/H5tiledLayoutBB/DataChunk/getByteBuffer()@g_cdm-4.5.5.jar.txt	1
+ucar/nc2/iosp/gempak/GempakParameterTable/getInputStream(java.lang.String)@g_netcdf-4.2-min.jar.txt	2

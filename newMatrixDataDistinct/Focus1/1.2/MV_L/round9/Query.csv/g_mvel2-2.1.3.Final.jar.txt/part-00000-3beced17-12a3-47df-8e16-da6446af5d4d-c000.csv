@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/mvel2/compiler/ExpressionCompiler/removeContext()
+java/util/Iterator/next()
+org/mvel2/compiler/ExpressionCompiler/contextControl(int,org.mvel2.ParserContext,org.mvel2.compiler.AbstractParser)

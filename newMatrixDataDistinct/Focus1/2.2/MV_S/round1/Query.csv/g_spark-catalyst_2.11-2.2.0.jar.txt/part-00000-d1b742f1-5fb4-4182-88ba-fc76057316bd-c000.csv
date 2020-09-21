@@ -1,0 +1,4 @@
+scala/reflect/ClassTag$/Any()
+org/apache/spark/sql/catalyst/expressions/JsonTuple$$anonfun$5/5(org.apache.spark.sql.catalyst.expressions.JsonTuple,org.apache.spark.sql.catalyst.InternalRow)
+scala/collection/TraversableLike/map(scala.Function1,scala.collection.generic.CanBuildFrom)
+java/io/ByteArrayOutputStream/toByteArray()

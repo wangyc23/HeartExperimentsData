@@ -1,0 +1,5 @@
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_log4j-1.2.8.jar.txt	3
+org/apache/log4j/net/SocketAppender/Connector/run()@g_log4j-1.2.8.jar.txt	4
+org/apache/log4j/NDC/lazyRemove()@g_log4j-1.2.16.jar.txt	2
+org/apache/log4j/PropertyConfigurator/parseCategory(java.util.Properties,org.apache.log4j.Logger,java.lang.String,java.lang.String,java.lang.String)@g_log4j-1.2.8.jar.txt	0
+org/apache/log4j/xml/DOMConfigurator/parseChildrenOfLoggerElement(org.w3c.dom.Element,org.apache.log4j.Logger,boolean)@g_log4j-1.2.8.jar.txt	1

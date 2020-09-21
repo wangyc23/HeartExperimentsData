@@ -1,0 +1,5 @@
+WordCount2/main(java.lang.String[])@176eb535f792596923ab1f78f71fe4887c80fe04.txt	0
+ca/ulaval/ift/graal/pagerank/drivers/PagerankMRDriver/run(java.lang.String[])@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	2
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/run(java.lang.String[])@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	1
+WordCount2/TokenizerMapper/setup(org.apache.hadoop.mapreduce.Mapper.Context)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	4
+com/manning/hip/ch11/SequenceFileTupleStoreFunc/setStoreLocation(java.lang.String,org.apache.hadoop.mapreduce.Job)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	3

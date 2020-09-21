@@ -1,0 +1,5 @@
+org/jgroups/util/Util/objectToByteBuffer(java.lang.Object)@g_jgroups-3.6.2.Final.jar.txt	2
+org/jgroups/util/Util/methodNameToJavaAttributeName(java.lang.String)@g_jgroups-3.6.2.Final.jar.txt	1
+org/carrot2/util/simplexml/SimpleXmlWrapperValue/unwrap()@g_carrot2-core-3.12.0.jar.txt	3
+org/jgroups/util/Util/attributeNameToMethodName(java.lang.String)@g_jgroups-3.6.2.Final.jar.txt	0
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_jgroups-3.6.2.Final.jar.txt	4

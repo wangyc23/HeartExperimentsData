@@ -1,0 +1,5 @@
+org/glassfish/hk2/api/AnnotationLiteral/getMembers()@g_hk2-api-2.4.0-b31.jar.txt	4
+org/glassfish/hk2/utilities/ClasspathDescriptorFileFinder/findDescriptorFiles()@g_hk2-api-2.4.0-b31.jar.txt	0
+org/glassfish/hk2/internal/ImmediateHelper/findOrCreate(org.glassfish.hk2.api.ActiveDescriptor,org.glassfish.hk2.api.ServiceHandle)@g_hk2-api-2.4.0-b31.jar.txt	3
+org/glassfish/hk2/utilities/ClasspathDescriptorFileFinder/findDescriptorFiles()@g_hk2-api-2.2.0-b21.jar.txt	1
+org/glassfish/hk2/api/MultiException/getMessage()@g_hk2-api-2.4.0-b31.jar.txt	2

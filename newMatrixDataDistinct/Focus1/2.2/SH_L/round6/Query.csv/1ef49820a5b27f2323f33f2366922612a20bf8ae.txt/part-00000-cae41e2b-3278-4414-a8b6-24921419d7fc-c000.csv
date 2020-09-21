@@ -1,0 +1,4 @@
+java/util/stream/Stream/map(java.util.function.Function)
+java/util/stream/Stream/of(T)
+java/nio/file/Files/newOutputStream(java.nio.file.Path,java.nio.file.OpenOption[])
+java/lang/String/split(java.lang.String)

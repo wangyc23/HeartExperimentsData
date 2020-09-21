@@ -1,0 +1,5 @@
+org/springframework/data/repository/init/Jackson2ResourceReader/readFrom(org.springframework.core.io.Resource,java.lang.ClassLoader)@g_spring-data-commons-1.12.1.RELEASE.jar.txt	0
+org/springframework/data/repository/query/EvaluationContextExtensionInformation/RootObjectInformation/getFunctions(java.lang.Object)@g_spring-data-commons-1.12.1.RELEASE.jar.txt	1
+org/springframework/data/querydsl/binding/QuerydslPredicateBuilder/convertToPropertyPathSpecificType(java.util.List,org.springframework.data.mapping.PropertyPath)@g_spring-data-commons-1.12.1.RELEASE.jar.txt	2
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/toString()@g_spring-data-commons-1.12.1.RELEASE.jar.txt	4
+org/springframework/data/util/ClassTypeInformation/getTypeVariableMap(java.lang.Class,java.util.Collection)@g_spring-data-commons-1.12.1.RELEASE.jar.txt	3

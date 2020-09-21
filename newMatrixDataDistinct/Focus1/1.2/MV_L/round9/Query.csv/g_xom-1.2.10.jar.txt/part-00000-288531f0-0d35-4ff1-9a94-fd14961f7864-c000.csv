@@ -1,0 +1,4 @@
+java/lang/String/valueOf(char)
+java/lang/StringBuffer/append(char)
+java/lang/String/length()
+java/lang/Integer/toHexString(int)

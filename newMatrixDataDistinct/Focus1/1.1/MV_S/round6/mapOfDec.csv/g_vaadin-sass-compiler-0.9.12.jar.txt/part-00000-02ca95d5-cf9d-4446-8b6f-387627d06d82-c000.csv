@@ -1,0 +1,5 @@
+com/vaadin/sass/internal/parser/function/RectFunctionGenerator/computeForArgumentList(com.vaadin.sass.internal.parser.LexicalUnitImpl,com.vaadin.sass.internal.parser.FormalArgumentList)@g_flute-1.3.0.gg2.jar.txt	3
+com/vaadin/sass/internal/parser/FormalArgumentList/replaceNamedArguments(java.util.ArrayList,com.vaadin.sass.internal.parser.ActualArgumentList)@g_flute-1.3.0.gg2.jar.txt	1
+org/w3c/flute/parser/Parser/convertStringIndex(java.lang.String,int,int)@g_flute-1.3.0.gg2.jar.txt	4
+org/w3c/flute/parser/Parser/getCharStreamWithLurk(org.w3c.css.sac.InputSource)@g_flute-1.3.0.gg2.jar.txt	0
+org/w3c/flute/util/Encoding/<clinit>()@g_flute-1.3.0.gg2.jar.txt	2

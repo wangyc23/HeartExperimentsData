@@ -1,0 +1,5 @@
+org/mvel2/PropertyAccessor/getBeanProperty(java.lang.Object,java.lang.String)@g_mvel2-2.1.8.Final.jar.txt	1
+org/mvel2/optimizers/impl/asm/ASMAccessorOptimizer/getBeanProperty(java.lang.Object,java.lang.String)@g_mvel2-2.1.8.Final.jar.txt	3
+org/mvel2/optimizers/impl/refl/ReflectiveAccessorOptimizer/getCollectionProperty(java.lang.Object,java.lang.String)@g_mvel2-2.1.8.Final.jar.txt	4
+org/mvel2/optimizers/impl/refl/ReflectiveAccessorOptimizer/getBeanProperty(java.lang.Object,java.lang.String)@g_mvel2-2.1.8.Final.jar.txt	2
+org/mvel2/ParserConfiguration/addClassMemberStaticImports(java.lang.String)@g_mvel2-2.1.8.Final.jar.txt	0

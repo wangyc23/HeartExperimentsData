@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+java/util/HashMap/HashMap()
+java/util/Properties/getProperty(java.lang.String,java.lang.String)
+java/util/Map/put(K,V)

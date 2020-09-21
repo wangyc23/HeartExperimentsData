@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/getNumberKeys(java.lang.Object)@g_spring-boot-actuator-1.3.0.BUILD-SNAPSHOT.jar.txt	3
+org/springframework/boot/actuate/endpoint/DataSourcePublicMetrics/initialize()@g_spring-boot-actuator-1.3.0.BUILD-SNAPSHOT.jar.txt	2
+org/springframework/boot/actuate/trace/WebRequestTraceFilter/getRequestHeaders(javax.servlet.http.HttpServletRequest)@g_spring-boot-actuator-1.3.0.BUILD-SNAPSHOT.jar.txt	0
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onGaugeAdded(java.lang.String,com.codahale.metrics.Gauge)@g_spring-boot-actuator-1.3.0.BUILD-SNAPSHOT.jar.txt	4
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onTimerAdded(java.lang.String,com.codahale.metrics.Timer)@g_spring-boot-actuator-1.3.0.BUILD-SNAPSHOT.jar.txt	1

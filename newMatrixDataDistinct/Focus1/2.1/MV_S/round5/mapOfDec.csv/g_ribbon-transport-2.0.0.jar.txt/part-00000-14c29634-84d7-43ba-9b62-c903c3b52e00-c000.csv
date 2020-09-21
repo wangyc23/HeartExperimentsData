@@ -1,0 +1,5 @@
+com/eureka2/shading/codehaus/jackson/map/util/ClassUtil/findConstructor(java.lang.Class,boolean)@g_ribbon-loadbalancer-2.1.0.jar.txt	3
+com/eureka2/shading/codehaus/jackson/map/introspect/POJOPropertiesCollector/_renameProperties()@g_ribbon-loadbalancer-2.1.0.jar.txt	4
+com/eureka2/shading/apache/commons/compress/archivers/zip/ZipFile/resolveLocalFileHeaderData(java.util.Map)@g_ribbon-loadbalancer-2.1.0.jar.txt	2
+com/eureka2/shading/apache/avro/file/SnappyCodec/compress(java.nio.ByteBuffer)@g_ribbon-loadbalancer-2.1.0.jar.txt	1
+com/netflix/loadbalancer/LoadBalancerContext/getServerFromLoadBalancer(java.net.URI,java.lang.Object)@g_ribbon-loadbalancer-2.1.0.jar.txt	0

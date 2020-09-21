@@ -1,0 +1,5 @@
+eu/learnpad/transformations/launchers/ATLTransformationLauncher/transform(java.io.InputStream,java.lang.String,java.io.OutputStream)@g_lp-model-transformer-1.0-SNAPSHOT.jar.txt	3
+eu/learnpad/transformations/launchers/ATLTransformationLauncher/copyResourceToTMP(java.lang.String,java.lang.String)@g_lp-model-transformer-1.0-SNAPSHOT.jar.txt	4
+eu/learnpad/transformations/preprocessing/Alignment/sanitizerForMagicDraw(java.io.InputStream,java.io.OutputStream)@g_lp-model-transformer-1.0-SNAPSHOT.jar.txt	0
+eu/learnpad/transformations/launchers/ATLTransformationLauncher/allineateLPADMM()@g_lp-model-transformer-1.0-SNAPSHOT.jar.txt	2
+eu/learnpad/transformations/preprocessing/Alignment/sanitizerForADOXX(java.lang.String)@g_lp-model-transformer-1.0-SNAPSHOT.jar.txt	1

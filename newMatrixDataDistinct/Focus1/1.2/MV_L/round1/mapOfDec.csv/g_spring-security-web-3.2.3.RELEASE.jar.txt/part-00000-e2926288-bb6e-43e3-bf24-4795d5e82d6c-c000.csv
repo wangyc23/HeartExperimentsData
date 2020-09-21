@@ -1,0 +1,5 @@
+org/springframework/security/web/PortMapperImpl/setPortMappings(java.util.Map)@g_spring-security-web-3.2.5.RELEASE.jar.txt	3
+org/springframework/security/web/debug/Logger/info(java.lang.String,boolean)@g_spring-security-web-3.2.5.RELEASE.jar.txt	0
+org/springframework/security/web/authentication/rememberme/AbstractRememberMeServices/autoLogin(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-security-web-3.2.5.RELEASE.jar.txt	4
+org/springframework/security/web/session/HttpSessionEventPublisher/sessionCreated(javax.servlet.http.HttpSessionEvent)@g_spring-security-web-3.2.5.RELEASE.jar.txt	2
+org/springframework/security/web/debug/Logger/info(java.lang.String,boolean)@g_spring-security-web-4.0.0.RELEASE.jar.txt	1

@@ -1,0 +1,5 @@
+org/springframework/jdbc/core/metadata/GenericCallMetaDataProvider/processProcedureColumns(java.sql.DatabaseMetaData,java.lang.String,java.lang.String,java.lang.String)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	3
+org/springframework/integration/config/xml/AggregatorParser/parseHandler(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	2
+org/springframework/integration/history/MessageHistoryConfigurer/start()@g_spring-integration-core-4.0.6.RELEASE.jar.txt	4
+org/springframework/integration/gateway/GatewayMethodInboundMessageMapper/evaluateHeaders(org.springframework.expression.EvaluationContext,java.util.Map)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	0
+org/springframework/integration/config/DefaultConfiguringBeanFactoryPostProcessor/registerNullChannel(org.springframework.beans.factory.support.BeanDefinitionRegistry)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	1

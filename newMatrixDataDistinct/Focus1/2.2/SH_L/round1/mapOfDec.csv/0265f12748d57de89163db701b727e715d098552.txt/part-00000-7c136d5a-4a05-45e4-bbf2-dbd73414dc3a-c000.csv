@@ -1,0 +1,5 @@
+okhttp3/internal/framed/HpackDecodeTestBase/createStories(java.lang.String[])@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	3
+okhttp3/curl/Main/versionString()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	2
+okhttp3/internal/spdy/hpackjson/HpackJsonUtil/readStories(java.lang.String)@2df96936c89d1dcbdcb4f9d644dff64b19d1cd02.txt	1
+okhttp3/internal/framed/hpackjson/HpackJsonUtil/readStories(java.lang.String)@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	0
+okhttp3/curl/Main/versionString()@2df96936c89d1dcbdcb4f9d644dff64b19d1cd02.txt	4

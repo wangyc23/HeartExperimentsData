@@ -1,0 +1,5 @@
+demo/mtom/client/Client/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+eu/scape_project/archiventory/identifiers/UnixFileIdentificationTest/testIdentifyFileList()@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	3
+eu/scape_project/archiventory/container/ArcContainerTest/testInit()@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	4
+eu/scape_project/archiventory/identifiers/UnixFileIdentification/identify(java.util.Collection)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	2
+eu/scape_project/archiventory/container/ZipContainerTest/testInit()@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	1

@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/apache/commons/logging/Log/isDebugEnabled()
+java/io/File/getAbsolutePath()
+java/io/BufferedInputStream/BufferedInputStream(java.io.InputStream)

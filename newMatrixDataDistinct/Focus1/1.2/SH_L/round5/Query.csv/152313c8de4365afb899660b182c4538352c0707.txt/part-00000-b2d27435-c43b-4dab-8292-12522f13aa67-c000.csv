@@ -1,0 +1,4 @@
+com/onslyde/domain/User/setPassword(java.lang.String)
+com/onslyde/domain/Session/setSessionCode(java.lang.String)
+com/onslyde/domain/Session/getId()
+com/onslyde/domain/User/setCreated(java.util.Date)

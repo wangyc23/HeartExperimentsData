@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/configuration/Configuration/getString(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

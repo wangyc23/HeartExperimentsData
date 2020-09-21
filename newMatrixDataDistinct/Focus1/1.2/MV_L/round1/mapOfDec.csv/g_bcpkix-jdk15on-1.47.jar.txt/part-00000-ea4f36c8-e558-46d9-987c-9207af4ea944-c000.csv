@@ -1,0 +1,5 @@
+org/bouncycastle/tsp/cms/CMSTimeStampedDataGenerator/generate(org.bouncycastle.tsp.TimeStampToken,java.io.InputStream)@g_bcpkix-jdk15on-1.49.jar.txt	2
+org/bouncycastle/tsp/cms/CMSTimeStampedDataGenerator/generate(org.bouncycastle.tsp.TimeStampToken,java.io.InputStream)@g_bcpkix-jdk15on-1.53.jar.txt	3
+org/bouncycastle/tsp/cms/CMSTimeStampedData/addTimeStamp(org.bouncycastle.tsp.TimeStampToken)@g_bcpkix-jdk15on-1.53.jar.txt	1
+org/bouncycastle/tsp/cms/CMSTimeStampedData/addTimeStamp(org.bouncycastle.tsp.TimeStampToken)@g_bcpkix-jdk15on-1.49.jar.txt	0
+org/bouncycastle/operator/jcajce/OperatorHelper/getSignatureName(org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_bcpkix-jdk15on-1.49.jar.txt	4

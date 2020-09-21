@@ -1,0 +1,5 @@
+scala/util/automata/BaseBerrySethi/doComp(scala.util.regexp.Base$RegExp,scala.Function1)@g_scala-library-2.10.3.jar.txt	2
+scala/sys/process/ProcessBuilderImpl/AbstractBuilder/lines(boolean,boolean,scala.Option)@g_scala-library-2.10.4.jar.txt	1
+scala/sys/process/ProcessBuilderImpl/AbstractBuilder/lines(boolean,boolean,scala.Option)@g_scala-library-2.10.3.jar.txt	0
+scala/collection/parallel/mutable/ParFlatHashTable/ParFlatHashTableIterator/check()@g_scala-library-2.10.3.jar.txt	3
+scala/xml/include/sax/Main/anonfun/main/1/apply(java.lang.String)@g_scala-library-2.10.3.jar.txt	4

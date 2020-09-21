@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/api/LockingStatementOperationsTest/shouldAcquireSchemaWriteLockBeforeAddingIndexRule()@g_neo4j-kernel-2.1.6-tests.jar.txt	1
+org/neo4j/kernel/impl/transaction/xaframework/XaLogicalLogTest/shouldMarkTheCurrentLogAsAppliedOnCloseOnlyAfterSuccessOnStoreFlush()@g_neo4j-kernel-2.1.6-tests.jar.txt	4
+org/neo4j/kernel/impl/api/index/IndexingServiceTest/newIndexingServiceWithMockedDependencies(org.neo4j.kernel.api.index.IndexPopulator,org.neo4j.kernel.api.index.IndexAccessor,org.neo4j.kernel.impl.api.index.IndexingServiceTest$DataUpdates)@g_neo4j-kernel-2.1.6-tests.jar.txt	2
+org/neo4j/kernel/impl/transaction/xaframework/TestXaLogicalLogFiles/shouldDetectDualLog1()@g_neo4j-kernel-2.1.6-tests.jar.txt	0
+org/neo4j/kernel/impl/transaction/TestXaFramework/testCreateXaResource()@g_neo4j-kernel-2.1.6-tests.jar.txt	3

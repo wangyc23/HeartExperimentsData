@@ -1,0 +1,5 @@
+com/howbuy/rdb/database/dao/ibatis/DynamicSql/ObjectVOtoKeyVOListSelect(java.lang.Object,java.util.ArrayList,java.lang.StringBuffer)@2147938dca86e97e66ddcb82aaf7a5a1457e1c35.txt	3
+com/howbuy/rdb/database/dao/ibatis/DynamicSql/ObjectVOtoKeyVOList(java.lang.Object,java.util.ArrayList)@2147938dca86e97e66ddcb82aaf7a5a1457e1c35.txt	2
+com/howbuy/rdb/database/dao/ibatis/DynamicSql/beanTohashmap(java.lang.Object)@2147938dca86e97e66ddcb82aaf7a5a1457e1c35.txt	0
+com/howbuy/rdb/database/dao/ibatis/DynamicSql/ObjectVOtoSelectCount(java.lang.Object,java.util.ArrayList)@2147938dca86e97e66ddcb82aaf7a5a1457e1c35.txt	4
+com/howbuy/rdb/database/dao/ibatis/DynamicSql/ObjectVOtoKeyVOListPK(java.lang.Object,java.util.ArrayList,java.util.ArrayList)@2147938dca86e97e66ddcb82aaf7a5a1457e1c35.txt	1

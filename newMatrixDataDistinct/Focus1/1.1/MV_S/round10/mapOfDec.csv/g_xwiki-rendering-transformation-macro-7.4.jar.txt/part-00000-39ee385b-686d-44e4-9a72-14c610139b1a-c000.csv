@@ -1,0 +1,5 @@
+org/xwiki/wiki/internal/provisioning/DefaultWikiProvisioningJobExecutor/createAndExecuteJob(java.lang.String,java.lang.String,java.lang.Object)@g_xwiki-platform-wiki-default-7.4.jar.txt	0
+org/xwiki/wiki/internal/descriptor/migrator/WikiDescriptorMigrator/fixDocument(java.lang.String)@g_xwiki-platform-captcha-7.4.jar.txt	1
+org/xwiki/wiki/internal/descriptor/builder/DefaultWikiDescriptorBuilder/buildDescriptorObject(java.util.List,com.xpn.xwiki.doc.XWikiDocument)@g_xwiki-platform-captcha-7.4.jar.txt	4
+org/xwiki/wiki/internal/provisioning/DefaultWikiCopier/copyDocuments(java.lang.String,java.lang.String,boolean)@g_xwiki-platform-captcha-7.4.jar.txt	3
+org/xwiki/rendering/internal/transformation/macro/MacroErrorManager/generateError(org.xwiki.rendering.block.MacroBlock,java.lang.String,java.lang.String)@g_xwiki-platform-captcha-7.4.jar.txt	2

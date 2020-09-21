@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rdf/rdfxml/renderer/RDFXMLRenderer/render(org.semanticweb.owlapi.io.RDFResource,boolean)@g_owlapi-parsers-4.5.0.jar.txt	3
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/writeSection(org.semanticweb.owlapi.manchestersyntax.parser.ManchesterOWLSyntax,java.util.Collection,java.lang.String,boolean,org.semanticweb.owlapi.model.OWLOntology[])@g_owlapi-parsers-4.5.0.jar.txt	2
+org/semanticweb/owlapi/rdf/turtle/renderer/TurtleRenderer/write(org.semanticweb.owlapi.io.RDFResource)@g_owlapi-parsers-4.5.0.jar.txt	1
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseAnnotations(org.semanticweb.owlapi.model.OWLAnnotationSubject)@g_owlapi-parsers-4.5.0.jar.txt	4
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLClass)@g_owlapi-parsers-4.5.0.jar.txt	0

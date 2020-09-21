@@ -1,0 +1,5 @@
+org/ops4j/pax/wicket/api/support/DefaultWebApplicationFactory/register()@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	1
+com/talent/mysql/packet/factory/MysqlHeaderPoolFactory/create()@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	0
+org/soitoolkit/tools/generator/OneWayRobustServiceGeneratorTest/doTestOneWayRobustServicesInOneCommonIC(java.lang.String,java.lang.String,org.soitoolkit.tools.generator.model.enums.MuleVersionEnum,org.soitoolkit.tools.generator.model.enums.DeploymentModelEnum)@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	4
+org/ops4j/pax/wicket/spi/springdm/injection/spring/SpringTestUtil/loadFirstElementThatMatches(java.lang.String)@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	3
+org/soitoolkit/tools/generator/GroovyGeneratorUtilTest/testGroovyRequestResponseGenerator()@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	2

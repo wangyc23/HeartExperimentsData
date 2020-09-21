@@ -1,0 +1,4 @@
+java/util/ArrayList/iterator()
+java/lang/String/valueOf(java.lang.Object)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/StringBuilder(java.lang.String)

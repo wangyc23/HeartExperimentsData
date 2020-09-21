@@ -1,0 +1,4 @@
+org/objectweb/asm/tree/InsnNode/InsnNode(int)
+org/objectweb/asm/tree/FieldInsnNode/FieldInsnNode(int,java.lang.String,java.lang.String,java.lang.String)
+org/objectweb/asm/Type/getSort()
+java/util/List/add(java.lang.Object)

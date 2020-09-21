@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+org/sonatype/aether/repository/RemoteRepository/getId()
+java/util/Iterator/hasNext()
+org/sonatype/aether/repository/WorkspaceReader/getRepository()

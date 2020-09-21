@@ -1,0 +1,4 @@
+java/lang/reflect/Method/isAccessible()
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])
+java/lang/ThreadGroup/uncaughtException(java.lang.Thread,java.lang.Throwable)
+java/lang/ClassLoader/loadClass(java.lang.String)

@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/lang/StringBuffer/StringBuffer(int)
+java/util/Iterator/next()
+java/lang/String/indexOf(java.lang.String)

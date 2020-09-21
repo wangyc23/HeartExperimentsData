@@ -1,0 +1,5 @@
+org/apache/batik/ext/awt/image/GraphicsUtil/copyData_INT_PACK(java.awt.image.Raster,java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	4
+org/apache/batik/ext/awt/image/rendered/ColorMatrixRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	3
+org/apache/batik/ext/awt/image/GraphicsUtil/divide_INT_PACK_Data(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	1
+org/apache/batik/ext/awt/image/rendered/TileRed/fillOutRaster_INT_PACK(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	0
+org/apache/batik/ext/awt/image/rendered/SpecularLightingRed/genRect(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	2

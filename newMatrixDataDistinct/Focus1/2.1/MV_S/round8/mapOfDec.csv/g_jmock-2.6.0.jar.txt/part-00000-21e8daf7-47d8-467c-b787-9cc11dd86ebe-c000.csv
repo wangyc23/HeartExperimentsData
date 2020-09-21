@@ -1,0 +1,5 @@
+org/easymock/internal/RecordState/createNumberObject(java.lang.Object,java.lang.Class)@g_easymock-2.4.jar.txt	0
+org/easymock/internal/UnorderedBehavior/toString(org.easymock.internal.Invocation)@g_easymock-2.4.jar.txt	4
+org/easymock/internal/MocksBehavior/verify()@g_easymock-2.4.jar.txt	3
+flexjson/ObjectBinder/bindIntoObject(java.util.Map,java.lang.Object,java.lang.reflect.Type)@g_easymock-2.4.jar.txt	2
+org/easymock/internal/LegacyMatcherProvider/setMatcher(java.lang.reflect.Method,org.easymock.ArgumentsMatcher)@g_easymock-2.4.jar.txt	1

@@ -1,0 +1,5 @@
+org/fusesource/bai/config/Policy/filter()@1e409169831dbff41c7ea314835f35143c12e15b.txt	2
+org/apache/aries/blueprint/ext/AbstractPropertyPlaceholder/processReferenceMetadata(org.osgi.service.blueprint.reflect.ReferenceMetadata)@1e409169831dbff41c7ea314835f35143c12e15b.txt	1
+org/apache/aries/samples/ariestrader/persist/jdbc/TradeJdbc/updateAccountProfile(java.sql.Connection,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@1e409169831dbff41c7ea314835f35143c12e15b.txt	0
+org/fusesource/fabric/dosgi/capset/SimpleFilter/parse(java.lang.String)@1e409169831dbff41c7ea314835f35143c12e15b.txt	4
+org/apache/aries/blueprint/itests/TestReferences/testListReferences()@1e409169831dbff41c7ea314835f35143c12e15b.txt	3

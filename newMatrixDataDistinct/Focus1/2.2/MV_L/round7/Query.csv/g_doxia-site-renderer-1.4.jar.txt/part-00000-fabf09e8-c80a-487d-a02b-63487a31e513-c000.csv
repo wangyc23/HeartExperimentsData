@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/IOUtil/toString(java.io.Reader)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/maven/doxia/logging/PlexusLoggerWrapper/PlexusLoggerWrapper(org.codehaus.plexus.logging.Logger)
+java/io/StringReader/StringReader(java.lang.String)

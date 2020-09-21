@@ -1,0 +1,4 @@
+org/codehaus/plexus/compiler/Compiler/getOutputFile(org.codehaus.plexus.compiler.CompilerConfiguration)
+java/util/Set/addAll(java.util.Collection)
+org/codehaus/plexus/compiler/Compiler/getInputFileEnding(org.codehaus.plexus.compiler.CompilerConfiguration)
+java/lang/StringBuffer/append(java.lang.Object)

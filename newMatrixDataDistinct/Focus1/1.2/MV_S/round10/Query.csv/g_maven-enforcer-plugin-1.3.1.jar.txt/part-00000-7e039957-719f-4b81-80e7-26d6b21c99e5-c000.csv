@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/apache/maven/plugins/enforcer/EnforceMojo/getLog()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)

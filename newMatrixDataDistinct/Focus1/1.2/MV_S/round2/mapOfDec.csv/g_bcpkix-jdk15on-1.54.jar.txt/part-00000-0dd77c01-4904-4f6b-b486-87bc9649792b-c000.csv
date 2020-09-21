@@ -1,0 +1,5 @@
+org/bouncycastle/cms/PasswordRecipientInformation/getKeyDerivationAlgParameters(java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	2
+org/bouncycastle/cms/PasswordRecipientInformation/getKeyDerivationAlgParams()@g_bcmail-jdk15-1.45.jar.txt	1
+org/bouncycastle/asn1/util/ASN1Dump/outputApplicationSpecific(java.lang.String,java.lang.String,boolean,org.bouncycastle.asn1.ASN1Primitive,java.lang.String)@g_bcprov-jdk15on-1.47.jar.txt	4
+org/bouncycastle/cms/SignerInformation/verifyDigest(byte[],java.security.PublicKey,byte[],java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	0
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcprov-jdk15on-1.47.jar.txt	3

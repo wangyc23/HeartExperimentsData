@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/Object/toString()
+java/io/StringReader/StringReader(java.lang.String)
+org/apache/lucene/analysis/tokenattributes/CharTermAttribute/length()

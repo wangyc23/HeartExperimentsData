@@ -1,0 +1,5 @@
+net/didion/jwnl/utilities/DictionaryToDatabaseWithUsageCount/createTables(java.lang.String)@g_jwnl-1.4_rc3.jar.txt	1
+net/didion/jwnl/dictionary/morph/Util/split(java.lang.String)@g_jwnl-1.4_rc3.jar.txt	4
+net/didion/jwnl/JWNL/insertParams(java.lang.String,java.lang.Object[])@g_jwnl-1.4_rc3.jar.txt	0
+org/apache/commons/cli/HelpFormatter/renderOptions(java.lang.StringBuffer,int,org.apache.commons.cli.Options,int,int)@g_commons-cli-1.2.jar.txt	3
+net/didion/jwnl/utilities/DictionaryToDatabase/createTables(java.lang.String)@g_jwnl-1.4_rc3.jar.txt	2

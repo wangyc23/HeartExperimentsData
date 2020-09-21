@@ -1,0 +1,5 @@
+org/elasticsearch/transport/TcpTransport/onChannelClosed(java.lang.Object)@g_elasticsearch-5.2.2.jar.txt	1
+org/neo4j/configuration/ConfigOptions/asConfigValues(java.util.Map)@g_neo4j-configuration-3.3.0.jar.txt	0
+org/elasticsearch/gateway/PrimaryShardAllocator/buildNodeDecisions(org.elasticsearch.gateway.PrimaryShardAllocator$NodesToAllocate,org.elasticsearch.gateway.AsyncShardFetch$FetchResult,java.util.Set)@g_elasticsearch-5.2.2.jar.txt	4
+org/elasticsearch/index/shard/StoreRecovery/recoverFromLocalShards(java.util.function.BiConsumer,org.elasticsearch.index.shard.IndexShard,java.util.List)@g_elasticsearch-5.2.2.jar.txt	2
+org/elasticsearch/plugins/PluginsService/logPluginInfo(java.util.List,java.lang.String,org.apache.logging.log4j.Logger)@g_elasticsearch-5.2.2.jar.txt	3

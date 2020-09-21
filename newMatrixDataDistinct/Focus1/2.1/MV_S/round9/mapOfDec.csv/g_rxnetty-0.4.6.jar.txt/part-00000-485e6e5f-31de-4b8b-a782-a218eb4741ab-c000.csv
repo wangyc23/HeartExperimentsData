@@ -1,0 +1,5 @@
+io/netty/handler/codec/http/websocketx/WebSocketServerHandshaker/handshake(io.netty.channel.Channel,io.netty.handler.codec.http.FullHttpRequest,io.netty.handler.codec.http.HttpHeaders,io.netty.channel.ChannelPromise)@g_netty-codec-http-4.1.7.Final.jar.txt	1
+com/netflix/eureka2/transport/utils/AvroUtils/loadSchema(java.lang.String,java.lang.String)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	2
+com/eureka2/shading/apache/avro/Schema/RecordSchema/equals(java.lang.Object)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	3
+com/eureka2/shading/reactivex/netty/protocol/http/websocket/WebSocketServerHandler/sendHttpResponse(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.FullHttpRequest,io.netty.handler.codec.http.FullHttpResponse)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	0
+com/eureka2/shading/codehaus/jackson/map/deser/SettableBeanProperty/ManagedReferenceProperty/set(java.lang.Object,java.lang.Object)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	4

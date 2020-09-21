@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/frontend/v3_0/symbols/package$/CTString()
+org/neo4j/cypher/internal/frontend/v3_0/symbols/package$/CTFloat()
+org/neo4j/cypher/internal/frontend/v3_0/symbols/FloatType/covariant()
+org/neo4j/cypher/internal/frontend/v3_0/symbols/IntegerType/covariant()

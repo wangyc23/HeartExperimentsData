@@ -1,0 +1,5 @@
+org/jvnet/hk2/internal/ServiceLocatorImpl/_resolveContext(java.lang.Class)@g_hk2-locator-2.4.0-b10.jar.txt	1
+org/jvnet/hk2/internal/ServiceLocatorImpl/_resolveContext(java.lang.Class)@g_hk2-locator-2.2.0.jar.txt	0
+org/jvnet/hk2/internal/Utilities/createService(org.glassfish.hk2.api.ActiveDescriptor,org.glassfish.hk2.api.Injectee,org.jvnet.hk2.internal.ServiceLocatorImpl,org.glassfish.hk2.api.ServiceHandle,java.lang.Class)@g_hk2-locator-2.2.0.jar.txt	4
+org/jvnet/hk2/internal/SystemDescriptor/getFactoryDescriptor(java.lang.reflect.Method,java.lang.reflect.Type,org.jvnet.hk2.internal.ServiceLocatorImpl,org.jvnet.hk2.internal.Collector)@g_hk2-locator-2.4.0-b10.jar.txt	3
+org/jvnet/hk2/internal/SystemDescriptor/getFactoryDescriptor(java.lang.reflect.Method,java.lang.reflect.Type,org.jvnet.hk2.internal.ServiceLocatorImpl,org.jvnet.hk2.internal.Collector)@g_hk2-locator-2.2.0.jar.txt	2

@@ -1,0 +1,5 @@
+org/codehaus/jettison/Node/getNamespacePrefix(int)@g_jettison-1.2.jar.txt	2
+org/codehaus/jettison/json/JSONObject/toString()@g_jettison-1.2.jar.txt	3
+org/codehaus/jettison/json/JSONObject/toString(int,int)@g_jettison-1.2.jar.txt	1
+org/codehaus/jettison/mapped/DefaultConverter/convertToJSONPrimitive(java.lang.String)@g_jettison-1.2.jar.txt	4
+org/codehaus/jettison/Node/getNamespaceURI(int)@g_jettison-1.2.jar.txt	0

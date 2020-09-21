@@ -1,0 +1,5 @@
+org/apache/spark/mllib/classification/JavaNaiveBayesSuite/testPredictJavaRDD()@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	1
+org/apache/spark/mllib/regression/JavaLinearRegressionSuite/testPredictJavaRDD()@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	4
+org/apache/spark/Java8APISuite/map()@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	2
+org/apache/spark/examples/JavaHdfsLR/main(java.lang.String[])@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	3
+org/apache/spark/JavaAPISuite/map()@12ae359ada59f13a69e34d5517de77ebe72acddd.txt	0

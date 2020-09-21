@@ -1,0 +1,5 @@
+gnu/trove/map/hash/TFloatDoubleHashMap/putAll(java.util.Map)@g_lp-questonnaire-manager-1.0-SNAPSHOT.jar.txt	2
+gnu/trove/map/hash/TIntLongHashMap/putAll(java.util.Map)@g_lp-questonnaire-manager-1.0-SNAPSHOT.jar.txt	4
+gnu/trove/list/linked/TIntLinkedList/reverse(int,int)@g_lp-questonnaire-manager-1.0-SNAPSHOT.jar.txt	3
+org/apache/commons/exec/util/MapUtils/prefix(java.util.Map,java.lang.String)@g_lp-questonnaire-manager-1.0-SNAPSHOT.jar.txt	0
+gnu/trove/map/hash/TByteIntHashMap/putAll(java.util.Map)@g_lp-questonnaire-manager-1.0-SNAPSHOT.jar.txt	1

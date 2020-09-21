@@ -1,0 +1,5 @@
+org/apache/lucene/search/spans/SpanWeight/explain(org.apache.lucene.index.IndexReader,int)@g_lucene-core-3.6.2.jar.txt	1
+org/apache/lucene/search/TermQuery/TermWeight/explain(org.apache.lucene.index.IndexReader,int)@g_lucene-core-3.6.2.jar.txt	4
+org/apache/lucene/search/ConstantScoreQuery/ConstantWeight/explain(org.apache.lucene.index.IndexReader,int)@g_lucene-core-3.6.2.jar.txt	0
+org/apache/lucene/search/BooleanQuery/BooleanWeight/explain(org.apache.lucene.index.IndexReader,int)@g_lucene-core-3.6.2.jar.txt	2
+org/apache/lucene/search/DisjunctionMaxQuery/DisjunctionMaxWeight/explain(org.apache.lucene.index.IndexReader,int)@g_lucene-core-3.6.2.jar.txt	3

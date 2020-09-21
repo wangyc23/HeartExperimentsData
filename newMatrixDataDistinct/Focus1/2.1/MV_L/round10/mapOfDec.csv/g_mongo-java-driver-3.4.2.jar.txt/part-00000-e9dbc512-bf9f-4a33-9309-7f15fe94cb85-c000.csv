@@ -1,0 +1,5 @@
+com/mongodb/util/StringParseUtil/parseStrict(java.lang.String)@g_bson-3.4.2.jar.txt	3
+com/mongodb/gridfs/GridFSFile/validate()@g_mongo-java-driver-2.12.3.jar.txt	1
+com/mongodb/DBCollection/ensureIndex(com.mongodb.DBObject,com.mongodb.DBObject)@g_mongo-java-driver-2.12.3.jar.txt	0
+com/mongodb/DBCollectionImpl/createIndex(com.mongodb.DBObject,com.mongodb.DBObject,com.mongodb.DBEncoder)@g_mongo-java-driver-2.12.3.jar.txt	2
+com/mongodb/ConnectionString/parseOptions(java.lang.String)@g_bson-3.4.2.jar.txt	4

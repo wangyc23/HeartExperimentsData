@@ -1,0 +1,5 @@
+de/pdark/decentxml/Element/getChild(int)@g_hamcrest-core-1.1.jar.txt	1
+de/pdark/decentxml/Element/getAttribute(java.lang.String)@g_hamcrest-core-1.1.jar.txt	3
+de/pdark/decentxml/Element/addAttribute(de.pdark.decentxml.Attribute)@g_hamcrest-core-1.1.jar.txt	4
+de/pdark/decentxml/Document/addNode(int,de.pdark.decentxml.Node)@g_hamcrest-core-1.1.jar.txt	2
+org/apache/james/mime4j/codec/Base64InputStream/read0(byte[],int,int)@g_hamcrest-core-1.1.jar.txt	0

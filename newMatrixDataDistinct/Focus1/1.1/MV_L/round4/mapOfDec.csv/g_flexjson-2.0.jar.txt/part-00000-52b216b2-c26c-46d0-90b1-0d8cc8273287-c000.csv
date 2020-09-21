@@ -1,0 +1,5 @@
+flexjson/BeanAnalyzer/uncapitalize(java.lang.String)@g_flexjson-2.1.jar.txt	2
+flexjson/transformer/ObjectTransformer/transform(java.lang.Object)@g_flexjson-2.1.jar.txt	3
+flexjson/transformer/HtmlEncoderTransformer/transform(java.lang.Object)@g_flexjson-2.1.jar.txt	0
+org/apache/maven/scm/command/update/AbstractUpdateCommand/executeCommand(org.apache.maven.scm.provider.ScmProviderRepository,org.apache.maven.scm.ScmFileSet,org.apache.maven.scm.CommandParameters)@g_flexjson-2.1.jar.txt	4
+flexjson/ObjectBinder/bindIntoObject(java.util.Map,java.lang.Object,java.lang.reflect.Type)@g_flexjson-2.1.jar.txt	1

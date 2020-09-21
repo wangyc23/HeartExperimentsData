@@ -1,0 +1,5 @@
+net/sf/ehcache/search/impl/BaseResult/toString()@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/Cache/searchAllInStoreWithStats(java.util.Collection)@g_ehcache-core-2.6.2.jar.txt	0
+net/sf/ehcache/writer/writebehind/AbstractWriteBehindQueue/processBatchedOperations(java.util.List)@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/Cache/getAllWithLoader(java.util.Collection,java.lang.Object)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/store/AbstractStore/setAttributeExtractors(java.util.Map)@g_ehcache-core-2.6.2.jar.txt	2

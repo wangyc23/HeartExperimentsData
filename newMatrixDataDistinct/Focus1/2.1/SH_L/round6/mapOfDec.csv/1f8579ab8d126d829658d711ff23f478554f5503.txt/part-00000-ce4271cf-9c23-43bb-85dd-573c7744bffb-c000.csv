@@ -1,0 +1,5 @@
+org/streaminer/util/hash/MurmurHash3/hash(long[])@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	1
+org/streaminer/util/hash/MurmurHash3/MurmurHash3_x64_32(long[],int)@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	3
+org/streaminer/stream/quantile/EnsembleQuantiles/getQuantile(double)@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	2
+org/streaminer/stream/quantile/GKQuantiles/sortWorkingSet(java.util.List)@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	0
+org/streaminer/stream/model/NominalDistributionModel/truncate(int)@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	4

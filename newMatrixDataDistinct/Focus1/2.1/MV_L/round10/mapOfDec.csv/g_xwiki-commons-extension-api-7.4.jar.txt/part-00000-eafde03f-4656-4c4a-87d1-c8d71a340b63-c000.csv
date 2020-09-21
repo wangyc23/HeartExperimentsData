@@ -1,0 +1,5 @@
+org/xwiki/extension/job/internal/AbstractExtensionJob/installExtension(org.xwiki.extension.LocalExtension,java.util.Collection,java.lang.String,boolean)@g_xwiki-commons-extension-api-7.4.2.jar.txt	1
+org/xwiki/extension/repository/internal/core/DefaultCoreExtensionScanner/toDependency(java.lang.String,java.lang.String,java.lang.String)@g_xwiki-commons-extension-api-7.4.2.jar.txt	4
+org/xwiki/extension/job/internal/AbstractExtensionJob/installExtension(org.xwiki.extension.LocalExtension,java.util.Collection,java.lang.String,boolean)@g_xwiki-commons-extension-api-7.0.jar.txt	3
+org/xwiki/extension/job/internal/AbstractExtensionJob/applyAction(org.xwiki.extension.job.plan.ExtensionPlanAction)@g_xwiki-commons-extension-api-7.4.2.jar.txt	0
+org/xwiki/extension/job/internal/AbstractExtensionJob/applyAction(org.xwiki.extension.job.plan.ExtensionPlanAction)@g_xwiki-commons-extension-api-7.0.jar.txt	2

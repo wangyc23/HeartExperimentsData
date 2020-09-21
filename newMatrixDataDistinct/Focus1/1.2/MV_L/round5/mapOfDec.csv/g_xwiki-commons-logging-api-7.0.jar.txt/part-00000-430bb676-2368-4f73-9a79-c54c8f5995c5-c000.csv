@@ -1,0 +1,5 @@
+org/xwiki/logging/internal/helpers/ExtendedMessageFormatter/parseMessage(java.lang.String,java.lang.Object[])@g_xwiki-commons-logging-api-7.4.jar.txt	1
+org/xwiki/logging/event/LogEvent/log(org.slf4j.Logger)@g_xwiki-commons-logging-api-7.4.jar.txt	4
+org/xwiki/logging/internal/helpers/ExtendedMessageFormatter/parseMessage(java.lang.String,java.lang.Object[])@g_xwiki-commons-logging-api-7.4.2.jar.txt	0
+org/xwiki/logging/internal/helpers/MessageParser/next()@g_xwiki-commons-logging-api-7.4.2.jar.txt	3
+org/xwiki/logging/event/LogEvent/log(org.slf4j.Logger)@g_xwiki-commons-logging-api-7.4.2.jar.txt	2

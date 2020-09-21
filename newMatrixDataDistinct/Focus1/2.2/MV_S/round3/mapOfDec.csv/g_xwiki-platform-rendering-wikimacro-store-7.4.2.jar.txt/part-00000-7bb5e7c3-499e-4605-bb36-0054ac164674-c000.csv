@@ -1,0 +1,5 @@
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLinks(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	1
+org/xwiki/localization/wiki/internal/AbstractDocumentTranslationBundle/loadDocumentLocaleBundle(java.util.Locale)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	3
+org/xwiki/refactoring/internal/DefaultModelBridge/getDocumentReferences(org.xwiki.model.reference.SpaceReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	4
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/updateRelativeLinks(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	2
+org/xwiki/localization/wiki/internal/DocumentTranslationBundleFactory/loadTranslations(java.lang.String)@g_xwiki-platform-localization-source-wiki-7.4.2.jar.txt	0

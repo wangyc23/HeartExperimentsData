@@ -1,0 +1,5 @@
+com/drew/metadata/Metadata/getOrCreateDirectory(java.lang.Class)@g_metadata-extractor-2.6.2.jar.txt	1
+com/drew/imaging/jpeg/JpegMetadataReader/extractMetadataFromJpegSegmentReader(com.drew.imaging.jpeg.JpegSegmentData)@g_metadata-extractor-2.10.1.jar.txt	3
+com/drew/tools/ProcessAllImagesInFolderUtility/MarkdownTableOutputHandler/onExtractionSuccess(java.io.File,com.drew.metadata.Metadata,java.lang.String,java.io.PrintStream)@g_metadata-extractor-2.10.1.jar.txt	0
+com/drew/tools/ProcessAllImagesInFolderUtility/TextFileOutputHandler/openWriter(java.io.File)@g_metadata-extractor-2.10.1.jar.txt	2
+com/drew/metadata/ico/IcoReader/extract(com.drew.lang.SequentialReader,com.drew.metadata.Metadata)@g_metadata-extractor-2.10.1.jar.txt	4

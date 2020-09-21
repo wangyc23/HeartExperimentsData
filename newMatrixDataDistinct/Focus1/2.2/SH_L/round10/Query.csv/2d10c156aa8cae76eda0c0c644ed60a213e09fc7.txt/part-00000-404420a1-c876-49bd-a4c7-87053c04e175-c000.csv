@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+com/google/gson/stream/JsonReader/close()
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream,java.lang.String)
+java/lang/ClassLoader/getResourceAsStream(java.lang.String)

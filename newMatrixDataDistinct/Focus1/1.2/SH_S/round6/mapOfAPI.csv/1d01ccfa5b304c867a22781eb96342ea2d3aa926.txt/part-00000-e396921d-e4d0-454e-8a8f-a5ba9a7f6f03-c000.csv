@@ -1,0 +1,4 @@
+0	net/nhs/esb/rest/domain/AqlResult/getSeverity()
+1	net/nhs/domain/openehr/model/Diagnoses/setId(java.lang.String)
+2	net/nhs/domain/openehr/model/Diagnoses/setSeverity(java.lang.String)
+3	net/nhs/esb/rest/domain/AqlResult/getDateOfOnset()

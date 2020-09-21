@@ -1,0 +1,5 @@
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseVersioning(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-2.2.1.jar.txt	1
+org/sonatype/plexus/components/sec/dispatcher/model/io/xpp3/SecurityConfigurationXpp3Reader/parseSettingsSecurity(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-sec-dispatcher-1.4.jar.txt	0
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parsePlugin(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-2.2.1.jar.txt	4
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseMetadata(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-2.2.1.jar.txt	2
+org/sonatype/plexus/components/sec/dispatcher/model/io/xpp3/SecurityConfigurationXpp3Reader/parseConfigProperty(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-sec-dispatcher-1.4.jar.txt	3

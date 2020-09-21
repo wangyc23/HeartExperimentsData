@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+org/coode/owlapi/obo12/parser/SynonymTypeDefTagHandler/getIRIFromOBOId(java.lang.String)
+org/semanticweb/owlapi/model/OWLDataFactory/getOWLAnnotationAssertionAxiom(org.semanticweb.owlapi.model.OWLAnnotationSubject,org.semanticweb.owlapi.model.OWLAnnotation)
+org/coode/owlapi/obo12/parser/SynonymTypeDefTagHandler/getDataFactory()

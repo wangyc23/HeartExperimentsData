@@ -1,0 +1,4 @@
+0	java/util/Iterator/hasNext()
+1	com/lowagie/text/DocumentException/getMessage()
+2	com/lowagie/text/Document/setFooter(com.lowagie.text.HeaderFooter)
+3	com/lowagie/text/Document/add(com.lowagie.text.Element)

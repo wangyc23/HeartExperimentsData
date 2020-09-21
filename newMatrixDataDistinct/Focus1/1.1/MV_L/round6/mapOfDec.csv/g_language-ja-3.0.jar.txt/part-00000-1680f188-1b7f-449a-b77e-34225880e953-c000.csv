@@ -1,0 +1,5 @@
+org/languagetool/rules/uk/UkrainianWordRepeatRule/isInitial(org.languagetool.AnalyzedToken,org.languagetool.AnalyzedTokenReadings[],int)@g_language-uk-3.0.jar.txt	1
+org/languagetool/rules/uk/TokenAgreementRule/match(org.languagetool.AnalyzedSentence)@g_language-uk-3.0.jar.txt	3
+org/languagetool/rules/uk/TokenAgreementRule/createRuleMatch(org.languagetool.AnalyzedTokenReadings,org.languagetool.AnalyzedTokenReadings,java.util.List)@g_language-uk-3.0.jar.txt	2
+org/languagetool/tagging/uk/CompoundTagger/tagMatch(java.lang.String,java.util.List,java.util.List)@g_language-uk-3.0.jar.txt	0
+org/languagetool/tagging/uk/UkrainianTagger/getAnalyzedTokens(java.lang.String)@g_language-uk-3.0.jar.txt	4

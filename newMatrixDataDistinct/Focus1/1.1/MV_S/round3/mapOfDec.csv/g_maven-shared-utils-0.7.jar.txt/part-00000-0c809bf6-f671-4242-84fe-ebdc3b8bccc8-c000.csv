@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_surefire-api-2.16.jar.txt	4
+org/codehaus/plexus/util/PathTool/buildRelativePath(java.lang.String,java.lang.String,char)@g_surefire-api-2.16.jar.txt	1
+org/codehaus/plexus/util/StringUtils/unifyLineSeparators(java.lang.String,java.lang.String)@g_surefire-api-2.16.jar.txt	3
+org/codehaus/plexus/util/cli/Commandline/execute()@g_surefire-api-2.16.jar.txt	2
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_surefire-api-2.16.jar.txt	0

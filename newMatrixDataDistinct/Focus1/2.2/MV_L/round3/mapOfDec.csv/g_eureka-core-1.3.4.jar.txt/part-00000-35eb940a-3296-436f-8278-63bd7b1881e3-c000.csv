@@ -1,0 +1,5 @@
+com/netflix/eureka/resources/ResponseCache/invalidate(com.netflix.eureka.resources.ResponseCache$Key[])@g_eureka-core-1.1.147.jar.txt	3
+com/netflix/eureka/InstanceRegistry/getApplicationDeltasFromMultipleRegions(java.lang.String[])@g_eureka-core-1.1.147.jar.txt	1
+com/netflix/eureka/resources/ResponseCache/getApplicationsForVip(com.netflix.eureka.resources.ResponseCache$Key,com.netflix.eureka.InstanceRegistry)@g_eureka-core-1.1.147.jar.txt	4
+com/netflix/eureka/resources/ResponseCache/4/run()@g_eureka-core-1.1.147.jar.txt	0
+com/netflix/eureka/InstanceRegistry/getApplicationDeltas()@g_eureka-core-1.1.147.jar.txt	2

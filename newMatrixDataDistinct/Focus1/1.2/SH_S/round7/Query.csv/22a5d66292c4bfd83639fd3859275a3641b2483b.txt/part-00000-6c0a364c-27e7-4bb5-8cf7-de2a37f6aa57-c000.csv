@@ -1,0 +1,4 @@
+java/util/stream/Stream/map(java.util.function.Function)
+java/util/stream/Stream/collect(java.util.stream.Collector)
+java/lang/String/join(java.lang.CharSequence,java.lang.CharSequence[])
+java/lang/String/join(java.lang.CharSequence,java.lang.Iterable)

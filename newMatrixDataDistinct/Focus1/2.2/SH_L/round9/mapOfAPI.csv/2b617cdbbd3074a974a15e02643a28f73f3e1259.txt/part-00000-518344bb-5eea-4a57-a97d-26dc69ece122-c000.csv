@@ -1,0 +1,4 @@
+0	java/lang/Object/toString()
+1	org/ops4j/pax/logging/spi/PaxLoggingEvent/getTimeStamp()
+2	org/ops4j/pax/logging/spi/PaxLoggingEvent/getProperties()
+3	org/ops4j/pax/logging/spi/PaxLoggingEvent/getLevel()

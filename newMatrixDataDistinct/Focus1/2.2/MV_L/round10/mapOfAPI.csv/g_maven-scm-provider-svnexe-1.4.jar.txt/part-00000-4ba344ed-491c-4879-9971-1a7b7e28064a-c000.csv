@@ -1,0 +1,4 @@
+0	org/codehaus/plexus/util/cli/CommandLineUtils$StringStreamConsumer/StringStreamConsumer()
+1	org/codehaus/plexus/util/cli/CommandLineUtils$StringStreamConsumer/getOutput()
+2	org/codehaus/plexus/util/cli/Commandline/getWorkingDirectory()
+3	org/apache/maven/scm/provider/svn/svnexe/command/list/SvnListCommand/getLogger()

@@ -1,0 +1,5 @@
+org/springframework/security/acls/jdbc/BasicLookupStrategy/readAclsById(java.util.List,java.util.List)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	2
+org/springframework/security/acls/jdbc/BasicLookupStrategy/ProcessResultSet/convertCurrentResultIntoObject(java.util.Map,java.sql.ResultSet)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/acls/jdbc/JdbcMutableAclService/createOrRetrieveSidPrimaryKey(org.springframework.security.acls.model.Sid,boolean)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	0
+org/springframework/security/acls/jdbc/JdbcMutableAclService/createOrRetrieveSidPrimaryKey(org.springframework.security.acls.model.Sid,boolean)@g_spring-security-acl-3.2.5.RELEASE.jar.txt	1
+org/springframework/security/acls/jdbc/BasicLookupStrategy/convert(java.util.Map,java.lang.Long)@g_spring-security-acl-3.2.3.RELEASE.jar.txt	3

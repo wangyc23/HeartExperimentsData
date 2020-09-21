@@ -1,0 +1,5 @@
+com/yahoo/platform/yui/compressor/JavaScriptCompressor/<clinit>()@g_yuicompressor-2.4.7.jar.txt	2
+org/mozilla/javascript/tools/shell/JavaPolicySecurity/getUrlObj(java.lang.String)@g_yuicompressor-2.4.7.jar.txt	0
+org/mozilla/javascript/commonjs/module/provider/SoftCachingModuleScriptProvider/readObject(java.io.ObjectInputStream)@g_yuicompressor-2.4.7.jar.txt	3
+org/mozilla/javascript/xml/impl/xmlbeans/XML/childIndex()@g_yuicompressor-2.4.7.jar.txt	4
+org/mozilla/javascript/tools/shell/JavaPolicySecurity/getUrlObj(java.lang.String)@g_rhino-1.7R4.jar.txt	1

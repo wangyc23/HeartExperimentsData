@@ -1,0 +1,5 @@
+org/jboss/netty/handler/traffic/GlobalTrafficShapingHandler/submitWrite(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.MessageEvent,long,long,long)@g_netty-3.10.6.Final.jar.txt	0
+org/jboss/netty/channel/socket/nio/NioServerBoss/process(java.nio.channels.Selector)@g_netty-3.10.6.Final.jar.txt	2
+org/jboss/netty/channel/socket/nio/AbstractNioSelector/run()@g_netty-3.10.6.Final.jar.txt	4
+org/jboss/netty/channel/socket/nio/NioDatagramChannel/joinGroup(java.net.InetAddress,java.net.NetworkInterface,java.net.InetAddress)@g_netty-3.10.6.Final.jar.txt	3
+org/jboss/netty/handler/traffic/GlobalChannelTrafficShapingHandler/getOrSetPerChannel(org.jboss.netty.channel.ChannelHandlerContext)@g_netty-3.10.6.Final.jar.txt	1

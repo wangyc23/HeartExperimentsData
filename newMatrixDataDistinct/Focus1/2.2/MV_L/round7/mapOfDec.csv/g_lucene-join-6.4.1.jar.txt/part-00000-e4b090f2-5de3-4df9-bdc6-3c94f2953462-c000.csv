@@ -1,0 +1,5 @@
+org/apache/lucene/search/join/PointInSetIncludingScoreQuery/lambda$static$0(byte[],java.lang.Class)@g_lucene-join-6.5.0.jar.txt	3
+org/apache/lucene/search/join/PointInSetIncludingScoreQuery/lambda$static$0(byte[],java.lang.Class)@g_lucene-join-6.0.0.jar.txt	2
+org/apache/lucene/search/join/JoinUtil/createJoinQuery(java.lang.String,boolean,java.lang.String,java.lang.Class,org.apache.lucene.search.Query,org.apache.lucene.search.IndexSearcher,org.apache.lucene.search.join.ScoreMode)@g_lucene-join-6.5.0.jar.txt	1
+org/apache/lucene/search/join/JoinUtil/createJoinQuery(java.lang.String,boolean,java.lang.String,java.lang.Class,org.apache.lucene.search.Query,org.apache.lucene.search.IndexSearcher,org.apache.lucene.search.join.ScoreMode)@g_lucene-join-6.0.0.jar.txt	0
+org/apache/lucene/search/join/ToParentBlockJoinIndexSearcher/search(java.util.List,org.apache.lucene.search.Weight,org.apache.lucene.search.Collector)@g_lucene-join-6.0.0.jar.txt	4

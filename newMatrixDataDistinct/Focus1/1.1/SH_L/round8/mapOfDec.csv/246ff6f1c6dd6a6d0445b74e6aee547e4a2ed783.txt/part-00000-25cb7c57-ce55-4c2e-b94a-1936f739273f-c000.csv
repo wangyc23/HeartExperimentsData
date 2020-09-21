@@ -1,0 +1,5 @@
+org/jboss/weld/tests/contexts/request/postConstruct/singleton/complicated/ValueChangeListener/getValues()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	0
+org/jboss/weld/util/collections/ImmutableTinyList/Singleton/hashCode()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	1
+org/jboss/weld/util/collections/ListView/remove(int)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	3
+org/apache/deltaspike/test/jsf/impl/config/view/navigation/parameter/uc005/NavigationParameterTest/testNavigationActionIndex()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	2
+org/jboss/weld/test/util/annotated/ForwardingWeldClass/isEquivalent(java.lang.Class)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	4

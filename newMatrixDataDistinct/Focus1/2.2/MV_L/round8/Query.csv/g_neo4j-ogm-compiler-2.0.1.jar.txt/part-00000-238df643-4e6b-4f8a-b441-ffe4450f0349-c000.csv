@@ -1,0 +1,4 @@
+org/neo4j/ogm/model/Edge/getType()
+java/util/Iterator/hasNext()
+org/neo4j/ogm/model/Edge/getEndNode()
+java/util/Set/iterator()

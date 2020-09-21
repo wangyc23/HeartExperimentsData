@@ -1,0 +1,5 @@
+org/topbraid/spin/arq/functions/ConstructViolationsPFunction/exec(com.hp.hpl.jena.sparql.engine.binding.Binding,com.hp.hpl.jena.sparql.pfunction.PropFuncArg,com.hp.hpl.jena.graph.Node,com.hp.hpl.jena.sparql.pfunction.PropFuncArg,com.hp.hpl.jena.sparql.engine.ExecutionContext)@g_spin-1.5.0-20150112.084011-1.jar.txt	1
+org/topbraid/spin/arq/AbstractFunction/exec(com.hp.hpl.jena.sparql.engine.binding.Binding,com.hp.hpl.jena.sparql.expr.ExprList,java.lang.String,com.hp.hpl.jena.sparql.function.FunctionEnv)@g_spin-1.5.0-20150112.084011-1.jar.txt	0
+org/topbraid/spin/arq/functions/EvalFunction/addStatistics(com.hp.hpl.jena.graph.Node[],com.hp.hpl.jena.sparql.function.FunctionEnv,long,java.lang.String,com.hp.hpl.jena.rdf.model.RDFNode)@g_spin-1.5.0-20150112.084011-1.jar.txt	2
+org/topbraid/spin/util/PropertyPathsGetter/handleTriplePattern(org.topbraid.spin.model.TriplePattern,java.util.Map)@g_spin-1.5.0-20150112.084011-1.jar.txt	4
+org/topbraid/spin/spr/spra/ATableEngine/createTable(com.hp.hpl.jena.rdf.model.Model,com.hp.hpl.jena.query.ResultSet)@g_spin-1.5.0-20150112.084011-1.jar.txt	3

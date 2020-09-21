@@ -1,0 +1,5 @@
+org/bytedeco/javacpp/tools/Generator/classes(boolean,boolean,boolean,java.lang.String,java.lang.Class[])@g_javacpp-1.3.1.jar.txt	4
+org/bytedeco/javacpp/tools/Generator/callback(java.lang.Class,java.lang.reflect.Method,java.lang.String,boolean,org.bytedeco.javacpp.tools.MethodInformation)@g_javacpp-1.3.1.jar.txt	2
+org/mockito/cglib/proxy/Enhancer/emitMethods(org.mockito.cglib.core.ClassEmitter,java.util.List,java.util.List)@g_mockito-all-1.9.5.jar.txt	0
+org/bytedeco/javacpp/tools/Generator/methodInformation(java.lang.reflect.Method)@g_javacpp-1.3.1.jar.txt	3
+org/bytedeco/javacpp/tools/Builder/build()@g_javacpp-1.3.1.jar.txt	1

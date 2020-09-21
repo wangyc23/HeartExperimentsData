@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Map/get(java.lang.Object)
+org/eclipse/emf/common/util/URI/trimQuery()
+org/eclipse/emf/ecore/util/EcoreUtil/getURI(org.eclipse.emf.ecore.EObject)

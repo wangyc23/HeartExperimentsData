@@ -1,0 +1,5 @@
+com/google/gson/reflect/TypeToken/isAssignableFrom(java.lang.reflect.Type,java.lang.reflect.ParameterizedType,java.util.Map)@g_gson-2.2.jar.txt	1
+com/google/gson/Gson/getAdapter(com.google.gson.reflect.TypeToken)@g_gson-2.2.jar.txt	0
+com/google/gson/reflect/TypeToken/isAssignableFrom(java.lang.reflect.Type,java.lang.reflect.ParameterizedType,java.util.Map)@g_gson-2.2.4.jar.txt	3
+feign/RequestTemplate/pullAnyQueriesOutOfUrl(java.lang.StringBuilder)@g_gson-2.2.jar.txt	4
+com/google/gson/Gson/getAdapter(com.google.gson.reflect.TypeToken)@g_gson-2.2.4.jar.txt	2

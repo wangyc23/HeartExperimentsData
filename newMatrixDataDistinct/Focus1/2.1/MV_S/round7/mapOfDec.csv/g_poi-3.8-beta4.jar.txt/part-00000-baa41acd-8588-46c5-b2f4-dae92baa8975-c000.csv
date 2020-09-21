@@ -1,0 +1,5 @@
+org/apache/poi/ddf/EscherTextboxRecord/toXml(java.lang.String)@g_poi-3.13.jar.txt	0
+org/apache/poi/ss/format/CellNumberFormatter/formatValue(java.lang.StringBuffer,java.lang.Object)@g_poi-3.13.jar.txt	1
+org/apache/poi/ddf/EscherPictBlip/toXml(java.lang.String)@g_poi-3.13.jar.txt	4
+org/apache/poi/ss/usermodel/DataFormatter/formatCellValue(org.apache.poi.ss.usermodel.Cell,org.apache.poi.ss.usermodel.FormulaEvaluator)@g_poi-3.13.jar.txt	3
+org/apache/poi/ss/formula/CollaboratingWorkbooksEnvironment/setupFormulaEvaluator(java.util.Map)@g_poi-3.13.jar.txt	2

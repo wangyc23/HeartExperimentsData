@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/engine/parser/AtlSourceManager/parseMetamodels(java.lang.String)@g_engine-3.4.0.jar.txt	0
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/Lookup/featureKind(org.eclipse.emf.ecore.EStructuralFeature)@g_engine-3.4.0.jar.txt	3
+org/eclipse/m2m/atl/engine/MarkerMaker/eObjectToPbmMarker(org.eclipse.core.resources.IResource,org.eclipse.m2m.atl.common.AtlNbCharFile,org.eclipse.emf.ecore.EObject,int)@g_engine-3.4.0.jar.txt	2
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/getElementReferenceManySimple(org.eclipse.emf.ecore.EObject,org.eclipse.emf.ecore.EStructuralFeature)@g_engine-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/engine/parser/AtlParser/parseExpression(java.lang.String,java.lang.String)@g_engine-3.4.0.jar.txt	1

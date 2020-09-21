@@ -1,0 +1,5 @@
+org/apache/poi/hssf/converter/ExcelToHtmlConverter/processRow(org.apache.poi.ss.util.CellRangeAddress[][],org.apache.poi.hssf.usermodel.HSSFRow,org.w3c.dom.Element)@g_poi-scratchpad-3.9.jar.txt	4
+org/apache/poi/hslf/extractor/PowerPointExtractor/getText(boolean,boolean,boolean,boolean)@g_poi-scratchpad-3.9.jar.txt	0
+org/apache/poi/hwpf/converter/WordToHtmlConverter/main(java.lang.String[])@g_poi-scratchpad-3.9.jar.txt	3
+org/apache/poi/hslf/extractor/PowerPointExtractor/getText(boolean,boolean,boolean,boolean)@g_poi-scratchpad-3.11.jar.txt	1
+org/apache/poi/hwpf/model/CHPFormattedDiskPage/toByteArray(org.apache.poi.hwpf.model.CharIndexTranslator)@g_poi-scratchpad-3.9.jar.txt	2

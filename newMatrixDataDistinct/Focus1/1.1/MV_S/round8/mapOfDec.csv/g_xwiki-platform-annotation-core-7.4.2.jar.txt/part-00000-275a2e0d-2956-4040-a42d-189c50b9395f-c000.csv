@@ -1,0 +1,5 @@
+org/xwiki/annotation/renderer/LinkLabelGeneratorChainingListener/endLink(org.xwiki.rendering.listener.reference.ResourceReference,boolean,java.util.Map)@g_maven-surefire-plugin-2.12.jar.txt	4
+org/xwiki/annotation/internal/renderer/AnnotationGeneratorChainingListener/onSpecialSymbol(char)@g_maven-surefire-plugin-2.12.jar.txt	3
+org/json/simple/parser/Yylex/yylex()@g_maven-surefire-plugin-2.12.jar.txt	0
+org/apache/maven/plugin/surefire/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-surefire-plugin-2.12.jar.txt	2
+org/json/simple/JSONObject/writeJSONString(java.util.Map,java.io.Writer)@g_maven-surefire-plugin-2.12.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/ext/MessageContextImpl/get(java.lang.Object)@g_cxf-core-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/bus/extension/Extension/load(java.lang.ClassLoader,org.apache.cxf.Bus)@g_cxf-core-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/jaxrs/utils/InjectionUtils/evaluateFactoryMethod(java.lang.String,java.lang.Class,org.apache.cxf.jaxrs.model.ParameterType,java.lang.String)@g_cxf-core-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/jaxrs/model/ClassResourceInfo/getSubResource(java.lang.Class,java.lang.Class,java.lang.Object,boolean,org.apache.cxf.message.Message)@g_cxf-core-3.0.0-milestone1.jar.txt	1
+org/apache/cxf/staxutils/transform/TransformUtils/convertToQNamesMap(java.util.Map,org.apache.cxf.staxutils.transform.QNamesMap,java.util.Map)@g_cxf-core-3.0.0-milestone1.jar.txt	0

@@ -1,0 +1,4 @@
+javax/naming/InitialContext/InitialContext()
+javax/naming/Context/close()
+java/lang/StringBuilder/append(java.lang.String)
+javax/naming/InitialContext/InitialContext(java.util.Hashtable)

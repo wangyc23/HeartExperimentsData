@@ -1,0 +1,5 @@
+org/apache/commons/vfs2/provider/http/HttpClientFactory/createConnection(org.apache.commons.vfs2.provider.http.HttpFileSystemConfigBuilder,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String,org.apache.commons.vfs2.FileSystemOptions)@g_httpcore-4.2.1.jar.txt	4
+org/apache/commons/vfs2/provider/webdav/WebdavFileObject/doListChildrenResolved()@g_httpcore-4.2.1.jar.txt	3
+org/apache/commons/vfs2/provider/URLFileNameParser/parseUri(org.apache.commons.vfs2.provider.VfsComponentContext,org.apache.commons.vfs2.FileName,java.lang.String)@g_httpcore-4.2.1.jar.txt	2
+org/apache/commons/vfs2/provider/webdav/ExceptionConverter/generate(org.apache.jackrabbit.webdav.DavException,org.apache.jackrabbit.webdav.client.methods.DavMethod)@g_httpcore-4.2.1.jar.txt	1
+org/apache/commons/vfs2/cache/SoftRefFilesCache/putFileIfAbsent(org.apache.commons.vfs2.FileObject)@g_httpcore-4.2.1.jar.txt	0

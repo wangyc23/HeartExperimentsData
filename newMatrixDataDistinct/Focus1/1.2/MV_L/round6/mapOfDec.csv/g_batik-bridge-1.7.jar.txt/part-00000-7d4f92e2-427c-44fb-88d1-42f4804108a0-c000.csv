@@ -1,0 +1,5 @@
+org/apache/batik/bridge/GlyphLayout/doSpacing(java.lang.Float,java.lang.Float,java.lang.Float)@g_batik-bridge-1.8.jar.txt	3
+org/apache/batik/bridge/GlyphLayout/doExplicitGlyphLayout()@g_batik-bridge-1.8.jar.txt	2
+org/apache/batik/bridge/StrokingTextPainter/getTextChunkACIs(java.text.AttributedCharacterIterator)@g_batik-bridge-1.8.jar.txt	4
+org/apache/batik/bridge/SVGTextElementBridge/getTextIntersectionSet(java.awt.geom.AffineTransform,java.awt.geom.Rectangle2D)@g_batik-bridge-1.8.jar.txt	0
+org/apache/batik/bridge/SVGTextElementBridge/getTextIntersection(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Element,java.awt.geom.AffineTransform,java.awt.geom.Rectangle2D,boolean)@g_batik-bridge-1.8.jar.txt	1

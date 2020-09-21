@@ -1,0 +1,5 @@
+org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor/AutowiredFieldElement/inject(java.lang.Object,java.lang.String,org.springframework.beans.PropertyValues)@g_spring-beans-3.2.2.RELEASE.jar.txt	3
+org/springframework/beans/factory/serviceloader/ServiceFactoryBean/getObjectToExpose(java.util.ServiceLoader)@g_spring-beans-3.1.4.RELEASE.jar.txt	4
+org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor/AutowiredFieldElement/inject(java.lang.Object,java.lang.String,org.springframework.beans.PropertyValues)@g_spring-beans-3.1.4.RELEASE.jar.txt	0
+org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor/AutowiredMethodElement/inject(java.lang.Object,java.lang.String,org.springframework.beans.PropertyValues)@g_spring-beans-3.1.4.RELEASE.jar.txt	2
+org/springframework/beans/BeanWrapperImpl/getPropertyValue(org.springframework.beans.BeanWrapperImpl$PropertyTokenHolder)@g_spring-beans-3.1.4.RELEASE.jar.txt	1

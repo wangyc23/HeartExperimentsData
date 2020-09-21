@@ -1,0 +1,5 @@
+org/apache/maven/tools/plugin/util/PluginUtils/isMavenReport(java.lang.String,org.apache.maven.project.MavenProject)@g_maven-plugin-tools-generators-3.4.jar.txt	3
+org/apache/maven/tools/plugin/generator/GeneratorUtils/decodeJavadocTags(java.lang.String)@g_maven-plugin-tools-generators-3.4.jar.txt	4
+org/apache/maven/tools/plugin/generator/PluginDescriptorGenerator/processMojoDescriptor(org.apache.maven.plugin.descriptor.MojoDescriptor,org.codehaus.plexus.util.xml.XMLWriter,boolean)@g_maven-plugin-tools-generators-3.4.jar.txt	0
+org/apache/maven/tools/plugin/generator/PluginHelpGenerator/execute(java.io.File,org.apache.maven.tools.plugin.PluginToolsRequest)@g_maven-plugin-tools-generators-3.4.jar.txt	2
+org/apache/maven/tools/plugin/generator/GeneratorUtils/toText(java.lang.String)@g_maven-plugin-tools-generators-3.4.jar.txt	1

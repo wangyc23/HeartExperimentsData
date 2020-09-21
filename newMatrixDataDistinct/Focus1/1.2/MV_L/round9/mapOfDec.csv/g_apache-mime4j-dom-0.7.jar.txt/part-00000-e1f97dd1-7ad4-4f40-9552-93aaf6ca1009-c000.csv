@@ -1,0 +1,5 @@
+org/apache/james/mime4j/field/structured/parser/ParseException/add_escapes(java.lang.String)@g_apache-mime4j-dom-0.7.2.jar.txt	2
+org/apache/james/mime4j/field/contenttype/parser/ParseException/add_escapes(java.lang.String)@g_apache-mime4j-dom-0.7.2.jar.txt	0
+org/apache/james/mime4j/field/mimeversion/parser/ParseException/add_escapes(java.lang.String)@g_apache-mime4j-dom-0.7.2.jar.txt	4
+org/apache/james/mime4j/field/contenttype/parser/TokenMgrError/addEscapes(java.lang.String)@g_apache-mime4j-dom-0.7.2.jar.txt	3
+org/apache/james/mime4j/field/datetime/parser/TokenMgrError/addEscapes(java.lang.String)@g_apache-mime4j-dom-0.7.2.jar.txt	1

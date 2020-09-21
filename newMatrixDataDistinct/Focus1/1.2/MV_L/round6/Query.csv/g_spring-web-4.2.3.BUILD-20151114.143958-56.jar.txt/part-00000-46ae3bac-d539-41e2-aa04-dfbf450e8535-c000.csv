@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+org/springframework/util/LinkedMultiValueMap/LinkedMultiValueMap(int)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()

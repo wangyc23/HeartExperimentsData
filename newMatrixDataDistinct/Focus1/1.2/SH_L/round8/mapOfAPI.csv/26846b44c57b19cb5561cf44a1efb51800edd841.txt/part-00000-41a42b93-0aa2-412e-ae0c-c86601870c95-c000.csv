@@ -1,0 +1,4 @@
+0	com/github/danieln/dnssdjava/ServiceName/getType()
+1	com/github/danieln/dnssdjava/DnsSDFactory/createDomainEnumerator(java.lang.String)
+2	eu/arrowhead/common/messages/ServiceQueryForm/getService()
+3	eu/arrowhead/core/serviceregistry/RegistryUtils/filterOnPing(java.util.List)

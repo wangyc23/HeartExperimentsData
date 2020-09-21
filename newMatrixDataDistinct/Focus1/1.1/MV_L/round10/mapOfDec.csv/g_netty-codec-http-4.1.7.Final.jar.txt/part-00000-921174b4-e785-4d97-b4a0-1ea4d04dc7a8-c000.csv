@@ -1,0 +1,5 @@
+io/netty/handler/codec/http/multipart/HttpPostMultipartRequestDecoder/findMultipartDisposition()@g_netty-codec-http-4.0.27.Final.jar.txt	1
+io/netty/handler/codec/http/multipart/HttpPostRequestEncoder/finalizeRequest()@g_netty-codec-http-4.0.27.Final.jar.txt	0
+io/netty/handler/codec/http/websocketx/WebSocketServerHandshaker00/newHandshakeResponse(io.netty.handler.codec.http.FullHttpRequest,io.netty.handler.codec.http.HttpHeaders)@g_netty-codec-http-4.0.27.Final.jar.txt	3
+io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker13/verify(io.netty.handler.codec.http.FullHttpResponse)@g_netty-codec-http-4.0.27.Final.jar.txt	4
+io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker07/verify(io.netty.handler.codec.http.FullHttpResponse)@g_netty-codec-http-4.0.27.Final.jar.txt	2

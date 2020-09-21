@@ -1,0 +1,5 @@
+com/sun/mail/util/SocketFetcher/getSocket(java.lang.String,int,java.util.Properties,java.lang.String,boolean)@g_mail-1.4.1.jar.txt	3
+com/sun/mail/imap/IMAPFolder/expunge(javax.mail.Message[])@g_mail-1.4.1.jar.txt	1
+com/sun/mail/imap/IMAPMessage/fetch(com.sun.mail.imap.IMAPFolder,javax.mail.Message[],javax.mail.FetchProfile)@g_mail-1.4.1.jar.txt	0
+com/sun/mail/imap/IMAPFolder/getMessagesByUID(long[])@g_mail-1.4.1.jar.txt	2
+com/sun/mail/util/logging/CompactFormatter/Alternate/formatTo(java.util.Formatter,int,int,int)@g_mail-1.4.1.jar.txt	4

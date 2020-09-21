@@ -1,0 +1,5 @@
+net/java/truevfs/comp/tardriver/TarInputService/unpack(org.apache.commons.compress.archivers.tar.TarArchiveInputStream)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	4
+de/danielnaber/jwordsplitter/tools/FileTools/loadFileToSet(java.io.InputStream,java.lang.String)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	3
+de/danielnaber/jwordsplitter/tools/FastObjectSaver/load(java.lang.String)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	2
+net/java/truevfs/comp/zipdriver/AbstractKeyController/node(net.java.truecommons.shed.BitField,net.java.truevfs.kernel.spec.FsNodeName)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	1
+net/java/truevfs/comp/zipdriver/ZipOutputService/updateProperties(net.java.truevfs.comp.zipdriver.AbstractZipDriverEntry,net.java.truecommons.cio.Entry)@g_truevfs-comp-zipdriver-0.11.0.jar.txt	0

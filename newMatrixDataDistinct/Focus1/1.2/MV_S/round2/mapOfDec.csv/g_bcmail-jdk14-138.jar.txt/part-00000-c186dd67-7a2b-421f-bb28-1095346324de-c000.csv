@@ -1,0 +1,5 @@
+org/bouncycastle/cms/SignerInformation/verifyDigest(byte[],java.security.PublicKey,byte[],java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	0
+org/bouncycastle/cms/RecipientInformation/getContentFromSessionKey(java.security.Key,java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	4
+org/bouncycastle/cms/KeyTransRecipientInformation/getSessionKey(java.security.Key,java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	2
+org/bouncycastle/cms/PasswordRecipientInformation/getContentStream(java.security.Key,java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	1
+org/bouncycastle/cms/KeyTransRecipientInfoGenerator/generate(javax.crypto.SecretKey,java.security.SecureRandom,java.security.Provider)@g_bcmail-jdk15-1.45.jar.txt	3

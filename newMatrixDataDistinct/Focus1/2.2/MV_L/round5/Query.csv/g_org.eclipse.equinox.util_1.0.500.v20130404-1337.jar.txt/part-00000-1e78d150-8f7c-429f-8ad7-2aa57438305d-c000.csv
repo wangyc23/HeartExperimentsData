@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+org/osgi/framework/BundleContext/getBundle()
+java/lang/Throwable/printStackTrace()
+java/io/PrintStream/println(java.lang.String)

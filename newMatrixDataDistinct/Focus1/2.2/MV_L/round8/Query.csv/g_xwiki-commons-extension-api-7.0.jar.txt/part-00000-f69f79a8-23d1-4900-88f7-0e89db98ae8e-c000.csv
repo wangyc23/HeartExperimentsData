@@ -1,0 +1,4 @@
+org/xwiki/extension/job/internal/AbstractExtensionJob/getRequest()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Collection/isEmpty()

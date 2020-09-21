@@ -1,0 +1,4 @@
+java/util/Iterator/remove()
+net/java/truevfs/kernel/impl/CacheController$EntryCache/clear()
+net/java/truecommons/shed/BitField/get(java.lang.Enum)
+java/util/Iterator/hasNext()

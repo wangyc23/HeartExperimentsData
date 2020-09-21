@@ -1,0 +1,4 @@
+org/neo4j/bolt/v1/runtime/Session/pullAll(A,org.neo4j.bolt.v1.runtime.Session.Callback)
+org/neo4j/bolt/v1/runtime/Session/Callbacks/noop()
+org/neo4j/bolt/v1/runtime/Session/run(java.lang.String,java.util.Map,A,org.neo4j.bolt.v1.runtime.Session.Callback)
+org/neo4j/bolt/v1/runtime/Session/init(java.lang.String,A,org.neo4j.bolt.v1.runtime.Session.Callback)

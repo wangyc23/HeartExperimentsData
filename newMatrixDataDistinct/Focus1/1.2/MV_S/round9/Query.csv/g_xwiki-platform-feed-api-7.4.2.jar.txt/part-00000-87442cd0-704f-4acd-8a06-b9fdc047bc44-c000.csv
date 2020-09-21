@@ -1,0 +1,4 @@
+org/xwiki/cache/config/CacheConfiguration/CacheConfiguration()
+org/xwiki/cache/eviction/LRUEvictionConfiguration/setMaxEntries(int)
+com/xpn/xwiki/XWikiException/XWikiException(int,int,java.lang.String)
+org/xwiki/cache/CacheManager/createNewLocalCache(org.xwiki.cache.config.CacheConfiguration)

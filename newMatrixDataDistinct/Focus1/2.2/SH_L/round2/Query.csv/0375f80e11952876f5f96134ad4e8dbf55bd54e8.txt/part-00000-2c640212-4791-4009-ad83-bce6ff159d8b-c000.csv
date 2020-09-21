@@ -1,0 +1,4 @@
+org/onosproject/cli/AbstractShellCommand/print(java.lang.String,java.lang.Object[])
+org/onosproject/store/service/PartitionInfo/leader()
+org/onosproject/store/service/PartitionInfo/name()
+org/onosproject/store/service/PartitionInfo/term()

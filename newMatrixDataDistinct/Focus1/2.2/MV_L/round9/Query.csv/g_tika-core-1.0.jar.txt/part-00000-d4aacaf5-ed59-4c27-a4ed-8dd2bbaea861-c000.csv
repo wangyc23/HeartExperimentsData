@@ -1,0 +1,4 @@
+org/xml/sax/helpers/AttributesImpl/AttributesImpl()
+org/xml/sax/ContentHandler/startDocument()
+java/io/DataInputStream/readInt()
+org/xml/sax/ContentHandler/skippedEntity(java.lang.String)

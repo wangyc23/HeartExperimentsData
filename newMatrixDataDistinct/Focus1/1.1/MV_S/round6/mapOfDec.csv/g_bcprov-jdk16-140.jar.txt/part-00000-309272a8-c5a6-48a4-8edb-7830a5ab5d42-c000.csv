@@ -1,0 +1,5 @@
+org/bouncycastle/jce/provider/JDKPKCS12KeyStore/engineGetCertificateChain(java.lang.String)@g_bcprov-jdk15-1.45.jar.txt	1
+org/bouncycastle/jce/examples/PKCS12Example/createIntermediateCert(java.security.PublicKey,java.security.PrivateKey,java.security.cert.X509Certificate)@g_bcprov-jdk15-1.45.jar.txt	3
+org/bouncycastle/x509/extension/AuthorityKeyIdentifierStructure/fromCertificate(java.security.cert.X509Certificate)@g_bcprov-jdk15-1.45.jar.txt	2
+org/bouncycastle/jce/provider/CertPathValidatorUtilities/findTrustAnchor(java.security.cert.X509Certificate,java.util.Set,java.lang.String)@g_bcprov-jdk15-1.45.jar.txt	4
+org/bouncycastle/jce/provider/CertPathValidatorUtilities/getNextWorkingKey(java.util.List,int)@g_bcprov-jdk15-1.45.jar.txt	0

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(int)
+java/util/List/size()
+java/util/List/get(int)
+java/util/List/set(int,java.lang.Object)

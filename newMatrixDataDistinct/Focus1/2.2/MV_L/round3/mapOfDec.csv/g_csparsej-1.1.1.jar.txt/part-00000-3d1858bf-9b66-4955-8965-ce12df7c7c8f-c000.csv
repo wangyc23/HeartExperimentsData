@@ -1,0 +1,5 @@
+org/apache/batik/script/ImportInfo/addImports(java.net.URL)@g_batik-script-1.8.jar.txt	0
+cn/com/cjf/config/LoadConfig/loadFJmapUTF8()@g_cjftransform-1.0.1.jar.txt	4
+cn/com/cjf/config/LoadConfig/loadJFmapUTF8()@g_cjftransform-1.0.1.jar.txt	1
+edu/emory/mathcs/csparsej/tdouble/Dcs_load/cs_load(java.io.InputStream,int)@g_cjftransform-1.0.1.jar.txt	3
+org/apache/batik/script/ImportInfo/addImports(java.net.URL)@g_cjftransform-1.0.1.jar.txt	2

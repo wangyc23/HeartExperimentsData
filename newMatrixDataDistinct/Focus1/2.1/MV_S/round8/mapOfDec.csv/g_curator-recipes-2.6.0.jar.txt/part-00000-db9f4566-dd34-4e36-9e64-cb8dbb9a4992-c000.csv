@@ -1,0 +1,5 @@
+org/apache/zookeeper/server/quorum/LearnerHandler/run()@g_hadoop-auth-2.6.0.jar.txt	3
+org/apache/zookeeper/ZooKeeperMain/checkIfParentQuota(org.apache.zookeeper.ZooKeeper,java.lang.String)@g_hadoop-auth-2.6.0.jar.txt	4
+org/apache/zookeeper/MultiResponse/serialize(org.apache.jute.OutputArchive,java.lang.String)@g_hadoop-auth-2.6.0.jar.txt	1
+org/apache/zookeeper/ZooKeeper/getClientCnxnSocket()@g_hadoop-auth-2.6.0.jar.txt	0
+org/apache/jute/Utils/fromCSVBuffer(java.lang.String)@g_hadoop-auth-2.6.0.jar.txt	2

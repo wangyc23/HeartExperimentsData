@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+org/apache/cxf/message/Message/put(java.lang.Class,java.lang.Object)
+org/apache/cxf/jaxrs/utils/InjectionUtils/getEntity(java.lang.Object)
+org/apache/cxf/message/Message/remove(java.lang.Object)

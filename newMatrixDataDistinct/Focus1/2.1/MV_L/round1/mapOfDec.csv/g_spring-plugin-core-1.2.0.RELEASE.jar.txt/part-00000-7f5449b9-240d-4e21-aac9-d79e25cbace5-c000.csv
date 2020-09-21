@@ -1,0 +1,5 @@
+org/springframework/security/config/method/GlobalMethodSecurityBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.1.0.RELEASE.jar.txt	3
+org/springframework/security/config/http/FilterInvocationSecurityMetadataSourceParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.1.0.RELEASE.jar.txt	1
+org/springframework/security/config/method/ProtectPointcutPostProcessor/addPointcut(java.lang.String,java.util.List)@g_spring-security-config-4.1.0.RELEASE.jar.txt	4
+org/springframework/security/config/annotation/authentication/configuration/AuthenticationConfiguration/lazyBean(java.lang.Class)@g_spring-security-config-4.1.0.RELEASE.jar.txt	0
+org/springframework/security/config/ldap/LdapUserServiceBeanDefinitionParser/registerPostProcessorIfNecessary(org.springframework.beans.factory.support.BeanDefinitionRegistry,boolean)@g_spring-security-config-4.1.0.RELEASE.jar.txt	2

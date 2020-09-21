@@ -1,0 +1,5 @@
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/configureBootclasspathAccessRules(org.codehaus.plexus.compiler.CompilerConfiguration)@g_tycho-compiler-plugin-0.23.1.jar.txt	0
+org/eclipse/pde/internal/swt/tools/IconExe/main(java.lang.String[])@g_tycho-packaging-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/checkTargetLevelCompatibleWithManifestBREEs(java.lang.String,org.eclipse.tycho.core.ee.StandardExecutionEnvironment[])@g_tycho-compiler-plugin-0.23.1.jar.txt	1
+org/eclipse/tycho/packaging/IncludeValidationHelper/checkIncludesExist(java.lang.String,java.util.List,org.apache.maven.project.MavenProject,boolean,java.lang.String[])@g_tycho-packaging-plugin-0.23.1.jar.txt	4
+org/eclipse/tycho/packaging/PackagePluginMojo/createPluginJar()@g_tycho-packaging-plugin-0.23.1.jar.txt	3

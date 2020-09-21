@@ -1,0 +1,4 @@
+0	com/mapbar/traffic/score/logs/SourceLogBean/getCityName()
+1	com/mapbar/traffic/score/mail/MailTaskQueue/addTask(java.lang.String)
+2	com/mapbar/traffic/score/logs/SourceLogBean/getProvince()
+3	com/mapbar/traffic/score/logs/SourceLogBean/getCityPy()

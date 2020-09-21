@@ -1,0 +1,5 @@
+org/xwiki/query/jpql/parser/Parser/parse()@g_rdf4j-rio-trix-2.1.4.jar.txt	4
+org/xwiki/query/jpql/parser/Parser/<clinit>()@g_rdf4j-rio-trix-2.1.4.jar.txt	3
+org/xwiki/query/jpql/parser/Parser/parse()@g_xwiki-platform-query-jpql-parser-7.0.jar.txt	0
+org/eclipse/rdf4j/rio/trix/TriXParser/parse(org.xml.sax.InputSource)@g_rdf4j-rio-trix-2.1.4.jar.txt	2
+org/eclipse/rdf4j/rio/trix/TriXWriter/writeValue(org.eclipse.rdf4j.model.Value)@g_rdf4j-rio-trix-2.1.4.jar.txt	1

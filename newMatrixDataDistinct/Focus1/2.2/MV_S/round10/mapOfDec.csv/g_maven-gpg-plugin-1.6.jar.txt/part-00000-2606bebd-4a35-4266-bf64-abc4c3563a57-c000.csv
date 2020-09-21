@@ -1,0 +1,5 @@
+org/apache/maven/plugin/install/AbstractInstallMojo/installChecksum(java.io.File,java.io.File,org.codehaus.plexus.digest.Digester,java.lang.String)@g_maven-install-plugin-2.3.1.jar.txt	1
+org/apache/maven/plugin/deploy/HelpMojo/execute()@g_maven-deploy-plugin-2.8.2.jar.txt	2
+org/apache/maven/plugin/install/InstallFileMojo/execute()@g_maven-install-plugin-2.3.1.jar.txt	0
+org/apache/maven/plugin/deploy/DeployFileMojo/readModel(java.io.File)@g_maven-deploy-plugin-2.8.2.jar.txt	4
+org/apache/maven/plugin/deploy/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_maven-deploy-plugin-2.8.2.jar.txt	3

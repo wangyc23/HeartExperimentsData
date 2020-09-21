@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/synonym/SolrSynonymParser/split(java.lang.String,java.lang.String)@g_lucene-analyzers-common-6.0.0.jar.txt	0
+org/apache/lucene/analysis/synonym/SolrSynonymParser/split(java.lang.String,java.lang.String)@g_lucene-analyzers-common-6.2.1.jar.txt	1
+org/apache/lucene/analysis/miscellaneous/WordDelimiterFilterFactory/parseTypes(java.util.List)@g_lucene-analyzers-common-6.0.0.jar.txt	2
+org/apache/lucene/analysis/hunspell/Dictionary/readDictionaryFiles(org.apache.lucene.store.Directory,java.lang.String,java.util.List,java.nio.charset.CharsetDecoder,org.apache.lucene.util.fst.Builder)@g_lucene-analyzers-common-6.0.0.jar.txt	3
+org/apache/lucene/analysis/util/WordlistLoader/getLines(java.io.InputStream,java.nio.charset.Charset)@g_lucene-analyzers-common-6.0.0.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/commons/lang3/builder/HashCodeBuilder/reflectionAppend(java.lang.Object,java.lang.Class,org.apache.commons.lang3.builder.HashCodeBuilder,boolean,java.lang.String[])@g_commons-lang3-3.1.jar.txt	2
+org/apache/commons/lang3/reflect/FieldUtils/getField(java.lang.Class,java.lang.String,boolean)@g_commons-lang3-3.1.jar.txt	1
+org/apache/commons/lang3/builder/EqualsBuilder/reflectionAppend(java.lang.Object,java.lang.Object,java.lang.Class,org.apache.commons.lang3.builder.EqualsBuilder,boolean,java.lang.String[])@g_commons-lang3-3.1.jar.txt	4
+org/apache/commons/lang3/builder/CompareToBuilder/reflectionAppend(java.lang.Object,java.lang.Object,java.lang.Class,org.apache.commons.lang3.builder.CompareToBuilder,boolean,java.lang.String[])@g_commons-lang3-3.1.jar.txt	0
+org/apache/commons/lang3/builder/ReflectionToStringBuilder/appendFieldsIn(java.lang.Class)@g_commons-lang3-3.1.jar.txt	3

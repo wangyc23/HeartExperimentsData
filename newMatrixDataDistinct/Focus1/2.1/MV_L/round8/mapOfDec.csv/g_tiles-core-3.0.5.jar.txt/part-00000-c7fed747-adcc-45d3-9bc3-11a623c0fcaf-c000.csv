@@ -1,0 +1,5 @@
+org/apache/tiles/definition/dao/BaseLocaleUrlDefinitionDAO/loadDefinitionsFromResource(org.apache.tiles.request.ApplicationResource)@g_tiles-core-3.0.4.jar.txt	1
+org/apache/tiles/definition/pattern/PrefixedPatternDefinitionResolver/addDefinitionsAsPatternMatchers(java.util.List,java.util.Map)@g_tiles-core-3.0.4.jar.txt	0
+org/apache/tiles/template/DefaultAttributeResolver/computeAttribute(org.apache.tiles.TilesContainer,org.apache.tiles.Attribute,java.lang.String,java.lang.String,boolean,java.lang.Object,java.lang.String,java.lang.String,org.apache.tiles.request.Request)@g_tiles-core-3.0.4.jar.txt	4
+org/apache/tiles/definition/dao/ResolvingLocaleUrlDefinitionDAO/resolveInheritance(org.apache.tiles.Definition,java.util.Map,java.util.Locale,java.util.Set)@g_tiles-core-3.0.4.jar.txt	3
+org/apache/tiles/definition/pattern/BasicPatternDefinitionResolver/addDefinitionsAsPatternMatchers(java.util.List,java.util.Map)@g_tiles-core-3.0.4.jar.txt	2

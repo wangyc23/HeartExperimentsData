@@ -1,0 +1,5 @@
+org/apache/poi/hwpf/usermodel/FieldsImpl/parseFieldStructure(java.util.List)@g_poi-scratchpad-3.17.jar.txt	1
+org/apache/poi/hslf/dev/SlideShowRecordDumper/printEscherContainerRecord(org.apache.poi.ddf.EscherContainerRecord)@g_poi-scratchpad-3.8.jar.txt	0
+org/apache/poi/hwpf/model/CHPBinTable/rebuild(org.apache.poi.hwpf.model.ComplexFileTable)@g_poi-scratchpad-3.17.jar.txt	3
+org/apache/poi/hslf/dev/SlideShowRecordDumper/printEscherContainerRecord(org.apache.poi.ddf.EscherContainerRecord,int)@g_poi-scratchpad-3.17.jar.txt	2
+org/apache/poi/hslf/usermodel/HSLFTextParagraph/fixLineEndings(java.util.List)@g_poi-scratchpad-3.17.jar.txt	4

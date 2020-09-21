@@ -1,0 +1,5 @@
+org/apache/batik/ext/awt/image/renderable/ConvolveMatrixRable8Bit/createRendering(java.awt.image.renderable.RenderContext)@g_batik-awt-util-1.7.jar.txt	1
+org/apache/batik/ext/awt/image/rendered/TileRed/fillRasterFrom(java.awt.image.WritableRaster,java.awt.image.RenderedImage)@g_batik-awt-util-1.7.jar.txt	2
+org/apache/batik/ext/awt/image/codec/png/PNGImage/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_batik-awt-util-1.7.jar.txt	4
+org/apache/batik/ext/awt/image/renderable/TileRable8Bit/createRendering(java.awt.image.renderable.RenderContext)@g_batik-awt-util-1.7.jar.txt	0
+org/apache/batik/ext/awt/image/codec/tiff/TIFFImageEncoder/encode(java.awt.image.RenderedImage,org.apache.batik.ext.awt.image.codec.tiff.TIFFEncodeParam,int,boolean)@g_batik-codec-1.8.jar.txt	3

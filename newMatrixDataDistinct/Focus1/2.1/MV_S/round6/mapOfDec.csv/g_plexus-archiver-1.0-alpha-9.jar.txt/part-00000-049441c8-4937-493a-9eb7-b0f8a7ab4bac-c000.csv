@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/MacroDef/sameOrSimilar(java.lang.Object,boolean)@g_plexus-archiver-2.1.jar.txt	3
+org/apache/tools/ant/taskdefs/Checksum/validateAndExecute()@g_plexus-archiver-2.1.jar.txt	1
+org/apache/tools/ant/types/Mapper/getRef()@g_plexus-archiver-2.1.jar.txt	2
+org/apache/tools/ant/types/PatternSet/readPatterns(java.io.File,java.util.Vector,org.apache.tools.ant.Project)@g_plexus-archiver-2.1.jar.txt	4
+org/codehaus/plexus/archiver/jar/JdkManifestFactory/getDefaultManifest()@g_plexus-archiver-2.1.jar.txt	0

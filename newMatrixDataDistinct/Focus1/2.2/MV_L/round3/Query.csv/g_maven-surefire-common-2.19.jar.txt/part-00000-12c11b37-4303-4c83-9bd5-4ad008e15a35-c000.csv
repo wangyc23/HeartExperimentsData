@@ -1,0 +1,4 @@
+java/util/Map/isEmpty()
+java/util/List/size()
+java/util/Iterator/next()
+org/apache/maven/surefire/report/DefaultDirectConsoleReporter/info(java.lang.String)

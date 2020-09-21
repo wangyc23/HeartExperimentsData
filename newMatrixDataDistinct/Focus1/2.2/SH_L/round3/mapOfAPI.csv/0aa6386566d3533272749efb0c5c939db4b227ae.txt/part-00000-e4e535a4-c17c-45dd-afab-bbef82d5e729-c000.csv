@@ -1,0 +1,4 @@
+0	org/ontosoft/client/components/form/SoftwareForm/fireEvent(org.ontosoft.client.components.form.formgroup.input.GwtEvent)
+1	org/ontosoft/client/components/form/formgroup/PropertyFormGroup/getValue()
+2	java/util/Map/get(java.lang.Object)
+3	org/ontosoft/shared/classes/entities/ComplexEntity/addPropertyValues(java.lang.String,java.util.List)

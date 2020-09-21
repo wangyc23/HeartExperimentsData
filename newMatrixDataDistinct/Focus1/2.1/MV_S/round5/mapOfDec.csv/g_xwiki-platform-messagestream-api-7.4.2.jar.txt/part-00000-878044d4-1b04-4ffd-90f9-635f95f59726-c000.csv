@@ -1,0 +1,5 @@
+org/xwiki/messagestream/internal/DefaultMessageStream/createMessageEvent(java.lang.String,java.lang.String)@g_xwiki-platform-query-xwql-7.0.jar.txt	3
+org/xwiki/messagestream/internal/DefaultMessageStream/getRecentDirectMessages(int,int)@g_xwiki-platform-query-xwql-7.0.jar.txt	4
+org/xwiki/query/xwql/internal/hql/PropertyPrinter/print(org.xwiki.query.xwql.internal.QueryContext$PropertyInfo,org.xwiki.query.xwql.internal.hql.Printer)@g_xwiki-platform-query-xwql-7.0.jar.txt	1
+org/xwiki/messagestream/internal/DefaultMessageStream/getRecentPersonalMessages(org.xwiki.model.reference.DocumentReference,int,int)@g_xwiki-platform-query-xwql-7.0.jar.txt	2
+org/xwiki/query/xwql/internal/XWQLQueryExecutor/execute(org.xwiki.query.Query)@g_xwiki-platform-query-xwql-7.0.jar.txt	0

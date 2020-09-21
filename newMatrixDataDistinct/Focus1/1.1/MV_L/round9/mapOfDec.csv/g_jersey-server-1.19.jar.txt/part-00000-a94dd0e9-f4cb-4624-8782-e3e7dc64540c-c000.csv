@@ -1,0 +1,5 @@
+com/sun/jersey/server/impl/uri/rules/RootResourceClassesRule/accept(java.lang.CharSequence,java.lang.Object,com.sun.jersey.spi.uri.rules.UriRuleContext)@g_jersey-server-1.18.1.jar.txt	4
+com/sun/jersey/server/impl/model/ResourceUriRules/processSubResourceMethods(com.sun.jersey.api.model.AbstractResource,java.util.List,com.sun.jersey.server.impl.model.RulesMap)@g_jersey-server-1.18.1.jar.txt	2
+com/sun/jersey/server/impl/VariantSelector/selectVariants(java.util.LinkedList,java.util.List,com.sun.jersey.server.impl.VariantSelector$DimensionChecker,java.util.Set)@g_jersey-server-1.18.1.jar.txt	3
+com/sun/jersey/spi/container/ContainerRequest/getCookieNameValueMap()@g_jersey-server-1.18.1.jar.txt	1
+com/sun/jersey/server/impl/VariantSelector/getVariantHolderList(java.util.List)@g_jersey-server-1.18.1.jar.txt	0

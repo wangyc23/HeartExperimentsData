@@ -1,0 +1,5 @@
+org/efaps/esjp/sales/payment/AbstractPaymentDocument_Base/createDoc(org.efaps.esjp.sales.document.Parameter)@2df151a3924c5d31859899cd08a22946068ea1cd.txt	0
+org/efaps/esjp/sales/document/AbstractDocument_Base/connectDocumentType2Catalog(org.efaps.esjp.sales.document.Parameter)@2df151a3924c5d31859899cd08a22946068ea1cd.txt	4
+org/efaps/esjp/sales/Transaction_Base/createInternalTransaction(org.efaps.esjp.sales.document.Parameter,org.efaps.esjp.sales.document.Type,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@2df151a3924c5d31859899cd08a22946068ea1cd.txt	3
+org/efaps/esjp/sales/Account_Base/cashDeskBalance(org.efaps.esjp.sales.document.Parameter)@2df151a3924c5d31859899cd08a22946068ea1cd.txt	2
+org/efaps/esjp/sales/payment/AbstractPaymentDocument_Base/editDoc(org.efaps.esjp.sales.document.Parameter)@2df151a3924c5d31859899cd08a22946068ea1cd.txt	1

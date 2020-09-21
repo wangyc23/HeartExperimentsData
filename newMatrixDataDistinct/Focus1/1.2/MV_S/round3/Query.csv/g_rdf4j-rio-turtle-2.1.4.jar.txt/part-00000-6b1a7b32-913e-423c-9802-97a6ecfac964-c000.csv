@@ -1,0 +1,4 @@
+org/eclipse/rdf4j/rio/WriterConfig/get(org.eclipse.rdf4j.rio.RioSetting)
+org/eclipse/rdf4j/model/BNode/getID()
+java/lang/String/charAt(int)
+org/eclipse/rdf4j/rio/turtle/TurtleWriter/getWriterConfig()

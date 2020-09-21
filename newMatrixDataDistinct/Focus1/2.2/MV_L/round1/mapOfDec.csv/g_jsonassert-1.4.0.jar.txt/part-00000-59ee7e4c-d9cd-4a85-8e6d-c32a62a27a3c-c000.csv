@@ -1,0 +1,5 @@
+com/jayway/jsonpath/internal/Utils/escape(java.lang.String,boolean)@g_json-path-2.2.0.jar.txt	4
+org/eclipse/jgit/util/QuotedString/BourneUserPathStyle/quote(java.lang.String)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	1
+org/eclipse/jgit/lib/Repository/resolve(org.eclipse.jgit.revwalk.RevWalk,java.lang.String)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	0
+com/jayway/jsonpath/spi/mapper/JsonSmartMappingProvider/DoubleReader/convert(java.lang.Object)@g_json-path-2.2.0.jar.txt	2
+com/jayway/jsonpath/spi/mapper/JsonSmartMappingProvider/LongReader/convert(java.lang.Object)@g_json-path-2.2.0.jar.txt	3

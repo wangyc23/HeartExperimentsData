@@ -1,0 +1,5 @@
+com/google/common/collect/Sets/CartesianSet/create(java.util.List)@g_guava-20.0.jar.txt	0
+com/google/common/collect/ImmutableRangeMap/Builder/build()@g_guava-20.0.jar.txt	3
+com/google/common/collect/Sets/CartesianSet/create(java.util.List)@g_guava-22.0.jar.txt	4
+com/google/common/collect/ImmutableSortedMultiset/copyOfSortedEntries(java.util.Comparator,java.util.Collection)@g_guava-20.0.jar.txt	1
+com/google/common/collect/ImmutableRangeMap/copyOf(com.google.common.collect.RangeMap)@g_guava-20.0.jar.txt	2

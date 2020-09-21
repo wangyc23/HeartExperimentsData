@@ -1,0 +1,5 @@
+org/neo4j/index/impl/lucene/IndexType/1/removeFieldsFromDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)@g_neo4j-lucene-index-2.0.1.jar.txt	1
+org/neo4j/index/impl/lucene/IndexType/CustomType/removeFieldsFromDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)@g_neo4j-lucene-index-2.0.1.jar.txt	3
+org/neo4j/index/impl/lucene/IndexType/1/removeFieldsFromDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)@g_neo4j-lucene-index-2.2.1.jar.txt	0
+org/neo4j/index/impl/lucene/IndexType/CustomType/removeFieldsFromDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)@g_neo4j-lucene-index-2.2.1.jar.txt	2
+org/neo4j/index/impl/lucene/IndexType/clearDocument(org.apache.lucene.document.Document)@g_neo4j-lucene-index-2.2.1.jar.txt	4

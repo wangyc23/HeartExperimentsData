@@ -1,0 +1,4 @@
+java/lang/Class/getDeclaredMethod(java.lang.String,java.lang.Class[])
+java/lang/management/RuntimeMXBean/getName()
+java/lang/ClassLoader/loadClass(java.lang.String)
+java/lang/String/substring(int,int)

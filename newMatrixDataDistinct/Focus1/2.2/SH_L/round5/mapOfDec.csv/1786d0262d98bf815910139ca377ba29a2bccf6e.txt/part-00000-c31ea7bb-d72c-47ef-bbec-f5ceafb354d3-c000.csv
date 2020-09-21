@@ -1,0 +1,5 @@
+com/iluwatar/state/MammothTest/tearDown()@02e093a379c10109f36bc7d331072c1ae30aac40.txt	4
+org/wicketstuff/console/engine/JythonEngine/execute(java.lang.String,java.util.Map)@0001981bdeb534ae8e81f6e361400a2fcb60eea0.txt	2
+org/wicketstuff/console/engine/ClojureEngine/execute(java.lang.String)@0001981bdeb534ae8e81f6e361400a2fcb60eea0.txt	3
+org/wicketstuff/console/engine/ClojureEngine/execute(java.lang.String,java.util.Map)@0001981bdeb534ae8e81f6e361400a2fcb60eea0.txt	1
+org/wicketstuff/console/engine/GroovyEngine/execute(java.lang.String,java.util.Map)@0001981bdeb534ae8e81f6e361400a2fcb60eea0.txt	0

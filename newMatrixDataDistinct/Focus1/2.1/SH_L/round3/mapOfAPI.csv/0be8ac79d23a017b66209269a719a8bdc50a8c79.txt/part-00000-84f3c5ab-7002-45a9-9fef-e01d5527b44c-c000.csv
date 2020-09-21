@@ -1,0 +1,5 @@
+0	java/util/regex/Matcher/group(int)
+1	com/kijes/ela/serial/command/CommandParseException/CommandParseException(java.lang.String)
+2	java/util/regex/Matcher/matches()
+3	com/kijes/ela/serial/command/Command/Command(java.lang.String,java.lang.String)
+4	java/util/regex/Pattern/matcher(java.lang.CharSequence)

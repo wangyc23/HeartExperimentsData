@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/graphics/image/LosslessFactory/createAlphaFromARGBImage2(org.apache.pdfbox.pdmodel.PDDocument,java.awt.image.BufferedImage)@g_pdfbox-2.0.8.jar.txt	4
+org/apache/pdfbox/pdmodel/graphics/image/LosslessFactory/createAlphaFromARGBImage(org.apache.pdfbox.pdmodel.PDDocument,java.awt.image.BufferedImage)@g_pdfbox-2.0.8.jar.txt	3
+org/apache/pdfbox/pdmodel/graphics/image/LosslessFactory/createFromImage(org.apache.pdfbox.pdmodel.PDDocument,java.awt.image.BufferedImage)@g_pdfbox-2.0.8.jar.txt	0
+org/apache/pdfbox/pdmodel/graphics/image/CCITTFactory/createFromImage(org.apache.pdfbox.pdmodel.PDDocument,java.awt.image.BufferedImage)@g_pdfbox-2.0.8.jar.txt	1
+org/apache/pdfbox/pdmodel/graphics/image/LosslessFactory/createFromImage(org.apache.pdfbox.pdmodel.PDDocument,java.awt.image.BufferedImage)@g_pdfbox-2.0.2.jar.txt	2

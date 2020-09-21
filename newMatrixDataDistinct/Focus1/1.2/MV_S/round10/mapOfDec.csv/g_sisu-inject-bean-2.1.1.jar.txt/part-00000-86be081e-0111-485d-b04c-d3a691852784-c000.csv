@@ -1,0 +1,5 @@
+com/google/inject/assistedinject/FactoryProvider2/removeAssistedDeps(java.util.Set)@g_guice-bean-binders-2.3.0.jar.txt	4
+org/sonatype/guice/bean/binders/QualifiedTypeBinder/bindProviderType(java.lang.Class)@g_guice-bean-binders-2.3.0.jar.txt	2
+com/google/inject/assistedinject/FactoryProvider/createMethodMapping(com.google.inject.TypeLiteral,com.google.inject.TypeLiteral)@g_guice-assistedinject-4.1.0.jar.txt	3
+org/sonatype/guice/bean/binders/QualifiedTypeBinder/newInstance(java.lang.Class)@g_guice-bean-binders-2.3.0.jar.txt	0
+org/sonatype/guice/bean/binders/PlaceholderBeanProvider/interpolate(java.lang.String,java.lang.Class)@g_guice-bean-binders-2.3.0.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/artifact/manager/DefaultWagonManager/putRemoteFile(org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.lang.String,org.apache.maven.wagon.events.TransferListener)@g_maven-artifact-manager-2.0.2.jar.txt	4
+org/apache/maven/artifact/manager/DefaultWagonManager/getRemoteFile(org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.lang.String,org.apache.maven.wagon.events.TransferListener,java.lang.String,boolean)@g_maven-artifact-manager-2.0.7.jar.txt	3
+org/apache/maven/artifact/manager/DefaultWagonManager/getArtifact(org.apache.maven.artifact.Artifact,java.util.List)@g_maven-artifact-manager-2.0.2.jar.txt	1
+org/apache/maven/artifact/manager/DefaultWagonManager/getArtifact(org.apache.maven.artifact.Artifact,java.util.List)@g_maven-artifact-manager-2.0.7.jar.txt	0
+org/apache/maven/artifact/manager/DefaultWagonManager/putRemoteFile(org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.lang.String,org.apache.maven.wagon.events.TransferListener)@g_maven-artifact-manager-2.0.7.jar.txt	2

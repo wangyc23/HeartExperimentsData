@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/fromConfiguration/CopyMojo/execute()@g_maven-dependency-plugin-2.2.jar.txt	0
+org/apache/maven/plugin/dependency/AnalyzeDuplicateMojo/execute()@g_maven-dependency-plugin-2.2.jar.txt	1
+org/codehaus/mojo/license/DownloadLicensesMojo/initProxy()@g_maven-dependency-plugin-2.2.jar.txt	2
+org/codehaus/mojo/license/DownloadLicensesMojo/getLicenseFileName(org.apache.maven.model.License)@g_maven-dependency-plugin-2.2.jar.txt	4
+org/codehaus/mojo/license/AbstractFileHeaderMojo/reportType(org.codehaus.mojo.license.AbstractFileHeaderMojo$FileState,java.lang.StringBuilder)@g_maven-dependency-plugin-2.2.jar.txt	3

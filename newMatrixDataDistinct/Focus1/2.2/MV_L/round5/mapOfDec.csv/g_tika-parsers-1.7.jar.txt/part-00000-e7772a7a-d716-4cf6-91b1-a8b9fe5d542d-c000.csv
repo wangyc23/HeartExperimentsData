@@ -1,0 +1,5 @@
+org/apache/tika/parser/crypto/Pkcs7Parser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.4.jar.txt	0
+org/apache/tika/parser/microsoft/ooxml/OOXMLExtractorFactory/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.4.jar.txt	2
+org/apache/tika/parser/microsoft/ooxml/XSSFExcelExtractorDecorator/processSheet(org.apache.poi.xssf.eventusermodel.XSSFSheetXMLHandler$SheetContentsHandler,org.apache.poi.xssf.model.StylesTable,org.apache.poi.xssf.eventusermodel.ReadOnlySharedStringsTable,java.io.InputStream)@g_tika-parsers-1.4.jar.txt	4
+org/apache/tika/parser/iwork/IWorkPackageParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.4.jar.txt	3
+org/apache/tika/parser/crypto/Pkcs7Parser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.2.jar.txt	1

@@ -1,0 +1,5 @@
+com/netflix/governator/guice/concurrent/ConcurrentProviders/1/create()@g_governator-1.10.4.jar.txt	2
+com/netflix/governator/lifecycle/AnnotationFinder/AnnotationSeekingMethodVisitor/visitAnnotation(java.lang.String,boolean)@g_governator-1.10.4.jar.txt	1
+com/netflix/governator/lifecycle/LifecycleManager/stopInstances()@g_governator-1.10.4.jar.txt	0
+com/netflix/governator/lifecycle/LifecycleManager/internalValidateObject(com.netflix.governator.lifecycle.ValidationException,java.lang.Object,javax.validation.Validator)@g_governator-1.10.4.jar.txt	4
+com/netflix/governator/guice/serviceloader/ServiceLoaderModule/ServiceBinderImpl/configure()@g_governator-1.10.4.jar.txt	3

@@ -1,0 +1,4 @@
+scala/reflect/macros/blackbox/Context/prefix()
+scala/reflect/api/Internals$ReificationSupportApi$SyntacticAppliedExtractor/apply(scala.reflect.api.Trees$TreeApi,scala.collection.immutable.List)
+scala/Predef$/wrapRefArray(java.lang.Object[])
+scala/reflect/api/Internals$ReificationSupportApi/SyntacticSelectTerm()

@@ -1,0 +1,5 @@
+org/eclipse/osgi/storage/ManifestLocalization/getHeaders(java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4
+org/eclipse/osgi/internal/location/BasicLocation/set(java.net.URL,boolean,java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	0
+com/google/protobuf/DescriptorProtos/UninterpretedOption/Builder/buildPartial()@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+org/osgi/dto/DTO/appendMap(java.lang.StringBuilder,java.util.Map,java.lang.String,java.util.Map)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/filterPermissions(org.osgi.framework.wiring.BundleRequirement,java.util.ListIterator)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	1

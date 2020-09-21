@@ -1,0 +1,5 @@
+org/springframework/asm/commons/Method/map(java.lang.String)@g_spring-core-2.5.6.SEC01.jar.txt	3
+org/springframework/asm/commons/Method/map(java.lang.String)@g_spring-core-2.5.6.jar.txt	0
+org/springframework/core/LocalVariableTableParameterNameDiscoverer/getParameterNames(java.lang.reflect.Constructor)@g_spring-core-2.5.6.jar.txt	2
+org/springframework/core/LocalVariableTableParameterNameDiscoverer/getParameterNames(java.lang.reflect.Method)@g_spring-core-2.5.6.jar.txt	1
+org/springframework/core/LocalVariableTableParameterNameDiscoverer/getParameterNames(java.lang.reflect.Method)@g_spring-core-2.5.6.SEC01.jar.txt	4

@@ -1,0 +1,5 @@
+org/springframework/asm/commons/SerialVersionUIDAdder/computeSVUID()@g_spring-jdbc-4.2.5.RELEASE.jar.txt	2
+org/springframework/core/LocalVariableTableParameterNameDiscoverer/getClassReader(java.lang.Class)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	4
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-jdbc-4.2.5.RELEASE.jar.txt	0
+org/springframework/jdbc/core/metadata/GenericCallMetaDataProvider/processProcedureColumns(java.sql.DatabaseMetaData,java.lang.String,java.lang.String,java.lang.String)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	3
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-jdbc-4.2.5.RELEASE.jar.txt	1

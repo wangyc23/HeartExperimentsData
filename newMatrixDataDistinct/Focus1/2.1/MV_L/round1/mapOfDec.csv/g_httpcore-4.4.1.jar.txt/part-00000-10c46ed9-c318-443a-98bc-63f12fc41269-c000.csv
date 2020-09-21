@@ -1,0 +1,5 @@
+org/apache/http/config/SocketConfig/copy(org.apache.http.config.SocketConfig)@g_httpcore-4.4.3.jar.txt	3
+org/apache/http/impl/io/AbstractSessionInputBuffer/appendDecoded(org.apache.http.util.CharArrayBuffer,java.nio.ByteBuffer)@g_httpcore-4.4.3.jar.txt	0
+org/apache/http/impl/bootstrap/ServerBootstrap/create()@g_httpcore-4.4.3.jar.txt	2
+org/apache/http/impl/bootstrap/RequestListener/run()@g_httpcore-4.4.3.jar.txt	4
+org/apache/http/impl/io/AbstractSessionInputBuffer/appendDecoded(org.apache.http.util.CharArrayBuffer,java.nio.ByteBuffer)@g_httpcore-4.4.4.jar.txt	1

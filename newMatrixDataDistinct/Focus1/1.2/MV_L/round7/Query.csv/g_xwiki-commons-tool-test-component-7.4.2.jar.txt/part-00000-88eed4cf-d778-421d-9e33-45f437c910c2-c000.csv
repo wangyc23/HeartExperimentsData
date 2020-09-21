@@ -1,0 +1,4 @@
+org/xwiki/component/internal/RoleHint/RoleHint(java.lang.reflect.Type,java.lang.String)
+org/xwiki/component/descriptor/ComponentDescriptor/getRoleType()
+java/util/Iterator/hasNext()
+org/xwiki/test/mockito/MockitoComponentMockingRule/registerComponent(org.xwiki.component.descriptor.ComponentDescriptor)

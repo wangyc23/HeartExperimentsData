@@ -1,0 +1,5 @@
+org/apache/tiles/definition/pattern/PrefixedPatternDefinitionResolver/addDefinitionsAsPatternMatchers(java.util.List,java.util.Map)@g_tiles-core-3.0.4.jar.txt	2
+org/apache/tiles/definition/dao/BaseLocaleUrlDefinitionDAO/refreshRequired()@g_tiles-core-3.0.4.jar.txt	1
+org/apache/zookeeper/server/quorum/LearnerHandler/run()@g_zookeeper-3.4.6.jar.txt	0
+org/apache/zookeeper/server/FinalRequestProcessor/processRequest(org.apache.zookeeper.server.Request)@g_zookeeper-3.4.6.jar.txt	4
+org/apache/zookeeper/ClientCnxn/EventThread/processEvent(java.lang.Object)@g_zookeeper-3.4.6.jar.txt	3

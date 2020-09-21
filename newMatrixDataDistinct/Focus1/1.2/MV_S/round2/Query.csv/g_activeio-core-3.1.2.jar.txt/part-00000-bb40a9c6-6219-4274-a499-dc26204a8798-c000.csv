@@ -1,0 +1,4 @@
+java/util/Properties/getProperty(java.lang.String)
+java/util/LinkedList/toArray(java.lang.Object[])
+java/util/LinkedList/add(java.lang.Object)
+java/util/LinkedList/size()

@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/client/ClientProxyImpl/getValuesFromBeanParam(java.lang.Object,java.lang.Class,java.util.Map)@g_cxf-rt-rs-client-3.0.16.jar.txt	0
+org/apache/cxf/jaxrs/client/spec/ClientImpl/WebTargetImpl/request()@g_cxf-rt-rs-client-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/client/ClientProxyImpl/getPathParamValues(java.lang.reflect.Method,java.lang.Object[],javax.ws.rs.core.MultivaluedMap,java.util.List,org.apache.cxf.jaxrs.model.OperationResourceInfo,int)@g_cxf-rt-rs-client-3.0.16.jar.txt	3
+org/apache/cxf/jaxrs/client/ClientProxyImpl/doChainedInvocation(java.net.URI,javax.ws.rs.core.MultivaluedMap,org.apache.cxf.jaxrs.model.OperationResourceInfo,java.lang.Object[],java.lang.Object,int,org.apache.cxf.message.Exchange,java.util.Map)@g_cxf-rt-rs-client-3.0.16.jar.txt	4
+org/apache/cxf/jaxrs/client/AbstractClient/setContexts(org.apache.cxf.message.Message,org.apache.cxf.message.Exchange,java.util.Map,boolean)@g_cxf-rt-rs-client-3.0.16.jar.txt	2

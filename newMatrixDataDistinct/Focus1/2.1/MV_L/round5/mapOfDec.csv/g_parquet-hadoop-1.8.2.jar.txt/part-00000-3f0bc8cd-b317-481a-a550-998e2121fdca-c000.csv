@@ -1,0 +1,5 @@
+org/apache/parquet/filter2/predicate/SchemaCompatibilityValidator/validateColumn(org.apache.parquet.filter2.predicate.Operators$Column)@g_parquet-column-1.8.2.jar.txt	0
+org/apache/hadoop/mapred/QueueConfigurationParser/createHierarchy(java.lang.String,org.w3c.dom.Element)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	3
+org/apache/hadoop/mapreduce/JobStatus/readFields(java.io.DataInput)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	1
+org/apache/hadoop/mapred/lib/DelegatingInputFormat/getSplits(org.apache.hadoop.mapred.JobConf,int)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	4
+org/apache/hadoop/mapreduce/task/reduce/ShuffleSchedulerImpl/copyFailed(org.apache.hadoop.mapreduce.TaskAttemptID,org.apache.hadoop.mapreduce.task.reduce.MapHost,boolean,boolean)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	2

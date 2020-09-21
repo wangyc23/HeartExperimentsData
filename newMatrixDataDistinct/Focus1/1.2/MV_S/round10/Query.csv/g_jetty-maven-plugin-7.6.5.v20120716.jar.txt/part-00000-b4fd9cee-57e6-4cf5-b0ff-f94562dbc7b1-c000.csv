@@ -1,0 +1,4 @@
+org/mortbay/jetty/plugin/JettyServer/addBean(java.lang.Object)
+java/lang/Object/toString()
+java/lang/Class/getName()
+org/mortbay/jetty/plugin/JettyServer/join()

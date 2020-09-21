@@ -1,0 +1,5 @@
+org/apache/batik/gvt/text/GlyphLayout/getStrikethroughShape()@g_batik-gvt-1.7.jar.txt	4
+org/apache/batik/gvt/font/SVGGVTGlyphVector/computeGlyphLogicalBounds()@g_batik-gvt-1.7.jar.txt	1
+org/apache/batik/gvt/font/AWTGVTGlyphVector/computeGlyphLogicalBounds()@g_batik-gvt-1.7.jar.txt	0
+org/apache/batik/gvt/text/GlyphLayout/getUnderlineShape()@g_batik-gvt-1.7.jar.txt	2
+org/apache/batik/gvt/renderer/StrokingTextPainter/paintDecorations(java.util.List,java.awt.Graphics2D,int)@g_batik-gvt-1.7.jar.txt	3

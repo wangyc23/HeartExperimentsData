@@ -1,0 +1,5 @@
+org/xwiki/logging/logback/internal/LogbackEventGenerator/append(ch.qos.logback.classic.spi.ILoggingEvent)@g_xwiki-commons-logging-logback-7.4.2.jar.txt	2
+org/sonatype/nexus/rest/model/AliasingListConverter/marshal(java.lang.Object,com.thoughtworks.xstream.io.HierarchicalStreamWriter,com.thoughtworks.xstream.converters.MarshallingContext)@g_nexus-restlet1x-model-2.7.2-01.jar.txt	0
+org/xwiki/job/internal/AbstractJobStatus/startListening()@g_xwiki-commons-logging-logback-7.4.2.jar.txt	4
+org/xwiki/job/internal/DefaultJobStatusStore/initialize()@g_xwiki-commons-logging-logback-7.4.2.jar.txt	3
+org/xwiki/logging/logback/internal/DefaultLoggerManager/pushLogListener(org.xwiki.observation.EventListener)@g_xwiki-commons-logging-logback-7.4.2.jar.txt	1

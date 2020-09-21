@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/xml/Xpp3DomBuilder/build(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)
+org/codehaus/plexus/util/xml/pull/XmlPullParser/nextTag()
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getAttributeCount()
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getAttributeValue(int)

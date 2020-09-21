@@ -1,0 +1,5 @@
+org/codehaus/plexus/interpolation/os/OperatingSystemUtils/getSystemEnvVars(boolean)@g_plexus-interpolation-1.21.jar.txt	3
+org/codehaus/plexus/interpolation/RegexBasedInterpolator/interpolate(java.lang.String,org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.regex.Pattern,int)@g_plexus-interpolation-1.22.jar.txt	1
+org/codehaus/plexus/interpolation/StringSearchInterpolator/interpolate(java.lang.String,org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-interpolation-1.21.jar.txt	4
+org/codehaus/plexus/interpolation/object/FieldBasedObjectInterpolator/InterpolateObjectAction/evaluateArray(java.lang.Object,java.lang.String)@g_plexus-interpolation-1.21.jar.txt	2
+org/codehaus/plexus/interpolation/RegexBasedInterpolator/interpolate(java.lang.String,org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.regex.Pattern,int)@g_plexus-interpolation-1.21.jar.txt	0

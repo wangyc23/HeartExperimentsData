@@ -1,0 +1,5 @@
+org/springframework/social/facebook/api/impl/json/TagListDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_spring-social-web-1.1.2.RELEASE.jar.txt	4
+org/springframework/social/connect/web/ProviderSignInController/handleSignIn(org.springframework.social.connect.Connection,org.springframework.social.connect.ConnectionFactory,org.springframework.web.context.request.NativeWebRequest)@g_spring-social-web-1.1.2.RELEASE.jar.txt	1
+org/emfjson/mongo/streams/MongoInputStream/loadResource(org.eclipse.emf.ecore.resource.Resource)@g_spring-social-web-1.1.2.RELEASE.jar.txt	0
+org/springframework/social/facebook/api/impl/FacebookTemplate/fetchImage(java.lang.String,java.lang.String,org.springframework.social.facebook.api.ImageType)@g_spring-social-web-1.1.2.RELEASE.jar.txt	3
+org/springframework/social/connect/web/ConnectSupport/getRequestParameters(org.springframework.web.context.request.NativeWebRequest,java.lang.String[])@g_spring-social-web-1.1.2.RELEASE.jar.txt	2

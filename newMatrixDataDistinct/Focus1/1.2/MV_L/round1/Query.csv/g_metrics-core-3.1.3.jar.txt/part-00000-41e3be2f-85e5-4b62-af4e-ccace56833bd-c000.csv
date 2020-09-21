@@ -1,0 +1,4 @@
+java/lang/Double/valueOf(double)
+java/util/concurrent/ConcurrentSkipListMap/firstKey()
+com/codahale/metrics/WeightedSnapshot$WeightedSample/WeightedSample(long,double)
+java/util/concurrent/ConcurrentSkipListMap/putIfAbsent(java.lang.Object,java.lang.Object)

@@ -1,0 +1,4 @@
+org/apache/velocity/context/InternalContextAdapter/remove(java.lang.Object)
+java/lang/StringBuffer/toString()
+org/apache/velocity/runtime/parser/node/ASTSetDirective/getLine()
+org/apache/velocity/runtime/parser/node/ASTSetDirective/getColumn()

@@ -1,0 +1,5 @@
+de/danielnaber/jwordsplitter/tools/TestjWordSplitterGerman/main(java.lang.String[])@g_jwordsplitter-4.1.jar.txt	3
+de/danielnaber/jwordsplitter/tools/FastObjectSaver/load(java.lang.String)@g_jwordsplitter-4.1.jar.txt	0
+de/danielnaber/jwordsplitter/GermanInterfixDisambiguator/disambiguate(java.util.List)@g_jwordsplitter-4.1.jar.txt	1
+de/danielnaber/jwordsplitter/tools/FileTools/loadFile(java.io.InputStream,java.lang.String)@g_jwordsplitter-4.1.jar.txt	2
+de/danielnaber/jwordsplitter/converter/ExportDict/main(java.lang.String[])@g_jwordsplitter-4.1.jar.txt	4

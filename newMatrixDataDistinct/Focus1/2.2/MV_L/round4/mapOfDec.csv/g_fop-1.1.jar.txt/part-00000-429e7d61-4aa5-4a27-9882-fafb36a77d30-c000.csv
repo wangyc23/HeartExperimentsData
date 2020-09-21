@@ -1,0 +1,5 @@
+org/apache/fop/pdf/PDFDocument/addObject(org.apache.fop.pdf.PDFObject)@g_fop-2.0.jar.txt	2
+org/apache/fop/fonts/base14/TimesItalic/<clinit>()@g_fop-2.0.jar.txt	4
+org/apache/fop/render/pcl/PCLGraphics2D/applyStroke(java.awt.Stroke)@g_fop-2.0.jar.txt	1
+org/apache/fop/render/pdf/PDFDocumentNavigationHandler/updateTargetLocation(org.apache.fop.pdf.PDFGoTo,org.apache.fop.render.intermediate.extensions.GoToXYAction)@g_fop-2.0.jar.txt	0
+org/apache/fop/fonts/truetype/OpenFont/readDirTabs()@g_fop-2.0.jar.txt	3

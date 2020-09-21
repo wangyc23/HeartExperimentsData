@@ -1,0 +1,5 @@
+weka/gui/scripting/Script/makeOptionString(weka.gui.scripting.Script)@g_weka-stable-3.8.0.jar.txt	3
+weka/classifiers/trees/j48/ClassifierTree/toSource(java.lang.String)@g_weka-stable-3.8.0.jar.txt	4
+weka/classifiers/misc/SerializedClassifier/toString()@g_weka-stable-3.8.0.jar.txt	2
+weka/classifiers/trees/j48/C45Split/sourceExpression(int,weka.core.Instances)@g_weka-stable-3.8.0.jar.txt	1
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_weka-stable-3.8.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStreamHandler/getHostAddress(java.net.URL)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStreamHandler/getDefaultPort()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/osgi/framework/internal/protocol/MultiplexingURLStreamHandler/toExternalForm(java.net.URL)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/osgi/util/mobile/UserPromptCondition/getCondition(org.osgi.framework.Bundle,org.osgi.service.condpermadmin.ConditionInfo)@g_org.osgi.compendium-4.2.0.jar.txt	0
+org/eclipse/osgi/framework/internal/core/FrameworkCommandInterpreter/execute(java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/activemq/network/LdapNetworkConnector/start()@g_activemq-all-5.7.0.jar.txt	1
+org/apache/activemq/transport/http/HttpClientTransport/doStart()@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/transport/peer/PeerTransportFactory/createTransportFactory(java.net.URI)@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/util/URISupport/parseComposite(java.net.URI,org.apache.activemq.util.URISupport$CompositeData,java.lang.String)@g_activemq-all-5.7.0.jar.txt	3
+org/apache/activemq/transport/tcp/SslTransportFactory/createTransport(java.net.URI,org.apache.activemq.wireformat.WireFormat)@g_activemq-all-5.7.0.jar.txt	2

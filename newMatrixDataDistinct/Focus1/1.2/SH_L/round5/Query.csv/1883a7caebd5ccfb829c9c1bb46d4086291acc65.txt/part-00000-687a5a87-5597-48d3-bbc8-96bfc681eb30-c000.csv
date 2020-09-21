@@ -1,0 +1,4 @@
+java/lang/Class/getFields()
+java/lang/reflect/Field/getName()
+java/lang/reflect/Modifier/isFinal(int)
+java/lang/reflect/Field/get(java.lang.Object)

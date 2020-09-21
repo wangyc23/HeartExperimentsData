@@ -1,0 +1,5 @@
+org/springside/examples/miniweb/data/AccountData/getRandomAuthority()@29042247f09cce9ce1ec96f69a56d7137eca15bb.txt	1
+org/springside/examples/miniweb/service/account/UserDetailsServiceImpl/loadUserByUsername(java.lang.String)@29042247f09cce9ce1ec96f69a56d7137eca15bb.txt	4
+org/springside/examples/miniweb/unit/service/account/UserDetailsServiceImplTest/loadUserExist()@29042247f09cce9ce1ec96f69a56d7137eca15bb.txt	0
+org/springside/examples/miniweb/data/AccountData/getRandomRoleWithAuthority()@29042247f09cce9ce1ec96f69a56d7137eca15bb.txt	2
+org/springside/examples/miniweb/functional/account/UserManagerTest/createUser()@29042247f09cce9ce1ec96f69a56d7137eca15bb.txt	3

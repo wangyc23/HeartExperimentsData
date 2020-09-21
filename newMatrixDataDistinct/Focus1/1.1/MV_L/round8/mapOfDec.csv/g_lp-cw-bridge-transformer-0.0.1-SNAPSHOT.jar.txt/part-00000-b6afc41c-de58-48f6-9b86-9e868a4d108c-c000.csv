@@ -1,0 +1,5 @@
+org/apache/jempbox/xmp/XMPSchema/merge(org.apache.jempbox.xmp.XMPSchema)@g_org.eclipse.bpmn2-0.7.0.010.jar.txt	4
+org/apache/jempbox/xmp/XMPSchema/setLanguageProperty(java.lang.String,java.lang.String,java.lang.String)@g_org.eclipse.bpmn2-0.7.0.010.jar.txt	3
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_org.eclipse.bpmn2-0.7.0.010.jar.txt	0
+eu/learnpad/transformations/xwiki/impl/XwikiPackageImpl/initializePackageContents()@g_org.eclipse.bpmn2-0.7.0.010.jar.txt	2
+eu/learnpad/transformations/preprocessing/Alignment/sanitizer(java.lang.String)@g_org.eclipse.bpmn2-0.7.0.010.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/GetMojo/execute()@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/fromDependencies/BuildClasspathMojo/doExecute()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/resolvers/HelpMojo/execute()@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/purgeArtifacts(java.util.Set)@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/dependency/analyze/AbstractAnalyzeMojo/logArtifacts(java.util.Set,boolean)@g_maven-dependency-plugin-2.8.jar.txt	1

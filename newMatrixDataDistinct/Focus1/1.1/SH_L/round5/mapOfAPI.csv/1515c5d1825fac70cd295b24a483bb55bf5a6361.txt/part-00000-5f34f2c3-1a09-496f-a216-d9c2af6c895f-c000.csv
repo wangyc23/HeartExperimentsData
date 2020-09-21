@@ -1,0 +1,4 @@
+0	java/util/Collections/unmodifiableSet(java.util.Set)
+1	org/jboss/weld/util/cache/ComputingCache/getCastValue(java.lang.Object)
+2	java/lang/Object/hashCode()
+3	com/aspigrow/portel/exception/CommonRuntimeException/CommonRuntimeException(java.lang.String)

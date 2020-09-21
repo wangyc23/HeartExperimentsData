@@ -1,0 +1,4 @@
+com/drew/metadata/exif/makernotes/ReconyxHyperFireMakernoteDirectory/getInteger(int)
+com/drew/metadata/exif/makernotes/ReconyxHyperFireMakernoteDirectory/getString(int)
+java/text/DecimalFormat/DecimalFormat(java.lang.String)
+java/lang/String/format(java.lang.String,java.lang.Object[])

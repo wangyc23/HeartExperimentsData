@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/loader/impl/ImageLoaderRawJPEG/buildICCProfile(org.apache.xmlgraphics.image.loader.ImageInfo,java.awt.color.ColorSpace,org.apache.commons.io.output.ByteArrayOutputStream)@g_xmlgraphics-commons-1.5.jar.txt	3
+org/apache/batik/ext/awt/image/rendered/Any2sRGBRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.8.jar.txt	1
+org/apache/xmlgraphics/image/codec/tiff/TIFFImageEncoder/encode(java.awt.image.RenderedImage,org.apache.xmlgraphics.image.codec.tiff.TIFFEncodeParam,int,boolean)@g_xmlgraphics-commons-1.5.jar.txt	4
+org/apache/batik/ext/awt/image/rendered/ProfileRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.8.jar.txt	0
+org/apache/xmlgraphics/image/rendered/Any2sRGBRed/copyData(java.awt.image.WritableRaster)@g_xmlgraphics-commons-1.5.jar.txt	2

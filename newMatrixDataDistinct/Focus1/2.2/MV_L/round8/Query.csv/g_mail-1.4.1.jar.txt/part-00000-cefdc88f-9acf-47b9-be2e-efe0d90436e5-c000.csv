@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(char)
+com/sun/mail/mbox/MboxMessage/getHeader(java.lang.String,java.lang.String)
+java/lang/StringBuffer/toString()
+java/lang/StringBuffer/append(java.lang.String)

@@ -1,0 +1,5 @@
+com/mongodb/connection/BaseCluster/notifyWaitQueueHandler(com.mongodb.connection.BaseCluster$ServerSelectionRequest)@g_mongo-java-driver-3.4.2.jar.txt	4
+com/mongodb/QueryBuilder/get()@g_mongo-java-driver-3.4.2.jar.txt	3
+org/bson/BsonBinaryReader/doSkipValue()@g_mongo-java-driver-3.4.2.jar.txt	0
+org/bson/BsonBinaryReader/readBsonType()@g_mongo-java-driver-3.4.2.jar.txt	1
+com/mongodb/operation/ListCollectionsOperation/projectFromFullNamespaceToCollectionName(java.util.List)@g_mongo-java-driver-3.4.2.jar.txt	2

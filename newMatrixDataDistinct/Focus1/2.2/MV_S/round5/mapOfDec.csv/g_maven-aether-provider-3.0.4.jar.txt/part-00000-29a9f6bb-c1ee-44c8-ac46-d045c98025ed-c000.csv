@@ -1,0 +1,5 @@
+org/apache/maven/classrealm/DefaultClassRealmManager/newRealm(java.lang.String)@g_maven-core-3.0.jar.txt	4
+org/apache/maven/exception/DefaultExceptionHandler/handle(java.lang.String,java.lang.Throwable)@g_maven-core-3.0.jar.txt	0
+org/apache/maven/lifecycle/internal/ThreadConfigurationService/getThreadCount(java.lang.String,boolean,int)@g_maven-core-3.0.jar.txt	1
+org/apache/maven/artifact/resolver/ArtifactResolutionResult/toString()@g_maven-core-3.0.jar.txt	2
+org/apache/maven/exception/DefaultExceptionHandler/handle(org.apache.maven.project.ProjectBuildingResult)@g_maven-core-3.0.jar.txt	3

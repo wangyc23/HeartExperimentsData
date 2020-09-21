@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Javadoc/doSourceAndPackageNames(org.apache.tools.ant.types.Commandline,java.util.Vector,java.util.Vector,boolean,java.io.File,java.io.BufferedWriter)@g_ant-1.10.1.jar.txt	3
+org/apache/tools/ant/Main/loadPropertyFiles()@g_ant-1.10.1.jar.txt	4
+org/apache/tools/ant/taskdefs/Checksum/generateChecksums()@g_ant-1.10.1.jar.txt	2
+org/apache/tools/ant/taskdefs/Zip/grabNonFileSetResources(org.apache.tools.ant.types.ResourceCollection[])@g_ant-1.10.1.jar.txt	1
+org/apache/tools/ant/taskdefs/XSLTProcess/configureLiaison(org.apache.tools.ant.types.Resource)@g_ant-1.10.1.jar.txt	0

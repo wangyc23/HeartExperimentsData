@@ -1,0 +1,4 @@
+java/lang/String/length()
+java/lang/StringBuilder/StringBuilder(int)
+java/util/List/toArray(java.lang.Object[])
+java/lang/StringBuilder/toString()

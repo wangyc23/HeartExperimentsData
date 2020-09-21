@@ -1,0 +1,5 @@
+edu/ben/coursemanager/dao/StudentDao/getPreviousCoursesByUserId(int)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	0
+edu/ben/coursemanager/dao/NewsDao/getNewsByPeriod(java.sql.Date,java.sql.Date)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	4
+edu/ben/coursemanager/dao/UserDao/getUsers()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	3
+edu/ben/coursemanager/dao/UserDao/getNewUsers()@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	1
+edu/ben/coursemanager/dao/StudentDao/getCurrentCoursesByUserId(int)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	2

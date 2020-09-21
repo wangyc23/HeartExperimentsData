@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/profiles/OWL2ELProfile$OWL2ELProfileObjectVisitor/getPropertyManager()
+java/util/List/isEmpty()
+org/semanticweb/owlapi/profiles/OWL2ELProfile$OWL2ELProfileObjectVisitor/rangePresent(org.semanticweb.owlapi.model.OWLClassExpression,org.semanticweb.owlapi.model.OWLObjectPropertyExpression)
+java/util/Set/add(java.lang.Object)

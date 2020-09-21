@@ -1,0 +1,4 @@
+v5/NcdcRecordParser/getAirTemperature()
+java/io/PrintStream/println(java.lang.String)
+org/apache/hadoop/io/Text/set(java.lang.String)
+org/apache/hadoop/mapreduce/TaskInputOutputContext/getCounter(java.lang.Enum)

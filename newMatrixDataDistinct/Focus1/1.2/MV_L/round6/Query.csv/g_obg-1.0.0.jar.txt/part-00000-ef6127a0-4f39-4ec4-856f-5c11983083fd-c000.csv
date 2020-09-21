@@ -1,0 +1,4 @@
+gate/creole/ontology/Ontology/executeQuery(java.lang.String)
+java/lang/String/split(java.lang.String)
+java/util/Iterator/hasNext()
+java/util/Iterator/next()

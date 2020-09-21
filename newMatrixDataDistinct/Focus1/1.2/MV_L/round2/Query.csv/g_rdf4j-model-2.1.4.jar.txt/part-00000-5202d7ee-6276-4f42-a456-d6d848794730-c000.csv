@@ -1,0 +1,4 @@
+java/util/Objects/requireNonNull(java.lang.Object,java.lang.String)
+java/util/function/Supplier/get()
+java/util/function/Function/apply(java.lang.Object)
+java/util/HashSet/HashSet()

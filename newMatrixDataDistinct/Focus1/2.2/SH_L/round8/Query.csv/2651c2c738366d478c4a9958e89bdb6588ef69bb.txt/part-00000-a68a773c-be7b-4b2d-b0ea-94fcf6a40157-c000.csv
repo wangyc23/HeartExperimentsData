@@ -1,0 +1,4 @@
+org/apache/hadoop/hbase/index/coprocessor/regionserver/TTLStoreScanner/formIndexNameFromKV(org.apache.hadoop.hbase.KeyValue)
+java/util/Iterator/remove()
+java/util/Iterator/hasNext()
+org/apache/hadoop/hbase/index/IndexSpecification/getTTL()

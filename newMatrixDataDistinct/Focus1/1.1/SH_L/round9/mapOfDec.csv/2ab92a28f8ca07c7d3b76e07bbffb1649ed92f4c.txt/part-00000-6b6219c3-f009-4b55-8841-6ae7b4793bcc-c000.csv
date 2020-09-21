@@ -1,0 +1,5 @@
+client/ScanTimeoutExample/main(java.lang.String[])@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	2
+coprocessor/EndpointProxyExample/main(java.lang.String[])@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	3
+mapreduce/ParseJson/ParseMapper/map(org.apache.hadoop.hbase.io.ImmutableBytesWritable,org.apache.hadoop.hbase.client.Result,org.apache.hadoop.mapreduce.Mapper.Context)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	1
+mapreduce/ImportJsonFromFile/ImportMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	4
+mapreduce/ParseJsonMulti/ParseMapper/map(org.apache.hadoop.hbase.io.ImmutableBytesWritable,org.apache.hadoop.hbase.client.Result,org.apache.hadoop.mapreduce.Mapper.Context)@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	0

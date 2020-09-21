@@ -1,0 +1,5 @@
+org/apache/tomcat/util/net/Nio2Endpoint/Nio2SocketWrapper/5/completed(java.lang.Integer,java.nio.ByteBuffer)@g_tomcat-embed-core-8.5.11.jar.txt	2
+org/apache/catalina/valves/ExtendedAccessLogValve/TimeElement/addElement(java.io.CharArrayWriter,java.util.Date,org.apache.catalina.connector.Request,org.apache.catalina.connector.Response,long)@g_tomcat-embed-core-8.5.11.jar.txt	3
+org/apache/tomcat/util/net/Nio2Endpoint/Nio2SocketWrapper/6/completed(java.lang.Long,java.nio.ByteBuffer[])@g_tomcat-embed-core-8.5.11.jar.txt	1
+org/apache/juli/OneLineFormatter/getThreadName(int)@g_tomcat-embed-core-8.5.11.jar.txt	4
+org/apache/catalina/valves/rewrite/RewriteValve/invoke(org.apache.catalina.connector.Request,org.apache.catalina.connector.Response)@g_tomcat-embed-core-8.5.11.jar.txt	0

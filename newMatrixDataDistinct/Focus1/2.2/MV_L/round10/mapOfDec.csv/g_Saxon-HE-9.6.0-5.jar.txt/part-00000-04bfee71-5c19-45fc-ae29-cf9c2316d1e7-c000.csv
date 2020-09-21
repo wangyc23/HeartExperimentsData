@@ -1,0 +1,5 @@
+net/sf/saxon/expr/AxisExpression/typeCheck(net.sf.saxon.expr.parser.ExpressionVisitor,net.sf.saxon.expr.parser.ContextItemStaticInfo)@g_Saxon-HE-9.6.0-6.jar.txt	4
+net/sf/saxon/value/DateValue/getPrimitiveStringValue()@g_Saxon-HE-9.6.0-6.jar.txt	2
+net/sf/saxon/expr/parser/PromotionOffer/promote(net.sf.saxon.expr.Expression,net.sf.saxon.expr.Expression)@g_Saxon-HE-9.6.0-6.jar.txt	0
+net/sf/saxon/query/QueryModule/declareVariable(net.sf.saxon.expr.instruct.GlobalVariable)@g_Saxon-HE-9.6.0-6.jar.txt	3
+net/sf/saxon/expr/parser/ExpressionTool/evaluate(net.sf.saxon.expr.Expression,int,net.sf.saxon.expr.XPathContext,int)@g_Saxon-HE-9.6.0-6.jar.txt	1

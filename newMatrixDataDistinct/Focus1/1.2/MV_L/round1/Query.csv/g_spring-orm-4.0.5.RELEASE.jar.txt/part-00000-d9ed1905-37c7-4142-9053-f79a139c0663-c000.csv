@@ -1,0 +1,4 @@
+org/springframework/orm/hibernate4/support/OpenSessionInViewFilter/isAsyncStarted(javax.servlet.http.HttpServletRequest)
+org/springframework/transaction/support/TransactionSynchronizationManager/hasResource(java.lang.Object)
+org/springframework/transaction/support/TransactionSynchronizationManager/bindResource(java.lang.Object,java.lang.Object)
+org/springframework/web/context/request/async/WebAsyncUtils/getAsyncManager(javax.servlet.ServletRequest)

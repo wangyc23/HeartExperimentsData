@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/framework/OSGiFrameworkHooks/CoreResolverHookFactory/CoreResolverHook/filterResolvable(java.util.Collection)@g_org.eclipse.osgi-3.12.50.jar.txt	3
+org/apache/felix/resolver/ResolverImpl/dumpResourcePkgs(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource,org.apache.felix.resolver.ResolverImpl$Packages)@g_org.eclipse.osgi-3.12.50.jar.txt	2
+org/apache/felix/resolver/ResolverImpl/calculatePackageSpaces(org.apache.felix.resolver.ResolverImpl$ResolveSession,org.apache.felix.resolver.Candidates,java.util.Collection)@g_org.eclipse.osgi-3.12.50.jar.txt	1
+org/eclipse/osgi/container/ModuleResolutionReport/getResolutionReport0(java.lang.String,org.eclipse.osgi.container.ModuleRevision,java.util.Map,java.util.Set)@g_org.eclipse.osgi-3.12.50.jar.txt	0
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistry/getServiceReferences(org.eclipse.osgi.internal.framework.BundleContextImpl,java.lang.String,java.lang.String,boolean)@g_org.eclipse.osgi-3.12.50.jar.txt	4

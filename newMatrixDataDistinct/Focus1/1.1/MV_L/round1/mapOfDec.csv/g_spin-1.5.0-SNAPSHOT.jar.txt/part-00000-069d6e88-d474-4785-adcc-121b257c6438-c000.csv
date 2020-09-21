@@ -1,0 +1,5 @@
+org/topbraid/spin/arq/SPINARQFunction/executeBody(com.hp.hpl.jena.query.Dataset,com.hp.hpl.jena.rdf.model.Model,com.hp.hpl.jena.query.QuerySolution)@g_spin-1.5.0-20150112.084011-1.jar.txt	3
+org/topbraid/spin/util/SPINExpressions/evaluate(com.hp.hpl.jena.rdf.model.Resource,com.hp.hpl.jena.query.Dataset,com.hp.hpl.jena.query.QuerySolution)@g_spin-1.5.0-20150112.084011-1.jar.txt	2
+org/topbraid/spin/spr/SPRResultSets/getIntFromFunction(com.hp.hpl.jena.rdf.model.Resource,com.hp.hpl.jena.query.Query)@g_spin-1.5.0-20150112.084011-1.jar.txt	0
+org/topbraid/spin/arq/functions/SelectPFunction/handleSelect(com.hp.hpl.jena.query.QueryExecution,java.util.List,com.hp.hpl.jena.sparql.engine.binding.Binding,com.hp.hpl.jena.sparql.engine.ExecutionContext)@g_spin-1.5.0-20150112.084011-1.jar.txt	1
+org/topbraid/spin/spr/SPRResultSets/getColName(com.hp.hpl.jena.rdf.model.Resource,int)@g_spin-1.5.0-20150112.084011-1.jar.txt	4

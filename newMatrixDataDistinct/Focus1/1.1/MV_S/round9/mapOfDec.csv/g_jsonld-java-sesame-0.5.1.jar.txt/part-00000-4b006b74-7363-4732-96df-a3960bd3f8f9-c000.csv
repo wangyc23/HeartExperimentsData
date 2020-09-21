@@ -1,0 +1,5 @@
+org/openrdf/rio/trix/TriXWriter/writeValue(org.openrdf.model.Value)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	4
+com/github/jsonldjava/sesame/SesameTripleCallback/call(com.github.jsonldjava.core.RDFDataset)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	1
+org/eclipse/rdf4j/rio/jsonld/JSONLDParser/parse(java.io.Reader,java.lang.String)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	3
+com/github/jsonldjava/sesame/SesameJSONLDWriter/endRDF()@g_rdf4j-rio-jsonld-2.1.4.jar.txt	2
+org/eclipse/rdf4j/rio/jsonld/JSONLDInternalRDFParser/parse(java.lang.Object)@g_rdf4j-rio-jsonld-2.1.4.jar.txt	0

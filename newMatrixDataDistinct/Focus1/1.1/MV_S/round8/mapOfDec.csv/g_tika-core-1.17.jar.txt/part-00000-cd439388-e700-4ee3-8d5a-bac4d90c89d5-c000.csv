@@ -1,0 +1,5 @@
+org/apache/tika/language/LanguageProfile/add(java.lang.String,long)@g_language-detector-0.5.jar.txt	1
+org/eclipse/jetty/start/ModuleGraphWriter/writeModules(java.io.PrintWriter,org.eclipse.jetty.start.Modules,java.util.List)@g_language-detector-0.5.jar.txt	2
+org/eclipse/jetty/start/Main/start(org.eclipse.jetty.start.StartArgs)@g_jetty-start-9.2.13.v20150730.jar.txt	0
+org/apache/tika/mime/ProbabilisticMimeDetectionSelector/detect(java.io.InputStream,org.apache.tika.metadata.Metadata)@g_language-detector-0.5.jar.txt	3
+org/eclipse/jetty/start/FS/ensureDirectoryWritable(java.nio.file.Path)@g_language-detector-0.5.jar.txt	4

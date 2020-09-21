@@ -1,0 +1,5 @@
+com/sun/faces/application/view/FaceletPartialStateManagementStrategy/locateComponentByClientId(javax.faces.context.FacesContext,javax.faces.component.UIComponent,java.lang.String)@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/el/ScopedAttributeELResolver/getFeatureDescriptors(javax.el.ELContext,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/application/view/ViewScopeContextManager/destroyBeans(java.util.Map,java.util.Map)@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/el/FacesResourceBundleELResolver/getFeatureDescriptors(javax.el.ELContext,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/facelets/tag/jsf/ComponentSupport/findChildByTagId(javax.faces.context.FacesContext,javax.faces.component.UIComponent,java.lang.String)@g_javax.faces-2.2.7.jar.txt	0

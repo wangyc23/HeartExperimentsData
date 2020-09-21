@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/thrift/generated/Hbase/scannerOpenWithStop_result/compareTo(org.apache.hadoop.hbase.thrift.generated.Hbase.scannerOpenWithStop_result)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	1
+org/apache/hadoop/hbase/thrift/generated/Hbase/deleteTable_args/toString()@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	2
+org/apache/hadoop/hbase/thrift/generated/Hbase/AsyncClient/scannerOpenWithPrefix(java.nio.ByteBuffer,java.nio.ByteBuffer,java.util.List,java.util.Map,org.apache.thrift.async.AsyncMethodCallback)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	0
+org/apache/hadoop/hbase/thrift/generated/Hbase/mutateRowTs_result/mutateRowTs_resultStandardScheme/write(org.apache.thrift.protocol.TProtocol,org.apache.hadoop.hbase.thrift.generated.Hbase.mutateRowTs_result)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	3
+org/apache/hadoop/hbase/thrift/generated/Hbase/getRows_args/getRows_argsTupleSchemeFactory/getScheme()@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	4

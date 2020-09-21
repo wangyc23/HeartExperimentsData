@@ -1,0 +1,4 @@
+java/util/concurrent/atomic/AtomicInteger/set(int)
+java/util/concurrent/atomic/AtomicInteger/getAndIncrement()
+java/util/Iterator/hasNext()
+java/util/concurrent/atomic/AtomicInteger/get()

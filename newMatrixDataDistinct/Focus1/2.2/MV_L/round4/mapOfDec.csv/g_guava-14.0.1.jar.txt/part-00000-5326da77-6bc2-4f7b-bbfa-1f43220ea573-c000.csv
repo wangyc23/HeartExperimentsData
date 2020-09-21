@@ -1,0 +1,5 @@
+com/google/common/base/Defaults/<clinit>()@g_guava-17.0.jar.txt	1
+com/google/common/reflect/TypeToken/TypeCollector/collectTypes(java.lang.Object,java.util.Map)@g_guava-15.0.jar.txt	4
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_guava-15.0.jar.txt	2
+com/google/common/cache/LocalCache/Segment/removeLoadingValue(java.lang.Object,int,com.google.common.cache.LocalCache$LoadingValueReference)@g_guava-15.0.jar.txt	3
+com/google/common/base/Defaults/<clinit>()@g_guava-15.0.jar.txt	0

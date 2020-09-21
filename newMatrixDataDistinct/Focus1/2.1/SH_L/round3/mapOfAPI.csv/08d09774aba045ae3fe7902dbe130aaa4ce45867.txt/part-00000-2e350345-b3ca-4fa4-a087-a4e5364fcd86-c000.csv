@@ -1,0 +1,5 @@
+0	java/lang/StringBuilder/StringBuilder(java.lang.String)
+1	edu/cmu/graphchi/datablocks/DataBlockManager/getRawBlock(int)
+2	java/lang/StringBuilder/toString()
+3	java/lang/StringBuilder/append(java.lang.String)
+4	java/lang/StringBuilder/append(java.lang.Object)

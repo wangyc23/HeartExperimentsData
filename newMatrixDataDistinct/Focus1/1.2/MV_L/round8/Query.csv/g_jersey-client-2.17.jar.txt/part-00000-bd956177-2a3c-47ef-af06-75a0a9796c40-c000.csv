@@ -1,0 +1,4 @@
+org/glassfish/jersey/client/ClientRequest/getHeaders()
+javax/ws/rs/core/MultivaluedMap/containsKey(java.lang.Object)
+java/lang/String/format(java.lang.String,java.lang.Object[])
+javax/ws/rs/core/MultivaluedMap/put(java.lang.Object,java.lang.Object)

@@ -1,0 +1,5 @@
+org/apache/batik/bridge/SVGFeComponentTransferElementBridge/createFilter(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Element,org.w3c.dom.Element,org.apache.batik.gvt.GraphicsNode,org.apache.batik.ext.awt.image.renderable.Filter,java.awt.geom.Rectangle2D,java.util.Map)@g_batik-bridge-1.7.jar.txt	1
+org/apache/batik/bridge/SVGMarkerElementBridge/createMarker(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Element,org.w3c.dom.Element)@g_batik-bridge-1.7.jar.txt	2
+org/apache/batik/bridge/svg12/XPathPatternContentSelector/SelectedNodes/update(org.w3c.dom.Node)@g_batik-bridge-1.7.jar.txt	0
+org/apache/batik/bridge/SVGUtilities/getDescription(org.w3c.dom.svg.SVGElement)@g_batik-bridge-1.7.jar.txt	3
+org/apache/batik/bridge/BaseScriptingEnvironment/isDynamicElement(org.w3c.dom.Element,org.apache.batik.bridge.BridgeContext,java.util.List)@g_batik-bridge-1.7.jar.txt	4

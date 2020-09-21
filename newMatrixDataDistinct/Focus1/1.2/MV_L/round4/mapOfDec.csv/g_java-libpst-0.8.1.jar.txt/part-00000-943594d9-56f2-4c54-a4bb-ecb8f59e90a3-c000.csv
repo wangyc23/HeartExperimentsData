@@ -1,0 +1,5 @@
+org/xerial/snappy/SnappyFramedInputStream/read(byte[],int,int)@g_snappy-java-1.1.2.6.jar.txt	4
+org/xerial/snappy/OSInfo/getArchName()@g_snappy-java-1.1.2.6.jar.txt	1
+org/xerial/snappy/SnappyLoader/extractLibraryFile(java.lang.String,java.lang.String,java.lang.String)@g_snappy-java-1.1.2.6.jar.txt	2
+org/xerial/snappy/SnappyLoader/loadSnappySystemProperties()@g_snappy-java-1.1.2.6.jar.txt	3
+org/xerial/snappy/SnappyLoader/findNativeLibrary()@g_snappy-java-1.1.2.6.jar.txt	0

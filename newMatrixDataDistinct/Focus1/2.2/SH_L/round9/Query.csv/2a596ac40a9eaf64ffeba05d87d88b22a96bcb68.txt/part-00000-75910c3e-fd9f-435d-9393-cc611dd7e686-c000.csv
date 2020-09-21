@@ -1,0 +1,4 @@
+de/danoeh/antennapod/util/Converter/byteToString(long)
+de/danoeh/antennapod/feed/FeedMedia/getSize()
+de/danoeh/antennapod/storage/DownloadRequester/isDownloadingFile(de.danoeh.antennapod.feed.FeedFile)
+de/danoeh/antennapod/feed/FeedMedia/getPosition()

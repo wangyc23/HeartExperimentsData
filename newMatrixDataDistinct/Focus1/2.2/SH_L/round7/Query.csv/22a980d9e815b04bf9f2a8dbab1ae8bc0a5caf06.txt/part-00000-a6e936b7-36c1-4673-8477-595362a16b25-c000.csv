@@ -1,0 +1,4 @@
+java/util/Collections/enumeration(java.util.Collection)
+java/util/Set/add(E)
+java/util/Enumeration/hasMoreElements()
+java/util/TreeSet/TreeSet()

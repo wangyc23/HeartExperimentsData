@@ -1,0 +1,5 @@
+org/springframework/data/mongodb/core/index/TextIndexDefinition/getIndexOptions()@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	2
+org/springframework/data/mongodb/core/aggregation/VariableOperators/Let/toLet(org.springframework.data.mongodb.core.aggregation.ExposedFields,org.springframework.data.mongodb.core.aggregation.AggregationOperationContext)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	4
+org/springframework/data/mongodb/repository/cdi/MongoRepositoryExtension/processBean(javax.enterprise.inject.spi.ProcessBean)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	0
+org/springframework/data/mongodb/core/aggregation/AbstractAggregationExpression/toDbObject(java.lang.Object,org.springframework.data.mongodb.core.aggregation.AggregationOperationContext)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	3
+org/springframework/data/mongodb/core/MongoTemplate/copyMapReduceOptionsToCommand(org.springframework.data.mongodb.core.query.Query,org.springframework.data.mongodb.core.mapreduce.MapReduceOptions,com.mongodb.MapReduceCommand)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	1

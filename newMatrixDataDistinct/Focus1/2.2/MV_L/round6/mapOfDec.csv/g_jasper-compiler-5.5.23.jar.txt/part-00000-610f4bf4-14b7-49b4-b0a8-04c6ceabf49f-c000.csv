@@ -1,0 +1,5 @@
+org/apache/jasper/servlet/JspCServletContext/getResourcePaths(java.lang.String)@g_org.apache.jasper.glassfish-2.1.0.v201110031002.jar.txt	4
+org/apache/jasper/JspC/execute()@g_org.apache.jasper.glassfish-2.1.0.v201110031002.jar.txt	0
+org/apache/jasper/JspC/processFile(java.lang.String)@g_org.apache.jasper.glassfish-2.1.0.v201110031002.jar.txt	1
+org/apache/jasper/JspC/execute()@g_jsp-2.1-glassfish-2.1.v20100127.jar.txt	2
+org/apache/jasper/JspC/processFile(java.lang.String)@g_jsp-2.1-glassfish-2.1.v20100127.jar.txt	3

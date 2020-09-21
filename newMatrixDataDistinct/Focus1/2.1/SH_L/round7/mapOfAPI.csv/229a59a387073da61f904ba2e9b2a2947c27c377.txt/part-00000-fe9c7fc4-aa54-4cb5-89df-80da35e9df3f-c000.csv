@@ -1,0 +1,4 @@
+0	org/hibernate/Criteria/list()
+1	org/jboss/as/quickstarts/kitchensink/spring/controlleradvice/data/MemberDao/register(org.jboss.as.quickstarts.kitchensink.spring.controlleradvice.model.Member)
+2	java/lang/String/toLowerCase()
+3	org/jboss/as/quickstart/hibernate3/data/MemberListProducer/retrieveAllMembersOrderedByName()

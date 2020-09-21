@@ -1,0 +1,4 @@
+java/util/Properties/isEmpty()
+org/eclipse/osgi/util/NLS/bind(java.lang.String,java.lang.Object)
+java/util/Properties/put(java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/append(java.lang.Object)

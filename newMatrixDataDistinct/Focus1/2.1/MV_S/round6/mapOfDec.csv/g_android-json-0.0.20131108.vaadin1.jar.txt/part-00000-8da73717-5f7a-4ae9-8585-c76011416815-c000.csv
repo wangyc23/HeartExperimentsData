@@ -1,0 +1,5 @@
+org/json/simple/parser/Yylex/yylex()@g_json-1.8.jar.txt	0
+org/json/JSONTokener/readLiteral()@g_json-1.8.jar.txt	3
+org/json/simple/JSONObject/toJSONString(java.util.Map)@g_json-1.8.jar.txt	2
+org/json/simple/JSONObject/writeJSONString(java.util.Map,java.io.Writer)@g_json-1.8.jar.txt	1
+org/json/simple/parser/Yylex/yylex()@g_json-simple-1.1.1.jar.txt	4

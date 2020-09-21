@@ -1,0 +1,5 @@
+com/sun/star/lib/uno/protocols/urp/urp/writeRequest(boolean,java.lang.String,com.sun.star.lib.uno.typedesc.TypeDescription,com.sun.star.uno.IMethodDescription,com.sun.star.lib.uno.environments.remote.ThreadId,java.lang.Object[],boolean)@g_juh-3.2.1.jar.txt	4
+com/sun/star/uno/UnoRuntime/reset()@g_ridl-3.2.1.jar.txt	2
+com/sun/star/lib/uno/helper/MultiTypeInterfaceContainer/getContainedTypes()@g_juh-3.2.1.jar.txt	1
+com/sun/star/lib/uno/helper/PropertySetMixin/Info/getProperties()@g_juh-3.2.1.jar.txt	0
+com/sun/star/comp/helper/Bootstrap/bootstrap()@g_juh-3.2.1.jar.txt	3

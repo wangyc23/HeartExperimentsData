@@ -1,0 +1,5 @@
+org/thymeleaf/standard/expression/FragmentSignatureUtils/processParameters(org.thymeleaf.standard.expression.FragmentSignature,java.util.Map)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	3
+org/thymeleaf/context/WrappingVariablesMap/entrySet()@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	1
+org/thymeleaf/standard/inliner/StandardTextTextInliner/processTextInline(java.lang.String,org.thymeleaf.Arguments)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	4
+org/thymeleaf/standard/expression/StandardExpressionPreprocessor/preprocess(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,java.lang.String)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	0
+org/thymeleaf/standard/expression/LinkExpression/resolveParameters(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,org.thymeleaf.standard.expression.LinkExpression,org.thymeleaf.standard.expression.StandardExpressionExecutionContext)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	2

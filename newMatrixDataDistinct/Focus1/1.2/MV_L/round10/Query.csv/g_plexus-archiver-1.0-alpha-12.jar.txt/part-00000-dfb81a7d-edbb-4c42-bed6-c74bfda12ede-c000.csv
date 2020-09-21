@@ -1,0 +1,4 @@
+org/codehaus/plexus/components/io/resources/proxy/PlexusIoProxyResourceCollection/PlexusIoProxyResourceCollection()
+java/lang/StringBuffer/append(java.lang.Object)
+org/codehaus/plexus/components/io/resources/proxy/PlexusIoProxyResourceCollection/setUsingDefaultExcludes(boolean)
+org/codehaus/plexus/components/io/resources/proxy/PlexusIoProxyResourceCollection/setFileSelectors(org.codehaus.plexus.components.io.fileselectors.FileSelector[])

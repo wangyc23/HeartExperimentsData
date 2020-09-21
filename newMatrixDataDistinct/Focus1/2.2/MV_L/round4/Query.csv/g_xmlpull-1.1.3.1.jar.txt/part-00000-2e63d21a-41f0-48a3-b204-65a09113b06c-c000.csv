@@ -1,0 +1,4 @@
+java/lang/Class/newInstance()
+java/util/Vector/size()
+java/lang/StringBuffer/append(java.lang.Object)
+java/util/Hashtable/get(java.lang.Object)

@@ -1,0 +1,4 @@
+org/apache/mahout/math/jet/random/GammaTest/seq(double,double,double)
+org/apache/mahout/common/RandomUtils/getRandom()
+org/apache/mahout/math/jet/random/Gamma/Gamma(double,double,java.util.Random)
+java/lang/String/format(java.util.Locale,java.lang.String,java.lang.Object[])

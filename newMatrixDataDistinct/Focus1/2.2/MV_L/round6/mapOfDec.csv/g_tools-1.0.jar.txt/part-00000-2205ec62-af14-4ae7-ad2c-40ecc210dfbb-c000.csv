@@ -1,0 +1,5 @@
+gate/creole/annic/HTMLGenerator/generateHTMLTable(gate.creole.annic.Pattern)@g_gate-core-8.1.jar.txt	3
+gate/util/persistence/PersistenceManager/getRelativePath(java.net.URL,java.net.URL)@g_gate-core-8.1.jar.txt	0
+gate/util/CorpusSaver/execute(java.io.File)@g_gate-core-8.1.jar.txt	4
+gate/util/CorpusBenchmarkTool/execute(java.io.File)@g_gate-core-8.1.jar.txt	2
+gate/util/CorpusBenchmarkTool/evaluateMarkedClean(java.io.File,java.io.File,java.io.File)@g_gate-core-8.1.jar.txt	1

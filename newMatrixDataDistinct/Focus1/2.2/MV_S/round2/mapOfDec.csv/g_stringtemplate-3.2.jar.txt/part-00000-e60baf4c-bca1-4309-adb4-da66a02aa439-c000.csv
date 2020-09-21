@@ -1,0 +1,5 @@
+org/hibernate/action/CollectionUpdateAction/execute()@g_hibernate-core-3.5.5-Final.jar.txt	1
+org/hibernate/impl/SessionImpl/delete(java.lang.String,java.lang.Object[],org.hibernate.type.Type[])@g_hibernate-core-3.5.5-Final.jar.txt	2
+org/hibernate/hql/antlr/HqlSqlBaseWalker/path(antlr.collections.AST)@g_hibernate-core-3.5.5-Final.jar.txt	4
+org/hibernate/hql/ast/util/SyntheticAndFactory/addDiscriminatorWhereFragment(org.hibernate.hql.ast.tree.RestrictableStatement,org.hibernate.persister.entity.Queryable,java.util.Map,java.lang.String)@g_hibernate-core-3.5.5-Final.jar.txt	0
+org/hibernate/dialect/function/NvlFunction/render(java.util.List,org.hibernate.engine.SessionFactoryImplementor)@g_hibernate-core-3.5.5-Final.jar.txt	3

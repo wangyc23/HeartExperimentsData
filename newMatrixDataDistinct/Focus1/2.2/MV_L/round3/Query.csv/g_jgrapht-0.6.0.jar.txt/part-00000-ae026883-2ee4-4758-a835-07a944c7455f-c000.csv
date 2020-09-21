@@ -1,0 +1,4 @@
+org/jgraph/event/GraphModelEvent$GraphModelChange/getInserted()
+org/_3pq/jgrapht/ext/JGraphModelAdapter$JGraphListener/handleChangedEdges(java.util.List)
+org/jgraph/event/GraphModelEvent$GraphModelChange/getChanged()
+org/_3pq/jgrapht/ext/JGraphModelAdapter$JGraphListener/filterEdges(java.lang.Object[])

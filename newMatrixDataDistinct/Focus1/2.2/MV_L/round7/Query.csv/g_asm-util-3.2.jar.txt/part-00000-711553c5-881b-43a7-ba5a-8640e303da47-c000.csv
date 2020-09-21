@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(char)
+java/lang/StringBuffer/toString()
+org/objectweb/asm/util/TraceMethodVisitor/appendDescriptor(int,java.lang.String)
+org/objectweb/asm/signature/SignatureReader/SignatureReader(java.lang.String)

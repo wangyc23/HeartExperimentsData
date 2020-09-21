@@ -1,0 +1,5 @@
+org/apache/lucene/queries/mlt/MoreLikeThis/addTermFrequencies(java.io.Reader,java.util.Map,java.lang.String)@g_lucene-queries-6.0.0.jar.txt	0
+org/apache/lucene/queries/CommonTermsQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-queries-6.0.0.jar.txt	3
+org/apache/lucene/queries/mlt/MoreLikeThis/addTermFrequencies(java.io.Reader,java.util.Map,java.lang.String)@g_lucene-queries-6.2.1.jar.txt	1
+org/apache/lucene/queries/payloads/PayloadScoreQuery/PayloadSpanWeight/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-queries-6.0.0.jar.txt	2
+org/apache/lucene/queries/CommonTermsQuery/toString(java.lang.String)@g_lucene-queries-6.0.0.jar.txt	4

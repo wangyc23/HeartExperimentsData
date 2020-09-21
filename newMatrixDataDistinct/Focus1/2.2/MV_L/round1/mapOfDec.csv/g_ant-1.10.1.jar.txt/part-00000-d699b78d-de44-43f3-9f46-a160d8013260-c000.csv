@@ -1,0 +1,5 @@
+org/apache/tools/ant/DirectoryScanner/checkIncludePatterns()@g_ant-1.9.3.jar.txt	2
+org/apache/tools/ant/taskdefs/Checksum/generateChecksums()@g_ant-1.9.3.jar.txt	3
+org/apache/tools/ant/taskdefs/optional/unix/Symlink/recreate()@g_ant-1.9.3.jar.txt	0
+org/apache/tools/ant/DirectoryScanner/causesIllegalSymlinkLoop(java.lang.String,java.io.File,java.util.LinkedList)@g_ant-1.9.3.jar.txt	1
+org/apache/tools/ant/Main/loadPropertyFiles()@g_ant-1.9.3.jar.txt	4

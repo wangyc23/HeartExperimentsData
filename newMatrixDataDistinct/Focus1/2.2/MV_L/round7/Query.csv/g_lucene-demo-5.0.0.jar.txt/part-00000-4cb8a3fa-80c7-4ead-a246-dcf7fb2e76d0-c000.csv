@@ -1,0 +1,4 @@
+org/apache/lucene/index/DirectoryReader/open(org.apache.lucene.store.Directory)
+org/apache/lucene/facet/taxonomy/TaxonomyReader/close()
+org/apache/lucene/facet/taxonomy/TaxonomyFacetSumFloatAssociations/TaxonomyFacetSumFloatAssociations(java.lang.String,org.apache.lucene.facet.taxonomy.TaxonomyReader,org.apache.lucene.facet.FacetsConfig,org.apache.lucene.facet.FacetsCollector)
+org/apache/lucene/facet/DrillDownQuery/add(java.lang.String,java.lang.String[])

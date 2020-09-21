@@ -1,0 +1,4 @@
+0	org/jboss/weld/tests/interceptors/binding/transitivity/InterceptedBean/ultraSynchronized()
+1	org/jboss/weld/tests/interceptors/binding/transitivity/InterceptorBindingTransitivityTest/resetAllCounters()
+2	org/jboss/weld/tests/interceptors/binding/transitivity/InterceptedBean/ultraSecure()
+3	org/jboss/weld/tests/interceptors/binding/transitivity/InterceptedBean/ultraTransactional()

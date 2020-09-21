@@ -1,0 +1,4 @@
+org/slf4j/impl/Log4jLoggerAdapter/toLog4jEvent(org.slf4j.event.LoggingEvent,org.apache.log4j.Level)@g_slf4j-log4j12-1.6.4.jar.txt	3
+org/slf4j/impl/Log4jLoggerAdapter/toLog4jEvent(org.slf4j.event.LoggingEvent,org.apache.log4j.Level)@g_slf4j-log4j12-1.7.24.jar.txt	0
+org/slf4j/impl/Log4jMDCAdapter/setContextMap(java.util.Map)@g_slf4j-log4j12-1.7.24.jar.txt	1
+org/slf4j/impl/Log4jMDCAdapter/setContextMap(java.util.Map)@g_slf4j-log4j12-1.6.4.jar.txt	2

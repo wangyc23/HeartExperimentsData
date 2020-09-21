@@ -1,0 +1,5 @@
+javax/validation/Validation/DefaultValidationProviderResolver/getValidationProviders()@g_validation-api-1.0.0.GA.jar.txt	3
+org/xwiki/rendering/internal/parser/XDOMBuilder/getXDOM()@g_xwiki-rendering-api-7.0.jar.txt	4
+org/xwiki/rendering/internal/transformation/DefaultTransformationManager/getTransformations()@g_xwiki-rendering-api-7.0.jar.txt	2
+org/xwiki/rendering/internal/block/BlockMatcherConverter/convertToType(java.lang.reflect.Type,java.lang.Object)@g_xwiki-rendering-api-7.0.jar.txt	1
+org/xwiki/rendering/internal/block/ProtectedBlockFilter/getChildrenByType(org.xwiki.rendering.block.Block,java.lang.Class,boolean)@g_xwiki-rendering-api-7.0.jar.txt	0

@@ -1,0 +1,4 @@
+org/xwiki/localization/TranslationBundleDoesNotExistsException/TranslationBundleDoesNotExistsException(java.lang.String)
+org/slf4j/Logger/debug(java.lang.String,java.lang.Object[])
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,5 @@
+com/amazonaws/services/autoscaling/model/transform/DescribeAutoScalingInstancesResultStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	4
+com/amazonaws/services/route53/model/transform/ListResourceRecordSetsRequestMarshaller/marshall(com.amazonaws.services.route53.model.ListResourceRecordSetsRequest)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	3
+com/amazonaws/services/autoscaling/AmazonAutoScalingClient/invoke(com.amazonaws.Request,com.amazonaws.transform.Unmarshaller,com.amazonaws.http.ExecutionContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	0
+com/amazonaws/services/route53domains/model/transform/ListOperationsResultJsonUnmarshaller/unmarshall(com.amazonaws.transform.JsonUnmarshallerContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	2
+com/amazonaws/services/ec2/model/transform/InstanceAttributeStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	1

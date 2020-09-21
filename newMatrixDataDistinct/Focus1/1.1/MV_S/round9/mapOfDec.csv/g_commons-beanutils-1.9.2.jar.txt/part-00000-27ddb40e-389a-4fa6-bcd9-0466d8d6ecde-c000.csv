@@ -1,0 +1,5 @@
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_commons-beanutils-core-1.8.3.jar.txt	2
+org/apache/commons/beanutils/JDBCDynaClass/createDynaProperty(java.sql.ResultSetMetaData,int)@g_commons-beanutils-core-1.8.3.jar.txt	0
+org/springframework/orm/jpa/JpaTemplate/12/doInJpa(javax.persistence.EntityManager)@g_commons-beanutils-core-1.8.3.jar.txt	3
+org/springframework/core/Constants/getNamesForSuffix(java.lang.String)@g_commons-beanutils-core-1.8.3.jar.txt	4
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_commons-beanutils-core-1.8.3.jar.txt	1

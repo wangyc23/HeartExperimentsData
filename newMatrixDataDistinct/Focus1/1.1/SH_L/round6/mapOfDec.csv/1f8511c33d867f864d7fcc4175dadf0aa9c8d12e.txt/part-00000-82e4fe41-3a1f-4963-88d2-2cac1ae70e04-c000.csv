@@ -1,0 +1,5 @@
+org/jboss/resteasy/test/smoke/ProtectedResource/getUserNameCtx(javax.ws.rs.core.SecurityContext)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	4
+Acme/Utils/copyStream(java.io.Reader,java.io.OutputStream,java.lang.String)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	3
+org/sindice/siren/analysis/TestTupleTokenizer/assertTokenizesTo(org.apache.lucene.analysis.Tokenizer,java.lang.String,java.lang.String[],java.lang.String[],java.lang.String[],int[],int[],int[])@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	1
+org/jboss/resteasy/springmvc/tjws/TJWSEmbeddedSpringMVCServer/getApplicationContext()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	2
+se/unlogic/eagledns/EagleDNS/addRRset(se.unlogic.eagledns.Name,se.unlogic.eagledns.Message,se.unlogic.eagledns.RRset,int,int)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	0

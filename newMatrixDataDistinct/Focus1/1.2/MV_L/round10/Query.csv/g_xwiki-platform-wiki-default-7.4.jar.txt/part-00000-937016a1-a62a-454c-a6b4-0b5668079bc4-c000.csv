@@ -1,0 +1,4 @@
+org/xwiki/wiki/internal/descriptor/DefaultWikiDescriptor/setMainPageReference(org.xwiki.model.reference.DocumentReference)
+org/xwiki/wiki/internal/descriptor/DefaultWikiDescriptor/setOwnerId(java.lang.String)
+org/xwiki/wiki/internal/descriptor/DefaultWikiDescriptor/setPrettyName(java.lang.String)
+com/xpn/xwiki/objects/BaseObject/getStringValue(java.lang.String)

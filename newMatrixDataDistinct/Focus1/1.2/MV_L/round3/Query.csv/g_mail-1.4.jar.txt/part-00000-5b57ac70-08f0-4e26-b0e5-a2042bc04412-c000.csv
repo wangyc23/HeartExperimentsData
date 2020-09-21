@@ -1,0 +1,4 @@
+java/lang/String/regionMatches(boolean,int,java.lang.String,int,int)
+java/lang/String/toUpperCase()
+java/io/PrintStream/println(java.lang.String)
+java/lang/String/length()

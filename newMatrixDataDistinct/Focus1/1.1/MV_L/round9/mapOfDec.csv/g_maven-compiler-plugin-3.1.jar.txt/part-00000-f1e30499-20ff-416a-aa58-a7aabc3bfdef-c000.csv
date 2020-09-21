@@ -1,0 +1,5 @@
+org/apache/maven/plugin/compiler/HelpMojo/execute()@g_maven-compiler-plugin-3.2.jar.txt	2
+org/apache/maven/plugin/compiler/HelpMojo/build()@g_maven-compiler-plugin-3.2.jar.txt	3
+org/apache/maven/plugin/compiler/HelpMojo/build()@g_maven-compiler-plugin-3.0.jar.txt	1
+org/apache/maven/plugin/compiler/AbstractCompilerMojo/getCompileSources(org.codehaus.plexus.compiler.Compiler,org.codehaus.plexus.compiler.CompilerConfiguration)@g_maven-compiler-plugin-3.0.jar.txt	4
+org/apache/maven/plugin/compiler/HelpMojo/execute()@g_maven-compiler-plugin-3.0.jar.txt	0

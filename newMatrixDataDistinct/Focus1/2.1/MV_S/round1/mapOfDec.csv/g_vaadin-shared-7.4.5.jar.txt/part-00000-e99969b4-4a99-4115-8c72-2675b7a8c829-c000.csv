@@ -1,0 +1,5 @@
+org/apache/lucene/index/SegmentInfos/generationFromSegmentsFileName(java.lang.String)@g_lucene-core-7.0.0.jar.txt	1
+org/apache/lucene/index/PersistentSnapshotDeletionPolicy/loadPriorSnapshots()@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/geo/SimpleGeoJSONPolygonParser/parseObject(java.lang.String)@g_lucene-core-7.0.0.jar.txt	0
+org/apache/lucene/util/CommandLineUtil/adjustDirectoryClassName(java.lang.String)@g_lucene-core-7.0.0.jar.txt	2
+org/apache/lucene/util/automaton/RegExp/parseSimpleExp()@g_lucene-core-7.0.0.jar.txt	4

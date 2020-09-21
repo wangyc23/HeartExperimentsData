@@ -1,0 +1,4 @@
+org/apache/maven/plugin/descriptor/PluginDescriptor/setIsolatedRealm(boolean)
+java/util/ArrayList/ArrayList()
+java/lang/Boolean/valueOf(java.lang.String)
+org/codehaus/plexus/component/repository/ComponentDependency/setGroupId(java.lang.String)

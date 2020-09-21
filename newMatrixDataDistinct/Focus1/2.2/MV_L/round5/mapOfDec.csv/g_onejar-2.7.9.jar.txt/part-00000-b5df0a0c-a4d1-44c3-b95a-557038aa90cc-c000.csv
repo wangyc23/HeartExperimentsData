@@ -1,0 +1,5 @@
+org/openrdf/http/client/HTTPClient/getQueryMethod(org.openrdf.query.QueryLanguage,java.lang.String,java.lang.String,org.openrdf.query.Dataset,boolean,int,org.openrdf.query.Binding[])@g_sesame-http-client-2.7.9.jar.txt	4
+org/openrdf/http/client/HTTPClient/sendBooleanQueryViaHttp(org.apache.commons.httpclient.HttpMethod,java.util.Set)@g_sesame-http-client-2.7.9.jar.txt	0
+org/openrdf/http/client/HTTPClient/getUpdateMethod(org.openrdf.query.QueryLanguage,java.lang.String,java.lang.String,org.openrdf.query.Dataset,boolean,org.openrdf.query.Binding[])@g_sesame-http-client-2.7.9.jar.txt	2
+org/openrdf/http/client/HTTPClient/sendTupleQueryViaHttp(org.apache.commons.httpclient.HttpMethod,java.util.Set)@g_sesame-http-client-2.7.9.jar.txt	1
+org/openrdf/http/client/HTTPClient/getQueryMethodParameters(org.openrdf.query.QueryLanguage,java.lang.String,java.lang.String,org.openrdf.query.Dataset,boolean,int,org.openrdf.query.Binding[])@g_sesame-http-client-2.7.9.jar.txt	3

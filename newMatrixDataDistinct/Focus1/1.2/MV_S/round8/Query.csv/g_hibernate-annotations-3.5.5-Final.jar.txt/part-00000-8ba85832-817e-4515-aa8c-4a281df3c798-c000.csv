@@ -1,0 +1,4 @@
+org/slf4j/Logger/warn(java.lang.String,java.lang.Object)
+org/hibernate/AssertionFailure/AssertionFailure(java.lang.String)
+javax/persistence/TableGenerator/initialValue()
+javax/persistence/SequenceGenerator/sequenceName()

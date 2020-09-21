@@ -1,0 +1,5 @@
+uk/ac/ic/wlgitbridge/git/handler/WLRepositoryResolver/open(javax.servlet.http.HttpServletRequest,java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	3
+uk/ac/ic/wlgitbridge/snapshot/servermock/server/PostbackThread/run()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	1
+uk/ac/ic/wlgitbridge/bridge/WLBridgedProject/buildRepositoryFromScratch(com.google.api.client.auth.oauth2.Credential,org.eclipse.jgit.lib.Repository)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	2
+uk/ac/ic/wlgitbridge/data/model/DataStore/makeCommitsFromSnapshots(java.lang.String,org.eclipse.jgit.lib.Repository,java.util.List)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	4
+uk/ac/ic/wlgitbridge/util/Log/warn(java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	0

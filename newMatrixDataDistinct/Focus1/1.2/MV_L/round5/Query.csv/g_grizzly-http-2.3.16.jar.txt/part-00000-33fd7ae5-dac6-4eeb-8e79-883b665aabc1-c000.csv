@@ -1,0 +1,4 @@
+org/glassfish/grizzly/Buffer/isComposite()
+org/glassfish/grizzly/memory/MemoryManager/allocate(int)
+org/glassfish/grizzly/Buffer/trim()
+org/glassfish/grizzly/Buffer/allowBufferDispose(boolean)

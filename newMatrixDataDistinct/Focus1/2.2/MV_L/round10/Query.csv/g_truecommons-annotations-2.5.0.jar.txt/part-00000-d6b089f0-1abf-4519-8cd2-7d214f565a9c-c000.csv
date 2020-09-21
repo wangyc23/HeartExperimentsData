@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+net/java/truecommons/annotations/processing/ServiceImplementationProcessor/error(java.lang.CharSequence,javax.lang.model.element.Element)
+javax/lang/model/type/DeclaredType/asElement()
+java/lang/StringBuilder/StringBuilder()

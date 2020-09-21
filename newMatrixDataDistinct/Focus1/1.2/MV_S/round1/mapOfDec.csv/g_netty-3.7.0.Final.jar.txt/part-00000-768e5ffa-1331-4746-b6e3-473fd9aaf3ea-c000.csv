@@ -1,0 +1,5 @@
+hidden/io/netty/buffer/CompositeByteBuf/toString()@g_xwiki-contrib-websocket-1.7.jar.txt	2
+hidden/io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker00/newHandshakeRequest()@g_xwiki-contrib-websocket-1.7.jar.txt	1
+org/springframework/security/crypto/bcrypt/BCrypt/hashpw(java.lang.String,java.lang.String)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0
+hidden/io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker13/newHandshakeRequest()@g_xwiki-contrib-websocket-1.7.jar.txt	4
+hidden/io/netty/bootstrap/AbstractBootstrap/toString()@g_xwiki-contrib-websocket-1.7.jar.txt	3

@@ -1,0 +1,5 @@
+org/xwiki/container/servlet/internal/DefaultServletContainerInitializer/initializeRequest(javax.servlet.http.HttpServletRequest,java.lang.Object)@g_xwiki-platform-container-servlet-7.0.jar.txt	3
+org/xwiki/container/servlet/filters/SavedRequestManager/getOriginalUrl(javax.servlet.http.HttpServletRequest)@g_xwiki-platform-container-servlet-7.0.jar.txt	2
+org/xwiki/container/servlet/SetThreadNameServletRequestListener/requestInitialized(javax.servlet.ServletRequestEvent)@g_xwiki-platform-container-servlet-7.0.jar.txt	4
+org/xwiki/container/servlet/XWikiServletContextListener/contextInitialized(javax.servlet.ServletContextEvent)@g_xwiki-platform-container-servlet-7.4.2.jar.txt	1
+org/xwiki/container/servlet/XWikiServletContextListener/contextInitialized(javax.servlet.ServletContextEvent)@g_xwiki-platform-container-servlet-7.0.jar.txt	0

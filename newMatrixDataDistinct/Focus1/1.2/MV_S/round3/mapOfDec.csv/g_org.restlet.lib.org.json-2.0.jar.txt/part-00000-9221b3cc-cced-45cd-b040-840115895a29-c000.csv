@@ -1,0 +1,5 @@
+org/osgi/dto/DTO/appendDTO(java.lang.StringBuilder,java.util.Map,java.lang.String,org.osgi.dto.DTO)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/closeOutputFile(java.util.zip.Checksum)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	0
+org/eclipse/osgi/storage/bundlefile/ZipBundleFile/getEntryPaths(java.lang.String,java.lang.String,boolean,java.util.LinkedHashSet)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4
+org/eclipse/osgi/internal/log/EventAdminLogListener/convertEvent(org.osgi.service.log.LogEntry)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	1
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3

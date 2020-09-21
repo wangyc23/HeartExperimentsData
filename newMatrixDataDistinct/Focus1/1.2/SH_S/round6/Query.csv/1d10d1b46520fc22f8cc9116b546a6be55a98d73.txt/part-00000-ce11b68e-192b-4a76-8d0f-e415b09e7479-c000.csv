@@ -1,0 +1,4 @@
+webService/clent/SayHiService/updateHello(webService.clent.Hello)
+webService/clent/Hello/setAge(int)
+java/io/PrintStream/println(java.lang.String)
+webService/clent/Hello/getUsername()

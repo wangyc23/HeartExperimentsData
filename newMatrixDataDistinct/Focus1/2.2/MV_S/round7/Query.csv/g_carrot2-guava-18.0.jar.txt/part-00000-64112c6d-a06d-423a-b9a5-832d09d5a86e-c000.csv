@@ -1,0 +1,4 @@
+org/carrot2/shaded/guava/common/util/concurrent/AbstractScheduledService$1/notifyStarted()
+org/carrot2/shaded/guava/common/util/concurrent/AbstractScheduledService$1/access$100(org.carrot2.shaded.guava.common.util.concurrent.AbstractScheduledService$1)
+org/carrot2/shaded/guava/common/util/concurrent/AbstractScheduledService$1/access$600(org.carrot2.shaded.guava.common.util.concurrent.AbstractScheduledService$1)
+java/util/concurrent/locks/ReentrantLock/lock()

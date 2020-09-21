@@ -1,0 +1,5 @@
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_commons-beanutils-core-1.8.3.jar.txt	1
+org/springframework/jdbc/core/metadata/Db2CallMetaDataProvider/initializeWithMetaData(java.sql.DatabaseMetaData)@g_commons-beanutils-core-1.8.3.jar.txt	3
+org/springframework/orm/jpa/JpaTemplate/12/doInJpa(javax.persistence.EntityManager)@g_commons-beanutils-core-1.8.3.jar.txt	2
+org/springframework/orm/toplink/support/CommonsLoggingSessionLog904/log(oracle.toplink.sessions.SessionLogEntry)@g_commons-beanutils-core-1.8.3.jar.txt	4
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_commons-beanutils-core-1.8.3.jar.txt	0

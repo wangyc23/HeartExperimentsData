@@ -1,0 +1,5 @@
+org/jboss/netty/channel/DownstreamChannelStateEvent/toString()@g_netty-3.10.6.Final.jar.txt	4
+org/jboss/netty/channel/UpstreamChannelStateEvent/toString()@g_netty-3.7.0.Final.jar.txt	3
+org/jboss/netty/handler/codec/spdy/SpdySessionHandler/handleDownstream(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.ChannelEvent)@g_netty-3.7.0.Final.jar.txt	2
+org/jboss/netty/channel/DownstreamChannelStateEvent/toString()@g_netty-3.7.0.Final.jar.txt	1
+org/jboss/netty/handler/codec/spdy/SpdyFrameEncoder/handleDownstream(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.ChannelEvent)@g_netty-3.7.0.Final.jar.txt	0

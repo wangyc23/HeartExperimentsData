@@ -1,0 +1,5 @@
+org/apache/commons/logging/impl/LogFactoryImpl/handleFlawedDiscovery(java.lang.String,java.lang.ClassLoader,java.lang.Throwable)@g_commons-logging-api-1.1.jar.txt	4
+org/apache/commons/logging/LogFactory/createFactory(java.lang.String,java.lang.ClassLoader)@g_commons-logging-api-1.1.jar.txt	2
+org/apache/maven/plugin/logging/SystemStreamLog/error(java.lang.CharSequence,java.lang.Throwable)@g_commons-logging-api-1.1.jar.txt	3
+org/apache/commons/logging/impl/SimpleLog/log(int,java.lang.Object,java.lang.Throwable)@g_commons-logging-api-1.1.jar.txt	0
+org/apache/commons/logging/impl/LogFactoryImpl/createLogFromClass(java.lang.String,java.lang.String,boolean)@g_commons-logging-api-1.1.jar.txt	1

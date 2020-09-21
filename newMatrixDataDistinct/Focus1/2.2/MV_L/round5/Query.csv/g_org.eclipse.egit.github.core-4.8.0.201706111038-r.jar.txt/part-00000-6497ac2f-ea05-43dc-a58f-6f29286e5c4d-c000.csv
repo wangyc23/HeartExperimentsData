@@ -1,0 +1,4 @@
+org/eclipse/egit/github/core/client/PagedRequest/setUri(java.lang.StringBuilder)
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+org/eclipse/egit/github/core/service/DownloadService$1/1(org.eclipse.egit.github.core.service.DownloadService)
+org/eclipse/egit/github/core/service/DownloadService/getId(org.eclipse.egit.github.core.IRepositoryIdProvider)

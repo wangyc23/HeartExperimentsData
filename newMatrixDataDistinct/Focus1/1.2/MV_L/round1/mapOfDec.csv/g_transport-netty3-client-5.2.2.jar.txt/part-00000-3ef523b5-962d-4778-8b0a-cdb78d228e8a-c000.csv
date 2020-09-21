@@ -1,0 +1,5 @@
+org/elasticsearch/http/netty4/Netty4HttpServerTransport/resolvePublishPort(org.elasticsearch.common.settings.Settings,java.util.List,java.net.InetAddress)@g_transport-netty4-client-5.2.2.jar.txt	0
+org/elasticsearch/http/netty4/Netty4HttpServerTransport/buildCorsConfig(org.elasticsearch.common.settings.Settings)@g_transport-netty4-client-5.2.2.jar.txt	4
+org/elasticsearch/transport/netty4/Netty4Utils/closeChannels(java.util.Collection)@g_transport-netty4-client-5.2.2.jar.txt	2
+org/elasticsearch/transport/netty4/Netty4Transport/connectToChannels(org.elasticsearch.cluster.node.DiscoveryNode,org.elasticsearch.transport.ConnectionProfile)@g_transport-netty4-client-5.2.2.jar.txt	1
+org/elasticsearch/http/netty4/Netty4HttpServerTransport/lambda$static$2(org.elasticsearch.common.settings.Settings)@g_transport-netty4-client-5.2.2.jar.txt	3

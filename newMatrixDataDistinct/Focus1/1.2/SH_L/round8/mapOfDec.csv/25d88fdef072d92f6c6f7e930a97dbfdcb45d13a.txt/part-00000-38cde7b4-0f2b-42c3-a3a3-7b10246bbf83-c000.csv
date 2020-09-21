@@ -1,0 +1,5 @@
+gaffer/accumulostore/retriever/impl/AccumuloIDWithinSetRetrieverTest/shouldDealWithFalsePositivesGaffer1Store()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	0
+gaffer/function/simple/filter/IsLessThanTest/shouldAcceptTheValueWhenEqualToAndOrEqualToIsTrue()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	1
+gaffer/arrayliststore/operation/handler/AddElementsHandler/ElementCleaner/transform(gaffer.data.element.Element)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	3
+gaffer/operation/impl/get/GetRelatedEdges/Builder/inOutType(gaffer.operation.GetOperation.IncludeIncomingOutgoingType)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	4
+gaffer/serialisation/simple/raw/RawLongSerialiser/canHandle(java.lang.Class)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	2

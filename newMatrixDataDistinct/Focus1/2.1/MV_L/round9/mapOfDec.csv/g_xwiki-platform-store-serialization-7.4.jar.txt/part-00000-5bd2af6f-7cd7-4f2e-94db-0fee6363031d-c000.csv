@@ -1,0 +1,4 @@
+org/xwiki/store/serialization/xml/internal/XMLWriter/writeBase64(org.dom4j.Element,java.io.InputStream)@g_xwiki-platform-store-serialization-7.4.2.jar.txt	3
+org/xwiki/store/serialization/xml/internal/XMLWriter/writeBase64(org.dom4j.Element,java.io.InputStream)@g_xwiki-platform-store-serialization-7.0.jar.txt	2
+org/xwiki/store/serialization/xml/internal/XMLWriter/writeClose(org.dom4j.Element)@g_xwiki-platform-store-serialization-7.4.2.jar.txt	1
+org/xwiki/store/serialization/xml/internal/XMLWriter/writeClose(org.dom4j.Element)@g_xwiki-platform-store-serialization-7.0.jar.txt	0

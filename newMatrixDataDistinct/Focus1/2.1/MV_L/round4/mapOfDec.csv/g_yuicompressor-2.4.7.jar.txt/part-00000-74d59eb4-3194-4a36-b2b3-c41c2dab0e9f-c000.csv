@@ -1,0 +1,5 @@
+org/mozilla/javascript/tools/jsc/Main/processOptions(java.lang.String[])@g_js-1.6R7.jar.txt	0
+org/mozilla/javascript/tools/shell/FlexibleCompletor/complete(java.lang.String,int,java.util.List)@g_rhino-1.7R4.jar.txt	2
+com/yahoo/platform/yui/compressor/JavaScriptCompressor/<clinit>()@g_js-1.6R7.jar.txt	4
+org/mozilla/javascript/tools/jsc/Main/processOptions(java.lang.String[])@g_rhino-1.7R4.jar.txt	1
+org/mozilla/javascript/commonjs/module/provider/SoftCachingModuleScriptProvider/readObject(java.io.ObjectInputStream)@g_js-1.6R7.jar.txt	3

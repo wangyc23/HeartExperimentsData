@@ -1,0 +1,1 @@
+org/neo4j/logging/RotatingFileOutputStreamSupplier$RotationListener/rotationError(java.lang.Exception,java.io.OutputStream)

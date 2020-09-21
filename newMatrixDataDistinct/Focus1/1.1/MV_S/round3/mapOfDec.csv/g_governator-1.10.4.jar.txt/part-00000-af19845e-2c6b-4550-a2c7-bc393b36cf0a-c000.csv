@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/asm/ClassWriter/newConstItem(java.lang.Object)@g_sisu-inject-bean-2.1.1.jar.txt	0
+org/neo4j/ogm/cypher/compiler/CypherContext/deregisterIncomingRelationships(java.lang.Long,java.lang.String,java.lang.Class,boolean)@g_sisu-inject-bean-2.1.1.jar.txt	4
+org/neo4j/ogm/session/response/RowStatisticsResponse/next()@g_sisu-inject-bean-2.1.1.jar.txt	3
+com/netflix/governator/lifecycle/LifecycleManager/internalValidateObject(com.netflix.governator.lifecycle.ValidationException,java.lang.Object,javax.validation.Validator)@g_sisu-inject-bean-2.1.1.jar.txt	2
+org/neo4j/ogm/metadata/ClassPathScanner/scan(java.util.List,org.neo4j.ogm.metadata.info.ClassFileProcessor)@g_sisu-inject-bean-2.1.1.jar.txt	1

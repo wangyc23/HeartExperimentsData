@@ -1,0 +1,4 @@
+com/google/protobuf/CodedOutputStream/computeUInt64Size(int,long)
+com/opentransport/rdfmapper/nmbs/containers/GtfsRealtime/VehiclePosition/getStopIdBytes()
+com/google/protobuf/CodedOutputStream/computeMessageSize(int,com.google.protobuf.MessageLite)
+com/google/protobuf/GeneratedMessage/ExtendableMessage/extensionsSerializedSize()

@@ -1,0 +1,4 @@
+org/opengis/referencing/crs/CRSFactory/createDerivedCRS(java.util.Map,org.opengis.referencing.crs.CoordinateReferenceSystem,org.opengis.referencing.operation.Conversion,org.opengis.referencing.cs.CoordinateSystem)
+org/opengis/referencing/datum/VerticalDatum/getAlias()
+org/opengis/referencing/datum/VerticalDatum/getVerticalDatumType()
+org/opengis/referencing/cs/CoordinateSystem/getAxis(int)

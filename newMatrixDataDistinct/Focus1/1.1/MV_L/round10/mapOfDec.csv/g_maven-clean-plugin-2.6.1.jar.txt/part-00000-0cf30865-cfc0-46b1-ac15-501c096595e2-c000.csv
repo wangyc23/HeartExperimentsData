@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-clean-plugin-2.5.jar.txt	3
+org/apache/maven/plugin/dependency/fromConfiguration/CopyMojo/doExecute()@g_maven-clean-plugin-2.5.jar.txt	4
+org/apache/maven/plugin/clean/Cleaner/delete(java.io.File,boolean,boolean)@g_maven-clean-plugin-2.5.jar.txt	1
+org/apache/maven/plugin/dependency/tree/TreeMojo/serializeVerboseDependencyTree(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-clean-plugin-2.5.jar.txt	2
+org/apache/maven/plugin/clean/Cleaner/delete(java.io.File,org.apache.maven.plugin.clean.Selector,boolean,boolean,boolean)@g_maven-clean-plugin-2.5.jar.txt	0

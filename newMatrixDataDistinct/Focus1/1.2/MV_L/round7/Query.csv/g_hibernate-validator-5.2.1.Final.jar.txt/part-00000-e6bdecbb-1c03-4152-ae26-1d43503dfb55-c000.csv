@@ -1,0 +1,4 @@
+java/math/BigDecimal/valueOf(long)
+java/lang/Float/isNaN(float)
+java/math/BigInteger/valueOf(long)
+java/lang/Float/floatValue()

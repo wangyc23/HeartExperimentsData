@@ -1,0 +1,5 @@
+org/apache/tools/ant/IntrospectionHelper/setAttribute(org.apache.tools.ant.Project,java.lang.Object,java.lang.String,java.lang.String)@g_ant-1.9.3.jar.txt	4
+org/apache/tools/ant/taskdefs/cvslib/CvsTagDiff/writeTagDiff(org.apache.tools.ant.taskdefs.cvslib.CvsTagEntry[])@g_ant-1.9.3.jar.txt	3
+org/apache/tools/ant/taskdefs/optional/ejb/IPlanetDeploymentTool/getIasDescriptorName()@g_ant-1.9.3.jar.txt	0
+org/apache/tools/ant/taskdefs/optional/PropertyFile/Entry/executeOn(java.util.Properties)@g_ant-1.9.3.jar.txt	2
+org/apache/tools/ant/taskdefs/optional/jsp/compilers/DefaultJspCompilerAdapter/logAndAddFilesToCompile(org.apache.tools.ant.taskdefs.optional.jsp.JspC,java.util.Vector,org.apache.tools.ant.types.CommandlineJava)@g_ant-1.9.3.jar.txt	1

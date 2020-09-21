@@ -1,0 +1,5 @@
+org/semarglproject/rdf/NTriplesParser/unescape(java.lang.String)@g_semargl-rdf-0.7.jar.txt	3
+org/semarglproject/rdf/RdfXmlParser/processResourceAttrs(java.lang.String,org.xml.sax.Attributes)@g_semargl-rdf-0.7.jar.txt	2
+org/semarglproject/rdf/rdfa/EvalContext/resolveCurieOrIri(java.lang.String,boolean)@g_semargl-rdf-0.7.jar.txt	1
+org/semarglproject/rdf/NTriplesSerializer/escapeContent(java.lang.String)@g_semargl-rdf-0.7.jar.txt	0
+org/semarglproject/rdf/rdfa/RdfaParser/addProcessorGraphRecord(java.lang.String,java.lang.String)@g_semargl-rdf-0.7.jar.txt	4

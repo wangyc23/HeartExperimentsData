@@ -1,0 +1,4 @@
+java/lang/String/String(char[],int,int)
+java/util/List/remove(int)
+java/lang/String/length()
+java/lang/String/substring(int,int)

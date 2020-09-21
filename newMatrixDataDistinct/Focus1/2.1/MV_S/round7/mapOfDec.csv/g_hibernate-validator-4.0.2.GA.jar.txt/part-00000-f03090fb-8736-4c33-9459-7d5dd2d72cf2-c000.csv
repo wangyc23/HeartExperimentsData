@@ -1,0 +1,5 @@
+org/glassfish/hk2/api/MultiException/printStackTrace(java.io.PrintWriter)@g_shiro-core-1.2.2.jar.txt	3
+org/hibernate/validator/metadata/AnnotationIgnores/isIgnoreAnnotations(java.lang.Class)@g_shiro-core-1.2.2.jar.txt	2
+org/glassfish/hk2/utilities/BuilderHelper/1/toString()@g_shiro-core-1.2.2.jar.txt	0
+org/apache/shiro/util/SoftHashMap/entrySet()@g_shiro-core-1.2.2.jar.txt	4
+org/hibernate/validator/metadata/ConstraintDescriptorImpl/parseComposingConstraints()@g_shiro-core-1.2.2.jar.txt	1

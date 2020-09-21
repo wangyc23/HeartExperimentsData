@@ -1,0 +1,5 @@
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createEvent(int,boolean,java.util.Date,java.util.Date)@0001981bdeb534ae8e81f6e361400a2fcb60eea0.txt	0
+org/wicketstuff/ddcalendar/Color/random()@0001981bdeb534ae8e81f6e361400a2fcb60eea0.txt	4
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/initializeWithDateRange(java.util.Date,java.util.Date)@0001981bdeb534ae8e81f6e361400a2fcb60eea0.txt	1
+org/wicketstuff/flot/Color/random()@0001981bdeb534ae8e81f6e361400a2fcb60eea0.txt	3
+org/wicketstuff/calendarviews/exampleapp/RandomTestEventProvider/createRandomEvent(java.util.Date,int)@0001981bdeb534ae8e81f6e361400a2fcb60eea0.txt	2

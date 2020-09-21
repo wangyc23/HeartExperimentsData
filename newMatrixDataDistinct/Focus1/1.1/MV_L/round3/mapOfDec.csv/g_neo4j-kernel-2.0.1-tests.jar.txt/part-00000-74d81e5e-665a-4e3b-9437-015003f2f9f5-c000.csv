@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/transaction/xaframework/LogBackedXaDataSourceLogBufferFactoryTest/shouldAllowWritingLogicalLog()@g_neo4j-kernel-2.1.5-tests.jar.txt	4
+org/neo4j/graphdb/FirstStartupIT/shouldBeEmptyWhenFirstStarted()@g_neo4j-kernel-2.1.5-tests.jar.txt	0
+org/neo4j/kernel/impl/transaction/CommitContentionTests/createDb(org.neo4j.kernel.impl.transaction.xaframework.TxIdGenerator)@g_neo4j-kernel-2.1.5-tests.jar.txt	2
+org/neo4j/kernel/impl/nioneo/store/TestNeoStore/testSetLatestConstraintTx()@g_neo4j-kernel-2.1.5-tests.jar.txt	1
+org/neo4j/kernel/impl/api/integrationtest/SchemaRecoveryIT/schemaTransactionsShouldSurviveRecovery()@g_neo4j-kernel-2.1.5-tests.jar.txt	3

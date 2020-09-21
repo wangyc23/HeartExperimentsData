@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/macro/script/DefaultAttachmentClassLoaderFactory/createURI(java.lang.String)@g_xwiki-platform-rendering-macro-script-7.4.2.jar.txt	3
+org/xwiki/rendering/internal/macro/script/NestedScriptMacroValidatorListener/check(org.xwiki.observation.event.CancelableEvent,org.xwiki.rendering.transformation.MacroTransformationContext,org.xwiki.rendering.macro.script.ScriptMacroParameters)@g_xwiki-platform-rendering-macro-script-7.4.2.jar.txt	1
+org/xwiki/display/internal/DocumentTitleDisplayer/extractTitleFromContent(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-display-api-7.4.jar.txt	0
+org/xwiki/rendering/macro/script/AbstractScriptMacro/execute(org.xwiki.rendering.macro.script.ScriptMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-platform-rendering-macro-script-7.4.2.jar.txt	2
+org/xwiki/display/internal/DocumentContentDisplayer/getContent(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-rendering-macro-script-7.4.2.jar.txt	4

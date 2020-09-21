@@ -1,0 +1,5 @@
+org/codehaus/mojo/exec/ExecMojo/handleSystemEnvVariables()@g_exec-maven-plugin-1.4.0.jar.txt	1
+org/eclipse/xtend/maven/AbstractXtendInstallDebugInfoMojo/createTraceToClassFileMap(java.util.List,java.lang.String)@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtend/maven/AbstractXtendInstallDebugInfoMojo/installTraces(com.google.common.collect.Multimap)@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	0
+org/eclipse/xtend/maven/AbstractXtendInstallDebugInfoMojo/installTrace(java.io.File,java.util.Collection)@g_xtend-maven-plugin-2.10.0-SNAPSHOT.jar.txt	4
+org/codehaus/mojo/exec/ExecMojo/createEnvs(java.io.File)@g_exec-maven-plugin-1.4.0.jar.txt	2

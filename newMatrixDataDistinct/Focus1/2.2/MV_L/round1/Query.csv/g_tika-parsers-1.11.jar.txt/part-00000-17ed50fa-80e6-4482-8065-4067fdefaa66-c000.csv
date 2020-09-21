@@ -1,0 +1,4 @@
+org/bouncycastle/operator/jcajce/JcaDigestCalculatorProviderBuilder/JcaDigestCalculatorProviderBuilder()
+java/lang/Throwable/addSuppressed(java.lang.Throwable)
+java/io/InputStream/close()
+org/bouncycastle/cms/CMSTypedStream/getContentStream()

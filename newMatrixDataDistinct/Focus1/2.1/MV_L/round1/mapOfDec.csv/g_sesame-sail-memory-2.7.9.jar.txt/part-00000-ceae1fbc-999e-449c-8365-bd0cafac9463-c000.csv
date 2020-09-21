@@ -1,0 +1,5 @@
+org/openrdf/query/dawg/DAWGTestResultSetParser/getBindingNames(org.openrdf.model.Resource)@g_sesame-query-2.7.9.jar.txt	4
+org/openrdf/query/QueryResults/report(org.openrdf.query.GraphQueryResult,org.openrdf.rio.RDFHandler)@g_sesame-query-2.7.9.jar.txt	0
+org/openrdf/query/dawg/DAWGTestResultSetParser/reportSolution(org.openrdf.model.Resource,java.util.List)@g_sesame-query-2.7.9.jar.txt	2
+org/openrdf/sail/memory/MemoryStore/initializeInternal()@g_sesame-query-2.7.9.jar.txt	1
+org/openrdf/rio/binary/BinaryRDFParser/parse(java.io.InputStream,java.lang.String)@g_sesame-query-2.7.9.jar.txt	3

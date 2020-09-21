@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+jersey/repackaged/com/google/common/collect/Collections2/transform(java.util.Collection,jersey.repackaged.com.google.common.base.Function)
+java/util/List/isEmpty()
+java/lang/Class/getName()

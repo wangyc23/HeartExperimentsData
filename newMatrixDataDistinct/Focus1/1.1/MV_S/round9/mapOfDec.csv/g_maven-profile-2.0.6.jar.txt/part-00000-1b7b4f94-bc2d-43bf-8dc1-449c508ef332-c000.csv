@@ -1,0 +1,5 @@
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseIssueManagement(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-model-2.0.4.jar.txt	3
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parsePluginContainer(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-model-2.0.4.jar.txt	0
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseNotifier(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-model-2.0.4.jar.txt	4
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseContributor(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-model-2.0.4.jar.txt	1
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseReporting(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean,java.lang.String)@g_maven-model-2.0.4.jar.txt	2

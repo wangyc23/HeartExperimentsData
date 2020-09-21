@@ -1,0 +1,4 @@
+org/apache/maven/plugin/install/InstallMojo/addMetaDataFilesForArtifact(org.apache.maven.artifact.Artifact,java.util.Collection,boolean)
+java/util/List/isEmpty()
+java/util/Iterator/next()
+org/apache/maven/project/MavenProject/getArtifact()

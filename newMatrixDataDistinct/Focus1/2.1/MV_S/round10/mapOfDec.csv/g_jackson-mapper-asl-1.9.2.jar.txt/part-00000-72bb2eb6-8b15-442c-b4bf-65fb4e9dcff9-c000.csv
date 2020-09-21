@@ -1,0 +1,5 @@
+com/sun/jersey/api/json/JSONJAXBContext/processProperties(java.util.Map)@g_jersey-json-1.9.jar.txt	2
+org/codehaus/jackson/map/deser/std/UntypedObjectDeserializer/deserialize(org.codehaus.jackson.JsonParser,org.codehaus.jackson.map.DeserializationContext)@g_jersey-json-1.9.jar.txt	4
+org/codehaus/jackson/map/jsontype/impl/AsPropertyTypeDeserializer/deserializeTypedFromObject(org.codehaus.jackson.JsonParser,org.codehaus.jackson.map.DeserializationContext)@g_jersey-json-1.9.jar.txt	3
+org/codehaus/jackson/map/ser/CustomSerializerFactory/addSpecificMapping(java.lang.Class,org.codehaus.jackson.map.JsonSerializer)@g_jersey-json-1.9.jar.txt	1
+org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerSecurityConfiguration/configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)@g_jersey-json-1.9.jar.txt	0

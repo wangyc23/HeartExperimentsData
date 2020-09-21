@@ -1,0 +1,5 @@
+org/apache/batik/ext/awt/MultipleGradientPaintContext/getRaster(int,int,int,int)@g_batik-awt-util-1.7.jar.txt	1
+org/apache/batik/ext/awt/image/rendered/GaussianBlurRed8Bit/boxFilterV(java.awt.image.Raster,java.awt.image.WritableRaster,int,int,int,int)@g_batik-awt-util-1.7.jar.txt	2
+org/apache/batik/ext/awt/image/rendered/MorphologyOp/specialProcessRow(java.awt.image.Raster,java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	0
+org/apache/batik/ext/awt/image/rendered/TileRed/fillOutRaster_INT_PACK(java.awt.image.WritableRaster)@g_batik-awt-util-1.7.jar.txt	4
+org/apache/batik/ext/awt/image/rendered/GaussianBlurRed8Bit/boxFilterH(java.awt.image.Raster,java.awt.image.WritableRaster,int,int,int,int)@g_batik-awt-util-1.7.jar.txt	3

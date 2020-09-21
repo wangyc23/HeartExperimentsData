@@ -1,0 +1,5 @@
+com/sun/jersey/core/spi/factory/ContextResolverFactory/init(com.sun.jersey.core.spi.component.ProviderServices,com.sun.jersey.core.spi.factory.InjectableProviderFactory)@g_jersey-core-1.9.jar.txt	4
+com/sun/jersey/core/spi/factory/MessageBodyFactory/initWriters(java.util.Map,java.util.List,java.util.Set)@g_jersey-core-1.9.jar.txt	2
+com/sun/jersey/core/spi/factory/ContextResolverFactory/1/getResolver(com.sun.jersey.core.spi.component.ComponentContext,java.lang.reflect.Type)@g_jersey-core-1.13.jar.txt	1
+com/sun/jersey/core/spi/factory/ContextResolverFactory/1/getResolver(com.sun.jersey.core.spi.component.ComponentContext,java.lang.reflect.Type)@g_jersey-core-1.9.jar.txt	0
+com/sun/jersey/core/header/LinkHeader/toString()@g_jersey-core-1.9.jar.txt	3

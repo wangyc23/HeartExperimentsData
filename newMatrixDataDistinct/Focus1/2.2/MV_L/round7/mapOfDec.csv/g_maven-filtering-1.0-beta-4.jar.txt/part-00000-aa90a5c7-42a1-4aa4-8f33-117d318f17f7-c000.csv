@@ -1,0 +1,5 @@
+org/apache/maven/shared/filtering/InterpolatorFilterReaderLineEnding/read()@g_maven-filtering-1.0.jar.txt	2
+org/apache/maven/shared/filtering/PropertyUtils/getPropertyValue(java.lang.String,java.util.Properties)@g_maven-filtering-1.0-beta-3.jar.txt	4
+org/apache/maven/shared/filtering/MultiDelimiterInterpolatorFilterReaderLineEnding/read()@g_maven-filtering-1.0.jar.txt	3
+org/apache/maven/shared/filtering/FilteringUtils/escapeWindowsPath(java.lang.String)@g_maven-filtering-1.0.jar.txt	1
+org/apache/maven/shared/filtering/FilteringUtils/escapeWindowsPath(java.lang.String)@g_maven-filtering-1.0-beta-3.jar.txt	0

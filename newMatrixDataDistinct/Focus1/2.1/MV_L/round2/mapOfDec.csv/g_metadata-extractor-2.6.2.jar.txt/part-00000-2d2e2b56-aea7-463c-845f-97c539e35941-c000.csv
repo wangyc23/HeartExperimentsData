@@ -1,0 +1,5 @@
+com/drew/imaging/jpeg/JpegMetadataReader/extractMetadataFromJpegSegmentReader(com.drew.imaging.jpeg.JpegSegmentData)@g_metadata-extractor-2.8.0.jar.txt	1
+com/drew/metadata/exif/GpsDescriptor/getGpsDirectionDescription(int)@g_metadata-extractor-2.8.0.jar.txt	4
+com/drew/metadata/exif/ExifSubIFDDescriptor/getShutterSpeedDescription()@g_metadata-extractor-2.8.0.jar.txt	3
+com/drew/metadata/ico/IcoReader/extract(com.drew.lang.SequentialReader,com.drew.metadata.Metadata)@g_metadata-extractor-2.8.0.jar.txt	2
+com/drew/tools/ProcessAllImagesInFolderUtility/TextFileOutputHandler/openWriter(java.io.File)@g_metadata-extractor-2.8.0.jar.txt	0

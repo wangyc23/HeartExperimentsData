@@ -1,0 +1,5 @@
+com/steadystate/css/parser/ParseException/initialise(com.steadystate.css.parser.Token,int[][],java.lang.String[])@g_cssparser-0.9.14.jar.txt	3
+org/apache/xml/serializer/dom3/DOM3TreeWalker/serializeAttList(org.w3c.dom.Element)@g_xerces-impl-2.9.0.jar.txt	4
+com/steadystate/css/parser/HandlerBase/warning(org.w3c.css.sac.CSSParseException)@g_cssparser-0.9.14.jar.txt	0
+com/steadystate/css/parser/HandlerBase/error(org.w3c.css.sac.CSSParseException)@g_cssparser-0.9.14.jar.txt	2
+com/steadystate/css/parser/HandlerBase/fatalError(org.w3c.css.sac.CSSParseException)@g_cssparser-0.9.14.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/spark/unsafe/Platform/<clinit>()@g_json-path-2.2.0.jar.txt	3
+org/apache/spark/unsafe/types/UTF8String/translate(java.util.Map)@g_json-path-2.2.0.jar.txt	4
+com/jayway/jsonpath/internal/filter/ValueNode/PathNode/evaluate(com.jayway.jsonpath.Predicate$PredicateContext)@g_json-path-2.2.0.jar.txt	2
+com/jayway/jsonpath/internal/path/PathToken/handleObjectProperty(java.lang.String,java.lang.Object,com.jayway.jsonpath.internal.path.EvaluationContextImpl,java.util.List)@g_json-path-2.2.0.jar.txt	1
+com/jayway/jsonpath/spi/mapper/JsonOrgMappingProvider/mapToObject(java.lang.Object)@g_json-path-2.2.0.jar.txt	0

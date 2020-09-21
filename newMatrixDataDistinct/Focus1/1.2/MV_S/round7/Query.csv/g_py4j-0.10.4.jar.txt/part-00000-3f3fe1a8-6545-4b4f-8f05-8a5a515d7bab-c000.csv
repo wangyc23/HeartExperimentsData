@@ -1,0 +1,4 @@
+java/lang/Integer/byteValue()
+java/lang/Object/toString()
+java/lang/Long/parseLong(java.lang.String)
+java/lang/CharSequence/charAt(int)

@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owlapi/modularity/SyntacticLocalityModuleExtractor/extractLogicalAxioms(boolean[],java.util.Set,com.clarkparsia.owlapi.modularity.locality.LocalityClass,boolean)@g_owlapi-compatibility-4.5.0.jar.txt	2
+uk/ac/manchester/cs/owlapi/modularity/SyntacticLocalityModuleExtractor/extract(java.util.Set,int,int,org.semanticweb.owlapi.reasoner.OWLReasoner,boolean)@g_owlapi-compatibility-4.5.0.jar.txt	3
+com/clarkparsia/owlapi/explanation/io/ConciseExplanationRenderer/renderSingleExplanation(java.lang.String,java.util.Set)@g_owlapi-compatibility-4.5.0.jar.txt	0
+org/semanticweb/owlapi/debugging/BlackBoxOWLDebugger/getSOSForInconsistentClass(org.semanticweb.owlapi.model.OWLClassExpression)@g_owlapi-compatibility-4.5.0.jar.txt	4
+com/clarkparsia/owlapi/modularity/locality/SyntacticLocalityEvaluator/AxiomLocalityVisitor/visit(org.semanticweb.owlapi.model.OWLDisjointDataPropertiesAxiom)@g_owlapi-compatibility-4.5.0.jar.txt	1

@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/io/PushbackInputStream/read(byte[],int,int)
+java/lang/StringBuilder/StringBuilder()
+java/util/regex/Matcher/find()

@@ -1,0 +1,5 @@
+org/apache/http/impl/client/cache/RequestProtocolCompliance/remove100ContinueHeaderIfExists(org.apache.http.HttpRequest)@g_httpclient-cache-4.2.5.jar.txt	2
+org/apache/http/impl/client/cache/ConditionalRequestBuilder/buildConditionalRequestFromVariants(org.apache.http.HttpRequest,java.util.Map)@g_httpclient-cache-4.2.5.jar.txt	4
+org/apache/http/impl/client/cache/ResponseProtocolCompliance/warningsWithNonMatchingWarnDatesAreRemoved(org.apache.http.HttpResponse)@g_httpclient-cache-4.2.5.jar.txt	0
+org/apache/http/impl/client/cache/CacheInvalidator/flushInvalidatedCacheEntries(org.apache.http.HttpHost,org.apache.http.HttpRequest)@g_httpclient-cache-4.2.5.jar.txt	3
+org/apache/http/impl/client/cache/CacheKeyGenerator/getVariantKey(org.apache.http.HttpRequest,org.apache.http.client.cache.HttpCacheEntry)@g_httpclient-cache-4.2.5.jar.txt	1

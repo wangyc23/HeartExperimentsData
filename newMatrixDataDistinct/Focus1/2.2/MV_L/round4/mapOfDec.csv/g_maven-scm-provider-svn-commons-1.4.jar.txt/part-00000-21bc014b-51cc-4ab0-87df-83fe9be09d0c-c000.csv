@@ -1,0 +1,5 @@
+org/apache/maven/doxia/macro/toc/TocMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.1.2.jar.txt	3
+org/apache/maven/doxia/parser/AbstractXmlParser/parseXml(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-core-1.1.2.jar.txt	2
+org/apache/maven/doxia/macro/EchoMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.1.2.jar.txt	1
+org/apache/maven/doxia/macro/SwfMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.1.2.jar.txt	0
+org/apache/maven/doxia/macro/toc/TocMacro/writeSubSectionN(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.index.IndexEntry,int)@g_doxia-core-1.1.2.jar.txt	4

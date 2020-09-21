@@ -1,0 +1,4 @@
+org/apache/lucene/spatial3d/geom/SidedPlane/isWithin(org.apache.lucene.spatial3d.geom.Vector)
+java/lang/RuntimeException/RuntimeException(java.lang.String)
+java/lang/StringBuilder/append(double)
+java/lang/Math/sqrt(double)

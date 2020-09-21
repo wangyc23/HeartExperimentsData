@@ -1,0 +1,4 @@
+org/xwiki/rendering/block/XDOM/getChildren()
+org/xwiki/rendering/macro/MacroContentParser/parse(java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext,boolean,boolean)
+java/lang/StringBuilder/append(java.lang.String)
+org/xwiki/localization/Translation/render(java.util.Locale,java.lang.Object[])

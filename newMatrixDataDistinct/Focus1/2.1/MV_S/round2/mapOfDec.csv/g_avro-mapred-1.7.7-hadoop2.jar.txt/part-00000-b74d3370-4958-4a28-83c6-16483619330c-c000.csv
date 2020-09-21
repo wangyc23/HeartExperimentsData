@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/JobSubmitter/copyAndConfigureFiles(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path,short)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/mapreduce/split/SplitMetaInfoReader/readSplitMetaInfo(org.apache.hadoop.mapreduce.JobID,org.apache.hadoop.fs.FileSystem,org.apache.hadoop.conf.Configuration,org.apache.hadoop.fs.Path)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0
+org/apache/hadoop/mapreduce/lib/input/FileInputFormat/addInputPath(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3
+org/apache/hadoop/mapreduce/JobSubmitter/validateFilePath(java.lang.String,org.apache.hadoop.conf.Configuration)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapreduce/lib/output/MapFileOutputFormat/getRecordWriter(org.apache.hadoop.mapreduce.TaskAttemptContext)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2

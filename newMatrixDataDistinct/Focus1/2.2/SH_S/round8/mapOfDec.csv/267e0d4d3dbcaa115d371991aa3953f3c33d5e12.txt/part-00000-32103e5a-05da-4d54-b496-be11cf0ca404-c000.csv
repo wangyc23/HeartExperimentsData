@@ -1,0 +1,5 @@
+wikibooks/hadoop/chapter05/DelayCountMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	2
+a4example/BadRecordCount/main(java.lang.String[])@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	1
+wikibooks/hadoop/chapter10/WordCountTest/setUp()@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	3
+wikibooks/hadoop/chapter04/WordCount/main(java.lang.String[])@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	0
+wikibooks/hadoop/chapter10/WordCountTest/testMapReduceJob()@01940352653bf771513992ca8caca4c1ecbb1b0c.txt	4

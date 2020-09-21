@@ -1,0 +1,5 @@
+org/jboss/arquillian/container/impl/client/container/ContainerLifecycleController/stopContainer(org.jboss.arquillian.container.spi.event.StopContainer)@25d5552595a41b75817cd39de029b85e8eb3b638.txt	2
+org/jboss/arquillian/container/test/impl/client/deployment/AnnotationDeploymentScenarioGeneratorTestCase/shouldAllowNonPublicDeploymentMethods()@25d5552595a41b75817cd39de029b85e8eb3b638.txt	1
+org/jboss/arquillian/junit/container/JUnitTestRunnerTestCase/shouldReturnPassedTest()@25d5552595a41b75817cd39de029b85e8eb3b638.txt	0
+org/jboss/arquillian/core/impl/loadable/ServiceRegistryLoader/toClassString(java.util.Collection)@25d5552595a41b75817cd39de029b85e8eb3b638.txt	4
+org/jboss/arquillian/container/test/impl/client/container/ClientContainerController/isStarted(java.lang.String)@25d5552595a41b75817cd39de029b85e8eb3b638.txt	3

@@ -1,0 +1,5 @@
+org/obolibrary/oboformat/writer/OBOFormatWriter/writeIdSpace(org.obolibrary.oboformat.model.Clause,java.io.BufferedWriter)@g_owlapi-distribution-4.5.0.jar.txt	3
+org/semanticweb/owlapi/util/AutoIRIMapper/toString()@g_owlapi-distribution-4.5.0.jar.txt	0
+org/obolibrary/oboformat/writer/OBOFormatWriter/writeClauseWithQuotedString(org.obolibrary.oboformat.model.Clause,java.io.BufferedWriter)@g_owlapi-distribution-4.5.0.jar.txt	2
+org/obolibrary/oboformat/writer/OBOFormatWriter/appendXrefs(java.lang.StringBuilder,java.util.Collection)@g_owlapi-distribution-4.5.0.jar.txt	4
+org/obolibrary/oboformat/writer/OBOFormatWriter/writeSynonymtypedef(org.obolibrary.oboformat.model.Clause,java.io.BufferedWriter)@g_owlapi-distribution-4.5.0.jar.txt	1

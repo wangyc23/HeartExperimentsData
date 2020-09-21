@@ -1,0 +1,5 @@
+org/deeplearning4j/eval/ConfusionMatrix/toHTML()@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	0
+org/deeplearning4j/eval/ConfusionMatrix/toCSV()@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	3
+org/deeplearning4j/models/rntn/RNTNEval/stats()@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	4
+org/deeplearning4j/eval/Evaluation/stats()@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	1
+org/deeplearning4j/eval/ConfusionMatrix/getPredictedTotal(T)@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	2

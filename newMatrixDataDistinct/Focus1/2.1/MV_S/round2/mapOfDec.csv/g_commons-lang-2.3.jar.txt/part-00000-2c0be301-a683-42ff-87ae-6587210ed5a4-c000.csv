@@ -1,0 +1,5 @@
+org/apache/commons/lang3/ClassUtils/<clinit>()@g_commons-lang3-3.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/LocaleUtils/languagesByCountry(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	4
+org/apache/commons/lang3/reflect/TypeUtils/getTypeArguments(java.lang.reflect.ParameterizedType,java.lang.Class,java.util.Map)@g_commons-lang3-3.1.jar.txt	0
+org/apache/commons/lang3/ArrayUtils/toMap(java.lang.Object[])@g_commons-lang3-3.1.jar.txt	3
+org/apache/commons/lang3/concurrent/MultiBackgroundInitializer/initialize()@g_commons-lang3-3.1.jar.txt	1

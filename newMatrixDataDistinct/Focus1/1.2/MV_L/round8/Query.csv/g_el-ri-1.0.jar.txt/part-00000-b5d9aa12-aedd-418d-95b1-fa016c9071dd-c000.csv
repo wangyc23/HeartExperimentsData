@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/lang/reflect/Array/newInstance(java.lang.Class,int)
+java/lang/String/equals(java.lang.Object)
+java/lang/String/substring(int,int)

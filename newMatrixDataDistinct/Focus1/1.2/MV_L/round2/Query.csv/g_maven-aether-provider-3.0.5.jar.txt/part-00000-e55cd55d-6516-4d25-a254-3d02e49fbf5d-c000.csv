@@ -1,0 +1,4 @@
+org/sonatype/aether/resolution/VersionRangeResolutionException/VersionRangeResolutionException(org.sonatype.aether.resolution.VersionRangeResult)
+org/sonatype/aether/resolution/VersionRangeRequest/getArtifact()
+org/sonatype/aether/resolution/VersionRangeResult/addException(java.lang.Exception)
+org/sonatype/aether/artifact/Artifact/getVersion()

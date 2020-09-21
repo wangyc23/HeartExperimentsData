@@ -1,0 +1,5 @@
+org/sample/concurrency/wait_notify/ProducerConsumerExample/main(java.lang.String[])@190f14a918e377b89b636ace80065049be99727d.txt	4
+com/yahoo/ycsb/db/JdbcDBClient/delete(java.lang.String,java.lang.String)@190f14a918e377b89b636ace80065049be99727d.txt	2
+org/zghurskyi/patterns/behavioral/Decorator/printInfo(org.zghurskyi.patterns.behavioral.Decorator.Coffee)@190f14a918e377b89b636ace80065049be99727d.txt	3
+com/yahoo/ycsb/StringByteIterator/nextByte()@190f14a918e377b89b636ace80065049be99727d.txt	1
+org/sample/concurrency/wait_notify/ProducerConsumerExample/MailConsumer/run()@190f14a918e377b89b636ace80065049be99727d.txt	0

@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/eclipse/jetty/util/log/Logger/ignore(java.lang.Throwable)
+java/lang/String/valueOf(java.lang.Object)
+java/lang/Class/getMethod(java.lang.String,java.lang.Class[])

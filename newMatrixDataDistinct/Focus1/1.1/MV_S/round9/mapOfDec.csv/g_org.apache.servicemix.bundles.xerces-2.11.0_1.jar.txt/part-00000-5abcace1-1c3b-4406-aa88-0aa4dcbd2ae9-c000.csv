@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser/traverseSyntheticAnnotation(org.w3c.dom.Element,java.lang.String,java.lang.Object[],boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_xerces-impl-2.9.0.jar.txt	1
+org/apache/xerces/impl/xs/traversers/XSDHandler/traverseSchemas(java.util.ArrayList)@g_xerces-impl-2.9.0.jar.txt	0
+org/apache/xerces/dom/DocumentImpl/dispatchEvent(org.apache.xerces.dom.NodeImpl,org.w3c.dom.events.Event)@g_xerces-impl-2.9.0.jar.txt	2
+org/apache/xerces/impl/xs/traversers/XSDHandler/parseSchema(org.apache.xerces.xni.parser.XMLInputSource,org.apache.xerces.impl.xs.XSDDescription,java.util.Hashtable)@g_xerces-impl-2.9.0.jar.txt	3
+org/apache/xerces/impl/xpath/regex/Token/UnionToken/addChild(org.apache.xerces.impl.xpath.regex.Token)@g_xerces-impl-2.9.0.jar.txt	4

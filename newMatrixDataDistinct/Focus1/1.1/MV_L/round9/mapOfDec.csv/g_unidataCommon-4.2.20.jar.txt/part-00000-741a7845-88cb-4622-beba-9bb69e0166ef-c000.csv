@@ -1,0 +1,5 @@
+ucar/nc2/dataset/conv/Suomi/augmentDataset(ucar.nc2.dataset.NetcdfDataset,ucar.nc2.util.CancelTask)@g_netcdf-4.2-min.jar.txt	4
+ucar/nc2/dataset/conv/WRFConvention/makeTimeCoordAxis(ucar.nc2.dataset.NetcdfDataset,java.lang.String,ucar.nc2.Dimension)@g_netcdf-4.2-min.jar.txt	1
+ucar/unidata/util/StringUtil/parseIso8601(java.lang.String)@g_netcdf-4.2-min.jar.txt	2
+ucar/nc2/iosp/misc/Uspln/readAllData(ucar.unidata.io.RandomAccessFile)@g_netcdf-4.2-min.jar.txt	3
+ucar/nc2/iosp/hdf5/H5header/processSystemAttributes(java.util.List,java.util.List)@g_netcdf-4.2-min.jar.txt	0

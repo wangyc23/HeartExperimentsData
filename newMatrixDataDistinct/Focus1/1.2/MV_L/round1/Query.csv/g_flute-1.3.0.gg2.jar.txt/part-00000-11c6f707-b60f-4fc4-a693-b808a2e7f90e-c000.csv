@@ -1,0 +1,4 @@
+java/net/URL/openStream()
+java/lang/Class/getResource(java.lang.String)
+java/io/InputStream/close()
+java/lang/StringBuilder/StringBuilder()

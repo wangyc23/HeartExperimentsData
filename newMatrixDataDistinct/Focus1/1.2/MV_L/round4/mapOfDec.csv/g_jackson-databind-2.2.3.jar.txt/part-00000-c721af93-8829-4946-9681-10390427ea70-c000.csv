@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/deser/std/StdDeserializer/_parseInteger(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_jackson-databind-2.4.0.jar.txt	3
+com/fasterxml/jackson/databind/deser/std/StdDeserializer/_parseIntPrimitive(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_jackson-databind-2.3.2.jar.txt	4
+com/fasterxml/jackson/databind/deser/std/StdDeserializer/_parseInteger(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_jackson-databind-2.3.2.jar.txt	2
+com/fasterxml/jackson/databind/deser/std/NumberDeserializers/NumberDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_jackson-databind-2.4.0.jar.txt	1
+com/fasterxml/jackson/databind/deser/std/NumberDeserializers/NumberDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_jackson-databind-2.3.2.jar.txt	0

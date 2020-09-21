@@ -1,0 +1,5 @@
+org/springframework/jdbc/core/metadata/CallMetaDataContext/reconcileParameters(java.util.List)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	4
+org/springframework/jdbc/datasource/LazyConnectionDataSourceProxy/LazyConnectionInvocationHandler/getTargetConnection(java.lang.reflect.Method)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	1
+org/springframework/jdbc/core/simple/AbstractJdbcInsert/executeInsertAndReturnKeyHolderInternal(java.util.List)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	2
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/initializeWithMetaData(java.sql.DatabaseMetaData)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	0
+org/springframework/jdbc/core/StatementCreatorUtils/setParameterValueInternal(java.sql.PreparedStatement,int,int,java.lang.String,java.lang.Integer,java.lang.Object)@g_spring-jdbc-4.2.5.RELEASE.jar.txt	3

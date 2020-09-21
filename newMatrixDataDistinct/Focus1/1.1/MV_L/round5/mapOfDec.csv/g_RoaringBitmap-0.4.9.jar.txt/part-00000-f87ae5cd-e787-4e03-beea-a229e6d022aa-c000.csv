@@ -1,0 +1,5 @@
+org/roaringbitmap/RoaringArray/deserialize(java.io.DataInput)@g_RoaringBitmap-0.5.11.jar.txt	3
+morfologik/stemming/TrimPrefixAndSuffixEncoder/decode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_RoaringBitmap-0.5.11.jar.txt	4
+org/roaringbitmap/buffer/MappeableArrayContainer/negateRange(java.nio.ShortBuffer,int,int,int,int)@g_RoaringBitmap-0.5.11.jar.txt	0
+morfologik/stemming/TrimSuffixEncoder/encode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_RoaringBitmap-0.5.11.jar.txt	2
+morfologik/stemming/BufferUtils/bytesToChars(java.nio.charset.CharsetDecoder,java.nio.ByteBuffer,java.nio.CharBuffer)@g_RoaringBitmap-0.5.11.jar.txt	1

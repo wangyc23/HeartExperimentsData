@@ -1,0 +1,7 @@
+0	java/lang/StringBuilder/append(java.lang.String)
+1	cn/lcf/entity/User/setName(java.lang.String)
+2	com/mdeng/quiz/RevertInt/revert(int)
+3	java/lang/StringBuilder/StringBuilder()
+4	java/io/PrintStream/println(long)
+5	java/lang/StringBuilder/append(char)
+6	java/util/List/size()

@@ -1,0 +1,5 @@
+org/xwiki/properties/internal/DefaultBeanDescriptor/extractPropertyDescriptor(java.beans.PropertyDescriptor,java.lang.Object)@g_cli-parser-1.1.jar.txt	2
+com/sampullara/cli/Args/setProperty(java.lang.Class,java.beans.PropertyDescriptor,java.lang.Object,java.lang.Object,java.lang.String)@g_cli-parser-1.1.jar.txt	0
+com/sampullara/cli/Args/processField(java.lang.Object,java.lang.reflect.Field,java.util.List)@g_cli-parser-1.1.jar.txt	3
+com/sampullara/cli/Args/parse(java.lang.Object,java.lang.String[])@g_cli-parser-1.1.jar.txt	1
+com/sampullara/cli/Args/processProperty(java.lang.Object,java.beans.PropertyDescriptor,java.util.List)@g_cli-parser-1.1.jar.txt	4

@@ -1,0 +1,5 @@
+org/eclipse/jetty/util/Scanner/reportDifferences(java.util.Map,java.util.Map)@g_jetty-util-9.0.5.v20130815.jar.txt	2
+org/eclipse/jetty/util/PatternMatcher/match(java.util.regex.Pattern,java.net.URI[],boolean)@g_jetty-util-9.1.1.v20140108.jar.txt	1
+org/eclipse/jetty/util/MultiMap/getString(java.lang.String)@g_jetty-util-9.0.5.v20130815.jar.txt	4
+org/eclipse/jetty/util/Scanner/reportDifferences(java.util.Map,java.util.Map)@g_jetty-util-9.1.1.v20140108.jar.txt	3
+org/eclipse/jetty/util/PatternMatcher/match(java.util.regex.Pattern,java.net.URI[],boolean)@g_jetty-util-9.0.5.v20130815.jar.txt	0

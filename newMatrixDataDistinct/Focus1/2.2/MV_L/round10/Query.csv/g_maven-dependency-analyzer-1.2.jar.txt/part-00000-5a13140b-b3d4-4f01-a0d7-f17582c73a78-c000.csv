@@ -1,0 +1,4 @@
+java/lang/StringBuffer/length()
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/Object/getClass()
+java/lang/StringBuffer/append(java.lang.String)

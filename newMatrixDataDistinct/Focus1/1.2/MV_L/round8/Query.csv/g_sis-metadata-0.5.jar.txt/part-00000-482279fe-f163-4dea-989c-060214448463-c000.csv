@@ -1,0 +1,4 @@
+org/opengis/parameter/ParameterDescriptor/getUnit()
+org/opengis/parameter/ParameterDescriptor/getMaximumOccurs()
+org/apache/sis/internal/jdk7/Objects/equals(java.lang.Object,java.lang.Object)
+org/opengis/parameter/ParameterDescriptor/getMinimumValue()

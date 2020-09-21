@@ -1,0 +1,5 @@
+com/google/inject/assistedinject/FactoryProvider2/removeAssistedDeps(java.util.Set)@g_weld-environment-common-2.2.9.Final.jar.txt	0
+org/jboss/weld/environment/deployment/discovery/jandex/JandexClassFileServices/AnnotationClassAnnotationLoader/load(org.jboss.jandex.DotName)@g_weld-environment-common-2.2.9.Final.jar.txt	2
+com/google/inject/assistedinject/FactoryProvider2/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_weld-environment-common-2.2.9.Final.jar.txt	3
+com/google/inject/assistedinject/FactoryProvider2/constructorHasMatchingParams(com.google.inject.TypeLiteral,java.lang.reflect.Constructor,java.util.List,com.google.inject.internal.Errors)@g_weld-environment-common-2.2.9.Final.jar.txt	4
+org/jboss/weld/environment/deployment/discovery/DefaultBeanArchiveScanner/getBeanArchiveReference(java.net.URL)@g_weld-environment-common-2.2.9.Final.jar.txt	1

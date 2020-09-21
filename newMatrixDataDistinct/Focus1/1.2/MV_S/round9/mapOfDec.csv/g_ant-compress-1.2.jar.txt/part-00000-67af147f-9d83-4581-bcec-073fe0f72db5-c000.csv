@@ -1,0 +1,5 @@
+org/apache/ivy/osgi/core/BundleInfoAdapter/getConfigurations(org.apache.ivy.osgi.core.BundleInfo)@g_ivy-2.3.0.jar.txt	2
+org/apache/ant/compress/resources/ZipResource/getInputStream()@g_ivy-2.3.0.jar.txt	1
+org/apache/ant/compress/taskdefs/PackBase/pack()@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/osgi/obr/xml/OBRXMLWriter/writeManifests(java.util.Iterator,org.xml.sax.ContentHandler,boolean)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0

@@ -1,0 +1,4 @@
+org/apache/lucene/index/DocsEnum/nextDoc()
+org/apache/lucene/index/LeafReader/terms(java.lang.String)
+org/apache/lucene/index/DirectoryReader/open(org.apache.lucene.store.Directory)
+java/util/Iterator/hasNext()

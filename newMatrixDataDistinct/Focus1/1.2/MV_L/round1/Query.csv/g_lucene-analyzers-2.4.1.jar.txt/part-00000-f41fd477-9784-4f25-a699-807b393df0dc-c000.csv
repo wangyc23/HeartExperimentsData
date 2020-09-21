@@ -1,0 +1,4 @@
+org/apache/lucene/analysis/Token/termLength()
+java/util/Iterator/hasNext()
+org/apache/lucene/analysis/Token/resizeTermBuffer(int)
+java/lang/StringBuffer/length()

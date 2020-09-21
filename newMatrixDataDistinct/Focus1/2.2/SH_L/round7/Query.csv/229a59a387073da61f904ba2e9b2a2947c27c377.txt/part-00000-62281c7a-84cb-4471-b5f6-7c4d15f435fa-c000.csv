@@ -1,0 +1,4 @@
+org/hibernate/Criteria/list()
+javax/persistence/EntityManager/getDelegate()
+org/hibernate/Session/createCriteria(java.lang.Class)
+org/hibernate/criterion/Order/asc(java.lang.String)

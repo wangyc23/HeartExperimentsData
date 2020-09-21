@@ -1,0 +1,5 @@
+org/apache/jena/ontology/impl/OntResourceImpl/remove()@g_jena-core-3.5.0.jar.txt	2
+org/apache/jena/util/LocationMapper/initFromPath(java.lang.String,boolean)@g_jena-core-3.5.0.jar.txt	1
+org/apache/jena/reasoner/rulesys/impl/RETEEngine/addTriple(org.apache.jena.graph.Triple,boolean)@g_jena-core-3.5.0.jar.txt	0
+org/apache/jena/shared/LockMRSW/leaveCriticalSection()@g_jena-core-3.5.0.jar.txt	4
+org/apache/jena/util/FileManager/readModelWorker(org.apache.jena.rdf.model.Model,java.lang.String,java.lang.String,java.lang.String)@g_jena-core-3.5.0.jar.txt	3

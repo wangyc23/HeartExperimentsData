@@ -1,0 +1,4 @@
+org/springframework/aop/framework/ProxyFactory/addInterface(java.lang.Class)
+org/springframework/cglib/proxy/Enhancer/createClass()
+org/springframework/aop/framework/ProxyFactory/addAdvice(org.aopalliance.aop.Advice)
+org/springframework/cglib/proxy/Factory/setCallbacks(org.springframework.cglib.proxy.Callback[])

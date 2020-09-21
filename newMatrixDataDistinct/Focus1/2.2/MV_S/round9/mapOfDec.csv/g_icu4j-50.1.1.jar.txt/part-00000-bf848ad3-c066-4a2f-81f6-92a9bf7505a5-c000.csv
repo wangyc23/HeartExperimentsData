@@ -1,0 +1,5 @@
+org/apache/commons/text/ExtendedMessageFormat/appendQuotedString(java.lang.String,java.text.ParsePosition,java.lang.StringBuilder)@g_commons-text-1.1.jar.txt	3
+org/apache/commons/text/WordUtils/abbreviate(java.lang.String,int,int,java.lang.String)@g_commons-text-1.1.jar.txt	1
+org/apache/commons/text/AlphabetConverter/decode(java.lang.String)@g_commons-text-1.1.jar.txt	0
+org/apache/commons/text/ExtendedMessageFormat/applyPattern(java.lang.String)@g_commons-text-1.1.jar.txt	4
+org/apache/commons/text/translate/UnicodeUnescaper/translate(java.lang.CharSequence,int,java.io.Writer)@g_commons-text-1.1.jar.txt	2

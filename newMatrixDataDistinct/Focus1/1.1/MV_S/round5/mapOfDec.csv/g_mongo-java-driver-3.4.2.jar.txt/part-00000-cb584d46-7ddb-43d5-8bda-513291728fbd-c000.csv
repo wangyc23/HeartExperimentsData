@@ -1,0 +1,5 @@
+com/mongodb/TaggableReadPreference/selectFreshServers(com.mongodb.connection.ClusterDescription,java.util.List)@g_mongodb-driver-core-3.4.2.jar.txt	2
+org/bson/json/JsonWriter/doWriteDateTime(long)@g_bson-3.4.2.jar.txt	0
+org/bson/json/JsonReader/readBsonType()@g_bson-3.4.2.jar.txt	1
+com/mongodb/client/model/Sorts/CompoundSort/toBsonDocument(java.lang.Class,org.bson.codecs.configuration.CodecRegistry)@g_bson-3.4.2.jar.txt	3
+com/mongodb/ConnectionString/parseOptions(java.lang.String)@g_bson-3.4.2.jar.txt	4

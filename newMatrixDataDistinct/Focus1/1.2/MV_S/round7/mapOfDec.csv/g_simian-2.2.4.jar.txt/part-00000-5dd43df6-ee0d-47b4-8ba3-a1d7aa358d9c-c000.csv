@@ -1,0 +1,5 @@
+org/apache/tools/ant/Main/processArgs(java.lang.String[])@g_ant-1.6.5.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/generic/XmlTool/find(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/velocity/anakia/AnakiaTask/process(java.lang.String,org.jdom.Document)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/velocity/anakia/NodeList/toString()@g_attributes-processor-1.0.1.jar.txt	3
+org/apache/tools/ant/Diagnostics/doReportTasksAvailability(java.io.PrintStream)@g_ant-1.6.5.jar.txt	0

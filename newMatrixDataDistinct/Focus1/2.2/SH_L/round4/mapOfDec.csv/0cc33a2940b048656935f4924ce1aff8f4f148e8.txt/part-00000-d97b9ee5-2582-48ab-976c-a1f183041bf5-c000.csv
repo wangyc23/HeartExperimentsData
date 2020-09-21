@@ -1,0 +1,5 @@
+com/yahoo/ycsb/db/AccumuloClient/getTable(java.lang.String)@07f855760151be2597b3ec7d6236958c7e8599da.txt	2
+com/yahoo/ycsb/db/NoSqlDbClient/init()@07f855760151be2597b3ec7d6236958c7e8599da.txt	1
+com/yahoo/ycsb/workloads/ConstantOccupancyWorkload/init(java.util.Properties)@000d60bfcc882f5c3c0181d9bd574b9633933f85.txt	4
+com/yahoo/ycsb/workloads/ConstantOccupancyWorkload/init(java.util.Properties)@07f855760151be2597b3ec7d6236958c7e8599da.txt	0
+com/yahoo/ycsb/GoodBadUglyDB/init()@000d60bfcc882f5c3c0181d9bd574b9633933f85.txt	3

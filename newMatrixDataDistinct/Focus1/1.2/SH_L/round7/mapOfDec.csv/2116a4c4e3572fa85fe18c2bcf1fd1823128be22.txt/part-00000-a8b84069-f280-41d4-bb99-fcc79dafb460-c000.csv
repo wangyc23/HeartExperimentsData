@@ -1,0 +1,5 @@
+vaeke/restcountries/v1/rest/CountryService/fulltextSearch(java.lang.String)@08cd4f2e9d94caab08112bcc20898642532f0369.txt	4
+org/salarymaster/controller/StatController/getMap(java.lang.String)@08cd4f2e9d94caab08112bcc20898642532f0369.txt	3
+org/linkeddata/utils/QueryChunks/writeInsertQuery(org.linkeddata.utils.Model,java.lang.String)@08cd4f2e9d94caab08112bcc20898642532f0369.txt	1
+vaeke/restcountries/v1/CountryServiceTest/getByAlpha3()@08cd4f2e9d94caab08112bcc20898642532f0369.txt	0
+org/linkeddata/triplegeo/rest/TripleGeoService/getConfiguration(java.lang.String,org.linkeddata.triplegeo.rest.ServletContext)@08cd4f2e9d94caab08112bcc20898642532f0369.txt	2

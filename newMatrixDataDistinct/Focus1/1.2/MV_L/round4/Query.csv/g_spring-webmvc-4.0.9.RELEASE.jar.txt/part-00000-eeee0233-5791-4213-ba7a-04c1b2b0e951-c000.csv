@@ -1,0 +1,4 @@
+org/springframework/web/servlet/support/ServletUriComponentsBuilder/query(java.lang.String)
+javax/servlet/http/HttpServletRequest/getHeader(java.lang.String)
+javax/servlet/http/HttpServletRequest/getServerName()
+org/springframework/util/StringUtils/hasText(java.lang.String)

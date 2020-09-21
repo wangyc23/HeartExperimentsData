@@ -1,0 +1,5 @@
+org/springframework/test/context/junit38/AbstractJUnit38SpringContextTests/getTestMethod()@g_spring-test-3.2.8.RELEASE.jar.txt	0
+org/springframework/test/context/junit38/AbstractJUnit38SpringContextTests/getTestMethod()@g_spring-test-2.5.jar.txt	1
+org/springframework/test/annotation/AbstractAnnotationAwareTransactionalTests/getTestMethod()@g_spring-test-3.2.8.RELEASE.jar.txt	2
+org/springframework/test/annotation/AbstractAnnotationAwareTransactionalTests/getTestMethod()@g_spring-test-2.5.jar.txt	3
+org/springframework/test/jpa/AbstractJpaTests/runBare()@g_spring-test-3.2.8.RELEASE.jar.txt	4

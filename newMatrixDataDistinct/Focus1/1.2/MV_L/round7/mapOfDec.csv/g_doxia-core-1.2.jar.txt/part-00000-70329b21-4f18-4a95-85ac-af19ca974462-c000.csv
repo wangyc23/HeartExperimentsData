@@ -1,0 +1,5 @@
+org/apache/maven/doxia/parser/XhtmlBaseParser/baseEndTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-core-1.4.jar.txt	4
+org/apache/maven/doxia/macro/toc/TocMacro/execute(org.apache.maven.doxia.sink.Sink,org.apache.maven.doxia.macro.MacroRequest)@g_doxia-core-1.4.jar.txt	2
+org/apache/maven/doxia/parser/XhtmlBaseParser/baseStartTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-core-1.4.jar.txt	0
+org/apache/maven/doxia/sink/XhtmlBaseSink/writeStartTag(javax.swing.text.html.HTML$Tag,javax.swing.text.MutableAttributeSet,boolean)@g_doxia-core-1.4.jar.txt	3
+org/apache/maven/doxia/parser/XhtmlBaseParser/baseStartTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-core-1.5.jar.txt	1

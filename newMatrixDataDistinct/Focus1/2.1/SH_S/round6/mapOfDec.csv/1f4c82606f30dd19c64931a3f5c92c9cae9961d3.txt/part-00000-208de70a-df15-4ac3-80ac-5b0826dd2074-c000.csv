@@ -1,0 +1,5 @@
+com/example/restapp/DummyBeanTest/testGet()@2a594d2e4f5a3e337cd58623482f8abdad0f85da.txt	2
+ch/presentit/util/MockedObject/getPresentations()@2a594d2e4f5a3e337cd58623482f8abdad0f85da.txt	3
+ch/presentit/service/PresentationServiceImpl/findAll(int,int,org.springframework.data.domain.Sort)@2a594d2e4f5a3e337cd58623482f8abdad0f85da.txt	4
+ch/presentit/service/PresentationServiceImpl/update(ch.presentit.model.Presentation)@2a594d2e4f5a3e337cd58623482f8abdad0f85da.txt	1
+com/example/restapp/db/ConnectionManager/shutdown()@2a594d2e4f5a3e337cd58623482f8abdad0f85da.txt	0

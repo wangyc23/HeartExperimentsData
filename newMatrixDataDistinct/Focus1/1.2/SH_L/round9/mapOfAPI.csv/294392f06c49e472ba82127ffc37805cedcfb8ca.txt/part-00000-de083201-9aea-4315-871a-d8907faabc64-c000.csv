@@ -1,0 +1,6 @@
+0	redis/clients/jedis/Jedis/Jedis(java.lang.String)
+1	java/io/BufferedReader/close()
+2	com/guillaumecl/caskdays/Config/setJedis(redis.clients.jedis.Jedis)
+3	java/lang/String/startsWith(java.lang.String)
+4	java/io/InputStreamReader/InputStreamReader(java.io.InputStream,java.lang.String)
+5	java/lang/String/replace(java.lang.CharSequence,java.lang.CharSequence)

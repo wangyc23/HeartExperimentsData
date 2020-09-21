@@ -1,0 +1,5 @@
+org/bson/json/JsonWriter/doWriteRegularExpression(org.bson.BsonRegularExpression)@g_bson-3.4.2.jar.txt	1
+com/mongodb/gridfs/GridFSFile/validate()@g_mongo-java-driver-2.12.3.jar.txt	0
+org/bson/json/JsonReader/readBsonType()@g_bson-3.4.2.jar.txt	2
+org/bson/BasicBSONEncoder/_putObjectField(java.lang.String,java.lang.Object)@g_mongo-java-driver-2.12.3.jar.txt	4
+com/mongodb/tools/ConnectionPoolStat/main(java.lang.String[])@g_mongo-java-driver-2.12.3.jar.txt	3

@@ -1,0 +1,5 @@
+org/eclipse/xtext/util/formallang/StringCfg/toString()@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	1
+org/eclipse/xtext/util/formallang/NfaGraphFormatter/createNodes(org.eclipse.xtext.util.formallang.Nfa,java.lang.Object,java.util.Map,org.eclipse.xtext.util.Wrapper)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	0
+org/eclipse/xtext/util/Files/copyFiles(java.lang.String,java.lang.String,java.util.List)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	2
+org/eclipse/xtext/util/GraphvizDotBuilder/Props/toString()@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	4
+org/eclipse/xtext/util/GraphvizDotBuilder/id(java.lang.Object)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	3

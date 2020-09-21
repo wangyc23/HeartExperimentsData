@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/lang/reflect/InvocationTargetException/getTargetException()
+java/lang/Object/getClass()
+java/lang/reflect/Method/invoke(java.lang.Object,java.lang.Object[])

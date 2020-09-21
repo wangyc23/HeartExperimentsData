@@ -1,0 +1,5 @@
+com/amazonaws/services/dynamodb/datamodeling/DynamoDBMapper/batchWrite(java.util.List,java.util.List,com.amazonaws.services.dynamodb.datamodeling.DynamoDBMapperConfig)@g_aws-java-sdk-sts-1.9.3.jar.txt	4
+com/amazonaws/services/ec2/model/transform/InstanceAttributeStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-sts-1.9.3.jar.txt	0
+com/amazonaws/services/ec2/model/transform/GetPasswordDataResultStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-sts-1.9.3.jar.txt	1
+com/amazonaws/services/ec2/model/transform/ProductCodeStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-sts-1.9.3.jar.txt	3
+com/amazonaws/services/identitymanagement/model/transform/ListAccessKeysResultStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-sts-1.9.3.jar.txt	2

@@ -1,0 +1,5 @@
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/resolveRevisionsInBatch(java.util.Collection,boolean,org.eclipse.osgi.container.ModuleResolver$ResolveProcess$ResolveLogger,java.util.Map)@g_org.eclipse.osgi-3.12.50.jar.txt	3
+org/eclipse/osgi/container/ModuleContainer/unresolve0(java.util.Collection)@g_org.eclipse.osgi-3.12.50.jar.txt	4
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/filterFailedToResolve(java.util.List)@g_org.eclipse.osgi-3.12.50.jar.txt	2
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/computeUnresolvedProviderResolutionReportEntries(java.util.Map)@g_org.eclipse.osgi-3.12.50.jar.txt	1
+org/apache/felix/resolver/Candidates/processCandidates(java.util.LinkedList,org.osgi.resource.Requirement,java.util.List)@g_org.eclipse.osgi-3.12.50.jar.txt	0

@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/treebank/DistributionPackage/make(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/io/IOUtils/cp(java.io.File,java.io.File,boolean)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/trees/international/french/FrenchXMLTreeReader/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/trees/MemoryTreebank/processFile(java.io.File)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/lexparser/ParseFiles/parseFiles(java.lang.String[],int,boolean,edu.stanford.nlp.process.TokenizerFactory,java.lang.String,java.lang.String,java.util.function.Function,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	0

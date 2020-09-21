@@ -1,0 +1,5 @@
+org/neo4j/helpers/progress/ProgressMonitorTest/shouldPrintADotEveryHalfPercentAndFullPercentageEveryTenPercentEvenWhenStepResolutionIsLower()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	2
+org/neo4j/kernel/impl/transaction/TransactionMetadataCacheTest/shouldThrowWhenCachingATxWithNegativeOffsetPosition()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	0
+org/neo4j/kernel/impl/transaction/PhysicalLogFilesTest/shouldThrowIfThereIsNoVersionInTheFileName()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	1
+org/neo4j/kernel/impl/api/integrationtest/PropertyIT/shouldNotAllowModifyingPropertiesOnDeletedRelationship()@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	3
+org/neo4j/kernel/impl/locking/LockWorkFailureDump/dumpState(org.neo4j.kernel.impl.locking.Locks,org.neo4j.kernel.impl.locking.LockWorker[])@g_neo4j-kernel-2.3.0-M01-tests.jar.txt	4

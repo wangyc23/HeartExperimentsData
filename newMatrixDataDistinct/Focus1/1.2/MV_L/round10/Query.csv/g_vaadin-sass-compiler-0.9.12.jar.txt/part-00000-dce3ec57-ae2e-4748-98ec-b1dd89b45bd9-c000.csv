@@ -1,0 +1,4 @@
+java/io/InputStream/read(byte[],int,int)
+org/w3c/css/sac/InputSource/getEncoding()
+org/w3c/css/sac/InputSource/setEncoding(java.lang.String)
+java/io/InputStream/reset()

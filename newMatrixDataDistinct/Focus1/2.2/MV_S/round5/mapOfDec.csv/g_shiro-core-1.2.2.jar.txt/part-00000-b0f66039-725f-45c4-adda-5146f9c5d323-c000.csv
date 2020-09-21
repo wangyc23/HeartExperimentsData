@@ -1,0 +1,5 @@
+org/thymeleaf/util/DartUtils/printArray(java.lang.StringBuilder,java.lang.Object)@g_thymeleaf-2.1.5.RELEASE.jar.txt	2
+org/thymeleaf/standard/processor/text/StandardTextInliningTextProcessor/processTextNode(org.thymeleaf.Arguments,org.thymeleaf.dom.AbstractTextNode)@g_thymeleaf-2.1.5.RELEASE.jar.txt	4
+org/thymeleaf/standard/expression/OgnlVariableExpressionEvaluator/applyOgnlBooleanFix()@g_thymeleaf-2.1.5.RELEASE.jar.txt	0
+org/thymeleaf/standard/expression/LinkExpression/executeLink(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,org.thymeleaf.standard.expression.LinkExpression,org.thymeleaf.standard.expression.StandardExpressionExecutionContext)@g_thymeleaf-2.1.5.RELEASE.jar.txt	3
+org/thymeleaf/util/DateUtils/normalizeDate(java.lang.Object)@g_thymeleaf-2.1.5.RELEASE.jar.txt	1

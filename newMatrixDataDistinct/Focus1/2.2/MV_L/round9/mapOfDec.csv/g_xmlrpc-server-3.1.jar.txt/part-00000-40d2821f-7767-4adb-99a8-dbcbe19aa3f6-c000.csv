@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/xml/XmlReader/doLenientDetection(java.lang.String,org.codehaus.plexus.util.xml.XmlStreamReaderException)@g_plexus-utils-1.5.12.jar.txt	4
+hidden/org/codehaus/plexus/interpolation/RegexBasedInterpolator/interpolate(java.lang.String,hidden.org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.regex.Pattern,int)@g_plexus-utils-1.5.12.jar.txt	2
+org/apache/xmlrpc/client/XmlRpcLiteHttpTransport/getInputStream()@g_xmlrpc-client-3.1.jar.txt	0
+org/codehaus/plexus/util/FileUtils/catPath(java.lang.String,java.lang.String)@g_plexus-utils-1.5.12.jar.txt	3
+hidden/org/codehaus/plexus/interpolation/StringSearchInterpolator/interpolate(java.lang.String,hidden.org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-utils-1.5.12.jar.txt	1

@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/Long/valueOf(long)
+org/apache/pdfbox/pdfparser/COSParser/isSpace()
+java/util/HashMap/HashMap()

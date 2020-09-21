@@ -1,0 +1,4 @@
+java/lang/Class/getSimpleName()
+com/google/inject/name/Named/value()
+javax/inject/Named/value()
+java/lang/String/startsWith(java.lang.String)

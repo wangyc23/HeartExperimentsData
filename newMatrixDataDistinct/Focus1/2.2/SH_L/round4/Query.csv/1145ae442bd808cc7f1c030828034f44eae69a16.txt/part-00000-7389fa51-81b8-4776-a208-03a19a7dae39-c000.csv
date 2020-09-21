@@ -1,0 +1,4 @@
+es/uvigo/ei/sing/pandrugs/persistence/entity/UserDataset/presentUser()
+es/uvigo/ei/sing/pandrugs/service/UserService/delete(es.uvigo.ei.sing.pandrugs.service.entity.UserLogin)
+es/uvigo/ei/sing/pandrugs/persistence/entity/User/getLogin()
+es/uvigo/ei/sing/pandrugs/service/entity/UserLogin/UserLogin(java.lang.String)

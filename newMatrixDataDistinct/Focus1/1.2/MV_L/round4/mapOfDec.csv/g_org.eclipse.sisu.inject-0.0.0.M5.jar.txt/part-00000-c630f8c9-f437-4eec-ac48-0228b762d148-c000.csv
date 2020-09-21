@@ -1,0 +1,5 @@
+org/eclipse/sisu/containers/Main/selectScanning(java.util.Map)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	3
+org/sonatype/guice/bean/scanners/index/SisuIndexFinder/findClasses(org.sonatype.guice.bean.reflect.ClassSpace)@g_sisu-inject-bean-2.3.0.jar.txt	4
+org/eclipse/sisu/binders/QualifiedTypeBinder/getBindingName(java.lang.Class)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	2
+org/eclipse/sisu/scanners/index/SisuIndexFinder/findClasses(org.eclipse.sisu.reflect.ClassSpace)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	1
+org/eclipse/sisu/reflect/Logs/identityToString(java.lang.Object)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	0

@@ -1,0 +1,5 @@
+demo/spring/servlet/Server/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+demo/jaxrs/server/Server/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+demo/spring/service/Server/main(java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+demo/hw_https/client/ClientNonSpring/getTrustManagers(java.security.KeyStore)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2

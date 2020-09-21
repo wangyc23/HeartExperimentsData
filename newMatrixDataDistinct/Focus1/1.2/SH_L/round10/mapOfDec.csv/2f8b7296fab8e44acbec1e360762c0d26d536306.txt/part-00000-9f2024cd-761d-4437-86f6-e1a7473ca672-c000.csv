@@ -1,0 +1,5 @@
+org/springside/examples/quickstart/QuickStartServer/main(java.lang.String[])@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	0
+pl/pwr/news/provider/wykop/WykopAPIImpl/generateApiSign(java.lang.String,java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2
+pl/pwr/news/service/mail/MailServiceImpl/sendSimpleMessage()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	4
+pl/pwr/news/webapp/controller/user/UserApi/addFavourite(java.lang.Long,java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+pl/pwr/news/provider/ArticlesProvider/update()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1

@@ -1,0 +1,5 @@
+org/openhab/binding/keba/handler/KeContactP20Handler/establishConnection()@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	1
+org/openhab/binding/max/internal/discovery/MaxCubeBridgeDiscovery/receiveDiscoveryMessage()@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	3
+org/openhab/core/transform/actions/Transformation/transform(java.lang.String,java.lang.String,java.lang.String)@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	2
+org/openhab/io/myopenhab/internal/MyOpenHABClient/ResponseListener/onContent(org.openhab.io.myopenhab.internal.Response,java.nio.ByteBuffer)@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	4
+org/openhab/io/myopenhab/internal/MyOpenHABClient/handleRequestEvent(org.json.JSONObject)@0be8ac79d23a017b66209269a719a8bdc50a8c79.txt	0

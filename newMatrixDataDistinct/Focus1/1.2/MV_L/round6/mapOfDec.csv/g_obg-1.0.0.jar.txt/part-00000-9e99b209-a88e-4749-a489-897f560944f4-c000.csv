@@ -1,0 +1,5 @@
+gate/creole/gazetteer/FlexibleGazetteer/execute()@g_gate-core-8.1.jar.txt	3
+gate/creole/coref/PronominalCoref/preprocess()@g_gate-core-8.1.jar.txt	0
+gate/creole/annic/lucene/LuceneSearcher/getIndexedAnnotationSetNames()@g_gate-core-8.1.jar.txt	4
+gate/creole/orthomatcher/OrthoMatcherHelper/setMatchesPositions(gate.AnnotationSet)@g_gate-core-8.1.jar.txt	2
+gate/creole/morph/Interpret/ruleDeclarationCommand(java.lang.String)@g_gate-core-8.1.jar.txt	1

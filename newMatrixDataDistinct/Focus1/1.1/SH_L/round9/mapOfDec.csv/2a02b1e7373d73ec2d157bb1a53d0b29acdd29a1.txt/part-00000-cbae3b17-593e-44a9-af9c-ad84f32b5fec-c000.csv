@@ -1,0 +1,5 @@
+org/dcm4che3/tool/dcmqrscp/DcmQRSCP/calculateStorageCommitmentResult(java.lang.String,org.dcm4che3.data.Attributes)@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	0
+org/dcm4che3/net/Device/setApplicationEntitiesMap(java.util.Map)@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	4
+org/dcm4che3/conf/dicom/ldap/LdapNode/populate(java.util.Map,java.lang.Class)@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	2
+org/dcm4che3/tool/getscu/test/RetrieveTool/configureServiceClass(org.dcm4che3.tool.getscu.GetSCU)@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	3
+org/dcm4che3/conf/dicom/CommonDicomConfiguration/findApplicationEntityByUUID(java.lang.String)@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	1

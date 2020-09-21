@@ -1,0 +1,4 @@
+net/java/truevfs/access/TPath/TPath(java.net.URI)
+java/net/URI/URI(java.lang.String)
+java/nio/file/Path/toString()
+java/lang/String/format(java.lang.String,java.lang.Object[])

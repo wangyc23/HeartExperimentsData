@@ -1,0 +1,4 @@
+org/apache/commons/httpclient/methods/GetMethod/GetMethod(java.lang.String)
+org/openrdf/repository/RepositoryException/RepositoryException(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/httpclient/HttpMethod/getResponseBodyAsString()

@@ -1,0 +1,4 @@
+org/sonatype/spice/zapper/internal/protobuf/protos/ZapperProtos$SegmentsMessage/getUnknownFields()
+org/sonatype/spice/zapper/internal/protobuf/protos/ZapperProtos$SegmentsMessage/getTransferIdBytes()
+com/google/protobuf/CodedOutputStream/writeBytes(int,com.google.protobuf.ByteString)
+com/google/protobuf/UnknownFieldSet/writeTo(com.google.protobuf.CodedOutputStream)

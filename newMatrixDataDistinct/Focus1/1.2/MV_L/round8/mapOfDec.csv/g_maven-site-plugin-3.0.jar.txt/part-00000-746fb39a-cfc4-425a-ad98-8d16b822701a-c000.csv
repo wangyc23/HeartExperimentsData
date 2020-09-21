@@ -1,0 +1,5 @@
+org/apache/maven/plugins/site/AbstractSiteRenderingMojo/createSiteRenderingContext(java.util.Locale)@g_maven-site-plugin-3.3.jar.txt	2
+org/apache/maven/plugins/site/AbstractDeployMojo/configureWagon(org.apache.maven.wagon.Wagon,java.lang.String,org.apache.maven.settings.Settings,org.codehaus.plexus.PlexusContainer,org.apache.maven.plugin.logging.Log)@g_maven-site-plugin-3.3.jar.txt	4
+org/apache/maven/plugins/site/render/AbstractSiteRenderingMojo/getReports()@g_maven-site-plugin-3.4.jar.txt	1
+org/apache/maven/plugins/site/AbstractSiteRenderingMojo/getReports()@g_maven-site-plugin-3.3.jar.txt	0
+org/apache/maven/plugins/site/AbstractSiteRenderingMojo/categoriseReports(java.util.Collection)@g_maven-site-plugin-3.3.jar.txt	3

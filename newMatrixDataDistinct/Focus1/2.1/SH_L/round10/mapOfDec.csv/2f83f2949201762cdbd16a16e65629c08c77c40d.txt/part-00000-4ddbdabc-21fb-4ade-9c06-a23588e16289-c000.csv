@@ -1,0 +1,5 @@
+org/apache/deltaspike/data/impl/builder/AnnotatedQueryBuilder/execute(org.apache.deltaspike.data.impl.handler.CdiQueryInvocationContext)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	3
+org/apache/deltaspike/data/impl/meta/RepositoryMethod/requiresTransaction()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	1
+org/jboss/solder/servlet/exception/handler/ExceptionResponseServiceHandler/processException(org.jboss.solder.exception.control.InvocationContext)@068d3b9e255c84cd63aec163e012653dd30ed149.txt	0
+org/apache/deltaspike/data/impl/meta/RepositoryMethod/extractMapper(java.lang.reflect.Method,org.apache.deltaspike.data.impl.meta.RepositoryComponent)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	4
+org/apache/deltaspike/data/impl/meta/RepositoryMethod/isAnnotated()@28e0d9934d78139bb73f3fa156085436e0241af9.txt	2

@@ -1,0 +1,5 @@
+org/apache/hadoop/metrics2/impl/MetricsSinkAdapter/publishMetricsFromQueue()@g_hadoop-common-2.6.0.jar.txt	1
+org/apache/hadoop/security/token/delegation/AbstractDelegationTokenSecretManager/renewToken(org.apache.hadoop.security.token.Token,java.lang.String)@g_hadoop-common-2.6.0.jar.txt	3
+org/apache/fop/fonts/apps/AbstractFontReader/writeFontXML(org.w3c.dom.Document,java.io.File)@g_fop-2.0.jar.txt	0
+org/apache/hadoop/http/HttpServer2/addFilter(java.lang.String,java.lang.String,java.util.Map)@g_hadoop-common-2.6.0.jar.txt	4
+org/apache/hadoop/http/HttpServer/addFilter(java.lang.String,java.lang.String,java.util.Map)@g_hadoop-common-2.6.0.jar.txt	2

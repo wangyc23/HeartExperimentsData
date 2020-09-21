@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/lucene70/Lucene70SegmentInfoFormat/write(org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentInfo,org.apache.lucene.store.IOContext)@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/codecs/perfield/PerFieldPostingsFormat/FieldsWriter/buildFieldsGroupMapping(org.apache.lucene.index.Fields)@g_lucene-core-7.0.0.jar.txt	0
+org/apache/lucene/util/bkd/HeapPointWriter/copyFrom(org.apache.lucene.util.bkd.HeapPointWriter)@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/codecs/lucene60/Lucene60PointsWriter/finish()@g_lucene-core-7.0.0.jar.txt	2
+org/apache/lucene/index/SegmentInfos/write(org.apache.lucene.store.Directory,org.apache.lucene.store.IndexOutput)@g_lucene-core-7.0.0.jar.txt	1

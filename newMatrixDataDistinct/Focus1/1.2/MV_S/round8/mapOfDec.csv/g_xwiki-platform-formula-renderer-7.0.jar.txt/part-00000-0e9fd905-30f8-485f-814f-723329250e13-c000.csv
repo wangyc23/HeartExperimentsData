@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/encryption/StandardSecurityHandler/computeEncryptedKey(byte[],byte[],int,byte[],int,int,boolean)@g_pdfbox-1.7.0.jar.txt	1
+org/apache/pdfbox/pdmodel/encryption/StandardSecurityHandler/computeUserPassword(byte[],byte[],int,byte[],int,int,boolean)@g_pdfbox-1.7.0.jar.txt	3
+org/apache/pdfbox/encryption/PDFEncryption/computeEncryptedKey(byte[],byte[],int,byte[],int,int)@g_pdfbox-1.7.0.jar.txt	2
+org/apache/pdfbox/pdfparser/NonSequentialPDFParser/getStartxrefOffset()@g_pdfbox-1.7.0.jar.txt	4
+org/apache/pdfbox/encryption/PDFEncryption/computeUserPassword(byte[],byte[],int,byte[],int,int)@g_pdfbox-1.7.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/reflect/FieldUtils/getField(java.lang.Class,java.lang.String,boolean)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_maven-verifier-1.2.jar.txt	4
+org/carrot2/util/preprocessor/shaded/qdox/qdox/JavaDocBuilder/createBinaryClass(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/enums/Enum/init(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/enum/Enum/init(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	0

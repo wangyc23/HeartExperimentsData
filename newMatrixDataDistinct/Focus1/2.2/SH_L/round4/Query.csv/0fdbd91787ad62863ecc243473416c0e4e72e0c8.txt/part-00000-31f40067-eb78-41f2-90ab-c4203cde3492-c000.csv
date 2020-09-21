@@ -1,0 +1,4 @@
+org/jboss/weld/injection/ConstructorInjectionPoint/of(javax.enterprise.inject.spi.Bean,org.jboss.weld.introspector.WeldConstructor)
+com/softwaremill/common/cdi/autofactory/extension/CreatedTypeData/getCreatedTypeInjectionTarget()
+org/jboss/weld/Container/instance()
+org/jboss/weld/bootstrap/api/ServiceRegistry/get(java.lang.Class)

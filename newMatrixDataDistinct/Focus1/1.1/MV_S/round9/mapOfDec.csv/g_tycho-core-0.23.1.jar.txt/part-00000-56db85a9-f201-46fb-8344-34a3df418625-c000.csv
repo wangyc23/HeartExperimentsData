@@ -1,0 +1,5 @@
+org/eclipse/tycho/surefire/TestMojo/getToolchain()@g_tycho-surefire-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/packaging/ProductExportMojo/generateOSGiBundles(java.util.Properties,org.eclipse.tycho.core.shared.TargetEnvironment)@g_tycho-packaging-plugin-0.23.1.jar.txt	0
+org/eclipse/tycho/core/resolver/DefaultTychoResolver/setupProject(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,org.eclipse.tycho.ReactorProject)@g_tycho-surefire-plugin-0.23.1.jar.txt	3
+org/eclipse/tycho/packaging/PackagePluginMojo/createPluginJar()@g_tycho-surefire-plugin-0.23.1.jar.txt	4
+org/eclipse/tycho/packaging/ProductExportMojo/generateConfigIni(org.eclipse.tycho.core.shared.TargetEnvironment,java.io.File)@g_tycho-surefire-plugin-0.23.1.jar.txt	1

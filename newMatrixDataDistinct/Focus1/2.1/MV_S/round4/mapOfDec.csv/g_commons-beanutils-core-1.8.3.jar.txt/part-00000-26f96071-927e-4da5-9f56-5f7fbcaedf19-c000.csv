@@ -1,0 +1,5 @@
+org/apache/commons/beanutils/MethodUtils/getAccessibleMethod(java.lang.Class,java.lang.reflect.Method)@g_commons-beanutils-1.9.2.jar.txt	3
+org/apache/commons/beanutils/LazyDynaList/setElementDynaClass(org.apache.commons.beanutils.DynaClass)@g_commons-beanutils-1.9.2.jar.txt	0
+org/apache/commons/beanutils/LazyDynaBean/createOtherProperty(java.lang.String,java.lang.Class)@g_commons-beanutils-1.9.2.jar.txt	2
+org/apache/commons/beanutils/LazyDynaBean/createMappedProperty(java.lang.String,java.lang.Class)@g_commons-beanutils-1.9.2.jar.txt	4
+org/apache/commons/beanutils/LazyDynaList/toArray(java.lang.Object[])@g_commons-beanutils-1.9.2.jar.txt	1

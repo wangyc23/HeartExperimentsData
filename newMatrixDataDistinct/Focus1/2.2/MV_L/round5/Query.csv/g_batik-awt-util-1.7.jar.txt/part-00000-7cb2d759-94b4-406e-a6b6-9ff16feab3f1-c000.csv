@@ -1,0 +1,4 @@
+java/awt/color/ColorSpace/getNumComponents()
+java/awt/image/RenderedImage/copyData(java.awt.image.WritableRaster)
+java/awt/Graphics2D/dispose()
+java/awt/image/WritableRaster/getWidth()

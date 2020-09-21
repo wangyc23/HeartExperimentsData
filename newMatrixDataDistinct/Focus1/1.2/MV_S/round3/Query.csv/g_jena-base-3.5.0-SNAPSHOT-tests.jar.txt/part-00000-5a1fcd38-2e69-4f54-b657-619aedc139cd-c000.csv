@@ -1,0 +1,4 @@
+org/apache/jena/atlas/io/IndentedLineBuffer/printf(java.lang.String,java.lang.Object[])
+java/lang/Throwable/addSuppressed(java.lang.Throwable)
+org/apache/jena/atlas/io/IndentedLineBuffer/print(java.lang.String)
+org/apache/jena/atlas/io/IndentedLineBuffer/incIndent()

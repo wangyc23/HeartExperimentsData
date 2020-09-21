@@ -1,0 +1,7 @@
+0	org/dayatang/persistence/jpa/EntityRepositoryJpa/getEntityManager()
+1	org/dayatang/datasource4saas/dscreator/DbInfo/getDbname()
+2	org/dayatang/domain/SqlQuery/getSql()
+3	org/dayatang/datasource4saas/dscreator/TenantDbMappingStrategy/process(org.dayatang.datasource4saas.dscreator.DbInfo,java.lang.String,org.dayatang.configuration.Configuration)
+4	net/spinetrak/gasguzzler/security/Authenticator/generateJWTToken(java.lang.String)
+5	org/dayatang/persistence/jpa/EntityRepositoryJpa/processQuery(org.dayatang.persistence.jpa.Query,org.dayatang.domain.BaseQuery)
+6	org/dayatang/domain/SqlQuery/getResultEntityClass()

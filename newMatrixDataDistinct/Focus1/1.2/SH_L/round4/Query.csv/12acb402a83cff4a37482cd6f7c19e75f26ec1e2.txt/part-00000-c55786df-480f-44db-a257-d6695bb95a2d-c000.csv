@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+org/atmosphere/di/InjectorProvider/getInjector()
+org/atmosphere/cpr/AtmosphereFramework/addMapping(java.lang.String,org.atmosphere.cpr.AtmosphereFramework.AtmosphereHandlerWrapper)
+org/atmosphere/di/Injector/inject(java.lang.Object)

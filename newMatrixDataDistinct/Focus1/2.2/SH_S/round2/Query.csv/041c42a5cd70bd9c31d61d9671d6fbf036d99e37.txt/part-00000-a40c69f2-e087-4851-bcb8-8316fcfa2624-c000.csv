@@ -1,0 +1,4 @@
+coin/Coin/Coin(coin.conf.CoinConfiguration)
+coin/Coin/start()
+coin/conf/CoinConfiguration/loadConf(java.lang.String,java.lang.String)
+java/lang/System/exit(int)

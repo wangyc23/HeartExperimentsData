@@ -1,0 +1,4 @@
+java/util/Vector/copyInto(java.lang.Object[])
+java/util/Vector/size()
+java/util/Vector/addElement(java.lang.Object)
+java/lang/StringBuffer/append(java.lang.String)

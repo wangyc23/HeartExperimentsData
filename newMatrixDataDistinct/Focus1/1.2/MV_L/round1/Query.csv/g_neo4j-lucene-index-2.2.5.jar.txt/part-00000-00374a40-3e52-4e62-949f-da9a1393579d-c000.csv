@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/util/Iterator/hasNext()
+org/apache/lucene/document/Document/removeFields(java.lang.String)
+org/neo4j/index/impl/lucene/IndexType$1/addToDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)

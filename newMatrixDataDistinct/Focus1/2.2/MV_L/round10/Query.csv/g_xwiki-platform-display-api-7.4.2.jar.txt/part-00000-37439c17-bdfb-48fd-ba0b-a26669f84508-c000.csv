@@ -1,0 +1,4 @@
+org/xwiki/bridge/DocumentModelBridge/getSyntax()
+org/xwiki/display/internal/DocumentDisplayer/display(java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/StringBuilder()
+org/slf4j/Logger/error(java.lang.String,java.lang.Throwable)

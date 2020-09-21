@@ -1,0 +1,5 @@
+org/apache/zookeeper/server/NettyServerCnxn/checkFourLetterWord(org.jboss.netty.channel.Channel,org.jboss.netty.buffer.ChannelBuffer,int)@g_ehcache-core-1.7.2.jar.txt	4
+org/drools/persistence/jpa/marshaller/JPAPlaceholderResolverStrategy/getClassIdValue(java.lang.Object)@g_ehcache-core-1.7.2.jar.txt	2
+org/apache/zookeeper/MultiResponse/serialize(org.apache.jute.OutputArchive,java.lang.String)@g_ehcache-core-1.7.2.jar.txt	1
+net/sf/ehcache/distribution/RMIBootstrapCacheLoader/doLoad(net.sf.ehcache.Ehcache)@g_ehcache-core-1.7.2.jar.txt	3
+org/apache/zookeeper/ZooKeeper/getClientCnxnSocket()@g_ehcache-core-1.7.2.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/InstallPluginsMojo/install(org.apache.maven.artifact.Artifact,org.apache.maven.project.MavenProject)@g_maven-eclipse-plugin-2.9.jar.txt	3
+org/apache/maven/plugin/war/packaging/ClassesPackagingTask/generateJarArchive(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.2.jar.txt	2
+org/apache/maven/plugin/war/util/WarUtils/isRelated(org.apache.maven.artifact.Artifact,org.apache.maven.model.Dependency)@g_maven-war-plugin-2.2.jar.txt	1
+org/apache/maven/plugin/ide/AbstractIdeSupportMojo/doDependencyResolution()@g_maven-eclipse-plugin-2.9.jar.txt	4
+org/apache/maven/plugin/war/util/WarUtils/getArtifact(org.apache.maven.project.MavenProject,org.apache.maven.model.Dependency)@g_maven-war-plugin-2.2.jar.txt	0

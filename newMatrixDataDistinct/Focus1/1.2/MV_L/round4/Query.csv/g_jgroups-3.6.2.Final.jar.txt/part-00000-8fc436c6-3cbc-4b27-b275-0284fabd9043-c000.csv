@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/List/isEmpty()
+java/util/concurrent/ConcurrentMap/entrySet()
+java/util/Iterator/next()

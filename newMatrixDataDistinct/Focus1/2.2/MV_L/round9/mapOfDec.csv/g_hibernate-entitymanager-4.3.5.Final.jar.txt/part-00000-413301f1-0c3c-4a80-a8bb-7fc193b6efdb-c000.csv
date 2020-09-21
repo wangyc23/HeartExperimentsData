@@ -1,0 +1,5 @@
+org/hibernate/jpa/boot/internal/EntityManagerFactoryBuilderImpl/buildDeploymentResources(org.hibernate.jpa.boot.scan.spi.ScanResult,org.hibernate.boot.registry.BootstrapServiceRegistry)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	2
+org/hibernate/jpa/internal/EntityManagerFactoryImpl/applyNamedEntityGraphs(java.util.Collection)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	3
+org/hibernate/jpa/spi/BaseQueryImpl/findParameterRegistration(int)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	4
+org/hibernate/jpa/internal/EntityManagerFactoryRegistry/getNamedEntityManagerFactory(java.lang.String)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	1
+org/hibernate/jpa/criteria/QueryStructure/renderFromClause(java.lang.StringBuilder,org.hibernate.jpa.criteria.compile.RenderingContext)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	0

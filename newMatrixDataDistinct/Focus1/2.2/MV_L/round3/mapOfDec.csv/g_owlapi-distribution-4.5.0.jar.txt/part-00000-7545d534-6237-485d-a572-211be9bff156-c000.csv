@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/krss2/renderer/KRSS2OWLObjectRenderer/visit(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-parsers-4.5.0.jar.txt	3
+org/semanticweb/owlapi/rdf/turtle/renderer/TurtleRenderer/write(org.semanticweb.owlapi.io.RDFResource)@g_owlapi-parsers-4.5.0.jar.txt	4
+org/semanticweb/owlapi/krss2/renderer/KRSSObjectRenderer/visit(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-parsers-4.5.0.jar.txt	1
+org/semanticweb/owlapi/krss2/renderer/KRSS2ObjectRenderer/visit(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-parsers-4.5.0.jar.txt	2
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLClass)@g_owlapi-parsers-4.5.0.jar.txt	0

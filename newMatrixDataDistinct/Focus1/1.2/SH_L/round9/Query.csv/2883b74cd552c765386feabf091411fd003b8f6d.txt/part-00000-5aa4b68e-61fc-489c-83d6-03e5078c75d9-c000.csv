@@ -1,0 +1,4 @@
+org/springframework/boot/cli/compiler/grape/RepositoryConfiguration/RepositoryConfiguration(java.lang.String,java.net.URI,boolean)
+java/util/List/contains(java.lang.Object)
+org/springframework/boot/cli/compiler/RepositoryConfigurationFactory/getLocalRepositoryDirectory(java.lang.String)
+java/util/List/add(int,E)

@@ -1,0 +1,4 @@
+org/xenei/junit/contract/tooling/InterfaceReport$ContractImplMap/hasTestFor(java.lang.Class)
+org/slf4j/Logger/debug(java.lang.String,java.lang.Object)
+java/util/Set/retainAll(java.util.Collection)
+java/util/Set/isEmpty()

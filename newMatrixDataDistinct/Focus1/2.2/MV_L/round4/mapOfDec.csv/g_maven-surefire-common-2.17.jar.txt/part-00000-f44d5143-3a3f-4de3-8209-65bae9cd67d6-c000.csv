@@ -1,0 +1,5 @@
+org/apache/maven/plugin/surefire/AbstractSurefireMojo/resolveArtifact(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.Artifact)@g_maven-surefire-common-2.16.jar.txt	0
+org/apache/maven/plugin/surefire/AbstractSurefireMojo/resolveArtifact(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.Artifact)@g_maven-surefire-common-2.18.1.jar.txt	2
+org/apache/maven/plugin/surefire/SurefireDependencyResolver/resolveArtifact(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.Artifact)@g_maven-surefire-common-2.16.jar.txt	1
+org/apache/maven/plugin/surefire/SurefireDependencyResolver/resolveArtifact(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.Artifact)@g_maven-surefire-common-2.18.1.jar.txt	3
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/CommandLineUtils/1/call()@g_maven-surefire-common-2.16.jar.txt	4

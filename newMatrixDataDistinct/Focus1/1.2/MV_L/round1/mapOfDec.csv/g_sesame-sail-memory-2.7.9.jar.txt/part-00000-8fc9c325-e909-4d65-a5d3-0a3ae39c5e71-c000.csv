@@ -1,0 +1,5 @@
+org/openrdf/sail/memory/FileIO/write(java.io.File,java.io.File)@g_sesame-query-2.7.9.jar.txt	4
+org/openrdf/rio/helpers/RDFParserHelper/createLiteral(java.lang.String,java.lang.String,org.openrdf.model.URI,org.openrdf.rio.ParserConfig,org.openrdf.rio.ParseErrorListener,org.openrdf.model.ValueFactory,int,int)@g_sesame-query-2.7.9.jar.txt	2
+org/openrdf/sail/memory/FileIO/readStringV2(java.io.DataInputStream)@g_sesame-query-2.7.9.jar.txt	3
+org/openrdf/query/QueryResults/report(org.openrdf.query.GraphQueryResult,org.openrdf.rio.RDFHandler)@g_sesame-query-2.7.9.jar.txt	1
+org/openrdf/rio/helpers/BasicParserSettings/<clinit>()@g_sesame-rio-api-2.7.9.jar.txt	0

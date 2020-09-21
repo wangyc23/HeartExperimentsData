@@ -1,0 +1,5 @@
+com/sun/faces/renderkit/html_basic/MenuRenderer/decode(javax.faces.context.FacesContext,javax.faces.component.UIComponent)@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/renderkit/html_basic/AjaxBehaviorRenderer/decode(javax.faces.context.FacesContext,javax.faces.component.UIComponent,javax.faces.component.behavior.ClientBehavior)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/lifecycle/LifecycleFactoryImpl/getLifecycle(java.lang.String)@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/application/ByteArrayWebOutputStream/writeTo(java.io.Writer,java.lang.String)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/application/view/FaceletViewHandlingStrategy/renderView(javax.faces.context.FacesContext,javax.faces.component.UIViewRoot)@g_javax.faces-2.2.7.jar.txt	2

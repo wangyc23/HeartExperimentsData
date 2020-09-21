@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/io/ByteArrayOutputStream/ByteArrayOutputStream()
+java/lang/Class/getName()

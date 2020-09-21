@@ -1,0 +1,5 @@
+okhttp3/internal/http/Http2xStream/http2HeadersList(okhttp3.Request)@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	2
+okhttp3/internal/huc/JavaApiConverterTest/createOkRequest_nullRequestHeaderKey()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	0
+okhttp3/internal/huc/JavaApiConverterTest/createOkResponseForCacheGet()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	1
+okhttp3/internal/huc/JavaApiConverterTest/createOkRequest_nonNullRequestHeaders()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	4
+okhttp3/internal/huc/JavaApiConverterTest/createOkResponseForCacheGet_secure()@241e4b73f4eb915fc1c7bb81ad3a05460ae9f60f.txt	3

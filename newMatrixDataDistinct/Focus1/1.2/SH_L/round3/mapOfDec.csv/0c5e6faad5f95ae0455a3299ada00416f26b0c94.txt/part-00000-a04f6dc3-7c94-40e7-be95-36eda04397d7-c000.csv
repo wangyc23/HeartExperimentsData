@@ -1,0 +1,5 @@
+org/apache/mahout/math/hadoop/TestDistributedRowMatrix/randomDistributedMatrix(int,int,int,int,double,boolean,java.lang.String)@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	3
+org/apache/mahout/math/hadoop/TestDistributedRowMatrix/testMatrixColumnMeansJob()@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	2
+org/apache/mahout/math/hadoop/TestDistributedRowMatrix/testMatrixTimesMatrix()@1792abb513f38a3f0f75cb1b898360c0aa01ed7c.txt	1
+org/apache/mahout/math/hadoop/TestDistributedRowMatrix/testMatrixTimesSquaredVector()@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	4
+org/apache/mahout/math/hadoop/TestDistributedRowMatrix/testMatrixTimesMatrix()@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	0

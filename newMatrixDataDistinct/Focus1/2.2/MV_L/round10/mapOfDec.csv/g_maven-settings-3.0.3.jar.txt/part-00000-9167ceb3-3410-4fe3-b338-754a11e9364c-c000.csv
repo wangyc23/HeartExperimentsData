@@ -1,0 +1,5 @@
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseRepository(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-settings-3.0.4.jar.txt	3
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseServer(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-settings-3.0.4.jar.txt	0
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseProxy(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-settings-3.0.4.jar.txt	2
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseSettings(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-settings-3.0.4.jar.txt	1
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseMirror(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-settings-3.0.4.jar.txt	4

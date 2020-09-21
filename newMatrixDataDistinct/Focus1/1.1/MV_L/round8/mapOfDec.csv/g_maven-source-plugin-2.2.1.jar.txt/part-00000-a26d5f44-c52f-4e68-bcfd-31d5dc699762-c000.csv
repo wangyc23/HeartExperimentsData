@@ -1,0 +1,5 @@
+org/apache/maven/plugin/source/AbstractSourceJarMojo/createArchiver()@g_maven-source-plugin-2.1.1.jar.txt	0
+org/apache/maven/plugin/source/AbstractSourceJarMojo/archiveProjectContent(org.apache.maven.project.MavenProject,org.codehaus.plexus.archiver.Archiver)@g_maven-source-plugin-2.1.1.jar.txt	3
+org/apache/maven/plugin/source/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-source-plugin-2.1.1.jar.txt	4
+org/apache/maven/plugin/source/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.codehaus.plexus.util.xml.Xpp3Dom)@g_maven-source-plugin-2.1.1.jar.txt	2
+org/apache/maven/plugin/source/AbstractSourceJarMojo/createArchiver()@g_maven-source-plugin-2.1.2.jar.txt	1

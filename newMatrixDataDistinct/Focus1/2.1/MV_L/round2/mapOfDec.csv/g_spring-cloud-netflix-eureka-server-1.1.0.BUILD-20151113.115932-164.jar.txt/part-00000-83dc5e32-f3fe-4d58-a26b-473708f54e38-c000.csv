@@ -1,0 +1,5 @@
+org/springframework/cloud/netflix/eureka/server/InstanceRegistry/renew(java.lang.String,java.lang.String,boolean)@g_spring-cloud-netflix-eureka-server-1.1.0.BUILD-SNAPSHOT.jar.txt	0
+org/springframework/cloud/netflix/eureka/server/EurekaController/populateApps(java.util.Map)@g_spring-cloud-netflix-eureka-server-1.0.3.RELEASE.jar.txt	2
+org/springframework/cloud/netflix/eureka/server/EurekaController/populateApps(java.util.Map)@g_spring-cloud-netflix-eureka-server-1.1.0.BUILD-SNAPSHOT.jar.txt	1
+org/springframework/cloud/netflix/eureka/server/EurekaServerConfigBean/toString()@g_spring-cloud-netflix-eureka-server-1.1.0.BUILD-SNAPSHOT.jar.txt	4
+org/springframework/cloud/netflix/eureka/server/event/LeaseManagerMessageBroker/renew(java.lang.String,java.lang.String,boolean)@g_spring-cloud-netflix-eureka-server-1.0.3.RELEASE.jar.txt	3

@@ -1,0 +1,4 @@
+org/springframework/transaction/support/TransactionSynchronizationManager/registerSynchronization(org.springframework.transaction.support.TransactionSynchronization)
+org/springframework/orm/jpa/EntityManagerHolder/setSynchronizedWithTransaction(boolean)
+javax/persistence/EntityManagerFactory/createEntityManager(java.util.Map)
+org/springframework/util/CollectionUtils/isEmpty(java.util.Map)

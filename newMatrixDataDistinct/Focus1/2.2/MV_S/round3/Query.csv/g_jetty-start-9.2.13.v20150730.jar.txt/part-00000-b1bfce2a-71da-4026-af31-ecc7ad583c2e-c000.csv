@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/util/regex/Matcher/end(int)
+java/util/Stack/get(int)
+java/util/Stack/contains(java.lang.Object)

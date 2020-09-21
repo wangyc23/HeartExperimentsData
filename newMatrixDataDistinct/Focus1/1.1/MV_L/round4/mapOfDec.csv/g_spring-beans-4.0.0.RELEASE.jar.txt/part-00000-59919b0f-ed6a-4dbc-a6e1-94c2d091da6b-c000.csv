@@ -1,0 +1,5 @@
+org/springframework/beans/TypeConverterDelegate/convertIfNecessary(java.lang.String,java.lang.Object,java.lang.Object,java.lang.Class,org.springframework.core.convert.TypeDescriptor)@g_spring-beans-4.0.2.RELEASE.jar.txt	0
+org/springframework/beans/TypeConverterDelegate/convertIfNecessary(java.lang.String,java.lang.Object,java.lang.Object,java.lang.Class,org.springframework.core.convert.TypeDescriptor)@g_spring-beans-4.0.9.RELEASE.jar.txt	4
+org/springframework/beans/factory/support/DefaultListableBeanFactory/doResolveDependency(org.springframework.beans.factory.config.DependencyDescriptor,java.lang.String,java.util.Set,org.springframework.beans.TypeConverter)@g_spring-beans-4.0.2.RELEASE.jar.txt	2
+org/springframework/beans/propertyeditors/CustomMapEditor/createMap(java.lang.Class,int)@g_spring-beans-4.0.2.RELEASE.jar.txt	3
+org/springframework/beans/propertyeditors/CustomCollectionEditor/createCollection(java.lang.Class,int)@g_spring-beans-4.0.2.RELEASE.jar.txt	1

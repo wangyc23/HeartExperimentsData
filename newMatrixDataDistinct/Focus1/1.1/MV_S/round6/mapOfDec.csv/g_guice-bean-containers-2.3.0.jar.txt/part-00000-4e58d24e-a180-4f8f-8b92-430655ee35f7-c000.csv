@@ -1,0 +1,5 @@
+com/netflix/governator/guice/ModulesEx/fromClass(java.lang.Class,boolean)@g_sisu-inject-bean-2.1.1.jar.txt	3
+com/netflix/governator/guice/concurrent/ConcurrentProviders/1/create()@g_sisu-inject-bean-2.1.1.jar.txt	2
+org/sonatype/guice/bean/scanners/index/QualifiedIndexCmd/getWriter(java.lang.String)@g_sisu-inject-bean-2.1.1.jar.txt	4
+com/netflix/governator/guice/runner/standalone/StandaloneRunnerModule/StandaloneFramework/init()@g_governator-1.10.4.jar.txt	1
+com/netflix/governator/guice/Grapher/graph()@g_governator-1.10.4.jar.txt	0

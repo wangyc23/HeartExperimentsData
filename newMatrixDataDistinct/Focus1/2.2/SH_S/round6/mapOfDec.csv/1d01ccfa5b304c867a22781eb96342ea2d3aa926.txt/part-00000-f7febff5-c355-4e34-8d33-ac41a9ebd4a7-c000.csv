@@ -1,0 +1,5 @@
+at/ac/tuwien/service/impl/APIServiceImpl/executeTwitterQuery(java.lang.String)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	3
+net/nhs/esb/converters/DiagnosesTypeConverter/convert(net.nhs.legacy.entity.Event)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	2
+at/ac/tuwien/service/impl/APIServiceImpl/executeFacebookQuery(java.lang.String)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	4
+net/nhs/esb/aggregators/DiagnosesAggregator/aggregate(net.nhs.domain.openehr.model.Diagnoses,net.nhs.domain.openehr.model.Diagnoses)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	0
+net/nhs/esb/patient/rest/PatientSearchControllerTest/setUp()@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	1

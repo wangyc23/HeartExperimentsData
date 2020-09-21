@@ -1,0 +1,8 @@
+0	com/enlight/task/entity/Task/setTitle(java.lang.String)
+1	com/enlight/task/entity/Task/setUser(com.enlight.task.entity.User)
+2	com/surfilter/flood/maintain/service/account/AccountService/findUserByLoginName(java.lang.String)
+3	com/enlight/task/entity/Task/Task()
+4	com/enlight/task/entity/User/User(java.lang.Long)
+5	com/enlight/task/data/TaskData/randomTitle()
+6	com/enlight/task/data/TaskData/randomTask()
+7	com/enlight/task/entity/Task/getTitle()

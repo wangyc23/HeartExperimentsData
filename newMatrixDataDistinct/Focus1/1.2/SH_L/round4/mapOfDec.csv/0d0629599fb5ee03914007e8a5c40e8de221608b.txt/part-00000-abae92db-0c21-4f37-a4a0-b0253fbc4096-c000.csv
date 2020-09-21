@@ -1,0 +1,5 @@
+org/apache/aries/samples/ariestrader/persist/jdbc/TradeJdbc/updateAccountProfile(java.sql.Connection,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	1
+org/apache/aries/jmx/framework/wiring/BundleWiringState/getRevisionWiring(org.apache.aries.subsystem.core.internal.BundleRevision,int,java.lang.String,java.util.Map)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	2
+org/apache/aries/async/promise/test/ChainTest/testThenSuccessFailed()@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	3
+org/apache/aries/util/filesystem/impl/ZipDirectory/buildParent(java.util.zip.ZipEntry)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	4
+org/apache/aries/subsystem/core/archive/TypeAttribute/newInstance(java.lang.String)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	0

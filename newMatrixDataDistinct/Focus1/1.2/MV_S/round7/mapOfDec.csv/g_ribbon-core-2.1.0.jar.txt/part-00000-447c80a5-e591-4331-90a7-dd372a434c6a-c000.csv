@@ -1,0 +1,5 @@
+com/netflix/client/config/CommonClientConfigKey/<clinit>()@g_xwiki-platform-classloader-protocol-attachmentjar-7.4.jar.txt	3
+org/xwiki/classloader/internal/protocol/attachmentjar/AttachmentURLStreamHandler/getAttachmentReference(java.net.URL)@g_xwiki-platform-classloader-protocol-attachmentjar-7.4.jar.txt	0
+com/netflix/client/config/DefaultClientConfigImpl/loadDefaultValues()@g_xwiki-platform-classloader-protocol-attachmentjar-7.4.jar.txt	2
+com/netflix/client/config/DefaultClientConfigImpl/get(com.netflix.client.config.IClientConfigKey)@g_xwiki-platform-classloader-protocol-attachmentjar-7.4.jar.txt	4
+org/codehaus/plexus/digest/DigestUtils/cleanChecksum(java.lang.String,java.lang.String,java.lang.String)@g_xwiki-platform-classloader-protocol-attachmentjar-7.4.jar.txt	1

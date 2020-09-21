@@ -1,0 +1,5 @@
+org/eclipse/core/internal/resources/ResourceTree/moveProjectContent(org.eclipse.core.resources.IProject,org.eclipse.core.filesystem.IFileStore,int,org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	3
+org/eclipse/core/internal/resources/ProjectPreferences/1/run(org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	2
+org/eclipse/core/internal/resources/ResourceTree/internalDeleteFile(org.eclipse.core.resources.IFile,int,org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	0
+org/eclipse/core/internal/resources/Folder/create(int,boolean,org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	1
+org/eclipse/core/internal/localstore/FileSystemResourceManager/internalWrite(org.eclipse.core.resources.IProject,org.eclipse.core.resources.IProjectDescription,int,boolean,boolean)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	4

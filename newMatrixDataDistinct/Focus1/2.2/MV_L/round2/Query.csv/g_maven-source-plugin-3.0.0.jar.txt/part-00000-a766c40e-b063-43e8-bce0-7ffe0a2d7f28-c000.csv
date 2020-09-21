@@ -1,0 +1,4 @@
+org/apache/maven/project/MavenProject/getBuild()
+org/apache/maven/archiver/MavenArchiver/MavenArchiver()
+java/util/Iterator/hasNext()
+org/apache/maven/archiver/MavenArchiver/getArchiver()

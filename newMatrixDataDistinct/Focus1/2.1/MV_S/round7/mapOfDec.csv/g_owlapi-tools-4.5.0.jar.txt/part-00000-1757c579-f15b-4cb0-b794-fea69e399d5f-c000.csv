@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/reasoner/impl/DefaultNode/toString()@g_owlapi-impl-4.5.0.jar.txt	3
+com/clarkparsia/owlapi/explanation/util/DefinitionTracker/removeAxiom(org.semanticweb.owlapi.model.OWLAxiom)@g_owlapi-impl-4.5.0.jar.txt	4
+uk/ac/manchester/cs/owl/owlapi/OWLImmutableOntologyImpl/getAxioms(org.semanticweb.owlapi.model.OWLDataProperty,org.semanticweb.owlapi.model.parameters.Imports)@g_owlapi-impl-4.5.0.jar.txt	0
+com/clarkparsia/owlapi/modularity/locality/SyntacticLocalityEvaluator/AxiomLocalityVisitor/visit(org.semanticweb.owlapi.model.OWLDisjointDataPropertiesAxiom)@g_owlapi-impl-4.5.0.jar.txt	2
+uk/ac/manchester/cs/owl/owlapi/OWLImmutableOntologyImpl/getAxioms(org.semanticweb.owlapi.model.OWLObjectPropertyExpression,org.semanticweb.owlapi.model.parameters.Imports)@g_owlapi-impl-4.5.0.jar.txt	1

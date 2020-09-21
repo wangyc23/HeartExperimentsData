@@ -1,0 +1,5 @@
+org/elasticsearch/search/aggregations/pipeline/derivative/DerivativePipelineAggregator/reduce(org.elasticsearch.search.aggregations.InternalAggregation,org.elasticsearch.search.aggregations.InternalAggregation$ReduceContext)@g_elasticsearch-5.2.2.jar.txt	4
+org/elasticsearch/rest/BaseRestHandler/unrecognized(org.elasticsearch.rest.RestRequest,java.util.Set,java.util.Set,java.lang.String)@g_elasticsearch-5.2.2.jar.txt	2
+org/elasticsearch/gateway/MetaDataStateFormat/loadLatestState(org.apache.logging.log4j.Logger,org.elasticsearch.common.xcontent.NamedXContentRegistry,java.nio.file.Path[])@g_elasticsearch-5.2.2.jar.txt	3
+org/elasticsearch/cluster/metadata/MetaDataIndexStateService/2/execute(org.elasticsearch.cluster.ClusterState)@g_elasticsearch-5.2.2.jar.txt	0
+org/elasticsearch/index/translog/Translog/recoverFromFiles(org.elasticsearch.index.translog.Translog$TranslogGeneration,org.elasticsearch.index.translog.Checkpoint)@g_elasticsearch-5.2.2.jar.txt	1

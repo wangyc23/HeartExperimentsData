@@ -1,0 +1,5 @@
+javax/faces/component/UIComponentBase/populateDescriptorsMapIfNecessary()@g_javax.faces-api-2.2.jar.txt	2
+javax/faces/webapp/UIComponentClassicTagBase/createVerbatimComponentFromBodyContent()@g_javax.faces-api-2.2.jar.txt	1
+javax/faces/component/UIComponentBase/addClientBehavior(java.lang.String,javax.faces.component.behavior.ClientBehavior)@g_javax.faces-api-2.2.jar.txt	4
+javax/faces/component/html/HtmlBody/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	3
+javax/faces/component/ComponentStateHelper/saveMap(javax.faces.context.FacesContext,java.util.Map)@g_javax.faces-api-2.2.jar.txt	0

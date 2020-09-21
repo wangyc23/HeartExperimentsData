@@ -1,0 +1,5 @@
+com/sun/xml/bind/v2/model/impl/ClassInfoImpl/getProperties()@g_jaxb-impl-2.2.3-1.jar.txt	0
+com/sun/xml/bind/v2/model/impl/ElementPropertyInfoImpl/getTypes()@g_jaxb-impl-2.2.3-1.jar.txt	2
+com/sun/xml/bind/v2/model/impl/ElementPropertyInfoImpl/getTypes()@g_jaxb-impl-2.2.6.jar.txt	4
+com/sun/xml/bind/v2/model/impl/ClassInfoImpl/addProperty(com.sun.xml.bind.v2.model.impl.PropertySeed,java.lang.annotation.Annotation[],boolean)@g_jaxb-impl-2.2.3-1.jar.txt	3
+com/sun/xml/bind/v2/model/impl/ClassInfoImpl/getProperties()@g_jaxb-impl-2.2.6.jar.txt	1

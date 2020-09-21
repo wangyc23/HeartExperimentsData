@@ -1,0 +1,4 @@
+org/apache/lucene/index/TermVectorOffsetInfo/TermVectorOffsetInfo(int,int)
+org/apache/lucene/index/memory/MemoryIndex$ArrayIntList/size()
+org/apache/lucene/index/memory/MemoryIndex$Info/access$200(org.apache.lucene.index.memory.MemoryIndex$Info)
+org/apache/lucene/index/memory/MemoryIndex$ArrayIntList/toArray(int)

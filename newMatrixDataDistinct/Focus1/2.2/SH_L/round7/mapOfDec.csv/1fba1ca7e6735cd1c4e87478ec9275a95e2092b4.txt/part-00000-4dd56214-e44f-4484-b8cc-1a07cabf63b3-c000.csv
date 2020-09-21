@@ -1,0 +1,5 @@
+tfidf/TFIDFReducer/reduce(org.apache.hadoop.io.Text,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@07f0961a9a1642392507df55e63ac17f2572eca2.txt	0
+fm/last/hadoop/programs/labs/trackstats/TrackStatisticsProgram/UniqueListenersMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapred.OutputCollector,org.apache.hadoop.mapred.Reporter)@0be4460237c8598060d2c6773ab68eec2494f966.txt	2
+hiveudf/Url2domain/evaluate(java.lang.Object[])@07f0961a9a1642392507df55e63ac17f2572eca2.txt	4
+tfidf/WordInDocFrequencyReducer/reduce(org.apache.hadoop.io.Text,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@07f0961a9a1642392507df55e63ac17f2572eca2.txt	1
+fm/last/hadoop/programs/labs/trackstats/TrackStatisticsProgram/SumMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapred.OutputCollector,org.apache.hadoop.mapred.Reporter)@0be4460237c8598060d2c6773ab68eec2494f966.txt	3

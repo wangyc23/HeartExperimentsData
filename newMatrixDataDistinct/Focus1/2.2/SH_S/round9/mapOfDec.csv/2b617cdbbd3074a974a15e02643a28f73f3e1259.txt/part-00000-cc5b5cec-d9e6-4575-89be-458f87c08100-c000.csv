@@ -1,0 +1,5 @@
+org/apache/servicemix/examples/drools/test/SimpleTest/testPool()@027b53237cd3203173d61e9dbe56571d1745224e.txt	2
+dk/miw/playlists/LastFmAggregationStrategy/getStringFromXPath(org.w3c.dom.Document,javax.xml.xpath.XPath,java.lang.String)@2a04823bf99a6d437a9f6653520b2aa21d6d599d.txt	0
+kafka/New/KafkaConsumerMain/main(java.lang.String[])@027b53237cd3203173d61e9dbe56571d1745224e.txt	4
+dk/miw/playlists/websocket/WebsocketRoute/configure()@027b53237cd3203173d61e9dbe56571d1745224e.txt	3
+dk/miw/playlists/ChannelList/getChannels()@027b53237cd3203173d61e9dbe56571d1745224e.txt	1

@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onTimerAdded(java.lang.String,com.codahale.metrics.Timer)@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	0
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onHistogramAdded(java.lang.String,com.codahale.metrics.Histogram)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	3
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onTimerAdded(java.lang.String,com.codahale.metrics.Timer)@g_spring-boot-actuator-1.2.4.RELEASE.jar.txt	2
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onGaugeAdded(java.lang.String,com.codahale.metrics.Gauge)@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	4
+org/springframework/boot/actuate/metrics/reader/MetricRegistryMetricReader/onHistogramAdded(java.lang.String,com.codahale.metrics.Histogram)@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	1

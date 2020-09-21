@@ -1,0 +1,5 @@
+org/apache/lucene/index/CompoundFileReader/openInput(java.lang.String,int)@g_lucene-core-3.6.2.jar.txt	3
+org/apache/lucene/store/FSDirectory/ensureCanWrite(java.lang.String)@g_lucene-core-3.6.2.jar.txt	2
+org/apache/lucene/store/LockStressTest/main(java.lang.String[])@g_lucene-core-3.6.2.jar.txt	4
+org/apache/lucene/store/FSDirectory/deleteFile(java.lang.String)@g_lucene-core-3.6.2.jar.txt	0
+org/apache/lucene/store/FSDirectory/listAll(java.io.File)@g_lucene-core-3.6.2.jar.txt	1

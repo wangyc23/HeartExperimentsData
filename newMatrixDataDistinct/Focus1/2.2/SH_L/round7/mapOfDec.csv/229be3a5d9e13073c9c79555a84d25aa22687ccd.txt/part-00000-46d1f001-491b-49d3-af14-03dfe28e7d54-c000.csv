@@ -1,0 +1,5 @@
+com/nikolas/wicketsecurity/ui/session/AuthController/authenticate(java.lang.String,java.lang.String)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	1
+com/nikolas/wicketsecurity/ui/pages/dashboard/Dashboard/logoutUser()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	2
+com/nikolas/wicketsecurity/ui/session/AuthController/convertRoles(java.util.List)@300499d228b289b009668c0181a2fdcfc67bb28b.txt	3
+com/sldg/erp/service/UsuarioService/autenticar(com.sldg.erp.model.Usuario)@2c185d126d63776649c6c0bb858f70294ae59d1d.txt	4
+com/nikolas/wicketsecurity/ui/pages/dashboard/AdminDashboard/logoutUser()@300499d228b289b009668c0181a2fdcfc67bb28b.txt	0

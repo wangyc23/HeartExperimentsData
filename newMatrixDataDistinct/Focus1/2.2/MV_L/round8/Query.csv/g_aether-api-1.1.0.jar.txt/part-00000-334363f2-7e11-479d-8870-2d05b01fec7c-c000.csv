@@ -1,0 +1,4 @@
+org/eclipse/aether/metadata/AbstractMetadata/getArtifactId()
+org/eclipse/aether/metadata/AbstractMetadata/getProperties()
+java/lang/String/equals(java.lang.Object)
+org/eclipse/aether/metadata/Metadata$Nature/equals(java.lang.Object)

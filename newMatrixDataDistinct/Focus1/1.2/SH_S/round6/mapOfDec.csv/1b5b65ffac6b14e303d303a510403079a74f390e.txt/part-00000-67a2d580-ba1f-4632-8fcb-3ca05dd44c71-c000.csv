@@ -1,0 +1,5 @@
+org/apache/camel/component/db4o/Db4oEndpoint/createProducer()@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	1
+camelinaction/RiderAutoPartsPartnerTest/testSendPartnerReportIntoDatabase()@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	4
+org/apache/camel/component/hibernate/HibernateEndpoint/createProducer()@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	2
+camelinaction/SimulateErrorUsingInterceptorTest/SimulateHttpErrorProcessor/process(camelinaction.Exchange)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	0
+com/lucidworks/IndexingSampler/SendToSolrThread/blockUntilFinished()@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	3

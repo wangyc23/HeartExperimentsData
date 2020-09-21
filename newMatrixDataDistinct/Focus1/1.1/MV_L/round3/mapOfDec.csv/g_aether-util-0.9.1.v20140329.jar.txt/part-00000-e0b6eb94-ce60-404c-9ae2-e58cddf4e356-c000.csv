@@ -1,0 +1,5 @@
+org/eclipse/aether/util/graph/transformer/ConflictResolver/transformGraph(org.eclipse.aether.graph.DependencyNode,org.eclipse.aether.collection.DependencyGraphTransformationContext)@g_aether-util-0.9.0.M2.jar.txt	4
+org/eclipse/aether/util/graph/manager/ClassicDependencyManager/manageDependency(org.eclipse.aether.graph.Dependency)@g_aether-util-0.9.0.M2.jar.txt	2
+org/eclipse/aether/util/graph/transformer/ConflictResolver/removeLosers(org.eclipse.aether.util.graph.transformer.ConflictResolver$State)@g_aether-util-0.9.0.M2.jar.txt	3
+org/eclipse/aether/util/graph/manager/ClassicDependencyManager/deriveChildManager(org.eclipse.aether.collection.DependencyCollectionContext)@g_aether-util-0.9.0.M2.jar.txt	1
+org/eclipse/aether/util/graph/transformer/JavaScopeSelector/chooseEffectiveScope(java.util.Collection)@g_aether-util-0.9.0.M2.jar.txt	0

@@ -1,0 +1,5 @@
+com/github/kristofa/brave/LoggingSpanCollector/collect(com.twitter.zipkin.gen.Span)@02e093a379c10109f36bc7d331072c1ae30aac40.txt	3
+com/iluwatar/model/view/controller/GiantControllerTest/testSetHealth()@02e093a379c10109f36bc7d331072c1ae30aac40.txt	1
+com/twitter/zipkin/gen/Endpoint/deepCopy()@02e093a379c10109f36bc7d331072c1ae30aac40.txt	4
+com/github/kristofa/brave/ClientSpanThreadBinderTest/testGetCurrentClientSpan()@02e093a379c10109f36bc7d331072c1ae30aac40.txt	2
+com/iluwatar/model/view/controller/App/main(java.lang.String[])@02e093a379c10109f36bc7d331072c1ae30aac40.txt	0

@@ -1,0 +1,4 @@
+java/lang/Math/round(double)
+java/util/Iterator/hasNext()
+java/util/LinkedList/LinkedList()
+java/util/List/get(int)

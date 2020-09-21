@@ -1,0 +1,5 @@
+jp/gr/java_conf/boj/app/regex/ExampleSAXHandler/appendTrimedStr(java.lang.StringBuilder,char[],int,int)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	4
+com/salaboy/process/engine/taskinstances/impl/StartTaskNodeInstance/internalTrigger(com.salaboy.process.engine.structures.NodeInstance,java.lang.String)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	3
+jp/gr/java_conf/boj/lib/gui/SwingUncaughtExceptionHandler/uncaughtException(java.lang.Thread,java.lang.Throwable)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	0
+com/schwebke/jregexanalyser/regex/Pattern/isSupplementary(int)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	2
+com/schwebke/jregexanalyser/regex/Pattern/Ques/getInfo()@2ea521f70b748744db431e4a2a9648eceb229bee.txt	1

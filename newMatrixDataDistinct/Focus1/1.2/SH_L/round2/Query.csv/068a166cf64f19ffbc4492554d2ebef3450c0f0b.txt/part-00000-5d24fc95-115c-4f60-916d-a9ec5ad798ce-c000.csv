@@ -1,0 +1,4 @@
+org/apache/hadoop/hbase/util/Bytes/toStringBinary(byte[])
+org/apache/hadoop/hbase/client/Mutation/getRow()
+com/salesforce/phoenix/coprocessor/MetaDataEndpointImpl/Verifier/checkColumns(com.salesforce.phoenix.schema.PTable,byte[][],java.util.List)
+com/salesforce/phoenix/coprocessor/MetaDataEndpointImpl/getClientTimeStamp(java.util.List)

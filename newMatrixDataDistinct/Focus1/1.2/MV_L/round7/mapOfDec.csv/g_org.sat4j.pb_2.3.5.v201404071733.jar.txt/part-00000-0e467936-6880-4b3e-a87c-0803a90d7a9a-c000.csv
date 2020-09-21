@@ -1,0 +1,5 @@
+org/apache/lucene/index/LogMergePolicy/toString()@g_lucene-core-5.5.0.jar.txt	4
+org/apache/lucene/index/TieredMergePolicy/toString()@g_lucene-core-6.0.0.jar.txt	2
+org/apache/lucene/index/IndexWriter/registerMerge(org.apache.lucene.index.MergePolicy$OneMerge)@g_lucene-core-6.0.0.jar.txt	1
+org/apache/lucene/index/LogMergePolicy/toString()@g_lucene-core-6.0.0.jar.txt	0
+org/apache/lucene/util/IOUtils/rm(java.nio.file.Path[])@g_lucene-core-6.0.0.jar.txt	3

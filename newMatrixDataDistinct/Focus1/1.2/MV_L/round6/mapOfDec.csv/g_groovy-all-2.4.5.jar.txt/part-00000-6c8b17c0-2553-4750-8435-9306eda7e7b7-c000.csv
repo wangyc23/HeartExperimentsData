@@ -1,0 +1,5 @@
+groovy/xml/dom/DOMCategory/getChildElements(org.w3c.dom.Element,java.lang.String)@g_groovy-all-2.4.2.jar.txt	2
+org/codehaus/groovy/classgen/Verifier/addGroovyObjectInterfaceAndMethods(org.codehaus.groovy.ast.ClassNode,java.lang.String)@g_groovy-all-2.4.6.jar.txt	1
+org/codehaus/groovy/classgen/Verifier/addGroovyObjectInterfaceAndMethods(org.codehaus.groovy.ast.ClassNode,java.lang.String)@g_groovy-all-2.4.2.jar.txt	0
+groovy/sql/Sql/withBatch(int,java.lang.String,groovy.lang.Closure)@g_groovy-all-2.4.2.jar.txt	4
+org/codehaus/groovy/transform/ToStringASTTransformation/calculateToStringStatements(org.codehaus.groovy.ast.ClassNode,boolean,boolean,java.util.List,java.util.List,boolean,boolean,boolean,boolean,org.codehaus.groovy.ast.stmt.BlockStatement)@g_groovy-all-2.4.2.jar.txt	3

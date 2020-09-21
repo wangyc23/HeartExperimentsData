@@ -1,0 +1,5 @@
+org/apache/maven/plugin/resources/remote/HelpMojo/execute()@g_maven-settings-3.0.4.jar.txt	3
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/initalizeClassloader(org.apache.maven.plugin.resources.remote.RemoteResourcesClassLoader,java.util.List)@g_maven-settings-3.0.4.jar.txt	0
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/parseProfile(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-settings-3.0.4.jar.txt	2
+org/apache/maven/plugin/resources/remote/ProcessRemoteResourcesMojo/getProjects()@g_maven-settings-3.0.4.jar.txt	1
+org/sonatype/plexus/components/sec/dispatcher/DefaultSecDispatcher/stripAttributes(java.lang.String)@g_maven-settings-3.0.4.jar.txt	4

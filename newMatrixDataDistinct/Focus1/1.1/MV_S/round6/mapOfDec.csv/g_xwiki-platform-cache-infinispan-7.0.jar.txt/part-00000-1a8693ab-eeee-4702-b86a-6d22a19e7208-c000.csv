@@ -1,0 +1,5 @@
+org/xwiki/component/wiki/internal/DefaultWikiComponentBuilder/buildComponents(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-component-wiki-7.0.jar.txt	2
+com/xpn/xwiki/plugin/tag/TagPlugin/renameTag(java.lang.String,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-component-wiki-7.0.jar.txt	1
+org/xwiki/component/wiki/internal/bridge/DefaultWikiComponentBridge/getDependencies(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-component-wiki-7.0.jar.txt	3
+com/xpn/xwiki/plugin/tag/TagQueryUtils/getAllTags(com.xpn.xwiki.XWikiContext)@g_xwiki-platform-component-wiki-7.0.jar.txt	0
+org/xwiki/component/wiki/internal/bridge/DefaultWikiComponentBridge/getHandledMethods(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-component-wiki-7.0.jar.txt	4

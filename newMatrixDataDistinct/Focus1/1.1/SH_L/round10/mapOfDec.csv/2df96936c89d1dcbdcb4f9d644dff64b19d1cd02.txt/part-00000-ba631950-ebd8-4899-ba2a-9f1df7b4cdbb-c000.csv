@@ -1,0 +1,5 @@
+okhttp3/android/HttpResponseCacheTest/statisticsTracking()@0265f12748d57de89163db701b727e715d098552.txt	0
+okhttp3/internal/huc/ResponseCacheTest/connectionIsReturnedToPoolAfterConditionalSuccess()@0265f12748d57de89163db701b727e715d098552.txt	1
+okhttp3/internal/huc/ResponseCacheTest/secureResponseCachingAndRedirects()@0265f12748d57de89163db701b727e715d098552.txt	3
+okhttp3/internal/huc/ResponseCacheTest/cacheControlNoCache()@0265f12748d57de89163db701b727e715d098552.txt	4
+okhttp3/internal/huc/ResponseCacheTest/responseSourceHeaderConditionalCacheNotFetched()@0265f12748d57de89163db701b727e715d098552.txt	2

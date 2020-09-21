@@ -1,0 +1,5 @@
+org/apache/lens/lib/query/TestFilePersistentFormatter/testCSVWithZipFormatter()@09735e9d3bbdab9750bab90d24821488fb6b5e3c.txt	2
+org/apache/lens/server/query/TestQueryService/testLaunchFail()@09735e9d3bbdab9750bab90d24821488fb6b5e3c.txt	1
+org/apache/lens/cube/parse/TestJoinResolver/testAutoJoinResolver()@09735e9d3bbdab9750bab90d24821488fb6b5e3c.txt	0
+org/apache/lens/cube/parse/TestHQLParser/testOrderbyBrackets()@09735e9d3bbdab9750bab90d24821488fb6b5e3c.txt	4
+org/apache/lens/cube/parse/TestHQLParser/testBinaryOperators()@09735e9d3bbdab9750bab90d24821488fb6b5e3c.txt	3

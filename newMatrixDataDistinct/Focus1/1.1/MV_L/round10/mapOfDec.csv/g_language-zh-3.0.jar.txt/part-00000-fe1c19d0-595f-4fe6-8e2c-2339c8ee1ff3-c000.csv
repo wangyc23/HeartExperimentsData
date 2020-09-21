@@ -1,0 +1,5 @@
+org/aspectj/internal/lang/reflect/AjTypeImpl/getITDConstructors()@g_aspectjrt-1.6.11.jar.txt	3
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_aspectjrt-1.6.11.jar.txt	0
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDMethods()@g_aspectjrt-1.6.11.jar.txt	4
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclareErrorOrWarnings()@g_aspectjrt-1.6.11.jar.txt	1
+org/aspectj/runtime/internal/cflowstack/ThreadStackImpl11/getThreadStack()@g_aspectjrt-1.6.11.jar.txt	2

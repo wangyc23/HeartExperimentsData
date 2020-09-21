@@ -1,0 +1,5 @@
+net/sf/ehcache/Cache/searchAllInStoreWithStats(java.util.Collection)@g_ehcache-core-2.6.2.jar.txt	1
+org/apache/parquet/filter2/predicate/SchemaCompatibilityValidator/validateColumn(org.apache.parquet.filter2.predicate.Operators$Column)@g_parquet-column-1.8.2.jar.txt	0
+net/sf/ehcache/writer/writebehind/AbstractWriteBehindQueue/processBatchedOperations(java.util.List)@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/distribution/RMICacheManagerPeerListener/notifyCacheAdded(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/distribution/MulticastRMICacheManagerPeerProvider/registerPeer(java.lang.String)@g_ehcache-core-2.6.2.jar.txt	2

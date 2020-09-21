@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/addProxyArg(org.codehaus.plexus.util.cli.Commandline)@g_maven-javadoc-plugin-2.8.1.jar.txt	3
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/getProjectClassLoader()@g_maven-javadoc-plugin-2.8.1.jar.txt	4
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getClasspath()@g_maven-javadoc-plugin-2.8.1.jar.txt	0
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/writeDebugJavadocScript(java.lang.String,java.io.File)@g_maven-javadoc-plugin-2.8.1.jar.txt	2
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/init()@g_maven-javadoc-plugin-2.8.1.jar.txt	1

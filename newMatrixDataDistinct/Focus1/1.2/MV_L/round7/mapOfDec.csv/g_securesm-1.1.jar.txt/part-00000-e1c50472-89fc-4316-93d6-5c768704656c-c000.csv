@@ -1,0 +1,5 @@
+org/osgi/framework/PackagePermissionCollection/implies(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	3
+org/osgi/framework/CapabilityPermissionCollection/implies(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	1
+org/osgi/framework/FrameworkUtil/DNChainMatching/parseDN(java.lang.String,java.util.List)@g_org.osgi.core-4.3.1.jar.txt	2
+org/osgi/service/condpermadmin/BundleLocationCondition/getCondition(org.osgi.framework.Bundle,org.osgi.service.condpermadmin.ConditionInfo)@g_org.osgi.core-4.3.1.jar.txt	0
+org/osgi/framework/CapabilityPermissionCollection/add(java.security.Permission)@g_org.osgi.core-4.3.1.jar.txt	4

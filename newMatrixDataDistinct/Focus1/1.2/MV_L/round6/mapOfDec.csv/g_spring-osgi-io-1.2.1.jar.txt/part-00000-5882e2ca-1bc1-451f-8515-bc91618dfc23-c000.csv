@@ -1,0 +1,5 @@
+org/springframework/osgi/config/internal/adapter/OsgiServiceRegistrationListenerAdapter/registered(java.lang.Object,java.util.Map)@g_spring-osgi-core-1.2.1.jar.txt	4
+org/springframework/osgi/service/dependency/internal/DefaultMandatoryDependencyManager/checkIfExporterShouldStart(java.lang.Object,java.util.Map)@g_spring-osgi-core-1.2.1.jar.txt	0
+org/springframework/osgi/util/DebugUtils/debugClassLoading(org.osgi.framework.Bundle,java.lang.String,java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	3
+org/springframework/osgi/compendium/internal/cm/UpdateMethodAdapter/1/doWith(java.lang.reflect.Method)@g_spring-osgi-core-1.2.1.jar.txt	1
+org/springframework/osgi/context/support/DelegatedEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_spring-osgi-core-1.2.1.jar.txt	2

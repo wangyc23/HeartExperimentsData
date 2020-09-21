@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BlockingBuffer/get(long)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BlockingBuffer/get()@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/BindableProcessor/emitMetadataClass(org.carrot2.util.attribute.BindableMetadata,java.util.List,java.util.List,javax.lang.model.element.TypeElement)@g_attributes-processor-1.0.1.jar.txt	4
+org/carrot2/util/attribute/AttributeDescriptor/prepareForSerialization()@g_attributes-processor-1.0.1.jar.txt	2
+org/apache/maven/plugin/logging/SystemStreamLog/print(java.lang.String,java.lang.CharSequence,java.lang.Throwable)@g_maven-plugin-api-2.0.9.jar.txt	0

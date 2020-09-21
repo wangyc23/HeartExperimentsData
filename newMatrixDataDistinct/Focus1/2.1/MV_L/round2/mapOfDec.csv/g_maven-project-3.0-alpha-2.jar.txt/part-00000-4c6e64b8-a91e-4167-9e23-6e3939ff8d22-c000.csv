@@ -1,0 +1,5 @@
+org/apache/maven/project/interpolation/RegexBasedModelInterpolator/interpolateInternal(java.lang.String,org.apache.maven.model.Model,java.util.Map)@g_maven-project-2.0.8.jar.txt	1
+org/apache/maven/profiles/activation/SystemPropertyProfileActivator/isActive(org.apache.maven.model.Profile)@g_maven-project-2.0.8.jar.txt	0
+org/apache/maven/profiles/io/xpp3/ProfilesXpp3Reader/parseRepository(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-project-2.0.8.jar.txt	4
+org/apache/maven/project/interpolation/RegexBasedModelInterpolator/interpolateInternal(java.lang.String,org.apache.maven.model.Model,java.util.Map)@g_maven-project-2.0.9.jar.txt	3
+org/apache/maven/profiles/activation/SystemPropertyProfileActivator/isActive(org.apache.maven.model.Profile)@g_maven-project-2.0.9.jar.txt	2

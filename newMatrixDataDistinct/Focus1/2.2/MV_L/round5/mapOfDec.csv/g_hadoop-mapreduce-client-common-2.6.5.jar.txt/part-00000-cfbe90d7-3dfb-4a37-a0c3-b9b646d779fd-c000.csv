@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/proto/MRProtos/AMInfoProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	4
+org/apache/hadoop/mapreduce/v2/proto/MRProtos/CounterGroupProto/hashCode()@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	1
+org/apache/hadoop/mapreduce/v2/proto/MRProtos/TaskReportProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	2
+org/apache/hadoop/mapreduce/v2/proto/MRServiceProtos/GetTaskAttemptCompletionEventsRequestProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	3
+org/apache/hadoop/mapreduce/v2/proto/MRProtos/CounterGroupProto/equals(java.lang.Object)@g_hadoop-mapreduce-client-common-2.6.0.jar.txt	0

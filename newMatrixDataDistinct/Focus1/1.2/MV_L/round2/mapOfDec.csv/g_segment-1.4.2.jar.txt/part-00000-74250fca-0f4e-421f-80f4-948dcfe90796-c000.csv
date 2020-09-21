@@ -1,0 +1,5 @@
+org/xerial/snappy/SnappyLoader/injectSnappyNativeLoader()@g_java-xmlbuilder-1.0.jar.txt	1
+com/jamesmurty/utils/XMLBuilder/assertElementContainsNoOrWhitespaceOnlyTextNodes(org.w3c.dom.Node)@g_java-xmlbuilder-1.0.jar.txt	4
+org/xerial/snappy/SnappyLoader/getVersion()@g_java-xmlbuilder-1.0.jar.txt	2
+org/xerial/snappy/Snappy/getNativeLibraryVersion()@g_snappy-java-1.0.4.1.jar.txt	0
+net/sourceforge/segment/srx/legacy/ScannerSrxTextIterator/createExceptions(java.util.List)@g_java-xmlbuilder-1.0.jar.txt	3

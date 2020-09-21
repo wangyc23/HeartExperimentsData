@@ -1,0 +1,4 @@
+com/yahoo/ycsb/workloads/CoreWorkload/nextKeynum()
+com/yahoo/ycsb/workloads/CoreWorkload/buildKeyName(long)
+java/util/HashMap/HashMap()
+com/yahoo/ycsb/generator/Generator/nextString()

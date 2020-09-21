@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/GrammaticalStructure/dependenciesToCoNLLXString(java.util.Collection,edu.stanford.nlp.util.CoreMap)@g_commons-lang3-3.1.jar.txt	3
+edu/stanford/nlp/parser/lexparser/ChineseLexiconAndWordSegmenter/main(java.lang.String[])@g_commons-lang3-3.1.jar.txt	2
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_commons-lang3-3.1.jar.txt	0
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_commons-lang3-3.1.jar.txt	1
+net/sf/saxon/expr/instruct/CopyOf/processLeavingTail(net.sf.saxon.expr.XPathContext)@g_commons-lang3-3.1.jar.txt	4

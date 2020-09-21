@@ -1,0 +1,5 @@
+org/jboss/weld/bean/attributes/BeanAttributesFactory/BeanAttributesBuilder/initScope(org.jboss.weld.annotated.enhanced.EnhancedAnnotated)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	3
+org/jboss/weld/util/Beans/removeDisabledBeans(java.util.Set,org.jboss.weld.manager.BeanManagerImpl,org.jboss.weld.bootstrap.SpecializationAndEnablementRegistry)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	1
+org/jboss/weld/bean/attributes/BeanAttributesFactory/BeanAttributesBuilder/initQualifiers(java.util.Set)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	4
+org/jboss/weld/environment/deployment/WeldDeployment/loadBeanDeploymentArchive(java.lang.Class)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	2
+org/jboss/weld/bean/attributes/BeanAttributesFactory/BeanAttributesBuilder/initScopeFromStereotype()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	0

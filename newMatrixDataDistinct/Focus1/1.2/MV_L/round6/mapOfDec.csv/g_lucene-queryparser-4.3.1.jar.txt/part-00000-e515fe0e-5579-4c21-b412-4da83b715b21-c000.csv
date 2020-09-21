@@ -1,0 +1,5 @@
+org/apache/lucene/queryparser/flexible/core/nodes/BooleanQueryNode/toString()@g_lucene-queryparser-4.5.0.jar.txt	0
+org/apache/lucene/queryparser/flexible/core/nodes/TokenizedPhraseQueryNode/toString()@g_lucene-queryparser-4.5.0.jar.txt	1
+org/apache/lucene/queryparser/flexible/standard/nodes/MultiPhraseQueryNode/toString()@g_lucene-queryparser-4.5.0.jar.txt	2
+org/apache/lucene/queryparser/flexible/core/nodes/ProximityQueryNode/toString()@g_lucene-queryparser-4.5.0.jar.txt	4
+org/apache/lucene/queryparser/flexible/core/nodes/AndQueryNode/toString()@g_lucene-queryparser-4.5.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/eclipse/osgi/util/NLS/internalBind(java.lang.String,java.lang.Object[],java.lang.String,java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/framework/internal/core/Framework/findVMProfile()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/osgi/framework/internal/core/AbstractBundle/beginStateChange()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/core/runtime/internal/adaptor/EclipseStorageHook/checkManifestTimeStamp()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/internal/service/security/DefaultAuthorizationEngine/<clinit>()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2

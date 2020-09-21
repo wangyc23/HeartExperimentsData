@@ -1,0 +1,5 @@
+org/eclipse/sisu/plexus/PlexusSpaceModule/configure(com.google.inject.Binder)@g_sisu-inject-plexus-2.1.1.jar.txt	2
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/parseRequirement(org.codehaus.plexus.util.xml.pull.MXParser,org.sonatype.guice.bean.reflect.ClassSpace,java.util.Map)@g_sisu-inject-plexus-2.1.1.jar.txt	4
+org/eclipse/sisu/plexus/ComponentImpl/equals(java.lang.Object)@g_org.eclipse.sisu.plexus-0.0.0.M5.jar.txt	1
+org/sonatype/guice/plexus/annotations/ComponentImpl/equals(java.lang.Object)@g_sisu-inject-plexus-2.1.1.jar.txt	0
+org/eclipse/sisu/plexus/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.eclipse.sisu.plexus.PlexusTypeRegistry)@g_sisu-inject-plexus-2.1.1.jar.txt	3

@@ -1,0 +1,4 @@
+com/finaxys/finaxysplatform/core/domain/Document/Document(byte[],com.finaxys.finaxysplatform.core.domain.Enum.DataType)
+java/util/ArrayList/ArrayList(java.util.Collection)
+com/finaxys/finaxysplatform/marketdatafetcher/dao/exception/GatewaySecurityException/GatewaySecurityException()
+java/util/Arrays/asList(T[])

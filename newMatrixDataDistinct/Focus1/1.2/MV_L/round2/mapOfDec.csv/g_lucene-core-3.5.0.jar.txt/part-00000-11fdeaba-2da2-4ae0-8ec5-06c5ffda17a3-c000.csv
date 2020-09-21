@@ -1,0 +1,5 @@
+org/apache/lucene/queryParser/TokenMgrError/addEscapes(java.lang.String)@g_lucene-core-3.6.2.jar.txt	4
+org/apache/lucene/store/FSDirectory/deleteFile(java.lang.String)@g_lucene-core-3.6.2.jar.txt	3
+org/apache/lucene/util/CommandLineUtil/adjustDirectoryClassName(java.lang.String)@g_lucene-core-3.6.2.jar.txt	2
+org/apache/lucene/index/SegmentInfo/files()@g_lucene-core-3.6.2.jar.txt	1
+org/apache/lucene/index/SegmentInfo/hasSeparateNorms()@g_lucene-core-3.6.2.jar.txt	0

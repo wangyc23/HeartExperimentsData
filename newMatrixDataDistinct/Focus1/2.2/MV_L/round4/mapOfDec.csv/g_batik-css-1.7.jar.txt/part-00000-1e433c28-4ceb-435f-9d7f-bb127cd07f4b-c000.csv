@@ -1,0 +1,5 @@
+org/apache/batik/css/dom/CSSOMSVGPaint/AbstractModificationHandler/colorProfileChanged(java.lang.String)@g_batik-css-1.8.jar.txt	3
+org/apache/batik/css/dom/CSSOMSVGColor/AbstractModificationHandler/colorInsertedBefore(float,int)@g_batik-css-1.8.jar.txt	2
+org/apache/batik/css/dom/CSSOMSVGColor/AbstractModificationHandler/colorAppend(float)@g_batik-css-1.8.jar.txt	4
+org/apache/batik/css/engine/value/css2/SrcManager/createValue(org.w3c.css.sac.LexicalUnit,org.apache.batik.css.engine.CSSEngine)@g_batik-css-1.8.jar.txt	0
+org/apache/batik/css/engine/value/css2/FontFamilyManager/createValue(org.w3c.css.sac.LexicalUnit,org.apache.batik.css.engine.CSSEngine)@g_batik-css-1.8.jar.txt	1

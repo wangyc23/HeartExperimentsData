@@ -1,0 +1,5 @@
+org/xwiki/job/internal/AbstractJob/jobFinished(java.lang.Throwable)@g_xwiki-commons-job-7.4.jar.txt	4
+org/xwiki/logging/logback/internal/LogbackEventGenerator/append(ch.qos.logback.classic.spi.ILoggingEvent)@g_xwiki-commons-job-7.4.jar.txt	1
+org/xwiki/job/internal/AbstractJob/run()@g_xwiki-commons-job-7.4.jar.txt	3
+org/xwiki/job/AbstractJobStatus/startListening()@g_xwiki-commons-job-7.4.jar.txt	0
+org/xwiki/job/internal/xstream/SafeReflectionConverter/2/writeField(java.lang.String,java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_xwiki-commons-job-7.4.jar.txt	2

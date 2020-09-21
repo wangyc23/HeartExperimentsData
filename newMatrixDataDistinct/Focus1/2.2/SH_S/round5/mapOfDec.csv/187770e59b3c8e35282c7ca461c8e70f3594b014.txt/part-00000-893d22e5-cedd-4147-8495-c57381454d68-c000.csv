@@ -1,0 +1,5 @@
+cn/lcf/lcs/Nakatsu/main(java.lang.String[])@019622476a87a559da8127d1703f80813d3e7f7f.txt	1
+com/esrichina/pulgin/jdbc/dialet/DB2Dialect/getLimitString(java.lang.String,int,java.lang.String,int,java.lang.String)@0004078b81d8d3deb2c2c38e055c380f3b8d200d.txt	4
+com/esrichina/pulgin/jdbc/dialet/SQLServerDialect/getLimitString(java.lang.String,int,java.lang.String,int,java.lang.String)@0004078b81d8d3deb2c2c38e055c380f3b8d200d.txt	3
+com/esrichina/pulgin/jdbc/dialet/OracleDialect/getLimitString(java.lang.String,int,java.lang.String,int,java.lang.String)@0004078b81d8d3deb2c2c38e055c380f3b8d200d.txt	2
+cn/lcf/jedis/TicketSeller/run()@019622476a87a559da8127d1703f80813d3e7f7f.txt	0

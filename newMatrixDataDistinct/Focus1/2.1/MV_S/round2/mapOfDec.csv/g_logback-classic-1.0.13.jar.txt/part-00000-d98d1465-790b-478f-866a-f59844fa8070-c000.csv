@@ -1,0 +1,5 @@
+ch/qos/logback/classic/joran/action/LoggerAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_zuul-core-1.0.28.jar.txt	3
+com/netflix/zuul/filters/ZuulServletFilter/UnitTest/testRoutingException()@g_zuul-core-1.0.28.jar.txt	0
+ch/qos/logback/classic/joran/action/InsertFromJNDIAction/begin(ch.qos.logback.core.joran.spi.InterpretationContext,java.lang.String,org.xml.sax.Attributes)@g_zuul-core-1.0.28.jar.txt	1
+com/netflix/zuul/ZuulFilter/TestUnit/testSort()@g_zuul-core-1.0.28.jar.txt	2
+ch/qos/logback/classic/net/SyslogAppender/setupStackTraceLayout()@g_zuul-core-1.0.28.jar.txt	4

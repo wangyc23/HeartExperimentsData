@@ -1,0 +1,4 @@
+org/apache/maven/enforcer/rule/api/EnforcerRuleException/EnforcerRuleException(java.lang.String,java.lang.Exception)
+java/io/Reader/close()
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/read(java.io.Reader)
+java/lang/StringBuilder/append(java.lang.String)

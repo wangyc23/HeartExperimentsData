@@ -1,0 +1,5 @@
+org/apache/poi/hssf/usermodel/FontDetails/create(java.lang.String,java.util.Properties)@g_poi-3.12.jar.txt	1
+org/apache/poi/util/StringUtil/matchOptionalFormatting(java.lang.Number,java.lang.String,java.lang.StringBuffer)@g_poi-3.12.jar.txt	2
+org/apache/poi/hssf/usermodel/HSSFWorkbook/getUniqueSheetName(java.lang.String)@g_poi-3.9.jar.txt	3
+org/apache/poi/hssf/usermodel/HSSFWorkbook/getUniqueSheetName(java.lang.String)@g_poi-3.12.jar.txt	0
+org/apache/poi/hssf/usermodel/FontDetails/create(java.lang.String,java.util.Properties)@g_poi-3.9.jar.txt	4

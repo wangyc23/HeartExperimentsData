@@ -1,0 +1,5 @@
+org/apache/maven/shared/artifact/filter/ScopeArtifactFilter/reportFilteredArtifacts(org.codehaus.plexus.logging.Logger)@g_maven-common-artifact-filters-1.3.jar.txt	3
+org/apache/maven/shared/artifact/filter/ScopeArtifactFilter/include(org.apache.maven.artifact.Artifact)@g_maven-common-artifact-filters-1.4.jar.txt	1
+org/apache/maven/shared/artifact/filter/collection/ScopeFilter/filter(java.util.Set)@g_maven-common-artifact-filters-1.3.jar.txt	2
+org/apache/maven/shared/artifact/filter/PatternIncludesArtifactFilter/reportMissedCriteria(org.codehaus.plexus.logging.Logger)@g_maven-common-artifact-filters-1.3.jar.txt	4
+org/apache/maven/shared/artifact/filter/ScopeArtifactFilter/include(org.apache.maven.artifact.Artifact)@g_maven-common-artifact-filters-1.3.jar.txt	0

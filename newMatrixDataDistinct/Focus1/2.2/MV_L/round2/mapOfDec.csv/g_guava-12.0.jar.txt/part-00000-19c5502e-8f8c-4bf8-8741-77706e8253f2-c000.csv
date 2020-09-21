@@ -1,0 +1,5 @@
+com/google/common/net/InetAddresses/forUriString(java.lang.String)@g_guava-11.0.2.jar.txt	3
+com/google/common/base/FinalizableReferenceQueue/DecoupledLoader/getBaseUrl()@g_guava-11.0.2.jar.txt	4
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-14.0.1.jar.txt	1
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-11.0.2.jar.txt	0
+com/google/common/io/Files/simplifyPath(java.lang.String)@g_guava-11.0.2.jar.txt	2

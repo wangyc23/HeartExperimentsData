@@ -1,0 +1,5 @@
+org/apache/juli/FileHandler/closeWriter()@g_tomcat-embed-logging-juli-8.0.28.jar.txt	1
+org/apache/juli/FileHandler/publish(java.util.logging.LogRecord)@g_tomcat-embed-logging-juli-8.0.28.jar.txt	0
+org/glassfish/hk2/osgiresourcelocator/ServiceLoaderImpl/addProviders(org.osgi.framework.Bundle)@g_osgi-resource-locator-1.0.1.jar.txt	3
+org/apache/juli/FileHandler/openWriter()@g_tomcat-embed-logging-juli-8.0.28.jar.txt	2
+org/glassfish/hk2/osgiresourcelocator/ServiceLoaderImpl/lookupProviderClasses1(java.lang.Class)@g_osgi-resource-locator-1.0.1.jar.txt	4

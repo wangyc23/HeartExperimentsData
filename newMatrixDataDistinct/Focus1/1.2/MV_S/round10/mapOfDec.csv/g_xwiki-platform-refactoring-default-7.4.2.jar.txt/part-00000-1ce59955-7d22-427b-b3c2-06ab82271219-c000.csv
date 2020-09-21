@@ -1,0 +1,5 @@
+org/xwiki/wiki/internal/descriptor/DefaultWikiDescriptorManager/getAllIds()@g_xwiki-platform-wiki-default-7.4.jar.txt	4
+org/xwiki/wiki/internal/descriptor/properties/DefaultWikiPropertyGroupManager/loadForDescriptor(org.xwiki.wiki.descriptor.WikiDescriptor)@g_xwiki-platform-wiki-default-7.4.jar.txt	3
+org/xwiki/wiki/internal/descriptor/migrator/WikiDescriptorMigrator/fixDocument(java.lang.String)@g_xwiki-platform-wiki-default-7.4.jar.txt	1
+org/xwiki/wiki/internal/descriptor/document/DefaultWikiDescriptorDocumentHelper/getAllXWikiServerClassDocument()@g_xwiki-platform-wiki-default-7.4.jar.txt	0
+org/xwiki/wiki/internal/descriptor/builder/DefaultWikiDescriptorBuilder/buildDescriptorObject(java.util.List,com.xpn.xwiki.doc.XWikiDocument)@g_xwiki-platform-wiki-default-7.4.jar.txt	2

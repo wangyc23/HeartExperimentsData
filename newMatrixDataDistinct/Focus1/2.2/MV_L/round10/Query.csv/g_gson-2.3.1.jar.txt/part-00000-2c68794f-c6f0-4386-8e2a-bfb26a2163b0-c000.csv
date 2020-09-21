@@ -1,0 +1,4 @@
+java/lang/Comparable/compareTo(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getName()
+java/lang/Object/hashCode()

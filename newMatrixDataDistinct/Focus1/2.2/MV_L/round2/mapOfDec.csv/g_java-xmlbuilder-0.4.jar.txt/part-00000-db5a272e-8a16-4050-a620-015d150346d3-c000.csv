@@ -1,0 +1,5 @@
+com/jamesmurty/utils/XMLBuilder/assertCurrentElementHasNoTextNodes()@g_slf4j-api-1.7.2.jar.txt	0
+net/iharder/base64/Base64/encodeFileToFile(java.lang.String,java.lang.String)@g_slf4j-api-1.7.2.jar.txt	3
+net/iharder/base64/Base64/decode(java.lang.String,int)@g_slf4j-api-1.7.2.jar.txt	4
+com/jamesmurty/utils/XMLBuilder/toWriter(java.io.Writer,java.util.Properties)@g_slf4j-api-1.7.2.jar.txt	2
+net/iharder/base64/Base64/decodeFromFile(java.lang.String)@g_slf4j-api-1.7.2.jar.txt	1

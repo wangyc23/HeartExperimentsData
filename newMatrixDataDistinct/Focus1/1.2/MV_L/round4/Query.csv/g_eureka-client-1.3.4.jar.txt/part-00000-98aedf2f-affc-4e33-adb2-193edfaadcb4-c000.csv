@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/ArrayList/ArrayList(java.util.Collection)
+java/util/Map/get(java.lang.Object)
+com/netflix/appinfo/InstanceInfo$InstanceStatus/equals(java.lang.Object)

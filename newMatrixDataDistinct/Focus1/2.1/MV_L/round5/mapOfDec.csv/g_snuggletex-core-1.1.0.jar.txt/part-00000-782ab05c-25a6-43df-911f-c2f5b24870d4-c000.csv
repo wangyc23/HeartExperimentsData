@@ -1,0 +1,5 @@
+uk/ac/ed/ph/snuggletex/internal/DOMBuilder/handleToken(org.w3c.dom.Element,uk.ac.ed.ph.snuggletex.tokens.FlowToken)@g_jempbox-1.6.0.jar.txt	1
+uk/ac/ed/ph/snuggletex/dombuilding/AccentHandler/handleCommandTextMode(uk.ac.ed.ph.snuggletex.internal.DOMBuilder,org.w3c.dom.Element,uk.ac.ed.ph.snuggletex.tokens.CommandToken)@g_jempbox-1.6.0.jar.txt	2
+uk/ac/ed/ph/snuggletex/dombuilding/ArrayHandler/handleEnvironment(uk.ac.ed.ph.snuggletex.internal.DOMBuilder,org.w3c.dom.Element,uk.ac.ed.ph.snuggletex.tokens.EnvironmentToken)@g_jempbox-1.6.0.jar.txt	4
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_jempbox-1.6.0.jar.txt	0
+uk/ac/ed/ph/snuggletex/internal/WebPageBuilder/createWebPage(java.util.List)@g_jempbox-1.6.0.jar.txt	3

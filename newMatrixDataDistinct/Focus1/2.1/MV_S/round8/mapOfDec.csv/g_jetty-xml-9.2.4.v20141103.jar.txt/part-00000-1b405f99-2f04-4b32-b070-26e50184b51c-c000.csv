@@ -1,0 +1,5 @@
+org/eclipse/jetty/jmx/ObjectMBean/getMBeanInfo()@g_jetty-jmx-9.2.13.v20150730.jar.txt	0
+org/eclipse/jetty/server/CookieCutter/parseFields()@g_jetty-server-9.4.5.v20170502.jar.txt	3
+org/eclipse/jetty/server/handler/ContextHandler/Context/getContext(java.lang.String)@g_jetty-server-9.4.5.v20170502.jar.txt	2
+org/eclipse/jetty/server/session/Session/getValueNames()@g_jetty-server-9.4.5.v20170502.jar.txt	4
+org/eclipse/jetty/server/ShutdownMonitor/ShutdownMonitorRunnable/stopLifeCycles(java.util.function.Predicate,boolean)@g_jetty-server-9.4.5.v20170502.jar.txt	1

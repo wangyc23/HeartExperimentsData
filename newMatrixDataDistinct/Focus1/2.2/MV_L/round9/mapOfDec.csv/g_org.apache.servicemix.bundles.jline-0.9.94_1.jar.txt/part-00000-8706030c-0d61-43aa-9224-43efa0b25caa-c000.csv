@@ -1,0 +1,5 @@
+jline/ClassNameCompletor/getClassFiles(java.lang.String,java.util.Set,java.io.File,int[])@g_jline-1.0.jar.txt	1
+jline/FileNameCompletor/matchFiles(java.lang.String,java.lang.String,java.io.File[],java.util.List)@g_jline-1.0.jar.txt	0
+org/apache/maven/it/util/FileUtils/getFilesFromExtension(java.lang.String,java.lang.String[])@g_maven-verifier-1.2.jar.txt	3
+jline/ClassNameCompletor/getClassNames()@g_jline-1.0.jar.txt	2
+org/apache/maven/it/util/FileUtils/copyDirectoryStructure(java.io.File,java.io.File,java.io.File,boolean)@g_maven-verifier-1.2.jar.txt	4

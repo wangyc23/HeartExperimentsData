@@ -1,0 +1,5 @@
+org/springframework/security/access/intercept/MethodInvocationPrivilegeEvaluator/isAllowed(org.aopalliance.intercept.MethodInvocation,org.springframework.security.core.Authentication)@g_spring-security-core-4.0.0.RELEASE.jar.txt	1
+org/springframework/security/access/expression/method/MethodSecurityEvaluationContext/addArgumentsAsVariables()@g_spring-security-core-4.0.0.RELEASE.jar.txt	0
+org/springframework/security/access/intercept/MethodInvocationPrivilegeEvaluator/isAllowed(org.aopalliance.intercept.MethodInvocation,org.springframework.security.core.Authentication)@g_spring-security-core-4.0.1.RELEASE.jar.txt	3
+org/springframework/security/access/expression/method/MethodSecurityEvaluationContext/addArgumentsAsVariables()@g_spring-security-core-4.0.1.RELEASE.jar.txt	2
+org/springframework/security/jackson2/UnmodifiableSetDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_spring-security-core-4.0.0.RELEASE.jar.txt	4

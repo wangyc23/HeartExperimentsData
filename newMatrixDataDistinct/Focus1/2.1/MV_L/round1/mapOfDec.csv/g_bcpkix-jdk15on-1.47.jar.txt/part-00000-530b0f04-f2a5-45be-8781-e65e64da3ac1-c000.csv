@@ -1,0 +1,5 @@
+org/bouncycastle/cms/CMSSignedDataParser/getAttributeCertificates()@g_bcpkix-jdk15on-1.49.jar.txt	4
+org/bouncycastle/eac/jcajce/JcaPublicKeyConverter/getPublicKeyDataObject(org.bouncycastle.asn1.ASN1ObjectIdentifier,java.security.PublicKey)@g_bcpkix-jdk15on-1.49.jar.txt	0
+org/bouncycastle/operator/jcajce/OperatorHelper/getSignatureName(org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_bcpkix-jdk15on-1.49.jar.txt	2
+org/bouncycastle/pkcs/bc/PKCS12PBEUtils/createMacCalculator(org.bouncycastle.asn1.ASN1ObjectIdentifier,org.bouncycastle.crypto.ExtendedDigest,org.bouncycastle.asn1.pkcs.PKCS12PBEParams,char[])@g_bcpkix-jdk15on-1.49.jar.txt	3
+org/bouncycastle/eac/jcajce/JcaPublicKeyConverter/getPublicKeyDataObject(org.bouncycastle.asn1.ASN1ObjectIdentifier,java.security.PublicKey)@g_bcpkix-jdk15on-1.53.jar.txt	1

@@ -1,0 +1,5 @@
+org/commoncrawl/warc/WARCFileInputFormat/createRecordReader(org.apache.hadoop.mapreduce.InputSplit,org.apache.hadoop.mapreduce.TaskAttemptContext)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	4
+org/commoncrawl/examples/S3ReaderTest/main(java.lang.String[])@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	0
+com/aliyun/emr/example/ODPSJavaSample/SaveRecord/call(java.util.List,com.aliyun.emr.example.Record,com.aliyun.emr.example.TableSchema)@01972196fa49114d6600eda3eb4ccd988f3d8868.txt	3
+org/commoncrawl/examples/mapreduce/TagCounterMap/TagCounterMapper/map(org.apache.hadoop.io.Text,org.archive.io.ArchiveReader,org.apache.hadoop.mapreduce.Mapper.Context)@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	2
+org/commoncrawl/examples/WARCReaderTest/main(java.lang.String[])@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	1

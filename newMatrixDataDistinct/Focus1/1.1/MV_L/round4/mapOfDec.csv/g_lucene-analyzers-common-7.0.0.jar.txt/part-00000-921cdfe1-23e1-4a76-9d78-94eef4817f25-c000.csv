@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/synonym/SolrSynonymParser/split(java.lang.String,java.lang.String)@g_lucene-analyzers-common-6.0.0.jar.txt	0
+org/apache/lucene/analysis/hunspell/Dictionary/DoubleASCIIFlagParsingStrategy/parseFlags(java.lang.String)@g_lucene-analyzers-common-6.0.0.jar.txt	4
+org/apache/lucene/analysis/synonym/SolrSynonymParser/split(java.lang.String,java.lang.String)@g_lucene-analyzers-common-6.2.1.jar.txt	1
+org/apache/lucene/analysis/util/RollingCharBuffer/get(int)@g_lucene-analyzers-common-6.0.0.jar.txt	2
+org/apache/lucene/analysis/util/AnalysisSPILoader/newFactoryClassInstance(java.lang.Class,java.util.Map)@g_lucene-analyzers-common-6.0.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/catalina/loader/WebappClassLoaderBase/clearReferencesResourceBundles()@g_tomcat-embed-core-8.0.20.jar.txt	0
+org/apache/tomcat/util/net/NioEndpoint/Poller/run()@g_tomcat-embed-core-8.0.20.jar.txt	3
+org/apache/catalina/loader/WebappClassLoaderBase/clearReferencesRmiTargets()@g_tomcat-embed-core-8.0.20.jar.txt	4
+org/apache/tomcat/util/net/NioBlockingSelector/BlockPoller/run()@g_tomcat-embed-core-8.0.20.jar.txt	1
+org/apache/coyote/http11/InternalNioOutputBuffer/flushBuffer(boolean)@g_tomcat-embed-core-8.0.20.jar.txt	2

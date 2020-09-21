@@ -1,0 +1,5 @@
+org/apache/lucene/search/join/TermsIncludingScoreQuery/1/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-join-6.0.0.jar.txt	4
+org/apache/lucene/search/join/GlobalOrdinalsQuery/W/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-join-6.2.1.jar.txt	2
+org/apache/lucene/search/join/GlobalOrdinalsQuery/W/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-join-6.0.0.jar.txt	0
+org/apache/lucene/search/join/GlobalOrdinalsWithScoreQuery/W/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-join-6.2.1.jar.txt	3
+org/apache/lucene/search/join/GlobalOrdinalsWithScoreQuery/W/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-join-6.0.0.jar.txt	1

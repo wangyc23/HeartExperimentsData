@@ -1,0 +1,4 @@
+java/io/PrintWriter/println()
+org/codehaus/plexus/logging/Logger/isDebugEnabled()
+java/io/File/createTempFile(java.lang.String,java.lang.String,java.io.File)
+java/lang/StringBuilder/append(java.lang.String)

@@ -1,0 +1,5 @@
+org/springframework/jmx/export/MBeanExporter/autodetect(org.springframework.jmx.export.MBeanExporter$AutodetectCallback)@g_spring-2.5.6.jar.txt	3
+org/springframework/jndi/JndiObjectFactoryBean/lookupWithFallback()@g_spring-2.5.6.jar.txt	0
+org/springframework/jdbc/datasource/DriverManagerDataSource/setDriverClassName(java.lang.String)@g_spring-2.5.6.jar.txt	4
+org/springframework/web/context/ContextLoader/initWebApplicationContext(javax.servlet.ServletContext)@g_spring-2.5.6.jar.txt	2
+org/springframework/jdbc/support/DatabaseStartupValidator/afterPropertiesSet()@g_spring-2.5.6.jar.txt	1

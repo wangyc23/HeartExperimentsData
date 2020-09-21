@@ -1,0 +1,4 @@
+org/codehaus/jackson/JsonParser$NumberType/ordinal()
+org/codehaus/jackson/impl/JsonGeneratorBase/writeNumber(double)
+org/codehaus/jackson/JsonToken/ordinal()
+org/codehaus/jackson/impl/JsonGeneratorBase/writeBoolean(boolean)

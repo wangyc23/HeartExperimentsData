@@ -1,0 +1,5 @@
+io/netty/handler/codec/http/multipart/AbstractMemoryHttpData/renameTo(java.io.File)@g_netty-codec-http-4.0.25.Final.jar.txt	3
+io/netty/handler/codec/spdy/DefaultSpdySynReplyFrame/toString()@g_netty-codec-http-4.0.25.Final.jar.txt	0
+io/netty/handler/codec/spdy/SpdyHttpEncoder/encode(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.HttpObject,java.util.List)@g_netty-codec-http-4.0.25.Final.jar.txt	4
+io/netty/handler/codec/http/HttpObjectEncoder/encode(io.netty.channel.ChannelHandlerContext,java.lang.Object,java.util.List)@g_netty-codec-http-4.0.25.Final.jar.txt	2
+io/netty/handler/codec/spdy/DefaultSpdySynReplyFrame/toString()@g_netty-codec-http-4.1.7.Final.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/lang/Short/intValue()
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/Byte/intValue()

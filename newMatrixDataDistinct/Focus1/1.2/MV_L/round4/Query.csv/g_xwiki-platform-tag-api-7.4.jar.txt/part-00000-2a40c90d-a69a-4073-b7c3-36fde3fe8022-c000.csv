@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWikiContext/getUserReference()
+org/apache/commons/lang3/StringUtils/isBlank(java.lang.CharSequence)
+org/apache/commons/lang3/StringUtils/equals(java.lang.CharSequence,java.lang.CharSequence)
+com/xpn/xwiki/XWiki/saveDocument(com.xpn.xwiki.doc.XWikiDocument,java.lang.String,boolean,com.xpn.xwiki.XWikiContext)

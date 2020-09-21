@@ -1,0 +1,5 @@
+com/cathive/fx/cdi/FXMLComponentInterceptor/createCdiFXMLComponent(javax.interceptor.InvocationContext)@0425ed898ce22ac9320119c92ef227937ad10323.txt	0
+com/cathive/fx/inject/core/FXMLComponentBuilder/getStringConverter(java.lang.Class)@0425ed898ce22ac9320119c92ef227937ad10323.txt	1
+com/cathive/fx/cdi/JavaFXExtension/CdiApplicationBean/getId()@0425ed898ce22ac9320119c92ef227937ad10323.txt	3
+com/cathive/fx/apps/contacts/Messages/getMessages()@0425ed898ce22ac9320119c92ef227937ad10323.txt	4
+com/cathive/fx/inject/core/FXMLComponentBuilder/build()@0425ed898ce22ac9320119c92ef227937ad10323.txt	2

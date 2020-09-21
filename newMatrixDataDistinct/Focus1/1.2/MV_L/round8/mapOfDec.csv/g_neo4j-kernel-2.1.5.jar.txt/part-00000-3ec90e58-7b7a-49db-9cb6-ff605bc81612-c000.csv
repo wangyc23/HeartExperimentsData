@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/transaction/XaDataSourceManager/getBranchId(javax.transaction.xa.XAResource)@g_neo4j-kernel-2.1.7.jar.txt	4
+org/neo4j/helpers/collection/MapUtil/store(java.util.Map,java.io.OutputStream)@g_neo4j-kernel-2.1.7.jar.txt	3
+org/neo4j/kernel/impl/api/index/IndexingService/startIndexes()@g_neo4j-kernel-2.1.7.jar.txt	0
+org/neo4j/kernel/StandardExpander/toTypeMap(java.util.Map)@g_neo4j-kernel-2.1.7.jar.txt	2
+org/neo4j/kernel/configuration/Config/applyChanges(java.util.Map)@g_neo4j-kernel-2.1.7.jar.txt	1

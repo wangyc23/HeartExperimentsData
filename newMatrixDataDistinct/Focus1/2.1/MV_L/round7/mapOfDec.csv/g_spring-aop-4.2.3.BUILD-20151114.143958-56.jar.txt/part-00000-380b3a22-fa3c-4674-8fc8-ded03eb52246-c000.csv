@@ -1,0 +1,5 @@
+org/springframework/aop/framework/AdvisedSupport/removeAdvisor(int)@g_spring-aop-4.2.3.BUILD-20151114.225414-58.jar.txt	3
+org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscoverer/bindAnnotationsFromVarNames(java.util.List)@g_spring-aop-4.2.3.BUILD-20151114.225414-58.jar.txt	1
+org/springframework/aop/framework/autoproxy/BeanFactoryAdvisorRetrievalHelper/findAdvisorBeans()@g_spring-aop-4.2.3.BUILD-20151114.225414-58.jar.txt	4
+org/springframework/aop/target/ThreadLocalTargetSource/getTarget()@g_spring-aop-4.2.3.BUILD-20151114.225414-58.jar.txt	0
+org/springframework/aop/framework/ProxyFactoryBean/initializeAdvisorChain()@g_spring-aop-4.2.3.BUILD-20151114.225414-58.jar.txt	2

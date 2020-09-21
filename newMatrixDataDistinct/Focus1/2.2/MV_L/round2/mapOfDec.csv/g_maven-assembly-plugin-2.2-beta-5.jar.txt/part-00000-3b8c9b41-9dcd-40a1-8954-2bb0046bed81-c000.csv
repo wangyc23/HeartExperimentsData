@@ -1,0 +1,5 @@
+org/apache/maven/plugin/assembly/filter/SimpleAggregatingDescriptorHandler/finalizeArchiveCreation(org.codehaus.plexus.archiver.Archiver)@g_maven-assembly-plugin-2.2.1.jar.txt	1
+org/apache/maven/plugin/assembly/mojos/AbstractAssemblyMojo/execute()@g_maven-assembly-plugin-2.3.jar.txt	3
+org/apache/maven/plugin/assembly/filter/SimpleAggregatingDescriptorHandler/finalizeArchiveCreation(org.codehaus.plexus.archiver.Archiver)@g_maven-assembly-plugin-2.3.jar.txt	4
+org/apache/maven/plugin/assembly/mojos/AbstractAssemblyMojo/execute()@g_maven-assembly-plugin-2.2.1.jar.txt	0
+org/apache/maven/plugin/assembly/interpolation/AssemblyInterpolator/interpolate(org.apache.maven.plugin.assembly.model.Assembly,org.apache.maven.project.MavenProject,org.apache.maven.plugin.assembly.AssemblerConfigurationSource)@g_maven-assembly-plugin-2.2.1.jar.txt	2

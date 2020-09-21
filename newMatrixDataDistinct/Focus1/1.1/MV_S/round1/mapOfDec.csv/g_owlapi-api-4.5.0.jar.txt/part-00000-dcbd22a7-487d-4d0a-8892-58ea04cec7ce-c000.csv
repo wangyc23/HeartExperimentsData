@@ -1,0 +1,5 @@
+org/coode/xml/XMLWriterImpl/setupEntities()@g_skos-api-3.1.jar.txt	0
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/checkForImportsChange(org.semanticweb.owlapi.model.OWLOntologyChange)@g_skos-api-3.1.jar.txt	3
+uk/ac/manchester/cs/owl/owlapi/turtle/parser/TurtleParser/getIRI(java.lang.String)@g_skos-api-3.1.jar.txt	1
+org/semanticweb/owlapi/util/OWLObjectPropertyManager/getPropertyPartialOrdering()@g_skos-api-3.1.jar.txt	2
+org/coode/owlapi/functionalparser/OWLFunctionalSyntaxParser/getIRI(java.lang.String)@g_skos-api-3.1.jar.txt	4

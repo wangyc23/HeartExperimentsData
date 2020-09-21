@@ -1,0 +1,5 @@
+org/neo4j/graphalgo/impl/path/ShortestPath/goOneStep(org.neo4j.graphalgo.impl.path.ShortestPath$DirectionData,org.neo4j.graphalgo.impl.path.ShortestPath$DirectionData,org.neo4j.graphalgo.impl.path.ShortestPath$Hits,org.neo4j.graphalgo.impl.path.ShortestPath$DirectionData,boolean)@g_neo4j-graph-algo-2.1.6.jar.txt	3
+org/neo4j/graphalgo/impl/util/MatrixUtil/DoubleVector/toString()@g_neo4j-graph-algo-2.1.5.jar.txt	4
+org/neo4j/graphalgo/impl/path/ShortestPath/goOneStep(org.neo4j.graphalgo.impl.path.ShortestPath$DirectionData,org.neo4j.graphalgo.impl.path.ShortestPath$DirectionData,org.neo4j.graphalgo.impl.path.ShortestPath$Hits,org.neo4j.graphalgo.impl.path.ShortestPath$DirectionData,boolean)@g_neo4j-graph-algo-2.1.5.jar.txt	1
+org/neo4j/graphalgo/impl/path/ShortestPath/internalPaths(org.neo4j.graphdb.Node,org.neo4j.graphdb.Node,boolean)@g_neo4j-graph-algo-2.1.6.jar.txt	2
+org/neo4j/graphalgo/impl/path/ShortestPath/internalPaths(org.neo4j.graphdb.Node,org.neo4j.graphdb.Node,boolean)@g_neo4j-graph-algo-2.1.5.jar.txt	0

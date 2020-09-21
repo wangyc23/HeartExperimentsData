@@ -1,0 +1,5 @@
+com/sun/xml/bind/v2/runtime/JAXBContextImpl/toString()@g_jaxb-impl-2.2.6.jar.txt	4
+com/sun/xml/bind/marshaller/XMLWriter/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jaxb-impl-2.2.6.jar.txt	0
+com/sun/xml/bind/v2/ContextFactory/loadIndexedClasses(java.lang.String,java.lang.ClassLoader)@g_jaxb-impl-2.2.6.jar.txt	2
+com/sun/xml/bind/v2/schemagen/XmlSchemaGenerator/Namespace/handleElementProp(com.sun.xml.bind.v2.model.core.ElementPropertyInfo)@g_jaxb-impl-2.2.6.jar.txt	3
+com/sun/xml/txw2/output/XMLWriter/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jaxb-impl-2.2.6.jar.txt	1

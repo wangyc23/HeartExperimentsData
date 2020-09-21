@@ -1,0 +1,5 @@
+org/apache/commons/exec/launcher/VmsCommandLauncher/createCommandFile(org.apache.commons.exec.CommandLine,java.util.Map)@g_commons-exec-1.3.jar.txt	3
+org/apache/commons/exec/util/MapUtils/prefix(java.util.Map,java.lang.String)@g_commons-exec-1.3.jar.txt	0
+eu/learnpad/qm/component/QuestionnaireManager/printSomething(java.lang.String)@g_commons-exec-1.3.jar.txt	2
+org/apache/commons/exec/CommandLine/translateCommandline(java.lang.String)@g_commons-exec-1.3.jar.txt	4
+org/apache/commons/exec/environment/EnvironmentUtils/toStrings(java.util.Map)@g_commons-exec-1.3.jar.txt	1

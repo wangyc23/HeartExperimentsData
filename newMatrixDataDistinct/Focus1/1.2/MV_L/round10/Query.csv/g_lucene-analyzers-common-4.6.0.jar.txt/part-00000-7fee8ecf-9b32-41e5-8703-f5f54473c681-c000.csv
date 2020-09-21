@@ -1,0 +1,4 @@
+org/apache/lucene/util/IndexableBinaryStringTools/encode(byte[],int,int,char[],int,int)
+org/apache/lucene/analysis/tokenattributes/CharTermAttribute/setLength(int)
+java/text/Collator/getCollationKey(java.lang.String)
+org/apache/lucene/analysis/tokenattributes/CharTermAttribute/resizeBuffer(int)

@@ -1,0 +1,4 @@
+org/eclipse/rdf4j/rio/rdfxml/RDFXMLParser/getParserConfig()
+org/eclipse/rdf4j/rio/rdfxml/RDFXMLParser/resolveURI(java.lang.String)
+org/eclipse/rdf4j/rio/rdfxml/RDFXMLParser$NodeElement/getResource()
+org/eclipse/rdf4j/rio/rdfxml/RDFXMLParser$PropertyElement/getLastListResource()

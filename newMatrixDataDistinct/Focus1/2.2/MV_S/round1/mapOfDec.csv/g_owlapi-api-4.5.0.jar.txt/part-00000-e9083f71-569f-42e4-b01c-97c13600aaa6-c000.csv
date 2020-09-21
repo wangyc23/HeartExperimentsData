@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/metrics/HiddenGCICount/recomputeMetric()@g_owlapi-tools-4.5.0.jar.txt	0
+uk/ac/manchester/cs/owl/owlapi/OWLSameIndividualAxiomImpl/asOWLSubClassOfAxioms()@g_skos-api-3.1.jar.txt	4
+org/semanticweb/owlapi/metrics/NumberOfClassesWithMultipleInheritance/recomputeMetric()@g_owlapi-tools-4.5.0.jar.txt	1
+org/semanticweb/owlapi/metrics/MaximumNumberOfNamedSuperclasses/recomputeMetric()@g_owlapi-tools-4.5.0.jar.txt	2
+uk/ac/manchester/cs/owlapi/modularity/SyntacticLocalityModuleExtractor/outputSignature(java.lang.String,java.util.Set,boolean)@g_skos-api-3.1.jar.txt	3

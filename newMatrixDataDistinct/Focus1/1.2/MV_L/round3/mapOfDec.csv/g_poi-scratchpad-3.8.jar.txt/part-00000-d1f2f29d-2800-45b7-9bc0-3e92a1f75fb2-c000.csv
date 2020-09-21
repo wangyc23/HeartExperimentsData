@@ -1,0 +1,5 @@
+org/apache/poi/hwpf/model/CHPBinTable/rebuild(org.apache.poi.hwpf.model.ComplexFileTable)@g_poi-scratchpad-3.9.jar.txt	2
+org/apache/poi/hwpf/sprm/CharacterSprmUncompressor/unCompressCHPOperation(org.apache.poi.hwpf.usermodel.CharacterProperties,org.apache.poi.hwpf.usermodel.CharacterProperties,org.apache.poi.hwpf.sprm.SprmOperation)@g_poi-scratchpad-3.9.jar.txt	3
+org/apache/poi/hdf/event/EventBridge/flushHeaderProps(int,int)@g_poi-scratchpad-3.11.jar.txt	1
+org/apache/poi/hwpf/converter/WordToHtmlConverter/processTable(org.apache.poi.hwpf.HWPFDocumentCore,org.w3c.dom.Element,org.apache.poi.hwpf.usermodel.Table)@g_poi-scratchpad-3.9.jar.txt	4
+org/apache/poi/hdf/event/EventBridge/flushHeaderProps(int,int)@g_poi-scratchpad-3.9.jar.txt	0

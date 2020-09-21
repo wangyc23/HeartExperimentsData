@@ -1,0 +1,5 @@
+org/xwiki/extension/job/internal/AbstractExtensionPlanJob/uninstallBackwardDependencies(org.xwiki.extension.InstalledExtension,java.util.List,boolean)@g_xwiki-commons-extension-api-7.4.jar.txt	1
+org/xwiki/extension/job/internal/AbstractInstallPlanJob/getBackwardDependencies(java.util.Collection,java.lang.String)@g_xwiki-commons-extension-api-7.4.2.jar.txt	3
+org/xwiki/extension/job/internal/AbstractInstallPlanJob/start(java.util.Map)@g_xwiki-commons-extension-api-7.4.jar.txt	4
+org/xwiki/extension/job/internal/AbstractInstallPlanJob/start(java.util.Map)@g_xwiki-commons-extension-api-7.4.2.jar.txt	2
+org/xwiki/extension/job/internal/AbstractExtensionPlanJob/uninstallBackwardDependencies(org.xwiki.extension.InstalledExtension,java.util.List,boolean)@g_xwiki-commons-extension-api-7.4.2.jar.txt	0

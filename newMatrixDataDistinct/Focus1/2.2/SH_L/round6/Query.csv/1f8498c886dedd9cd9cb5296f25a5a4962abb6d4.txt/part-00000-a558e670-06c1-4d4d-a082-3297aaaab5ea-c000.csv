@@ -1,0 +1,4 @@
+com/inductiveautomation/opcua/stack/core/types/structured/SignatureData/SignatureData()
+com/inductiveautomation/opcua/stack/core/serialization/UaEncoder/encodeExtensionObject(java.lang.String,com.inductiveautomation.opcua.stack.core.types.builtin.ExtensionObject)
+com/inductiveautomation/opcua/stack/core/serialization/UaEncoder/encodeSerializable(java.lang.String,T)
+com/inductiveautomation/opcua/stack/core/serialization/UaEncoder/encodeArray(java.lang.String,T[],java.util.function.BiConsumer)

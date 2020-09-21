@@ -1,0 +1,5 @@
+org/apache/velocity/runtime/directive/Include/renderOutput(org.apache.velocity.runtime.parser.node.Node,org.apache.velocity.context.InternalContextAdapter,java.io.Writer)@g_velocity-1.5.jar.txt	4
+org/apache/velocity/runtime/parser/node/ASTEQNode/evaluate(org.apache.velocity.context.InternalContextAdapter)@g_velocity-1.5.jar.txt	2
+org/apache/velocity/runtime/directive/Parse/render(org.apache.velocity.context.InternalContextAdapter,java.io.Writer,org.apache.velocity.runtime.parser.node.Node)@g_velocity-1.5.jar.txt	1
+org/apache/velocity/runtime/parser/node/ASTNENode/evaluate(org.apache.velocity.context.InternalContextAdapter)@g_velocity-1.5.jar.txt	0
+org/apache/velocity/runtime/parser/node/ASTReference/render(org.apache.velocity.context.InternalContextAdapter,java.io.Writer)@g_velocity-1.5.jar.txt	3

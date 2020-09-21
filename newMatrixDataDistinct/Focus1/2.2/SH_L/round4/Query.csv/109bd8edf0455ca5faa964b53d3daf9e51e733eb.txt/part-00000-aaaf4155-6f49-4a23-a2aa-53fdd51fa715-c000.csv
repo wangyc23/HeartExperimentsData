@@ -1,0 +1,4 @@
+java/lang/Enum/name()
+org/keycloak/events/EventBuilder/clone()
+org/keycloak/services/managers/ClientSessionCode/getClientSession()
+org/keycloak/services/ErrorPage/error(org.keycloak.models.KeycloakSession,java.lang.String,java.lang.Object[])

@@ -1,0 +1,5 @@
+org/jboss/errai/ui/test/handler/client/HandlerTemplateTestApp/setup()@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	0
+org/jboss/errai/ui/test/basic/client/BasicTemplateTestApp/setup()@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	1
+org/jboss/errai/ui/test/quickhandler/client/QuickHandlerTemplateTestApp/setup()@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	4
+org/jboss/errai/ui/test/designer/client/DesignerTemplateTest/testInsertAndReplaceNested()@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	3
+org/jboss/errai/bus/server/ExpiryService/callback(org.jboss.errai.bus.client.api.Message)@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	2

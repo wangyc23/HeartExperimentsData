@@ -1,0 +1,5 @@
+morfologik/fsa/CFSA2Serializer/emitNodes(morfologik.fsa.FSA,java.io.OutputStream,com.carrotsearch.hppc.IntArrayList)@g_morfologik-fsa-1.7.0.jar.txt	4
+morfologik/fsa/CFSA2Serializer/computeLabelsIndex(morfologik.fsa.FSA)@g_morfologik-fsa-1.7.0.jar.txt	2
+morfologik/util/ResourceUtils/openInputStream(java.lang.String)@g_morfologik-fsa-1.7.0.jar.txt	0
+morfologik/fsa/CFSA2Serializer/linearize(morfologik.fsa.FSA)@g_morfologik-fsa-1.7.0.jar.txt	3
+morfologik/fsa/FSAUtils/visitNode(java.io.Writer,int,morfologik.fsa.FSA,int,java.util.BitSet)@g_morfologik-fsa-1.7.0.jar.txt	1

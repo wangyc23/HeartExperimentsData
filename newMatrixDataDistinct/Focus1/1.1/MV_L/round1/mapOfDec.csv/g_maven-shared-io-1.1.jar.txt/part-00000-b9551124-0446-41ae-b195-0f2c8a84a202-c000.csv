@@ -1,0 +1,5 @@
+org/apache/maven/shared/io/download/DefaultDownloadManager/download(java.lang.String,java.util.List,org.apache.maven.shared.io.logging.MessageHolder)@g_plexus-compiler-api-1.5.3.jar.txt	2
+org/apache/maven/shared/io/logging/DefaultMessageHolder/Message/render()@g_plexus-compiler-api-1.5.3.jar.txt	4
+org/codehaus/plexus/compiler/util/scan/mapping/SuffixMapping/getTargetFiles(java.io.File,java.lang.String)@g_plexus-compiler-api-1.5.3.jar.txt	0
+org/apache/maven/shared/io/scan/AbstractResourceInclusionScanner/scanForSources(java.io.File,java.util.Set,java.util.Set)@g_plexus-compiler-api-1.5.3.jar.txt	1
+org/apache/maven/shared/io/scan/StaleResourceScanner/getIncludedSources(java.io.File,java.io.File)@g_plexus-compiler-api-1.5.3.jar.txt	3

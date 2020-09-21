@@ -1,0 +1,4 @@
+java/lang/Character/isWhitespace(char)
+java/io/Writer/write(java.lang.String)
+java/util/ListIterator/previous()
+org/htmlcleaner/BrowserCompactXmlSerializer/escapeXml(java.lang.String)

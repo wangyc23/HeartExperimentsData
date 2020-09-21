@@ -1,0 +1,4 @@
+java/util/concurrent/atomic/AtomicInteger/getAndIncrement()
+java/util/Iterator/hasNext()
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/util/Iterator/next()

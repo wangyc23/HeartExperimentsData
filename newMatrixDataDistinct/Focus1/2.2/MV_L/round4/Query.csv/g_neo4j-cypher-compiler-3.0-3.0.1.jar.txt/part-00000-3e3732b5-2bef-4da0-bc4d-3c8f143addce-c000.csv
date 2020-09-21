@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+scala/runtime/BoxesRunTime/boxToBoolean(boolean)
+scala/runtime/BoxesRunTime/unboxToInt(java.lang.Object)
+scala/reflect/ClassTag$/apply(java.lang.Class)

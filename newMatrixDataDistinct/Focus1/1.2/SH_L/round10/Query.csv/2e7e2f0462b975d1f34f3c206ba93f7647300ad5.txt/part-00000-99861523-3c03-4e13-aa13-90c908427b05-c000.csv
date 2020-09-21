@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+com/xeiam/xchange/dto/marketdata/Trades/Trades(java.util.List,com.xeiam.xchange.dto.marketdata.Trades.TradeSortType)
+com/xeiam/xchange/bitmarket/dto/marketdata/BitMarketTrade/getPrice()
+com/xeiam/xchange/bitmarket/dto/marketdata/BitMarketTrade/getAmount()

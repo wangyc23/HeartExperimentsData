@@ -1,0 +1,5 @@
+org/jboss/resteasy/test/client/ClientBuilderTest/closeClientSendRequestTest()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+org/jboss/resteasy/jsapi/JSAPIWriter/writeJavaScript(java.lang.String,java.io.PrintWriter,org.jboss.resteasy.jsapi.ServiceRegistry)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+org/jboss/resteasy/springmvc/tjws/TJWSEmbeddedSpringMVCServer/getApplicationContext()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+se/unlogic/eagledns/EagleDNS/addRRset(se.unlogic.eagledns.Name,se.unlogic.eagledns.Message,se.unlogic.eagledns.RRset,int,int)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+se/unlogic/standardutils/dao/AnnotatedDAO/getAll(se.unlogic.standardutils.dao.LowLevelQuery,se.unlogic.standardutils.dao.TransactionHandler)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3

@@ -1,0 +1,4 @@
+javax/ws/rs/client/Invocation/Builder/accept(javax.ws.rs.core.MediaType[])
+java/lang/Object/toString()
+javax/ws/rs/client/WebTarget/resolveTemplate(java.lang.String,java.lang.Object)
+javax/ws/rs/client/WebTarget/request()

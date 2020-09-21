@@ -1,0 +1,5 @@
+org/apache/http/protocol/UriPatternMatcher/lookup(java.lang.String)@g_httpcore-4.2.1.jar.txt	0
+org/apache/http/pool/AbstractConnPool/getPoolEntryBlocking(java.lang.Object,java.lang.Object,long,java.util.concurrent.TimeUnit,org.apache.http.pool.PoolEntryFuture)@g_httpcore-4.2.1.jar.txt	2
+org/apache/http/pool/AbstractConnPool/closeIdle(long,java.util.concurrent.TimeUnit)@g_httpcore-4.2.1.jar.txt	3
+org/apache/http/impl/io/AbstractSessionOutputBuffer/writeEncoded(java.nio.CharBuffer)@g_httpcore-4.2.1.jar.txt	1
+org/glassfish/hk2/osgiresourcelocator/ServiceLoaderImpl/load(java.io.InputStream)@g_httpcore-4.2.1.jar.txt	4

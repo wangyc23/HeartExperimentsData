@@ -1,0 +1,4 @@
+io/netty/buffer/ByteBufAllocator/buffer(int,int)
+io/netty/buffer/ByteBuf/retainedSlice(int,int)
+java/lang/IllegalStateException/IllegalStateException()
+io/netty/buffer/ByteBuf/skipBytes(int)

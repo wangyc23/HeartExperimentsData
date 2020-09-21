@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.Object)
+org/codehaus/plexus/util/xml/XMLWriter/addAttribute(java.lang.String,java.lang.String)
+java/lang/StringBuilder/toString()
+org/codehaus/plexus/util/xml/XMLWriter/endElement()

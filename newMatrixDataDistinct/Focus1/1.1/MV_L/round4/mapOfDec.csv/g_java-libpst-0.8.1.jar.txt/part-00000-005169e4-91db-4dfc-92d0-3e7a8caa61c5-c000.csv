@@ -1,0 +1,5 @@
+org/xerial/snappy/Snappy/getNativeLibraryVersion()@g_snappy-java-1.1.2.6.jar.txt	1
+com/lowagie/text/xml/SAXiTextHandler/handleEndingTags(java.lang.String)@g_itext-2.1.2.jar.txt	2
+com/lowagie/text/pdf/BaseFont/createEncoding()@g_itext-2.1.2.jar.txt	3
+org/xerial/snappy/SnappyLoader/findNativeLibrary()@g_snappy-java-1.1.2.6.jar.txt	0
+com/lowagie/text/pdf/codec/PngImage/readPng()@g_itext-2.1.2.jar.txt	4

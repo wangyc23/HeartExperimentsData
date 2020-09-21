@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/nio/channels/ReadableByteChannel/read(java.nio.ByteBuffer)
+java/lang/StringBuilder/append(long)
+java/lang/StringBuilder/StringBuilder()

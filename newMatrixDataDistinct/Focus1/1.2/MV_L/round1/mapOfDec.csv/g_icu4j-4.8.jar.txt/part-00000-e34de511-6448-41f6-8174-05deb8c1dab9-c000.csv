@@ -1,0 +1,5 @@
+com/ibm/icu/text/CollationParsedRuleBuilder/addMultiCMontractions(com.ibm.icu.text.CollationParsedRuleBuilder$BuildTable,com.ibm.icu.text.CollationElementIterator,com.ibm.icu.text.CollationParsedRuleBuilder$Elements,char[],int[],int,char,int,java.lang.String)@g_icu4j-50.1.1.jar.txt	0
+com/ibm/icu/text/DateTimePatternGenerator/adjustFieldTypes(com.ibm.icu.text.DateTimePatternGenerator$PatternWithMatcher,com.ibm.icu.text.DateTimePatternGenerator$DateTimeMatcher,boolean,int)@g_icu4j-50.1.1.jar.txt	2
+com/ibm/icu/util/ULocale/getInstance(com.ibm.icu.impl.locale.BaseLocale,com.ibm.icu.impl.locale.LocaleExtensions)@g_icu4j-50.1.1.jar.txt	3
+com/ibm/icu/util/ULocale/JDKLocaleHelper/toULocale7(java.util.Locale)@g_icu4j-50.1.1.jar.txt	1
+com/ibm/icu/text/NFRule/toString()@g_icu4j-50.1.1.jar.txt	4

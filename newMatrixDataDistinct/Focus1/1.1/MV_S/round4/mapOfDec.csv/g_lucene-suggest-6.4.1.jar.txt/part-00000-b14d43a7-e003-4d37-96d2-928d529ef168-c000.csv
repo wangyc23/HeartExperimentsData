@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/simpletext/SimpleTextTermVectorsReader/get(int)@g_lucene-codecs-5.5.0.jar.txt	4
+org/apache/lucene/codecs/simpletext/SimpleTextCompoundFormat/getCompoundReader(org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentInfo,org.apache.lucene.store.IOContext)@g_lucene-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/simpletext/SimpleTextUtil/checkFooter(org.apache.lucene.store.ChecksumIndexInput)@g_lucene-codecs-5.5.0.jar.txt	2
+org/apache/lucene/codecs/simpletext/SimpleTextLiveDocsFormat/writeLiveDocs(org.apache.lucene.util.MutableBits,org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentCommitInfo,int,org.apache.lucene.store.IOContext)@g_lucene-codecs-5.5.0.jar.txt	0
+org/apache/lucene/codecs/simpletext/SimpleTextCompoundFormat/write(org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentInfo,org.apache.lucene.store.IOContext)@g_lucene-codecs-5.5.0.jar.txt	3

@@ -1,0 +1,5 @@
+com/elastisys/scale/cloudpool/kubernetes/TestKubernetesCloudPool/config(com.elastisys.scale.cloudpool.kubernetes.config.PodPoolConfig)@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	1
+com/elastisys/scale/cloudpool/api/types/TestMembershipStatus/testDefault()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	4
+io/dropwizard/auth/oauth/OAuthCredentialAuthFilter/Builder/newInstance()@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	3
+com/elastisys/scale/cloudpool/api/types/TestUtils/machine(java.lang.String,com.elastisys.scale.cloudpool.azure.driver.DateTime)@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	2
+com/elastisys/scale/cloudpool/google/commons/utils/InstanceTemplateUrl/equals(java.lang.Object)@088ef0c3cd683b1801bd4d7d314d923d7f3a86c1.txt	0

@@ -1,0 +1,5 @@
+net/sf/cglib/proxy/Enhancer/emitMethods(net.sf.cglib.core.ClassEmitter,java.util.List,java.util.List)@g_cglib-nodep-2.1_3.jar.txt	1
+net/sf/cglib/beans/BeanMap/toString()@g_cglib-nodep-2.1_3.jar.txt	0
+net/sf/cglib/proxy/LazyLoaderGenerator/generate(net.sf.cglib.core.ClassEmitter,net.sf.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_cglib-nodep-2.1_3.jar.txt	2
+net/sf/cglib/core/TypeUtils/parseSignature(java.lang.String)@g_cglib-nodep-2.1_3.jar.txt	4
+net/sf/cglib/proxy/MethodInterceptorGenerator/generate(net.sf.cglib.core.ClassEmitter,net.sf.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_cglib-nodep-2.1_3.jar.txt	3

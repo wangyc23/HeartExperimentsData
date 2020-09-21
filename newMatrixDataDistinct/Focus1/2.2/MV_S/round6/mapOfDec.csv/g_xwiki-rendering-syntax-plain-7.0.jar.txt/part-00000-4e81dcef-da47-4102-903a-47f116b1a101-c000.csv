@@ -1,0 +1,5 @@
+org/codehaus/plexus/digest/DigestUtils/cleanChecksum(java.lang.String,java.lang.String,java.lang.String)@g_plexus-digest-1.0.jar.txt	4
+org/codehaus/plexus/digest/DigestUtils/cleanChecksum(java.lang.String,java.lang.String,java.lang.String)@g_maven-surefire-plugin-2.12.jar.txt	1
+org/xwiki/rendering/internal/parser/plain/PlainTextStreamParser/parse(java.io.Reader,org.xwiki.rendering.listener.Listener)@g_maven-surefire-plugin-2.12.jar.txt	3
+org/xwiki/rendering/internal/parser/plain/PlainTextStreamParser/parseChar(int,java.lang.StringBuffer,org.xwiki.rendering.listener.Listener)@g_maven-surefire-plugin-2.12.jar.txt	2
+org/apache/maven/plugin/surefire/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-surefire-plugin-2.12.jar.txt	0

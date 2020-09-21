@@ -1,0 +1,5 @@
+es/uam/eps/ir/ranksys/fast/index/SimpleFastUserIndexTest/test()@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	4
+es/uam/eps/ir/ranksys/mf/als/ALSFactorizer/factorize(es.uam.eps.ir.ranksys.mf.Factorization,es.uam.eps.ir.ranksys.fast.preference.FastPreferenceData)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	1
+es/uam/eps/ir/ranksys/fast/index/SimpleFastItemIndexTest/test()@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	2
+es/uam/eps/ir/ranksys/mf/plsa/PLSAFactorizer/factorize(es.uam.eps.ir.ranksys.mf.Factorization,es.uam.eps.ir.ranksys.fast.preference.FastPreferenceData)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	3
+es/uam/eps/ir/ranksys/examples/RecommenderExample/main(java.lang.String[])@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	0

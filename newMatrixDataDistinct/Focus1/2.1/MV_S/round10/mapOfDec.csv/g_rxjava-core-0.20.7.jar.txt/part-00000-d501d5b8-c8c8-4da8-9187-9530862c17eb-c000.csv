@@ -1,0 +1,5 @@
+rx/observables/BlockingObservable/forEach(rx.functions.Action1)@g_ribbon-2.1.0.jar.txt	2
+rx/observers/TestObserver/assertReceivedOnNext(java.util.List)@g_ribbon-2.1.0.jar.txt	3
+com/netflix/ribbon/template/TemplateParser/parseTemplate(java.lang.String)@g_ribbon-2.1.0.jar.txt	1
+rx/internal/operators/OnSubscribeJoin/ResultSink/RightSubscriber/onNext(java.lang.Object)@g_ribbon-2.1.0.jar.txt	0
+rx/internal/operators/OnSubscribeRedo/call(rx.Subscriber)@g_ribbon-2.1.0.jar.txt	4

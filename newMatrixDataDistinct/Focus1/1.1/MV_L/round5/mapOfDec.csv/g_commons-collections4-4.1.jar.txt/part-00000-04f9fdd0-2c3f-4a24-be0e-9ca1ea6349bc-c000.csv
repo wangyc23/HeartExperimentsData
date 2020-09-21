@@ -1,0 +1,5 @@
+org/apache/commons/collections4/map/LRUMap/reuseMapping(org.apache.commons.collections4.map.AbstractLinkedMap$LinkEntry,int,int,java.lang.Object,java.lang.Object)@g_commons-collections4-4.0.jar.txt	0
+org/apache/commons/collections4/TransformerUtils/switchMapTransformer(java.util.Map)@g_commons-collections4-4.0.jar.txt	2
+org/xwiki/rendering/internal/renderer/xwiki20/XWikiSyntaxChainingRenderer/printParameters(java.util.Map,boolean)@g_commons-collections4-4.0.jar.txt	3
+org/apache/commons/collections4/trie/AbstractPatriciaTrie/RangeMap/headMap(java.lang.Object)@g_commons-collections4-4.0.jar.txt	1
+org/apache/commons/collections4/trie/AbstractPatriciaTrie/RangeMap/tailMap(java.lang.Object)@g_commons-collections4-4.0.jar.txt	4

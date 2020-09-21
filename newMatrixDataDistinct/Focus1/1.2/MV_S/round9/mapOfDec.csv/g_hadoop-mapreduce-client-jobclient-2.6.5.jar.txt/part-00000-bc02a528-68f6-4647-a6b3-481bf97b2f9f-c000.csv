@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/lib/partition/InputSampler/RandomSampler/getSample(org.apache.hadoop.mapreduce.InputFormat,org.apache.hadoop.mapreduce.Job)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapreduce/lib/map/MultithreadedMapper/run(org.apache.hadoop.mapreduce.Mapper$Context)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/mapred/FileInputFormat/getSplits(org.apache.hadoop.mapred.JobConf,int)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3
+org/apache/hadoop/mapred/lib/InputSampler/RandomSampler/getSample(org.apache.hadoop.mapred.InputFormat,org.apache.hadoop.mapred.JobConf)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapreduce/lib/join/Parser/CNode/getSplits(org.apache.hadoop.mapreduce.JobContext)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0

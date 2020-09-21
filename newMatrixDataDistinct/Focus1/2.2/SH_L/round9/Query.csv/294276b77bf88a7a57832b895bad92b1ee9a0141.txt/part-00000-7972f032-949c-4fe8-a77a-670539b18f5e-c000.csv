@@ -1,0 +1,4 @@
+java/net/URI/URI(java.lang.String)
+java/lang/Runtime/getRuntime()
+com/freedomotic/bus/BootStatus/getCode()
+com/freedomotic/util/LogFormatter/LogFormatter()

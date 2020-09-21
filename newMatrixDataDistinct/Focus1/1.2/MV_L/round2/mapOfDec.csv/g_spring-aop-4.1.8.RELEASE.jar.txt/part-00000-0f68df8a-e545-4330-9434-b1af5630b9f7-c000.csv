@@ -1,0 +1,5 @@
+org/springframework/aop/scope/ScopedProxyFactoryBean/setBeanFactory(org.springframework.beans.factory.BeanFactory)@g_spring-aop-4.1.7.RELEASE.jar.txt	3
+org/springframework/aop/framework/CglibAopProxy/doValidateClass(java.lang.Class,java.lang.ClassLoader)@g_spring-aop-4.1.7.RELEASE.jar.txt	2
+org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactory/validate(java.lang.Class)@g_spring-aop-4.1.6.RELEASE.jar.txt	1
+org/springframework/aop/aspectj/annotation/AbstractAspectJAdvisorFactory/validate(java.lang.Class)@g_spring-aop-4.1.7.RELEASE.jar.txt	0
+org/springframework/aop/framework/CglibAopProxy/getProxy(java.lang.ClassLoader)@g_spring-aop-4.1.7.RELEASE.jar.txt	4

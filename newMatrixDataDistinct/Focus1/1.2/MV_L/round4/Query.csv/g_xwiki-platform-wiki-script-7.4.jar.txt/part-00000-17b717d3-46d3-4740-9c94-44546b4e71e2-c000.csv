@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWikiContext/getUserReference()
+org/xwiki/wiki/descriptor/WikiDescriptorManager/getMainWikiId()
+org/xwiki/wiki/internal/descriptor/document/WikiDescriptorDocumentHelper/getDocumentReferenceFromId(java.lang.String)
+org/xwiki/wiki/descriptor/WikiDescriptorManager/saveDescriptor(org.xwiki.wiki.descriptor.WikiDescriptor)

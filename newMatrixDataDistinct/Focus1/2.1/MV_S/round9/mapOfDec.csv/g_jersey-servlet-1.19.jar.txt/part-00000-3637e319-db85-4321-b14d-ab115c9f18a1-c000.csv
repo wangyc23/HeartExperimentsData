@@ -1,0 +1,5 @@
+com/sun/jersey/server/impl/container/servlet/PerSessionFactory/SessionMap/valueUnbound(javax.servlet.http.HttpSessionBindingEvent)@g_deltaspike-core-api-1.0.1.jar.txt	0
+org/apache/deltaspike/core/util/metadata/builder/AnnotatedTypeBuilder/removeFromAll(java.lang.Class)@g_deltaspike-core-api-1.0.1.jar.txt	1
+com/sun/jersey/server/impl/cdi/CDIExtension/processManagedBean(javax.enterprise.inject.spi.ProcessManagedBean)@g_deltaspike-core-api-1.0.1.jar.txt	3
+com/sun/jersey/spi/container/servlet/ServletContainer/doFilter(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.servlet.FilterChain,java.lang.String,java.lang.String,java.lang.String)@g_deltaspike-core-api-1.0.1.jar.txt	4
+org/apache/deltaspike/core/util/metadata/AnnotationInstanceProvider/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_deltaspike-core-api-1.0.1.jar.txt	2

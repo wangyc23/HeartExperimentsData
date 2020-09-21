@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/isEmpty()
+com/thoughtworks/qdox/model/impl/DefaultJavaParameterizedType/getDimensions()
+java/lang/StringBuilder/StringBuilder(java.lang.String)

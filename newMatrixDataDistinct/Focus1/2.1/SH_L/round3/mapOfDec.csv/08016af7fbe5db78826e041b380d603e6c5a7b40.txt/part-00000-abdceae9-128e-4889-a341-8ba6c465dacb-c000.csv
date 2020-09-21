@@ -1,0 +1,5 @@
+core/BasicSessionManager/removeSession(java.lang.String)@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	1
+org/apache/servicemix/logging/jms/JMSAppender/closeJMSResources()@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	4
+core/BasicSession/getSessionData()@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	3
+org/apache/servicemix/examples/camel/soap/client/Client/printPerson(org.apache.servicemix.examples.camel.soap.model.Person)@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	2
+org/apache/servicemix/examples/drools/test/SimpleTest/testPool()@2b617cdbbd3074a974a15e02643a28f73f3e1259.txt	0

@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/ExceptionUtils/getRootCauseStackTrace(java.lang.Throwable)@g_plexus-utils-1.5.12.jar.txt	2
+org/codehaus/plexus/util/xml/Xpp3DomBuilder/build(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_plexus-utils-1.5.12.jar.txt	1
+org/apache/xmlrpc/client/XmlRpcLiteHttpTransport/sendRequestHeaders(java.io.OutputStream)@g_xmlrpc-client-3.1.jar.txt	0
+org/codehaus/plexus/util/cli/CommandLineUtils/1/run()@g_plexus-utils-1.5.12.jar.txt	3
+hidden/org/codehaus/plexus/interpolation/StringSearchInterpolator/interpolate(java.lang.String,hidden.org.codehaus.plexus.interpolation.RecursionInterceptor,java.util.Set)@g_plexus-utils-1.5.12.jar.txt	4

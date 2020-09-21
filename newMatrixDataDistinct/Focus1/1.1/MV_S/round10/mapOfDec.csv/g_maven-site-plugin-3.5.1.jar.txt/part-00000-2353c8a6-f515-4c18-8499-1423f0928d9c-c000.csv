@@ -1,0 +1,5 @@
+org/apache/maven/plugins/site/run/SiteRunMojo/createWebApplication()@g_maven-source-plugin-3.0.0.jar.txt	2
+org/apache/maven/plugin/war/overlay/OverlayManager/getOverlaysAsArtifacts()@g_maven-source-plugin-3.0.0.jar.txt	4
+org/apache/maven/plugins/site/deploy/AbstractDeployMojo/getWagon(org.apache.maven.wagon.repository.Repository,org.apache.maven.artifact.manager.WagonManager)@g_maven-source-plugin-3.0.0.jar.txt	0
+org/apache/maven/plugins/site/descriptor/AbstractSiteDescriptorMojo/prepareDecorationModel(java.util.Locale)@g_maven-source-plugin-3.0.0.jar.txt	3
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_maven-source-plugin-3.0.0.jar.txt	1

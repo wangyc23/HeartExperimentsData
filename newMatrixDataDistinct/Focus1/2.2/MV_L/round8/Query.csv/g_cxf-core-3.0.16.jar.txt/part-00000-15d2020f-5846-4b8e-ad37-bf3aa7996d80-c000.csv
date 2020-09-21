@@ -1,0 +1,4 @@
+java/nio/charset/Charset/decode(java.nio.ByteBuffer)
+java/nio/ByteBuffer/allocate(int)
+java/nio/ByteBuffer/put(byte)
+java/nio/ByteBuffer/flip()

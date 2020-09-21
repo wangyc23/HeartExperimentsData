@@ -1,0 +1,5 @@
+com/adobe/acs/commons/workflow/impl/WorkflowPackageManagerImpl/getPaths(org.apache.sling.api.resource.ResourceResolver,java.lang.String,java.lang.String[])@28d69a69e31e29c95f20d8169265faa680168571.txt	4
+se/unlogic/standardutils/io/FileUtils/getFileExtension(java.lang.String)@28d69a69e31e29c95f20d8169265faa680168571.txt	3
+se/unlogic/eagledns/EagleDNS/addRRset(se.unlogic.eagledns.Name,se.unlogic.eagledns.Message,se.unlogic.eagledns.RRset,int,int)@28d69a69e31e29c95f20d8169265faa680168571.txt	1
+com/adobe/acs/commons/models/injectors/impl/AemObjectInjector/getResourceDesign(java.lang.Object)@28d69a69e31e29c95f20d8169265faa680168571.txt	2
+com/adobe/acs/commons/wcm/impl/ComponentErrorHandlerImpl/isFirstInChain(org.apache.sling.api.SlingHttpServletRequest)@28d69a69e31e29c95f20d8169265faa680168571.txt	0

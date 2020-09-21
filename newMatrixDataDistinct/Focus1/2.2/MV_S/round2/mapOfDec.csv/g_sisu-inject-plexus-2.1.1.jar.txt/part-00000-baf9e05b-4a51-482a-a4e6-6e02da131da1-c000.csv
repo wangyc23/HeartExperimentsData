@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/ComponentValueSetter/setValueUsingSetter(java.lang.Object)@g_guice-plexus-scanners-2.3.0.jar.txt	1
+org/sonatype/guice/plexus/scanners/PlexusTypeRegistry/loadOnStart(java.lang.String,java.lang.String)@g_guice-plexus-scanners-2.3.0.jar.txt	0
+org/sonatype/guice/plexus/config/Roles/camelizeName(java.lang.String)@g_guice-plexus-scanners-2.3.0.jar.txt	3
+org/sonatype/guice/plexus/binders/PlexusTypeBinder/hear(org.codehaus.plexus.component.annotations.Component,org.sonatype.guice.bean.reflect.DeferredClass,java.lang.Object)@g_guice-plexus-scanners-2.3.0.jar.txt	4
+org/sonatype/guice/plexus/converters/PlexusXmlBeanConverter/parseBean(org.codehaus.plexus.util.xml.pull.MXParser,com.google.inject.TypeLiteral,java.lang.Class)@g_guice-plexus-scanners-2.3.0.jar.txt	2

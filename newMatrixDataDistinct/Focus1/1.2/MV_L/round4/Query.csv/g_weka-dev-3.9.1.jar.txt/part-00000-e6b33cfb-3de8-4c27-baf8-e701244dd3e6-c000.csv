@@ -1,0 +1,4 @@
+javax/swing/JFileChooser/JFileChooser(java.lang.String)
+javax/swing/JFileChooser/showSaveDialog(java.awt.Component)
+javax/swing/JFileChooser/getSelectedFile()
+javax/swing/JFileChooser/addChoosableFileFilter(javax.swing.filechooser.FileFilter)

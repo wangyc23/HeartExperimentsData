@@ -1,0 +1,4 @@
+org/openrdf/http/protocol/transaction/operations/SPARQLUpdateOperation/setDataset(org.openrdf.query.Dataset)
+org/openrdf/http/protocol/transaction/operations/SPARQLUpdateOperation/setUpdateString(java.lang.String)
+org/openrdf/repository/http/HTTPUpdate/getQueryString()
+org/openrdf/http/protocol/transaction/operations/SPARQLUpdateOperation/setBindings(org.openrdf.query.Binding[])

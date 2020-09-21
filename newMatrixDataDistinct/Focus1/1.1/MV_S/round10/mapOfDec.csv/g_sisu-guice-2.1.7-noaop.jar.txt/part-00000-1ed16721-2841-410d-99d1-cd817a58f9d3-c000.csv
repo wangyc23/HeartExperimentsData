@@ -1,0 +1,5 @@
+com/google/gson/internal/Gson/Types/equals(java.lang.reflect.Type,java.lang.reflect.Type)@g_sisu-guice-3.1.0-no_aop.jar.txt	4
+com/google/gson/Gson/getDelegateAdapter(com.google.gson.TypeAdapterFactory,com.google.gson.reflect.TypeToken)@g_sisu-guice-3.1.0-no_aop.jar.txt	3
+com/google/inject/util/Modules/RealOverriddenModuleBuilder/1/2/rewrite(com.google.inject.Binder,com.google.inject.spi.PrivateElements,java.util.Set)@g_sisu-guice-3.1.0-no_aop.jar.txt	1
+com/google/gson/internal/bind/MapTypeAdapterFactory/Adapter/write(com.google.gson.stream.JsonWriter,java.util.Map)@g_gson-2.3.1.jar.txt	0
+com/google/gson/internal/Gson/Types/canonicalize(java.lang.reflect.Type)@g_sisu-guice-3.1.0-no_aop.jar.txt	2

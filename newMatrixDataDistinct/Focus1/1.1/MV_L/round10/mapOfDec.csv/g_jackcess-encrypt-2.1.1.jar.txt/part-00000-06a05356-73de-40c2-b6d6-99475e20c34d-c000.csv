@@ -1,0 +1,5 @@
+com/healthmarketscience/jackcess/impl/MSISAMCryptCodecHandler/createPasswordDigest(java.nio.ByteBuffer,java.lang.String,java.nio.charset.Charset)@g_jackcess-encrypt-2.1.2.jar.txt	1
+com/healthmarketscience/jackcess/impl/OfficeCryptCodecHandler/create(com.healthmarketscience.jackcess.PasswordCallback,com.healthmarketscience.jackcess.impl.PageChannel,java.nio.charset.Charset)@g_jackcess-encrypt-2.1.2.jar.txt	0
+com/jmatio/io/MatFileIncrementalWriter/writeHeader(java.nio.channels.WritableByteChannel)@g_jackcess-encrypt-2.1.2.jar.txt	2
+com/healthmarketscience/jackcess/impl/office/EncryptionHeader/read(java.nio.ByteBuffer,java.util.Set,java.util.Set)@g_jackcess-encrypt-2.1.2.jar.txt	3
+com/jmatio/io/MatFileInputStream/readByte()@g_jackcess-encrypt-2.1.2.jar.txt	4

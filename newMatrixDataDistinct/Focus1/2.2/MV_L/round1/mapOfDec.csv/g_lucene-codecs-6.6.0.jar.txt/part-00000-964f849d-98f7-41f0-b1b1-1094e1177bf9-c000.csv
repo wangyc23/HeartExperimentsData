@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blockterms/BlockTermsReader/FieldReader/SegmentTermsEnum/seekCeil(org.apache.lucene.util.BytesRef)@g_lucene-codecs-5.5.0.jar.txt	3
+org/apache/lucene/bkdtree/BKDTreeWriter/finish(org.apache.lucene.store.IndexOutput)@g_lucene-sandbox-5.5.0.jar.txt	4
+org/apache/lucene/codecs/blocktreeords/OrdsSegmentTermsEnum/seekExact(org.apache.lucene.util.BytesRef)@g_lucene-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/blockterms/BlockTermsReader/FieldReader/SegmentTermsEnum/seekExact(long)@g_lucene-codecs-5.5.0.jar.txt	0
+org/apache/lucene/codecs/blocktreeords/OrdsSegmentTermsEnum/seekCeil(org.apache.lucene.util.BytesRef)@g_lucene-codecs-5.5.0.jar.txt	2

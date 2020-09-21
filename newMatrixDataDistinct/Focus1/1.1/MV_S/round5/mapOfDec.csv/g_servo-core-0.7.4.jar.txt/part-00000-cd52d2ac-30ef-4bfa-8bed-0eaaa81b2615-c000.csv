@@ -1,0 +1,5 @@
+com/netflix/servo/publish/JvmMetricPoller/addDetailedThreadMetrics(long,com.netflix.servo.publish.JvmMetricPoller$MetricList)@g_servo-internal-0.10.0.jar.txt	1
+com/netflix/servo/publish/JmxMetricPoller/createTagList(javax.management.ObjectName)@g_servo-internal-0.10.0.jar.txt	0
+jsr166e/ConcurrentHashMapV8/SearchEntriesTask/compute()@g_servo-internal-0.10.0.jar.txt	4
+jsr166e/ConcurrentHashMapV8/TreeBin/putTreeVal(int,java.lang.Object,java.lang.Object)@g_servo-internal-0.10.0.jar.txt	2
+jsr166e/StampedLock/acquireWrite(boolean,long)@g_servo-internal-0.10.0.jar.txt	3

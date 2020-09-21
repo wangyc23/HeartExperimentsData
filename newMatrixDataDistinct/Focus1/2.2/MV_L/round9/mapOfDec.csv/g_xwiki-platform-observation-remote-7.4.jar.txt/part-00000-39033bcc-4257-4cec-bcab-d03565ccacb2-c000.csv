@@ -1,0 +1,5 @@
+org/xwiki/observation/remote/internal/DefaultRemoteObservationManager/initialize()@g_xwiki-platform-observation-remote-7.0.jar.txt	4
+org/xwiki/observation/remote/internal/jgroups/JGroupsNetworkAdapter/startChannel(java.lang.String)@g_xwiki-platform-observation-remote-7.0.jar.txt	2
+org/xwiki/observation/remote/internal/jgroups/JGroupsNetworkAdapter/send(org.xwiki.observation.remote.RemoteEventData)@g_xwiki-platform-observation-remote-7.4.2.jar.txt	1
+org/xwiki/observation/remote/internal/jgroups/JGroupsNetworkAdapter/stopChannel(java.lang.String)@g_xwiki-platform-observation-remote-7.0.jar.txt	3
+org/xwiki/observation/remote/internal/jgroups/JGroupsNetworkAdapter/send(org.xwiki.observation.remote.RemoteEventData)@g_xwiki-platform-observation-remote-7.0.jar.txt	0

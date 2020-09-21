@@ -1,0 +1,5 @@
+org/apache/maven/lifecycle/internal/LifecycleWeaveBuilder/build(org.apache.maven.lifecycle.internal.ProjectBuildList,org.apache.maven.lifecycle.internal.ReactorContext,java.util.List,org.apache.maven.execution.MavenSession,java.util.concurrent.ExecutorService,org.apache.maven.lifecycle.internal.ReactorBuildStatus)@g_maven-core-3.0.jar.txt	2
+org/apache/maven/lifecycle/DefaultLifecycles/getLifeCycles()@g_maven-core-3.0.jar.txt	3
+org/apache/maven/project/DefaultProjectBuilder/build(java.util.List,java.util.List,java.util.List,boolean,boolean,org.apache.maven.project.ProjectBuildingRequest,org.apache.maven.project.ReactorModelPool,org.apache.maven.project.ReactorModelCache)@g_maven-core-3.0.jar.txt	0
+org/apache/maven/project/DefaultProjectBuilder/initProject(org.apache.maven.project.MavenProject,org.apache.maven.model.building.ModelBuildingResult,java.util.Map)@g_maven-core-3.0.jar.txt	1
+org/apache/maven/project/DefaultProjectBuilder/build(java.util.List,java.util.List,java.util.List,org.apache.maven.project.ProjectBuildingRequest,java.util.Map)@g_maven-core-3.0.jar.txt	4

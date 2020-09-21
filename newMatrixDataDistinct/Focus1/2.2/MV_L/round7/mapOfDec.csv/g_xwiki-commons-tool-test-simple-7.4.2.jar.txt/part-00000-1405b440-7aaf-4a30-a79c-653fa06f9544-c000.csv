@@ -1,0 +1,5 @@
+org/xenei/junit/contract/ClassPathUtils/scanDir(java.util.Set,java.lang.String,java.io.File,org.xenei.junit.contract.filter.ClassFilter)@g_jmock-junit4-2.6.0.jar.txt	3
+org/xenei/junit/contract/ContractSuite/BaseClassRunner/computeTestMethods()@g_jmock-junit4-2.6.0.jar.txt	2
+org/xwiki/test/AllLogRule/initializeLoggers()@g_jmock-junit4-2.6.0.jar.txt	4
+org/xenei/junit/contract/filter/parser/Parser/constructWithCase(org.xenei.junit.contract.filter.parser.Parser$ParserInfo,java.lang.String)@g_jmock-junit4-2.6.0.jar.txt	1
+org/xenei/junit/contract/ClassPathUtils/handleDir(java.util.Set,java.lang.String,java.io.File,org.xenei.junit.contract.filter.ClassFilter)@g_jmock-junit4-2.6.0.jar.txt	0

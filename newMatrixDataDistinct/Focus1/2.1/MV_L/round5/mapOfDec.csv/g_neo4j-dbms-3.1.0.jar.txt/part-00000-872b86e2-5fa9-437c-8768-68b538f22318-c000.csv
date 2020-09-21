@@ -1,0 +1,5 @@
+org/neo4j/tooling/ImportTool/main(java.lang.String[],boolean)@g_neo4j-dbms-3.3.0.jar.txt	3
+org/neo4j/commandline/dbms/CsvImporter/doImport()@g_neo4j-dbms-3.3.0.jar.txt	1
+org/neo4j/server/configuration/ClientConnectorSettings/httpConnector(org.neo4j.kernel.configuration.Config,org.neo4j.server.configuration.ClientConnectorSettings$HttpConnector$Encryption)@g_neo4j-dbms-3.3.0.jar.txt	2
+org/neo4j/commandline/dbms/StoreInfoCommand/execute(java.lang.String[])@g_neo4j-dbms-3.3.0.jar.txt	4
+org/neo4j/tooling/ImportTool/main(java.lang.String[],boolean)@g_neo4j-import-tool-3.1.0.jar.txt	0

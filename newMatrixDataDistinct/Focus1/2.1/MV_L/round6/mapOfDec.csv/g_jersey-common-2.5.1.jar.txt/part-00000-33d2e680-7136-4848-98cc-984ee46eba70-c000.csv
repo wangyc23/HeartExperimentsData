@@ -1,0 +1,5 @@
+org/glassfish/jersey/uri/internal/JerseyUriBuilder/encodeQuery()@g_jersey-common-2.7.jar.txt	2
+org/glassfish/jersey/message/internal/TracingLogger/TracingLoggerImpl/formatStatusInfo(javax.ws.rs.core.Response$StatusType)@g_jersey-common-2.7.jar.txt	4
+org/glassfish/jersey/message/internal/TracingLogger/TracingLoggerImpl/formatInstance(java.lang.Object)@g_jersey-common-2.7.jar.txt	3
+org/glassfish/jersey/internal/ServiceFinder/LazyObjectIterator/next()@g_jersey-common-2.7.jar.txt	0
+org/glassfish/jersey/uri/UriTemplate/resolve(java.net.URI,java.net.URI)@g_jersey-common-2.7.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/jena/grande/mapreduce/Counters/increment()@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	3
+pl/com/sages/hadoop/mapreduce/hadoopinaction/join/JoinJobTest/shouldJoinCustomersAndOrders()@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	0
+org/apache/jena/grande/giraph/sssps/SingleSourceShortestPaths/setConf(org.apache.jena.grande.hbase.Configuration)@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	2
+org/apache/jena/grande/giraph/pagerank/PageRankVertex/sendMessages()@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	4
+pl/com/sages/hbase/api/loader/LoadMovieRatingData/run()@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	1

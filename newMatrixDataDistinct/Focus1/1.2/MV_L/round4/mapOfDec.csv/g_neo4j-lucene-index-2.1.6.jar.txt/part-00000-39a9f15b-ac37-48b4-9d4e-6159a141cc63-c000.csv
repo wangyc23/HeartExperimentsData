@@ -1,0 +1,5 @@
+org/neo4j/index/impl/lucene/ExactTxData/toLongs(java.util.Set)@g_neo4j-lucene-index-2.1.5.jar.txt	1
+org/neo4j/index/impl/lucene/ExactTxData/toLongs(java.util.Set)@g_neo4j-lucene-index-2.0.1.jar.txt	0
+org/neo4j/kernel/api/impl/index/LuceneNodeLabelRange/fromBitmapStructure(int,long[],long[][])@g_neo4j-lucene-index-2.1.5.jar.txt	3
+org/neo4j/kernel/api/impl/index/LuceneNodeLabelRange/fromBitmapStructure(int,long[],long[][])@g_neo4j-lucene-index-2.0.1.jar.txt	2
+org/neo4j/index/impl/lucene/LuceneBatchInserterIndex/add(long,java.util.Map)@g_neo4j-lucene-index-2.0.1.jar.txt	4

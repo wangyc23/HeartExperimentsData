@@ -1,0 +1,5 @@
+service/WordService/replaceByVague(java.lang.String)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	2
+service/OrderService/getOrderedWords(java.util.List,java.lang.String)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	3
+controller/WordResource/Worker/run()@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	4
+controller/WordResource/getWords(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	1
+controller/UserResource/getUserByName(java.lang.String)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	0

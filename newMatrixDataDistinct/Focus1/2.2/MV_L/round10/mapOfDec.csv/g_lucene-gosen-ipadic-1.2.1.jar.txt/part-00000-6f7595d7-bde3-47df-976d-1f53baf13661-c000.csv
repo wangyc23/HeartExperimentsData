@@ -1,0 +1,5 @@
+com/cybozu/labs/langdetect/util/LangProfile/add(java.lang.String)@g_language-detector-0.5.jar.txt	2
+com/github/junrar/rarfile/MainHeader/print()@g_junrar-0.7.jar.txt	4
+com/cybozu/labs/langdetect/util/Util/unicodeEncode(java.lang.String)@g_language-detector-0.5.jar.txt	1
+com/cybozu/labs/langdetect/CommandLineInterface/batchTest()@g_language-detector-0.5.jar.txt	3
+com/optimaize/langdetect/NgramFrequencyData/create(java.util.Collection,java.util.Collection)@g_language-detector-0.5.jar.txt	0

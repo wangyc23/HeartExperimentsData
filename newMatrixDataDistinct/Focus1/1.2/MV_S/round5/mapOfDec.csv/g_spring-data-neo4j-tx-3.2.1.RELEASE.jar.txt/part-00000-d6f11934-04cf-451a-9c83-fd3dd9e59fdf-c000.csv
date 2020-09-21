@@ -1,0 +1,5 @@
+com/kenai/jaffl/provider/jffi/AbstractX86StubCompiler/attach(java.lang.Class)@g_jaffl-0.5.11.jar.txt	1
+com/kenai/jaffl/provider/jffi/CodegenUtils/visitAnnotationFields(org.objectweb.asm.AnnotationVisitor,java.util.Map)@g_jaffl-0.5.11.jar.txt	2
+org/neo4j/kernel/impl/transaction/JOTMTransactionManager/doRecovery()@g_neo4j-kernel-2.0.1-tests.jar.txt	0
+com/kenai/jaffl/Platform/Linux/locateLibrary(java.lang.String,java.util.List)@g_jaffl-0.5.11.jar.txt	4
+com/kenai/jaffl/util/BufferUtil/getCharSequence(java.nio.ByteBuffer,java.nio.charset.CharsetDecoder)@g_jaffl-0.5.11.jar.txt	3

@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/model/OWLOntology/axioms(org.semanticweb.owlapi.model.OWLIndividual)
+org/semanticweb/owlapi/model/OWLEntity/asOWLObjectProperty()
+org/semanticweb/owlapi/util/OWLAPIStreamUtils/add(java.util.Collection,java.util.stream.Stream)
+org/semanticweb/owlapi/model/OWLDataFactory/getOWLDeclarationAxiom(org.semanticweb.owlapi.model.OWLEntity)

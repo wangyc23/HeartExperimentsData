@@ -1,0 +1,5 @@
+org/hsqldb/server/ServerProperties/validate()@g_hsqldb-2.0.0.jar.txt	1
+org/hsqldb/StatementSchema/getResult(org.hsqldb.Session)@g_hsqldb-2.0.0.jar.txt	2
+org/hsqldb/persist/HsqlProperties/validateProperty(java.lang.String,java.lang.String,java.lang.Object[])@g_hsqldb-2.0.0.jar.txt	0
+org/hsqldb/persist/HsqlProperties/validateProperty(java.lang.String,java.lang.String,java.lang.Object[])@g_hsqldb-2.2.9.jar.txt	4
+org/hsqldb/StatementCommand/getResult(org.hsqldb.Session)@g_hsqldb-2.0.0.jar.txt	3

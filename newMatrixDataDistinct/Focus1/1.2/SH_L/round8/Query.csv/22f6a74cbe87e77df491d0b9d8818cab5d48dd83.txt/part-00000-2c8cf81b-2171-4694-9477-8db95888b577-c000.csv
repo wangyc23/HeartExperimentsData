@@ -1,0 +1,4 @@
+org/deeplearning4j/scaleout/perform/models/glove/GloveWork/updateBias(java.lang.String,double)
+org/deeplearning4j/scaleout/perform/models/glove/GloveWork/getAdaGrad(java.lang.String)
+org/deeplearning4j/scaleout/perform/models/glove/GloveWork/getBias(java.lang.String)
+org/deeplearning4j/models/word2vec/VocabWord/getWord()

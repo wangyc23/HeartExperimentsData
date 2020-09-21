@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/tag/TagPlugin/renameTag(java.lang.String,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-tag-api-7.4.jar.txt	0
+com/xpn/xwiki/plugin/feed/FeedPlugin/prepareFeedEntryDocument(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/tag/TagPlugin/removeTagFromDocument(java.lang.String,com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-tag-api-7.4.jar.txt	3
+com/xpn/xwiki/plugin/tag/TagPlugin/addTagsToDocument(java.lang.String,com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-tag-api-7.4.jar.txt	1
+com/xpn/xwiki/plugin/tag/TagPlugin/addTagToDocument(java.lang.String,com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-tag-api-7.4.jar.txt	2

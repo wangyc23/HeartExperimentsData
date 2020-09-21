@@ -1,0 +1,5 @@
+org/xwiki/component/util/ReflectionUtils/unserializeType(java.lang.String,java.lang.ClassLoader)@g_jcommander-1.12.jar.txt	2
+com/beust/jcommander/JCommander/readFile(java.lang.String)@g_jcommander-1.12.jar.txt	0
+com/github/rvesse/airline/help/cli/CliGlobalUsageSummaryGenerator/outputCommandList(com.github.rvesse.airline.io.printers.UsagePrinter,com.github.rvesse.airline.model.GlobalMetadata)@g_jcommander-1.12.jar.txt	1
+com/github/rvesse/airline/parser/ParserUtil/injectOptions(java.lang.Object,java.lang.Iterable,java.util.List,com.github.rvesse.airline.model.ArgumentsMetadata,java.lang.Iterable,java.lang.Iterable,java.util.Map)@g_jcommander-1.12.jar.txt	3
+com/beust/jcommander/JCommander/expandArgs(java.lang.String[])@g_jcommander-1.12.jar.txt	4

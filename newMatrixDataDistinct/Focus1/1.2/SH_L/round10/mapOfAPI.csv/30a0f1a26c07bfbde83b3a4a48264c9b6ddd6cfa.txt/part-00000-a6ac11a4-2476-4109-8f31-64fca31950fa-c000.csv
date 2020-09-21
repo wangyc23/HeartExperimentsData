@@ -1,0 +1,6 @@
+0	com/facebook/hive/orc/StringDictionaryEncoder/size()
+1	com/whh/watcher/statistic/ServerStatisticManager/getCurrentStatistic()
+2	com/facebook/hive/orc/WriterImpl/StringTreeWriter/useDictionaryEncodingEntropyHeuristic()
+3	com/whh/watcher/statistic/ServerStatistic/Statistic/addBlockTotal(long)
+4	com/facebook/hive/orc/PositionedOutputStream/suppress()
+5	com/facebook/hive/orc/WriterImpl/RowIndexPositionRecorder/RowIndexPositionRecorder(OrcProto.RowIndexEntry.Builder)

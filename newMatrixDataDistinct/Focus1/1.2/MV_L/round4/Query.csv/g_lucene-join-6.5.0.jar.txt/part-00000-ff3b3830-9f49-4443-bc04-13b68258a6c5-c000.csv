@@ -1,0 +1,4 @@
+java/io/PrintStream/print(java.lang.String)
+java/lang/Integer/toHexString(int)
+java/lang/Long/toHexString(long)
+org/apache/lucene/util/LegacyNumericUtils/prefixCodedToInt(org.apache.lucene.util.BytesRef)

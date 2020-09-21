@@ -1,0 +1,4 @@
+org/eclipse/osgi/util/NLS/bind(java.lang.String,java.lang.Object)
+org/eclipse/core/runtime/IPath/isPrefixOf(org.eclipse.core.runtime.IPath)
+org/eclipse/core/runtime/IPath/removeLastSegments(int)
+org/eclipse/core/internal/resources/Container/equals(java.lang.Object)

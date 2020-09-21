@@ -1,0 +1,5 @@
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/incrementCounter(com.lucidworks.pig.FusionIndexPipelineStoreFunc.Counters,long)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	1
+com/lucidworks/pig/SyntheticDoc/outputSchema(org.apache.pig.impl.logicalLayer.schema.Schema)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	3
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/SolrOutputFormat/getOutputCommitter(org.apache.hadoop.mapreduce.TaskAttemptContext)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	2
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/handleSolrServerException(org.apache.pig.data.Tuple,java.lang.Exception)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	4

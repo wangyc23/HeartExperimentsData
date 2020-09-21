@@ -1,0 +1,5 @@
+cern/colt/matrix/tlong/impl/DenseLongMatrix2D/assign(long[])@g_parallelcolt-0.10.0.jar.txt	4
+cern/jet/stat/tdouble/quantile/DoubleBuffer/toString()@g_parallelcolt-0.10.0.jar.txt	3
+hep/aida/tfloat/ref/FloatConverter/toXML(hep.aida.tfloat.FloatIHistogram1D)@g_parallelcolt-0.10.0.jar.txt	2
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	1
+org/springframework/security/crypto/bcrypt/BCrypt/hashpw(java.lang.String,java.lang.String)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0

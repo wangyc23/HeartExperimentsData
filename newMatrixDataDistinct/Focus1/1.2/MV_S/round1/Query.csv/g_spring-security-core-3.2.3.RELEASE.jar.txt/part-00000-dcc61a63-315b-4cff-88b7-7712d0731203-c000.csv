@@ -1,0 +1,4 @@
+java/lang/Class/isArray()
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/springframework/expression/EvaluationContext/getRootObject()
+java/lang/StringBuilder/append(java.lang.String)

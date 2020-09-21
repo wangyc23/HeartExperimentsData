@@ -1,0 +1,4 @@
+org/apache/maven/model/Dependency/getVersion()
+org/apache/maven/artifact/Artifact/setFile(java.io.File)
+org/apache/maven/artifact/Artifact/setDependencyFilter(org.apache.maven.artifact.resolver.filter.ArtifactFilter)
+org/apache/maven/model/Dependency/getClassifier()

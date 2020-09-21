@@ -1,0 +1,4 @@
+0	javax/enterprise/inject/spi/ProcessAnnotatedType/veto()
+1	javax/enterprise/inject/spi/AnnotatedType/getJavaClass()
+2	com/cathive/fx/cdi/JavaFXExtension/getJavaFxApplication()
+3	java/lang/Object/equals(java.lang.Object)

@@ -1,0 +1,8 @@
+0	pl/pwr/news/webapp/controller/article/dto/ArticleDTO/getList(java.util.List)
+1	org/springframework/data/repository/CrudRepository/findAll(java.lang.Iterable)
+2	pl/pwr/news/webapp/controller/Response/Response(T)
+3	pl/pwr/news/service/article/ArticleService/findAll(java.lang.String,java.lang.String)
+4	javax/servlet/http/HttpServletRequest/getHeader(java.lang.String)
+5	study/models/LinkInfo/getAuthor()
+6	study/models/User/getCurrentUser()
+7	study/models/User/getAuthorities()

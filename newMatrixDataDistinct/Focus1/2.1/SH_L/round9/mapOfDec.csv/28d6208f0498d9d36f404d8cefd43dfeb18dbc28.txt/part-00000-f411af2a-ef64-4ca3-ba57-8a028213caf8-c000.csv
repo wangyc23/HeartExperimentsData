@@ -1,0 +1,5 @@
+com/alibaba/rocketmq/common/BrokerConfig/localHostName()@1094ab0825fb8b0d7c0b1190a5f8153e2e809f26.txt	4
+com/alibaba/rocketmq/remoting/ExceptionTest/test_CONNECT_EXCEPTION()@1094ab0825fb8b0d7c0b1190a5f8153e2e809f26.txt	0
+com/alibaba/rocketmq/remoting/NettyConnectionTest/test_connect_timeout()@1094ab0825fb8b0d7c0b1190a5f8153e2e809f26.txt	3
+com/alibaba/rocketmq/example/quickstart/Producer/main(java.lang.String[])@1094ab0825fb8b0d7c0b1190a5f8153e2e809f26.txt	1
+com/alibaba/rocketmq/store/MapedFileTest/test_write_read()@1094ab0825fb8b0d7c0b1190a5f8153e2e809f26.txt	2

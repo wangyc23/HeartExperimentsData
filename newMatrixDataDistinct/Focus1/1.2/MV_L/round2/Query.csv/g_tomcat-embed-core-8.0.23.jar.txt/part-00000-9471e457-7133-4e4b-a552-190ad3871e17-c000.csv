@@ -1,0 +1,4 @@
+org/apache/tomcat/util/net/NioEndpoint$KeyAttachment/getReadLatch()
+java/nio/channels/SelectionKey/isValid()
+org/apache/tomcat/util/net/NioBlockingSelector$BlockPoller/countDown(java.util.concurrent.CountDownLatch)
+java/nio/channels/SelectionKey/attach(java.lang.Object)

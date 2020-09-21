@@ -1,0 +1,4 @@
+org/springframework/beans/factory/config/BeanDefinition/setScope(java.lang.String)
+org/springframework/beans/factory/support/BeanDefinitionBuilder/getBeanDefinition()
+java/lang/StringBuilder/append(java.lang.String)
+org/springframework/beans/factory/config/BeanDefinition/setFactoryBeanName(java.lang.String)

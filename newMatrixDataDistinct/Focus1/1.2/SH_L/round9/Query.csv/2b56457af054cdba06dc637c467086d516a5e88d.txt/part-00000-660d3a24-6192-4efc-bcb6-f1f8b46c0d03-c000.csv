@@ -1,0 +1,4 @@
+com/dianping/phoenix/session/requestid/serverevent/DefaultServerAddressManager/updateServerList(java.lang.String)
+java/util/Set/addAll(java.util.Collection)
+com/dianping/phoenix/session/requestid/serverevent/DefaultServerAddressManager/getLocalIps()
+com/dianping/phoenix/session/requestid/serverevent/DefaultServerAddressManager/getConfigFromLion()

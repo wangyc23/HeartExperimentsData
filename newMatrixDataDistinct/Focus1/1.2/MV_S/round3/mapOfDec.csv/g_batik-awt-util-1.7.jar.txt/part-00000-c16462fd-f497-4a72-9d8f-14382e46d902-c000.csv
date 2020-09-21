@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/loader/impl/imageio/ImageLoaderImageIO/checkProviderIgnoresICC(javax.imageio.spi.IIOServiceProvider)@g_xmlgraphics-commons-1.5.jar.txt	4
+org/apache/xmlgraphics/image/codec/png/PNGRed/parse_IHDR_chunk(org.apache.xmlgraphics.image.codec.png.PNGRed$PNGChunk)@g_xmlgraphics-commons-1.5.jar.txt	3
+org/apache/xmlgraphics/java2d/ps/PSTilingPattern/toString()@g_xmlgraphics-commons-1.5.jar.txt	2
+org/apache/xmlgraphics/java2d/ps/PSGraphics2D/applyStroke(java.awt.Stroke,org.apache.xmlgraphics.ps.PSGenerator)@g_xmlgraphics-commons-1.5.jar.txt	0
+org/apache/xmlgraphics/ps/PSDictionary/toString()@g_xmlgraphics-commons-1.5.jar.txt	1

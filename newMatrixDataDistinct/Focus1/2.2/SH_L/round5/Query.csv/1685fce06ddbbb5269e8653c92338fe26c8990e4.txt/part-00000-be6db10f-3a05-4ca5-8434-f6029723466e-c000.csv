@@ -1,0 +1,4 @@
+com/iluwatar/threadpool/Worker/run()
+org/mockito/Mockito/mock(java.lang.Class)
+com/iluwatar/threadpool/Worker/Worker(com.iluwatar.threadpool.Task)
+org/mockito/Mockito/verifyZeroInteractions(java.lang.Object[])

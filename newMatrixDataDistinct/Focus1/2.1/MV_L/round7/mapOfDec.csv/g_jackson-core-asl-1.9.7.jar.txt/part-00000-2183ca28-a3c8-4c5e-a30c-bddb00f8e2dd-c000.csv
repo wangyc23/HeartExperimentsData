@@ -1,0 +1,5 @@
+org/codehaus/jackson/impl/JsonGeneratorBase/copyCurrentEvent(org.codehaus.jackson.JsonParser)@g_jackson-core-asl-1.9.11.jar.txt	4
+org/codehaus/jackson/impl/ReaderBasedParser/getBinaryValue(org.codehaus.jackson.Base64Variant)@g_jackson-core-asl-1.9.13.jar.txt	1
+org/codehaus/jackson/sym/CharsToNameCanonicalizer/rehash()@g_jackson-core-asl-1.9.11.jar.txt	2
+org/codehaus/jackson/impl/ReaderBasedParser/getBinaryValue(org.codehaus.jackson.Base64Variant)@g_jackson-core-asl-1.9.11.jar.txt	0
+org/codehaus/jackson/impl/JsonParserMinimalBase/_reportInvalidBase64(org.codehaus.jackson.Base64Variant,char,int,java.lang.String)@g_jackson-core-asl-1.9.11.jar.txt	3

@@ -1,0 +1,5 @@
+com/googlecode/flickrandroid/people/test/PeopleInterfaceTest/testPeopleInterface()@2c5f22c40dd31f673d9f191b86a099edac22ff51.txt	4
+com/googlecode/flickrjandroid/galleries/GalleriesInterface/addPhoto(java.lang.String,java.lang.String,java.lang.String)@2c5f22c40dd31f673d9f191b86a099edac22ff51.txt	1
+com/googlecode/flickrjandroid/photos/PhotosInterface/searchInterestingness(com.googlecode.flickrjandroid.photos.SearchParameters,int,int)@2c5f22c40dd31f673d9f191b86a099edac22ff51.txt	2
+com/googlecode/flickrjandroid/groups/members/Member/setIconFarm(java.lang.String)@2c5f22c40dd31f673d9f191b86a099edac22ff51.txt	0
+com/googlecode/flickrjandroid/uploader/UploaderResponse/parse(org.w3c.dom.Document)@2c5f22c40dd31f673d9f191b86a099edac22ff51.txt	3

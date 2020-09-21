@@ -1,0 +1,5 @@
+org/apache/log4j/RollingFileAppender/rollOver()@g_log4j-1.2.12.jar.txt	4
+org/apache/log4j/FileAppender/setFile(java.lang.String,boolean,boolean,int)@g_log4j-1.2.12.jar.txt	1
+org/apache/log4j/helpers/PatternParser/finalizeConverter(char)@g_log4j-1.2.12.jar.txt	2
+org/apache/log4j/net/SocketAppender/Connector/run()@g_log4j-1.2.12.jar.txt	0
+org/apache/log4j/Hierarchy/updateParents(org.apache.log4j.Logger)@g_log4j-1.2.12.jar.txt	3

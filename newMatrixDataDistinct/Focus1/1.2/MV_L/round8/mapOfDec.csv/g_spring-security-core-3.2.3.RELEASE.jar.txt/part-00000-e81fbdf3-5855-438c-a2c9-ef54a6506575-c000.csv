@@ -1,0 +1,5 @@
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-security-core-3.2.5.RELEASE.jar.txt	2
+org/springframework/security/access/expression/method/DefaultMethodSecurityExpressionHandler/filter(java.lang.Object,org.springframework.expression.Expression,org.springframework.expression.EvaluationContext)@g_spring-security-core-4.0.0.RELEASE.jar.txt	1
+org/springframework/security/access/expression/method/DefaultMethodSecurityExpressionHandler/filter(java.lang.Object,org.springframework.expression.Expression,org.springframework.expression.EvaluationContext)@g_spring-security-core-3.2.5.RELEASE.jar.txt	0
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/buildRolesReachableInOneOrMoreStepsMap()@g_spring-security-core-3.2.5.RELEASE.jar.txt	4
+org/springframework/security/access/vote/ConsensusBased/decide(org.springframework.security.core.Authentication,java.lang.Object,java.util.Collection)@g_spring-security-core-3.2.5.RELEASE.jar.txt	3

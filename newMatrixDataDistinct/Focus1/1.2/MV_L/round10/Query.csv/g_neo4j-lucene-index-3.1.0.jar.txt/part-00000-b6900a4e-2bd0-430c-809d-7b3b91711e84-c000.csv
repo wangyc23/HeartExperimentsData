@@ -1,0 +1,4 @@
+org/apache/lucene/index/IndexReader/leaves()
+org/apache/lucene/index/Term/Term(java.lang.String,org.apache.lucene.util.BytesRef)
+org/apache/lucene/index/TermsEnum/next()
+org/apache/lucene/index/Fields/iterator()

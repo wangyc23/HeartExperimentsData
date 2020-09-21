@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/introspection/ReflectionValueExtractor/evaluate(java.lang.String,java.lang.Object,boolean)
+org/apache/tools/ant/PropertyHelper/getPropertyHook(java.lang.String,java.lang.String,boolean)
+org/apache/maven/plugin/logging/Log/isWarnEnabled()
+java/lang/System/getProperty(java.lang.String)

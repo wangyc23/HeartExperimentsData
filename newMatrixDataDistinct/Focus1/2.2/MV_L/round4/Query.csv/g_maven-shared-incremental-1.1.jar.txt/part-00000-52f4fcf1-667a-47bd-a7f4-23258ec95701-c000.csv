@@ -1,0 +1,4 @@
+org/apache/maven/shared/utils/io/FileUtils/fileWriteArray(java.io.File,java.lang.String[])
+java/io/File/File(java.io.File,java.lang.String)
+java/util/Iterator/hasNext()
+java/util/Iterator/next()

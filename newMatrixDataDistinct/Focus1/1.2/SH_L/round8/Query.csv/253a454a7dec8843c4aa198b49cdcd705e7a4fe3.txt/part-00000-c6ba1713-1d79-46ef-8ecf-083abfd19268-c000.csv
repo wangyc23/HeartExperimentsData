@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+java/net/URL/openConnection()
+org/whispersystems/textsecuregcm/metrics/JsonMetricsReporter/reportHistogram(org.whispersystems.textsecuregcm.metrics.JsonGenerator,java.lang.String,org.whispersystems.textsecuregcm.controllers.Histogram)
+java/lang/String/format(java.lang.String,java.lang.Object[])

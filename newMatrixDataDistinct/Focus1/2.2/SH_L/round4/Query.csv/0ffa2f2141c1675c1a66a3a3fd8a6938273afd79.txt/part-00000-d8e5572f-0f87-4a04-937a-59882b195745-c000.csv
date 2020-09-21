@@ -1,0 +1,4 @@
+org/jboss/errai/marshalling/client/MarshallingSessionProviderFactory/getEncoding()
+org/jboss/errai/marshalling/client/protocols/ErraiProtocol/decodePayload(org.jboss.errai.marshalling.client.api.json.EJValue)
+org/jboss/errai/bus/client/json/JSONUtilCli/nativeLog(java.lang.String)
+org/jboss/errai/marshalling/client/marshallers/ErraiProtocolEnvelopeNoAutoMarshaller/demarshall(org.jboss.errai.marshalling.client.api.json.EJValue,org.jboss.errai.marshalling.client.api.MarshallingSession)

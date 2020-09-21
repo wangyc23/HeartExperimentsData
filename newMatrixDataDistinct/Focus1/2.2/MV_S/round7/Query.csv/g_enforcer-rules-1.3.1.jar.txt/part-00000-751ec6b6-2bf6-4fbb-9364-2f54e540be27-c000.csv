@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/apache/maven/lifecycle/Lifecycle/getPhases()
+java/util/Iterator/hasNext()
+org/apache/maven/lifecycle/Lifecycle/getId()

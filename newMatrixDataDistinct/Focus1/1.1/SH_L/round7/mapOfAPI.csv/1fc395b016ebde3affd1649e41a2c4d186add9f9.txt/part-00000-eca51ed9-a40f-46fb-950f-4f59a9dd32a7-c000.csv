@@ -1,0 +1,5 @@
+0	java/lang/Throwable/printStackTrace()
+1	java/io/PrintStream/println(java.lang.String)
+2	com/dempe/ketty/common/access/AccessPolicy/getCountInterval()
+3	java/beans/PropertyDescriptor/PropertyDescriptor(java.lang.String,java.lang.Class)
+4	oops/chapter21/section4/p43/MultiLock/f2(int)

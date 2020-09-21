@@ -1,0 +1,4 @@
+0	org/eclipse/jgit/merge/RecursiveMerger/mergeTrees(org.eclipse.jgit.treewalk.AbstractTreeIterator,org.eclipse.jgit.revwalk.RevTree,org.eclipse.jgit.revwalk.RevTree,boolean)
+1	java/util/List/add(java.lang.Object)
+2	org/eclipse/jgit/merge/RecursiveMerger/openTree(org.eclipse.jgit.lib.AnyObjectId)
+3	java/lang/Integer/valueOf(int)

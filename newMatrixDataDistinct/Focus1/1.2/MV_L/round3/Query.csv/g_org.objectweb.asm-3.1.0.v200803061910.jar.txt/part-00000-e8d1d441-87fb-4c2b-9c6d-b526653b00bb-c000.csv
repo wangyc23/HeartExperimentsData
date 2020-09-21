@@ -1,0 +1,4 @@
+org/objectweb/asm/xml/Processor$ContentHandlerFactory/createContentHandler()
+org/xml/sax/ContentHandler/startDocument()
+org/xml/sax/Attributes/getValue(java.lang.String)
+org/xml/sax/SAXException/SAXException(java.lang.String)

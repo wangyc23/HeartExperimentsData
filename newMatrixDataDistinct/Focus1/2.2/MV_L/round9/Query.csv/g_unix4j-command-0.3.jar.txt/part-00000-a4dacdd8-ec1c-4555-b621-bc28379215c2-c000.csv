@@ -1,0 +1,4 @@
+org/unix4j/context/DerivedExecutionContext/DerivedExecutionContext(org.unix4j.context.ExecutionContext)
+java/lang/StringBuilder/append(java.lang.String)
+org/unix4j/unix/cd/CdCommand$1/getArguments(org.unix4j.context.ExecutionContext)
+org/unix4j/context/ExecutionContext/getUserHome()

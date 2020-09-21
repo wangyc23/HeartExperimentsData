@@ -1,0 +1,4 @@
+org/xwiki/model/reference/DocumentReference/equals(java.lang.Object)
+org/xwiki/model/reference/DocumentReferenceResolver/resolve(java.lang.Object,java.lang.Object[])
+java/util/Iterator/hasNext()
+java/util/List/isEmpty()

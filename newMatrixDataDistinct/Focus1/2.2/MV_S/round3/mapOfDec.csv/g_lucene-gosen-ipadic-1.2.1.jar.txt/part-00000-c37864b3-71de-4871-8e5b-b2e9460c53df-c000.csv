@@ -1,0 +1,5 @@
+com/github/junrar/rarfile/MainHeader/print()@g_junrar-0.7.jar.txt	0
+com/github/junrar/unpack/ppm/AnalyzeHeapDump/main(java.lang.String[])@g_junrar-0.7.jar.txt	2
+com/github/junrar/util/VolumeHelper/nextVolumeName(java.lang.String,boolean)@g_junrar-0.7.jar.txt	3
+net/java/sen/filter/stream/CompoundWordFilter/postProcess(java.util.List)@g_junrar-0.7.jar.txt	4
+com/github/junrar/rarfile/FileHeader/print()@g_junrar-0.7.jar.txt	1

@@ -1,0 +1,4 @@
+org/fusesource/fabric/bridge/model/RemoteBridge/setInboundDestinations(org.fusesource.fabric.bridge.model.BridgeDestinationsConfig)
+org/fusesource/fabric/bridge/model/BridgeDestinationsConfig/setStagingQueueName(java.lang.String)
+org/fusesource/fabric/bridge/model/BridgeDestinationsConfig/setDestinations(java.util.List)
+org/fusesource/fabric/bridge/model/BrokerConfig/setBrokerUrl(java.lang.String)

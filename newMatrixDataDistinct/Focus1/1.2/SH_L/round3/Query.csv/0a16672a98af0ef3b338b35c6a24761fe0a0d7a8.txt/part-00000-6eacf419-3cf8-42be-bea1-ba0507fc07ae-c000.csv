@@ -1,0 +1,4 @@
+org/lab41/dendrite/services/analysis/AnalysisService/setJobName(java.lang.String,java.lang.String)
+org/lab41/dendrite/services/analysis/AnalysisService/setJobState(java.lang.String,java.lang.String)
+java/lang/Throwable/printStackTrace()
+org/lab41/dendrite/metagraph/DendriteGraph/getId()

@@ -1,0 +1,4 @@
+java/util/regex/Pattern/compile(java.lang.String,int)
+java/io/InputStream/available()
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/core/resources/IFile/exists()

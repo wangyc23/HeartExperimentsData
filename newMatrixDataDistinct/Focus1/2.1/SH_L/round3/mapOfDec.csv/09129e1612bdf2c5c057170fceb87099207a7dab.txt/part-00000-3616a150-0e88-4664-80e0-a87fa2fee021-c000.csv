@@ -1,0 +1,5 @@
+org/jboss/weld/bootstrap/BeanDeployerEnvironment/addNewBeanFromInjecitonPoint(java.lang.Class,java.lang.reflect.Type)@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	0
+org/jboss/weld/resolution/ResolvableBuilder/create()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	4
+org/jboss/weld/metadata/cache/StereotypeModel/checkBindings()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	2
+org/jboss/weld/bean/DecoratorImpl/checkDelegateInjectionPoints()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	3
+org/jboss/weld/bean/AbstractProducerBean/initScope()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	1

@@ -1,0 +1,5 @@
+io/netty/testsuite/transport/socket/SocketSslEchoTest/testSslEcho(io.netty.bootstrap.ServerBootstrap,io.netty.bootstrap.Bootstrap)@0ffdf59c240a583481233e344c76fb939986aab1.txt	4
+io/netty/testsuite/transport/socket/SocketStartTlsTest/StartTlsClientHandler/messageReceived(io.netty.channel.ChannelHandlerContext,java.lang.String)@0ffdf59c240a583481233e344c76fb939986aab1.txt	3
+io/netty/testsuite/transport/socket/SocketSslEchoTest/testSslEcho(io.netty.bootstrap.ServerBootstrap,io.netty.bootstrap.Bootstrap,boolean)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	0
+io/netty/example/securechat/SecureChatServerHandler/channelActive(io.netty.channel.ChannelHandlerContext)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	2
+io/netty/testsuite/transport/socket/SocketStartTlsTest/StartTlsClientHandler/messageReceived(io.netty.channel.ChannelHandlerContext,java.lang.String)@0bf3a12356913a65595bfeea00850a5683b05f41.txt	1

@@ -1,0 +1,4 @@
+java/lang/Long/valueOf(long)
+java/util/List/size()
+java/lang/Long/longValue()
+java/util/List/add(java.lang.Object)

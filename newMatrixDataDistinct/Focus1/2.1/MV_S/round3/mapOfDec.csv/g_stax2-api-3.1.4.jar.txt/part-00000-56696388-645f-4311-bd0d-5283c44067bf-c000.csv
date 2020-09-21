@@ -1,0 +1,5 @@
+com/ctc/wstx/evt/SimpleStartElement/outputNsAndAttr(javax.xml.stream.XMLStreamWriter)@g_wstx-asl-3.2.7.jar.txt	0
+com/ctc/wstx/sax/WstxSAXParser/parse(org.xml.sax.InputSource)@g_wstx-asl-3.2.7.jar.txt	1
+javanet/staxutils/XMLStreamReaderToContentHandler/getAttributes()@g_wstx-asl-3.2.7.jar.txt	2
+org/codehaus/stax2/validation/XMLValidationSchemaFactory/newInstance(java.lang.String,java.lang.ClassLoader)@g_wstx-asl-3.2.7.jar.txt	3
+com/ctc/wstx/sw/BaseStreamWriter/copyEventFromReader(org.codehaus.stax2.XMLStreamReader2,boolean)@g_wstx-asl-3.2.7.jar.txt	4

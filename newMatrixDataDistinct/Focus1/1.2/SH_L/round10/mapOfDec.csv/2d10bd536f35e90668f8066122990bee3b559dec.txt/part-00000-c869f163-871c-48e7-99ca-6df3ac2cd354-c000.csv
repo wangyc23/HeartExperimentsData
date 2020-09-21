@@ -1,0 +1,5 @@
+nl/illuminated/arduino/ArduinoPort/main(java.lang.String[])@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+nl/illuminated/arduino/ArduinoPort/handleReceivedPackages()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0
+nl/illuminatedgroup/bankapplicatievoorbeeld/Database/connect()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+nl/illuminatedgroup/bankapplicatievoorbeeld/Database/getBalance(java.lang.String)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1
+nl/illuminatedgroup/bankapplicatievoorbeeld/Database/withdraw(java.lang.String,long)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3

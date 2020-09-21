@@ -1,0 +1,5 @@
+org/apache/activemq/protobuf/compiler/AltJavaGenerator/generateMethodMergeFromStream(org.apache.activemq.protobuf.compiler.MessageDescriptor,java.lang.String)@g_activemq-protobuf-1.0.jar.txt	4
+org/apache/activemq/protobuf/compiler/AltJavaGenerator/generateEnum(org.apache.activemq.protobuf.compiler.EnumDescriptor)@g_activemq-protobuf-1.0.jar.txt	1
+org/apache/activemq/protobuf/compiler/MessageDescriptor/validate(java.util.List)@g_activemq-protobuf-1.0.jar.txt	2
+org/apache/activemq/protobuf/compiler/JavaGenerator/generateEnum(org.apache.activemq.protobuf.compiler.EnumDescriptor)@g_activemq-protobuf-1.0.jar.txt	0
+org/apache/activemq/protobuf/compiler/MessageDescriptor/getType(java.lang.String)@g_activemq-protobuf-1.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/jackrabbit/webdav/jcr/WorkspaceResourceImpl/getCollection()@g_jackrabbit-webdav-1.4.jar.txt	3
+org/apache/jackrabbit/name/GenerationalCache/put(java.lang.Object,java.lang.Object)@g_jackrabbit-webdav-1.4.jar.txt	4
+org/apache/jackrabbit/webdav/jcr/AbstractItemResource/getCollection()@g_jackrabbit-webdav-1.4.jar.txt	1
+org/apache/jackrabbit/webdav/header/IfHeader/logIllegalState(java.lang.String,int,java.lang.String,java.io.StringReader)@g_jackrabbit-webdav-1.4.jar.txt	0
+org/apache/jackrabbit/webdav/AbstractLocatorFactory/createResourceLocator(java.lang.String,java.lang.String)@g_jackrabbit-webdav-1.4.jar.txt	2

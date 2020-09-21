@@ -1,0 +1,5 @@
+com/netflix/servo/publish/JmxMetricPoller/createTagList(javax.management.ObjectName)@g_servo-core-0.9.2.jar.txt	2
+com/netflix/servo/util/ThreadCpuStats/updateStats()@g_servo-core-0.9.2.jar.txt	4
+com/netflix/servo/jmx/OrderedObjectNameMapper/createObjectName(java.lang.String,com.netflix.servo.monitor.Monitor)@g_servo-core-0.9.2.jar.txt	0
+com/netflix/servo/publish/JmxMetricPoller/getMetrics(javax.management.MBeanServerConnection,com.netflix.servo.publish.MetricFilter,java.util.List,javax.management.ObjectName)@g_servo-core-0.9.2.jar.txt	3
+com/netflix/servo/jmx/OrderedObjectNameMapper/createObjectName(java.lang.String,com.netflix.servo.monitor.Monitor)@g_servo-core-0.10.0.jar.txt	1

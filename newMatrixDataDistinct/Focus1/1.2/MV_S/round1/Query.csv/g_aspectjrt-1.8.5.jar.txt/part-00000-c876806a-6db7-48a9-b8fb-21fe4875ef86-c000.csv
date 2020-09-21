@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/Class/getDeclaredMethods()
+java/lang/reflect/Method/getAnnotation(java.lang.Class)
+java/util/List/toArray(java.lang.Object[])

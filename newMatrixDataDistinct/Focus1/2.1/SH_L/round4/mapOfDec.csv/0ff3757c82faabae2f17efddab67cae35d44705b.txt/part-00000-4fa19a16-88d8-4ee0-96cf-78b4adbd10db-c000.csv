@@ -1,0 +1,5 @@
+org/apache/sling/jcr/webdav/impl/servlets/SlingWebDavServlet/activate(org.apache.sling.auth.xing.login.impl.ComponentContext)@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	0
+org/apache/sling/jcr/webdav/impl/servlets/SlingWebDavServlet/deactivate(org.apache.sling.auth.xing.login.impl.ComponentContext)@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	1
+com/adobe/acs/commons/models/injectors/impl/AemObjectInjector/getResourceDesign(java.lang.Object)@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	4
+org/apache/sling/scripting/jsp/jasper/compiler/ELParser/hasNextChar()@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	3
+com/adobe/acs/commons/wcm/impl/ComponentErrorHandlerImpl/isFirstInChain(org.apache.sling.api.SlingHttpServletRequest)@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	2

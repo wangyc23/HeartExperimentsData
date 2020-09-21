@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/util/Iterator/hasNext()
+java/util/Map/values()
+java/util/Iterator/next()

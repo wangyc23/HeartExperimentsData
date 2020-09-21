@@ -1,0 +1,5 @@
+jsr166e/ConcurrentHashMapV8/SearchValuesTask/compute()@g_servo-internal-0.10.0.jar.txt	4
+jsr166e/ConcurrentHashMapV8/compute(java.lang.Object,jsr166e.ConcurrentHashMapV8$BiFun)@g_servo-internal-0.10.0.jar.txt	2
+org/infinispan/commons/util/ClassFinder/withAnnotationDeclared(java.util.List,java.lang.Class)@g_servo-internal-0.10.0.jar.txt	3
+org/infinispan/commons/util/concurrent/jdk8backported/EquivalentConcurrentHashMapV8/equals(java.lang.Object)@g_servo-internal-0.10.0.jar.txt	0
+com/netflix/servo/jsr166e/ConcurrentHashMapV8/<clinit>()@g_servo-internal-0.10.0.jar.txt	1

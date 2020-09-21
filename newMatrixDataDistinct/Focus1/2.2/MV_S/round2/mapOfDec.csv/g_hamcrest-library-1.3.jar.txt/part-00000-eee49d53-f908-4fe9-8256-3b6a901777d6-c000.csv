@@ -1,0 +1,5 @@
+ognl/ListPropertyAccessor/getSourceAccessor(ognl.OgnlContext,java.lang.Object,java.lang.Object)@g_ognl-3.0.8.jar.txt	2
+ognl/ASTMethod/toSetSourceString(ognl.OgnlContext,java.lang.Object)@g_ognl-3.0.8.jar.txt	0
+ognl/ArrayPropertyAccessor/getSourceSetter(ognl.OgnlContext,java.lang.Object,java.lang.Object)@g_ognl-3.0.8.jar.txt	4
+ognl/ASTAdd/toGetSourceString(ognl.OgnlContext,java.lang.Object)@g_ognl-3.0.8.jar.txt	3
+ognl/ASTMethod/toGetSourceString(ognl.OgnlContext,java.lang.Object)@g_ognl-3.0.8.jar.txt	1

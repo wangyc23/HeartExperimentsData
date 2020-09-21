@@ -1,0 +1,5 @@
+com/adobe/acs/commons/wcm/impl/ComponentHelperImpl/getWCMEditType(com.day.cq.wcm.api.components.DropTarget)@28d69a69e31e29c95f20d8169265faa680168571.txt	0
+es/uvigo/ei/sing/pandrugs/persistence/dao/DefaultGeneDrugDAOIntegrationTest/testlistDrugsNegativeMaxResults()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	4
+es/uvigo/ei/sing/pandrugs/controller/entity/GeneDrugGroupTest/testCountTargetGenes()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	2
+es/uvigo/ei/sing/pandrugs/controller/DefaultGeneDrugController/searchByDrugs(es.uvigo.ei.sing.pandrugs.query.GeneDrugQueryParameters,java.lang.String[])@1145ae442bd808cc7f1c030828034f44eae69a16.txt	3
+es/uvigo/ei/sing/pandrugs/controller/entity/GeneDrugGroupTest/testGetCuratedSourcesEmpty()@1145ae442bd808cc7f1c030828034f44eae69a16.txt	1

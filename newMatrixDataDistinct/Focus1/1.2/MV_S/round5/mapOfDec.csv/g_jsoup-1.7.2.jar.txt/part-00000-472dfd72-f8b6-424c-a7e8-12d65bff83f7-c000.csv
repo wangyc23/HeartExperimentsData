@@ -1,0 +1,5 @@
+com/internetitem/logback/elasticsearch/ElasticsearchOutputAggregator/sendData()@g_logback-elasticsearch-appender-1.3.jar.txt	0
+feign/ReflectiveFeign/BuildTemplateByResolvingArgs/create(java.lang.Object[])@g_feign-core-8.11.0.jar.txt	4
+feign/RequestTemplate/resolve(java.util.Map)@g_feign-core-8.11.0.jar.txt	2
+feign/RequestTemplate/replaceQueryValues(java.util.Map)@g_feign-core-8.11.0.jar.txt	3
+feign/RequestTemplate/pullAnyQueriesOutOfUrl(java.lang.StringBuilder)@g_feign-core-8.11.0.jar.txt	1

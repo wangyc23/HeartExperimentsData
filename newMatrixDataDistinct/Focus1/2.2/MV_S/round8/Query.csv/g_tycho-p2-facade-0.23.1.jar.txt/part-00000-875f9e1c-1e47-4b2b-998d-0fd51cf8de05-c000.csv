@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+de/pdark/decentxml/Element/getChild(java.lang.String)
+org/eclipse/tycho/p2/resolver/TargetDefinitionFile$OtherLocation/OtherLocation(java.lang.String)

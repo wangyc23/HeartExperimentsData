@@ -1,0 +1,5 @@
+org/apache/ivy/util/url/HttpClientHandler/openStream(java.net.URL)@g_ivy-2.3.0.jar.txt	2
+org/apache/ant/compress/resources/ZipResource/getInputStream()@g_ivy-2.3.0.jar.txt	1
+org/apache/tools/ant/types/selectors/DateSelector/setParameters(org.apache.tools.ant.types.Parameter[])@g_ivy-2.3.0.jar.txt	3
+org/apache/tools/ant/taskdefs/XmlProperty/addNodeRecursively(org.w3c.dom.Node,java.lang.String,java.lang.Object)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0

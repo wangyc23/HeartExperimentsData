@@ -1,0 +1,4 @@
+org/neo4j/graphdb/Relationship/getType()
+java/util/Iterator/hasNext()
+org/neo4j/graphdb/Relationship/getEndNode()
+java/util/Iterator/next()

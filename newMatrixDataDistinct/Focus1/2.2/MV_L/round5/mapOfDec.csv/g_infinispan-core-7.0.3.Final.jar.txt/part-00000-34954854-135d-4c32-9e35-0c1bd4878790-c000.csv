@@ -1,0 +1,5 @@
+org/infinispan/persistence/manager/PersistenceManagerImpl/getCacheForStateInsertion()@g_infinispan-core-7.2.5.Final.jar.txt	1
+org/infinispan/commands/tx/PrepareCommand/getAffectedKeysToLock(boolean)@g_infinispan-core-7.2.5.Final.jar.txt	0
+org/infinispan/xsite/LocalCacheBackupReceiver/handleStateTransferState(org.infinispan.xsite.statetransfer.XSiteStatePushCommand)@g_infinispan-core-7.2.5.Final.jar.txt	4
+org/infinispan/util/concurrent/locks/LockManagerImpl/lockAndRecord(java.lang.Object,org.infinispan.context.InvocationContext,long)@g_infinispan-core-7.2.5.Final.jar.txt	3
+org/infinispan/iteration/impl/DistributedEntryRetriever/startRetrievingValues(java.util.UUID,java.util.Set,java.util.Set,org.infinispan.filter.KeyValueFilter,org.infinispan.filter.Converter,java.util.Set,org.infinispan.iteration.impl.DistributedEntryRetriever$SegmentBatchHandler)@g_infinispan-core-7.2.5.Final.jar.txt	2

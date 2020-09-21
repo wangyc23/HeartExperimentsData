@@ -1,0 +1,5 @@
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclaredITDFields()@g_aspectjrt-1.8.5.jar.txt	0
+ognl/ASTMethod/toSetSourceString(ognl.OgnlContext,java.lang.Object)@g_aspectjrt-1.8.5.jar.txt	1
+org/bytedeco/javacpp/tools/Parser/commentDoc(java.lang.String,int)@g_aspectjrt-1.8.5.jar.txt	2
+org/bytedeco/javacpp/tools/TokenIndexer/filter(org.bytedeco.javacpp.tools.Token[],int)@g_aspectjrt-1.8.5.jar.txt	4
+ognl/enhance/ExpressionCompiler/castExpression(ognl.OgnlContext,ognl.Node,java.lang.String)@g_aspectjrt-1.8.5.jar.txt	3

@@ -1,0 +1,5 @@
+com/netflix/eureka/cluster/PeerEurekaNode/6/executeBatch(java.util.List)@g_eureka-core-1.1.147.jar.txt	0
+com/netflix/eureka/resources/PeerReplicationResource/batchReplication(com.netflix.eureka.cluster.PeerEurekaNode$ReplicationList)@g_eureka-core-1.1.147.jar.txt	1
+com/netflix/eureka/util/EIPManager/getEIPsFromServiceUrls(java.util.List)@g_eureka-core-1.1.147.jar.txt	2
+com/netflix/eureka/PeerAwareInstanceRegistry/syncUp()@g_eureka-core-1.1.147.jar.txt	4
+com/netflix/eureka/resources/StatusResource/isReplicaAvailable(java.lang.String,java.lang.String)@g_eureka-core-1.1.147.jar.txt	3

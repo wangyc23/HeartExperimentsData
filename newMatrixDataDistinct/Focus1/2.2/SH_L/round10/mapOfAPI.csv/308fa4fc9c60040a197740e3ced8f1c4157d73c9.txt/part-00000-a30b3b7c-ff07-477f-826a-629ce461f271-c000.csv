@@ -1,0 +1,4 @@
+0	agenda/rest/exceptions/CustomWebApplicationException/CustomWebApplicationException(java.lang.Throwable)
+1	agenda/business/TelefoneBusiness/update(agenda.entity.Telefone)
+2	agenda/dao/SessionManager/commit()
+3	agenda/dao/SessionManager/begin()

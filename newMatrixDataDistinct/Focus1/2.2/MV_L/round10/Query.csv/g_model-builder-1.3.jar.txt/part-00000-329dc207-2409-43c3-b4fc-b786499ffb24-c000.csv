@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+java/util/List/addAll(int,java.util.Collection)
+java/util/List/add(java.lang.Object)

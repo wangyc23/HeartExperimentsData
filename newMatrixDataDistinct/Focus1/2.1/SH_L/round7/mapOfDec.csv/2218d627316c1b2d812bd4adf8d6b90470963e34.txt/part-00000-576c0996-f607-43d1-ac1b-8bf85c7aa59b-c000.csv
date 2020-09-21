@@ -1,0 +1,5 @@
+org/apache/mahout/clustering/display/DisplayFuzzyKMeans/main(java.lang.String[])@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	1
+org/apache/mahout/vectorizer/encoders/InteractionValueEncoder/probes()@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	0
+org/apache/mahout/utils/nlp/collocations/llr/BloomTokenFilterTest/testShingleFilteredAnalyzer()@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	3
+org/apache/mahout/math/hadoop/similarity/cooccurrence/measures/VectorSimilarityMeasuresTest/testLoglikelihoodSimilarity()@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	4
+org/apache/mahout/cf/taste/impl/recommender/GenericItemBasedRecommenderTest/testMostSimilar()@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	2

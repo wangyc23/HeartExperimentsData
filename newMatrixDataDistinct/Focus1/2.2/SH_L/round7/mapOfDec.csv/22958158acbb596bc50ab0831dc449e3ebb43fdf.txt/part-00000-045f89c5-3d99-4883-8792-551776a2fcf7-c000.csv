@@ -1,0 +1,5 @@
+com/tamingtext/tagrecommender/TestStackOverflowTagger/loadTags(com.tamingtext.tagrecommender.OpenObjectIntHashMap)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	4
+com/tamingtext/util/TamingTextDriver/main(java.lang.String[])@25d79c90186328c34a9598727ce2a0642d67c4da.txt	2
+com/tamingtext/qa/PassageRankingComponent/process(com.tamingtext.qa.ResponseBuilder)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	1
+com/tamingtext/classifier/bayes/ExtractTrainingData/extractTraininingData(java.io.File,java.io.File,java.util.Collection,java.util.Collection,java.io.File,boolean)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	0
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	3

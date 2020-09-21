@@ -1,0 +1,5 @@
+org/jfree/chart/plot/CategoryPlot/drawAxes(java.awt.Graphics2D,java.awt.geom.Rectangle2D,java.awt.geom.Rectangle2D,org.jfree.chart.plot.PlotRenderingInfo)@g_jfreechart-1.0.19.jar.txt	2
+org/jfree/chart/plot/CombinedDomainCategoryPlot/draw(java.awt.Graphics2D,java.awt.geom.Rectangle2D,java.awt.geom.Point2D,org.jfree.chart.plot.PlotState,org.jfree.chart.plot.PlotRenderingInfo)@g_jfreechart-1.0.19.jar.txt	4
+org/apache/batik/gvt/UpdateTracker/changeStarted(org.apache.batik.gvt.event.GraphicsNodeChangeEvent)@g_batik-gvt-1.8.jar.txt	0
+org/jfree/data/statistics/HistogramDataset/addSeries(java.lang.Comparable,double[],int,double,double)@g_jfreechart-1.0.19.jar.txt	3
+org/jfree/chart/plot/CombinedDomainXYPlot/draw(java.awt.Graphics2D,java.awt.geom.Rectangle2D,java.awt.geom.Point2D,org.jfree.chart.plot.PlotState,org.jfree.chart.plot.PlotRenderingInfo)@g_jfreechart-1.0.19.jar.txt	1

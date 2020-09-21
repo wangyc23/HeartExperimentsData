@@ -1,0 +1,5 @@
+com/clarkparsia/owlapi/modularity/locality/SyntacticLocalityEvaluator/AxiomLocalityVisitor/visit(org.semanticweb.owlapi.model.OWLDisjointDataPropertiesAxiom)@g_owlapi-compatibility-5.1.0.jar.txt	4
+org/coode/owlapi/obo12/parser/TokenMgrError/addEscapes(java.lang.String)@g_owlapi-compatibility-5.1.0.jar.txt	2
+org/coode/owlapi/obo12/parser/ParseException/add_escapes(java.lang.String)@g_owlapi-compatibility-5.1.0.jar.txt	0
+com/clarkparsia/owlapi/explanation/io/ConciseExplanationRenderer/renderSingleExplanation(java.lang.String,java.util.Set)@g_owlapi-compatibility-5.1.0.jar.txt	3
+org/coode/owlapi/obo12/parser/TokenMgrException/addEscapes(java.lang.String)@g_owlapi-compatibility-5.1.0.jar.txt	1

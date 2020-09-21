@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/lucene45/Lucene45DocValuesConsumer/addTermsDict(org.apache.lucene.index.FieldInfo,java.lang.Iterable)@g_lucene-backward-codecs-5.3.1.jar.txt	4
+org/apache/lucene/codecs/lucene410/Lucene410DocValuesConsumer/addReverseTermIndex(org.apache.lucene.index.FieldInfo,java.lang.Iterable,int)@g_lucene-backward-codecs-5.3.1.jar.txt	2
+org/apache/lucene/codecs/lucene49/Lucene49DocValuesConsumer/addTermsDict(org.apache.lucene.index.FieldInfo,java.lang.Iterable)@g_lucene-backward-codecs-5.3.1.jar.txt	3
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/TermsWriter/writeBlock(int,boolean,int,int,int,boolean,boolean)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/codecs/lucene40/Lucene40LiveDocsFormat/readLiveDocs(org.apache.lucene.store.Directory,org.apache.lucene.index.SegmentCommitInfo,org.apache.lucene.store.IOContext)@g_lucene-backward-codecs-5.3.1.jar.txt	0

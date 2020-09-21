@@ -1,0 +1,5 @@
+org/jboss/errai/reflections/util/ClasspathHelper/forClass(java.lang.Class,java.lang.ClassLoader[])@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	1
+org/jboss/errai/cdi/server/gwt/JettyLauncher/WebAppContextWithReload/WebAppClassLoaderExtension/findResource(java.lang.String)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	2
+org/jboss/errai/tools/monitoring/UiHelper/getSwIcon(java.lang.String)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	4
+org/jboss/errai/ui/rebind/TranslationServiceGenerator/generateI18nHelperFilesInto(java.util.Map,java.io.File)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	0
+org/jboss/errai/cdi/server/gwt/JettyLauncher/WebAppContextWithReload/WebAppClassLoaderExtension/findClass(java.lang.String)@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	3

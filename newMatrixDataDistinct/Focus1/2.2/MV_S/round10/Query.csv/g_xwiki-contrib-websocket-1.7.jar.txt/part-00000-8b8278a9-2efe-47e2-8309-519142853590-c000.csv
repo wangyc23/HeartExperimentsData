@@ -1,0 +1,4 @@
+hidden/io/netty/util/concurrent/SingleThreadEventExecutor/inEventLoop()
+java/util/concurrent/atomic/AtomicIntegerFieldUpdater/get(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Thread/start()

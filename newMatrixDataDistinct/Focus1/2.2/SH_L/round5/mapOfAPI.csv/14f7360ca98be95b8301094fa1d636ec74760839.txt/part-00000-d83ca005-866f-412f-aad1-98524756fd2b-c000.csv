@@ -1,0 +1,4 @@
+0	java/lang/Object/toString()
+1	java/util/Arrays/asList(T[])
+2	org/glassfish/jersey/server/internal/inject/AbstractTest/getResponseContext(java.lang.String,org.glassfish.jersey.server.internal.inject.Cookie[])
+3	java/util/Collections/singletonList(T)

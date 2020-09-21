@@ -1,0 +1,5 @@
+org/xwiki/wysiwyg/server/internal/wiki/DefaultWikiService/getAttachments(org.xwiki.gwt.wysiwyg.client.wiki.WikiPageReference)@g_xwiki-platform-uiextension-api-7.0.jar.txt	3
+org/xwiki/wysiwyg/server/internal/plugin/importer/XWikiImportService/cleanOfficeHTML(java.lang.String,java.lang.String,java.util.Map)@g_xwiki-platform-uiextension-api-7.0.jar.txt	2
+org/xwiki/wysiwyg/server/internal/cleaner/EmptyLineFilter/filter(org.w3c.dom.Document,java.util.Map)@g_xwiki-platform-uiextension-api-7.0.jar.txt	1
+org/xwiki/wysiwyg/server/internal/plugin/macro/XWikiMacroService/getUntranslatedMacroDescriptor(java.lang.String,java.lang.String)@g_xwiki-platform-uiextension-api-7.0.jar.txt	0
+org/xwiki/wysiwyg/server/internal/plugin/importer/XWikiImportService/convertAttachmentContent(org.xwiki.model.reference.AttachmentReference,boolean)@g_xwiki-platform-uiextension-api-7.0.jar.txt	4

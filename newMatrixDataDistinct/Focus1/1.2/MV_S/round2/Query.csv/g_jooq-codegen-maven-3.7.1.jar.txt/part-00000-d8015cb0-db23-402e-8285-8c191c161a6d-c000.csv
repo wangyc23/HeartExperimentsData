@@ -1,0 +1,4 @@
+java/net/URI/toURL()
+java/util/List/size()
+java/io/File/File(java.lang.String)
+java/net/URLClassLoader/URLClassLoader(java.net.URL[],java.lang.ClassLoader)

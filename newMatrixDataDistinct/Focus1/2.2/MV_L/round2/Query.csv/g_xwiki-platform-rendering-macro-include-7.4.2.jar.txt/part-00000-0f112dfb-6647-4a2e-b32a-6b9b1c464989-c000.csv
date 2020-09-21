@@ -1,0 +1,4 @@
+java/util/Stack/Stack()
+java/lang/ThreadLocal/set(java.lang.Object)
+org/xwiki/rendering/transformation/TransformationContext/getTargetSyntax()
+org/xwiki/rendering/transformation/MacroTransformationContext/getTransformationContext()

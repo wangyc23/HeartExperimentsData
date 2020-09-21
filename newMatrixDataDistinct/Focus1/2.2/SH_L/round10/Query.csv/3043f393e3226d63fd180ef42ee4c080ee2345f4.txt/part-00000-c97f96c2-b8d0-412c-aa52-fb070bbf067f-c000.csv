@@ -1,0 +1,4 @@
+parquet/column/ColumnReader/consume()
+parquet/column/impl/ColumnReadStoreImpl/getColumnReader(parquet.column.ColumnDescriptor)
+parquet/column/mem/TestMemColumn/getCol(java.lang.String,java.lang.String[])
+parquet/column/impl/ColumnWriteStoreImpl/getColumnWriter(parquet.column.ColumnDescriptor)

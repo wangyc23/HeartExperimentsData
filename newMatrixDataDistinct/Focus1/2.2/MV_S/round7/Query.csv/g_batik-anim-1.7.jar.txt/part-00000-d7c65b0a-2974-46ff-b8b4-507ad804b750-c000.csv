@@ -1,0 +1,4 @@
+org/apache/batik/ext/awt/geom/PathLength/angleAtLength(float)
+java/awt/geom/Point2D$Double/getY()
+java/lang/Math/abs(double)
+org/apache/batik/ext/awt/geom/PathLength/lengthOfPath()

@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/proto/YarnProtos/ReservationRequestProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.5.jar.txt	3
+org/apache/hadoop/yarn/proto/YarnProtos/StringLocalResourceMapProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.5.jar.txt	2
+org/apache/hadoop/yarn/proto/YarnProtos/NodeReportProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.5.jar.txt	1
+org/apache/hadoop/yarn/proto/ApplicationHistoryServerProtos/ApplicationAttemptHistoryDataProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.5.jar.txt	4
+org/apache/hadoop/yarn/proto/YarnServiceProtos/ReservationSubmissionRequestProto/equals(java.lang.Object)@g_hadoop-yarn-api-2.6.5.jar.txt	0

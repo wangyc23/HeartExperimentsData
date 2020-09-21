@@ -1,0 +1,5 @@
+org/hibernate/cfg/annotations/EntityBinder/bindEntity()@g_hibernate-core-4.3.10.Final.jar.txt	3
+org/hibernate/loader/Loader/prepareQueryStatement(java.lang.String,org.hibernate.engine.spi.QueryParameters,org.hibernate.dialect.pagination.LimitHandler,boolean,org.hibernate.engine.spi.SessionImplementor)@g_hibernate-core-4.3.10.Final.jar.txt	0
+org/hibernate/dialect/DerbyDialect/getLimitString(java.lang.String,int,int)@g_hibernate-core-4.3.10.Final.jar.txt	4
+org/hibernate/internal/util/config/ConfigurationHelper/getInteger(java.lang.String,java.util.Map)@g_hibernate-core-4.3.10.Final.jar.txt	2
+org/hibernate/loader/plan/exec/internal/AbstractLoadPlanBasedLoader/prepareQueryStatement(java.lang.String,org.hibernate.engine.spi.QueryParameters,org.hibernate.dialect.pagination.LimitHandler,boolean,org.hibernate.engine.spi.SessionImplementor)@g_hibernate-core-4.3.10.Final.jar.txt	1

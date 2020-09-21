@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/util/OWLEntityURIConverter/getChanges()@g_owlapi-distribution-4.5.0.jar.txt	4
+org/semanticweb/owlapi/owlxml/renderer/OWLXMLObjectRenderer/visit(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-distribution-4.5.0.jar.txt	3
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/insertChildren(org.semanticweb.owlapi.model.OWLEntity,uk.ac.manchester.cs.owl.explanation.ordering.ExplanationTree)@g_owlapi-distribution-4.5.0.jar.txt	2
+com/clarkparsia/owlapi/explanation/BlackBoxExplanation/expandWithDefiningAxioms(org.semanticweb.owlapi.model.OWLEntity,int)@g_owlapi-distribution-4.5.0.jar.txt	0
+org/semanticweb/owlapi/change/ShortForm2AnnotationGenerator/generateChanges(org.semanticweb.owlapi.model.OWLOntologyManager,org.semanticweb.owlapi.model.OWLOntology,org.semanticweb.owlapi.util.ShortFormProvider,org.semanticweb.owlapi.model.IRI,java.lang.String)@g_owlapi-distribution-4.5.0.jar.txt	1

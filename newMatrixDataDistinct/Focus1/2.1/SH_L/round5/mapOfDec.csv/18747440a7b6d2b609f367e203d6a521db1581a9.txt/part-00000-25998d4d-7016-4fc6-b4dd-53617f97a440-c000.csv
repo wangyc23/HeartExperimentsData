@@ -1,0 +1,5 @@
+io/dropwizard/hibernate/SessionFactoryFactoryTest/buildsAWorkingSessionFactory()@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	2
+io/dropwizard/hibernate/JerseyIntegrationTest/createsNewData()@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	1
+io/dropwizard/server/DefaultServerFactoryTest/doesNotDefaultExceptionMappers()@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	4
+io/dropwizard/hibernate/JerseyIntegrationTest/findsExistingData()@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	0
+io/dropwizard/validation/valuehandling/OptionalIntValidatedValueUnwrapperTest/succeedsWhenConstraintsMet()@088c10ecdcd07b6445bbb6aca01863c1a13c7d9d.txt	3

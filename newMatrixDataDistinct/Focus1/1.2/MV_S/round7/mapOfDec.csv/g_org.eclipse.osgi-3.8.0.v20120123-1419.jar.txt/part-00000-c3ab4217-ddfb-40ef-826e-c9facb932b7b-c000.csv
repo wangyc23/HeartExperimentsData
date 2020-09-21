@@ -1,0 +1,5 @@
+org/osgi/service/condpermadmin/BundleSignerCondition/1/run()@g_org.osgi.core-4.0.0.jar.txt	4
+net/sf/ezmorph/test/ArrayAssertions/assertEquals(java.lang.String,java.lang.Object[],java.lang.Object[])@g_ezmorph-1.0.6.jar.txt	2
+net/sf/ezmorph/object/StringMorpher/morph(java.lang.Object)@g_ezmorph-1.0.6.jar.txt	1
+net/sf/ezmorph/test/ArrayAssertions/assertEquals(java.lang.String,java.util.List,java.util.List)@g_ezmorph-1.0.6.jar.txt	3
+net/sf/ezmorph/primitive/BooleanMorpher/morph(java.lang.Object)@g_ezmorph-1.0.6.jar.txt	0

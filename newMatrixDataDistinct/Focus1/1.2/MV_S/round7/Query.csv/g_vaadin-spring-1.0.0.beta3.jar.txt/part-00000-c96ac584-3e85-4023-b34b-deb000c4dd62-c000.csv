@@ -1,0 +1,4 @@
+java/util/HashSet/iterator()
+java/util/Iterator/hasNext()
+com/vaadin/spring/internal/DefaultViewCache$ViewBeanStore/destroy()
+java/util/Map/isEmpty()

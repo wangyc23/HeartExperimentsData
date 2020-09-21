@@ -1,0 +1,5 @@
+weka/gui/knowledgeflow/steps/SubstringReplacerStepEditorDialog/layoutEditor()@g_antlr4-runtime-4.5.1-1.jar.txt	1
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_antlr4-runtime-4.5.1-1.jar.txt	2
+weka/gui/beans/BeanInstance/addBean(javax.swing.JComponent,java.lang.Integer[])@g_antlr4-runtime-4.5.1-1.jar.txt	4
+org/antlr/v4/runtime/ParserInterpreter/visitState(org.antlr.v4.runtime.atn.ATNState)@g_antlr4-runtime-4.5.1-1.jar.txt	0
+weka/datagenerators/classifiers/classification/RDG1/RuleList/toString()@g_antlr4-runtime-4.5.1-1.jar.txt	3

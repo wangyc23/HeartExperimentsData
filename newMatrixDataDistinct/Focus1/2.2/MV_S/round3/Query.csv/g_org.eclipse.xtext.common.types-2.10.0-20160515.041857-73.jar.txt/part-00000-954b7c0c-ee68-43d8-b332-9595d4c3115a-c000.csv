@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/xtext/common/types/impl/JvmTypeParameterImpl/eInternalContainer()
+org/eclipse/xtext/common/types/impl/JvmTypeParameterImpl/eNotify(org.eclipse.emf.common.notify.Notification)
+org/eclipse/emf/ecore/InternalEObject/eInverseAdd(org.eclipse.emf.ecore.InternalEObject,int,java.lang.Class,org.eclipse.emf.common.notify.NotificationChain)

@@ -1,0 +1,5 @@
+netty/CallableAndFuture/main(java.lang.String[])@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	4
+activeMQ/consumer/queue/QueueReceiver2/onMessage(javax.jms.Message)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	2
+https/example/HttpsPost/post(java.lang.String,java.lang.String)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	3
+com/lwk/rpc/SocketClient/main(java.lang.String[])@24e7ed732403c04ba82976aae60664cac20e7f17.txt	1
+com/lwk/serializable/SerializationDemonstrator/deserialize(java.lang.String,java.lang.Class)@24e7ed732403c04ba82976aae60664cac20e7f17.txt	0

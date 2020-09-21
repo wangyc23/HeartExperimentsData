@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/HashMap/put(K,V)
+org/apache/lens/cube/metadata/JoinChain/getDestTable()
+java/util/Set/add(E)

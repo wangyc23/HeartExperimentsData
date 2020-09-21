@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/lang/Math/max(int,int)
+java/util/Arrays/asList(java.lang.Object[])
+java/util/Collections/unmodifiableList(java.util.List)

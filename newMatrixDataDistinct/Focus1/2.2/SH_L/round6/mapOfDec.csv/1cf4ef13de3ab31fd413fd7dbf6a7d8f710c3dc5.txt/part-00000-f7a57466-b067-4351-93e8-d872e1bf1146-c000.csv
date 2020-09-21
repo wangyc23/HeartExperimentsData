@@ -1,0 +1,5 @@
+tachyon/master/MasterInfoTest/ConcurrentCreator/exec(int,int,tachyon.TachyonURI)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	4
+tachyon/TachyonURITest/emptyURITest()@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	0
+tachyon/TachyonURI/join(tachyon.TachyonURI)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	3
+tachyon/worker/hierarchy/StorageDir/getUserTempFilePath(long,long)@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	1
+tachyon/master/MasterInfoTest/listFilesTest()@0a79f0dc8855aad67ff9c8b9462cd45f2fa80085.txt	2

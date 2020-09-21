@@ -1,0 +1,5 @@
+org/springframework/beans/factory/support/DefaultListableBeanFactory/registerBeanDefinition(java.lang.String,org.springframework.beans.factory.config.BeanDefinition)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	1
+org/springframework/beans/factory/support/AbstractBeanFactory/getTypeForFactoryBean(java.lang.String,org.springframework.beans.factory.support.RootBeanDefinition)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	4
+org/springframework/beans/BeanUtils/findEditorByConvention(java.lang.Class)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	2
+org/springframework/beans/factory/support/DisposableBeanAdapter/invokeCustomDestroyMethod(java.lang.reflect.Method)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	0
+org/springframework/beans/factory/support/DisposableBeanAdapter/destroy()@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	3

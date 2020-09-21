@@ -1,0 +1,5 @@
+com/adobe/xmp/impl/ParseRDF/rdf_LiteralPropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.2.jar.txt	0
+com/adobe/xmp/impl/ParseRDF/rdf_ResourcePropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.2.jar.txt	4
+com/adobe/xmp/impl/ParseRDF/rdf_EmptyPropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.2.jar.txt	3
+com/adobe/xmp/impl/ParseRDF/rdf_PropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.2.jar.txt	1
+com/adobe/xmp/impl/ParseRDF/rdf_ParseTypeResourcePropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.2.jar.txt	2

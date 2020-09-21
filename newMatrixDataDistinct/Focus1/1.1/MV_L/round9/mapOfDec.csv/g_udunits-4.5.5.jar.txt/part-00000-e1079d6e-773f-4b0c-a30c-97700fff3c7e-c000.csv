@@ -1,0 +1,5 @@
+org/apache/logging/log4j/util/StringBuilders/appendValue(java.lang.StringBuilder,java.lang.Object)@g_log4j-api-2.7.jar.txt	1
+org/apache/logging/log4j/message/ParameterFormatter/appendSpecialTypes(java.lang.Object,java.lang.StringBuilder)@g_log4j-api-2.7.jar.txt	2
+edu/stanford/nlp/sequences/SeqClassifierFlags/getNotNullTrueStringRep()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/util/IdentityHashSet/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+org/apache/logging/log4j/message/ReusableObjectMessage/formatTo(java.lang.StringBuilder)@g_log4j-api-2.7.jar.txt	0

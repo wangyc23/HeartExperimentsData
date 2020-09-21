@@ -1,0 +1,5 @@
+se/unlogic/standardutils/xml/ClassPathURIResolver/getURL(java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+org/jboss/resteasy/plugins/providers/multipart/ContentIDUtils/parseAddrSpecFromContentID(java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+Acme/Serve/Serve/ServeConnection/parseCookies()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+se/unlogic/standardutils/validation/StringLengthValidator/validateFormat(java.lang.String)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+com/iluwatar/intercepting/filter/ContactFilter/execute(com.iluwatar.intercepting.filter.Order)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	0

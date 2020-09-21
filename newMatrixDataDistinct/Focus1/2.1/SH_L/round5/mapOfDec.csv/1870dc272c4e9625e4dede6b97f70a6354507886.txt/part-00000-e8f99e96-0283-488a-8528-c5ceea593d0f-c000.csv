@@ -1,0 +1,5 @@
+com/wordnik/swagger/sample/data/StoreData/placeOrder(com.wordnik.swagger.sample.model.Order)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	3
+api/StoreData/placeOrder(models.Order)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	2
+api/StoreData/deleteOrder(long)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	1
+com/wordnik/swagger/sample/data/UserData/removeUser(java.lang.String)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	4
+com/wordnik/swagger/sample/data/StoreData/deleteOrder(long)@054ad1582c5da757906f325b9dfe85e25a05b10b.txt	0

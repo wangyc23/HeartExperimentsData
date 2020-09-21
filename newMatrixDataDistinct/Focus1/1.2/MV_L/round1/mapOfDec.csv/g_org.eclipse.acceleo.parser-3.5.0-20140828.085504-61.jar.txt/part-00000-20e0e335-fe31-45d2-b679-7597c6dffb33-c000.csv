@@ -1,0 +1,5 @@
+org/eclipse/acceleo/internal/parser/ast/CST2ASTConverterWithResolver/isExtendsCompatible(org.eclipse.acceleo.model.mtl.Module,org.eclipse.acceleo.model.mtl.Module)@g_org.eclipse.acceleo.parser-3.5.0-SNAPSHOT.jar.txt	3
+org/eclipse/acceleo/internal/parser/ast/ocl/environment/AcceleoTypeResolver/getAdditionalOperations(org.eclipse.emf.ecore.EClassifier,java.lang.String)@g_org.eclipse.acceleo.parser-3.5.0-SNAPSHOT.jar.txt	2
+org/eclipse/acceleo/internal/compatibility/parser/ast/ocl/environment/AcceleoEnvironmentGalileo/AcceleoTypeChecker/getOperations(org.eclipse.emf.ecore.EClassifier,java.lang.String)@g_org.eclipse.acceleo.parser-3.5.0-SNAPSHOT.jar.txt	0
+org/eclipse/acceleo/internal/parser/ast/ocl/environment/AcceleoEnvironment/getAdditionalOperations(org.eclipse.emf.ecore.EClassifier,java.lang.String)@g_org.eclipse.acceleo.parser-3.5.0-SNAPSHOT.jar.txt	4
+org/eclipse/acceleo/internal/compatibility/parser/ast/ocl/environment/AcceleoEnvironmentGalileo/AcceleoTypeChecker/getOperations(org.eclipse.emf.ecore.EClassifier,java.lang.String)@g_org.eclipse.acceleo.parser-3.5.1.201409021433.jar.txt	1

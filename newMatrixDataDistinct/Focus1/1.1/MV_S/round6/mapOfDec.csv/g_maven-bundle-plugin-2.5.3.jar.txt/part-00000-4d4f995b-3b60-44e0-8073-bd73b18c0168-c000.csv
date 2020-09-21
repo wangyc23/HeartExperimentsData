@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/maven/plugin/dependency/utils/markers/UnpackFileMarkerHandler/getMarkerFile()@g_maven-dependency-plugin-2.8.jar.txt	3
+org/apache/felix/bundleplugin/baseline/AbstractBaselinePlugin/getBundleName()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/war/packaging/AbstractWarPackagingTask/doUnpack(org.apache.maven.plugin.war.packaging.WarPackagingContext,java.io.File,java.io.File)@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/felix/obrplugin/ObrInstallFile/execute()@g_maven-dependency-plugin-2.8.jar.txt	0

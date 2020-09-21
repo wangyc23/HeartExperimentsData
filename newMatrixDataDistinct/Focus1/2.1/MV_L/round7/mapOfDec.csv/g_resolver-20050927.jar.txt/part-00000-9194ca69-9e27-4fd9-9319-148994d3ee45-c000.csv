@@ -1,0 +1,5 @@
+com/sun/org/apache/xml/internal/resolver/Resolver/resolveAllSubordinateCatalogs(int,java.lang.String,java.lang.String,java.lang.String)@g_jaxb-xjc-2.2.2.jar.txt	1
+org/apache/xml/resolver/apps/xparse/main(java.lang.String[])@g_jaxb-xjc-2.2.2.jar.txt	4
+com/sun/org/apache/xml/internal/resolver/Resolver/queryResolver(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_jaxb-xjc-2.2.2.jar.txt	0
+com/sun/tools/xjc/util/MimeTypeRange/merge(java.util.Collection)@g_jaxb-xjc-2.2.2.jar.txt	3
+com/sun/xml/xsom/impl/util/SchemaWriter/attributeUse(com.sun.xml.xsom.XSAttributeUse)@g_jaxb-xjc-2.2.2.jar.txt	2

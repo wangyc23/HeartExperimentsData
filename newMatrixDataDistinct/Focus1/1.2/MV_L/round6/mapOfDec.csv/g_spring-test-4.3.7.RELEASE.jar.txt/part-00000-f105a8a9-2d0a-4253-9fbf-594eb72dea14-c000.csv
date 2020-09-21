@@ -1,0 +1,5 @@
+org/springframework/test/web/client/MockRestServiceServer/RequestMatcherClientHttpRequestFactory/createRequestInternal(java.net.URI,org.springframework.http.HttpMethod)@g_spring-test-4.2.6.RELEASE.jar.txt	3
+org/springframework/test/context/support/ContextLoaderUtils/buildContextHierarchyMap(java.lang.Class)@g_spring-test-4.2.6.RELEASE.jar.txt	2
+org/springframework/test/web/client/MockRestServiceServer/getVerifyMessage()@g_spring-test-4.2.6.RELEASE.jar.txt	1
+org/springframework/mock/jndi/SimpleNamingContext/lookup(java.lang.String)@g_spring-test-4.2.2.RELEASE.jar.txt	4
+org/springframework/mock/jndi/SimpleNamingContext/lookup(java.lang.String)@g_spring-test-4.2.6.RELEASE.jar.txt	0

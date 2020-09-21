@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/engine/asm/ASMTextualWriter/printOperation(org.eclipse.m2m.atl.engine.asm.ASMOperation)@g_engine-3.4.0.jar.txt	2
+org/eclipse/m2m/atl/engine/asm/lib/SOTSExpression2/simpleExp(org.eclipse.m2m.atl.engine.emfvm.StackFrame,org.eclipse.m2m.atl.engine.emfvm.lib.Tuple)@g_engine-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/engine/asm/lib/ASMString/4/exec(org.eclipse.m2m.atl.engine.emfvm.lib.AbstractStackFrame)@g_engine-3.4.0.jar.txt	3
+org/eclipse/m2m/atl/engine/compiler/AtlDefaultCompiler/getProblems(org.eclipse.m2m.atl.core.IModel,org.eclipse.emf.ecore.EObject[])@g_engine-3.4.0.jar.txt	1
+org/eclipse/m2m/atl/engine/MarkerMaker/applyMarkers(org.eclipse.core.resources.IFile,org.eclipse.m2m.atl.core.IModel,int)@g_engine-3.4.0.jar.txt	0

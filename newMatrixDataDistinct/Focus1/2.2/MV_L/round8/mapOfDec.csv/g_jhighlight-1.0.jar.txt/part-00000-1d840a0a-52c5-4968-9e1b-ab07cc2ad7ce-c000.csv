@@ -1,0 +1,5 @@
+com/uwyn/jhighlight/tools/FileUtils/getFileList(java.io.File,java.util.regex.Pattern[],java.util.regex.Pattern[],boolean)@g_jhighlight-1.0.2.jar.txt	1
+com/uwyn/jhighlight/renderer/XhtmlRenderer/getCssClassDefinitions()@g_jhighlight-1.0.2.jar.txt	0
+org/apache/maven/it/Verifier/getMavenVersion()@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/it/util/cli/Commandline/addSystemEnvironment()@g_maven-verifier-1.2.jar.txt	3
+com/uwyn/jhighlight/JHighlight/main(java.lang.String[])@g_jhighlight-1.0.2.jar.txt	2

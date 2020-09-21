@@ -1,0 +1,5 @@
+org/jacoco/maven/CheckMojo/loadBundle()@g_maven-compiler-plugin-3.6.1.jar.txt	3
+org/apache/maven/plugin/compiler/HelpMojo/execute()@g_maven-compiler-plugin-3.6.1.jar.txt	1
+org/apache/maven/plugin/compiler/CompilerMojo/getCompileClasspathElements(org.apache.maven.project.MavenProject)@g_maven-compiler-plugin-3.6.1.jar.txt	4
+org/jacoco/maven/BundleCreator/logBundleInfo(org.jacoco.core.analysis.IBundleCoverage,java.util.Collection)@g_maven-compiler-plugin-3.6.1.jar.txt	0
+org/jacoco/maven/AbstractReportMojo/SourceFileCollection/getSourceFile(java.lang.String,java.lang.String)@g_maven-compiler-plugin-3.6.1.jar.txt	2

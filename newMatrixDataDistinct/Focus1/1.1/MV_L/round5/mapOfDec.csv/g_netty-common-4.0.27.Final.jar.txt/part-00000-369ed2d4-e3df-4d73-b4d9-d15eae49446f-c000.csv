@@ -1,0 +1,5 @@
+io/netty/util/concurrent/DefaultThreadFactory/newThread(java.lang.Runnable)@g_netty-common-4.0.25.Final.jar.txt	3
+io/netty/util/Version/identify(java.lang.ClassLoader)@g_netty-common-4.0.25.Final.jar.txt	2
+io/netty/util/NetUtil/toSocketAddressString(java.net.InetSocketAddress)@g_netty-common-4.0.25.Final.jar.txt	4
+io/netty/util/internal/chmv8/ForkJoinPool/invokeAll(java.util.Collection)@g_netty-common-4.0.25.Final.jar.txt	0
+io/netty/util/internal/chmv8/ForkJoinPool/invokeAll(java.util.Collection)@g_netty-common-4.1.7.Final.jar.txt	1

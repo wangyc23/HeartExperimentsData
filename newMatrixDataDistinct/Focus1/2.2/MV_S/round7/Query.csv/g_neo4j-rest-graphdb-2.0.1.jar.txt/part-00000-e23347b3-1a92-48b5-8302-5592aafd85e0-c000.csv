@@ -1,0 +1,4 @@
+java/io/PipedInputStream/PipedInputStream(int)
+java/lang/StringBuilder/StringBuilder()
+java/io/PipedOutputStream/PipedOutputStream(java.io.PipedInputStream)
+java/lang/RuntimeException/RuntimeException(java.lang.String,java.lang.Throwable)

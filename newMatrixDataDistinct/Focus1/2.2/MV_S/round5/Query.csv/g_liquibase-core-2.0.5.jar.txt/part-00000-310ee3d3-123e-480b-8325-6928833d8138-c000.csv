@@ -1,0 +1,4 @@
+java/util/regex/Pattern/compile(java.lang.String)
+java/lang/Object/toString()
+java/lang/String/substring(int,int)
+java/lang/String/replace(java.lang.CharSequence,java.lang.CharSequence)

@@ -1,0 +1,5 @@
+gate/gui/NameBearerHandle/DumpToFileAction/1/run()@g_gate-core-8.1.jar.txt	0
+gate/creole/ontology/ocat/OntologyTreePanel/updatePVnInst2ClassesMap(gate.creole.ontology.OInstance,java.util.Set,java.util.Set,java.util.HashMap)@g_gate-core-8.1.jar.txt	3
+gate/gui/LuceneDataStoreSearchGUI/TextMouseListener/mouseClicked(java.awt.event.MouseEvent)@g_gate-core-8.1.jar.txt	1
+gate/gui/SerialControllerEditor/selectPR(int)@g_gate-core-8.1.jar.txt	4
+gate/util/Files/updateXmlElement(java.io.BufferedReader,java.lang.String,java.util.Map)@g_gate-core-8.1.jar.txt	2

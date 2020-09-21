@@ -1,0 +1,5 @@
+org/apache/poi/hssf/usermodel/FontDetails/split(java.lang.String,java.lang.String,int)@g_poi-3.12.jar.txt	4
+org/apache/poi/hpsf/MutableSection/writeDictionary(java.io.OutputStream,java.util.Map,int)@g_poi-3.12.jar.txt	0
+org/apache/poi/hssf/usermodel/DVConstraint/createDVConstraint(org.apache.poi.hssf.record.DVRecord,org.apache.poi.ss.formula.FormulaRenderingWorkbook)@g_poi-3.12.jar.txt	3
+org/apache/poi/hssf/record/NameRecord/toString()@g_poi-3.12.jar.txt	2
+org/apache/poi/ss/formula/functions/Complex/evaluate(int,int,org.apache.poi.ss.formula.eval.ValueEval,org.apache.poi.ss.formula.eval.ValueEval,org.apache.poi.ss.formula.eval.ValueEval)@g_poi-3.12.jar.txt	1

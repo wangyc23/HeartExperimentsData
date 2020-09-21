@@ -1,0 +1,4 @@
+java/lang/reflect/Constructor/newInstance(java.lang.Object[])
+org/apache/commons/logging/Log/debug(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/logging/Log/isDebugEnabled()

@@ -1,0 +1,5 @@
+hidden/org/codehaus/plexus/interpolation/object/FieldBasedObjectInterpolator/InterpolateObjectAction/traverseObjectWithParents(java.lang.Class,hidden.org.codehaus.plexus.interpolation.object.FieldBasedObjectInterpolator$InterpolationTarget)@g_plexus-utils-1.5.12.jar.txt	0
+org/codehaus/plexus/util/cli/Commandline/getEnvironmentVariables()@g_plexus-utils-1.5.6.jar.txt	2
+org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_plexus-utils-1.5.6.jar.txt	1
+org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_plexus-utils-1.5.12.jar.txt	4
+org/codehaus/plexus/util/LineOrientedInterpolatingReader/evaluateExpressions(java.util.Set)@g_plexus-utils-1.5.6.jar.txt	3

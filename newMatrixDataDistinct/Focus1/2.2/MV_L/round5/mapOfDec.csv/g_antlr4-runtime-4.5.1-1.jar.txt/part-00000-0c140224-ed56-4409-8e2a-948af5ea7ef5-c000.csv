@@ -1,0 +1,5 @@
+org/antlr/v4/runtime/TokenStreamRewriter/getText(java.lang.String,org.antlr.v4.runtime.misc.Interval)@g_antlr4-runtime-4.3.jar.txt	2
+org/antlr/v4/runtime/atn/ATNSerializer/getTokenName(int)@g_antlr4-runtime-4.3.jar.txt	1
+org/antlr/v4/runtime/misc/LogManager/Record/toString()@g_antlr4-runtime-4.3.jar.txt	4
+org/antlr/v4/runtime/ParserInterpreter/visitState(org.antlr.v4.runtime.atn.ATNState)@g_antlr4-runtime-4.3.jar.txt	0
+org/antlr/v4/runtime/tree/xpath/XPath/split(java.lang.String)@g_antlr4-runtime-4.3.jar.txt	3

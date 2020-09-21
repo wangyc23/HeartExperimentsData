@@ -1,0 +1,4 @@
+ar/com/comunidadesfera/eficiencia/registros/Modulo/getVersion()
+ar/com/comunidadesfera/eficiencia/registros/Modulo/getIdentificacion()
+ar/com/comunidadesfera/eficiencia/registros/Medicion/getModulo()
+ar/com/comunidadesfera/persistencia/Entidad/setId(java.lang.Long)

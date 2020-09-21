@@ -1,0 +1,5 @@
+org/xwiki/text/StringUtils/doubleChar(java.lang.String,char)@g_xwiki-commons-text-7.0.jar.txt	3
+org/sonatype/aether/collection/UnsolvableVersionConflictException/toPath(java.util.List)@g_aether-api-1.13.1.jar.txt	4
+org/sonatype/aether/resolution/ArtifactResolutionException/getMessage(java.util.List)@g_xwiki-commons-text-7.0.jar.txt	1
+org/sonatype/aether/collection/UnsolvableVersionConflictException/toPath(java.util.List)@g_xwiki-commons-text-7.0.jar.txt	2
+org/sonatype/aether/resolution/ArtifactResolutionException/getMessage(java.util.List)@g_aether-api-1.13.1.jar.txt	0

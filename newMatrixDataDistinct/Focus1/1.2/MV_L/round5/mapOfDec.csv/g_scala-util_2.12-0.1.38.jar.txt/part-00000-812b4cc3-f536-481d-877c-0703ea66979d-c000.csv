@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_0/planner/logical/plans/AsStringRangeSeekable/unapply(java.lang.Object)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_0/planDescription/renderAsTreeTable/other(org.neo4j.cypher.internal.compiler.v3_0.planDescription.InternalPlanDescription,scala.collection.mutable.Map)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	0
+org/neo4j/cypher/internal/compiler/v3_0/mutation/CreateUniqueAction/anonfun/6/apply(scala.Tuple2)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	1
+org/neo4j/cypher/internal/compiler/v3_0/mutation/UniqueLink/getNode$1(org.neo4j.cypher.internal.compiler.v3_0.mutation.NamedExpectation,org.neo4j.cypher.internal.compiler.v3_0.ExecutionContext,org.neo4j.cypher.internal.compiler.v3_0.pipes.QueryState)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	3
+org/neo4j/cypher/internal/compiler/v3_0/commands/expressions/asString/apply(java.lang.Object)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	2

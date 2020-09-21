@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/apache/commons/logging/Log/isDebugEnabled()
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/StringBuffer/toString()

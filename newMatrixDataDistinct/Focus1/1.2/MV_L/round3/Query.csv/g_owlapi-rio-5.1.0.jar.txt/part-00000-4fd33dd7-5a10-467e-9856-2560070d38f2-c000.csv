@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/util/OWLAPIPreconditions/checkNotNull(java.lang.Object)
+java/lang/Object/equals(java.lang.Object)
+org/slf4j/Logger/debug(java.lang.String,java.lang.Object)
+org/eclipse/rdf4j/model/ValueFactory/createStatement(org.eclipse.rdf4j.model.Resource,org.eclipse.rdf4j.model.IRI,org.eclipse.rdf4j.model.Value)

@@ -1,0 +1,4 @@
+org/apache/maven/plugin/gpg/GpgSignAttachedMojo/newSigner(org.apache.maven.project.MavenProject)
+org/apache/maven/project/MavenProject/getBuild()
+org/apache/maven/plugin/gpg/GpgSignAttachedMojo/getLog()
+org/apache/maven/plugin/logging/Log/debug(java.lang.CharSequence)

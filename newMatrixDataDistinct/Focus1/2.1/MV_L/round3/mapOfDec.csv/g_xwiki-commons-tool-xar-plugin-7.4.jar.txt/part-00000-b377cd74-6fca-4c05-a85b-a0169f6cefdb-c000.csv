@@ -1,0 +1,5 @@
+org/xwiki/tool/xar/XWikiXMLWriter/writeNodeText(org.dom4j.Node)@g_xwiki-commons-tool-xar-plugin-7.0.jar.txt	1
+org/xwiki/tool/xar/XWikiXMLWriter/writeNodeText(org.dom4j.Node)@g_xwiki-commons-tool-xar-plugin-7.4.2.jar.txt	0
+org/xwiki/tool/xar/UnXARMojo/unpackDependentXars(org.apache.maven.artifact.Artifact)@g_xwiki-commons-tool-xar-plugin-7.4.2.jar.txt	2
+org/xwiki/tool/xar/XARMojo/unpackDependentXARs()@g_xwiki-commons-tool-xar-plugin-7.4.2.jar.txt	4
+org/xwiki/tool/xar/XARMojo/addFilesToArchive(org.codehaus.plexus.archiver.zip.ZipArchiver,java.io.File)@g_xwiki-commons-tool-xar-plugin-7.4.2.jar.txt	3

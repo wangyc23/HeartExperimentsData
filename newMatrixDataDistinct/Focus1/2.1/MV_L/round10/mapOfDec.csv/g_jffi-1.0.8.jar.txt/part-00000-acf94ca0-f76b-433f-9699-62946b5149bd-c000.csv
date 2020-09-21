@@ -1,0 +1,5 @@
+com/sun/jna/Structure/writeField(com.sun.jna.Structure$StructField)@g_jna-4.1.0.jar.txt	1
+com/sun/jna/Native/<clinit>()@g_jna-4.1.0.jar.txt	4
+com/sun/jna/NativeLibrary/matchFramework(java.lang.String)@g_jna-4.1.0.jar.txt	2
+com/sun/jna/Structure/validateField(java.lang.String,java.lang.Class)@g_jna-4.1.0.jar.txt	0
+com/sun/jna/NativeLibrary/getLinuxLdPaths()@g_jna-4.1.0.jar.txt	3

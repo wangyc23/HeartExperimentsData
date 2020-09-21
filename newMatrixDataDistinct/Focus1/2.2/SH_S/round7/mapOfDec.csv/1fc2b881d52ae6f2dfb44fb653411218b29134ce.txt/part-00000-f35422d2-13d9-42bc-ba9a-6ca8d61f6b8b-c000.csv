@@ -1,0 +1,5 @@
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/incrementCounter(com.lucidworks.pig.FusionIndexPipelineStoreFunc.Counters,long)@10009d49e71147069d6d5082ba9a06f1a47312f4.txt	0
+jclustering/JClustering_/actionPerformed(java.awt.event.ActionEvent)@10009d49e71147069d6d5082ba9a06f1a47312f4.txt	1
+com/orange/analysis/twitter/SentimentalDeviceReducer/reduce(com.orange.analysis.twitter.Text,java.lang.Iterable,com.orange.analysis.twitter.Context)@10009d49e71147069d6d5082ba9a06f1a47312f4.txt	3
+com/lucidworks/SolrCloudTools/IndexerTool/getOptions()@10009d49e71147069d6d5082ba9a06f1a47312f4.txt	2
+jclustering/Utils/getClusteringTechnique(java.lang.String,jclustering.ImagePlusHyp)@10009d49e71147069d6d5082ba9a06f1a47312f4.txt	4

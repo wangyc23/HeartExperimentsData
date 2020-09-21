@@ -1,0 +1,4 @@
+scala/Predef$/augmentString(java.lang.String)
+scala/Option$/option2Iterable(scala.Option)
+scala/collection/mutable/Set/contains(java.lang.Object)
+scala/Predef$/genericWrapArray(java.lang.Object)

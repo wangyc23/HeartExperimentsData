@@ -1,0 +1,5 @@
+org/xwiki/display/internal/DefaultDocumentDisplayer/display(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-display-api-7.4.2.jar.txt	3
+org/xwiki/display/internal/DocumentContentDisplayer/display(org.xwiki.bridge.DocumentModelBridge,java.lang.String,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-display-api-7.4.2.jar.txt	2
+org/xwiki/display/internal/XWiki10DocumentTitleDisplayer/extractTitleFromContent(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-display-api-7.0.jar.txt	4
+org/xwiki/display/internal/DefaultDocumentDisplayer/display(org.xwiki.bridge.DocumentModelBridge,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-display-api-7.0.jar.txt	1
+org/xwiki/display/internal/DocumentContentDisplayer/display(org.xwiki.bridge.DocumentModelBridge,java.lang.String,org.xwiki.display.internal.DocumentDisplayerParameters)@g_xwiki-platform-display-api-7.0.jar.txt	0

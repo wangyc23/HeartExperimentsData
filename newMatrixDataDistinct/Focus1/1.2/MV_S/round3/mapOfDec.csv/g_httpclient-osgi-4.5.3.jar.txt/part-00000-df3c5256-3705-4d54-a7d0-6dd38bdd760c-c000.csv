@@ -1,0 +1,5 @@
+org/apache/http/impl/auth/GGSSchemeBase/authenticate(org.apache.http.auth.Credentials,org.apache.http.HttpRequest,org.apache.http.protocol.HttpContext)@g_httpclient-4.3.1.jar.txt	1
+org/apache/http/impl/auth/BasicScheme/authenticate(org.apache.http.auth.Credentials,org.apache.http.HttpRequest,org.apache.http.protocol.HttpContext)@g_httpclient-4.3.1.jar.txt	0
+org/apache/http/impl/auth/BasicScheme/authenticate(org.apache.http.auth.Credentials,java.lang.String,boolean)@g_httpclient-4.3.1.jar.txt	2
+org/apache/http/impl/auth/DigestScheme/createDigestHeader(org.apache.http.auth.Credentials,org.apache.http.HttpRequest)@g_httpclient-4.3.1.jar.txt	3
+org/apache/http/impl/cookie/NetscapeDraftSpec/parse(org.apache.http.Header,org.apache.http.cookie.CookieOrigin)@g_httpclient-4.3.1.jar.txt	4

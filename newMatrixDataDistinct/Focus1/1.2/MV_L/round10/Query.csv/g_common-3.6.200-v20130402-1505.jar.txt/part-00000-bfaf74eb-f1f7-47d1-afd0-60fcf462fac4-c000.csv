@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/io/IOException/IOException(java.lang.String)
+java/net/URL/getProtocol()
+java/lang/String/length()

@@ -1,0 +1,5 @@
+org/apache/tika/parser/microsoft/JackcessExtractor/handleCell(com.healthmarketscience.jackcess.Row,com.healthmarketscience.jackcess.Column,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	4
+org/apache/tika/parser/microsoft/HSLFExtractor/parse(org.apache.poi.poifs.filesystem.DirectoryNode,org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	0
+org/apache/tika/parser/rtf/TextExtractor/processGroupEnd()@g_tika-parsers-1.7.jar.txt	3
+org/apache/tika/parser/microsoft/ooxml/XSLFPowerPointExtractorDecorator/buildXHTML(org.apache.tika.sax.XHTMLContentHandler)@g_tika-parsers-1.11.jar.txt	1
+org/apache/tika/parser/rtf/TextExtractor/processGroupEnd()@g_tika-parsers-1.11.jar.txt	2

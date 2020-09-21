@@ -1,0 +1,4 @@
+java/util/BitSet/get(int)
+tachyon/thrift/FileDoesNotExistException/read(org.apache.thrift.protocol.TProtocol)
+tachyon/thrift/FileDoesNotExistException/FileDoesNotExistException()
+tachyon/thrift/MasterService/user_freepath_result/setSuccessIsSet(boolean)

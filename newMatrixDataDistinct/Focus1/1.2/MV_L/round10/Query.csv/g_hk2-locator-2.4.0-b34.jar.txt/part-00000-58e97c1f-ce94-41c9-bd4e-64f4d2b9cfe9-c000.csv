@@ -1,0 +1,4 @@
+org/glassfish/hk2/api/Context/isActive()
+org/glassfish/hk2/utilities/reflection/ParameterizedTypeImpl/ParameterizedTypeImpl(java.lang.reflect.Type,java.lang.reflect.Type[])
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Iterator/next()

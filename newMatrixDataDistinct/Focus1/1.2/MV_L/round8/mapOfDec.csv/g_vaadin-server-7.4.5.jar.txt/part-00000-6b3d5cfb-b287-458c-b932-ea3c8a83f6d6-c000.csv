@@ -1,0 +1,5 @@
+com/sun/faces/application/resource/ResourceHelper/getVersion(java.util.Collection,boolean)@g_javax.faces-2.2.7.jar.txt	2
+javax/faces/component/UIComponentBase/saveAttachedState(javax.faces.context.FacesContext,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/facelets/tag/jstl/fn/JstlFunction/length(java.lang.Object)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/config/ConfigManager/URITask/call()@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/application/resource/ClasspathResourceHelper/findPathConsideringContracts(java.lang.ClassLoader,com.sun.faces.application.resource.LibraryInfo,java.lang.String,java.lang.String,com.sun.faces.application.resource.ContractInfo[],java.lang.String[],javax.faces.context.FacesContext)@g_javax.faces-2.2.7.jar.txt	4

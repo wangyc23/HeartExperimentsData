@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/io/DataInputStream/readInt()
+java/lang/Integer/toHexString(int)
+java/lang/StringBuffer/append(java.lang.String)

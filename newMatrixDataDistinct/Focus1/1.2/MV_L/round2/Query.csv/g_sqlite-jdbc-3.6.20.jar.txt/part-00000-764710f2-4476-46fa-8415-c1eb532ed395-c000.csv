@@ -1,0 +1,4 @@
+org/ibex/nestedvm/UnixRuntime$GlobalState/stat(org.ibex.nestedvm.UnixRuntime,java.lang.String)
+org/ibex/nestedvm/Runtime$FStat/size()
+org/ibex/nestedvm/Runtime$FD/seekable()
+java/lang/Error/Error(java.lang.String)

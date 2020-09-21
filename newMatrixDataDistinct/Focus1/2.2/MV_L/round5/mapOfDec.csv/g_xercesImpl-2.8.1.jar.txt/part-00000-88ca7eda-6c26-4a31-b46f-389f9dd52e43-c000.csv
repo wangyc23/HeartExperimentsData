@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xpath/regex/Token/UnionToken/addChild(org.apache.xerces.impl.xpath.regex.Token)@g_xercesImpl-2.8.0.jar.txt	4
+org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser/traverseSyntheticAnnotation(org.w3c.dom.Element,java.lang.String,java.lang.Object[],boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_xercesImpl-2.9.1.jar.txt	3
+org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser/traverseSyntheticAnnotation(org.w3c.dom.Element,java.lang.String,java.lang.Object[],boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_xercesImpl-2.8.0.jar.txt	1
+org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser/traverseAnnotationDecl(org.w3c.dom.Element,java.lang.Object[],boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_xercesImpl-2.9.1.jar.txt	2
+org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser/traverseAnnotationDecl(org.w3c.dom.Element,java.lang.Object[],boolean,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_xercesImpl-2.8.0.jar.txt	0

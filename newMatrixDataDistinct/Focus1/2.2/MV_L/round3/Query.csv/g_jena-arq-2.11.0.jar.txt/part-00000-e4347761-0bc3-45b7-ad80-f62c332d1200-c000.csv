@@ -1,0 +1,4 @@
+com/hp/hpl/jena/graph/Node/getLiteral()
+java/lang/StringBuilder/append(java.lang.String)
+com/hp/hpl/jena/graph/Node/isLiteral()
+com/hp/hpl/jena/graph/Node/isVariable()

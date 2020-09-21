@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/thrift/generated/Hbase/getVerTs_result/getVerTs_resultTupleScheme/write(org.apache.thrift.protocol.TProtocol,org.apache.hadoop.hbase.thrift.generated.Hbase.getVerTs_result)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	3
+org/apache/spark/util/collection/unsafe/sort/UnsafeInMemorySorter/getSortedIterator()@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	2
+org/apache/spark/sql/execution/datasources/parquet/VectorizedParquetRecordReader/initialize(org.apache.spark.sql.execution.datasources.parquet.InputSplit,org.apache.spark.sql.execution.datasources.parquet.TaskAttemptContext)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	0
+org/apache/hive/service/cli/thrift/TCLIService/GetInfo_result/fieldForId(int)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	4
+org/apache/spark/unsafe/map/BytesToBytesMap/MapIterator/advanceToNextPage()@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	1

@@ -1,0 +1,5 @@
+org/springframework/test/web/client/AbstractRequestExpectationManager/getRequestDetails()@g_spring-test-4.2.6.RELEASE.jar.txt	2
+org/springframework/test/web/servlet/result/PrintingResultHandler/printCookies(javax.servlet.http.Cookie[])@g_spring-test-4.3.7.RELEASE.jar.txt	1
+org/springframework/test/web/ModelAndViewAssert/assertModelAttributeValues(org.springframework.web.servlet.ModelAndView,java.util.Map)@g_spring-test-4.2.6.RELEASE.jar.txt	3
+org/springframework/test/web/servlet/result/PrintingResultHandler/printCookies(javax.servlet.http.Cookie[])@g_spring-test-4.2.6.RELEASE.jar.txt	0
+org/springframework/test/context/support/AbstractTestContextBootstrapper/buildMergedContextConfiguration(java.lang.Class,java.util.List,org.springframework.test.context.MergedContextConfiguration,org.springframework.test.context.CacheAwareContextLoaderDelegate,boolean)@g_spring-test-4.2.6.RELEASE.jar.txt	4

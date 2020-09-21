@@ -1,0 +1,5 @@
+com/github/fommil/jni/JniLoader/liberalLoad(java.io.File,java.lang.String)@g_jniloader-1.1.jar.txt	1
+org/glassfish/grizzly/servlet/HttpSessionImpl/invalidate()@g_jniloader-1.1.jar.txt	4
+org/glassfish/grizzly/servlet/WebappContext/getNamedDispatcher(java.lang.String)@g_jniloader-1.1.jar.txt	2
+org/glassfish/grizzly/servlet/HttpServletRequestImpl/removeAttribute(java.lang.String)@g_jniloader-1.1.jar.txt	3
+org/glassfish/grizzly/servlet/WebappContext/registerDefaultServlet(org.glassfish.grizzly.http.server.HttpServer)@g_jniloader-1.1.jar.txt	0

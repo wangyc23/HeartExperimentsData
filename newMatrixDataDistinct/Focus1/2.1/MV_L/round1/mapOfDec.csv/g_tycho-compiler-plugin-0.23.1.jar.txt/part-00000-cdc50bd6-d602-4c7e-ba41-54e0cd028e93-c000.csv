@@ -1,0 +1,5 @@
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/configureCompilerLog(org.codehaus.plexus.compiler.CompilerConfiguration)@g_tycho-compiler-plugin-0.14.1.jar.txt	2
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/getClasspathElements()@g_tycho-compiler-plugin-0.14.1.jar.txt	1
+copied/org/apache/maven/plugin/AbstractCompilerMojo/getCompilerConfiguration(java.util.List)@g_tycho-compiler-plugin-0.14.1.jar.txt	3
+org/apache/maven/plugin/AbstractCompilerMojo/execute()@g_tycho-compiler-plugin-0.14.1.jar.txt	4
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/getClasspath()@g_tycho-compiler-plugin-0.14.1.jar.txt	0

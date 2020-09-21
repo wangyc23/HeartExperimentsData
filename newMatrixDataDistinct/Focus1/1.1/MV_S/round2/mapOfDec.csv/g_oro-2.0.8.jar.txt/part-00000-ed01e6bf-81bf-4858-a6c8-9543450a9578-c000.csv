@@ -1,0 +1,5 @@
+org/apache/oro/text/regex/Perl5Compiler/__parseBranch(int[])@g_jakarta-regexp-1.4.jar.txt	2
+org/apache/regexp/RETestCase/testMatch()@g_jakarta-regexp-1.4.jar.txt	1
+org/apache/regexp/RECompiler/characterClass()@g_jakarta-regexp-1.4.jar.txt	4
+org/apache/regexp/RETest/runAutomatedTests(java.lang.String)@g_jakarta-regexp-1.4.jar.txt	0
+org/apache/oro/text/MatchActionProcessor/processMatches(java.io.Reader,java.io.Writer)@g_jakarta-regexp-1.4.jar.txt	3

@@ -1,0 +1,5 @@
+cn/vansky/framework/core/orm/mybatis/plugin/search/resolver/AbstractSqlResolverInter/prepareOrder(java.lang.StringBuilder,cn.vansky.framework.core.orm.mybatis.plugin.search.vo.Searchable)@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	4
+cn/vansky/framework/core/web/controller/RandomImageController/RandomImage/getRandColor(int,int)@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	2
+cn/vansky/remoting/nettyway/common/RemotingUtil/normalizeHostAddress(java.net.InetAddress)@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	3
+cn/vansky/remoting/nettyway/common/RemotingUtil/getLocalAddress()@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	0
+cn/vansky/framework/core/web/controller/RandomImageController/RandomImage/getValidateImage()@1faff362242d6787fb394a5472de7fcab9a9dc67.txt	1

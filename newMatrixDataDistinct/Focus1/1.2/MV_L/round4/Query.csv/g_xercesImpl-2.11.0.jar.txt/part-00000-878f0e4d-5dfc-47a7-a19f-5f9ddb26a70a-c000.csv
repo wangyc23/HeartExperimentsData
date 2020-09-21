@@ -1,0 +1,4 @@
+java/util/Vector/size()
+java/lang/Integer/toString(int)
+java/util/Vector/addElement(java.lang.Object)
+org/apache/xerces/impl/dv/InvalidDatatypeValueException/getKey()

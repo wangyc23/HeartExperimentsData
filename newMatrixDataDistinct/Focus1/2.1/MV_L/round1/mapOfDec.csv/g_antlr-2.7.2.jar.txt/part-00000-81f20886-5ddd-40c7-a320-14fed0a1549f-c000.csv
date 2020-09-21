@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/selectors/ExtendSelector/selectorCreate()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/filters/ClassConstants/read()@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/taskdefs/rmic/WLRmic/execute()@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/ExecuteJava/execute(org.apache.tools.ant.Project)@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector/configure()@g_ant-1.6.5.jar.txt	3

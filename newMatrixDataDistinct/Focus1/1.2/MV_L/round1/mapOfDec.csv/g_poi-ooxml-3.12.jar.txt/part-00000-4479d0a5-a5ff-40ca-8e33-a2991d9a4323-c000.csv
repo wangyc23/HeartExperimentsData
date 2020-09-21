@@ -1,0 +1,5 @@
+org/apache/poi/openxml4j/opc/PackagingURIHelper/toURI(java.lang.String)@g_poi-ooxml-3.11.jar.txt	2
+org/apache/poi/xwpf/usermodel/XWPFHeaderFooter/getText()@g_poi-ooxml-3.11.jar.txt	3
+org/apache/poi/openxml4j/opc/PackagingURIHelper/relativizeURI(java.net.URI,java.net.URI,boolean)@g_poi-ooxml-3.8.jar.txt	1
+org/apache/poi/openxml4j/opc/internal/ContentTypeManager/parseContentTypesFile(java.io.InputStream)@g_poi-ooxml-3.11.jar.txt	4
+org/apache/poi/openxml4j/opc/PackagingURIHelper/relativizeURI(java.net.URI,java.net.URI,boolean)@g_poi-ooxml-3.11.jar.txt	0

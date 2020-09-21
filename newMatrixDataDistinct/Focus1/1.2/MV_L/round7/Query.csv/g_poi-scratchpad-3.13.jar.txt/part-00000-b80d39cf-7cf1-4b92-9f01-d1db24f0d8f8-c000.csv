@@ -1,0 +1,4 @@
+org/apache/poi/hpsf/ClassID/ClassID()
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+org/apache/poi/poifs/filesystem/POIFSFileSystem/getRoot()

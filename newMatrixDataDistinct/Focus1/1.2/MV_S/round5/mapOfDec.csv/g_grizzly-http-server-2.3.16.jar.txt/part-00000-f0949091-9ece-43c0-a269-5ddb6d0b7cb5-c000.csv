@@ -1,0 +1,5 @@
+com/sun/faces/application/annotation/NamedEventConfigHandler/process(com.sun.faces.application.NamedEventManager,java.lang.Class,java.lang.annotation.Annotation)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/application/resource/ClientResourceInfo/initPath(boolean)@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/application/annotation/ValidatorConfigHandler/collect(java.lang.Class,java.lang.annotation.Annotation)@g_javax.faces-2.2.7.jar.txt	4
+org/glassfish/grizzly/servlet/WebappContext/getResourcePaths(java.lang.String)@g_grizzly-http-servlet-2.3.19.jar.txt	1
+javax/faces/webapp/UIComponentClassicTagBase/setJspId(java.lang.String)@g_javax.faces-2.2.7.jar.txt	2

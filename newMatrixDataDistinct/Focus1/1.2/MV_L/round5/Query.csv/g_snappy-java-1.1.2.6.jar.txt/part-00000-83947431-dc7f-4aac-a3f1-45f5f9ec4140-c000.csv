@@ -1,0 +1,4 @@
+java/util/Properties/getProperty(java.lang.String)
+java/lang/Throwable/toString()
+java/lang/Thread/currentThread()
+java/util/Properties/propertyNames()

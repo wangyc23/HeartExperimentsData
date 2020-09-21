@@ -1,0 +1,5 @@
+org/neo4j/ogm/integration/hierarchy/ClassHierarchiesIntegrationTest/plainChildOfTransientParent()@g_neo4j-ogm-1.1.2-tests.jar.txt	4
+org/neo4j/ogm/integration/hierarchy/ClassHierarchiesIntegrationTest/plainChildOfTransientInterface()@g_neo4j-ogm-1.1.2-tests.jar.txt	2
+org/neo4j/ogm/unit/mapper/MappingContextTest/clearOne()@g_neo4j-ogm-1.1.2-tests.jar.txt	1
+org/neo4j/ogm/integration/hierarchy/ClassHierarchiesIntegrationTest/transientChildWithPlainConcreteParent()@g_neo4j-ogm-1.1.2-tests.jar.txt	0
+org/neo4j/ogm/unit/mapper/model/bike/BikeTest/testDeserialiseBikeModel()@g_neo4j-ogm-1.1.2-tests.jar.txt	3

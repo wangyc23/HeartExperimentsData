@@ -1,0 +1,5 @@
+org/springframework/data/neo4j/support/node/Neo4jHelper/dumpDb(org.neo4j.graphdb.GraphDatabaseService)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	0
+org/neo4j/shell/kernel/apps/TransactionProvidingApp/toExpander(org.neo4j.graphdb.GraphDatabaseService,org.neo4j.graphdb.Direction,java.util.Map,boolean,boolean)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	3
+org/neo4j/shell/kernel/apps/Schema/awaitIndexes(org.neo4j.shell.Output,org.neo4j.graphdb.schema.Schema,org.neo4j.graphdb.Label[],java.lang.String)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	4
+org/springframework/data/neo4j/repository/AbstractGraphRepository/query(org.neo4j.cypherdsl.grammar.Execute,org.neo4j.cypherdsl.grammar.Execute,java.util.Map,org.springframework.data.domain.Pageable)@g_spring-data-neo4j-3.0.2.BUILD-20140416.080832-5.jar.txt	2
+org/neo4j/shell/kernel/apps/Ls/displayRelationships(org.neo4j.shell.AppCommandParser,org.neo4j.shell.kernel.apps.NodeOrRelationship,org.neo4j.shell.Session,org.neo4j.shell.Output,boolean,boolean,java.util.Map,boolean,boolean,boolean)@g_neo4j-shell-3.0.1.jar.txt	1

@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/net/URL/getProtocol()
+java/lang/String/length()
+org/osgi/framework/Bundle/getEntry(java.lang.String)

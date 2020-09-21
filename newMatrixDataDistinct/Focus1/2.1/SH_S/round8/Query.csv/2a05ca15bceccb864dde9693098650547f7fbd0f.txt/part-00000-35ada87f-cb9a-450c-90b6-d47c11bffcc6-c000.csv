@@ -1,0 +1,1 @@
+org/slurry/cache4guice/aop/CacheInterceptor/getResultAndCache(org.slurry.cache4guice.cache.util.MethodInvocation,org.slurry.cache4guice.aop.Ehcache,java.lang.String)

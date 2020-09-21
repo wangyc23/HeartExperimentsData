@@ -1,0 +1,5 @@
+org/eclipse/aether/util/graph/transformer/ConflictMarker/transformGraph(org.eclipse.aether.graph.DependencyNode,org.eclipse.aether.collection.DependencyGraphTransformationContext)@g_aether-util-1.0.2.v20150114.jar.txt	4
+org/eclipse/aether/util/graph/transformer/ConflictIdSorter/topsortConflictIds(java.util.Collection,org.eclipse.aether.collection.DependencyGraphTransformationContext)@g_aether-util-1.0.2.v20150114.jar.txt	2
+org/eclipse/aether/util/ChecksumUtils/read(java.io.File)@g_aether-util-1.0.2.v20150114.jar.txt	3
+org/eclipse/aether/util/repository/JreProxySelector/getProxy(org.eclipse.aether.repository.RemoteRepository)@g_aether-util-1.0.2.v20150114.jar.txt	0
+org/eclipse/aether/util/repository/JreProxySelector/getProxy(org.eclipse.aether.repository.RemoteRepository)@g_aether-util-0.9.1.v20140329.jar.txt	1

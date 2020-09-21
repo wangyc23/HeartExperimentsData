@@ -1,0 +1,4 @@
+java/nio/ShortBuffer/get(int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)
+java/lang/StringBuilder/StringBuilder()

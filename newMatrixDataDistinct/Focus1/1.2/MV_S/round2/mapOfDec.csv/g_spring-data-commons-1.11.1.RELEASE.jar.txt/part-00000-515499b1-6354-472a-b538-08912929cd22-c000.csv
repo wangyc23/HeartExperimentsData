@@ -1,0 +1,5 @@
+org/springframework/data/repository/config/RepositoryBeanDefinitionBuilder/detectCustomImplementation(org.springframework.beans.factory.support.BeanDefinitionRegistry,org.springframework.core.io.ResourceLoader)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	3
+org/springframework/data/mapping/PropertyPath/from(java.lang.String,org.springframework.data.util.TypeInformation)@g_spring-data-commons-core-1.4.0.RELEASE.jar.txt	2
+org/springframework/security/config/annotation/web/socket/AbstractSecurityWebSocketMessageBrokerConfigurer/afterSingletonsInstantiated()@g_spring-security-config-4.0.1.RELEASE.jar.txt	0
+org/springframework/security/config/http/UserDetailsServiceFactoryBean/authenticationUserDetailsService(java.lang.String)@g_spring-security-config-4.0.1.RELEASE.jar.txt	1
+org/springframework/security/config/http/DefaultFilterChainValidator/checkForDuplicateMatchers(java.util.List)@g_spring-security-config-4.0.1.RELEASE.jar.txt	4

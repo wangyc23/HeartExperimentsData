@@ -1,0 +1,5 @@
+com/google/gwt/safecss/shared/SafeStylesUtils/verifySafeStylesConstraints(java.lang.String)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	0
+com/google/web/bindery/requestfactory/shared/impl/ProxySerializerImpl/1/endVisitMapProperty(java.lang.String,com.google.web.bindery.autobean.shared.AutoBean,com.google.web.bindery.autobean.shared.AutoBeanVisitor$MapPropertyContext)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	2
+com/google/web/bindery/autobean/shared/impl/StringQuoter/tryParseDate(java.lang.String)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	3
+com/google/web/bindery/autobean/shared/AutoBeanUtils/sameOrEquals(java.util.Map,java.util.Map,java.util.Map)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	4
+com/google/web/bindery/requestfactory/shared/impl/AbstractRequestContext/4/visitCollectionProperty(java.lang.String,com.google.web.bindery.autobean.shared.AutoBean,com.google.web.bindery.autobean.shared.AutoBeanVisitor$CollectionPropertyContext)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	1

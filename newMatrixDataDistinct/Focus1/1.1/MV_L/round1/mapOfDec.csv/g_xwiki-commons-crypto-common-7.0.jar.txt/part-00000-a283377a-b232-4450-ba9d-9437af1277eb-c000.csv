@@ -1,0 +1,5 @@
+org/bouncycastle/pkcs/bc/PKCS12PBEUtils/createMacCalculator(org.bouncycastle.asn1.ASN1ObjectIdentifier,org.bouncycastle.crypto.ExtendedDigest,org.bouncycastle.asn1.pkcs.PKCS12PBEParams,char[])@g_xwiki-commons-crypto-common-7.4.2.jar.txt	3
+org/bouncycastle/cert/path/validations/ParentCertIssuedValidation/validate(org.bouncycastle.cert.path.CertPathValidationContext,org.bouncycastle.cert.X509CertificateHolder)@g_xwiki-commons-crypto-common-7.4.2.jar.txt	1
+org/xwiki/crypto/internal/asymmetric/generator/BcDHKeyParameterGenerator/generate(org.xwiki.crypto.params.generator.KeyParametersGenerationParameters)@g_xwiki-commons-crypto-common-7.4.2.jar.txt	0
+org/bouncycastle/cert/dane/DANEEntrySelectorFactory/createSelector(java.lang.String)@g_xwiki-commons-crypto-common-7.4.2.jar.txt	4
+org/bouncycastle/eac/operator/jcajce/JcaEACSignerBuilder/build(org.bouncycastle.asn1.ASN1ObjectIdentifier,java.security.PrivateKey)@g_xwiki-commons-crypto-common-7.4.2.jar.txt	2

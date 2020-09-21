@@ -1,0 +1,5 @@
+org/jgroups/protocols/UNICAST/printReceiveWindowMessages()@g_jgroups-3.6.2.Final.jar.txt	2
+org/jgroups/blocks/BasicConnectionTable/Connection/toString()@g_jgroups-3.6.2.Final.jar.txt	4
+org/jgroups/tests/McastSenderTest/AckReceiver/run()@g_jgroups-3.6.2.Final.jar.txt	3
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_jgroups-3.6.2.Final.jar.txt	0
+org/jgroups/stack/NakReceiverWindow/add(long,org.jgroups.Message)@g_jgroups-3.6.2.Final.jar.txt	1

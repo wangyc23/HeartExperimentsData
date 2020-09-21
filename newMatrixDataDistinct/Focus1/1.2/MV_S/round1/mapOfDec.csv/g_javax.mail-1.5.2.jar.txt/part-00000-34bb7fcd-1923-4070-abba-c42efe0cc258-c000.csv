@@ -1,0 +1,5 @@
+com/sun/mail/imap/protocol/IMAPSaslAuthenticator/authenticate(java.lang.String[],java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_javax.mail.glassfish-1.4.1.v201005082020.jar.txt	4
+com/sun/mail/imap/protocol/IMAPProtocol/fetchSequenceNumbers(long,long)@g_javax.mail.glassfish-1.4.1.v201005082020.jar.txt	3
+com/sun/mail/imap/protocol/IMAPProtocol/issueSearch(java.lang.String,javax.mail.search.SearchTerm,java.lang.String)@g_mail-1.4.1.jar.txt	1
+com/sun/mail/imap/protocol/IMAPProtocol/issueSearch(java.lang.String,javax.mail.search.SearchTerm,java.lang.String)@g_javax.mail.glassfish-1.4.1.v201005082020.jar.txt	0
+com/sun/mail/imap/protocol/IMAPProtocol/getQuotaRoot(java.lang.String)@g_javax.mail.glassfish-1.4.1.v201005082020.jar.txt	2

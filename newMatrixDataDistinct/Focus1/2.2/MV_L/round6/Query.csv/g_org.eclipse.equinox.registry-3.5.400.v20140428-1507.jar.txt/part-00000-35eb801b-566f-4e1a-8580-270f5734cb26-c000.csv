@@ -1,0 +1,4 @@
+java/lang/Throwable/getMessage()
+java/lang/Class/getName()
+org/osgi/util/tracker/ServiceTracker/ServiceTracker(org.osgi.framework.BundleContext,org.osgi.framework.Filter,org.osgi.util.tracker.ServiceTrackerCustomizer)
+java/lang/Class/forName(java.lang.String)

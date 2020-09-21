@@ -1,0 +1,5 @@
+com/squareup/okhttp/benchmarks/SynchronousHttpClient/prepare(com.squareup.okhttp.benchmarks.Benchmark)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	4
+com/squareup/okhttp/benchmarks/OkHttp/prepare(com.squareup.okhttp.benchmarks.Benchmark)@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	3
+com/squareup/okhttp/benchmarks/OkHttp/prepare(com.squareup.okhttp.benchmarks.Benchmark)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	2
+com/squareup/okhttp/benchmarks/OkHttpAsync/prepare(com.squareup.okhttp.benchmarks.Benchmark)@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	1
+com/squareup/okhttp/benchmarks/OkHttpAsync/prepare(com.squareup.okhttp.benchmarks.Benchmark)@0b81986ad9478f3c9b77db82db5ff4b7ea390141.txt	0

@@ -1,0 +1,5 @@
+org/apache/batik/css/dom/CSSOMSVGPaint/AbstractModificationHandler/colorRemoved(int)@g_batik-css-1.7.jar.txt	1
+org/apache/batik/css/dom/CSSOMSVGPaint/AbstractModificationHandler/colorProfileChanged(java.lang.String)@g_batik-css-1.7.jar.txt	3
+org/apache/batik/css/dom/CSSOMSVGPaint/AbstractModificationHandler/colorAppend(float)@g_batik-css-1.7.jar.txt	0
+org/apache/batik/css/dom/CSSOMSVGPaint/AbstractModificationHandler/colorReplaced(float,int)@g_batik-css-1.7.jar.txt	4
+org/apache/batik/css/dom/CSSOMSVGPaint/AbstractModificationHandler/colorInsertedBefore(float,int)@g_batik-css-1.7.jar.txt	2

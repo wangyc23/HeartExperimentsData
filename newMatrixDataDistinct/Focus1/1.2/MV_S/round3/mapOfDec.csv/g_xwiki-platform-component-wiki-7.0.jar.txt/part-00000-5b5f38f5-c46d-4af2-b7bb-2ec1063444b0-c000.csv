@@ -1,0 +1,5 @@
+org/xwiki/wiki/internal/descriptor/properties/DefaultWikiPropertyGroupManager/loadForDescriptor(org.xwiki.wiki.descriptor.WikiDescriptor)@g_xwiki-platform-wiki-default-7.4.jar.txt	2
+com/xpn/xwiki/plugin/feed/SyndEntryDocumentSource/getCategories(com.xpn.xwiki.api.Document,java.util.Map,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	0
+com/xpn/xwiki/plugin/feed/FeedPluginApi/getBlogFeed(java.lang.String,int,int,java.lang.String,java.util.Map)@g_xwiki-platform-feed-api-7.4.2.jar.txt	1
+org/xwiki/wiki/internal/descriptor/document/DefaultWikiDescriptorDocumentHelper/findXWikiServerClassDocumentReference(java.lang.String)@g_xwiki-platform-wiki-default-7.4.jar.txt	3
+org/xwiki/wiki/internal/manager/DefaultWikiDeleter/delete(java.lang.String)@g_xwiki-platform-wiki-default-7.4.jar.txt	4

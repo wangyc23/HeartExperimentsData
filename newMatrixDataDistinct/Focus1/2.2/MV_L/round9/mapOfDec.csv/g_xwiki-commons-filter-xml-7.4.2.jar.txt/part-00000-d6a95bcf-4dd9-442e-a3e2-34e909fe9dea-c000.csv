@@ -1,0 +1,5 @@
+org/xwiki/filter/xml/internal/output/AbstractXMLOutputFilterStream/createResult(org.xwiki.filter.xml.output.XMLOutputProperties)@g_xwiki-commons-filter-xml-7.1.1.jar.txt	3
+org/xwiki/filter/xml/internal/output/XMLOutputFilterStreamUtils/createXMLStreamWriter(org.xwiki.filter.xml.output.XMLOutputProperties)@g_xwiki-commons-filter-xml-7.0.jar.txt	0
+org/xwiki/filter/xml/internal/output/AbstractXMLOutputFilterStream/createResult(org.xwiki.filter.xml.output.XMLOutputProperties)@g_xwiki-commons-filter-xml-7.0.jar.txt	2
+org/xwiki/filter/xml/internal/output/XMLOutputFilterStreamUtils/createXMLStreamWriter(org.xwiki.filter.xml.output.XMLOutputProperties)@g_xwiki-commons-filter-xml-7.1.1.jar.txt	1
+org/xwiki/filter/xml/internal/serializer/DefaultXMLSerializer/writeInlineParameters(java.util.List,org.xwiki.filter.FilterElementDescriptor)@g_xwiki-commons-filter-xml-7.0.jar.txt	4

@@ -1,0 +1,5 @@
+edu/stanford/nlp/semgraph/SemanticGraph/matchPatternToVertex(java.lang.String,edu.stanford.nlp.ling.IndexedWord,boolean)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/pipeline/CoreMapAttributeAggregator/8/aggregate(java.lang.Class,java.util.List)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/stats/Distribution/validateCounter(edu.stanford.nlp.stats.Counter)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/trees/international/pennchinese/ChineseGrammaticalStructure/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/TueBaDZParserParams/transformTree(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	0

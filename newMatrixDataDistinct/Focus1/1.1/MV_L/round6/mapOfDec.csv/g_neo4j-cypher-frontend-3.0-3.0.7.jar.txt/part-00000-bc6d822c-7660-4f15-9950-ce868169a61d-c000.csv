@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/frontend/v3_0/parser/Expressions/anonfun/or/3da06d78572596e09438ee652d46/sions/PropertyLookup/1/apply()@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	0
+org/neo4j/cypher/internal/frontend/v3_1/helpers/TreeZipper/Location/insertRight(org.neo4j.cypher.internal.frontend.v3_1.helpers.TreeElem)@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	3
+org/neo4j/cypher/internal/frontend/v3_1/bottomUp/BottomUpRewriter/rec(scala.collection.mutable.ArrayStack)@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	2
+org/neo4j/cypher/internal/frontend/v3_0/helpers/TreeZipper/Location/insertRight(org.neo4j.cypher.internal.frontend.v3_0.helpers.TreeElem)@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	4
+org/neo4j/cypher/internal/frontend/v3_0/parser/Clauses/anonfun/Foreach/1/apply()@g_neo4j-cypher-frontend-3.0-3.0.1.jar.txt	1

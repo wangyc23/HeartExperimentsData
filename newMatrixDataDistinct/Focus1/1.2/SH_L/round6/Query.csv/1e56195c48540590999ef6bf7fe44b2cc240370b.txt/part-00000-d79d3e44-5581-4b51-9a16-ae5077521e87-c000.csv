@@ -1,0 +1,4 @@
+org/jclouds/domain/LocationBuilder/LocationBuilder()
+org/jclouds/domain/LocationBuilder/build()
+org/jclouds/domain/LocationBuilder/scope(org.jclouds.domain.LocationScope)
+org/jclouds/blobstore/BlobStore/containerExists(java.lang.String)

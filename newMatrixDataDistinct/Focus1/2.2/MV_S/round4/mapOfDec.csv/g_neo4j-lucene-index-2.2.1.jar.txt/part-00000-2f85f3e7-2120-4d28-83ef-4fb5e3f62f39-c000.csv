@@ -1,0 +1,5 @@
+org/apache/jena/query/text/assembler/TextDatasetAssembler/open(org.apache.jena.assembler.Assembler,org.apache.jena.rdf.model.Resource,org.apache.jena.assembler.Mode)@g_jena-text-3.0.0.jar.txt	1
+org/apache/jena/query/text/DatasetGraphText/commit()@g_jena-text-3.0.0.jar.txt	0
+jena/textindexdump/dump(org.apache.jena.query.text.TextIndexLucene)@g_jena-text-3.0.0.jar.txt	2
+org/apache/jena/query/text/TextQueryPF/concreteSubject(org.apache.jena.sparql.engine.binding.Binding,org.apache.jena.graph.Node,org.apache.jena.graph.Node,org.apache.jena.graph.Node,org.apache.jena.query.text.TextQueryPF$StrMatch,org.apache.jena.sparql.engine.ExecutionContext)@g_jena-text-3.0.0.jar.txt	4
+org/apache/jena/query/text/TextIndexLucene/get$(org.apache.lucene.index.IndexReader,java.lang.String)@g_jena-text-3.0.0.jar.txt	3

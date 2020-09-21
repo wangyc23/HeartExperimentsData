@@ -1,0 +1,4 @@
+org/springframework/orm/hibernate3/HibernateTransactionManager$HibernateTransactionObject/setConnectionHolder(org.springframework.jdbc.datasource.ConnectionHolder)
+org/apache/commons/logging/Log/debug(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/springframework/orm/hibernate3/HibernateTransactionManager$HibernateTransactionObject/HibernateTransactionObject(org.springframework.orm.hibernate3.HibernateTransactionManager,org.springframework.orm.hibernate3.HibernateTransactionManager$1)

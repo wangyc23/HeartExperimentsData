@@ -1,0 +1,4 @@
+com/facebook/hive/orc/WriterImpl/StringTreeWriter/useDictionaryEncodingEntropyHeuristic()
+com/facebook/hive/orc/PositionedOutputStream/suppress()
+com/facebook/hive/orc/WriterImpl/RowIndexPositionRecorder/RowIndexPositionRecorder(OrcProto.RowIndexEntry.Builder)
+com/facebook/hive/orc/StringDictionaryEncoder/size()

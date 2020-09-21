@@ -1,0 +1,4 @@
+org/neo4j/test/TargetDirectory$TestDirectory/absolutePath()
+org/neo4j/graphdb/GraphDatabaseService/shutdown()
+org/neo4j/kernel/impl/nioneo/store/StoreFactory/StoreFactory(org.neo4j.kernel.configuration.Config,org.neo4j.kernel.IdGeneratorFactory,org.neo4j.kernel.impl.nioneo.store.windowpool.WindowPoolFactory,org.neo4j.kernel.impl.nioneo.store.FileSystemAbstraction,org.neo4j.kernel.impl.util.StringLogger,org.neo4j.kernel.impl.transaction.RemoteTxHook)
+org/neo4j/kernel/DefaultFileSystemAbstraction/DefaultFileSystemAbstraction()

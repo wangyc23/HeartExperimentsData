@@ -1,0 +1,5 @@
+org/jdom2/input/stax/DTDParser/buildPattern(java.util.HashMap,java.lang.String)@g_jdom2-2.0.4.jar.txt	1
+org/jdom2/input/StAXStreamBuilder/process(org.jdom2.JDOMFactory,javax.xml.stream.XMLStreamReader)@g_jdom2-2.0.6.jar.txt	4
+org/jdom2/input/stax/DTDParser/buildPattern(java.util.HashMap,java.lang.String)@g_jdom2-2.0.6.jar.txt	0
+org/jdom2/ContentList/FilterList/add(int,org.jdom2.Content)@g_jdom2-2.0.6.jar.txt	3
+org/jdom2/internal/ArrayCopy/copyOfRange(java.lang.Object[],int,int)@g_jdom2-2.0.6.jar.txt	2

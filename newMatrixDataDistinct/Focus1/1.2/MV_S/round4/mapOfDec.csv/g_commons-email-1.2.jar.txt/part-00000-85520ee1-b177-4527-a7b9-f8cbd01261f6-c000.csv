@@ -1,0 +1,5 @@
+org/apache/oro/text/regex/Perl5Compiler/__parseBranch(int[])@g_oro-2.0.8.jar.txt	2
+org/apache/oro/text/regex/Perl5Matcher/__matchUnicodeClass(char,char[],int,char)@g_oro-2.0.8.jar.txt	0
+org/apache/oro/text/regex/Perl5Compiler/__parseAtom(int[])@g_oro-2.0.8.jar.txt	3
+org/bouncycastle/mail/smime/SMIMESignedGenerator/addHashHeader(java.lang.StringBuffer,java.util.List)@g_bcmail-jdk15on-1.53.jar.txt	1
+org/bouncycastle/mail/smime/SMIMESignedGenerator/ContentSigner/write(java.io.OutputStream)@g_bcmail-jdk15on-1.53.jar.txt	4

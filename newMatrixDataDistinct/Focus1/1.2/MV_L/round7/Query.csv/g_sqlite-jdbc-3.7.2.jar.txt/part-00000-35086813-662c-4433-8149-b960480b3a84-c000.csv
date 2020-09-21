@@ -1,0 +1,4 @@
+java/lang/Object/notify()
+java/util/Vector/removeAllElements()
+java/lang/Error/Error(java.lang.String)
+java/util/Vector/addElement(java.lang.Object)

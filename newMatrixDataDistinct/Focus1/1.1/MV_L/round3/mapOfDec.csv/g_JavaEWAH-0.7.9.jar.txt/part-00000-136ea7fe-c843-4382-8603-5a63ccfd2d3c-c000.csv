@@ -1,0 +1,5 @@
+com/drew/tools/ProcessAllImagesInFolderUtility/UnknownTagHandler/onScanCompleted(java.io.PrintStream)@g_metadata-extractor-2.10.1.jar.txt	0
+com/drew/metadata/exif/ExifDescriptorBase/getUserCommentDescription()@g_metadata-extractor-2.10.1.jar.txt	4
+com/drew/lang/StringUtil/join(java.lang.Iterable,java.lang.String)@g_metadata-extractor-2.10.1.jar.txt	3
+com/drew/tools/ProcessAllImagesInFolderUtility/MarkdownTableOutputHandler/writeOutput(java.io.PrintStream)@g_metadata-extractor-2.10.1.jar.txt	1
+com/drew/metadata/png/PngDescriptor/getTextualDataDescription()@g_metadata-extractor-2.10.1.jar.txt	2

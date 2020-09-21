@@ -1,0 +1,4 @@
+org/jdom/Element/getChildren(java.lang.String,org.jdom.Namespace)
+java/util/ArrayList/ArrayList()
+java/lang/String/trim()
+java/util/List/size()

@@ -1,0 +1,4 @@
+java/net/URL/toExternalForm()
+java/net/URL/URL(java.lang.String,java.lang.String,java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuffer/StringBuffer(java.lang.String)

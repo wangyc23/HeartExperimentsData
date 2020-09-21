@@ -1,0 +1,5 @@
+helpers/TemporaryFilesMaker/getFile(java.lang.String,java.lang.String)@0c65c32a9cb21c4c6f3641d5cbbef8ca5fc69f94.txt	0
+zx/soft/api/controller/OauthController/createOauthUsersFB(java.util.List)@027b53237cd3203173d61e9dbe56571d1745224e.txt	2
+zx/soft/api/test/data/oauth/OauthUserTwitters/main(java.lang.String[])@027b53237cd3203173d61e9dbe56571d1745224e.txt	4
+zx/soft/api/persist/SentDbcp/execSQL(java.lang.String)@027b53237cd3203173d61e9dbe56571d1745224e.txt	3
+zx/soft/api/test/data/oauth/OauthUserFacebooks/main(java.lang.String[])@027b53237cd3203173d61e9dbe56571d1745224e.txt	1

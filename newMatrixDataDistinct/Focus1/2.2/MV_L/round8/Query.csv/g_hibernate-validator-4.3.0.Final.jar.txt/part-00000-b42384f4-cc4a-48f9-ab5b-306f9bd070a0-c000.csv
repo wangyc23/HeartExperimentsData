@@ -1,0 +1,4 @@
+org/hibernate/validator/internal/util/ConcurrentReferenceHashMap$Segment/rehash()
+org/hibernate/validator/internal/util/ConcurrentReferenceHashMap$HashEntry/key()
+org/hibernate/validator/internal/util/ConcurrentReferenceHashMap$Segment/unlock()
+org/hibernate/validator/internal/util/ConcurrentReferenceHashMap$Segment/removeStale()

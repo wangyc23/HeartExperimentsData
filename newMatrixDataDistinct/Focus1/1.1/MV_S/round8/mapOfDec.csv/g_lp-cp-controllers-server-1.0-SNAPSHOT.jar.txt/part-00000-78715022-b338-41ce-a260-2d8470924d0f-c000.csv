@@ -1,0 +1,5 @@
+org/openrdf/http/client/HTTPClient/getBoolean(org.apache.commons.httpclient.HttpMethodBase)@g_sesame-http-client-2.7.9.jar.txt	4
+org/openrdf/http/client/SesameHTTPClient/setNamespacePrefix(java.lang.String,java.lang.String)@g_sesame-http-client-2.7.9.jar.txt	3
+eu/leranpad/core/impl/others/MVStubber/getVerificationResults()@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	0
+org/openrdf/http/client/SesameHTTPClient/upload(org.apache.commons.httpclient.methods.RequestEntity,java.lang.String,boolean,org.openrdf.model.Resource[])@g_sesame-http-client-2.7.9.jar.txt	2
+org/openrdf/http/client/HTTPClient/getBackgroundTupleQueryResult(org.apache.commons.httpclient.HttpMethod)@g_sesame-http-client-2.7.9.jar.txt	1

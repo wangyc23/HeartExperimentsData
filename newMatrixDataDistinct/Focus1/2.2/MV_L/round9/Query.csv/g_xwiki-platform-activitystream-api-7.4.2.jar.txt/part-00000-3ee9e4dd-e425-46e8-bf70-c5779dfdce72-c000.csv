@@ -1,0 +1,4 @@
+org/xwiki/query/Query/bindValue(int,java.lang.Object)
+java/lang/Integer/intValue()
+org/xwiki/query/Query/setLimit(int)
+org/xwiki/query/Query/getNamedParameters()

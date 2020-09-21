@@ -1,0 +1,5 @@
+0	java/lang/String/isEmpty()
+1	java/text/Normalizer/normalize(java.lang.CharSequence,java.text.Normalizer.Form)
+2	java/lang/StringBuilder/append(java.lang.String)
+3	java/lang/String/trim()
+4	java/lang/String/replaceAll(java.lang.String,java.lang.String)

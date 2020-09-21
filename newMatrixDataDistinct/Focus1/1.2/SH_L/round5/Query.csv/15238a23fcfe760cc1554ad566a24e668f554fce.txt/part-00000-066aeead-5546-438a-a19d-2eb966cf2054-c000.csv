@@ -1,0 +1,4 @@
+org/apache/oozie/CoordinatorActionBean/getJobId()
+org/apache/oozie/client/rest/JsonCoordinatorJob/getUser()
+org/apache/oozie/service/Services/get()
+org/apache/oozie/executor/jpa/CoordJobGetJPAExecutor/CoordJobGetJPAExecutor(java.lang.String)

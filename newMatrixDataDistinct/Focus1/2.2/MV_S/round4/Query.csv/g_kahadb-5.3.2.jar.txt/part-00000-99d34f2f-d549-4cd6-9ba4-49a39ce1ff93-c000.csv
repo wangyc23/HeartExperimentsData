@@ -1,0 +1,4 @@
+java/io/RandomAccessFile/close()
+java/io/RandomAccessFile/RandomAccessFile(java.io.File,java.lang.String)
+java/io/RandomAccessFile/seek(long)
+org/apache/kahadb/util/DiskBenchmark$Report/Report()

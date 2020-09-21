@@ -1,0 +1,4 @@
+org/apache/sling/jcr/webdav/impl/helper/SlingResourceConfig/getServletContextPath()
+org/apache/sling/jcr/webdav/impl/handler/SlingPropertyManager/setComponentContext(org.apache.sling.models.impl.ComponentContext)
+org/apache/sling/jcr/webdav/impl/handler/SlingDeleteManager/setComponentContext(org.apache.sling.models.impl.ComponentContext)
+org/apache/sling/jcr/webdav/impl/handler/SlingIOManager/setComponentContext(org.apache.sling.models.impl.ComponentContext)

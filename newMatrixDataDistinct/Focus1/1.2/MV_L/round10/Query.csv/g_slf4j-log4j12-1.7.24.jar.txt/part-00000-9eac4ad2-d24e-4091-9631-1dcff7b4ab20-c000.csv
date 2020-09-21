@@ -1,0 +1,4 @@
+org/slf4j/event/LoggingEvent/getTimeStamp()
+org/slf4j/event/LoggingEvent/getArgumentArray()
+org/apache/log4j/spi/LoggingEvent/LoggingEvent(java.lang.String,org.apache.log4j.Category,long,org.apache.log4j.Level,java.lang.Object,java.lang.String,org.apache.log4j.spi.ThrowableInformation,java.lang.String,org.apache.log4j.spi.LocationInfo,java.util.Map)
+org/slf4j/event/LoggingEvent/getThrowable()

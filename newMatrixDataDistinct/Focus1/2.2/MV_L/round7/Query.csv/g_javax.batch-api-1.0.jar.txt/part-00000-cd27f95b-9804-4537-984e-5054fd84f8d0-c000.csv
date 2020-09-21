@@ -1,0 +1,4 @@
+java/util/logging/Logger/fine(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getCanonicalName()
+java/util/ServiceLoader/iterator()

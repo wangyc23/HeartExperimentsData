@@ -1,0 +1,5 @@
+org/drools/builder/ResourceType/matchesExtension(java.lang.String)@074c573889d6cab223d8f3d1b7b4af67dcdef41b.txt	4
+org/jboss/solder/servlet/http/CookieParamProducer/getCookieName(org.jboss.solder.logging.InjectionPoint)@074c573889d6cab223d8f3d1b7b4af67dcdef41b.txt	1
+org/drools/builder/KnowledgeBuilderFactory/newKnowledgeBuilder()@074c573889d6cab223d8f3d1b7b4af67dcdef41b.txt	2
+org/drools/conf/ConsequenceExceptionHandlerOption/equals(java.lang.Object)@074c573889d6cab223d8f3d1b7b4af67dcdef41b.txt	0
+org/drools/util/CompositeClassLoader/addClassLoader(java.lang.ClassLoader)@074c573889d6cab223d8f3d1b7b4af67dcdef41b.txt	3

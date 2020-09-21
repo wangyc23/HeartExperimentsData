@@ -1,0 +1,5 @@
+org/codehaus/classworlds/Configurator/configure(java.io.InputStream)@g_classworlds-1.1-alpha-2.jar.txt	2
+org/codehaus/classworlds/uberjar/boot/InitialClassLoader/findClass(java.lang.String)@g_classworlds-1.1-alpha-2.jar.txt	1
+org/codehaus/classworlds/UberJarRealmClassLoader/buildIndexForJar(java.net.URL)@g_classworlds-1.1-alpha-2.jar.txt	0
+org/codehaus/classworlds/UberJarRealmClassLoader/loadClassDirect(java.lang.String)@g_classworlds-1.1-alpha-2.jar.txt	3
+org/codehaus/plexus/classworlds/launcher/ConfigurationParser/parse(java.io.InputStream)@g_classworlds-1.1-alpha-2.jar.txt	4

@@ -1,0 +1,1 @@
+org/elasticsearch/index/query/QueryBuilders/templateQuery(java.lang.String,org.elasticsearch.script.ScriptService.ScriptType,java.util.Map)

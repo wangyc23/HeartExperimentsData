@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/session/AbstractSessionIdManager/initRandom()@g_jetty-server-7.6.5.v20120716.jar.txt	0
+org/eclipse/jetty/server/session/AbstractSessionIdManager/newSessionId(long)@g_jetty-server-9.0.2.v20130417.jar.txt	2
+org/eclipse/jetty/server/handler/ConnectHandler/ProxyToServerConnection/handle()@g_jetty-server-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/server/ssl/SslCertificates/customize(javax.net.ssl.SSLSession,org.eclipse.jetty.io.EndPoint,org.eclipse.jetty.server.Request)@g_jetty-server-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/server/session/AbstractSessionIdManager/initRandom()@g_jetty-server-9.0.2.v20130417.jar.txt	1

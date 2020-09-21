@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/apache/ranger/view/VXUserList/VXUserList()
+java/util/List/add(E)
+org/apache/ranger/view/VXUserList/setVXUsers(java.util.List)

@@ -1,0 +1,5 @@
+org/wso2/carbon/databridge/commons/IndexDefinition/setIndexData(java.lang.String,org.wso2.carbon.databridge.commons.StreamDefinition)@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	3
+org/wso2/carbon/url/mapper/deployment/UrlMappingServiceListener/terminatingConfigurationContext(org.apache.axis2.context.ConfigurationContext)@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	4
+org/switchyard/security/context/DefaultSecurityContext/isCallerInRole(java.lang.String,java.lang.String)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	0
+org/switchyard/security/context/DefaultSecurityContext/getCallerPrincipal(java.lang.String)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	2
+org/switchyard/security/credential/extractor/SOAPMessageCredentialExtractor/extract(javax.xml.soap.SOAPMessage)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	1

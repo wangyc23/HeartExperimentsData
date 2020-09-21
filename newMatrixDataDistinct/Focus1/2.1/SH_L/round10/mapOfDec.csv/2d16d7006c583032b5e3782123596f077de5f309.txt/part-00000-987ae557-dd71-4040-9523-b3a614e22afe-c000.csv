@@ -1,0 +1,5 @@
+ca/intelliware/ihtsdo/mlds/service/AffiliateDetailsDifferenceCalculator/putAddressData(java.util.Map,java.lang.String,ca.intelliware.ihtsdo.mlds.domain.MailingAddress)@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	4
+ca/intelliware/ihtsdo/mlds/service/UserMembershipCalculationTest/setup()@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	3
+ca/intelliware/ihtsdo/mlds/web/rest/ReleaseVersionsResourceTest/stubSaveReleaseVersion(long)@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	1
+ca/intelliware/ihtsdo/mlds/web/rest/AffiliateResourceTest/updateAffiliateShouldFailWhenChangingStandingStateFromApplying()@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	2
+ca/intelliware/ihtsdo/mlds/service/affiliatesimport/AffiliatesImportGenerator/generateEmail(ca.intelliware.ihtsdo.mlds.service.affiliatesimport.FieldMapping,int,ca.intelliware.ihtsdo.mlds.service.affiliatesimport.AffiliatesImportGenerator.GeneratorContext)@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	0

@@ -1,0 +1,4 @@
+org/eclipse/osgi/service/resolver/BaseDescription/getName()
+org/eclipse/osgi/service/resolver/VersionConstraint/getName()
+org/eclipse/osgi/service/resolver/GenericDescription/getDeclaredAttributes()
+org/osgi/framework/Bundle/getState()

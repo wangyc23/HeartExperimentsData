@@ -1,0 +1,5 @@
+com/google/inject/assistedinject/FactoryProvider2/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_guice-assistedinject-4.1.0.jar.txt	2
+com/google/inject/assistedinject/FactoryProvider2/constructorHasMatchingParams(com.google.inject.TypeLiteral,java.lang.reflect.Constructor,java.util.List,com.google.inject.internal.Errors)@g_guice-assistedinject-4.1.0.jar.txt	3
+com/google/inject/assistedinject/FactoryProvider2/getDependencies(com.google.inject.spi.InjectionPoint,com.google.inject.TypeLiteral)@g_guice-assistedinject-4.1.0.jar.txt	4
+com/google/inject/util/Modules/RealOverriddenModuleBuilder/1/2/rewrite(com.google.inject.Binder,com.google.inject.spi.PrivateElements,java.util.Set)@g_guice-assistedinject-4.1.0.jar.txt	1
+com/google/inject/assistedinject/FactoryProvider2/removeAssistedDeps(java.util.Set)@g_guice-assistedinject-4.1.0.jar.txt	0

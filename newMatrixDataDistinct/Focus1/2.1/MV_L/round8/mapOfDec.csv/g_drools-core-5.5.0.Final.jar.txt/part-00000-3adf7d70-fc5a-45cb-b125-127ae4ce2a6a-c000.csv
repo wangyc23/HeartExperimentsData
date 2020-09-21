@@ -1,0 +1,5 @@
+org/drools/rule/builder/dialect/asm/GeneratorHelper/DeclarationAccessorMethod/traverseTuplesUntilDeclarationWithOr(int,int,int,int)@g_drools-core-5.6.0.Final.jar.txt	0
+org/drools/factmodel/traits/TraitMapPropertyWrapperClassBuilderImpl/invokeRemove(org.mvel2.asm.MethodVisitor,java.lang.String,org.drools.factmodel.ClassDefinition,java.lang.String,org.drools.factmodel.FieldDefinition)@g_drools-core-5.6.0.Final.jar.txt	2
+org/sonatype/spice/zapper/internal/protobuf/protos/ZapperProtos/SegmentFooter/Builder/mergeFrom(com.google.protobuf.CodedInputStream,com.google.protobuf.ExtensionRegistryLite)@g_drools-core-5.6.0.Final.jar.txt	1
+org/drools/factmodel/traits/TraitMapPropertyWrapperClassBuilderImpl/buildCommonMethods(org.mvel2.asm.ClassVisitor,java.lang.String)@g_drools-core-5.6.0.Final.jar.txt	3
+org/drools/reteoo/ObjectTypeNode/ExpireJobContextTimerInputMarshaller/read(org.drools.marshalling.impl.MarshallerReaderContext)@g_drools-core-5.6.0.Final.jar.txt	4

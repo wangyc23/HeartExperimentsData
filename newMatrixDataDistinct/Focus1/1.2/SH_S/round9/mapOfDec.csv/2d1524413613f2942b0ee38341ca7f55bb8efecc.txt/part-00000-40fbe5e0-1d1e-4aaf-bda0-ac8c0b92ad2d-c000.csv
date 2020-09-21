@@ -1,0 +1,5 @@
+org/linkeddata/utils/QueryChunks/writeInsertQuery(org.linkeddata.utils.Model,java.lang.String)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	4
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/generateUrls(java.util.List,java.util.List,int)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	3
+org/linkeddata/triplegeo/rest/TripleGeoService/getWorkingDir(org.linkeddata.triplegeo.rest.ServletContext)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	1
+org/linkeddata/triplegeo/rest/FileUpload/getWorkingDir(org.linkeddata.triplegeo.rest.ServletContext)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	0
+org/linkeddata/triplegeo/TripleGeoTest/getDirs()@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	2

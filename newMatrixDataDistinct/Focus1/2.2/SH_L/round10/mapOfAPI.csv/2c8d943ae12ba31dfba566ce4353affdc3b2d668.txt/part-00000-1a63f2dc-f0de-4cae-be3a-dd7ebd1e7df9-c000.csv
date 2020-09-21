@@ -1,0 +1,4 @@
+0	javax/xml/stream/XMLStreamReader/isStartElement()
+1	org/activiti/bpmn/model/FieldExtension/setFieldName(java.lang.String)
+2	org/activiti/bpmn/model/FieldExtension/FieldExtension()
+3	org/activiti/bpmn/model/FieldExtension/setExpression(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/lucene/search/join/CheckJoinIndex/check(org.apache.lucene.index.IndexReader,org.apache.lucene.search.join.BitSetProducer)@g_lucene-join-5.3.1.jar.txt	4
+org/apache/lucene/search/join/ToParentBlockJoinIndexSearcher/search(java.util.List,org.apache.lucene.search.Weight,org.apache.lucene.search.Collector)@g_lucene-join-5.3.1.jar.txt	1
+org/apache/lucene/search/join/ToParentBlockJoinCollector/1/setScorer(org.apache.lucene.search.Scorer)@g_lucene-join-5.3.1.jar.txt	3
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/newTermQuery(org.apache.lucene.index.IndexReader,org.apache.lucene.index.Term)@g_lucene-sandbox-6.0.0.jar.txt	0
+org/apache/lucene/search/join/TermsIncludingScoreQuery/1/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-join-5.3.1.jar.txt	2

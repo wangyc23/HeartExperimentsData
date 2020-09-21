@@ -1,0 +1,4 @@
+org/apache/jena/ext/com/google/common/collect/Multimap/keys()
+java/util/Iterator/hasNext()
+org/apache/jena/ext/com/google/common/collect/Multiset/size()
+org/apache/jena/ext/com/google/common/collect/Multimap/get(java.lang.Object)

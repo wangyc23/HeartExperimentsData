@@ -1,0 +1,4 @@
+java/lang/String/charAt(int)
+java/util/List/size()
+java/util/List/toArray(java.lang.Object[])
+java/lang/String/substring(int,int)

@@ -1,0 +1,5 @@
+org/springframework/security/web/context/HttpSessionSecurityContextRepository/SaveToSessionResponseWrapper/createNewSessionIfAllowed(org.springframework.security.core.context.SecurityContext)@g_spring-security-web-4.1.0.RELEASE.jar.txt	1
+org/springframework/security/web/debug/DebugFilter/formatFilters(java.util.List)@g_spring-security-web-4.1.0.RELEASE.jar.txt	2
+org/springframework/security/web/context/HttpSessionSecurityContextRepository/SaveToSessionResponseWrapper/createNewSessionIfAllowed(org.springframework.security.core.context.SecurityContext)@g_spring-security-web-4.0.0.RELEASE.jar.txt	4
+org/springframework/security/web/FilterChainProxy/VirtualFilterChain/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse)@g_spring-security-web-4.0.0.RELEASE.jar.txt	3
+org/springframework/security/web/FilterChainProxy/VirtualFilterChain/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse)@g_spring-security-web-4.1.0.RELEASE.jar.txt	0

@@ -1,0 +1,4 @@
+org/apache/maven/plugin/deploy/AbstractDeployMojo/getLog()
+java/lang/StringBuilder/append(int)
+org/apache/maven/plugin/logging/Log/warn(java.lang.CharSequence)
+java/lang/StringBuilder/StringBuilder()

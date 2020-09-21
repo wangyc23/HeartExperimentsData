@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/generic/XmlTool/find(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/Entities/doUnescape(java.io.Writer,java.lang.String,int)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/StringUtils/splitWorker(java.lang.String,java.lang.String,int,boolean)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/JavaPackage/getSubPackages()@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/StringUtils/splitByWholeSeparatorWorker(java.lang.String,java.lang.String,int,boolean)@g_attributes-processor-1.0.1.jar.txt	4

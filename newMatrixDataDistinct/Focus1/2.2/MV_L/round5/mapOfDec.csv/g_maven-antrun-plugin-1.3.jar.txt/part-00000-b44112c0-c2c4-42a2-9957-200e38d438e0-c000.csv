@@ -1,0 +1,5 @@
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/init()@g_maven-javadoc-plugin-2.9.1.jar.txt	0
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/addTags(java.util.List)@g_maven-javadoc-plugin-2.9.1.jar.txt	3
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/setFJavadocVersion(java.io.File)@g_maven-javadoc-plugin-2.9.1.jar.txt	2
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/init()@g_maven-javadoc-plugin-2.10.3.jar.txt	1
+org/apache/maven/plugin/javadoc/AbstractFixJavadocMojo/writeParamTag(java.lang.StringBuilder,com.thoughtworks.qdox.model.JavaMethod,org.apache.maven.plugin.javadoc.AbstractFixJavadocMojo$JavaEntityTags,java.lang.String[])@g_maven-javadoc-plugin-2.9.1.jar.txt	4

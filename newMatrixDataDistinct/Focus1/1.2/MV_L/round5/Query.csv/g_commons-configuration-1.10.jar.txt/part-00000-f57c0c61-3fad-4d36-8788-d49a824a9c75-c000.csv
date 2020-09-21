@@ -1,0 +1,4 @@
+java/lang/String/valueOf(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Iterator/next()
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,5 @@
+org/apache/sis/xml/Pooled/setProperty(java.lang.String,java.lang.Object)@g_sis-utility-0.5.jar.txt	4
+org/apache/commons/lang3/math/NumberUtils/createNumber(java.lang.String)@g_commons-lang3-3.7.jar.txt	1
+org/apache/sis/internal/jaxb/gmd/Country/getLocale(org.apache.sis.internal.jaxb.Context,org.apache.sis.internal.jaxb.gmd.LanguageCode,org.apache.sis.internal.jaxb.gmd.Country,java.lang.Class)@g_sis-utility-0.5.jar.txt	0
+org/apache/sis/util/logging/MonolineFormatter/formatMessage(java.util.logging.LogRecord)@g_sis-utility-0.5.jar.txt	2
+org/apache/sis/util/logging/MonolineFormatter/format(java.util.logging.LogRecord)@g_sis-utility-0.5.jar.txt	3

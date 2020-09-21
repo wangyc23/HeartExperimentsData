@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/mvel2/asm/MethodVisitor/visitLabel(org.mvel2.asm.Label)
+org/mvel2/asm/Type/getDescriptor(java.lang.Class)
+org/mvel2/asm/MethodVisitor/visitJumpInsn(int,org.mvel2.asm.Label)

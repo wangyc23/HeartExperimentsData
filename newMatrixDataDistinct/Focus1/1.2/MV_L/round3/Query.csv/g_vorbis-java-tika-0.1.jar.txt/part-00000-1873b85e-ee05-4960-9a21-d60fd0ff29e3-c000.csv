@@ -1,0 +1,4 @@
+org/gagravarr/vorbis/VorbisComments/getDate()
+org/gagravarr/vorbis/VorbisComments/getComments(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/tika/metadata/Metadata/set(java.lang.String,java.lang.String)

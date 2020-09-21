@@ -1,0 +1,4 @@
+org/bouncycastle/cms/bc/BcRSASignerInfoVerifierBuilder/build(org.bouncycastle.cert.X509CertificateHolder)
+org/bouncycastle/tsp/TimeStampToken/validate(org.bouncycastle.cms.SignerInformationVerifier)
+org/bouncycastle/tsp/TimeStampTokenInfo/getGenTime()
+java/net/HttpURLConnection/setRequestProperty(java.lang.String,java.lang.String)

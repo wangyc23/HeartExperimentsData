@@ -1,0 +1,5 @@
+com/netflix/http4/NFHttpClient/init(com.netflix.client.config.IClientConfig,boolean)@g_ribbon-httpclient-2.0.2.jar.txt	0
+com/netflix/loadbalancer/WeightedResponseTimeRule/ServerWeight/maintainWeights()@g_ribbon-httpclient-2.0.2.jar.txt	3
+com/netflix/loadbalancer/LoadBalancerContext/getServerFromLoadBalancer(java.net.URI,java.lang.Object)@g_ribbon-httpclient-2.0.2.jar.txt	1
+com/netflix/client/http/HttpRequest/replaceUri(java.net.URI)@g_ribbon-httpclient-2.0.2.jar.txt	4
+com/netflix/client/ClientFactory/registerClientFromProperties(java.lang.String,com.netflix.client.config.IClientConfig)@g_ribbon-httpclient-2.0.2.jar.txt	2

@@ -1,0 +1,5 @@
+org/jvnet/hk2/component/MultiMap/toString()@g_hk2-utils-2.2.0-b21.jar.txt	4
+org/jvnet/hk2/component/MultiMap/toCommaSeparatedString()@g_hk2-utils-2.2.0-b21.jar.txt	0
+org/jvnet/hk2/component/MultiMap/mergeAll(org.jvnet.hk2.component.MultiMap)@g_hk2-utils-2.2.0-b21.jar.txt	1
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/deepCopyMetadata(java.util.Map)@g_hk2-utils-2.2.0-b21.jar.txt	3
+org/glassfish/hk2/utilities/reflection/ReflectionHelper/writeSet(java.util.Set,java.lang.Object)@g_hk2-utils-2.2.0-b21.jar.txt	2

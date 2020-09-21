@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/isDebugEnabled()
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/ClassLoader/loadClass(java.lang.String)
+java/lang/Object/getClass()

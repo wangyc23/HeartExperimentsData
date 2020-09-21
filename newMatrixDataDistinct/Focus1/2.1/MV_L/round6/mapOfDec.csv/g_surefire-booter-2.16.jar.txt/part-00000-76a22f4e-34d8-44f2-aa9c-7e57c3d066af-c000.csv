@@ -1,0 +1,5 @@
+org/apache/maven/surefire/booter/PropertiesWrapper/addList(java.util.List,java.lang.String)@g_surefire-booter-2.17.jar.txt	0
+org/apache/maven/surefire/booter/ForkedBooter/createProviderInCurrentClassloader(org.apache.maven.surefire.booter.StartupConfiguration,boolean,org.apache.maven.surefire.booter.ProviderConfiguration,java.lang.Object)@g_surefire-booter-2.17.jar.txt	2
+org/apache/maven/surefire/booter/ProviderFactory/createProvider(boolean)@g_surefire-booter-2.17.jar.txt	4
+org/apache/maven/surefire/booter/TypeEncodedValue/getDecodedValue(java.lang.ClassLoader)@g_surefire-booter-2.17.jar.txt	3
+org/apache/maven/surefire/booter/PropertiesWrapper/addList(java.util.List,java.lang.String)@g_surefire-booter-2.18.1.jar.txt	1

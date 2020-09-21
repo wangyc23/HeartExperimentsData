@@ -1,0 +1,2 @@
+0	com/joantolos/portfolio/template/exception/FileManipulationException/FileManipulationException(com.joantolos.portfolio.template.enums.FileErrorCode,java.lang.String)
+1	net/sf/jpam/Pam/Pam(java.lang.String)

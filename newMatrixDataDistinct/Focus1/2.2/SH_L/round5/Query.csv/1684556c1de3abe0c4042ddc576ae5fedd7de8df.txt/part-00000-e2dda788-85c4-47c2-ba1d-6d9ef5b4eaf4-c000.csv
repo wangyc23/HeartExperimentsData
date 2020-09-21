@@ -1,0 +1,4 @@
+org/apache/mahout/classifier/naivebayes/training/AbstractThetaTrainer/numFeatures()
+org/apache/mahout/classifier/naivebayes/training/AbstractThetaTrainer/alphaI()
+java/util/Iterator/hasNext()
+org/apache/mahout/classifier/naivebayes/training/AbstractThetaTrainer/totalWeightSum()

@@ -1,0 +1,4 @@
+javax/xml/stream/events/Attribute/getValue()
+java/util/Iterator/hasNext()
+javax/xml/stream/events/StartElement/getAttributes()
+javax/xml/stream/events/StartElement/getNamespaces()

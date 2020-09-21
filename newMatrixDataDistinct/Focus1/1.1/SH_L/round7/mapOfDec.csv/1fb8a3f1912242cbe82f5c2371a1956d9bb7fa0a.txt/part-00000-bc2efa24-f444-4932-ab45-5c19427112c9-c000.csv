@@ -1,0 +1,5 @@
+edu/ben/coursemanager/dao/BookDao/insertBook(edu.ben.coursemanager.model.Book)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	2
+edu/ben/coursemanager/dao/UserDao/getUserByID(int)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	1
+edu/ben/coursemanager/dao/AddCourseDao/assignBook(int,int,int)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	0
+edu/ben/coursemanager/dao/TeacherDao/getAllReviewsByTeacherId(java.lang.String)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	4
+edu/ben/coursemanager/dao/TeacherDao/getStartDate(int)@2e82e9981eccb6d878e7bd541eab5db39c86f7cf.txt	3

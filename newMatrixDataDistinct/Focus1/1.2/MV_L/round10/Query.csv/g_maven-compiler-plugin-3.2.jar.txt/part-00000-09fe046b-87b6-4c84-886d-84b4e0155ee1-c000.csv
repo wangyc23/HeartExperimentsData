@@ -1,0 +1,4 @@
+org/apache/maven/plugin/compiler/HelpMojo/getLog()
+java/lang/StringBuilder/append(int)
+java/lang/String/length()
+java/util/List/size()

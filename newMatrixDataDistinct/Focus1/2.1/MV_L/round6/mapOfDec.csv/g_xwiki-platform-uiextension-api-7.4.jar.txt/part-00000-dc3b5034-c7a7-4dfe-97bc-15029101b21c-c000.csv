@@ -1,0 +1,5 @@
+org/xwiki/uiextension/internal/DefaultUIExtensionManager/get(java.lang.String)@g_xwiki-platform-uiextension-api-7.0.jar.txt	1
+org/xwiki/uiextension/internal/WikiUIExtensionComponentBuilderEventListener/installOrUpgradeUIExtensionClasses()@g_xwiki-platform-uiextension-api-7.0.jar.txt	0
+org/xwiki/component/wiki/internal/bridge/DefaultWikiComponentBridge/getDeclaredInterfaces(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-uiextension-api-7.0.jar.txt	3
+org/xwiki/component/wiki/internal/ObjectMethodsProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_xwiki-platform-uiextension-api-7.0.jar.txt	2
+org/xwiki/uiextension/internal/WikiUIExtensionComponentBuilder/getDocumentReferences()@g_xwiki-platform-uiextension-api-7.0.jar.txt	4

@@ -1,0 +1,5 @@
+org/eclipse/sisu/inject/MildKeys/entrySet()@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	0
+org/eclipse/sisu/wire/TypeConverterMap/getTypeConverter(com.google.inject.TypeLiteral)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	2
+org/eclipse/sisu/inject/MildValues/entrySet()@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	1
+org/eclipse/sisu/wire/ElementAnalyzer/visit(com.google.inject.spi.PrivateElements)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	4
+org/eclipse/sisu/space/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_org.eclipse.sisu.inject-0.0.0.M5.jar.txt	3

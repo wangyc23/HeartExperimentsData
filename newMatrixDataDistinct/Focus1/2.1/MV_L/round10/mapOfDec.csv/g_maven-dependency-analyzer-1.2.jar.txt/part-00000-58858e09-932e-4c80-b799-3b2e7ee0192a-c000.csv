@@ -1,0 +1,5 @@
+org/codehaus/plexus/compiler/AbstractCompiler/getSourceFiles(org.codehaus.plexus.compiler.CompilerConfiguration)@g_maven-dependency-analyzer-1.6.jar.txt	4
+org/apache/maven/shared/dependency/analyzer/DefaultProjectDependencyAnalyzer/buildArtifactClassMap(org.apache.maven.project.MavenProject)@g_maven-dependency-analyzer-1.6.jar.txt	2
+org/apache/maven/shared/dependency/analyzer/ClassFileVisitorUtils/accept(java.net.URL,org.apache.maven.shared.dependency.analyzer.ClassFileVisitor)@g_maven-dependency-analyzer-1.6.jar.txt	0
+org/codehaus/plexus/compiler/util/scan/AbstractSourceInclusionScanner/scanForSources(java.io.File,java.util.Set,java.util.Set)@g_maven-dependency-analyzer-1.6.jar.txt	3
+org/codehaus/plexus/compiler/util/scan/mapping/SuffixMapping/getTargetFiles(java.io.File,java.lang.String)@g_maven-dependency-analyzer-1.6.jar.txt	1

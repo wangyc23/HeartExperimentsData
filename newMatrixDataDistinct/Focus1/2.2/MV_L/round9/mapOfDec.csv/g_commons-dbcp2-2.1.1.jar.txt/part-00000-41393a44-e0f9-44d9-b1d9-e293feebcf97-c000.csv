@@ -1,0 +1,5 @@
+org/apache/commons/dbcp2/datasources/PerUserPoolDataSource/setupDefaults(java.sql.Connection,java.lang.String)@g_commons-dbcp2-2.1.jar.txt	3
+org/apache/commons/dbcp2/cpdsadapter/PooledConnectionImpl/makeObject(org.apache.commons.dbcp2.cpdsadapter.PStmtKeyCPDS)@g_commons-dbcp2-2.1.jar.txt	1
+org/apache/commons/dbcp/datasources/PerUserPoolDataSource/registerPool(java.lang.String,java.lang.String)@g_commons-dbcp-1.3.jar.txt	4
+org/apache/commons/dbcp2/PoolingConnection/makeObject(org.apache.commons.dbcp2.PStmtKey)@g_commons-dbcp2-2.1.jar.txt	0
+org/apache/commons/dbcp2/PoolableConnection/validate(java.lang.String,int)@g_commons-dbcp2-2.1.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/poi/hwpf/sprm/ParagraphSprmUncompressor/unCompressPAPOperation(org.apache.poi.hwpf.usermodel.ParagraphProperties,org.apache.poi.hwpf.sprm.SprmOperation)@g_poi-scratchpad-3.13.jar.txt	2
+org/apache/poi/hslf/usermodel/HSLFSlideShow/buildSlidesAndNotes()@g_poi-scratchpad-3.13.jar.txt	1
+org/apache/poi/hwpf/converter/AbstractWordConverter/processCharacters(org.apache.poi.hwpf.HWPFDocumentCore,int,org.apache.poi.hwpf.usermodel.Range,org.w3c.dom.Element)@g_poi-scratchpad-3.13.jar.txt	0
+org/apache/poi/hwpf/converter/AbstractWordUtils/getBulletText(org.apache.poi.hwpf.converter.AbstractWordUtils$NumberingState,org.apache.poi.hwpf.usermodel.HWPFList,char)@g_poi-scratchpad-3.13.jar.txt	3
+org/apache/poi/hsmf/datatypes/MessageSubmissionChunk/readValue(java.io.InputStream)@g_poi-scratchpad-3.13.jar.txt	4

@@ -1,0 +1,5 @@
+org/xwiki/filter/xar/internal/input/AttachmentReader/read(javax.xml.stream.XMLStreamReader)@g_xwiki-platform-filter-stream-xar-7.4.2.jar.txt	2
+org/xwiki/filter/xar/internal/input/ClassReader/read(javax.xml.stream.XMLStreamReader)@g_xwiki-platform-filter-stream-xar-7.4.2.jar.txt	0
+org/xwiki/filter/xar/internal/input/WikiObjectReader/read(javax.xml.stream.XMLStreamReader)@g_xwiki-platform-filter-stream-xar-7.4.2.jar.txt	4
+org/xwiki/filter/xar/internal/input/ClassPropertyReader/read(javax.xml.stream.XMLStreamReader)@g_xwiki-platform-filter-stream-xar-7.4.2.jar.txt	3
+org/xwiki/filter/xar/internal/input/DocumentLocaleReader/readDocument(javax.xml.stream.XMLStreamReader,java.lang.Object,org.xwiki.filter.xar.internal.input.XARInputFilter)@g_xwiki-platform-filter-stream-xar-7.4.2.jar.txt	1

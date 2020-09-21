@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/proto/ApplicationHistoryServerProtos/ApplicationStartDataProto/writeTo(com.google.protobuf.CodedOutputStream)@g_hadoop-yarn-api-2.6.0.jar.txt	4
+org/drools/marshalling/impl/ProtobufMessages/Trigger/CronTrigger/writeTo(com.google.protobuf.CodedOutputStream)@g_drools-core-5.5.0.Final.jar.txt	0
+org/apache/hadoop/yarn/proto/YarnProtos/NodeReportProto/writeTo(com.google.protobuf.CodedOutputStream)@g_hadoop-yarn-api-2.6.0.jar.txt	3
+org/drools/marshalling/impl/ProtobufMessages/FactHandle/writeTo(com.google.protobuf.CodedOutputStream)@g_drools-core-5.5.0.Final.jar.txt	1
+org/apache/hadoop/yarn/proto/ApplicationHistoryServerProtos/ApplicationFinishDataProto/writeTo(com.google.protobuf.CodedOutputStream)@g_hadoop-yarn-api-2.6.0.jar.txt	2

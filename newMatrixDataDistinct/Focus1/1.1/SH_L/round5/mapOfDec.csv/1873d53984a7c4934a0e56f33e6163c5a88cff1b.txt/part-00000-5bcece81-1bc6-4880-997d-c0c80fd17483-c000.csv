@@ -1,0 +1,5 @@
+org/wso2/carbon/datasource/MiscellaneousHelper/handleException(java.lang.String)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	1
+org/switchyard/common/io/resource/SimpleResource/setLocation(java.lang.String)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	3
+org/switchyard/transform/internal/json/JSONTransformerTest/test_JSONResultUser()@055e75fab3b15893ac9f642ff9ecf68235922204.txt	0
+org/codice/ddf/spatial/ogc/csw/catalog/source/TestCswCqlFilter/testPropertyIsEqualToStringLiteralAnyText()@055e75fab3b15893ac9f642ff9ecf68235922204.txt	2
+org/switchyard/admin/base/BaseSwitchYard/addSocketBindingName(java.lang.String)@055e75fab3b15893ac9f642ff9ecf68235922204.txt	4

@@ -1,0 +1,5 @@
+net/BukkitPE/utils/ConfigSection/getBooleanList(java.lang.String)@1145ae442bd808cc7f1c030828034f44eae69a16.txt	4
+net/BukkitPE/level/format/leveldb/LevelDB/isChunkGenerated(int,int)@1145ae442bd808cc7f1c030828034f44eae69a16.txt	3
+es/uvigo/ei/sing/pandrugs/persistence/entity/RegistrationDataset/plainPassword(es.uvigo.ei.sing.pandrugs.persistence.entity.User)@1145ae442bd808cc7f1c030828034f44eae69a16.txt	2
+es/uvigo/ei/sing/pandrugs/controller/DefaultGeneDrugController/normalizeGeneRank(java.util.Map)@1145ae442bd808cc7f1c030828034f44eae69a16.txt	0
+com/github/jakz/nit/merger/Merger/mergeToCloneArchives(java.nio.file.Path)@2b580b570b3da993f753285904fc9b11ffe305f2.txt	1

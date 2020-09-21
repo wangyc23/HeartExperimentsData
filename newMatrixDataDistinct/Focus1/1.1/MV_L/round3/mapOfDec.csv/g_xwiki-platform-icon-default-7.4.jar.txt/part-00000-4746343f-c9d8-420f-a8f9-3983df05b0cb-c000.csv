@@ -1,0 +1,5 @@
+org/xwiki/icon/internal/IconThemeListener/onEvent(org.xwiki.observation.event.Event,java.lang.Object,java.lang.Object)@g_xwiki-platform-icon-default-7.4.2.jar.txt	2
+org/xwiki/icon/internal/DefaultIconSetLoader/loadIconSet(java.io.Reader,java.lang.String)@g_xwiki-platform-icon-default-7.4.2.jar.txt	3
+org/xwiki/icon/internal/VelocityRenderer/render(java.lang.String)@g_xwiki-platform-icon-default-7.4.2.jar.txt	0
+org/xwiki/icon/internal/VelocityRenderer/render(java.lang.String)@g_xwiki-platform-icon-default-7.0.jar.txt	1
+org/xwiki/icon/internal/DefaultIconSetManager/getCurrentIconSet()@g_xwiki-platform-icon-default-7.4.2.jar.txt	4

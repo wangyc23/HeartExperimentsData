@@ -1,0 +1,5 @@
+org/apache/poi/hssf/record/aggregates/RowRecordsAggregate/removeRow(org.apache.poi.hssf.record.RowRecord)@g_poi-3.11.jar.txt	4
+org/apache/poi/hssf/extractor/ExcelExtractor/getText()@g_poi-3.12.jar.txt	1
+org/apache/poi/ss/formula/WorkbookEvaluator/evaluateAny(org.apache.poi.ss.formula.EvaluationCell,int,int,int,org.apache.poi.ss.formula.EvaluationTracker)@g_poi-3.11.jar.txt	3
+org/apache/poi/hssf/extractor/ExcelExtractor/getText()@g_poi-3.11.jar.txt	0
+org/apache/poi/hssf/model/InternalWorkbook/createWorkbook(java.util.List)@g_poi-3.11.jar.txt	2

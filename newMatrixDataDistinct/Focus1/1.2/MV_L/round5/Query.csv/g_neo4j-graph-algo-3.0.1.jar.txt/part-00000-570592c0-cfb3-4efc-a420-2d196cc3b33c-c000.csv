@@ -1,0 +1,4 @@
+org/neo4j/graphdb/traversal/TraversalDescription/evaluator(org.neo4j.graphdb.traversal.PathEvaluator)
+org/neo4j/graphdb/traversal/TraversalDescription/expand(org.neo4j.graphdb.PathExpander,org.neo4j.graphdb.traversal.InitialBranchState)
+org/neo4j/graphdb/traversal/Evaluators/includeWhereEndNodeIs(org.neo4j.graphdb.Node[])
+org/neo4j/graphdb/traversal/TraversalDescription/uniqueness(org.neo4j.graphdb.traversal.UniquenessFactory)

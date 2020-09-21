@@ -1,0 +1,5 @@
+com/sun/jersey/spi/container/servlet/WebComponent/createResourceConfig(com.sun.jersey.spi.container.servlet.WebConfig,java.util.Map)@g_jersey-servlet-1.19.jar.txt	4
+com/sun/jersey/spi/container/servlet/WebComponent/filterFormParameters(javax.servlet.http.HttpServletRequest,com.sun.jersey.spi.container.ContainerRequest)@g_jersey-servlet-1.19.jar.txt	2
+com/sun/jersey/server/impl/container/servlet/ServletAdaptor/configure(javax.servlet.ServletConfig,com.sun.jersey.api.core.ResourceConfig,com.sun.jersey.spi.container.WebApplication)@g_jersey-servlet-1.19.jar.txt	3
+com/sun/jersey/server/impl/cdi/CDIExtension/processAnnotatedField(javax.enterprise.inject.spi.AnnotatedField,java.lang.Class,boolean,java.util.Map)@g_jersey-servlet-1.19.jar.txt	1
+com/sun/jersey/spi/container/servlet/ServletContainer/configure(com.sun.jersey.spi.container.servlet.WebConfig,com.sun.jersey.api.core.ResourceConfig,com.sun.jersey.spi.container.WebApplication)@g_jersey-servlet-1.19.jar.txt	0

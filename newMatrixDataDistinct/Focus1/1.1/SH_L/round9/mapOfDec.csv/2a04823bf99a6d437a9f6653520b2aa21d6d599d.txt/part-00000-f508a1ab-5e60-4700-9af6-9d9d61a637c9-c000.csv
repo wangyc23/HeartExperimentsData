@@ -1,0 +1,5 @@
+org/giwi/camel/dav/test/FromDavSetNamesWithMultiDirectoriesTest/testDavRoute()@1e409169831dbff41c7ea314835f35143c12e15b.txt	3
+org/giwi/camel/dav/test/FromDavToBinaryFileTest/testDavRoute()@1e409169831dbff41c7ea314835f35143c12e15b.txt	2
+org/giwi/camel/dav/test/DavConsumerTemplateTest/testConsumerTemplate()@1e409169831dbff41c7ea314835f35143c12e15b.txt	1
+org/giwi/camel/dav/test/FromDavExclusiveReadNoneStrategyTest/testPollFileWhileSlowFileIsBeingWrittenUsingNonExclusiveRead()@1e409169831dbff41c7ea314835f35143c12e15b.txt	4
+org/giwi/camel/dav/test/DavPollingConsumerTest/testPollingConsumer()@1e409169831dbff41c7ea314835f35143c12e15b.txt	0

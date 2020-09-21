@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/autoconfigure/CrshAutoConfiguration/BeanFactoryFilteringPluginDiscovery/getPlugins()@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	2
+org/springframework/boot/cli/command/run/SpringApplicationRunner/FileWatchThread/getSourceFiles()@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	4
+org/springframework/boot/context/properties/EnableConfigurationPropertiesImportSelector/ConfigurationPropertiesBeanRegistrar/collectClasses(java.util.List)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	3
+org/springframework/boot/jdbc/DatabaseDriverClassNameTests/parameters()@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	0
+org/springframework/boot/jdbc/DatabaseDriverClassNameTests/parameters()@20cc3d79a4f85cd17c8e746083aea5f98fb13f54.txt	1

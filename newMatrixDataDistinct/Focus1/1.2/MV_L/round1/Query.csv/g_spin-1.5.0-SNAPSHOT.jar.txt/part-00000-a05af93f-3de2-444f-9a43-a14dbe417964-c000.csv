@@ -1,0 +1,4 @@
+com/hp/hpl/jena/query/QueryExecution/execSelect()
+com/hp/hpl/jena/query/QueryExecution/setInitialBinding(com.hp.hpl.jena.query.QuerySolution)
+com/hp/hpl/jena/query/QuerySolutionMap/QuerySolutionMap()
+com/hp/hpl/jena/rdf/model/Resource/getModel()

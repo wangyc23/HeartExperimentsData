@@ -1,0 +1,4 @@
+0	vaeke/restcountries/v1/rest/CountryService/getByAlpha(java.lang.String)
+1	vaeke/restcountries/v1/rest/CountryService/getInstance()
+2	net/spinetrak/gasguzzler/security/Authenticator/generateJWTToken(java.lang.String)
+3	vaeke/restcountries/v1/domain/Country/getCca3()

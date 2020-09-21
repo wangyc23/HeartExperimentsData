@@ -1,0 +1,4 @@
+java/lang/Class/getMethods()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/reflect/Method/getReturnType()
+java/lang/reflect/Method/getName()

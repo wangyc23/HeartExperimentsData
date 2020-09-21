@@ -1,0 +1,5 @@
+org/springframework/data/repository/config/CustomRepositoryImplementationDetector/detectCustomImplementation(java.lang.String,java.lang.Iterable)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	2
+org/springframework/data/web/config/EnableSpringDataWebSupport/SpringDataWebConfigurationImportSelector/selectImports(org.springframework.core.type.AnnotationMetadata)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	1
+org/springframework/data/util/AnnotatedTypeScanner/findTypes(java.lang.Iterable)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	0
+org/springframework/data/domain/jaxb/SpringDataJaxb/unmarshal(java.util.Collection,javax.xml.bind.annotation.adapters.XmlAdapter)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	4
+org/springframework/data/repository/config/RepositoryConfigurationSourceSupport/getCandidates(org.springframework.core.io.ResourceLoader)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	3

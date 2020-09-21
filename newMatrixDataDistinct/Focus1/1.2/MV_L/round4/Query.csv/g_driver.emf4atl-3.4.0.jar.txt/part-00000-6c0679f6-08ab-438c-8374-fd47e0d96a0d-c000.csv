@@ -1,0 +1,4 @@
+org/eclipse/emf/ecore/resource/Resource/save(java.util.Map)
+java/util/Iterator/hasNext()
+org/eclipse/emf/ecore/xmi/XMIResource/setID(org.eclipse.emf.ecore.EObject,java.lang.String)
+org/eclipse/emf/ecore/resource/Resource/getAllContents()

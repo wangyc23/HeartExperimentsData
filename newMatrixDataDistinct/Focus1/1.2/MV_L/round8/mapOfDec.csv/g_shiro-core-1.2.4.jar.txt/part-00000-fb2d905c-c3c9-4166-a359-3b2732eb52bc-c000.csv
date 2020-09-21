@@ -1,0 +1,5 @@
+org/apache/shiro/config/ReflectionBuilder/applyProperty(java.lang.Object,java.lang.String,java.lang.Object)@g_shiro-core-1.2.2.jar.txt	3
+org/apache/shiro/realm/AuthorizingRealm/getAuthorizationCacheLazy()@g_shiro-core-1.2.2.jar.txt	4
+org/apache/shiro/util/ThreadContext/put(java.lang.Object,java.lang.Object)@g_shiro-core-1.2.2.jar.txt	0
+org/apache/shiro/util/ThreadContext/get(java.lang.Object)@g_shiro-core-1.2.2.jar.txt	1
+org/apache/shiro/util/ThreadContext/remove(java.lang.Object)@g_shiro-core-1.2.2.jar.txt	2

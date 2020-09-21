@@ -1,0 +1,4 @@
+java/lang/Class/getSuperclass()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getModifiers()
+java/lang/Class/getAnnotation(java.lang.Class)

@@ -1,0 +1,4 @@
+br/gov/frameworkdemoiselle/template/DelegateCrud/insert(T)
+br/com/syspartenon/partenon/domain/EntradaAgenda/getEagId()
+java/lang/Throwable/getMessage()
+br/gov/frameworkdemoiselle/template/DelegateCrud/update(T)

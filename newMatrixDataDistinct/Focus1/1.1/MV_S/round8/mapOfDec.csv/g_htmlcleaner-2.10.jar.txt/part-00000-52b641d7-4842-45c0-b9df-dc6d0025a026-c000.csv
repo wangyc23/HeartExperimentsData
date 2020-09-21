@@ -1,0 +1,5 @@
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_xwiki-commons-xml-7.4.2.jar.txt	0
+org/htmlcleaner/XWikiDOMSerializer/createDOM(javax.xml.parsers.DocumentBuilder,org.htmlcleaner.TagNode)@g_xwiki-commons-xml-7.4.2.jar.txt	4
+org/htmlcleaner/SimpleHtmlSerializer/serialize(org.htmlcleaner.TagNode,java.io.Writer)@g_xwiki-commons-xml-7.4.2.jar.txt	3
+org/htmlcleaner/TagTransformation/evaluateTemplate(java.lang.String,java.util.Map)@g_xwiki-commons-xml-7.4.2.jar.txt	1
+org/htmlcleaner/XPather/filterByCondition(java.util.Collection,int,int)@g_xwiki-commons-xml-7.4.2.jar.txt	2

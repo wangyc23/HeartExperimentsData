@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/ApplicationHandler/bindProvidersAndResources(java.lang.Iterable,org.glassfish.jersey.model.internal.ComponentBag,java.util.Collection,java.util.Collection)@g_jersey-server-2.19.jar.txt	0
+org/glassfish/jersey/server/ApplicationHandler/initialize(java.lang.Iterable)@g_jersey-server-2.19.jar.txt	4
+org/glassfish/jersey/server/ResourceConfig/scanClasses()@g_jersey-server-2.19.jar.txt	2
+org/glassfish/jersey/server/ApplicationHandler/bindProvidersAndResources(java.lang.Iterable,org.glassfish.jersey.model.internal.ComponentBag,java.util.Collection,java.util.Collection)@g_jersey-server-2.21.jar.txt	1
+org/glassfish/jersey/server/internal/routing/MethodSelectingRouter/reportMethodSelectionAmbiguity(java.util.List,org.glassfish.jersey.server.internal.routing.MethodSelectingRouter$RequestSpecificConsumesProducesAcceptor,java.util.List)@g_jersey-server-2.19.jar.txt	3

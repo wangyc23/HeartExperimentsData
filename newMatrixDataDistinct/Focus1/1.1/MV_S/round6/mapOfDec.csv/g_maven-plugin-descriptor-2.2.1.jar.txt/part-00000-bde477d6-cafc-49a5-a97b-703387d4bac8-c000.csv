@@ -1,0 +1,5 @@
+org/apache/maven/tools/plugin/generator/GeneratorUtils/decodeJavadocTags(java.lang.String)@g_maven-ear-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/lifecycle/io/xpp3/LifecycleMappingsXpp3Reader/parseExecution(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-ear-plugin-2.8.jar.txt	3
+org/apache/maven/tools/plugin/generator/PluginHelpGenerator/execute(java.io.File,org.apache.maven.tools.plugin.PluginToolsRequest)@g_maven-ear-plugin-2.8.jar.txt	1
+org/apache/maven/tools/plugin/generator/GeneratorUtils/toText(java.lang.String)@g_maven-ear-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/ear/output/FileNameMappingFactory/getFileNameMapping(java.lang.String)@g_maven-ear-plugin-2.8.jar.txt	4

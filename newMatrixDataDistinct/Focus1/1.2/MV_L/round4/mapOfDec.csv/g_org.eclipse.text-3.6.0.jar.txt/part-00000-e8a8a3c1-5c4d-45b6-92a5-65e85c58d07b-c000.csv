@@ -1,0 +1,5 @@
+org/eclipse/jface/text/templates/TemplateTranslator/parse(java.lang.String)@g_org.eclipse.text-3.6.100.jar.txt	3
+org/eclipse/text/undo/DocumentUndoManager/UndoableTextChange/toString()@g_org.eclipse.text-3.6.100.jar.txt	4
+org/eclipse/jface/text/projection/ProjectionDocument/internalAddMasterDocumentRange(int,int,org.eclipse.jface.text.DocumentEvent)@g_org.eclipse.text-3.6.100.jar.txt	1
+org/eclipse/jface/text/projection/ProjectionDocument/internalRemoveMasterDocumentRange(int,int)@g_org.eclipse.text-3.6.100.jar.txt	0
+org/eclipse/jface/text/source/AnnotationModel/getAnnotationIterator(boolean,boolean)@g_org.eclipse.text-3.6.100.jar.txt	2

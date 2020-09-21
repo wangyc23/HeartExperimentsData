@@ -1,0 +1,5 @@
+org/apache/batik/css/parser/Parser/parseSimpleSelector()@g_batik-css-1.7.jar.txt	3
+com/steadystate/css/parser/SACParserCSS21/pseudo(org.w3c.css.sac.Condition,boolean)@g_cssparser-0.9.18.jar.txt	2
+com/steadystate/css/parser/HandlerBase/warning(org.w3c.css.sac.CSSParseException)@g_cssparser-0.9.18.jar.txt	4
+com/steadystate/css/parser/SACParserCSS3/pseudo(org.w3c.css.sac.Condition,boolean)@g_cssparser-0.9.18.jar.txt	0
+com/steadystate/css/dom/CSSValueImpl/getCssText(com.steadystate.css.format.CSSFormat)@g_cssparser-0.9.18.jar.txt	1

@@ -1,0 +1,4 @@
+java/util/regex/Pattern/compile(java.lang.String)
+java/io/IOException/IOException(java.lang.String)
+java/util/regex/Matcher/matches()
+java/lang/String/toUpperCase(java.util.Locale)

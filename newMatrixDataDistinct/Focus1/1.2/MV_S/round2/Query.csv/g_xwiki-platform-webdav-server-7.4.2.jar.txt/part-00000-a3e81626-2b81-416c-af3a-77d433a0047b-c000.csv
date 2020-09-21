@@ -1,0 +1,4 @@
+com/xpn/xwiki/doc/XWikiDocument/getAttachmentList()
+com/xpn/xwiki/doc/XWikiAttachment/XWikiAttachment()
+com/xpn/xwiki/XWikiContext/getWiki()
+java/lang/StringBuilder/append(java.lang.String)

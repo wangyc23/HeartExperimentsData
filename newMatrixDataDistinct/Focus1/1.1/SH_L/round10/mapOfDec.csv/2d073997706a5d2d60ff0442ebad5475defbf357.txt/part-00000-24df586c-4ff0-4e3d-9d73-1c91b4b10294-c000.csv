@@ -1,0 +1,5 @@
+io/druid/segment/realtime/RealtimeManager/getQueryRunnerForIntervals(io.druid.query.Query,java.lang.Iterable)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	4
+io/druid/server/coordination/ServerManager/getQueryRunnerForIntervals(io.druid.query.Query,java.lang.Iterable)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	0
+io/druid/indexing/overlord/ThreadPoolTaskRunner/getQueryRunnerImpl(io.druid.query.Query)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	2
+io/druid/segment/realtime/RealtimeManager/getQueryRunnerForSegments(io.druid.query.Query,java.lang.Iterable)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	3
+io/druid/indexing/kafka/KafkaIndexTask/getQueryRunner(io.druid.query.Query)@122d9d5891ab0de8a1e13b4a28b74f2817f3f7c3.txt	1

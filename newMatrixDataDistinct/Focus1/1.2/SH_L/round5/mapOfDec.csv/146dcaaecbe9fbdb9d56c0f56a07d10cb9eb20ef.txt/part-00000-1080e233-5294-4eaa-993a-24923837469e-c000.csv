@@ -1,0 +1,5 @@
+omw/dao/impl/AjaxNewsletterDaoImpl/addMailInNewsletter(java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	0
+omw/dao/impl/AnnonceDaoImpl/updateProposition(java.lang.Integer,java.lang.Integer,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@05f4c8fece83cfeb4469846407c47ce650324139.txt	2
+omw/dao/impl/AnnonceDaoImpl/deleteAds(java.lang.Integer,java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	3
+omw/dao/impl/AnnonceDaoImpl/insertProposition(java.lang.Integer,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@05f4c8fece83cfeb4469846407c47ce650324139.txt	4
+omw/dao/impl/AnnonceDaoImpl/accepterDemandePourAnnonce(java.lang.Integer,java.lang.String)@05f4c8fece83cfeb4469846407c47ce650324139.txt	1

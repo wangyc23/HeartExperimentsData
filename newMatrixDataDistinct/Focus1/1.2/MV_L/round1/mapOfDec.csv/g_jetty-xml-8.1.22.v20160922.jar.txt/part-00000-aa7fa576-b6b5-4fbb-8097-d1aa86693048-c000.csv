@@ -1,0 +1,5 @@
+org/eclipse/jetty/xml/XmlConfiguration/JettyXmlConfiguration/newObj(java.lang.Object,org.eclipse.jetty.xml.XmlParser$Node)@g_jetty-xml-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/xml/XmlConfiguration/JettyXmlConfiguration/configure(java.lang.Object,org.eclipse.jetty.xml.XmlParser$Node,int)@g_jetty-xml-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/xml/XmlConfiguration/JettyXmlConfiguration/call(java.lang.Object,org.eclipse.jetty.xml.XmlParser$Node)@g_jetty-xml-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/xml/XmlConfiguration/JettyXmlConfiguration/value(java.lang.Object,org.eclipse.jetty.xml.XmlParser$Node)@g_jetty-xml-9.2.13.v20150730.jar.txt	1
+org/eclipse/jetty/xml/XmlConfiguration/JettyXmlConfiguration/value(java.lang.Object,org.eclipse.jetty.xml.XmlParser$Node)@g_jetty-xml-7.6.5.v20120716.jar.txt	0

@@ -1,0 +1,5 @@
+org/mockito/internal/util/Primitives/<clinit>()@g_mockito-all-1.9.5.jar.txt	2
+org/mockito/cglib/proxy/MethodInterceptorGenerator/generate(org.mockito.cglib.core.ClassEmitter,org.mockito.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_mockito-all-1.9.5.jar.txt	0
+org/mockito/cglib/transform/AbstractProcessTask/getFiles()@g_mockito-all-1.9.5.jar.txt	1
+org/mockito/asm/tree/analysis/Analyzer/analyze(java.lang.String,org.mockito.asm.tree.MethodNode)@g_mockito-all-1.9.5.jar.txt	4
+org/mockito/cglib/proxy/Enhancer/emitMethods(org.mockito.cglib.core.ClassEmitter,java.util.List,java.util.List)@g_mockito-all-1.9.5.jar.txt	3

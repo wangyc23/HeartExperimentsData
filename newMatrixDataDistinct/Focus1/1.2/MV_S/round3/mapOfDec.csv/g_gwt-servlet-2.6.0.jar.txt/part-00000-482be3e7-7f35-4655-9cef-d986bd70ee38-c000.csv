@@ -1,0 +1,5 @@
+org/apache/lucene/index/IndexFileDeleter/inflateGens(org.apache.lucene.index.SegmentInfos,java.util.Collection,org.apache.lucene.util.InfoStream)@g_lucene-core-7.0.0.jar.txt	3
+com/google/gwt/safehtml/shared/SimpleHtmlSanitizer/simpleSanitize(java.lang.String)@g_vaadin-shared-7.4.5.jar.txt	0
+org/apache/lucene/index/PersistentSnapshotDeletionPolicy/loadPriorSnapshots()@g_lucene-core-7.0.0.jar.txt	2
+com/google/web/bindery/autobean/shared/impl/StringQuoter/tryParseDate(java.lang.String)@g_vaadin-shared-7.4.5.jar.txt	4
+com/google/gwt/core/shared/impl/InternalPreconditions/format(java.lang.String,java.lang.Object[])@g_vaadin-shared-7.4.5.jar.txt	1

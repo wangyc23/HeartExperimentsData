@@ -1,0 +1,5 @@
+org/bouncycastle/jcajce/provider/symmetric/util/BaseStreamCipher/engineInit(int,java.security.Key,java.security.spec.AlgorithmParameterSpec,java.security.SecureRandom)@g_bcprov-jdk15on-1.47.jar.txt	0
+org/bouncycastle/jcajce/provider/symmetric/util/BaseBlockCipher/engineInit(int,java.security.Key,java.security.spec.AlgorithmParameterSpec,java.security.SecureRandom)@g_bcprov-jdk15on-1.47.jar.txt	4
+org/bouncycastle/jcajce/provider/asymmetric/util/BaseKeyFactorySpi/engineGetKeySpec(java.security.Key,java.lang.Class)@g_bcprov-jdk15on-1.47.jar.txt	1
+org/bouncycastle/jce/provider/BrokenJCEBlockCipher/engineInit(int,java.security.Key,java.security.spec.AlgorithmParameterSpec,java.security.SecureRandom)@g_bcprov-jdk15on-1.47.jar.txt	3
+org/bouncycastle/jce/provider/JCEBlockCipher/engineInit(int,java.security.Key,java.security.spec.AlgorithmParameterSpec,java.security.SecureRandom)@g_bcprov-jdk15on-1.47.jar.txt	2

@@ -1,0 +1,5 @@
+org/jboss/marshalling/river/RiverUnmarshaller/readFields(java.lang.Object,org.jboss.marshalling.river.SerializableClassDescriptor,boolean)@g_jboss-marshalling-osgi-1.4.10.Final.jar.txt	1
+org/jboss/marshalling/river/RiverObjectInputStream/readFields()@g_jboss-marshalling-osgi-1.4.10.Final.jar.txt	0
+org/jboss/marshalling/river/RiverUnmarshaller/discardFields(org.jboss.marshalling.river.SerializableClassDescriptor)@g_jboss-marshalling-osgi-1.4.10.Final.jar.txt	2
+org/jboss/marshalling/river/RiverUnmarshaller/doReadObject(int,boolean,boolean)@g_jboss-marshalling-osgi-1.4.10.Final.jar.txt	4
+org/jboss/marshalling/river/RiverUnmarshaller/doReadNewObject(int,boolean,boolean)@g_jboss-marshalling-osgi-1.4.10.Final.jar.txt	3

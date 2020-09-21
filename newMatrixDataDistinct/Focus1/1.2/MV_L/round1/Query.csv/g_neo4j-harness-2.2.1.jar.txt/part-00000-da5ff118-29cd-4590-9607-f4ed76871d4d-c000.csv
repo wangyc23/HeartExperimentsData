@@ -1,0 +1,4 @@
+org/codehaus/jackson/JsonNode/asText()
+org/neo4j/server/rest/domain/JsonParseException/getMessage()
+org/codehaus/jackson/JsonNode/get(int)
+com/sun/jersey/api/client/ClientResponse/getEntity(java.lang.Class)

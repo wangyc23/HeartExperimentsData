@@ -1,0 +1,4 @@
+java/io/BufferedReader/close()
+java/io/File/File(java.lang.String)
+java/lang/ClassLoader/getResourceAsStream(java.lang.String)
+java/util/Properties/load(java.io.InputStream)

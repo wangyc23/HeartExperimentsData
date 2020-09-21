@@ -1,0 +1,5 @@
+uk/commonline/weather/geo/source/yahoo/YahooGeoLocationParser/parsePlaces(java.io.InputStream)@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	4
+at/mfpjn/workflow/aggregation/ReceiverJSPAggregationStrategy/aggregate(org.apache.camel.Exchange,org.apache.camel.Exchange)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	0
+uk/commonline/weather/geo/source/yahoo/YahooGeoLocationParser/parsePlaceQuery(java.io.InputStream)@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	2
+uk/commonline/weather/geo/source/yahoo/YahooGeoLocationParser/parsePlace(java.io.InputStream)@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	3
+at/mfpjn/workflow/aggregation/ReceiverAggregationStrategy/aggregate(org.apache.camel.Exchange,org.apache.camel.Exchange)@036af54b85d39180e541c2d544a2c6e63e2a2b96.txt	1

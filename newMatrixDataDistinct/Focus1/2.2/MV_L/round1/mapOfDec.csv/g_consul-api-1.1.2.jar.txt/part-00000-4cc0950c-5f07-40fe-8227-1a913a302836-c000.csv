@@ -1,0 +1,5 @@
+org/apache/mahout/math/map/AbstractDoubleObjectMap/pairsSortedByValue(org.apache.mahout.math.list.DoubleArrayList,java.util.List)@g_mahout-collections-1.0.jar.txt	3
+org/apache/mahout/math/map/AbstractObjectDoubleMap/toStringByValue()@g_mahout-collections-1.0.jar.txt	1
+org/apache/mahout/math/map/AbstractIntObjectMap/pairsSortedByValue(org.apache.mahout.math.list.IntArrayList,java.util.List)@g_mahout-collections-1.0.jar.txt	2
+org/apache/mahout/math/map/AbstractObjectIntMap/toStringByValue()@g_mahout-collections-1.0.jar.txt	4
+org/apache/mahout/math/map/AbstractObjectLongMap/toStringByValue()@g_mahout-collections-1.0.jar.txt	0

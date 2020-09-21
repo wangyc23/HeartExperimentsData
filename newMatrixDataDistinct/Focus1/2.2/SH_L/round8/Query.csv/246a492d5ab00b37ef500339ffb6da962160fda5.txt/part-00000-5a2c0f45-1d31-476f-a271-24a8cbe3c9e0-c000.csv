@@ -1,0 +1,4 @@
+com/marsyoung/transation/MyBean/MyBean()
+com/marsyoung/transation/MyBean/setStatus(int)
+com/marsyoung/transation/MyBean/setName(java.lang.String)
+com/marsyoung/transation/MyDao/insert(com.marsyoung.transation.MyBean)

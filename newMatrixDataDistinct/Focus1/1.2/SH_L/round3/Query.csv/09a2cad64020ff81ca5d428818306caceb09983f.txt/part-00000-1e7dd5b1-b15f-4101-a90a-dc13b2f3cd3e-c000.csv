@@ -1,0 +1,4 @@
+java/nio/Buffer/clear()
+java/nio/ByteBuffer/put(byte)
+java/io/IOException/IOException(java.lang.String)
+java/nio/Buffer/flip()

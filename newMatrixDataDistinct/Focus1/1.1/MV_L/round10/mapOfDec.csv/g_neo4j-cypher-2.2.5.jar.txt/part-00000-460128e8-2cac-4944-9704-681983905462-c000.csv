@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compatibility/CompatibilityFor2_2/anon/2/anonfun/plan/1/apply()@g_neo4j-cypher-2.2.1.jar.txt	2
+org/neo4j/cypher/internal/compiler/v1_9/parser/ParserPattern/class/org$neo4j$cypher$internal$compiler$v1_9$parser$ParserPattern$$translate(org.neo4j.cypher.internal.compiler.v1_9.parser.ParserPattern,scala.util.parsing.input.Reader,scala.Function1,scala.util.parsing.combinator.Parsers$ParseResult)@g_neo4j-cypher-2.2.1.jar.txt	3
+org/neo4j/cypher/internal/compiler/v1_9/executionplan/builders/SortingPreparations/anonfun/5/apply(org.neo4j.cypher.internal.compiler.v1_9.executionplan.builders.QueryToken)@g_neo4j-cypher-2.2.1.jar.txt	0
+org/neo4j/cypher/internal/compiler/v1_9/executionplan/builders/ShortestPathBuilder/missingDependencies(org.neo4j.cypher.internal.compiler.v1_9.executionplan.ExecutionPlanInProgress)@g_neo4j-cypher-2.2.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v1_9/executionplan/builders/RelationshipByIdBuilder/apply(org.neo4j.cypher.internal.compiler.v1_9.executionplan.ExecutionPlanInProgress)@g_neo4j-cypher-2.2.1.jar.txt	1

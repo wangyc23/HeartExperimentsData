@@ -1,0 +1,4 @@
+javax/mail/Message/setSubject(java.lang.String)
+javax/mail/Message/setFrom(javax.mail.Address)
+javax/mail/Session/getInstance(java.util.Properties,javax.mail.Authenticator)
+java/util/Optional/ofNullable(T)

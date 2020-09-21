@@ -1,0 +1,5 @@
+org/codehaus/jackson/xc/XmlAdapterJsonSerializer/serialize(java.lang.Object,org.codehaus.jackson.JsonGenerator,org.codehaus.jackson.map.SerializerProvider)@g_jackson-xc-1.9.13.jar.txt	3
+com/fasterxml/jackson/dataformat/xml/jaxb/XmlJaxbAnnotationIntrospector/findAnnotation(java.lang.Class,com.fasterxml.jackson.databind.introspect.Annotated,boolean,boolean,boolean)@g_jackson-dataformat-xml-2.6.3.jar.txt	1
+org/codehaus/jackson/xc/XmlAdapterJsonDeserializer/deserialize(org.codehaus.jackson.JsonParser,org.codehaus.jackson.map.DeserializationContext)@g_jackson-xc-1.9.13.jar.txt	2
+org/codehaus/jackson/xc/JaxbAnnotationIntrospector/findAnnotation(java.lang.Class,org.codehaus.jackson.map.introspect.Annotated,boolean,boolean,boolean)@g_jackson-xc-1.9.13.jar.txt	0
+com/fasterxml/jackson/dataformat/xml/deser/XmlBeanDeserializerModifier/updateProperties(com.fasterxml.jackson.databind.DeserializationConfig,com.fasterxml.jackson.databind.BeanDescription,java.util.List)@g_jackson-xc-1.9.13.jar.txt	4

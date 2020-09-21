@@ -1,0 +1,5 @@
+antlr/LLkAnalyzer/look(int,antlr.StringLiteralElement)@g_antlr-2.7.6.jar.txt	4
+antlr/CppCodeGenerator/genBody(antlr.LexerGrammar)@g_antlr-2.7.6.jar.txt	1
+antlr/CSharpCodeGenerator/genBody(antlr.LexerGrammar)@g_antlr-2.7.6.jar.txt	3
+antlr/PythonCodeGenerator/genErrorHandler(antlr.ExceptionSpec)@g_antlr-2.7.6.jar.txt	0
+antlr/PythonCodeGenerator/getASTCreateString(java.lang.String)@g_antlr-2.7.6.jar.txt	2

@@ -1,0 +1,5 @@
+org/springframework/boot/loader/tools/MainClassFinder/MainClassesCallback/getMainClass()@g_spring-boot-loader-tools-1.3.0.BUILD-20151114.062217-808.jar.txt	4
+org/springframework/boot/loader/tools/AgentAttacher/attach(java.io.File)@g_spring-boot-loader-tools-1.3.0.BUILD-20151115.025516-810.jar.txt	1
+org/springframework/boot/loader/tools/JarWriter/writeEntry(java.util.jar.JarEntry,org.springframework.boot.loader.tools.JarWriter$EntryWriter)@g_spring-boot-loader-tools-1.3.0.BUILD-20151115.025516-810.jar.txt	3
+org/springframework/boot/loader/tools/AgentAttacher/attach(java.io.File)@g_spring-boot-loader-tools-1.3.0.BUILD-20151114.062217-808.jar.txt	0
+org/springframework/boot/loader/tools/JarWriter/writeEntry(java.util.jar.JarEntry,org.springframework.boot.loader.tools.JarWriter$EntryWriter)@g_spring-boot-loader-tools-1.3.0.BUILD-20151114.062217-808.jar.txt	2

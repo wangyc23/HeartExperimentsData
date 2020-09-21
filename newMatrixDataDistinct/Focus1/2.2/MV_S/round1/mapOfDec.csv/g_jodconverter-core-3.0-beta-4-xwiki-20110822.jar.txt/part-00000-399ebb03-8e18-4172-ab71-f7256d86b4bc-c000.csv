@@ -1,0 +1,5 @@
+cc/mallet/fst/semi_supervised/constraints/TwoLabelGEConstraints/preProcess(cc.mallet.types.InstanceList)@g_jsonassert-1.4.0.jar.txt	2
+cc/mallet/fst/HMM/WeightedIncrementor/incrementTransition(cc.mallet.fst.Transducer$TransitionIterator,double)@g_jsonassert-1.4.0.jar.txt	1
+cc/mallet/grmm/types/AbstractTableFactor/initVars(cc.mallet.grmm.types.Variable[])@g_jsonassert-1.4.0.jar.txt	3
+org/skyscreamer/jsonassert/JSONParser/parseJSON(java.lang.String)@g_jsonassert-1.4.0.jar.txt	0
+cc/mallet/topics/PolylingualTopicModel/printState(java.io.PrintStream)@g_jsonassert-1.4.0.jar.txt	4

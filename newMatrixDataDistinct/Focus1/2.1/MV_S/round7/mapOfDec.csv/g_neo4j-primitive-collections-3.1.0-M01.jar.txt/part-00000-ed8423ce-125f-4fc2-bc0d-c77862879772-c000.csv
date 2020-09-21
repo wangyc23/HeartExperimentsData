@@ -1,0 +1,5 @@
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_neo4j-primitive-collections-2.2.5.jar.txt	2
+org/neo4j/collection/pool/LinkedQueuePool/acquire()@g_neo4j-primitive-collections-2.2.5.jar.txt	0
+org/apache/lucene/codecs/lucene50/Lucene50PostingsWriter/finishTerm(org.apache.lucene.codecs.BlockTermState)@g_neo4j-primitive-collections-2.2.5.jar.txt	3
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_neo4j-primitive-collections-2.2.5.jar.txt	1
+org/apache/lucene/index/IndexWriter/commitMerge(org.apache.lucene.index.MergePolicy$OneMerge,org.apache.lucene.index.MergeState)@g_neo4j-primitive-collections-2.2.5.jar.txt	4

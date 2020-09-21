@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/close()@g_lucene-sandbox-6.2.1.jar.txt	0
+org/apache/lucene/document/LatLonPoint/newBoxQuery(java.lang.String,double,double,double,double)@g_lucene-sandbox-6.2.1.jar.txt	4
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/close()@g_lucene-sandbox-6.4.1.jar.txt	1
+org/apache/lucene/search/TermAutomatonQuery/toDot()@g_lucene-sandbox-6.2.1.jar.txt	3
+org/apache/lucene/document/LatLonDocValuesField/toString()@g_lucene-sandbox-6.2.1.jar.txt	2

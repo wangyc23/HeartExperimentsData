@@ -1,0 +1,5 @@
+org/eclipse/jetty/plus/jaas/JAASLoginService/getGroups(javax.security.auth.Subject)@g_jetty-plus-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/webapp/WebInfConfiguration/findExtraClasspathJars(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-plus-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/plus/jaas/spi/PropertyFileLoginModule/getUserInfo(java.lang.String)@g_jetty-plus-7.6.5.v20120716.jar.txt	0
+org/eclipse/jetty/plus/jndi/Transaction/unbindENC()@g_jetty-plus-7.6.5.v20120716.jar.txt	4
+org/eclipse/jetty/webapp/Configuration/ClassList/addBefore(java.lang.String,java.lang.String[])@g_jetty-plus-7.6.5.v20120716.jar.txt	2

@@ -1,0 +1,5 @@
+org/eclipse/jetty/annotations/ResourceAnnotationHandler/handleField(java.lang.Class,java.lang.reflect.Field)@g_jetty-annotations-9.3.8.v20160314.jar.txt	3
+org/eclipse/jetty/plus/jndi/Transaction/bindToENC(java.lang.String)@g_jetty-plus-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/plus/jndi/Transaction/bindToComp()@g_jetty-plus-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/annotations/ResourceAnnotationHandler/handleMethod(java.lang.Class,java.lang.reflect.Method)@g_jetty-annotations-9.3.8.v20160314.jar.txt	4
+org/eclipse/jetty/plus/webapp/EnvConfiguration/bindEnvEntries(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-plus-7.6.5.v20120716.jar.txt	0

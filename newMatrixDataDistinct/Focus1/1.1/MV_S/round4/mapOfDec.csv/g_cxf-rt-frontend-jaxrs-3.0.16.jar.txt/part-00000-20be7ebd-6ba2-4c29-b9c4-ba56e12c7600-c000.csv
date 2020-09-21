@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/utils/HttpUtils/encodePartiallyEncoded(java.lang.String,boolean)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/jaxrs/impl/RequestImpl/evaluateIfMatch(javax.ws.rs.core.EntityTag)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	1
+org/apache/cxf/jaxrs/spring/JAXRSServerFactoryBeanDefinitionParser/SpringJAXRSServerFactoryBean/createBeansFromDiscoveredClasses(java.util.Collection,java.lang.Class)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/jaxrs/model/ClassResourceInfo/initBeanParamInfo(org.apache.cxf.jaxrs.provider.ServerProviderFactory)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/transport/http/AbstractHTTPDestination/getId(java.util.Map)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	0

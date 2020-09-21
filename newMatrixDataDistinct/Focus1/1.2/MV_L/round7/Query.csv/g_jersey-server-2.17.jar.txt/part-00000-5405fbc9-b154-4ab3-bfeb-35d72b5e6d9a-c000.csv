@@ -1,0 +1,4 @@
+org/glassfish/jersey/model/internal/ComponentBag/getInstances(jersey.repackaged.com.google.common.base.Predicate)
+java/util/Iterator/hasNext()
+jersey/repackaged/com/google/common/collect/Sets/newHashSet()
+org/glassfish/jersey/internal/inject/ProviderBinder/bindProvider(java.lang.Class,org.glassfish.jersey.model.ContractProvider,org.glassfish.hk2.api.DynamicConfiguration)

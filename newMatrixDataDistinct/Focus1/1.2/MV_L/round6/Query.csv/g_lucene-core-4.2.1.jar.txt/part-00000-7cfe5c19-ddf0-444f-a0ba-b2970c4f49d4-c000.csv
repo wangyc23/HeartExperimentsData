@@ -1,0 +1,4 @@
+java/lang/Throwable/Throwable()
+org/apache/lucene/util/FieldCacheSanityChecker$Insanity/toString()
+org/apache/lucene/search/FieldCache$CacheEntry/getValue()
+java/lang/Throwable/printStackTrace(java.io.PrintStream)

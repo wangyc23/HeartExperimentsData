@@ -1,0 +1,5 @@
+org/eclipse/jetty/annotations/AnnotationParser/parse(java.util.Set,java.util.List,org.eclipse.jetty.annotations.ClassNameResolver)@g_jetty-annotations-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/annotations/AnnotationParser/parseDir(java.util.Set,org.eclipse.jetty.util.resource.Resource,org.eclipse.jetty.annotations.ClassNameResolver)@g_jetty-annotations-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/annotations/AnnotationParser/parseJar(java.util.Set,org.eclipse.jetty.util.resource.Resource,org.eclipse.jetty.annotations.ClassNameResolver)@g_jetty-annotations-7.6.5.v20120716.jar.txt	1
+org/eclipse/jetty/annotations/AnnotationConfiguration/parseWebInfLib(org.eclipse.jetty.webapp.WebAppContext,org.eclipse.jetty.annotations.AnnotationParser)@g_jetty-annotations-7.6.5.v20120716.jar.txt	0
+org/eclipse/jetty/annotations/AnnotationParser/parse(java.lang.Class,org.eclipse.jetty.annotations.ClassNameResolver,boolean)@g_jetty-annotations-7.6.5.v20120716.jar.txt	4

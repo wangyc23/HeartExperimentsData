@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/retrieveFeed(java.net.URL,int)@g_xwiki-platform-feed-api-7.4.2.jar.txt	1
+org/xwiki/rendering/internal/block/BlockMatcherConverter/convertToType(java.lang.reflect.Type,java.lang.Object)@g_xwiki-rendering-api-7.4.jar.txt	0
+com/xpn/xwiki/plugin/feed/FeedPlugin/prepareFeedEntryDocument(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	3
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/retrieveFeed(java.lang.String,org.apache.commons.httpclient.HttpMethod)@g_xwiki-platform-feed-api-7.4.2.jar.txt	2
+com/xpn/xwiki/plugin/feed/FeedPlugin/saveFeed(java.lang.String,java.lang.String,java.lang.String,com.sun.syndication.feed.synd.SyndFeed,boolean,boolean,boolean,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	4

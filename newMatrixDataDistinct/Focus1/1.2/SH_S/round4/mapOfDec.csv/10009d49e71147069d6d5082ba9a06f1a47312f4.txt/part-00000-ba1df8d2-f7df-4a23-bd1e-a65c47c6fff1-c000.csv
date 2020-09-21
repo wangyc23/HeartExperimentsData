@@ -1,0 +1,5 @@
+org/apache/kafka/connect/socket/SocketSourceTaskTest/testWithDisconnection()@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	0
+org/apache/kafka/connect/socket/SocketSourceTaskTest/testMoreThanBatchSize()@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	2
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/incrementCounter(com.lucidworks.pig.FusionIndexPipelineStoreFunc.Counters,long)@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	4
+org/apache/kafka/connect/socket/SocketSourceTaskTest/testMultipleProducers()@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	3
+org/apache/kafka/connect/socket/SocketSourceTaskTest/testLessThanBatchSize()@25ce316e79b9f230d49ba99f0ad1e7e2cb360b27.txt	1

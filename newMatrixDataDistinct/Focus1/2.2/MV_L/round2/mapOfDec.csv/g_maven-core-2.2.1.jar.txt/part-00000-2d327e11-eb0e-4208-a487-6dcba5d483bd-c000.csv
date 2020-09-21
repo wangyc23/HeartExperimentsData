@@ -1,0 +1,5 @@
+org/apache/maven/cli/MavenCli/main(java.lang.String[],org.codehaus.classworlds.ClassWorld)@g_maven-core-2.0.9.jar.txt	4
+org/apache/maven/execution/DefaultRuntimeInformation/initialize()@g_maven-core-2.0.9.jar.txt	1
+org/apache/maven/cli/MavenCli/showVersion()@g_maven-core-2.0.9.jar.txt	0
+org/apache/maven/execution/DefaultRuntimeInformation/initialize()@g_maven-core-2.0.8.jar.txt	3
+org/apache/maven/cli/MavenCli/showVersion()@g_maven-core-2.0.8.jar.txt	2

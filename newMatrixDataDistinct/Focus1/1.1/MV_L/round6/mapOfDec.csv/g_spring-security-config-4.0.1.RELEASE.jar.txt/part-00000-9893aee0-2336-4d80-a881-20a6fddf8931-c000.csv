@@ -1,0 +1,5 @@
+org/springframework/security/config/http/AuthenticationConfigBuilder/createOpenIDProvider()@g_spring-security-config-4.1.0.RELEASE.jar.txt	3
+org/springframework/security/config/http/FilterInvocationSecurityMetadataSourceParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.1.0.RELEASE.jar.txt	0
+org/springframework/security/config/http/HttpSecurityBeanDefinitionParser/createSecurityFilterChainBean(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext,java.util.List)@g_spring-security-config-4.1.0.RELEASE.jar.txt	2
+org/springframework/security/config/http/AuthenticationConfigBuilder/createRememberMeProvider(java.lang.String)@g_spring-security-config-4.1.0.RELEASE.jar.txt	4
+org/springframework/security/config/http/HeadersBeanDefinitionParser/addHpkp(boolean,org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.1.0.RELEASE.jar.txt	1

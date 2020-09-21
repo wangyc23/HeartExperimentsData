@@ -1,0 +1,5 @@
+info/dmtree/security/DmtPrincipalPermissionCollection/add(java.security.Permission)@g_powermock-reflect-1.5.1.jar.txt	3
+org/powermock/reflect/internal/WhiteboxImpl/throwExceptionWhenMultipleMethodMatchesFound(java.lang.String,java.lang.reflect.Method[])@g_powermock-reflect-1.5.1.jar.txt	1
+info/dmtree/Uri/toPath(java.lang.String)@g_powermock-reflect-1.5.1.jar.txt	2
+org/osgi/service/monitor/MonitorPermission/checkId(java.lang.String,java.lang.String)@g_powermock-reflect-1.5.1.jar.txt	4
+info/dmtree/Uri/toPath(java.lang.String)@g_org.osgi.compendium-4.2.0.jar.txt	0

@@ -1,0 +1,5 @@
+au/com/ibm/bluecoin/dao/relational/AbstractDao/findOne(B)@1ef5eb3a17a61fa2d4fb53586fb27efdf0312eb1.txt	3
+org/ng12306/web/system/service/task/TaskService/getTask(java.lang.Long)@2c6319b400f75c0cf3a892a13d8c0ba6593f5c1b.txt	0
+au/com/ibm/bluecoin/scaffold/AbstractService/getById(B)@1ef5eb3a17a61fa2d4fb53586fb27efdf0312eb1.txt	4
+au/com/ibm/bluecoin/service/impl/UserSvc/getById(java.lang.String)@1ef5eb3a17a61fa2d4fb53586fb27efdf0312eb1.txt	2
+org/ng12306/web/system/service/account/AccountService/getUser(java.lang.Long)@2c6319b400f75c0cf3a892a13d8c0ba6593f5c1b.txt	1

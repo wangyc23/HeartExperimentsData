@@ -1,0 +1,4 @@
+java/nio/channels/SeekableByteChannel/position()
+net/java/truecommons/io/MutableBuffer/limit(int)
+java/nio/channels/SeekableByteChannel/position(long)
+net/java/truecommons/io/MutableBuffer/getUInt()

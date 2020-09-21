@@ -1,0 +1,5 @@
+se/sics/kompics/JavaPort/doSubscribe(se.sics.kompics.MatchedHandler)@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	2
+se/sics/kompics/JavaPort/removeChannelTo(se.sics.kompics.PortCore)@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	4
+se/sics/kompics/JavaPort/deliver(se.sics.kompics.KompicsEvent,int)@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	1
+se/sics/kompics/JavaPort/doUnsubscribe(se.sics.kompics.Handler)@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	0
+se/sics/kompics/JavaComponent/getNegative(java.lang.Class)@058f1ccd50bbc06b8644dab4edd30e388848d29a.txt	3

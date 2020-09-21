@@ -1,0 +1,4 @@
+org/soitoolkit/commons/mule/log/JaxbPayload/getId()
+org/soitoolkit/commons/mule/log/JaxbPayload/JaxbPayload()
+org/soitoolkit/commons/mule/log/JaxbPayload/setId(java.lang.String)
+java/lang/RuntimeException/RuntimeException(java.lang.String)

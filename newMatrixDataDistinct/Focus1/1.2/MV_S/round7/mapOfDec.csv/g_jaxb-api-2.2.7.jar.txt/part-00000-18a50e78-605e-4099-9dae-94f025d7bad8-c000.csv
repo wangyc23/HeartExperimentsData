@@ -1,0 +1,5 @@
+org/apache/maven/shared/dependency/analyzer/ClassFileVisitorUtils/accept(java.net.URL,org.apache.maven.shared.dependency.analyzer.ClassFileVisitor)@g_maven-dependency-analyzer-1.4.jar.txt	4
+org/apache/maven/it/util/ResourceExtractor/extractResourcePath(java.lang.Class,java.lang.String,java.io.File,boolean)@g_maven-verifier-1.2.jar.txt	0
+org/apache/maven/it/Verifier/runCommandLine(org.apache.maven.it.util.cli.Commandline,java.io.File)@g_maven-verifier-1.2.jar.txt	2
+org/apache/maven/it/util/ResourceExtractor/getJarFileFromUrl(java.net.URL)@g_maven-verifier-1.2.jar.txt	1
+org/apache/maven/shared/dependency/analyzer/ProjectDependencyAnalysis/forceDeclaredDependenciesUsage(java.lang.String[])@g_maven-dependency-analyzer-1.4.jar.txt	3

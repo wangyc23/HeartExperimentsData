@@ -1,0 +1,4 @@
+java/lang/String/regionMatches(boolean,int,java.lang.String,int,int)
+java/net/URL/openStream()
+java/io/File/File(java.lang.String)
+java/lang/StringBuffer/toString()

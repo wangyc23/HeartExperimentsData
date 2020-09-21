@@ -1,0 +1,5 @@
+org/xwiki/webjars/internal/WebJarsResourceReferenceHandler/evaluate(java.lang.String,java.io.InputStream)@g_xwiki-platform-webjars-7.0.jar.txt	0
+org/xwiki/webjars/script/WebJarsScriptService/url(java.lang.String,java.lang.String,java.util.Map)@g_xwiki-platform-webjars-7.0.jar.txt	4
+org/xwiki/webjars/internal/WebJarsExportURLFactoryActionHandler/copyResourceFromJAR(java.lang.String,java.lang.String,com.xpn.xwiki.web.ExportURLFactoryContext)@g_xwiki-platform-webjars-7.0.jar.txt	3
+org/xwiki/vfs/internal/AbstractContentResourceReferenceHandler/serveResource(java.lang.String,java.io.InputStream)@g_xwiki-platform-vfs-api-7.4.2.jar.txt	2
+org/xwiki/webjars/internal/WebJarsResourceReferenceHandler/serveResource(org.xwiki.resource.ResourceReference,java.io.InputStream)@g_xwiki-platform-webjars-7.0.jar.txt	1

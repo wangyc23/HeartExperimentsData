@@ -1,0 +1,5 @@
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/addServletWithExistingRegistration(javax.servlet.ServletContext,javax.servlet.ServletRegistration,java.lang.Class,java.util.Set)@g_jersey-container-servlet-2.25.1.jar.txt	0
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/addServletWithDefaultConfiguration(javax.servlet.ServletContext,java.util.Set)@g_jersey-servlet-1.13.jar.txt	4
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/addServletWithExistingRegistration(javax.servlet.ServletContext,javax.servlet.ServletRegistration,java.lang.Class,java.util.Set)@g_jersey-servlet-1.13.jar.txt	1
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/addServletWithApplication(javax.servlet.ServletContext,java.lang.Class,java.util.Set)@g_jersey-container-servlet-2.25.1.jar.txt	3
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/addServletWithDefaultConfiguration(javax.servlet.ServletContext,java.util.Set)@g_jersey-container-servlet-2.25.1.jar.txt	2

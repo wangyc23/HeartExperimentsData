@@ -1,0 +1,5 @@
+0	java/util/Collections/unmodifiableSet(java.util.Set)
+1	java/util/Arrays/asList(T[])
+2	org/apache/deltaspike/core/api/exception/control/event/ExceptionToCatchEvent/ExceptionToCatchEvent(java.lang.Throwable)
+3	org/jboss/weld/resolution/AssignabilityRules/matches(java.lang.reflect.Type,java.lang.reflect.Type)
+4	org/jboss/weld/tests/unit/reflection/util/EventTypeAssignabilityTest/getRules()

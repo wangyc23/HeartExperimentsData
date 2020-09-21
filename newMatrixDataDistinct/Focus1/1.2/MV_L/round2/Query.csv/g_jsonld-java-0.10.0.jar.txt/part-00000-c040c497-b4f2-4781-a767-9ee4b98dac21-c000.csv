@@ -1,0 +1,4 @@
+java/net/URL/openConnection()
+org/apache/commons/io/IOUtils/copy(java.io.InputStream,java.io.Writer,java.nio.charset.Charset)
+java/io/StringWriter/flush()
+java/io/StringReader/StringReader(java.lang.String)

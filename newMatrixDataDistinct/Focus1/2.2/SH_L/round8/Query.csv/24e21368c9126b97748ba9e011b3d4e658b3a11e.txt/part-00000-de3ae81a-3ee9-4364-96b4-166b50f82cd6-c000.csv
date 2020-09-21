@@ -1,0 +1,4 @@
+java/io/File/File(java.lang.String)
+org/apache/commons/collections/bidimap/AbstractDualBidiMap/keySet()
+java/io/File/delete()
+org/apache/commons/collections/bidimap/AbstractDualBidiMap/isEmpty()

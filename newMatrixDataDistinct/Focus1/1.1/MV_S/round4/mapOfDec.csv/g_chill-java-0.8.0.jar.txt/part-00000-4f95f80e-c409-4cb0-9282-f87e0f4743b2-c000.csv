@@ -1,0 +1,5 @@
+net/iharder/Base64/encodeBytesToBytes(byte[],int,int,int)@g_base64-2.3.8.jar.txt	0
+com/twitter/chill/Base64/encodeObject(java.io.Serializable,int)@g_base64-2.3.8.jar.txt	4
+com/twitter/chill/config/ReflectingInstantiator/buildRegistrars(java.lang.String,boolean)@g_base64-2.3.8.jar.txt	3
+com/twitter/chill/Base64/decode(byte[],int,int,int)@g_base64-2.3.8.jar.txt	2
+net/iharder/Base64/decodeFromFile(java.lang.String)@g_base64-2.3.8.jar.txt	1

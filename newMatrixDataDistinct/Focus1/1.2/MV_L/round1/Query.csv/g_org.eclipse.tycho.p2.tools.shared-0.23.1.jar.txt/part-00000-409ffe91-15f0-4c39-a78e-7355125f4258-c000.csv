@@ -1,0 +1,4 @@
+org/eclipse/tycho/p2/tools/director/shared/AbstractDirectorApplicationCommand$CommandLineArguments/addUnlessEmpty(java.lang.String,org.eclipse.tycho.p2.tools.director.shared.AbstractDirectorApplicationCommand$StringList)
+org/eclipse/tycho/core/shared/TargetEnvironment/getArch()
+java/lang/String/valueOf(boolean)
+org/eclipse/tycho/p2/tools/director/shared/AbstractDirectorApplicationCommand$CommandLineArguments/add(java.lang.String,java.lang.String)

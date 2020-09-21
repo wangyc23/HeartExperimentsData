@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/logging/Log/isDebugEnabled()
+java/lang/ClassLoader/loadClass(java.lang.String)
+java/lang/Class/getName()

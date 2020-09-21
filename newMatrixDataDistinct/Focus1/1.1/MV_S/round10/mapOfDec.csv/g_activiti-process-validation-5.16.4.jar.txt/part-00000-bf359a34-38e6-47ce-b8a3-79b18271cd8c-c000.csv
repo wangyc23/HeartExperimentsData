@@ -1,0 +1,5 @@
+org/activiti/engine/impl/javax/el/MapELResolver/1/next()@g_activiti-bpmn-converter-5.17.0.jar.txt	4
+org/activiti/bpmn/converter/BoundaryEventXMLConverter/convertXMLToElement(javax.xml.stream.XMLStreamReader,org.activiti.bpmn.model.BpmnModel)@g_activiti-bpmn-converter-5.17.0.jar.txt	2
+org/activiti/engine/impl/db/DbSchemaExport/main(java.lang.String[])@g_activiti-bpmn-converter-5.17.0.jar.txt	1
+org/activiti/engine/impl/bpmn/parser/handler/AbstractActivityBpmnParseHandler/createMultiInstanceLoopCharacteristics(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.Activity)@g_activiti-bpmn-converter-5.17.0.jar.txt	0
+org/activiti/engine/impl/pvm/runtime/ExecutionImpl/takeAll(java.util.List,java.util.List)@g_activiti-bpmn-converter-5.17.0.jar.txt	3

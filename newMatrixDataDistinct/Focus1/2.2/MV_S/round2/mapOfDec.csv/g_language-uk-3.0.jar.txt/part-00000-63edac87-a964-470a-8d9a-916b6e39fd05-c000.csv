@@ -1,0 +1,5 @@
+org/languagetool/synthesis/ca/CatalanSynthesizer/lookupWithEl(java.lang.String,java.lang.String,java.lang.String,java.util.List,morfologik.stemming.IStemmer)@g_language-ca-3.0.jar.txt	0
+org/languagetool/rules/ca/ComplexAdjectiveConcordanceRule/match(org.languagetool.AnalyzedSentence)@g_language-ca-3.0.jar.txt	1
+org/languagetool/rules/ca/MorfologikCatalanSpellerRule/findSuggestion(java.lang.String,java.lang.String,java.util.regex.Pattern,java.util.regex.Pattern,int,java.lang.String)@g_language-ca-3.0.jar.txt	3
+org/languagetool/rules/ca/AccentuationCheckRule/match(org.languagetool.AnalyzedSentence)@g_language-ca-3.0.jar.txt	2
+org/languagetool/rules/ca/SimpleReplaceVerbsRule/match(org.languagetool.AnalyzedSentence)@g_language-ca-3.0.jar.txt	4

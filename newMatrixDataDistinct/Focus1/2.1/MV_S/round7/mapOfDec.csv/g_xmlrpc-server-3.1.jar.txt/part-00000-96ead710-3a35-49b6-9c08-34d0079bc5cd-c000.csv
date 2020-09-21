@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/StringUtils/splitWorker(java.lang.String,java.lang.String,int,boolean)@g_xmlrpc-client-3.1.jar.txt	2
+org/apache/xmlrpc/client/XmlRpcLiteHttpTransport/getInputStream()@g_xmlrpc-client-3.1.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/velocity/convert/WebMacro/convert(java.lang.String)@g_xmlrpc-client-3.1.jar.txt	4
+org/carrot2/util/attribute/AttributeDescriptor/prepareForSerialization()@g_xmlrpc-client-3.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_xmlrpc-client-3.1.jar.txt	1

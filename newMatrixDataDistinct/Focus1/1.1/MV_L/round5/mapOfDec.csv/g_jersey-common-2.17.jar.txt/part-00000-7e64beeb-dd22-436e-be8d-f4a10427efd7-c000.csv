@@ -1,0 +1,5 @@
+org/glassfish/jersey/message/internal/AbstractCollectionJaxbProvider/verifyCollectionSubclass(java.lang.Class)@g_jersey-common-2.7.jar.txt	4
+org/glassfish/jersey/internal/util/collection/DataStructures/<clinit>()@g_jersey-common-2.7.jar.txt	1
+org/glassfish/jersey/internal/ServiceFinder/LazyObjectIterator/next()@g_jersey-common-2.7.jar.txt	0
+org/glassfish/jersey/message/internal/ReaderInterceptorExecutor/TerminalReaderInterceptor/aroundReadFrom(javax.ws.rs.ext.ReaderInterceptorContext)@g_jersey-common-2.7.jar.txt	2
+org/glassfish/jersey/internal/util/collection/MultivaluedStringMap/getFirst(java.lang.String,java.lang.Object)@g_jersey-common-2.7.jar.txt	3

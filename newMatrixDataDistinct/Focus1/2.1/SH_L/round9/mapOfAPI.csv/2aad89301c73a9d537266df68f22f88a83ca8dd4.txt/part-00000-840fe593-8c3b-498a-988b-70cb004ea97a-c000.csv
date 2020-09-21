@@ -1,0 +1,3 @@
+0	org/apache/mina/generated/thrift/UserProfile/equals(org.apache.mina.generated.thrift.UserProfile)
+1	org/apache/mina/generated/thrift/UserStorage/retrieve_result/isSetSuccess()
+2	org/trustedanalytics/atk/engine/frame/plugins/load/TextPlugin/MultiLineTaggedInputFormat/TaggedRecordReader/NestedMatchFinder/checkComments(int[],int[],int)

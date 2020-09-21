@@ -1,0 +1,5 @@
+org/apache/poi/xssf/streaming/SXSSFWorkbook/write(java.io.OutputStream)@g_poi-scratchpad-3.8-beta4.jar.txt	4
+org/apache/poi/xwpf/usermodel/XWPFRun/getCTPictures(org.apache.xmlbeans.XmlObject)@g_poi-scratchpad-3.8-beta4.jar.txt	1
+org/apache/poi/xssf/model/StylesTable/createCellStyle()@g_poi-scratchpad-3.8-beta4.jar.txt	3
+org/apache/poi/hsmf/datatypes/StringChunk/storeString()@g_poi-scratchpad-3.8-beta4.jar.txt	0
+org/apache/poi/hwpf/converter/WordToHtmlConverter/main(java.lang.String[])@g_poi-scratchpad-3.8-beta4.jar.txt	2

@@ -1,0 +1,4 @@
+java/lang/System/getProperty(java.lang.String,java.lang.String)
+java/io/PrintStream/flush()
+java/lang/String/length()
+java/lang/String/String(byte[],int,int)

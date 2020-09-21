@@ -1,0 +1,5 @@
+org/apache/fop/area/RenderPagesModel/addPage(org.apache.fop.area.PageViewport)@g_fop-2.0.jar.txt	1
+org/apache/fop/layoutmgr/AbstractBreaker/doLayout(int,boolean)@g_fop-2.0.jar.txt	0
+org/apache/fop/fonts/truetype/OTFSubSetFile/createCharStringDataCID()@g_fop-2.0.jar.txt	4
+org/apache/fop/layoutmgr/PageBreaker/handleFloatLayout(org.apache.fop.layoutmgr.PageBreakingAlgorithm,int,org.apache.fop.layoutmgr.AbstractBreaker$BlockSequence,org.apache.fop.layoutmgr.LayoutContext)@g_fop-2.0.jar.txt	3
+org/apache/fop/render/pcl/PCLGraphics2D/applyStroke(java.awt.Stroke)@g_fop-2.0.jar.txt	2

@@ -1,0 +1,4 @@
+java/lang/Class/getComponentType()
+java/lang/StringBuffer/append(char)
+java/util/Map/get(java.lang.Object)
+java/lang/StringBuffer/append(java.lang.Object)

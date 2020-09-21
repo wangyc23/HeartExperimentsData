@@ -1,0 +1,5 @@
+org/apache/maven/settings/io/xpp3/SettingsXpp3Reader/read(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-registry-2.2.1.jar.txt	4
+org/apache/maven/plugin/registry/io/xpp3/PluginRegistryXpp3Reader/parsePluginRegistry(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-registry-2.2.1.jar.txt	1
+org/apache/maven/usability/plugin/io/xpp3/ParamdocXpp3Reader/parseExpressionDocumentation(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-parameter-documenter-2.2.1.jar.txt	2
+org/apache/maven/usability/plugin/io/xpp3/ParamdocXpp3Reader/parseExpression(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-parameter-documenter-2.2.1.jar.txt	3
+org/apache/maven/plugin/registry/io/xpp3/PluginRegistryXpp3Reader/parsePlugin(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-registry-2.2.1.jar.txt	0

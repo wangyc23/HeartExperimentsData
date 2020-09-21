@@ -1,0 +1,6 @@
+0	org/sindice/siren/analysis/SirenNumericTokenStream/SirenNumericTokenStream(int)
+1	org/apache/lucene/util/AttributeSource/restoreState(org.apache.lucene.util.AttributeSource.State)
+2	org/apache/lucene/analysis/ko/KoreanToken/KoreanToken(java.lang.String,int,int)
+3	java/lang/RuntimeException/RuntimeException(java.lang.Throwable)
+4	org/apache/lucene/analysis/ko/HanjaMappingFilter/isHanja(char)
+5	org/sindice/siren/analysis/NumericAnalyzer/setNumericValue(org.sindice.siren.analysis.SirenNumericTokenStream,java.io.Reader)

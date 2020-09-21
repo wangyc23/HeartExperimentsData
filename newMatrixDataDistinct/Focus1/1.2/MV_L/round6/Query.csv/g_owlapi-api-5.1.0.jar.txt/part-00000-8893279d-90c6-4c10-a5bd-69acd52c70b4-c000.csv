@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/model/OWLOntologySetProvider/ontologies()
+java/util/Iterator/hasNext()
+org/semanticweb/owlapi/model/OWLOntology/dataPropertyAssertionAxioms(org.semanticweb.owlapi.model.OWLIndividual)
+org/semanticweb/owlapi/model/OWLObjectPropertyAssertionAxiom/getProperty()

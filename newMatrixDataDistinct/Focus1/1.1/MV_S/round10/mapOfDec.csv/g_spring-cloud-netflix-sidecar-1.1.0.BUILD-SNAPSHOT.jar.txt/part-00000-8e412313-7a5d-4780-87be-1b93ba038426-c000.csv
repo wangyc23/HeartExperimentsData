@@ -1,0 +1,5 @@
+org/springframework/security/crypto/codec/Base64/decode(byte[],int,int,int)@g_spring-cloud-netflix-sidecar-1.1.0.BUILD-20151113.120132-163.jar.txt	1
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	4
+org/springframework/security/crypto/bcrypt/BCrypt/hashpw(java.lang.String,java.lang.String)@g_spring-cloud-netflix-sidecar-1.1.0.BUILD-20151113.120132-163.jar.txt	2
+org/springframework/security/crypto/codec/Base64/encodeBytesToBytes(byte[],int,int,int)@g_spring-cloud-netflix-sidecar-1.1.0.BUILD-20151113.120132-163.jar.txt	0
+org/springframework/cloud/netflix/sidecar/SidecarConfiguration/EurekaInstanceConfigBeanConfiguration/eurekaInstanceConfigBean()@g_spring-cloud-netflix-sidecar-1.1.0.BUILD-20151113.120132-163.jar.txt	3

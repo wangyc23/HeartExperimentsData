@@ -1,0 +1,4 @@
+org/neo4j/graphdb/DependencyResolver/resolveDependency(java.lang.Class)
+java/util/Iterator/remove()
+org/neo4j/kernel/impl/index/ReadOnlyIndexConnectionBroker/ReadOnlyIndexConnectionBroker(javax.transaction.TransactionManager)
+org/neo4j/kernel/impl/transaction/XaDataSourceManager/registerDataSource(org.neo4j.kernel.impl.transaction.xaframework.XaDataSource)

@@ -1,0 +1,5 @@
+com/ctc/wstx/evt/MergedNsContext/doGetPrefixes(java.lang.String)@g_wstx-asl-3.2.6.jar.txt	3
+com/ctc/wstx/io/CharsetNames/normalize(java.lang.String)@g_wstx-asl-3.2.7.jar.txt	1
+com/ctc/wstx/io/StreamBootstrapper/bootstrapInput(com.ctc.wstx.api.ReaderConfig,boolean,int)@g_wstx-asl-3.2.6.jar.txt	4
+com/ctc/wstx/dtd/DTDValidator/validateAttribute(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_wstx-asl-3.2.6.jar.txt	2
+com/ctc/wstx/io/CharsetNames/normalize(java.lang.String)@g_wstx-asl-3.2.6.jar.txt	0

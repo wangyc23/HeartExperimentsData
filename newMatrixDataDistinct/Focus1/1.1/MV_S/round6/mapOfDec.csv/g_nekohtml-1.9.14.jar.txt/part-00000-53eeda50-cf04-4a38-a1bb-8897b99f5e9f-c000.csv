@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Checksum/validateAndExecute()@g_boilerpipe-1.1.0.jar.txt	0
+org/apache/tools/ant/types/selectors/SizeSelector/setParameters(org.apache.tools.ant.types.Parameter[])@g_boilerpipe-1.1.0.jar.txt	4
+org/apache/tools/ant/taskdefs/Copydir/execute()@g_boilerpipe-1.1.0.jar.txt	1
+org/apache/tools/ant/taskdefs/BuildNumber/loadProperties()@g_boilerpipe-1.1.0.jar.txt	2
+org/apache/tools/ant/taskdefs/Zip/zipFile(java.io.InputStream,org.apache.tools.zip.ZipOutputStream,java.lang.String,long,java.io.File,int)@g_boilerpipe-1.1.0.jar.txt	3

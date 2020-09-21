@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XWikiImageTagHandler/end(org.xwiki.rendering.wikimodel.xhtml.impl.TagContext)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	4
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XWikiHeaderTagHandler/begin(org.xwiki.rendering.wikimodel.xhtml.impl.TagContext)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	3
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XWikiReferenceTagHandler/begin(org.xwiki.rendering.wikimodel.xhtml.impl.TagContext)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	0
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XWikiReferenceTagHandler/end(org.xwiki.rendering.wikimodel.xhtml.impl.TagContext)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	1
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XWikiTableDataTagHandler/begin(org.xwiki.rendering.wikimodel.xhtml.impl.TagContext)@g_xwiki-rendering-syntax-xhtml-7.4.2.jar.txt	2

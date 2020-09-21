@@ -1,0 +1,4 @@
+javax/xml/xpath/XPathExpression/evaluate(org.xml.sax.InputSource,javax.xml.namespace.QName)
+java/lang/String/length()
+java/lang/Throwable/getMessage()
+java/lang/String/equals(java.lang.Object)

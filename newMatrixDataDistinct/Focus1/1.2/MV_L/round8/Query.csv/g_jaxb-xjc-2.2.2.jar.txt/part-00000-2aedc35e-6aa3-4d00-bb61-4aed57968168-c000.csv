@@ -1,0 +1,4 @@
+java/io/Reader/read()
+java/net/URL/openStream()
+java/lang/StringBuffer/append(char)
+java/lang/StringBuffer/length()

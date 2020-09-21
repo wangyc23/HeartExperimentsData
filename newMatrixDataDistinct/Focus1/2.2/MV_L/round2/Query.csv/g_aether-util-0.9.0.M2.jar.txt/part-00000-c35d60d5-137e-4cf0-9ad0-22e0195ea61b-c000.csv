@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+org/eclipse/aether/repository/RemoteRepository/getHost()
+org/eclipse/aether/repository/RemoteRepository/getProtocol()

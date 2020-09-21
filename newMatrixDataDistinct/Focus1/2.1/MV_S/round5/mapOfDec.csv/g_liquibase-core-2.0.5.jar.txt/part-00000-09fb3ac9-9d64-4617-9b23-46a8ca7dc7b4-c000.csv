@@ -1,0 +1,5 @@
+com/mysql/jdbc/jdbc2/optional/WrapperBase/ConnectionErrorFiringInvocationHandler/proxyIfInterfaceIsJdbc(java.lang.Object,java.lang.Class)@g_postgresql-9.3-1102-jdbc41.jar.txt	4
+com/mysql/jdbc/jdbc2/optional/MysqlDataSource/getReference()@g_postgresql-9.3-1102-jdbc41.jar.txt	3
+com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_postgresql-9.3-1102-jdbc41.jar.txt	0
+com/mysql/jdbc/MysqlDefs/appendJdbcTypeMappingQuery(java.lang.StringBuffer,java.lang.String)@g_postgresql-9.3-1102-jdbc41.jar.txt	2
+liquibase/servicelocator/DefaultPackageScanClassResolver/loadImplementationsInJar(liquibase.servicelocator.PackageScanFilter,java.lang.String,java.io.InputStream,java.lang.String,java.util.Set)@g_postgresql-9.3-1102-jdbc41.jar.txt	1

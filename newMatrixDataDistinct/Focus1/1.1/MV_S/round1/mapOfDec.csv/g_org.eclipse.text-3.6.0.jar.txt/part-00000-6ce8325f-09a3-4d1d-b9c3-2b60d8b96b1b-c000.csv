@@ -1,0 +1,5 @@
+org/eclipse/text/undo/DocumentUndoManager/UndoableTextChange/toString()@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	2
+org/eclipse/jface/text/TextUtilities/mergeUnprocessedDocumentEvents(org.eclipse.jface.text.IDocument,java.util.List)@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	4
+org/eclipse/jface/text/source/AnnotationModel/getAnnotationIterator(boolean,boolean)@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	0
+org/xwiki/rendering/internal/renderer/xwiki20/XWikiSyntaxChainingRenderer/printParameters(java.util.Map,boolean)@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	3
+org/eclipse/jface/text/templates/TemplateTranslator/parse(java.lang.String)@g_xwiki-rendering-syntax-xwiki20-7.4.jar.txt	1

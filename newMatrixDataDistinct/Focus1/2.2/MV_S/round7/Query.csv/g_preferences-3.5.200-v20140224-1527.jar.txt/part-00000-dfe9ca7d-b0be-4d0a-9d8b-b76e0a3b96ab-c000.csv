@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+org/osgi/util/tracker/ServiceTracker/open()
+java/lang/Throwable/getMessage()
+org/osgi/util/tracker/ServiceTracker/open(boolean)

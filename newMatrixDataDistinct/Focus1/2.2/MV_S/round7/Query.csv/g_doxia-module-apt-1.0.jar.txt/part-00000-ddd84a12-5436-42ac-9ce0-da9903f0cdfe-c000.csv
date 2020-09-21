@@ -1,0 +1,4 @@
+org/apache/maven/doxia/sink/Sink/tableHeaderCell_()
+org/apache/maven/doxia/sink/Sink/tableCell()
+org/apache/maven/doxia/sink/Sink/tableCell_()
+java/lang/StringBuffer/toString()

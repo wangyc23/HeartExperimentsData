@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+java/util/zip/Deflater/finish()
+java/nio/ByteBuffer/clear()
+java/nio/ByteBuffer/order(java.nio.ByteOrder)

@@ -1,0 +1,4 @@
+org/neo4j/kernel/api/impl/labelscan/storestrategy/BitmapDocumentFormat/readBitmap(org.apache.lucene.index.IndexableField)
+org/neo4j/kernel/api/impl/labelscan/storestrategy/BitmapDocumentFormat/isRangeField(org.apache.lucene.index.IndexableField)
+java/util/Arrays/copyOf(java.lang.Object[],int)
+org/neo4j/kernel/api/impl/labelscan/storestrategy/BitmapDocumentFormat/labelId(org.apache.lucene.index.IndexableField)

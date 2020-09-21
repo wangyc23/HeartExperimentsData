@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/languagetool/Language/getTagger()
+java/util/List/size()
+org/languagetool/tagging/Tagger/tag(java.util.List)

@@ -1,0 +1,4 @@
+org/apache/aries/blueprint/itests/TestConfigAdmin/startTestBundle()
+org/apache/aries/blueprint/itests/TestConfigAdmin/getConfig1()
+org/apache/aries/itest/AbstractIntegrationTest/context()
+java/lang/Class/getName()

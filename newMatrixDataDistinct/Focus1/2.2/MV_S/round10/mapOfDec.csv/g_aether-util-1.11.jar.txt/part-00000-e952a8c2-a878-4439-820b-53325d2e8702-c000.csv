@@ -1,0 +1,5 @@
+org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver/GraphLogger/visitEnter(org.sonatype.aether.graph.DependencyNode)@g_maven-core-3.0.jar.txt	0
+org/apache/maven/plugin/internal/PlexusUtilsInjector/findPlexusUtils(org.sonatype.aether.graph.DependencyNode)@g_maven-core-3.0.jar.txt	3
+org/apache/maven/project/DefaultProjectDependenciesResolver/resolve(org.apache.maven.project.DependencyResolutionRequest)@g_maven-core-3.0.jar.txt	1
+org/apache/maven/project/DefaultProjectDependenciesResolver/GraphLogger/visitEnter(org.sonatype.aether.graph.DependencyNode)@g_maven-core-3.0.jar.txt	2
+org/apache/maven/lifecycle/internal/LifecycleDependencyResolver/areAllDependenciesInReactor(java.util.Collection,java.util.Collection)@g_maven-core-3.0.jar.txt	4

@@ -1,0 +1,4 @@
+org/xwiki/filter/xff/input/XFFInputProperties/getSource()
+java/io/File/isDirectory()
+java/nio/file/Path/toString()
+java/nio/file/Path/getNameCount()

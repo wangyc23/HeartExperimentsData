@@ -1,0 +1,4 @@
+0	java/util/Calendar/getInstance()
+1	java/util/Properties/Properties()
+2	java/util/Calendar/getTime()
+3	org/javaee7/javamail/definition/Credentials/getTo()

@@ -1,0 +1,5 @@
+org/apache/hadoop/ipc/Server/Listener/Reader/doRunLoop()@g_hadoop-common-2.6.5.jar.txt	2
+org/apache/hadoop/ipc/ProtobufRpcEngine/Invoker/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_hadoop-common-2.6.5.jar.txt	4
+org/apache/hadoop/ipc/Server/Listener/doRead(java.nio.channels.SelectionKey)@g_hadoop-common-2.6.5.jar.txt	3
+org/apache/hadoop/net/SocketIOWithTimeout/SelectorPool/select(java.nio.channels.SelectableChannel,int,long)@g_hadoop-common-2.6.5.jar.txt	0
+org/apache/hadoop/ipc/Server/Handler/run()@g_hadoop-common-2.6.5.jar.txt	1

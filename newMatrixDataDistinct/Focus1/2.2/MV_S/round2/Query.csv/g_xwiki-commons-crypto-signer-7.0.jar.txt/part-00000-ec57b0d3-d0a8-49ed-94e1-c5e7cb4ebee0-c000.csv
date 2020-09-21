@@ -1,0 +1,4 @@
+org/xwiki/crypto/internal/digest/factory/BcDigestFactory/getDigestInstance()
+java/lang/Class/getName()
+java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)
+org/bouncycastle/crypto/signers/PSSSigner/PSSSigner(org.bouncycastle.crypto.AsymmetricBlockCipher,org.bouncycastle.crypto.Digest,org.bouncycastle.crypto.Digest,int,byte)

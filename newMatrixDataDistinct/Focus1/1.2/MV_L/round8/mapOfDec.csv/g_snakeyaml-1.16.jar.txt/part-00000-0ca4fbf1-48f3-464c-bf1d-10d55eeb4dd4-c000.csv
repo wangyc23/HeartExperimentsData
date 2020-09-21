@@ -1,0 +1,5 @@
+org/yaml/snakeyaml/scanner/ScannerImpl/fetchMoreTokens()@g_snakeyaml-1.17.jar.txt	3
+org/yaml/snakeyaml/emitter/Emitter/prepareTag(java.lang.String)@g_snakeyaml-1.17.jar.txt	0
+org/yaml/snakeyaml/emitter/Emitter/prepareTag(java.lang.String)@g_snakeyaml-1.9.jar.txt	1
+org/yaml/snakeyaml/parser/ParserImpl/processDirectives()@g_snakeyaml-1.9.jar.txt	4
+org/yaml/snakeyaml/parser/ParserImpl/processDirectives()@g_snakeyaml-1.17.jar.txt	2

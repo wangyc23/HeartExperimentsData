@@ -1,0 +1,5 @@
+org/apache/tools/tar/TarOutputStream/writePaxHeaders(org.apache.tools.tar.TarEntry,java.lang.String,java.util.Map)@g_ant-1.10.1.jar.txt	1
+org/apache/tools/ant/ComponentHelper/getRestrictedDefinition()@g_ant-1.10.1.jar.txt	3
+org/apache/tools/ant/taskdefs/Checksum/generateChecksums()@g_ant-1.10.1.jar.txt	2
+org/apache/tools/ant/types/PropertySet/toString()@g_ant-1.10.1.jar.txt	4
+org/apache/tools/ant/attribute/BaseIfAttribute/getParams(org.apache.tools.ant.UnknownElement)@g_ant-1.10.1.jar.txt	0

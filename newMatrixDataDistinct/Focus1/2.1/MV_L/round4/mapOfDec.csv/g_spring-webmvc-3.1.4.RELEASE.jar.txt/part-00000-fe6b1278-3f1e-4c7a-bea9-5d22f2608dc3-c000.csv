@@ -1,0 +1,5 @@
+org/springframework/web/servlet/DispatcherServlet/restoreAttributesAfterInclude(javax.servlet.http.HttpServletRequest,java.util.Map)@g_spring-webmvc-3.2.2.RELEASE.jar.txt	4
+org/springframework/web/servlet/i18n/CookieLocaleResolver/resolveLocale(javax.servlet.http.HttpServletRequest)@g_spring-webmvc-3.2.2.RELEASE.jar.txt	3
+org/springframework/web/servlet/mvc/multiaction/MultiActionController/getExceptionHandler(java.lang.Throwable)@g_spring-webmvc-3.2.2.RELEASE.jar.txt	0
+org/springframework/web/servlet/view/xslt/XsltView/getStylesheetSource()@g_spring-webmvc-3.2.2.RELEASE.jar.txt	1
+org/springframework/web/servlet/view/xslt/AbstractXsltView/getStylesheetSource(org.springframework.core.io.Resource)@g_spring-webmvc-3.2.2.RELEASE.jar.txt	2

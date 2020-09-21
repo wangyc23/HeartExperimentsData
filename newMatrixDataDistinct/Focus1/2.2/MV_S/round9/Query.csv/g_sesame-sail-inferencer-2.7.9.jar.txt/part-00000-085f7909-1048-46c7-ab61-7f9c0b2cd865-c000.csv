@@ -1,0 +1,4 @@
+java/util/HashSet/HashSet(int)
+org/openrdf/rio/RDFHandlerException/getCause()
+org/openrdf/model/Statement/getPredicate()
+org/openrdf/sail/inferencer/fc/CustomGraphQueryInferencer$Connection/addInferredStatement(org.openrdf.model.Resource,org.openrdf.model.URI,org.openrdf.model.Value,org.openrdf.model.Resource[])

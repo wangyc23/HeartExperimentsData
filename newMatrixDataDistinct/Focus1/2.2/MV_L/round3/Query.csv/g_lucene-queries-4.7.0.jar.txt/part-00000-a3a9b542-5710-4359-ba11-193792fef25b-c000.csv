@@ -1,0 +1,4 @@
+org/apache/lucene/index/AtomicReader/fields()
+org/apache/lucene/index/Terms/iterator(org.apache.lucene.index.TermsEnum)
+org/apache/lucene/index/DocsEnum/docID()
+org/apache/lucene/index/TermsEnum/docs(org.apache.lucene.util.Bits,org.apache.lucene.index.DocsEnum,int)

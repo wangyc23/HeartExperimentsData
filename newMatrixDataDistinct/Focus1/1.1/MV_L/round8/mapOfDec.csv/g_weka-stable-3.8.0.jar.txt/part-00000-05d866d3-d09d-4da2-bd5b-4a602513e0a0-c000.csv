@@ -1,0 +1,5 @@
+weka/classifiers/lazy/IBk/crossValidate()@g_weka-dev-3.9.1.jar.txt	3
+weka/core/pmml/Discretize/toString(java.lang.String)@g_weka-dev-3.9.1.jar.txt	4
+weka/core/converters/TextDirectoryLoader/getNextInstance(weka.core.Instances)@g_weka-dev-3.9.1.jar.txt	2
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_weka-dev-3.9.1.jar.txt	0
+weka/datagenerators/classifiers/classification/RDG1/RuleList/toString()@g_weka-dev-3.9.1.jar.txt	1

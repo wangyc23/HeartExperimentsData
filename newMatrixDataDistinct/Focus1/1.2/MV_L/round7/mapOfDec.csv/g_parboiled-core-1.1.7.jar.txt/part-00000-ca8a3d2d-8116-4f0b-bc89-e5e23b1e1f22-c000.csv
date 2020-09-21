@@ -1,0 +1,5 @@
+com/github/jsonldjava/core/JsonLdUtils/expandLanguageMap(java.util.Map)@g_jsonld-java-0.9.0.jar.txt	0
+com/github/jsonldjava/core/RDFDatasetUtils/toNQuads(com.github.jsonldjava.core.RDFDataset,java.lang.StringBuilder)@g_jsonld-java-0.9.0.jar.txt	4
+com/github/jsonldjava/core/RDFDataset/graphToRDF(java.lang.String,java.util.Map)@g_jsonld-java-0.9.0.jar.txt	1
+com/github/jsonldjava/core/JsonLdProcessor/flatten(java.lang.Object,java.lang.Object,com.github.jsonldjava.core.JsonLdOptions)@g_jsonld-java-0.9.0.jar.txt	3
+com/github/jsonldjava/core/JsonLdApi/generateNodeMap(java.lang.Object,java.util.Map,java.lang.String,java.lang.Object,java.lang.String,java.util.Map)@g_jsonld-java-0.9.0.jar.txt	2

@@ -1,0 +1,4 @@
+0	org/jgraph/graph/GraphConstants/setLineEnd(java.util.Map,int)
+1	org/jgraph/graph/GraphConstants/setEndFill(java.util.Map,boolean)
+2	java/awt/Font/deriveFont(int,float)
+3	org/jgraph/graph/GraphConstants/setEndSize(java.util.Map,int)

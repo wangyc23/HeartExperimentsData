@@ -1,0 +1,4 @@
+uk/ac/ic/wlgitbridge/application/GitBridgeApp/run()
+java/io/File/toPath()
+java/lang/Runtime/exec(java.lang.String,java.lang.String[],java.io.File)
+uk/ac/ic/wlgitbridge/snapshot/servermock/util/FileUtil/gitDirectoriesAreEqual(java.nio.file.Path,java.nio.file.Path)

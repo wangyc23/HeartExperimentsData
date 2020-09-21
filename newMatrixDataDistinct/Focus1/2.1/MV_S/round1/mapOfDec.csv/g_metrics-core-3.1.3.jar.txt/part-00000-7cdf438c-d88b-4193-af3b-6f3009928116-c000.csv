@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/metrics/TreeSpanScoring/simplifyConstituents(edu.stanford.nlp.trees.TreebankLanguagePack,java.util.Set)@g_jgroups-3.6.2.Final.jar.txt	3
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_jgroups-3.6.2.Final.jar.txt	1
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_jgroups-3.6.2.Final.jar.txt	0
+org/jgroups/protocols/pbcast/NAKACK2/flushBecomeServerQueue()@g_jgroups-3.6.2.Final.jar.txt	4
+org/jgroups/protocols/FD_SOCK/printCache()@g_jgroups-3.6.2.Final.jar.txt	2

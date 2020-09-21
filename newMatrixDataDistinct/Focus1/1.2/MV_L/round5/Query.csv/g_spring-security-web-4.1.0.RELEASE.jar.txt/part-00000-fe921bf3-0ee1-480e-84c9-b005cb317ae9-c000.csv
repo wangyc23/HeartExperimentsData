@@ -1,0 +1,4 @@
+java/io/StringWriter/getBuffer()
+java/lang/StringBuffer/replace(int,int,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/io/PrintWriter/PrintWriter(java.io.Writer)

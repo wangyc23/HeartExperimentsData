@@ -1,0 +1,5 @@
+org/apache/jackrabbit/webdav/version/report/CompareBaselineReport/toXml(org.w3c.dom.Document)@g_jackrabbit-webdav-1.4.jar.txt	1
+org/apache/jackrabbit/webdav/WebdavRequestImpl/parsePropPatchRequest()@g_jackrabbit-webdav-1.4.jar.txt	4
+org/xwiki/resource/internal/entity/DefaultEntityResourceActionLister/listActions()@g_xwiki-platform-resource-default-7.4.jar.txt	0
+org/apache/jackrabbit/webdav/ordering/OrderPatch/createFromXml(org.w3c.dom.Element)@g_jackrabbit-webdav-1.4.jar.txt	3
+org/apache/jackrabbit/webdav/server/AbstractWebdavServlet/doLock(org.apache.jackrabbit.webdav.WebdavRequest,org.apache.jackrabbit.webdav.WebdavResponse,org.apache.jackrabbit.webdav.DavResource)@g_jackrabbit-webdav-1.4.jar.txt	2

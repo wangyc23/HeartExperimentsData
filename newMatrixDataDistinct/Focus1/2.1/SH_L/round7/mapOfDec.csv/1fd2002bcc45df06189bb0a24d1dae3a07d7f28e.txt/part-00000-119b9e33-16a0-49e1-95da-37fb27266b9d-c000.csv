@@ -1,0 +1,5 @@
+org/javaee7/jaxrs/client/MyApplication/getClasses()@027b53237cd3203173d61e9dbe56571d1745224e.txt	4
+org/javaee7/jaxrs/readerwriter/injection/MyResource/postWithCustomMimeType(org.javaee7.jaxrs.readerwriter.injection.MyObject)@027b53237cd3203173d61e9dbe56571d1745224e.txt	3
+org/javaee7/cdi/built/in/TestServlet/doGet(org.javaee7.ejb.stateless.remote.HttpServletRequest,org.javaee7.ejb.stateless.remote.HttpServletResponse)@027b53237cd3203173d61e9dbe56571d1745224e.txt	0
+org/javaee7/jaxrs/request/binding/MyResource/getList(int,int)@027b53237cd3203173d61e9dbe56571d1745224e.txt	1
+org/javaee7/jaxrs/invocation/MyResource/get()@027b53237cd3203173d61e9dbe56571d1745224e.txt	2

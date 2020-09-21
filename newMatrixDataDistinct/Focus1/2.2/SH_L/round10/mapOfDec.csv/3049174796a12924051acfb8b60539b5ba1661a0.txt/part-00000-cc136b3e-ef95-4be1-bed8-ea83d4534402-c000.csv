@@ -1,0 +1,5 @@
+org/hf/mls/pref/hadoop/tohbase/SeqToHbaseJob/SeqHbaseMapper/map(org.apache.hadoop.io.Writable,org.apache.hadoop.io.Writable,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	2
+org/hf/mls/ar/hadoop/EvaluateJob/EvaluateMapper/map(org.apache.hadoop.io.Text,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	0
+org/hf/mls/cf/hadoop/index/ReverseDicJob/ReverseMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	3
+org/hf/mls/cf/hadoop/tohbase/TextToHbaseJob/TextHbaseMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	4
+org/hf/mls/pref/hadoop/zscore/StdDeviationPreJob/StdDevMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@0ffb2544e5862785d49c6ee651c9c1fc1ba6e7d9.txt	1

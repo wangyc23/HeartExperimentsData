@@ -1,0 +1,5 @@
+org/jboss/resteasy/test/nextgen/resource/VariantsTest/LanguageVariantResource/selectVariantTestGet(javax.ws.rs.core.Request)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+org/jboss/resteasy/test/providers/multipart/SimpleMimeMultipartResource/putData(javax.mail.internet.MimeMultipart)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+org/jboss/resteasy/test/cdi/injection/reverse/ReverseInjectionTest/testMDB()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+org/jboss/resteasy/test/client/AsyncTimeoutExceptionsTest/Resource/sticker()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+org/jboss/resteasy/test/client/AsyncTimeoutExceptionsTest/StickerCallback/failed(java.lang.Throwable)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1

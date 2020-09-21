@@ -1,0 +1,4 @@
+org/neo4j/rest/graphdb/RestAPI/addLabels(org.neo4j.rest.graphdb.entity.RestNode,java.lang.String[])
+org/springframework/data/neo4j/rest/SpringRestGraphDatabase/index()
+org/neo4j/rest/graphdb/index/RestIndexManager/forNodes(java.lang.String)
+org/springframework/data/neo4j/rest/SpringRestGraphDatabase/getRestAPI()

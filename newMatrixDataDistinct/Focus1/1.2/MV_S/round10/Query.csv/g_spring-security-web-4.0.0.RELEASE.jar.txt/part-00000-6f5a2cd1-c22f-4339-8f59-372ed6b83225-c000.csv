@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/logging/Log/isDebugEnabled()

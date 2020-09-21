@@ -1,0 +1,5 @@
+org/apache/lucene/spatial/vector/PointVectorStrategy/makeQuery(org.apache.lucene.spatial.query.SpatialArgs)@g_lucene-spatial-extras-6.4.1.jar.txt	4
+org/apache/lucene/facet/range/LongRangeCounter/LongRangeNode/toString(java.lang.StringBuilder,int)@g_lucene-facet-5.0.0.jar.txt	1
+org/apache/lucene/spatial/query/SpatialArgsParser/writeSpatialArgs(org.apache.lucene.spatial.query.SpatialArgs)@g_lucene-spatial-extras-6.4.1.jar.txt	2
+org/apache/lucene/facet/FacetsConfig/build(org.apache.lucene.facet.taxonomy.TaxonomyWriter,org.apache.lucene.document.Document)@g_lucene-facet-5.0.0.jar.txt	0
+org/apache/lucene/spatial/bbox/BBoxOverlapRatioValueSource/score(org.locationtech.spatial4j.shape.Rectangle,java.util.concurrent.atomic.AtomicReference)@g_lucene-spatial-extras-6.4.1.jar.txt	3

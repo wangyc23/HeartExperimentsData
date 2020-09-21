@@ -1,0 +1,5 @@
+org/apache/activemq/openwire/tool/CSharpMarshallingGenerator/generateTightMarshal1Body(java.io.PrintWriter)@g_activemq-core-5.3.2.jar.txt	0
+org/apache/activemq/openwire/tool/CSharpMarshallingGenerator/generateLooseMarshalBody(java.io.PrintWriter)@g_activemq-core-5.3.2.jar.txt	2
+org/apache/activemq/openwire/tool/CSharpMarshallingGenerator/generateTightMarshal2Body(java.io.PrintWriter)@g_activemq-core-5.3.2.jar.txt	1
+org/apache/activemq/openwire/tool/CppHeadersGenerator/generateFile(java.io.PrintWriter)@g_activemq-core-5.3.2.jar.txt	4
+org/apache/activemq/openwire/tool/JavaTestsGenerator/generateFile(java.io.PrintWriter)@g_activemq-core-5.3.2.jar.txt	3

@@ -1,0 +1,5 @@
+org/eclipse/core/internal/resources/ProjectPathVariableManager/isDefined(java.lang.String)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	2
+org/eclipse/core/internal/events/ResourceDelta/writeMarkerDebugString(java.lang.StringBuffer)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	0
+org/eclipse/core/internal/resources/Project/move(org.eclipse.core.resources.IProjectDescription,int,org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	4
+org/eclipse/core/internal/resources/ProjectNatureDescriptor/readExtension(org.eclipse.core.runtime.IExtension)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	3
+org/eclipse/core/internal/events/ResourceDelta/writeMarkerDebugString(java.lang.StringBuffer)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	1

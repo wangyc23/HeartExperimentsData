@@ -1,0 +1,4 @@
+org/codehaus/groovy/ast/MethodNode/getDeclaringClass()
+java/util/Iterator/hasNext()
+java/util/List/size()
+org/codehaus/groovy/ast/expr/ArgumentListExpression/getExpressions()

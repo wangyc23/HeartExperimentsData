@@ -1,0 +1,5 @@
+org/apache/maven/tools/plugin/extractor/javadoc/JavaJavadocMojoDescriptorExtractor/extractFieldParameterTags(com.thoughtworks.qdox.model.JavaClass)@g_maven-plugin-tools-java-3.4.jar.txt	1
+org/apache/maven/tools/plugin/extractor/javadoc/JavaJavadocMojoDescriptorExtractor/extractParameters(org.apache.maven.plugin.descriptor.MojoDescriptor,com.thoughtworks.qdox.model.JavaClass)@g_maven-plugin-tools-java-3.4.jar.txt	2
+org/apache/maven/tools/plugin/extractor/javadoc/JavaJavadocMojoDescriptorExtractor/discoverClasses(org.apache.maven.tools.plugin.PluginToolsRequest)@g_maven-plugin-tools-java-3.4.jar.txt	3
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/getTagletPath()@g_maven-javadoc-plugin-2.8.1.jar.txt	4
+org/apache/maven/plugin/javadoc/AbstractJavadocMojo/addTagletsFromTagletArtifacts(java.util.List)@g_maven-javadoc-plugin-2.8.1.jar.txt	0

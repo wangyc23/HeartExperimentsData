@@ -1,0 +1,5 @@
+org/apache/felix/bundleplugin/DependencyEmbedder/appendDependencies(aQute.bnd.osgi.Analyzer,java.lang.String,java.lang.String)@g_maven-bundle-plugin-2.5.3.jar.txt	0
+org/apache/felix/obrplugin/ObrDeploy/execute()@g_maven-bundle-plugin-2.5.3.jar.txt	4
+org/apache/felix/bundleplugin/BundlePlugin/getOSGiBuilder(org.apache.maven.project.MavenProject,java.util.Map,java.util.Properties,aQute.bnd.osgi.Jar[])@g_maven-bundle-plugin-2.5.3.jar.txt	3
+org/apache/felix/bundleplugin/BundlePlugin/getMavenResourcePaths(org.apache.maven.project.MavenProject,boolean)@g_maven-bundle-plugin-2.5.3.jar.txt	2
+org/apache/felix/obrplugin/ObrRemoteClean/execute()@g_maven-bundle-plugin-2.5.3.jar.txt	1

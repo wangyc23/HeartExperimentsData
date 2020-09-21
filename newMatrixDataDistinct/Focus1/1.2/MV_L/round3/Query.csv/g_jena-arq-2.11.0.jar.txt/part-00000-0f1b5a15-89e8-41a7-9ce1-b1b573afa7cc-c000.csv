@@ -1,0 +1,4 @@
+com/hp/hpl/jena/sparql/util/graph/GraphLoadMonitor/getAddTicks()
+java/lang/Runtime/getRuntime()
+java/lang/StringBuilder/append(java.lang.String)
+com/hp/hpl/jena/sparql/util/graph/GraphLoadMonitor/getAddTickSize()

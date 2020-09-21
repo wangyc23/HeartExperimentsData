@@ -1,0 +1,4 @@
+0	java/lang/String/substring(int,int)
+1	java/lang/Integer/toString(int)
+2	java/lang/Throwable/getMessage()
+3	java/lang/String/replaceAll(java.lang.String,java.lang.String)

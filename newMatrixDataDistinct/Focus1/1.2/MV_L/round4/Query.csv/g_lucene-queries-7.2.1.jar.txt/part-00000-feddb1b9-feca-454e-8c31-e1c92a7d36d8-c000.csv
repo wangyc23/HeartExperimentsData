@@ -1,0 +1,4 @@
+org/apache/lucene/analysis/TokenStream/close()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/apache/lucene/analysis/TokenStream/end()
+java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)

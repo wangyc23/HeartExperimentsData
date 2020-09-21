@@ -1,0 +1,5 @@
+org/apache/sis/referencing/operation/transform/ConcatenatedTransform/create(org.opengis.referencing.operation.MathTransform,org.opengis.referencing.operation.MathTransform)@g_sis-referencing-0.6.jar.txt	0
+org/apache/sis/referencing/cs/DefaultCoordinateSystemAxis/formatTo(org.apache.sis.io.wkt.Formatter)@g_sis-referencing-0.6.jar.txt	3
+org/apache/sis/referencing/IdentifiedObjects/toString(org.opengis.metadata.Identifier)@g_sis-referencing-0.6.jar.txt	2
+org/apache/sis/referencing/operation/DefaultConcatenatedOperation/expand(java.util.Map,org.opengis.referencing.operation.CoordinateOperation[],java.util.List,org.opengis.referencing.operation.MathTransformFactory,boolean)@g_sis-referencing-0.6.jar.txt	1
+org/apache/sis/geometry/Envelopes/toPolygonWKT(org.opengis.geometry.Envelope)@g_sis-referencing-0.6.jar.txt	4

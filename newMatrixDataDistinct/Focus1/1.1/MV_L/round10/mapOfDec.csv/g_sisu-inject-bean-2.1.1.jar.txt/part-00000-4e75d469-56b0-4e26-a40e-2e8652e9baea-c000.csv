@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/binders/ImportBinder/isImplicit(com.google.inject.Key)@g_sisu-inject-bean-1.4.2.jar.txt	2
+org/sonatype/guice/bean/scanners/asm/ClassWriter/newConstItem(java.lang.Object)@g_sisu-inject-bean-1.4.2.jar.txt	0
+org/sonatype/guice/bean/binders/QualifiedTypeBinder/getBindingName(java.lang.Class)@g_sisu-inject-bean-1.4.2.jar.txt	4
+org/sonatype/guice/bean/reflect/ResourceEnumeration/nextElement()@g_sisu-inject-bean-1.4.2.jar.txt	3
+org/sonatype/guice/bean/reflect/AbstractDeferredClass/get()@g_sisu-inject-bean-1.4.2.jar.txt	1

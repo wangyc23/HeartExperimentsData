@@ -1,0 +1,5 @@
+com/healthmarketscience/jackcess/impl/IndexData/getName()@g_jackcess-2.1.2.jar.txt	0
+com/healthmarketscience/jackcess/impl/TableImpl/readColumnDefinitions(java.nio.ByteBuffer,short)@g_jackcess-2.1.2.jar.txt	3
+com/healthmarketscience/jackcess/impl/TableImpl/updateRow(com.healthmarketscience.jackcess.impl.TableImpl$RowState,com.healthmarketscience.jackcess.impl.RowIdImpl,java.lang.Object[])@g_jackcess-2.1.2.jar.txt	4
+com/healthmarketscience/jackcess/impl/TableImpl/deleteRow(com.healthmarketscience.jackcess.impl.TableImpl$RowState,com.healthmarketscience.jackcess.impl.RowIdImpl)@g_jackcess-2.1.2.jar.txt	1
+com/healthmarketscience/jackcess/IndexBuilder/validate(java.util.Set,com.healthmarketscience.jackcess.impl.JetFormat)@g_jackcess-2.1.2.jar.txt	2

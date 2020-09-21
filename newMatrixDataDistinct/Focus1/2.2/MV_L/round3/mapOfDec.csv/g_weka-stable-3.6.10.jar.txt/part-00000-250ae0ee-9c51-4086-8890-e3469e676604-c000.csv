@@ -1,0 +1,5 @@
+weka/associations/AssociatorEvaluation/makeOptionString(weka.associations.Associator)@g_weka-stable-3.8.0.jar.txt	3
+weka/classifiers/CheckSource/main(java.lang.String[])@g_weka-stable-3.8.0.jar.txt	4
+weka/gui/explorer/ExplorerDefaults/main(java.lang.String[])@g_weka-stable-3.8.0.jar.txt	1
+weka/attributeSelection/AttributeSelection/makeOptionString(weka.attributeSelection.ASEvaluation,weka.attributeSelection.ASSearch)@g_weka-stable-3.8.0.jar.txt	2
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_weka-stable-3.8.0.jar.txt	0

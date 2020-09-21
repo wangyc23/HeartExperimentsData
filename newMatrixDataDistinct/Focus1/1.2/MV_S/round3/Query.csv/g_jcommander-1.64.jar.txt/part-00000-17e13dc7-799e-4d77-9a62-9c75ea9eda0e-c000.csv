@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/util/List/size()
+java/util/Map/values()
+java/util/Set/iterator()

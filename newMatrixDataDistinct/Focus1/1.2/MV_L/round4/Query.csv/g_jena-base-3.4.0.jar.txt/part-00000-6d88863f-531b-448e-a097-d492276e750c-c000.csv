@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+org/apache/jena/atlas/lib/PropertiesSorted$IteratorToEnumeration/IteratorToEnumeration(java.util.Iterator)
+java/util/Properties/keys()
+java/util/Collections/sort(java.util.List,java.util.Comparator)

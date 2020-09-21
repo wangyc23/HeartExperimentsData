@@ -1,0 +1,4 @@
+org/gagravarr/flac/FlacAudioSubFrame$SubFrameLPC/SubFrameLPC(int,int,org.gagravarr.flac.FlacAudioFrame,org.gagravarr.ogg.BitsReader)
+org/gagravarr/flac/FlacAudioSubFrame$SubFrameConstant/matchesType(int)
+java/lang/StringBuilder/StringBuilder()
+org/gagravarr/flac/FlacAudioSubFrame$SubFrameFixed/matchesType(int)

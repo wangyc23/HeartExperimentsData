@@ -1,0 +1,5 @@
+org/apache/maven/plugin/assembly/archive/task/AddDependencySetsTask/resolveDependencyArtifacts(org.apache.maven.plugin.assembly.model.DependencySet)@g_maven-assembly-plugin-2.2.1.jar.txt	1
+org/apache/maven/plugin/assembly/model/io/xpp3/AssemblyXpp3Writer/writeDependencySet(org.apache.maven.plugin.assembly.model.DependencySet,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-assembly-plugin-2.2.1.jar.txt	3
+org/apache/maven/plugin/assembly/utils/FilterUtils/reportFilteringStatistics(java.util.Collection,org.codehaus.plexus.logging.Logger)@g_maven-assembly-plugin-2.2.1.jar.txt	4
+org/apache/maven/plugin/assembly/mojos/AbstractAssemblyMojo/execute()@g_maven-assembly-plugin-2.2.1.jar.txt	0
+org/apache/maven/plugin/assembly/model/io/xpp3/AssemblyXpp3Writer/writeAssembly(org.apache.maven.plugin.assembly.model.Assembly,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-assembly-plugin-2.2.1.jar.txt	2

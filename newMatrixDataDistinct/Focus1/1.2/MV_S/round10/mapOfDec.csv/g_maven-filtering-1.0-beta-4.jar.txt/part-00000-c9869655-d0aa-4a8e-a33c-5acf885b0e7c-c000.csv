@@ -1,0 +1,5 @@
+org/apache/maven/shared/artifact/filter/PatternIncludesArtifactFilter/reportMissedCriteria(org.codehaus.plexus.logging.Logger)@g_maven-common-artifact-filters-1.1.jar.txt	1
+org/codehaus/plexus/resource/loader/URLResourceLoader/getResource(java.lang.String)@g_plexus-resources-1.0-alpha-7.jar.txt	4
+org/apache/maven/shared/artifact/filter/PatternIncludesArtifactFilter/reportFilteredArtifacts(org.codehaus.plexus.logging.Logger)@g_maven-common-artifact-filters-1.1.jar.txt	2
+org/codehaus/plexus/resource/loader/JarResourceLoader/loadJar(java.lang.String)@g_plexus-resources-1.0-alpha-7.jar.txt	0
+org/apache/maven/shared/artifact/filter/ScopeArtifactFilter/reportFilteredArtifacts(org.codehaus.plexus.logging.Logger)@g_maven-common-artifact-filters-1.1.jar.txt	3

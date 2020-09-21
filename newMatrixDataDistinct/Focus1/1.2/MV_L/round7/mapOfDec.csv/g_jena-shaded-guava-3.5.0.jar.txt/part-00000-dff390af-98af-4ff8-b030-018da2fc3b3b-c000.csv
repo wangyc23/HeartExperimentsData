@@ -1,0 +1,5 @@
+com/google/common/util/concurrent/AbstractListeningExecutorService/doInvokeAny(java.util.Collection,boolean,long)@g_guava-11.0.2.jar.txt	1
+com/google/common/util/concurrent/AbstractListeningExecutorService/invokeAll(java.util.Collection)@g_guava-11.0.2.jar.txt	3
+com/google/common/util/concurrent/AbstractListeningExecutorService/invokeAll(java.util.Collection,long,java.util.concurrent.TimeUnit)@g_guava-11.0.2.jar.txt	2
+org/apache/jena/ext/com/google/common/util/concurrent/MoreExecutors/invokeAnyImpl(org.apache.jena.ext.com.google.common.util.concurrent.ListeningExecutorService,java.util.Collection,boolean,long,java.util.concurrent.TimeUnit)@g_jena-shaded-guava-3.4.0.jar.txt	0
+org/apache/jena/ext/com/google/common/util/concurrent/ServiceManager/ServiceManagerState/startupTimes()@g_jena-shaded-guava-3.4.0.jar.txt	4

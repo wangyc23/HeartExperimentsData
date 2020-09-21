@@ -1,0 +1,5 @@
+org/apache/xerces/impl/xs/traversers/XSDHandler/checkForDuplicateNames(java.lang.String,int,java.util.Hashtable,java.util.Hashtable,org.w3c.dom.Element,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	0
+org/apache/xml/serializer/utils/URI/initialize(org.apache.xml.serializer.utils.URI,java.lang.String)@g_xerces-impl-2.9.0.jar.txt	4
+org/apache/xerces/util/DOMErrorHandlerWrapper/printError(org.w3c.dom.DOMError)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	3
+org/apache/xerces/util/URI/absolutize(org.apache.xerces.util.URI)@g_org.apache.servicemix.bundles.xerces-2.11.0_1.jar.txt	2
+org/apache/xerces/impl/xs/traversers/XSDHandler/checkForDuplicateNames(java.lang.String,java.util.Hashtable,java.util.Hashtable,org.w3c.dom.Element,org.apache.xerces.impl.xs.traversers.XSDocumentInfo)@g_xerces-impl-2.9.0.jar.txt	1

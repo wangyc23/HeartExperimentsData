@@ -1,0 +1,5 @@
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/getOrderedExplanation(org.semanticweb.owlapi.model.OWLAxiom,java.util.Set)@g_owlapi-tools-4.5.0.jar.txt	2
+com/clarkparsia/owlapi/modularity/locality/SyntacticLocalityEvaluator/AxiomLocalityVisitor/visit(org.semanticweb.owlapi.model.OWLDisjointDataPropertiesAxiom)@g_owlapi-tools-4.5.0.jar.txt	0
+uk/ac/manchester/cs/owlapi/modularity/SyntacticLocalityModuleExtractor/enrichSignature(java.util.Set,int,int,org.semanticweb.owlapi.reasoner.OWLReasoner)@g_owlapi-tools-4.5.0.jar.txt	4
+org/semanticweb/owlapi/debugging/AbstractOWLDebugger/constructHittingSetTree(java.util.Set,java.util.Set,java.util.Set,java.util.Set)@g_owlapi-tools-4.5.0.jar.txt	3
+org/semanticweb/owlapi/rdf/rdfxml/renderer/RDFXMLNamespaceManager/getEntitiesThatRequireNamespaces()@g_owlapi-parsers-4.5.0.jar.txt	1

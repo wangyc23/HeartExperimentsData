@@ -1,0 +1,5 @@
+org/eclipse/jdt/internal/compiler/tool/EclipseFileManager/addNewEntry(java.util.ArrayList,java.lang.String,java.util.ArrayList,java.lang.String,java.lang.String,boolean,boolean)@g_ecj-3.5.1.jar.txt	3
+org/eclipse/jdt/internal/compiler/lookup/Scope/minimalErasedCandidates(org.eclipse.jdt.internal.compiler.lookup.TypeBinding[],java.util.Map)@g_ecj-3.5.1.jar.txt	2
+org/eclipse/jdt/internal/compiler/tool/EclipseFileManager/collectAllMatchingFiles(java.io.File,java.lang.String,java.util.Set,boolean,java.util.ArrayList)@g_ecj-3.5.1.jar.txt	4
+org/eclipse/jdt/internal/compiler/batch/Main/configure(java.lang.String[])@g_ecj-3.5.1.jar.txt	0
+org/eclipse/jdt/internal/compiler/apt/util/EclipseFileManager/addNewEntry(java.util.ArrayList,java.lang.String,java.util.ArrayList,java.lang.String,java.lang.String,boolean,boolean)@g_ecj-3.5.1.jar.txt	1

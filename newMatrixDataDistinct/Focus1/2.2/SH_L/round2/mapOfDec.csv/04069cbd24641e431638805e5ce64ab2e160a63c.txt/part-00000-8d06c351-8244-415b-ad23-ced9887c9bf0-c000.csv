@@ -1,0 +1,5 @@
+com/springapp/mvc/MController/blogDiscuss(java.lang.String,java.lang.String,javax.servlet.http.HttpSession,javax.servlet.http.HttpServletResponse)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	0
+app/util/HtmlSpecialChars/replaceChars(java.lang.String)@2b566eea2c8159b3b5010f0cb83d00e1d53ace51.txt	1
+egovframework/com/cop/stf/service/impl/EgovBBSSatisfactionServiceImpl/updateSatisfaction(egovframework.com.cop.bbs.service.Satisfaction)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	2
+egovframework/com/sym/prm/service/impl/EgovProgrmManageServiceImpl/selectChangeRequstProcessListTotCnt(egovframework.com.cmm.ComDefaultVO)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	4
+egovframework/com/uss/olh/wor/web/EgovWordDicaryController/deleteWordDicary(egovframework.com.uss.olh.wor.service.WordDicaryVO,egovframework.com.uss.olh.wor.service.WordDicaryDefaultVO)@2dc86a32ff50d39eeb672b15d57cf1bc55db902a.txt	3

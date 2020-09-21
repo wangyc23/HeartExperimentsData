@@ -1,0 +1,5 @@
+uk/ac/ic/wlgitbridge/snapshot/servermock/state/SnapshotAPIState/getStateForGetSavedVers(java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	0
+uk/ac/ic/wlgitbridge/WLGitBridgeIntegrationTest/canPushFilesSuccessfully()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	1
+uk/ac/ic/wlgitbridge/WLGitBridgeIntegrationTest/canPullUpdatedBinaryFiles()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	3
+uk/ac/ic/wlgitbridge/WLGitBridgeIntegrationTest/pushFailsOnSecondStageOutOfDate()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	2
+uk/ac/ic/wlgitbridge/snapshot/push/PostbackManager/checkPostbackKey(java.lang.String,java.lang.String)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	4

@@ -1,0 +1,4 @@
+java/util/regex/Pattern/compile(java.lang.String)
+java/lang/String/replaceAll(java.lang.String,java.lang.String)
+java/lang/String/substring(int,int)
+java/lang/String/indexOf(java.lang.String)

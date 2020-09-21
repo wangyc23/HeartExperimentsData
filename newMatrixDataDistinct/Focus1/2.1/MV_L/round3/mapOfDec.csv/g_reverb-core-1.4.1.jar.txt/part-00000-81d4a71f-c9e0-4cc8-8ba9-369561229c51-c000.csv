@@ -1,0 +1,5 @@
+edu/washington/cs/knowitall/extractor/conf/classifier/LogisticRegression/buildFeatureWeightMap(java.io.InputStream)@g_opennlp-tools-1.5.2-incubating.jar.txt	4
+opennlp/tools/lang/english/TreebankNameFinder/main(java.lang.String[])@g_opennlp-tools-1.5.2-incubating.jar.txt	2
+opennlp/tools/cmdline/parser/ParserTool/run(java.lang.String[])@g_opennlp-tools-1.5.2-incubating.jar.txt	0
+edu/washington/cs/knowitall/nlp/ChunkedSentence/getTokenRange(int,int)@g_opennlp-tools-1.5.2-incubating.jar.txt	1
+edu/washington/cs/knowitall/nlp/ChunkedDocumentReader/readDocument(java.lang.String,java.lang.String)@g_opennlp-tools-1.5.2-incubating.jar.txt	3

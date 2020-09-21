@@ -1,0 +1,4 @@
+java/lang/Runtime/addShutdownHook(java.lang.Thread)
+org/apache/eagle/storage/jdbc/conn/impl/TorqueConnectionManagerImpl/TorqueConnectionManagerImpl()
+org/apache/eagle/storage/jdbc/conn/ConnectionManager/init(org.apache.eagle.storage.jdbc.conn.ConnectionConfig)
+java/lang/Runtime/getRuntime()

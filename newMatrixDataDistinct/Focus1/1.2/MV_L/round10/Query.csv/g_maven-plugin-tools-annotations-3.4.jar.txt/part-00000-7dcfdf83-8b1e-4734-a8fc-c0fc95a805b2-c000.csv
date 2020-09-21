@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/IOUtil/close(java.io.InputStream)
+org/codehaus/plexus/util/DirectoryScanner/addDefaultExcludes()
+org/codehaus/plexus/util/DirectoryScanner/scan()
+java/util/List/size()

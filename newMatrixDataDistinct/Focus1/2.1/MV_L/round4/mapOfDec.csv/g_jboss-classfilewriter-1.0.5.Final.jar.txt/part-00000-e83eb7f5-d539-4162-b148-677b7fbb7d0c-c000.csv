@@ -1,0 +1,5 @@
+gnu/trove/map/hash/TFloatDoubleHashMap/putAll(java.util.Map)@g_reflectasm-1.07-shaded.jar.txt	4
+org/jboss/classfilewriter/code/CodeAttribute/mergeStackFrames(org.jboss.classfilewriter.code.StackFrame)@g_reflectasm-1.07-shaded.jar.txt	3
+com/esotericsoftware/reflectasm/MethodAccess/get(java.lang.Class)@g_reflectasm-1.07-shaded.jar.txt	1
+com/esotericsoftware/reflectasm/FieldAccess/get(java.lang.Class)@g_reflectasm-1.07-shaded.jar.txt	0
+gnu/trove/map/hash/TByteIntHashMap/putAll(java.util.Map)@g_reflectasm-1.07-shaded.jar.txt	2

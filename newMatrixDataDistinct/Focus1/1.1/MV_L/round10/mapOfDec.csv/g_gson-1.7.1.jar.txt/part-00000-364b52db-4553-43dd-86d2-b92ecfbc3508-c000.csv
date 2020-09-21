@@ -1,0 +1,5 @@
+com/google/gson/internal/Gson/Types/resolve(java.lang.reflect.Type,java.lang.Class,java.lang.reflect.Type)@g_gson-2.2.2.jar.txt	0
+com/google/gson/internal/Gson/Types/canonicalize(java.lang.reflect.Type)@g_gson-2.2.jar.txt	3
+com/google/gson/stream/JsonReader/peek()@g_gson-2.2.2.jar.txt	4
+com/google/gson/internal/Gson/Types/resolve(java.lang.reflect.Type,java.lang.Class,java.lang.reflect.Type)@g_gson-2.2.jar.txt	2
+com/google/gson/internal/Gson/Types/canonicalize(java.lang.reflect.Type)@g_gson-2.2.2.jar.txt	1

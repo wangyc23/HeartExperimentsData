@@ -1,0 +1,5 @@
+study/services/UsersService/createAdminUser()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+pl/pwr/news/service/tag/TagServiceImpl/findAll(java.lang.Iterable)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	4
+pl/pwr/news/webapp/controller/article/ArticleApi/searchArticle(java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1
+org/springside/examples/quickstart/web/account/UserAdminController/getUser(java.lang.Long,org.springframework.ui.Model)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	0
+org/springside/examples/quickstart/service/account/AccountService/registerUser(org.springside.examples.quickstart.entity.User)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2

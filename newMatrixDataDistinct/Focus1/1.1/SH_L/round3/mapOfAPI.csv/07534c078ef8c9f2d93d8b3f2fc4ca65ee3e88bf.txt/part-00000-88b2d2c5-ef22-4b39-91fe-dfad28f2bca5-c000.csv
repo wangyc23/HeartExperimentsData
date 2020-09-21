@@ -1,0 +1,5 @@
+0	java/lang/Object/Object()
+1	org/efaps/esjp/sales/document/AbstractProductDocument_Base/editDoc(org.efaps.esjp.sales.document.Parameter)
+2	org/efaps/esjp/sales/document/AbstractProductDocument_Base/updatePositions(org.efaps.esjp.sales.document.Parameter,org.efaps.esjp.sales.document.EditedDoc)
+3	java/lang/Integer/valueOf(java.lang.String)
+4	java/lang/Double/toString(double)

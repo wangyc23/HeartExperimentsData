@@ -1,0 +1,5 @@
+org/apache/maven/project/MavenProject/getCompileArtifacts()@g_maven-project-2.0.9.jar.txt	4
+org/apache/maven/project/artifact/MavenMetadataSource/retrieveAvailableVersions(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-project-2.0.9.jar.txt	3
+org/apache/maven/project/MavenProject/getSystemClasspathElements()@g_maven-project-2.0.9.jar.txt	0
+org/apache/maven/project/MavenProject/getSystemArtifacts()@g_maven-project-2.0.9.jar.txt	1
+org/apache/maven/project/MavenProject/getSystemDependencies()@g_maven-project-2.0.9.jar.txt	2

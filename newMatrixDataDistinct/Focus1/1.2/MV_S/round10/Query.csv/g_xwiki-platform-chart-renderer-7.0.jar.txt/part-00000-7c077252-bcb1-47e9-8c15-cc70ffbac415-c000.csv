@@ -1,0 +1,4 @@
+java/lang/String/format(java.lang.String,java.lang.Object[])
+java/lang/Integer/parseInt(java.lang.String)
+javax/inject/Provider/get()
+org/jfree/chart/ChartUtilities/encodeAsPNG(java.awt.image.BufferedImage)

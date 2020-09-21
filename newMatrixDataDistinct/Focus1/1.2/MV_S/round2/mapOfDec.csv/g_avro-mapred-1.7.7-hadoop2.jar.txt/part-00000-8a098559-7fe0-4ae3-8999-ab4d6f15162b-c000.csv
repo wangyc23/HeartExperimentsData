@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/JobSubmitter/copyAndConfigureFiles(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path,short)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3
+org/apache/hadoop/mapred/QueueManager/dumpConfiguration(java.io.Writer,java.lang.String,org.apache.hadoop.conf.Configuration)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0
+org/apache/hadoop/mapreduce/lib/input/FileInputFormat/addInputPath(org.apache.hadoop.mapreduce.Job,org.apache.hadoop.fs.Path)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapreduce/lib/aggregate/ValueAggregatorJob/createValueAggregatorJob(org.apache.hadoop.conf.Configuration,java.lang.String[])@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapred/QueueConfigurationParser/parseResource(org.w3c.dom.Element)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4

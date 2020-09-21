@@ -1,0 +1,4 @@
+java/io/File/File(java.io.File,java.lang.String)
+org/sonatype/aether/spi/log/Logger/debug(java.lang.String)
+org/sonatype/aether/RepositorySystemSession/getLocalRepositoryManager()
+org/sonatype/aether/installation/InstallationException/InstallationException(java.lang.String,java.lang.Throwable)

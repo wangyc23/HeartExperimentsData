@@ -1,0 +1,5 @@
+MaxWidgetIdGenericAvro/MaxWidgetMapper/close()@07f0961a9a1642392507df55e63ac17f2572eca2.txt	0
+v4/MaxTemperatureMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@07f0961a9a1642392507df55e63ac17f2572eca2.txt	4
+TextPair/hashCode()@07f0961a9a1642392507df55e63ac17f2572eca2.txt	2
+SplitTest/setUp()@07f0961a9a1642392507df55e63ac17f2572eca2.txt	1
+oldapi/TextPair/Comparator/compare(byte[],int,int,byte[],int,int)@07f0961a9a1642392507df55e63ac17f2572eca2.txt	3

@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+java/lang/Object/equals(java.lang.Object)
+java/lang/String/valueOf(java.lang.Object)
+java/net/URL/getFile()

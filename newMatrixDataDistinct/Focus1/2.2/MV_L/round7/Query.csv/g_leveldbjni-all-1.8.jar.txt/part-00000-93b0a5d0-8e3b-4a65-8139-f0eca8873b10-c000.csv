@@ -1,0 +1,4 @@
+java/util/ArrayList/iterator()
+org/fusesource/hawtjni/runtime/NativeStats$NativeFunction/getCounter()
+java/lang/StringBuilder/append(int)
+java/util/HashMap/entrySet()

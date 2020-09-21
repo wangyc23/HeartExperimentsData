@@ -1,0 +1,6 @@
+0	com/galilsoftware/AF/core/utilities/WebdriverUtils/waitForElementToBeFound(org.openqa.selenium.WebDriver,org.openqa.selenium.By)
+1	com/budgeta/pom/ReportsPopup/getCheckBoxElement(java.lang.String)
+2	org/openqa/selenium/By/className(java.lang.String)
+3	com/galilsoftware/AF/core/utilities/WebdriverUtils/waitForBudgetaBusyBar(org.openqa.selenium.WebDriver)
+4	com/galilsoftware/AF/core/utilities/WebdriverUtils/waitForBudgetaLoadBar(org.openqa.selenium.WebDriver)
+5	org/openqa/selenium/WebElement/click()

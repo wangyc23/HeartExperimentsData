@@ -1,0 +1,5 @@
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/handleSolrServerException(org.apache.pig.data.Tuple,java.lang.Exception)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	3
+camelinaction/SimulateErrorUsingInterceptorTest/SimulateHttpErrorProcessor/process(camelinaction.Exchange)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	0
+com/lucidworks/SolrCloudTools/ReplicaHealthReport/compareTo(com.lucidworks.SolrCloudTools.ReplicaHealthReport)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	4
+camelinaction/JavaFutureTest/testFutureWithDone()@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	2
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@0717aff7da6169979267a6c15b4b5837c8bc649a.txt	1

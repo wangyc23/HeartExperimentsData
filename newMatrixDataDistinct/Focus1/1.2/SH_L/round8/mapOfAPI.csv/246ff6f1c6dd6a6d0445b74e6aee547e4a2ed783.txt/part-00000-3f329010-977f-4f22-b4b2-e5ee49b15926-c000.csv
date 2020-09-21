@@ -1,0 +1,7 @@
+0	org/raml/jaxrs/generator/ramltypes/GType/type()
+1	org/raml/jaxrs/generator/utils/RamlV10/withV10(java.lang.Object,java.lang.String)
+2	org/raml/jaxrs/generator/ramltypes/GMethod/body()
+3	java/net/URL/toString()
+4	org/raml/jaxrs/generator/GAbstractionFactory/GAbstractionFactory()
+5	java/io/PrintStream/println(char[])
+6	java/net/URL/URL(java.net.URL,java.lang.String)

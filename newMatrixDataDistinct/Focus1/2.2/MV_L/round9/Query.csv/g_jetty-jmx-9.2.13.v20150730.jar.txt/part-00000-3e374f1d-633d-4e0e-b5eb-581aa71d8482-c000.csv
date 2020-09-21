@@ -1,0 +1,4 @@
+javax/management/Attribute/Attribute(java.lang.String,java.lang.Object)
+javax/management/AttributeList/size()
+java/util/Iterator/next()
+javax/management/Attribute/getName()

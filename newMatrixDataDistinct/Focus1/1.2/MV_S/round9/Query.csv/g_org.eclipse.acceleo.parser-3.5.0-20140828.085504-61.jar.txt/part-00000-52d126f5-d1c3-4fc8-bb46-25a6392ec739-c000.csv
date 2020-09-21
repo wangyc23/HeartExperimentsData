@@ -1,0 +1,4 @@
+org/eclipse/ocl/Environment/getAdditionalOperations(java.lang.Object)
+java/util/List/addAll(java.util.Collection)
+java/util/Iterator/next()
+java/lang/String/equals(java.lang.Object)

@@ -1,0 +1,4 @@
+com/payneteasy/superfly/security/AbstractSSOUserAwareTest/createSSOUser(int)
+com/payneteasy/superfly/security/processor/SSOUserShortCircuitingPostProcessor/postProcess(com.payneteasy.superfly.web.security.Authentication)
+com/payneteasy/superfly/security/authentication/SSOUserTransportAuthenticationToken/SSOUserTransportAuthenticationToken(com.payneteasy.superfly.api.SSOUser)
+com/payneteasy/superfly/security/authentication/CompoundAuthentication/addReadyAuthentication(com.payneteasy.superfly.web.security.Authentication)

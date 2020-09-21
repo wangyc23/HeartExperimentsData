@@ -1,0 +1,5 @@
+org/apache/struts/validator/BeanValidatorForm/getValidationKey(org.apache.struts.action.ActionMapping,javax.servlet.http.HttpServletRequest)@g_struts-core-1.3.10.jar.txt	3
+org/apache/struts/action/ActionServlet/addRuleSets()@g_struts-core-1.3.10.jar.txt	0
+org/apache/struts/chain/commands/ExceptionCatcher/postprocess(org.apache.commons.chain.Context,java.lang.Exception)@g_struts-core-1.3.10.jar.txt	4
+org/apache/struts/action/RequestProcessor/processForwardConfig(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.apache.struts.config.ForwardConfig)@g_struts-core-1.3.10.jar.txt	2
+org/apache/struts/action/RequestProcessor/processValidate(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.apache.struts.action.ActionForm,org.apache.struts.action.ActionMapping)@g_struts-core-1.3.10.jar.txt	1

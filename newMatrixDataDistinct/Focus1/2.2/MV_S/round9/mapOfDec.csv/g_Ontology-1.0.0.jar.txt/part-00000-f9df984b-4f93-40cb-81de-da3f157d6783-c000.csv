@@ -1,0 +1,5 @@
+gate/creole/ontology/ocat/OntologyViewerOptions/setClassesToShow(java.util.HashSet)@g_ontology_tools-1.0.jar.txt	3
+gate/creole/ontology/ocat/OntologyViewer/ontologyReset(gate.creole.ontology.Ontology)@g_ontology_tools-1.0.jar.txt	1
+com/ontotext/gate/vr/ClassNode/createRootNode(gate.creole.ontology.Ontology,gate.creole.gazetteer.MappingDefinition,java.util.Map)@g_ontology_tools-1.0.jar.txt	0
+gate/creole/ontology/ocat/AnnotationEditor/getClassesAndInstances(com.ontotext.gate.vr.IFolder,java.lang.String)@g_ontology_tools-1.0.jar.txt	4
+gate/creole/ontology/ocat/OntologyViewer/getAnnotationsWithClassOrInstanceFeature(gate.AnnotationSet,java.lang.String)@g_ontology_tools-1.0.jar.txt	2

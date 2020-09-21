@@ -1,0 +1,5 @@
+org/apache/lucene/search/vectorhighlight/FieldQuery/QueryPhraseMap/add(org.apache.lucene.search.Query,org.apache.lucene.index.IndexReader)@g_lucene-highlighter-6.2.1.jar.txt	1
+org/apache/lucene/search/vectorhighlight/FieldQuery/getKey(org.apache.lucene.search.Query)@g_lucene-highlighter-6.2.1.jar.txt	0
+org/apache/lucene/search/vectorhighlight/FieldFragList/WeightedFragInfo/toString()@g_lucene-highlighter-6.2.1.jar.txt	4
+org/apache/lucene/search/vectorhighlight/FieldQuery/getKey(org.apache.lucene.search.Query)@g_lucene-highlighter-5.3.1.jar.txt	3
+org/apache/lucene/search/vectorhighlight/FieldQuery/saveTerms(java.util.Collection,org.apache.lucene.index.IndexReader)@g_lucene-highlighter-6.2.1.jar.txt	2

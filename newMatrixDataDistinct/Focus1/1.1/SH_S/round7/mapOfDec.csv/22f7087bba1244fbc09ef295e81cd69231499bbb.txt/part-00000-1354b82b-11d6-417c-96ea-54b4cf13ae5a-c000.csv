@@ -1,0 +1,5 @@
+org/edr/resource/BudgetResource/deleteBudget(java.lang.Long)@0594ded2555b27b453ace9019fc6b934911e2b5d.txt	1
+org/edr/sandbox/BudgetApp/createBankrekening()@0594ded2555b27b453ace9019fc6b934911e2b5d.txt	2
+org/zkybase/service/impl/AbstractCIService/updateAddDate(T)@0594ded2555b27b453ace9019fc6b934911e2b5d.txt	4
+org/zkybase/api/util/UriResolver/resolve(java.lang.Class,java.lang.Long)@0594ded2555b27b453ace9019fc6b934911e2b5d.txt	3
+org/zkybase/web/view/ViewNames/postCreateFormSuccessViewName(java.lang.Class)@0594ded2555b27b453ace9019fc6b934911e2b5d.txt	0

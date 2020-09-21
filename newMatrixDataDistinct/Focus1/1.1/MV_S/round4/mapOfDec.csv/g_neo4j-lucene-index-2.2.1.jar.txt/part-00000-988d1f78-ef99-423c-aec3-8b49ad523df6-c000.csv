@@ -1,0 +1,5 @@
+org/apache/lucene/search/vectorhighlight/FieldFragList/WeightedFragInfo/toString()@g_lucene-facet-5.0.0.jar.txt	4
+org/apache/lucene/facet/sortedset/SortedSetDocValuesFacetCounts/count(java.util.List)@g_lucene-facet-5.0.0.jar.txt	2
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extract(org.apache.lucene.search.Query,float,java.util.Map)@g_lucene-highlighter-6.0.0.jar.txt	0
+org/neo4j/index/impl/lucene/IndexType/CustomType/removeFieldsFromDocument(org.apache.lucene.document.Document,java.lang.String,java.lang.Object)@g_lucene-facet-5.0.0.jar.txt	3
+org/apache/lucene/search/vectorhighlight/BaseFragmentsBuilder/createFragments(org.apache.lucene.index.IndexReader,int,java.lang.String,org.apache.lucene.search.vectorhighlight.FieldFragList,int,java.lang.String[],java.lang.String[],org.apache.lucene.search.highlight.Encoder)@g_lucene-highlighter-6.0.0.jar.txt	1

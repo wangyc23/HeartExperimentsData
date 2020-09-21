@@ -1,0 +1,5 @@
+com/stylussoftworks/web/service/SpriteManagerServiceImpl/getFormattedSpriteDataFromMap()@02d14551d82aa75d970e042e0aa53dacd0d69849.txt	0
+tables/StudentDAO/getStudentsByGroupID(int)@02d14551d82aa75d970e042e0aa53dacd0d69849.txt	2
+tables/GroupDAO/create(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)@02d14551d82aa75d970e042e0aa53dacd0d69849.txt	1
+tables/UserInfoDAO/getUserInfoByID(int)@02d14551d82aa75d970e042e0aa53dacd0d69849.txt	3
+com/ibm/taste/example/movie/model/table/UserTable/getUserByID(java.lang.String)@02d14551d82aa75d970e042e0aa53dacd0d69849.txt	4

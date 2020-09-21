@@ -1,0 +1,5 @@
+org/HdrHistogram/AbstractHistogram/encodeIntoByteBuffer(java.nio.ByteBuffer)@g_HdrHistogram-2.1.6.jar.txt	4
+org/apache/lucene/store/NIOFSDirectory/NIOFSIndexInput/readInternal(byte[],int,int)@g_lucene-core-7.0.0.jar.txt	0
+org/apache/lucene/store/SimpleFSDirectory/SimpleFSIndexInput/readInternal(byte[],int,int)@g_lucene-core-7.0.0.jar.txt	1
+org/HdrHistogram/AbstractHistogram/decodeFromCompressedByteBuffer(java.nio.ByteBuffer,java.lang.Class,long)@g_HdrHistogram-2.1.6.jar.txt	3
+org/HdrHistogram/AbstractHistogram/encodeIntoCompressedByteBuffer(java.nio.ByteBuffer,int)@g_HdrHistogram-2.1.6.jar.txt	2

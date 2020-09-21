@@ -1,0 +1,4 @@
+com/jiang/framework/socket/MessageObj/MessageObj(int,byte[])
+com/jiang/framework/message/UserProto/C_USER_LOGIN/Builder/build()
+com/jiang/framework/socket/MessageObj/getBuffData()
+com/jiang/framework/message/UserProto/C_USER_LOGIN/Builder/setUsername(java.lang.String)

@@ -1,0 +1,5 @@
+com/googlecode/mp4parser/authoring/adaptivestreaming/FlatManifestWriterImpl/getEc3AudioQuality(com.googlecode.mp4parser.authoring.Track,com.coremedia.iso.boxes.sampleentry.AudioSampleEntry)@g_isoparser-1.0.2.jar.txt	3
+com/coremedia/iso/boxes/FreeBox/getBox(java.nio.channels.WritableByteChannel)@g_isoparser-1.0.2.jar.txt	0
+com/googlecode/mp4parser/boxes/apple/QuicktimeTextSampleEntry/getBox(java.nio.channels.WritableByteChannel)@g_isoparser-1.0.2.jar.txt	1
+com/googlecode/mp4parser/authoring/tracks/DeCencTrack/DecryptedSampleList/get(int)@g_isoparser-1.0.2.jar.txt	4
+com/googlecode/mp4parser/authoring/builder/DefaultMp4Builder/InterleaveChunkMdat/getBox(java.nio.channels.WritableByteChannel)@g_isoparser-1.0.2.jar.txt	2

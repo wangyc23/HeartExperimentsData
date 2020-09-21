@@ -1,0 +1,5 @@
+com/octo/captcha/module/servlet/SimpleSoundCaptchaServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_servlet-api-2.5.jar.txt	4
+com/octo/captcha/engine/sound/utils/SoundCaptchaToWAV/clearOutputDirectory(java.io.File)@g_servlet-api-2.5.jar.txt	2
+javax/servlet/http/HttpUtils/parseName(java.lang.String,java.lang.StringBuffer)@g_servlet-api-2.5.jar.txt	1
+javax/servlet/http/HttpUtils/parseQueryString(java.lang.String)@g_servlet-api-2.5.jar.txt	0
+javax/servlet/http/HttpServlet/doTrace(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_servlet-api-2.5.jar.txt	3

@@ -1,0 +1,5 @@
+br/com/project/seguranca/util/reflect/ReflectUtil/copiarPropriedades(java.lang.Object,java.lang.Object,org.apache.commons.collections.Predicate)@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	1
+br/com/project/seguranca/util/StringUtil/formataStackTrace(java.lang.Throwable)@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	4
+com/example/sdn4rc2/web/ProductController/create(com.example.sdn4rc2.web.ProductForm,org.springframework.ui.Model)@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	0
+br/com/project/seguranca/util/reflect/ReflectUtil/copiarPropriedades(java.lang.Object,java.lang.Object)@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	3
+com/example/sdn4rc2/web/CustomerController/index(org.springframework.ui.Model)@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	2

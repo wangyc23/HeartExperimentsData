@@ -1,0 +1,5 @@
+eu/learnpad/core/impl/cw/XwikiCoreFacadeRestResource/getKPICalculationStatus(java.lang.String)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	4
+org/openrdf/http/client/SesameHTTPClient/size(org.openrdf.model.Resource[])@g_onejar-2.7.9.jar.txt	0
+org/openrdf/http/client/SesameHTTPClient/getNamespace(java.lang.String)@g_onejar-2.7.9.jar.txt	2
+org/openrdf/http/client/SesameHTTPClient/getStatements(org.openrdf.model.Resource,org.openrdf.model.URI,org.openrdf.model.Value,boolean,org.openrdf.rio.RDFHandler,org.openrdf.model.Resource[])@g_onejar-2.7.9.jar.txt	1
+org/openrdf/http/client/SesameHTTPClient/getServerProtocol()@g_onejar-2.7.9.jar.txt	3

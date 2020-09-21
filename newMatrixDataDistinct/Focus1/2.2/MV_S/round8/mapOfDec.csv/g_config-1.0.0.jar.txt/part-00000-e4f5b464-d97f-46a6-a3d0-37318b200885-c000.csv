@@ -1,0 +1,5 @@
+opennlp/tools/util/featuregen/WindowFeatureGenerator/createFeatures(java.util.List,java.lang.String[],int,java.lang.String[])@g_opennlp-tools-1.8.2.jar.txt	4
+opennlp/tools/formats/conllu/ConlluStream/postProcessContractions(java.util.List)@g_opennlp-tools-1.8.2.jar.txt	3
+opennlp/tools/formats/letsmt/LetsmtSentenceStream/read()@g_opennlp-tools-1.8.2.jar.txt	2
+opennlp/tools/formats/letsmt/DetokenizeSentenceSampleStream/read()@g_opennlp-tools-1.8.2.jar.txt	1
+opennlp/tools/formats/brat/BratDocumentParser/parse(opennlp.tools.formats.brat.BratDocument)@g_opennlp-tools-1.8.2.jar.txt	0

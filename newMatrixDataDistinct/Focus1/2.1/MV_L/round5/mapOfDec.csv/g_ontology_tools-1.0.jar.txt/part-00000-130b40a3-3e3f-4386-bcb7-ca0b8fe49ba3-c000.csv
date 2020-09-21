@@ -1,0 +1,5 @@
+gate/util/ant/packager/PackageGappTask/copyDirectories(java.util.Map,boolean)@g_gate-core-8.1.jar.txt	4
+gate/persist/SerialDataStore/setStorageUrl(java.lang.String)@g_gate-core-8.1.jar.txt	0
+gate/gui/MainFrame/createSearchableDataStore()@g_gate-core-8.1.jar.txt	3
+gate/Gate/init()@g_gate-core-8.1.jar.txt	2
+gate/creole/CreoleRegisterImpl/registerDirectories(java.net.URL,boolean)@g_gate-core-8.1.jar.txt	1

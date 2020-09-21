@@ -1,0 +1,4 @@
+org/eclipse/jetty/servlet/DefaultServlet/DefaultServlet()
+java/net/URL/toExternalForm()
+org/woelker/telemetrion/service/InventoryResource/InventoryResource(org.woelker.telemetrion.core.inventory.Inventory)
+org/woelker/telemetrion/core/engine/Engine/getInventory()

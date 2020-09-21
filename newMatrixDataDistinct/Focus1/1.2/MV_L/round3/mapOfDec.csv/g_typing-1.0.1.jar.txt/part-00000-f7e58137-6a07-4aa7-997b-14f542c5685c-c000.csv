@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/emftvm/impl/ModelImpl/deleteElement(org.eclipse.emf.ecore.EObject)@g_emftvm-3.6.0.jar.txt	1
+org/eclipse/m2m/atl/emftvm/jit/JITCodeBlock/get(java.lang.Object,org.eclipse.m2m.atl.emftvm.util.StackFrame,java.lang.String)@g_emftvm-3.6.0.jar.txt	3
+org/eclipse/m2m/atl/emftvm/jit/JITCodeBlock/get(java.lang.Object,org.eclipse.m2m.atl.emftvm.ExecEnv,java.lang.String)@g_emftvm-3.6.0.jar.txt	2
+org/eclipse/m2m/atl/emftvm/impl/CodeBlockImpl/get(java.lang.String,org.eclipse.m2m.atl.emftvm.util.StackFrame,java.lang.Object)@g_emftvm-3.6.0.jar.txt	4
+org/eclipse/m2m/atl/emftvm/jit/JITCodeBlock/remove(java.lang.Object,java.lang.Object,java.lang.String,org.eclipse.m2m.atl.emftvm.CodeBlock,org.eclipse.m2m.atl.emftvm.util.StackFrame)@g_emftvm-3.6.0.jar.txt	0

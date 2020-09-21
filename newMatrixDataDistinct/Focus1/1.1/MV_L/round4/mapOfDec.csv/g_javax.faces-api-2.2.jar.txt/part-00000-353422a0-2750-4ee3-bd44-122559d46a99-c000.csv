@@ -1,0 +1,5 @@
+javax/faces/component/SelectItemsIterator/GenericObjectSelectItemIterator/GenericObjectSelectItem/updateItem(javax.faces.context.FacesContext,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/application/NavigationHandlerImpl/findImplicitMatch(javax.faces.context.FacesContext,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_javax.faces-2.2.7.jar.txt	0
+javax/faces/component/html/HtmlPanelGroup/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	1
+javax/faces/component/html/HtmlForm/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	4
+javax/faces/component/UIData/setRowIndexRowStatePreserved(int)@g_javax.faces-2.2.7.jar.txt	2

@@ -1,0 +1,4 @@
+org/springframework/boot/context/config/RandomValuePropertySource/getSource()
+java/lang/Long/valueOf(long)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Random/nextInt()

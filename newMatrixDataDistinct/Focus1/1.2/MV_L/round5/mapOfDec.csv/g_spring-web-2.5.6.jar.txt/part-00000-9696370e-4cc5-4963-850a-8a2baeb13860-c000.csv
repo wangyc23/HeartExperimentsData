@@ -1,0 +1,5 @@
+org/springframework/web/context/request/ServletRequestAttributes/updateAccessedSessionAttributes()@g_spring-web-3.2.2.RELEASE.jar.txt	2
+org/springframework/web/util/WebUtils/getOrCreateSessionAttribute(javax.servlet.http.HttpSession,java.lang.String,java.lang.Class)@g_spring-web-3.2.2.RELEASE.jar.txt	0
+org/springframework/web/context/request/ServletRequestAttributes/updateAccessedSessionAttributes()@g_spring-web-4.0.0.RELEASE.jar.txt	3
+org/springframework/web/util/WebUtils/getOrCreateSessionAttribute(javax.servlet.http.HttpSession,java.lang.String,java.lang.Class)@g_spring-web-4.0.0.RELEASE.jar.txt	1
+org/springframework/web/jsf/FacesContextUtils/getWebApplicationContext(javax.faces.context.FacesContext)@g_spring-web-3.2.2.RELEASE.jar.txt	4

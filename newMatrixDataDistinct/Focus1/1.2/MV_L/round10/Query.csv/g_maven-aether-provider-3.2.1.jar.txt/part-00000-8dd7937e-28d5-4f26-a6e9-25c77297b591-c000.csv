@@ -1,0 +1,4 @@
+org/eclipse/aether/repository/RemoteRepository$Builder/setReleasePolicy(org.eclipse.aether.repository.RepositoryPolicy)
+org/apache/maven/model/Repository/getId()
+org/eclipse/aether/repository/RemoteRepository$Builder/build()
+org/eclipse/aether/repository/RemoteRepository$Builder/setSnapshotPolicy(org.eclipse.aether.repository.RepositoryPolicy)

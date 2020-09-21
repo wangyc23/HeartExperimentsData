@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/zip/AbstractZipArchiver/addResources(java.util.Map,org.codehaus.plexus.archiver.zip.ZipOutputStream)@g_plexus-archiver-1.0-alpha-9.jar.txt	2
+org/codehaus/plexus/archiver/dir/DirectoryArchiver/execute()@g_plexus-archiver-1.0-alpha-9.jar.txt	0
+org/codehaus/plexus/archiver/AbstractArchiver/addFileSet(org.codehaus.plexus.archiver.FileSet)@g_plexus-archiver-1.0-alpha-9.jar.txt	1
+org/codehaus/plexus/archiver/dir/DirectoryArchiver/copyFile(org.codehaus.plexus.archiver.ArchiveEntry,java.lang.String)@g_plexus-archiver-1.0-alpha-9.jar.txt	4
+org/codehaus/plexus/archiver/tar/TarArchiver/tarFile(org.codehaus.plexus.archiver.ArchiveEntry,org.codehaus.plexus.archiver.tar.TarOutputStream,java.lang.String)@g_plexus-archiver-1.0-alpha-9.jar.txt	3

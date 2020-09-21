@@ -1,0 +1,5 @@
+org/apache/sis/io/wkt/Formatter/append(org.apache.sis.io.wkt.FormattableObject)@g_sis-metadata-0.5.jar.txt	2
+org/apache/sis/metadata/PropertyAccessor/addMapping(java.lang.String,java.lang.Integer)@g_sis-metadata-0.5.jar.txt	4
+org/apache/sis/referencing/operation/DefaultConcatenatedOperation/mergeAccuracy(java.util.Map,java.util.List)@g_sis-metadata-0.5.jar.txt	1
+org/apache/sis/parameter/DefaultParameterDescriptor/equals(java.lang.Object,org.apache.sis.util.ComparisonMode)@g_sis-metadata-0.5.jar.txt	0
+org/apache/sis/io/wkt/Symbols/toCodePoints(java.lang.String,java.lang.String[])@g_sis-metadata-0.5.jar.txt	3

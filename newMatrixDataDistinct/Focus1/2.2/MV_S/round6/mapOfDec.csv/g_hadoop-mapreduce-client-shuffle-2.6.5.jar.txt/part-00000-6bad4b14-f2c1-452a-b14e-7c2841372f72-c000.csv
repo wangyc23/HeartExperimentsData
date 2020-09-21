@@ -1,0 +1,5 @@
+org/apache/hadoop/ipc/protobuf/RpcHeaderProtos/RpcResponseHeaderProto/writeTo(com.google.protobuf.CodedOutputStream)@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/mapred/FadvisedChunkedFile/close()@g_hadoop-common-2.6.0.jar.txt	1
+org/apache/hadoop/record/compiler/generated/ParseException/add_escapes(java.lang.String)@g_hadoop-common-2.6.0.jar.txt	3
+org/apache/hadoop/mapreduce/Job/getTaskFailureEventString()@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/io/file/tfile/BCFile/Writer/close()@g_hadoop-common-2.6.0.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blocktreeords/OrdsSegmentTermsEnumFrame/nextNonLeaf()@g_lucene-codecs-5.5.0.jar.txt	3
+org/apache/lucene/codecs/blockterms/BlockTermsReader/FieldReader/SegmentTermsEnum/seekExact(long)@g_lucene-codecs-5.5.0.jar.txt	4
+org/apache/lucene/codecs/simpletext/SimpleTextFieldsReader/SimpleTextDocsEnum/nextDoc()@g_lucene-codecs-5.5.0.jar.txt	2
+org/apache/lucene/codecs/simpletext/SimpleTextFieldsReader/SimpleTextPostingsEnum/nextPosition()@g_lucene-codecs-5.5.0.jar.txt	1
+org/apache/lucene/codecs/blocktreeords/OrdsIntersectTermsEnumFrame/load(org.apache.lucene.codecs.blocktreeords.FSTOrdsOutputs$Output)@g_lucene-codecs-5.5.0.jar.txt	0

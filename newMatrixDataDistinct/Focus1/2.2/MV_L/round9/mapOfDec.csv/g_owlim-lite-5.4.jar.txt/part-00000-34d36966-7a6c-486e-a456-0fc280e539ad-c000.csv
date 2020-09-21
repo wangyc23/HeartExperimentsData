@@ -1,0 +1,5 @@
+edu/stanford/nlp/ling/tokensregex/MatchedExpression/replaceMergedUsingTokenOffsets(java.util.List,java.util.List)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/pipeline/ChunkAnnotationUtils/checkOffsets(edu.stanford.nlp.util.CoreMap)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/nndep/DependencyParser/genTrainExamples(java.util.List,java.util.List)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/lexparser/ExhaustivePCFGParser/lazyNext(edu.stanford.nlp.util.PriorityQueue,edu.stanford.nlp.parser.lexparser.ExhaustivePCFGParser$Derivation,int)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/pipeline/ChunkAnnotationUtils/getAnnotatedChunksUsingSortedCharOffsets(edu.stanford.nlp.util.CoreMap,java.util.List,boolean,java.lang.Class,java.lang.Class,boolean)@g_stanford-parser-3.5.2.jar.txt	2

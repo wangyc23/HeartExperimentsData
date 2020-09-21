@@ -1,0 +1,5 @@
+org/springframework/web/filter/ShallowEtagHeaderFilter/updateResponse(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-web-4.1.7.RELEASE.jar.txt	3
+org/springframework/web/jsf/FacesContextUtils/getWebApplicationContext(javax.faces.context.FacesContext)@g_spring-web-4.1.7.RELEASE.jar.txt	2
+org/springframework/web/filter/GenericFilterBean/init(javax.servlet.FilterConfig)@g_spring-web-4.1.7.RELEASE.jar.txt	4
+org/springframework/web/util/UriUtils/encodeHttpUrl(java.lang.String,java.lang.String)@g_spring-web-4.1.7.RELEASE.jar.txt	1
+org/springframework/http/converter/json/Jackson2ObjectMapperBuilder/configure(com.fasterxml.jackson.databind.ObjectMapper)@g_spring-web-4.1.7.RELEASE.jar.txt	0

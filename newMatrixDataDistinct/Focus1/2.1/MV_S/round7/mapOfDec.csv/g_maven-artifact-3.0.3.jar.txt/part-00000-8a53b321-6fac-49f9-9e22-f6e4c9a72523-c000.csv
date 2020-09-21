@@ -1,0 +1,5 @@
+org/apache/maven/artifact/installer/DefaultArtifactInstaller/install(java.io.File,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-compat-3.0-alpha-2.jar.txt	3
+org/apache/maven/artifact/manager/DefaultWagonManager/getRemoteFile(org.apache.maven.artifact.repository.ArtifactRepository,java.io.File,java.lang.String,org.apache.maven.wagon.events.TransferListener,java.lang.String,boolean)@g_maven-compat-3.0-alpha-2.jar.txt	1
+org/apache/maven/artifact/manager/DefaultWagonManager/getArtifact(org.apache.maven.artifact.Artifact,java.util.List,boolean)@g_maven-compat-3.0-alpha-2.jar.txt	2
+org/apache/maven/artifact/manager/DefaultUpdateCheckManager/readLastUpdated(java.io.File,java.lang.String)@g_maven-compat-3.0-alpha-2.jar.txt	0
+org/apache/maven/artifact/versioning/ComparableVersion/ListItem/compareTo(org.apache.maven.artifact.versioning.ComparableVersion$Item)@g_maven-compat-3.0-alpha-2.jar.txt	4

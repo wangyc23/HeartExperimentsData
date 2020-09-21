@@ -1,0 +1,4 @@
+0	org/apache/bigtop/datagenerators/bigpetstore/datamodels/Transaction/getStore()
+1	org/apache/bigtop/datagenerators/bigpetstore/datamodels/Customer/getId()
+2	java/io/OutputStream/close()
+3	org/apache/bigtop/datagenerators/bigpetstore/datamodels/Customer/getLocation()

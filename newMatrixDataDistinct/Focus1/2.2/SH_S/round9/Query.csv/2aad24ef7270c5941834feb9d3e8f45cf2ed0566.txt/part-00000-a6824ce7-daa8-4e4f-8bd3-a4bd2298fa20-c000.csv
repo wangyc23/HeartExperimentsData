@@ -1,0 +1,4 @@
+javax/ws/rs/core/Response/ResponseBuilder/build()
+com/fasterxml/jackson/databind/ObjectMapper/writeValueAsString(java.lang.Object)
+javax/ws/rs/core/Response/ResponseBuilder/entity(java.lang.Object)
+com/fasterxml/jackson/databind/ObjectMapper/ObjectMapper()

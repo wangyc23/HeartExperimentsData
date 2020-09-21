@@ -1,0 +1,4 @@
+org/neo4j/graphdb/index/Index/isWriteable()
+org/slf4j/Logger/warn(java.lang.String)
+org/neo4j/graphdb/index/RelationshipIndex/delete()
+org/neo4j/graphdb/index/IndexManager/forNodes(java.lang.String)

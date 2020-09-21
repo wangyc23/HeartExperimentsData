@@ -1,0 +1,5 @@
+org/apache/juli/ClassLoaderLogManager/readConfiguration(java.io.InputStream,java.lang.ClassLoader)@g_tomcat-embed-logging-juli-8.0.20.jar.txt	4
+org/apache/juli/OneLineFormatter/getThreadName(int)@g_tomcat-embed-logging-juli-8.0.20.jar.txt	2
+org/apache/juli/OneLineFormatter/format(java.util.logging.LogRecord)@g_tomcat-embed-logging-juli-8.0.26.jar.txt	1
+org/apache/juli/ClassLoaderLogManager/addLogger(java.util.logging.Logger)@g_tomcat-embed-logging-juli-8.0.20.jar.txt	3
+org/apache/juli/OneLineFormatter/format(java.util.logging.LogRecord)@g_tomcat-embed-logging-juli-8.0.20.jar.txt	0

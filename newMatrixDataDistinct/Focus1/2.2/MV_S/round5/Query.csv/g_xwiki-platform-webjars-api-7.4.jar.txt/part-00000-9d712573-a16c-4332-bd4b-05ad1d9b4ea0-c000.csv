@@ -1,0 +1,4 @@
+org/xwiki/resource/ResourceReferenceHandlerException/ResourceReferenceHandlerException(java.lang.String,java.lang.Throwable)
+org/xwiki/container/Response/getOutputStream()
+org/apache/commons/io/IOUtils/copy(java.io.InputStream,java.io.OutputStream)
+org/apache/tika/Tika/detect(java.io.InputStream,java.lang.String)

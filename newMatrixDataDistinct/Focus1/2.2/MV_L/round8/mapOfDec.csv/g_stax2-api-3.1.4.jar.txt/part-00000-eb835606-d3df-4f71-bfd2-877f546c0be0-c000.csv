@@ -1,0 +1,5 @@
+org/codehaus/stax2/ri/typed/ValueDecoderFactory/LongDecoder/parseUsingBD(java.lang.String,boolean)@g_stax2-api-3.1.1.jar.txt	1
+com/ctc/wstx/dtd/DTDValidator/validateAttribute(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_stax2-api-3.1.1.jar.txt	2
+com/ctc/wstx/dtd/FullDTDReader/handleElementDecl()@g_stax2-api-3.1.1.jar.txt	3
+org/codehaus/stax2/ri/typed/Base64DecoderBase/reportInvalidChar(char,int,java.lang.String)@g_stax2-api-3.1.1.jar.txt	0
+org/codehaus/stax2/ri/evt/StartElementEventImpl/writeUsing(org.codehaus.stax2.XMLStreamWriter2)@g_stax2-api-3.1.1.jar.txt	4

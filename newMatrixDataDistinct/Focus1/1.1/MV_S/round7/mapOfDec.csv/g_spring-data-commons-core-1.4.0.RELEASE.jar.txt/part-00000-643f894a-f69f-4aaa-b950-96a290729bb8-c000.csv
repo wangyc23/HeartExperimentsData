@@ -1,0 +1,5 @@
+org/springframework/data/repository/query/ExtensionAwareEvaluationContextProvider/toAdapters(java.util.Collection)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	2
+org/springframework/data/querydsl/binding/QuerydslDefaultBinding/bind(com.mysema.query.types.Path,java.util.Collection)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	3
+org/springframework/data/web/SortHandlerMethodArgumentResolver/foldIntoExpressions(org.springframework.data.domain.Sort)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	1
+org/springframework/data/domain/jaxb/SpringDataJaxb/unmarshal(java.util.Collection,javax.xml.bind.annotation.adapters.XmlAdapter)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	0
+org/springframework/data/querydsl/binding/QuerydslPredicateBuilder/convertToPropertyPathSpecificType(java.util.List,org.springframework.data.mapping.PropertyPath)@g_spring-data-commons-1.11.1.RELEASE.jar.txt	4

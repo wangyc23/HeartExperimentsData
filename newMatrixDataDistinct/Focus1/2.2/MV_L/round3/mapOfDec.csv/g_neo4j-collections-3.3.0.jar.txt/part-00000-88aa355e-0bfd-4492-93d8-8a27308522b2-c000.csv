@@ -1,0 +1,5 @@
+org/neo4j/helpers/collection/CachingIterator/position(int)@g_neo4j-collections-3.1.0.jar.txt	0
+org/neo4j/helpers/collection/LruCache/resize(int)@g_neo4j-collections-3.0.1.jar.txt	3
+org/neo4j/helpers/collection/MapUtil/load(java.io.InputStream)@g_neo4j-collections-3.1.0.jar.txt	4
+org/neo4j/helpers/collection/CachingIterator/position(int)@g_neo4j-collections-3.0.1.jar.txt	1
+org/neo4j/helpers/collection/LruCache/resize(int)@g_neo4j-collections-3.1.0.jar.txt	2

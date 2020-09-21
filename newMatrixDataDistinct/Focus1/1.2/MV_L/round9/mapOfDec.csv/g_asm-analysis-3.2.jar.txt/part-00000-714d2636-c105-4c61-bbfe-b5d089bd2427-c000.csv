@@ -1,0 +1,5 @@
+org/objectweb/asm/tree/analysis/BasicVerifier/naryOperation(org.objectweb.asm.tree.AbstractInsnNode,java.util.List)@g_asm-analysis-5.2.jar.txt	4
+org/objectweb/asm/tree/analysis/BasicInterpreter/newOperation(org.objectweb.asm.tree.AbstractInsnNode)@g_asm-analysis-4.1.jar.txt	3
+org/objectweb/asm/tree/analysis/BasicVerifier/naryOperation(org.objectweb.asm.tree.AbstractInsnNode,java.util.List)@g_asm-analysis-4.1.jar.txt	2
+org/objectweb/asm/tree/analysis/Analyzer/analyze(java.lang.String,org.objectweb.asm.tree.MethodNode)@g_asm-analysis-5.2.jar.txt	1
+org/objectweb/asm/tree/analysis/Analyzer/analyze(java.lang.String,org.objectweb.asm.tree.MethodNode)@g_asm-analysis-4.1.jar.txt	0

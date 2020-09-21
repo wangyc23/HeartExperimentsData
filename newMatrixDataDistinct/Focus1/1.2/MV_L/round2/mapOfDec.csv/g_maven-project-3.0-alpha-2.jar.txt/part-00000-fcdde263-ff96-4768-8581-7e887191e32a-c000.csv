@@ -1,0 +1,5 @@
+org/apache/maven/project/artifact/MavenMetadataSource/retrieve(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-project-2.0.9.jar.txt	1
+org/apache/maven/project/ModelUtils/cloneProfilePlugins(java.util.List)@g_maven-project-2.0.9.jar.txt	4
+org/apache/maven/project/artifact/MavenMetadataSource/retrieveAvailableVersions(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-project-2.0.9.jar.txt	2
+org/apache/maven/project/ModelUtils/cloneProfileReporting(org.apache.maven.model.Reporting)@g_maven-project-2.0.9.jar.txt	3
+org/apache/maven/project/ModelUtils/cloneProfileResources(java.util.List)@g_maven-project-2.0.9.jar.txt	0

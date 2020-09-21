@@ -1,0 +1,5 @@
+com/web/mytest/other/UserDetailsServiceImpl/getRoles(java.lang.Integer)@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	2
+com/web/mytest/other/UserDetailsServiceImpl/getGrantedAuthorities(java.util.List)@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	1
+com/web/mavenproject6/other/UserDetailsServiceImpl/getGrantedAuthorities(java.util.List)@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	3
+com/web/mavenproject6/controller/DocumentUploadController/uploadMultipleFileHandler(org.springframework.web.multipart.MultipartFile[])@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	0
+com/web/mavenproject6/other/UserDetailsServiceImpl/getRoles(java.lang.Integer)@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	4

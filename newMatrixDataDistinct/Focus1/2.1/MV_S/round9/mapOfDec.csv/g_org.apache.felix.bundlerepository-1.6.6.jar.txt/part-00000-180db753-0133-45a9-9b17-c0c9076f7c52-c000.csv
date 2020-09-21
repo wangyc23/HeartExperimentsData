@@ -1,0 +1,5 @@
+org/apache/ivy/core/settings/XmlSettingsParser/inConfiguratorStarted(java.lang.String,java.util.Map)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/tools/analyser/JarJarDependencyAnalyser/analyze(org.apache.ivy.tools.analyser.JarModule[])@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/ant/IvyMakePom/getMappingsMap()@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/ant/IvyBuildList/doExecute()@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0

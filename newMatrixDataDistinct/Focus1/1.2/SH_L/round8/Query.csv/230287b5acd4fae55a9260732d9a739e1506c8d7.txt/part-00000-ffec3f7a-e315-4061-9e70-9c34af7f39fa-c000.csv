@@ -1,0 +1,4 @@
+javax/ws/rs/client/WebTarget/request()
+java/util/HashMap/HashMap()
+javax/ws/rs/client/SyncInvoker/get(java.lang.Class)
+javax/ws/rs/client/WebTarget/path(java.lang.String)

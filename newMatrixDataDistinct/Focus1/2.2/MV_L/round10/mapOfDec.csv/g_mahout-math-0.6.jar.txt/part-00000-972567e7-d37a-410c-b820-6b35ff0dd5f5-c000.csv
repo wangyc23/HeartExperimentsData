@@ -1,0 +1,5 @@
+org/apache/mahout/math/matrix/linalg/LUDecompositionQuick/decompose(org.apache.mahout.math.matrix.DoubleMatrix2D)@g_mahout-math-0.3.jar.txt	1
+org/apache/mahout/math/JsonVectorAdapter/serialize(org.apache.mahout.math.Vector,java.lang.reflect.Type,com.google.gson.JsonSerializationContext)@g_mahout-math-0.3.jar.txt	2
+org/apache/mahout/math/decomposer/lanczos/LanczosSolver/solve(org.apache.mahout.math.VectorIterable,int,org.apache.mahout.math.Matrix,java.util.List,boolean)@g_mahout-math-0.3.jar.txt	3
+org/apache/mahout/math/AbstractVector/norm(double)@g_mahout-math-0.3.jar.txt	0
+org/apache/mahout/math/decomposer/hebbian/HebbianSolver/main(java.lang.String[])@g_mahout-math-0.3.jar.txt	4

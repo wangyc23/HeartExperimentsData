@@ -1,0 +1,5 @@
+com/github/jsonldjava/core/Context/serialize()@g_jsonld-java-0.11.1.jar.txt	3
+com/github/jsonldjava/core/JsonLdUtils/deepCompare(java.lang.Object,java.lang.Object,java.lang.Boolean)@g_jsonld-java-0.11.1.jar.txt	0
+com/github/jsonldjava/core/JsonLdProcessor/flatten(java.lang.Object,java.lang.Object,com.github.jsonldjava.core.JsonLdOptions)@g_jsonld-java-0.11.1.jar.txt	1
+com/github/jsonldjava/core/RDFDataset/graphToRDF(java.lang.String,java.util.Map)@g_jsonld-java-0.11.1.jar.txt	4
+com/github/jsonldjava/core/Context/compactIri(java.lang.String,java.lang.Object,boolean,boolean)@g_jsonld-java-0.11.1.jar.txt	2

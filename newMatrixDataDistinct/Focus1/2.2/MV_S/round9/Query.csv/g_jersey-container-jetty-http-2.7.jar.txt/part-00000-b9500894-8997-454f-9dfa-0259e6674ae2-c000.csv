@@ -1,0 +1,4 @@
+org/eclipse/jetty/server/Response/reset()
+org/glassfish/jersey/jetty/JettyHttpContainer$ResponseWriter/rethrow(java.lang.Throwable)
+org/eclipse/jetty/server/Response/sendError(int,java.lang.String)
+java/lang/Integer/valueOf(int)

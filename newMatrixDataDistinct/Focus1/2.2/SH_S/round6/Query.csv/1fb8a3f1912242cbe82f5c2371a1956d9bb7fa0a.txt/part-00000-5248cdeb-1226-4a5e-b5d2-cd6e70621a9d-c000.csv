@@ -1,0 +1,4 @@
+br/com/igor/tccrestws/service/AtividadeService/selecionaAtividadeRandom(java.util.List)
+com/google/gson/Gson/toJson(java.lang.Object)
+com/google/gson/Gson/Gson()
+br/com/igor/tccrestws/dao/AtividadeDao/selectAllAtividadeSugestao(br.com.igor.tccrestws.entity.Usuario)

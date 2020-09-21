@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/ir/v3_2/QueryGraph$/apply$default$4()
+org/neo4j/cypher/internal/ir/v3_2/QueryGraph$/apply$default$8()
+org/neo4j/cypher/internal/frontend/v3_2/Foldable$/FoldableAny(java.lang.Object)
+scala/collection/Seq/toSet()

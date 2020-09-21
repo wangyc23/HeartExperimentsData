@@ -1,0 +1,5 @@
+ch/qos/logback/classic/gaffer/ConfigurationDelegate/logger(java.lang.String,ch.qos.logback.classic.Level,java.util.List,java.lang.Boolean)@g_logback-classic-1.1.11.jar.txt	0
+ch/qos/logback/classic/pattern/MDCConverter/outputMDCForAllKeys(java.util.Map)@g_logback-classic-1.1.11.jar.txt	2
+ch/qos/logback/classic/db/DBAppender/insertProperties(java.util.Map,java.sql.Connection,long)@g_logback-classic-1.1.11.jar.txt	1
+ch/qos/logback/classic/util/ContextInitializer/multiplicityWarning(java.lang.String,java.lang.ClassLoader)@g_logback-classic-1.1.11.jar.txt	3
+ch/qos/logback/classic/gaffer/ComponentDelegate/cascadeFields(ch.qos.logback.classic.gaffer.ComponentDelegate)@g_logback-classic-1.1.11.jar.txt	4

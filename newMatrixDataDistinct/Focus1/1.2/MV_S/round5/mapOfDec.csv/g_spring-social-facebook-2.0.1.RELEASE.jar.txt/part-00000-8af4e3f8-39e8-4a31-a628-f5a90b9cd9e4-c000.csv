@@ -1,0 +1,5 @@
+org/jsonschema2pojo/SchemaMapper/readSchema(java.net.URL)@g_jsonschema2pojo-core-0.4.0.jar.txt	4
+org/springframework/social/connect/web/ReconnectFilter/handleExceptionFromFilterChain(java.lang.Exception,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-social-web-1.1.2.RELEASE.jar.txt	2
+org/springframework/social/connect/web/ReconnectFilter/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain)@g_spring-social-web-1.1.2.RELEASE.jar.txt	0
+org/springframework/social/connect/web/ConnectSupport/completeConnection(org.springframework.social.connect.support.OAuth2ConnectionFactory,org.springframework.web.context.request.NativeWebRequest)@g_spring-social-web-1.1.2.RELEASE.jar.txt	1
+org/jsonschema2pojo/ContentResolver/resolve(java.net.URI)@g_jsonschema2pojo-core-0.4.0.jar.txt	3

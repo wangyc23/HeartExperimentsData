@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdfparser/COSParser/parseHeader(java.lang.String,java.lang.String)@g_pdfbox-2.0.8.jar.txt	1
+org/apache/pdfbox/pdmodel/font/TrueTypeEmbedder/subset()@g_pdfbox-2.0.8.jar.txt	4
+org/apache/pdfbox/pdfparser/COSParser/parseHeader(java.lang.String,java.lang.String)@g_pdfbox-2.0.7.jar.txt	3
+org/apache/pdfbox/text/PDFTextStripper/<clinit>()@g_pdfbox-2.0.8.jar.txt	0
+org/apache/pdfbox/text/PDFTextStripper/<clinit>()@g_pdfbox-2.0.7.jar.txt	2

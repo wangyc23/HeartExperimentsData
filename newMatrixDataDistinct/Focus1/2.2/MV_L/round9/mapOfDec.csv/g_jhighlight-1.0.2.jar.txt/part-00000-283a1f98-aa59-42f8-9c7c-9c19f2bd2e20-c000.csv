@@ -1,0 +1,5 @@
+com/uwyn/jhighlight/tools/FileUtils/getFileList(java.io.File,java.util.regex.Pattern[],java.util.regex.Pattern[],boolean)@g_jhighlight-1.0.jar.txt	1
+com/uwyn/jhighlight/renderer/XhtmlRenderer/getCssClassDefinitions()@g_jhighlight-1.0.jar.txt	0
+com/uwyn/jhighlight/JHighlight/main(java.lang.String[])@g_jhighlight-1.0.jar.txt	2
+org/ictclas4j/bean/SegResult/toHTML()@g_ictclas4j-1.0.1.jar.txt	4
+org/ictclas4j/utility/GFString/sortByLen(java.util.ArrayList,boolean)@g_ictclas4j-1.0.1.jar.txt	3

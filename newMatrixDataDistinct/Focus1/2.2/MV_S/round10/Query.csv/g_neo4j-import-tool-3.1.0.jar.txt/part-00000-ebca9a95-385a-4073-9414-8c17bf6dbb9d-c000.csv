@@ -1,0 +1,4 @@
+org/neo4j/kernel/impl/util/OsBeanUtil/getFreePhysicalMemory()
+org/neo4j/unsafe/impl/batchimport/Configuration/maxNumberOfProcessors()
+java/lang/StringBuilder/append(int)
+java/io/PrintStream/println()

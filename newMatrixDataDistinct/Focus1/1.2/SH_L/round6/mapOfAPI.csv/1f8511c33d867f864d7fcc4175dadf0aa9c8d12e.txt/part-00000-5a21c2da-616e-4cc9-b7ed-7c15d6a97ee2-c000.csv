@@ -1,0 +1,4 @@
+0	org/sindice/siren/qparser/analysis/NTripleQueryTokenizerImpl/getURIText()
+1	org/apache/lucene/analysis/tokenattributes/CharTermAttribute/append(java.lang.String)
+2	org/sindice/siren/qparser/analysis/NTripleQueryTokenizerImpl/getLiteralText()
+3	org/sindice/siren/qparser/analysis/NTripleQueryTokenizerImpl/getNextToken()

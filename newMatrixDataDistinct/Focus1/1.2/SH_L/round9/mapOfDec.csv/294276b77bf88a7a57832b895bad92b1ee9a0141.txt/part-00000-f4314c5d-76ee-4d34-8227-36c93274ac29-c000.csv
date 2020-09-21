@@ -1,0 +1,5 @@
+tools/directorywalker/BeanXMLReWriter/walk(java.lang.String)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	1
+net/miladinov/containers/CollectionDataGeneration/main(java.lang.String[])@2ea521f70b748744db431e4a2a9648eceb229bee.txt	2
+org/jbpm/executor/impl/ExecutorRunnable/run()@25cba37ea33247d018db2db44e5e80fa506b5119.txt	0
+com/freedomotic/plugins/devices/twilight/providersit/mazzoni/twilight/providers/OpenWeatherMapWI/getXMLStatusFile(int,int,int,int)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	3
+com/freedomotic/model/environment/Environment/getLastZoneIndex()@2ea521f70b748744db431e4a2a9648eceb229bee.txt	4

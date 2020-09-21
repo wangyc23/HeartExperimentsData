@@ -1,0 +1,5 @@
+org/apache/sis/internal/jaxb/referencing/CC_GeneralOperationParameter/mergeArrays(java.lang.String,java.lang.Class,java.util.Collection,java.util.Map,org.opengis.metadata.Identifier)@g_sis-referencing-0.6.jar.txt	0
+org/apache/sis/parameter/DefaultParameterDescriptorGroup/descriptor(java.lang.String)@g_sis-referencing-0.6.jar.txt	2
+org/apache/sis/internal/jaxb/referencing/CC_GeneralOperationParameter/containsAll(java.util.Collection,java.util.Collection)@g_sis-referencing-0.6.jar.txt	1
+org/apache/sis/internal/util/CollectionsExt/toCaseInsensitiveNameMap(java.util.Collection,org.apache.sis.internal.jdk8.Function,java.util.Locale)@g_sis-utility-0.5.jar.txt	4
+org/apache/sis/parameter/ParameterFormat/format(java.lang.String,org.opengis.parameter.ParameterDescriptorGroup,org.opengis.parameter.ParameterValueGroup,java.lang.Appendable)@g_sis-referencing-0.6.jar.txt	3

@@ -1,0 +1,5 @@
+org/eclipse/jgit/api/CherryPickCommand/call()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	2
+org/eclipse/jgit/merge/ResolveMerger/processEntry(org.eclipse.jgit.treewalk.CanonicalTreeParser,org.eclipse.jgit.treewalk.CanonicalTreeParser,org.eclipse.jgit.treewalk.CanonicalTreeParser,org.eclipse.jgit.dircache.DirCacheBuildIterator,org.eclipse.jgit.treewalk.WorkingTreeIterator,boolean)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	1
+org/eclipse/jgit/internal/storage/pack/PackWriter/runTasks(java.util.concurrent.ExecutorService,org.eclipse.jgit.lib.ThreadSafeProgressMonitor,org.eclipse.jgit.internal.storage.pack.DeltaTask$Block,java.util.List)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	4
+org/eclipse/jgit/transport/BundleFetchConnection/verifyPrerequisites()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	3
+org/eclipse/jgit/merge/RecursiveMerger/getBaseCommit(org.eclipse.jgit.revwalk.RevCommit,org.eclipse.jgit.revwalk.RevCommit,int)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	0

@@ -1,0 +1,5 @@
+com/sun/jersey/core/spi/component/ComponentConstructor/getConstructor()@g_jersey-core-1.18.1.jar.txt	1
+com/sun/jersey/core/spi/component/ProviderServices/getInstances(java.lang.Class,java.lang.String[])@g_jersey-core-1.18.1.jar.txt	3
+com/sun/jersey/api/uri/UriTemplate/createURI(java.util.Map)@g_jersey-core-1.18.1.jar.txt	4
+com/sun/jersey/core/impl/provider/entity/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_jersey-core-1.18.1.jar.txt	0
+com/sun/jersey/core/util/StringKeyStringValueIgnoreCaseMultivaluedMap/get(java.lang.String,java.lang.Class)@g_jersey-core-1.18.1.jar.txt	2

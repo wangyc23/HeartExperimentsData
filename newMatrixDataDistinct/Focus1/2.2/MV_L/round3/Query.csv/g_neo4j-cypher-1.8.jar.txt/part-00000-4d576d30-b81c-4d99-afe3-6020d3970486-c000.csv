@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+scala/util/parsing/combinator/Parsers$$tilde/_1()
+scala/util/parsing/combinator/Parsers$$tilde/_2()
+org/neo4j/cypher/internal/parser/v1_6/ReturnClause$$anonfun$returnsClause$3$$anonfun$3/3(org.neo4j.cypher.internal.parser.v1_6.ReturnClause$$anonfun$returnsClause$3)

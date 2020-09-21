@@ -1,0 +1,5 @@
+org/apache/maven/plugin/CacheUtils/dependenciesEquals(java.util.List,java.util.List)@g_maven-core-3.0.3.jar.txt	2
+org/apache/maven/RepositoryUtils/toDependency(org.apache.maven.model.Dependency,org.sonatype.aether.artifact.ArtifactTypeRegistry)@g_maven-core-3.0.3.jar.txt	3
+org/apache/maven/project/artifact/MavenMetadataSource/createDependencyArtifact(org.apache.maven.artifact.factory.ArtifactFactory,org.apache.maven.model.Dependency,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-core-3.0.4.jar.txt	1
+org/apache/maven/project/artifact/MavenMetadataSource/createDependencyArtifact(org.apache.maven.artifact.factory.ArtifactFactory,org.apache.maven.model.Dependency,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-core-3.0.3.jar.txt	0
+org/apache/maven/plugin/CacheUtils/pluginHashCode(org.apache.maven.model.Plugin)@g_maven-core-3.0.3.jar.txt	4

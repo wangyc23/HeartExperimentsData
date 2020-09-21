@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/createPurgeArtifactsFilter(java.util.Set)@g_maven-dependency-plugin-2.10.jar.txt	1
+org/apache/maven/plugin/dependency/fromDependencies/BuildClasspathMojo/doExecute()@g_maven-dependency-plugin-2.10.jar.txt	3
+org/apache/maven/plugin/dependency/GetMojo/parseRepository(java.lang.String,org.apache.maven.artifact.repository.ArtifactRepositoryPolicy)@g_maven-dependency-plugin-2.10.jar.txt	0
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/manualPurge(java.util.List)@g_maven-dependency-plugin-2.10.jar.txt	4
+org/apache/maven/plugin/dependency/fromConfiguration/AbstractFromConfigurationMojo/getProcessedArtifactItems(org.apache.maven.plugin.dependency.fromConfiguration.ProcessArtifactItemsRequest)@g_maven-dependency-plugin-2.10.jar.txt	2

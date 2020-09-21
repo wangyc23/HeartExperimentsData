@@ -1,0 +1,5 @@
+org/apache/maven/DefaultMaven/doExecute(org.apache.maven.execution.MavenExecutionRequest,org.apache.maven.monitor.event.EventDispatcher)@g_maven-core-2.2.1.jar.txt	1
+org/apache/maven/plugin/PluginConfigurationException/addParameterUsageInfo(java.lang.String,java.lang.StringBuffer)@g_maven-core-2.0.9.jar.txt	2
+org/apache/maven/lifecycle/DefaultLifecycleExecutor/getReports(java.util.List,org.apache.maven.project.MavenProject,org.apache.maven.plugin.MojoExecution,org.apache.maven.execution.MavenSession)@g_maven-core-2.0.9.jar.txt	4
+org/apache/maven/extension/DefaultExtensionManager/addExtension(org.apache.maven.model.Extension,org.apache.maven.project.MavenProject,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-core-2.0.9.jar.txt	3
+org/apache/maven/DefaultMaven/doExecute(org.apache.maven.execution.MavenExecutionRequest,org.apache.maven.monitor.event.EventDispatcher)@g_maven-core-2.0.9.jar.txt	0

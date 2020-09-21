@@ -1,0 +1,4 @@
+org/springframework/retry/support/RetryTemplate/RetryTemplate()
+org/springframework/retry/backoff/ExponentialBackOffPolicy/setMultiplier(double)
+org/springframework/boot/autoconfigure/amqp/RabbitProperties$Retry/getMultiplier()
+org/springframework/retry/support/RetryTemplate/setBackOffPolicy(org.springframework.retry.backoff.BackOffPolicy)

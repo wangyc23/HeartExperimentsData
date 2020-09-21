@@ -1,0 +1,4 @@
+org/w3c/dom/Element/getLocalName()
+org/w3c/dom/Element/getAttribute(java.lang.String)
+org/springframework/beans/factory/support/RootBeanDefinition/getConstructorArgumentValues()
+java/util/Iterator/next()

@@ -1,0 +1,3 @@
+0	dao/MeasurementDAOImpl/updateMeasurementTwitterLast24Authors(model.Measurement)
+1	s/Livenstain/editdist(java.lang.String,java.lang.String)
+2	java/io/PrintStream/println(int)

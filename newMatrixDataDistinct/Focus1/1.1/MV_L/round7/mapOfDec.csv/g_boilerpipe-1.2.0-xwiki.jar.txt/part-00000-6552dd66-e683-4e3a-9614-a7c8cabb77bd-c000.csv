@@ -1,0 +1,5 @@
+de/l3s/boilerpipe/sax/HTMLFetcher/fetch(java.net.URL)@g_boilerpipe-1.1.0.jar.txt	4
+org/semarglproject/xml/XmlUtils/isPrefixIgnorable(java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_boilerpipe-1.1.0.jar.txt	1
+de/l3s/boilerpipe/sax/CommonTagActions/7/start(de.l3s.boilerpipe.sax.BoilerpipeHTMLContentHandler,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_boilerpipe-1.1.0.jar.txt	2
+de/l3s/boilerpipe/filters/english/TerminatingBlocksFinder/process(de.l3s.boilerpipe.document.TextDocument)@g_boilerpipe-1.1.0.jar.txt	0
+de/l3s/boilerpipe/filters/heuristics/AddPrecedingLabelsFilter/process(de.l3s.boilerpipe.document.TextDocument)@g_boilerpipe-1.1.0.jar.txt	3

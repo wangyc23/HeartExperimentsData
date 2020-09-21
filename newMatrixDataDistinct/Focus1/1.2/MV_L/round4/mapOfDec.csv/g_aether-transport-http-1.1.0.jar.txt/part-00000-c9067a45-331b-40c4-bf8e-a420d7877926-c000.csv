@@ -1,0 +1,5 @@
+org/jets3t/service/impl/rest/httpclient/RestStorageService/performRequest(org.apache.http.client.methods.HttpUriRequest,int[],org.apache.http.protocol.HttpContext)@g_jets3t-0.9.0.jar.txt	1
+org/jets3t/service/utils/FileComparer/isIgnored(java.util.List,java.io.File)@g_jets3t-0.9.0.jar.txt	4
+org/jets3t/service/S3Service/putObjectMaybeAsMultipart(java.lang.String,org.jets3t.service.model.StorageObject,long)@g_jets3t-0.9.0.jar.txt	0
+org/jets3t/service/utils/MultipartUtils/splitFileIntoObjectsByMaxPartSize(java.lang.String,java.io.File)@g_jets3t-0.9.0.jar.txt	3
+org/jets3t/service/CloudFrontService/createDistributionImpl(boolean,org.jets3t.service.model.cloudfront.Origin,java.lang.String,java.lang.String[],java.lang.String,boolean,org.jets3t.service.model.cloudfront.LoggingStatus,boolean,java.lang.String[],java.lang.String[],java.lang.String)@g_jets3t-0.9.0.jar.txt	2

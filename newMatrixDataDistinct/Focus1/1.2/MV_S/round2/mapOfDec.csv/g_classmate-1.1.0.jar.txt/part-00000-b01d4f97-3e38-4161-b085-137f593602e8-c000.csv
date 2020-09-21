@@ -1,0 +1,5 @@
+shaded/parquet/org/codehaus/jackson/map/deser/BeanDeserializer/resolve(shaded.parquet.org.codehaus.jackson.map.DeserializationConfig,shaded.parquet.org.codehaus.jackson.map.DeserializerProvider)@g_parquet-jackson-1.8.2.jar.txt	4
+shaded/parquet/org/codehaus/jackson/map/introspect/POJOPropertiesCollector/_renameProperties()@g_parquet-jackson-1.8.2.jar.txt	1
+com/pff/PSTFolder/initEmailsTable()@g_java-libpst-0.8.1.jar.txt	3
+shaded/parquet/org/codehaus/jackson/node/ObjectNode/putAll(java.util.Map)@g_parquet-jackson-1.8.2.jar.txt	0
+com/pff/PSTFolder/getSubFolders()@g_java-libpst-0.8.1.jar.txt	2

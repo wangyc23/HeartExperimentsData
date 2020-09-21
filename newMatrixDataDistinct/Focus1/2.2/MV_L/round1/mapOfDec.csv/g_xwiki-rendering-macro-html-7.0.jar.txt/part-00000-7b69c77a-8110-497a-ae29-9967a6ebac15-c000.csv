@@ -1,0 +1,4 @@
+org/xwiki/rendering/internal/macro/html/HTMLMacro/renderWikiSyntax(java.lang.String,org.xwiki.rendering.transformation.Transformation,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-rendering-macro-html-7.4.jar.txt	1
+org/xwiki/rendering/internal/macro/html/HTMLMacro/cleanHTML(java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-rendering-macro-html-7.4.2.jar.txt	2
+org/xwiki/rendering/internal/macro/html/HTMLMacro/cleanHTML(java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-rendering-macro-html-7.4.jar.txt	3
+org/xwiki/rendering/internal/macro/html/HTMLMacro/renderWikiSyntax(java.lang.String,org.xwiki.rendering.transformation.Transformation,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-rendering-macro-html-7.4.2.jar.txt	0

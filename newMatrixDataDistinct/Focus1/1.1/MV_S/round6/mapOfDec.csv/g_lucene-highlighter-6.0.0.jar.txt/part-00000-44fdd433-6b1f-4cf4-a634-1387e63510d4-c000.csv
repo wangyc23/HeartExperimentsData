@@ -1,0 +1,5 @@
+org/apache/lucene/queries/mlt/MoreLikeThis/addTermFrequencies(java.io.Reader,java.util.Map,java.lang.String)@g_lucene-queries-6.0.0.jar.txt	4
+org/apache/lucene/queries/function/valuesource/SumTotalTermFreqValueSource/createWeight(java.util.Map,org.apache.lucene.search.IndexSearcher)@g_lucene-queries-6.0.0.jar.txt	3
+org/apache/lucene/search/suggest/document/ContextQuery/addContext(java.lang.CharSequence,float,boolean)@g_lucene-suggest-6.4.1.jar.txt	0
+org/apache/lucene/search/suggest/document/ContextQuery/createWeight(org.apache.lucene.search.IndexSearcher,boolean)@g_lucene-suggest-6.4.1.jar.txt	1
+org/apache/lucene/search/suggest/document/CompletionFieldsConsumer/write(org.apache.lucene.index.Fields)@g_lucene-suggest-6.4.1.jar.txt	2

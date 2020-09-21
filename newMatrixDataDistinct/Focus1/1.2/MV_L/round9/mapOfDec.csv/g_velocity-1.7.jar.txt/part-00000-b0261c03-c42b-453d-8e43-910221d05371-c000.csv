@@ -1,0 +1,5 @@
+org/apache/velocity/util/StringUtils/stringSubstitution(java.lang.String,java.util.Map)@g_velocity-1.5.jar.txt	3
+org/apache/velocity/runtime/parser/node/NodeUtils/interpolate(java.lang.String,org.apache.velocity.context.Context)@g_velocity-1.5.jar.txt	1
+org/apache/velocity/runtime/parser/node/ASTReference/getRoot()@g_velocity-1.5.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	4
+org/apache/velocity/runtime/parser/node/ASTStringLiteral/init(org.apache.velocity.context.InternalContextAdapter,java.lang.Object)@g_velocity-1.5.jar.txt	0

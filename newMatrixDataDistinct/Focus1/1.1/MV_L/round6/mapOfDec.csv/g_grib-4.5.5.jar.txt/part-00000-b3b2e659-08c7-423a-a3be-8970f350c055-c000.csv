@@ -1,0 +1,5 @@
+ucar/nc2/iosp/hdf5/H5header/HeaderMessage/read(long,int,boolean,java.lang.String)@g_netcdf-4.2.20.jar.txt	2
+ucar/nc2/iosp/sigmet/SigmetIOServiceProvider/readToByteChannel11(ucar.nc2.Variable,ucar.ma2.Section,java.nio.channels.WritableByteChannel)@g_netcdf-4.2.20.jar.txt	0
+thredds/catalog/query/DqcFactory/setDefaults()@g_netcdf-4.2.20.jar.txt	1
+thredds/catalog/InvDatasetImpl/dump(int)@g_netcdf-4.2.20.jar.txt	3
+thredds/cataloggen/config/DatasetSource/toString()@g_netcdf-4.2.20.jar.txt	4

@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rdf/rdfxml/parser/TripleHandlers/TPEquivalentPropertyHandler/handleTriple(org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.IRI,org.semanticweb.owlapi.model.IRI)@g_owlapi-parsers-4.5.0.jar.txt	2
+org/semanticweb/owlapi/rdf/rdfxml/renderer/RDFXMLRenderer/render(org.semanticweb.owlapi.io.RDFResource,boolean)@g_owlapi-parsers-4.5.0.jar.txt	0
+org/apache/shiro/realm/ldap/DefaultLdapContextFactory/getLdapContext(java.lang.Object,java.lang.Object)@g_owlapi-parsers-4.5.0.jar.txt	4
+org/apache/shiro/subject/SimplePrincipalMap/byType(java.lang.Class)@g_owlapi-parsers-4.5.0.jar.txt	3
+org/semanticweb/owlapi/owlxml/parser/OWLOntologyHandler/attribute(java.lang.String,java.lang.String)@g_owlapi-parsers-4.5.0.jar.txt	1

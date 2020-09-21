@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/commons/httpclient/methods/PutMethod/addRequestHeader(java.lang.String,java.lang.String)
+org/apache/commons/httpclient/HttpClient/executeMethod(org.apache.commons.httpclient.HttpMethod)
+eu/learnpad/rest/utils/internal/DefaultCWRestUtils/getClient()

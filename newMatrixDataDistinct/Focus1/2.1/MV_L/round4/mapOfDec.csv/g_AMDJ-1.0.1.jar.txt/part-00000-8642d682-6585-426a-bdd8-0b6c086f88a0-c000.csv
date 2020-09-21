@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/LexicalizedParser/loadModelFromZip(java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/stats/Distribution/toString()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/trees/CollocationFinder/getMangledTree(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/metrics/TreeSpanScoring/simplifyConstituents(edu.stanford.nlp.trees.TreebankLanguagePack,java.util.Set)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/util/ArrayCoreMap/toShortString(char,java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0

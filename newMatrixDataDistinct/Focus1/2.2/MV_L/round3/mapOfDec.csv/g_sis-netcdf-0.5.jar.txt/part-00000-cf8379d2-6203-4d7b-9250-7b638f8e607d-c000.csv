@@ -1,0 +1,5 @@
+org/apache/sis/io/wkt/Formatter/appendVerticalExtent(org.apache.sis.measure.MeasurementRange)@g_sis-metadata-0.6.jar.txt	2
+org/apache/sis/internal/netcdf/impl/Attribute/dateToISO(java.lang.String)@g_sis-netcdf-0.6.jar.txt	0
+org/apache/sis/io/wkt/GeodeticObjectParser/parseFittedCS(int,org.apache.sis.io.wkt.Element)@g_sis-metadata-0.6.jar.txt	4
+org/apache/sis/metadata/StandardImplementation/getImplementation(java.lang.Class)@g_sis-metadata-0.6.jar.txt	3
+org/apache/sis/storage/netcdf/MetadataReader/createContentInfo()@g_sis-netcdf-0.6.jar.txt	1

@@ -1,0 +1,5 @@
+com/ibm/taste/example/movie/model/table/UserTable/insertUsers(java.util.List)@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	4
+org/dyrda/javabrains/filters/LoggingFilter/filter(javax.ws.rs.container.ContainerRequestContext)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	0
+org/dyrda/javabrains/filters/LoggingFilter/filter(javax.ws.rs.container.ContainerRequestContext,javax.ws.rs.container.ContainerResponseContext)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	2
+org/dyrda/javabrains/client/ClientApp/main(java.lang.String[])@168b9c337aa0ae603654638f3f03a641bffc221e.txt	1
+com/ibm/taste/example/movie/model/table/MovieTable/getAllMovies()@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	3

@@ -1,0 +1,5 @@
+weka/experiment/DatabaseResultListener/loadCache(weka.experiment.ResultProducer,java.lang.Object[])@g_weka-stable-3.8.1.jar.txt	4
+weka/experiment/DatabaseUtils/tableExists(java.lang.String)@g_weka-stable-3.8.1.jar.txt	3
+weka/core/converters/DatabaseLoader/getStructure()@g_weka-stable-3.8.1.jar.txt	1
+weka/experiment/DatabaseUtils/createExperimentIndexEntry(weka.experiment.ResultProducer)@g_weka-stable-3.8.1.jar.txt	0
+weka/gui/sql/ResultSetHelper/initialize()@g_weka-stable-3.8.1.jar.txt	2

@@ -1,0 +1,4 @@
+java/util/Objects/toString(java.lang.Object,java.lang.String)
+java/util/Map/values()
+java/util/Iterator/next()
+javax/xml/stream/XMLStreamWriter/writeEndDocument()

@@ -1,0 +1,5 @@
+org/languagetool/rules/ca/ReplaceOperationNamesRule/match(org.languagetool.AnalyzedSentence)@g_language-br-3.0.jar.txt	2
+org/languagetool/tagging/br/BretonTagger/tag(java.util.List)@g_language-br-3.0.jar.txt	0
+org/languagetool/rules/ca/AccentuationCheckRule/match(org.languagetool.AnalyzedSentence)@g_language-br-3.0.jar.txt	1
+org/languagetool/rules/ca/MorfologikCatalanSpellerRule/findSuggestion(java.lang.String,java.lang.String,java.util.regex.Pattern,java.util.regex.Pattern,int,java.lang.String)@g_language-br-3.0.jar.txt	4
+org/languagetool/tokenizers/ca/CatalanWordTokenizer/wordsToAdd(java.lang.String)@g_language-br-3.0.jar.txt	3

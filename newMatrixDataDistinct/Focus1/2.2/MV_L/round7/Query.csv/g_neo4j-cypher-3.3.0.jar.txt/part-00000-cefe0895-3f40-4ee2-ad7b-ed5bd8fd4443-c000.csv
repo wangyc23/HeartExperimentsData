@@ -1,0 +1,4 @@
+org/neo4j/codegen/ClassGenerator/handle()
+org/neo4j/cypher/internal/spi/v3_1/codegen/GeneratedQueryStructure$/typeRef(scala.reflect.Manifest)
+org/neo4j/cypher/internal/spi/v3_1/codegen/Templates$/executionMode(org.neo4j.codegen.ClassHandle)
+org/neo4j/cypher/internal/spi/v3_1/codegen/Templates$/close(org.neo4j.codegen.ClassHandle)

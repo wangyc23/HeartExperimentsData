@@ -1,0 +1,5 @@
+org/apache/oozie/command/bundle/TestBulkBundleXCommand/testBulkBundleSuspendNoOp()@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	1
+org/apache/oozie/command/bundle/TestBundleJobsXCommand/_testGetJobInfoForUser()@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	4
+org/apache/oozie/util/TestMultiFileReader/testMultipleFiles()@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	2
+org/apache/oozie/coord/input/dependency/AbstractCoordInputDependency/addToMissingDependencies(java.lang.String,org.apache.oozie.coord.input.dependency.CoordInputInstance)@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	3
+org/apache/oozie/executor/jpa/TestBundleJobsDeleteJPAExecutor/testDeleteBundlesRollback()@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	0

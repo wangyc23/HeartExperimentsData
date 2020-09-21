@@ -1,0 +1,4 @@
+org/apache/lucene/util/BytesRefBuilder/setByteAt(int,byte)
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+org/apache/lucene/util/fst/PairOutputs/add(org.apache.lucene.util.fst.PairOutputs$Pair,org.apache.lucene.util.fst.PairOutputs$Pair)
+java/lang/StringBuilder/append(java.lang.String)

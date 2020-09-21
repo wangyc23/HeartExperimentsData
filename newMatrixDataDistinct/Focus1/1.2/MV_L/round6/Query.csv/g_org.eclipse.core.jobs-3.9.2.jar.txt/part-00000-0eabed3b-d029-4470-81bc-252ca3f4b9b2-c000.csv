@@ -1,0 +1,4 @@
+java/util/HashSet/iterator()
+org/eclipse/core/runtime/Assert/isLegal(boolean,java.lang.String)
+java/util/Iterator/next()
+java/lang/StringBuilder/append(java.lang.Object)

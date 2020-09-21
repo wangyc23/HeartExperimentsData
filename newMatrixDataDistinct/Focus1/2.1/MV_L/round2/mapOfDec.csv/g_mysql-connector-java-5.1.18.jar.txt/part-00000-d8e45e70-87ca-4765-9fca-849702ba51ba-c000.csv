@@ -1,0 +1,5 @@
+com/mysql/jdbc/BlobFromLocator/position(byte[],long)@g_mysql-connector-java-5.1.37.jar.txt	1
+com/mysql/jdbc/BlobFromLocator/position(byte[],long)@g_mysql-connector-java-5.1.6.jar.txt	4
+com/mysql/jdbc/StandardSocketFactory/isLocallyConnected(com.mysql.jdbc.ConnectionImpl)@g_mysql-connector-java-5.1.37.jar.txt	2
+com/mysql/jdbc/ConnectionImpl/buildCollationMapping()@g_mysql-connector-java-5.1.37.jar.txt	0
+com/mysql/jdbc/BlobFromLocator/length()@g_mysql-connector-java-5.1.37.jar.txt	3

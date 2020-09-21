@@ -1,0 +1,5 @@
+se/unlogic/standardutils/string/StringUtils/toCommaSeparatedString(java.util.List,java.lang.reflect.Field)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+com/iluwatar/threadpool/App/main(java.lang.String[])@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	3
+com/iluwatar/fluentinterface/fluentiterable/FluentIterableTest/testFilter()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	4
+com/iluwatar/monostate/LoadBalancer/serverRequest(com.iluwatar.monostate.Request)@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	2
+org/jboss/resteasy/client/core/executors/URLConnectionClientExecutor/commitHeaders(org.jboss.resteasy.client.ClientRequest,java.net.HttpURLConnection)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0

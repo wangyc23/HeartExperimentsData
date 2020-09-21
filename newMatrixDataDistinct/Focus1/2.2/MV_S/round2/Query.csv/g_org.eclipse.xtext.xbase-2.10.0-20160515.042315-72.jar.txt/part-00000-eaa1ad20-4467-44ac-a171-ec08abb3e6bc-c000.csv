@@ -1,0 +1,4 @@
+java/lang/String/valueOf(java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/xtext/xbase/impl/XMemberFeatureCallImplCustom/getMemberCallTarget()
+org/eclipse/xtext/xbase/impl/XMemberFeatureCallImplCustom/getConcreteSyntaxFeatureName()

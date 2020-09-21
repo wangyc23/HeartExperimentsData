@@ -1,0 +1,4 @@
+org/xwiki/logging/internal/helpers/MessageParser$MessageElement/getString()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Arrays/asList(java.lang.Object[])
+java/util/List/size()

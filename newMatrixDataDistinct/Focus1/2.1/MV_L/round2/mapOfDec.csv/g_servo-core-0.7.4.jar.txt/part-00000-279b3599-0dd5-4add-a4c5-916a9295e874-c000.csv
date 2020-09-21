@@ -1,0 +1,5 @@
+com/netflix/servo/publish/CounterToRateMetricTransform/update(java.util.List)@g_servo-core-0.9.2.jar.txt	2
+com/netflix/servo/publish/BaseMetricPoller/poll(com.netflix.servo.publish.MetricFilter,boolean)@g_servo-core-0.9.2.jar.txt	1
+com/netflix/servo/publish/JmxMetricPoller/createTagList(javax.management.ObjectName)@g_servo-core-0.9.2.jar.txt	0
+com/netflix/servo/monitor/StatsMonitor/getGaugeWrappers(com.netflix.servo.stats.StatsConfig)@g_servo-core-0.9.2.jar.txt	4
+com/netflix/servo/publish/JmxMetricPoller/getMetrics(javax.management.MBeanServerConnection,com.netflix.servo.publish.MetricFilter,java.util.List,javax.management.ObjectName)@g_servo-core-0.9.2.jar.txt	3

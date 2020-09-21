@@ -1,0 +1,5 @@
+org/apache/commons/lang3/text/FormattableUtils/append(java.lang.CharSequence,java.util.Formatter,int,int,int,char,java.lang.CharSequence)@g_commons-lang3-3.1.jar.txt	2
+org/apache/commons/lang3/text/translate/UnicodeUnescaper/translate(java.lang.CharSequence,int,java.io.Writer)@g_commons-lang3-3.1.jar.txt	0
+org/apache/sis/util/collection/TreeTableFormat/parse(java.lang.CharSequence,java.text.ParsePosition)@g_sis-utility-0.5.jar.txt	3
+org/apache/commons/lang3/StringEscapeUtils/CsvUnescaper/translate(java.lang.CharSequence,int,java.io.Writer)@g_commons-lang3-3.1.jar.txt	1
+org/apache/sis/io/TableAppender/append(java.lang.CharSequence,int,int)@g_sis-utility-0.5.jar.txt	4

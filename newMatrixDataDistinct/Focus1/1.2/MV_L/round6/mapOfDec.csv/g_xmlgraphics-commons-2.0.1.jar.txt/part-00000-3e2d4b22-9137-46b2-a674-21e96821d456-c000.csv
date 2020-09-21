@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/loader/pipeline/ImageProviderPipeline/forceCaching(org.apache.xmlgraphics.image.loader.Image)@g_xmlgraphics-commons-1.5.jar.txt	1
+org/apache/batik/ext/awt/image/GraphicsUtil/copyData_INT_PACK(java.awt.image.Raster,java.awt.image.WritableRaster)@g_xmlgraphics-commons-1.5.jar.txt	4
+org/apache/xmlgraphics/image/loader/impl/imageio/ImageLoaderImageIO/tryToExctractICCProfileFromPNGMetadataNode(org.w3c.dom.Element)@g_xmlgraphics-commons-1.5.jar.txt	0
+org/apache/batik/ext/awt/image/SVGComposite/createContext(java.awt.image.ColorModel,java.awt.image.ColorModel,java.awt.RenderingHints)@g_xmlgraphics-commons-1.5.jar.txt	3
+org/apache/batik/ext/awt/image/renderable/ConvolveMatrixRable8Bit/fixAlpha_INT_PACK(java.awt.image.WritableRaster)@g_xmlgraphics-commons-1.5.jar.txt	2

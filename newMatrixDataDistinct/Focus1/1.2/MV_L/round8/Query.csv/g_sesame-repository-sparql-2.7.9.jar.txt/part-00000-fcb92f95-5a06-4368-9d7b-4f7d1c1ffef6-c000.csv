@@ -1,0 +1,4 @@
+org/openrdf/rio/helpers/StatementCollector/StatementCollector()
+org/openrdf/rio/RDFHandlerException/getCause()
+org/openrdf/repository/sparql/SPARQLConnection/conditionalRollback(boolean)
+org/openrdf/repository/sparql/SPARQLConnection/getValueFactory()

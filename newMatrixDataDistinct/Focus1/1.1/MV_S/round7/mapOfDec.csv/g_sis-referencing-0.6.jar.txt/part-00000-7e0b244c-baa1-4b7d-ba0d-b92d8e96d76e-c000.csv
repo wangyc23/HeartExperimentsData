@@ -1,0 +1,5 @@
+org/apache/sis/referencing/operation/DefaultConcatenatedOperation/mergeAccuracy(java.util.Map,java.util.List)@g_sis-metadata-0.6.jar.txt	0
+org/apache/sis/geometry/AbstractDirectPosition/toString(org.opengis.geometry.DirectPosition,boolean)@g_sis-metadata-0.6.jar.txt	2
+org/apache/sis/io/TabularFormat/getColumnSeparatorMatcher(java.lang.CharSequence)@g_sis-metadata-0.6.jar.txt	1
+org/apache/sis/io/TabularFormat/setColumnSeparatorPattern(java.lang.String)@g_sis-metadata-0.6.jar.txt	4
+org/apache/sis/measure/RangeFormat/format(org.apache.sis.measure.Range,java.lang.StringBuffer,java.text.FieldPosition,java.text.AttributedCharacterIterator)@g_sis-metadata-0.6.jar.txt	3

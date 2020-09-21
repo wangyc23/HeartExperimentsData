@@ -1,0 +1,5 @@
+org/apache/commons/io/FileUtils/openInputStream(java.io.File)@g_commons-io-2.1.jar.txt	4
+com/uwyn/jhighlight/tools/FileUtils/getFileList(java.io.File,java.util.regex.Pattern[],java.util.regex.Pattern[],boolean)@g_jhighlight-1.0.jar.txt	1
+org/apache/commons/io/FileUtils/copyFileToDirectory(java.io.File,java.io.File,boolean)@g_commons-io-2.1.jar.txt	2
+com/uwyn/jhighlight/JHighlight/main(java.lang.String[])@g_jhighlight-1.0.jar.txt	0
+org/apache/commons/io/FileUtils/doCopyDirectory(java.io.File,java.io.File,java.io.FileFilter,boolean,java.util.List)@g_commons-io-2.1.jar.txt	3

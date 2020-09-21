@@ -1,0 +1,5 @@
+com/doume/max/service/BusinessService/addOrders(java.lang.Long,com.doume.max.entity.Orders)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	0
+com/doume/max/service/CustomerService/getOrders(java.lang.Long)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	2
+pl/pwr/news/service/category/CategoryServiceTest/setup()@000011cd962e9f104e532d014f2d27ea3a935f86.txt	3
+pl/pwr/news/webapp/controller/article/ArticleApi/searchArticle(java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	1
+com/doume/max/service/UserService/addNewsComment(java.lang.Long,java.lang.Long,java.lang.Integer,java.lang.String,java.lang.String)@000011cd962e9f104e532d014f2d27ea3a935f86.txt	4

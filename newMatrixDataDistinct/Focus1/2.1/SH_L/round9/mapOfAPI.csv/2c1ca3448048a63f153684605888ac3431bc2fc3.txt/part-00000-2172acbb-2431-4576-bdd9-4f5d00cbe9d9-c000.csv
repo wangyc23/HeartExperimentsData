@@ -1,0 +1,3 @@
+0	com/adobe/acs/commons/packaging/impl/PackageHelperImpl/removePackage(com.adobe.acs.commons.packaging.impl.JcrPackageManager,java.lang.String,java.lang.String,java.lang.String)
+1	java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)
+2	org/apache/sling/jcr/webdav/impl/helper/SlingResourceConfig/getServletContextPath()

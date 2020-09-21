@@ -1,0 +1,5 @@
+thredds/cataloggen/config/DatasetSource/nameDatasetList(thredds.catalog.InvDatasetImpl)@g_cdm-4.5.5.jar.txt	0
+ucar/nc2/iosp/netcdf3/N3iosp/writeRecordData(ucar.nc2.Structure,int,ucar.ma2.StructureData)@g_cdm-4.5.5.jar.txt	3
+ucar/nc2/thredds/MetadataExtractor/extractVariables(thredds.catalog.InvDatasetImpl)@g_cdm-4.5.5.jar.txt	4
+thredds/inventory/partition/DirectoryPartition/makePartitions(thredds.inventory.CollectionUpdateType)@g_cdm-4.5.5.jar.txt	2
+ucar/nc2/ncml/AggregationExisting/persistRead()@g_cdm-4.5.5.jar.txt	1

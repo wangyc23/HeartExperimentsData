@@ -1,0 +1,5 @@
+org/eclipse/core/resources/mapping/CompositeResourceMapping/getTraversals(org.eclipse.core.resources.mapping.ResourceMappingContext,org.eclipse.core.runtime.IProgressMonitor)@g_jobs-3.6.0-v20140424-0053.jar.txt	2
+org/eclipse/core/internal/resources/ProjectPathVariableManager/isDefined(java.lang.String)@g_jobs-3.6.0-v20140424-0053.jar.txt	1
+org/eclipse/core/internal/jobs/JobMessages/message(java.lang.String)@g_jobs-3.6.0-v20140424-0053.jar.txt	0
+org/eclipse/core/internal/resources/SaveManager/restore(org.eclipse.core.internal.resources.Project,org.eclipse.core.runtime.IProgressMonitor)@g_jobs-3.6.0-v20140424-0053.jar.txt	4
+org/eclipse/core/internal/resources/ResourceTree/standardMoveFolder(org.eclipse.core.resources.IFolder,org.eclipse.core.resources.IFolder,int,org.eclipse.core.runtime.IProgressMonitor)@g_jobs-3.6.0-v20140424-0053.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/commons/exec/util/StringUtils/stringSubstitution(java.lang.String,java.util.Map,boolean)@g_commons-exec-1.1.jar.txt	0
+org/apache/oro/text/regex/Perl5Matcher/__matchUnicodeClass(char,char[],int,char)@g_oro-2.0.8.jar.txt	4
+org/apache/commons/exec/util/MapUtils/prefix(java.util.Map,java.lang.String)@g_commons-exec-1.1.jar.txt	1
+org/apache/commons/exec/environment/EnvironmentUtils/toStrings(java.util.Map)@g_commons-exec-1.1.jar.txt	2
+org/apache/commons/exec/launcher/VmsCommandLauncher/createCommandFile(org.apache.commons.exec.CommandLine,java.util.Map)@g_commons-exec-1.1.jar.txt	3

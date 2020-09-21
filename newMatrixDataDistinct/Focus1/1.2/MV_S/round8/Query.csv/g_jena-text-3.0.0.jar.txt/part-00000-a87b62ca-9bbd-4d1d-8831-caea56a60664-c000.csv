@@ -1,0 +1,4 @@
+org/apache/jena/sparql/util/IterLib/result(org.apache.jena.sparql.engine.binding.Binding,org.apache.jena.sparql.engine.ExecutionContext)
+org/apache/jena/graph/Node/isVariable()
+org/apache/jena/sparql/engine/ExecutionContext/getDataset()
+org/apache/jena/sparql/pfunction/PropFuncArg/isList()

@@ -1,0 +1,5 @@
+io/netty/util/internal/NativeLibraryLoader/classToByteArray(java.lang.Class)@g_netty-all-4.0.28.Final.jar.txt	4
+hidden/io/netty/channel/oio/AbstractOioChannel/DefaultOioUnsafe/connect(java.net.SocketAddress,java.net.SocketAddress,hidden.io.netty.channel.ChannelPromise)@g_netty-all-4.0.28.Final.jar.txt	2
+io/netty/util/internal/chmv8/ConcurrentHashMapV8/compute(java.lang.Object,io.netty.util.internal.chmv8.ConcurrentHashMapV8$BiFun)@g_netty-all-4.0.28.Final.jar.txt	1
+io/netty/buffer/PoolArena/reallocate(io.netty.buffer.PooledByteBuf,int,boolean)@g_netty-all-4.0.28.Final.jar.txt	3
+hidden/io/netty/buffer/CompositeByteBuf/discardReadComponents()@g_netty-all-4.0.28.Final.jar.txt	0

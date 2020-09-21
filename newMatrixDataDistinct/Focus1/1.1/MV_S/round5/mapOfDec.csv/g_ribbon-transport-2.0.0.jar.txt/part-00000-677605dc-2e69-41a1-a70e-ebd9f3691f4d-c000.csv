@@ -1,0 +1,5 @@
+org/springframework/cloud/netflix/eureka/EurekaDiscoveryClient/getServices()@g_ribbon-loadbalancer-2.1.0.jar.txt	4
+org/springframework/cloud/netflix/metrics/servo/DimensionalServoMetricNaming/asHierarchicalName(com.netflix.servo.monitor.Monitor)@g_ribbon-loadbalancer-2.1.0.jar.txt	1
+org/springframework/cloud/netflix/config/DiscoveryClientConfigServiceBootstrapConfiguration/getHomePage(com.netflix.appinfo.InstanceInfo)@g_ribbon-loadbalancer-2.1.0.jar.txt	2
+com/netflix/loadbalancer/LoadBalancerContext/getServerFromLoadBalancer(java.net.URI,java.lang.Object)@g_ribbon-loadbalancer-2.1.0.jar.txt	0
+org/springframework/cloud/netflix/zuul/filters/route/RibbonRoutingFilter/forward(org.springframework.cloud.netflix.zuul.filters.route.RibbonCommandContext)@g_ribbon-loadbalancer-2.1.0.jar.txt	3

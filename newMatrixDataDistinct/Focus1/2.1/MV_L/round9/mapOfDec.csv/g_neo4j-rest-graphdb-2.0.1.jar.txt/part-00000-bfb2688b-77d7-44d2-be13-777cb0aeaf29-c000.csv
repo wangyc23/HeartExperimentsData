@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/international/spanish/SpanishTreeNormalizer/getMultiWords(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/util/Execution/LazyFileIterator/enqueue()@g_stanford-parser-3.5.2.jar.txt	2
+org/yaml/snakeyaml/composer/Composer/composeSequenceNode(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/server/LexicalizedParserServer/processRequest(java.net.Socket)@g_stanford-parser-3.5.2.jar.txt	4

@@ -1,0 +1,4 @@
+java/util/Stack/subList(int,int)
+java/util/Stack/size()
+java/util/Stack/pop()
+java/lang/StringBuilder/append(java.lang.String)

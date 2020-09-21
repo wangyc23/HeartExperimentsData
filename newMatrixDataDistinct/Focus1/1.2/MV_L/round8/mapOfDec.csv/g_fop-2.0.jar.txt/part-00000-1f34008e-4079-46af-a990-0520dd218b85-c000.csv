@@ -1,0 +1,5 @@
+org/apache/fop/apps/FOURIResolver/checkBaseURL(java.lang.String)@g_fop-1.1.jar.txt	3
+org/apache/fop/layoutmgr/LayoutManagerMapping/makeLayoutManagers(org.apache.fop.fo.FONode,java.util.List)@g_fop-1.1.jar.txt	1
+org/apache/fop/render/rtf/RTFHandler/startFlow(org.apache.fop.fo.pagination.Flow)@g_fop-1.1.jar.txt	4
+org/apache/fop/fonts/truetype/TTFFile/getTTCnames(org.apache.fop.fonts.truetype.FontFileReader)@g_fop-1.1.jar.txt	0
+org/apache/fop/apps/FOURIResolver/resolve(java.lang.String,java.lang.String)@g_fop-1.1.jar.txt	2

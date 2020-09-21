@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_3/docgen/plannerDocGen/queryGraphConverter/unquote()@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_3/docgen/plannerDocGen/QueryHorizonConverter/generateDoc(scala.collection.immutable.Map,org.neo4j.cypher.internal.compiler.v2_3.planner.QueryShuffle)@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	3
+org/neo4j/cypher/internal/compiler/v2_3/docgen/astPhraseDocGen/ReturnItemsConverter/unquote()@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	0
+org/neo4j/cypher/internal/compiler/v2_3/docgen/logicalPlanDocGen/apply(org.neo4j.cypher.internal.compiler.v2_3.planner.logical.plans.LogicalPlan,scala.reflect.api.TypeTags$TypeTag)@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	4
+org/neo4j/cypher/internal/compiler/v2_3/docgen/plannerDocGen/queryShuffleConverter/unquote()@g_neo4j-cypher-compiler-2.3-2.3.7.jar.txt	2

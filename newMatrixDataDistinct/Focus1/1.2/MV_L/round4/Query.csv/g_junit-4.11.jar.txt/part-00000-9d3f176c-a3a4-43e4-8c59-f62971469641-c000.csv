@@ -1,0 +1,4 @@
+org/junit/runners/Parameterized$Parameter/value()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/size()

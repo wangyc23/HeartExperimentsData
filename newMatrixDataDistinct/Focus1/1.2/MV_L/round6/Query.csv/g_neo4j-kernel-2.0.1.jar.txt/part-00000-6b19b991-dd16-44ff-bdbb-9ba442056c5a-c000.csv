@@ -1,0 +1,4 @@
+org/neo4j/kernel/impl/transaction/RWLock$WaitElement/access$500(org.neo4j.kernel.impl.transaction.RWLock$WaitElement)
+java/lang/Thread/interrupt()
+java/util/LinkedList/size()
+org/neo4j/kernel/impl/transaction/RWLock$TxLockElement/access$100(org.neo4j.kernel.impl.transaction.RWLock$TxLockElement)

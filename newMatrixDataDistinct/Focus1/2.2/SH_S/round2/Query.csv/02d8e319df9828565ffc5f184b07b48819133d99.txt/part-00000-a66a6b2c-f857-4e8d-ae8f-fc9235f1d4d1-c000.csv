@@ -1,0 +1,4 @@
+java/lang/Throwable/printStackTrace()
+java/io/PrintStream/println(java.lang.String)
+java/lang/Throwable/getMessage()
+java/io/File/exists()

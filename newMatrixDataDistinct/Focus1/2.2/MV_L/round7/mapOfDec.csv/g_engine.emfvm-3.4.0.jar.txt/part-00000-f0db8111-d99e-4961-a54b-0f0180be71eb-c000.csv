@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/core/service/LauncherService/launch(java.lang.String,org.eclipse.core.runtime.IProgressMonitor,org.eclipse.m2m.atl.core.launch.ILauncher,java.util.Map,java.util.Map,java.util.Map,java.util.Map,java.util.Map,java.util.Map,java.util.Map,java.util.Map,java.util.Map,java.io.InputStream[])@g_core-3.4.0.jar.txt	0
+org/eclipse/m2m/atl/engine/MarkerMaker/eObjectToPbmMarker(org.eclipse.core.resources.IResource,org.eclipse.m2m.atl.common.AtlNbCharFile,org.eclipse.emf.ecore.EObject,int)@g_engine-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/engine/asm/lib/ASMString/4/exec(org.eclipse.m2m.atl.engine.emfvm.lib.AbstractStackFrame)@g_engine-3.4.0.jar.txt	2
+org/eclipse/m2m/atl/engine/compiler/AtlDefaultCompiler/getProblems(org.eclipse.m2m.atl.core.IModel,org.eclipse.emf.ecore.EObject[])@g_engine-3.4.0.jar.txt	3
+org/eclipse/m2m/atl/engine/MarkerMaker/applyMarkers(org.eclipse.core.resources.IFile,org.eclipse.m2m.atl.core.IModel,int)@g_engine-3.4.0.jar.txt	1

@@ -1,0 +1,4 @@
+java/io/PushbackReader/read()
+java/lang/Integer/toString(int)
+java/lang/StringBuffer/toString()
+java/lang/Character/isLetterOrDigit(char)

@@ -1,0 +1,5 @@
+javax/faces/component/UIComponentBase/populateDescriptorsMapIfNecessary()@g_javax.faces-api-2.2.jar.txt	4
+com/sun/faces/taglib/jsf_core/ConvertNumberTag/evaluateExpressions()@g_javax.faces-api-2.2.jar.txt	3
+javax/faces/webapp/UIComponentClassicTagBase/setJspId(java.lang.String)@g_javax.faces-api-2.2.jar.txt	1
+javax/faces/component/UIData/invokeOnComponent(javax.faces.context.FacesContext,java.lang.String,javax.faces.component.ContextCallback)@g_javax.faces-api-2.2.jar.txt	0
+org/glassfish/grizzly/servlet/WebappContext/registerDefaultServlet(org.glassfish.grizzly.http.server.HttpServer)@g_javax.faces-api-2.2.jar.txt	2

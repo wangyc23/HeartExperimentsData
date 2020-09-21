@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/net/URI/toString()
+java/lang/StringBuilder/StringBuilder()
+java/net/URI/resolve(java.net.URI)

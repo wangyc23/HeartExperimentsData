@@ -1,0 +1,5 @@
+org/glassfish/jersey/test/grizzly/GrizzlyTestContainerFactory/GrizzlyTestContainer/start()@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	0
+org/glassfish/jersey/test/grizzly/GrizzlyWebTestContainerFactory/GrizzlyWebTestContainer/start()@g_jersey-test-framework-provider-grizzly2-2.19.jar.txt	1
+com/sun/jersey/server/impl/container/httpserver/HttpHandlerContainer/handle(com.sun.net.httpserver.HttpExchange)@g_jersey-server-1.13.jar.txt	4
+com/sun/jersey/api/container/httpserver/HttpServerFactory/create(java.net.URI,com.sun.net.httpserver.HttpHandler)@g_jersey-server-1.13.jar.txt	3
+com/sun/jersey/server/impl/application/WebApplicationContext/createMatchResourceContext(java.net.URI)@g_jersey-server-1.13.jar.txt	2

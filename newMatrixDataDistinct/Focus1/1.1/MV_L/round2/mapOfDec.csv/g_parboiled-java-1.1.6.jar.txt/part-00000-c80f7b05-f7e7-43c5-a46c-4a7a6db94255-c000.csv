@@ -1,0 +1,5 @@
+org/parboiled/transform/GroupClassGenerator/convertXLoads(org.parboiled.transform.InstructionGroup)@g_asm-commons-3.2.jar.txt	3
+org/parboiled/transform/AsmUtils/createClassReader(java.lang.Class)@g_asm-commons-3.2.jar.txt	0
+org/parboiled/transform/InstructionGroupCreator/isPrivateField(java.lang.String,java.lang.String)@g_asm-commons-3.2.jar.txt	1
+org/parboiled/transform/InstructionGroupPreparer/extractFields(org.parboiled.transform.InstructionGroup)@g_asm-commons-3.2.jar.txt	4
+org/parboiled/transform/VarFramingGenerator/createVarFieldArray(org.parboiled.transform.RuleMethod,org.objectweb.asm.tree.InsnList,org.objectweb.asm.tree.AbstractInsnNode)@g_asm-commons-3.2.jar.txt	2

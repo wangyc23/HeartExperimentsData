@@ -1,0 +1,5 @@
+com/github/fommil/jni/JniLoader/load(java.lang.String[])@g_jniloader-1.1.jar.txt	2
+org/restlet/engine/component/ComponentXmlParser/parse()@g_org.restlet-2.0.14.jar.txt	0
+org/restlet/engine/http/adapter/ServerAdapter/commit(org.restlet.engine.http.HttpResponse)@g_org.restlet-2.0.14.jar.txt	4
+com/github/fommil/jni/JniNamer/abi(java.lang.String)@g_jniloader-1.1.jar.txt	3
+org/restlet/engine/application/TunnelFilter/getAcceptReplacers()@g_org.restlet-2.0.14.jar.txt	1

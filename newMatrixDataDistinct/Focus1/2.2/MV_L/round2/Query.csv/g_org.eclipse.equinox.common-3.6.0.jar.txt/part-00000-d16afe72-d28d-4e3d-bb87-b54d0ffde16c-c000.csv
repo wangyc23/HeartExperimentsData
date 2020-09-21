@@ -1,0 +1,4 @@
+org/eclipse/osgi/util/NLS/bind(java.lang.String,java.lang.Object)
+java/util/Vector/addElement(java.lang.Object)
+java/lang/String/equals(java.lang.Object)
+java/util/Vector/Vector(int)

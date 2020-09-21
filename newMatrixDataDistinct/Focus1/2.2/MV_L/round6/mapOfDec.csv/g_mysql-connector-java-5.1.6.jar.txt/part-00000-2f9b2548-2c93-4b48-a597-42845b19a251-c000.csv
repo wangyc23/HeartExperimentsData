@@ -1,0 +1,5 @@
+com/mysql/jdbc/log/LogFactory/getLogger(java.lang.String,java.lang.String,com.mysql.jdbc.ExceptionInterceptor)@g_mysql-connector-java-5.1.37.jar.txt	3
+com/mysql/jdbc/log/LogFactory/getLogger(java.lang.String,java.lang.String,com.mysql.jdbc.ExceptionInterceptor)@g_mysql-connector-java-5.1.18.jar.txt	1
+com/mysql/jdbc/NonRegisteringDriver/parseURL(java.lang.String,java.util.Properties)@g_mysql-connector-java-5.1.37.jar.txt	4
+com/mysql/jdbc/NonRegisteringDriver/parseURL(java.lang.String,java.util.Properties)@g_mysql-connector-java-5.1.18.jar.txt	2
+com/mysql/jdbc/StandardSocketFactory/connect(java.lang.String,int,java.util.Properties)@g_mysql-connector-java-5.1.18.jar.txt	0

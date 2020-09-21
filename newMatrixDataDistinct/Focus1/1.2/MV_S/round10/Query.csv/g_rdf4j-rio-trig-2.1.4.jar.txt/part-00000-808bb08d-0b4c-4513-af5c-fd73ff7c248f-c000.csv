@@ -1,0 +1,4 @@
+org/eclipse/rdf4j/rio/trig/TriGParser/parseDirective(java.lang.String)
+java/lang/String/equalsIgnoreCase(java.lang.String)
+org/eclipse/rdf4j/rio/turtle/TurtleUtil/isWhitespace(int)
+java/lang/String/length()

@@ -1,0 +1,5 @@
+org/apache/spark/network/shuffle/ExternalShuffleIntegrationSuite/testFetchThreeSort()@28e45928f6382ab3bf1196a6a08c156e2a2834ad.txt	4
+org/apache/spark/network/shuffle/ExternalShuffleBlockManagerSuite/testSortShuffleBlocks()@28e45928f6382ab3bf1196a6a08c156e2a2834ad.txt	1
+org/apache/spark/network/shuffle/ExternalShuffleIntegrationSuite/testFetchOneSort()@28e45928f6382ab3bf1196a6a08c156e2a2834ad.txt	2
+org/apache/spark/network/shuffle/ExternalShuffleIntegrationSuite/testFetchWrongBlockId()@28e45928f6382ab3bf1196a6a08c156e2a2834ad.txt	0
+org/apache/spark/network/shuffle/ExternalShuffleIntegrationSuite/testFetchNoServer()@28e45928f6382ab3bf1196a6a08c156e2a2834ad.txt	3

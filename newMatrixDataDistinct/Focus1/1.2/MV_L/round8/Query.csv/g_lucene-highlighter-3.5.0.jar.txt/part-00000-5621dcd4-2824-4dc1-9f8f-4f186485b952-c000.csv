@@ -1,0 +1,4 @@
+org/apache/lucene/search/spans/SpanTermQuery/SpanTermQuery(org.apache.lucene.index.Term)
+org/apache/lucene/search/MultiTermQuery/setRewriteMethod(org.apache.lucene.search.MultiTermQuery$RewriteMethod)
+org/apache/lucene/search/BooleanClause/isProhibited()
+org/apache/lucene/search/MultiTermQuery/getRewriteMethod()

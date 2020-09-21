@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/session/JDBCSessionIdManager/scavenge()@g_jetty-server-9.3.8.v20160314.jar.txt	2
+org/eclipse/jetty/server/session/JDBCSessionIdManager/scavenge()@g_jetty-server-9.2.3.v20140905.jar.txt	4
+org/eclipse/jetty/server/session/JDBCSessionManager/1/run()@g_jetty-server-9.3.8.v20160314.jar.txt	0
+org/eclipse/jetty/server/session/JDBCSessionIdManager/prepareTables()@g_jetty-server-9.3.8.v20160314.jar.txt	3
+org/eclipse/jetty/server/session/JDBCSessionManager/1/run()@g_jetty-server-9.2.3.v20140905.jar.txt	1

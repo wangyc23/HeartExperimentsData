@@ -1,0 +1,4 @@
+java/io/File/getName()
+java/util/Iterator/hasNext()
+org/apache/maven/model/Resource/getTargetPath()
+org/apache/maven/model/Resource/getExcludes()

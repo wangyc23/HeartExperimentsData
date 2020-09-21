@@ -1,0 +1,5 @@
+org/apache/ivy/core/deliver/DeliverEngine/deliver(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,java.lang.String,org.apache.ivy.core.deliver.DeliverOptions)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/plugins/report/XmlReportWriter/outputCallers(org.apache.ivy.core.report.ConfigurationResolveReport,java.io.PrintWriter,org.apache.ivy.core.resolve.IvyNode)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/ant/IvyBuildList/doExecute()@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/osgi/repo/RelativeURLRepository/getResource(java.lang.String)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/util/FileUtil/normalize(java.lang.String)@g_ivy-2.3.0.jar.txt	3

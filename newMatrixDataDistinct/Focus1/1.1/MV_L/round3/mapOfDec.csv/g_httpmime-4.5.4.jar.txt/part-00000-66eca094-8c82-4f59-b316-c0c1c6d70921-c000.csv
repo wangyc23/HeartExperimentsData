@@ -1,0 +1,5 @@
+org/apache/http/entity/mime/MultipartFormEntity/getContent()@g_httpmime-4.5.2.jar.txt	0
+org/apache/http/entity/mime/MultipartEntityBuilder/buildEntity()@g_httpmime-4.5.2.jar.txt	1
+org/apache/http/entity/mime/MultipartEntityBuilder/buildEntity()@g_httpmime-4.4.1.jar.txt	4
+org/apache/http/entity/mime/FormBodyPartBuilder/build()@g_httpmime-4.5.2.jar.txt	2
+org/apache/http/entity/mime/Header/setField(org.apache.http.entity.mime.MinimalField)@g_httpmime-4.5.2.jar.txt	3

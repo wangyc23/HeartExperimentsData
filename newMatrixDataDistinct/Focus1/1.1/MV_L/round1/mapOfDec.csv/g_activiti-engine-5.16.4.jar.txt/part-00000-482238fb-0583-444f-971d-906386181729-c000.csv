@@ -1,0 +1,5 @@
+javax/el/FactoryFinder/newInstance(java.lang.String,java.lang.ClassLoader,java.util.Properties)@g_activiti-engine-6.0.0.Beta1.jar.txt	1
+org/activiti/engine/impl/bpmn/helper/ScopeUtil/createCopyOfSubProcessExecutionForCompensation(org.activiti.engine.impl.persistence.entity.ExecutionEntity,org.activiti.engine.impl.persistence.entity.ExecutionEntity)@g_activiti-engine-6.0.0.Beta1.jar.txt	4
+org/activiti/engine/impl/persistence/entity/AbstractEntityManager/getList(java.lang.String,java.lang.Object,org.activiti.engine.impl.persistence.CachedEntityMatcher,boolean)@g_activiti-engine-6.0.0.Beta1.jar.txt	3
+org/activiti/engine/impl/bpmn/parser/handler/AbstractActivityBpmnParseHandler/createMultiInstanceLoopCharacteristics(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.Activity)@g_activiti-engine-6.0.0.Beta1.jar.txt	2
+org/activiti/engine/impl/juel/Scanner/nextEval()@g_activiti-engine-6.0.0.Beta1.jar.txt	0

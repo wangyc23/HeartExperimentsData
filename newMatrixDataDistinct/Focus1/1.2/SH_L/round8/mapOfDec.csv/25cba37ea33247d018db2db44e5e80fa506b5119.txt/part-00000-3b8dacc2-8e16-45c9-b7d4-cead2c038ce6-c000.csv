@@ -1,0 +1,5 @@
+test/xsv/CSVSimple/process(test.xsv.CSV,java.io.BufferedReader)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	1
+tools/directorywalker/POMXMLReWriter/handleFile(java.io.File,int,java.util.Collection)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	4
+tools/directorywalker/TestXMLReWriter/handleFile(java.io.File,int,java.util.Collection)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	3
+tools/directorywalker/TestXMLForAutotestReWriter/handleFile(java.io.File,int,java.util.Collection)@2ea521f70b748744db431e4a2a9648eceb229bee.txt	0
+jp/mk/formater/TextConverter/format()@2ea521f70b748744db431e4a2a9648eceb229bee.txt	2

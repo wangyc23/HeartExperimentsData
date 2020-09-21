@@ -1,0 +1,5 @@
+org/neo4j/bolt/security/ssl/Certificates/createSelfSignedCertificate(java.io.File,java.io.File,java.lang.String)@g_neo4j-bolt-3.0.1.jar.txt	0
+org/neo4j/bolt/v1/messaging/Neo4jPack/Packer/pack(java.lang.Object)@g_neo4j-bolt-3.0.1.jar.txt	2
+com/cybozu/labs/langdetect/CommandLineInterface/detectLang()@g_neo4j-bolt-3.0.1.jar.txt	1
+org/neo4j/bolt/v1/messaging/PathPack/Packer/packRelationships(org.neo4j.bolt.v1.messaging.Neo4jPack$Packer,org.neo4j.graphdb.Path)@g_neo4j-bolt-3.0.1.jar.txt	3
+org/neo4j/bolt/security/ssl/Certificates/loadCertificates(java.io.File)@g_neo4j-bolt-3.0.1.jar.txt	4

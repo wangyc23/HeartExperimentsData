@@ -1,0 +1,5 @@
+org/edr/domain/BudgetStaatTest/testInvalidA()@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	3
+org/edr/resource/BudgetResource/deleteBudget(java.lang.Long)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	0
+org/edr/resource/BoekingResource/updateBoeking(org.edr.po.jpa.BoekingPO)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	4
+com/trier/exam/shopping/resource/ProductResource/delete(java.lang.Long)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	2
+org/edr/services/impl/StandaardBoekrekeningService/updateBoekrekening(org.edr.po.Boekrekening)@130cdd434c1cbacfcfc53da87059371e0da70b37.txt	1

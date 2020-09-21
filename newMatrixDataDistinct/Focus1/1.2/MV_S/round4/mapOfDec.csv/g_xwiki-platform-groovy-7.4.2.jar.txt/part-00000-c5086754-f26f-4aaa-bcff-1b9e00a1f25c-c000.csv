@@ -1,0 +1,5 @@
+edu/mit/jwi/morph/SimpleStemmer/findStems(java.lang.String,edu.mit.jwi.item.POS)@g_jwi-2.2.3.jar.txt	3
+edu/mit/jwi/morph/SimpleStemmer/stripVerbSuffix(java.lang.String)@g_jwi-2.2.3.jar.txt	2
+edu/mit/jwi/data/parse/DataLineParser/parseLine(java.lang.String)@g_jwi-2.2.3.jar.txt	4
+edu/mit/jwi/morph/WordnetStemmer/findStems(java.lang.String,edu.mit.jwi.item.POS)@g_jwi-2.2.3.jar.txt	0
+edu/mit/jwi/morph/SimpleStemmer/stripNounSuffix(java.lang.String)@g_jwi-2.2.3.jar.txt	1

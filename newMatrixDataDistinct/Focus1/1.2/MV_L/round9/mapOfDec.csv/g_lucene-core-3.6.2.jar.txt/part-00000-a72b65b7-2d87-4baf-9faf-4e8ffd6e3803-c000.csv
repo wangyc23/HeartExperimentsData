@@ -1,0 +1,5 @@
+org/apache/lucene/index/SegmentMerger/mergeVectors()@g_lucene-core-3.5.0.jar.txt	3
+org/apache/lucene/index/BufferedDeletesStream/push(org.apache.lucene.index.FrozenBufferedDeletes)@g_lucene-core-3.5.0.jar.txt	4
+org/apache/lucene/document/DateField/timeToString(long)@g_lucene-core-3.5.0.jar.txt	0
+org/apache/lucene/index/LogMergePolicy/toString()@g_lucene-core-3.5.0.jar.txt	1
+org/apache/lucene/index/LogMergePolicy/toString()@g_lucene-core-4.2.1.jar.txt	2

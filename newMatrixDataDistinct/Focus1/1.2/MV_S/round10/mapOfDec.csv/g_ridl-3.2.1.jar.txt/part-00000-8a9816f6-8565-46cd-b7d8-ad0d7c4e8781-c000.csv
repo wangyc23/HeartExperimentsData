@@ -1,0 +1,5 @@
+com/sun/el/lang/ELSupport/coerceToNumber(java.lang.Number,java.lang.Class)@g_el-ri-1.0.jar.txt	1
+org/easymock/internal/LegacyMatcherProvider/setMatcher(java.lang.reflect.Method,org.easymock.ArgumentsMatcher)@g_el-ri-1.0.jar.txt	4
+org/easymock/internal/RecordState/<clinit>()@g_easymock-2.4.jar.txt	3
+com/sun/el/util/ReflectionUtil/forName(java.lang.String)@g_el-ri-1.0.jar.txt	0
+com/sun/el/parser/AstNegative/getValue(com.sun.el.lang.EvaluationContext)@g_el-ri-1.0.jar.txt	2

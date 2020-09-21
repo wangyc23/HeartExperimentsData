@@ -1,0 +1,4 @@
+com/squareup/okhttp/mockwebserver/rule/MockWebServerRule/getUrl(java.lang.String)
+com/squareup/okhttp/mockwebserver/RecordedRequest/getSequenceNumber()
+com/squareup/okhttp/OkUrlFactory/open(java.net.URL)
+com/squareup/okhttp/mockwebserver/rule/MockWebServerRule/takeRequest()

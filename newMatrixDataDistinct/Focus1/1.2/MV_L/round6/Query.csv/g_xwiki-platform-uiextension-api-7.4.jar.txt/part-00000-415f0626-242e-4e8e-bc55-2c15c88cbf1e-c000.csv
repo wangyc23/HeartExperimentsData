@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWikiContext/getWiki()
+com/xpn/xwiki/XWikiException/getMessage()
+java/util/List/addAll(java.util.Collection)
+javax/inject/Provider/get()

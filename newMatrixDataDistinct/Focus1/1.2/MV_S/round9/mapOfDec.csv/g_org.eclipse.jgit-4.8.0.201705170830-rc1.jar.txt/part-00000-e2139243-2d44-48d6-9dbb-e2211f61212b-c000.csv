@@ -1,0 +1,5 @@
+com/optimaize/langdetect/text/RemoveMinorityScriptsTextFilter/filter(java.lang.CharSequence)@g_language-detector-0.5.jar.txt	0
+com/cybozu/labs/langdetect/util/LangProfile/omitLessFreq()@g_language-detector-0.5.jar.txt	4
+com/optimaize/langdetect/profiles/LanguageProfileBuilder/removeNgramsWithLessFrequency()@g_language-detector-0.5.jar.txt	1
+com/optimaize/langdetect/LanguageDetectorImpl/detectBlockShortText(java.util.Map)@g_language-detector-0.5.jar.txt	3
+com/optimaize/langdetect/profiles/LanguageProfileImpl/computeNumOccurrences(java.util.Map)@g_language-detector-0.5.jar.txt	2

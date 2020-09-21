@@ -1,0 +1,4 @@
+com/BD2/Proto_Music/negocios/Disco/getProductor()
+java/util/ArrayList/isEmpty()
+com/BD2/Proto_Music/negocios/Disco/getDuracion()
+com/BD2/Proto_Music/negocios/Disco/getPublicacion()

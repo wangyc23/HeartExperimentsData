@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/QualifierCache/qualify(org.sonatype.guice.bean.reflect.ClassSpace,java.lang.String)@g_sisu-inject-bean-2.1.1.jar.txt	0
+org/sonatype/guice/bean/binders/PlaceholderBeanProvider/interpolate(java.lang.String,java.lang.Class)@g_sisu-inject-bean-2.3.0.jar.txt	2
+org/sonatype/guice/bean/binders/SpaceModule/replayCachedElements(com.google.inject.Binder)@g_sisu-inject-bean-2.3.0.jar.txt	3
+org/sonatype/guice/bean/binders/TypeConverterMap/getTypeConverter(com.google.inject.TypeLiteral)@g_sisu-inject-bean-2.3.0.jar.txt	1
+org/sonatype/guice/bean/scanners/QualifierCache/qualify(org.sonatype.guice.bean.reflect.ClassSpace,java.lang.String)@g_sisu-inject-bean-2.3.0.jar.txt	4

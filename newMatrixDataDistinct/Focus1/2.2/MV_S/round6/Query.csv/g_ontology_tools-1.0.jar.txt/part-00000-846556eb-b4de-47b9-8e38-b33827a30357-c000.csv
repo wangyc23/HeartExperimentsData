@@ -1,0 +1,4 @@
+java/net/URL/URL(java.lang.String)
+gate/creole/gazetteer/LinearDefinition/setEncoding(java.lang.String)
+javax/swing/JList/setListData(java.util.Vector)
+java/io/File/getAbsolutePath()

@@ -1,0 +1,4 @@
+0	java/lang/Integer/intValue()
+1	java/util/Iterator/hasNext()
+2	java/lang/StringBuilder/append(java.lang.String)
+3	java/util/ArrayList/iterator()

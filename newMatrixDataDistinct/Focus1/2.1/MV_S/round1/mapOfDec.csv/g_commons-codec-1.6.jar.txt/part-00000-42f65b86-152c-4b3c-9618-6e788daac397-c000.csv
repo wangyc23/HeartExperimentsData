@@ -1,0 +1,5 @@
+org/languagetool/rules/WrongWordInContextRule/loadContextWords(java.io.InputStream)@g_languagetool-core-3.0.jar.txt	4
+org/languagetool/rules/SimpleReplaceDataLoader/loadWords(java.lang.String)@g_languagetool-core-3.0.jar.txt	2
+org/languagetool/rules/patterns/RuleFilterEvaluator/getResolvedArguments(java.lang.String,org.languagetool.AnalyzedTokenReadings[],java.util.List)@g_languagetool-core-3.0.jar.txt	3
+org/languagetool/rules/ConfusionSetLoader/loadConfusionSet(java.io.InputStream)@g_languagetool-core-3.0.jar.txt	1
+org/languagetool/rules/AbstractSimpleReplaceRule2/loadWords(java.io.InputStream)@g_languagetool-core-3.0.jar.txt	0

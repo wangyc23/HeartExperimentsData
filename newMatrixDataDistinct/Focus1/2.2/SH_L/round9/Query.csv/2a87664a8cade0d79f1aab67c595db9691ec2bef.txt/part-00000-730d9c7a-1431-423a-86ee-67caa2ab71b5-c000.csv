@@ -1,0 +1,4 @@
+java/util/Collection/stream()
+java/util/stream/Stream/findAny()
+java/util/stream/Stream/filter(java.util.function.Predicate)
+java/util/List/contains(java.lang.Object)

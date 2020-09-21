@@ -1,0 +1,5 @@
+org/eclipse/acceleo/internal/compatibility/parser/ast/ocl/environment/AcceleoEnvironmentGalileo/AcceleoTypeChecker/getResultType(java.lang.Object,org.eclipse.emf.ecore.EClassifier,org.eclipse.emf.ecore.EOperation,java.util.List)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	2
+org/eclipse/acceleo/internal/parser/ast/ocl/OCLParser/addRecursivelyVariablesToScopeAndGetContextClassifierAt(org.eclipse.acceleo.model.mtl.Module,int)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	0
+org/eclipse/acceleo/parser/compiler/AcceleoCompilerHelper/createOutputFiles(java.util.List)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	3
+org/eclipse/acceleo/internal/parser/ast/CST2ASTConverterWithResolver/checkModuleImports(org.eclipse.acceleo.model.mtl.Module,int,int)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	1
+org/eclipse/acceleo/internal/parser/ast/CST2ASTConverter/transformStepCopy(org.eclipse.acceleo.parser.cst.Module)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	4

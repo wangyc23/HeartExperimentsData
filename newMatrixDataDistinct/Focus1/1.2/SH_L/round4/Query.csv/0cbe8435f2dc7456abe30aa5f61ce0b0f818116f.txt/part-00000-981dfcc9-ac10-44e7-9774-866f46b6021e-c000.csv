@@ -1,0 +1,4 @@
+java/util/Arrays/equals(java.lang.Object[],java.lang.Object[])
+java/lang/reflect/Method/getName()
+java/lang/reflect/Method/getParameterTypes()
+java/lang/reflect/Method/getReturnType()

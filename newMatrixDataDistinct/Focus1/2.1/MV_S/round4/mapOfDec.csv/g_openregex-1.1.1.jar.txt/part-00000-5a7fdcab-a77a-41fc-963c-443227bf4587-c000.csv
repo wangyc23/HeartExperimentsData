@@ -1,0 +1,5 @@
+org/reflections/serializers/XmlSerializer/createDocument(org.reflections.Reflections)@g_common-java-2.0.2.jar.txt	4
+org/reflections/util/ClasspathHelper/forClass(java.lang.Class,java.lang.ClassLoader[])@g_common-java-2.0.2.jar.txt	0
+org/reflections/ReflectionUtils/forName(java.lang.String,java.lang.ClassLoader[])@g_common-java-2.0.2.jar.txt	3
+org/reflections/serializers/JavaCodeSerializer/resolveClassOf(java.lang.Class)@g_common-java-2.0.2.jar.txt	2
+org/reflections/serializers/JavaCodeSerializer1/save(org.reflections.Reflections,java.lang.String)@g_common-java-2.0.2.jar.txt	1

@@ -1,0 +1,4 @@
+com/github/jsonldjava/sesame/SesameJSONLDParser/getParserConfig()
+com/github/jsonldjava/sesame/SesameJSONLDParser/getParseErrorListener()
+com/github/jsonldjava/utils/JsonUtils/fromInputStream(java.io.InputStream)
+java/lang/Boolean/valueOf(boolean)

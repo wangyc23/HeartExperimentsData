@@ -1,0 +1,4 @@
+org/aopalliance/intercept/MethodInvocation/getMethod()
+java/lang/Object/equals(java.lang.Object)
+java/lang/String/equals(java.lang.Object)
+java/lang/reflect/Method/getName()

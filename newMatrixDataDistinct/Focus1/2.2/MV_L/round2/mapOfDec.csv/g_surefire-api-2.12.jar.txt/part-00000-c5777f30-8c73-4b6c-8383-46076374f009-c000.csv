@@ -1,0 +1,5 @@
+org/apache/maven/plugin/surefire/runorder/RunEntryStatisticsMap/getPriorities(java.util.Comparator)@g_surefire-api-2.12.4.jar.txt	2
+org/apache/maven/surefire/SpecificTestClassFilter/accept(java.lang.Class)@g_surefire-api-2.12.4.jar.txt	4
+org/apache/maven/plugin/surefire/runorder/RunEntryStatisticsMap/getPrioritizedTests(java.util.List,java.util.Comparator)@g_surefire-api-2.12.4.jar.txt	1
+org/apache/maven/surefire/shade/org/codehaus/plexus/util/DirectoryScanner/scandir(java.io.File,java.lang.String,boolean)@g_surefire-api-2.12.4.jar.txt	3
+org/apache/maven/surefire/shade/org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_surefire-api-2.12.4.jar.txt	0

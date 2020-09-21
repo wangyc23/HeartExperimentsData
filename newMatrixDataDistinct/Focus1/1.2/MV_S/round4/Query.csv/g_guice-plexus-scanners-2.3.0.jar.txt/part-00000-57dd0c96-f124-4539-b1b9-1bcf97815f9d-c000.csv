@@ -1,0 +1,4 @@
+org/sonatype/guice/plexus/annotations/ComponentImpl/ComponentImpl(java.lang.Class,java.lang.String,java.lang.String,java.lang.String)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/sonatype/guice/bean/reflect/DeferredClass/getName()
+java/lang/String/equals(java.lang.Object)

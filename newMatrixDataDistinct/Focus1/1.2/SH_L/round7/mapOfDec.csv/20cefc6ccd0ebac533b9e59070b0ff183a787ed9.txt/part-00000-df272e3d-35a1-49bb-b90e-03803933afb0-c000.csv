@@ -1,0 +1,5 @@
+com/sohu/jafka/consumer/ZookeeperConsumerConnectorTest/createConsumer(java.util.Properties,int,java.lang.String,java.util.concurrent.atomic.AtomicInteger)@146bfb0539ddc5bba829f2a321f4f4b42346a151.txt	4
+com/sohu/jafka/consumer/ZookeeperConsumerConnectorTest/testCreateMessageStreams()@146bfb0539ddc5bba829f2a321f4f4b42346a151.txt	2
+com/orange/twitter/TestTwitterReduceSentiment/TestSentiment()@0b4a91fab9d89a28c7d366c5a969fee898aa3f51.txt	1
+com/orange/analysis/twitter/SentimentalDeviceReducer/reduce(com.orange.analysis.twitter.Text,java.lang.Iterable,com.orange.analysis.twitter.Context)@0b4a91fab9d89a28c7d366c5a969fee898aa3f51.txt	0
+com/sohu/jafka/JafkaTest/testStartPropertiesPropertiesProperties()@146bfb0539ddc5bba829f2a321f4f4b42346a151.txt	3

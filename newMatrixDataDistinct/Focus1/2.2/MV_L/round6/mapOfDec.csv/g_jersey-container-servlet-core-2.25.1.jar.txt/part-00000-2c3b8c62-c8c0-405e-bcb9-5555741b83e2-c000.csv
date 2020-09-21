@@ -1,0 +1,5 @@
+org/glassfish/jersey/servlet/ServletContainer/doFilter(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.servlet.FilterChain)@g_jersey-container-servlet-core-2.19.jar.txt	2
+org/glassfish/jersey/servlet/ServletContainer/service(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jersey-container-servlet-core-2.7.jar.txt	1
+org/glassfish/jersey/servlet/ServletContainer/service(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jersey-container-servlet-core-2.19.jar.txt	0
+org/glassfish/jersey/servlet/ServletContainer/doFilter(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.servlet.FilterChain)@g_jersey-container-servlet-core-2.7.jar.txt	3
+org/glassfish/jersey/servlet/ServletContainer/init(javax.servlet.FilterConfig)@g_jersey-container-servlet-core-2.19.jar.txt	4

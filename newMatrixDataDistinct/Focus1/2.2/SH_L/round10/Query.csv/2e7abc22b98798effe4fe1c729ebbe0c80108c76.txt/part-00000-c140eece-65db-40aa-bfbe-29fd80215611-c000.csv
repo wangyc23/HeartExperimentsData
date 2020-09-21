@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/List/size()
+java/util/List/addAll(java.util.Collection)
+org/mybatis/spring/support/SqlSessionDaoSupportExt/getBatchSqlSession()

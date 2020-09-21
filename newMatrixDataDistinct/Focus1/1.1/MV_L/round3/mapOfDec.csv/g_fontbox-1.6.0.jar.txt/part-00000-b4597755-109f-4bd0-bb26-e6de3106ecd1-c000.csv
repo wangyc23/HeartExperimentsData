@@ -1,0 +1,5 @@
+org/apache/fontbox/afm/AFMParser/parseCharMetric()@g_fontbox-1.7.0.jar.txt	3
+org/apache/fontbox/afm/AFMParser/hexToString(java.lang.String)@g_fontbox-1.7.0.jar.txt	0
+org/apache/fontbox/afm/AFMParser/parseComposite()@g_fontbox-1.7.0.jar.txt	1
+org/apache/fontbox/cmap/CMapParser/parse(java.lang.String,java.io.InputStream)@g_fontbox-1.7.0.jar.txt	4
+org/apache/fontbox/ttf/AbstractTTFParser/parseTables(org.apache.fontbox.ttf.TrueTypeFont,org.apache.fontbox.ttf.TTFDataStream)@g_fontbox-1.7.0.jar.txt	2

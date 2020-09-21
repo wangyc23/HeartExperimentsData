@@ -1,0 +1,5 @@
+morfologik/stemming/DictionaryMetadataBuilder/withOutputConversionPairs(java.util.Map)@g_truecommons-shed-2.5.0.jar.txt	2
+morfologik/stemming/DictionaryMetadataBuilder/withEquivalentChars(java.util.Map)@g_truecommons-shed-2.5.0.jar.txt	3
+morfologik/stemming/BufferUtils/bytesToChars(java.nio.charset.CharsetDecoder,java.nio.ByteBuffer,java.nio.CharBuffer)@g_truecommons-shed-2.5.0.jar.txt	1
+net/java/truecommons/shed/ExtensionSet/toPattern()@g_truecommons-shed-2.5.0.jar.txt	4
+morfologik/speller/Speller/isMisspelled(java.lang.String)@g_truecommons-shed-2.5.0.jar.txt	0

@@ -1,0 +1,4 @@
+org/jboss/forge/furnace/container/cdi/util/Annotateds/createParameterListId(java.util.List)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Class/getName()
+java/lang/reflect/Method/getName()

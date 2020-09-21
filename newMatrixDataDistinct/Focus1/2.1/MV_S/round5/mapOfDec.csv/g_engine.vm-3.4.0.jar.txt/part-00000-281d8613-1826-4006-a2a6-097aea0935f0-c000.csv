@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/core/AliasMapper/initAliases(java.io.InputStream)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/osgi/internal/module/ResolverImpl/selectSingletons(org.eclipse.osgi.internal.module.ResolverBundle[])@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/osgi/internal/resolver/StateBuilder/createOSGiCapabilities(org.eclipse.osgi.util.ManifestElement[],java.util.List,java.lang.Integer)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/internal/signedcontent/SignatureBlockProcessor/processSigner(org.eclipse.osgi.baseadaptor.bundlefile.BundleFile,byte[],java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/internal/resolver/StateImpl/updateBundle(org.eclipse.osgi.service.resolver.BundleDescription)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2

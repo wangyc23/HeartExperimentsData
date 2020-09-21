@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/util/RollingCharBuffer/get(int)@g_lucene-analyzers-common-4.6.0.jar.txt	2
+org/apache/lucene/analysis/synonym/SlowSynonymFilterFactory/splitWS(java.lang.String,boolean)@g_lucene-analyzers-common-4.6.0.jar.txt	3
+org/apache/lucene/analysis/charfilter/MappingCharFilterFactory/parseString(java.lang.String)@g_lucene-analyzers-common-4.6.0.jar.txt	4
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/unhyphenate()@g_lucene-analyzers-common-4.6.0.jar.txt	0
+org/apache/lucene/analysis/miscellaneous/HyphenatedWordsFilter/unhyphenate()@g_lucene-analyzers-common-4.7.0.jar.txt	1

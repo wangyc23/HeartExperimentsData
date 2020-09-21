@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/poi/ddf/EscherPictBlip/getVersion()
+org/apache/poi/ddf/EscherPictBlip/getRecordId()
+java/lang/Class/getName()

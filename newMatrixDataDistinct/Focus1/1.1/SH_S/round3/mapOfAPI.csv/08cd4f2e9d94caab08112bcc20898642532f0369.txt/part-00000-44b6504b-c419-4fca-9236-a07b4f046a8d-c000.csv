@@ -1,0 +1,4 @@
+0	java/io/ByteArrayOutputStream/toString(java.lang.String)
+1	java/io/ByteArrayOutputStream/close()
+2	java/io/ByteArrayOutputStream/ByteArrayOutputStream()
+3	com/mongodb/client/MongoCollection/find(org.bson.conversions.Bson)

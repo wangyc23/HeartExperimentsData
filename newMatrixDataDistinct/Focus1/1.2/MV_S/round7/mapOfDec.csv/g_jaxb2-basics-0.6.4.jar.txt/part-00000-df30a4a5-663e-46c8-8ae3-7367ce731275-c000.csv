@@ -1,0 +1,5 @@
+org/jsonschema2pojo/rules/PropertyRule/addBuilder(com.sun.codemodel.JDefinedClass,com.sun.codemodel.JFieldVar)@g_jsonschema2pojo-core-0.4.0.jar.txt	4
+org/jsonschema2pojo/rules/ObjectRule/addEquals(com.sun.codemodel.JDefinedClass)@g_jsonschema2pojo-core-0.4.0.jar.txt	1
+org/jsonschema2pojo/rules/EnumRule/addFactoryMethod(com.fasterxml.jackson.databind.JsonNode,com.sun.codemodel.JDefinedClass)@g_jsonschema2pojo-core-0.4.0.jar.txt	0
+org/jsonschema2pojo/rules/ObjectRule/addHashCode(com.sun.codemodel.JDefinedClass)@g_jsonschema2pojo-core-0.4.0.jar.txt	3
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateClass(com.sun.codemodel.JDefinedClass,com.sun.codemodel.JVar)@g_wadl-core-1.1.6.jar.txt	2

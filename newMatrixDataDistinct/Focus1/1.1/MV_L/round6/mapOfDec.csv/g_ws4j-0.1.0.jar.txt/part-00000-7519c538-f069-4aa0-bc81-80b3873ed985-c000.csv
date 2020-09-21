@@ -1,0 +1,5 @@
+edu/cmu/lti/jawjaw/db/datamover/SQLite/processType(java.lang.String,int)@g_jawjaw-0.1.0.jar.txt	0
+edu/cmu/lti/jawjaw/db/SynsetDefDAO/findSynsetDefBySynsetAndLang(java.lang.String,edu.cmu.lti.jawjaw.pobj.Lang)@g_jawjaw-0.1.0.jar.txt	3
+edu/cmu/lti/jawjaw/db/SenseDAO/findSensesBySynsetAndLang(java.lang.String,edu.cmu.lti.jawjaw.pobj.Lang)@g_jawjaw-0.1.0.jar.txt	1
+edu/cmu/lti/jawjaw/db/SQL/extractDBIfJar(java.lang.String)@g_jawjaw-0.1.0.jar.txt	4
+edu/cmu/lti/jawjaw/db/SenseDAO/findSensesByWordid(int)@g_jawjaw-0.1.0.jar.txt	2

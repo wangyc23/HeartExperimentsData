@@ -1,0 +1,5 @@
+com/google/inject/multibindings/Multibinder/RealMultibinder/initialize(com.google.inject.Injector)@g_guice-multibindings-4.1.0.jar.txt	1
+org/sonatype/guice/bean/binders/ImportBinder/isImplicit(com.google.inject.Key)@g_guice-multibindings-4.1.0.jar.txt	4
+com/google/inject/servlet/ServletDefinition/init(javax.servlet.ServletContext,com.google.inject.Injector,java.util.Set)@g_guice-multibindings-4.1.0.jar.txt	3
+com/google/inject/multibindings/MultibindingsScanner/Scanner/prepareMethod(com.google.inject.Binder,java.lang.annotation.Annotation,com.google.inject.Key,com.google.inject.spi.InjectionPoint)@g_guice-multibindings-4.1.0.jar.txt	0
+com/google/inject/multibindings/Multibinder/newDuplicateValuesException(java.util.Map,com.google.inject.Binding,java.lang.Object,com.google.inject.Binding)@g_guice-multibindings-4.1.0.jar.txt	2

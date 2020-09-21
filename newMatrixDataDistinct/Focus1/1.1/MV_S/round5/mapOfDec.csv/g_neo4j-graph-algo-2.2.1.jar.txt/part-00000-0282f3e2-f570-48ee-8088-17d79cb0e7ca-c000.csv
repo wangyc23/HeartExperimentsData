@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/tregex/TregexPattern/main(java.lang.String[])@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	4
+edu/stanford/nlp/trees/international/french/FrenchTreeNormalizer/normalizeWholeTree(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.TreeFactory)@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	3
+edu/stanford/nlp/util/ArrayCoreMap/toShortString(char,java.lang.String[])@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	2
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	0
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_org.suigeneris.jrcs.diff-0.4.2.jar.txt	1

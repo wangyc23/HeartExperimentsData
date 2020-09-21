@@ -1,0 +1,5 @@
+org/apache/sling/commons/cache/infinispan/CacheManagerServiceImpl/activate(java.util.Map)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	2
+org/apache/sling/xss/impl/XSSFilterImpl/updateDefaultHandler()@0ff3757c82faabae2f17efddab67cae35d44705b.txt	4
+org/apache/sling/commons/log/logback/integration/ITConfigFragments/FileConfigProvider/getConfigSource()@0ff3757c82faabae2f17efddab67cae35d44705b.txt	3
+org/apache/sling/commons/compiler/impl/EclipseJavaCompiler/CompileContext/isPackage(java.lang.String)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	0
+org/apache/sling/commons/fsclassloader/impl/FSClassLoaderWebConsole/doGet(org.apache.sling.api.request.HttpServletRequest,org.apache.sling.api.request.HttpServletResponse)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	1

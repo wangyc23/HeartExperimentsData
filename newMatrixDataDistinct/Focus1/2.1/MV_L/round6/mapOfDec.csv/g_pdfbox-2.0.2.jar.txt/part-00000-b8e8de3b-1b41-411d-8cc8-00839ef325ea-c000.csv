@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/graphics/image/CCITTFactory/extractFromTiff(org.apache.pdfbox.io.RandomAccess,java.io.OutputStream,org.apache.pdfbox.cos.COSDictionary,int)@g_pdfbox-2.0.7.jar.txt	2
+org/apache/pdfbox/multipdf/LayerUtility/wrapInSaveRestore(org.apache.pdfbox.pdmodel.PDPage)@g_pdfbox-2.0.7.jar.txt	3
+org/apache/pdfbox/multipdf/PDFCloneUtility/cloneMerge(org.apache.pdfbox.pdmodel.common.COSObjectable,org.apache.pdfbox.pdmodel.common.COSObjectable)@g_pdfbox-2.0.7.jar.txt	0
+org/apache/pdfbox/multipdf/PDFCloneUtility/cloneForNewDocument(java.lang.Object)@g_pdfbox-2.0.7.jar.txt	4
+org/apache/pdfbox/pdfparser/COSParser/parseCOSStream(org.apache.pdfbox.cos.COSDictionary)@g_pdfbox-2.0.7.jar.txt	1

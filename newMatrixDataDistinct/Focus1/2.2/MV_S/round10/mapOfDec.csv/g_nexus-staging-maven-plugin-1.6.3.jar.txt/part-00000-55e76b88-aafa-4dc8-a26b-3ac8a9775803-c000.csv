@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/manualPurge(java.util.List)@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/AbstractDependencyMojo/unpack(org.apache.maven.artifact.Artifact,java.io.File,java.lang.String,java.lang.String)@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/maven/plugin/dependency/analyze/AnalyzeDepMgt/logMismatch(org.apache.maven.artifact.Artifact,org.apache.maven.model.Dependency)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/maven/plugin/dependency/fromConfiguration/AbstractFromConfigurationMojo/getProcessedArtifactItems(org.apache.maven.plugin.dependency.fromConfiguration.ProcessArtifactItemsRequest)@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/AbstractDependencyMojo/copyFile(java.io.File,java.io.File)@g_maven-dependency-plugin-2.8.jar.txt	3

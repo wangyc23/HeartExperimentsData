@@ -1,0 +1,4 @@
+pl/pwr/news/service/report/ReportService/create(java.lang.Long,java.lang.String)
+pl/pwr/news/webapp/controller/Response/Response(T)
+pl/pwr/news/webapp/controller/Response/Response(java.lang.String,java.lang.String)
+java/lang/Throwable/getMessage()

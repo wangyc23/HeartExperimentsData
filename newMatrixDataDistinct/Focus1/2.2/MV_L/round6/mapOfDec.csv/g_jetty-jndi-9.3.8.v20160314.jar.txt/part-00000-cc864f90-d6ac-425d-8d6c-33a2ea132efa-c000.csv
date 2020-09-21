@@ -1,0 +1,5 @@
+org/eclipse/jetty/jndi/ContextFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_jetty-runner-8.1.16.v20140903.jar.txt	1
+org/eclipse/jetty/jndi/ContextFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_jetty-jndi-7.6.5.v20120716.jar.txt	0
+org/apache/jasper/runtime/TldScanner/scanJars()@g_jetty-runner-8.1.16.v20140903.jar.txt	2
+org/eclipse/jetty/plus/jaas/JAASLoginService/getGroups(javax.security.auth.Subject)@g_jetty-runner-8.1.16.v20140903.jar.txt	4
+org/eclipse/jetty/server/handler/ContextHandler/doStop()@g_jetty-runner-8.1.16.v20140903.jar.txt	3

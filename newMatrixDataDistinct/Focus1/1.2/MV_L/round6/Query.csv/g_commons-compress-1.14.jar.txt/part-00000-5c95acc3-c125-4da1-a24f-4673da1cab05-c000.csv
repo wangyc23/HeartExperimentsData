@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream$CurrentEntry/access$500(org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry)
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream$CurrentEntry/access$400(org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry)
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream$CurrentEntry/access$200(org.apache.commons.compress.archivers.zip.ZipArchiveOutputStream$CurrentEntry)

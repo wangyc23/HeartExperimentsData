@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/dag/CycleDetectedException/getMessage()
+java/util/Iterator/hasNext()
+org/apache/maven/artifact/manager/WagonManager/setOnline(boolean)
+java/lang/Throwable/getMessage()

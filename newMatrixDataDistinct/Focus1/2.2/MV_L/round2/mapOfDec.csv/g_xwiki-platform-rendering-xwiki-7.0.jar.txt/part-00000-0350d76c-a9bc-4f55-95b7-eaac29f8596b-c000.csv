@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/resolver/AttachmentResourceReferenceEntityReferenceResolver/resolveTyped(org.xwiki.rendering.listener.reference.ResourceReference,org.xwiki.model.reference.EntityReference)@g_xwiki-platform-rendering-xwiki-7.4.jar.txt	4
+org/xwiki/rendering/script/RenderingScriptService/getAvailableParserSyntaxes()@g_xwiki-platform-rendering-xwiki-7.4.jar.txt	0
+org/xwiki/rendering/script/RenderingScriptService/getAvailableParserSyntaxes()@g_xwiki-platform-rendering-xwiki-7.4.2.jar.txt	2
+org/xwiki/rendering/script/RenderingScriptService/getAvailableRendererSyntaxes()@g_xwiki-platform-rendering-xwiki-7.4.2.jar.txt	3
+org/xwiki/rendering/script/RenderingScriptService/getAvailableRendererSyntaxes()@g_xwiki-platform-rendering-xwiki-7.4.jar.txt	1

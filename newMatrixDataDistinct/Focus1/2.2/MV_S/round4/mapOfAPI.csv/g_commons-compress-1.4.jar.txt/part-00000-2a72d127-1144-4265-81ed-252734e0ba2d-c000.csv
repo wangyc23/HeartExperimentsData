@@ -1,0 +1,4 @@
+0	org/apache/commons/compress/archivers/zip/ZipArchiveInputStream$CurrentEntry/access$300(org.apache.commons.compress.archivers.zip.ZipArchiveInputStream$CurrentEntry)
+1	org/apache/commons/compress/archivers/zip/ZipArchiveInputStream$Buffer/access$712(org.apache.commons.compress.archivers.zip.ZipArchiveInputStream$Buffer,int)
+2	org/apache/commons/compress/archivers/zip/ZipArchiveInputStream$Buffer/access$702(org.apache.commons.compress.archivers.zip.ZipArchiveInputStream$Buffer,int)
+3	org/apache/commons/compress/archivers/zip/ZipArchiveInputStream$CurrentEntry/access$914(org.apache.commons.compress.archivers.zip.ZipArchiveInputStream$CurrentEntry,long)

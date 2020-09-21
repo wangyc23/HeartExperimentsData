@@ -1,0 +1,4 @@
+org/springframework/validation/BeanPropertyBindingResult/hasErrors()
+java/lang/Class/getSimpleName()
+org/springframework/util/ObjectUtils/isEmpty(java.lang.Object[])
+org/springframework/core/annotation/AnnotationUtils/getValue(java.lang.annotation.Annotation)

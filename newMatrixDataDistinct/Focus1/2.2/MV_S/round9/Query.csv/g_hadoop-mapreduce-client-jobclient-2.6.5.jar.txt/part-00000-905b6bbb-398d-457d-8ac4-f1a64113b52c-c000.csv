@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/v2/api/records/TaskReport/addAllRunningAttempts(java.util.List)
+org/apache/hadoop/mapreduce/v2/api/records/TaskReport/setCounters(org.apache.hadoop.mapreduce.v2.api.records.Counters)
+org/apache/hadoop/mapreduce/v2/api/records/TaskReport/setTaskState(org.apache.hadoop.mapreduce.v2.api.records.TaskState)
+org/apache/hadoop/mapreduce/v2/api/protocolrecords/GetTaskReportRequest/getTaskId()

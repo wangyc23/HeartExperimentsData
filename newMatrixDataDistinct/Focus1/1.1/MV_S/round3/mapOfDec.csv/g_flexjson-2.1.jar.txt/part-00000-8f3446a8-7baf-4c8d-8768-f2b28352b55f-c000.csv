@@ -1,0 +1,5 @@
+uk/ac/susx/informatics/Morpha/capitalise(java.lang.String)@g_junit-4.8.2.jar.txt	0
+org/junit/experimental/theories/Theories/validateDataPointFields(java.util.List)@g_junit-4.8.2.jar.txt	2
+junit/framework/TestSuite/addTestsFromTestCase(java.lang.Class)@g_junit-4.8.2.jar.txt	4
+flexjson/BeanAnalyzer/populateProperties()@g_junit-4.8.2.jar.txt	3
+flexjson/ObjectBinder/bindIntoObject(java.util.Map,java.lang.Object,java.lang.reflect.Type)@g_junit-4.8.2.jar.txt	1

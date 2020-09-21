@@ -1,0 +1,4 @@
+javax/mail/internet/MimeMessage/setRecipient(javax.mail.Message$RecipientType,javax.mail.Address)
+javax/mail/internet/MimeBodyPart/MimeBodyPart()
+javax/mail/Session/getDefaultInstance(java.util.Properties,javax.mail.Authenticator)
+javax/mail/internet/InternetAddress/InternetAddress(java.lang.String)

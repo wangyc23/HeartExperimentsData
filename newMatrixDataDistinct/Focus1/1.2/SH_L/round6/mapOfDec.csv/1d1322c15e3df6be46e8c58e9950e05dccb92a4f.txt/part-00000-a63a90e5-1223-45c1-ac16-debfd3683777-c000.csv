@@ -1,0 +1,5 @@
+se/jsta/DBHelper/setBalance(java.lang.String,float)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	2
+se/jsta/DBHelper/createCustomer(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	3
+se/jsta/JSTABanken/getCusomers()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	1
+se/jsta/JSTABanken/createCustomer(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	0
+se/jsta/JSTABanken/getBalance(java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	4

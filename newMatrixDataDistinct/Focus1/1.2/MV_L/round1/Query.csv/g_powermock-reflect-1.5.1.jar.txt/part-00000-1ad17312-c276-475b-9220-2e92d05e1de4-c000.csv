@@ -1,0 +1,4 @@
+java/lang/Class/isMemberClass()
+java/lang/reflect/Constructor/getParameterTypes()
+java/lang/Class/getModifiers()
+java/lang/reflect/Modifier/isStatic(int)

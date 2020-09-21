@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/helpers/CollectionSupport$$anonfun$castToIterable$1$$anonfun$applyOrElse$1/1(org.neo4j.cypher.internal.helpers.CollectionSupport$$anonfun$castToIterable$1)
+scala/collection/Iterable$/canBuildFrom()
+scala/Predef$/wrapRefArray(java.lang.Object[])
+scala/collection/Iterable$/apply(scala.collection.Seq)

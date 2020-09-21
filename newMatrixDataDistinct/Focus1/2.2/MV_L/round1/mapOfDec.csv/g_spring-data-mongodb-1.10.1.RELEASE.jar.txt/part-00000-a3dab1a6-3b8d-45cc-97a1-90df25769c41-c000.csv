@@ -1,0 +1,5 @@
+org/springframework/data/mongodb/core/index/MongoPersistentEntityIndexResolver/potentiallyCreateTextIndexDefinition(org.springframework.data.mongodb.core.mapping.MongoPersistentEntity)@g_spring-data-mongodb-1.6.0.RELEASE.jar.txt	3
+org/springframework/data/mongodb/repository/support/MongoAnnotationProcessor/createConfiguration(javax.annotation.processing.RoundEnvironment)@g_spring-data-mongodb-1.6.0.RELEASE.jar.txt	1
+org/springframework/data/mongodb/core/convert/DefaultDbRefResolver/LazyLoadingInterceptor/proxyToString(java.lang.Object)@g_spring-data-mongodb-1.6.0.RELEASE.jar.txt	0
+org/springframework/data/mongodb/core/MongoTemplate/insertDBObjectList(java.lang.String,java.util.List)@g_spring-data-mongodb-1.6.0.RELEASE.jar.txt	2
+com/mongodb/tools/ConnectionPoolStat/main(java.lang.String[])@g_mongo-java-driver-2.12.3.jar.txt	4

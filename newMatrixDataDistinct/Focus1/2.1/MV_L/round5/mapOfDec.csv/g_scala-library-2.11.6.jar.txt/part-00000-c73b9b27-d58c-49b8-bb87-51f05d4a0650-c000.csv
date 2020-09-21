@@ -1,0 +1,5 @@
+scala/sys/process/ProcessBuilderImpl/Simple/run(scala.sys.process.ProcessIO)@g_scala-library-2.10.3.jar.txt	4
+scala/sys/process/ProcessBuilderImpl/AbstractBuilder/lines(boolean,boolean,scala.Option)@g_scala-library-2.10.4.jar.txt	1
+scala/sys/process/ProcessBuilderImpl/AbstractBuilder/lines(boolean,boolean,scala.Option)@g_scala-library-2.10.3.jar.txt	0
+scala/collection/parallel/mutable/ParFlatHashTable/ParFlatHashTableIterator/check()@g_scala-library-2.10.3.jar.txt	2
+scala/collection/parallel/mutable/ParHashMapCombiner/result()@g_scala-library-2.10.3.jar.txt	3

@@ -1,0 +1,5 @@
+com/ebay/jetstream/application/JetstreamApplicationInformation/getManagementPort()@0c52e76f48582d3769d50741bd0a427b25eb1cc1.txt	0
+org/drools/eclipse/editors/completion/CompletionContextTest/testCheckRuleHeaderLocationDetermination()@0c52e76f48582d3769d50741bd0a427b25eb1cc1.txt	4
+org/richfaces/ProgressBarResource/getData(org.richfaces.demo.autocomplete.FacesContext)@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	1
+com/ebay/jetstream/event/support/AdviceProcessor/afterPropertiesSet()@0c52e76f48582d3769d50741bd0a427b25eb1cc1.txt	3
+com/ebay/jetstream/event/channel/kafka/OutboundKafkaChannel/clearErrorList()@0c52e76f48582d3769d50741bd0a427b25eb1cc1.txt	2

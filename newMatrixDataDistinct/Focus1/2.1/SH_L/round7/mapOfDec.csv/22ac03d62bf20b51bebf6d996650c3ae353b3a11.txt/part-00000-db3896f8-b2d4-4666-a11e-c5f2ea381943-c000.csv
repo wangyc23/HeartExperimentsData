@@ -1,0 +1,5 @@
+io/netty/util/internal/chmv8/ForkJoinPool/invokeAll(java.util.Collection)@02d7dac5849bf9334462484d345bd02d8cef1226.txt	1
+io/netty/channel/epoll/EpollEventLoop/closeAll()@02d7dac5849bf9334462484d345bd02d8cef1226.txt	3
+io/netty/handler/codec/http/CookieDecoder/decode(java.lang.String)@02d7dac5849bf9334462484d345bd02d8cef1226.txt	2
+io/netty/channel/nio/NioEventLoop/closeAll()@02d7dac5849bf9334462484d345bd02d8cef1226.txt	0
+io/netty/channel/group/DefaultChannelGroup/toArray()@02d7dac5849bf9334462484d345bd02d8cef1226.txt	4

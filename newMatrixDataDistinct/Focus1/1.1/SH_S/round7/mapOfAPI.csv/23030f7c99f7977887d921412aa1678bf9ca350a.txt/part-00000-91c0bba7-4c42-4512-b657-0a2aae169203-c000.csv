@@ -1,0 +1,6 @@
+0	java/util/NoSuchElementException/NoSuchElementException()
+1	java/lang/Double/valueOf(java.lang.String)
+2	me/kafeitu/modules/utils/PropertiesLoader/getValue(java.lang.String)
+3	java/util/Map/keySet()
+4	java/util/Collections/enumeration(java.util.Collection)
+5	au/edu/anu/orcid/db/dao/GenericDAO/delete(PK)

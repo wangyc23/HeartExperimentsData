@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/utils/schemas/SchemaHandler/createSchema(java.util.List,java.lang.String,org.apache.cxf.Bus)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	0
+org/apache/cxf/staxutils/transform/TransformUtils/convertToQNamesMap(java.util.Map,org.apache.cxf.staxutils.transform.QNamesMap,java.util.Map)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/jaxrs/utils/schemas/SchemaHandler/createSchema(java.util.List,java.lang.String,org.apache.cxf.Bus)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	2
+org/apache/cxf/jaxrs/provider/XSLTJaxbProvider/createTemplates(java.net.URL)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/model/ClassResourceInfo/getSubResource(java.lang.Class,java.lang.Class,java.lang.Object,boolean,org.apache.cxf.message.Message)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	4

@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+javax/servlet/ServletRequest/getParameter(java.lang.String)
+javax/servlet/http/HttpServletRequest/getSession()
+javax/servlet/ServletRequest/getServletContext()

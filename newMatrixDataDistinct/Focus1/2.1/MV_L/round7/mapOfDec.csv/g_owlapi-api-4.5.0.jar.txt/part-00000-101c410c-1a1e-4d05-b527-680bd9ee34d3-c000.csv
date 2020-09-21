@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseAnnotationPropertyFrame()@g_owlapi-distribution-4.5.0.jar.txt	2
+uk/ac/manchester/cs/owl/owlapi/OWLOntologyManagerImpl/checkForImportsChange(org.semanticweb.owlapi.model.OWLOntologyChange)@g_owlapi-distribution-4.5.0.jar.txt	1
+org/obolibrary/obo2owl/OWLAPIObo2Owl/trTypedefToAnnotationProperty(org.obolibrary.oboformat.model.Frame)@g_owlapi-distribution-4.5.0.jar.txt	3
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/trNaryPropertyAxiom(org.semanticweb.owlapi.model.OWLNaryPropertyAxiom,java.lang.String)@g_owlapi-distribution-4.5.0.jar.txt	4
+org/semanticweb/owlapi/util/DefaultPrefixManager/setDefaultPrefix(java.lang.String)@g_owlapi-distribution-4.5.0.jar.txt	0

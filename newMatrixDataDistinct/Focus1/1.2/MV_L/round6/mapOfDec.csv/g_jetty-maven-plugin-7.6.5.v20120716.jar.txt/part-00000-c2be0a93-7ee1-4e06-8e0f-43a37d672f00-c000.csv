@@ -1,0 +1,5 @@
+org/eclipse/jetty/webapp/WebDescriptor/processVersion()@g_jetty-webapp-7.6.5.v20120716.jar.txt	0
+org/eclipse/jetty/webapp/WebAppContext/dumpUrl()@g_jetty-webapp-9.0.2.v20130417.jar.txt	4
+org/eclipse/jetty/webapp/WebInfConfiguration/unpack(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-webapp-7.6.5.v20120716.jar.txt	2
+org/eclipse/jetty/webapp/WebAppClassLoader/addJars(org.eclipse.jetty.util.resource.Resource)@g_jetty-webapp-7.6.5.v20120716.jar.txt	3
+org/eclipse/jetty/webapp/StandardDescriptorProcessor/visitListener(org.eclipse.jetty.webapp.WebAppContext,org.eclipse.jetty.webapp.Descriptor,org.eclipse.jetty.xml.XmlParser$Node)@g_jetty-webapp-7.6.5.v20120716.jar.txt	1

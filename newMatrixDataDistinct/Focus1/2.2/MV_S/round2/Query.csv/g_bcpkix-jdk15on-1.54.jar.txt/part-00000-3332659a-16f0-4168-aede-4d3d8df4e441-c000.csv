@@ -1,0 +1,4 @@
+org/bouncycastle/asn1/eac/ECDSAPublicKey/getSecondCoefB()
+org/bouncycastle/asn1/eac/ECDSAPublicKey/hasParameters()
+java/security/spec/ECPoint/ECPoint(java.math.BigInteger,java.math.BigInteger)
+org/bouncycastle/asn1/eac/ECDSAPublicKey/getPublicPointY()

@@ -1,0 +1,5 @@
+edu/cmu/lti/ws4j/impl/WuPalmer/calcRelatedness(edu.cmu.lti.lexical_db.data.Concept,edu.cmu.lti.lexical_db.data.Concept)@g_ws4j-0.1.0.jar.txt	1
+edu/cmu/lti/jawjaw/util/CollectionUtil/synsetToOffset(java.lang.String)@g_jawjaw-0.1.0.jar.txt	0
+edu/cmu/lti/ws4j/impl/HirstStOnge/calcRelatedness(edu.cmu.lti.lexical_db.data.Concept,edu.cmu.lti.lexical_db.data.Concept)@g_ws4j-0.1.0.jar.txt	4
+edu/cmu/lti/ws4j/util/ICFinder/loadIC()@g_ws4j-0.1.0.jar.txt	3
+edu/cmu/lti/ws4j/impl/Path/calcRelatedness(edu.cmu.lti.lexical_db.data.Concept,edu.cmu.lti.lexical_db.data.Concept)@g_ws4j-0.1.0.jar.txt	2

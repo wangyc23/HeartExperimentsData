@@ -1,0 +1,5 @@
+org/activiti/engine/impl/bpmn/parser/BpmnParse/createOperations()@g_activiti-engine-5.16.4.jar.txt	0
+org/activiti/engine/impl/bpmn/parser/handler/SendTaskParseHandler/executeParse(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.SendTask)@g_activiti-engine-5.16.4.jar.txt	3
+org/activiti/bpmn/converter/parser/InterfaceParser/parse(javax.xml.stream.XMLStreamReader,org.activiti.bpmn.model.BpmnModel)@g_activiti-bpmn-converter-5.17.0.jar.txt	2
+org/activiti/bpmn/converter/BpmnXMLConverter/convertToBpmnModel(javax.xml.stream.XMLStreamReader)@g_activiti-bpmn-converter-5.17.0.jar.txt	1
+org/activiti/engine/impl/bpmn/parser/handler/ServiceTaskParseHandler/executeParse(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.ServiceTask)@g_activiti-engine-5.16.4.jar.txt	4

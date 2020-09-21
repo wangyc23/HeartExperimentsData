@@ -1,0 +1,5 @@
+net/arnx/jsonic/URIConverter/convert(net.arnx.jsonic.JSON,net.arnx.jsonic.JSON$Context,java.lang.Object,java.lang.Class,java.lang.reflect.Type)@g_jsonic-1.2.11.jar.txt	1
+net/arnx/jsonic/web/RPCServlet/doRPC(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jsonic-1.2.11.jar.txt	4
+net/arnx/jsonic/FileConverter/convert(net.arnx.jsonic.JSON,net.arnx.jsonic.JSON$Context,java.lang.Object,java.lang.Class,java.lang.reflect.Type)@g_jsonic-1.2.11.jar.txt	3
+net/arnx/jsonic/web/WebServiceServlet/doREST(net.arnx.jsonic.web.WebServiceServlet$Route,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jsonic-1.2.11.jar.txt	0
+net/arnx/jsonic/DateConverter/convert(net.arnx.jsonic.JSON,net.arnx.jsonic.JSON$Context,java.lang.Object,java.lang.Class,java.lang.reflect.Type)@g_jsonic-1.2.11.jar.txt	2

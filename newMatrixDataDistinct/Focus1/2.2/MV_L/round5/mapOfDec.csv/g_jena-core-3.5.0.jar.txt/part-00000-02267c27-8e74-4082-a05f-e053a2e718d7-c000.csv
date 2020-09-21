@@ -1,0 +1,5 @@
+org/apache/jena/vocabulary/RDFS/<clinit>()@g_jena-core-3.4.0.jar.txt	1
+org/apache/jena/vocabulary/RDFS/Nodes/<clinit>()@g_jena-core-3.4.0.jar.txt	0
+org/apache/jena/util/ResourceUtils/renameResource(org.apache.jena.rdf.model.Resource,java.lang.String)@g_jena-core-3.4.0.jar.txt	3
+org/apache/jena/util/ResourceUtils/renameResource(org.apache.jena.rdf.model.Resource,java.lang.String)@g_jena-core-3.0.0.jar.txt	4
+org/apache/jena/vocabulary/RDF/Nodes/<clinit>()@g_jena-core-3.4.0.jar.txt	2

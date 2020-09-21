@@ -1,0 +1,5 @@
+aQute/lib/osgi/Analyzer/augmentImports()@g_bndlib-0.0.145.jar.txt	2
+aQute/lib/osgi/Jar/createDirectories(java.util.Set,java.util.jar.JarOutputStream,java.lang.String)@g_plexus-digest-1.0.jar.txt	3
+aQute/lib/osgi/Analyzer/calculateExportsFromContents(aQute.lib.osgi.Jar)@g_plexus-digest-1.0.jar.txt	4
+aQute/lib/osgi/Builder/doPom(aQute.lib.osgi.Jar)@g_bndlib-0.0.145.jar.txt	0
+aQute/lib/osgi/eclipse/EclipseClasspath/replaceVar(java.lang.String)@g_bndlib-0.0.145.jar.txt	1

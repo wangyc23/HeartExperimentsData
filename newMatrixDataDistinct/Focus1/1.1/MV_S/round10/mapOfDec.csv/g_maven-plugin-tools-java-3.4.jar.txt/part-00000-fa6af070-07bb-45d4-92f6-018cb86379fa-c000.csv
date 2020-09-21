@@ -1,0 +1,5 @@
+org/apache/maven/tools/plugin/generator/GeneratorUtils/isMavenReport(java.lang.String,org.apache.maven.project.MavenProject)@g_maven-plugin-tools-generators-3.4.jar.txt	0
+org/apache/maven/plugin/javadoc/JavadocUtil/pruneDirs(org.apache.maven.project.MavenProject,java.util.List)@g_maven-javadoc-plugin-2.8.1.jar.txt	2
+org/apache/maven/plugin/javadoc/resolver/ResourceResolver/resolveDependencyJavadocBundles(org.apache.maven.plugin.javadoc.resolver.SourceResolverConfig)@g_maven-javadoc-plugin-2.8.1.jar.txt	3
+org/apache/maven/plugin/javadoc/resolver/ResourceResolver/resolveDependencySourcePaths(org.apache.maven.plugin.javadoc.resolver.SourceResolverConfig)@g_maven-javadoc-plugin-2.8.1.jar.txt	1
+org/apache/maven/plugin/javadoc/JavadocUtil/getCompileArtifacts(java.util.Set,boolean)@g_maven-javadoc-plugin-2.8.1.jar.txt	4

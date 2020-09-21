@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+org/sqlite/jdbc3/JDBC3ResultSet/addColumnIndexInCache(java.lang.String,int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

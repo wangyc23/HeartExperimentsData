@@ -1,0 +1,5 @@
+org/powermock/reflect/internal/WhiteboxImpl/getMethod(java.lang.Class,java.lang.Class[])@g_mvel2-2.1.8.Final.jar.txt	4
+org/powermock/reflect/internal/WhiteboxImpl/newInstance(java.lang.Class)@g_mvel2-2.1.8.Final.jar.txt	2
+org/mvel2/conversion/BooleanCH/<clinit>()@g_mvel2-2.1.8.Final.jar.txt	3
+org/mvel2/conversion/DoubleCH/<clinit>()@g_mvel2-2.1.8.Final.jar.txt	1
+org/mvel2/optimizers/impl/refl/ReflectiveAccessorOptimizer/getCollectionProperty(java.lang.Object,java.lang.String)@g_mvel2-2.1.8.Final.jar.txt	0

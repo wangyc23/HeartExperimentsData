@@ -1,0 +1,5 @@
+org/apache/maven/repository/legacy/LegacyRepositorySystem/createDependencyArtifact(org.apache.maven.model.Dependency)@g_maven-compat-3.0.4.jar.txt	2
+org/apache/maven/artifact/resolver/DefaultArtifactResolver/resolve(org.apache.maven.artifact.Artifact,java.util.List,org.sonatype.aether.RepositorySystemSession)@g_maven-compat-3.0.4.jar.txt	0
+org/apache/maven/repository/legacy/LegacyRepositorySystem/canonicalFileUrl(java.lang.String)@g_maven-compat-3.0.4.jar.txt	3
+org/apache/maven/project/interpolation/StringSearchModelInterpolator/InterpolateObjectAction/traverseObjectWithParents(java.lang.Class,java.lang.Object)@g_maven-compat-3.0.4.jar.txt	4
+org/apache/maven/repository/legacy/DefaultUpdateCheckManager/getTouchfile(org.apache.maven.artifact.Artifact)@g_maven-compat-3.0.4.jar.txt	1

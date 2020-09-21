@@ -1,0 +1,5 @@
+org/apache/shiro/realm/activedirectory/ActiveDirectoryRealm/getRoleNamesForUser(java.lang.String,javax.naming.ldap.LdapContext)@g_shiro-core-1.2.2.jar.txt	1
+org/thymeleaf/standard/expression/RemainderExpression/executeRemainder(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,org.thymeleaf.standard.expression.RemainderExpression,org.thymeleaf.standard.expression.StandardExpressionExecutionContext)@g_shiro-core-1.2.2.jar.txt	4
+org/thymeleaf/standard/expression/StandardExpressionPreprocessor/preprocess(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,java.lang.String)@g_shiro-core-1.2.2.jar.txt	2
+org/thymeleaf/extras/springsecurity4/auth/AuthUtils/authorizeUsingUrlCheck(java.lang.String,java.lang.String,org.springframework.security.core.Authentication,javax.servlet.http.HttpServletRequest,javax.servlet.ServletContext)@g_shiro-core-1.2.2.jar.txt	3
+org/apache/shiro/subject/SimplePrincipalCollection/asSet()@g_shiro-core-1.2.2.jar.txt	0

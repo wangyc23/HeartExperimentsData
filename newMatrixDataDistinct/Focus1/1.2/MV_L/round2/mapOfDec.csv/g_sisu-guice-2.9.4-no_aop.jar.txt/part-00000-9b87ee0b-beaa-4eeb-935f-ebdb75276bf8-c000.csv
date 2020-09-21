@@ -1,0 +1,5 @@
+com/google/gson/internal/bind/MapTypeAdapterFactory/Adapter/write(com.google.gson.stream.JsonWriter,java.util.Map)@g_gson-2.2.2.jar.txt	0
+com/google/gson/internal/bind/TypeAdapters/25/write(com.google.gson.stream.JsonWriter,com.google.gson.JsonElement)@g_gson-2.2.2.jar.txt	1
+com/google/inject/internal/Errors/format(java.lang.String,java.util.Collection)@g_sisu-guice-3.1.0-no_aop.jar.txt	4
+com/google/inject/internal/InjectorShell/Builder/build(com.google.inject.internal.Initializer,com.google.inject.internal.ProcessedBindingData,com.google.inject.internal.util.Stopwatch,com.google.inject.internal.Errors)@g_sisu-guice-3.1.0-no_aop.jar.txt	3
+com/google/inject/spi/InjectionPoint/OverrideIndex/removeIfOverriddenBy(java.lang.reflect.Method,boolean,com.google.inject.spi.InjectionPoint$InjectableMethod)@g_sisu-guice-3.1.0-no_aop.jar.txt	2

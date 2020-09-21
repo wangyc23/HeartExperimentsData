@@ -1,0 +1,4 @@
+org/openrdf/rio/helpers/ParseErrorLogger/ParseErrorLogger()
+org/openrdf/rio/Rio/createParser(org.openrdf.rio.RDFFormat,org.openrdf.model.ValueFactory)
+org/openrdf/rio/RDFParser/parse(java.io.InputStream,java.lang.String)
+java/lang/StringBuilder/StringBuilder()

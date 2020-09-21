@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blockterms/BlockTermsReader/FieldReader/SegmentTermsEnum/seekCeil(org.apache.lucene.util.BytesRef)@g_lucene-codecs-6.6.0.jar.txt	4
+org/apache/lucene/codecs/simpletext/SimpleTextBKDWriter/build(int,int,org.apache.lucene.codecs.simpletext.SimpleTextBKDWriter$PathSlice[],org.apache.lucene.util.LongBitSet,org.apache.lucene.store.IndexOutput,byte[],byte[],byte[],long[],java.util.List)@g_lucene-codecs-6.6.0.jar.txt	1
+org/apache/lucene/codecs/blocktreeords/OrdsSegmentTermsEnum/seekExact(org.apache.lucene.util.BytesRef)@g_lucene-codecs-6.6.0.jar.txt	2
+org/apache/lucene/codecs/blockterms/BlockTermsReader/FieldReader/SegmentTermsEnum/seekExact(long)@g_lucene-codecs-6.6.0.jar.txt	0
+org/apache/lucene/codecs/blocktreeords/OrdsSegmentTermsEnum/seekCeil(org.apache.lucene.util.BytesRef)@g_lucene-codecs-6.6.0.jar.txt	3

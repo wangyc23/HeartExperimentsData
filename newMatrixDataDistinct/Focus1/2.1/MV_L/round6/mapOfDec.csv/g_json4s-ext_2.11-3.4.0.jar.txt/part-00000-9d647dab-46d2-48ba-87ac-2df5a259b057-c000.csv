@@ -1,0 +1,5 @@
+org/apache/spark/sql/catalyst/optimizer/CheckCartesianProducts/anonfun/apply/20/applyOrElse(org.apache.spark.sql.catalyst.plans.logical.LogicalPlan,scala.Function1)@g_spark-catalyst_2.11-2.2.0.jar.txt	4
+org/apache/spark/sql/catalyst/expressions/If/checkInputDataTypes()@g_spark-catalyst_2.11-2.2.0.jar.txt	1
+org/apache/spark/sql/catalyst/expressions/codegen/GenerateUnsafeProjection/anonfun/4/apply(scala.Tuple2)@g_spark-catalyst_2.11-2.2.0.jar.txt	2
+org/apache/spark/sql/catalyst/expressions/Hex/anonfun/doGenCode/16/apply(java.lang.String)@g_spark-catalyst_2.11-2.2.0.jar.txt	0
+org/apache/spark/sql/catalyst/catalog/SessionCatalog/createDatabase(org.apache.spark.sql.catalyst.catalog.CatalogDatabase,boolean)@g_spark-catalyst_2.11-2.2.0.jar.txt	3

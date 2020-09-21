@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/simpletext/SimpleTextFieldsWriter/write(org.apache.lucene.index.FieldInfos,org.apache.lucene.index.Fields)@g_lucene-codecs-5.5.0.jar.txt	0
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/write(org.apache.lucene.index.Fields)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/codecs/blocktreeords/OrdsBlockTreeTermsWriter/write(org.apache.lucene.index.Fields)@g_lucene-codecs-5.5.0.jar.txt	3
+org/apache/lucene/codecs/bloom/BloomFilteringPostingsFormat/BloomFilteredFieldsConsumer/write(org.apache.lucene.index.Fields)@g_lucene-codecs-5.5.0.jar.txt	2
+org/apache/lucene/codecs/blockterms/BlockTermsWriter/write(org.apache.lucene.index.Fields)@g_lucene-codecs-5.5.0.jar.txt	4

@@ -1,0 +1,4 @@
+net/htmlparser/jericho/FormControl$SelectFormControl/getElement()
+java/lang/StringBuilder/StringBuilder(int)
+java/lang/StringBuilder/append(java.lang.String)
+net/htmlparser/jericho/FormControl$ElementContainer/replaceAttributesInOutputDocumentIfModified(net.htmlparser.jericho.OutputDocument)

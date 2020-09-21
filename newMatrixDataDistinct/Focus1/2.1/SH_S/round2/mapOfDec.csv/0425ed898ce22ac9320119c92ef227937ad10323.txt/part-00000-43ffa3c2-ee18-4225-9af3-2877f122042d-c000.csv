@@ -1,0 +1,5 @@
+com/cathive/fx/cdi/JavaFXExtension/beforeBeanDiscovery(javax.enterprise.inject.spi.BeforeBeanDiscovery,javax.enterprise.inject.spi.BeanManager)@2804a384b2824236c42a095f8739aaf9055966a7.txt	4
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/incrementCounter(com.lucidworks.pig.FusionIndexPipelineStoreFunc.Counters,long)@2804a384b2824236c42a095f8739aaf9055966a7.txt	1
+com/lucidworks/IndexingSampler/UniformRandomGenerator/nextLong(java.util.Map,java.util.Random)@2804a384b2824236c42a095f8739aaf9055966a7.txt	3
+com/cathive/fx/inject/core/FXMLComponentBuilder/put(java.lang.String,java.lang.Object)@2804a384b2824236c42a095f8739aaf9055966a7.txt	0
+com/lucidworks/pig/FusionIndexPipelineStoreFunc/SolrOutputFormat/getOutputCommitter(org.apache.hadoop.mapreduce.TaskAttemptContext)@2804a384b2824236c42a095f8739aaf9055966a7.txt	2

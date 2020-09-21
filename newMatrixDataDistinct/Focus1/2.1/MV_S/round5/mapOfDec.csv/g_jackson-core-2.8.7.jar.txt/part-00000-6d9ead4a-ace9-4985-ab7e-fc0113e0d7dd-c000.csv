@@ -1,0 +1,5 @@
+com/fasterxml/jackson/core/base/ParserBase/reportInvalidBase64Char(com.fasterxml.jackson.core.Base64Variant,int,int,java.lang.String)@g_jackson-dataformat-smile-2.8.6.jar.txt	2
+com/fasterxml/jackson/dataformat/yaml/YAMLParser/_decodeScalar(org.yaml.snakeyaml.events.ScalarEvent)@g_jackson-dataformat-smile-2.8.6.jar.txt	3
+com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextFieldName()@g_jackson-dataformat-smile-2.8.6.jar.txt	1
+com/fasterxml/jackson/dataformat/yaml/YAMLParser/nextToken()@g_jackson-dataformat-smile-2.8.6.jar.txt	0
+com/fasterxml/jackson/core/json/UTF8StreamJsonParser/nextToken()@g_jackson-dataformat-smile-2.8.6.jar.txt	4

@@ -1,0 +1,5 @@
+org/springframework/boot/actuate/endpoint/DataSourcePublicMetrics/metrics()@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	3
+org/springframework/boot/actuate/endpoint/jmx/EndpointMBeanExporter/locateAndRegisterEndpoints()@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	0
+org/springframework/boot/actuate/endpoint/ConfigurationPropertiesReportEndpoint/sanitize(java.lang.String,java.util.Map)@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	4
+org/springframework/boot/actuate/endpoint/jmx/EndpointMBeanExporter/locateAndRegisterEndpoints()@g_spring-boot-actuator-1.3.0.BUILD-SNAPSHOT.jar.txt	1
+org/springframework/boot/actuate/endpoint/DataSourcePublicMetrics/initialize()@g_spring-boot-actuator-1.3.0.BUILD-20151115.025516-808.jar.txt	2

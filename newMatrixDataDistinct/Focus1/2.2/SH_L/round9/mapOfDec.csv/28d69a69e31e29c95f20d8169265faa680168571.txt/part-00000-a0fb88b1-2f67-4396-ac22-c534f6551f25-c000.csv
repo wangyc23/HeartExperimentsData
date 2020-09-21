@@ -1,0 +1,5 @@
+org/apache/sling/validation/impl/resourcemodel/ResourceValidationModelProviderImpl/getModels(java.lang.String,java.util.Map,org.apache.sling.api.resource.ResourceResolver)@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	0
+org/apache/sling/resourceresolver/impl/helper/ResourceResolverControl/listChildren(org.apache.sling.resourceresolver.impl.helper.ResourceResolverContext,org.apache.sling.api.resource.Resource)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	3
+org/apache/sling/resourceresolver/impl/mapping/MapEntriesTest/test_getVanityPaths_2()@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	4
+org/apache/sling/resourceresolver/impl/helper/ResourceResolverControl/listChildren(org.apache.sling.resourceresolver.impl.helper.ResourceResolverContext,org.apache.sling.api.resource.Resource)@2f8644410e97b6dfcbf8638044d6a8841a82e9ce.txt	1
+org/apache/sling/validation/impl/resourcemodel/ResourceValidationModelProviderImpl/getModels(java.lang.String,java.util.Map,org.apache.sling.api.resource.ResourceResolver)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	2

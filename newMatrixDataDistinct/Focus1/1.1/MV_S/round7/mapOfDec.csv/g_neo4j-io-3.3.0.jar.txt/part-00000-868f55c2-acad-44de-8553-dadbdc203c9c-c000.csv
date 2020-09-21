@@ -1,0 +1,5 @@
+org/neo4j/io/pagecache/impl/muninn/MuninnPagedFile/flushAndForceInternal(org.neo4j.io.pagecache.tracing.FlushEventOpportunity,boolean,org.neo4j.io.pagecache.IOLimiter)@g_xff-core-0.4.0.jar.txt	4
+org/xwiki/xff/core/model/Object/store(java.nio.file.Path)@g_xff-core-0.4.0.jar.txt	2
+org/xwiki/filter/xff/internal/input/ClassesReader/routeProperties()@g_xff-core-0.4.0.jar.txt	1
+org/xwiki/filter/xff/internal/input/XFFReader/parseXFFDir(java.nio.file.Path,java.lang.Object,org.xwiki.filter.xff.internal.input.XFFInputFilter)@g_xff-core-0.4.0.jar.txt	3
+org/xwiki/xff/core/model/Class/orderedPaths()@g_xff-core-0.4.0.jar.txt	0

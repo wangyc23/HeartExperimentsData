@@ -1,0 +1,5 @@
+com/amazonaws/services/ec2/model/transform/TerminateInstancesResultStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	2
+com/amazonaws/services/ec2/model/transform/SecurityGroupStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	3
+com/amazonaws/services/autoscaling/AmazonAutoScalingClient/invoke(com.amazonaws.Request,com.amazonaws.transform.Unmarshaller,com.amazonaws.http.ExecutionContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	1
+com/amazonaws/services/ec2/model/transform/InstanceAttributeStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-ec2-1.9.3.jar.txt	0
+com/amazonaws/services/autoscaling/model/transform/DescribeTagsRequestMarshaller/marshall(com.amazonaws.services.autoscaling.model.DescribeTagsRequest)@g_aws-java-sdk-ec2-1.9.3.jar.txt	4

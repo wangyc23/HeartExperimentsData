@@ -1,0 +1,4 @@
+org/eclipse/jetty/http/HttpParser/isComplete()
+org/eclipse/jetty/http/HttpGenerator/isPersistent()
+org/eclipse/jetty/http/HttpGenerator/complete()
+org/eclipse/jetty/http/HttpGenerator/isState(int)

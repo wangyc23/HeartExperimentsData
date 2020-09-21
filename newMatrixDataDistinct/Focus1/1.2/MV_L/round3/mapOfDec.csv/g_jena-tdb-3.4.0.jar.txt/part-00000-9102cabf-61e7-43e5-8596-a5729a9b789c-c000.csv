@@ -1,0 +1,5 @@
+org/apache/zookeeper/MultiResponse/serialize(org.apache.jute.OutputArchive,java.lang.String)@g_jena-tdb-3.0.0.jar.txt	3
+org/apache/jena/tdb/solver/SolverLib/execute(org.apache.jena.tdb.store.nodetupletable.NodeTupleTable,org.apache.jena.graph.Node,org.apache.jena.sparql.core.BasicPattern,org.apache.jena.sparql.engine.QueryIterator,java.util.function.Predicate,org.apache.jena.sparql.engine.ExecutionContext)@g_jena-tdb-3.0.0.jar.txt	1
+org/apache/zookeeper/ServerAdminClient/setTraceMask(java.lang.String,int,java.lang.String)@g_jena-tdb-3.0.0.jar.txt	4
+org/apache/zookeeper/ZooKeeper/getClientCnxnSocket()@g_jena-tdb-3.0.0.jar.txt	2
+org/apache/jena/tdb/store/tupletable/TupleIndexRecord/findWorker(org.apache.jena.atlas.lib.Tuple,boolean,boolean)@g_jena-tdb-3.0.0.jar.txt	0

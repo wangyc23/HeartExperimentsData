@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(char[],int,int)
+java/lang/StringBuffer/append(char)
+java/lang/String/indexOf(java.lang.String,int)
+java/lang/StringBuffer/toString()

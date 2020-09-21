@@ -1,0 +1,4 @@
+java/lang/System/getProperty(java.lang.String,java.lang.String)
+java/lang/Boolean/parseBoolean(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/System/mapLibraryName(java.lang.String)

@@ -1,0 +1,4 @@
+java/io/PrintStream/print(java.lang.String)
+java/io/PrintStream/println(java.lang.String)
+java/io/FileInputStream/FileInputStream(java.lang.String)
+java/lang/System/exit(int)

@@ -1,0 +1,5 @@
+org/apache/maven/artifact/manager/DefaultWagonManager/getProxy(java.lang.String)@g_maven-compat-3.0.jar.txt	0
+org/apache/maven/artifact/versioning/ManagedVersionMap/toString()@g_maven-compat-3.0.jar.txt	2
+org/apache/maven/repository/legacy/LegacyRepositorySystem/injectProxy(java.util.List,java.util.List)@g_maven-compat-3.0.jar.txt	3
+org/apache/maven/project/inheritance/DefaultModelInheritanceAssembler/assembleDependencyInheritance(org.apache.maven.model.Model,org.apache.maven.model.Model)@g_maven-compat-3.0.jar.txt	4
+org/apache/maven/project/interpolation/StringSearchModelInterpolator/InterpolateObjectAction/traverseObjectWithParents(java.lang.Class,java.lang.Object)@g_maven-compat-3.0.jar.txt	1

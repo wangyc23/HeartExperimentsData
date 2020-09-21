@@ -1,0 +1,5 @@
+org/apache/maven/shared/dependency/analyzer/ClassFileVisitorUtils/accept(java.net.URL,org.apache.maven.shared.dependency.analyzer.ClassFileVisitor)@g_maven-dependency-analyzer-1.4.jar.txt	2
+org/codehaus/plexus/compiler/util/scan/mapping/SuffixMapping/getTargetFiles(java.io.File,java.lang.String)@g_plexus-compiler-api-1.5.3.jar.txt	1
+org/codehaus/plexus/components/io/attributes/PlexusIoResourceAttributeUtils/getFileAttributesByPathScreenScrape(java.io.File,boolean,boolean)@g_plexus-compiler-api-1.5.3.jar.txt	4
+org/apache/maven/shared/dependency/analyzer/DefaultProjectDependencyAnalyzer/buildArtifactClassMap(org.apache.maven.project.MavenProject)@g_maven-dependency-analyzer-1.4.jar.txt	3
+org/apache/maven/shared/dependency/analyzer/ClassFileVisitorUtils/acceptDirectory(java.io.File,org.apache.maven.shared.dependency.analyzer.ClassFileVisitor)@g_maven-dependency-analyzer-1.4.jar.txt	0

@@ -1,0 +1,5 @@
+org/jboss/weld/bean/builtin/BeanManagerProxy/getInjectableReference(org.jboss.weld.util.reflection.InjectionPoint,org.jboss.weld.injection.CreationalContext)@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	4
+org/jboss/solder/config/xml/core/BeanResult/overrideFieldType(java.lang.reflect.Field,java.lang.Class)@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	3
+org/jboss/solder/servlet/http/CookieParamProducer/getCookieName(org.jboss.solder.logging.InjectionPoint)@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	1
+org/jboss/weld/tests/contexts/request/postConstruct/singleton/complicated/ValueChangeListener/getValues()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	0
+org/jboss/weld/bootstrap/events/ProcessObserverMethodImpl/getObserverMethod()@1d4b78a4e45e49132b839ef4066cd1113a415e6d.txt	2

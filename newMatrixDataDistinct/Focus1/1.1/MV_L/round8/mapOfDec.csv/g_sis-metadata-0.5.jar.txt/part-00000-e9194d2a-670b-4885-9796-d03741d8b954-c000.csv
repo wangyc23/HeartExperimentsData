@@ -1,0 +1,5 @@
+org/apache/sis/io/wkt/MathTransformParser/parseParameters(org.apache.sis.io.wkt.Element,org.opengis.parameter.ParameterValueGroup,javax.measure.unit.Unit,javax.measure.unit.Unit)@g_sis-metadata-0.6.jar.txt	1
+org/apache/sis/parameter/Verifier/ensureValidValue(org.opengis.parameter.ParameterDescriptor,java.lang.Object,javax.measure.unit.Unit)@g_sis-referencing-0.5.jar.txt	4
+org/apache/sis/internal/jaxb/metadata/replace/ServiceParameter/equals(java.lang.Object,org.apache.sis.util.ComparisonMode)@g_sis-metadata-0.6.jar.txt	0
+org/apache/sis/parameter/DefaultParameterDescriptor/equals(java.lang.Object,org.apache.sis.util.ComparisonMode)@g_sis-referencing-0.5.jar.txt	2
+org/apache/sis/parameter/Parameters/getValueDomain(org.opengis.parameter.ParameterDescriptor)@g_sis-referencing-0.5.jar.txt	3

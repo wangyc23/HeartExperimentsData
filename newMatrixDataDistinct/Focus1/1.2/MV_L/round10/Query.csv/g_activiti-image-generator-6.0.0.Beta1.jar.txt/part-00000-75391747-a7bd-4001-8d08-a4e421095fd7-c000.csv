@@ -1,0 +1,4 @@
+java/awt/geom/AffineTransform/setToIdentity()
+java/awt/Graphics2D/getTransform()
+java/awt/geom/AffineTransform/translate(double,double)
+java/awt/Graphics2D/draw(java.awt.Shape)

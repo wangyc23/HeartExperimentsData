@@ -1,0 +1,5 @@
+org/hibernate/jpa/boot/archive/internal/JarFileBasedArchiveDescriptor/visitArchive(org.hibernate.jpa.boot.archive.spi.ArchiveContext)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	4
+org/hibernate/jpa/internal/EntityManagerImpl/internalGetSession()@g_hibernate-entitymanager-4.3.6.Final.jar.txt	0
+org/hibernate/jpa/boot/internal/PersistenceXmlParser/extractContent(org.w3c.dom.Element,java.lang.String)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	1
+org/hibernate/jpa/boot/archive/internal/ExplodedArchiveDescriptor/processDirectory(java.io.File,java.lang.String,org.hibernate.jpa.boot.archive.spi.ArchiveContext)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	3
+org/hibernate/jpa/criteria/compile/CriteriaCompiler/1/getCastType(java.lang.Class)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	2

@@ -1,0 +1,4 @@
+java/lang/System/getProperty(java.lang.String,java.lang.String)
+java/lang/ref/ReferenceQueue/ReferenceQueue()
+java/lang/String/toLowerCase()
+java/lang/Runtime/getRuntime()

@@ -1,0 +1,5 @@
+org/apache/xalan/xslt/EnvironmentCheck/logFoundJars(java.util.Vector,java.lang.String)@g_xalan-2.7.0.jar.txt	4
+org/apache/xalan/xsltc/compiler/SyntaxTreeNode/compileResultTree(org.apache.xalan.xsltc.compiler.util.ClassGenerator,org.apache.xalan.xsltc.compiler.util.MethodGenerator)@g_xalan-2.7.0.jar.txt	3
+org/springframework/core/Constants/getValues(java.lang.String)@g_xalan-2.7.0.jar.txt	1
+org/apache/xml/serializer/NamespaceMappings/pushNamespace(java.lang.String,java.lang.String,int)@g_xalan-2.7.0.jar.txt	0
+org/springframework/util/ConcurrencyThrottleSupport/beforeAccess()@g_xalan-2.7.0.jar.txt	2

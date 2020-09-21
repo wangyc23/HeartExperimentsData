@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+java/util/Iterator/hasNext()
+org/apache/commons/logging/Log/warn(java.lang.Object,java.lang.Throwable)
+java/lang/Object/getClass()

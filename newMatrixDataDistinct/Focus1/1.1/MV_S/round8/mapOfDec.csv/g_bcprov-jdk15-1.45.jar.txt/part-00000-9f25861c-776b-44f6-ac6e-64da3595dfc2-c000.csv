@@ -1,0 +1,5 @@
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCRLs(java.security.cert.CRLSelector)@g_bcprov-jdk16-140.jar.txt	3
+org/bouncycastle/jce/provider/RFC3280CertPathUtilities/checkCRL(org.bouncycastle.asn1.x509.DistributionPoint,org.bouncycastle.x509.ExtendedPKIXParameters,java.security.cert.X509Certificate,java.util.Date,java.security.cert.X509Certificate,java.security.PublicKey,org.bouncycastle.jce.provider.CertStatus,org.bouncycastle.jce.provider.ReasonsMask,java.util.List)@g_bcprov-jdk16-140.jar.txt	1
+org/bouncycastle/x509/ExtendedPKIXParameters/setAttrCertCheckers(java.util.Set)@g_bcprov-jdk16-140.jar.txt	4
+org/bouncycastle/x509/PKIXCertPathReviewer/checkCRLs(java.security.cert.PKIXParameters,java.security.cert.X509Certificate,java.util.Date,java.security.cert.X509Certificate,java.security.PublicKey,java.util.Vector,int)@g_bcprov-jdk16-140.jar.txt	2
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcprov-jdk16-140.jar.txt	0

@@ -1,0 +1,5 @@
+org/xerial/snappy/Snappy/getNativeLibraryVersion()@g_snappy-java-1.1.2.6.jar.txt	0
+org/apache/commons/crypto/jna/OpenSslJnaCipher/tokenizeTransformation(java.lang.String)@g_snappy-java-1.1.2.6.jar.txt	1
+org/xerial/snappy/SnappyLoader/injectSnappyNativeLoader()@g_snappy-java-1.1.2.6.jar.txt	2
+org/apache/commons/crypto/cipher/CryptoCipherFactory/getCryptoCipher(java.lang.String,java.util.Properties)@g_snappy-java-1.1.2.6.jar.txt	4
+org/apache/commons/crypto/utils/Utils/createDefaultProperties()@g_snappy-java-1.1.2.6.jar.txt	3

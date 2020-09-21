@@ -1,0 +1,5 @@
+org/hibernate/validator/internal/engine/constraintvalidation/ConstraintValidatorManager/verifyResolveWasUnique(org.hibernate.validator.internal.metadata.descriptor.ConstraintDescriptorImpl,java.lang.reflect.Type,java.util.List)@g_hibernate-validator-5.1.1.Final.jar.txt	0
+org/hibernate/validator/internal/xml/ConstrainedExecutableBuilder/buildMethodConstrainedExecutable(java.util.List,java.lang.Class,java.lang.String,javax.validation.ParameterNameProvider,org.hibernate.validator.internal.metadata.core.ConstraintHelper,org.hibernate.validator.internal.metadata.core.AnnotationProcessingOptionsImpl)@g_hibernate-validator-5.1.1.Final.jar.txt	2
+org/hibernate/validator/internal/metadata/raw/ConstrainedExecutable/merge(org.hibernate.validator.internal.metadata.raw.ConstrainedExecutable)@g_hibernate-validator-5.1.1.Final.jar.txt	1
+org/hibernate/validator/internal/engine/ConfigurationImpl/buildValidatorFactory()@g_hibernate-validator-5.1.1.Final.jar.txt	4
+org/hibernate/validator/internal/xml/MetaConstraintBuilder/getElementValue(org.hibernate.validator.internal.xml.ElementType,java.lang.Class,java.lang.String)@g_hibernate-validator-5.1.1.Final.jar.txt	3

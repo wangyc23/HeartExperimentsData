@@ -1,0 +1,5 @@
+org/apache/kahadb/journal/Journal/start()@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/kaha/impl/async/ReadOnlyAsyncDataManager/start()@g_activemq-all-5.7.0.jar.txt	2
+org/apache/activemq/kaha/impl/async/AsyncDataManager/start()@g_activemq-all-5.7.0.jar.txt	3
+org/apache/kahadb/journal/ReadOnlyJournal/start()@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/kaha/impl/async/AsyncDataManager/allocateLocation(org.apache.activemq.kaha.impl.async.Location)@g_activemq-all-5.7.0.jar.txt	1

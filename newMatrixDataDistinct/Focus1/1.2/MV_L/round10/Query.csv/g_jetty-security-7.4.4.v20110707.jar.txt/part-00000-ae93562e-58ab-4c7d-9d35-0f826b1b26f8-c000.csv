@@ -1,0 +1,4 @@
+org/eclipse/jetty/http/security/Constraint/isForbidden()
+java/util/Iterator/hasNext()
+org/eclipse/jetty/http/security/Constraint/getRoles()
+java/util/Iterator/next()

@@ -1,0 +1,4 @@
+java/net/URL/toExternalForm()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/String/format(java.lang.String,java.lang.Object[])

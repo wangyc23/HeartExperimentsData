@@ -1,0 +1,5 @@
+org/eclipse/acceleo/engine/internal/evaluation/AcceleoEvaluationContext/createAcceleoStackTrace()@g_org.eclipse.acceleo.engine-3.5.0-20140828.085528-60.jar.txt	1
+org/eclipse/acceleo/engine/internal/evaluation/AcceleoEvaluationContext/createAcceleoStackTrace()@g_org.eclipse.acceleo.engine-3.5.0-SNAPSHOT.jar.txt	3
+org/eclipse/acceleo/engine/internal/evaluation/AcceleoEvaluationContext/createAcceleoException(org.eclipse.ocl.utilities.ASTNode,org.eclipse.ocl.expressions.OCLExpression,java.lang.String,java.lang.Object)@g_org.eclipse.acceleo.engine-3.5.0-20140828.085528-60.jar.txt	0
+org/eclipse/acceleo/engine/internal/evaluation/AcceleoEvaluationContext/createAcceleoException(org.eclipse.ocl.utilities.ASTNode,org.eclipse.ocl.expressions.OCLExpression,java.lang.String,java.lang.Object)@g_org.eclipse.acceleo.engine-3.5.0-SNAPSHOT.jar.txt	2
+org/eclipse/acceleo/engine/internal/environment/AcceleoEvaluationEnvironment/reorderCandidatesPriority(org.eclipse.acceleo.model.mtl.Module,java.util.Set)@g_org.eclipse.acceleo.engine-3.5.0-20140828.085528-60.jar.txt	4

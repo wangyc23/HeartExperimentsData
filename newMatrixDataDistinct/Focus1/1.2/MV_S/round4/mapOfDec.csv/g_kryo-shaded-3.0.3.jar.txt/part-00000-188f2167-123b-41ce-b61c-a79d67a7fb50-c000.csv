@@ -1,0 +1,5 @@
+com/esotericsoftware/kryo/serializers/TaggedFieldSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)@g_kryo-2.21.jar.txt	2
+com/esotericsoftware/reflectasm/shaded/org/objectweb/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_kryo-2.21.jar.txt	0
+com/esotericsoftware/reflectasm/MethodAccess/get(java.lang.Class)@g_kryo-2.21.jar.txt	1
+com/esotericsoftware/reflectasm/FieldAccess/get(java.lang.Class)@g_kryo-2.21.jar.txt	3
+com/esotericsoftware/kryo/util/Util/className(java.lang.Class)@g_kryo-2.21.jar.txt	4

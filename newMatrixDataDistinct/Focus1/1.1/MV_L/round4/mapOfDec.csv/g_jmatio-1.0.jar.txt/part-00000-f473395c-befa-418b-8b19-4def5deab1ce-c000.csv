@@ -1,0 +1,5 @@
+com/jmatio/io/stream/MatFileInputStream/readToByteBuffer(java.nio.ByteBuffer,int,com.jmatio.types.ByteStorageSupport)@g_jmatio-1.2.jar.txt	1
+com/jmatio/common/util/MLArrayQuery/query(com.jmatio.types.MLArray)@g_jmatio-1.2.jar.txt	3
+com/jmatio/io/MatFileIncrementalWriter/writeHeader(java.nio.channels.WritableByteChannel)@g_jmatio-1.2.jar.txt	0
+com/jmatio/io/stream/MatFileInputStream/readLong()@g_jmatio-1.2.jar.txt	4
+com/jmatio/io/MatFileWriter/writeHeader(java.nio.channels.WritableByteChannel)@g_jmatio-1.2.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/maven/it/Verifier/getMavenVersion()@g_maven-verifier-1.2.jar.txt	0
+org/apache/maven/it/util/cli/Commandline/addSystemEnvironment()@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/it/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_maven-verifier-1.2.jar.txt	2
+org/apache/maven/it/Verifier/discoverIntegrationTests(java.lang.String)@g_maven-verifier-1.2.jar.txt	3
+org/apache/maven/it/util/cli/CommandLineUtils/1/run()@g_maven-verifier-1.2.jar.txt	1

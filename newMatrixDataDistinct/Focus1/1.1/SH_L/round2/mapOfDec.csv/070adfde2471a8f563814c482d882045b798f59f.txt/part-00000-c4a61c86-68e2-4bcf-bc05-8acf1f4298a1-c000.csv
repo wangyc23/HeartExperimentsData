@@ -1,0 +1,5 @@
+org/efaps/esjp/sales/document/IncomingReceipt_Base/edit(org.efaps.esjp.sales.document.Parameter)@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	3
+org/efaps/esjp/sales/document/AbstractDocumentSum_Base/editDoc(org.efaps.esjp.sales.document.Parameter,org.efaps.esjp.sales.document.EditedDoc)@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	2
+org/efaps/esjp/sales/dashboard/Employee2DocPanel_Base/getMonth()@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	1
+org/efaps/esjp/sales/document/ProductRequest_Base/create(org.efaps.esjp.sales.document.Parameter)@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	4
+org/efaps/esjp/sales/document/IncomingProfServRetention_Base/getRateObject(org.efaps.esjp.sales.document.Parameter)@0eb9c4a550749d99044dfb4ff44219dba930b26f.txt	0

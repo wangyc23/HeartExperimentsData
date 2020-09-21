@@ -1,0 +1,5 @@
+com/sonal/flashcardapp/controllers/CardController/insertCard(com.sonal.flashcardapp.domain.FcCard,org.springframework.validation.BindingResult,javax.servlet.http.HttpSession)@0694c470e5158da6473039678f52be575a8bf58f.txt	4
+com/sonal/flashcardapp/controllers/DeckController/insertDeck(com.sonal.flashcardapp.domain.FcDeck,org.springframework.validation.BindingResult,javax.servlet.http.HttpSession)@0694c470e5158da6473039678f52be575a8bf58f.txt	3
+com/sonal/flashcardapp/controllers/CardController/createCard(javax.servlet.http.HttpSession)@0694c470e5158da6473039678f52be575a8bf58f.txt	1
+com/sonal/flashcardapp/controllers/DeckController/createDeck(javax.servlet.http.HttpSession)@0694c470e5158da6473039678f52be575a8bf58f.txt	0
+com/sonal/flashcardapp/controllers/UserRegistrationController/storeNewUserProfile(javax.servlet.http.HttpSession)@0694c470e5158da6473039678f52be575a8bf58f.txt	2

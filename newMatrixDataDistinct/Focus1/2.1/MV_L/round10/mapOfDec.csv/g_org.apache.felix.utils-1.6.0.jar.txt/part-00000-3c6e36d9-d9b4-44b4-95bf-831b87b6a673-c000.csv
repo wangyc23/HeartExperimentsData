@@ -1,0 +1,5 @@
+org/apache/felix/bundlerepository/impl/FileUtil/unjar(java.util.jar.JarInputStream,java.io.File)@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	3
+org/apache/felix/utils/properties/Properties/PropertiesReader/readProperty()@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	0
+org/apache/felix/bundlerepository/impl/ObrCommandImpl/parseInfo(java.lang.String)@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	2
+org/apache/felix/bundlerepository/impl/ObrURLStreamHandlerService/getRemoteUrlForBundle(org.osgi.framework.Bundle)@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	4
+org/apache/felix/bundlerepository/impl/ObrURLStreamHandlerService/getRemoteObrInstallUrl(java.lang.String)@g_org.apache.felix.bundlerepository-1.6.6.jar.txt	1

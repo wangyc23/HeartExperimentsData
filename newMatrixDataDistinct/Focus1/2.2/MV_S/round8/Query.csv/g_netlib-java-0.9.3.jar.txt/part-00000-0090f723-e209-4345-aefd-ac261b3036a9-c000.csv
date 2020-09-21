@@ -1,0 +1,4 @@
+java/lang/StringBuilder/StringBuilder()
+java/util/Set/iterator()
+java/lang/String/replace(java.lang.CharSequence,java.lang.CharSequence)
+java/lang/reflect/Method/getParameterTypes()

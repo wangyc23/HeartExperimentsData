@@ -1,0 +1,4 @@
+org/apache/camel/Endpoint/createExchange()
+org/apache/camel/Service/stop()
+org/apache/camel/Message/setBody(java.lang.Object)
+org/apache/camel/CamelContext/getEndpoint(java.lang.String)

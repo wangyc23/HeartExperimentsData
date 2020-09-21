@@ -1,0 +1,5 @@
+org/apache/avro/specific/TestSpecificRecordBuilder/testBuilderPerformanceWithDefaultValues()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1
+org/apache/hadoop/mapreduce/Job/getTaskFailureEventString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0
+org/apache/hadoop/mapreduce/task/reduce/InMemoryMapOutput/shuffle(org.apache.hadoop.mapreduce.task.reduce.MapHost,java.io.InputStream,long,long,org.apache.hadoop.mapreduce.task.reduce.ShuffleClientMetrics,org.apache.hadoop.mapred.Reporter)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/mapreduce/lib/db/DateSplitter/split(org.apache.hadoop.conf.Configuration,java.sql.ResultSet,java.lang.String)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapred/QueueConfigurationParser/loadResource(java.io.InputStream)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3

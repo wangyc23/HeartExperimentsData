@@ -1,0 +1,5 @@
+org/jvnet/jaxb2_commons/util/FieldAccessorUtils/setter(com.sun.tools.xjc.outline.FieldOutline)@g_wadl-core-1.1.6.jar.txt	4
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateIfOnStatus(com.sun.codemodel.JBlock,com.sun.codemodel.JVar,com.sun.codemodel.JType,com.sun.codemodel.JExpression)@g_wadl-core-1.1.6.jar.txt	3
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateClass(com.sun.codemodel.JDefinedClass,com.sun.codemodel.JVar)@g_wadl-core-1.1.6.jar.txt	0
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBeanProperty(com.sun.codemodel.JDefinedClass,java.util.List,org.jvnet.ws.wadl.Param,boolean)@g_wadl-core-1.1.6.jar.txt	1
+org/jvnet/jaxb2_commons/xjc/outline/artificial/AnyAttributePropertyOutline/generateSetter()@g_wadl-core-1.1.6.jar.txt	2

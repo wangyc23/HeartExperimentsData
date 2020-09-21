@@ -1,0 +1,5 @@
+org/hsqldb/util/DatabaseManagerSwing/addToRecent(java.lang.String)@g_hsqldb-2.0.0.jar.txt	1
+org/hsqldb/auth/HsqldbSlaveAuthBean/authenticate(java.lang.String,java.lang.String)@g_hsqldb-2.0.0.jar.txt	4
+org/hsqldb/Routine/getMethods(java.lang.String)@g_hsqldb-2.0.0.jar.txt	2
+org/hsqldb/persist/HsqlProperties/validateProperty(java.lang.String,java.lang.String,java.lang.Object[])@g_hsqldb-2.0.0.jar.txt	0
+org/hsqldb/jdbc/JDBCSQLXML/getGZipData()@g_hsqldb-2.0.0.jar.txt	3

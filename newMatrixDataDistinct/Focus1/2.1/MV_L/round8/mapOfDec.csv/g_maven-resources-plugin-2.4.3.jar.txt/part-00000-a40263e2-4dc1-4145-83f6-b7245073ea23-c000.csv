@@ -1,0 +1,5 @@
+org/apache/maven/plugin/resources/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-resources-plugin-2.4.1.jar.txt	0
+org/apache/maven/plugin/resources/PropertyUtils/getPropertyValue(java.lang.String,java.util.Properties)@g_maven-resources-plugin-2.4.1.jar.txt	3
+org/apache/maven/plugin/resources/PropertyUtils/loadPropertyFile(java.io.File,java.util.Properties)@g_maven-resources-plugin-2.4.1.jar.txt	4
+org/apache/maven/plugin/resources/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-resources-plugin-2.4.2.jar.txt	1
+org/apache/maven/plugin/resources/ResourcesMojo/execute()@g_maven-resources-plugin-2.4.1.jar.txt	2

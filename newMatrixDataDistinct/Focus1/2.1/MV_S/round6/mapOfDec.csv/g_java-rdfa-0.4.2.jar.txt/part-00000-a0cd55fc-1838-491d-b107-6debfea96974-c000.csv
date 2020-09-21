@@ -1,0 +1,5 @@
+javanet/staxutils/BaseXMLEventWriter/sendCachedEvents()@g_stax-utils-20070216.jar.txt	4
+javanet/staxutils/XMLStreamUtils/mergeAttributes(javax.xml.stream.events.StartElement,java.util.Iterator,javax.xml.stream.XMLEventFactory)@g_stax-utils-20070216.jar.txt	3
+javanet/staxutils/XMLEventReaderToContentHandler/getAttributes(javax.xml.stream.events.StartElement)@g_stax-utils-20070216.jar.txt	1
+javanet/staxutils/SimpleNamespaceContext/getPrefix(java.lang.String)@g_stax-utils-20070216.jar.txt	2
+javanet/staxutils/XMLEventReaderToContentHandler/handleEndElement(javax.xml.stream.events.EndElement)@g_stax-utils-20070216.jar.txt	0

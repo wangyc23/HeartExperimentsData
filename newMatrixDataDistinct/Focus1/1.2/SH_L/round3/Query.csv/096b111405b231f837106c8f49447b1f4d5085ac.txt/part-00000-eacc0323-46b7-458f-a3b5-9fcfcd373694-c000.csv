@@ -1,0 +1,4 @@
+io/netty/handler/ssl/util/SelfSignedCertificate/SelfSignedCertificate()
+io/netty/handler/ssl/util/SelfSignedCertificate/certificate()
+io/netty/handler/ssl/util/SelfSignedCertificate/privateKey()
+javax/net/ssl/SSLEngine/getWantClientAuth()

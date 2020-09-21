@@ -1,0 +1,4 @@
+org/apache/hedwig/protocol/PubSubProtocol/PubSubRequest/getPublishRequest()
+org/apache/hedwig/protocol/PubSubProtocol/PubSubRequest/hasPublishRequest()
+org/apache/hedwig/protocol/PubSubProtocol/PublishRequest/getMsg()
+org/apache/hedwig/protocol/PubSubProtocol/PubSubRequest/getTxnId()

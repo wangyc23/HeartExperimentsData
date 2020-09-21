@@ -1,0 +1,5 @@
+org/parboiled/ParserStatistics/printActionClassLines()@g_parboiled-core-1.1.7.jar.txt	2
+org/parboiled/parserunners/ProfilingParseRunner/match(org.parboiled.MatcherContext)@g_parboiled-core-1.1.7.jar.txt	1
+org/parboiled/matchers/FirstOfStringsMatcher/createRecord(int,char[][])@g_parboiled-core-1.1.7.jar.txt	4
+org/parboiled/parserunners/ProfilingParseRunner/Report/printTopRules(int,org.parboiled.common.Predicate)@g_parboiled-core-1.1.7.jar.txt	3
+org/parboiled/common/Utils/getTypeArguments(java.lang.Class,java.lang.Class)@g_parboiled-core-1.1.7.jar.txt	0

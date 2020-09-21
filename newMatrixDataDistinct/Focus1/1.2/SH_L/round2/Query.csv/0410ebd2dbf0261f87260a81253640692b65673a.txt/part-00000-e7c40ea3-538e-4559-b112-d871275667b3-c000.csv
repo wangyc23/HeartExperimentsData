@@ -1,0 +1,4 @@
+org/atmosphere/cpr/Action/type()
+java/lang/Boolean/valueOf(java.lang.String)
+org/atmosphere/cpr/AtmosphereRequest/body(java.lang.String)
+org/atmosphere/cpr/AtmosphereRequest/setAttribute(java.lang.String,java.lang.Object)

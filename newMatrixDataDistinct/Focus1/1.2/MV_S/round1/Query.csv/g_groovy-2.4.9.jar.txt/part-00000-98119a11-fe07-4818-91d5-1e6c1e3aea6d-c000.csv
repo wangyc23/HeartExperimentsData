@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/codehaus/groovy/ast/MethodNode/getDeclaringClass()
+java/util/ArrayList/ArrayList(java.util.Collection)
+java/util/Iterator/hasNext()

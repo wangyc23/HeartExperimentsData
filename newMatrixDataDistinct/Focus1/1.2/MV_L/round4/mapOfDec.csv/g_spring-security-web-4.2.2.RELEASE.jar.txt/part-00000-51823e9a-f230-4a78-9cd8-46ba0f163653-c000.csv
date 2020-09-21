@@ -1,0 +1,5 @@
+org/springframework/security/web/debug/DebugFilter/formatFilters(java.util.List)@g_spring-security-web-4.1.0.RELEASE.jar.txt	0
+org/springframework/security/web/debug/DebugFilter/formatFilters(java.util.List)@g_spring-security-web-4.0.0.RELEASE.jar.txt	1
+org/springframework/security/web/PortMapperImpl/setPortMappings(java.util.Map)@g_spring-security-web-4.1.0.RELEASE.jar.txt	2
+org/springframework/security/web/access/channel/ChannelDecisionManagerImpl/setChannelProcessors(java.util.List)@g_spring-security-web-4.1.0.RELEASE.jar.txt	4
+org/springframework/security/web/authentication/DelegatingAuthenticationEntryPoint/commence(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.security.core.AuthenticationException)@g_spring-security-web-4.1.0.RELEASE.jar.txt	3

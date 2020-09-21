@@ -1,0 +1,4 @@
+com/cloudera/dataflow/spark/SparkPipelineOptionsFactory/create()
+com/google/cloud/dataflow/sdk/options/PipelineOptions/setRunner(java.lang.Class)
+com/cloudera/dataflow/spark/EvaluationResult/close()
+com/google/cloud/dataflow/sdk/Pipeline/apply(com.google.cloud.dataflow.sdk.transforms.PTransform)

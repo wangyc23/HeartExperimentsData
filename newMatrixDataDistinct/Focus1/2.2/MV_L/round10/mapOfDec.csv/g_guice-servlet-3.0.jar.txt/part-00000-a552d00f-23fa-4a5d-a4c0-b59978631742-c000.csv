@@ -1,0 +1,5 @@
+com/google/inject/multibindings/MapBinder/RealMapBinder/MultimapBinder/RealProviderMultimapProvider/initialize(com.google.inject.Injector)@g_guice-multibindings-4.1.0.jar.txt	3
+com/google/inject/multibindings/MapBinder/RealMapBinder/RealProviderMapProvider/initialize(com.google.inject.Injector)@g_guice-multibindings-4.1.0.jar.txt	2
+com/google/inject/multibindings/Multibinder/RealMultibinder/get()@g_guice-multibindings-4.1.0.jar.txt	0
+com/google/inject/multibindings/MapBinder/RealMapBinder/MultimapBinder/RealMultimapProvider/get()@g_guice-multibindings-4.1.0.jar.txt	1
+com/google/inject/multibindings/MapBinder/RealMapBinder/RealMapProvider/get()@g_guice-multibindings-4.1.0.jar.txt	4

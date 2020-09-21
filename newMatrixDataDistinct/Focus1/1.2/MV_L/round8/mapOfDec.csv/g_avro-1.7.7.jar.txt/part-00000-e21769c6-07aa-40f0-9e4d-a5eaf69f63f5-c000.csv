@@ -1,0 +1,5 @@
+org/apache/avro/generic/GenericDatumReader/read(java.lang.Object,org.apache.avro.Schema,org.apache.avro.io.ResolvingDecoder)@g_neo4j-harness-2.2.1.jar.txt	3
+org/apache/avro/specific/SpecificData/createSchema(java.lang.reflect.Type,java.util.Map)@g_neo4j-harness-2.2.1.jar.txt	2
+org/apache/avro/generic/GenericDatumReader/skip(org.apache.avro.Schema,org.apache.avro.io.Decoder)@g_neo4j-harness-2.2.1.jar.txt	1
+org/apache/avro/generic/GenericData/toString(java.lang.Object,java.lang.StringBuilder)@g_neo4j-harness-2.2.1.jar.txt	4
+org/apache/avro/file/BZip2Codec/decompress(java.nio.ByteBuffer)@g_neo4j-harness-2.2.1.jar.txt	0

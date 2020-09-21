@@ -1,0 +1,5 @@
+uk/ac/ic/wlgitbridge/WLGitBridgeIntegrationTest/pushFailsOnInvalidProject()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	2
+uk/ac/ic/wlgitbridge/WLGitBridgeIntegrationTest/canPullADuplicateBinaryFile()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	4
+uk/ac/ic/wlgitbridge/snapshot/servermock/util/FileUtil/fileContentsEqual(java.nio.file.Path,java.nio.file.Path)@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	1
+uk/ac/ic/wlgitbridge/WLGitBridgeIntegrationTest/pushFailsOnFirstStageOutOfDate()@07fd52d8a193707a74efe97d6f45b1f1ef652756.txt	3
+com/jakubstas/swagger/service/UserService/init()@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	0

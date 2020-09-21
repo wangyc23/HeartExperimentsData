@@ -1,0 +1,5 @@
+org/jboss/netty/handler/codec/spdy/DefaultSpdySynReplyFrame/toString()@g_netty-3.6.2.Final.jar.txt	3
+org/jboss/netty/handler/codec/http/DefaultHttpMessage/toString()@g_netty-3.6.2.Final.jar.txt	0
+org/jboss/netty/handler/codec/http/DefaultHttpRequest/toString()@g_netty-3.6.2.Final.jar.txt	2
+org/jboss/netty/handler/codec/spdy/DefaultSpdySynStreamFrame/toString()@g_netty-3.6.2.Final.jar.txt	1
+org/jboss/netty/handler/codec/http/DefaultHttpResponse/toString()@g_netty-3.6.2.Final.jar.txt	4

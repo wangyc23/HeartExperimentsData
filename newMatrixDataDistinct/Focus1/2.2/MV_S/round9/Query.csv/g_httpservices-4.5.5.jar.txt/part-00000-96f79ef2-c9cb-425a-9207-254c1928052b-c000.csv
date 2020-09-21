@@ -1,0 +1,4 @@
+javax/net/ssl/SSLSocket/connect(java.net.SocketAddress,int)
+org/apache/http/conn/ConnectTimeoutException/ConnectTimeoutException(java.lang.String)
+org/apache/http/params/HttpConnectionParams/getSoTimeout(org.apache.http.params.HttpParams)
+org/apache/http/params/HttpConnectionParams/getConnectionTimeout(org.apache.http.params.HttpParams)

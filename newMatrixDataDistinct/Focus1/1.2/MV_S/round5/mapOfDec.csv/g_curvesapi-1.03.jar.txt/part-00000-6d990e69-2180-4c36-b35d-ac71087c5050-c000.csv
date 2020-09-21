@@ -1,0 +1,5 @@
+com/google/gson/stream/JsonWriter/value(double)@g_gson-2.3.1.jar.txt	0
+com/google/gson/stream/JsonReader/nextDouble()@g_gson-2.3.1.jar.txt	1
+com/google/gson/internal/bind/JsonTreeReader/nextDouble()@g_gson-2.3.1.jar.txt	2
+com/google/gson/internal/bind/JsonTreeWriter/value(double)@g_gson-2.3.1.jar.txt	4
+com/google/gson/internal/bind/JsonTreeWriter/value(java.lang.Number)@g_gson-2.3.1.jar.txt	3

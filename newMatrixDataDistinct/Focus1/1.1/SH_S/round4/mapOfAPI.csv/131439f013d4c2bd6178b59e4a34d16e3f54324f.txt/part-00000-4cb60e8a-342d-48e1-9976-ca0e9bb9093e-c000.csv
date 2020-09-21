@@ -1,0 +1,5 @@
+0	camelinaction/HelloBean/HelloBean()
+1	java/lang/Object/Object()
+2	java/net/ConnectException/ConnectException(java.lang.String)
+3	java/lang/Thread/sleep(long)
+4	com/paul/demo/LoadBalancerResource/addServerToList(java.lang.String)

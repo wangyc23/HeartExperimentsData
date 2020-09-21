@@ -1,0 +1,5 @@
+com/sun/syndication/io/impl/RSS091UserlandParser/parseChannel(org.jdom.Element)@g_rome-1.0.0.jar.txt	0
+com/sun/syndication/io/impl/Atom03Parser/parseEntry(org.jdom.Element)@g_rome-1.0.0.jar.txt	3
+com/sun/syndication/io/impl/RSS091UserlandParser/parseChannel(org.jdom.Element)@g_rome-1.0.jar.txt	1
+com/sun/syndication/feed/synd/impl/ConverterForAtom03/createRealFeed(com.sun.syndication.feed.synd.SyndFeed)@g_rome-1.0.0.jar.txt	2
+com/sun/syndication/feed/synd/impl/ConverterForAtom03/createAtomEntry(com.sun.syndication.feed.synd.SyndEntry)@g_rome-1.0.0.jar.txt	4

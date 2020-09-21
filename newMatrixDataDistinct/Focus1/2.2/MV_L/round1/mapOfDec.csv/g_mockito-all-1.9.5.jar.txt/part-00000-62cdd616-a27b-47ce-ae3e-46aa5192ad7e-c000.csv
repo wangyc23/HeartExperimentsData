@@ -1,0 +1,5 @@
+org/mockito/cglib/core/AbstractClassGenerator/create(java.lang.Object)@g_mockito-core-1.8.4.jar.txt	1
+org/mockito/cglib/proxy/LazyLoaderGenerator/generate(org.mockito.cglib.core.ClassEmitter,org.mockito.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_mockito-core-1.9.5.jar.txt	4
+org/mockito/cglib/proxy/Enhancer/emitMethods(org.mockito.cglib.core.ClassEmitter,java.util.List,java.util.List)@g_mockito-core-1.8.4.jar.txt	3
+org/mockito/cglib/proxy/Enhancer/emitMethods(org.mockito.cglib.core.ClassEmitter,java.util.List,java.util.List)@g_mockito-core-1.9.5.jar.txt	2
+org/mockito/cglib/core/AbstractClassGenerator/create(java.lang.Object)@g_mockito-core-1.9.5.jar.txt	0

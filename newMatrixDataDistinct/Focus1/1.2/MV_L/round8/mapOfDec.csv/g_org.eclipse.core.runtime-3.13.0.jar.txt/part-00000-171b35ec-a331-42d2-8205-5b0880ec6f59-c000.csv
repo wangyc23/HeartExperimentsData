@@ -1,0 +1,5 @@
+org/eclipse/core/internal/preferences/legacy/ProductPreferencesService/getProductTranslation()@g_org.eclipse.core.runtime-3.9.0.v20130326-1255.jar.txt	2
+org/eclipse/core/internal/runtime/AuthorizationHandler/loadKeyring()@g_org.eclipse.core.runtime-3.9.0.v20130326-1255.jar.txt	4
+org/eclipse/core/internal/runtime/PerformanceStatsProcessor/logFailure(org.eclipse.core.runtime.PerformanceStats,java.lang.String,long)@g_runtime-3.9.100-v20131218-1515.jar.txt	1
+org/eclipse/core/internal/preferences/legacy/PreferenceForwarder/added(org.eclipse.core.runtime.preferences.IEclipsePreferences$NodeChangeEvent)@g_org.eclipse.core.runtime-3.9.0.v20130326-1255.jar.txt	3
+org/eclipse/core/internal/runtime/PerformanceStatsProcessor/logFailure(org.eclipse.core.runtime.PerformanceStats,java.lang.String,long)@g_org.eclipse.core.runtime-3.9.0.v20130326-1255.jar.txt	0

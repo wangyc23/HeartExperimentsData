@@ -1,0 +1,4 @@
+mx4j/server/interceptor/NotificationListenerMBeanServerInterceptor$ListenerWrapper/resetReferenceCount()
+java/util/Map/get(java.lang.Object)
+java/lang/StringBuffer/append(java.lang.Object)
+mx4j/server/interceptor/NotificationListenerMBeanServerInterceptor/isEnabled()

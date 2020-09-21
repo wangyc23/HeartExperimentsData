@@ -1,0 +1,4 @@
+scala/Some/x()
+org/neo4j/cypher/internal/frontend/v3_3/ast/rewriters/normalizeWithClauses$$anonfun$2/2(org.neo4j.cypher.internal.frontend.v3_3.ast.rewriters.normalizeWithClauses,scala.collection.immutable.Map)
+org/neo4j/cypher/internal/frontend/v3_3/Rewriter$/lift(scala.PartialFunction)
+scala/collection/immutable/Map/get(java.lang.Object)

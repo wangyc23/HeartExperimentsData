@@ -1,0 +1,5 @@
+org/springframework/jms/listener/AbstractPollingMessageListenerContainer/doReceiveAndExecute(java.lang.Object,javax.jms.Session,javax.jms.MessageConsumer,org.springframework.transaction.TransactionStatus)@g_spring-2.5.6.jar.txt	3
+org/springframework/jms/connection/CachingConnectionFactory/CachedSessionInvocationHandler/getCachedProducer(javax.jms.Destination)@g_spring-2.5.6.jar.txt	2
+org/springframework/jms/connection/CachingConnectionFactory/getSession(javax.jms.Connection,java.lang.Integer)@g_spring-2.5.6.jar.txt	0
+org/springframework/beans/factory/xml/ResourceEntityResolver/resolveEntity(java.lang.String,java.lang.String)@g_spring-2.5.6.jar.txt	4
+org/springframework/jdbc/core/StatementCreatorUtils/setParameterValueInternal(java.sql.PreparedStatement,int,int,java.lang.String,java.lang.Integer,java.lang.Object)@g_spring-2.5.6.jar.txt	1

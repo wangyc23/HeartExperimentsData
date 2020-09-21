@@ -1,0 +1,4 @@
+org/eclipse/emf/ecore/EClassifier/getName()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/List/size()
+java/lang/StringBuilder/StringBuilder(java.lang.String)

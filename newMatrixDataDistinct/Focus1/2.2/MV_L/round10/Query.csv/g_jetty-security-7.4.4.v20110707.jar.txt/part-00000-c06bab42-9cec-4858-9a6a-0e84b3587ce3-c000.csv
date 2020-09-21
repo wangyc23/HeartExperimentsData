@@ -1,0 +1,4 @@
+org/eclipse/jetty/server/Request/isHandled()
+org/eclipse/jetty/server/Request/getResponse()
+org/eclipse/jetty/server/Authentication$Wrapped/getHttpServletResponse()
+org/eclipse/jetty/server/Authentication$Wrapped/getHttpServletRequest()

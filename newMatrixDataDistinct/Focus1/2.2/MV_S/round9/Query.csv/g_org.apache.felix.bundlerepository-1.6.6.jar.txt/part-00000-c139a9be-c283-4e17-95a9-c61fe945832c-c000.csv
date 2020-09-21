@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/String/charAt(int)
+org/osgi/framework/BundleContext/getProperty(java.lang.String)
+java/util/HashMap/HashMap()

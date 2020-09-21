@@ -1,0 +1,5 @@
+org/apache/sis/io/wkt/Formatter/append(org.apache.sis.io.wkt.FormattableObject)@g_sis-netcdf-0.5.jar.txt	3
+org/apache/sis/internal/netcdf/impl/VariableInfo/read()@g_sis-netcdf-0.5.jar.txt	1
+org/apache/sis/metadata/iso/citation/DefaultResponsibleParty/setContactInfo(org.opengis.metadata.citation.Contact)@g_sis-netcdf-0.5.jar.txt	2
+org/apache/sis/storage/netcdf/MetadataReader/createIdentificationInfo(org.opengis.metadata.Identifier,java.util.Set)@g_sis-netcdf-0.5.jar.txt	4
+org/apache/sis/internal/netcdf/impl/Attribute/dateToISO(java.lang.String)@g_sis-netcdf-0.5.jar.txt	0

@@ -1,0 +1,5 @@
+io/netty/handler/codec/compression/JZlibDecoder/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	1
+io/netty/handler/codec/http/HttpHeadersEncoder/encoderHeader(java.lang.CharSequence,java.lang.CharSequence,io.netty.buffer.ByteBuf)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	2
+io/netty/handler/codec/compression/FastLzFrameEncoder/encode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,io.netty.buffer.ByteBuf)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	4
+io/netty/buffer/ByteBufUtil/writeUtf8(io.netty.buffer.ByteBuf,java.lang.CharSequence)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	0
+io/netty/handler/codec/protobuf/ProtobufVarint32LengthFieldPrepender/encode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,io.netty.buffer.ByteBuf)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	3

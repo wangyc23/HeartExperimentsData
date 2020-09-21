@@ -1,0 +1,5 @@
+org/apache/commons/digester/SetNestedPropertiesRule/AnyChildRule/body(java.lang.String)@g_commons-digester-1.8.jar.txt	4
+org/apache/commons/digester/SetNextRule/end()@g_commons-digester-1.8.jar.txt	0
+org/apache/commons/digester/SetTopRule/end()@g_commons-digester-1.8.jar.txt	1
+org/apache/commons/digester/CallMethodRule/end()@g_commons-digester-1.8.jar.txt	3
+org/apache/commons/digester/SetRootRule/end()@g_commons-digester-1.8.jar.txt	2

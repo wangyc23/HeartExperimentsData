@@ -1,0 +1,5 @@
+org/apache/lucene/index/FieldInfos/FieldNumbers/addOrGet(java.lang.String,int,org.apache.lucene.index.DocValuesType,int,int)@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/codecs/lucene50/Lucene50PostingsWriter/finishTerm(org.apache.lucene.codecs.BlockTermState)@g_lucene-core-7.0.0.jar.txt	1
+org/apache/lucene/util/bkd/BKDWriter/finish(org.apache.lucene.store.IndexOutput)@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_lucene-core-7.0.0.jar.txt	0
+org/apache/lucene/index/ConcurrentMergeScheduler/initDynamicDefaults(org.apache.lucene.index.IndexWriter)@g_lucene-core-7.0.0.jar.txt	2

@@ -1,0 +1,5 @@
+org/hibernate/metamodel/source/annotations/xml/mocker/DefaultConfigurationHelper/overrideSchemaCatalogByDefault(org.jboss.jandex.DotName,java.util.Map,org.hibernate.metamodel.source.annotations.xml.mocker.EntityMappingsMocker$Default)@g_hibernate-core-4.3.6.Final.jar.txt	4
+org/hibernate/metamodel/source/hbm/Helper/buildValueSources(org.hibernate.metamodel.source.hbm.Helper$ValueSourcesAdapter,org.hibernate.metamodel.source.LocalBindingContext)@g_hibernate-core-4.3.6.Final.jar.txt	0
+org/hibernate/metamodel/source/hbm/Helper/buildValueSources(org.hibernate.metamodel.source.hbm.Helper$ValueSourcesAdapter,org.hibernate.metamodel.source.LocalBindingContext)@g_hibernate-core-4.3.10.Final.jar.txt	1
+org/hibernate/metamodel/source/annotations/xml/mocker/AnnotationMocker/parserAttributeOverrides(java.util.List,org.jboss.jandex.AnnotationTarget)@g_hibernate-core-4.3.6.Final.jar.txt	3
+org/hibernate/cache/internal/StandardQueryCache/put(org.hibernate.cache.spi.QueryKey,org.hibernate.type.Type[],java.util.List,boolean,org.hibernate.engine.spi.SessionImplementor)@g_hibernate-core-4.3.6.Final.jar.txt	2

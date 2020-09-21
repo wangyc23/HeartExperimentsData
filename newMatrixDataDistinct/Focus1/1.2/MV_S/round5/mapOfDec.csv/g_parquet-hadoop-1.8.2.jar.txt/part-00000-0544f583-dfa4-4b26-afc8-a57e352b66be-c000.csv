@@ -1,0 +1,5 @@
+org/apache/kafka/clients/consumer/MockConsumer/poll(long)@g_kafka-clients-0.10.2.1.jar.txt	2
+org/apache/kafka/clients/consumer/internals/Fetcher/drainRecords(org.apache.kafka.clients.consumer.internals.Fetcher$PartitionRecords,int)@g_kafka-clients-0.10.2.1.jar.txt	1
+org/apache/kafka/clients/producer/internals/RecordAccumulator/drain(org.apache.kafka.common.Cluster,java.util.Set,int,long)@g_kafka-clients-0.10.2.1.jar.txt	3
+org/apache/kafka/common/record/MemoryRecords/filterTo(java.lang.Iterable,org.apache.kafka.common.record.MemoryRecords$LogEntryFilter,java.nio.ByteBuffer)@g_kafka-clients-0.10.2.1.jar.txt	4
+org/apache/hadoop/mapreduce/task/reduce/MergeManagerImpl/OnDiskMerger/merge(java.util.List)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0

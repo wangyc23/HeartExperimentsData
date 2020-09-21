@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/lock/FileBasedLockStrategy/NIOFileLocker/unlock(java.io.File)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/settings/IvySettings/load(java.io.File)@g_ivy-2.3.0.jar.txt	2
+org/codehaus/plexus/util/xml/XmlReader/doLenientDetection(java.lang.String,org.codehaus.plexus.util.xml.XmlStreamReaderException)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0
+org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_ivy-2.3.0.jar.txt	3

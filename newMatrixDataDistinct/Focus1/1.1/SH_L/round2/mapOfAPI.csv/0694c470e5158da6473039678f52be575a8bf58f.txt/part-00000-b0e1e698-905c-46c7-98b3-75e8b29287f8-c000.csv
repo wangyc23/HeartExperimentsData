@@ -1,0 +1,6 @@
+0	com/sonal/flashcardapp/domain/FcCard/getAnswer()
+1	com/doume/max/dao/ProductDao/find(java.lang.Long[],java.lang.Long,java.lang.Integer,java.lang.Integer)
+2	java/util/Set/remove(java.lang.Object)
+3	com/doume/max/dao/BaseDao/remove(T)
+4	org/junit/Assert/assertEquals(long,long)
+5	java/util/List/size()

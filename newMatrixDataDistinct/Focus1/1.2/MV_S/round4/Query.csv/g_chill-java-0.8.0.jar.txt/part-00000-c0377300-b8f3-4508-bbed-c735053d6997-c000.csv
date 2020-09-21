@@ -1,0 +1,4 @@
+java/util/zip/GZIPOutputStream/write(byte[],int,int)
+com/twitter/chill/Base64$OutputStream/close()
+java/util/zip/GZIPOutputStream/GZIPOutputStream(java.io.OutputStream)
+java/lang/StringBuilder/append(java.lang.String)

@@ -1,0 +1,5 @@
+org/xwiki/wiki/internal/descriptor/DefaultWikiDescriptorManager/getAllIds()@g_xwiki-platform-wiki-default-7.4.jar.txt	4
+org/xwiki/wiki/internal/provisioning/DefaultWikiCopier/copyDocuments(java.lang.String,java.lang.String,boolean)@g_xwiki-platform-wiki-default-7.0.jar.txt	2
+org/xwiki/wiki/internal/descriptor/migrator/WikiDescriptorMigrator/fixDocument(java.lang.String)@g_xwiki-platform-wiki-default-7.4.jar.txt	0
+org/xwiki/wiki/internal/descriptor/document/DefaultWikiDescriptorDocumentHelper/getAllXWikiServerClassDocument()@g_xwiki-platform-wiki-default-7.0.jar.txt	3
+org/xwiki/wiki/internal/descriptor/migrator/WikiDescriptorMigrator/fixDocument(java.lang.String)@g_xwiki-platform-wiki-default-7.0.jar.txt	1

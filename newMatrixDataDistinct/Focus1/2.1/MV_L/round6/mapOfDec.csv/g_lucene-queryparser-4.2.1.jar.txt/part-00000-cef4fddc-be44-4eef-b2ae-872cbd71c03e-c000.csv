@@ -1,0 +1,5 @@
+org/apache/lucene/queryparser/surround/parser/ParseException/add_escapes(java.lang.String)@g_lucene-queryparser-4.5.0.jar.txt	1
+org/apache/lucene/queryparser/classic/TokenMgrError/addEscapes(java.lang.String)@g_lucene-queryparser-4.5.0.jar.txt	3
+org/apache/lucene/queryparser/flexible/standard/parser/ParseException/add_escapes(java.lang.String)@g_lucene-queryparser-4.5.0.jar.txt	4
+org/apache/lucene/queryparser/surround/parser/TokenMgrError/addEscapes(java.lang.String)@g_lucene-queryparser-4.5.0.jar.txt	2
+org/apache/lucene/queryparser/flexible/standard/parser/TokenMgrError/addEscapes(java.lang.String)@g_lucene-queryparser-4.5.0.jar.txt	0

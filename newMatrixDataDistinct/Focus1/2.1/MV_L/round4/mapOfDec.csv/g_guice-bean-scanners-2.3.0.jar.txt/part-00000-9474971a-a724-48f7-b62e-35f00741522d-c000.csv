@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/scanners/index/SisuIndexFinder/findClasses(org.sonatype.guice.bean.reflect.ClassSpace)@g_sisu-inject-bean-2.3.0.jar.txt	0
+org/sonatype/guice/bean/scanners/index/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_sisu-inject-bean-2.3.0.jar.txt	4
+org/sonatype/guice/bean/scanners/index/SisuIndexFinder/findClasses(org.sonatype.guice.bean.reflect.ClassSpace)@g_sisu-inject-bean-2.1.1.jar.txt	2
+org/sonatype/guice/bean/scanners/index/AbstractSisuIndex/readTable(java.lang.Object)@g_sisu-inject-bean-2.3.0.jar.txt	1
+org/sonatype/guice/bean/scanners/index/AbstractSisuIndex/readTable(java.lang.Object)@g_sisu-inject-bean-2.1.1.jar.txt	3

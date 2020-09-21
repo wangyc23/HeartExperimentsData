@@ -1,0 +1,5 @@
+org/apache/maven/model/Prerequisites/clone()@g_maven-model-3.0.4.jar.txt	3
+org/apache/maven/model/io/xpp3/MavenXpp3Writer/writeModel(org.apache.maven.model.Model,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-model-3.0.4.jar.txt	1
+org/apache/maven/model/Activation/clone()@g_maven-model-3.0.4.jar.txt	4
+org/apache/maven/model/IssueManagement/clone()@g_maven-model-3.0.4.jar.txt	0
+org/apache/maven/model/ActivationProperty/clone()@g_maven-model-3.0.4.jar.txt	2

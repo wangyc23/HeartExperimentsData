@@ -1,0 +1,5 @@
+com/sun/jersey/core/spi/component/ComponentInjector/inject(java.lang.Object)@g_jersey-core-1.11.jar.txt	3
+com/sun/jersey/core/spi/factory/ContextResolverFactory/1/getResolver(com.sun.jersey.core.spi.component.ComponentContext,java.lang.reflect.Type)@g_jersey-core-1.11.jar.txt	1
+com/sun/jersey/core/header/LinkHeader/toString()@g_jersey-core-1.11.jar.txt	2
+com/sun/jersey/core/reflection/ReflectionHelper/methodInstanceToString(java.lang.Object,java.lang.reflect.Method)@g_jersey-core-1.11.jar.txt	4
+com/sun/jersey/api/uri/UriBuilderImpl/path(java.lang.Class,java.lang.String)@g_jersey-core-1.11.jar.txt	0

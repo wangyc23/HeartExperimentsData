@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/debugging/DebuggerClassExpressionGenerator/visit(org.semanticweb.owlapi.model.OWLSubObjectPropertyOfAxiom)@g_owlapi-tools-4.5.0.jar.txt	4
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/buildIndices()@g_owlapi-tools-4.5.0.jar.txt	1
+com/clarkparsia/owlapi/explanation/BlackBoxExplanation/expandUntilUnsatisfiable(org.semanticweb.owlapi.model.OWLClassExpression)@g_owlapi-tools-4.5.0.jar.txt	3
+com/clarkparsia/owlapi/explanation/BlackBoxExplanation/createDebuggingOntology()@g_owlapi-tools-4.5.0.jar.txt	2
+org/semanticweb/owlapi/debugging/BlackBoxOWLDebugger/createDebuggingOntology()@g_owlapi-tools-4.5.0.jar.txt	0

@@ -1,0 +1,5 @@
+org/apache/commons/io/output/XmlStreamWriter/detectEncoding(char[],int,int)@g_commons-io-2.1.jar.txt	4
+org/apache/commons/io/FileUtils/toFile(java.net.URL)@g_commons-io-1.4.jar.txt	2
+org/apache/commons/io/FilenameUtils/splitOnTokens(java.lang.String)@g_commons-io-1.4.jar.txt	0
+org/apache/commons/io/FileSystemUtils/parseDir(java.lang.String,java.lang.String)@g_commons-io-1.4.jar.txt	1
+org/apache/commons/io/FileUtils/decodeUrl(java.lang.String)@g_commons-io-2.1.jar.txt	3

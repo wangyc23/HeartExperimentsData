@@ -1,0 +1,5 @@
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBody(org.jvnet.ws.wadl.ast.MethodNode,boolean,java.util.Map,org.jvnet.ws.wadl.ast.RepresentationNode,com.sun.codemodel.JVar,boolean,com.sun.codemodel.JType,com.sun.codemodel.JType,com.sun.codemodel.JVar,org.jvnet.ws.wadl.ast.RepresentationNode,com.sun.codemodel.JBlock)@g_wadl-core-1.1.6.jar.txt	2
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateClass(com.sun.codemodel.JDefinedClass,com.sun.codemodel.JVar)@g_wadl-core-1.1.6.jar.txt	4
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBeanProperty(com.sun.codemodel.JDefinedClass,java.util.List,org.jvnet.ws.wadl.Param,boolean)@g_wadl-core-1.1.6.jar.txt	0
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateConditionalForFaultNode(org.jvnet.ws.wadl.ast.MethodNode,com.sun.codemodel.JBlock,com.sun.codemodel.JVar,com.sun.codemodel.JType,com.sun.codemodel.JExpression)@g_wadl-core-1.1.6.jar.txt	1
+org/jvnet/ws/wadl2java/jersey/Jersey1xResourceClassGenerator/generateClientFactoryMethod(com.sun.codemodel.JDefinedClass)@g_wadl-core-1.1.6.jar.txt	3

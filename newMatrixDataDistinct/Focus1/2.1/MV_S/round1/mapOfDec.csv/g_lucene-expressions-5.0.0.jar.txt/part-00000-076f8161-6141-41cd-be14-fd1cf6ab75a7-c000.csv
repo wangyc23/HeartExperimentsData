@@ -1,0 +1,5 @@
+org/drools/compiler/PackageBuilderConfiguration/buildDialectConfigurationMap()@g_drools-compiler-5.5.0.Final.jar.txt	1
+org/eclipse/m2m/atl/dsls/tcs/extractor/PrettyPrinter/serializePrimitive(java.lang.Object,java.lang.String)@g_drools-compiler-5.5.0.Final.jar.txt	4
+org/eclipse/m2m/atl/dsls/tcs/injector/ACG_ANTLR3Parser/booleanExp()@g_drools-compiler-5.5.0.Final.jar.txt	2
+org/eclipse/m2m/atl/dsls/tcs/injector/ACG_ANTLR3Parser/aCG()@g_drools-compiler-5.5.0.Final.jar.txt	0
+org/eclipse/m2m/atl/dsls/tcs/injector/ACG_ANTLR3Parser/endIterateStat()@g_drools-compiler-5.5.0.Final.jar.txt	3

@@ -1,0 +1,4 @@
+com/github/mwegrz/scalautil/random/Generator$$anon$10/random()
+scala/collection/immutable/TreeMap/head()
+scala/util/Random/nextDouble()
+scala/runtime/BoxesRunTime/boxToFloat(float)

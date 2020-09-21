@@ -1,0 +1,5 @@
+org/xwiki/xff/core/model/Class/store(java.nio.file.Path)@g_xff-filter-stream-0.3.1.jar.txt	1
+org/xwiki/xff/core/model/Wiki/orderedPaths()@g_xff-filter-stream-0.3.1.jar.txt	4
+org/xwiki/xff/core/model/Class/orderedPaths()@g_xff-filter-stream-0.3.1.jar.txt	0
+org/xwiki/filter/xff/internal/input/ObjectReader/routeMetadata(java.nio.file.Path,java.io.InputStream)@g_xff-filter-stream-0.3.1.jar.txt	2
+org/xwiki/xff/core/model/Space/store(java.nio.file.Path)@g_xff-filter-stream-0.3.1.jar.txt	3

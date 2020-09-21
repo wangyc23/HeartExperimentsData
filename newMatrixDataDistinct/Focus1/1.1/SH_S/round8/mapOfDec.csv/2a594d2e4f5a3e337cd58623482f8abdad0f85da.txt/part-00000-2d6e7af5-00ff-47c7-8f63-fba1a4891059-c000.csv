@@ -1,0 +1,5 @@
+net/sf/jpam/PamTest/testUserAuthenticated()@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	2
+net/sf/jpam/LoginTest/setUp()@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	1
+com/sportdataconnect/strictly/api/model/WeekId/fromString(int,java.lang.String)@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	3
+net/sf/jpam/OtherServiceTest/testUserWithNullCredentials()@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	0
+net/sf/jpam/PamTest/testUserWithEmptyCredentials()@00005440f7a9d1fc49f4af8250c1954cb00580bb.txt	4

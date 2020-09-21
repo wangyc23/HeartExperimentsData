@@ -1,0 +1,4 @@
+org/apache/maven/tools/plugin/PluginToolsRequest/setSkipErrorNoDescriptorsFound(boolean)
+java/lang/String/toLowerCase()
+org/apache/maven/tools/plugin/scanner/MojoScanner/populatePluginDescriptor(org.apache.maven.tools.plugin.PluginToolsRequest)
+org/apache/maven/tools/plugin/PluginToolsRequest/setLocal(org.apache.maven.artifact.repository.ArtifactRepository)

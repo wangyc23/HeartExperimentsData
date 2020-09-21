@@ -1,0 +1,5 @@
+com/adobe/acs/commons/wcm/notifications/impl/SystemNotificationsImpl/registerAsEventHandler()@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	2
+com/adobe/acs/commons/wcm/impl/AemEnvironmentIndicatorFilter/activate(com.adobe.acs.commons.wcm.impl.ComponentContext)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	3
+com/adobe/acs/commons/wcm/datasources/impl/DataSourceBuilderImpl/addDataSource(com.adobe.acs.commons.analysis.jcrchecksum.impl.servlets.SlingHttpServletRequest,java.util.List)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	0
+com/adobe/acs/commons/errorpagehandler/impl/ErrorPageHandlerImpl/configure(com.adobe.acs.commons.wcm.impl.ComponentContext)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	4
+com/adobe/acs/commons/wcm/datasources/impl/DataSourceBuilderImpl/writeDataSourceOptions(com.adobe.acs.commons.analysis.jcrchecksum.impl.servlets.SlingHttpServletRequest,com.adobe.acs.commons.analysis.jcrchecksum.impl.servlets.SlingHttpServletResponse)@02d008848da7f433e2a0c9642cedb09a7e7768fe.txt	1

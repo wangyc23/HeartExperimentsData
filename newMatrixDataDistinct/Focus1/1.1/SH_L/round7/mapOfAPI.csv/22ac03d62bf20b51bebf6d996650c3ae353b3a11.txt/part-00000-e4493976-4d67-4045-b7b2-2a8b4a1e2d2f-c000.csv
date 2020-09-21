@@ -1,0 +1,4 @@
+0	java/util/concurrent/ConcurrentSkipListMap/firstKey()
+1	io/netty/channel/LoggingHandler/log(io.netty.channel.LoggingHandler.Event)
+2	java/util/Map/size()
+3	io/netty/channel/ChannelHandlerContext/fireChannelActive()

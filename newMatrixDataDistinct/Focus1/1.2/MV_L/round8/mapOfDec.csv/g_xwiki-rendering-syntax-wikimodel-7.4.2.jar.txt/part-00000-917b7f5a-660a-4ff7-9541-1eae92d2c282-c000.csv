@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/parser/wikimodel/DefaultXWikiGeneratorListener/beginFormat(org.xwiki.rendering.wikimodel.WikiFormat)@g_xwiki-rendering-syntax-wikimodel-7.4.jar.txt	4
+org/xwiki/rendering/internal/renderer/wikimodel/WikiModelGeneratorListener/createWikiParameters(java.util.Map)@g_xwiki-rendering-syntax-wikimodel-7.4.jar.txt	1
+org/xwiki/rendering/internal/parser/wikimodel/DefaultXWikiGeneratorListener/beginFormat(org.xwiki.rendering.wikimodel.WikiFormat)@g_xwiki-rendering-syntax-wikimodel-7.0.jar.txt	2
+org/xwiki/rendering/internal/renderer/wikimodel/WikiModelGeneratorListener/createWikiParameters(java.util.Map)@g_xwiki-rendering-syntax-wikimodel-7.0.jar.txt	0
+org/xwiki/rendering/internal/parser/wikimodel/DefaultXWikiGeneratorListener/flushFormat(java.util.List,java.util.List,java.util.List,java.util.List)@g_xwiki-rendering-syntax-wikimodel-7.0.jar.txt	3

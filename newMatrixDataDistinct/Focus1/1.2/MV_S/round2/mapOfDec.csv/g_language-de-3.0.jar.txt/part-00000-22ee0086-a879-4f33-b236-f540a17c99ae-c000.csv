@@ -1,0 +1,5 @@
+org/languagetool/rules/ca/ReflexiveVerbsRule/match(org.languagetool.AnalyzedSentence)@g_language-ca-3.0.jar.txt	3
+org/languagetool/synthesis/ca/CatalanSynthesizer/lookupWithEl(java.lang.String,java.lang.String,java.lang.String,java.util.List,morfologik.stemming.IStemmer)@g_language-ca-3.0.jar.txt	4
+org/languagetool/rules/ca/SimpleReplaceVerbsRule/loadWords(java.io.InputStream)@g_language-ca-3.0.jar.txt	2
+org/languagetool/rules/ca/ReplaceOperationNamesRule/loadWords(java.io.InputStream)@g_language-ca-3.0.jar.txt	0
+org/languagetool/rules/ca/AccentuationCheckRule/loadWords(java.lang.String)@g_language-ca-3.0.jar.txt	1

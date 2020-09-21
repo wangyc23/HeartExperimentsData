@@ -1,0 +1,4 @@
+org/codehaus/groovy/runtime/typehandling/ShortTypeHandling/castToString(java.lang.Object)
+org/codehaus/groovy/runtime/ScriptBytecodeAdapter/setGroovyObjectProperty(java.lang.Object,java.lang.Class,groovy.lang.GroovyObject,java.lang.String)
+org/codehaus/groovy/runtime/BytecodeInterface8/isOrigZ()
+org/codehaus/groovy/runtime/ScriptBytecodeAdapter/compareNotEqual(java.lang.Object,java.lang.Object)

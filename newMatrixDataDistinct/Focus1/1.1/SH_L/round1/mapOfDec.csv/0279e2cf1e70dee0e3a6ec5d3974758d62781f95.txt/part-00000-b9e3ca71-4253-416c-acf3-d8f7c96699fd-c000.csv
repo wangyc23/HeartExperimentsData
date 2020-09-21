@@ -1,0 +1,5 @@
+com/baeldung/couchbase/async/service/AbstractCrudService/create(T)@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	0
+com/baeldung/thymeleaf/config/WebMVCConfig/templateEngine(com.baeldung.thymeleaf.config.ITemplateResolver)@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	2
+com/baeldung/spring/data/es/ElasticSearchQueryIntegrationTest/before()@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	4
+com/baeldung/java/networking/url/UrlTest/givenBaseUrl_whenCreatesRelativeUrl_thenCorrect()@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	3
+org/baeldung/persistence/service/FooServiceSortingTests/whenSortingFooWithCriteriaAndMultipleAttributes_thenPrintSortedFoos()@2e7e2b15b5d8cc239eb3e77d9711fc13124b44fd.txt	1

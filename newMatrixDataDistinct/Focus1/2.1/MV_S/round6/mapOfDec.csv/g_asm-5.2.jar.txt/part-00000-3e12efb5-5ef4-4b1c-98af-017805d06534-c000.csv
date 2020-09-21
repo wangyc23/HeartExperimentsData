@@ -1,0 +1,5 @@
+org/apache/xbean/asm5/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_xbean-asm5-shaded-4.4.jar.txt	0
+org/apache/xbean/asm5/commons/InstructionAdapter/visitLdcInsn(java.lang.Object)@g_xbean-asm5-shaded-4.4.jar.txt	3
+org/springframework/asm/ClassWriter/a(java.lang.Object)@g_xbean-asm5-shaded-4.4.jar.txt	4
+org/objectweb/asm/ClassWriter/a(java.lang.Object)@g_xbean-asm5-shaded-4.4.jar.txt	2
+org/apache/xbean/asm5/commons/Method/map(java.lang.String,boolean)@g_xbean-asm5-shaded-4.4.jar.txt	1

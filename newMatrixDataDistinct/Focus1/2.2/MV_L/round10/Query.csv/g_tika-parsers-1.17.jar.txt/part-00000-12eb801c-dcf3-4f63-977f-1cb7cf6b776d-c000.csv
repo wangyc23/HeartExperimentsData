@@ -1,0 +1,4 @@
+org/apache/tika/sax/XHTMLContentHandler/endElement(java.lang.String)
+org/apache/tika/parser/microsoft/ooxml/SXSLFPowerPointExtractorDecorator$CommentAuthors/getName(java.lang.String)
+org/apache/tika/parser/microsoft/ooxml/SXSLFPowerPointExtractorDecorator$CommentAuthors/getInitials(java.lang.String)
+java/lang/StringBuilder/setLength(int)

@@ -1,0 +1,5 @@
+org/springframework/web/util/HierarchicalUriComponents/verifyUriComponent(java.lang.String,org.springframework.web.util.HierarchicalUriComponents$Type)@g_spring-web-4.2.3.BUILD-20151114.143958-56.jar.txt	0
+org/springframework/web/util/HierarchicalUriComponents/getQuery()@g_spring-web-4.2.3.BUILD-20151114.143958-56.jar.txt	3
+org/springframework/web/util/WebUtils/findParameterValue(java.util.Map,java.lang.String)@g_spring-web-4.2.3.BUILD-20151114.143958-56.jar.txt	2
+org/springframework/social/oauth1/SigningSupport/buildAuthorizationHeaderValue(org.springframework.http.HttpMethod,java.net.URI,java.util.Map,org.springframework.util.MultiValueMap,java.lang.String,java.lang.String)@g_spring-web-4.2.3.BUILD-20151114.143958-56.jar.txt	1
+org/springframework/social/connect/jdbc/JdbcUsersConnectionRepository/findUserIdsConnectedTo(java.lang.String,java.util.Set)@g_spring-web-4.2.3.BUILD-20151114.143958-56.jar.txt	4

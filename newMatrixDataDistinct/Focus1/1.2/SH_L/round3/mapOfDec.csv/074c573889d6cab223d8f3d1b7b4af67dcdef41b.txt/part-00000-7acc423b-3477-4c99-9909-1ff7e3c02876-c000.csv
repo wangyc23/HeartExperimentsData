@@ -1,0 +1,5 @@
+org/apache/sling/scripting/sightly/impl/engine/extension/use/JavaUseProvider/provide(java.lang.String,org.apache.sling.scripting.sightly.render.RenderContext,javax.script.Bindings)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	4
+org/apache/sling/scripting/jsp/jasper/compiler/TagLibraryInfoImpl/createValidator(org.apache.sling.scripting.jsp.jasper.xmlparser.TreeNode)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	2
+org/apache/sling/scripting/sightly/impl/compiler/SightlyJavaCompilerService/internalCompileSource(java.lang.String,java.lang.String)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	3
+org/apache/sling/jcr/repository/it/CommonTests/commonOptions()@0ff3757c82faabae2f17efddab67cae35d44705b.txt	1
+org/apache/sling/scripting/sightly/impl/compiler/SightlyJavaCompilerService/loadObject(java.lang.String)@0ff3757c82faabae2f17efddab67cae35d44705b.txt	0

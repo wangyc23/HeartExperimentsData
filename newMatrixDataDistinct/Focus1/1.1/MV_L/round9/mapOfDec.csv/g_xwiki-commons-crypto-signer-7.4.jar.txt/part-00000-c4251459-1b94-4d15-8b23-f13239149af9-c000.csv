@@ -1,0 +1,5 @@
+org/xwiki/crypto/signer/internal/factory/AbstractBcPssSignerFactory/getSignerInstance(org.xwiki.crypto.params.cipher.asymmetric.AsymmetricCipherParameters)@g_xwiki-commons-crypto-signer-7.4.2.jar.txt	1
+org/xwiki/crypto/signer/internal/factory/BcRsaSsaPssSignerFactory/getInstance(boolean,org.xwiki.crypto.params.cipher.CipherParameters,org.bouncycastle.asn1.x509.AlgorithmIdentifier)@g_xwiki-commons-crypto-signer-7.0.jar.txt	3
+org/xwiki/crypto/signer/internal/factory/AbstractBcPssSignerFactory/getSignerInstance(org.xwiki.crypto.params.cipher.asymmetric.AsymmetricCipherParameters)@g_xwiki-commons-crypto-signer-7.0.jar.txt	0
+org/xwiki/crypto/signer/internal/factory/BcRsaSsaPssSignerFactory/getSignerAlgorithmIdentifier(org.xwiki.crypto.params.cipher.asymmetric.AsymmetricCipherParameters)@g_xwiki-commons-crypto-signer-7.4.2.jar.txt	4
+org/xwiki/crypto/signer/internal/factory/BcRsaSsaPssSignerFactory/getSignerAlgorithmIdentifier(org.xwiki.crypto.params.cipher.asymmetric.AsymmetricCipherParameters)@g_xwiki-commons-crypto-signer-7.0.jar.txt	2

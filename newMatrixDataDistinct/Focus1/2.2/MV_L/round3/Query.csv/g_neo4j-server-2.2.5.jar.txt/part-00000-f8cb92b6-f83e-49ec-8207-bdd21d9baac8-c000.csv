@@ -1,0 +1,4 @@
+java/lang/System/getProperty(java.lang.String,java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)
+org/neo4j/kernel/logging/ConsoleLogger/warn(java.lang.String,java.lang.Object[])
+java/io/File/getAbsoluteFile()

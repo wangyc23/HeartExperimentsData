@@ -1,0 +1,4 @@
+java/io/BufferedReader/close()
+org/antlr/tool/Interp$FilteringTokenStream/setTokenTypeChannel(int,int)
+java/lang/StringBuilder/StringBuilder()
+java/util/StringTokenizer/hasMoreTokens()

@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/simpletext/SimpleTextFieldsWriter/write(org.apache.lucene.index.FieldInfos,org.apache.lucene.index.Fields)@g_lucene-codecs-5.5.0.jar.txt	4
+org/elasticsearch/transport/TcpTransport/messageReceived(org.elasticsearch.common.bytes.BytesReference,java.lang.Object,java.lang.String,java.net.InetSocketAddress,int)@g_elasticsearch-5.2.2.jar.txt	1
+org/elasticsearch/cluster/ClusterState/toString()@g_elasticsearch-5.2.2.jar.txt	3
+org/elasticsearch/index/store/Store/MetadataSnapshot/recoveryDiff(org.elasticsearch.index.store.Store$MetadataSnapshot)@g_elasticsearch-5.2.2.jar.txt	2
+org/elasticsearch/monitor/jvm/HotThreads/innerDetect()@g_elasticsearch-5.2.2.jar.txt	0

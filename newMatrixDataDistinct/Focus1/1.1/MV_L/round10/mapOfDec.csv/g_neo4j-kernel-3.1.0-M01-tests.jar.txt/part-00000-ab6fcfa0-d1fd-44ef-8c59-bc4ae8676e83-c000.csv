@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/transaction/log/checkpoint/CheckPointerImplTest/shouldNotFlushIfItIsNotNeeded()@g_neo4j-kernel-3.0.1-tests.jar.txt	2
+org/neo4j/kernel/impl/transaction/log/checkpoint/CheckPointerImplTest/forceCheckPointShouldWaitTheCurrentCheckPointingToCompleteBeforeRunning()@g_neo4j-kernel-3.0.1-tests.jar.txt	1
+org/neo4j/kernel/impl/transaction/log/checkpoint/CheckPointerImplTest/shouldCheckPointAlwaysWhenThereIsNoRunningCheckPoint()@g_neo4j-kernel-3.0.1-tests.jar.txt	4
+org/neo4j/kernel/impl/transaction/log/checkpoint/CheckPointerImplTest/mustUseIoLimiterFromFlushing()@g_neo4j-kernel-3.0.1-tests.jar.txt	3
+org/neo4j/kernel/impl/transaction/log/checkpoint/CheckPointerImplTest/shouldForceCheckPointAlways()@g_neo4j-kernel-3.0.1-tests.jar.txt	0

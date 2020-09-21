@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/Map/get(java.lang.Object)
+java/util/Arrays/asList(T[])
+org/apache/spark/JavaAPISuite/reduceByKey()/$anonymous2/()

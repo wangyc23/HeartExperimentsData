@@ -1,0 +1,4 @@
+java/io/ByteArrayOutputStream/flush()
+java/io/FileInputStream/FileInputStream(java.lang.String)
+java/io/ByteArrayOutputStream/write(byte[],int,int)
+java/lang/StringBuilder/StringBuilder()

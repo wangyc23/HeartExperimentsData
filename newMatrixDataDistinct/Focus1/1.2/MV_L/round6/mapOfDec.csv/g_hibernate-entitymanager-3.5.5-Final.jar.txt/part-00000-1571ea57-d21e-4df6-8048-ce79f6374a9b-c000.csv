@@ -1,0 +1,5 @@
+org/hibernate/jpa/criteria/CriteriaBuilderImpl/checkMultiselect(java.util.List)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	2
+org/hibernate/jpa/internal/EntityManagerFactoryImpl/applyNamedEntityGraphs(java.util.Collection)@g_hibernate-entitymanager-4.3.6.Final.jar.txt	1
+org/hibernate/ejb/QueryImpl/extractParameterInfo(java.util.Map)@g_hibernate-entitymanager-3.6.10.Final.jar.txt	3
+org/hibernate/ejb/Ejb3Configuration/configure(javax.persistence.spi.PersistenceUnitInfo,java.util.Map)@g_hibernate-entitymanager-3.6.10.Final.jar.txt	0
+org/hibernate/ejb/metamodel/MetadataContext/wrapUp()@g_hibernate-entitymanager-3.6.10.Final.jar.txt	4

@@ -1,0 +1,5 @@
+org/xwiki/filter/internal/converter/FilterElementParametersConverter/convertToType(java.lang.reflect.Type,java.lang.Object)@g_xwiki-commons-filter-api-7.4.2.jar.txt	4
+org/xwiki/filter/internal/DefaultFilterDescriptorManager/getElementName(java.lang.String)@g_xwiki-commons-filter-api-7.4.2.jar.txt	1
+org/xwiki/filter/internal/DefaultFilterDescriptorManager/getElementName(java.lang.String)@g_xwiki-commons-filter-api-7.0.jar.txt	0
+org/xwiki/filter/internal/converter/FilterElementParametersConverter/convertToType(java.lang.reflect.Type,java.lang.Object)@g_xwiki-commons-filter-api-7.0.jar.txt	2
+org/xwiki/filter/internal/input/InputSourceConverter/fromString(java.lang.String)@g_xwiki-commons-filter-api-7.0.jar.txt	3

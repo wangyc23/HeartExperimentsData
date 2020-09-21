@@ -1,0 +1,5 @@
+scala/reflect/internal/Types/AliasTypeRef/class/normalizeImpl(scala.reflect.internal.Types$AliasTypeRef)@g_scala-reflect-2.11.11.jar.txt	3
+scala/reflect/internal/Types/class/specializesSym(scala.reflect.internal.SymbolTable,scala.reflect.internal.Types$Type,scala.reflect.internal.Symbols$Symbol,scala.reflect.internal.Types$Type,scala.reflect.internal.Symbols$Symbol,int)@g_scala-reflect-2.11.11.jar.txt	0
+scala/reflect/internal/Kinds/inferKind/anon/1/infer(scala.reflect.internal.Types$Type,scala.reflect.internal.Symbols$Symbol,boolean)@g_scala-reflect-2.11.11.jar.txt	4
+scala/reflect/internal/Types/TypeVar/deriveConstraint(scala.reflect.internal.Symbols$Symbol)@g_scala-reflect-2.11.11.jar.txt	2
+scala/reflect/internal/Types/class/scala$reflect$internal$Types$$specializesSym(scala.reflect.internal.SymbolTable,scala.reflect.internal.Types$Type,scala.reflect.internal.Symbols$Symbol,scala.reflect.internal.Types$Type,scala.reflect.internal.Symbols$Symbol,int)@g_scala-reflect-2.10.5.jar.txt	1

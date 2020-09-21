@@ -1,0 +1,4 @@
+javax/xml/stream/XMLInputFactory/createXMLEventReader(java.io.InputStream)
+java/lang/StringBuilder/StringBuilder()
+javax/xml/stream/XMLInputFactory/createXMLEventReader(java.io.Reader)
+org/xwiki/filter/input/InputStreamInputSource/getInputStream()

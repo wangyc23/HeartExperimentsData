@@ -1,0 +1,4 @@
+org/springframework/beans/factory/config/BeanDefinition/getFactoryBeanName()
+org/springframework/core/type/StandardMethodMetadata/getIntrospectedMethod()
+org/springframework/util/ClassUtils/forName(java.lang.String,java.lang.ClassLoader)
+org/springframework/beans/factory/config/BeanDefinition/getBeanClassName()

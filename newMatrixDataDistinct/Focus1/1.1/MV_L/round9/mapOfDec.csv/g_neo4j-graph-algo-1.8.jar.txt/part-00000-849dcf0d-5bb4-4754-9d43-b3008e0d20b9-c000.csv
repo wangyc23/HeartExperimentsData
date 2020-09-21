@@ -1,0 +1,5 @@
+org/neo4j/graphalgo/impl/util/MatrixUtil/LUDecomposition(org.neo4j.graphalgo.impl.util.MatrixUtil$DoubleMatrix)@g_neo4j-graph-algo-2.0.1.jar.txt	3
+org/neo4j/graphalgo/impl/shortestpath/Util/PathCounter/getNumberOfPathsToNode(org.neo4j.graphdb.Node)@g_neo4j-graph-algo-2.0.1.jar.txt	2
+org/neo4j/graphalgo/impl/util/MatrixUtil/DoubleVector/toString()@g_neo4j-graph-algo-2.0.1.jar.txt	4
+org/neo4j/graphalgo/impl/util/MatrixUtil/LinearSolve(org.neo4j.graphalgo.impl.util.MatrixUtil$DoubleMatrix,org.neo4j.graphalgo.impl.util.MatrixUtil$DoubleVector)@g_neo4j-graph-algo-2.0.1.jar.txt	1
+org/neo4j/graphalgo/impl/shortestpath/FloydWarshall/calculate()@g_neo4j-graph-algo-2.0.1.jar.txt	0

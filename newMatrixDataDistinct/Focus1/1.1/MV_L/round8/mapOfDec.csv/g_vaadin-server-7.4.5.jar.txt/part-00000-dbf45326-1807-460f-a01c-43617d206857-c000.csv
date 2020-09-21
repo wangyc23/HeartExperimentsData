@@ -1,0 +1,5 @@
+javax/faces/component/UIComponentBase/saveAttachedState(javax.faces.context.FacesContext,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/application/view/FaceletPartialStateManagementStrategy/saveDynamicActions(javax.faces.context.FacesContext,com.sun.faces.context.StateContext,java.util.Map)@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/config/ConfigManager/getConfigDocuments(javax.servlet.ServletContext,java.util.List,java.util.concurrent.ExecutorService,boolean)@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/config/ConfigManager/URITask/call()@g_javax.faces-2.2.7.jar.txt	4
+javax/faces/component/html/HtmlInputHidden/handleAttribute(java.lang.String,java.lang.Object)@g_javax.faces-2.2.7.jar.txt	1

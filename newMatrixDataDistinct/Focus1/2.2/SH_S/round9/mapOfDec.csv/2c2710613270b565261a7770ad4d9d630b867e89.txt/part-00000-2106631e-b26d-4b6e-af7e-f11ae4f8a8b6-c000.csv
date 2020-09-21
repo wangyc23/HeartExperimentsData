@@ -1,0 +1,5 @@
+eu/scape_project/archiventory/container/ArcContainer/arcRecContentsToTempFiles()@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	0
+eu/scape_project/archiventory/utils/IOUtils/getBytesFromFile(java.lang.String)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	2
+eu/scape_project/archiventory/output/SimpleKeyValueOutputWriter/write(java.util.HashMap,org.apache.hadoop.mapreduce.lib.output.MultipleOutputs)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	1
+eu/scape_project/archiventory/identifiers/DroidIdentification/identify(java.io.File)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	3
+eu/scape_project/archiventory/utils/IOUtils/copyByteArrayToTempFile(byte[],java.lang.String,java.lang.String)@24e21368c9126b97748ba9e011b3d4e658b3a11e.txt	4

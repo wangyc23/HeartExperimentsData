@@ -1,0 +1,4 @@
+javax/validation/ConstraintDefinitionException/getStackTrace()
+org/hibernate/validator/internal/util/logging/Log_$logger/getValidationAppliesToParameterMustNotBeDefinedForNonGenericAndCrossParameterConstraintException$str()
+java/lang/StringBuilder/append(java.lang.String)
+javax/validation/ConstraintDefinitionException/ConstraintDefinitionException(java.lang.String)

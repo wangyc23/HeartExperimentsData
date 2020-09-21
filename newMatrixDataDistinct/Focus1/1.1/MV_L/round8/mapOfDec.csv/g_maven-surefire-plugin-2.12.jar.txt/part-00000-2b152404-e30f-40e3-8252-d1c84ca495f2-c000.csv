@@ -1,0 +1,5 @@
+org/apache/maven/surefire/shade/org/codehaus/plexus/util/StringUtils/mid(java.lang.String,int,int)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	4
+org/apache/maven/surefire/SpecificTestClassFilter/accept(java.lang.Class)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	2
+org/apache/maven/surefire/util/DefaultDirectoryScanner/processIncludesExcludes(java.util.List)@g_surefire-api-2.12.4.jar.txt	0
+org/apache/maven/surefire/util/UrlUtils/getURL(java.io.File)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	3
+org/apache/maven/surefire/shade/org/codehaus/plexus/util/DirectoryScanner/scandir(java.io.File,java.lang.String,boolean)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	1

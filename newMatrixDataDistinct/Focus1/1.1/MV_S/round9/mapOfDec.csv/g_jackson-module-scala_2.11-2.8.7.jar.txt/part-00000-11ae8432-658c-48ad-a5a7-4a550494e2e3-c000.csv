@@ -1,0 +1,5 @@
+org/apache/spark/sql/execution/datasources/parquet/ParquetWriteSupport/anonfun/org/apache/spark/sql/execution/datasources/parquet/ParquetWriteSupport/makeWriter/10/apply(org.apache.spark.sql.catalyst.expressions.SpecializedGetters,int)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	2
+org/apache/spark/sql/execution/datasources/parquet/VectorizedParquetRecordReader/checkEndOfRowGroup()@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	0
+org/apache/spark/sql/execution/joins/BroadcastNestedLoopJoinExec/defaultJoin(org.apache.spark.broadcast.Broadcast)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	1
+org/apache/spark/sql/execution/ExpandExec/anonfun/5/apply(scala.Tuple2)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	4
+org/apache/spark/sql/execution/datasources/CatalogFileIndex/filterPartitions(scala.collection.Seq)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	3

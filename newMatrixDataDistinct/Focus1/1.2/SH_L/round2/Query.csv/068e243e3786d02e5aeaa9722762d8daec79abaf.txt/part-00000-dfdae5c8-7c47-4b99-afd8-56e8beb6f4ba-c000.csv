@@ -1,0 +1,4 @@
+com/adobe/acs/commons/quickly/results/Result/Builder/build()
+com/adobe/acs/commons/quickly/results/Result/Builder/classic()
+com/adobe/acs/commons/quickly/results/Action/Builder/script(java.lang.String)
+java/util/List/addAll(java.util.Collection)

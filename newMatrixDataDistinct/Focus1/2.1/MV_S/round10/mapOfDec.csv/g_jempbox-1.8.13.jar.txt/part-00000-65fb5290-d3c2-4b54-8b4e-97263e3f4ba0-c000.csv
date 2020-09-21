@@ -1,0 +1,5 @@
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_xwiki-commons-xml-7.4.2.jar.txt	0
+com/adobe/xmp/impl/ParseRDF/rdf_PropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xwiki-commons-xml-7.4.2.jar.txt	3
+com/adobe/xmp/impl/ISO8601Converter/render(com.adobe.xmp.XMPDateTime)@g_xwiki-commons-xml-7.4.2.jar.txt	4
+com/adobe/xmp/impl/ParseRDF/rdf_ResourcePropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xwiki-commons-xml-7.4.2.jar.txt	2
+com/adobe/xmp/impl/XMPNode/dumpNode(java.lang.StringBuffer,boolean,int,int)@g_xwiki-commons-xml-7.4.2.jar.txt	1

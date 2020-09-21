@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/allocate(int)
+java/nio/channels/FileChannel/write(java.nio.ByteBuffer,long)
+java/io/IOException/IOException(java.lang.String)
+java/nio/ByteBuffer/put(int,byte)

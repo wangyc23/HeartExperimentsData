@@ -1,0 +1,4 @@
+com/sun/jersey/api/client/ClientResponse/getStatus()
+com/sun/jersey/api/client/WebResource$Builder/type(javax.ws.rs.core.MediaType)
+com/sun/jersey/api/client/ClientResponse/close()
+com/netflix/appinfo/InstanceInfo/getAppName()

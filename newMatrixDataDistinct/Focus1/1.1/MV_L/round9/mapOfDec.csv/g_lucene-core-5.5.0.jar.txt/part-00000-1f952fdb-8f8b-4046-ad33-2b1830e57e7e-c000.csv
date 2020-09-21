@@ -1,0 +1,5 @@
+org/apache/lucene/search/BooleanWeight/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-core-5.3.1.jar.txt	0
+org/apache/lucene/search/spans/SpanOrQuery/SpanOrWeight/getSpans(org.apache.lucene.index.LeafReaderContext,org.apache.lucene.search.spans.SpanWeight$Postings)@g_lucene-core-5.3.1.jar.txt	2
+org/apache/lucene/search/SloppyPhraseScorer/gatherRptGroups(java.util.LinkedHashMap)@g_lucene-core-5.3.1.jar.txt	3
+org/apache/lucene/search/DisjunctionMaxQuery/DisjunctionMaxWeight/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-core-5.3.1.jar.txt	1
+org/apache/lucene/util/SPIClassIterator/loadNextProfile()@g_lucene-core-5.3.1.jar.txt	4

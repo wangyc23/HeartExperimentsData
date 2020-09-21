@@ -1,0 +1,4 @@
+org/kimios/webservices/CoreService/getHelper()
+org/kimios/webservices/IServiceHelper/convertException(java.lang.Exception)
+org/kimios/webservices/IServiceHelper/getSession(java.lang.String)
+java/util/List/size()

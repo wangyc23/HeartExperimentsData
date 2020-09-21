@@ -1,0 +1,4 @@
+com/sun/xml/bind/v2/model/core/ClassInfo/getClazz()
+org/jvnet/jaxb2_commons/xml/bind/model/MElementInfo/getOrigin()
+com/sun/xml/bind/v2/model/core/TypeInfoSet/getElementMappings(java.lang.Object)
+org/jvnet/jaxb2_commons/xml/bind/model/concrete/origin/ElementInfoOrigin/getSource()

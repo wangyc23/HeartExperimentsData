@@ -1,0 +1,5 @@
+org/joda/time/format/ISODateTimeFormat/Constants/<clinit>()@g_joda-time-2.8.2.jar.txt	1
+org/joda/time/chrono/GJChronology/assemble(org.joda.time.chrono.AssembledChronology$Fields)@g_joda-time-2.9.jar.txt	2
+org/joda/time/format/PeriodFormatterBuilder/IgnorableAffix/finish(java.util.Set)@g_joda-time-2.9.jar.txt	4
+org/joda/time/format/ISODateTimeFormat/Constants/<clinit>()@g_joda-time-2.9.jar.txt	0
+org/joda/time/Interval/parseWithOffset(java.lang.String)@g_joda-time-2.9.jar.txt	3

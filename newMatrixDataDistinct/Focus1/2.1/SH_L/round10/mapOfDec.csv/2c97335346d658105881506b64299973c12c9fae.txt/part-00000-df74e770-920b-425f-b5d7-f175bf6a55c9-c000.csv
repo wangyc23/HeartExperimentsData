@@ -1,0 +1,5 @@
+org/richfaces/example/XMLBodySerializer/serialize(org.w3c.dom.NodeList,org.w3c.dom.Document)@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	0
+org/drools/simulation/fluent/simulation/impl/DefaultSimulationFluent/runSimulation()@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	1
+org/kie/remote/services/rest/RestStartProcessEveryStrategyTest/setupTestMocks()@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	3
+org/kie/spring/factorybeans/RuntimeManagerFactoryBean/afterPropertiesSet()@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	4
+org/drools/osgi/compiler/OsgiKieModule/getFileNames()@23ea601fba9f0db008e4adcf6fc66a08fa987b96.txt	2

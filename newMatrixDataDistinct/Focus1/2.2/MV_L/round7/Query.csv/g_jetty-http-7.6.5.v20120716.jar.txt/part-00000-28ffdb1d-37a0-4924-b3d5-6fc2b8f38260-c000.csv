@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/Utf8StringBuilder/append(byte[],int,int)
+org/eclipse/jetty/util/Utf8StringBuilder/toString()
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/jetty/util/Utf8StringBuilder/reset()

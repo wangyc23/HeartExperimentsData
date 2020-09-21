@@ -1,0 +1,5 @@
+org/apache/shiro/config/ReflectionBuilder/applyProperty(java.lang.Object,java.lang.String,java.lang.Object)@g_shiro-core-1.2.2.jar.txt	2
+org/apache/shiro/config/ReflectionBuilder/buildObjects(java.util.Map)@g_shiro-core-1.2.2.jar.txt	3
+org/apache/shiro/util/SoftHashMap/entrySet()@g_shiro-core-1.2.2.jar.txt	1
+org/apache/shiro/util/ThreadContext/put(java.lang.Object,java.lang.Object)@g_shiro-core-1.2.2.jar.txt	0
+org/apache/shiro/config/Ini/Section/toMapProps(java.lang.String)@g_shiro-core-1.2.2.jar.txt	4

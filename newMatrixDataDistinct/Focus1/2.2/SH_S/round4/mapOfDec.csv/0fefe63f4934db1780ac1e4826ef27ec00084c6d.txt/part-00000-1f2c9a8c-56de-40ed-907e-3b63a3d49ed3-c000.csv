@@ -1,0 +1,5 @@
+org/planningpoker/wicket/PlanningSession/isParticipating()@1fb2b076b6758208c658334f2942bf7c4bd40b0f.txt	3
+org/planningpoker/wicket/components/PlanningRoundTitleEditableLabel/defaultNullLabel()@1fb2b076b6758208c658334f2942bf7c4bd40b0f.txt	2
+org/planningpoker/wicket/cardimage/CardImageResource/render(java.awt.Graphics2D)@1fb2b076b6758208c658334f2942bf7c4bd40b0f.txt	4
+org/planningpoker/wicket/behaviours/ajax/timer/AbstractAjaxTimerBehavior/renderHead(org.apache.wicket.markup.html.IHeaderResponse)@1fb2b076b6758208c658334f2942bf7c4bd40b0f.txt	0
+org/objetdirect/wickext/core/commons/WickextPluginInstantiationListener/onInstantiation(org.apache.wicket.Component)@1fb2b076b6758208c658334f2942bf7c4bd40b0f.txt	1

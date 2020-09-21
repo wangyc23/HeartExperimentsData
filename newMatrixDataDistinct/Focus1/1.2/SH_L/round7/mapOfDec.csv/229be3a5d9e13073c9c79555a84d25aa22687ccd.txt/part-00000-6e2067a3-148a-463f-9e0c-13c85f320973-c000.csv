@@ -1,0 +1,5 @@
+br/com/project/seguranca/beans/base/PesquisarController/convertToEntity(I)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	3
+br/com/project/seguranca/util/ListUtil/extrairListaPropriedades(java.util.Collection,java.lang.String)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	4
+com/sldg/erp/service/UsuarioService/autenticar(com.sldg.erp.model.Usuario)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	1
+br/com/project/seguranca/dao/base/BaseDAO/findDetachedCriteriaUnlimited(org.hibernate.criterion.DetachedCriteria)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	0
+br/com/project/seguranca/util/reflect/ReflectUtil/copiarPropriedades(java.lang.Object,java.lang.Object,org.apache.commons.collections.Predicate)@0000fe3e092c6edac34a938994b0bcc4c9f78fab.txt	2

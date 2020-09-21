@@ -1,0 +1,5 @@
+org/apache/log4j/lf5/viewer/configure/ConfigurationManager/processLogTableColumns(org.w3c.dom.Document)@g_activemq-all-5.7.0.jar.txt	4
+org/apache/activemq/store/kahadb/MessageDatabase/removeAckLocationsForSub(org.apache.kahadb.page.Transaction,org.apache.activemq.store.kahadb.MessageDatabase$StoredDestination,java.lang.String)@g_activemq-all-5.7.0.jar.txt	0
+org/apache/activemq/broker/util/DestinationPathSeparatorBroker/convertDestination(org.apache.activemq.command.ActiveMQDestination)@g_activemq-all-5.7.0.jar.txt	2
+org/apache/kahadb/util/CommandLineSupport/setOptions(java.lang.Object,java.lang.String[])@g_activemq-all-5.7.0.jar.txt	1
+org/apache/kahadb/journal/ReadOnlyJournal/start()@g_activemq-all-5.7.0.jar.txt	3

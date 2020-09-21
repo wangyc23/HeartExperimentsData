@@ -1,0 +1,5 @@
+org/apache/commons/dbcp/datasources/KeyedCPDSConnectionFactory/connectionClosed(javax.sql.ConnectionEvent)@g_commons-dbcp2-2.1.jar.txt	4
+org/apache/commons/dbcp2/cpdsadapter/PooledConnectionImpl/makeObject(org.apache.commons.dbcp2.cpdsadapter.PStmtKeyCPDS)@g_commons-dbcp2-2.1.jar.txt	0
+org/apache/commons/dbcp2/datasources/CPDSConnectionFactory/connectionErrorOccurred(javax.sql.ConnectionEvent)@g_commons-dbcp2-2.1.jar.txt	3
+org/apache/commons/dbcp2/PoolingConnection/makeObject(org.apache.commons.dbcp2.PStmtKey)@g_commons-dbcp2-2.1.jar.txt	2
+org/apache/commons/dbcp2/PoolableConnection/validate(java.lang.String,int)@g_commons-dbcp2-2.1.jar.txt	1

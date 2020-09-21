@@ -1,0 +1,5 @@
+org/xwiki/properties/internal/converter/ColorConverter/parseRGB(java.lang.String)@g_xwiki-commons-properties-7.4.jar.txt	3
+org/xwiki/properties/internal/DefaultConverterManager/getConverter(java.lang.reflect.Type)@g_xwiki-commons-properties-7.4.jar.txt	2
+org/xwiki/properties/converter/collection/AbstractCollectionConverter/convertToString(java.util.Collection)@g_xwiki-commons-properties-7.4.jar.txt	4
+org/xwiki/properties/internal/DefaultBeanDescriptor/extractBeanDescriptor()@g_xwiki-commons-properties-7.4.jar.txt	1
+javax/el/BeanELResolver/isReadOnly(javax.el.ELContext,java.lang.Object,java.lang.Object)@g_el-api-1.0.jar.txt	0

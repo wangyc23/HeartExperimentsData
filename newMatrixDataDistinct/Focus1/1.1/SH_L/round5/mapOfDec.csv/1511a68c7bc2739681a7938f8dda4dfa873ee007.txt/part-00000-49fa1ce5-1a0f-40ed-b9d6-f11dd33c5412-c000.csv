@@ -1,0 +1,5 @@
+com/xeiam/xchange/btccentral/service/polling/BTCCentralBasePollingService/getExchangeSymbols()@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	2
+com/xeiam/xchange/poloniex/service/polling/PoloniexTradeService/placeLimitOrder(com.xeiam.xchange.dto.trade.LimitOrder)@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	1
+com/tinkerpop/blueprints/util/wrappers/readonly/ReadOnlyGraph/removeEdge(com.tinkerpop.blueprints.Edge)@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	4
+com/tinkerpop/blueprints/impls/neo4j2/batch/Neo4j2BatchGraphTest/testAddingVerticesEdges()@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	3
+com/tinkerpop/blueprints/util/io/graphson/GraphSONUtility/includeKey(java.lang.String,java.util.List,com.tinkerpop.blueprints.util.io.graphson.ElementPropertyConfig.ElementPropertiesRule)@05ee3e49e5dba17e8d54ccc9bb0990f07606835c.txt	0

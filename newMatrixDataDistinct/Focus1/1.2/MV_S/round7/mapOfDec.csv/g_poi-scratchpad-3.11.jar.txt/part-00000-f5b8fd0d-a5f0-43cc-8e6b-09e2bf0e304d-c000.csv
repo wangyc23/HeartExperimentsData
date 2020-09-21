@@ -1,0 +1,5 @@
+org/apache/poi/hwpf/converter/AbstractWordConverter/processCharacters(org.apache.poi.hwpf.HWPFDocumentCore,int,org.apache.poi.hwpf.usermodel.Range,org.w3c.dom.Element)@g_poi-scratchpad-3.8-beta4.jar.txt	2
+org/apache/poi/hslf/model/TextPainter/getTextElements(float,java.awt.font.FontRenderContext)@g_poi-scratchpad-3.8-beta4.jar.txt	4
+org/apache/poi/hsmf/extractor/OutlookTextExtactor/handleEmails(java.lang.StringBuffer,java.lang.String,java.lang.String,org.apache.poi.util.StringUtil$StringsIterator)@g_poi-scratchpad-3.8-beta4.jar.txt	3
+org/apache/poi/hsmf/datatypes/StringChunk/storeString()@g_poi-scratchpad-3.8-beta4.jar.txt	0
+org/apache/poi/hssf/converter/ExcelToHtmlConverter/processCell(org.apache.poi.hssf.usermodel.HSSFCell,org.w3c.dom.Element,int,int,float)@g_poi-scratchpad-3.8-beta4.jar.txt	1

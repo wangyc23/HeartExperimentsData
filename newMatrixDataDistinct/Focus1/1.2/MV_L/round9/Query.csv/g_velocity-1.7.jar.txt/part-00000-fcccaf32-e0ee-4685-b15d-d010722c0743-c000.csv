@@ -1,0 +1,4 @@
+org/apache/velocity/runtime/parser/node/ASTStringLiteral/getLine()
+org/apache/velocity/runtime/parser/node/ASTStringLiteral/getColumn()
+java/lang/String/charAt(int)
+java/lang/String/length()

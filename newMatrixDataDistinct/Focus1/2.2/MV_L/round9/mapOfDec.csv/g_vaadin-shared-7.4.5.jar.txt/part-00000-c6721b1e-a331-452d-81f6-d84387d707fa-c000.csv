@@ -1,0 +1,5 @@
+org/apache/lucene/util/SPIClassIterator/loadNextProfile()@g_lucene-core-6.4.1.jar.txt	4
+org/apache/lucene/util/automaton/RegExp/parseSimpleExp()@g_lucene-core-5.0.0.jar.txt	0
+org/apache/lucene/util/automaton/RegExp/parseSimpleExp()@g_lucene-core-6.4.1.jar.txt	3
+org/apache/lucene/util/IOUtils/spinsLinux(java.nio.file.Path)@g_lucene-core-5.0.0.jar.txt	1
+org/apache/lucene/util/SPIClassIterator/loadNextProfile()@g_lucene-core-5.0.0.jar.txt	2

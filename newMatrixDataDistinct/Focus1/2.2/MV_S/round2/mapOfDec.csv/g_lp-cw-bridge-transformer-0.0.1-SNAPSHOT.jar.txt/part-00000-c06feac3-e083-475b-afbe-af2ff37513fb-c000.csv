@@ -1,0 +1,5 @@
+eu/learnpad/transformations/launchers/ATLTransformationLauncher/transform(java.io.InputStream,java.lang.String,java.io.OutputStream)@g_lp-model-transformer-1.0-SNAPSHOT.jar.txt	2
+eu/learnpad/transformations/preprocessing/Alignment/sanitizerForADOXX(java.io.InputStream,java.io.OutputStream)@g_lp-model-transformer-1.0-SNAPSHOT.jar.txt	3
+eu/learnpad/transformations/model2text/main/WebHome/myInitialize(org.eclipse.emf.common.util.URI,java.io.File,java.util.List)@g_LearnpadModelTransformation-0.0.1-SNAPSHOT.jar.txt	4
+eu/learnpad/transformations/preprocessing/Alignment/sanitizerForMagicDraw(java.io.InputStream,java.io.OutputStream)@g_lp-model-transformer-1.0-SNAPSHOT.jar.txt	1
+eu/learnpad/transformations/preprocessing/Alignment/sanitizerForADOXX(java.lang.String)@g_lp-model-transformer-1.0-SNAPSHOT.jar.txt	0

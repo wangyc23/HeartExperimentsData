@@ -1,0 +1,4 @@
+java/io/File/getName()
+gate/util/AnnotationDiffer/getSpurious()
+gate/util/AnnotationDiffer/AnnotationDiffer(java.util.Collection)
+java/util/List/size()

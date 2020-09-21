@@ -1,0 +1,5 @@
+org/springframework/boot/context/embedded/MimeMappingsTests/get()@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	4
+org/dcm4che3/net/Commands/mkCFindRQ(int,java.lang.String,int)@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	2
+org/gatein/common/transaction/CounterListener/getAfterBeginCounter()@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	3
+org/springframework/boot/autoconfigure/jms/JmsAutoConfigurationTests/testActiveMQOverriddenPoolAndStandalone()@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	1
+org/springframework/boot/cli/compiler/GroovyCompiler/getExistingUrls()@2115e94dabf7fabff08cacc68f2d1e86b94a0ace.txt	0

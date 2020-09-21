@@ -1,0 +1,5 @@
+org/glassfish/grizzly/http/util/HttpUtils/composeContentType(java.lang.String,java.lang.String)@g_grizzly-http-2.3.23.jar.txt	4
+org/glassfish/grizzly/http/GZipContentEncoding/encode(org.glassfish.grizzly.Connection,org.glassfish.grizzly.http.HttpContent)@g_grizzly-http-2.3.23.jar.txt	2
+org/glassfish/grizzly/http/LZMAContentEncoding/encode(org.glassfish.grizzly.Connection,org.glassfish.grizzly.http.HttpContent)@g_grizzly-http-2.3.23.jar.txt	3
+org/glassfish/grizzly/http/GZipContentEncoding/decode(org.glassfish.grizzly.Connection,org.glassfish.grizzly.http.HttpContent)@g_grizzly-http-2.3.23.jar.txt	1
+org/glassfish/grizzly/http/LZMAContentEncoding/decode(org.glassfish.grizzly.Connection,org.glassfish.grizzly.http.HttpContent)@g_grizzly-http-2.3.23.jar.txt	0

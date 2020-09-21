@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/Job/waitForCompletion(boolean)
+org/apache/hadoop/util/GenericOptionsParser/getRemainingArgs()
+java/io/PrintStream/println(java.lang.String)
+org/apache/hadoop/util/GenericOptionsParser/GenericOptionsParser(org.apache.hadoop.conf.Configuration,java.lang.String[])

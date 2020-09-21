@@ -1,0 +1,5 @@
+org/thymeleaf/processor/attr/AbstractMarkupRemovalAttrProcessor/processAttribute(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	3
+org/thymeleaf/dom/DOMSelector/checkChildrenSelection(java.util.List,org.thymeleaf.dom.Node,org.thymeleaf.dom.DOMSelector$INodeReferenceChecker)@g_thymeleaf-2.1.5.RELEASE.jar.txt	4
+org/thymeleaf/dom/DOMSelector/select(java.util.List,org.thymeleaf.dom.DOMSelector$INodeReferenceChecker)@g_thymeleaf-2.1.5.RELEASE.jar.txt	1
+org/thymeleaf/processor/attr/AbstractRemovalAttrProcessor/processAttribute(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	2
+org/thymeleaf/util/ArrayUtils/toArray(java.lang.Class,java.lang.Object)@g_thymeleaf-2.1.5.RELEASE.jar.txt	0

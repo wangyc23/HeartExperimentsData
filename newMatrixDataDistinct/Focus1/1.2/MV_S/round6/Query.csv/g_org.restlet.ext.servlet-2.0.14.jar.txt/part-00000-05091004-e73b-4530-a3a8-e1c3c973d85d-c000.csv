@@ -1,0 +1,4 @@
+java/util/logging/Logger/warning(java.lang.String)
+org/restlet/Context/setCurrent(org.restlet.Context)
+org/restlet/engine/http/HttpRequest/setRootRef(org.restlet.data.Reference)
+org/restlet/engine/http/HttpResponse/HttpResponse(org.restlet.engine.http.ServerCall,org.restlet.Request)

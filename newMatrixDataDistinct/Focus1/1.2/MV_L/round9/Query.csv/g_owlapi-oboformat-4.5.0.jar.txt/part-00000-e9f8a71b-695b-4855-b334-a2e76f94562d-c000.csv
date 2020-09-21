@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/model/OWLDataFactory/getOWLDisjointClassesAxiom(java.util.Set,java.util.Set)
+java/lang/Object/equals(java.lang.Object)
+java/util/Set/iterator()
+org/semanticweb/owlapi/model/OWLDisjointClassesAxiom/getClassExpressions()

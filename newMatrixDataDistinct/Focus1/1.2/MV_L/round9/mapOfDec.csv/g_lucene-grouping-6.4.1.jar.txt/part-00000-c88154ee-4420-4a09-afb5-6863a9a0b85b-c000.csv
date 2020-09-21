@@ -1,0 +1,5 @@
+org/apache/lucene/search/join/ToParentBlockJoinIndexSearcher/search(java.util.List,org.apache.lucene.search.Weight,org.apache.lucene.search.Collector)@g_lucene-join-5.3.1.jar.txt	1
+org/apache/lucene/search/join/ToChildBlockJoinQuery/ToChildBlockJoinScorer/nextDoc()@g_lucene-join-5.3.1.jar.txt	3
+org/apache/lucene/search/join/ToChildBlockJoinQuery/ToChildBlockJoinScorer/1/advance(int)@g_lucene-join-5.3.1.jar.txt	4
+org/apache/lucene/search/grouping/term/TermDistinctValuesCollector/doSetNextReader(org.apache.lucene.index.LeafReaderContext)@g_lucene-join-5.3.1.jar.txt	0
+org/apache/lucene/search/join/TermsWithScoreCollector/MV/collect(int)@g_lucene-join-5.3.1.jar.txt	2

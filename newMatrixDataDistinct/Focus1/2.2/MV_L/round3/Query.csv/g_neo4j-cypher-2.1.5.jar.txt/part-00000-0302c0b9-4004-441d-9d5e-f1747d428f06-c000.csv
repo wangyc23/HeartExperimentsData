@@ -1,0 +1,4 @@
+scala/Predef$/wrapRefArray(java.lang.Object[])
+org/neo4j/cypher/internal/spi/v2_0/TransactionBoundQueryContext$NodeOperations/org$neo4j$cypher$internal$spi$v2_0$TransactionBoundQueryContext$NodeOperations$$$outer()
+org/neo4j/cypher/internal/spi/v2_0/TransactionBoundQueryContext$NodeOperations/getById(long)
+org/neo4j/kernel/GraphDatabaseAPI/getNodeById(long)

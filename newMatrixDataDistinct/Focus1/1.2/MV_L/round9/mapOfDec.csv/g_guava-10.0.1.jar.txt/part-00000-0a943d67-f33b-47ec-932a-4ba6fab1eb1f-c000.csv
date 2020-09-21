@@ -1,0 +1,5 @@
+com/google/common/util/concurrent/ThreadFactoryBuilder/1/newThread(java.lang.Runnable)@g_guava-11.0.2.jar.txt	1
+com/google/common/util/concurrent/ThreadFactoryBuilder/1/newThread(java.lang.Runnable)@g_sisu-guava-0.9.9.jar.txt	0
+com/google/common/collect/CustomConcurrentHashMap/Segment/reclaimValue(java.lang.Object,int,com.google.common.collect.CustomConcurrentHashMap$ValueReference)@g_sisu-guava-0.9.9.jar.txt	4
+com/google/common/base/Defaults/<clinit>()@g_guava-11.0.2.jar.txt	3
+com/google/common/base/Defaults/<clinit>()@g_sisu-guava-0.9.9.jar.txt	2

@@ -1,0 +1,4 @@
+java/util/Properties/getProperty(java.lang.String)
+java/util/Iterator/hasNext()
+java/lang/String/equals(java.lang.Object)
+java/io/File/getCanonicalPath()

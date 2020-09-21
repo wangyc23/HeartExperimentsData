@@ -1,0 +1,5 @@
+org/jdom/output/DOMOutputter/output(org.jdom.Element,org.w3c.dom.Document,org.jdom.output.NamespaceStack)@g_jdom-1.1.jar.txt	0
+org/jdom/output/DOMOutputter/output(org.jdom.Document)@g_jdom-1.1.jar.txt	1
+org/jdom/adapters/OracleV1DOMAdapter/getDocument(java.io.InputStream,boolean)@g_jdom-1.1.jar.txt	4
+org/jdom/output/DOMOutputter/output(org.jdom.Document)@g_jdom-1.0.jar.txt	3
+org/jdom/output/DOMOutputter/output(org.jdom.Element,org.w3c.dom.Document,org.jdom.output.NamespaceStack)@g_jdom-1.0.jar.txt	2

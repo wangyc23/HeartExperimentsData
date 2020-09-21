@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_3/planner/logical/idp/joinSolverStep/anonfun/a0f09a899aee8c8a8a92350c4873a6f/anonfun/apply/mcVI/sp/3/apply(scala.collection.immutable.BitSet)@g_neo4j-cypher-compiler-2.3-2.3.3.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_0/planner/logical/idp/joinSolverStep/anonfun/a0f09a899aee8c8a8a92350c4873a6f/anonfun/apply/mcVI/sp/3/apply(scala.collection.immutable.BitSet)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	3
+org/neo4j/cypher/internal/compiler/v3_0/mutation/MapPropertySetAction/anonfun/propertyKeyMap/2/apply(scala.Tuple2)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	0
+org/neo4j/cypher/internal/compiler/v3_0/planner/logical/idp/DefaultIdRegistry/org$neo4j$cypher$internal$compiler$v3_0$planner$logical$idp$DefaultIdRegistry$$translate(int,scala.collection.mutable.Builder)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	1
+org/neo4j/cypher/internal/compiler/v3_0/pipes/SetOperation/anonfun/propertyKeyMap/2/apply(scala.Tuple2)@g_neo4j-cypher-compiler-3.0-3.0.1.jar.txt	2

@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/eclipse/emf/ecore/EClass/getEAllReferences()
+org/eclipse/emf/ecore/EClass/getEAllOperations()
+org/emfjson/jackson/databind/property/EObjectPropertyMap$Builder/getTypeProperty(org.eclipse.emf.ecore.EClass)

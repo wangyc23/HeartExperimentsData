@@ -1,0 +1,5 @@
+org/codehaus/jackson/xc/JaxbAnnotationIntrospector/findEnumValue(java.lang.Enum)@g_jackson-xc-1.9.13.jar.txt	0
+org/codehaus/jackson/xc/JaxbAnnotationIntrospector/findAnnotation(java.lang.Class,org.codehaus.jackson.map.introspect.Annotated,boolean,boolean,boolean)@g_jackson-xc-1.9.13.jar.txt	4
+org/apache/spark/unsafe/types/CalendarInterval/fromYearMonthString(java.lang.String)@g_spark-unsafe_2.11-2.2.0.jar.txt	1
+org/apache/spark/unsafe/types/CalendarInterval/fromSingleUnitString(java.lang.String,java.lang.String)@g_spark-unsafe_2.11-2.2.0.jar.txt	3
+org/apache/spark/unsafe/types/CalendarInterval/fromDayTimeString(java.lang.String)@g_spark-unsafe_2.11-2.2.0.jar.txt	2

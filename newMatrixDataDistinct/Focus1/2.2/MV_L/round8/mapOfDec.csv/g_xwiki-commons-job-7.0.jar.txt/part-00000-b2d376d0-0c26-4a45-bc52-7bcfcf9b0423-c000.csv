@@ -1,0 +1,5 @@
+org/xwiki/job/AbstractJob/run()@g_xwiki-commons-job-7.4.jar.txt	4
+org/xwiki/job/internal/xstream/SafeReflectionConverter/1/visit(java.lang.String,java.lang.Class,java.lang.Class,java.lang.Object)@g_xwiki-commons-job-7.4.jar.txt	2
+org/xwiki/job/AbstractJobStatus/startListening()@g_xwiki-commons-job-7.4.jar.txt	0
+org/xwiki/job/internal/xstream/SafeArrayConverter/writeItem(java.lang.Object,com.thoughtworks.xstream.converters.MarshallingContext,com.thoughtworks.xstream.io.HierarchicalStreamWriter)@g_xwiki-commons-job-7.4.jar.txt	3
+org/xwiki/job/internal/xstream/SafeTreeMarshaller/convert(java.lang.Object,com.thoughtworks.xstream.converters.Converter)@g_xwiki-commons-job-7.4.jar.txt	1

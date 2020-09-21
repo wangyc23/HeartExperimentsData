@@ -1,0 +1,4 @@
+javax/swing/JPanel/JPanel()
+javax/swing/JComponent/setBorder(javax.swing.border.Border)
+javax/swing/BoxLayout/BoxLayout(java.awt.Container,int)
+java/awt/Container/setLayout(java.awt.LayoutManager)

@@ -1,0 +1,5 @@
+org/keycloak/common/util/Base64/OutputStream/flushBase64()@2b58332190757831b1d0874f2db5d8351f10bd14.txt	4
+org/keycloak/saml/processing/api/saml/v2/sig/SAML2Signature/getNextSiblingOfIssuer(org.w3c.dom.Document)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	1
+org/codice/ddf/spatial/kml/transformer/TestKMLTransformerImpl/testPerformDefaultTransformationMultiPointLocation()@2b58332190757831b1d0874f2db5d8351f10bd14.txt	2
+org/keycloak/services/resources/admin/AdminRoot/adminBaseUrl(org.keycloak.account.freemarker.UriInfo)@2b58332190757831b1d0874f2db5d8351f10bd14.txt	3
+org/keycloak/models/cache/RealmAdapter/isEnabled()@2b58332190757831b1d0874f2db5d8351f10bd14.txt	0

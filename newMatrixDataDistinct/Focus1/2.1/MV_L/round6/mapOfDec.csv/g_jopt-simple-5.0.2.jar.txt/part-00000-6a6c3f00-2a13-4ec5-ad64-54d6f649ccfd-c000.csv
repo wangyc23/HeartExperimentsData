@@ -1,0 +1,5 @@
+joptsimple/AbstractOptionSpec/arrangeOptions(java.util.List)@g_jstl-1.1.2.jar.txt	4
+com/opencsv/CSVParser/parseLine(java.lang.String,boolean)@g_opencsv-4.1.jar.txt	1
+com/opencsv/RFC4180Parser/splitWhileNotInQuotes(java.lang.String,boolean)@g_opencsv-4.1.jar.txt	0
+com/opencsv/bean/opencsvUtils/determineMappingStrategy(java.lang.Class,java.util.Locale)@g_jstl-1.1.2.jar.txt	3
+com/opencsv/bean/HeaderColumnNameMappingStrategy/captureHeader(com.opencsv.CSVReader)@g_opencsv-4.1.jar.txt	2

@@ -1,0 +1,5 @@
+org/quartz/CronExpression/getTimeAfter(java.util.Date)@g_sesame-queryalgebra-model-2.7.9.jar.txt	2
+org/quartz/core/QuartzSchedulerThread/errorTriggerRetryLoop(org.quartz.spi.TriggerFiredBundle)@g_sesame-queryalgebra-model-2.7.9.jar.txt	3
+eu/learnpad/simulator/mon/storage/H2Controller/getPathsExecutedByLearner(java.lang.String,java.lang.String)@g_sesame-queryalgebra-model-2.7.9.jar.txt	1
+org/quartz/utils/UpdateChecker/doCheck()@g_sesame-queryalgebra-model-2.7.9.jar.txt	4
+org/quartz/utils/PropertiesParser/getPropertyGroups(java.lang.String)@g_sesame-queryalgebra-model-2.7.9.jar.txt	0

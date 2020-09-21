@@ -1,0 +1,5 @@
+org/jboss/weld/bootstrap/FastProcessAnnotatedTypeResolver/process(org.jboss.weld.event.ExtensionObserverMethodImpl,java.lang.reflect.Type)@g_deltaspike-core-api-1.0.1.jar.txt	2
+org/apache/deltaspike/core/util/metadata/builder/AnnotatedTypeBuilder/removeFromAll(java.lang.Class)@g_deltaspike-core-api-1.0.1.jar.txt	0
+org/jboss/weld/bean/proxy/ClientProxyProvider/CreateClientProxyForType/load(org.jboss.weld.bean.proxy.ClientProxyProvider$RequestedTypeHolder)@g_deltaspike-core-api-1.0.1.jar.txt	1
+org/jboss/weld/bean/AbstractBean/postSpecialize()@g_deltaspike-core-api-1.0.1.jar.txt	4
+org/jboss/weld/util/AnnotatedTypes/createAnnotationCollectionId(java.util.Collection)@g_deltaspike-core-api-1.0.1.jar.txt	3

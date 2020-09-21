@@ -1,0 +1,5 @@
+org/apache/lucene/util/automaton/Automata/makeInterval(int,int,int)@g_lucene-core-4.10.3.jar.txt	2
+org/apache/lucene/index/IndexWriter/applyAllDeletesAndUpdates()@g_lucene-core-4.10.3.jar.txt	1
+org/apache/lucene/index/CheckIndex/testTermVectors(org.apache.lucene.index.AtomicReader,java.io.PrintStream,boolean,boolean,boolean)@g_lucene-core-4.10.3.jar.txt	3
+org/apache/lucene/util/FieldCacheSanityChecker/checkValueMismatch(org.apache.lucene.util.MapOfSets,org.apache.lucene.util.MapOfSets,java.util.Set)@g_lucene-core-4.10.3.jar.txt	0
+org/apache/lucene/index/SegmentDocValues/decRef(java.util.List)@g_lucene-core-4.10.3.jar.txt	4

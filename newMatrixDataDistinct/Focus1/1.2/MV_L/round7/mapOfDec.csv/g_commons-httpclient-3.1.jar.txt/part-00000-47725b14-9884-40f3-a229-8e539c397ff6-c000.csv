@@ -1,0 +1,5 @@
+org/springframework/jms/connection/CachingConnectionFactory/getSession(javax.jms.Connection,java.lang.Integer)@g_spring-2.5.6.jar.txt	4
+org/springframework/beans/factory/support/DisposableBeanAdapter/invokeCustomDestroyMethod()@g_spring-2.5.6.jar.txt	0
+org/springframework/jms/connection/JmsTransactionManager/doBegin(java.lang.Object,org.springframework.transaction.TransactionDefinition)@g_spring-2.5.6.jar.txt	1
+org/springframework/orm/toplink/TopLinkTransactionManager/doBegin(java.lang.Object,org.springframework.transaction.TransactionDefinition)@g_spring-2.5.6.jar.txt	2
+org/springframework/ui/freemarker/FreeMarkerConfigurationFactory/getTemplateLoaderForPath(java.lang.String)@g_spring-2.5.6.jar.txt	3

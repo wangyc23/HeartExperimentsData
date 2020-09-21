@@ -1,0 +1,4 @@
+com/thoughtworks/xstream/io/HierarchicalStreamReader/getValue()
+java/lang/String/equalsIgnoreCase(java.lang.String)
+com/netflix/discovery/converters/Converters$DataCenterInfoConverter$1/1(com.netflix.discovery.converters.Converters$DataCenterInfoConverter,com.netflix.appinfo.DataCenterInfo$Name)
+com/thoughtworks/xstream/converters/UnmarshallingContext/convertAnother(java.lang.Object,java.lang.Class)

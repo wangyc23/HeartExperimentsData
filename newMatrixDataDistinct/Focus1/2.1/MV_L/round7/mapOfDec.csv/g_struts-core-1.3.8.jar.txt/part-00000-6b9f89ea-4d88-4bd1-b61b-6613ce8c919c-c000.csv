@@ -1,0 +1,5 @@
+org/apache/struts/config/FormPropertyConfig/initial()@g_struts-core-1.3.10.jar.txt	4
+org/apache/struts/config/FormPropertyConfig/getTypeClass()@g_struts-core-1.3.10.jar.txt	0
+org/apache/struts/config/impl/ModuleConfigImpl/addActionConfig(org.apache.struts.config.ActionConfig)@g_struts-core-1.3.10.jar.txt	1
+org/apache/struts/util/PropertyMessageResources/loadLocale(java.lang.String)@g_struts-core-1.3.10.jar.txt	2
+org/apache/struts/config/ActionConfigMatcher/match(java.lang.String)@g_struts-core-1.3.10.jar.txt	3

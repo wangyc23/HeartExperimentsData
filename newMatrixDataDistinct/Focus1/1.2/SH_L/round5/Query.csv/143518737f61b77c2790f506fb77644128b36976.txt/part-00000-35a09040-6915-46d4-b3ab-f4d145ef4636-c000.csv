@@ -1,0 +1,4 @@
+org/soitoolkit/commons/xml/XPathUtil/getXml(org.w3c.dom.Node)
+org/soitoolkit/commons/xml/XPathUtil/createDocument(java.io.InputStream)
+org/w3c/dom/NodeList/getLength()
+java/lang/RuntimeException/RuntimeException(java.lang.Throwable)

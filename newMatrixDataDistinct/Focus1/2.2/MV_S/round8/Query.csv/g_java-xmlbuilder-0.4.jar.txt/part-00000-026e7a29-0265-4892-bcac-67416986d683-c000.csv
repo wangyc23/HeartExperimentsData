@@ -1,0 +1,4 @@
+javax/xml/transform/TransformerFactory/newInstance()
+java/util/Map$Entry/getKey()
+javax/xml/transform/dom/DOMSource/DOMSource(org.w3c.dom.Node)
+java/util/Set/iterator()

@@ -1,0 +1,5 @@
+io/dropwizard/jersey/guava/OptionalHeaderParamResourceTest/OptionalHeaderParamResource/getUUID(io.dropwizard.jersey.guava.Optional)@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	4
+io/dropwizard/jersey/DropwizardResourceConfig/ComponentLoggingListener/onEvent(io.dropwizard.hibernate.ApplicationEvent)@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	3
+io/dropwizard/hibernate/UnitOfWorkTest/setUp()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	2
+io/dropwizard/jetty/setup/ServletEnvironment/setSessionHandler(io.dropwizard.jetty.setup.SessionHandler)@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	1
+io/dropwizard/jersey/validation/ConstraintViolationExceptionMapperTest/returnsAnErrorMessage()@1e36859b5fc57643712ed505d3a21553c608b3f6.txt	0

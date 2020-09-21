@@ -1,0 +1,4 @@
+org/restlet/resource/ServerResource/setStatus(org.restlet.data.Status)
+org/restlet/ext/json/JsonRepresentation/getJsonObject()
+com/kijes/ela/server/BaseResource/createUser(com.kijes.ela.common.ElaUser)
+org/restlet/ext/json/JsonRepresentation/JsonRepresentation(org.json.JSONObject)

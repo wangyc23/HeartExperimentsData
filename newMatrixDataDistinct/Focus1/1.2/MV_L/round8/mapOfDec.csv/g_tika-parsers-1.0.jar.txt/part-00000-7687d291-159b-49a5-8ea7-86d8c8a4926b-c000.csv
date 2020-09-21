@@ -1,0 +1,5 @@
+org/apache/tika/parser/microsoft/ooxml/OOXMLExtractorFactory/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.2.jar.txt	3
+org/apache/tika/parser/code/SourceCodeParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.7.jar.txt	2
+org/apache/tika/parser/html/HtmlParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.2.jar.txt	0
+org/apache/tika/parser/html/HtmlParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.7.jar.txt	1
+org/apache/tika/parser/crypto/Pkcs7Parser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_tika-parsers-1.2.jar.txt	4

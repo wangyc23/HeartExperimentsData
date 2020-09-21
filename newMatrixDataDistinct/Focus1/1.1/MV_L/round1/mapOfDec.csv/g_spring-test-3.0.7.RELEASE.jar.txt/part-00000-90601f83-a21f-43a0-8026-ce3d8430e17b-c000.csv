@@ -1,0 +1,5 @@
+org/springframework/test/web/ModelAndViewAssert/assertModelAttributeValues(org.springframework.web.servlet.ModelAndView,java.util.Map)@g_spring-test-3.2.8.RELEASE.jar.txt	0
+org/springframework/test/context/ContextLoaderUtils/buildWebMergedContextConfiguration(java.lang.Class,java.lang.String[],java.lang.Class[],java.util.Set,java.lang.String[],org.springframework.test.context.ContextLoader,org.springframework.test.context.CacheAwareContextLoaderDelegate,org.springframework.test.context.MergedContextConfiguration)@g_spring-test-3.2.8.RELEASE.jar.txt	2
+org/springframework/mock/web/MockServletContext/getResourcePaths(java.lang.String)@g_spring-test-3.2.8.RELEASE.jar.txt	4
+org/springframework/test/AbstractSingleSpringContextTests/getApplicationContext()@g_spring-test-3.2.8.RELEASE.jar.txt	3
+org/springframework/test/context/support/AbstractGenericContextLoader/loadContext(org.springframework.test.context.MergedContextConfiguration)@g_spring-test-3.2.8.RELEASE.jar.txt	1

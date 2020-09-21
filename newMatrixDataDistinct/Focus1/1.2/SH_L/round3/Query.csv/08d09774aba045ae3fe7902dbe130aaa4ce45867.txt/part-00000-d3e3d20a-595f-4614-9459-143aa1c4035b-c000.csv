@@ -1,0 +1,4 @@
+edu/cmu/graphchi/ChiEdge/getValue()
+java/util/logging/Logger/warning(java.lang.String)
+edu/cmu/graphchi/preprocessing/VertexIdTranslate/backward(int)
+edu/cmu/graphchi/ChiVertex/numOutEdges()

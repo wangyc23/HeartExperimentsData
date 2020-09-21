@@ -1,0 +1,4 @@
+org/apache/maven/model/Dependency/getVersion()
+org/apache/maven/artifact/Artifact/getArtifactId()
+java/lang/Object/toString()
+java/util/Iterator/hasNext()

@@ -1,0 +1,4 @@
+java/util/Map/Entry/getValue()
+org/springframework/boot/actuate/health/HealthIndicator/health()
+java/util/Map/Entry/getKey()
+java/util/Map/put(K,V)

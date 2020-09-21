@@ -1,0 +1,4 @@
+java/lang/Short/intValue()
+org/sonatype/guice/asm/Type/getInternalName()
+java/lang/Float/floatValue()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

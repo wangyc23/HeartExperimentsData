@@ -1,0 +1,5 @@
+org/apache/batik/dom/svg/SVGAnimatedPathDataSupport/handlePathSegList(org.w3c.dom.svg.SVGPathSegList,org.apache.batik.parser.PathHandler)@g_batik-svg-dom-1.7.jar.txt	0
+org/apache/batik/dom/svg/SAXSVGDocumentFactory/createDocument(java.lang.String)@g_batik-svg-dom-1.7.jar.txt	1
+org/apache/batik/anim/timing/Trace/enter(java.lang.Object,java.lang.String,java.lang.Object[])@g_batik-svg-dom-1.7.jar.txt	4
+org/apache/batik/dom/svg/SVGGraphicsElement/updateOtherValue(java.lang.String,org.apache.batik.anim.values.AnimatableValue)@g_batik-svg-dom-1.7.jar.txt	3
+org/apache/batik/anim/values/AnimatableTransformListValue/interpolate(org.apache.batik.anim.values.AnimatableTransformListValue,org.apache.batik.anim.values.AnimatableTransformListValue,org.apache.batik.anim.values.AnimatableTransformListValue,org.apache.batik.anim.values.AnimatableTransformListValue,org.apache.batik.anim.values.AnimatableTransformListValue,float,float,org.apache.batik.anim.values.AnimatableTransformListValue,int)@g_batik-svg-dom-1.7.jar.txt	2

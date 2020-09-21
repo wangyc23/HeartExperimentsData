@@ -1,0 +1,5 @@
+com/xeiam/xchange/btccentral/service/polling/BTCCentralMarketDataService/getTicker(com.xeiam.xchange.currency.CurrencyPair,java.lang.Object[])@00856899fe586c72567f17502db1af85157ecbd2.txt	0
+com/xeiam/xchange/btcmarkets/BTCMarketsAdapters/adaptTradeHistory(java.util.List,com.xeiam.xchange.currency.CurrencyPair)@00856899fe586c72567f17502db1af85157ecbd2.txt	4
+com/xeiam/xchange/examples/btccentral/BTCCentralMarketDataExample/main(java.lang.String[])@00856899fe586c72567f17502db1af85157ecbd2.txt	1
+com/xeiam/xchange/btccentral/service/polling/BTCCentralMarketDataService/getTicker(com.xeiam.xchange.currency.CurrencyPair,java.lang.Object[])@2e7e2f0462b975d1f34f3c206ba93f7647300ad5.txt	2
+com/xeiam/xchange/examples/btccentral/BTCCentralMarketDataExample/main(java.lang.String[])@2e7e2f0462b975d1f34f3c206ba93f7647300ad5.txt	3

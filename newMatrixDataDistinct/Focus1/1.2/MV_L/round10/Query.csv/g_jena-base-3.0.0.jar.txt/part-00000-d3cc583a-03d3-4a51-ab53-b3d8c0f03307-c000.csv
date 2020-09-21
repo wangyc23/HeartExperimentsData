@@ -1,0 +1,4 @@
+java/util/logging/LogManager/getLogManager()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/logging/LogManager/getProperty(java.lang.String)
+java/lang/ClassLoader/loadClass(java.lang.String)

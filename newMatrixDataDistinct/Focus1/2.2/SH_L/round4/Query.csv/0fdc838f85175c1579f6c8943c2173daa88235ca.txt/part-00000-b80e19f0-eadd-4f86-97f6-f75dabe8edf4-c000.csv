@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/putLong(long)
+org/openflow/protocol/OFMatch/writeTo(java.nio.ByteBuffer)
+java/nio/ByteBuffer/getInt()
+org/openflow/protocol/action/OFAction/writeTo(java.nio.ByteBuffer)

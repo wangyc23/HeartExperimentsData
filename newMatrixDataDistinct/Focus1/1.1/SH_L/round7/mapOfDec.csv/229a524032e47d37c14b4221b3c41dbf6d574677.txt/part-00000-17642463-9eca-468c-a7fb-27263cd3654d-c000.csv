@@ -1,0 +1,5 @@
+es/uam/eps/ir/ranksys/fast/feature/SimpleFastFeatureData/numFeatures(int)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	3
+demo/order/ObjectId/_pos(java.lang.String,int)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	2
+org/ranksys/compression/preferences/RatingCODECPreferenceData/ul(es.uam.eps.ir.ranksys.fast.preference.FastPreferenceData)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	0
+org/ranksys/formats/index/Utils/readElemens(java.io.InputStream,org.ranksys.formats.parsing.Parser)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	4
+es/uam/eps/ir/ranksys/core/preference/SimplePreferenceData/numUsers()@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	1

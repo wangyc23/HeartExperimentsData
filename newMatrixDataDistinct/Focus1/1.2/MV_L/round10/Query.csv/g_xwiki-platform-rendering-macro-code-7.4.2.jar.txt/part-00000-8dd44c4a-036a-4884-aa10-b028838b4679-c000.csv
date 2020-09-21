@@ -1,0 +1,4 @@
+org/xwiki/rendering/block/FormatBlock/FormatBlock(java.util.List,org.xwiki.rendering.listener.Format,java.util.Map)
+java/util/Arrays/asList(java.lang.Object[])
+java/io/StringReader/StringReader(java.lang.String)
+org/xwiki/rendering/parser/Parser/parse(java.io.Reader)

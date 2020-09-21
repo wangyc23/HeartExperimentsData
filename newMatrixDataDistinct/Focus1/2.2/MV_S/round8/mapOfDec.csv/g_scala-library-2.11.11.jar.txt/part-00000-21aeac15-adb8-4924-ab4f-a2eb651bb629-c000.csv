@@ -1,0 +1,5 @@
+scala/sys/process/ProcessImpl/CompoundProcess/x$4()@g_scala-library-2.9.0-1.jar.txt	0
+scala/collection/parallel/mutable/ParFlatHashTable/ParFlatHashTableIterator/check()@g_scala-library-2.9.0-1.jar.txt	2
+scala/sys/process/ProcessImpl/CompoundProcess/x$4()@g_scala-library-2.9.1-1.jar.txt	1
+scala/collection/immutable/IntMap/intersectionWith(scala.collection.immutable.IntMap,scala.Function3)@g_scala-library-2.9.0-1.jar.txt	4
+scala/actors/threadpool/AbstractExecutorService/invokeAll(java.util.Collection)@g_scala-library-2.9.0-1.jar.txt	3

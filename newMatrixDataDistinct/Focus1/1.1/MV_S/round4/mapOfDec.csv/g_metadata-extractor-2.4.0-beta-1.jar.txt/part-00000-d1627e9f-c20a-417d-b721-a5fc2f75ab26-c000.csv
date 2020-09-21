@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/repository/vfs/VfsRepository/list(java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/radeox/test/RegexpTest/main(java.lang.String[])@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/core/settings/IvySettings/load(java.io.File)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/osgi/repo/RelativeURLRepository/getResource(java.lang.String)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	1

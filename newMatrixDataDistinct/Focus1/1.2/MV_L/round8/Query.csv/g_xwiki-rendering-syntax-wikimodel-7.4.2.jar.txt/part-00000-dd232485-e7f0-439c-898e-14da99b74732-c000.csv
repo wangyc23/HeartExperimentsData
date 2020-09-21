@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()
+org/xwiki/rendering/wikimodel/WikiParameters/WikiParameters(java.util.Collection)

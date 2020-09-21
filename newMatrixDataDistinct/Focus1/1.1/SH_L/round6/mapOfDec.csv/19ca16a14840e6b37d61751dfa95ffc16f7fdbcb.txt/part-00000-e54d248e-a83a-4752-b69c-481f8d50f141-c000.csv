@@ -1,0 +1,5 @@
+service/WordService/findWordByName(java.lang.String,java.lang.String)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	3
+utils/RequestUtil/getRequestIP(utils.HttpServletRequest)@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	0
+com/saligh/rest/client/ApplicationConfig/getProperties()@2dd04bd08d1d6e664796c7d320e81aedc28061f9.txt	4
+com/ground/service/database/jdbc/GDUtil/getCookieLatLngDouble(java.lang.String)@02d7a2f4543ad78217b8890d62515bfbb79b4f47.txt	1
+com/ground/service/database/jdbc/GDUtil/getClientIpAddr(javax.servlet.http.HttpServletRequest)@02d7a2f4543ad78217b8890d62515bfbb79b4f47.txt	2

@@ -1,0 +1,5 @@
+com/googlecode/mp4parser/authoring/tracks/TextTrackImpl/getSampleDurations()@g_isoparser-1.0.2.jar.txt	3
+com/coremedia/iso/boxes/fragment/TrackFragmentRandomAccessBox/_parseDetails(java.nio.ByteBuffer)@g_isoparser-1.0.2.jar.txt	0
+com/googlecode/mp4parser/authoring/builder/DefaultMp4Builder/createStco(com.googlecode.mp4parser.authoring.Track,com.googlecode.mp4parser.authoring.Movie,java.util.Map,com.coremedia.iso.boxes.SampleTableBox)@g_isoparser-1.0.2.jar.txt	1
+com/coremedia/iso/boxes/fragment/TrackRunBox/toString()@g_isoparser-1.0.2.jar.txt	4
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/DecoderConfigDescriptor/parseDetail(java.nio.ByteBuffer)@g_isoparser-1.0.2.jar.txt	2

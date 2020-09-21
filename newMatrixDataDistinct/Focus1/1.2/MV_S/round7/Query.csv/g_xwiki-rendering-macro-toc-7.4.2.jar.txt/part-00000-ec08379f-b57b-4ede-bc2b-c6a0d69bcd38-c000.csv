@@ -1,0 +1,4 @@
+org/xwiki/rendering/listener/HeaderLevel/getAsInt()
+org/xwiki/rendering/transformation/MacroTransformationContext/getCurrentMacroBlock()
+java/util/Arrays/asList(java.lang.Object[])
+org/xwiki/rendering/block/HeaderBlock/getLevel()

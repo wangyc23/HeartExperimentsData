@@ -1,0 +1,5 @@
+org/apache/mahout/vectorizer/SparseVectorsFromSequenceFilesTest/testPruning()@0c5e6faad5f95ae0455a3299ada00416f26b0c94.txt	3
+org/apache/mahout/math/hadoop/decomposer/TestDistributedLanczosSolverCLI/testDistributedLanczosSolverEVJCLI()@0c5e6faad5f95ae0455a3299ada00416f26b0c94.txt	2
+org/apache/mahout/clustering/spectral/TestAffinityMatrixInputJob/testAffinitymatrixInputReducer()@0c5e6faad5f95ae0455a3299ada00416f26b0c94.txt	1
+org/apache/mahout/clustering/spectral/TestUnitVectorizerJob/testUnitVectorizerMapper()@0c5e6faad5f95ae0455a3299ada00416f26b0c94.txt	0
+org/apache/mahout/clustering/canopy/TestCanopyCreation/testCanopyMapperEuclidean()@0c5e6faad5f95ae0455a3299ada00416f26b0c94.txt	4

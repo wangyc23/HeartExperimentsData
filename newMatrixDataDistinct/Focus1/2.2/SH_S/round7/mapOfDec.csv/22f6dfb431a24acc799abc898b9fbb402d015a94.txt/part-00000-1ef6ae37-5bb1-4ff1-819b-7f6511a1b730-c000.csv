@@ -1,0 +1,5 @@
+comparison/dsgd/reducer/DSGDOutputFactorsReducer/cleanup(org.apache.hadoop.mapreduce.Reducer.Context)@3049174796a12924051acfb8b60539b5ba1661a0.txt	1
+storm/starter/ReportBolt/execute(backtype.storm.tuple.Tuple)@1691d10126ccad1047718f55f8e88691573c7ccc.txt	0
+collabstream/streaming/BlockPair/Serialization/serialize(collabstream.streaming.BlockPair,java.io.DataOutputStream)@3049174796a12924051acfb8b60539b5ba1661a0.txt	2
+com/gsihadoop/sp500/SP500Reducer/reduce(org.apache.hadoop.io.Text,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@3049174796a12924051acfb8b60539b5ba1661a0.txt	4
+comparison/dsgd/IntMatrixItemPair/compareTo(comparison.dsgd.IntMatrixItemPair)@3049174796a12924051acfb8b60539b5ba1661a0.txt	3

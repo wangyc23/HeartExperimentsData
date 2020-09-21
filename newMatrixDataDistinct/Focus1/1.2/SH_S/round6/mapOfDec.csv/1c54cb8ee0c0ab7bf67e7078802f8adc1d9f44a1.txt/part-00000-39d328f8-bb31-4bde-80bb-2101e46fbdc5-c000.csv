@@ -1,0 +1,5 @@
+ca/ulaval/ift/graal/pagerank/topk/TopKMapper/cleanup(org.apache.hadoop.mapreduce.Mapper.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	2
+freenet/winterface/web/core/BookmarkItemView/createMoveDownButton(freenet.winterface.web.core.ListItem,java.lang.String)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	3
+com/waimai/ops/utils/CommonUtil/getParamtersUrlPatten(java.util.Map,java.lang.String)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	0
+ca/ulaval/ift/graal/pagerank/topk/TopKReducer/reduce(org.apache.hadoop.io.NullWritable,java.lang.Iterable,org.apache.hadoop.mapreduce.Reducer.Context)@0ebaa227e8dab24a0d490052fa667ca6228b6164.txt	1
+ca/ulaval/ift/graal/pagerank/drivers/DataGenerator/generateUrls(java.util.List,java.util.List,int)@187770e59b3c8e35282c7ca461c8e70f3594b014.txt	4

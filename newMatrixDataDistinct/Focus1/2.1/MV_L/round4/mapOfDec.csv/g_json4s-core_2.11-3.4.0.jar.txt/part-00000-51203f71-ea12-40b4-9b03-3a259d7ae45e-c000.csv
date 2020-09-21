@@ -1,0 +1,5 @@
+org/json4s/reflect/Reflector/anonfun/defaultValue/2/apply()@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	2
+org/json4s/MonadicJValue/org$json4s$MonadicJValue$$find$3(org.json4s.JsonAST$JValue,scala.Function1)@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	0
+org/neo4j/cypher/internal/compiler/v1_9/parser/Predicates/class/operators(org.neo4j.cypher.internal.compiler.v1_9.parser.Predicates)@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v1_9/pipes/matching/SingleStep/toString()@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	3
+org/json4s/Extraction/CollectionBuilder/result()@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	1

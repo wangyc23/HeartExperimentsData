@@ -1,0 +1,5 @@
+edu/stanford/nlp/fsm/TransducerGraph/addArc(edu.stanford.nlp.fsm.TransducerGraph$Arc)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/parser/lexparser/ArabicUnknownWordModel/getSignature(java.lang.String,int)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/ling/tokensregex/SequenceMatchRules/AnnotationExtractRule/update(edu.stanford.nlp.ling.tokensregex.Env,java.util.Map)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/pipeline/CoreMapAttributeAggregator/ConcatAggregator/aggregate(java.lang.Class,java.util.List)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/common/ArgUtils/getWeightedTreebankDescription(java.lang.String[],int,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3

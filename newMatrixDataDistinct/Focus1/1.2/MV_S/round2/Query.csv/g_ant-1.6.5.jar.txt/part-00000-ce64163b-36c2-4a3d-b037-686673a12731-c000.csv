@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(long)
+org/apache/tools/ant/BuildException/getMessage()
+java/io/IOException/toString()
+java/io/InputStreamReader/InputStreamReader(java.io.InputStream,java.lang.String)

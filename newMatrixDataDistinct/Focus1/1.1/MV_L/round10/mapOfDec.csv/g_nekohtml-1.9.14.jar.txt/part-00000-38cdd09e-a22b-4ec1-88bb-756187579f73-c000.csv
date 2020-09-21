@@ -1,0 +1,5 @@
+org/cyberneko/html/HTMLEntities/<clinit>()@g_xml-apis-1.4.01.jar.txt	3
+org/cyberneko/html/ObjectFactory/findJarServiceProvider(java.lang.String)@g_xml-apis-1.4.01.jar.txt	4
+javax/xml/transform/FactoryFinder/findJarServiceProvider(java.lang.String)@g_xml-apis-1.4.01.jar.txt	2
+javax/xml/validation/SchemaFactoryFinder/createServiceFileIterator()@g_xml-apis-1.4.01.jar.txt	1
+javax/xml/datatype/FactoryFinder/findJarServiceProvider(java.lang.String)@g_xml-apis-1.4.01.jar.txt	0

@@ -1,0 +1,5 @@
+org/eclipse/tycho/p2/resolver/P2DependencyResolver/doResolveDependencies(org.apache.maven.execution.MavenSession,org.apache.maven.project.MavenProject,java.util.List,org.eclipse.tycho.core.DependencyResolverConfiguration,org.eclipse.tycho.artifacts.TargetPlatform,org.eclipse.tycho.p2.resolver.facade.P2Resolver,org.eclipse.tycho.core.TargetPlatformConfiguration)@g_tycho-p2-facade-0.23.1.jar.txt	1
+org/eclipse/tycho/model/IU/write(org.eclipse.tycho.model.IU,java.io.File,java.lang.String)@g_tycho-metadata-model-0.23.1.jar.txt	2
+org/eclipse/tycho/p2/resolver/PomDependencyProcessor/collectPomDependencies(org.apache.maven.project.MavenProject,java.util.Collection)@g_tycho-metadata-model-0.23.1.jar.txt	4
+org/eclipse/tycho/model/ProductConfiguration/getPluginConfiguration()@g_tycho-metadata-model-0.23.1.jar.txt	0
+org/eclipse/tycho/model/Feature/readJar(java.io.File)@g_tycho-metadata-model-0.23.1.jar.txt	3

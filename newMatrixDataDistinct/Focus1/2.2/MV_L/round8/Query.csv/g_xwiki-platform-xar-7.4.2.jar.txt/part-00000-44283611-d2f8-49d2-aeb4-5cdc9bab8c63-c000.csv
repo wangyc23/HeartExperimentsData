@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+org/w3c/dom/NodeList/getLength()
+org/apache/commons/lang3/LocaleUtils/toLocale(java.lang.String)
+org/w3c/dom/Element/getAttribute(java.lang.String)

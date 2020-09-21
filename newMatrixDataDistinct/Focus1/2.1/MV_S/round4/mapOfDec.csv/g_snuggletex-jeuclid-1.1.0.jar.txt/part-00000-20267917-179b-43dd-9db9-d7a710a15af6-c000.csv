@@ -1,0 +1,5 @@
+org/apache/batik/svggen/XmlWriter/writeChildrenXml(org.w3c.dom.Attr,org.apache.batik.svggen.XmlWriter$IndentWriter,boolean)@g_xwiki-commons-xml-7.4.2.jar.txt	4
+org/apache/batik/svggen/SVGLookupOp/toSVG(java.awt.image.LookupOp)@g_xwiki-commons-xml-7.4.2.jar.txt	3
+org/xwiki/xml/html/HTMLUtils/XWikiXMLOutputter/escapeAmpersand(java.lang.String)@g_xwiki-commons-xml-7.4.2.jar.txt	1
+org/apache/batik/svggen/DefaultStyleHandler/setStyle(org.w3c.dom.Element,java.util.Map,org.apache.batik.svggen.SVGGeneratorContext)@g_xwiki-commons-xml-7.4.2.jar.txt	2
+org/apache/batik/svggen/SVGTexturePaint/toSVG(java.awt.TexturePaint)@g_xwiki-commons-xml-7.4.2.jar.txt	0

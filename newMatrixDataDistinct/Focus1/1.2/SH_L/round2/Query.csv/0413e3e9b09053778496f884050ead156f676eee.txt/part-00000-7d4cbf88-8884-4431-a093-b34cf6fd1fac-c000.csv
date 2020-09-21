@@ -1,0 +1,4 @@
+com/iluwatar/model/view/presenter/FileSelectorPresenter/confirmed()
+com/iluwatar/model/view/presenter/FileSelectorPresenter/start()
+com/iluwatar/model/view/presenter/FileSelectorStub/setFileName(java.lang.String)
+com/iluwatar/model/view/presenter/FileSelectorPresenter/fileNameChanged()

@@ -1,0 +1,5 @@
+org/jboss/weld/tests/contexts/request/postConstruct/singleton/complicated/ValueChangeListener/getValues()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	2
+org/jboss/solder/servlet/http/CookieParamProducer/getCookieName(org.jboss.solder.logging.InjectionPoint)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	3
+org/jboss/solder/exception/control/test/common/traversal/TraversalPathTest/testTraversalPathOrder()@068d3b9e255c84cd63aec163e012653dd30ed149.txt	1
+org/apache/deltaspike/test/core/api/provider/BeanProviderTest/multiBeanLookupWithDependentBean()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	4
+org/jboss/weld/util/collections/ImmutableList/BuilderImpl/build()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	0

@@ -1,0 +1,4 @@
+0	com/google/gson/JsonObject/get(java.lang.String)
+1	com/google/gson/JsonElement/toString()
+2	com/google/gson/JsonElement/getAsJsonObject()
+3	io/netty/channel/FixedRecvByteBufAllocator/FixedRecvByteBufAllocator(int)

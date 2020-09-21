@@ -1,0 +1,5 @@
+eu/learnpad/core/impl/dash/XwikiBridgeInterfaceRestResource/loadKPIValues(java.lang.String,eu.learnpad.dash.rest.data.KPIValuesFormat,java.lang.String,java.io.InputStream)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	0
+eu/learnpad/core/impl/qm/XwikiCoreFacadeRestResource/publish(java.lang.String,java.lang.String,byte[])@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	1
+eu/learnpad/core/impl/cw/XwikiCoreFacadeRestResource/resourceNotification(java.lang.String,java.lang.String,java.lang.String,java.lang.String,eu.learnpad.or.rest.data.ResourceType,eu.learnpad.or.rest.data.NotificationActionType,java.lang.String)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	4
+eu/learnpad/core/impl/cw/XwikiBridgeInterfaceRestResource/notifyRecommendations(java.lang.String,java.lang.String,java.lang.String,eu.learnpad.or.rest.data.Recommendations)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	2
+eu/learnpad/core/impl/dash/XwikiBridgeInterfaceRestResource/modelSetImported(java.lang.String,eu.learnpad.me.rest.data.ModelSetType)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	3

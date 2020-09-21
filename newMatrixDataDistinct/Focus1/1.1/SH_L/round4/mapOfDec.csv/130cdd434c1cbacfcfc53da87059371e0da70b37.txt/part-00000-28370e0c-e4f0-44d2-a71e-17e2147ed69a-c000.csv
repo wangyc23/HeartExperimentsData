@@ -1,0 +1,5 @@
+com/onslyde/util/PasswordHash/validatePassword(java.lang.String,java.lang.String)@152313c8de4365afb899660b182c4538352c0707.txt	4
+com/onslyde/domain/SlideGroupOptionsHome/remove(com.onslyde.domain.SlideGroupOptions)@152313c8de4365afb899660b182c4538352c0707.txt	3
+com/onslyde/domain/AttendeeHome/persist(com.onslyde.domain.Attendee)@152313c8de4365afb899660b182c4538352c0707.txt	0
+com/onslyde/domain/AttendeeHome/remove(com.onslyde.domain.Attendee)@152313c8de4365afb899660b182c4538352c0707.txt	2
+com/onslyde/domain/SlideOptionsHome/remove(com.onslyde.domain.SlideOptions)@152313c8de4365afb899660b182c4538352c0707.txt	1

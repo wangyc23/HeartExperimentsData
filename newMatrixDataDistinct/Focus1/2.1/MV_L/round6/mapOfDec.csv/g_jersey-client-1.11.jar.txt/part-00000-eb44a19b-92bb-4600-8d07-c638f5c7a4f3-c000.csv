@@ -1,0 +1,5 @@
+com/sun/jersey/client/urlconnection/URLConnectionClientHandler/getInBoundHeaders(java.net.HttpURLConnection)@g_jersey-client-1.9.jar.txt	2
+com/sun/jersey/client/urlconnection/URLConnectionClientHandler/writeOutBoundHeaders(javax.ws.rs.core.MultivaluedMap,java.net.HttpURLConnection)@g_jersey-client-1.9.jar.txt	4
+com/sun/jersey/api/client/filter/HTTPDigestAuthFilter/parseHeaders(java.util.Collection)@g_jersey-client-1.9.jar.txt	0
+com/sun/jersey/client/impl/ClientRequestImpl/clone(javax.ws.rs.core.MultivaluedMap)@g_jersey-client-1.9.jar.txt	3
+com/sun/jersey/api/client/filter/LoggingFilter/printRequestHeaders(java.lang.StringBuilder,long,javax.ws.rs.core.MultivaluedMap)@g_jersey-client-1.9.jar.txt	1

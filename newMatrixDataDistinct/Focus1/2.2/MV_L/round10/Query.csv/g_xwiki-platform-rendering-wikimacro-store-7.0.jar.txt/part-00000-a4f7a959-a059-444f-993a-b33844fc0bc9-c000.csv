@@ -1,0 +1,4 @@
+org/slf4j/Logger/warn(java.lang.String,java.lang.Object,java.lang.Object)
+java/util/Iterator/hasNext()
+com/xpn/xwiki/XWikiContext/setWikiId(java.lang.String)
+org/xwiki/model/reference/WikiReference/WikiReference(java.lang.String)

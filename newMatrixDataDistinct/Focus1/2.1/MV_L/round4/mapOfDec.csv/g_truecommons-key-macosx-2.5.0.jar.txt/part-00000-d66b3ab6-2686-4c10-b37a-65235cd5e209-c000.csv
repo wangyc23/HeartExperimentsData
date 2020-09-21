@@ -1,0 +1,5 @@
+ucar/nc2/jni/netcdf/Nc4Iosp/writeAttribute(int,int,ucar.nc2.Attribute,ucar.nc2.Variable)@g_netcdf4-4.5.5.jar.txt	3
+ucar/nc2/jni/netcdf/Nc4Iosp/copy(ucar.ma2.StructureData,ucar.ma2.StructureMembers$Member,java.nio.ByteBuffer)@g_netcdf4-4.5.5.jar.txt	4
+ucar/nc2/jni/netcdf/Nc4Iosp/makeVariables(ucar.nc2.jni.netcdf.Nc4Iosp$Group4)@g_netcdf4-4.5.5.jar.txt	2
+io/netty/buffer/PooledUnsafeDirectByteBuf/setBytes(int,io.netty.buffer.ByteBuf,int,int)@g_netcdf4-4.5.5.jar.txt	1
+ucar/nc2/jni/netcdf/Nc4Iosp/makeGroup(ucar.nc2.jni.netcdf.Nc4Iosp$Group4)@g_netcdf4-4.5.5.jar.txt	0

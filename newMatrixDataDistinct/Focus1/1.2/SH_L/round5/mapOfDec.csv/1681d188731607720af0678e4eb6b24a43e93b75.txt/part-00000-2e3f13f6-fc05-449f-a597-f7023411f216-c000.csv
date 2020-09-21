@@ -1,0 +1,5 @@
+org/zghurskyi/collections/iterator/FailSafeAndFailFastIteratorHowto/main(java.lang.String[])@190f14a918e377b89b636ace80065049be99727d.txt	4
+org/sample/sorter/MergeEngine/removeEmptyChunksAndReaders()@190f14a918e377b89b636ace80065049be99727d.txt	0
+org/sample/sorter/MergeStage/removeEmptyChunksAndReaders()@190f14a918e377b89b636ace80065049be99727d.txt	1
+org/sample/multimerger/IntegersMultiMerger/merge(java.util.List,int,int)@190f14a918e377b89b636ace80065049be99727d.txt	3
+org/sample/validator/SortedOrderValidator/isValid(java.util.List)@190f14a918e377b89b636ace80065049be99727d.txt	2

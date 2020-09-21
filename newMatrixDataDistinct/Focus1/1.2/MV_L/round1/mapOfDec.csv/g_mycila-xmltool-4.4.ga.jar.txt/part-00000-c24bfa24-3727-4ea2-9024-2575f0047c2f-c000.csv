@@ -1,0 +1,5 @@
+com/adobe/xmp/impl/XMPSchemaRegistryImpl/findAliases(java.lang.String)@g_xmpcore-5.1.2.jar.txt	3
+com/adobe/xmp/impl/XMPNode/dumpNode(java.lang.StringBuffer,boolean,int,int)@g_xmpcore-5.1.2.jar.txt	4
+org/apache/ws/commons/serialize/XMLWriterImpl/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_ws-commons-util-1.0.2.jar.txt	2
+com/adobe/xmp/impl/ParseRDF/rdf_PropertyElement(com.adobe.xmp.impl.XMPMetaImpl,com.adobe.xmp.impl.XMPNode,org.w3c.dom.Node,boolean)@g_xmpcore-5.1.2.jar.txt	0
+com/adobe/xmp/impl/XMPNode/sort()@g_xmpcore-5.1.2.jar.txt	1

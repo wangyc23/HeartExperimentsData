@@ -1,0 +1,4 @@
+org/thymeleaf/spring4/view/ThymeleafView/getStaticVariables()
+org/thymeleaf/spring4/view/ThymeleafView/getTemplateName()
+org/thymeleaf/standard/fragment/StandardFragment/getParameters()
+javax/servlet/http/HttpServletResponse/setCharacterEncoding(java.lang.String)

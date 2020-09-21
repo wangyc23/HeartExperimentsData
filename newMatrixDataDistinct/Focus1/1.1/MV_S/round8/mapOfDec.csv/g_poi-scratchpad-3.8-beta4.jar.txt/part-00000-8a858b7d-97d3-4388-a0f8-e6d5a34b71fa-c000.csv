@@ -1,0 +1,5 @@
+org/apache/poi/hslf/dev/SlideShowRecordDumper/printEscherContainerRecord(org.apache.poi.ddf.EscherContainerRecord)@g_poi-scratchpad-3.11.jar.txt	2
+org/apache/poi/hssf/converter/ExcelToHtmlConverter/processCell(org.apache.poi.hssf.usermodel.HSSFCell,org.w3c.dom.Element,int,int,float)@g_poi-scratchpad-3.11.jar.txt	3
+org/apache/poi/hwpf/model/FIBFieldHandler/toString()@g_poi-scratchpad-3.11.jar.txt	0
+org/apache/poi/hslf/model/TextPainter/getTextElements(float,java.awt.font.FontRenderContext,java.awt.Graphics2D)@g_poi-scratchpad-3.11.jar.txt	1
+org/apache/poi/hslf/dev/SlideShowDumper/walkTree(int,int,int)@g_poi-scratchpad-3.11.jar.txt	4

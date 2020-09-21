@@ -1,0 +1,5 @@
+org/eclipse/jdt/internal/compiler/tool/Util/getCharContents(javax.tools.FileObject,boolean,byte[],java.lang.String)@g_org.eclipse.jdt.core-3.7.1.jar.txt	0
+org/eclipse/jetty/plus/jaas/JAASLoginService/getGroups(javax.security.auth.Subject)@g_org.eclipse.jdt.core-3.7.1.jar.txt	4
+org/eclipse/jdt/internal/compiler/apt/util/Util/getCharContents(javax.tools.FileObject,boolean,byte[],java.lang.String)@g_jetty-runner-8.1.16.v20140903.jar.txt	3
+org/eclipse/jdt/internal/compiler/apt/util/Util/getCharContents(javax.tools.FileObject,boolean,byte[],java.lang.String)@g_org.eclipse.jdt.core-3.7.1.jar.txt	1
+org/eclipse/jdt/internal/compiler/tool/Util/getCharContents(javax.tools.FileObject,boolean,byte[],java.lang.String)@g_jetty-runner-8.1.16.v20140903.jar.txt	2

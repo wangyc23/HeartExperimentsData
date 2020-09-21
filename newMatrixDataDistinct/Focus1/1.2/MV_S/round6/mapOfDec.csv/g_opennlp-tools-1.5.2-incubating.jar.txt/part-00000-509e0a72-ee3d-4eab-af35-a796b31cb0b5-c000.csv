@@ -1,0 +1,5 @@
+edu/stanford/nlp/pipeline/CustomAnnotationSerializer/main(java.lang.String[])@g_stanford-corenlp-3.5.0.jar.txt	3
+edu/stanford/nlp/ie/crf/CRFClassifier/trainWeights(int[][][][],int[][],edu.stanford.nlp.optimization.Evaluator[],int,double[][][][])@g_stanford-corenlp-3.5.0.jar.txt	1
+edu/stanford/nlp/ie/crf/CRFClassifierWithLOP/trainWeights(int[][][][],int[][],edu.stanford.nlp.optimization.Evaluator[],int,double[][][][])@g_stanford-corenlp-3.5.0.jar.txt	4
+edu/stanford/nlp/ie/crf/CRFClassifierNonlinear/trainWeightsUsingNonLinearCRF(edu.stanford.nlp.optimization.AbstractCachingDiffFunction,edu.stanford.nlp.optimization.Evaluator[])@g_stanford-corenlp-3.5.0.jar.txt	0
+edu/stanford/nlp/ie/crf/CRFClassifierFloat/trainWeights(int[][][][],int[][],edu.stanford.nlp.optimization.Evaluator[],int,double[][][][])@g_stanford-corenlp-3.5.0.jar.txt	2

@@ -1,0 +1,4 @@
+org/eclipse/jface/text/projection/ProjectionDocumentEvent/getLength()
+org/eclipse/jface/text/projection/Segment/setLength(int)
+org/eclipse/jface/text/projection/Fragment/setOffset(int)
+org/eclipse/jface/text/projection/Fragment/setLength(int)

@@ -1,0 +1,5 @@
+org/hsqldb/jdbc/JDBCParameterMetaData/toStringImpl()@g_hsqldb-2.0.0.jar.txt	1
+org/hsqldb/jdbc/JDBCParameterMetaData/toStringImpl()@g_hsqldb-2.2.9.jar.txt	3
+org/hsqldb/util/DatabaseManagerSwing/addToRecent(java.lang.String)@g_hsqldb-2.0.0.jar.txt	4
+org/hsqldb/server/ServerConnection/receiveOdbcPacket(char)@g_hsqldb-2.0.0.jar.txt	0
+org/hsqldb/server/ServerConnection/receiveOdbcPacket(char)@g_hsqldb-2.2.9.jar.txt	2

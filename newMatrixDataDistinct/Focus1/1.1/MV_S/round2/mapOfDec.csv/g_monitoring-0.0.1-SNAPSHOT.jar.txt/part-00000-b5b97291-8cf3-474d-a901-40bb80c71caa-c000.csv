@@ -1,0 +1,5 @@
+weka/knowledgeflow/steps/FlowByExpression/ExpressionClause/init(weka.core.Instances,weka.core.Environment)@g_sesame-queryalgebra-model-2.7.9.jar.txt	2
+weka/gui/knowledgeflow/steps/SubstringReplacerStepEditorDialog/layoutEditor()@g_sesame-queryalgebra-model-2.7.9.jar.txt	0
+weka/core/PropertyPath/find(java.lang.Object,weka.core.PropertyPath$Path)@g_sesame-queryalgebra-model-2.7.9.jar.txt	4
+weka/filters/supervised/attribute/ClassConditionalProbabilities/determineOutputFormat(weka.core.Instances)@g_sesame-queryalgebra-model-2.7.9.jar.txt	3
+weka/clusterers/ClusterEvaluation/makeOptionString(weka.clusterers.Clusterer,boolean)@g_sesame-queryalgebra-model-2.7.9.jar.txt	1

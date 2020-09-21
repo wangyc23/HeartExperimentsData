@@ -1,0 +1,5 @@
+org/apache/maven/reporting/AbstractMavenReportRenderer/propertiesToString(java.util.Properties)@g_maven-invoker-plugin-2.0.0.jar.txt	3
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/cloneProjects(java.util.Collection)@g_maven-invoker-plugin-2.0.0.jar.txt	0
+org/apache/maven/plugin/invoker/HelpMojo/execute()@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/getBuildJobs()@g_maven-invoker-plugin-2.0.0.jar.txt	1
+org/apache/maven/plugin/gpg/GpgSignAttachedMojo/execute()@g_maven-gpg-plugin-1.6.jar.txt	2

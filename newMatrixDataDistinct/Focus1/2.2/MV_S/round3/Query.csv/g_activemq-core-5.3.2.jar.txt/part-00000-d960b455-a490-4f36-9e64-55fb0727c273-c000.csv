@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+org/apache/activemq/jmdns/DNSCache$CacheNode/next()
+org/apache/activemq/jmdns/DNSCache$CacheNode/getValue()

@@ -1,0 +1,5 @@
+org/activiti/engine/impl/bpmn/parser/handler/AbstractExternalInvocationBpmnParseHandler/createDataInputAssociation(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.DataAssociation)@g_activiti-engine-5.16.4.jar.txt	1
+org/activiti/engine/impl/bpmn/parser/handler/ServiceTaskParseHandler/executeParse(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.ServiceTask)@g_activiti-engine-5.17.0.jar.txt	2
+org/activiti/engine/impl/bpmn/parser/handler/AbstractExternalInvocationBpmnParseHandler/createDataInputAssociation(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.DataAssociation)@g_activiti-engine-5.17.0.jar.txt	0
+org/activiti/engine/impl/bpmn/parser/BpmnParse/createOperations()@g_activiti-engine-5.17.0.jar.txt	3
+org/activiti/engine/impl/form/DefaultFormHandler/parseConfiguration(java.util.List,java.lang.String,org.activiti.engine.impl.persistence.entity.DeploymentEntity,org.activiti.engine.impl.persistence.entity.ProcessDefinitionEntity)@g_activiti-engine-5.17.0.jar.txt	4

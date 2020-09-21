@@ -1,0 +1,5 @@
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listAll(org.apache.ivy.plugins.repository.Repository,java.lang.String)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/plugins/resolver/util/ResolverHelper/findAll(org.apache.ivy.plugins.repository.Repository,org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,org.apache.ivy.core.module.descriptor.Artifact)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listTokenValues(org.apache.ivy.plugins.repository.Repository,java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/plugins/report/LogReportOutputter/output(org.apache.ivy.core.report.ResolveReport,org.apache.ivy.core.cache.ResolutionCacheManager,org.apache.ivy.core.resolve.ResolveOptions)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/util/url/HttpClientHandler/getClient()@g_ivy-2.3.0.jar.txt	4

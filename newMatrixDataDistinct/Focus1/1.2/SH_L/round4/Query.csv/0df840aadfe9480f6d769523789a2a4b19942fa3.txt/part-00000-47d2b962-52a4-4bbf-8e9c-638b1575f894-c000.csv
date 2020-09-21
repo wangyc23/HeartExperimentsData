@@ -1,0 +1,4 @@
+org/json/simple/parser/JSONParser/JSONParser()
+org/json/simple/parser/JSONParser/parse(java.lang.String)
+javax/ws/rs/client/SyncInvoker/get(java.lang.Class)
+java/util/HashMap/get(java.lang.Object)

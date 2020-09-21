@@ -1,0 +1,5 @@
+com/google/common/hash/Hashing/concatenating(java.lang.Iterable)@g_guava-19.0-rc3.jar.txt	4
+com/google/common/util/concurrent/MoreExecutors/invokeAnyImpl(com.google.common.util.concurrent.ListeningExecutorService,java.util.Collection,boolean,long)@g_guava-19.0-rc3.jar.txt	0
+com/google/common/util/concurrent/MoreExecutors/invokeAnyImpl(com.google.common.util.concurrent.ListeningExecutorService,java.util.Collection,boolean,long)@g_guava-19.0.jar.txt	1
+com/google/common/util/concurrent/ServiceManager/ServiceManagerState/markReady()@g_guava-19.0-rc3.jar.txt	2
+com/google/common/util/concurrent/ServiceManager/ServiceManagerState/startupTimes()@g_guava-19.0-rc3.jar.txt	3

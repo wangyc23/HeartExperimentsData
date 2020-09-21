@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+org/eclipse/emf/ecore/resource/Resource/getResourceSet()
+org/eclipse/emf/common/util/URI/lastSegment()
+java/util/List/size()

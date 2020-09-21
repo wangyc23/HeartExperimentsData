@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_1/parser/Expressions/anonfun/org/neo4j/cypher/internal/compiler/v2_1/parser/Expressions/Expression9/1/apply()@g_neo4j-cypher-compiler-2.1-2.1.7.jar.txt	0
+org/neo4j/cypher/internal/compiler/v2_1/commands/expressions/Property/apply(org.neo4j.cypher.internal.compiler.v2_1.ExecutionContext,org.neo4j.cypher.internal.compiler.v2_1.pipes.QueryState)@g_neo4j-cypher-compiler-2.1-2.1.7.jar.txt	4
+org/neo4j/cypher/internal/compiler/v2_1/docbuilders/queryProjectionDocBuilder/anonfun/newNestedDocGenerator/1/applyOrElse(java.lang.Object,scala.Function1)@g_neo4j-cypher-compiler-2.1-2.1.7.jar.txt	2
+org/neo4j/cypher/internal/compiler/v2_1/parser/Expressions/anonfun/org/neo4j/cypher/internal/compiler/v2_1/parser/Expressions/Expression9/1/apply()@g_neo4j-cypher-compiler-2.1-2.1.5.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_1/parser/Literals/anonfun/MapLiteral/1/apply()@g_neo4j-cypher-compiler-2.1-2.1.7.jar.txt	3

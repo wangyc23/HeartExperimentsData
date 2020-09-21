@@ -1,0 +1,4 @@
+org/glassfish/jersey/CommonProperties/getValue(java.util.Map,javax.ws.rs.RuntimeType,java.lang.String,java.lang.Object,java.lang.Class)
+org/glassfish/jersey/client/ClientConfig$State/markAsShared()
+org/glassfish/jersey/client/ClientConfig$State$4/4(org.glassfish.jersey.client.ClientConfig$State,org.glassfish.jersey.client.ClientConfig$State)
+org/glassfish/jersey/process/internal/ExecutorProviders/createInjectionBindings(org.glassfish.hk2.api.ServiceLocator)

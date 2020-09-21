@@ -1,0 +1,5 @@
+org/codehaus/jackson/impl/ReaderBasedNumericParser/parseNumberText2(boolean)@g_jackson-core-asl-1.7.4.jar.txt	2
+org/codehaus/jackson/impl/JsonParserBase/reportInvalidBase64Char(org.codehaus.jackson.Base64Variant,int,int,java.lang.String)@g_jackson-core-asl-1.7.4.jar.txt	3
+org/codehaus/jackson/util/TokenBuffer/serialize(org.codehaus.jackson.JsonGenerator)@g_jackson-core-asl-1.7.4.jar.txt	4
+org/codehaus/jackson/impl/JsonGeneratorBase/copyCurrentEvent(org.codehaus.jackson.JsonParser)@g_jackson-core-asl-1.7.4.jar.txt	1
+org/codehaus/jackson/impl/ReaderBasedParser/nextToken()@g_jackson-core-asl-1.7.4.jar.txt	0

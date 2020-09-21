@@ -1,0 +1,5 @@
+org/eclipse/core/internal/utils/Policy/debug(java.lang.String)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	3
+org/eclipse/core/internal/utils/Policy/debug(java.lang.String)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	1
+org/eclipse/core/internal/localstore/HistoryStore2/addState(org.eclipse.core.runtime.IPath,org.eclipse.core.filesystem.IFileStore,org.eclipse.core.filesystem.IFileInfo,boolean)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	2
+org/eclipse/core/internal/resources/SaveManager/restoreFromRefreshSnapshot(org.eclipse.core.internal.resources.Project,org.eclipse.core.runtime.IProgressMonitor)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	4
+org/eclipse/core/internal/localstore/HistoryStore2/addState(org.eclipse.core.runtime.IPath,org.eclipse.core.filesystem.IFileStore,org.eclipse.core.filesystem.IFileInfo,boolean)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	0

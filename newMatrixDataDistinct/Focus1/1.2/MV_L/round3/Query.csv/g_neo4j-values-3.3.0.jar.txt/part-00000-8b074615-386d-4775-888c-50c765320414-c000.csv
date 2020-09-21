@@ -1,0 +1,4 @@
+java/util/Arrays/sort(java.lang.Object[],java.util.Comparator)
+java/lang/String/compareTo(java.lang.String)
+java/util/Map/get(java.lang.Object)
+java/util/Map/size()

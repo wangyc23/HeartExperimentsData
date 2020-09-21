@@ -1,0 +1,5 @@
+org/springframework/core/style/DefaultValueStyler/style(java.util.Map)@g_spring-2.5.6.jar.txt	2
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	0
+org/springframework/beans/factory/config/SetFactoryBean/createInstance()@g_spring-2.5.6.jar.txt	4
+org/springframework/core/Constants/getNamesForSuffix(java.lang.String)@g_spring-2.5.6.jar.txt	1
+org/springframework/orm/jpa/JpaTemplate/12/doInJpa(javax.persistence.EntityManager)@g_spring-2.5.6.jar.txt	3

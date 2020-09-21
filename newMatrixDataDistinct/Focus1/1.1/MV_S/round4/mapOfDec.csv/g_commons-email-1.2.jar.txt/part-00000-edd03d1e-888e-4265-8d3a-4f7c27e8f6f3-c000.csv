@@ -1,0 +1,5 @@
+org/bouncycastle/mail/smime/validator/SignedMailValidator/createCertPath(java.security.cert.X509Certificate,java.util.Set,java.util.List,java.util.List)@g_bcmail-jdk15on-1.53.jar.txt	4
+org/apache/oro/text/regex/Perl5Matcher/__matchUnicodeClass(char,char[],int,char)@g_oro-2.0.8.jar.txt	0
+org/apache/oro/text/regex/Perl5Matcher/__matchUnicodeClass(char,char[],int,char)@g_bcmail-jdk15on-1.53.jar.txt	2
+org/bouncycastle/mail/smime/handlers/x_pkcs7_signature/writeTo(java.lang.Object,java.lang.String,java.io.OutputStream)@g_bcmail-jdk15on-1.53.jar.txt	3
+org/bouncycastle/mail/smime/SMIMESignedGenerator/ContentSigner/write(java.io.OutputStream)@g_bcmail-jdk15on-1.53.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/Character/toLowerCase(char)
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/substring(int)
+org/atteo/evo/inflector/TwoFormInflector$RegExpRule/RegExpRule(java.util.regex.Pattern,java.lang.String,org.atteo.evo.inflector.TwoFormInflector$1)

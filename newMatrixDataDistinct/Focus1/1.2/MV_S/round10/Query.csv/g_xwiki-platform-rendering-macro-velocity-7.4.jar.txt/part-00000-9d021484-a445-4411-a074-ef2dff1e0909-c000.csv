@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/xwiki/velocity/VelocityManager/getVelocityEngine()
+org/xwiki/rendering/transformation/TransformationContext/getId()
+java/lang/StringBuilder/StringBuilder()

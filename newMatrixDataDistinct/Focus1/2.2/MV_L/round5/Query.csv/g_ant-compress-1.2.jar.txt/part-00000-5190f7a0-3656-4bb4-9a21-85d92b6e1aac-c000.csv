@@ -1,0 +1,4 @@
+org/apache/tools/ant/types/Resource/getInputStream()
+org/apache/ant/compress/resources/CommonsCompressArchiveResource/getCheckedRef()
+java/lang/StringBuffer/append(java.lang.Object)
+org/apache/commons/compress/archivers/ArchiveInputStream/getNextEntry()

@@ -1,0 +1,5 @@
+org/hsqldb/util/DatabaseManagerSwing/addToRecent(java.lang.String)@g_hsqldb-2.3.1.jar.txt	1
+org/hsqldb/auth/AuthBeanMultiplexer/authenticate(java.lang.String,java.lang.String,java.lang.String)@g_hsqldb-2.3.1.jar.txt	3
+org/hsqldb/util/DatabaseManagerSwing/DBMPrefs/load()@g_hsqldb-2.3.1.jar.txt	4
+org/hsqldb/lib/ValidatingResourceBundle/getString(java.lang.Enum,java.lang.String[])@g_hsqldb-2.3.1.jar.txt	2
+org/hsqldb/persist/HsqlProperties/validateProperty(java.lang.String,java.lang.String,java.lang.Object[])@g_hsqldb-2.3.1.jar.txt	0

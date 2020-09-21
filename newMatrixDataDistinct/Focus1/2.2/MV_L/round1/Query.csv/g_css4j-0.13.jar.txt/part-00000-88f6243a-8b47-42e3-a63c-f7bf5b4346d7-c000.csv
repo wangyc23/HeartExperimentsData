@@ -1,0 +1,4 @@
+org/w3c/css/sac/ConditionalSelector/getSimpleSelector()
+org/w3c/css/sac/ConditionalSelector/getCondition()
+org/w3c/css/sac/Condition/getConditionType()
+org/w3c/css/sac/DescendantSelector/getSimpleSelector()

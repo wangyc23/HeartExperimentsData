@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+org/apache/lucene/store/IndexOutput/writeVInt(int)
+java/util/Iterator/hasNext()
+java/util/Map/size()

@@ -1,0 +1,5 @@
+org/apache/jena/rdfxml/xmlinput/NTriple/processOpts(java.lang.String,java.lang.String)@g_java-rdfa-0.4.2.jar.txt	0
+net/rootdev/javardfa/uri/URIExtractor11/getURI(javax.xml.stream.events.StartElement,javax.xml.stream.events.Attribute,net.rootdev.javardfa.EvalContext)@g_java-rdfa-0.4.2.jar.txt	2
+org/apache/jena/util/LocatorFile/open(java.lang.String)@g_java-rdfa-0.4.2.jar.txt	3
+net/rootdev/javardfa/uri/URIExtractor10/getURI(javax.xml.stream.events.StartElement,javax.xml.stream.events.Attribute,net.rootdev.javardfa.EvalContext)@g_java-rdfa-0.4.2.jar.txt	4
+org/apache/jena/rdfxml/xmlinput/NTriple/process(java.lang.String)@g_java-rdfa-0.4.2.jar.txt	1

@@ -1,0 +1,5 @@
+org/xwiki/rendering/wikimodel/tex/TexSerializer/WGet/readHttpURL(java.net.HttpURLConnection,java.io.OutputStream)@g_xwiki-rendering-wikimodel-7.4.jar.txt	2
+org/xwiki/rendering/wikimodel/internal/mediawiki/javacc/TokenMgrError/addEscapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	4
+com/vaadin/sass/internal/parser/ParseException/add_escapes(java.lang.String)@g_vaadin-sass-compiler-0.9.12.jar.txt	1
+org/xwiki/rendering/wikimodel/internal/xwiki/xwiki21/javacc/ParseException/add_escapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	3
+com/vaadin/sass/internal/parser/TokenMgrError/addEscapes(java.lang.String)@g_vaadin-sass-compiler-0.9.12.jar.txt	0

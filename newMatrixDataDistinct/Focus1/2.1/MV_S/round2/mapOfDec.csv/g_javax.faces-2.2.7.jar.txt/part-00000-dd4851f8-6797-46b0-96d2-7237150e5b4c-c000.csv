@@ -1,0 +1,5 @@
+javax/faces/component/UIComponentBase/saveAttachedState(javax.faces.context.FacesContext,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	3
+javax/faces/FactoryFinder/FactoryManagerCache/getApplicationFactoryManager(java.lang.ClassLoader,boolean)@g_javax.faces-api-2.2.jar.txt	1
+javax/faces/component/UIComponentBase/AttributesMap/equals(java.lang.Object)@g_javax.faces-api-2.2.jar.txt	4
+javax/faces/component/UIComponentBase/processRestoreState(javax.faces.context.FacesContext,java.lang.Object)@g_javax.faces-api-2.2.jar.txt	2
+javax/faces/component/UIComponentBase/eraseParent(javax.faces.component.UIComponent)@g_javax.faces-api-2.2.jar.txt	0

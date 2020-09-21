@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+org/xwiki/rendering/wikimodel/xhtml/impl/XhtmlHandler$TagStack/getScannerContext()
+org/xwiki/rendering/wikimodel/xhtml/impl/XhtmlHandler$TagStack/popStackParameter(java.lang.String)
+org/xwiki/rendering/wikimodel/xhtml/impl/XhtmlHandler$TagStack/getStackParameter(java.lang.String)

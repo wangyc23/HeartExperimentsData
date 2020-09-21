@@ -1,0 +1,5 @@
+org/apache/lucene/spatial3d/geom/GeoConvexPolygon/done(boolean)@g_lucene-spatial3d-6.4.1.jar.txt	4
+org/apache/lucene/spatial3d/geom/GeoPolygonFactory/makeLargeGeoPolygon(org.apache.lucene.spatial3d.geom.PlanetModel,java.util.List)@g_lucene-spatial3d-6.4.1.jar.txt	3
+org/apache/lucene/spatial3d/geom/GeoStandardPath/PathSegment/pathDistance(org.apache.lucene.spatial3d.geom.PlanetModel,org.apache.lucene.spatial3d.geom.DistanceStyle,double,double,double)@g_lucene-spatial3d-6.4.1.jar.txt	2
+org/apache/lucene/spatial3d/geom/Plane/interpolate(org.apache.lucene.spatial3d.geom.GeoPoint,org.apache.lucene.spatial3d.geom.GeoPoint,double[])@g_lucene-spatial3d-6.4.1.jar.txt	1
+org/apache/lucene/spatial3d/geom/Plane/findArcDistancePoints(org.apache.lucene.spatial3d.geom.PlanetModel,double,org.apache.lucene.spatial3d.geom.GeoPoint,org.apache.lucene.spatial3d.geom.Membership[])@g_lucene-spatial3d-6.4.1.jar.txt	0

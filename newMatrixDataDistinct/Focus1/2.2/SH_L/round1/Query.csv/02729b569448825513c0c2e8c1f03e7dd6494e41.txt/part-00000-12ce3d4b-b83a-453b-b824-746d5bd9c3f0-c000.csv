@@ -1,0 +1,4 @@
+xie/animeshotsite/db/entity/AnimeInfo/getName()
+xie/animeshotsite/timer/a2i/listener/SaveImageListener/setPerHourLimitCount(int)
+xie/animeshotsite/utils/FilePathUtils/getAnimeFullFilePath(xie.animeshotsite.db.entity.AnimeInfo,xie.animeshotsite.db.entity.AnimeEpisode,java.lang.String)
+java/util/Map/get(java.lang.Object)

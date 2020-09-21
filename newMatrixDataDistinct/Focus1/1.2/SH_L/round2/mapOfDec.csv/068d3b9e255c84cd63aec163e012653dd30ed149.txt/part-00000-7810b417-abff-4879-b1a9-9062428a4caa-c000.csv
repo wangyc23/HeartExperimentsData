@@ -1,0 +1,5 @@
+org/apache/deltaspike/core/util/ReflectionUtils/invokeMethod(java.lang.Object,java.lang.reflect.Method,java.lang.Class,boolean,java.lang.Object[])@28e0d9934d78139bb73f3fa156085436e0241af9.txt	1
+org/apache/deltaspike/data/impl/util/jpa/OpenJpaPersistenceUnitUtilDelegate/getIdentifier(java.lang.Object)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	0
+org/apache/deltaspike/core/impl/config/ProxyConfigurationLifecycle/ConfigurationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@28e0d9934d78139bb73f3fa156085436e0241af9.txt	4
+org/apache/deltaspike/core/util/metadata/AnnotationInstanceProvider/equals(java.lang.Object)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	3
+org/apache/deltaspike/core/impl/exclude/extension/ExcludeExtension/doesQualifierMatch(java.lang.annotation.Annotation,java.lang.annotation.Annotation)@28e0d9934d78139bb73f3fa156085436e0241af9.txt	2

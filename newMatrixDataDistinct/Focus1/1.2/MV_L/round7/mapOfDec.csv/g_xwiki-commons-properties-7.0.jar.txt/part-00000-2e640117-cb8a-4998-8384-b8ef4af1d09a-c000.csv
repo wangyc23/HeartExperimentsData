@@ -1,0 +1,5 @@
+org/xwiki/properties/converter/collection/AbstractCollectionConverter/convertToString(java.util.Collection)@g_xwiki-commons-properties-7.4.2.jar.txt	2
+org/xwiki/properties/converter/collection/AbstractCollectionConverter/convertToString(java.util.Collection)@g_xwiki-commons-properties-7.4.jar.txt	3
+org/xwiki/properties/internal/DefaultBeanManager/populateBean(java.lang.Object,java.util.Map)@g_xwiki-commons-properties-7.4.2.jar.txt	0
+org/xwiki/properties/internal/DefaultBeanDescriptor/extractPropertyDescriptor(java.beans.PropertyDescriptor,java.lang.Object)@g_xwiki-commons-properties-7.4.2.jar.txt	4
+org/xwiki/properties/internal/DefaultBeanManager/populateBean(java.lang.Object,java.util.Map)@g_xwiki-commons-properties-7.4.jar.txt	1

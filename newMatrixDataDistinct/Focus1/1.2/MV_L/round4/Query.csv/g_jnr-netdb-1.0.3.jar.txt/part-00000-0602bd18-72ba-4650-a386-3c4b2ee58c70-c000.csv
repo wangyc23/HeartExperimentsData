@@ -1,0 +1,4 @@
+jnr/netdb/NativeProtocolsDB$LibProto/getprotobyname(java.lang.String)
+com/kenai/jaffl/Library/loadLibrary(java.lang.Class,java.util.Map,java.lang.String[])
+java/util/logging/Logger/getLogger(java.lang.String)
+com/kenai/jaffl/Platform/getCPU()

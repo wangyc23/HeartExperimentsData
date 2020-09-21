@@ -1,0 +1,4 @@
+org/w3c/dom/Node/getNextSibling()
+org/apache/batik/bridge/svg12/SVGMultiImageElementBridge/instantiateGraphicsNode()
+java/util/Iterator/hasNext()
+java/awt/geom/AffineTransform/translate(double,double)

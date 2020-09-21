@@ -1,0 +1,5 @@
+scala/xml/parsing/MarkupParser/class/element1(scala.xml.parsing.MarkupHandler,scala.xml.NamespaceBinding)@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	1
+scala/xml/parsing/MarkupParserCommon/class/xTakeUntil(scala.xml.parsing.MarkupParserCommon,scala.Function2,scala.Function0,java.lang.String)@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v1_9/parser/Predicates/class/predicateLvl2(org.neo4j.cypher.internal.compiler.v1_9.parser.Predicates)@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	3
+org/neo4j/cypher/internal/compiler/v1_9/pipes/matching/VariableLengthStepTrail/toString()@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	2
+org/neo4j/cypher/internal/compiler/v1_9/executionplan/builders/SortingPreparations/anonfun/5/apply(org.neo4j.cypher.internal.compiler.v1_9.executionplan.builders.QueryToken)@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	0

@@ -1,0 +1,5 @@
+uk/commonline/weather/geo/service/GeoCache/getLocations(java.lang.String,java.lang.String)@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	2
+uk/commonline/weather/geo/man/GeoLocationServiceImpl/findByType(java.lang.String,java.lang.String)@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	4
+no/koteng/appstore/RepositoryUtil/fetchAndParseArtifacts()@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	1
+no/koteng/appstore/Repository/Parser/parseXML(org.w3c.dom.Document)@308c4017ccfdf9ccf990f1937fd42243f38acc1c.txt	0
+uk/commonline/weather/geo/source/google/GoogleGeoLocationParser/parsePlaces(java.io.InputStream)@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	3

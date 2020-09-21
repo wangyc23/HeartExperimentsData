@@ -1,0 +1,5 @@
+com/tamingtext/qa/AnswerTypeContextGenerator/getContext(com.tamingtext.opennlp.Parse)@25d79c90186328c34a9598727ce2a0642d67c4da.txt	2
+com/tamingtext/qa/AnswerTypeContextGenerator/findFocusNounPhrase(java.lang.String,int,com.tamingtext.opennlp.Parse[])@25d79c90186328c34a9598727ce2a0642d67c4da.txt	4
+com/tamingtext/frankenstein/Frankenstein/getQuery()@25d79c90186328c34a9598727ce2a0642d67c4da.txt	3
+com/tamingtext/fuzzy/TrieNodeTest/testGetMore()@25d79c90186328c34a9598727ce2a0642d67c4da.txt	1
+org/wso2/jaggery/integration/tests/hostObjects/community/WSRequestHostObjectTestCase/testWSRequestParallel()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0

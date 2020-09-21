@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/util/List/toArray()
+org/restlet/resource/ServerResource/toObject(org.restlet.representation.Representation,java.lang.Class)
+java/util/List/add(java.lang.Object)

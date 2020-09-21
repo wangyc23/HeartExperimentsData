@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/fonts/Glyphs/loadGlyphList(java.lang.String,java.util.Map)@g_xmlgraphics-commons-1.5.jar.txt	1
+org/apache/xmlgraphics/image/writer/imageio/ImageIOImageWriter/writeImage(java.awt.image.RenderedImage,java.io.OutputStream,org.apache.xmlgraphics.image.writer.ImageWriterParams)@g_xmlgraphics-commons-1.5.jar.txt	3
+org/apache/xmlgraphics/image/loader/util/ImageUtil/getPageIndexFromURI(java.lang.String)@g_xmlgraphics-commons-1.5.jar.txt	0
+org/apache/batik/ext/awt/image/rendered/DiffuseLightingRed/copyData(java.awt.image.WritableRaster)@g_xmlgraphics-commons-1.5.jar.txt	2
+org/apache/batik/ext/awt/image/rendered/Any2sRGBRed/copyData(java.awt.image.WritableRaster)@g_xmlgraphics-commons-1.5.jar.txt	4

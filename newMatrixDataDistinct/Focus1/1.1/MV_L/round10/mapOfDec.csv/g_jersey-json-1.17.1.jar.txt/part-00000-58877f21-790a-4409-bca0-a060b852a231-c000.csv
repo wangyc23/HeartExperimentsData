@@ -1,0 +1,5 @@
+java_cup/runtime/XMLElement/NonTerminal/dump(javax.xml.stream.XMLStreamWriter)@g_jersey-json-1.9.jar.txt	4
+com/sun/jersey/json/impl/reader/Jackson2StaxReader/readNext(boolean)@g_jersey-json-1.9.jar.txt	1
+com/sun/jersey/json/impl/NameUtil/capitalize(java.lang.String)@g_jersey-json-1.9.jar.txt	0
+com/sun/jersey/json/impl/reader/Jackson2StaxReader/getAttributeCount()@g_jersey-json-1.9.jar.txt	3
+com/sun/jersey/json/impl/Stax2JsonFactory/createReader(java.io.Reader,com.sun.jersey.api.json.JSONConfiguration,java.lang.String,java.lang.Class,javax.xml.bind.JAXBContext,boolean)@g_jersey-json-1.9.jar.txt	2

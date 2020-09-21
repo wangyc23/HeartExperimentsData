@@ -1,0 +1,5 @@
+org/xwiki/job/internal/DefaultJobManager/runJob()@g_xwiki-commons-job-7.0.jar.txt	3
+org/xwiki/job/internal/xstream/SafeTreeMarshaller/convert(java.lang.Object,com.thoughtworks.xstream.converters.Converter)@g_xwiki-commons-job-7.0.jar.txt	4
+org/xwiki/job/internal/DefaultJobStatusStore/initialize()@g_xwiki-commons-job-7.0.jar.txt	0
+org/xwiki/job/internal/DefaultJobStatusStore/initialize()@g_xwiki-commons-job-7.4.2.jar.txt	1
+org/xwiki/job/AbstractJob/run()@g_xwiki-commons-job-7.0.jar.txt	2

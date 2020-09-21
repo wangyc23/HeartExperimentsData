@@ -1,0 +1,5 @@
+io/netty/buffer/UnpooledUnsafeDirectByteBuf/getBytes(int,java.nio.ByteBuffer,boolean)@g_netty-buffer-4.0.25.Final.jar.txt	4
+io/netty/buffer/ReadOnlyByteBufferBuf/copy(int,int)@g_netty-buffer-4.0.25.Final.jar.txt	1
+io/netty/buffer/PooledUnsafeDirectByteBuf/setBytes(int,java.nio.ByteBuffer)@g_netty-buffer-4.0.25.Final.jar.txt	2
+io/netty/buffer/PooledDirectByteBuf/getBytes(int,java.nio.ByteBuffer,boolean)@g_netty-buffer-4.0.25.Final.jar.txt	0
+io/netty/buffer/PooledUnsafeDirectByteBuf/getBytes(int,java.nio.ByteBuffer,boolean)@g_netty-buffer-4.0.25.Final.jar.txt	3

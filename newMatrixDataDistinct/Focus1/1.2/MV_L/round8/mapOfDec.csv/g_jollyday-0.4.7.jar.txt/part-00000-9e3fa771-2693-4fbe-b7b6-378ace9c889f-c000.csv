@@ -1,0 +1,5 @@
+org/restlet/routing/Extractor/beforeHandle(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	1
+javax/persistence/Persistence/findAllProviders()@g_persistence-api-1.0.jar.txt	3
+org/restlet/engine/component/ComponentClientDispatcher/doHandle(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	0
+org/restlet/engine/local/DirectoryServerResource/getVariantsReferences()@g_org.restlet-2.0.14.jar.txt	4
+org/restlet/routing/Route/extractAttributes(org.restlet.Request,org.restlet.Response)@g_org.restlet-2.0.14.jar.txt	2

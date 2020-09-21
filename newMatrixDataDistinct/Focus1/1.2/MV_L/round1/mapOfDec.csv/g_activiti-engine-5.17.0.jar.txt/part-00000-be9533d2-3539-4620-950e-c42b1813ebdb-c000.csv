@@ -1,0 +1,5 @@
+org/activiti/engine/impl/db/DbSqlSession/flushBulkInsert(java.util.List,java.lang.Class)@g_activiti-engine-6.0.0.Beta1.jar.txt	2
+org/activiti/engine/impl/cmd/DeleteCommentCmd/execute(org.activiti.engine.impl.interceptor.CommandContext)@g_activiti-engine-6.0.0.Beta1.jar.txt	3
+org/activiti/engine/impl/bpmn/parser/handler/SendTaskParseHandler/executeParse(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.SendTask)@g_activiti-engine-6.0.0.Beta1.jar.txt	0
+org/activiti/engine/impl/bpmn/parser/handler/ServiceTaskParseHandler/executeParse(org.activiti.engine.impl.bpmn.parser.BpmnParse,org.activiti.bpmn.model.ServiceTask)@g_activiti-engine-6.0.0.Beta1.jar.txt	4
+org/activiti/engine/impl/bpmn/behavior/BoundaryCancelEventActivityBehavior/trigger(org.activiti.engine.delegate.DelegateExecution,java.lang.String,java.lang.Object)@g_activiti-engine-6.0.0.Beta1.jar.txt	1

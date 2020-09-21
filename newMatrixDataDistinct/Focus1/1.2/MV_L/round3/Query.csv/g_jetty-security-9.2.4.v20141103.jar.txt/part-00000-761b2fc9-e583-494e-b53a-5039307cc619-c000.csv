@@ -1,0 +1,4 @@
+java/lang/Throwable/Throwable()
+org/eclipse/jetty/server/handler/ContextHandler/getCurrentContext()
+java/util/Iterator/hasNext()
+java/util/Iterator/next()

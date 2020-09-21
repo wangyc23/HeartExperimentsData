@@ -1,0 +1,4 @@
+org/apache/hadoop/fs/Path/toString()
+java/lang/StringBuilder/StringBuilder()
+org/apache/hadoop/mapred/JobConf/get(java.lang.String)
+org/apache/hadoop/mapred/JobConf/setMapperClass(java.lang.Class)

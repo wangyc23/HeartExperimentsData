@@ -1,0 +1,4 @@
+com/aliyun/emr/example/EMapReduceOSSUtil/stripHttp(java.lang.String)
+java/lang/String/length()
+java/lang/String/indexOf(java.lang.String,int)
+java/lang/String/substring(int,int)

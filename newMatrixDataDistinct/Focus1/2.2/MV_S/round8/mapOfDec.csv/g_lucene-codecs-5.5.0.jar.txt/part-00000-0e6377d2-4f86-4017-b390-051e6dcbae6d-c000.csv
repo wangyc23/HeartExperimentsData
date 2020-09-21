@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/blocktree/Lucene40IntersectTermsEnumFrame/nextNonLeaf()@g_lucene-backward-codecs-5.3.1.jar.txt	4
+org/apache/lucene/codecs/blocktree/Lucene40SegmentTermsEnum/seekCeil(org.apache.lucene.util.BytesRef)@g_lucene-backward-codecs-5.3.1.jar.txt	1
+org/apache/lucene/codecs/idversion/IDVersionSegmentTermsEnum/seekCeil(org.apache.lucene.util.BytesRef)@g_lucene-sandbox-6.0.0.jar.txt	2
+org/apache/lucene/codecs/blocktree/Lucene40SegmentTermsEnum/seekExact(org.apache.lucene.util.BytesRef)@g_lucene-backward-codecs-5.3.1.jar.txt	0
+org/apache/lucene/codecs/idversion/IDVersionSegmentTermsEnum/seekExact(org.apache.lucene.util.BytesRef,long)@g_lucene-sandbox-6.0.0.jar.txt	3

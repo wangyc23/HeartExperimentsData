@@ -1,0 +1,5 @@
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentStore/saveAttachmentsContent(java.util.List,com.xpn.xwiki.doc.XWikiDocument,boolean,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-store-filesystem-attachments-7.0.jar.txt	3
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentRecycleBinStore/getAllDeletedAttachments(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-store-filesystem-attachments-7.0.jar.txt	0
+com/xpn/xwiki/plugin/webdav/resources/domain/DavWikiFile/init(com.xpn.xwiki.plugin.webdav.resources.XWikiDavResource,java.lang.String,java.lang.String)@g_xwiki-platform-store-filesystem-attachments-7.0.jar.txt	2
+com/xpn/xwiki/plugin/webdav/utils/XWikiDavContext/moveAttachment(com.xpn.xwiki.doc.XWikiAttachment,com.xpn.xwiki.doc.XWikiDocument,java.lang.String)@g_xwiki-platform-store-filesystem-attachments-7.0.jar.txt	4
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentRecycleBinStore/getAllDeletedAttachments(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-store-filesystem-attachments-7.4.2.jar.txt	1

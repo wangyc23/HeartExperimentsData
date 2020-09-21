@@ -1,0 +1,5 @@
+com/clarkparsia/owlapi/modularity/locality/SyntacticLocalityEvaluator/AxiomLocalityVisitor/visit(org.semanticweb.owlapi.model.OWLDisjointDataPropertiesAxiom)@g_owlapi-tools-4.5.0.jar.txt	4
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/getAxioms(org.semanticweb.owlapi.model.OWLEntity)@g_owlapi-distribution-5.1.0.jar.txt	3
+uk/ac/manchester/cs/owl/explanation/ordering/ExplanationOrdererImpl/getTargetAxioms(org.semanticweb.owlapi.model.OWLEntity)@g_owlapi-distribution-5.1.0.jar.txt	0
+org/semanticweb/owlapi/rdf/model/AbstractTranslator/processIfAnonymous(org.semanticweb.owlapi.model.OWLIndividual,org.semanticweb.owlapi.model.OWLAxiom)@g_owlapi-distribution-5.1.0.jar.txt	2
+com/clarkparsia/owlapi/explanation/BlackBoxExplanation/lambda$expandWithDefiningAxioms$0(org.semanticweb.owlapi.model.OWLEntity,java.util.Set,org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-distribution-5.1.0.jar.txt	1

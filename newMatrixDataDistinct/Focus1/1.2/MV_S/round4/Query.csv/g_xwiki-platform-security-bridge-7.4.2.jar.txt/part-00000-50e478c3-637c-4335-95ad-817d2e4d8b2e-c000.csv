@@ -1,0 +1,4 @@
+com/xpn/xwiki/XWiki/getXWikiPreference(java.lang.String,java.lang.String,com.xpn.xwiki.XWikiContext)
+java/lang/StringBuilder/StringBuilder()
+org/xwiki/security/authorization/Right/getName()
+javax/inject/Provider/get()

@@ -1,0 +1,5 @@
+morfologik/stemming/TrimPrefixAndSuffixEncoder/decode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	1
+morfologik/stemming/BufferUtils/charsToBytes(java.nio.charset.CharsetEncoder,java.nio.CharBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	4
+morfologik/stemming/DictionaryIterator/next()@g_morfologik-stemming-2.1.2.jar.txt	2
+morfologik/stemming/TrimPrefixAndSuffixEncoder/encode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	0
+morfologik/stemming/TrimInfixAndSuffixEncoder/decode(java.nio.ByteBuffer,java.nio.ByteBuffer,java.nio.ByteBuffer)@g_morfologik-stemming-2.1.2.jar.txt	3

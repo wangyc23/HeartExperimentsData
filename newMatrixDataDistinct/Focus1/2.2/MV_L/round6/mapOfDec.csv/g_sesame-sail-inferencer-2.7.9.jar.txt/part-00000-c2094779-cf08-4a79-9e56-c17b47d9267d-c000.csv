@@ -1,0 +1,5 @@
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/executeCopy(org.openrdf.query.algebra.Copy,org.openrdf.sail.UpdateContext)@g_sesame-repository-sail-2.7.9.jar.txt	0
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/executeAdd(org.openrdf.query.algebra.Add,org.openrdf.sail.UpdateContext)@g_sesame-repository-sail-2.7.9.jar.txt	1
+org/openrdf/query/algebra/evaluation/impl/QueryModelNormalizer/isWellDesigned(org.openrdf.query.algebra.LeftJoin)@g_sesame-repository-sail-2.7.9.jar.txt	4
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/executeMove(org.openrdf.query.algebra.Move,org.openrdf.sail.UpdateContext)@g_sesame-repository-sail-2.7.9.jar.txt	3
+org/openrdf/repository/sail/helpers/SailUpdateExecutor/insertBoundTriples(org.openrdf.query.BindingSet,org.openrdf.query.algebra.TupleExpr,org.openrdf.sail.UpdateContext)@g_sesame-repository-sail-2.7.9.jar.txt	2

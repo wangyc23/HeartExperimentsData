@@ -1,0 +1,5 @@
+edu/stanford/nlp/ling/tokensregex/SequenceMatcher/BranchStates/setMatchedResult(int,int,java.lang.Object)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/trees/CoordinationTransformer/transformCC(edu.stanford.nlp.trees.Tree,int)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/lexparser/LexicalizedParser/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/lexparser/BaseLexicon/printLexStats()@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/neural/NeuralUtils/convertTextMatrix(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3

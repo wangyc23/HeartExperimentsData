@@ -1,0 +1,5 @@
+com/xeiam/xchange/examples/bter/trade/BTERTradeDemo/generic(com.xeiam.xchange.service.polling.trade.PollingTradeService)@0df0fe4b87add3a4d9b9b2db21aaa58d68f42458.txt	4
+com/xeiam/xchange/examples/cryptsy/CryptsyDemo/publicAPI(com.xeiam.xchange.cryptsy.CryptsyExchange)@0df0fe4b87add3a4d9b9b2db21aaa58d68f42458.txt	0
+com/xeiam/xchange/examples/bittrex/v1/trade/BittrexTradeDemo/generic(com.xeiam.xchange.service.polling.trade.PollingTradeService)@0df0fe4b87add3a4d9b9b2db21aaa58d68f42458.txt	2
+com/xeiam/xchange/examples/cryptsy/CryptsyDemo/raw(com.xeiam.xchange.cryptsy.service.polling.CryptsyAccountServiceRaw,com.xeiam.xchange.cryptsy.service.polling.CryptsyMarketDataServiceRaw,com.xeiam.xchange.cryptsy.service.polling.CryptsyTradeServiceRaw)@0df0fe4b87add3a4d9b9b2db21aaa58d68f42458.txt	1
+com/xeiam/xchange/examples/poloniex/trade/PoloniexTradeDemo/raw(com.xeiam.xchange.poloniex.service.polling.PoloniexTradeServiceRaw)@0df0fe4b87add3a4d9b9b2db21aaa58d68f42458.txt	3

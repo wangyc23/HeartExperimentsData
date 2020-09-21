@@ -1,0 +1,5 @@
+org/thymeleaf/util/ListUtils/toList(java.lang.Object)@g_thymeleaf-2.1.5.RELEASE.jar.txt	2
+org/thymeleaf/standard/expression/MessageExpression/executeMessage(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,org.thymeleaf.standard.expression.MessageExpression,org.thymeleaf.standard.expression.StandardExpressionExecutionContext)@g_thymeleaf-2.1.5.RELEASE.jar.txt	1
+org/thymeleaf/standard/inliner/AbstractStandardScriptingTextInliner/processScriptingVariableExpressionInline(java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	4
+org/thymeleaf/util/NumberUtils/formatNumber(java.lang.Number,java.lang.Integer,org.thymeleaf.util.NumberPointType,java.lang.Integer,org.thymeleaf.util.NumberPointType,java.util.Locale)@g_thymeleaf-2.1.5.RELEASE.jar.txt	3
+org/thymeleaf/standard/expression/StandardExpressionPreprocessor/preprocess(org.thymeleaf.Configuration,org.thymeleaf.context.IProcessingContext,java.lang.String)@g_thymeleaf-2.1.5.RELEASE.jar.txt	0

@@ -1,0 +1,4 @@
+org/codehaus/groovy/control/customizers/SecureASTCustomizer/SecureASTCustomizer()
+java/util/Arrays/asList(java.lang.Object[])
+java/util/Collections/emptyList()
+org/codehaus/groovy/control/customizers/SecureASTCustomizer/setExpressionsBlacklist(java.util.List)

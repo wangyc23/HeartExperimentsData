@@ -1,0 +1,5 @@
+org/apache/maven/it/Verifier/executeGoals(java.util.List,java.util.Map)@g_maven-verifier-1.2.jar.txt	1
+org/apache/maven/it/Verifier/retrieveLocalRepo(java.lang.String)@g_maven-verifier-1.2.jar.txt	0
+org/apache/maven/it/Verifier/executeCommand(java.lang.String)@g_maven-verifier-1.2.jar.txt	2
+org/apache/maven/it/util/StringUtils/swapCase(java.lang.String)@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/it/Verifier/newDefaultFilterProperties()@g_maven-verifier-1.2.jar.txt	3

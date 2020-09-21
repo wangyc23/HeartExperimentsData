@@ -1,0 +1,5 @@
+org/neo4j/codegen/bytecode/ClassByteCodeWriter/done()@g_neo4j-codegen-3.1.0.jar.txt	4
+org/neo4j/codegen/source/ClassSourceWriter/typeParameters(java.lang.StringBuilder,org.neo4j.codegen.MethodDeclaration)@g_neo4j-codegen-3.1.0.jar.txt	0
+org/neo4j/codegen/ByteCodeUtils/internalDesc(org.neo4j.codegen.MethodDeclaration,boolean)@g_neo4j-codegen-3.1.0.jar.txt	2
+org/neo4j/codegen/source/ClassSourceWriter/typeParameters(java.lang.StringBuilder,org.neo4j.codegen.MethodDeclaration)@g_neo4j-codegen-3.3.0.jar.txt	1
+org/neo4j/codegen/ByteCodeUtils/internalDesc(org.neo4j.codegen.MethodDeclaration,boolean)@g_neo4j-codegen-3.3.0.jar.txt	3

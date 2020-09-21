@@ -1,0 +1,4 @@
+java/net/URI/toString()
+java/net/URI/getAuthority()
+java/net/URI/getQuery()
+java/lang/String/equals(java.lang.Object)

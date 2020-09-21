@@ -1,0 +1,5 @@
+org/springframework/jdbc/support/SQLErrorCodesFactory/getErrorCodes(javax.sql.DataSource)@g_spring-2.5.6.jar.txt	3
+org/springframework/beans/factory/support/DisposableBeanAdapter/invokeCustomDestroyMethod()@g_spring-2.5.6.jar.txt	0
+org/springframework/beans/BeanWrapperImpl/setPropertyValue(org.springframework.beans.BeanWrapperImpl$PropertyTokenHolder,org.springframework.beans.PropertyValue)@g_spring-2.5.6.jar.txt	1
+org/springframework/jdbc/core/StatementCreatorUtils/setParameterValueInternal(java.sql.PreparedStatement,int,int,java.lang.String,java.lang.Integer,java.lang.Object)@g_spring-2.5.6.jar.txt	2
+org/springframework/aop/framework/Cglib2AopProxy/getProxy(java.lang.ClassLoader)@g_spring-2.5.6.jar.txt	4

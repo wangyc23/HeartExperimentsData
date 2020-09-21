@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/util/zip/Deflater/Deflater(int,boolean)
+java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream,java.lang.String)
+java/util/Map/get(java.lang.Object)

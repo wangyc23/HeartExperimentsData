@@ -1,0 +1,5 @@
+org/apache/http/util/VersionInfo/loadVersionInfo(java.lang.String,java.lang.ClassLoader)@g_httpcore-4.4.1.jar.txt	4
+org/apache/http/impl/bootstrap/ServerBootstrap/create()@g_httpcore-4.4.1.jar.txt	2
+org/apache/http/impl/io/AbstractSessionInputBuffer/appendDecoded(org.apache.http.util.CharArrayBuffer,java.nio.ByteBuffer)@g_httpcore-4.4.3.jar.txt	1
+org/apache/http/pool/AbstractConnPool/getPoolEntryBlocking(java.lang.Object,java.lang.Object,long,java.util.concurrent.TimeUnit,java.util.concurrent.Future)@g_httpcore-4.4.1.jar.txt	3
+org/apache/http/impl/io/AbstractSessionInputBuffer/appendDecoded(org.apache.http.util.CharArrayBuffer,java.nio.ByteBuffer)@g_httpcore-4.4.1.jar.txt	0

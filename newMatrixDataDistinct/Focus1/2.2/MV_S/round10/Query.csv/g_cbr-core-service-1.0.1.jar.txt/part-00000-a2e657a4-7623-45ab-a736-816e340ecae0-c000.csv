@@ -1,0 +1,4 @@
+ch/fhnw/cbr/model/sim/SimResult/getSimilarityValue()
+com/hp/hpl/jena/ontology/Individual/getURI()
+ch/fhnw/cbr/model/sim/CaseMatch/getLabel()
+ch/fhnw/cbr/model/sim/CaseMatch/getCaseState()

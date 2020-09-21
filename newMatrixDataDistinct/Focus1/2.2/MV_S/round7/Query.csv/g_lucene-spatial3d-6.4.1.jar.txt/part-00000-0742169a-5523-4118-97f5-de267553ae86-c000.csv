@@ -1,0 +1,4 @@
+org/apache/lucene/spatial3d/geom/GeoCompositePolygon/addShape(org.apache.lucene.spatial3d.geom.GeoMembershipShape)
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+org/apache/lucene/spatial3d/geom/GeoPolygonFactory$EdgeBuffer/getPrevious(org.apache.lucene.spatial3d.geom.GeoPolygonFactory$Edge)

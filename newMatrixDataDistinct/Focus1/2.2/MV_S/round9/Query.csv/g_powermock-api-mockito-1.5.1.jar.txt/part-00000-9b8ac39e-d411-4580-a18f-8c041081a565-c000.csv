@@ -1,0 +1,4 @@
+java/lang/reflect/Field/get(java.lang.Object)
+java/util/Iterator/hasNext()
+java/io/PrintStream/println(java.lang.String)
+org/powermock/reflect/Whitebox/getFieldsAnnotatedWith(java.lang.Object,java.lang.Class[])

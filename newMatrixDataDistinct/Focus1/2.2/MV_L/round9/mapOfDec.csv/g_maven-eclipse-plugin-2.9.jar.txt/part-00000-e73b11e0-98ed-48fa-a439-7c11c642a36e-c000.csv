@@ -1,0 +1,5 @@
+org/apache/maven/plugin/ear/output/AbstractFileNameMapping/generateFileName(org.apache.maven.artifact.Artifact,boolean)@g_maven-ear-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/war/packaging/ClassesPackagingTask/generateJarArchive(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.5.jar.txt	1
+org/apache/maven/plugin/ear/AbstractEarModule/startModuleElement(org.codehaus.plexus.util.xml.XMLWriter,java.lang.Boolean)@g_maven-ear-plugin-2.8.jar.txt	3
+org/apache/maven/plugin/ear/util/ArtifactRepository/getArtifacts(java.lang.String,java.lang.String,java.lang.String)@g_maven-ear-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/ear/EarMojo/changeManifestClasspath(org.apache.maven.plugin.ear.EarModule,java.io.File)@g_maven-ear-plugin-2.8.jar.txt	0

@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+org/apache/jena/rdf/model/Resource/asNode()
+java/util/Iterator/hasNext()
+java/util/Iterator/next()

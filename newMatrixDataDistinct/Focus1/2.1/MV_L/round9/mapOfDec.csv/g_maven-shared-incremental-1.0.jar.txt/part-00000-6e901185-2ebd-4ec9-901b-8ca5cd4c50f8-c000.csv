@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/InstallMojo/copyArtifact(java.io.File,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-shared-incremental-1.1.jar.txt	3
+org/apache/maven/plugin/invoker/AbstractInvokerMojo/resolveExternalJreVersion()@g_maven-shared-incremental-1.1.jar.txt	4
+org/apache/maven/plugin/invoker/InstallMojo/installArtifact(java.io.File,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-shared-incremental-1.1.jar.txt	2
+org/apache/maven/shared/incremental/IncrementalBuildHelper/getMojoStatusDirectory()@g_maven-shared-incremental-1.1.jar.txt	0
+org/apache/maven/plugin/invoker/SelectorUtils/getMavenVersion(java.io.File)@g_maven-shared-incremental-1.1.jar.txt	1

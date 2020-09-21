@@ -1,0 +1,4 @@
+net/htmlparser/jericho/SourceFormatter$Processor/appendTextInline(int,int,boolean)
+net/htmlparser/jericho/SourceFormatter$Processor/appendIndentedScriptContent(int,int)
+net/htmlparser/jericho/SourceFormatter$Processor/appendFormattingNewLine()
+net/htmlparser/jericho/SourceFormatter$Processor/appendIndent(int)

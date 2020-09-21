@@ -1,0 +1,4 @@
+org/whispersystems/textsecuregcm/util/Util/combine(byte[],byte[],byte[],byte[])
+javax/crypto/Mac/doFinal(byte[])
+javax/crypto/Mac/init(java.security.Key)
+javax/crypto/Cipher/init(int,java.security.Key)

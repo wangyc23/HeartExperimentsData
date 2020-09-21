@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/packaging/ArtifactsPackagingTask/performPackaging(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.6.jar.txt	3
+org/apache/maven/plugin/war/overlay/OverlayManager/getOverlaysAsArtifacts()@g_maven-war-plugin-2.1.1.jar.txt	0
+org/apache/maven/plugin/war/overlay/OverlayManager/getOverlaysAsArtifacts()@g_maven-war-plugin-2.6.jar.txt	1
+org/apache/maven/plugin/war/overlay/OverlayManager/initialize(java.lang.String,java.lang.String,org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.1.1.jar.txt	4
+org/apache/maven/plugin/war/packaging/ArtifactsPackagingTask/performPackaging(org.apache.maven.plugin.war.packaging.WarPackagingContext)@g_maven-war-plugin-2.1.1.jar.txt	2

@@ -1,0 +1,5 @@
+io/druid/query/groupby/GroupByQueryRunnerTest/testGroupByWithCardinality()@2d073997706a5d2d60ff0442ebad5475defbf357.txt	2
+io/druid/query/groupby/GroupByQueryRunnerTest/testDifferentGroupingSubquery()@2d073997706a5d2d60ff0442ebad5475defbf357.txt	1
+io/druid/query/groupby/GroupByQueryRunnerTest/testDifferentIntervalSubquery()@2d073997706a5d2d60ff0442ebad5475defbf357.txt	4
+io/druid/query/groupby/GroupByQueryRunnerTest/testGroupByWithUniques()@2d073997706a5d2d60ff0442ebad5475defbf357.txt	3
+io/druid/query/groupby/GroupByQueryRunnerTest/testEmptySubquery()@2d073997706a5d2d60ff0442ebad5475defbf357.txt	0

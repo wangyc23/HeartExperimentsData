@@ -1,0 +1,5 @@
+com/manning/hip/ch4/joins/replicated/GenericReplicatedJoin/cleanup(org.apache.hadoop.mapreduce.Mapper.Context)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	0
+com/manning/hip/ch5/SmallFilesWrite/main(java.lang.String[])@176eb535f792596923ab1f78f71fe4887c80fe04.txt	4
+com/manning/hip/ch3/seqfile/SequenceFileStockWriter/main(java.lang.String[])@176eb535f792596923ab1f78f71fe4887c80fe04.txt	2
+com/manning/hip/ch9/MovieUserRecommender/recommend(java.lang.String,int[])@176eb535f792596923ab1f78f71fe4887c80fe04.txt	1
+com/manning/hip/ch4/joins/replicated/GenericReplicatedJoin/setup(org.apache.hadoop.mapreduce.Mapper.Context)@176eb535f792596923ab1f78f71fe4887c80fe04.txt	3

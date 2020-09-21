@@ -1,0 +1,5 @@
+org/xwiki/rendering/wikimodel/internal/confluence/javacc/ParseException/add_escapes(java.lang.String)@g_logback-elasticsearch-appender-1.3.jar.txt	1
+org/xwiki/rendering/wikimodel/WikiFormat/getTags(boolean)@g_logback-elasticsearch-appender-1.3.jar.txt	4
+org/xwiki/rendering/wikimodel/internal/gwiki/javacc/ParseException/add_escapes(java.lang.String)@g_logback-elasticsearch-appender-1.3.jar.txt	2
+com/sun/syndication/fetcher/impl/DiskFeedInfoCache/getFeedInfo(java.net.URL)@g_logback-elasticsearch-appender-1.3.jar.txt	3
+org/xwiki/rendering/wikimodel/internal/xwiki/xwiki21/javacc/XWikiScanner/inline()@g_logback-elasticsearch-appender-1.3.jar.txt	0

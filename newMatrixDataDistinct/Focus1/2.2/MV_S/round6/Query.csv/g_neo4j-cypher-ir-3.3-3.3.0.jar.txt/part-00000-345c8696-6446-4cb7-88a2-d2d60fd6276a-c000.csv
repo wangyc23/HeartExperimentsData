@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/ir/v3_3/helpers/PatternConverters$DestructResult/nodeIds()
+scala/Tuple2/_1()
+org/neo4j/cypher/internal/ir/v3_3/helpers/PatternConverters$DestructResult/addRel(scala.collection.Seq)
+org/neo4j/cypher/internal/frontend/v3_3/ast/EveryPath/element()

@@ -1,0 +1,5 @@
+org/apache/hadoop/hbase/thrift/generated/Hbase/deleteAll_args/deleteAll_argsStandardScheme/write(org.apache.thrift.protocol.TProtocol,org.apache.hadoop.hbase.thrift.generated.Hbase.deleteAll_args)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	3
+org/apache/slider/api/proto/Messages/ApplicationLivenessInformationProto/Builder/mergeFrom(com.google.protobuf.Message)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	2
+org/apache/hadoop/hbase/thrift/generated/Hbase/AsyncClient/scannerOpenWithPrefix(java.nio.ByteBuffer,java.nio.ByteBuffer,java.util.List,java.util.Map,org.apache.thrift.async.AsyncMethodCallback)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	1
+org/apache/slider/api/proto/Messages/GetModelDesiredResourcesRequestProto/newBuilderForType(com.google.protobuf.GeneratedMessage.BuilderParent)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	0
+oops/content/stickypackets/StickyPacketsTimeClientHandler/channelRead(oops.content.stickypackets.ChannelHandlerContext,java.lang.Object)@18e957c446ee721a1c3e86dfd6ab3e94a50f0728.txt	4

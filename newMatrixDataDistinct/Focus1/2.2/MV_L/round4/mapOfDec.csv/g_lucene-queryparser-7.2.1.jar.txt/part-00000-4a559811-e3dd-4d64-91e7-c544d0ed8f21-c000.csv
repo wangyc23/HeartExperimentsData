@@ -1,0 +1,5 @@
+org/apache/lucene/queryparser/analyzing/AnalyzingQueryParser/analyzeWildcard(java.lang.String,java.lang.String)@g_lucene-queryparser-6.5.0.jar.txt	1
+org/apache/lucene/queryparser/classic/QueryParserBase/analyzeWildcard(java.lang.String,java.lang.String)@g_lucene-queryparser-7.0.0.jar.txt	0
+org/apache/lucene/queryparser/flexible/standard/processors/WildcardQueryNodeProcessor/analyzeWildcard(org.apache.lucene.analysis.Analyzer,java.lang.String,java.lang.String)@g_lucene-queryparser-7.0.0.jar.txt	2
+org/apache/lucene/queryparser/xml/QueryTemplateManager/transformCriteria(java.util.Properties,javax.xml.transform.Transformer,javax.xml.transform.Result)@g_lucene-queryparser-7.0.0.jar.txt	3
+org/apache/lucene/queryparser/surround/query/SrndTruncQuery/visitMatchingTerms(org.apache.lucene.index.IndexReader,java.lang.String,org.apache.lucene.queryparser.surround.query.SimpleTerm$MatchingTermVisitor)@g_lucene-queryparser-7.0.0.jar.txt	4

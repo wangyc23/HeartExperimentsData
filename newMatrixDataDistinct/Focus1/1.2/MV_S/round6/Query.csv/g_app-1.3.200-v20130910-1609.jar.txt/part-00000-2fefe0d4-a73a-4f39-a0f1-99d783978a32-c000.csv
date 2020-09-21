@@ -1,0 +1,4 @@
+java/lang/Class/forName(java.lang.String)
+org/eclipse/osgi/util/NLS/bind(java.lang.String,java.lang.Object)
+java/lang/Throwable/getMessage()
+org/osgi/framework/BundleContext/getService(org.osgi.framework.ServiceReference)

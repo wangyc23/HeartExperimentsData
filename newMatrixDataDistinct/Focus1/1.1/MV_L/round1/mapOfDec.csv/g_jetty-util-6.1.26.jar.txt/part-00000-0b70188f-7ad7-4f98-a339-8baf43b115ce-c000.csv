@@ -1,0 +1,5 @@
+org/eclipse/jetty/servlets/ProxyServlet/1/onResponseStatus(org.eclipse.jetty.io.Buffer,int,org.eclipse.jetty.io.Buffer)@g_jetty-servlets-8.1.22.v20160922.jar.txt	0
+org/codehaus/plexus/util/InterpolationFilterReader/read()@g_plexus-utils-1.5.8.jar.txt	2
+org/eclipse/jetty/servlets/ProxyServlet/1/onResponseHeader(org.eclipse.jetty.io.Buffer,org.eclipse.jetty.io.Buffer)@g_jetty-servlets-8.1.22.v20160922.jar.txt	1
+org/codehaus/plexus/util/StringUtils/interpolate(java.lang.String,java.util.Map)@g_plexus-utils-1.5.8.jar.txt	3
+org/codehaus/plexus/util/TypeFormat/parseDouble(java.lang.CharSequence)@g_plexus-utils-1.5.8.jar.txt	4

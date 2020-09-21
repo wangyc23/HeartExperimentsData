@@ -1,0 +1,4 @@
+java/util/List/size()
+java/util/List/get(int)
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)
+java/lang/StringBuilder/append(java.lang.Object)

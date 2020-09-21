@@ -1,0 +1,4 @@
+org/sonatype/guice/plexus/scanners/PlexusXmlScanner/scan(org.sonatype.guice.bean.reflect.ClassSpace,boolean)
+java/lang/Object/toString()
+java/util/Iterator/hasNext()
+java/util/Map$Entry/getKey()

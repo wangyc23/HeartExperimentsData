@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/codehaus/plexus/util/xml/Xpp3Dom/getChild(int)
+org/eclipse/tycho/model/Platform$Feature/access$000(org.eclipse.tycho.model.Platform$Feature)
+java/lang/String/equals(java.lang.Object)

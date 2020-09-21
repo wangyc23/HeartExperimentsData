@@ -1,0 +1,5 @@
+weka/classifiers/bayes/net/GUI/GraphPanel/paintComponent(java.awt.Graphics)@g_weka-stable-3.8.1.jar.txt	3
+weka/gui/CloseableTabTitle/TabButton/paintComponent(java.awt.Graphics)@g_weka-stable-3.8.1.jar.txt	4
+weka/gui/beans/KnowledgeFlowApp/CloseableTabTitle/TabButton/paintComponent(java.awt.Graphics)@g_weka-stable-3.8.1.jar.txt	0
+weka/gui/beans/KnowledgeFlowApp/connectComponents(java.beans.EventSetDescriptor,weka.gui.beans.BeanInstance,int,int)@g_weka-stable-3.8.1.jar.txt	1
+weka/gui/knowledgeflow/LayoutPanel/paintComponent(java.awt.Graphics)@g_weka-stable-3.8.1.jar.txt	2

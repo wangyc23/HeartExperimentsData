@@ -1,0 +1,4 @@
+org/codehaus/jackson/JsonNode/getElements()
+org/codehaus/jackson/JsonNode/get(java.lang.String)
+java/util/Iterator/hasNext()
+org/w3c/dom/Element/setAttributeNS(java.lang.String,java.lang.String,java.lang.String)

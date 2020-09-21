@@ -1,0 +1,5 @@
+org/h2/server/web/WebServer/getSession(java.lang.String)@g_semvec-lucene-tools-1.4.jar.txt	0
+org/quartz/impl/jdbcjobstore/JobStoreSupport/storeTrigger(java.sql.Connection,org.quartz.spi.OperableTrigger,org.quartz.JobDetail,boolean,java.lang.String,boolean,boolean)@g_semvec-lucene-tools-1.4.jar.txt	3
+org/quartz/impl/jdbcjobstore/StdJDBCDelegate/updateFiredTrigger(java.sql.Connection,org.quartz.spi.OperableTrigger,java.lang.String,org.quartz.JobDetail)@g_semvec-lucene-tools-1.4.jar.txt	4
+io/seldon/db/SeldonMySQLDocumentStore/getLatestUsers(java.util.Date)@g_semvec-lucene-tools-1.4.jar.txt	2
+org/h2/tools/Recover/createTemporaryTable(java.io.PrintWriter)@g_semvec-lucene-tools-1.4.jar.txt	1

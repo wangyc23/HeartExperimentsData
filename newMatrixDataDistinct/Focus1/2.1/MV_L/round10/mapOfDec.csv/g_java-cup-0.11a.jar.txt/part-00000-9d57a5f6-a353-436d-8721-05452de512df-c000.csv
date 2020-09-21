@@ -1,0 +1,5 @@
+java_cup/lalr_state/dump_state(java_cup.lalr_state)@g_java-cup-11b-2015.03.26.jar.txt	1
+antlr/CSharpCodeGenerator/OctalToUnicode(java.lang.String)@g_java-cup-11b-2015.03.26.jar.txt	3
+antlr/PreservingFileWriter/close()@g_java-cup-11b-2015.03.26.jar.txt	4
+java_cup/emit/emit_action_code(java.io.PrintWriter,java_cup.production)@g_java-cup-11b-2015.03.26.jar.txt	2
+java_cup/lalr_state/report_shift_reduce(java_cup.lalr_item,int)@g_java-cup-11b-2015.03.26.jar.txt	0

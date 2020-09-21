@@ -1,0 +1,4 @@
+com/jcraft/jsch/SignatureRSA/update(byte[])
+java/lang/StringBuilder/append(boolean)
+java/lang/StringBuilder/StringBuilder()
+com/jcraft/jsch/SignatureRSA/verify(byte[])

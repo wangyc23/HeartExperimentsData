@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/EvaluateTreebank/processResults(edu.stanford.nlp.parser.common.ParserQuery,edu.stanford.nlp.trees.Tree,java.io.PrintWriter,java.io.PrintWriter,java.io.PrintWriter,java.io.PrintWriter,edu.stanford.nlp.trees.TreePrint)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/trees/CollocationFinder/getMangledTree(edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/ling/tokensregex/types/ValueFunctions/NumericFunction/apply(edu.stanford.nlp.ling.tokensregex.Env,java.util.List)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/lexparser/EvaluateTreebank/testOnTreebank(edu.stanford.nlp.trees.Treebank)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/parser/nndep/DependencyParser/setupClassifierForTraining(java.util.List,java.util.List,java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	3

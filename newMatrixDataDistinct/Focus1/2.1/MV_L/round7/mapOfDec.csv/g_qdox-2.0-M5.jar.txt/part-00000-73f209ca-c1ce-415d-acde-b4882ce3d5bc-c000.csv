@@ -1,0 +1,5 @@
+com/thoughtworks/qdox/builder/impl/EvaluatingVisitor/visit(com.thoughtworks.qdox.model.expression.Divide)@g_qdox-2.0-M3.jar.txt	1
+com/thoughtworks/qdox/builder/impl/EvaluatingVisitor/visit(com.thoughtworks.qdox.model.expression.LessEquals)@g_qdox-2.0-M3.jar.txt	4
+com/thoughtworks/qdox/model/impl/DefaultJavaPackage/getSubPackages()@g_qdox-2.0-M3.jar.txt	2
+com/thoughtworks/qdox/model/impl/DefaultJavaField/toString()@g_qdox-2.0-M3.jar.txt	0
+com/thoughtworks/qdox/builder/impl/EvaluatingVisitor/visit(com.thoughtworks.qdox.model.expression.MinusSign)@g_qdox-2.0-M3.jar.txt	3

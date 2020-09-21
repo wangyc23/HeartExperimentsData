@@ -1,0 +1,4 @@
+org/apache/spark/api/java/JavaRDD/map(org.apache.spark.api.java.function.Function)
+java/util/ArrayList/ArrayList(int)
+org/apache/spark/examples/JavaSparkPi/main(java/lang/String[])/$anonymous1/()
+java/lang/Integer/parseInt(java.lang.String)

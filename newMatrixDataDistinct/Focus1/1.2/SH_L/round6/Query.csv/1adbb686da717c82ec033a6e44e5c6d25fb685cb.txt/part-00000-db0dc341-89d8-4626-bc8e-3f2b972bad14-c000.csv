@@ -1,0 +1,4 @@
+zipkin/storage/cassandra/CassandraSpanStore/getServiceNames()
+java/util/Collections/singletonList(T)
+zipkin/storage/cassandra/CassandraSpanStore/getTraceIdsByServiceNames(java.util.List,long,long,int)
+zipkin/storage/cassandra/CassandraSpanStore/getTraceIdsBySpanName(java.lang.String,java.lang.String,long,long,int)

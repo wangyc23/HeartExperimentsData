@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/utils/InjectionUtils/injectIntoMap(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MultivaluedMap,boolean,org.apache.cxf.jaxrs.model.ParameterType,org.apache.cxf.message.Message)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	2
+org/apache/cxf/jaxrs/provider/JAXBElementProvider/marshalCollectionMember(java.lang.Object,java.lang.Class,java.lang.reflect.Type,java.lang.String,java.io.OutputStream,javax.ws.rs.core.MediaType,java.lang.String)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/jaxrs/impl/UriBuilderImpl/substituteMapped(java.lang.String,java.util.Map,java.util.Map,java.util.Map,java.util.Map,boolean,boolean,boolean)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	1
+org/apache/cxf/jaxrs/servlet/CXFNonSpringJaxrsServlet/parseMapListSequence(java.lang.String)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/jaxrs/impl/ConfigurationImpl/register(java.lang.Object,java.util.Map)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	0

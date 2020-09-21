@@ -1,0 +1,4 @@
+org/apache/commons/math3/ode/nonstiff/AdamsMoultonIntegrator/computeStepGrowShrinkFactor(double)
+org/apache/commons/math3/ode/nonstiff/AdamsMoultonIntegrator/acceptStep(org.apache.commons.math3.ode.sampling.AbstractStepInterpolator,double[],double[],double)
+org/apache/commons/math3/ode/nonstiff/AdamsMoultonIntegrator/computeDerivatives(double,double[],double[])
+org/apache/commons/math3/ode/nonstiff/AdamsMoultonIntegrator/getExpandable()

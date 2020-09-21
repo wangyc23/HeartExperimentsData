@@ -1,0 +1,5 @@
+org/jboss/errai/ioc/rebind/ioc/bootstrapper/FactoryGenerator/writeToDotErraiFolder(java.lang.String,java.lang.String)@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	2
+org/jboss/errai/ui/nav/client/local/URLPatternMatcher/setAsDefaultPage(java.lang.String)@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	4
+org/jboss/errai/codegen/builder/impl/StatementBuilder/loadStatic(java.lang.Class,java.lang.String)@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	0
+org/jboss/errai/config/rebind/EnvUtil/isPortableType(java.lang.Class)@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	1
+org/jboss/errai/enterprise/client/jaxrs/JacksonTransformer/cleanUpEmbeddedJson(org.jboss.errai.jpa.client.local.JSONObject)@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	3

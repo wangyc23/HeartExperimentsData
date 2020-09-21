@@ -1,0 +1,4 @@
+scala/Option/isEmpty()
+scala/collection/Seq$/apply(scala.collection.Seq)
+scala/Predef$/genericWrapArray(java.lang.Object)
+scala/Some/Some(java.lang.Object)

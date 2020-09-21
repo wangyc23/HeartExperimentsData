@@ -1,0 +1,5 @@
+org/archive/modules/fetcher/DefaultServerCache/getServerFor(java.lang.String)@152313c8de4365afb899660b182c4538352c0707.txt	4
+com/onslyde/service/MemberService/createViolationResponse(java.util.Set)@152313c8de4365afb899660b182c4538352c0707.txt	0
+com/freedomotic/plugins/devices/zway/ZWay/onRun()@294276b77bf88a7a57832b895bad92b1ee9a0141.txt	1
+com/freedomotic/things/impl/ThingRepositoryImpl/getObjectByTags(java.lang.String)@294276b77bf88a7a57832b895bad92b1ee9a0141.txt	2
+com/freedomotic/model/ds/Tuples/getPropertiesCount(int)@294276b77bf88a7a57832b895bad92b1ee9a0141.txt	3

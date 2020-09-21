@@ -1,0 +1,4 @@
+0	org/gagravarr/vorbis/TestVorbisComments/assertEquals(int,int)
+1	org/gagravarr/vorbis/VorbisComments/removeComments(java.lang.String)
+2	org/gagravarr/vorbis/VorbisComments/VorbisComments()
+3	org/gagravarr/vorbis/VorbisComments/addComment(java.lang.String,java.lang.String)

@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(int)
+java/lang/Class/getTypeParameters()
+java/lang/Class/getName()
+java/lang/UnsupportedOperationException/UnsupportedOperationException(java.lang.String)

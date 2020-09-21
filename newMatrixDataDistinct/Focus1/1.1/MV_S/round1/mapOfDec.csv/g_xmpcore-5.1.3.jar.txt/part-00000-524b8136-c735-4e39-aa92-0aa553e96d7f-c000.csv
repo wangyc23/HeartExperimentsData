@@ -1,0 +1,5 @@
+freemarker/core/Environment/getNumberFormatObject(java.lang.String)@g_freemarker-2.3.22.jar.txt	4
+org/xwiki/rendering/wikimodel/xml/sax/WemToSax/getAttributes(java.util.Map,java.util.Map)@g_xwiki-rendering-wikimodel-7.4.jar.txt	2
+org/xwiki/rendering/wikimodel/xml/AbstractTagNotifier/tagParams(org.xwiki.rendering.wikimodel.WikiFormat)@g_xwiki-rendering-wikimodel-7.4.jar.txt	0
+org/xwiki/rendering/wikimodel/xhtml/impl/TagStack/pushStackParameters()@g_xwiki-rendering-wikimodel-7.4.jar.txt	1
+org/xwiki/rendering/wikimodel/tex/TexSerializer/1/handleImage(java.lang.String,java.lang.String,org.xwiki.rendering.wikimodel.WikiParameters)@g_xwiki-rendering-wikimodel-7.4.jar.txt	3

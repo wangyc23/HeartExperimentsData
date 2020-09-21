@@ -1,0 +1,5 @@
+org/bouncycastle/asn1/x9/X962NamedCurves/<clinit>()@g_bcprov-jdk15-1.45.jar.txt	2
+org/bouncycastle/jce/provider/JDKKeyStore/makePBECipher(java.lang.String,int,char[],byte[],int)@g_bcprov-jdk15-1.45.jar.txt	4
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcprov-jdk15-1.45.jar.txt	3
+org/bouncycastle/jce/provider/PKIXCertPath/sortCerts(java.util.List)@g_bcprov-jdk16-140.jar.txt	1
+org/bouncycastle/jce/provider/PKIXCertPath/sortCerts(java.util.List)@g_bcprov-jdk15-1.45.jar.txt	0

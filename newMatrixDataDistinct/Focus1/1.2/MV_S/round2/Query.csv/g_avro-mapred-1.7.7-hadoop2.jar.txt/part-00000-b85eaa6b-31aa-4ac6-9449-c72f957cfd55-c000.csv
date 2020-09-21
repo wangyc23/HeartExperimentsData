@@ -1,0 +1,4 @@
+org/apache/hadoop/mapreduce/lib/output/FileOutputFormat/getCompressOutput(org.apache.hadoop.mapreduce.JobContext)
+org/apache/hadoop/conf/Configuration/set(java.lang.String,java.lang.String)
+java/lang/String/equals(java.lang.Object)
+org/apache/hadoop/conf/Configuration/get(java.lang.String)

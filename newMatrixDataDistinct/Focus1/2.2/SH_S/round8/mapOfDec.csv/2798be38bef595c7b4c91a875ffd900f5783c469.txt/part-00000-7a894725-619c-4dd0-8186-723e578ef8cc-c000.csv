@@ -1,0 +1,5 @@
+pl/com/sages/hadoop/mapreduce/movies/MovieMapper/map(java.lang.Object,pl.com.sages.hadoop.mapreduce.hadoopinaction.Text,pl.com.sages.hadoop.mapreduce.hadoopinaction.Context)@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	4
+pl/com/sages/hadoop/mapreduce/invertedindex/InvertedIndexRunnerTest/before()@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	3
+pl/com/sages/hadoop/mapreduce/hadoopinaction/join/JoinJobTest/shouldJoinCustomersAndOrders()@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	2
+pl/com/sages/hadoop/pig/PriceExtract/exec(pl.com.sages.hadoop.pig.Tuple)@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	0
+pl/com/sages/hadoop/mapreduce/hadoopinaction/InvertedListJobTest/before()@136253c8b853c15a01efae11fc0595cd8ba196c2.txt	1

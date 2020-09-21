@@ -1,0 +1,5 @@
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/addServletWithDefaultConfiguration(javax.servlet.ServletContext,java.util.Set)@g_jersey-container-servlet-2.19.jar.txt	3
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/getInitParams(javax.servlet.ServletRegistration)@g_jersey-container-servlet-2.19.jar.txt	4
+org/glassfish/jersey/servlet/init/JerseyServletContainerInitializer/findJerseyServletNames(javax.servlet.ServletContext)@g_jersey-container-servlet-2.19.jar.txt	0
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/onStartup(java.util.Set,javax.servlet.ServletContext)@g_jersey-servlet-1.13.jar.txt	2
+com/sun/jersey/server/impl/container/servlet/JerseyServletContainerInitializer/getInitParamDeclaredRegistrations(javax.servlet.ServletContext,java.lang.Class)@g_jersey-servlet-1.13.jar.txt	1

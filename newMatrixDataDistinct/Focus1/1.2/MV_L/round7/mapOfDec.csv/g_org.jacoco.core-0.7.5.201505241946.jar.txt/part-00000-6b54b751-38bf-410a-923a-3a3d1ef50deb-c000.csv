@@ -1,0 +1,5 @@
+org/neo4j/codegen/bytecode/ClassByteCodeWriter/done()@g_neo4j-codegen-3.1.0.jar.txt	0
+org/jacoco/core/internal/analysis/BundleCoverageImpl/groupByPackage(java.util.Collection,java.util.Collection)@g_neo4j-codegen-3.1.0.jar.txt	1
+org/neo4j/codegen/TypeReference/typeReference(java.lang.Class)@g_neo4j-codegen-3.1.0.jar.txt	3
+org/jacoco/agent/rt/internal_b0d6a23/ClassFileDumper/dump(java.lang.String,byte[])@g_neo4j-codegen-3.1.0.jar.txt	2
+org/neo4j/codegen/CompilationFailureException/source(java.util.List)@g_neo4j-codegen-3.1.0.jar.txt	4

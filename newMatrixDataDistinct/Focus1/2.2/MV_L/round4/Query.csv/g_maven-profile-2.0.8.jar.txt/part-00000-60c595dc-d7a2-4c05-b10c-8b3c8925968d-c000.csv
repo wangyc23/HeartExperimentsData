@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/xml/pull/XmlPullParser/getName()
+java/util/Set/contains(java.lang.Object)
+org/codehaus/plexus/util/xml/pull/XmlPullParser/nextText()
+org/apache/maven/profiles/Repository/setId(java.lang.String)

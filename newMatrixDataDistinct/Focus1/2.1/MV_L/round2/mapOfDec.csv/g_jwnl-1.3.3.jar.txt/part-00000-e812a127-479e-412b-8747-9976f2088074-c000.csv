@@ -1,0 +1,5 @@
+net/didion/jwnl/utilities/DictionaryToDatabase/insertData()@g_jwnl-1.4_rc3.jar.txt	2
+net/didion/jwnl/JWNL/insertParams(java.lang.String,java.lang.Object[])@g_jwnl-1.4_rc3.jar.txt	0
+org/apache/commons/cli/HelpFormatter/renderOptions(java.lang.StringBuffer,int,org.apache.commons.cli.Options,int,int)@g_commons-cli-1.2.jar.txt	1
+org/apache/commons/cli/PosixParser/flatten(org.apache.commons.cli.Options,java.lang.String[],boolean)@g_jwnl-1.4_rc3.jar.txt	4
+net/didion/jwnl/dictionary/morph/DetachSuffixesOperation/execute(net.didion.jwnl.data.POS,java.lang.String,net.didion.jwnl.dictionary.morph.BaseFormSet)@g_jwnl-1.4_rc3.jar.txt	3

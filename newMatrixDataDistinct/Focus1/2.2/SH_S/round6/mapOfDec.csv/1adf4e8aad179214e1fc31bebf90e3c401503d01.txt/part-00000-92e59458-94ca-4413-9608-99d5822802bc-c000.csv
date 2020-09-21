@@ -1,0 +1,5 @@
+com/gs/Classifier/BayesClassifier/DropStopWords(java.lang.String[])@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+nl/illuminated/arduino/ArduinoPort/SerialPortReader/run()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+com/gs/cluster/ConsoleFormatter/ClusterDetailsFormatter/formatClusterDetails(org.carrot2.core.Cluster)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	1
+com/gs/cluster/ConsoleFormatter/displayCluster(int,java.lang.String,org.carrot2.core.Cluster,int,com.gs.cluster.ConsoleFormatter.ClusterDetailsFormatter)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+com/gs/extractor/impl/WangYiWapNewsLinkExtractor/extractFromHtml(java.lang.String,int)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2

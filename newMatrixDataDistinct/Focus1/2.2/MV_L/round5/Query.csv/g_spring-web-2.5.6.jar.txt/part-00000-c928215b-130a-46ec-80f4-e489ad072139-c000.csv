@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/springframework/beans/factory/access/BeanFactoryLocator/useBeanFactory(java.lang.String)
+org/apache/commons/logging/Log/isDebugEnabled()
+org/springframework/context/access/ContextSingletonBeanFactoryLocator/getInstance(java.lang.String)

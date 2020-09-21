@@ -1,0 +1,5 @@
+org/json4s/reflect/ScalaSigReader/companions(java.lang.String,scala.Option,scala.collection.Iterable)@g_json4s-core_2.11-3.4.0.jar.txt	4
+org/json4s/TypeHints/CompositeTypeHints/org$json4s$TypeHints$CompositeTypeHints$$hasClass$1(org.json4s.TypeHints,java.lang.String)@g_json4s-core_2.11-3.4.0.jar.txt	2
+org/json4s/reflect/Reflector/anonfun/defaultValue/2/apply()@g_json4s-core_2.11-3.4.0.jar.txt	1
+org/json4s/reflect/Reflector/ClassDescriptorBuilder/findCompanion(boolean)@g_json4s-core_2.11-3.4.0.jar.txt	3
+scala/xml/parsing/MarkupParser/class/prologOrTextDecl(scala.xml.parsing.MarkupHandler,boolean)@g_scala-xml_2.11-1.0.5.jar.txt	0

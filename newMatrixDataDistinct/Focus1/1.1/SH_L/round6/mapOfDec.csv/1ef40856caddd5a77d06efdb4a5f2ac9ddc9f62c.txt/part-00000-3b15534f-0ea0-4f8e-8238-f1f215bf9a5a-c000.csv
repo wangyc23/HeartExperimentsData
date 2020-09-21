@@ -1,0 +1,5 @@
+org/kumoricon/model/attendee/AttendeeFactory/generateDemoAttendee(org.kumoricon.model.badge.Badge)@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	0
+com/vaadin/demo/dashboard/data/dummy/DummyDataGenerator/randomNotifications()@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	1
+com/vaadin/demo/dashboard/tb/pageobjects/TBLoginView/isDisplayed()@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	3
+org/kumoricon/site/attendee/reg/OrderPaymentView/addPayment(org.kumoricon.model.order.Payment)@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	4
+org/kumoricon/service/print/formatter/BadgeLibTest/splitBadgeNumberWrongFormat()@1fc9e1f5499b0b3465dad3a09590abcabc11063a.txt	2

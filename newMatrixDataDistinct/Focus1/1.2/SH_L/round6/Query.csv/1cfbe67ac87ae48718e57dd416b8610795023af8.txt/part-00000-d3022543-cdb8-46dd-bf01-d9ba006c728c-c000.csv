@@ -1,0 +1,4 @@
+org/jbpm/designer/server/RdfJsonTransformation/getContent(org.w3c.dom.Node)
+org/jbpm/designer/server/RdfJsonTransformation/getBounds(org.w3c.dom.Node)
+org/jbpm/designer/server/RdfJsonTransformation/getType(org.w3c.dom.Node)
+java/lang/String/equals(java.lang.Object)

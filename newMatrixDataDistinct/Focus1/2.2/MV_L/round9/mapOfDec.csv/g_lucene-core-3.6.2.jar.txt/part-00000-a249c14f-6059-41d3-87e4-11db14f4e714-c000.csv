@@ -1,0 +1,5 @@
+org/apache/lucene/index/NormsWriter/flush(java.util.Map,org.apache.lucene.index.SegmentWriteState)@g_lucene-core-3.5.0.jar.txt	4
+org/apache/lucene/util/AttributeSource/addAttribute(java.lang.Class)@g_lucene-core-3.5.0.jar.txt	0
+org/apache/lucene/util/AttributeSource/addAttribute(java.lang.Class)@g_lucene-core-4.2.1.jar.txt	1
+org/apache/lucene/util/FieldCacheSanityChecker/checkValueMismatch(org.apache.lucene.util.MapOfSets,org.apache.lucene.util.MapOfSets,java.util.Set)@g_lucene-core-3.5.0.jar.txt	3
+org/apache/lucene/index/UpgradeIndexMergePolicy/findForcedMerges(org.apache.lucene.index.SegmentInfos,int,java.util.Map)@g_lucene-core-3.5.0.jar.txt	2

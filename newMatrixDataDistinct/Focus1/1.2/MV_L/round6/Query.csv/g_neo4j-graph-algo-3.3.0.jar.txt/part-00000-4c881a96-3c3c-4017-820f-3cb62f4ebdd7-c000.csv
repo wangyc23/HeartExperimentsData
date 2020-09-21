@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/Iterator/hasNext()
+java/lang/Double/valueOf(double)
+java/lang/StringBuilder/append(java.lang.String)

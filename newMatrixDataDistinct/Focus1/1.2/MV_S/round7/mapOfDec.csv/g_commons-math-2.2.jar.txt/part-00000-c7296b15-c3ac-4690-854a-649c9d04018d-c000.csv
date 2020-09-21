@@ -1,0 +1,5 @@
+com/ibm/icu/text/DateTimePatternGenerator/getSkeletons(java.util.Map)@g_icu4j-50.1.1.jar.txt	1
+com/ibm/icu/text/DateTimePatternGenerator/getBestRaw(com.ibm.icu.text.DateTimePatternGenerator$DateTimeMatcher,int,com.ibm.icu.text.DateTimePatternGenerator$DistanceInfo,com.ibm.icu.text.DateTimePatternGenerator$DateTimeMatcher)@g_icu4j-50.1.1.jar.txt	2
+com/ibm/icu/text/MessageFormat/clone()@g_icu4j-50.1.1.jar.txt	4
+com/ibm/icu/text/DateTimePatternGenerator/getRedundants(java.util.Collection)@g_icu4j-50.1.1.jar.txt	0
+org/apache/commons/math3/stat/Frequency/getCumFreq(java.lang.Comparable)@g_commons-math3-3.6.1.jar.txt	3

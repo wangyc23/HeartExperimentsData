@@ -1,0 +1,4 @@
+com/salaboy/jbpm5/dev/guide/workitems/AsyncGenericWorkItemHandler/AsyncGenericWorkItemHandler(org.jbpm.executor.ExecutorServiceEntryPoint,int)
+java/lang/Thread/sleep(long)
+java/util/HashMap/put(K,V)
+java/util/HashMap/HashMap()

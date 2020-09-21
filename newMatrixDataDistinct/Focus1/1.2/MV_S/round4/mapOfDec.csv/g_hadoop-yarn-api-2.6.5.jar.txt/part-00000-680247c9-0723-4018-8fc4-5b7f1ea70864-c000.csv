@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/proto/MRProtos/CountersProto/Builder/mergeFrom(org.apache.hadoop.mapreduce.v2.proto.MRProtos$CountersProto)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	4
+org/apache/hadoop/mapreduce/v2/proto/MRServiceProtos/GetTaskReportsResponseProto/Builder/mergeFrom(org.apache.hadoop.mapreduce.v2.proto.MRServiceProtos$GetTaskReportsResponseProto)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	1
+org/apache/hadoop/mapreduce/v2/jobhistory/JobHistoryUtils/getHistoryDirsForCleaning(org.apache.hadoop.fs.FileContext,org.apache.hadoop.fs.Path,long)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	2
+org/apache/hadoop/mapreduce/v2/jobhistory/JobHistoryUtils/localGlobber(org.apache.hadoop.fs.FileContext,org.apache.hadoop.fs.Path,java.lang.String,org.apache.hadoop.fs.PathFilter,java.util.concurrent.atomic.AtomicBoolean)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	0
+org/apache/hadoop/mapreduce/v2/proto/MRProtos/TaskReportProto/Builder/mergeFrom(org.apache.hadoop.mapreduce.v2.proto.MRProtos$TaskReportProto)@g_hadoop-mapreduce-client-common-2.6.5.jar.txt	3

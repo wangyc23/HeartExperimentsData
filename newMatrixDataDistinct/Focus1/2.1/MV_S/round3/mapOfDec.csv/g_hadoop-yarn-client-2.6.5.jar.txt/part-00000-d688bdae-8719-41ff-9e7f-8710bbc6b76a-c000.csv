@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/jobhistory/JobHistoryEventHandler/1/run()@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	3
+org/apache/hadoop/yarn/client/cli/RMAdminCLI/printHelp(java.lang.String,boolean)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	2
+org/apache/hadoop/mapreduce/v2/app/launcher/ContainerLauncherImpl/Container/kill()@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	4
+org/apache/hadoop/mapred/LocalContainerLauncher/renameMapOutputForReduce(org.apache.hadoop.mapred.JobConf,org.apache.hadoop.mapreduce.v2.api.records.TaskAttemptId,org.apache.hadoop.mapred.MapOutputFile)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	1
+org/apache/hadoop/mapreduce/v2/app/rm/RMContainerAllocator/ScheduledRequests/assignMapsWithLocality(java.util.List)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	0

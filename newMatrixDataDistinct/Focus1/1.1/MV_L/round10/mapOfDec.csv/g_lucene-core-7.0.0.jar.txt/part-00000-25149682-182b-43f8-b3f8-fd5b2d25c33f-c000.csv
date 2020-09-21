@@ -1,0 +1,5 @@
+org/apache/lucene/index/TieredMergePolicy/findForcedDeletesMerges(org.apache.lucene.index.SegmentInfos,org.apache.lucene.index.IndexWriter)@g_lucene-core-6.4.1.jar.txt	4
+org/apache/lucene/search/BooleanWeight/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-core-6.4.1.jar.txt	3
+org/apache/lucene/codecs/DocValuesConsumer/merge(org.apache.lucene.index.MergeState)@g_lucene-core-6.4.1.jar.txt	0
+org/apache/lucene/store/FSDirectory/listAll(java.nio.file.Path,java.util.Set)@g_lucene-core-6.4.1.jar.txt	2
+org/apache/lucene/util/automaton/CompiledAutomaton/floor(org.apache.lucene.util.BytesRef,org.apache.lucene.util.BytesRefBuilder)@g_lucene-core-6.4.1.jar.txt	1

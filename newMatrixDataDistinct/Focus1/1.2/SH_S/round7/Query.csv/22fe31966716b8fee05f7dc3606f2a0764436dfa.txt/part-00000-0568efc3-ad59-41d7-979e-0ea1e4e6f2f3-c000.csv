@@ -1,0 +1,4 @@
+java/lang/Class/getResourceAsStream(java.lang.String)
+java/io/InputStream/available()
+java/io/InputStream/read(byte[])
+br/com/geladaonline/util/Hash/hash(java.lang.Object)

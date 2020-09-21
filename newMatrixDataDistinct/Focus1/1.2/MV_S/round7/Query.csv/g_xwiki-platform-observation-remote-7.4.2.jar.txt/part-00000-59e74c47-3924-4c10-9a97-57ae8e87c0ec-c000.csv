@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String)
+java/util/Iterator/hasNext()
+org/jgroups/Message/Message(org.jgroups.Address,org.jgroups.Address,java.lang.Object)
+java/util/Iterator/next()

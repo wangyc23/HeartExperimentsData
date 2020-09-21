@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/client/WebClient/handleAsyncResponse(org.apache.cxf.message.Message)@g_cxf-rt-rs-client-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/client/ClientProxyImpl/checkResponse(java.lang.reflect.Method,javax.ws.rs.core.Response,org.apache.cxf.message.Message)@g_cxf-rt-rs-client-3.0.16.jar.txt	3
+org/apache/cxf/jaxrs/client/spec/ClientRequestFilterInterceptor/handleMessage(org.apache.cxf.message.Message)@g_cxf-rt-rs-client-3.0.16.jar.txt	4
+org/apache/cxf/jaxrs/client/WebClient/doInvokeAsync(java.lang.String,java.lang.Object,java.lang.Class,java.lang.reflect.Type,java.lang.Class,java.lang.reflect.Type,javax.ws.rs.client.InvocationCallback)@g_cxf-rt-rs-client-3.0.16.jar.txt	2
+org/apache/cxf/jaxrs/client/WebClient/doInvoke(java.lang.String,java.lang.Object,java.lang.Class,java.lang.reflect.Type,java.lang.Class,java.lang.reflect.Type)@g_cxf-rt-rs-client-3.0.16.jar.txt	0

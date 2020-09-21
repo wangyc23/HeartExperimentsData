@@ -1,0 +1,4 @@
+org/w3c/dom/Document/createElement(java.lang.String)
+javax/xml/transform/stream/StreamResult/StreamResult(java.io.Writer)
+org/w3c/dom/Element/getLocalName()
+javax/xml/transform/dom/DOMSource/DOMSource(org.w3c.dom.Node)

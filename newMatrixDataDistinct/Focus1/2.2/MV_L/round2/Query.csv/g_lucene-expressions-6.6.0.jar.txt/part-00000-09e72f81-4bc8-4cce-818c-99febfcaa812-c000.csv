@@ -1,0 +1,4 @@
+org/apache/lucene/search/SortField/getField()
+org/apache/lucene/search/DoubleValuesSource/fromDoubleField(java.lang.String)
+org/apache/lucene/search/SortField/getType()
+java/lang/StringBuilder/append(java.lang.String)

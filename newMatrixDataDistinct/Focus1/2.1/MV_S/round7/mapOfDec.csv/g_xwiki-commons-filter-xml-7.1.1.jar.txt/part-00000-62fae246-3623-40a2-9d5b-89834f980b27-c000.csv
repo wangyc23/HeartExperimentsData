@@ -1,0 +1,5 @@
+org/xwiki/filter/xml/internal/serializer/DefaultXMLSerializer/writeInlineParameters(java.util.List,org.xwiki.filter.FilterElementDescriptor)@g_java-cup-11b-runtime-2015.03.26.jar.txt	0
+java_cup/runtime/lr_parser/report_error(java.lang.String,java.lang.Object)@g_java-cup-11b-runtime-2015.03.26.jar.txt	3
+org/xwiki/filter/xml/internal/input/AbstractXMLInputFilterStream/read(java.lang.Object)@g_java-cup-11b-runtime-2015.03.26.jar.txt	2
+org/xwiki/xar/XarPackage/writer(javax.xml.stream.XMLStreamWriter,java.lang.String)@g_java-cup-11b-runtime-2015.03.26.jar.txt	4
+java_cup/runtime/XMLElement/NonTerminal/toString()@g_java-cup-11b-runtime-2015.03.26.jar.txt	1

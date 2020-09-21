@@ -1,0 +1,5 @@
+com/trigram/dao/TrigramDao/getKeyRandomly()@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	4
+com/trigram/main/Kata14/generateNewBook()@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	3
+com/trigram/dao/TrigramDao/hasData()@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	0
+com/trigram/main/Kata14/loadTrigrams(java.lang.String)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	1
+com/trigram/mapred/TrigramMapper/map(org.apache.hadoop.io.LongWritable,org.apache.hadoop.io.Text,org.apache.hadoop.mapreduce.Mapper.Context)@2d1524413613f2942b0ee38341ca7f55bb8efecc.txt	2

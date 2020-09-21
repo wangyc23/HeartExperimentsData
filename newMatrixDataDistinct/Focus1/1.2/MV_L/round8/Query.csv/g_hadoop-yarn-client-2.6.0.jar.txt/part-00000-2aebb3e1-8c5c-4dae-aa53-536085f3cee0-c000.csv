@@ -1,0 +1,4 @@
+org/apache/commons/cli/CommandLine/getOptionValue(java.lang.String)
+org/apache/commons/cli/GnuParser/GnuParser()
+org/apache/commons/cli/Option/setArgName(java.lang.String)
+org/apache/commons/cli/Options/Options()

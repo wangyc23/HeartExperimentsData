@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/parser/v1_8/ParserPattern/class/org$neo4j$cypher$internal$parser$v1_8$ParserPattern$$translate(org.neo4j.cypher.internal.parser.v1_8.ParserPattern,scala.util.parsing.input.Reader,scala.Function1,scala.util.parsing.combinator.Parsers$ParseResult)@g_neo4j-cypher-1.8.jar.txt	3
+org/neo4j/cypher/internal/parser/v1_7/MatchClause/anonfun/shortestPath/3/apply(scala.util.parsing.combinator.Parsers$$tilde)@g_neo4j-cypher-1.8.jar.txt	2
+org/neo4j/cypher/internal/parser/v1_8/ParserPattern/anonfun/org/neo4j/cypher/internal/parser/v1_8/ParserPattern/variable_length/2/apply(scala.Option)@g_neo4j-cypher-1.8.jar.txt	4
+org/neo4j/cypher/internal/parser/v1_8/ParserPattern/anonfun/relationship/2/anonfun/2/apply(org.neo4j.cypher.internal.parser.v1_8.ParserPattern$Tail)@g_neo4j-cypher-1.8.jar.txt	1
+org/neo4j/cypher/internal/commands/CoalesceFunction/compute(scala.collection.Map)@g_neo4j-cypher-1.8.jar.txt	0

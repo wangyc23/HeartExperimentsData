@@ -1,0 +1,5 @@
+org/bouncycastle/math/Primes/enhancedMRProbablePrimeTest(java.math.BigInteger,java.security.SecureRandom,int)@g_bcprov-jdk15on-1.54.jar.txt	0
+org/bouncycastle/jcajce/provider/symmetric/util/BaseWrapCipher/engineUnwrap(byte[],java.lang.String,int)@g_bcprov-jdk15on-1.54.jar.txt	4
+org/bouncycastle/jce/ECPointUtil/decodePoint(java.security.spec.EllipticCurve,byte[])@g_bcprov-jdk15on-1.54.jar.txt	3
+org/bouncycastle/asn1/teletrust/TeleTrusTNamedCurves/<clinit>()@g_bcprov-jdk15on-1.54.jar.txt	2
+org/bouncycastle/jce/provider/X509LDAPCertStoreSpi/engineGetCertificates(java.security.cert.CertSelector)@g_bcprov-jdk15on-1.54.jar.txt	1

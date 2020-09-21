@@ -1,0 +1,5 @@
+org/eclipse/jetty/server/HttpConnection/HttpChannelOverHttp/headerComplete()@g_jetty-server-9.0.5.v20130815.jar.txt	3
+org/eclipse/jetty/server/session/AbstractSessionIdManager/newSessionId(long)@g_jetty-server-9.0.5.v20130815.jar.txt	0
+org/eclipse/jetty/server/Server/doStop()@g_jetty-server-9.0.5.v20130815.jar.txt	2
+org/eclipse/jetty/server/session/AbstractSessionIdManager/newSessionId(long)@g_jetty-server-9.2.2.v20140723.jar.txt	1
+org/eclipse/jetty/server/handler/DefaultHandler/handle(java.lang.String,org.eclipse.jetty.server.Request,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jetty-server-9.0.5.v20130815.jar.txt	4

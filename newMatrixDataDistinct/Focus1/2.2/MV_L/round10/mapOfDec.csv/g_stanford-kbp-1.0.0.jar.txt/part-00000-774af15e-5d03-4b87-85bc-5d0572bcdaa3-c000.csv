@@ -1,0 +1,5 @@
+edu/stanford/nlp/sentiment/SentimentModel/printParamInformation(int)@g_stanford-corenlp-3.5.0.jar.txt	0
+edu/stanford/nlp/patterns/surface/ScorePhrases/getSentences(java.util.Map)@g_stanford-corenlp-3.5.0.jar.txt	4
+edu/stanford/nlp/ie/QuantifiableEntityNormalizer/normalizedNumberStringQuiet(java.lang.String,double,java.lang.String,java.lang.Number)@g_stanford-corenlp-3.5.0.jar.txt	3
+edu/stanford/nlp/patterns/surface/InvertedIndexByTokens/add(java.util.List,java.lang.String,boolean)@g_stanford-corenlp-3.5.0.jar.txt	2
+edu/stanford/nlp/trees/GrammaticalRelation/getRelatedNodes(edu.stanford.nlp.trees.TreeGraphNode,edu.stanford.nlp.trees.TreeGraphNode,edu.stanford.nlp.trees.HeadFinder)@g_stanford-corenlp-3.5.0.jar.txt	1

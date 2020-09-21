@@ -1,0 +1,5 @@
+org/eclipse/acceleo/maven/AcceleoURIHandler/transform(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.maven-3.5.2.jar.txt	4
+org/eclipse/acceleo/maven/AcceleoParserMojo/getURIsFromArtifacts(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_org.eclipse.acceleo.maven-3.5.2.jar.txt	2
+org/eclipse/acceleo/maven/AcceleoParserMojo/getURIsFromArtifacts(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_org.eclipse.acceleo.maven-3.5.0-SNAPSHOT.jar.txt	0
+org/eclipse/acceleo/maven/AcceleoParserMojo/execute()@g_org.eclipse.acceleo.maven-3.5.2.jar.txt	3
+org/eclipse/acceleo/maven/AcceleoURIHandler/transform(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.maven-3.5.0-SNAPSHOT.jar.txt	1

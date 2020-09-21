@@ -1,0 +1,5 @@
+org/opentripplanner/routing/TestHalfEdges/testStreetSplittingAlerts()@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	0
+org/opentripplanner/routing/algorithm/GenericDijkstra/getShortestPathTree(org.opentripplanner.routing.core.State)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	4
+org/opentripplanner/graph_builder/module/map/MatchState/carsCanTraverse(org.opentripplanner.routing.graph.Edge)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	2
+org/opentripplanner/api/resource/GraphPathToTripPlanConverter/generateWalkSteps(org.opentripplanner.routing.graph.Graph,org.opentripplanner.routing.core.State[],org.opentripplanner.api.model.WalkStep)@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	3
+org/opentripplanner/routing/edgetype/PartialStreetEdgeTest/testTraversalOfSubdividedEdge()@0406c8d08340a9d8dfcfafc47b42e0c916e5c20a.txt	1

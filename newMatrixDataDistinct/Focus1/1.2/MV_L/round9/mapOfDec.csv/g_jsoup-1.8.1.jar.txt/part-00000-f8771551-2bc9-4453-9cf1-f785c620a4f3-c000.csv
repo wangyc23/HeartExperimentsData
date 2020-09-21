@@ -1,0 +1,5 @@
+org/jsoup/safety/Whitelist/addAttributes(java.lang.String,java.lang.String[])@g_jsoup-1.7.3.jar.txt	1
+org/jsoup/safety/Whitelist/addProtocols(java.lang.String,java.lang.String,java.lang.String[])@g_jsoup-1.7.2.jar.txt	4
+org/jsoup/safety/Whitelist/addEnforcedAttribute(java.lang.String,java.lang.String,java.lang.String)@g_jsoup-1.7.2.jar.txt	2
+org/jsoup/safety/Whitelist/addAttributes(java.lang.String,java.lang.String[])@g_jsoup-1.7.2.jar.txt	0
+org/jsoup/safety/Whitelist/addEnforcedAttribute(java.lang.String,java.lang.String,java.lang.String)@g_jsoup-1.7.3.jar.txt	3

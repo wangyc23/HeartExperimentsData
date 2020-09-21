@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_1/mutation/MergeNodeAction/arguments()@g_neo4j-cypher-compiler-2.0-2.0.1.jar.txt	3
+org/neo4j/cypher/internal/compiler/v2_1/parser/Command/anonfun/DropIndex/1/apply()@g_neo4j-cypher-compiler-2.0-2.0.1.jar.txt	4
+org/neo4j/cypher/internal/compiler/v2_0/SimpleTypedFunction/anonfun/checkTypes/1/anonfun/3/apply(scala.Tuple2,org.neo4j.cypher.internal.compiler.v2_0.ast.Expression)@g_neo4j-cypher-compiler-2.0-2.0.1.jar.txt	2
+org/neo4j/cypher/internal/compiler/v2_1/prettifier/PrettifierParser/parse(java.lang.String)@g_neo4j-cypher-compiler-2.1-2.1.7.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_0/prettifier/PrettifierParser/parse(java.lang.String)@g_neo4j-cypher-compiler-2.0-2.0.1.jar.txt	0

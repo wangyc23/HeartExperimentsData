@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/metrics/HiddenGCICount/recomputeMetric()@g_owlapi-distribution-4.5.0.jar.txt	4
+org/semanticweb/owlapi/manchestersyntax/renderer/ManchesterOWLSyntaxFrameRenderer/write(org.semanticweb.owlapi.model.OWLClass)@g_owlapi-distribution-4.5.0.jar.txt	1
+org/semanticweb/owlapi/krss2/renderer/KRSS2OWLObjectRenderer/visit(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-distribution-4.5.0.jar.txt	3
+org/semanticweb/owlapi/change/ConvertEquivalentClassesToSuperClasses/generateChanges()@g_owlapi-distribution-4.5.0.jar.txt	0
+org/semanticweb/owlapi/krss2/renderer/KRSS2ObjectRenderer/visit(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-distribution-4.5.0.jar.txt	2

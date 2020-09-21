@@ -1,0 +1,5 @@
+com/ibm/icu/text/CollationParsedRuleBuilder/addMultiCMontractions(com.ibm.icu.text.CollationParsedRuleBuilder$BuildTable,com.ibm.icu.text.CollationElementIterator,com.ibm.icu.text.CollationParsedRuleBuilder$Elements,char[],int[],int,char,int,java.lang.String)@g_icu4j-50.1.1.jar.txt	2
+com/ibm/icu/text/TimeZoneFormat/format(java.lang.Object,java.lang.StringBuffer,java.text.FieldPosition)@g_icu4j-50.1.1.jar.txt	4
+org/apache/commons/math/random/RandomDataImpl/nextSecureHexString(int)@g_icu4j-50.1.1.jar.txt	3
+com/ibm/icu/text/DecimalFormat/formatToCharacterIterator(java.lang.Object,com.ibm.icu.text.DecimalFormat$Unit)@g_icu4j-50.1.1.jar.txt	1
+javax/measure/MeasureFormat/Standard/parse(java.lang.CharSequence,java.text.ParsePosition)@g_icu4j-50.1.1.jar.txt	0

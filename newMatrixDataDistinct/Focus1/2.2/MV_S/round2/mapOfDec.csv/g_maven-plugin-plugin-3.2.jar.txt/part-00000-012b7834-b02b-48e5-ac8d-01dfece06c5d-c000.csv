@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/writers/wtp/EclipseWtpApplicationXMLWriter/updateApplicationXml(org.codehaus.plexus.util.xml.Xpp3Dom,org.codehaus.plexus.util.xml.Xpp3Dom,org.apache.maven.plugin.ide.IdeDependency)@g_build-helper-maven-plugin-1.8.jar.txt	3
+org/codehaus/mojo/buildhelper/TimestampPropertyMojo/execute()@g_build-helper-maven-plugin-1.8.jar.txt	0
+org/apache/maven/plugin/eclipse/EclipsePlugin/getProjectNameTemplateForMavenProject(org.apache.maven.project.MavenProject)@g_build-helper-maven-plugin-1.8.jar.txt	2
+org/apache/maven/plugin/eclipse/EclipseToMavenMojo/parseDependencies(java.lang.String)@g_maven-eclipse-plugin-2.9.jar.txt	1
+org/apache/maven/plugin/plugin/PluginReport/PluginOverviewRenderer/discoverJdkRequirementFromPlugins(java.util.Map)@g_build-helper-maven-plugin-1.8.jar.txt	4

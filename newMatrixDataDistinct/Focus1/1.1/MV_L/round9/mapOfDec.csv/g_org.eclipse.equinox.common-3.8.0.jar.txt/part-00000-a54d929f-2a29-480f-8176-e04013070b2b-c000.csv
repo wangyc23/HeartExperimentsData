@@ -1,0 +1,5 @@
+org/eclipse/core/internal/runtime/PlatformURLConfigConnection/resolve()@g_org.eclipse.equinox.common-3.9.0.jar.txt	2
+org/eclipse/core/internal/runtime/PlatformURLMetaConnection/resolve()@g_org.eclipse.equinox.common-3.9.0.jar.txt	4
+org/eclipse/core/internal/boot/PlatformURLHandler/openConnection(java.net.URL)@g_org.eclipse.equinox.common-3.9.0.jar.txt	1
+org/eclipse/core/internal/runtime/PlatformURLFragmentConnection/resolve()@g_org.eclipse.equinox.common-3.9.0.jar.txt	0
+org/eclipse/core/runtime/FileLocator/getBundleFile(org.osgi.framework.Bundle)@g_org.eclipse.equinox.common-3.9.0.jar.txt	3

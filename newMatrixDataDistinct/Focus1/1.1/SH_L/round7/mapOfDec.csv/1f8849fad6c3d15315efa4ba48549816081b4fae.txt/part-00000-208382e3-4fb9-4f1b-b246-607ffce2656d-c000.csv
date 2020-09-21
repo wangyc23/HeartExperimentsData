@@ -1,0 +1,5 @@
+org/apache/trevni/InputBuffer/readBytes()@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	4
+org/apache/trevni/ColumnValues/nextLength()@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	1
+org/apache/trevni/InputBuffer/skipValue(org.apache.trevni.ValueType)@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	2
+org/apache/trevni/InputBuffer/skipBytes()@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	3
+org/apache/trevni/InputBuffer/readValue(org.apache.trevni.ValueType)@191919fc87fe606a0b0f519978ab3a5b68d7bd22.txt	0

@@ -1,0 +1,5 @@
+org/apache/curator/ensemble/exhibitor/ExhibitorEnsembleProvider/poll()@g_curator-client-2.6.0.jar.txt	1
+org/apache/curator/ConnectionState/process(org.apache.zookeeper.WatchedEvent)@g_curator-client-2.6.0.jar.txt	0
+org/apache/hadoop/security/authentication/util/KerberosName/Rule/apply(java.lang.String[])@g_hadoop-auth-2.6.0.jar.txt	4
+org/apache/curator/ensemble/exhibitor/ExhibitorEnsembleProvider/useBackup(org.apache.curator.ensemble.exhibitor.Exhibitors)@g_curator-client-2.6.0.jar.txt	3
+org/apache/curator/utils/CloseableExecutorService/close()@g_curator-client-2.6.0.jar.txt	2

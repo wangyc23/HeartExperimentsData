@@ -1,0 +1,4 @@
+java/lang/Thread/sleep(long)
+org/apache/avro/ipc/trace/Span/setMessageName(java.lang.String)
+org/apache/avro/ipc/trace/FileSpanStorage/setMaxSpans(long)
+java/util/List/containsAll(java.util.Collection)

@@ -1,0 +1,5 @@
+org/glassfish/jersey/client/authentication/HttpAuthenticationFilter/repeatRequest(javax.ws.rs.client.ClientRequestContext,javax.ws.rs.client.ClientResponseContext,java.lang.String)@g_jersey-client-2.21.jar.txt	0
+org/glassfish/jersey/client/authentication/HttpAuthenticationFilter/repeatRequest(javax.ws.rs.client.ClientRequestContext,javax.ws.rs.client.ClientResponseContext,java.lang.String)@g_jersey-client-2.22.2.jar.txt	1
+org/glassfish/jersey/client/internal/HttpUrlConnector/_apply(org.glassfish.jersey.client.ClientRequest)@g_jersey-client-2.21.jar.txt	2
+org/glassfish/jersey/client/authentication/HttpAuthenticationFilter/filter(javax.ws.rs.client.ClientRequestContext,javax.ws.rs.client.ClientResponseContext)@g_jersey-client-2.21.jar.txt	4
+org/glassfish/jersey/client/ClientRequest/doWriteEntity(org.glassfish.jersey.message.MessageBodyWorkers,javax.ws.rs.core.GenericType)@g_jersey-client-2.21.jar.txt	3

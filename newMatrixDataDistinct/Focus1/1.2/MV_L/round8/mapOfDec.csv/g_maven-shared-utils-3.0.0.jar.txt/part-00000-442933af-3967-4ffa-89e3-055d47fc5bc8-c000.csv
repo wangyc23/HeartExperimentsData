@@ -1,0 +1,5 @@
+org/apache/maven/shared/utils/StringUtils/mid(java.lang.String,int,int)@g_maven-shared-utils-0.6.jar.txt	0
+org/apache/maven/internal/commons/io/input/XmlStreamReader/getXmlProlog(java.io.InputStream,java.lang.String)@g_maven-shared-utils-0.7.jar.txt	3
+org/apache/maven/shared/utils/xml/XmlWriterUtil/writeComment(org.apache.maven.shared.utils.xml.XMLWriter,java.lang.String,int,int,int)@g_maven-shared-utils-0.6.jar.txt	4
+org/apache/maven/internal/commons/io/input/XmlStreamReader/getXmlProlog(java.io.InputStream,java.lang.String)@g_maven-shared-utils-0.6.jar.txt	2
+org/apache/maven/shared/utils/StringUtils/mid(java.lang.String,int,int)@g_maven-shared-utils-0.7.jar.txt	1

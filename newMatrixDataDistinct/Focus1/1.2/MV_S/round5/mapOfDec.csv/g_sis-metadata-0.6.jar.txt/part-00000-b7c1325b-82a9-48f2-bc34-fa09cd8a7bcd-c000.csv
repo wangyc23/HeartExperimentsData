@@ -1,0 +1,5 @@
+org/apache/sis/referencing/cs/CoordinateSystems/swapAndScaleAxes(org.opengis.referencing.cs.CoordinateSystem,org.opengis.referencing.cs.CoordinateSystem)@g_sis-referencing-0.6.jar.txt	2
+org/apache/sis/geometry/GeneralEnvelope/normalize()@g_sis-referencing-0.6.jar.txt	4
+org/apache/sis/geometry/AbstractEnvelope/toSimpleEnvelopes()@g_sis-referencing-0.6.jar.txt	3
+org/apache/sis/referencing/CRS/getVerticalComponent(org.opengis.referencing.crs.CoordinateReferenceSystem,boolean)@g_sis-referencing-0.6.jar.txt	1
+org/apache/sis/referencing/crs/AbstractCRS/formatCS(org.apache.sis.io.wkt.Formatter,org.opengis.referencing.cs.CoordinateSystem,javax.measure.unit.Unit,boolean)@g_sis-referencing-0.6.jar.txt	0

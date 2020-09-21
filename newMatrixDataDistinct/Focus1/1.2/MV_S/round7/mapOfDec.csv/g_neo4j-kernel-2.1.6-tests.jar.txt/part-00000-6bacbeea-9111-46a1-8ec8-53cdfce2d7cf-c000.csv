@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/nioneo/store/StoreVersionTest/allStoresShouldHaveTheCurrentVersionIdentifier()@g_neo4j-kernel-2.1.5-tests.jar.txt	4
+org/neo4j/kernel/impl/storemigration/CurrentDatabaseTest/shouldAcceptStoreWhenAllFilesHaveTheCorrectVersion()@g_neo4j-kernel-2.1.7-tests.jar.txt	1
+org/neo4j/kernel/impl/storemigration/CurrentDatabaseTest/shouldRejectStoreWhereOneFileHasTheWrongVersion()@g_neo4j-kernel-2.1.5-tests.jar.txt	2
+org/neo4j/kernel/impl/storemigration/CurrentDatabaseTest/shouldAcceptStoreWhenAllFilesHaveTheCorrectVersion()@g_neo4j-kernel-2.1.5-tests.jar.txt	0
+org/neo4j/kernel/impl/storemigration/CurrentDatabaseTest/shouldRejectStoreWhereOneFileHasTheWrongVersion()@g_neo4j-kernel-2.1.7-tests.jar.txt	3

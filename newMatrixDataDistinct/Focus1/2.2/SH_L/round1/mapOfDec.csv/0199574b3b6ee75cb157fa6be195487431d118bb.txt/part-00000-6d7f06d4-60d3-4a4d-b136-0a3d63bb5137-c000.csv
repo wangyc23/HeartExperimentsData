@@ -1,0 +1,5 @@
+org/streaminer/stream/classifier/bayes/NaiveBayes/predict(org.streaminer.stream.data.Data)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	2
+org/streaminer/stream/quantile/TDigest/add(double,int,org.streaminer.stream.quantile.TDigest.Group)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	4
+org/streaminer/stream/quantile/rss/RSSQuantiles/getQuantile(double)@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	1
+org/streaminer/stream/norm/StableSketch/norm()@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	3
+org/streaminer/stream/quantile/TDigestTest/testMerge()@071135a02442aa36bcad889e0cf58a84f7a97a88.txt	0

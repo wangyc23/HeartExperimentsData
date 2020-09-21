@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/skinx/CssSkinFileExtensionPlugin/getLink(java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-skin-skinx-7.4.2.jar.txt	3
+com/xpn/xwiki/plugin/skinx/JsSkinExtensionPlugin/getLink(java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-skin-skinx-7.4.2.jar.txt	2
+com/xpn/xwiki/plugin/skinx/JsResourceSkinExtensionPlugin/generateLink(java.lang.String,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-skin-skinx-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/activitystream/impl/ActivityStreamImpl/getFeedEntry(com.xpn.xwiki.plugin.activitystream.api.ActivityEvent,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	0
+com/xpn/xwiki/plugin/skinx/AbstractDocumentSkinExtensionPlugin/getAlwaysUsedExtensions()@g_xwiki-platform-skin-skinx-7.4.2.jar.txt	1

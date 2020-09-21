@@ -1,0 +1,5 @@
+org/thymeleaf/spring4/processor/attr/SpringInputCheckboxFieldAttrProcessor/doProcess(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String,java.lang.String,org.springframework.web.servlet.support.BindStatus,java.util.Map)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	3
+org/thymeleaf/spring4/processor/attr/SpringErrorClassAttrProcessor/computeBindStatus(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	1
+org/thymeleaf/spring4/processor/attr/SpringErrorsAttrProcessor/processAttribute(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	4
+org/thymeleaf/spring4/processor/attr/SpringObjectAttrProcessor/getAdditionalLocalVariables(org.thymeleaf.Arguments,org.thymeleaf.dom.Element,java.lang.String)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	2
+org/thymeleaf/spring4/processor/attr/SpringSelectFieldAttrProcessor/processOptionChildren(org.thymeleaf.dom.Element,java.lang.String,java.lang.String)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	0

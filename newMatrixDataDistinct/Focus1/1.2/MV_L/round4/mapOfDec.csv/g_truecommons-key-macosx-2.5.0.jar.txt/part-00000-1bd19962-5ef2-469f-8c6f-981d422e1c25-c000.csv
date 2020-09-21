@@ -1,0 +1,5 @@
+de/danielnaber/jwordsplitter/tools/TestjWordSplitterGerman/main(java.lang.String[])@g_jwordsplitter-4.1.jar.txt	0
+org/neo4j/kernel/internal/TransactionEventHandlers/afterRollback(org.neo4j.storageengine.api.txstate.ReadableTransactionState,org.neo4j.kernel.api.KernelTransaction,org.neo4j.kernel.internal.TransactionEventHandlers$TransactionHandlerState)@g_neo4j-kernel-3.3.0.jar.txt	3
+de/danielnaber/jwordsplitter/AbstractWordSplitter/getAllSplits(java.lang.String,boolean)@g_jwordsplitter-4.1.jar.txt	1
+org/neo4j/kernel/configuration/Config/identifiersFromGroup(java.lang.Class)@g_neo4j-kernel-3.3.0.jar.txt	4
+de/danielnaber/jwordsplitter/converter/ExportDict/main(java.lang.String[])@g_jwordsplitter-4.1.jar.txt	2

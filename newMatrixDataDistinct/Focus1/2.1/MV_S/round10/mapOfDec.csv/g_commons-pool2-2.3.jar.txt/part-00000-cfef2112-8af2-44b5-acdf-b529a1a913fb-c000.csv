@@ -1,0 +1,5 @@
+org/apache/commons/pool2/impl/GenericKeyedObjectPool/getNumActivePerKey()@g_neo4j-collections-3.1.0-M01.jar.txt	2
+org/neo4j/helpers/collection/LruCache/resize(int)@g_neo4j-collections-3.1.0-M01.jar.txt	0
+org/glassfish/hk2/osgiresourcelocator/ServiceLoaderImpl/lookupProviderClasses1(java.lang.Class)@g_neo4j-collections-3.1.0-M01.jar.txt	3
+org/apache/commons/pool2/impl/GenericKeyedObjectPool/setConfig(org.apache.commons.pool2.impl.GenericKeyedObjectPoolConfig)@g_neo4j-collections-3.1.0-M01.jar.txt	4
+org/apache/commons/pool2/impl/GenericKeyedObjectPool/evict()@g_neo4j-collections-3.1.0-M01.jar.txt	1

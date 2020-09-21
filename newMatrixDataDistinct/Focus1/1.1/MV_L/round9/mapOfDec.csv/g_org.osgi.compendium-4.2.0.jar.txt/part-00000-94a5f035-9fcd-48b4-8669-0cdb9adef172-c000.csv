@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/FastMap/clear()@g_plexus-utils-1.1.jar.txt	2
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_plexus-utils-1.0.4.jar.txt	1
+org/codehaus/plexus/util/FileUtils/copyURLToFile(java.net.URL,java.io.File)@g_plexus-utils-1.1.jar.txt	4
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_plexus-utils-1.1.jar.txt	0
+org/osgi/service/monitor/StatusVariable/checkId(java.lang.String,java.lang.String)@g_plexus-utils-1.1.jar.txt	3

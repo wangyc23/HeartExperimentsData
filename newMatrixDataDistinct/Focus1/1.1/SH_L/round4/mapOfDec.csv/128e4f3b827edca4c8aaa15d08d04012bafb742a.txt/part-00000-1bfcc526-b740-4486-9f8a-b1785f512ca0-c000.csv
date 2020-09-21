@@ -1,0 +1,5 @@
+org/apache/kylin/rest/controller/BaseControllerTest/testBasics()@00141ed7c42773157619902f1786bacd5b96bb4c.txt	0
+org/apache/kylin/rest/controller/CubeController/saveCubeDesc(org.apache.kylin.rest.request.CubeRequest)@00141ed7c42773157619902f1786bacd5b96bb4c.txt	1
+oops/references/App243/main(java.lang.String[])@00141ed7c42773157619902f1786bacd5b96bb4c.txt	3
+org/apache/kylin/storage/filter/FilterBaseTest/buildAndFilter(java.util.List)@00141ed7c42773157619902f1786bacd5b96bb4c.txt	2
+org/apache/kylin/common/util/ImmutableBitSet/mutable()@00141ed7c42773157619902f1786bacd5b96bb4c.txt	4

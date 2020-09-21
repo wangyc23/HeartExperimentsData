@@ -1,0 +1,5 @@
+org/apache/tools/ant/types/AbstractFileSet/getDataTypeName()@g_activation-1.1.1.jar.txt	4
+org/apache/tools/ant/taskdefs/Checksum/validateAndExecute()@g_activation-1.1.1.jar.txt	1
+org/apache/tools/ant/taskdefs/BuildNumber/loadProperties()@g_activation-1.1.1.jar.txt	3
+com/sun/activation/registries/LineTokenizer/nextToken()@g_activation-1.1.1.jar.txt	0
+com/sun/activation/registries/MailcapFile/parse(java.io.Reader)@g_activation-1.1.1.jar.txt	2

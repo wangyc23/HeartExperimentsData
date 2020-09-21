@@ -1,0 +1,5 @@
+org/apache/jena/sparql/lang/ParserBase/stripSign(org.apache.jena.graph.Node)@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	3
+org/apache/jena/sparql/util/FmtUtils/stringForLiteral(java.lang.StringBuilder,org.apache.jena.graph.Node_Literal,org.apache.jena.sparql.serializer.SerializationContext)@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	2
+org/apache/jena/sparql/util/FmtUtils/stringForLiteral(java.lang.StringBuilder,org.apache.jena.graph.Node_Literal,org.apache.jena.sparql.serializer.SerializationContext)@g_jena-arq-3.5.0-SNAPSHOT.jar.txt	4
+org/apache/jena/riot/tokens/Token/tokenForNode(org.apache.jena.graph.Node,java.lang.String,org.apache.jena.riot.system.PrefixMap)@g_jena-arq-3.5.0-20171014.100206-28.jar.txt	0
+org/apache/jena/riot/tokens/Token/tokenForNode(org.apache.jena.graph.Node,java.lang.String,org.apache.jena.riot.system.PrefixMap)@g_jena-arq-3.5.0-SNAPSHOT.jar.txt	1

@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/lang/Long/valueOf(long)
+org/apache/commons/configuration/AbstractConfiguration/getString(java.lang.String)
+java/lang/String/length()

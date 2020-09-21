@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/lang/String/regionMatches(boolean,int,java.lang.String,int,int)
+java/lang/String/length()
+javax/servlet/http/HttpServletResponse/sendError(int)

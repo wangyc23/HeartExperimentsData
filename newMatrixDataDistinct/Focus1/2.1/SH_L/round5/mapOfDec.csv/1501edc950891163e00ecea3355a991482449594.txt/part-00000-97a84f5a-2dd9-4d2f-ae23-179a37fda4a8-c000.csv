@@ -1,0 +1,5 @@
+com/guillaumecl/caskdays/Main/configureJedis(com.guillaumecl.caskdays.Config)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0
+com/harishkannarao/angularjs/webapp/step/PhoneDetailsPageSteps/I_should_see_dimensions_list_as_below_on_phone_details_page(java.util.List)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2
+com/harishkannarao/angularjs/restapi/step/PhoneByIdResourceSteps/I_should_see_hardware_physicalKeyboard_as_from_phone_by_id_resource(java.lang.Boolean)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1
+com/harishkannarao/angularjs/webapp/step/PhoneDetailsPageSteps/I_should_see_connectivity_cell_as_below_on_phone_details_page(java.lang.String)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4
+com/exercise/socialconnection/repository/Neo4jPersonRepository/findPath(com.exercise.socialconnection.core.model.Person,com.exercise.socialconnection.core.model.Person)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3

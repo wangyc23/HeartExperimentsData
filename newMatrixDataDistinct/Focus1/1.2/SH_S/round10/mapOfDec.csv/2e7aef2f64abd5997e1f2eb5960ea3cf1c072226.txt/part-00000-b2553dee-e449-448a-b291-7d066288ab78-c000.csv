@@ -1,0 +1,5 @@
+info/xiaohei/www/mahout/mr/recommend/RecommendUtil/filteOutDateRecores(java.lang.String)@0deb6f62ef6400ecb7d3b513d4d3429f72a72b4d.txt	0
+info/xiaohei/www/mr/posnet/LineFormater/format(java.lang.String,java.lang.Boolean,java.lang.String,java.lang.String[])@0deb6f62ef6400ecb7d3b513d4d3429f72a72b4d.txt	2
+info/xiaohei/www/mr/posnet/Reducer/reduce(info.xiaohei.www.mr.kpi.Text,java.lang.Iterable,info.xiaohei.www.mr.kpi.Context)@0deb6f62ef6400ecb7d3b513d4d3429f72a72b4d.txt	1
+info/xiaohei/www/mr/friendrecommend/FriendRecommend/FriendRecommendReducer/reduce(info.xiaohei.www.mr.kpi.Text,java.lang.Iterable,info.xiaohei.www.mr.kpi.Context)@0deb6f62ef6400ecb7d3b513d4d3429f72a72b4d.txt	4
+info/xiaohei/www/mr/recommend/Recommend/main(java.lang.String[])@0deb6f62ef6400ecb7d3b513d4d3429f72a72b4d.txt	3

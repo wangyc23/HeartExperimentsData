@@ -1,0 +1,4 @@
+org/openqa/selenium/WebElement/click()
+com/vaadin/testbench/ElementQuery/first()
+org/openqa/selenium/By/tagName(java.lang.String)
+org/openqa/selenium/WebElement/sendKeys(java.lang.CharSequence[])

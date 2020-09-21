@@ -1,0 +1,5 @@
+org/apache/jena/datatypes/xsd/XSDDatatype/loadUserDefined(org.apache.xerces.xni.parser.XMLInputSource,org.apache.jena.datatypes.TypeMapper)@g_jena-core-3.5.0.jar.txt	4
+org/apache/jena/reasoner/rulesys/impl/FRuleEngine/matchClauseList(java.util.List,org.apache.jena.reasoner.rulesys.impl.BFRuleContext)@g_jena-core-3.4.0.jar.txt	2
+org/apache/jena/util/ResourceUtils/renameResource(org.apache.jena.rdf.model.Resource,java.lang.String)@g_jena-core-3.4.0.jar.txt	0
+org/apache/jena/datatypes/xsd/XSDDatatype/loadUserDefined(org.apache.xerces.xni.parser.XMLInputSource,org.apache.jena.datatypes.TypeMapper)@g_jena-core-3.4.0.jar.txt	1
+org/apache/jena/util/ResourceUtils/renameResource(org.apache.jena.rdf.model.Resource,java.lang.String)@g_jena-core-3.5.0.jar.txt	3

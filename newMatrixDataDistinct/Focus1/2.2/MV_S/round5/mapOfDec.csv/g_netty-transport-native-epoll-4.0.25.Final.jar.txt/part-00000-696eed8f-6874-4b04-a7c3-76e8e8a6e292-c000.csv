@@ -1,0 +1,5 @@
+io/netty/channel/socket/nio/NioDatagramChannel/doReadMessages(java.util.List)@g_netty-transport-4.1.7.Final.jar.txt	1
+io/netty/channel/nio/AbstractNioChannel/newDirectBuffer(io.netty.util.ReferenceCounted,io.netty.buffer.ByteBuf)@g_netty-transport-4.1.7.Final.jar.txt	3
+io/netty/channel/socket/oio/OioDatagramChannel/doWrite(io.netty.channel.ChannelOutboundBuffer)@g_netty-transport-4.1.7.Final.jar.txt	2
+io/netty/channel/CoalescingBufferQueue/remove(int,io.netty.channel.ChannelPromise)@g_netty-transport-4.1.7.Final.jar.txt	0
+io/netty/handler/codec/compression/JdkZlibDecoder/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@g_netty-codec-4.0.27.Final.jar.txt	4

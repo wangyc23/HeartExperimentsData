@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/binders/TypeConverterMap/getTypeConverter(com.google.inject.TypeLiteral)@g_guice-bean-binders-2.3.0.jar.txt	3
+org/eclipse/sisu/reflect/MildValues/entrySet()@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	0
+org/eclipse/sisu/scanners/index/SisuIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	4
+org/eclipse/sisu/binders/TypeConverterMap/getTypeConverter(com.google.inject.TypeLiteral)@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	2
+org/eclipse/sisu/reflect/MildKeys/entrySet()@g_org.eclipse.sisu.inject-0.0.0.M2a.jar.txt	1

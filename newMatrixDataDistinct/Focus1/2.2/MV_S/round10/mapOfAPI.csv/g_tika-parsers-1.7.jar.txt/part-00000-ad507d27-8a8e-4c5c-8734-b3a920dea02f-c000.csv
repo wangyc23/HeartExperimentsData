@@ -1,0 +1,4 @@
+0	java/io/InputStream/close()
+1	org/bouncycastle/cms/CMSTypedStream/getContentStream()
+2	org/bouncycastle/cms/CMSSignedDataParser/CMSSignedDataParser(java.io.InputStream)
+3	org/apache/tika/io/CloseShieldInputStream/CloseShieldInputStream(java.io.InputStream)

@@ -1,0 +1,4 @@
+com/elastisys/scale/cloudpool/commons/basepool/driver/DriverConfig/DriverConfig(java.lang.String,com.elastisys.scale.cloudpool.kubernetes.types.JsonObject,com.elastisys.scale.cloudpool.kubernetes.types.JsonObject)
+com/elastisys/scale/cloudpool/openstack/driver/OpenStackPoolDriver/configure(com.elastisys.scale.cloudpool.commons.basepool.driver.DriverConfig)
+java/util/List/size()
+com/elastisys/scale/cloudpool/openstack/driver/config/ProvisioningTemplate/toJson()

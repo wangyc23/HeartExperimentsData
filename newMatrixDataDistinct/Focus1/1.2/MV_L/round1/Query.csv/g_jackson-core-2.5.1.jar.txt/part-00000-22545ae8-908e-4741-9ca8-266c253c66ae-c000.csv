@@ -1,0 +1,4 @@
+com/fasterxml/jackson/core/json/ReaderBasedJsonParser/resetAsNaN(java.lang.String,double)
+com/fasterxml/jackson/core/json/ReaderBasedJsonParser/_reportError(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/StringBuilder/append(char)

@@ -1,0 +1,5 @@
+org/apache/batik/anim/dom/SVGOMDocument/getTitle()@g_batik-anim-1.8.jar.txt	2
+org/apache/batik/bridge/svg12/XPathPatternContentSelector/SelectedNodes/update(org.w3c.dom.Node)@g_batik-bridge-1.7.jar.txt	3
+org/apache/batik/bridge/SVGUtilities/getDescription(org.w3c.dom.svg.SVGElement)@g_batik-bridge-1.7.jar.txt	4
+org/apache/batik/bridge/svg12/ContentManager/update(boolean,org.w3c.dom.Node)@g_batik-bridge-1.7.jar.txt	1
+org/apache/batik/anim/dom/XBLEventSupport/fireHandlerGroupEventListeners(org.apache.batik.dom.events.NodeEventTarget,org.apache.batik.dom.events.AbstractEvent,boolean,java.util.HashSet,java.util.HashSet)@g_batik-anim-1.8.jar.txt	0

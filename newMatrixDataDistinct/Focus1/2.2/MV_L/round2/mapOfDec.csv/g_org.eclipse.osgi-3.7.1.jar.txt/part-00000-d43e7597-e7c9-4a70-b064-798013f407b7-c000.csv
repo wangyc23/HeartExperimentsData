@@ -1,0 +1,5 @@
+org/jdom/input/SAXBuilder/fileToURL(java.io.File)@g_jdom-1.0.jar.txt	1
+org/apache/log4j/FileAppender/setFile(java.lang.String,boolean,boolean,int)@g_log4j-1.2.12.jar.txt	0
+org/apache/log4j/DailyRollingFileAppender/rollOver()@g_log4j-1.2.12.jar.txt	4
+org/apache/log4j/lf5/viewer/configure/MRUFileManager/load()@g_log4j-1.2.12.jar.txt	3
+org/apache/log4j/net/SocketServer/configureHierarchy(java.net.InetAddress)@g_log4j-1.2.12.jar.txt	2

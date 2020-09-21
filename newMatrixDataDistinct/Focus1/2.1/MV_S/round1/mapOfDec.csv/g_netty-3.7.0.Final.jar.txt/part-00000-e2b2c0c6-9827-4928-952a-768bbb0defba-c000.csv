@@ -1,0 +1,5 @@
+hidden/io/netty/channel/nio/NioEventLoop/select(boolean)@g_xwiki-contrib-websocket-1.7.jar.txt	0
+org/jboss/netty/util/HashedWheelTimer/stop()@g_xwiki-contrib-websocket-1.7.jar.txt	4
+hidden/io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker00/newHandshakeRequest()@g_xwiki-contrib-websocket-1.7.jar.txt	3
+hidden/io/netty/util/HashedWheelTimer/stop()@g_xwiki-contrib-websocket-1.7.jar.txt	2
+hidden/io/netty/util/concurrent/SingleThreadEventExecutor/2/run()@g_xwiki-contrib-websocket-1.7.jar.txt	1

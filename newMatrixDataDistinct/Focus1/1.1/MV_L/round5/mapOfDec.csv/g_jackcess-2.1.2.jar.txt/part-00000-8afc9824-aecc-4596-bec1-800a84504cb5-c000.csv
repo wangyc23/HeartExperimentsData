@@ -1,0 +1,5 @@
+com/healthmarketscience/jackcess/impl/TableImpl/readColumnDefinitions(java.nio.ByteBuffer,short)@g_jackcess-2.1.8.jar.txt	1
+com/healthmarketscience/jackcess/util/ImportUtil/importReader(java.io.BufferedReader,com.healthmarketscience.jackcess.Database,java.lang.String,java.lang.String,char,com.healthmarketscience.jackcess.util.ImportFilter,boolean,boolean)@g_jackcess-2.1.8.jar.txt	0
+com/healthmarketscience/jackcess/impl/IndexData/getName()@g_jackcess-2.1.8.jar.txt	2
+com/healthmarketscience/jackcess/impl/IndexPageCache/updateEntry(com.healthmarketscience.jackcess.impl.IndexPageCache$CacheDataPage,int,com.healthmarketscience.jackcess.impl.IndexData$Entry,com.healthmarketscience.jackcess.impl.IndexPageCache$UpdateType)@g_jackcess-2.1.8.jar.txt	4
+com/healthmarketscience/jackcess/impl/FKEnforcer/initialize()@g_jackcess-2.1.8.jar.txt	3

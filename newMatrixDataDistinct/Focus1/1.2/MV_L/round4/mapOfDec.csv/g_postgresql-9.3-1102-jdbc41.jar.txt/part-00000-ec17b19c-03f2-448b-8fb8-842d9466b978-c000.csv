@@ -1,0 +1,5 @@
+com/mysql/jdbc/jdbc2/optional/JDBC4PreparedStatementWrapper/unwrap(java.lang.Class)@g_mysql-connector-java-5.1.6.jar.txt	4
+com/mysql/jdbc/CharsetMapping/populateMapWithKeyValuePairs(java.lang.String,java.util.Map,boolean,boolean)@g_mysql-connector-java-5.1.6.jar.txt	3
+com/mysql/jdbc/jdbc2/optional/MysqlDataSource/getReference()@g_mysql-connector-java-5.1.6.jar.txt	0
+com/mysql/jdbc/Util/stackTraceToString(java.lang.Throwable)@g_mysql-connector-java-5.1.6.jar.txt	2
+com/mysql/jdbc/jdbc2/optional/WrapperBase/ConnectionErrorFiringInvocationHandler/proxyIfInterfaceIsJdbc(java.lang.Object,java.lang.Class)@g_mysql-connector-java-5.1.6.jar.txt	1

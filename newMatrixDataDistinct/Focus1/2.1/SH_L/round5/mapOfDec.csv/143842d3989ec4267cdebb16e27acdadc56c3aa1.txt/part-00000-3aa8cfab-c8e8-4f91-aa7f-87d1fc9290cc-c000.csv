@@ -1,0 +1,5 @@
+com/howbuy/hadoop/mr/online/WebChannelPvNewsAll/main(java.lang.String[])@2c2710613270b565261a7770ad4d9d630b867e89.txt	3
+com/alibaba/datax/plugin/reader/odpsreader/util/OdpsUtil/getSlaveSessionForPartitionedTable(com.alibaba.datax.plugin.reader.odpsreader.util.Odps,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@2c2710613270b565261a7770ad4d9d630b867e89.txt	4
+com/alibaba/datax/plugin/reader/otsreader/utils/ReaderModelParser/parsePrimaryKeyValue(java.util.Map)@2c2710613270b565261a7770ad4d9d630b867e89.txt	2
+com/alibaba/datax/plugin/reader/odpsreader/util/IdAndKeyUtil/getAccessIdAndKeyFromEnv(com.alibaba.datax.common.util.Configuration,java.util.Map)@2c2710613270b565261a7770ad4d9d630b867e89.txt	0
+com/alibaba/datax/core/container/JobContainerTest/testMergeReaderAndWriterSlicesConfigs()@2c2710613270b565261a7770ad4d9d630b867e89.txt	1

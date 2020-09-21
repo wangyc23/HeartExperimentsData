@@ -1,0 +1,5 @@
+org/apache/maven/project/DefaultMavenProjectBuilder/createManagedVersionMap(java.lang.String,org.apache.maven.model.DependencyManagement,org.apache.maven.project.MavenProject)@g_maven-project-2.0.6.jar.txt	1
+org/apache/maven/project/DefaultMavenProjectBuilder/createManagedVersionMap(java.lang.String,org.apache.maven.model.DependencyManagement)@g_maven-project-2.0.4.jar.txt	3
+org/apache/maven/project/artifact/MavenMetadataSource/createArtifacts(org.apache.maven.artifact.factory.ArtifactFactory,java.util.List,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.project.MavenProject)@g_maven-project-2.0.4.jar.txt	0
+org/apache/maven/project/injection/DefaultProfileInjector/injectDependencies(org.apache.maven.model.Profile,org.apache.maven.model.Model)@g_maven-project-2.0.4.jar.txt	4
+org/apache/maven/project/artifact/MavenMetadataSource/createArtifacts(org.apache.maven.artifact.factory.ArtifactFactory,java.util.List,java.lang.String,org.apache.maven.artifact.resolver.filter.ArtifactFilter,org.apache.maven.project.MavenProject)@g_maven-project-2.0.6.jar.txt	2

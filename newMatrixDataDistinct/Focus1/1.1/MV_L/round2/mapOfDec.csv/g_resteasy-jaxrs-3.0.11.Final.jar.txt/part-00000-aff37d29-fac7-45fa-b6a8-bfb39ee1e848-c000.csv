@@ -1,0 +1,5 @@
+org/jboss/resteasy/util/Base64/encodeObject(java.io.Serializable,int)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	4
+org/jboss/resteasy/plugins/interceptors/encoding/ServerContentEncodingAnnotationFilter/aroundWriteTo(javax.ws.rs.ext.WriterInterceptorContext)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	3
+org/jboss/resteasy/plugins/delegates/CacheControlDelegate/toString(javax.ws.rs.core.CacheControl)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	0
+org/jboss/resteasy/client/core/extractors/ClientResponseProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_resteasy-jaxrs-3.0.8.Final.jar.txt	1
+org/jboss/resteasy/util/AcceptParser/parseCharset(java.lang.String)@g_resteasy-jaxrs-3.0.8.Final.jar.txt	2

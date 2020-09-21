@@ -1,0 +1,5 @@
+net/didion/jwnl/utilities/DictionaryToDatabaseWithUsageCount/storeIndexWords(java.util.Iterator)@g_jwnl-1.4_rc3.jar.txt	3
+net/didion/jwnl/utilities/DictionaryToDatabase/storeSynsets(java.util.Iterator)@g_jwnl-1.4_rc3.jar.txt	2
+net/didion/jwnl/utilities/DictionaryToDatabaseWithUsageCount/storeIndexWordSynsets()@g_jwnl-1.4_rc3.jar.txt	4
+net/didion/jwnl/utilities/DictionaryToDatabase/createTables(java.lang.String)@g_jwnl-1.4_rc3.jar.txt	1
+net/didion/jwnl/utilities/DictionaryToDatabase/storeIndexWordSynsets()@g_jwnl-1.4_rc3.jar.txt	0

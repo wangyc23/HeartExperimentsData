@@ -1,0 +1,5 @@
+org/apache/spark/sql/execution/QueryExecution/completeString(boolean)@g_spark-sql_2.11-2.2.0.jar.txt	0
+org/apache/spark/sql/internal/CatalogImpl/requireTableExists(java.lang.String,java.lang.String)@g_spark-sql_2.11-2.2.0.jar.txt	4
+org/apache/spark/sql/execution/datasources/parquet/ParquetSchemaConverter/convertPrimitiveField(org.apache.parquet.schema.PrimitiveType)@g_spark-sql_2.11-2.2.0.jar.txt	3
+org/apache/spark/sql/execution/datasources/csv/CSVOptions/getBool(java.lang.String,boolean)@g_spark-sql_2.11-2.2.0.jar.txt	2
+org/apache/spark/sql/execution/joins/SortMergeJoinExec/anonfun/createLeftVars/1/apply(scala.Tuple2)@g_spark-sql_2.11-2.2.0.jar.txt	1

@@ -1,0 +1,4 @@
+org/apache/http/impl/nio/reactor/BaseIOReactor/gracefulShutdown()
+java/util/Iterator/hasNext()
+org/apache/http/impl/nio/reactor/BaseIOReactor/hardShutdown()
+org/apache/http/nio/reactor/IOReactorStatus/compareTo(java.lang.Enum)

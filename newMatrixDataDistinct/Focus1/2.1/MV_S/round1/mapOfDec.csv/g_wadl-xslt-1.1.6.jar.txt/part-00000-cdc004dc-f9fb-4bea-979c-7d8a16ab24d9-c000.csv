@@ -1,0 +1,5 @@
+org/apache/lucene/geo/SimpleGeoJSONPolygonParser/parseString()@g_lucene-core-7.0.0.jar.txt	1
+net/java/truecommons/shed/PathNormalizer/normalize(java.lang.String)@g_truecommons-shed-2.5.0.jar.txt	2
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_lucene-core-7.0.0.jar.txt	4
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_lucene-core-7.0.0.jar.txt	3
+org/apache/lucene/analysis/WordlistLoader/getLines(java.io.InputStream,java.nio.charset.Charset)@g_lucene-core-7.0.0.jar.txt	0

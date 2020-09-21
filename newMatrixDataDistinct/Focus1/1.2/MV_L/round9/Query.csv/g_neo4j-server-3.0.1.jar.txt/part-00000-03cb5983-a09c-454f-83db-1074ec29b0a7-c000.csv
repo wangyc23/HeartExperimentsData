@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/neo4j/graphdb/traversal/TraversalDescription/expand(org.neo4j.graphdb.PathExpander)
+org/neo4j/graphdb/RelationshipType/withName(java.lang.String)
+org/neo4j/graphdb/PathExpanderBuilder/add(org.neo4j.graphdb.RelationshipType,org.neo4j.graphdb.Direction)

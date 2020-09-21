@@ -1,0 +1,4 @@
+java/lang/reflect/AccessibleObject/setAccessible(boolean)
+java/lang/reflect/Field/getName()
+java/lang/Class/newInstance()
+com/finaxys/finaxysplatform/persistence/hbase/QueuedObject/QueuedNestedEntity/QueuedNestedEntity(java.lang.Object,byte[],java.lang.String)

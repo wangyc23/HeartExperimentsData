@@ -1,0 +1,5 @@
+org/apache/maven/plugin/invoker/InvokerReport/executeReport(java.util.Locale)@g_maven-invoker-plugin-2.0.0.jar.txt	4
+org/apache/maven/plugin/dependency/fromConfiguration/AbstractFromConfigurationMojo/getProcessedArtifactItems(org.apache.maven.plugin.dependency.fromConfiguration.ProcessArtifactItemsRequest)@g_maven-dependency-plugin-2.8.jar.txt	1
+org/apache/maven/plugin/dependency/resolvers/HelpMojo/execute()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/invoker/HelpMojo/execute()@g_maven-invoker-plugin-2.0.0.jar.txt	3
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/reResolveArtifacts(org.apache.maven.project.MavenProject,java.util.Set,org.apache.maven.artifact.resolver.filter.ArtifactFilter)@g_maven-dependency-plugin-2.8.jar.txt	0

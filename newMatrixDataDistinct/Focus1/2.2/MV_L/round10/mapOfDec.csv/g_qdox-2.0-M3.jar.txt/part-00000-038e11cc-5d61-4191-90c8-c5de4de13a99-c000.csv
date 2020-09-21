@@ -1,0 +1,5 @@
+com/thoughtworks/qdox/model/impl/DefaultJavaMethod/getSignature(boolean,boolean)@g_qdox-2.0-M5.jar.txt	2
+org/springframework/expression/spel/ast/OpPlus/getValueInternal(org.springframework.expression.spel.ExpressionState)@g_spring-expression-4.0.9.RELEASE.jar.txt	3
+com/thoughtworks/qdox/model/impl/DefaultJavaField/toString()@g_qdox-2.0-M5.jar.txt	4
+com/thoughtworks/qdox/model/impl/DefaultJavaParameterizedType/getGenericCanonicalName()@g_qdox-2.0-M5.jar.txt	1
+com/thoughtworks/qdox/model/impl/DefaultJavaParameterizedType/getGenericFullyQualifiedName()@g_qdox-2.0-M5.jar.txt	0

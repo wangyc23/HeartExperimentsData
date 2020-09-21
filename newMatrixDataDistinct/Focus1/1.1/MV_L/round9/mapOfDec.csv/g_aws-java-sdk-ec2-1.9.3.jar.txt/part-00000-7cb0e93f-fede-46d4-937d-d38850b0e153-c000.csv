@@ -1,0 +1,5 @@
+com/amazonaws/services/autoscaling/model/transform/EnterStandbyRequestMarshaller/marshall(com.amazonaws.services.autoscaling.model.EnterStandbyRequest)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	2
+com/amazonaws/services/autoscaling/model/transform/DescribeTagsRequestMarshaller/marshall(com.amazonaws.services.autoscaling.model.DescribeTagsRequest)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	0
+com/amazonaws/services/autoscaling/model/transform/DescribeLifecycleHooksRequestMarshaller/marshall(com.amazonaws.services.autoscaling.model.DescribeLifecycleHooksRequest)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	3
+com/amazonaws/services/autoscaling/model/transform/DescribeAutoScalingGroupsRequestMarshaller/marshall(com.amazonaws.services.autoscaling.model.DescribeAutoScalingGroupsRequest)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	1
+com/amazonaws/services/autoscaling/model/transform/CreateOrUpdateTagsRequestMarshaller/marshall(com.amazonaws.services.autoscaling.model.CreateOrUpdateTagsRequest)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	4

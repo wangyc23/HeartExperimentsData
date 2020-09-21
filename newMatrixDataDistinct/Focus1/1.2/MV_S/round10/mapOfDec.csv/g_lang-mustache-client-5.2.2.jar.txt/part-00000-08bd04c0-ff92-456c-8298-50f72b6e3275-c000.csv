@@ -1,0 +1,5 @@
+org/elasticsearch/percolator/TransportMultiPercolateAction/doExecute(org.elasticsearch.percolator.MultiPercolateRequest,org.elasticsearch.action.ActionListener)@g_percolator-client-5.2.2.jar.txt	2
+org/elasticsearch/percolator/MultiPercolateRequest/add(org.elasticsearch.common.bytes.BytesReference,boolean)@g_percolator-client-5.2.2.jar.txt	4
+org/elasticsearch/percolator/PercolatorFieldMapper/parse(org.elasticsearch.index.mapper.ParseContext)@g_percolator-client-5.2.2.jar.txt	0
+org/elasticsearch/percolator/TransportPercolateAction/createSearchRequest(org.elasticsearch.percolator.PercolateRequest,org.elasticsearch.common.bytes.BytesReference,org.elasticsearch.search.aggregations.AggregatorParsers,org.elasticsearch.search.SearchExtRegistry,org.elasticsearch.common.xcontent.NamedXContentRegistry,org.elasticsearch.common.ParseFieldMatcher)@g_percolator-client-5.2.2.jar.txt	1
+org/elasticsearch/percolator/PercolateQueryBuilder/lambda$null$3(org.apache.lucene.index.LeafReader,org.elasticsearch.index.query.QueryShardContext,boolean,int)@g_percolator-client-5.2.2.jar.txt	3

@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/math/BigDecimal/negate()
+java/lang/Long/parseLong(java.lang.String)
+java/lang/Double/parseDouble(java.lang.String)

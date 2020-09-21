@@ -1,0 +1,5 @@
+jline/ArgumentCompletor/AbstractArgumentDelimiter/delimit(java.lang.String,int)@g_jline-1.0.jar.txt	3
+jline/SimpleCompletor/complete(java.lang.String,int,java.util.List)@g_jline-1.0.jar.txt	2
+jline/ArgumentCompletor/complete(java.lang.String,int,java.util.List)@g_jline-1.0.jar.txt	0
+jline/SimpleCompletor/getStrings(java.io.Reader)@g_jline-1.0.jar.txt	4
+jline/ConsoleRunner/main(java.lang.String[])@g_jline-1.0.jar.txt	1

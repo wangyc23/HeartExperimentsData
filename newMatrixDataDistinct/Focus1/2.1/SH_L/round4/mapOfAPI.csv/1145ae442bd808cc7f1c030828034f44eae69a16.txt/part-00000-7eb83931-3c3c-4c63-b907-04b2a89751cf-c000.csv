@@ -1,0 +1,6 @@
+0	es/uvigo/ei/sing/pandrugs/persistence/entity/UserDataset/presentUser()
+1	com/fasterxml/jackson/databind/ObjectMapper/readValue(java.lang.String,java.lang.Class)
+2	org/baeldung/jackson/dtos/MyDto/getStringValue()
+3	org/junit/Assert/assertThat(T,org.hamcrest.Matcher)
+4	com/fasterxml/jackson/databind/ObjectMapper/ObjectMapper()
+5	org/junit/Assert/assertNotNull(java.lang.Object)

@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/frontend/v3_0/parser/Base$RichRule0/$tilde$tilde(org.parboiled.scala.rules.ReductionRule1)
+org/parboiled/scala/rules/ReductionRule1/$bar(org.parboiled.scala.rules.ReductionRule1)
+org/parboiled/scala/rules/Rule0/$tilde(org.parboiled.scala.rules.Rule0)
+org/parboiled/scala/rules/Rule1/$tilde$greater(scala.Function1)

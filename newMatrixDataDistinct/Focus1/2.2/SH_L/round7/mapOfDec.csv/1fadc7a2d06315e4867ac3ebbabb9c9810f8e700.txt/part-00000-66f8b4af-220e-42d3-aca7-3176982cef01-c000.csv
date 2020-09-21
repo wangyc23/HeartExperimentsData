@@ -1,0 +1,5 @@
+demo/jms_greeter/server/GreeterJMSImpl/greetMeOneWay(java.lang.String)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+org/wso2/jaggery/integration/tests/JaggeryTestServerManager/copyArtifacts(java.lang.String)@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	2
+org/wso2/jaggery/integration/tests/wsmock/MockServicePublisher/main(java.lang.String[])@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	1
+org/wso2/jaggery/integration/tests/hostObjects/core/NativeJSONTestCase/testJSONObjectNumberArray()@0000fe75f15f6fd57b764e0bebce6c842a00905d.txt	0
+corba/client/Client/run(org.omg.CORBA.ORB,java.lang.String[])@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3

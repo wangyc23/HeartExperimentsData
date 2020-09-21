@@ -1,0 +1,5 @@
+org/xwiki/xar/internal/property/ListXarObjectPropertySerializer/read(javax.xml.stream.XMLStreamReader)@g_xwiki-platform-xar-7.0.jar.txt	0
+java_cup/runtime/lr_parser/report_error(java.lang.String,java.lang.Object)@g_xwiki-platform-xar-7.0.jar.txt	3
+java_cup/runtime/lr_parser/debug_stack()@g_xwiki-platform-xar-7.0.jar.txt	4
+org/xwiki/xar/XarPackage/writer(javax.xml.stream.XMLStreamWriter,java.lang.String)@g_xwiki-platform-xar-7.0.jar.txt	2
+org/xwiki/xar/internal/property/ListXarObjectPropertySerializer/read(javax.xml.stream.XMLStreamReader)@g_xwiki-platform-xar-7.1.1.jar.txt	1

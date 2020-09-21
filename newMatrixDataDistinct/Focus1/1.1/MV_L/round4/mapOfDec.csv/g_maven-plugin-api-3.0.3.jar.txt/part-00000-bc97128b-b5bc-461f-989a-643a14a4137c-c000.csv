@@ -1,0 +1,5 @@
+org/apache/maven/plugin/lifecycle/io/xpp3/LifecycleMappingsXpp3Reader/parseLifecycle(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-api-3.0.4.jar.txt	1
+org/apache/maven/plugin/lifecycle/io/xpp3/LifecycleMappingsXpp3Reader/parseExecution(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-api-3.0.5.jar.txt	4
+org/apache/maven/plugin/lifecycle/io/xpp3/LifecycleMappingsXpp3Reader/parseLifecycleConfiguration(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-api-3.0.4.jar.txt	3
+org/apache/maven/plugin/lifecycle/io/xpp3/LifecycleMappingsXpp3Reader/parseExecution(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-api-3.0.4.jar.txt	0
+org/apache/maven/plugin/lifecycle/io/xpp3/LifecycleMappingsXpp3Reader/parsePhase(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-plugin-api-3.0.4.jar.txt	2

@@ -1,0 +1,5 @@
+org/objectweb/asm/commons/Method/getMethod(java.lang.String,boolean)@g_xbean-asm5-shaded-4.4.jar.txt	4
+org/apache/xbean/asm5/commons/JSRInlinerAdapter/emitSubroutine(org.apache.xbean.asm5.commons.JSRInlinerAdapter$Instantiation,java.util.List,org.apache.xbean.asm5.tree.InsnList,java.util.List,java.util.List)@g_xbean-asm5-shaded-4.4.jar.txt	3
+org/apache/xbean/asm5/ClassWriter/a(java.lang.Object)@g_xbean-asm5-shaded-4.4.jar.txt	0
+org/apache/xbean/asm5/commons/Method/getMethod(java.lang.String,boolean)@g_xbean-asm5-shaded-4.4.jar.txt	2
+org/apache/xbean/asm5/commons/Method/map(java.lang.String,boolean)@g_xbean-asm5-shaded-4.4.jar.txt	1

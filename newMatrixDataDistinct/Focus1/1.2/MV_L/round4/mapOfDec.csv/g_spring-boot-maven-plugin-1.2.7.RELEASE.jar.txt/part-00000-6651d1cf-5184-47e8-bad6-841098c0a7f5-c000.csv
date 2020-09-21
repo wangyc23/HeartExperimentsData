@@ -1,0 +1,5 @@
+org/springframework/boot/maven/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_spring-boot-maven-plugin-1.2.3.RELEASE.jar.txt	2
+org/springframework/boot/maven/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)@g_spring-boot-maven-plugin-1.2.4.RELEASE.jar.txt	3
+org/springframework/boot/maven/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_spring-boot-maven-plugin-1.2.3.RELEASE.jar.txt	4
+org/springframework/boot/maven/HelpMojo/execute()@g_spring-boot-maven-plugin-1.2.3.RELEASE.jar.txt	0
+org/springframework/boot/maven/HelpMojo/execute()@g_spring-boot-maven-plugin-1.2.4.RELEASE.jar.txt	1

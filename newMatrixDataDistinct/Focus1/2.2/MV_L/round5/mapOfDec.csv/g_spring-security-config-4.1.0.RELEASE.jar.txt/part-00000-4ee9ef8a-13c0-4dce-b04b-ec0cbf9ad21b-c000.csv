@@ -1,0 +1,5 @@
+org/springframework/security/config/annotation/configuration/AutowireBeanFactoryObjectPostProcessor/postProcess(java.lang.Object)@g_spring-security-config-4.0.0.RELEASE.jar.txt	0
+org/springframework/security/config/authentication/AuthenticationManagerBeanDefinitionParser/parse(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-security-config-4.0.0.RELEASE.jar.txt	3
+org/springframework/security/config/annotation/web/socket/AbstractSecurityWebSocketMessageBrokerConfigurer/afterSingletonsInstantiated()@g_spring-security-config-4.0.0.RELEASE.jar.txt	2
+org/springframework/security/config/annotation/authentication/configurers/provisioning/UserDetailsManagerConfigurer/UserDetailsBuilder/roles(java.lang.String[])@g_spring-security-config-4.0.0.RELEASE.jar.txt	4
+org/springframework/security/config/annotation/configuration/AutowireBeanFactoryObjectPostProcessor/postProcess(java.lang.Object)@g_spring-security-config-4.0.1.RELEASE.jar.txt	1

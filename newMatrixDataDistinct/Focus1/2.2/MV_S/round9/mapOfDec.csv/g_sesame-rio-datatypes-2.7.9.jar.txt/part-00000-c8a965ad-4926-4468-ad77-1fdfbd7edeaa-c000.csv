@@ -1,0 +1,5 @@
+org/eclipse/rdf4j/rio/datatypes/VirtuosoGeometryDatatypeHandler/verifyDatatypeInternal(java.lang.String,org.eclipse.rdf4j.model.IRI)@g_csparsej-1.1.1.jar.txt	2
+org/openrdf/rio/datatypes/VirtuosoGeometryDatatypeHandler/verifyDatatypeInternal(java.lang.String,org.openrdf.model.URI)@g_csparsej-1.1.1.jar.txt	4
+edu/emory/mathcs/csparsej/tdcomplex/DZcs_load/cs_load(java.io.InputStream)@g_csparsej-1.1.1.jar.txt	0
+edu/emory/mathcs/csparsej/tdouble/Dcs_load/cs_load(java.io.InputStream,int)@g_csparsej-1.1.1.jar.txt	3
+org/eclipse/rdf4j/rio/datatypes/VirtuosoGeometryDatatypeHandler/verifyDatatypeInternal(java.lang.String,org.eclipse.rdf4j.model.IRI)@g_rdf4j-rio-datatypes-2.1.4.jar.txt	1

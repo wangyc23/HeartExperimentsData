@@ -1,0 +1,4 @@
+org/activiti/bpmn/model/FieldExtension/setFieldName(java.lang.String)
+org/slf4j/Logger/warn(java.lang.String,java.lang.Throwable)
+org/activiti/bpmn/model/FieldExtension/setExpression(java.lang.String)
+org/apache/commons/lang3/StringUtils/isNotEmpty(java.lang.CharSequence)

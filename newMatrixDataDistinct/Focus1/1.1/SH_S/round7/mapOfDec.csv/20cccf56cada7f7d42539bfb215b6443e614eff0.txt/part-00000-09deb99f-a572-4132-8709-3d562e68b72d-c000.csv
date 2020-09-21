@@ -1,0 +1,5 @@
+com/jetdrone/nashorn/next/RequireJSTest/testAnonCircular(xyz.jetdrone.vertx.factory.TestContext)@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	4
+com/jetdrone/nashorn/next/DummyLoader/main(java.lang.String)@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	0
+org/woelker/telemetrion/core/sensors/DiskSensorTest/testGetCurrentValues()@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	3
+xyz/jetdrone/vertx/factory/DummyLoader/config(com.jetdrone.nashorn.next.JsonObject)@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	1
+org/woelker/telemetrion/core/sensors/CpuSensorTest/testGetCurrentValuesInitial()@19dda24328fa5d7bcaf325a5e87314d41429de9e.txt	2

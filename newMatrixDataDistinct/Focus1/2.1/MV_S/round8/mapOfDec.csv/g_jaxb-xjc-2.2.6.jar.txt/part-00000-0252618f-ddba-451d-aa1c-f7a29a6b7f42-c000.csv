@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Checksum/addToIncludeFileMap(java.io.File)@g_resolver-20050927.jar.txt	3
+com/sun/tools/xjc/Driver/run(java.lang.String[],com.sun.tools.xjc.XJCListener)@g_resolver-20050927.jar.txt	1
+org/apache/tools/ant/filters/LineContainsRegExp/read()@g_resolver-20050927.jar.txt	4
+com/sun/tools/xjc/util/MimeTypeRange/merge(java.util.Collection)@g_resolver-20050927.jar.txt	0
+com/sun/codemodel/JCodeModel/TypeNameParser/parseTypeName()@g_resolver-20050927.jar.txt	2

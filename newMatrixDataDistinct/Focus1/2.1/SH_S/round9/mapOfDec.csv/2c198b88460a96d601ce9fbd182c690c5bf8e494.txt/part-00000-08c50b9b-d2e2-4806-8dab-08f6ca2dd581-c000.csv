@@ -1,0 +1,5 @@
+org/tmf/dsmapi/quote/QuoteAdminResource/count()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+org/tmf/dsmapi/commons/facade/AbstractFacade/create(T)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	0
+org/tmf/dsmapi/quote/model/Quote/getRelatedParty()@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+org/tmf/dsmapi/commons/workflow/Transition/to(E,E,E,E)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+org/tmf/dsmapi/quote/QuoteResource/findByCriteria(java.util.Map)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	1

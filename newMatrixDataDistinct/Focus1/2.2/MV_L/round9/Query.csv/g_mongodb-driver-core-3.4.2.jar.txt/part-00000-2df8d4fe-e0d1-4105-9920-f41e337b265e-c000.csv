@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/bson/ByteBuf/get(byte[],int,int)
+org/bson/ByteBuf/duplicate()
+java/io/OutputStream/write(byte[],int,int)

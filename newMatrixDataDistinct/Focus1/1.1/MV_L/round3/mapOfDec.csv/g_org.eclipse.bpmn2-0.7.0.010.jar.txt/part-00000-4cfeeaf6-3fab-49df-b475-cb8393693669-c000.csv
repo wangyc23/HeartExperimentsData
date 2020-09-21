@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/emftvm/impl/OperationImpl/toString()@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	3
+org/eclipse/m2m/atl/emftvm/jit/CodeBlockJIT/generateCheckMonitor(org.objectweb.asm.MethodVisitor,int)@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	4
+org/eclipse/m2m/atl/emftvm/impl/ModuleImpl/toString()@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	1
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/Lookup/featureKind(org.eclipse.emf.ecore.EStructuralFeature)@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	0
+org/eclipse/m2m/atl/emftvm/jit/ByteCodeSwitch/generateInvoke0(org.eclipse.m2m.atl.emftvm.Invoke)@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	2

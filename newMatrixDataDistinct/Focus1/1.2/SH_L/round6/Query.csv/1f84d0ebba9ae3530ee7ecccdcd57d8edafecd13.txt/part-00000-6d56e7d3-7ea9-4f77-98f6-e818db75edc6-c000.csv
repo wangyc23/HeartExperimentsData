@@ -1,0 +1,4 @@
+org/sculptor/framework/domain/JodaAuditable/setLastUpdated(org.sculptor.dddsample.cargo.domain.DateTime)
+org/sculptor/framework/domain/JodaAuditable/getCreatedBy()
+org/sculptor/framework/domain/JodaAuditable/setLastUpdatedBy(java.lang.String)
+org/sculptor/framework/domain/JodaAuditable/setCreatedDate(org.sculptor.dddsample.cargo.domain.DateTime)

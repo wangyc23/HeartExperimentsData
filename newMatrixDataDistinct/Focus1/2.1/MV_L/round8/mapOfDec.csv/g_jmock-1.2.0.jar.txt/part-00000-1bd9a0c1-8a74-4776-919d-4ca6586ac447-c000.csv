@@ -1,0 +1,5 @@
+org/springframework/util/SystemPropertyUtils/resolvePlaceholders(java.lang.String)@g_spring-core-2.5.6.jar.txt	3
+org/springframework/core/io/support/PropertiesLoaderSupport/loadProperties(java.util.Properties)@g_spring-core-2.5.6.jar.txt	4
+org/springframework/util/ClassUtils/getDescriptiveType(java.lang.Object)@g_spring-core-2.5.6.jar.txt	1
+org/springframework/core/Constants/getValues(java.lang.String)@g_spring-core-2.5.6.jar.txt	0
+org/springframework/core/io/support/PathMatchingResourcePatternResolver/doRetrieveMatchingFiles(java.lang.String,java.io.File,java.util.Set)@g_spring-core-2.5.6.jar.txt	2

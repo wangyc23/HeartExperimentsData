@@ -1,0 +1,4 @@
+0	java/nio/ByteBuffer/position(int)
+1	java/nio/channels/WritableByteChannel/write(java.nio.ByteBuffer)
+2	java/nio/ByteBuffer/put(byte)
+3	java/lang/System/arraycopy(java.lang.Object,int,java.lang.Object,int,int)

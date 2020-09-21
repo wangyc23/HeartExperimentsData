@@ -1,0 +1,5 @@
+javax/enterprise/util/AnnotationLiteral/hashCode()@g_cdi-api-1.0.jar.txt	0
+javax/enterprise/util/AnnotationLiteral/invoke(java.lang.reflect.Method,java.lang.Object)@g_cdi-api-1.0.jar.txt	4
+org/glassfish/hk2/api/MultiException/getMessage()@g_cdi-api-1.0.jar.txt	3
+javax/enterprise/util/AnnotationLiteral/getMembers()@g_cdi-api-1.0.jar.txt	2
+org/glassfish/hk2/api/AnnotationLiteral/hashCode()@g_hk2-api-2.2.0-b21.jar.txt	1

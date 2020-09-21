@@ -1,0 +1,5 @@
+org/apache/maven/plugin/dependency/PurgeLocalRepositoryMojo/manualPurge(java.util.List)@g_maven-dependency-plugin-2.8.jar.txt	4
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportMojo/executeReport(java.util.Locale)@g_maven-dependency-plugin-2.8.jar.txt	0
+org/apache/rat/mp/AbstractRatMojo/mergeLicenseMatchers()@g_maven-dependency-plugin-2.8.jar.txt	2
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportMojo/executeReport(java.util.Locale)@g_maven-dependency-plugin-2.10.jar.txt	1
+org/apache/maven/plugin/dependency/tree/TreeMojo/serializeVerboseDependencyTree(org.apache.maven.shared.dependency.tree.DependencyNode)@g_maven-dependency-plugin-2.8.jar.txt	3

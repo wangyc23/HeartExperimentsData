@@ -1,0 +1,4 @@
+org/jboss/forge/shell/Shell/execute(java.lang.String)
+org/jboss/forge/project/dependencies/DependencyBuilder/setScopeType(org.jboss.forge.project.dependencies.ScopeType)
+org/jboss/forge/project/facets/DependencyFacet/hasDependency(org.jboss.forge.project.dependencies.Dependency)
+org/jboss/forge/project/facets/DependencyFacet/getDependency(org.jboss.forge.project.dependencies.Dependency)

@@ -1,0 +1,5 @@
+org/h2/store/Data/readValue()@g_h2-1.4.178.jar.txt	3
+org/h2/server/web/WebServer/getSession(java.lang.String)@g_h2-1.4.178.jar.txt	1
+org/h2/tools/Recover/createTemporaryTable(java.io.PrintWriter)@g_h2-1.4.178.jar.txt	2
+org/h2/mvstore/MVStore/storeNow()@g_h2-1.4.178.jar.txt	4
+liquibase/servicelocator/AssignableToPackageScanFilter/toString()@g_liquibase-core-2.0.5.jar.txt	0

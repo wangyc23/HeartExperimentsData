@@ -1,0 +1,5 @@
+com/google/common/io/Files/createTempDir()@g_guava-22.0.jar.txt	1
+com/google/common/collect/ConcurrentHashMultiset/add(java.lang.Object,int)@g_guava-21.0.jar.txt	4
+com/google/common/reflect/TypeResolver/WildcardCapturer/capture(java.lang.reflect.Type)@g_guava-21.0.jar.txt	2
+com/google/common/io/BaseEncoding/StandardBaseEncoding/decodeTo(byte[],java.lang.CharSequence)@g_guava-21.0.jar.txt	3
+com/google/common/io/Files/createTempDir()@g_guava-21.0.jar.txt	0

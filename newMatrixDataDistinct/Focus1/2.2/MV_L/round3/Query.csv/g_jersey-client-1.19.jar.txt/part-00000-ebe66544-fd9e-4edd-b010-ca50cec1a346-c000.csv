@@ -1,0 +1,4 @@
+java/io/InputStream/read(byte[])
+java/lang/StringBuilder/append(java.lang.String)
+java/io/InputStream/reset()
+java/lang/StringBuilder/StringBuilder()

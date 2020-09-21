@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/Iterator/hasNext()
+java/util/SortedMap/keySet()
+java/util/SortedMap/get(java.lang.Object)

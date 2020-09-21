@@ -1,0 +1,5 @@
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	3
+org/osgi/framework/AdaptPermissionCollection/add(java.security.Permission)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	2
+org/eclipse/osgi/container/ModuleResolver/ResolveProcess/resolveNonPayLoadFragments()@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	1
+org/eclipse/osgi/container/ModuleDatabase/Persistence/addToWriteTable(java.lang.Object,java.util.Map)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	4
+org/eclipse/osgi/internal/container/Capabilities/NamespaceSet/findCapabilities(org.osgi.resource.Requirement)@g_org.eclipse.osgi-3.10.100.v20150529-1857.jar.txt	0

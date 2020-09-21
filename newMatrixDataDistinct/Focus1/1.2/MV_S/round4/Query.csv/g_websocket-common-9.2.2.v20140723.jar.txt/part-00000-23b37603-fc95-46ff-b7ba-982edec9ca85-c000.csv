@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/eclipse/jetty/websocket/api/extensions/ExtensionFactory/newInstance(org.eclipse.jetty.websocket.api.extensions.ExtensionConfig)
+java/util/Iterator/next()
+org/eclipse/jetty/websocket/api/extensions/Extension/getName()

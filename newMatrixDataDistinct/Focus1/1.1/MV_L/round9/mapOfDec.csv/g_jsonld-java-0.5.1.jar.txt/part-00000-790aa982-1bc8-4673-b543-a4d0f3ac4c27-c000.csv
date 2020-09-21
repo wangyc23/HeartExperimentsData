@@ -1,0 +1,5 @@
+com/github/jsonldjava/core/RDFDatasetUtils/unescape(java.lang.String)@g_jsonld-java-0.9.0.jar.txt	2
+com/github/jsonldjava/impl/TurtleRDFParser/State/advanceLineNumber()@g_jsonld-java-0.9.0.jar.txt	1
+com/github/jsonldjava/impl/TurtleRDFParser/parse(java.lang.Object)@g_jsonld-java-0.9.0.jar.txt	3
+com/github/jsonldjava/core/RDFDatasetUtils/parseNQuads(java.lang.String)@g_jsonld-java-0.9.0.jar.txt	4
+com/github/jsonldjava/impl/TurtleRDFParser/State/advanceLinePosition(int)@g_jsonld-java-0.9.0.jar.txt	0

@@ -1,0 +1,5 @@
+service/DictionaryService/save(entity.Dictionary)@0410c48ebc177c0a770da020cabfe2151f29f449.txt	4
+org/apache/hadoop/mapred/ResourcePolicy/resourceOffers(org.apache.mesos.SchedulerDriver,java.util.List)@0410c48ebc177c0a770da020cabfe2151f29f449.txt	0
+org/apache/hadoop/mapred/MesosExecutor/killTask(org.apache.mesos.ExecutorDriver,org.apache.mesos.Protos.TaskID)@0410c48ebc177c0a770da020cabfe2151f29f449.txt	3
+service/WordService/findWordByName(java.lang.String,java.lang.String)@0410c48ebc177c0a770da020cabfe2151f29f449.txt	2
+org/apache/hadoop/mapred/ResourcePolicy/resourceOffers(org.apache.mesos.SchedulerDriver,java.util.List)@2a0218ec639391b82c04660b7732bfc54fcf219b.txt	1

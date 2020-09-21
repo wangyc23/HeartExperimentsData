@@ -1,0 +1,5 @@
+com/yahoo/ycsb/db/JdbcDBClient/init()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	4
+com/yahoo/ycsb/db/CassandraClient10/main(java.lang.String[])@000d60bfcc882f5c3c0181d9bd574b9633933f85.txt	1
+com/yahoo/ycsb/db/CassandraClient10/main(java.lang.String[])@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	0
+com/yahoo/ycsb/db/JdbcDBClient/delete(java.lang.String,java.lang.String)@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	3
+com/yahoo/ycsb/db/SolrClient/init()@1307a94dd79e8fa986e21a7040455a2db6d5f4e5.txt	2

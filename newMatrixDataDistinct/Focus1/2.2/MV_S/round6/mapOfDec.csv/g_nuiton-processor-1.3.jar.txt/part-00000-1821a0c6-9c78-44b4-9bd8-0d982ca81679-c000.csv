@@ -1,0 +1,5 @@
+org/springframework/instrument/classloading/ShadowingClassLoader/doLoadClass(java.lang.String)@g_spring-2.5.6.jar.txt	0
+de/danielnaber/jwordsplitter/tools/FastObjectSaver/load(java.lang.String)@g_jwordsplitter-4.1.jar.txt	3
+org/springframework/jdbc/core/metadata/GenericCallMetaDataProvider/processProcedureColumns(java.sql.DatabaseMetaData,java.lang.String,java.lang.String,java.lang.String)@g_spring-2.5.6.jar.txt	2
+de/danielnaber/jwordsplitter/GermanInterfixDisambiguator/disambiguate(java.util.List)@g_jwordsplitter-4.1.jar.txt	4
+org/springframework/orm/jpa/persistenceunit/PersistenceUnitReader/determinePersistenceUnitRootUrl(org.springframework.core.io.Resource)@g_spring-2.5.6.jar.txt	1

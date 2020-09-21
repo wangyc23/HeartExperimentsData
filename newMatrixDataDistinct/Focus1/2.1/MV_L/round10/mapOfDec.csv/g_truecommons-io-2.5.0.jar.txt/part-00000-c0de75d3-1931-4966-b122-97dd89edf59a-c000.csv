@@ -1,0 +1,5 @@
+io/netty/buffer/ByteBufUtil/encodeString0(io.netty.buffer.ByteBufAllocator,boolean,java.nio.CharBuffer,java.nio.charset.Charset)@g_netty-buffer-4.0.27.Final.jar.txt	3
+net/java/truecommons/io/Streams/cat(java.io.InputStream,java.io.OutputStream)@g_netty-buffer-4.0.25.Final.jar.txt	4
+io/netty/buffer/Unpooled/wrappedBuffer(java.nio.ByteBuffer)@g_netty-buffer-4.0.25.Final.jar.txt	0
+io/netty/buffer/Unpooled/wrappedBuffer(java.nio.ByteBuffer)@g_netty-buffer-4.0.27.Final.jar.txt	2
+io/netty/buffer/ByteBufUtil/encodeString0(io.netty.buffer.ByteBufAllocator,boolean,java.nio.CharBuffer,java.nio.charset.Charset)@g_netty-buffer-4.0.25.Final.jar.txt	1

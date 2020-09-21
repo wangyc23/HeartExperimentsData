@@ -1,0 +1,4 @@
+org/commonjava/maven/galley/maven/model/view/MavenPomView/resolveExpressions(java.lang.String,java.lang.String[])
+org/w3c/dom/NodeList/getLength()
+java/util/List/isEmpty()
+java/util/List/get(int)

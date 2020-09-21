@@ -1,0 +1,4 @@
+java/lang/Class/isAssignableFrom(java.lang.Class)
+java/lang/reflect/Constructor/getGenericParameterTypes()
+java/lang/StringBuilder/StringBuilder()
+java/lang/reflect/Method/getGenericParameterTypes()

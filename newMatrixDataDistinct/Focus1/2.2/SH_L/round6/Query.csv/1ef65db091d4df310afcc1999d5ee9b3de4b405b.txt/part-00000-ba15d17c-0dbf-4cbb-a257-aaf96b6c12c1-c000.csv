@@ -1,0 +1,4 @@
+ca/intelliware/ihtsdo/mlds/domain/ReleasePackage/getPriority()
+ca/intelliware/ihtsdo/mlds/service/ReleasePackagePrioritizerTest/withIhtsdoPackage(long,java.lang.Integer)
+org/hamcrest/CoreMatchers/equalTo(T)
+ca/intelliware/ihtsdo/mlds/service/ReleasePackagePrioritizer/prioritize(ca.intelliware.ihtsdo.mlds.domain.ReleasePackage,java.lang.Integer)

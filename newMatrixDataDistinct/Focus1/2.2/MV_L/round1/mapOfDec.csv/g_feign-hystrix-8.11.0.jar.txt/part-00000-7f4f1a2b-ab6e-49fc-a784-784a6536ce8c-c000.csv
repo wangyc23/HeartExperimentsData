@@ -1,0 +1,5 @@
+org/netlib/generate/JavaGenerator/parseJavadocDescription(java.lang.reflect.Method,java.lang.String)@g_hystrix-metrics-event-stream-1.4.4.jar.txt	4
+org/netlib/generate/JavaGenerator/createTopWrapper(java.lang.reflect.Method,java.util.List,java.lang.String)@g_netlib-java-0.9.3.jar.txt	2
+org/netlib/generate/JavaGenerator/createJNICode(java.lang.reflect.Method,java.util.List)@g_netlib-java-0.9.3.jar.txt	3
+org/netlib/generate/JavaGenerator/createJavaWrapper(java.lang.reflect.Method,java.util.List)@g_netlib-java-0.9.3.jar.txt	0
+org/netlib/generate/JavaGenerator/createJNIWrapper(java.lang.reflect.Method,java.util.List)@g_netlib-java-0.9.3.jar.txt	1

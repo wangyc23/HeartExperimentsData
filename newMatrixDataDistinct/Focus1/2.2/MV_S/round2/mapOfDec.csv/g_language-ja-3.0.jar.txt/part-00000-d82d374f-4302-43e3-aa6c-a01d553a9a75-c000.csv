@@ -1,0 +1,5 @@
+org/languagetool/rules/pl/MorfologikPolishSpellerRule/isNotCompound(java.lang.String)@g_language-pl-3.0.jar.txt	3
+org/languagetool/tagging/pl/PolishTagger/addTokens(java.util.List,java.util.List)@g_language-pl-3.0.jar.txt	2
+org/languagetool/tagging/pl/PolishTagger/tag(java.util.List)@g_language-pl-3.0.jar.txt	1
+org/languagetool/tagging/ca/CatalanTagger/tag(java.util.List)@g_language-ca-3.0.jar.txt	4
+org/languagetool/rules/pl/MorfologikPolishSpellerRule/pruneSuggestions(java.util.List)@g_language-pl-3.0.jar.txt	0

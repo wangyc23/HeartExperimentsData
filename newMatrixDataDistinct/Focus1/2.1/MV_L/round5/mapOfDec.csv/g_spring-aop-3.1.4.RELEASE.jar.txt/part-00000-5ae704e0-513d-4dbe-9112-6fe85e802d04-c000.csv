@@ -1,0 +1,5 @@
+org/springframework/aop/framework/Cglib2AopProxy/ProxyCallbackFilter/accept(java.lang.reflect.Method)@g_spring-aop-3.0.5.RELEASE.jar.txt	4
+org/springframework/aop/aspectj/annotation/ReflectiveAspectJAdvisorFactory/getAdvisors(org.springframework.aop.aspectj.annotation.MetadataAwareAspectInstanceFactory)@g_spring-aop-3.0.5.RELEASE.jar.txt	3
+org/springframework/aop/aspectj/AspectJAdviceParameterNameDiscoverer/bindAnnotationsFromVarNames(java.util.List)@g_spring-aop-3.0.5.RELEASE.jar.txt	1
+org/springframework/aop/framework/Cglib2AopProxy/DynamicAdvisedInterceptor/intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],net.sf.cglib.proxy.MethodProxy)@g_spring-aop-3.0.5.RELEASE.jar.txt	2
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-aop-3.0.5.RELEASE.jar.txt	0

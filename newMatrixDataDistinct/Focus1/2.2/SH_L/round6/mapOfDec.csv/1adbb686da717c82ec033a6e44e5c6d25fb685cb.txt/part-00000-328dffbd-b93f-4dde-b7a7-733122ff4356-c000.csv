@@ -1,0 +1,5 @@
+com/github/kristofa/brave/grpc/BraveGrpcInterceptorsTest/pickUnusedPort()@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	3
+com/twitter/zipkin/gen/Span/addToAnnotations(com.twitter.zipkin.gen.Annotation)@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	1
+com/twitter/zipkin/gen/scribe/Log_args/addToMessages(com.twitter.zipkin.gen.LogEntry)@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	0
+com/github/kristofa/brave/ITBrave/testServerClientAndLocalSpanCycle()@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	4
+com/github/kristofa/brave/resteasy/RestEasyHttpServerRequest/getHttpHeaderValue(java.lang.String)@2c61f11dc463d2aa772ecc576fb526217eab9e22.txt	2

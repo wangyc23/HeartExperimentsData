@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/synonym/SynonymMap/Builder/analyze(org.apache.lucene.analysis.Analyzer,java.lang.String,org.apache.lucene.util.CharsRef)@g_lucene-analyzers-3.6.2.jar.txt	0
+org/apache/lucene/search/suggest/analyzing/AnalyzingInfixSuggester/lookup(java.lang.CharSequence,org.apache.lucene.search.BooleanQuery,int,boolean,boolean)@g_lucene-suggest-6.4.1.jar.txt	2
+org/apache/lucene/analysis/ngram/NGramTokenFilter/incrementToken()@g_lucene-analyzers-3.6.2.jar.txt	4
+org/apache/lucene/analysis/th/ThaiWordFilter/incrementToken()@g_lucene-analyzers-3.6.2.jar.txt	3
+org/apache/lucene/search/suggest/analyzing/AnalyzingInfixSuggester/highlight(java.lang.String,java.util.Set,java.lang.String)@g_lucene-suggest-6.4.1.jar.txt	1

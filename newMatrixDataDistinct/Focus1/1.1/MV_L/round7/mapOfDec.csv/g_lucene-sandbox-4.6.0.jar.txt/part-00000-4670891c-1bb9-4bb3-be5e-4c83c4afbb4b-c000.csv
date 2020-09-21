@@ -1,0 +1,5 @@
+org/apache/lucene/sandbox/queries/DuplicateFilter/correctBits(org.apache.lucene.index.AtomicReader,org.apache.lucene.util.Bits)@g_lucene-sandbox-4.7.0.jar.txt	2
+org/apache/lucene/sandbox/queries/DuplicateFilter/fastBits(org.apache.lucene.index.AtomicReader,org.apache.lucene.util.Bits)@g_lucene-sandbox-4.7.0.jar.txt	4
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/addTerms(org.apache.lucene.index.IndexReader,org.apache.lucene.sandbox.queries.FuzzyLikeThisQuery$FieldVals)@g_lucene-sandbox-4.5.0.jar.txt	1
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-4.7.0.jar.txt	3
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/addTerms(org.apache.lucene.index.IndexReader,org.apache.lucene.sandbox.queries.FuzzyLikeThisQuery$FieldVals)@g_lucene-sandbox-4.7.0.jar.txt	0

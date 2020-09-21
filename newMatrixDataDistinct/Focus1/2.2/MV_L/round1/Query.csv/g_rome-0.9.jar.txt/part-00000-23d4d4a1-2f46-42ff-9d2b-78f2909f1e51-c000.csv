@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/beans/Introspector/decapitalize(java.lang.String)
+java/lang/reflect/Method/getModifiers()
+java/util/HashMap/HashMap()

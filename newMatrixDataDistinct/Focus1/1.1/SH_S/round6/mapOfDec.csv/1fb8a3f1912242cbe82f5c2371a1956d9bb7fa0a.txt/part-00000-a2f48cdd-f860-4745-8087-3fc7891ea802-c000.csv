@@ -1,0 +1,5 @@
+com/ibm/taste/example/movie/model/table/RatingTable/getMoviesByUserID(java.lang.String)@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	2
+com/ibm/taste/example/movie/model/table/MovieTable/getMovieMap(java.util.Collection)@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	4
+com/ibm/taste/example/movie/model/table/MovieTable/getMovies(java.util.Collection)@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	0
+com/ibm/taste/example/movie/model/table/RatingTable/insertRatings(java.util.List)@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	3
+com/ibm/taste/example/movie/model/table/MovieTable/insertMovies(java.util.List)@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	1

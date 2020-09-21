@@ -1,0 +1,5 @@
+org/apache/cxf/transport/http/HTTPConduit/WrappedOutputStream/handleRetransmits()@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	4
+org/apache/cxf/transport/http/DestinationRegistryImpl/addDestination(org.apache.cxf.transport.http.AbstractHTTPDestination)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	0
+org/apache/cxf/transport/servlet/ServletContextResourceResolver/resolve(java.lang.String,java.lang.Class)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	1
+org/apache/cxf/transport/servlet/BaseUrlHelper/getBaseURL(javax.servlet.http.HttpServletRequest)@g_cxf-rt-transports-http-3.0.0-milestone1.jar.txt	3
+org/apache/cxf/jaxrs/provider/AbstractJAXBProvider/getPackageContext(java.lang.Class,java.lang.reflect.Type)@g_cxf-rt-frontend-jaxrs-3.0.0-milestone1.jar.txt	2

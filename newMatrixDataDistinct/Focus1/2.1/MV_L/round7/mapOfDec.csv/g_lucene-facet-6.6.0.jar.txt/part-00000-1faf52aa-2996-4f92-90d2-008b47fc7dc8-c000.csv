@@ -1,0 +1,5 @@
+org/apache/lucene/queries/CommonTermsQuery/collectTermContext(org.apache.lucene.index.IndexReader,java.util.List,org.apache.lucene.index.TermContext[],org.apache.lucene.index.Term[])@g_lucene-queries-6.5.0.jar.txt	0
+org/apache/lucene/queries/function/valuesource/TermFreqValueSource/1/intVal(int)@g_lucene-queries-6.5.0.jar.txt	4
+org/apache/lucene/queries/CommonTermsQuery/collectTermContext(org.apache.lucene.index.IndexReader,java.util.List,org.apache.lucene.index.TermContext[],org.apache.lucene.index.Term[])@g_lucene-queries-6.6.0.jar.txt	1
+org/apache/lucene/facet/sortedset/ConcurrentSortedSetDocValuesFacetCounts/CountOneSegment/call()@g_lucene-queries-6.5.0.jar.txt	3
+org/apache/lucene/queries/function/FunctionScoreQuery/FunctionScoreWeight/explain(org.apache.lucene.index.LeafReaderContext,int)@g_lucene-queries-6.5.0.jar.txt	2

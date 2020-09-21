@@ -1,0 +1,5 @@
+com/amazonaws/services/autoscaling/model/transform/DescribePoliciesResultStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	3
+com/amazonaws/services/autoscaling/model/transform/ActivityStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	0
+com/amazonaws/services/autoscaling/model/transform/AlarmStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	4
+com/amazonaws/services/autoscaling/model/transform/TagDescriptionStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	2
+com/amazonaws/services/autoscaling/model/transform/MetricGranularityTypeStaxUnmarshaller/unmarshall(com.amazonaws.transform.StaxUnmarshallerContext)@g_aws-java-sdk-autoscaling-1.9.3.jar.txt	1

@@ -1,0 +1,5 @@
+org/languagetool/rules/km/KhmerWordRepeatRule/match(org.languagetool.AnalyzedSentence)@g_language-km-3.0.jar.txt	4
+org/languagetool/rules/de/VerbAgreementRule/getVerbSuggestions(org.languagetool.AnalyzedTokenReadings,java.lang.String,boolean)@g_language-de-3.0.jar.txt	2
+org/languagetool/tagging/de/GermanTagger/getAnalyzedTokens(java.util.List,java.lang.String,java.util.List)@g_language-de-3.0.jar.txt	3
+org/languagetool/rules/de/AgreementRule/checkDetNounAgreement(org.languagetool.AnalyzedTokenReadings,org.languagetool.AnalyzedTokenReadings)@g_language-de-3.0.jar.txt	1
+org/languagetool/rules/de/MissingVerbRule/verbAtSentenceStart(org.languagetool.AnalyzedTokenReadings)@g_language-de-3.0.jar.txt	0

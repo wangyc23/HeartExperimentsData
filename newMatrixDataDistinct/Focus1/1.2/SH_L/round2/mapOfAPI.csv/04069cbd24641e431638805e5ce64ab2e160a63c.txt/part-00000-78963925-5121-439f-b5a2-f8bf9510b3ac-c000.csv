@@ -1,0 +1,4 @@
+0	org/apache/commons/mail/DefaultAuthenticator/DefaultAuthenticator(java.lang.String,java.lang.String)
+1	org/apache/commons/mail/Email/setFrom(java.lang.String,java.lang.String)
+2	org/apache/commons/mail/Email/setSocketConnectionTimeout(int)
+3	org/apache/commons/mail/Email/setSocketTimeout(int)

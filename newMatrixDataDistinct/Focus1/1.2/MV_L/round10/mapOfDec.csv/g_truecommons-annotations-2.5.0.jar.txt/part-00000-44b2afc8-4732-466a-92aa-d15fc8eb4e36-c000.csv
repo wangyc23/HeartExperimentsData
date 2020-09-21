@@ -1,0 +1,5 @@
+org/antlr/v4/runtime/misc/NullUsageProcessor/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_antlr4-annotations-4.3.jar.txt	0
+org/antlr/v4/runtime/misc/NullUsageProcessor/checkPrimitiveTypeAnnotations(java.util.Set,javax.tools.Diagnostic$Kind,javax.lang.model.element.TypeElement)@g_antlr4-annotations-4.3.jar.txt	3
+org/antlr/v4/runtime/misc/NullUsageProcessor/addElementsToNamedMethodMap(java.util.Set,java.util.Map)@g_antlr4-annotations-4.3.jar.txt	1
+org/antlr/v4/runtime/misc/NullUsageProcessor/checkVoidMethodAnnotations(java.util.Set,javax.lang.model.element.TypeElement)@g_antlr4-annotations-4.3.jar.txt	4
+org/antlr/v4/runtime/misc/NullUsageProcessor/checkOverriddenMethods(javax.lang.model.element.ExecutableElement)@g_antlr4-annotations-4.3.jar.txt	2

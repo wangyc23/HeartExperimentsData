@@ -1,0 +1,5 @@
+ch/qos/logback/core/FileAppender/openFile(java.lang.String)@g_logback-core-1.1.2.jar.txt	4
+ch/qos/logback/core/joran/util/PropertySetter/isSanityCheckSuccessful(java.lang.String,java.lang.reflect.Method,java.lang.Class[],java.lang.Object)@g_logback-core-1.1.2.jar.txt	0
+ch/qos/logback/core/util/OptionHelper/instantiateByClassNameAndParameter(java.lang.String,java.lang.Class,java.lang.ClassLoader,java.lang.Class,java.lang.Object)@g_logback-core-1.1.3.jar.txt	3
+ch/qos/logback/core/util/OptionHelper/instantiateByClassNameAndParameter(java.lang.String,java.lang.Class,java.lang.ClassLoader,java.lang.Class,java.lang.Object)@g_logback-core-1.1.2.jar.txt	1
+ch/qos/logback/core/joran/util/PropertySetter/isSanityCheckSuccessful(java.lang.String,java.lang.reflect.Method,java.lang.Class[],java.lang.Object)@g_logback-core-1.1.3.jar.txt	2

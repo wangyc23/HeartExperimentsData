@@ -1,0 +1,5 @@
+org/javaee7/batch/chunk/checkpoint/MyItemReader/readItem()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	4
+org/javaee7/batch/sample/chunk/mapper/MyItemReader/readItem()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	2
+org/javaee7/batch/chunk/optional/processor/MyItemReader/readItem()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	0
+org/javaee7/batch/multiple/steps/MyItemReader/readItem()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	1
+org/javaee7/batch/sample/chunk/partition/MyItemReader/readItem()@0f5d7725a1b24c1f1cd3a156701b85aa32fc36f9.txt	3

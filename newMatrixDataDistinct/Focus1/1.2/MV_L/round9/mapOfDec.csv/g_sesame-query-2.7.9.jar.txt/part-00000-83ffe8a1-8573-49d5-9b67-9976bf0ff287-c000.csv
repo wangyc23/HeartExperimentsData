@@ -1,0 +1,5 @@
+org/openrdf/query/algebra/evaluation/impl/SameTermFilterOptimizer/SameTermFilterVisitor/meet(org.openrdf.query.algebra.Filter)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	2
+org/openrdf/query/algebra/evaluation/impl/QueryJoinOptimizer/JoinVisitor/reorderSubselects(java.util.List)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	3
+org/openrdf/query/algebra/evaluation/impl/OrderLimitOptimizer/OrderOptimizer/meet(org.openrdf.query.algebra.Var)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	4
+org/openrdf/query/algebra/evaluation/impl/EvaluationStrategyImpl/evaluate(org.openrdf.query.algebra.StatementPattern,org.openrdf.query.BindingSet)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	0
+org/openrdf/query/algebra/evaluation/impl/QueryJoinOptimizer/JoinVisitor/getForeignVarFreq(java.util.List,java.util.Map)@g_sesame-queryalgebra-evaluation-2.7.9.jar.txt	1

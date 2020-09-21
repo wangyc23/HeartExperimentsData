@@ -1,0 +1,5 @@
+org/neo4j/upgrade/lucene/LuceneLegacyIndexUpgrader/upgradeIndexes()@g_xff-core-0.4.0.jar.txt	1
+org/eclipse/core/filesystem/URIUtil/toURI(java.lang.String,boolean)@g_xff-core-0.4.0.jar.txt	3
+org/xwiki/xff/core/model/Page/orderedPaths()@g_xff-core-0.4.0.jar.txt	4
+org/xwiki/xff/core/model/Wiki/store(java.nio.file.Path)@g_xff-core-0.4.0.jar.txt	2
+org/neo4j/upgrade/lucene/IndexUpgraderWrapper/upgradeIndex(java.nio.file.Path)@g_xff-core-0.4.0.jar.txt	0

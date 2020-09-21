@@ -1,0 +1,5 @@
+org/apache/fontbox/cff/CFFParser/readFormat1Charset(org.apache.fontbox.cff.CFFDataInput,int,int,boolean)@g_fontbox-2.0.2.jar.txt	0
+org/apache/fontbox/cff/CFFParser/readFormat2Charset(org.apache.fontbox.cff.CFFDataInput,int,int,boolean)@g_fontbox-2.0.2.jar.txt	2
+org/apache/fontbox/type1/Type1Parser/arrayToNumbers(java.util.List)@g_fontbox-2.0.2.jar.txt	4
+org/apache/fontbox/cff/CFFParser/readFormat1Charset(org.apache.fontbox.cff.CFFDataInput,int,int,boolean)@g_fontbox-2.0.7.jar.txt	1
+org/apache/fontbox/cff/CFFParser/readFormat2Charset(org.apache.fontbox.cff.CFFDataInput,int,int,boolean)@g_fontbox-2.0.7.jar.txt	3

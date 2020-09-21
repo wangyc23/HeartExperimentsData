@@ -1,0 +1,5 @@
+anatlyzer/examples/api/BaseTest/printToErrorFile(java.lang.String)@g_test.api-1.0.1.jar.txt	1
+org/eclipse/acceleo/common/internal/utils/AcceleoDynamicMetamodelResourceSetImpl/AcceleoDynamicURIHandler/resolve(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	3
+org/eclipse/acceleo/common/utils/ModelUtils/load(java.io.InputStream,java.lang.String,org.eclipse.emf.ecore.resource.ResourceSet)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	2
+org/eclipse/acceleo/common/internal/utils/workspace/BundleURLConverter/resolveInBundle(java.lang.String)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	0
+org/eclipse/acceleo/common/internal/utils/workspace/AcceleoWorkspaceUtil/getResourceBundle(java.lang.String)@g_org.eclipse.acceleo.common-3.5.0-20140828.085300-61.jar.txt	4

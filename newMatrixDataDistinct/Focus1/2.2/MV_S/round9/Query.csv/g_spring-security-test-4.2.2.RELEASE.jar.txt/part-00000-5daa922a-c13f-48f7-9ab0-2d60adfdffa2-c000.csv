@@ -1,0 +1,4 @@
+org/springframework/security/web/csrf/CsrfToken/getToken()
+org/springframework/mock/web/MockHttpServletResponse/MockHttpServletResponse()
+org/springframework/security/web/csrf/CsrfToken/getHeaderName()
+org/springframework/security/web/csrf/CsrfTokenRepository/generateToken(javax.servlet.http.HttpServletRequest)

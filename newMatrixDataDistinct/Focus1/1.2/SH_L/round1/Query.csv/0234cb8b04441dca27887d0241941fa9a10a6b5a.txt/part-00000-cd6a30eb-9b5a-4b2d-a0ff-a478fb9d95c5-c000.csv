@@ -1,0 +1,4 @@
+org/dspace/content/service/CollectionService/getLicense(org.dspace.content.Collection)
+java/lang/String/split(java.lang.String)
+java/util/Iterator/hasNext()
+org/dspace/rest/common/Collection/setNumberItems(java.lang.Integer)

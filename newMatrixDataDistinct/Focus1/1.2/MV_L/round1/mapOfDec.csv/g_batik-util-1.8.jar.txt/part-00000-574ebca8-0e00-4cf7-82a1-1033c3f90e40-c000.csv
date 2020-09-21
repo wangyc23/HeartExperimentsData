@@ -1,0 +1,5 @@
+org/apache/batik/util/Service/providers(java.lang.Class)@g_batik-util-1.7.jar.txt	3
+org/apache/batik/util/ParsedURLDefaultProtocolHandler/parseURL(org.apache.batik.util.ParsedURL,java.lang.String)@g_batik-util-1.7.jar.txt	0
+org/apache/batik/util/ParsedURLDefaultProtocolHandler/unescapeStr(java.lang.String)@g_batik-util-1.7.jar.txt	4
+org/apache/batik/Version/getVersion()@g_batik-util-1.7.jar.txt	2
+org/apache/batik/util/ParsedURLDefaultProtocolHandler/parseURL(java.lang.String)@g_batik-util-1.7.jar.txt	1

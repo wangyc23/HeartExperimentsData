@@ -1,0 +1,5 @@
+org/apache/spark/launcher/LauncherServer/close()@g_spark-launcher_2.11-2.2.0.jar.txt	1
+org/apache/maven/wagon/PathUtils/basedir(java.lang.String)@g_spark-launcher_2.11-2.2.0.jar.txt	2
+org/apache/spark/launcher/AbstractCommandBuilder/addToClassPath(java.util.Set,java.lang.String)@g_spark-launcher_2.11-2.2.0.jar.txt	0
+org/jruby/ext/posix/util/Finder/addExtension(java.lang.String)@g_spark-launcher_2.11-2.2.0.jar.txt	4
+org/jruby/ext/posix/JavaFileStat/calculateSymlink(java.io.File,short)@g_spark-launcher_2.11-2.2.0.jar.txt	3

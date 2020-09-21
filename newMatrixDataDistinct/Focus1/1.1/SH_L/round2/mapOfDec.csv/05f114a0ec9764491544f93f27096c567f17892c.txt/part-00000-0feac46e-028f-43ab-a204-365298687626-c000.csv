@@ -1,0 +1,5 @@
+retrofit/RestAdapterTest/logRequestResponseHeaders()@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	2
+retrofit/client/UrlConnectionClient/readResponse(java.net.HttpURLConnection)@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	0
+retrofit/client/ApacheClientTest/headers()@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	1
+retrofit/client/DummyHttpUrlConnection/addRequestProperty(java.lang.String,java.lang.String)@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	4
+retrofit/RestAdapterTest/logSuccessfulRequestResponseFullWhenResponseBodyAbsent()@2be55e916a42faeeb7aabaac8715f05b406df15b.txt	3

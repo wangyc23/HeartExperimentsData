@@ -1,0 +1,5 @@
+org/apache/xalan/xsltc/compiler/Parser/getQName(java.lang.String,java.lang.String,java.lang.String)@g_xercesImpl-2.9.1.jar.txt	1
+org/apache/tools/ant/taskdefs/Expand/expandFile(org.apache.tools.ant.util.FileUtils,java.io.File,java.io.File)@g_xercesImpl-2.9.1.jar.txt	3
+org/apache/xerces/impl/xs/traversers/XSDHandler/parseSchema(org.apache.xerces.xni.parser.XMLInputSource,org.apache.xerces.impl.xs.XSDDescription,java.util.Hashtable)@g_xercesImpl-2.9.1.jar.txt	0
+org/apache/xml/utils/ListingErrorHandler/logSourceLine(java.io.PrintWriter,javax.xml.transform.SourceLocator)@g_xercesImpl-2.9.1.jar.txt	2
+org/apache/tools/ant/types/selectors/ContainsSelector/isSelected(java.io.File,java.lang.String,java.io.File)@g_xercesImpl-2.9.1.jar.txt	4

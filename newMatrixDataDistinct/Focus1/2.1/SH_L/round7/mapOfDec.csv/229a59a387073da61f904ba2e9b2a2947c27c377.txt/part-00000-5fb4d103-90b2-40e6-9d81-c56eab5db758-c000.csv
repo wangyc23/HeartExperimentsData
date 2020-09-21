@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl/getForTitle(org.jboss.as.quickstarts.tasksrs.model.User,java.lang.String)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	3
+org/jboss/as/quickstarts/kitchensink/spring/controlleradvice/controller/MemberController/registerNewMember(org.jboss.as.quickstarts.kitchensink.spring.controlleradvice.model.Member,org.jboss.as.quickstarts.kitchensink.spring.asyncrequestmapping.controller.BindingResult,org.jboss.as.quickstarts.kitchensink.spring.asyncrequestmapping.controller.Model)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	1
+org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl/deleteTask(org.jboss.as.quickstarts.tasksrs.model.Task)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	2
+org/jboss/as/quickstarts/payment/resources/Resources/produceLog(javax.enterprise.inject.spi.InjectionPoint)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	4
+org/jboss/as/quickstart/hibernate3/data/MemberListProducer/onMemberListChanged(org.jboss.as.quickstart.hibernate3.model.Member)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	0

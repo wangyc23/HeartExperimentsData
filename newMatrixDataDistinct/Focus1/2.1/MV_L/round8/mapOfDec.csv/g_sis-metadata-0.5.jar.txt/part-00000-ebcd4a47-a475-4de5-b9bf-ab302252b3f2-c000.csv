@@ -1,0 +1,5 @@
+org/apache/sis/referencing/cs/CoordinateSystems/swapAndScaleAxes(org.opengis.referencing.cs.CoordinateSystem,org.opengis.referencing.cs.CoordinateSystem)@g_sis-metadata-0.6.jar.txt	3
+org/apache/sis/metadata/Cloner/clone(java.lang.Object)@g_sis-metadata-0.6.jar.txt	4
+org/apache/sis/parameter/DefaultParameterDescriptor/equals(java.lang.Object,org.apache.sis.util.ComparisonMode)@g_sis-metadata-0.6.jar.txt	1
+org/apache/sis/metadata/iso/quality/AbstractElement/Dates/addAll(java.util.Collection)@g_sis-metadata-0.6.jar.txt	0
+org/apache/sis/geometry/GeneralEnvelope/add(org.opengis.geometry.Envelope)@g_sis-metadata-0.6.jar.txt	2

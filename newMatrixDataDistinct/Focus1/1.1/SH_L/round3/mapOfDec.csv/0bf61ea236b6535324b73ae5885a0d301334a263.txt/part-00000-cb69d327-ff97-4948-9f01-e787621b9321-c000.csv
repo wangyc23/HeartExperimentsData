@@ -1,0 +1,5 @@
+com/xeiam/xchange/poloniex/service/polling/PoloniexTradeService/placeLimitOrder(com.xeiam.xchange.dto.trade.LimitOrder)@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	0
+com/xeiam/xchange/examples/bitcurex/BitcurexTickerDemo/main(java.lang.String[])@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	1
+com/finaxys/rd/dataextraction/dao/integration/parser/file/FileXlsStocksParserTest/test_convert()@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	4
+com/xeiam/xchange/btcchina/dto/trade/request/BTCChinaSellOrderRequestTest/testMarketOrder()@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	3
+com/xeiam/xchange/bitvc/BitVcAdapters/adaptTrades(com.xeiam.xchange.bitvc.dto.marketdata.BitVcTradeObject[],com.xeiam.xchange.currency.CurrencyPair)@22ad0d36cddcb3635fff8821dbc9e9cb465f2ff8.txt	2

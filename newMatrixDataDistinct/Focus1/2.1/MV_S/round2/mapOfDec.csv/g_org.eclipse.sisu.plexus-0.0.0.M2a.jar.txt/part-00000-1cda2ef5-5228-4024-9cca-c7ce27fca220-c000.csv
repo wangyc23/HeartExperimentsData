@@ -1,0 +1,5 @@
+org/eclipse/sisu/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.eclipse.sisu.plexus.scanners.PlexusTypeRegistry)@g_guice-plexus-converters-2.3.0.jar.txt	1
+org/sonatype/guice/plexus/converters/PlexusXmlBeanConverter/convertText(java.lang.String,com.google.inject.TypeLiteral)@g_guice-plexus-converters-2.3.0.jar.txt	0
+org/codehaus/plexus/component/configurator/converters/AbstractConfigurationConverter/getClassForImplementationHint(java.lang.Class,org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.ClassLoader)@g_guice-plexus-converters-2.3.0.jar.txt	4
+org/codehaus/plexus/component/configurator/converters/composite/BeanHelper/setDefault(java.lang.Object,java.lang.Object,org.codehaus.plexus.configuration.PlexusConfiguration)@g_guice-plexus-converters-2.3.0.jar.txt	3
+org/sonatype/guice/plexus/scanners/PlexusTypeRegistry/loadOnStart(java.lang.String,java.lang.String)@g_guice-plexus-converters-2.3.0.jar.txt	2

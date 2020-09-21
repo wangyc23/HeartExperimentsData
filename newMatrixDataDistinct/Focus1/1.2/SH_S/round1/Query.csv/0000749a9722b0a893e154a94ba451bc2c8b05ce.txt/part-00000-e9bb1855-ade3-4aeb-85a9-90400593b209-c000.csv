@@ -1,0 +1,4 @@
+net/sf/jpam/Pam/authenticate(java.lang.String,java.lang.String)
+javax/security/auth/login/AccountExpiredException/AccountExpiredException(java.lang.String)
+java/lang/String/copyValueOf(char[])
+java/lang/Throwable/getMessage()

@@ -1,0 +1,4 @@
+org/antlr/runtime/tree/TreeAdaptor/becomeRoot(java.lang.Object,java.lang.Object)
+org/antlr/runtime/tree/TreeAdaptor/setTokenBoundaries(java.lang.Object,org.antlr.runtime.Token,org.antlr.runtime.Token)
+org/antlr/runtime/ParserRuleReturnScope/getTree()
+org/apache/lucene/expressions/js/JavascriptParser/match(org.antlr.runtime.IntStream,int,org.antlr.runtime.BitSet)

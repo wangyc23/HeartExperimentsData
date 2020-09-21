@@ -1,0 +1,5 @@
+org/languagetool/rules/patterns/RuleFilterCreator/getFilter(java.lang.String)@g_languagetool-core-3.0.jar.txt	1
+org/languagetool/languagemodel/LuceneLanguageModel/validateDirectory(java.io.File)@g_languagetool-core-3.0.jar.txt	4
+org/languagetool/JLanguageTool/getBuildDate()@g_languagetool-core-3.0.jar.txt	3
+org/languagetool/tools/Tools/getAllBuiltinBitextRules(org.languagetool.Language,java.util.ResourceBundle)@g_languagetool-core-3.0.jar.txt	0
+org/languagetool/rules/patterns/XMLRuleHandler/setMatchElement(org.xml.sax.Attributes)@g_languagetool-core-3.0.jar.txt	2

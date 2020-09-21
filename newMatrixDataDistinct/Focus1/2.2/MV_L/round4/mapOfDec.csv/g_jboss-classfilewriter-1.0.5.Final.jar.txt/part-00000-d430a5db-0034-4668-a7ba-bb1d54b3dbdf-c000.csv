@@ -1,0 +1,5 @@
+com/esotericsoftware/reflectasm/ConstructorAccess/get(java.lang.Class)@g_reflectasm-1.07-shaded.jar.txt	2
+com/esotericsoftware/reflectasm/FieldAccess/insertGetPrimitive(com.esotericsoftware.reflectasm.shaded.org.objectweb.asm.ClassWriter,java.lang.String,java.util.ArrayList,com.esotericsoftware.reflectasm.shaded.org.objectweb.asm.Type)@g_reflectasm-1.07-shaded.jar.txt	4
+com/esotericsoftware/reflectasm/FieldAccess/insertSetPrimitive(com.esotericsoftware.reflectasm.shaded.org.objectweb.asm.ClassWriter,java.lang.String,java.util.ArrayList,com.esotericsoftware.reflectasm.shaded.org.objectweb.asm.Type)@g_reflectasm-1.07-shaded.jar.txt	3
+com/esotericsoftware/reflectasm/MethodAccess/get(java.lang.Class)@g_reflectasm-1.07-shaded.jar.txt	1
+com/esotericsoftware/reflectasm/FieldAccess/get(java.lang.Class)@g_reflectasm-1.07-shaded.jar.txt	0

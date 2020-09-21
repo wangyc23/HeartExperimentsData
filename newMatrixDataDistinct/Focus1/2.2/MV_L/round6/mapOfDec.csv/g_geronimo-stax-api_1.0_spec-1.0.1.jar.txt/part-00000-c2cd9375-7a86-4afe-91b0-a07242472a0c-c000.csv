@@ -1,0 +1,5 @@
+javax/xml/transform/FactoryFinder/find(java.lang.String,java.lang.String)@g_xml-apis-1.0.b2.jar.txt	0
+javax/xml/parsers/FactoryFinder/find(java.lang.String,java.lang.String)@g_xml-apis-1.0.b2.jar.txt	1
+org/xml/sax/helpers/ParserAdapter/startElement(java.lang.String,org.xml.sax.AttributeList)@g_jaxrpc-api-1.1.jar.txt	4
+javax/xml/parsers/FactoryFinder/find(java.lang.String,java.lang.String)@g_jaxrpc-api-1.1.jar.txt	3
+javax/xml/transform/FactoryFinder/find(java.lang.String,java.lang.String)@g_jaxrpc-api-1.1.jar.txt	2

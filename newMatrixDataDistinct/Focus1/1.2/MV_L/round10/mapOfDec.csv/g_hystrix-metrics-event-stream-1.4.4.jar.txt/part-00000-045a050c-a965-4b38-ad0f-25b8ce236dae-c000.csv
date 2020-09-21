@@ -1,0 +1,5 @@
+feign/hystrix/HystrixDelegatingContract/parseAndValidatateMetadata(java.lang.Class)@g_feign-hystrix-8.11.0.jar.txt	0
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getCollapserJson(com.netflix.hystrix.HystrixCollapserMetrics)@g_feign-hystrix-8.11.0.jar.txt	3
+feign/hystrix/HystrixInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_feign-hystrix-8.11.0.jar.txt	4
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/UnitTest/testStartStopStart()@g_feign-hystrix-8.11.0.jar.txt	1
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getCommandJson(com.netflix.hystrix.HystrixCommandMetrics)@g_feign-hystrix-8.11.0.jar.txt	2

@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/loader/BundleLoader/addDynamicImportPackage(org.eclipse.osgi.util.ManifestElement[])@g_osgi-3.10.0-v20140606-1445.jar.txt	0
+org/eclipse/osgi/internal/permadmin/SecurityAdmin/createMockBundle(java.lang.String[])@g_osgi-3.10.0-v20140606-1445.jar.txt	2
+org/eclipse/osgi/util/ManifestElement/parseBundleManifest(java.io.InputStream,java.util.Map)@g_osgi-3.10.0-v20140606-1445.jar.txt	4
+org/apache/felix/resolver/Candidates/populateResource(org.osgi.service.resolver.ResolveContext,org.osgi.resource.Resource)@g_osgi-3.10.0-v20140606-1445.jar.txt	3
+org/osgi/framework/AdaptPermissionCollection/add(java.security.Permission)@g_osgi-3.10.0-v20140606-1445.jar.txt	1

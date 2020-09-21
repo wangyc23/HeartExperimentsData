@@ -1,0 +1,5 @@
+org/xwiki/localization/jar/internal/RootClassLoaderTranslationBundle/createBundle(java.util.Locale)@g_xwiki-platform-localization-syntax-messagetool-7.4.2.jar.txt	1
+org/xwiki/localization/jar/internal/RootClassLoaderTranslationBundle/getResourceProperties(java.util.Locale)@g_xwiki-platform-localization-syntax-messagetool-7.4.2.jar.txt	0
+org/xwiki/localization/internal/DefaultLocalizationManager/getTranslationBundle(java.lang.String,java.lang.String)@g_xwiki-platform-localization-syntax-messagetool-7.4.2.jar.txt	4
+org/xwiki/localization/internal/AbstractURLResourceTranslationBundle/loadResourceLocaleBundle(java.util.Locale)@g_xwiki-platform-localization-syntax-messagetool-7.4.2.jar.txt	3
+org/xwiki/localization/jar/internal/JARTranslationBundleFactory/getBundle(java.lang.String)@g_xwiki-platform-localization-syntax-messagetool-7.4.2.jar.txt	2

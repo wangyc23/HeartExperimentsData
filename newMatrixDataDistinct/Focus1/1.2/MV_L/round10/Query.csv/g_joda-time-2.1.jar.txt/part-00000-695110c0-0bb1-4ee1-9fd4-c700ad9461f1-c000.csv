@@ -1,0 +1,4 @@
+java/io/DataOutput/writeInt(int)
+java/util/Iterator/hasNext()
+java/io/DataOutput/writeUTF(java.lang.String)
+java/util/Set/size()

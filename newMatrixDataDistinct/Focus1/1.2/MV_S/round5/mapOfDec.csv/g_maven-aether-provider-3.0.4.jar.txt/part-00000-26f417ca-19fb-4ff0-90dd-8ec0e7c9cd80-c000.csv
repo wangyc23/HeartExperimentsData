@@ -1,0 +1,5 @@
+org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver/GraphLogger/visitEnter(org.sonatype.aether.graph.DependencyNode)@g_maven-core-3.0.jar.txt	1
+org/apache/maven/RepositoryUtils/toArtifact(org.sonatype.aether.artifact.Artifact)@g_maven-core-3.0.jar.txt	4
+org/apache/maven/project/DefaultProjectDependenciesResolver/GraphLogger/visitEnter(org.sonatype.aether.graph.DependencyNode)@g_maven-core-3.0.jar.txt	3
+org/apache/maven/project/DefaultProjectBuilder/build(org.apache.maven.artifact.Artifact,boolean,org.apache.maven.project.ProjectBuildingRequest)@g_maven-core-3.0.jar.txt	2
+org/apache/maven/lifecycle/internal/LifecycleDependencyResolver/areAllDependenciesInReactor(java.util.Collection,java.util.Collection)@g_maven-core-3.0.jar.txt	0

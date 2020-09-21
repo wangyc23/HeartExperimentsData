@@ -1,0 +1,5 @@
+org/springframework/beans/factory/support/AbstractBeanFactory/registerCustomEditors(org.springframework.beans.PropertyEditorRegistry)@g_spring-2.5.6.jar.txt	4
+org/springframework/beans/factory/support/AbstractBeanFactory/doGetBean(java.lang.String,java.lang.Class,java.lang.Object[],boolean)@g_spring-2.5.6.jar.txt	1
+org/springframework/context/weaving/DefaultContextLoadTimeWeaver/setBeanClassLoader(java.lang.ClassLoader)@g_spring-2.5.6.jar.txt	3
+org/springframework/scripting/support/ScriptFactoryPostProcessor/setBeanFactory(org.springframework.beans.factory.BeanFactory)@g_spring-2.5.6.jar.txt	0
+org/springframework/aop/aspectj/AspectJExpressionPointcut/matches(java.lang.reflect.Method,java.lang.Class,java.lang.Object[])@g_spring-2.5.6.jar.txt	2

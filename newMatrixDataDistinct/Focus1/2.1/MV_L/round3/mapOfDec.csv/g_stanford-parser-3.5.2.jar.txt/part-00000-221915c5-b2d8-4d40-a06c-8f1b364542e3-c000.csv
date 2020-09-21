@@ -1,0 +1,5 @@
+edu/stanford/nlp/dcoref/CoNLL2011DocumentReader/DocumentIterator/getLabelledSpans(java.util.List,int,java.lang.String,boolean)@g_stanford-corenlp-3.5.0.jar.txt	0
+edu/stanford/nlp/trees/tregex/tsurgeon/RelabelNode/RelabelMatcher/evaluate(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.tregex.TregexMatcher)@g_stanford-corenlp-3.5.0.jar.txt	1
+edu/stanford/nlp/wordseg/ChineseStringUtils/processCommas(java.lang.String)@g_stanford-corenlp-3.5.0.jar.txt	3
+edu/stanford/nlp/time/HeidelTimeAnnotator/annotate(edu.stanford.nlp.util.CoreMap)@g_stanford-corenlp-3.5.0.jar.txt	4
+edu/stanford/nlp/ling/tokensregex/MultiWordStringMatcher/getExctWsRegex(java.lang.String)@g_stanford-corenlp-3.5.0.jar.txt	2

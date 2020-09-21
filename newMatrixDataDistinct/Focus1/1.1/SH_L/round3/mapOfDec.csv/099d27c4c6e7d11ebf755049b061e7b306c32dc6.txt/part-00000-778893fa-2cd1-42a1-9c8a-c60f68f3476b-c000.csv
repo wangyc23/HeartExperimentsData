@@ -1,0 +1,5 @@
+twitter4j/internal/logging/JULLogger/error(java.lang.String,java.lang.Throwable)@2c22fe3bb5d455ce2a2b784a5986922434ad0b6c.txt	3
+twitter4j/internal/json/UserListJSONImpl/init(twitter4j.internal.org.json.JSONObject)@2c22fe3bb5d455ce2a2b784a5986922434ad0b6c.txt	0
+twitter4j/internal/json/SimilarPlacesImpl/createSimilarPlaces(twitter4j.internal.http.HttpResponse,twitter4j.conf.Configuration)@2c22fe3bb5d455ce2a2b784a5986922434ad0b6c.txt	4
+twitter4j/TwitterException/getMessage()@2c22fe3bb5d455ce2a2b784a5986922434ad0b6c.txt	2
+twitter4j/internal/json/PlaceJSONImpl/createPlaceList(twitter4j.internal.http.HttpResponse,twitter4j.conf.Configuration)@2c22fe3bb5d455ce2a2b784a5986922434ad0b6c.txt	1

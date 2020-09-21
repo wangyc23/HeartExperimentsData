@@ -1,0 +1,5 @@
+org/eclipse/jetty/webapp/Configuration/ClassList/addAfter(java.lang.String,java.lang.String[])@g_jetty-webapp-9.3.8.v20160314.jar.txt	3
+org/eclipse/jetty/webapp/Configuration/ClassList/addBefore(java.lang.String,java.lang.String[])@g_jetty-webapp-9.3.8.v20160314.jar.txt	2
+org/eclipse/jetty/webapp/ClasspathPattern/addBefore(java.lang.String,java.lang.String[])@g_jetty-webapp-9.3.8.v20160314.jar.txt	4
+org/eclipse/jetty/webapp/Configuration/ClassList/addAfter(java.lang.String,java.lang.String[])@g_jetty-webapp-9.2.13.v20150730.jar.txt	1
+org/eclipse/jetty/webapp/Configuration/ClassList/addBefore(java.lang.String,java.lang.String[])@g_jetty-webapp-9.2.13.v20150730.jar.txt	0

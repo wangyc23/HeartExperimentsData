@@ -1,0 +1,5 @@
+com/fasterxml/classmate/ResolvedTypeWithMembers/resolveMemberMethods()@g_classmate-1.1.0.jar.txt	3
+com/fasterxml/classmate/MemberResolver/resolve(com.fasterxml.classmate.ResolvedType,com.fasterxml.classmate.AnnotationConfiguration,com.fasterxml.classmate.AnnotationOverrides)@g_classmate-1.1.0.jar.txt	4
+com/fasterxml/classmate/ResolvedTypeWithMembers/resolveMemberFields()@g_classmate-1.1.0.jar.txt	2
+org/hibernate/validator/engine/ConfigurationImpl/applyXmlSettings(org.hibernate.validator.xml.ValidationBootstrapParameters)@g_hibernate-validator-4.0.2.GA.jar.txt	0
+org/hibernate/validator/metadata/ConstraintDescriptorImpl/createComposingConstraintDescriptor(java.util.Map,int,java.lang.annotation.Annotation,java.lang.Class)@g_hibernate-validator-4.0.2.GA.jar.txt	1

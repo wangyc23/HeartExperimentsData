@@ -1,0 +1,5 @@
+org/apache/lucene/util/AttributeSource/addAttribute(java.lang.Class)@g_lucene-core-6.2.1.jar.txt	4
+org/apache/lucene/store/NativeFSLockFactory/obtainFSLock(org.apache.lucene.store.FSDirectory,java.lang.String)@g_lucene-core-6.2.1.jar.txt	3
+org/apache/lucene/codecs/compressing/CompressionMode/DeflateDecompressor/decompress(org.apache.lucene.store.DataInput,int,int,int,org.apache.lucene.util.BytesRef)@g_lucene-core-6.0.0.jar.txt	1
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_lucene-core-6.2.1.jar.txt	2
+org/apache/lucene/codecs/compressing/CompressionMode/DeflateDecompressor/decompress(org.apache.lucene.store.DataInput,int,int,int,org.apache.lucene.util.BytesRef)@g_lucene-core-6.2.1.jar.txt	0

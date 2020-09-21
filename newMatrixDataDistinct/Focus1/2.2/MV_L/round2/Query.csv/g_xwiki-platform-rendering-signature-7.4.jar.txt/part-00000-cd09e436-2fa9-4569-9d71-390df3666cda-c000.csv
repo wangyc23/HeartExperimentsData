@@ -1,0 +1,4 @@
+org/xwiki/rendering/block/MacroBlock/getParameters()
+org/xwiki/rendering/block/MacroMarkerBlock/getParameters()
+java/lang/Class/getName()
+org/xwiki/rendering/block/MacroBlock/getContent()

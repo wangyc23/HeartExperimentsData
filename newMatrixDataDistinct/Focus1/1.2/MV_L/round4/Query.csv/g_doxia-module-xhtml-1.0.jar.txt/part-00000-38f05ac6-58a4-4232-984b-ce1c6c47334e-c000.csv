@@ -1,0 +1,4 @@
+org/apache/maven/doxia/sink/Sink/anchor_()
+org/apache/maven/doxia/sink/Sink/listItem_()
+org/apache/maven/doxia/sink/Sink/italic_()
+org/apache/maven/doxia/sink/Sink/title_()

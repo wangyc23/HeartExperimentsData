@@ -1,0 +1,4 @@
+com/microsoft/schemas/office/visio/x2012/main/PagesDocument$Factory/parse(java.io.InputStream)
+com/microsoft/schemas/office/visio/x2012/main/RelType/getId()
+com/microsoft/schemas/office/visio/x2012/main/PagesDocument/getPages()
+java/lang/StringBuilder/append(java.lang.String)

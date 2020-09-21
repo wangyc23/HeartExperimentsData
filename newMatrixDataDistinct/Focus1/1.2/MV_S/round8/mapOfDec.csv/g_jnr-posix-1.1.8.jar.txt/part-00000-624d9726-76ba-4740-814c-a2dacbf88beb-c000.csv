@@ -1,0 +1,5 @@
+org/apache/spark/launcher/AbstractCommandBuilder/buildJavaCommand(java.lang.String)@g_spark-launcher_2.11-2.2.0.jar.txt	2
+org/apache/maven/shared/invoker/MavenCommandLineBuilder/setEnvironmentPaths(org.apache.maven.shared.invoker.InvocationRequest,org.codehaus.plexus.util.cli.Commandline)@g_maven-invoker-2.0.11.jar.txt	4
+org/apache/spark/launcher/AbstractCommandBuilder/addToClassPath(java.util.Set,java.lang.String)@g_spark-launcher_2.11-2.2.0.jar.txt	0
+org/apache/spark/launcher/SparkLauncher/startApplication(org.apache.spark.launcher.SparkAppHandle$Listener[])@g_spark-launcher_2.11-2.2.0.jar.txt	1
+org/apache/spark/launcher/AbstractCommandBuilder/loadPropertiesFile()@g_spark-launcher_2.11-2.2.0.jar.txt	3

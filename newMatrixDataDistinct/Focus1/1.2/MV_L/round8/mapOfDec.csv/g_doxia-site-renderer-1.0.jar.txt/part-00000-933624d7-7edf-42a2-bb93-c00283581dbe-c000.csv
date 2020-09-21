@@ -1,0 +1,5 @@
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/copyDirectory(java.io.File,java.io.File)@g_doxia-site-renderer-1.1.2.jar.txt	3
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/locateDocumentFiles(org.apache.maven.doxia.siterenderer.SiteRenderingContext)@g_doxia-site-renderer-1.1.2.jar.txt	1
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/addModuleFiles(java.io.File,org.apache.maven.doxia.module.site.SiteModule,java.lang.String,java.util.Map)@g_doxia-site-renderer-1.1.2.jar.txt	0
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/addModuleFiles(java.io.File,org.apache.maven.doxia.module.site.SiteModule,java.lang.String,java.util.Map)@g_doxia-site-renderer-1.4.jar.txt	2
+org/apache/maven/doxia/siterenderer/DefaultSiteRenderer/renderModule(java.util.Collection,org.apache.maven.doxia.siterenderer.SiteRenderingContext,java.io.File)@g_doxia-site-renderer-1.1.2.jar.txt	4

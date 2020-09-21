@@ -1,0 +1,4 @@
+java/io/PrintStream/print(java.lang.String)
+java/lang/StringBuilder/append(int)
+java/lang/AssertionError/AssertionError(java.lang.Object)
+java/lang/StringBuilder/StringBuilder()

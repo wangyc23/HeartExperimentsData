@@ -1,0 +1,4 @@
+org/glassfish/jersey/internal/inject/ReferencingFactory/referenceFactory()
+org/glassfish/hk2/utilities/binding/ServiceBindingBuilder/in(java.lang.Class)
+org/glassfish/hk2/utilities/binding/ServiceBindingBuilder/proxy(boolean)
+org/glassfish/jersey/servlet/WebComponent$WebComponentBinder$2/2(org.glassfish.jersey.servlet.WebComponent$WebComponentBinder)

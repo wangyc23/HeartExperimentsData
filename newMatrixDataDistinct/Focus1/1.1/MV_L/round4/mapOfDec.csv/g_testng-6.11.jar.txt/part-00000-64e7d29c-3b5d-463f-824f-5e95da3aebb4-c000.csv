@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/optional/TraXLiaison/getSource(java.io.InputStream,java.io.File)@g_ant-1.10.1.jar.txt	0
+org/apache/tools/ant/launch/Locator/fromURIJava13(java.lang.String)@g_ant-launcher-1.9.3.jar.txt	3
+org/apache/tools/ant/taskdefs/optional/TraXLiaison/getSource(java.io.InputStream,org.apache.tools.ant.types.Resource)@g_ant-1.10.1.jar.txt	1
+org/apache/tools/ant/DirectoryScanner/scan()@g_ant-1.10.1.jar.txt	2
+org/apache/tools/ant/taskdefs/optional/ejb/IPlanetDeploymentTool/getIasDescriptorName()@g_ant-1.10.1.jar.txt	4

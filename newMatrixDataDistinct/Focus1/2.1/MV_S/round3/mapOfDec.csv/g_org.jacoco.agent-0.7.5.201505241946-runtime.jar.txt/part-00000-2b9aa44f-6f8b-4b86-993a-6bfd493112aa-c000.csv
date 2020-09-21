@@ -1,0 +1,5 @@
+org/apache/xbean/asm5/commons/Method/map(java.lang.String,boolean)@g_asm-5.2.jar.txt	0
+org/jacoco/agent/rt/internal_b0d6a23/asm/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-5.2.jar.txt	4
+org/jacoco/agent/rt/internal_b0d6a23/asm/ClassWriter/newConstItem(java.lang.Object)@g_asm-5.2.jar.txt	2
+org/jacoco/agent/rt/internal_b0d6a23/ConfigLoader/substSystemProperties(java.util.Properties,java.util.Properties)@g_asm-5.2.jar.txt	3
+org/apache/xbean/asm5/ClassWriter/getCommonSuperClass(java.lang.String,java.lang.String)@g_asm-5.2.jar.txt	1

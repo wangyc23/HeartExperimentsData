@@ -1,0 +1,4 @@
+java/net/InetAddress/getHostAddress()
+java/lang/StringBuilder/append(java.lang.CharSequence)
+java/lang/String/split(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)

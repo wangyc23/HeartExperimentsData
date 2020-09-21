@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Double/isNaN(double)
+java/lang/Class/getName()
+java/lang/Double/isInfinite(double)

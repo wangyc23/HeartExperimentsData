@@ -1,0 +1,5 @@
+scala/reflect/internal/tpe/TypeMaps/SubstSymMap/apply(scala.reflect.internal.Types$Type)@g_scala-reflect-2.11.11.jar.txt	1
+scala/reflect/internal/transform/Erasure/class/specialConstructorErasure(scala.reflect.internal.transform.Erasure,scala.reflect.internal.Symbols$Symbol,scala.reflect.internal.Types$Type)@g_scala-reflect-2.11.11.jar.txt	0
+scala/reflect/internal/tpe/TypeMaps/SubstMap/apply(scala.reflect.internal.Types$Type)@g_scala-reflect-2.11.11.jar.txt	3
+scala/reflect/internal/tpe/TypeComparers/class/thirdTryRef$1(scala.reflect.internal.SymbolTable,scala.reflect.internal.Types$Type,scala.reflect.internal.Types$TypeRef,scala.reflect.internal.Types$Type,scala.reflect.internal.Types$Type,int)@g_scala-reflect-2.11.11.jar.txt	2
+scala/reflect/internal/Definitions/DefinitionsClass/isStable(scala.reflect.internal.Types$Type)@g_scala-reflect-2.11.11.jar.txt	4

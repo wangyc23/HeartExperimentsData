@@ -1,0 +1,5 @@
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/rewriteSizesAndCrc(boolean)@g_commons-compress-1.14.jar.txt	3
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/handleSizesAndCrc(long,long,org.apache.commons.compress.archivers.zip.Zip64Mode)@g_commons-compress-1.14.jar.txt	2
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/createCentralFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry,java.nio.ByteBuffer,long,boolean)@g_commons-compress-1.14.jar.txt	0
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/writeLocalFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry)@g_commons-compress-1.4.1.jar.txt	4
+org/apache/commons/compress/archivers/zip/ZipArchiveOutputStream/createLocalFileHeader(org.apache.commons.compress.archivers.zip.ZipArchiveEntry,java.nio.ByteBuffer,boolean,boolean,long)@g_commons-compress-1.14.jar.txt	1

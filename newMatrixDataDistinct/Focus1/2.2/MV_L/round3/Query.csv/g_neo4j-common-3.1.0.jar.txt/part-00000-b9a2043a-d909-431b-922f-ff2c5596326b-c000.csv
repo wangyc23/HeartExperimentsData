@@ -1,0 +1,4 @@
+org/neo4j/kernel/lifecycle/LifecycleStatus/name()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Iterator/next()

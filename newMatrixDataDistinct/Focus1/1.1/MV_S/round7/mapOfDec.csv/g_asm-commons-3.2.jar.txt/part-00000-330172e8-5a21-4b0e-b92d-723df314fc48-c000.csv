@@ -1,0 +1,5 @@
+org/objectweb/asm/commons/Method/getMethod(java.lang.String,boolean)@g_xbean-asm5-shaded-4.4.jar.txt	1
+org/apache/xbean/asm5/commons/InstructionAdapter/visitLdcInsn(java.lang.Object)@g_xbean-asm5-shaded-4.4.jar.txt	2
+org/objectweb/asm/commons/SerialVersionUIDAdder/computeSVUID()@g_xbean-asm5-shaded-4.4.jar.txt	3
+org/objectweb/asm/commons/Remapper/mapDesc(java.lang.String)@g_xbean-asm5-shaded-4.4.jar.txt	4
+org/apache/xbean/asm5/commons/Method/map(java.lang.String,boolean)@g_xbean-asm5-shaded-4.4.jar.txt	0

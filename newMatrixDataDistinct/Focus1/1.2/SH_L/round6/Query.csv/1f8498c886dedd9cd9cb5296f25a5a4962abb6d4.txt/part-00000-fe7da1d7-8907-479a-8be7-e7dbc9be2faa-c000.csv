@@ -1,0 +1,4 @@
+com/inductiveautomation/opcua/stack/core/serialization/UaDecoder/decodeQualifiedName(java.lang.String)
+com/inductiveautomation/opcua/stack/core/serialization/UaDecoder/decodeLocalizedText(java.lang.String)
+com/inductiveautomation/opcua/stack/core/serialization/UaDecoder/decodeUInt32(java.lang.String)
+com/inductiveautomation/opcua/stack/core/types/structured/TypeNode/TypeNode(com.inductiveautomation.opcua.stack.core.types.builtin.NodeId,com.inductiveautomation.opcua.stack.core.types.enumerated.NodeClass,com.inductiveautomation.opcua.stack.core.types.builtin.QualifiedName,com.inductiveautomation.opcua.stack.core.types.builtin.LocalizedText,com.inductiveautomation.opcua.stack.core.types.builtin.LocalizedText,com.inductiveautomation.opcua.stack.core.types.builtin.unsigned.UInteger,com.inductiveautomation.opcua.stack.core.types.builtin.unsigned.UInteger,com.inductiveautomation.opcua.stack.core.types.structured.ReferenceNode[])

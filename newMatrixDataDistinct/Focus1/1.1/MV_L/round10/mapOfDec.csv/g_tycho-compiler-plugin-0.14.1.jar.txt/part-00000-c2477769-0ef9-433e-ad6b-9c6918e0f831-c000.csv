@@ -1,0 +1,5 @@
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/getSourcepath()@g_tycho-compiler-plugin-0.23.1.jar.txt	4
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/configureBootclasspathAccessRules(org.codehaus.plexus.compiler.CompilerConfiguration)@g_tycho-compiler-plugin-0.23.1.jar.txt	3
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/getClasspath()@g_tycho-compiler-plugin-0.23.1.jar.txt	0
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/getCompileSourceRoots()@g_tycho-compiler-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/checkTargetLevelCompatibleWithManifestBREEs(java.lang.String,org.eclipse.tycho.core.ee.StandardExecutionEnvironment[])@g_tycho-compiler-plugin-0.23.1.jar.txt	1

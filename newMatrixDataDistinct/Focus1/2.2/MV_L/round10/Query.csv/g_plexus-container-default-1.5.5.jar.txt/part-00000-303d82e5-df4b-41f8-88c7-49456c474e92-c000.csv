@@ -1,0 +1,4 @@
+java/lang/Object/equals(java.lang.Object)
+java/lang/Thread/currentThread()
+java/lang/StringBuilder/StringBuilder()
+java/lang/Object/getClass()

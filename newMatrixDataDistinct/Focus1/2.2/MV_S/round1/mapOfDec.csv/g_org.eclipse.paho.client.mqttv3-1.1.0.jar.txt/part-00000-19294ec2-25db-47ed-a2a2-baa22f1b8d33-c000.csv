@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/internal/core/Framework/findVMProfile()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	3
+org/eclipse/core/runtime/internal/adaptor/PluginParser/replace(java.lang.String,java.lang.String,java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/core/runtime/internal/adaptor/PluginConverterImpl/filterExport(java.util.Set,java.util.Collection)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2
+org/eclipse/core/runtime/adaptor/LocationManager/buildLocation(java.lang.String,java.net.URL,java.lang.String,boolean,boolean,java.lang.String)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/osgi/internal/signedcontent/SignatureBlockProcessor/verifyManifestAndSignatureFile(byte[],byte[])@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1

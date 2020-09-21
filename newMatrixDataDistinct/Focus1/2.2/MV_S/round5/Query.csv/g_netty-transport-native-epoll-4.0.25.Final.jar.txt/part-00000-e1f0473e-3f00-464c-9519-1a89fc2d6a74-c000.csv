@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/position()
+java/nio/ByteBuffer/limit()
+io/netty/buffer/ByteBuf/readableBytes()
+io/netty/channel/AddressedEnvelope/recipient()

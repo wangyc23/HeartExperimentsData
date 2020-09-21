@@ -1,0 +1,5 @@
+org/glassfish/grizzly/servlet/WebappContext/getNamedDispatcher(java.lang.String)@g_mongo-java-driver-3.4.2.jar.txt	4
+org/glassfish/grizzly/servlet/WebappContext/registerDefaultServlet(org.glassfish.grizzly.http.server.HttpServer)@g_mongo-java-driver-3.4.2.jar.txt	2
+org/bson/BsonBinaryReader/doSkipValue()@g_mongo-java-driver-3.4.2.jar.txt	0
+org/bson/BsonBinaryReader/readBsonType()@g_mongo-java-driver-3.4.2.jar.txt	1
+com/mongodb/ConnectionString/parseOptions(java.lang.String)@g_mongo-java-driver-3.4.2.jar.txt	3

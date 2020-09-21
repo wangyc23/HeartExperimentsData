@@ -1,0 +1,5 @@
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/getClasspath()@g_tycho-compiler-plugin-0.23.1.jar.txt	0
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/doCopyResources()@g_tycho-compiler-plugin-0.23.1.jar.txt	4
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/execute()@g_tycho-compiler-plugin-0.23.1.jar.txt	2
+org/eclipse/tycho/compiler/AbstractOsgiCompilerMojo/toString(java.util.List)@g_tycho-compiler-plugin-0.23.1.jar.txt	3
+copied/org/apache/maven/plugin/AbstractCompilerMojo/getCompilerConfiguration(java.util.List)@g_tycho-compiler-plugin-0.23.1.jar.txt	1

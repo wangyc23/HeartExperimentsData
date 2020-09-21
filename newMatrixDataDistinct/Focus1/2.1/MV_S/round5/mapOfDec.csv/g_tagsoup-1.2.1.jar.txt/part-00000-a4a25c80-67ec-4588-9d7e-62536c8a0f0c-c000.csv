@@ -1,0 +1,5 @@
+org/apache/xalan/xsltc/compiler/Mode/compileApplyTemplates(org.apache.xalan.xsltc.compiler.util.ClassGenerator)@g_xalan-2.7.2.jar.txt	2
+org/apache/xalan/xsltc/compiler/Parser/getQName(java.lang.String,java.lang.String,java.lang.String)@g_xalan-2.7.2.jar.txt	1
+org/apache/xalan/transformer/ClonerToResultTree/cloneToResultTree(int,int,org.apache.xml.dtm.DTM,org.apache.xml.serializer.SerializationHandler,boolean)@g_xalan-2.7.2.jar.txt	4
+org/apache/xalan/templates/ElemNumber/formatNumberList(org.apache.xalan.transformer.TransformerImpl,long[],int)@g_xalan-2.7.2.jar.txt	0
+org/apache/xalan/xsltc/compiler/util/ObjectFactory/findJarServiceProviderName(java.lang.String)@g_xalan-2.7.2.jar.txt	3

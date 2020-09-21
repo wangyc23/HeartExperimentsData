@@ -1,0 +1,4 @@
+com/fasterxml/jackson/databind/JsonNode/get(java.lang.String)
+java/util/List/retainAll(java.util.Collection)
+java/util/List/removeAll(java.util.Collection)
+com/github/fge/jackson/jsonpointer/JsonPointer/append(java.lang.String)

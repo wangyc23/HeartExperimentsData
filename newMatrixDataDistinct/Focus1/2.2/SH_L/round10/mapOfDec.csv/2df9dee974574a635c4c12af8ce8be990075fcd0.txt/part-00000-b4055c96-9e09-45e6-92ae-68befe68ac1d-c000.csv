@@ -1,0 +1,5 @@
+org/sindice/siren/qparser/keyword/query/processors/AnalyzerQueryNodeProcessor/postProcessNode(org.apache.lucene.queryParser.core.nodes.QueryNode)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	0
+org/apache/lucene/analysis/ko/utils/NounUtil/analysisNSMJ(org.apache.lucene.analysis.ko.morph.AnalysisOutput,java.util.List)@022d75fdfa23215dba697e19f838683500245632.txt	4
+org/sindice/siren/search/SirenBooleanScorer/add(org.sindice.siren.search.SirenPrimitiveScorer,boolean,boolean)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	3
+org/sindice/siren/search/SirenCellBooleanScorer/add(org.sindice.siren.search.SirenCellScorer,boolean,boolean)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	2
+org/sindice/siren/solr/schema/AnalyzerConfigReader/readAnalyzer(org.w3c.dom.Node,org.apache.solr.core.SolrResourceLoader,org.apache.lucene.util.Version)@1f8511c33d867f864d7fcc4175dadf0aa9c8d12e.txt	1

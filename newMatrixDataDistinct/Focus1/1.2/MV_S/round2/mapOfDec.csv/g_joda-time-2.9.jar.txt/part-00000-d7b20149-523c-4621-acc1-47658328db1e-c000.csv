@@ -1,0 +1,5 @@
+org/apache/maven/shared/utils/io/FileUtils/toFile(java.net.URL)@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/it/util/FileUtils/deleteFile(java.io.File)@g_maven-verifier-1.2.jar.txt	0
+org/apache/maven/shared/utils/StringUtils/quoteAndEscape(java.lang.String,char,char[],char[],char,boolean)@g_maven-verifier-1.2.jar.txt	2
+org/apache/maven/it/util/FileUtils/copyFile(java.io.File,java.io.File,java.lang.String,org.apache.maven.it.util.FileUtils$FilterWrapper[])@g_maven-verifier-1.2.jar.txt	1
+org/apache/maven/it/Verifier/replaceArtifacts(java.lang.String,boolean)@g_maven-verifier-1.2.jar.txt	3

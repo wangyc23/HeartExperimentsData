@@ -1,0 +1,4 @@
+java/lang/Math/ceil(double)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Integer/Integer(int)

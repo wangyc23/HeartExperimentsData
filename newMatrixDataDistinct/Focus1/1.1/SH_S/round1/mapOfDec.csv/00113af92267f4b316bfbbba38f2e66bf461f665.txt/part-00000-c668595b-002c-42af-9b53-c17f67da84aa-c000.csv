@@ -1,0 +1,5 @@
+org/dyrda/javabrains/resourses/ProfileResource/getAllProfiles()@2c9549dd139deb00021ea50c189abc2d31655a44.txt	1
+org/dyrda/javabrains/resourses/CommentResource/updateComment(javax.ws.rs.core.UriInfo,long,long,org.dyrda.javabrains.model.Comment)@2c9549dd139deb00021ea50c189abc2d31655a44.txt	0
+nl/illuminatedgroup/bankapplicatievoorbeeld/Server/main(java.lang.String[])@2c9549dd139deb00021ea50c189abc2d31655a44.txt	2
+org/dyrda/javabrains/resourses/InjectParamsResource/getInjectedParamsUsingContext(javax.ws.rs.core.UriInfo,javax.ws.rs.core.HttpHeaders)@2c9549dd139deb00021ea50c189abc2d31655a44.txt	4
+org/dyrda/javabrains/service/MessageService/getMessage(long)@2c9549dd139deb00021ea50c189abc2d31655a44.txt	3

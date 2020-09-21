@@ -1,0 +1,4 @@
+com/sun/management/OperatingSystemMXBean/getTotalSwapSpaceSize()
+java/lang/Runtime/getRuntime()
+java/lang/management/ManagementFactory/getOperatingSystemMXBean()
+java/lang/Runtime/freeMemory()

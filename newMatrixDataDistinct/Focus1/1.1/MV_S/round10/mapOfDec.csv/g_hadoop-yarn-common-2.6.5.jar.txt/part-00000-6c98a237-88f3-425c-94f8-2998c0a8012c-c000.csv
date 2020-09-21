@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/security/client/RMDelegationTokenIdentifier/Renewer/getRmClient(org.apache.hadoop.security.token.Token,org.apache.hadoop.conf.Configuration)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3
+org/apache/hadoop/mapreduce/Job/getTaskFailureEventString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0
+org/apache/hadoop/mapreduce/jobhistory/HistoryViewer/printLast(org.apache.hadoop.mapreduce.jobhistory.JobHistoryParser$TaskAttemptInfo[],java.lang.String,java.util.Comparator)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/yarn/state/VisualizeStateMachine/getGraphFromClasses(java.lang.String,java.util.List)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/yarn/util/ConverterUtils/toNodeId(java.lang.String)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1

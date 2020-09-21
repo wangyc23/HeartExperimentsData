@@ -1,0 +1,5 @@
+io/netty/handler/logging/LoggingHandlerTest/shouldLogChannelException()@28d8b9e01e3300d65d02c410027123f892348d9f.txt	4
+io/netty/microbenchmark/common/IntObjectHashMapBenchmark/setup()@28d8b9e01e3300d65d02c410027123f892348d9f.txt	2
+io/netty/handler/codec/http/HttpContentEncoder/encode(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.HttpObject,java.util.List)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	3
+io/netty/handler/codec/http/websocketx/WebSocketClientHandshaker/finishHandshake(io.netty.channel.Channel,io.netty.handler.codec.http.FullHttpResponse)@28d8b9e01e3300d65d02c410027123f892348d9f.txt	1
+io/netty/util/internal/logging/FormattingTuple/trimmedCopy(java.lang.Object[])@28d8b9e01e3300d65d02c410027123f892348d9f.txt	0

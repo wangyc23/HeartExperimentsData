@@ -1,0 +1,5 @@
+jline/UnixTerminal/getTerminalProperty(java.lang.String)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	2
+jline/WindowsTerminal/loadLibrary(java.lang.String)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	4
+org/apache/maven/doxia/logging/SystemStreamLog/print(java.lang.String,java.lang.CharSequence,java.lang.Throwable)@g_doxia-logging-api-1.5.jar.txt	1
+jline/console/completer/ArgumentCompleter/complete(java.lang.String,int,java.util.List)@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	3
+jline/UnixTerminal/exec(java.lang.String[])@g_org.apache.servicemix.bundles.jline-0.9.94_1.jar.txt	0

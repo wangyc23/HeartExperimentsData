@@ -1,0 +1,5 @@
+org/apache/http/conn/ssl/AbstractVerifier/verify(java.lang.String,java.lang.String[],java.lang.String[],boolean)@g_httpclient-osgi-4.5.3.jar.txt	2
+org/apache/http/impl/client/HttpClientBuilder/build()@g_httpclient-osgi-4.5.3.jar.txt	4
+org/apache/http/client/utils/URIUtils/normalizeSyntax(java.net.URI)@g_httpclient-osgi-4.5.3.jar.txt	1
+org/apache/http/impl/conn/tsccm/ConnPoolByRoute/closeExpiredConnections()@g_httpclient-osgi-4.5.3.jar.txt	3
+org/apache/http/client/protocol/ResponseProcessCookies/processCookies(org.apache.http.HeaderIterator,org.apache.http.cookie.CookieSpec,org.apache.http.cookie.CookieOrigin,org.apache.http.client.CookieStore)@g_httpclient-osgi-4.5.3.jar.txt	0

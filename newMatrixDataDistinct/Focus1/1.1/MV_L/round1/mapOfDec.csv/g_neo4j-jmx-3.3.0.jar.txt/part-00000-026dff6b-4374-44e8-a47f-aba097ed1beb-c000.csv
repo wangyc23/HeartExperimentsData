@@ -1,0 +1,5 @@
+org/neo4j/jmx/impl/KernelBean/DataSourceInfo/registered(org.neo4j.kernel.NeoStoreDataSource)@g_neo4j-jmx-3.1.0.jar.txt	1
+org/neo4j/jmx/impl/JmxKernelExtension/getManagementBeans(java.lang.Class)@g_neo4j-jmx-3.1.0.jar.txt	4
+org/neo4j/jmx/impl/ConfigurationBean/keys()@g_neo4j-jmx-3.1.0.jar.txt	2
+org/neo4j/jmx/impl/JmxKernelExtension/shutdown()@g_neo4j-jmx-3.1.0.jar.txt	0
+org/neo4j/jmx/impl/JmxKernelExtension/init()@g_neo4j-jmx-3.1.0.jar.txt	3

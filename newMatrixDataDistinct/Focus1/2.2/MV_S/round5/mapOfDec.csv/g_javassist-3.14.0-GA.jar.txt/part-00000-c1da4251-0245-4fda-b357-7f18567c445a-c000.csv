@@ -1,0 +1,5 @@
+javassist/util/proxy/RuntimeSupport/makeDesc(java.lang.StringBuffer,java.lang.Class)@g_javassist-3.18.1-GA.jar.txt	1
+javassist/DirClassPath/find(java.lang.String)@g_javassist-3.9.0.GA.jar.txt	2
+javassist/util/proxy/FactoryHelper/writeFile0(javassist.bytecode.ClassFile,java.lang.String)@g_javassist-3.9.0.GA.jar.txt	4
+javassist/util/proxy/RuntimeSupport/makeDesc(java.lang.StringBuffer,java.lang.Class)@g_javassist-3.9.0.GA.jar.txt	0
+javassist/expr/NewArray/replace2(java.lang.String)@g_javassist-3.9.0.GA.jar.txt	3

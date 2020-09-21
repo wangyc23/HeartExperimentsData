@@ -1,0 +1,5 @@
+org/eclipse/acceleo/internal/parser/ast/CST2ASTConverterWithResolver/transformStepResolveBody(org.eclipse.acceleo.parser.cst.Block)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	4
+org/eclipse/acceleo/parser/AcceleoParser/parse(java.util.List,java.util.List,java.util.List,java.util.Map,org.eclipse.emf.common.util.Monitor)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	2
+org/eclipse/acceleo/parser/AcceleoParser/parse(org.eclipse.acceleo.parser.AcceleoSourceBuffer,org.eclipse.emf.ecore.resource.Resource,java.util.List)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	3
+org/eclipse/acceleo/parser/compiler/AcceleoCompilerHelper/computeJarDependencies(java.util.List,java.util.Map)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	1
+org/eclipse/acceleo/internal/parser/compiler/AcceleoProject/getOutputFile(java.io.File)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	0

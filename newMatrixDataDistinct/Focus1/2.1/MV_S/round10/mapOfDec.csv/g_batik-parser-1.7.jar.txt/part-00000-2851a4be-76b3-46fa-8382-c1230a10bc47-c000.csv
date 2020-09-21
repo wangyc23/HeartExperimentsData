@@ -1,0 +1,5 @@
+jxl/write/biff/CompoundFile/writePropertySets()@g_ws-commons-util-1.0.2.jar.txt	3
+jxl/write/biff/HyperlinkRecord/setLocation(jxl.write.WritableSheet,int,int,int,int)@g_ws-commons-util-1.0.2.jar.txt	2
+jxl/write/biff/WritableWorkbookImpl/rowRemoved(jxl.write.biff.WritableSheetImpl,int)@g_ws-commons-util-1.0.2.jar.txt	1
+jxl/demo/Write/writeDateFormatSheet(jxl.write.WritableSheet)@g_ws-commons-util-1.0.2.jar.txt	4
+jxl/demo/BiffDump/writeRecord(jxl.read.biff.Record)@g_ws-commons-util-1.0.2.jar.txt	0

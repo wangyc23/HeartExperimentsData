@@ -1,0 +1,4 @@
+org/apache/sling/jcr/webdav/impl/helper/SlingResourceConfig/getServletContextPath()
+org/apache/sling/jcr/webdav/impl/servlets/SlingSimpleWebDavServlet/SlingSimpleWebDavServlet(org.apache.sling.jcr.webdav.impl.helper.SlingResourceConfig,org.apache.sling.oak.server.Repository)
+org/apache/sling/jcr/webdav/impl/handler/SlingPropertyManager/setComponentContext(org.apache.sling.auth.xing.login.impl.ComponentContext)
+org/apache/sling/jcr/webdav/impl/servlets/SlingWebDavServlet/getRepository()

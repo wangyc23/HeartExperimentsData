@@ -1,0 +1,4 @@
+com/google/web/bindery/requestfactory/server/RequestFactoryJarExtractor$NativeMethodDefanger/NativeMethodDefanger(com.google.web.bindery.requestfactory.server.RequestFactoryJarExtractor,com.google.gwt.dev.asm.ClassVisitor)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/util/Map/containsKey(java.lang.Object)

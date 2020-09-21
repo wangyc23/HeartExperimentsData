@@ -1,0 +1,4 @@
+0	org/keycloak/models/entities/UserEntity/getGroupIds()
+1	org/keycloak/services/resources/admin/AdminRoot/adminBaseUrl(org.keycloak.account.freemarker.UriInfo)
+2	org/keycloak/models/RealmModel/isEnabled()
+3	org/keycloak/models/cache/entities/CachedRealm/isEnabled()

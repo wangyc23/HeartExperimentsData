@@ -1,0 +1,5 @@
+org/drools/rule/builder/dialect/asm/GeneratorHelper/DeclarationAccessorMethod/traverseTuplesUntilDeclarationWithOr(int,int,int,int)@g_drools-core-5.6.0.Final.jar.txt	0
+org/drools/factmodel/traits/TraitMapPropertyWrapperClassBuilderImpl/invokeRemove(org.mvel2.asm.MethodVisitor,java.lang.String,org.drools.factmodel.ClassDefinition,java.lang.String,org.drools.factmodel.FieldDefinition)@g_drools-core-5.6.0.Final.jar.txt	1
+org/drools/factmodel/traits/TraitMapProxyClassBuilderImpl/shedField(org.mvel2.asm.MethodVisitor,org.drools.factmodel.FieldDefinition,java.lang.String,org.drools.factmodel.ClassDefinition,org.drools.factmodel.ClassDefinition,boolean,int)@g_drools-core-5.6.0.Final.jar.txt	3
+org/drools/factmodel/traits/TraitMapPropertyWrapperClassBuilderImpl/buildCommonMethods(org.mvel2.asm.ClassVisitor,java.lang.String)@g_drools-core-5.6.0.Final.jar.txt	2
+org/drools/factmodel/traits/TraitTripleProxyClassBuilderImpl/buildKeyedEquals(org.mvel2.asm.ClassVisitor,org.drools.factmodel.ClassDefinition,java.lang.String)@g_drools-core-5.6.0.Final.jar.txt	4

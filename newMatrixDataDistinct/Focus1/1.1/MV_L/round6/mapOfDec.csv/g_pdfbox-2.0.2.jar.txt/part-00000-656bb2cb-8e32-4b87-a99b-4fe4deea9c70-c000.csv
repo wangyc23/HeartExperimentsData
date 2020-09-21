@@ -1,0 +1,5 @@
+org/apache/pdfbox/pdmodel/interactive/form/AppearanceGeneratorHelper/setAppearanceValue(java.lang.String)@g_pdfbox-2.0.7.jar.txt	2
+org/apache/pdfbox/pdmodel/encryption/StandardSecurityHandler/validatePerms(org.apache.pdfbox.pdmodel.encryption.PDEncryption,int,boolean)@g_pdfbox-2.0.7.jar.txt	1
+org/apache/pdfbox/pdfparser/PDFStreamParser/parseNextToken()@g_pdfbox-2.0.7.jar.txt	0
+org/apache/pdfbox/pdmodel/graphics/shading/PatchMeshesShadingContext/collectPatches(org.apache.pdfbox.pdmodel.graphics.shading.PDShadingType6,java.awt.geom.AffineTransform,org.apache.pdfbox.util.Matrix,int)@g_pdfbox-2.0.7.jar.txt	4
+org/apache/pdfbox/text/PDFTextStripper/<clinit>()@g_pdfbox-2.0.7.jar.txt	3

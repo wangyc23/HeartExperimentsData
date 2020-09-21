@@ -1,0 +1,4 @@
+java/lang/reflect/Constructor/getParameterTypes()
+java/lang/reflect/Constructor/getDeclaringClass()
+com/thoughtworks/paranamer/BytecodeReadingParanamer$TypeCollector/access$300(com.thoughtworks.paranamer.BytecodeReadingParanamer$TypeCollector)
+java/lang/reflect/Method/getParameterTypes()

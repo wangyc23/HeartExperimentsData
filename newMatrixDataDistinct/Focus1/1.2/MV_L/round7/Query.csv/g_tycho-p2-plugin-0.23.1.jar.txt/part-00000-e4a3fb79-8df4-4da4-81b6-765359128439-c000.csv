@@ -1,0 +1,4 @@
+org/eclipse/tycho/artifactcomparator/ArtifactComparator/getDelta(java.io.File,java.io.File)
+org/eclipse/tycho/p2/metadata/IP2Artifact/getLocation()
+java/util/Iterator/hasNext()
+org/eclipse/tycho/p2/tools/baseline/facade/BaselineService/isMetadataEqual(org.eclipse.tycho.p2.metadata.IP2Artifact,org.eclipse.tycho.p2.metadata.IP2Artifact)

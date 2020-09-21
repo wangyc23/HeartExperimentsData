@@ -1,0 +1,5 @@
+org/wso2/carbon/identity/entitlement/proxy/thrift/ThriftEntitlementServiceClient/getDecision(java.lang.String,org.wso2.carbon.identity.entitlement.proxy.generatedCode.EntitlementThriftClient.Client,java.lang.String)@1873d53984a7c4934a0e56f33e6163c5a88cff1b.txt	4
+org/wso2/carbon/datasource/MiscellaneousHelper/handleException(java.lang.String)@1873d53984a7c4934a0e56f33e6163c5a88cff1b.txt	0
+org/switchyard/common/io/resource/SimpleResource/setLocation(java.lang.String)@1873d53984a7c4934a0e56f33e6163c5a88cff1b.txt	3
+org/switchyard/transform/internal/json/JSONTransformerTest/test_JSONResultUser()@1873d53984a7c4934a0e56f33e6163c5a88cff1b.txt	1
+org/codice/ddf/spatial/ogc/csw/catalog/source/TestCswCqlFilter/testPropertyIsEqualToStringLiteralAnyText()@1873d53984a7c4934a0e56f33e6163c5a88cff1b.txt	2

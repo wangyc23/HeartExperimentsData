@@ -1,0 +1,5 @@
+org/drools/reteoo/BaseLeftTuple/toExternalString()@g_drools-core-5.5.0.Final.jar.txt	3
+org/apache/hadoop/yarn/proto/YarnServiceProtos/ReservationSubmissionRequestProto/equals(java.lang.Object)@g_drools-core-5.5.0.Final.jar.txt	0
+org/apache/hadoop/yarn/proto/YarnServiceProtos/AllocateResponseProto/Builder/mergeFrom(org.apache.hadoop.yarn.proto.YarnServiceProtos$AllocateResponseProto)@g_drools-core-5.5.0.Final.jar.txt	4
+org/sonatype/spice/zapper/internal/protobuf/protos/ZapperProtos/SegmentFooter/Builder/mergeFrom(com.google.protobuf.CodedInputStream,com.google.protobuf.ExtensionRegistryLite)@g_drools-core-5.5.0.Final.jar.txt	1
+org/apache/hadoop/yarn/proto/YarnProtos/PreemptionMessageProto/hashCode()@g_drools-core-5.5.0.Final.jar.txt	2

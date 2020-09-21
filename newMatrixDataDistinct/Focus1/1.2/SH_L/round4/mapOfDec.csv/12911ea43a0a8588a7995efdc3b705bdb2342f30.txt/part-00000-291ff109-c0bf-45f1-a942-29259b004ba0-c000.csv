@@ -1,0 +1,5 @@
+eu/matejkormuth/rpgdavid/starving/remote/netty/handlers/ShortHeaderFrameDecoder/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+org/jboss/as/quickstarts/bmt/TransactionServlet/doGet(org.jboss.as.quickstarts.xa.HttpServletRequest,org.jboss.as.quickstarts.xa.HttpServletResponse)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	1
+org/jboss/as/quickstarts/kitchensink/spring/controlleradvice/controller/MemberController/registerNewMember(org.jboss.as.quickstarts.kitchensink.spring.controlleradvice.model.Member,org.jboss.as.quickstarts.kitchensink.spring.asyncrequestmapping.controller.BindingResult,org.jboss.as.quickstarts.kitchensink.spring.asyncrequestmapping.controller.Model)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+demo/restful/server/RestSourcePayloadProvider/invoke(javax.xml.transform.dom.DOMSource)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2

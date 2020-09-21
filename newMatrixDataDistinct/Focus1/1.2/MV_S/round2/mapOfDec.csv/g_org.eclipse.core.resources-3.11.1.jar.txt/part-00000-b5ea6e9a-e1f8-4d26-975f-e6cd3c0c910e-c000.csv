@@ -1,0 +1,5 @@
+org/eclipse/core/internal/localstore/Bucket/accept(org.eclipse.core.internal.localstore.Bucket$Visitor,org.eclipse.core.runtime.IPath,int)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	3
+org/eclipse/core/internal/refresh/MonitorManager/pathVariableChanged(org.eclipse.core.resources.IPathVariableChangeEvent)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	2
+org/eclipse/core/internal/resources/Resource/filterChildren(org.eclipse.core.internal.resources.Project,org.eclipse.core.internal.resources.ProjectDescription,org.eclipse.core.filesystem.IFileInfo[],boolean)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	1
+org/eclipse/core/internal/resources/Resource/filterChildren(org.eclipse.core.internal.resources.Project,org.eclipse.core.internal.resources.ProjectDescription,org.eclipse.core.filesystem.IFileInfo[],boolean)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	0
+org/eclipse/core/internal/refresh/MonitorManager/pathVariableChanged(org.eclipse.core.resources.IPathVariableChangeEvent)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	4

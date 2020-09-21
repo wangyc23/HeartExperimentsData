@@ -1,0 +1,5 @@
+org/springframework/security/authentication/DefaultAuthenticationEventPublisher/setAdditionalExceptionMappings(java.util.Properties)@g_spring-security-core-4.0.0.RELEASE.jar.txt	0
+org/springframework/security/authentication/DefaultAuthenticationEventPublisher/setAdditionalExceptionMappings(java.util.Properties)@g_spring-security-core-4.0.1.RELEASE.jar.txt	1
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-security-core-4.0.0.RELEASE.jar.txt	3
+org/springframework/security/access/prepost/PrePostAnnotationSecurityMetadataSource/getAttributes(java.lang.reflect.Method,java.lang.Class)@g_spring-security-core-4.0.0.RELEASE.jar.txt	4
+org/springframework/security/jackson2/UnmodifiableSetDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)@g_spring-security-core-4.0.0.RELEASE.jar.txt	2

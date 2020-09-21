@@ -1,0 +1,5 @@
+com/xeiam/xchange/ripple/RippleAdaptersTest/adaptTrade_PaymentPassthrough()@2e7e2f0462b975d1f34f3c206ba93f7647300ad5.txt	4
+com/xeiam/xchange/ripple/dto/account/trade/RippleTransactionFeeTest/transactionFeeUnmarshalTest()@2e7e2f0462b975d1f34f3c206ba93f7647300ad5.txt	3
+com/xeiam/xchange/coinbase/dto/account/CoinbaseAccountJsonTest/testDeserializeBalance()@2e7e2f0462b975d1f34f3c206ba93f7647300ad5.txt	2
+com/xeiam/xchange/cryptsy/dto/CryptsyAdapterTest/testAdaptMarketSets()@2e7e2f0462b975d1f34f3c206ba93f7647300ad5.txt	0
+com/xeiam/xchange/cryptofacilities/dto/marketdata/CryptoFacilitiesContractsJSONTest/testUnmarshal()@2e7e2f0462b975d1f34f3c206ba93f7647300ad5.txt	1

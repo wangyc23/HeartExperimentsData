@@ -1,0 +1,5 @@
+org/apache/maven/plugin/assembly/format/ReflectionProperties/get(java.lang.Object)@g_maven-assembly-plugin-2.2.1.jar.txt	2
+org/apache/maven/plugin/assembly/archive/archiver/AssemblyProxyArchiver/doAddFileSet(org.codehaus.plexus.archiver.FileSet)@g_maven-assembly-plugin-2.2.1.jar.txt	0
+org/apache/maven/plugin/assembly/archive/archiver/AssemblyProxyArchiver/addDirectory(java.io.File,java.lang.String[],java.lang.String[])@g_maven-assembly-plugin-2.2.1.jar.txt	3
+org/apache/maven/plugin/assembly/archive/archiver/AssemblyProxyArchiver/addArchivedFileSet(java.io.File)@g_maven-assembly-plugin-2.2.1.jar.txt	4
+org/apache/maven/plugin/assembly/mojos/AbstractAssemblyMojo/execute()@g_maven-assembly-plugin-2.2.1.jar.txt	1

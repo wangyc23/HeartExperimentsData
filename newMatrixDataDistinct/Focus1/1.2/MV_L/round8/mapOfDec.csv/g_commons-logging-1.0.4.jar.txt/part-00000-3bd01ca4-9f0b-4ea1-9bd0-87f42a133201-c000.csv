@@ -1,0 +1,5 @@
+org/apache/commons/logging/impl/LogFactoryImpl/getLogConstructor()@g_jcl-over-slf4j-1.5.6.jar.txt	0
+org/apache/commons/logging/impl/LogFactoryImpl/getLogConstructor()@g_jcl-over-slf4j-1.6.1.jar.txt	3
+org/apache/commons/logging/LogFactory/getFactory()@g_jcl-over-slf4j-1.5.6.jar.txt	1
+org/apache/commons/logging/LogFactory/getFactory()@g_jcl-over-slf4j-1.6.1.jar.txt	4
+org/apache/commons/logging/impl/SimpleLog/log(int,java.lang.Object,java.lang.Throwable)@g_jcl-over-slf4j-1.5.6.jar.txt	2

@@ -1,0 +1,5 @@
+weka/gui/beans/Classifier/loadModel()@g_weka-stable-3.6.10.jar.txt	3
+weka/classifiers/trees/BFTree/getOptions()@g_weka-stable-3.6.10.jar.txt	2
+weka/filters/unsupervised/attribute/RandomSubset/getOptions()@g_weka-stable-3.6.10.jar.txt	0
+weka/core/neighboursearch/balltrees/MiddleOutConstructor/mergeNodes(java.util.Vector,int,int)@g_weka-stable-3.6.10.jar.txt	4
+weka/core/neighboursearch/KDTree/getOptions()@g_weka-stable-3.6.10.jar.txt	1

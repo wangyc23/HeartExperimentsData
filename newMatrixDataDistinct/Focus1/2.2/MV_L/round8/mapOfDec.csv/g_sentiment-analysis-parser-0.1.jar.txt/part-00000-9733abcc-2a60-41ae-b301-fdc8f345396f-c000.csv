@@ -1,0 +1,5 @@
+edu/usc/ir/sentiment/analysis/cmdline/CLI/<clinit>()@g_slf4j-simple-1.6.1.jar.txt	1
+org/slf4j/impl/SimpleLogger/log(java.lang.String,java.lang.String,java.lang.Throwable)@g_slf4j-simple-1.6.1.jar.txt	0
+edu/usc/ir/sentiment/analysis/cmdline/CLI/main(java.lang.String[])@g_slf4j-simple-1.6.1.jar.txt	4
+edu/usc/ir/sentiment/analysis/cmdline/SentimentTrainerTool/run(java.lang.String,java.lang.String[])@g_slf4j-simple-1.6.1.jar.txt	3
+edu/usc/ir/sentiment/analysis/cmdline/CLI/usage()@g_slf4j-simple-1.6.1.jar.txt	2

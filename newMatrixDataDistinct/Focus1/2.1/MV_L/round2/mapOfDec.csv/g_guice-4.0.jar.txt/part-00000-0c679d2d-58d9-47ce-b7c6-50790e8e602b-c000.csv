@@ -1,0 +1,5 @@
+com/google/inject/internal/asm/ClassWriter/a(java.lang.Object)@g_guice-4.1.0.jar.txt	1
+com/google/inject/internal/asm/MethodWriter/visitFrame(int,int,java.lang.Object[],int,java.lang.Object[])@g_guice-4.1.0.jar.txt	3
+com/google/inject/internal/asm/ClassWriter/a(java.lang.Object)@g_sisu-guice-3.1.0.jar.txt	4
+com/google/inject/internal/cglib/proxy/LazyLoaderGenerator/generate(com.google.inject.internal.cglib.core.$ClassEmitter,com.google.inject.internal.cglib.proxy.$CallbackGenerator$Context,java.util.List)@g_guice-4.1.0.jar.txt	2
+com/google/inject/internal/Errors/format(java.lang.String,java.util.Collection)@g_guice-4.1.0.jar.txt	0

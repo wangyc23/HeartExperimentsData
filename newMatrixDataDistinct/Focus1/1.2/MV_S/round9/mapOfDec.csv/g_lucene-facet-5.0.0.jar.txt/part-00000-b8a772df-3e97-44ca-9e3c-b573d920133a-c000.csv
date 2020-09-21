@@ -1,0 +1,5 @@
+org/apache/lucene/search/suggest/document/ContextQuery/toContextAutomaton(java.util.Map,boolean)@g_lucene-suggest-6.4.1.jar.txt	1
+org/apache/lucene/search/suggest/document/CompletionFieldsConsumer/close()@g_lucene-suggest-6.4.1.jar.txt	4
+org/apache/lucene/search/suggest/analyzing/AnalyzingSuggester/build(org.apache.lucene.search.suggest.InputIterator)@g_lucene-suggest-6.4.1.jar.txt	0
+org/apache/lucene/search/suggest/document/CompletionFieldsProducer/getChildResources()@g_lucene-suggest-6.4.1.jar.txt	3
+org/apache/lucene/search/suggest/analyzing/AnalyzingInfixSuggester/toQuery(java.util.Map)@g_lucene-suggest-6.4.1.jar.txt	2

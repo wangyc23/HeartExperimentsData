@@ -1,0 +1,4 @@
+com/ctc/wstx/dtd/FullDTDReader/isNameStartChar(char)
+com/ctc/wstx/dtd/FullDTDReader/getLastCharLocation()
+java/lang/StringBuffer/toString()
+com/ctc/wstx/dtd/FullDTDReader/dtdNextFromCurr()

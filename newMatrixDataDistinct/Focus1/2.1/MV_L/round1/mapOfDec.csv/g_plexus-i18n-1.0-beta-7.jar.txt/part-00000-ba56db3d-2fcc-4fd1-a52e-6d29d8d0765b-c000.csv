@@ -1,0 +1,5 @@
+org/apache/spark/unsafe/types/CalendarInterval/fromYearMonthString(java.lang.String)@g_plexus-i18n-1.0-beta-6.jar.txt	4
+org/apache/spark/unsafe/Platform/allocateDirectBuffer(int)@g_plexus-i18n-1.0-beta-6.jar.txt	2
+org/apache/spark/unsafe/types/UTF8String/translate(java.util.Map)@g_plexus-i18n-1.0-beta-6.jar.txt	0
+org/apache/spark/unsafe/types/CalendarInterval/fromDayTimeString(java.lang.String)@g_plexus-i18n-1.0-beta-6.jar.txt	1
+org/apache/spark/unsafe/types/CalendarInterval/fromSingleUnitString(java.lang.String,java.lang.String)@g_plexus-i18n-1.0-beta-6.jar.txt	3

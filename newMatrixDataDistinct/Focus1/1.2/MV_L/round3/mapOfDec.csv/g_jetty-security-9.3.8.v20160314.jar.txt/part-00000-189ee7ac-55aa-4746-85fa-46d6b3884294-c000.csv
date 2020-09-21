@@ -1,0 +1,5 @@
+org/eclipse/jetty/security/PropertyUserStore/loadUsers()@g_jetty-security-8.1.22.v20160922.jar.txt	2
+org/eclipse/jetty/security/PropertyUserStore/loadUsers()@g_jetty-security-9.0.5.v20130815.jar.txt	3
+org/eclipse/jetty/security/ConstraintSecurityHandler/configureRoleInfo(org.eclipse.jetty.security.RoleInfo,org.eclipse.jetty.security.ConstraintMapping)@g_jetty-security-9.0.5.v20130815.jar.txt	1
+org/eclipse/jetty/security/ConstraintSecurityHandler/prepareConstraintInfo(java.lang.String,org.eclipse.jetty.server.Request)@g_jetty-security-8.1.22.v20160922.jar.txt	4
+org/eclipse/jetty/security/ConstraintSecurityHandler/configureRoleInfo(org.eclipse.jetty.security.RoleInfo,org.eclipse.jetty.security.ConstraintMapping)@g_jetty-security-8.1.22.v20160922.jar.txt	0

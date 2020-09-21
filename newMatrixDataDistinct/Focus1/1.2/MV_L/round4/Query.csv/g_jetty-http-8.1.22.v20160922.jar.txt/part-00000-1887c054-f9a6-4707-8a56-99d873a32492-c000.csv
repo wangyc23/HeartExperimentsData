@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+org/eclipse/jetty/util/LazyList/getList(java.lang.Object,boolean)
+java/util/List/size()
+org/eclipse/jetty/util/LazyList/add(java.lang.Object,java.lang.Object)

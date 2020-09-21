@@ -1,0 +1,5 @@
+net/sf/ehcache/CacheManager/CacheRejoinAction/clusterRejoinComplete()@g_api-util-1.0.0-M20.jar.txt	4
+net/sf/ehcache/management/ResourceClassLoader/findClass(java.lang.String)@g_api-util-1.0.0-M20.jar.txt	2
+org/apache/directory/shared/kerberos/KerberosUtils/getAlgoNameFromEncType(org.apache.directory.shared.kerberos.codec.types.EncryptionType)@g_api-util-1.0.0-M20.jar.txt	3
+net/sf/ehcache/store/disk/DiskStorageFactory/DiskWriteTask/call()@g_api-util-1.0.0-M20.jar.txt	0
+net/sf/ehcache/store/FrontEndCacheTier/getQuiet(java.lang.Object)@g_api-util-1.0.0-M20.jar.txt	1

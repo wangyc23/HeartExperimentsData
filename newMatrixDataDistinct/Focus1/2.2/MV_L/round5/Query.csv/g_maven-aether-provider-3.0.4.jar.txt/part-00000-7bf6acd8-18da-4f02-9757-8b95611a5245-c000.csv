@@ -1,0 +1,4 @@
+org/sonatype/aether/resolution/ArtifactDescriptorResult/addManagedDependency(org.sonatype.aether.graph.Dependency)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/maven/model/Model/getPrerequisites()
+java/lang/StringBuilder/append(int)

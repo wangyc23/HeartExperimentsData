@@ -1,0 +1,4 @@
+cn/thinkjoy/utils4s/hive/json/JSONSerDe/parseField(java.lang.Object,org.apache.hadoop.hive.serde2.typeinfo.TypeInfo)
+java/util/Map/Entry/getValue()
+org/apache/hadoop/hive/serde2/typeinfo/MapTypeInfo/getMapValueTypeInfo()
+java/util/Map/Entry/getKey()

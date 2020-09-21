@@ -1,0 +1,5 @@
+org/apache/poi/hssf/util/HSSFColor/createColorsByHexStringMap()@g_poi-3.8.jar.txt	1
+org/apache/poi/hssf/usermodel/HSSFShapeGroup/createSpContainer()@g_poi-3.8.jar.txt	2
+org/apache/poi/hpsf/MutablePropertySet/write(java.io.OutputStream)@g_poi-3.8.jar.txt	4
+org/apache/poi/hssf/model/ConvertAnchor/createAnchor(org.apache.poi.hssf.usermodel.HSSFAnchor)@g_poi-3.8.jar.txt	0
+org/apache/poi/ddf/EscherArrayProperty/toString()@g_poi-3.8.jar.txt	3

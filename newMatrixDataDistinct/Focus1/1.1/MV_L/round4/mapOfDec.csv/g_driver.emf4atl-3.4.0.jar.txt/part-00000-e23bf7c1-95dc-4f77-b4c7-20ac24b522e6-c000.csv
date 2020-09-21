@@ -1,0 +1,5 @@
+org/eclipse/acceleo/internal/parser/compiler/AcceleoParser/doBuild(java.io.File,java.util.Set,java.io.File,org.eclipse.acceleo.parser.AcceleoSourceBuffer,java.util.Set,java.util.Set,org.eclipse.emf.common.util.Monitor)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	2
+org/eclipse/acceleo/internal/parser/ast/ocl/OCLParser/addRecursivelyVariablesToScopeAndGetContextClassifierAt(org.eclipse.acceleo.model.mtl.Module,int)@g_core.emf-3.4.0.jar.txt	4
+org/eclipse/m2m/atl/core/emf/EMFExtractor/extract(org.eclipse.m2m.atl.core.IModel,java.lang.String,java.util.Map)@g_core.emf-3.4.0.jar.txt	0
+org/eclipse/acceleo/internal/parser/cst/CSTParser/parseMacroHeader(int,int,org.eclipse.acceleo.parser.cst.Macro)@g_core.emf-3.4.0.jar.txt	3
+org/eclipse/acceleo/parser/AcceleoParser/resolveAST(org.eclipse.emf.ecore.resource.ResourceSet,java.util.Map,java.util.List,org.eclipse.emf.common.util.Monitor)@g_org.eclipse.acceleo.parser-3.5.0-20140828.085504-61.jar.txt	1

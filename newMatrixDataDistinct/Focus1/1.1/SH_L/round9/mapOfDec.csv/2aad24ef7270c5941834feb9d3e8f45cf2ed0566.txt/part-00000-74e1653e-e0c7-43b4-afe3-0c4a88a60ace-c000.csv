@@ -1,0 +1,5 @@
+org/jboss/resteasy/plugins/validation/hibernate/i18n/Messages_$bundle/unexpectedViolationType(org.jboss.resteasy.api.validation.ConstraintType.Type)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	4
+org/jboss/resteasy/jsapi/JSAPIWriter/writeJavaScript(java.lang.String,java.io.PrintWriter,org.jboss.resteasy.jsapi.ServiceRegistry)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	1
+se/unlogic/eagledns/EagleDNS/addRRset(se.unlogic.eagledns.Name,se.unlogic.eagledns.Message,se.unlogic.eagledns.RRset,int,int)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	0
+org/jboss/resteasy/test/nextgen/ProxyTest/tryCall(org.jboss.resteasy.test.nextgen.ProxyTest.ApiService)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	3
+org/jboss/resteasy/plugins/server/sun/http/SunHttpJaxrsServer/setSecurityDomain(org.jboss.resteasy.plugins.server.embedded.SecurityDomain)@1cf5f85b81a7a7d7885dcdfea23a7c2d24fe25f2.txt	2

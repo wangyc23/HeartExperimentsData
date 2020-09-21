@@ -1,0 +1,4 @@
+0	gate/Gate/init()
+1	java/io/File/canWrite()
+2	gate/Gate/getCreoleRegister()
+3	java/io/File/File(java.io.File,java.lang.String)

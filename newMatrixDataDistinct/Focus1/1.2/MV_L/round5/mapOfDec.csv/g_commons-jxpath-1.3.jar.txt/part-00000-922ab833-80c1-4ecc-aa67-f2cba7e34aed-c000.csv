@@ -1,0 +1,5 @@
+org/apache/xerces/jaxp/SAXParserImpl/JAXPSAXParser/restoreInitState()@g_xercesImpl-2.8.0.jar.txt	3
+org/apache/xerces/jaxp/validation/XMLSchemaValidatorComponentManager/restoreInitialState()@g_xercesImpl-2.8.0.jar.txt	1
+org/apache/xerces/xinclude/XIncludeTextReader/getReader(org.apache.xerces.xni.parser.XMLInputSource)@g_xercesImpl-2.8.0.jar.txt	2
+org/apache/xerces/impl/XMLEntityManager/setupCurrentEntity(java.lang.String,org.apache.xerces.xni.parser.XMLInputSource,boolean,boolean)@g_xercesImpl-2.9.1.jar.txt	4
+org/apache/xerces/impl/XMLEntityManager/setupCurrentEntity(java.lang.String,org.apache.xerces.xni.parser.XMLInputSource,boolean,boolean)@g_xercesImpl-2.8.0.jar.txt	0

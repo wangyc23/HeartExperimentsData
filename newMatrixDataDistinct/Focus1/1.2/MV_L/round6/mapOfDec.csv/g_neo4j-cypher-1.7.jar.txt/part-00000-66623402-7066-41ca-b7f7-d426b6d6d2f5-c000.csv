@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/parser/v1_8/ReturnClause/anonfun/columnList/3/apply(scala.util.parsing.combinator.Parsers$$tilde)@g_neo4j-cypher-1.8.jar.txt	2
+org/neo4j/cypher/PipeExecutionResult/calculateColumnSizes(scala.collection.Seq)@g_neo4j-cypher-1.8.jar.txt	4
+org/neo4j/cypher/internal/parser/v1_6/MatchClause/anonfun/correctMatch/2/apply(scala.collection.immutable.List)@g_neo4j-cypher-1.8.jar.txt	0
+org/neo4j/cypher/internal/parser/v1_6/ReturnClause/anonfun/returnsClause/3/apply(scala.util.parsing.combinator.Parsers$$tilde)@g_neo4j-cypher-1.8.jar.txt	1
+org/neo4j/cypher/internal/executionplan/ExecutionPlanImpl/produceAndThrowException(org.neo4j.cypher.internal.executionplan.ExecutionPlanInProgress)@g_neo4j-cypher-1.8.jar.txt	3

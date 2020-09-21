@@ -1,0 +1,5 @@
+org/eclipse/emf/common/EMFPlugin/InternalHelper/getString(java.lang.String,boolean)@g_org.eclipse.emf.common-2.8.0.v20130125-0546.jar.txt	4
+org/eclipse/emf/common/notify/impl/NotifyingListImpl/removeAll(java.util.Collection)@g_org.eclipse.emf.common-2.8.0.v20130125-0546.jar.txt	1
+org/eclipse/emf/common/util/URI/parseIntoURI(java.lang.String)@g_org.eclipse.emf.common-2.8.0.v20130125-0546.jar.txt	0
+org/eclipse/emf/common/util/URI/<clinit>()@g_org.eclipse.emf.common-2.8.0.v20130125-0546.jar.txt	2
+org/eclipse/emf/common/util/URI/createFileURI(java.lang.String)@g_org.eclipse.emf.common-2.8.0.v20130125-0546.jar.txt	3

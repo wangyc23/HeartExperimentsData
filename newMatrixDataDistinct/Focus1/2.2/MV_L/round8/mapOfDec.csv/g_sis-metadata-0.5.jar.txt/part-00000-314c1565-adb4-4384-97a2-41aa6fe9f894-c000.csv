@@ -1,0 +1,5 @@
+org/apache/sis/parameter/ParameterFormat/format(java.lang.String,org.opengis.parameter.ParameterDescriptorGroup,org.opengis.parameter.ParameterValueGroup,java.lang.Appendable)@g_sis-referencing-0.5.jar.txt	3
+org/apache/sis/metadata/Cloner/clone(java.lang.Object)@g_sis-metadata-0.6.jar.txt	4
+org/apache/sis/metadata/iso/MetadataScopeAdapter/add(java.lang.Object)@g_sis-metadata-0.6.jar.txt	1
+org/apache/sis/parameter/DefaultParameterDescriptorGroup/descriptor(java.lang.String)@g_sis-referencing-0.5.jar.txt	2
+org/apache/sis/metadata/iso/quality/AbstractElement/Dates/addAll(java.util.Collection)@g_sis-metadata-0.6.jar.txt	0

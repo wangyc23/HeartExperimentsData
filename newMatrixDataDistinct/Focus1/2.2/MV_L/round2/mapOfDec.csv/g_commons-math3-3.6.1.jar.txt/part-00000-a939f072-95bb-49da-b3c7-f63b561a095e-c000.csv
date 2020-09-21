@@ -1,0 +1,5 @@
+org/apache/commons/math3/ml/clustering/DBSCANClusterer/cluster(java.util.Collection)@g_commons-math3-3.2.jar.txt	0
+org/apache/commons/math3/ml/clustering/KMeansPlusPlusClusterer/getPointFromLargestVarianceCluster(java.util.Collection)@g_commons-math3-3.2.jar.txt	3
+org/apache/commons/math3/genetics/CycleCrossover/mate(org.apache.commons.math3.genetics.AbstractListChromosome,org.apache.commons.math3.genetics.AbstractListChromosome)@g_commons-math3-3.2.jar.txt	1
+org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet/getVertices()@g_commons-math3-3.2.jar.txt	2
+org/apache/commons/math3/optim/linear/SimplexSolver/getPivotRow(org.apache.commons.math3.optim.linear.SimplexTableau,int)@g_commons-math3-3.2.jar.txt	4

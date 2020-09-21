@@ -1,0 +1,5 @@
+org/springframework/util/NumberUtils/convertNumberToTargetClass(java.lang.Number,java.lang.Class)@g_spring-core-4.0.0.RELEASE.jar.txt	1
+org/springframework/util/NumberUtils/parseNumber(java.lang.String,java.lang.Class,java.text.NumberFormat)@g_spring-core-4.0.0.RELEASE.jar.txt	3
+org/springframework/core/Constants/toCodeForSuffix(java.lang.Object,java.lang.String)@g_spring-core-4.0.0.RELEASE.jar.txt	2
+org/springframework/core/CollectionFactory/createMap(java.lang.Class,int)@g_spring-core-4.0.0.RELEASE.jar.txt	0
+org/springframework/cglib/util/ParallelSorter/chooseComparer(int,java.util.Comparator)@g_spring-core-4.0.0.RELEASE.jar.txt	4

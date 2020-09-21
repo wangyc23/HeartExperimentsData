@@ -1,0 +1,5 @@
+org/soitoolkit/tools/generator/plugin/createcomponent/CreateComponentWizard/throwCoreException(java.lang.String,java.lang.Throwable)@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	3
+org/soitoolkit/tools/generator/GeneratorUtil/getGroovyClass(java.net.URL)@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	0
+com/trsst/server/TrsstAdapter/fetchFeedFromStorage(java.lang.String,com.trsst.server.Storage)@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	4
+org/soitoolkit/tools/generator/plugin/createcomponent/CreateIntegrationComponentPage/getDeploymentModel()@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	2
+com/talent/nio/api/Nio/asySend(com.talent.nio.api.Packet,com.talent.nio.communicate.ChannelContext)@2b9e5961d1ee27b0869df09e9782365e8b17a6dd.txt	1

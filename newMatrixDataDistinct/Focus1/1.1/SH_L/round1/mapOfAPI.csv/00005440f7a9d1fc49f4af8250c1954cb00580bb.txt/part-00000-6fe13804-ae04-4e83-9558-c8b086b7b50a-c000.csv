@@ -1,0 +1,3 @@
+0	java/io/BufferedReader/BufferedReader(java.io.Reader)
+1	java/io/InputStreamReader/InputStreamReader(java.io.InputStream,java.lang.String)
+2	java/lang/Class/getResourceAsStream(java.lang.String)

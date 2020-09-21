@@ -1,0 +1,4 @@
+java/lang/StringBuilder/StringBuilder(int)
+java/lang/String/equals(java.lang.Object)
+java/lang/String/substring(int,int)
+java/lang/StringBuilder/StringBuilder()

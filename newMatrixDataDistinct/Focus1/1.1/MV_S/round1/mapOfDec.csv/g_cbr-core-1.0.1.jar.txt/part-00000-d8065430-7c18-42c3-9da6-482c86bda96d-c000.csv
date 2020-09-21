@@ -1,0 +1,5 @@
+eu/learnpad/or/impl/OntologyRecommenderImpl/generateFakeAnswerForAnalyseText(java.lang.String,java.lang.String)@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	1
+eu/learnpad/ontology/query/OntRetrieval/getDocumentsOfAuthor(java.lang.String,com.hp.hpl.jena.ontology.Individual)@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	0
+eu/learnpad/ontology/recommender/Recommender/addLearningMaterialWithoutDuplicates(eu.learnpad.or.rest.data.LearningMaterials,java.util.List)@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	3
+eu/learnpad/ontology/recommender/Recommender/getExperts(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	4
+eu/learnpad/ontology/kpi/data/ExcelParser/getDataTable()@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	2

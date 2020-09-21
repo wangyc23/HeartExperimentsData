@@ -1,0 +1,5 @@
+org/neo4j/kernel/impl/transaction/state/PropertyCreator/createPropertyChain(org.neo4j.kernel.impl.store.record.PrimitiveRecord,java.util.Iterator,org.neo4j.kernel.impl.transaction.state.RecordAccess)@g_neo4j-kernel-3.1.0.jar.txt	0
+org/neo4j/kernel/impl/transaction/command/PhysicalLogCommandReaderV2_2/readPropertyRecord(long,org.neo4j.storageengine.api.ReadableChannel)@g_neo4j-kernel-3.1.0.jar.txt	4
+org/neo4j/kernel/impl/transaction/command/PhysicalLogCommandReaderV3_0/readPropertyRecord(long,org.neo4j.storageengine.api.ReadableChannel)@g_neo4j-kernel-3.1.0.jar.txt	1
+org/neo4j/kernel/impl/store/format/standard/PropertyRecordFormat/read(org.neo4j.kernel.impl.store.record.PropertyRecord,org.neo4j.io.pagecache.PageCursor,org.neo4j.kernel.impl.store.record.RecordLoad,int)@g_neo4j-kernel-3.1.0.jar.txt	3
+org/neo4j/kernel/impl/transaction/state/PropertyCreator/primitiveSetProperty(org.neo4j.kernel.impl.transaction.state.RecordAccess$RecordProxy,int,java.lang.Object,org.neo4j.kernel.impl.transaction.state.RecordAccess)@g_neo4j-kernel-3.1.0.jar.txt	2

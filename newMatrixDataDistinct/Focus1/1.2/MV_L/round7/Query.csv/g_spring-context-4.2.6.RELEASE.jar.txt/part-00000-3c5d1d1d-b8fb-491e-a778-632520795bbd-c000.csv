@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/springframework/beans/factory/config/ConfigurableListableBeanFactory/registerSingleton(java.lang.String,java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/springframework/beans/factory/config/ConfigurableListableBeanFactory/getBean(java.lang.String,java.lang.Class)

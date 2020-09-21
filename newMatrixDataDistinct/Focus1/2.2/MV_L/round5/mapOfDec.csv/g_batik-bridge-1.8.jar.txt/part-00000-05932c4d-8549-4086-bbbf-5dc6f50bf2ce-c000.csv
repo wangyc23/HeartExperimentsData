@@ -1,0 +1,5 @@
+org/apache/batik/bridge/svg12/SVGMultiImageElementBridge/createGraphicsNode(org.apache.batik.bridge.BridgeContext,org.w3c.dom.Element)@g_batik-bridge-1.7.jar.txt	0
+org/apache/batik/bridge/svg12/SVG12BridgeContext/removeUIEventListeners(org.w3c.dom.Document)@g_batik-bridge-1.7.jar.txt	3
+org/apache/batik/bridge/svg12/ContentManager/update(boolean)@g_batik-bridge-1.7.jar.txt	2
+org/apache/batik/bridge/svg12/DefaultXBLManager/cloneTemplate(org.apache.batik.dom.svg12.XBLOMTemplateElement)@g_batik-bridge-1.7.jar.txt	4
+org/apache/batik/bridge/BaseScriptingEnvironment/isDynamicElement(org.w3c.dom.Element,org.apache.batik.bridge.BridgeContext,java.util.List)@g_batik-bridge-1.7.jar.txt	1

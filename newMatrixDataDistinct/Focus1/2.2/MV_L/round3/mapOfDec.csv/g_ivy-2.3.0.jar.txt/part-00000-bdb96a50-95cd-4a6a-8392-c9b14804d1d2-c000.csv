@@ -1,0 +1,5 @@
+org/apache/ivy/core/report/DownloadReport/getArtifactsReports(org.apache.ivy.core.report.DownloadStatus)@g_ivy-2.4.0.jar.txt	1
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listAll(org.apache.ivy.plugins.repository.Repository,java.lang.String)@g_ivy-2.4.0.jar.txt	0
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listAll(org.apache.ivy.plugins.resolver.util.URLLister,java.net.URL)@g_ivy-2.4.0.jar.txt	3
+org/apache/ivy/plugins/resolver/util/ResolverHelper/listTokenValues(org.apache.ivy.plugins.resolver.util.URLLister,java.lang.String,java.lang.String)@g_ivy-2.4.0.jar.txt	2
+org/apache/ivy/plugins/conflict/LatestConflictManager/toArtifactInfo(java.util.Collection)@g_ivy-2.4.0.jar.txt	4

@@ -1,0 +1,5 @@
+edu/stanford/nlp/ling/tokensregex/SequencePattern/MultiNodePatternState/match(int,edu.stanford.nlp.ling.tokensregex.SequenceMatcher$MatchedStates,boolean,edu.stanford.nlp.ling.tokensregex.SequencePattern$State)@g_JavaEWAH-0.7.9.jar.txt	3
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_JavaEWAH-0.7.9.jar.txt	0
+edu/stanford/nlp/util/ArrayCoreMap/toShortString(char,java.lang.String[])@g_JavaEWAH-0.7.9.jar.txt	2
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_JavaEWAH-0.7.9.jar.txt	1
+edu/stanford/nlp/trees/international/french/FrenchTreeNormalizer/normalizeWholeTree(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.TreeFactory)@g_JavaEWAH-0.7.9.jar.txt	4

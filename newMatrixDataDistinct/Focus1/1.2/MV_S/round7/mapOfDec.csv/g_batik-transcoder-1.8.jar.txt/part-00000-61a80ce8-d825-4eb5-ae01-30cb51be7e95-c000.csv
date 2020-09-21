@@ -1,0 +1,5 @@
+org/jfree/chart/renderer/category/AbstractCategoryItemRenderer/drawRangeMarker(java.awt.Graphics2D,org.jfree.chart.plot.CategoryPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.plot.Marker,java.awt.geom.Rectangle2D)@g_jfreechart-1.0.19.jar.txt	1
+org/jfree/chart/needle/LongNeedle/drawNeedle(java.awt.Graphics2D,java.awt.geom.Rectangle2D,java.awt.geom.Point2D,double)@g_jfreechart-1.0.19.jar.txt	3
+org/jfree/chart/util/AttrStringUtils/deriveRotationAnchorOffsets(java.awt.Graphics2D,java.text.AttributedString,org.jfree.ui.TextAnchor)@g_jfreechart-1.0.19.jar.txt	4
+org/jfree/chart/needle/PointerNeedle/drawNeedle(java.awt.Graphics2D,java.awt.geom.Rectangle2D,java.awt.geom.Point2D,double)@g_jfreechart-1.0.19.jar.txt	2
+org/jfree/chart/renderer/xy/AbstractXYItemRenderer/drawDomainMarker(java.awt.Graphics2D,org.jfree.chart.plot.XYPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.plot.Marker,java.awt.geom.Rectangle2D)@g_jfreechart-1.0.19.jar.txt	0

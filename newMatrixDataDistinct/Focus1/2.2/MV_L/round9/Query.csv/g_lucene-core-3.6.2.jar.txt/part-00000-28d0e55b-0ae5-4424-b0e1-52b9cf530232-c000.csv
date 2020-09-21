@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Map/get(java.lang.Object)
+org/apache/lucene/util/AttributeSource$AttributeFactory/createAttributeInstance(java.lang.Class)
+java/lang/Class/cast(java.lang.Object)

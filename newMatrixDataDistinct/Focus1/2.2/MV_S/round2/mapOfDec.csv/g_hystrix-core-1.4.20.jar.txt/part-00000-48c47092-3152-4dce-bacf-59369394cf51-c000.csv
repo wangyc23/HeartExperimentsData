@@ -1,0 +1,5 @@
+net/sf/ehcache/constructs/nonstop/NonstopExecutorServiceImpl/execute(java.util.concurrent.Callable,long)@g_ehcache-core-2.6.2.jar.txt	4
+net/sf/ehcache/Cache/3/run()@g_ehcache-core-2.6.2.jar.txt	1
+net/sf/ehcache/constructs/classloader/ClassLoaderAwareCache/main(java.lang.String[])@g_ehcache-core-2.6.2.jar.txt	2
+net/sf/ehcache/distribution/ManualRMICacheManagerPeerProvider/listRemoteCachePeers(net.sf.ehcache.Ehcache)@g_ehcache-core-2.6.2.jar.txt	3
+net/sf/ehcache/terracotta/TerracottaClusteredInstanceHelper/newClusteredInstanceFactory(java.util.Map,net.sf.ehcache.config.TerracottaClientConfiguration)@g_ehcache-core-2.6.2.jar.txt	0

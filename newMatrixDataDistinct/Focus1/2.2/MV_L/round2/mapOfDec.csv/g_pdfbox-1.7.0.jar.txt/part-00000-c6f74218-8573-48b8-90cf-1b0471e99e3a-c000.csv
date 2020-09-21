@@ -1,0 +1,5 @@
+org/apache/pdfbox/filter/JPXFilter/decode(java.io.InputStream,java.io.OutputStream,org.apache.pdfbox.cos.COSDictionary,int)@g_pdfbox-1.8.1.jar.txt	4
+org/apache/pdfbox/pdmodel/graphics/xobject/PDJpeg/createImageStream(org.apache.pdfbox.pdmodel.PDDocument,java.awt.image.BufferedImage,float)@g_pdfbox-1.8.1.jar.txt	0
+org/apache/pdfbox/pdmodel/graphics/xobject/PDPixelMap/createImageStream(org.apache.pdfbox.pdmodel.PDDocument,java.awt.image.BufferedImage)@g_pdfbox-1.8.1.jar.txt	1
+org/apache/pdfbox/pdmodel/graphics/xobject/PDCcitt/getRGBImage()@g_pdfbox-1.8.1.jar.txt	2
+org/apache/pdfbox/pdmodel/graphics/xobject/PDInlinedImage/createImage(java.util.Map)@g_pdfbox-1.8.1.jar.txt	3

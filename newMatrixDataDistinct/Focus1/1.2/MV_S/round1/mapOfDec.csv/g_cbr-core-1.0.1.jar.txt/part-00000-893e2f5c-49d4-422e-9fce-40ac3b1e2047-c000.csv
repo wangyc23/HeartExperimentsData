@@ -1,0 +1,5 @@
+eu/learnpad/ontology/persistence/util/OntUtil/getInstances(com.hp.hpl.jena.ontology.OntModel,com.hp.hpl.jena.ontology.OntClass)@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	1
+eu/learnpad/ontology/persistence/util/OntUtil/getInstancesWithProperty(com.hp.hpl.jena.ontology.OntModel,com.hp.hpl.jena.ontology.OntClass,com.hp.hpl.jena.rdf.model.Property,com.hp.hpl.jena.rdf.model.RDFNode)@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	0
+eu/learnpad/ontology/query/OntRetrieval/getDocumentsOfAuthor(java.lang.String,com.hp.hpl.jena.ontology.Individual)@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	2
+eu/learnpad/ontology/recommender/Recommender/getExperts(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	3
+eu/learnpad/ontology/recommender/Recommender/getLearningMaterial(java.lang.String,java.lang.String)@g_lp-ontology-recommender-1.0-SNAPSHOT.jar.txt	4

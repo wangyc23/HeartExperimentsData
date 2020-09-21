@@ -1,0 +1,5 @@
+com/netflix/governator/ServiceLoaderModuleBuilder/BaseModule/configure()@g_xwiki-platform-observation-remote-7.4.2.jar.txt	0
+com/netflix/governator/LoggingProvisionMetricsLifecycleListener/2/visit(com.netflix.governator.ProvisionMetrics$Element)@g_xwiki-platform-observation-remote-7.4.2.jar.txt	2
+org/xwiki/observation/remote/internal/jgroups/JGroupsNetworkAdapter/loadChannelConfiguration(java.lang.String)@g_xwiki-platform-observation-remote-7.4.2.jar.txt	3
+com/netflix/governator/auto/ClassPathModuleListProvider/get()@g_xwiki-platform-observation-remote-7.4.2.jar.txt	4
+com/netflix/governator/LifecycleManager/notifyShutdown()@g_xwiki-platform-observation-remote-7.4.2.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/mahout/math/solver/TestConjugateGradientSolver/testEarlyStop()@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	2
+org/apache/mahout/math/solver/TestConjugateGradientSolver/testConditionedConjugateGradientSolver()@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	3
+org/apache/mahout/common/distance/SquaredEuclideanDistanceMeasure/distance(org.apache.mahout.math.Vector,org.apache.mahout.math.Vector)@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	0
+org/apache/mahout/math/hadoop/TestDistributedRowMatrix/testMatrixColumnMeansJob()@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	1
+org/apache/mahout/math/hadoop/TestDistributedRowMatrix/testTimesVectorTempDirDeletion()@237dd8cd4eee9e5afae624d5224dc3e334401d7b.txt	4

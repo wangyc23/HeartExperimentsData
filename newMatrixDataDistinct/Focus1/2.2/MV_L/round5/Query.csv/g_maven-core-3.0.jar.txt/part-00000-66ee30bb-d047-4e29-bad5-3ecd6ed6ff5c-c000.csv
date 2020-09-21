@@ -1,0 +1,4 @@
+org/apache/maven/plugin/descriptor/PluginDescriptor/setIsolatedRealm(boolean)
+org/apache/maven/plugin/descriptor/PluginDescriptor/isInheritedByDefault()
+org/apache/maven/plugin/descriptor/PluginDescriptor/setComponents(java.util.List)
+org/apache/maven/plugin/descriptor/PluginDescriptor/getVersion()

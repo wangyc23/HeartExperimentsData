@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/velocity/texen/util/PropertiesUtil/loadFromClassPath(java.lang.String)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/ant/IvyArtifactReport/removeLeadingPath(java.io.File,java.io.File)@g_ivy-2.3.0.jar.txt	3
+org/mortbay/io/nio/DirectNIOBuffer/poke(int,byte[],int,int)@g_ivy-2.3.0.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/generic/ClassTool/getFields()@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	1

@@ -1,0 +1,5 @@
+org/jgroups/protocols/MPING/bindToInterfaces(java.util.List,java.net.MulticastSocket,java.net.InetAddress)@g_jgroups-3.6.2.Final.jar.txt	4
+org/jgroups/jmx/JmxConfigurator/getObjectName(java.lang.Object,java.lang.String)@g_jgroups-3.6.2.Final.jar.txt	3
+org/jgroups/tests/CheckToaOrder/ComparingFiles/run()@g_jgroups-3.6.2.Final.jar.txt	1
+org/jgroups/blocks/LazyRemovalCache/contents(boolean)@g_jgroups-3.6.2.Final.jar.txt	2
+org/jgroups/tests/McastDiscovery/printValidInterfaces()@g_jgroups-3.6.2.Final.jar.txt	0

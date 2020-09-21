@@ -1,0 +1,5 @@
+org/apache/jackrabbit/webdav/jcr/AbstractItemResource/initProperties()@g_jackrabbit-jcr-server-1.4.jar.txt	3
+org/apache/jackrabbit/webdav/simple/VersionHistoryResourceImpl/getMembers()@g_jackrabbit-jcr-server-1.4.jar.txt	2
+org/apache/jackrabbit/webdav/jcr/VersionControlledItemCollection/resolveMergeConflict(java.util.List)@g_jackrabbit-jcr-server-1.4.jar.txt	4
+org/apache/jackrabbit/webdav/simple/VersionHistoryResourceImpl/getVersions()@g_jackrabbit-jcr-server-1.4.jar.txt	1
+org/apache/jackrabbit/webdav/jcr/version/report/JcrPrivilegeReport/addResponses(org.apache.jackrabbit.webdav.DavResourceLocator)@g_jackrabbit-jcr-server-1.4.jar.txt	0

@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistry/getServicesInUse(org.eclipse.osgi.internal.framework.BundleContextImpl)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	0
+org/eclipse/osgi/internal/loader/BundleLoader/findRequiredSource(java.lang.String,java.util.Collection)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	3
+org/eclipse/osgi/internal/loader/BundleLoader/addDynamicImportPackage(java.util.List)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	4
+org/eclipse/osgi/internal/signedcontent/SignedContentImpl/getSignedEntries()@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	2
+org/eclipse/osgi/internal/framework/legacy/PackageAdminImpl/getExportedPackages(java.lang.String)@g_org.eclipse.osgi-3.10.2.v20150203-1939.jar.txt	1

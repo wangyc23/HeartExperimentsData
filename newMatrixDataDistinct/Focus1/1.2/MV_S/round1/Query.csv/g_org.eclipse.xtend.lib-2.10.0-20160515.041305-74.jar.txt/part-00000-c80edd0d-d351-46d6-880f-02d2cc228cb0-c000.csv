@@ -1,0 +1,4 @@
+org/eclipse/xtend/lib/annotations/EqualsHashCodeProcessor$Util/hasSuperHashCode(org.eclipse.xtend.lib.macro.declaration.ClassDeclaration)
+org/eclipse/xtend/lib/annotations/DataProcessor$Util/getDataFields(org.eclipse.xtend.lib.macro.declaration.MutableClassDeclaration)
+org/eclipse/xtend/lib/annotations/EqualsHashCodeProcessor$Util/hasSuperEquals(org.eclipse.xtend.lib.macro.declaration.ClassDeclaration)
+org/eclipse/xtend/lib/annotations/EqualsHashCodeProcessor$Util/hasHashCode(org.eclipse.xtend.lib.macro.declaration.ClassDeclaration)

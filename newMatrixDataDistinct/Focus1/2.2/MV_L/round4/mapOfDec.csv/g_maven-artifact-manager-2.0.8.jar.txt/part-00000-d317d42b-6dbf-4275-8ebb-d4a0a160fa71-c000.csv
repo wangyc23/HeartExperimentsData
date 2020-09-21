@@ -1,0 +1,5 @@
+org/apache/maven/artifact/transform/AbstractVersionTransformation/resolveVersion(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-artifact-manager-2.0.6.jar.txt	1
+org/apache/maven/artifact/transform/AbstractVersionTransformation/resolveVersion(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,java.util.List)@g_maven-artifact-manager-2.2.1.jar.txt	0
+org/apache/maven/artifact/manager/DefaultWagonManager/getArtifact(org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-artifact-manager-2.2.1.jar.txt	4
+org/apache/maven/artifact/resolver/DefaultArtifactResolver/resolve(org.apache.maven.artifact.Artifact,java.util.List,org.apache.maven.artifact.repository.ArtifactRepository,boolean)@g_maven-artifact-manager-2.0.6.jar.txt	3
+org/apache/maven/artifact/resolver/DefaultArtifactResolver/resolve(org.apache.maven.artifact.Artifact,java.util.List,org.apache.maven.artifact.repository.ArtifactRepository,boolean)@g_maven-artifact-manager-2.2.1.jar.txt	2

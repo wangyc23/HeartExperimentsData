@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/ThreadLocal/set(java.lang.Object)
+java/util/HashSet/HashSet()
+java/util/Set/add(java.lang.Object)

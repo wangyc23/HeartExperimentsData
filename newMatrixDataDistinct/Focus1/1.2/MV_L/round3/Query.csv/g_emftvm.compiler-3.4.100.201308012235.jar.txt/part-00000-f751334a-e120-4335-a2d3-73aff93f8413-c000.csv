@@ -1,0 +1,4 @@
+org/eclipse/m2m/atl/emftvm/compiler/AtlResourceImpl/getWarnings()
+java/lang/String/split(java.lang.String)
+java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])
+org/eclipse/m2m/atl/engine/parser/AtlParser/getProblemMetamodel()

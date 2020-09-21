@@ -1,0 +1,5 @@
+com/web/mytest/config/BaseSecurityConfig/configureGlobal(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)@0df316b80ee7c25b24ad9543031923e4fb72040e.txt	4
+au/com/ibm/bluecoin/config/SecurityConfig/configure(org.springframework.security.config.annotation.web.builders.HttpSecurity)@0df316b80ee7c25b24ad9543031923e4fb72040e.txt	3
+au/com/ibm/bluecoin/web/forms/NavigationBean/appuserlist()@0df316b80ee7c25b24ad9543031923e4fb72040e.txt	1
+au/com/ibm/bluecoin/service/ApplicationConfig/networkServiceStarter()@0df316b80ee7c25b24ad9543031923e4fb72040e.txt	0
+com/web/mavenproject6/config/DataBaseConfig/entityManagerFactory()@0df316b80ee7c25b24ad9543031923e4fb72040e.txt	2

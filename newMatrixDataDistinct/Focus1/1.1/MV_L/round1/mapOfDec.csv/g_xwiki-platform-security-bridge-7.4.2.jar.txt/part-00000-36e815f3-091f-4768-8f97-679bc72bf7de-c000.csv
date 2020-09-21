@@ -1,0 +1,5 @@
+org/xwiki/security/authorization/internal/XWikiCachingRightService/hasProgrammingRights(com.xpn.xwiki.doc.XWikiDocument,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/activitystream/impl/ActivityStreamImpl/getFeedEntry(com.xpn.xwiki.plugin.activitystream.api.ActivityEvent,java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	2
+org/xwiki/security/authorization/internal/XWikiCachingRightService/showLogin(com.xpn.xwiki.XWikiContext)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/activitystream/impl/ActivityStreamImpl/deleteActivityEvent(com.xpn.xwiki.plugin.activitystream.api.ActivityEvent,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	3
+com/xpn/xwiki/plugin/activitystream/eventstreambridge/BridgeEventStream/convertEventToActivity(org.xwiki.eventstream.Event)@g_xwiki-platform-activitystream-api-7.4.2.jar.txt	0

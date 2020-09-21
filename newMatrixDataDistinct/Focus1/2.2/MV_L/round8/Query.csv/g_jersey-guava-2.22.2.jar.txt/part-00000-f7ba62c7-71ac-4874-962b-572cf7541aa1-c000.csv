@@ -1,0 +1,4 @@
+jersey/repackaged/com/google/common/base/MoreObjects$ToStringHelper/addValue(java.lang.Object)
+jersey/repackaged/com/google/common/cache/LocalCache$Strength/toString()
+jersey/repackaged/com/google/common/base/MoreObjects$ToStringHelper/add(java.lang.String,java.lang.Object)
+java/lang/StringBuilder/toString()

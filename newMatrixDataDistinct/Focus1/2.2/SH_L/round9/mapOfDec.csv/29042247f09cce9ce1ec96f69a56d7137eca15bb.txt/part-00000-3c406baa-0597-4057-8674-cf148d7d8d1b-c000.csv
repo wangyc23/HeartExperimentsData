@@ -1,0 +1,5 @@
+org/springside/modules/orm/hibernate/SimpleHibernateDao/batchExecute(java.lang.String,java.util.Map)@19c3359fd381f033cab3fa8b8361eff93315aafc.txt	0
+org/springside/modules/utils/web/struts2/Struts2Utils/renderJson(java.lang.String,java.lang.String[])@19c3359fd381f033cab3fa8b8361eff93315aafc.txt	1
+org/springside/examples/showcase/unit/common/UserJdbcDaoTest/queryMap()@19c3359fd381f033cab3fa8b8361eff93315aafc.txt	2
+org/springside/modules/orm/Page/autoCount(boolean)@19c3359fd381f033cab3fa8b8361eff93315aafc.txt	4
+$/RoleManagerTest/deleteRole()@19c3359fd381f033cab3fa8b8361eff93315aafc.txt	3

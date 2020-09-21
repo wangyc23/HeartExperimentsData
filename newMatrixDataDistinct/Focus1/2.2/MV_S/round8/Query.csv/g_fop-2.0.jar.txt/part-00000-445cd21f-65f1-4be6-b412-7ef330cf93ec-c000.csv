@@ -1,0 +1,4 @@
+org/apache/fop/render/pdf/extensions/PDFElementMapping$PDFPageElementMaker/PDFPageElementMaker()
+org/apache/fop/render/pdf/extensions/PDFElementMapping$PDFCollectionEntryElementMaker/PDFCollectionEntryElementMaker(org.apache.fop.render.pdf.extensions.PDFObjectType)
+org/apache/fop/render/pdf/extensions/PDFDictionaryType/elementName()
+org/apache/fop/render/pdf/extensions/PDFObjectType/elementName()

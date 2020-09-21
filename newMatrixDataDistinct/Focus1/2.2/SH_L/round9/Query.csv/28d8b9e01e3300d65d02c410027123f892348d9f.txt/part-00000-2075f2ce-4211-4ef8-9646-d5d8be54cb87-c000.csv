@@ -1,0 +1,4 @@
+io/netty/handler/codec/http/websocketx/extensions/WebSocketExtensionData/name()
+io/netty/handler/codec/http/websocketx/extensions/WebSocketExtension/rsv()
+java/util/Map/isEmpty()
+io/netty/handler/codec/http/websocketx/extensions/WebSocketExtensionData/WebSocketExtensionData(java.lang.String,java.util.Map)

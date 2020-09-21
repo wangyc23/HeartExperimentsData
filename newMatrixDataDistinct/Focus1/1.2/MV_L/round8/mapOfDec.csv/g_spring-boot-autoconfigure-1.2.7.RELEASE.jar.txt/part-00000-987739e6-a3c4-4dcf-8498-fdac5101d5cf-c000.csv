@@ -1,0 +1,5 @@
+org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaAutoConfiguration/configureSpringJtaPlatform(java.util.Map,org.springframework.transaction.jta.JtaTransactionManager)@g_spring-boot-autoconfigure-1.2.6.RELEASE.jar.txt	4
+org/springframework/boot/autoconfigure/AutoConfigurationPackages/BasePackages/get()@g_spring-boot-autoconfigure-1.2.3.RELEASE.jar.txt	1
+org/springframework/boot/autoconfigure/AutoConfigurationPackages/BasePackages/get()@g_spring-boot-autoconfigure-1.2.6.RELEASE.jar.txt	0
+org/springframework/boot/autoconfigure/jms/hornetq/HornetQEmbeddedConfigurationFactory/createConfiguration()@g_spring-boot-autoconfigure-1.2.6.RELEASE.jar.txt	3
+org/springframework/boot/autoconfigure/batch/JobLauncherCommandLineRunner/executeLocalJobs(org.springframework.batch.core.JobParameters)@g_spring-boot-autoconfigure-1.2.6.RELEASE.jar.txt	2

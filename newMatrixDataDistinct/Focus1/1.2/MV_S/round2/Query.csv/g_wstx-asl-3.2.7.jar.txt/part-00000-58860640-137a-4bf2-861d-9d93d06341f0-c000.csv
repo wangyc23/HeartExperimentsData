@@ -1,0 +1,4 @@
+com/ctc/wstx/dtd/FullDTDReader/isNameStartChar(char)
+java/lang/StringBuffer/toString()
+java/lang/StringBuffer/append(java.lang.String)
+com/ctc/wstx/dtd/FullDTDReader/parsePublicId(char,boolean,java.lang.String)

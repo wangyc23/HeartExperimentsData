@@ -1,0 +1,5 @@
+org/springframework/core/annotation/AnnotationUtils/getAnnotationAttributes(java.lang.annotation.Annotation)@g_spring-2.5.6.jar.txt	4
+org/springframework/jmx/export/MBeanExporter/autodetect(org.springframework.jmx.export.MBeanExporter$AutodetectCallback)@g_spring-2.5.6.jar.txt	1
+org/springframework/jdbc/core/metadata/GenericTableMetaDataProvider/locateTableAndProcessMetaData(java.sql.DatabaseMetaData,java.lang.String,java.lang.String,java.lang.String)@g_spring-2.5.6.jar.txt	2
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	0
+org/springframework/orm/hibernate3/FilterDefinitionFactoryBean/setParameterTypes(java.util.Properties)@g_spring-2.5.6.jar.txt	3

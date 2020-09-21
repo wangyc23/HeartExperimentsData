@@ -1,0 +1,4 @@
+java/util/Properties/getProperty(java.lang.String)
+org/apache/maven/model/Profile/getId()
+java/lang/StringBuilder/append(java.lang.String)
+org/codehaus/plexus/logging/Logger/warn(java.lang.String)

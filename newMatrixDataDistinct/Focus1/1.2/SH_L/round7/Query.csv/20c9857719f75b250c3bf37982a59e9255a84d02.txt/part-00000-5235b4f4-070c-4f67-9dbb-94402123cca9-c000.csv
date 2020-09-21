@@ -1,0 +1,4 @@
+com/holacampus/api/domain/Permission/Permission()
+com/holacampus/api/exceptions/HTTPErrorException/HTTPErrorException(com.holacampus.api.exceptions.Status,java.lang.String)
+com/holacampus/api/domain/Element/getId()
+com/holacampus/api/security/UserPrincipal/getId()

@@ -1,0 +1,4 @@
+org/apache/poi/openxml4j/opc/PackagePart/getRelatedPart(org.apache.poi.openxml4j.opc.PackageRelationship)
+org/apache/poi/openxml4j/opc/PackagePart/getContentType()
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/tika/exception/TikaException/TikaException(java.lang.String,java.lang.Throwable)

@@ -1,0 +1,5 @@
+org/apache/hadoop/fs/GlobExpander/expandLeftmost(org.apache.hadoop.fs.GlobExpander$StringWithOffset)@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/metrics2/sink/ganglia/GangliaSink30/init(org.apache.commons.configuration.SubsetConfiguration)@g_hadoop-common-2.6.0.jar.txt	4
+org/apache/hadoop/fs/shell/CopyCommands/Cp/popPreserveOption(java.util.List)@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/io/file/tfile/TFileDumper/dumpInfo(java.lang.String,java.io.PrintStream,org.apache.hadoop.conf.Configuration)@g_hadoop-common-2.6.0.jar.txt	1
+org/apache/hadoop/security/AuthenticationFilterInitializer/initFilter(org.apache.hadoop.http.FilterContainer,org.apache.hadoop.conf.Configuration)@g_hadoop-common-2.6.0.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/lib/join/OverrideRecordReader/fillJoinCollector(org.apache.hadoop.io.WritableComparable)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	1
+org/apache/hadoop/mapreduce/counters/AbstractCounters/write(java.io.DataOutput)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	0
+org/apache/hadoop/mapreduce/lib/aggregate/ValueHistogram/getCombinerOutput()@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	3
+org/apache/hadoop/mapreduce/jobhistory/JobHistoryParser/JobInfo/printAll()@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	2
+org/apache/hadoop/mapred/join/Parser/WNode/parse(java.util.List,org.apache.hadoop.mapred.JobConf)@g_hadoop-mapreduce-client-core-2.6.5.jar.txt	4

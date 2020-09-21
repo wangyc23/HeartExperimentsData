@@ -1,0 +1,5 @@
+org/apache/maven/wagon/PathUtils/port(java.lang.String)@g_wagon-provider-api-1.0-alpha-5.jar.txt	1
+org/apache/maven/wagon/WagonUtils/putDirectory(java.io.File,org.apache.maven.wagon.Wagon,boolean)@g_wagon-provider-api-1.0-alpha-5.jar.txt	3
+info/aduna/net/ParsedURI/normalize()@g_sesame-util-2.7.16.jar.txt	0
+org/apache/maven/wagon/util/FileUtils/catPath(java.lang.String,java.lang.String)@g_wagon-provider-api-1.0-alpha-5.jar.txt	2
+info/aduna/io/FileUtil/getRelativePath(java.io.File,java.io.File)@g_sesame-util-2.7.16.jar.txt	4

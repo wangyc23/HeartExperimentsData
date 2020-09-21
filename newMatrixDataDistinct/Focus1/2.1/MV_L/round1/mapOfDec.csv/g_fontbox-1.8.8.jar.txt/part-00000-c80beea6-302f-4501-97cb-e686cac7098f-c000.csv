@@ -1,0 +1,5 @@
+org/apache/fontbox/cff/AFMFormatter/renderFont(org.apache.fontbox.cff.CFFFont)@g_fontbox-1.8.9.jar.txt	2
+org/apache/fontbox/ttf/TTFSubFont/buildPostTable()@g_fontbox-1.8.9.jar.txt	0
+org/apache/fontbox/cff/CFFFont/getMappings()@g_fontbox-1.8.9.jar.txt	3
+org/apache/fontbox/cff/AFMFormatter/printCharMetrics(org.apache.fontbox.cff.CFFFont,java.util.List,org.apache.fontbox.cff.DataOutput)@g_fontbox-1.8.9.jar.txt	4
+org/apache/fontbox/cff/CFFParser/Format0FDSelect/getFd(int)@g_fontbox-1.8.9.jar.txt	1

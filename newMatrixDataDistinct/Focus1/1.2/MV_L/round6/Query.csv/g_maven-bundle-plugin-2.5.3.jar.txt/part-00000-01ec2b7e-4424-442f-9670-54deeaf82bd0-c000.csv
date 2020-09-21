@@ -1,0 +1,4 @@
+aQute/bnd/differ/DiffPluginImpl/DiffPluginImpl()
+org/apache/felix/bundleplugin/baseline/AbstractBaselinePlugin/getLog()
+aQute/service/reporter/Reporter/getWarnings()
+org/apache/maven/plugin/logging/Log/info(java.lang.CharSequence)

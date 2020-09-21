@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_2/planner/logical/steps/pickBestPlanUsingHintsAndCost/anon/2/anonfun/apply/1/apply(org.neo4j.cypher.internal.compiler.v3_2.planner.logical.plans.LogicalPlan)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	1
+org/neo4j/cypher/internal/compiler/v3_2/planner/logical/steps/pickBestPlanUsingHintsAndCost/anon/2/apply(scala.Function1,scala.collection.Iterable)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_2/planner/logical/steps/verifyBestPlan/apply(org.neo4j.cypher.internal.compiler.v3_2.planner.logical.plans.LogicalPlan,org.neo4j.cypher.internal.ir.v3_2.PlannerQuery,org.neo4j.cypher.internal.compiler.v3_2.planner.logical.LogicalPlanningContext)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	2
+org/neo4j/cypher/internal/compiler/v3_2/commands/expressions/SplitFunction/compute(java.lang.Object,org.neo4j.cypher.internal.compiler.v3_2.ExecutionContext,org.neo4j.cypher.internal.compiler.v3_2.pipes.QueryState)@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	0
+org/neo4j/cypher/internal/compiler/v3_2/planner/logical/plans/LogicalPlan/toString()@g_neo4j-cypher-compiler-3.2-3.2.5.jar.txt	3

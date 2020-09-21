@@ -1,0 +1,5 @@
+0	java/text/SimpleDateFormat/toPattern()
+1	org/commoncrawl/warc/WARCFileRecordReader/WARCFileRecordReader()
+2	java/util/Date/toString()
+3	java/lang/String/toString()
+4	java/text/DateFormat/parse(java.lang.String)

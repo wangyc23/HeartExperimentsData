@@ -1,0 +1,5 @@
+ucar/nc2/ft/swath/SwathDatasetFactory/isSwath(java.util.List)@g_cdm-4.5.5.jar.txt	3
+thredds/catalog2/xml/parser/stax/ServiceElementParser/parseStartElement()@g_cdm-4.5.5.jar.txt	0
+ucar/nc2/ft/FeatureDatasetFactoryManager/registerFactory(java.lang.Class)@g_cdm-4.5.5.jar.txt	2
+ucar/unidata/io/http/HTTPRandomAccessFile/rangeOk(java.lang.String)@g_cdm-4.5.5.jar.txt	4
+thredds/inventory/partition/DirectoryPartition/makePartitions(thredds.inventory.CollectionUpdateType)@g_cdm-4.5.5.jar.txt	1

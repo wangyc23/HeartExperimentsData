@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/io/IOException/printStackTrace()
+java/net/URL/openStream()
+java/util/jar/JarInputStream/close()

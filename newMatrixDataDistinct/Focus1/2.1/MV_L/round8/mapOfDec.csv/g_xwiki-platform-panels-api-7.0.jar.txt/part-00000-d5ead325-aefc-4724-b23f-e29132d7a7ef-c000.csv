@@ -1,0 +1,5 @@
+org/xwiki/panels/internal/PanelWikiUIExtensionComponentBuilder/buildComponents(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-panels-api-7.4.jar.txt	2
+org/xwiki/panels/internal/PanelWikiUIExtensionComponentBuilder/buildComponents(org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-panels-api-7.4.2.jar.txt	0
+org/xwiki/panels/internal/PanelWikiUIExtensionComponentBuilder/getDocumentReferences()@g_xwiki-platform-panels-api-7.4.jar.txt	3
+org/xwiki/panels/internal/PanelWikiUIExtension/execute()@g_xwiki-platform-panels-api-7.4.2.jar.txt	4
+org/xwiki/panels/internal/PanelWikiUIExtensionComponentBuilder/getDocumentReferences()@g_xwiki-platform-panels-api-7.4.2.jar.txt	1

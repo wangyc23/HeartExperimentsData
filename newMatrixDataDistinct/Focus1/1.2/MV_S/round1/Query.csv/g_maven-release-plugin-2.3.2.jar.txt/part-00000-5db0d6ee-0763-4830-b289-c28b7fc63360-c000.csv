@@ -1,0 +1,4 @@
+org/apache/maven/plugins/release/PrepareReleaseMojo/mergeCommandLineConfig(org.apache.maven.shared.release.config.ReleaseDescriptor,org.apache.maven.shared.release.config.ReleaseDescriptor)
+org/apache/maven/shared/release/config/ReleaseDescriptor/setDefaultDevelopmentVersion(java.lang.String)
+java/lang/String/split(java.lang.String)
+org/apache/maven/shared/release/config/ReleaseDescriptor/setWaitBeforeTagging(int)

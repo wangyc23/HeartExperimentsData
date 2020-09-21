@@ -1,0 +1,5 @@
+org/apache/james/mime4j/codec/Base64InputStream/read0(byte[],int,int)@g_apache-mime4j-core-0.7.2.jar.txt	1
+net/htmlparser/jericho/FormControl/SelectFormControl/replaceInOutputDocument(net.htmlparser.jericho.OutputDocument)@g_apache-mime4j-core-0.7.2.jar.txt	2
+net/htmlparser/jericho/EndTagTypeGenericImplementation/constructTagAt(net.htmlparser.jericho.Source,int)@g_apache-mime4j-core-0.7.2.jar.txt	3
+net/htmlparser/jericho/StartTagTypeGenericImplementation/constructTagAt(net.htmlparser.jericho.Source,int)@g_apache-mime4j-core-0.7.2.jar.txt	4
+javax/servlet/http/HttpUtils/parseQueryString(java.lang.String)@g_apache-mime4j-core-0.7.2.jar.txt	0

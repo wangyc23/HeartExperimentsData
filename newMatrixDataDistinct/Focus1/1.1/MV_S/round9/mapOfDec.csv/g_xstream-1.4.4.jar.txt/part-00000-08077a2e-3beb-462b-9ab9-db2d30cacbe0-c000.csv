@@ -1,0 +1,5 @@
+com/sun/jna/Structure/validateField(java.lang.String,java.lang.Class)@g_powermock-reflect-1.5.1.jar.txt	2
+com/sun/jna/Native/register(java.lang.Class,com.sun.jna.NativeLibrary)@g_jna-4.1.0.jar.txt	0
+com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter/getCallbacks(java.lang.Object)@g_powermock-reflect-1.5.1.jar.txt	3
+com/sun/jna/Structure/getFieldList()@g_jna-4.1.0.jar.txt	1
+org/powermock/reflect/internal/WhiteboxImpl/newInstance(java.lang.Class)@g_powermock-reflect-1.5.1.jar.txt	4

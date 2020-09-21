@@ -1,0 +1,4 @@
+java/util/SortedSet/size()
+java/util/Iterator/hasNext()
+java/io/PrintStream/println(java.lang.String)
+java/lang/StringBuffer/append(java.lang.Object)

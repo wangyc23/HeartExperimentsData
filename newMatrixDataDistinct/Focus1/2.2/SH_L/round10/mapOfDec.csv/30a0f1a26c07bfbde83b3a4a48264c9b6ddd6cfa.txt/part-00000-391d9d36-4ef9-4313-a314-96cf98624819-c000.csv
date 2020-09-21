@@ -1,0 +1,5 @@
+org/apache/mina/codec/delimited/ints/IntEncodingTest/testSamples()@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	2
+org/apache/mina/http2/impl/HeadersEncoder/encode(org.apache.mina.http.api.HttpMessage,java.io.OutputStream)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	3
+org/apache/mina/session/DefaultAttributeContainer/getAttribute(org.apache.mina.session.AttributeKey)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	1
+org/apache/mina/http/HttpRequestImpl/getContentType()@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	0
+org/apache/mina/coap/retry/CoapRetryFilter/messageWriting(org.apache.mina.api.IoSession,org.apache.mina.session.WriteRequest,org.apache.mina.filterchain.WriteFilterChainController)@2838cc87b75b1fa4f9d760a8ef3b6d7679cdfddf.txt	4

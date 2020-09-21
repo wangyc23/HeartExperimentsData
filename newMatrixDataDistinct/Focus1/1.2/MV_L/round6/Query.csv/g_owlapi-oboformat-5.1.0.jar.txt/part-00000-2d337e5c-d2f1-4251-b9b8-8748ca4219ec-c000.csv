@@ -1,0 +1,4 @@
+org/semanticweb/owlapi/model/IRI/toString()
+org/obolibrary/oboformat/parser/OBOFormatConstants$OboFormatTag/getTag()
+org/semanticweb/owlapi/model/OWLObject/isIRI()
+java/lang/String/equals(java.lang.Object)

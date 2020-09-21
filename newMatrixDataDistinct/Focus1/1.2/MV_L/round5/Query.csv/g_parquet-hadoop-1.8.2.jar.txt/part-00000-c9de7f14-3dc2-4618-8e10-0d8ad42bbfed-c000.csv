@@ -1,0 +1,4 @@
+org/apache/parquet/hadoop/ParquetInputSplit/getStart()
+java/util/List/isEmpty()
+java/util/List/size()
+org/apache/parquet/hadoop/ParquetInputSplit/getPath()

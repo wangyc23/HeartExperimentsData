@@ -1,0 +1,5 @@
+org/jdom2/input/DOMBuilder/buildTree(org.w3c.dom.Node,org.jdom2.Document,org.jdom2.Element,boolean)@g_jdom2-2.0.6.jar.txt	2
+org/jdom2/input/sax/SAXHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jdom2-2.0.6.jar.txt	3
+org/jdom2/input/DOMBuilder/buildTree(org.w3c.dom.Node,org.jdom2.Document,org.jdom2.Element,boolean)@g_jdom2-2.0.5.jar.txt	0
+org/jdom2/input/sax/SAXHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_jdom2-2.0.5.jar.txt	1
+org/jdom2/ProcessingInstruction/parseData(java.lang.String)@g_jdom2-2.0.5.jar.txt	4

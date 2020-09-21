@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/IOUtil/close(java.io.InputStream)
+java/io/File/getName()
+java/lang/StringBuffer/append(java.lang.Object)
+java/io/File/length()

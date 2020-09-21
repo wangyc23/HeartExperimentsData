@@ -1,0 +1,5 @@
+net/htmlparser/jericho/Renderer/A_ElementHandler/process(net.htmlparser.jericho.Renderer$Processor,net.htmlparser.jericho.Element)@g_xwiki-commons-text-7.4.2.jar.txt	4
+org/xwiki/text/StringUtils/doubleChar(java.lang.String,char)@g_xwiki-commons-text-7.4.2.jar.txt	2
+net/htmlparser/jericho/CharacterEntityReference/<clinit>()@g_xwiki-commons-text-7.4.2.jar.txt	1
+net/htmlparser/jericho/FormFields/getColumnValues(java.util.Map)@g_xwiki-commons-text-7.4.2.jar.txt	0
+net/htmlparser/jericho/OutputDocument/getDebugInfo()@g_xwiki-commons-text-7.4.2.jar.txt	3

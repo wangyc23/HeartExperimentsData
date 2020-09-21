@@ -1,0 +1,5 @@
+org/apache/xml/serialize/HTMLSerializer/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_xercesImpl-2.11.0.jar.txt	2
+org/apache/batik/css/parser/Parser/parseSimpleSelector()@g_batik-css-1.7.jar.txt	1
+org/apache/xml/serialize/HTMLSerializer/serializeElement(org.w3c.dom.Element)@g_xercesImpl-2.11.0.jar.txt	4
+org/apache/xerces/parsers/DOMParserImpl/setParameter(java.lang.String,java.lang.Object)@g_xercesImpl-2.11.0.jar.txt	3
+org/apache/batik/css/engine/value/css2/SrcManager/createValue(org.w3c.css.sac.LexicalUnit,org.apache.batik.css.engine.CSSEngine)@g_batik-css-1.7.jar.txt	0

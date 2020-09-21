@@ -1,0 +1,4 @@
+org/xwiki/test/wysiwyg/MacroTest/applyMacroChanges()
+org/xwiki/test/selenium/framework/AbstractXWikiTestCase/setFieldValue(java.lang.String,java.lang.String)
+org/xwiki/test/wysiwyg/framework/AbstractWysiwygTestCase/assertSourceText(java.lang.String)
+org/xwiki/test/wysiwyg/framework/AbstractWysiwygTestCase/switchToSource()

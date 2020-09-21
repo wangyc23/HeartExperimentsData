@@ -1,0 +1,5 @@
+com/google/inject/internal/util/ImmutableList/createFromIterable(java.lang.Iterable,int)@g_sisu-guice-2.9.4-no_aop.jar.txt	4
+com/google/inject/TypeLiteral/getExceptionTypes(java.lang.reflect.Member)@g_sisu-guice-2.9.4-no_aop.jar.txt	2
+com/google/inject/TypeLiteral/getParameterTypes(java.lang.reflect.Member)@g_sisu-guice-2.9.4-no_aop.jar.txt	0
+com/google/inject/TypeLiteral/getExceptionTypes(java.lang.reflect.Member)@g_sisu-guice-2.1.7-noaop.jar.txt	3
+com/google/inject/TypeLiteral/getParameterTypes(java.lang.reflect.Member)@g_sisu-guice-2.1.7-noaop.jar.txt	1

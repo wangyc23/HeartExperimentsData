@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/composite/BeanHelper/setDefault(java.lang.Object,java.lang.Object,org.codehaus.plexus.configuration.PlexusConfiguration)@g_sisu-inject-plexus-2.3.0.jar.txt	4
+org/codehaus/plexus/configuration/xml/XmlPlexusConfiguration/toString()@g_sisu-inject-plexus-2.3.0.jar.txt	0
+org/codehaus/plexus/configuration/xml/XmlPlexusConfiguration/toString()@g_org.eclipse.sisu.plexus-0.0.0.M5.jar.txt	1
+org/sonatype/guice/plexus/shim/PlexusSpaceModule/configure(com.google.inject.Binder)@g_sisu-inject-plexus-2.3.0.jar.txt	3
+org/eclipse/sisu/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.eclipse.sisu.plexus.scanners.PlexusTypeRegistry)@g_sisu-inject-plexus-2.3.0.jar.txt	2

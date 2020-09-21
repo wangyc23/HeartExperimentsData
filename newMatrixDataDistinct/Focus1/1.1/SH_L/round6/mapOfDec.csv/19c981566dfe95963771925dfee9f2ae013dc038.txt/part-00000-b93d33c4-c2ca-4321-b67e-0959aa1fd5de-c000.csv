@@ -1,0 +1,5 @@
+org/jboss/errai/codegen/test/StatementBuilderTest/testPassBitwiseToMethodParameter()@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	3
+org/jboss/errai/codegen/test/StatementBuilderTest/testMixedBitwise()@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	1
+org/jboss/errai/codegen/test/StatementBuilderTest/testMixedBitwise()@0ffa2f2141c1675c1a66a3a3fd8a6938273afd79.txt	4
+org/jboss/errai/codegen/test/StatementBuilderTest/testPassBitwiseToMethodParameter()@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	0
+org/jboss/errai/codegen/test/StatementBuilderTest/testBitwiseAndExpression()@22efac96e9c20068ce63fd28d6b40cb3b45c5d33.txt	2

@@ -1,0 +1,4 @@
+java/util/Random/nextInt()
+org/wso2/dss/integration/common/utils/SqlDataSourceUtil/executeUpdate(java.util.List)
+java/util/Random/Random()
+java/lang/System/getProperty(java.lang.String)

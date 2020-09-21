@@ -1,0 +1,4 @@
+org/eclipse/osgi/service/resolver/BundleDescription/getSymbolicName()
+java/util/Iterator/hasNext()
+java/util/Iterator/next()
+org/eclipse/pde/core/plugin/IPluginModelBase/getBundleDescription()

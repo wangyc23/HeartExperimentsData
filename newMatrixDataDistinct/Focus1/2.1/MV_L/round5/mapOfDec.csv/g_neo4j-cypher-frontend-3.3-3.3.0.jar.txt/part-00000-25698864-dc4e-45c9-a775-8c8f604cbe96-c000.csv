@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_1/parser/Expressions/anonfun/org/neo4j/cypher/internal/compiler/v2_1/parser/Expressions/Expression1/1/apply()@g_neo4j-cypher-compiler-2.1-2.1.8.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_1/parser/Patterns/anonfun/org/n/67e78ef7803c59f1fa741777e4a4ca9d/MaybeVariableLength/1/apply()@g_neo4j-cypher-compiler-2.1-2.1.8.jar.txt	3
+org/neo4j/cypher/internal/compiler/v2_1/parser/Literals/anonfun/RangeLiteral/1/apply()@g_neo4j-cypher-compiler-2.1-2.1.8.jar.txt	0
+org/neo4j/cypher/internal/compiler/v2_1/parser/Clauses/anonfun/Match/1/apply()@g_neo4j-cypher-compiler-2.1-2.1.8.jar.txt	4
+org/neo4j/cypher/internal/compiler/v2_1/parser/Clauses/anonfun/LoadCSV/1/apply()@g_neo4j-cypher-compiler-2.1-2.1.8.jar.txt	2

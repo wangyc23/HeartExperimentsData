@@ -1,0 +1,5 @@
+org/apache/batik/ext/awt/image/codec/png/PNGRegistryEntry/1/run()@g_batik-codec-1.7.jar.txt	4
+org/apache/batik/ext/awt/image/codec/png/PNGTranscoderInternalCodecWriteAdapter/writeImage(org.apache.batik.transcoder.image.PNGTranscoder,java.awt.image.BufferedImage,org.apache.batik.transcoder.TranscoderOutput)@g_batik-codec-1.7.jar.txt	3
+org/apache/batik/ext/awt/image/codec/jpeg/JPEGRegistryEntry/1/run()@g_batik-codec-1.7.jar.txt	2
+org/apache/batik/ext/awt/image/codec/imageio/TIFFTranscoderImageIOWriteAdapter/writeImage(org.apache.batik.transcoder.image.TIFFTranscoder,java.awt.image.BufferedImage,org.apache.batik.transcoder.TranscoderOutput)@g_batik-codec-1.7.jar.txt	1
+org/apache/batik/ext/awt/image/codec/tiff/TIFFTranscoderInternalCodecWriteAdapter/writeImage(org.apache.batik.transcoder.image.TIFFTranscoder,java.awt.image.BufferedImage,org.apache.batik.transcoder.TranscoderOutput)@g_batik-codec-1.7.jar.txt	0

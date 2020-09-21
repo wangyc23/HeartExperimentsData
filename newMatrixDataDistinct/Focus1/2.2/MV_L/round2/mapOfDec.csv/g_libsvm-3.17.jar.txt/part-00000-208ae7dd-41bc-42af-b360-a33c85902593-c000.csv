@@ -1,0 +1,5 @@
+weka/core/xml/SerialUIDChanger/changeUID(long,long,java.lang.String,java.lang.String)@g_weka-stable-3.6.10.jar.txt	1
+weka/core/converters/SVMLightLoader/svmlightToArray(java.lang.String)@g_weka-stable-3.6.10.jar.txt	0
+weka/gui/explorer/AttributeSelectionPanel/10/run()@g_weka-stable-3.6.10.jar.txt	3
+weka/gui/sql/SqlViewer/stringToModel(java.lang.String)@g_weka-stable-3.6.10.jar.txt	4
+weka/gui/beans/ClassValuePicker/assignClassValue(weka.core.Instances)@g_weka-stable-3.6.10.jar.txt	2

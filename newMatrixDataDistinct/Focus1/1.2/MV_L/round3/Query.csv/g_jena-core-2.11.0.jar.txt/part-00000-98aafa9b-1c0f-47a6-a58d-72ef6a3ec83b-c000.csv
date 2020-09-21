@@ -1,0 +1,4 @@
+java/net/URLConnection/setDoInput(boolean)
+java/lang/StringBuilder/append(java.lang.String)
+org/slf4j/Logger/isTraceEnabled()
+java/net/URL/URL(java.lang.String)

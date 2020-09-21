@@ -1,0 +1,4 @@
+org/apache/lucene/index/LeafReader/getFieldInfos()
+org/apache/lucene/document/LatLonPointInPolygonQuery$1/score()
+org/apache/lucene/util/DocIdSetBuilder/DocIdSetBuilder(int,org.apache.lucene.index.PointValues,java.lang.String)
+org/apache/lucene/index/LeafReader/maxDoc()

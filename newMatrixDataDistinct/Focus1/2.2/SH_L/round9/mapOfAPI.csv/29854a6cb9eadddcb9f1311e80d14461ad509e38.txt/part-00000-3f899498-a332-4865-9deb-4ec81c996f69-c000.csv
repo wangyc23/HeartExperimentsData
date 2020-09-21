@@ -1,0 +1,8 @@
+0	java/util/List/add(E)
+1	java/util/ArrayList/add(E)
+2	java/util/ArrayList/ArrayList()
+3	org/springframework/boot/jdbc/DatabaseDriver/getXaDataSourceClassName()
+4	org/springframework/boot/jdbc/DatabaseDriver/getDriverClassName()
+5	org/springframework/boot/actuate/autoconfigure/CrshAutoConfiguration/BeanFactoryFilteringPluginDiscovery/isEnabled(org.springframework.boot.actuate.autoconfigure.CRaSHPlugin)
+6	java/util/AbstractCollection/contains(java.lang.Object)
+7	org/springframework/boot/jdbc/DatabaseDriver/values()

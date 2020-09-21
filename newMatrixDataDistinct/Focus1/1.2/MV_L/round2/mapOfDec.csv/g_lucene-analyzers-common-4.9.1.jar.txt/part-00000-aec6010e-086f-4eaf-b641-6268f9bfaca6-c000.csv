@@ -1,0 +1,5 @@
+org/apache/lucene/analysis/hunspell/HunspellStemFilterFactory/inform(org.apache.lucene.analysis.util.ResourceLoader)@g_lucene-analyzers-common-6.0.0.jar.txt	1
+org/apache/lucene/analysis/miscellaneous/WordDelimiterFilter/incrementToken()@g_lucene-analyzers-common-6.0.0.jar.txt	4
+org/apache/lucene/analysis/compound/CompoundWordTokenFilterBase/incrementToken()@g_lucene-analyzers-common-6.0.0.jar.txt	2
+org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzer/getStopWords()@g_lucene-analyzers-common-6.0.0.jar.txt	3
+org/apache/lucene/analysis/synonym/SynonymMap/Parser/analyze(java.lang.String,org.apache.lucene.util.CharsRefBuilder)@g_lucene-analyzers-common-6.0.0.jar.txt	0

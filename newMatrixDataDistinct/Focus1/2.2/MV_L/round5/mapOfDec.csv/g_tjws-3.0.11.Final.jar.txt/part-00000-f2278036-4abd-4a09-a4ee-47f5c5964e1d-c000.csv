@@ -1,0 +1,5 @@
+org/mortbay/thread/BoundedThreadPool/doStop()@g_jetty-util-6.1.26.jar.txt	0
+org/apache/maven/it/util/FileUtils/deleteFile(java.io.File)@g_maven-verifier-1.2.jar.txt	2
+org/mortbay/thread/QueuedThreadPool/doStop()@g_jetty-util-6.1.26.jar.txt	1
+org/apache/maven/it/util/FileUtils/deleteFile(java.io.File)@g_jetty-util-6.1.26.jar.txt	4
+Acme/Serve/FileServlet/serveDirectory(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,boolean,java.lang.String,java.io.File)@g_jetty-util-6.1.26.jar.txt	3

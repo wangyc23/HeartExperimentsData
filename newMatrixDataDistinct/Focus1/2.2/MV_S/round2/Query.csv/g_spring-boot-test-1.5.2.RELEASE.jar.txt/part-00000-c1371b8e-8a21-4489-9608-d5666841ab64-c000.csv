@@ -1,0 +1,4 @@
+org/springframework/util/StringUtils/hasLength(java.lang.String)
+org/mockito/MockSettings/name(java.lang.String)
+org/mockito/MockSettings/spiedInstance(java.lang.Object)
+org/mockito/MockingDetails/isSpy()

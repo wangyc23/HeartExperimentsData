@@ -1,0 +1,4 @@
+java/lang/Class/newInstance()
+java/lang/reflect/Constructor/getParameterTypes()
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Arrays/sort(java.lang.Object[],java.util.Comparator)

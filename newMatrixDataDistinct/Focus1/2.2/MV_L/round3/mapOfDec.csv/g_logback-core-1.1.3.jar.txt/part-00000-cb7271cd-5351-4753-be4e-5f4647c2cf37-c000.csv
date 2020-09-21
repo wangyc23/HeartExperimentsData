@@ -1,0 +1,5 @@
+ch/qos/logback/core/db/DBAppenderBase/selectEventId(java.sql.PreparedStatement,java.sql.Connection)@g_logback-core-1.1.11.jar.txt	0
+ch/qos/logback/core/joran/spi/ConfigurationWatchList/convertToFile(java.net.URL)@g_logback-core-1.1.11.jar.txt	3
+ch/qos/logback/core/FileAppender/openFile(java.lang.String)@g_logback-core-1.1.11.jar.txt	2
+ch/qos/logback/core/rolling/helper/RenameUtil/areOnDifferentVolumes(java.io.File,java.io.File)@g_logback-core-1.1.11.jar.txt	4
+ch/qos/logback/core/db/DBAppenderBase/selectEventId(java.sql.PreparedStatement,java.sql.Connection)@g_logback-core-1.1.2.jar.txt	1

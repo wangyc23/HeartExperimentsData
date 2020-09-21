@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/XSLTProcess/configureLiaison(java.io.File)@g_ant-1.6.5.jar.txt	1
+org/apache/tools/ant/types/Path/dieOnCircularReference(java.util.Stack,org.apache.tools.ant.Project)@g_ant-1.6.5.jar.txt	4
+org/apache/tools/ant/taskdefs/Jar/grabFilesAndDirs(java.lang.String,java.util.List,java.util.List)@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/taskdefs/Copy/doFileOperations()@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/rmic/WLRmic/execute()@g_ant-1.6.5.jar.txt	3

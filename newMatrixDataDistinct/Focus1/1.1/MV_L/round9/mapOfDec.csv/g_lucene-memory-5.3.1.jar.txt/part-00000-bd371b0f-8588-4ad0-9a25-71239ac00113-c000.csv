@@ -1,0 +1,5 @@
+org/apache/lucene/index/memory/MemoryIndex/2/incrementToken()@g_lucene-memory-4.6.0.jar.txt	1
+org/apache/lucene/index/memory/MemoryIndex/MemoryIndexReader/getNormValues(java.lang.String)@g_lucene-memory-4.5.0.jar.txt	2
+org/apache/lucene/index/memory/MemoryIndex/toString()@g_lucene-memory-4.5.0.jar.txt	4
+org/apache/lucene/index/memory/MemoryIndex/addField(java.lang.String,org.apache.lucene.analysis.TokenStream,float,int)@g_lucene-memory-4.5.0.jar.txt	3
+org/apache/lucene/index/memory/MemoryIndex/2/incrementToken()@g_lucene-memory-4.5.0.jar.txt	0

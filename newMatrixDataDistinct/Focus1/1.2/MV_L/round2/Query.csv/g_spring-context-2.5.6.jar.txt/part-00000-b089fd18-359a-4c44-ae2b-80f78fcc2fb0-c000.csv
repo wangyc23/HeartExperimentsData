@@ -1,0 +1,4 @@
+org/springframework/beans/factory/config/ConfigurableListableBeanFactory/getBeanPostProcessorCount()
+java/util/Iterator/hasNext()
+org/springframework/beans/factory/config/ConfigurableListableBeanFactory/addBeanPostProcessor(org.springframework.beans.factory.config.BeanPostProcessor)
+org/springframework/core/OrderComparator/OrderComparator()

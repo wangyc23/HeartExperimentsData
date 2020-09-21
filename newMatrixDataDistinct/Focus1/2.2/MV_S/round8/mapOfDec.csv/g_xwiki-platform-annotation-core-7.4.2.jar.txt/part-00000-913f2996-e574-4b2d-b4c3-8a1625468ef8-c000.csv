@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/renderer/XWikiLinkLabelGenerator/generate(org.xwiki.rendering.listener.reference.ResourceReference)@g_xwiki-rendering-macro-box-7.0.jar.txt	4
+org/xwiki/rendering/script/RenderingScriptService/getAvailableParserSyntaxes()@g_xwiki-platform-rendering-xwiki-7.4.jar.txt	0
+org/xwiki/rendering/macro/box/AbstractBoxMacro/execute(org.xwiki.rendering.macro.box.BoxMacroParameters,java.lang.String,org.xwiki.rendering.transformation.MacroTransformationContext)@g_xwiki-rendering-macro-box-7.0.jar.txt	3
+org/xwiki/annotation/renderer/LinkLabelGeneratorChainingListener/endLink(org.xwiki.rendering.listener.reference.ResourceReference,boolean,java.util.Map)@g_xwiki-rendering-macro-box-7.0.jar.txt	2
+org/xwiki/rendering/script/RenderingScriptService/getAvailableRendererSyntaxes()@g_xwiki-platform-rendering-xwiki-7.4.jar.txt	1

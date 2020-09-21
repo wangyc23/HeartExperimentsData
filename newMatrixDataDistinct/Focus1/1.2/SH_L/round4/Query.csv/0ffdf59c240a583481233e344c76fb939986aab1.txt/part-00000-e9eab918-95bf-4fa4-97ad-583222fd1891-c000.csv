@@ -1,0 +1,4 @@
+io/netty/buffer/ByteBuf/ensureWritable(int)
+io/netty/util/ReferenceCounted/release()
+io/netty/buffer/ByteBuf/capacity()
+io/netty/handler/codec/spdy/SpdyHeaderBlockZlibEncoder/compressInto(io.netty.buffer.ByteBuf)

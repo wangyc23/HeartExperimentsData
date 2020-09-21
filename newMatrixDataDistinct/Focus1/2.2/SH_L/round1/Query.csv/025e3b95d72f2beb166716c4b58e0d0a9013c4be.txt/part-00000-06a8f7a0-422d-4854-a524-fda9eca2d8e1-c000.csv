@@ -1,0 +1,4 @@
+java/lang/Boolean/equals(java.lang.Object)
+com/vladmihalcea/book/hpjp/util/AbstractTest/doInJDBC(com.vladmihalcea.book.hpjp.util.AbstractTest.ConnectionVoidCallable)
+java/util/concurrent/atomic/AtomicReference/AtomicReference()
+java/util/concurrent/atomic/AtomicReference/set(V)

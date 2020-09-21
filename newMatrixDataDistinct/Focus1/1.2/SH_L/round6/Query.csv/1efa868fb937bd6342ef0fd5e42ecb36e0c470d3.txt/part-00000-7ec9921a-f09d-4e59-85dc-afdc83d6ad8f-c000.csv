@@ -1,0 +1,4 @@
+org/apache/fluo/recipes/core/types/TypedTransactionBase/Mutator/set(java.lang.String)
+org/apache/fluo/recipes/core/types/TypedTransactionBase/mutate()
+org/apache/fluo/recipes/core/types/TypeLayer/QualifierMethods/qual(java.lang.String)
+org/apache/fluo/recipes/core/types/TypeLayer/RowMethods/row(java.lang.String)

@@ -1,0 +1,5 @@
+edu/emory/mathcs/util/classloader/jar/JarProxy/openJarFile(java.net.JarURLConnection)@g_emory-util-classloader-2.1.jar.txt	1
+org/xwiki/classloader/internal/protocol/jar/JarProxy/CachedJarFile/getManifest()@g_emory-util-classloader-2.1.jar.txt	0
+org/apache/batik/script/ImportInfo/addImports(java.net.URL)@g_emory-util-classloader-2.1.jar.txt	2
+edu/emory/mathcs/util/classloader/ResourceLoader/getResource(java.net.URL,java.lang.String,java.util.Set,java.util.Set)@g_emory-util-classloader-2.1.jar.txt	4
+edu/emory/mathcs/util/classloader/GenericClassLoader/defineClass(java.lang.String,edu.emory.mathcs.util.classloader.ResourceHandle)@g_emory-util-classloader-2.1.jar.txt	3

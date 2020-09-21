@@ -1,0 +1,5 @@
+org/neo4j/rest/graphdb/traversal/RestTraversal/evaluator(org.neo4j.graphdb.traversal.Evaluator)@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	3
+org/neo4j/rest/graphdb/traversal/RestTraversal/filter(org.neo4j.helpers.Predicate)@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	1
+org/neo4j/rest/graphdb/traversal/RestTraversal/evaluator(org.neo4j.graphdb.traversal.PathEvaluator)@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	2
+org/neo4j/rest/graphdb/traversal/RestTraversal/prune(org.neo4j.graphdb.traversal.PruneEvaluator)@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	0
+org/neo4j/rest/graphdb/traversal/RestTraversal/uniqueness(org.neo4j.graphdb.traversal.UniquenessFactory,java.lang.Object)@3040a8f4daa3f10a9eb8c82c5524171887ccda89.txt	4

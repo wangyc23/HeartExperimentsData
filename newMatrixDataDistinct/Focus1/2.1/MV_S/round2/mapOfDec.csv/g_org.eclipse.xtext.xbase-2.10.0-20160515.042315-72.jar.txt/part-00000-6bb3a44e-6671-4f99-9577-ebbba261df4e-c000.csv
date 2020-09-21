@@ -1,0 +1,5 @@
+org/eclipse/xtext/xbase/compiler/output/TreeAppendable/dump(java.lang.String)@g_org.eclipse.xtext.xbase-2.10.0-SNAPSHOT.jar.txt	4
+org/eclipse/xtext/xbase/impl/XMemberFeatureCallImplCustom/toString()@g_org.eclipse.xtext.xbase-2.10.0-SNAPSHOT.jar.txt	0
+org/eclipse/xtext/xbase/compiler/JvmModelGenerator/_getMembersToBeCompiled(org.eclipse.xtext.common.types.JvmEnumerationType)@g_org.eclipse.xtext.xbase-2.10.0-SNAPSHOT.jar.txt	1
+org/eclipse/xtext/xbase/compiler/JvmModelGenerator/36/apply(java.lang.Float)@g_org.eclipse.xtext.xbase-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtext/xbase/scoping/NestedTypeAwareImportNormalizer/internalResolve(org.eclipse.xtext.naming.QualifiedName)@g_org.eclipse.xtext.xbase-2.10.0-SNAPSHOT.jar.txt	2

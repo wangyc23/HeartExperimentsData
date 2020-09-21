@@ -1,0 +1,5 @@
+org/apache/commons/cli/PosixParser/flatten(org.apache.commons.cli.Options,java.lang.String[],boolean)@g_qdox-2.0-M3.jar.txt	3
+com/thoughtworks/qdox/builder/impl/EvaluatingVisitor/visit(com.thoughtworks.qdox.model.expression.LessEquals)@g_qdox-2.0-M3.jar.txt	2
+com/thoughtworks/qdox/model/impl/DefaultJavaExecutable/getTagsByName(java.lang.String,boolean)@g_qdox-2.0-M3.jar.txt	4
+com/thoughtworks/qdox/parser/impl/Parser/yyparse()@g_qdox-2.0-M3.jar.txt	0
+com/thoughtworks/qdox/writer/impl/DefaultModelWriter/writeConstructor(com.thoughtworks.qdox.model.JavaConstructor)@g_qdox-2.0-M3.jar.txt	1

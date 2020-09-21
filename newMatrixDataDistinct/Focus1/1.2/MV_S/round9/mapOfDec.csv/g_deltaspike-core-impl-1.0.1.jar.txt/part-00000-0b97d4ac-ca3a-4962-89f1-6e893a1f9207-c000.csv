@@ -1,0 +1,5 @@
+com/sun/faces/renderkit/html_basic/MenuRenderer/createCollection(java.util.Collection,java.lang.Class)@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/application/ApplicationImpl/createComponent(javax.faces.context.FacesContext,javax.faces.application.Resource)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/renderkit/html_basic/RadioRenderer/renderOption(javax.faces.context.FacesContext,javax.faces.component.UIComponent,javax.faces.convert.Converter,javax.faces.model.SelectItem,java.lang.Object,java.lang.Object[],boolean,int,com.sun.faces.renderkit.html_basic.HtmlBasicRenderer$OptionComponentInfo)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/application/annotation/RenderKitConfigHandler/push(javax.faces.context.FacesContext)@g_javax.faces-2.2.7.jar.txt	0
+com/sun/faces/config/processor/AbstractConfigProcessor/createInstance(javax.servlet.ServletContext,java.lang.String,java.lang.Class,java.lang.Object,org.w3c.dom.Node)@g_javax.faces-2.2.7.jar.txt	4

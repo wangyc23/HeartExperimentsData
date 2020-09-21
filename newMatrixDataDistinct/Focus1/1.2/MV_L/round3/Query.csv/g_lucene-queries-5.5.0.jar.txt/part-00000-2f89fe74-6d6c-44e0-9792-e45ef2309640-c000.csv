@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/apache/lucene/index/LeafReader/maxDoc()
+java/lang/Float/floatToRawIntBits(float)
+org/apache/lucene/index/LeafReaderContext/reader()

@@ -1,0 +1,5 @@
+com/hortonworks/example/UnitTest/test_2()@28ddecbd84e89acb779787b26d534dbc45315d06.txt	2
+com/mycompany/parsley/ParsleyValidationBehavior/onComponentTag(com.wicketinaction.Component,com.mycompany.parsley.ComponentTag)@28ddecbd84e89acb779787b26d534dbc45315d06.txt	4
+xyz/jetdrone/vertx/factory/DummyLoader/config(com.jetdrone.nashorn.next.JsonObject)@28ddecbd84e89acb779787b26d534dbc45315d06.txt	1
+com/jetdrone/nashorn/next/DummyLoader/main(java.lang.String)@28ddecbd84e89acb779787b26d534dbc45315d06.txt	0
+com/jetdrone/nashorn/next/RequireJSTest/testBasicRequire(xyz.jetdrone.vertx.factory.TestContext)@28ddecbd84e89acb779787b26d534dbc45315d06.txt	3

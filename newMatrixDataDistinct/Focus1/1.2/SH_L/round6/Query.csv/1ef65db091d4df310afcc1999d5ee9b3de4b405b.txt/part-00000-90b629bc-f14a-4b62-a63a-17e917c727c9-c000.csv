@@ -1,0 +1,4 @@
+ca/intelliware/ihtsdo/mlds/domain/ReleasePackage/setCreatedBy(java.lang.String)
+ca/intelliware/ihtsdo/mlds/web/rest/ReleasePackageAuditEvents/logCreationOf(ca.intelliware.ihtsdo.mlds.domain.ReleasePackage)
+ca/intelliware/ihtsdo/mlds/domain/ReleasePackage/getMember()
+org/springframework/data/repository/CrudRepository/save(S)

@@ -1,0 +1,4 @@
+nl/illuminatedgroup/bankapplicatievoorbeeld/Database/withdraw(java.lang.String,long)
+javax/ws/rs/core/Response/ResponseBuilder/build()
+nl/illuminatedgroup/bankapplicatievoorbeeld/Database/getInstance()
+nl/illuminatedgroup/bankapplicatievoorbeeld/WithdrawResponse/setResponse(java.lang.String)

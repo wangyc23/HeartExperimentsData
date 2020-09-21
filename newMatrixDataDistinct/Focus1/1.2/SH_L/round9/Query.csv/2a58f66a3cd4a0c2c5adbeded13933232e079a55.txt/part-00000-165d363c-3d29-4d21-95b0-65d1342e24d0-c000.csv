@@ -1,0 +1,4 @@
+com/googlecode/flickrjandroid/machinetags/MachinetagsInterface/parseNamespace(org.json.JSONObject)
+com/googlecode/flickrjandroid/Response/getErrorCode()
+java/util/ArrayList/ArrayList()
+org/json/JSONObject/getJSONObject(java.lang.String)

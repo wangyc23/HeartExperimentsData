@@ -1,0 +1,4 @@
+fr/grislain/math/tensor/Tensor/forEach(java.util.function.Consumer,java.util.function.Consumer,java.util.function.Consumer,java.util.function.Consumer)
+java/lang/StringBuilder/StringBuilder()
+fr/grislain/math/tensor/Tensor/dim()
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)

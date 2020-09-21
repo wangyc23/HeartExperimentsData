@@ -1,0 +1,5 @@
+anatlyzer/atl/model/TypeUtils/classifiersToString(java.util.Collection)@g_typing-1.0.1.jar.txt	3
+anatlyzer/atl/model/ErrorModel/signalNoBindingForCompulsoryFeature(org.eclipse.emf.ecore.EStructuralFeature,anatlyzer.atlext.ATL.OutPatternElement,anatlyzer.atl.errors.atl_error.NoBindingForCompulsoryFeatureKind,anatlyzer.atlext.ATL.RuleWithPattern)@g_typing-1.0.1.jar.txt	2
+anatlyzer/footprint/EffectiveMetamodelBuilder/copyFeature(org.eclipse.emf.ecore.EClass,org.eclipse.emf.ecore.EStructuralFeature)@g_typing-1.0.1.jar.txt	0
+anatlyzer/atl/analyser/ExtendTransformation/findOclModel(org.eclipse.emf.ecore.EClassifier)@g_typing-1.0.1.jar.txt	4
+anatlyzer/atl/analyser/generators/Retyping/inNavigationOrAttributeCallExp(anatlyzer.atlext.OCL.NavigationOrAttributeCallExp)@g_typing-1.0.1.jar.txt	1

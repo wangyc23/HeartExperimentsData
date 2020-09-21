@@ -1,0 +1,4 @@
+scala/Some/x()
+scala/util/parsing/combinator/PackratParsers$MemoEntry/MemoEntry(scala.util.parsing.combinator.PackratParsers,scala.util.Either)
+scala/util/parsing/combinator/Parsers$Parser/apply(scala.util.parsing.input.Reader)
+scala/collection/mutable/HashMap/get(java.lang.Object)

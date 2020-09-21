@@ -1,0 +1,4 @@
+org/infinispan/configuration/cache/EvictionConfiguration/strategy()
+org/infinispan/configuration/cache/EvictionConfigurationBuilder/maxEntries(long)
+org/infinispan/configuration/cache/EvictionConfiguration/maxEntries()
+org/infinispan/configuration/cache/ConfigurationBuilder/eviction()

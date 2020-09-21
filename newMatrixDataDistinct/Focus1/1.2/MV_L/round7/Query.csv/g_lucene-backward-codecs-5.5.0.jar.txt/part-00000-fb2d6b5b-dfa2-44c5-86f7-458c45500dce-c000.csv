@@ -1,0 +1,4 @@
+java/util/Queue/isEmpty()
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/util/Map/values()
+org/apache/lucene/util/IOUtils/closeWhileHandlingException(java.io.Closeable[])

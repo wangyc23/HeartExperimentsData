@@ -1,0 +1,4 @@
+java/lang/Integer/toString(int)
+java/lang/String/equals(java.lang.Object)
+org/apache/http/HttpRequest/getFirstHeader(java.lang.String)
+org/apache/http/HttpRequest/removeHeaders(java.lang.String)

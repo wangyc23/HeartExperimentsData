@@ -1,0 +1,4 @@
+com/google/protobuf/DescriptorProtos$SourceCodeInfo$Location/access$20902(com.google.protobuf.DescriptorProtos$SourceCodeInfo$Location,java.lang.Object)
+java/util/Collections/unmodifiableList(java.util.List)
+com/google/protobuf/DescriptorProtos$SourceCodeInfo$Location/access$21102(com.google.protobuf.DescriptorProtos$SourceCodeInfo$Location,int)
+com/google/protobuf/DescriptorProtos$SourceCodeInfo$Location$Builder/onBuilt()

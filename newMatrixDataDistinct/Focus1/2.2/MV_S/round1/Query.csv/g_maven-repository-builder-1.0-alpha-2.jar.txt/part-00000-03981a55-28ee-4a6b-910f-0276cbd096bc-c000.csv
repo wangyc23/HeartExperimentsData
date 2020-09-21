@@ -1,0 +1,4 @@
+java/util/regex/Matcher/group(int)
+java/util/regex/Pattern/compile(java.lang.String)
+java/io/File/getName()
+java/lang/String/trim()

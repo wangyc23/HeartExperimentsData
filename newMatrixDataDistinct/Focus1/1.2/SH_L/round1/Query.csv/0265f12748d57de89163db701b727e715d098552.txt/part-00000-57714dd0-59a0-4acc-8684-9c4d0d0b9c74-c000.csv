@@ -1,0 +1,4 @@
+okhttp3/mockwebserver/MockResponse/addHeader(java.lang.String)
+okhttp3/mockwebserver/MockWebServer/url(java.lang.String)
+okhttp3/HttpUrl/url()
+java/net/URLConnection/getHeaderField(java.lang.String)

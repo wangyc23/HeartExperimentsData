@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+java/lang/StringBuilder/append(java.lang.String)
+java/io/OutputStream/flush()
+java/io/File/getAbsolutePath()

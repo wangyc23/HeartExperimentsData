@@ -1,0 +1,4 @@
+tachyon/client/file/FileSystem/openFile(tachyon.TachyonURI)
+tachyon/TachyonURI/join(java.lang.String)
+tachyon/thrift/FileInfo/FileInfo()
+tachyon/client/file/URIStatus/URIStatus(tachyon.thrift.FileInfo)

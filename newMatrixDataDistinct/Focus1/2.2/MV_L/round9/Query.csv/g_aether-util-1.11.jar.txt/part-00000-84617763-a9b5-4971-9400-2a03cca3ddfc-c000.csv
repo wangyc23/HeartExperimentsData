@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+org/sonatype/aether/graph/DependencyNode/getDependency()
+org/sonatype/aether/artifact/Artifact/getGroupId()
+org/sonatype/aether/graph/Dependency/getArtifact()

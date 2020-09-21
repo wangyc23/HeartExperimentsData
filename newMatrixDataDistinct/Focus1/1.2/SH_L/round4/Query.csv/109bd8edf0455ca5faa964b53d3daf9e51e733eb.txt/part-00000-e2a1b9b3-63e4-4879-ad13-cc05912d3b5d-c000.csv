@@ -1,0 +1,4 @@
+org/keycloak/models/entities/UserEntity/getGroupIds()
+java/util/List/size()
+java/util/Set/add(E)
+org/keycloak/models/RealmModel/getGroupById(java.lang.String)

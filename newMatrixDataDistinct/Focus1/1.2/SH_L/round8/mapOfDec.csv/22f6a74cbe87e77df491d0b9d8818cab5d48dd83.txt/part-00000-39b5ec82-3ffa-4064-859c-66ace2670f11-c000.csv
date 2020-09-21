@@ -1,0 +1,5 @@
+org/deeplearning4j/ui/nearestneighbors/NearestNeighborsResource/getWords(org.deeplearning4j.ui.nearestneighbors.NearestNeighborsQuery)@1c50912f1039a2f629c549d23e852666647eb2d3.txt	1
+org/deeplearning4j/models/paragraphvectors/ParagraphVectors/similarityToLabel(java.util.List,java.lang.String)@1c50912f1039a2f629c549d23e852666647eb2d3.txt	4
+org/deeplearning4j/models/embeddings/loader/WordVectorSerializer/loadFullModel(java.lang.String)@1c50912f1039a2f629c549d23e852666647eb2d3.txt	3
+org/deeplearning4j/models/paragraphvectors/ParagraphVectors/predict(java.util.List)@1c50912f1039a2f629c549d23e852666647eb2d3.txt	2
+org/deeplearning4j/spark/models/embeddings/word2vec/Word2VecPerformerVoid/trainSentence(java.util.List,double)@1c50912f1039a2f629c549d23e852666647eb2d3.txt	0

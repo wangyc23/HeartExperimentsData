@@ -1,0 +1,5 @@
+org/springframework/beans/TypeConverterDelegate/convertToTypedCollection(java.util.Collection,java.lang.String,java.lang.Class,org.springframework.core.convert.TypeDescriptor)@g_spring-beans-4.0.2.RELEASE.jar.txt	3
+org/springframework/beans/TypeConverterDelegate/convertToTypedCollection(java.util.Collection,java.lang.String,java.lang.Class,org.springframework.core.convert.TypeDescriptor)@g_spring-beans-4.0.9.RELEASE.jar.txt	1
+org/springframework/beans/propertyeditors/CustomCollectionEditor/setValue(java.lang.Object)@g_spring-beans-4.0.2.RELEASE.jar.txt	2
+org/springframework/beans/TypeConverterDelegate/convertToTypedArray(java.lang.Object,java.lang.String,java.lang.Class)@g_spring-beans-4.0.9.RELEASE.jar.txt	4
+org/springframework/beans/propertyeditors/CustomCollectionEditor/setValue(java.lang.Object)@g_spring-beans-4.0.9.RELEASE.jar.txt	0

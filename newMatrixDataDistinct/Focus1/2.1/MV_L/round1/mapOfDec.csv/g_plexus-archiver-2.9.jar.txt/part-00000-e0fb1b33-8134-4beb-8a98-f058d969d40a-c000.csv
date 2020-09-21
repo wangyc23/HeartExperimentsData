@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/tar/TarArchiver/execute()@g_plexus-archiver-2.8.1.jar.txt	2
+org/codehaus/plexus/archiver/zip/AbstractZipArchiver/createArchiveMain()@g_plexus-archiver-2.6.3.jar.txt	3
+org/codehaus/plexus/archiver/zip/AbstractZipArchiver/createArchiveMain()@g_plexus-archiver-2.8.1.jar.txt	0
+org/codehaus/plexus/archiver/dir/DirectoryArchiver/execute()@g_plexus-archiver-2.6.3.jar.txt	4
+org/codehaus/plexus/archiver/dir/DirectoryArchiver/execute()@g_plexus-archiver-2.8.1.jar.txt	1

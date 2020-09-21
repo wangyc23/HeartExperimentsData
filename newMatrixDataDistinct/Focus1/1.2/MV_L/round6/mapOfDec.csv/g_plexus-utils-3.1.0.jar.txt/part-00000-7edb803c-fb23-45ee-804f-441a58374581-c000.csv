@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/ExceptionUtils/getStackFrameList(java.lang.Throwable)@g_plexus-utils-3.0.5.jar.txt	2
+org/codehaus/plexus/util/FileUtils/catPath(java.lang.String,java.lang.String)@g_plexus-utils-3.0.10.jar.txt	1
+org/codehaus/plexus/util/FileUtils/catPath(java.lang.String,java.lang.String)@g_plexus-utils-3.0.5.jar.txt	0
+org/codehaus/plexus/util/ExceptionUtils/getStackFrameList(java.lang.Throwable)@g_plexus-utils-3.0.10.jar.txt	4
+org/codehaus/plexus/util/xml/XmlStreamWriter/detectEncoding(char[],int,int)@g_plexus-utils-3.0.5.jar.txt	3

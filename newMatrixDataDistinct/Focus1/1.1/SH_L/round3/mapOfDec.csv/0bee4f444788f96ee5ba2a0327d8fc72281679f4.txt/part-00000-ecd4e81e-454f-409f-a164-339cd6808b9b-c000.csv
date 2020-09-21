@@ -1,0 +1,5 @@
+demo/cart/ShoppingCart/getLineItems()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	1
+demo/api/v1/ShoppingCartServiceV1/checkout()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	2
+demo/config/DatabaseInitializer/populate()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	0
+demo/InventoryApplicationTests/inventoryTest()@229a524032e47d37c14b4221b3c41dbf6d574677.txt	4
+demo/api/v1/ShoppingCartServiceV1/checkAvailableInventory(demo.cart.CheckoutResult,demo.cart.ShoppingCart,java.util.Map)@229a524032e47d37c14b4221b3c41dbf6d574677.txt	3

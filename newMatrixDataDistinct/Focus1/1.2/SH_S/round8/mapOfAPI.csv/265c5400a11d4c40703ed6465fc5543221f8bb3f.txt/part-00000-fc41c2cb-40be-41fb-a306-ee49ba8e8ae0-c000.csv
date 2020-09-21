@@ -1,0 +1,8 @@
+0	com/trier/exam/shopping/model/Product/setId(java.lang.Long)
+1	com/example/sdn4rc2/web/CustomerForm/getRegion()
+2	com/trier/exam/shopping/service/AbstractService/persist(T)
+3	com/example/sdn4rc2/web/CustomerForm/getCity()
+4	com/trier/exam/shopping/model/Product/getId()
+5	com/example/sdn4rc2/web/CustomerForm/getId()
+6	com/example/sdn4rc2/web/CustomerForm/getCustomerID()
+7	com/trier/exam/shopping/service/AbstractService/findById(java.lang.Long)

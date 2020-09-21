@@ -1,0 +1,5 @@
+org/apache/jena/util/LocationMapper/initFromPath(java.lang.String,boolean)@g_jena-core-3.5.0.jar.txt	4
+org/apache/jena/rdf/model/impl/RDFListImpl/checkValidProperty(org.apache.jena.rdf.model.Property,org.apache.jena.rdf.model.RDFNode)@g_jena-core-3.4.0.jar.txt	1
+org/apache/jena/reasoner/rulesys/impl/RETEEngine/addTriple(org.apache.jena.graph.Triple,boolean)@g_jena-core-3.5.0.jar.txt	2
+org/apache/jena/rdf/model/impl/RDFListImpl/checkValidProperty(org.apache.jena.rdf.model.Property,org.apache.jena.rdf.model.RDFNode)@g_jena-core-3.5.0.jar.txt	0
+org/apache/jena/reasoner/rulesys/GenericRuleReasoner/doSetParameter(org.apache.jena.rdf.model.Property,java.lang.Object)@g_jena-core-3.5.0.jar.txt	3

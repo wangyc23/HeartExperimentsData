@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/kitchensink/spring/controlleradvice/controller/MemberController/registerNewMember(org.jboss.as.quickstarts.kitchensink.spring.controlleradvice.model.Member,org.jboss.as.quickstarts.kitchensink.spring.asyncrequestmapping.controller.BindingResult,org.jboss.as.quickstarts.kitchensink.spring.asyncrequestmapping.controller.Model)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	1
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	0
+org/jboss/as/quickstarts/tasksrs/UserDaoTest/deployment()@041319acfbde73d5f4674b873a0b24eccc804d45.txt	2
+demo/oauth/client/controllers/TemporaryCredentialsController/handleRequest(demo.oauth.client.model.OAuthParams,demo.oauth.client.controllers.HttpServletResponse)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	4
+org/jboss/as/quickstarts/datagrid/rest/FootballManager/encode(java.lang.String)@041319acfbde73d5f4674b873a0b24eccc804d45.txt	3

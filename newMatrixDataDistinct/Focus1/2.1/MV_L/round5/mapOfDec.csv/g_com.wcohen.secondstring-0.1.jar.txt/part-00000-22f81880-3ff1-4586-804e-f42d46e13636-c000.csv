@@ -1,0 +1,5 @@
+edu/stanford/nlp/sequences/PlainTextDocumentReaderAndWriter/init(edu.stanford.nlp.sequences.SeqClassifierFlags)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/FactoredParser/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/FrenchTreebankParserParams/setOptionFlag(java.lang.String[],int)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/trees/GrammaticalStructure/loadAlternateDependencyReader(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/trees/tregex/TregexPattern/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0

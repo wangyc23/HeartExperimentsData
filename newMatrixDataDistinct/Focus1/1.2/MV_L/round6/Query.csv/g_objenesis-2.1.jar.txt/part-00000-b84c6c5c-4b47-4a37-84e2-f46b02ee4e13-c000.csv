@@ -1,0 +1,4 @@
+java/io/DataOutputStream/writeInt(int)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/Error/Error(java.lang.String)
+java/io/IOException/getMessage()

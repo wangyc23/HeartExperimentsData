@@ -1,0 +1,5 @@
+getui/HttpUtil/httpPostJSON1(java.lang.String,java.util.Map)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	1
+nio/SimpleClient/main(java.lang.String[])@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	0
+org/wso2/jaggery/integration/tests/hostObjects/core/HttpClientTestCase/testHttpClientPut()@1b5e09f51d81c70a43951b57ad4983b5b91f66fc.txt	4
+getui/HttpUtil/httpPostJSON(java.lang.String,java.util.Map,java.lang.String)@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	3
+nio/HandleMsg/run()@1d10d1b46520fc22f8cc9116b546a6be55a98d73.txt	2

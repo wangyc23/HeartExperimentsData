@@ -1,0 +1,5 @@
+com/sun/jersey/spi/service/ServiceFinder/parse(java.lang.String,java.net.URL,java.util.Set)@g_jersey-core-1.13.jar.txt	2
+com/sun/jersey/spi/service/ServiceFinder/parse(java.lang.String,java.net.URL,java.util.Set)@g_jersey-core-1.9.jar.txt	4
+com/sun/jersey/core/osgi/Activator/BundleFactoryLoader/call()@g_jersey-core-1.13.jar.txt	3
+javax/ws/rs/ext/FactoryFinder/find(java.lang.String,java.lang.String)@g_jersey-core-1.13.jar.txt	0
+javax/ws/rs/ext/FactoryFinder/find(java.lang.String,java.lang.String)@g_jersey-core-1.9.jar.txt	1

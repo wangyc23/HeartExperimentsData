@@ -1,0 +1,5 @@
+org/apache/hadoop/util/Shell/checkHadoopHome()@g_hadoop-common-2.6.0.jar.txt	4
+org/apache/hadoop/fs/Stat/parseExecResult(java.io.BufferedReader)@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/conf/Configuration/substituteVars(java.lang.String)@g_hadoop-common-2.6.0.jar.txt	3
+org/apache/hadoop/record/compiler/generated/ParseException/add_escapes(java.lang.String)@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/conf/Configuration/getTimeDuration(java.lang.String,long,java.util.concurrent.TimeUnit)@g_hadoop-common-2.6.0.jar.txt	1

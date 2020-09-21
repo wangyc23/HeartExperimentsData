@@ -1,0 +1,8 @@
+0	java/lang/StringBuilder/StringBuilder(java.lang.String)
+1	java/lang/StringBuilder/toString()
+2	java/lang/StringBuilder/append(java.lang.String)
+3	io/selendroid/server/common/SelendroidResponse/SelendroidResponse(java.lang.String,io.selendroid.server.common.StatusCode,java.lang.Object)
+4	java/lang/StringBuilder/append(java.lang.Object)
+5	io/selendroid/server/common/BaseRequestHandler/getSessionId(io.selendroid.server.common.http.HttpRequest)
+6	io/selendroid/server/common/SelendroidResponse/SelendroidResponse(java.lang.String,java.lang.Object)
+7	io/selendroid/server/handler/SafeRequestHandler/getSelendroidDriver(io.selendroid.server.common.http.HttpRequest)

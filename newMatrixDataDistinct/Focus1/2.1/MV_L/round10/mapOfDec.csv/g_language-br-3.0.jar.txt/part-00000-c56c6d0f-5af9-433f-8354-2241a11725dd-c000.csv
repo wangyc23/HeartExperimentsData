@@ -1,0 +1,5 @@
+org/languagetool/rules/de/CaseRule/match(org.languagetool.AnalyzedSentence)@g_language-de-3.0.jar.txt	2
+org/languagetool/rules/de/VerbAgreementRule/match(org.languagetool.AnalyzedSentence)@g_language-de-3.0.jar.txt	3
+org/languagetool/rules/de/AgreementRule/match(org.languagetool.AnalyzedSentence)@g_language-de-3.0.jar.txt	0
+org/languagetool/tagging/br/BretonTagger/tag(java.util.List)@g_language-de-3.0.jar.txt	4
+org/languagetool/tagging/de/GermanTagger/tag(java.util.List,boolean)@g_language-de-3.0.jar.txt	1

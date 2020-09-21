@@ -1,0 +1,5 @@
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-oboformat-4.5.0.jar.txt	1
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/tr(org.semanticweb.owlapi.model.OWLSubPropertyChainOfAxiom)@g_owlapi-oboformat-4.5.0.jar.txt	4
+org/obolibrary/obo2owl/OboInOwlCardinalityTools/1/handleConflict(org.semanticweb.owlapi.model.OWLAnnotationProperty,java.util.Collection)@g_owlapi-oboformat-4.5.0.jar.txt	2
+org/obolibrary/obo2owl/OboInOwlCardinalityTools/1/handleConflict(org.semanticweb.owlapi.model.OWLEntity,org.semanticweb.owlapi.model.OWLAnnotationProperty,java.util.Collection)@g_owlapi-oboformat-4.5.0.jar.txt	3
+org/obolibrary/obo2owl/OWLAPIOwl2Obo/getDataVersion(org.semanticweb.owlapi.model.OWLOntology)@g_owlapi-oboformat-4.5.0.jar.txt	0

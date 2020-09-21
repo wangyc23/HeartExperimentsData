@@ -1,0 +1,4 @@
+org/apache/jena/atlas/io/AbstractTestPeekInputStream/assertTrue(boolean)
+java/lang/String/length()
+java/lang/StringBuilder/append(char)
+org/apache/jena/atlas/io/PeekInputStream/eof()

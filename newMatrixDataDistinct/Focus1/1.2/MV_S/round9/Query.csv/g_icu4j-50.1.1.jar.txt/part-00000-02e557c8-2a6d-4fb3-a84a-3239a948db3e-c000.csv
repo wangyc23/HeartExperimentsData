@@ -1,0 +1,4 @@
+java/lang/StringBuilder/getChars(int,int,char[],int)
+java/lang/IndexOutOfBoundsException/IndexOutOfBoundsException(java.lang.String)
+java/lang/Integer/toString(int)
+java/lang/StringBuilder/append(char[],int,int)

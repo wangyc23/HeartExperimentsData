@@ -1,0 +1,5 @@
+org/apache/hadoop/mapreduce/v2/app/rm/RMContainerAllocator/ScheduledRequests/assign(java.util.List)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	0
+org/apache/hadoop/mapreduce/v2/app/rm/RMContainerRequestor/containerFailedOnHost(java.lang.String)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	2
+org/apache/hadoop/mapreduce/v2/app/job/impl/JobImpl/TaskAttemptFetchFailureTransition/transition(org.apache.hadoop.mapreduce.v2.app.job.impl.JobImpl,org.apache.hadoop.mapreduce.v2.app.job.event.JobEvent)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	1
+org/apache/hadoop/mapreduce/v2/app/rm/RMContainerAllocator/ScheduledRequests/getContainerReqToReplace(org.apache.hadoop.yarn.api.records.Container)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	4
+org/apache/hadoop/mapreduce/v2/app/rm/RMContainerAllocator/handleUpdatedNodes(org.apache.hadoop.yarn.api.protocolrecords.AllocateResponse)@g_hadoop-mapreduce-client-app-2.6.5.jar.txt	3

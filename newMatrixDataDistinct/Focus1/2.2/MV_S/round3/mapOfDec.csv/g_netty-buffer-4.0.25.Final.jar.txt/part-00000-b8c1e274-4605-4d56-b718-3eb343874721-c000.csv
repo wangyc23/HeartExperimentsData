@@ -1,0 +1,5 @@
+io/netty/handler/ssl/util/FingerprintTrustManagerFactory/toFingerprintArray(java.lang.Iterable)@g_netty-all-4.0.28.Final.jar.txt	2
+hidden/io/netty/buffer/CompositeByteBuf/toString()@g_xwiki-contrib-websocket-1.7.jar.txt	1
+io/netty/buffer/CompositeByteBuf/toString()@g_netty-all-4.0.28.Final.jar.txt	0
+io/netty/channel/DefaultChannelPipeline/generateName(io.netty.channel.ChannelHandler)@g_netty-all-4.0.28.Final.jar.txt	4
+io/netty/util/internal/StringUtil/split(java.lang.String,char)@g_netty-all-4.0.28.Final.jar.txt	3

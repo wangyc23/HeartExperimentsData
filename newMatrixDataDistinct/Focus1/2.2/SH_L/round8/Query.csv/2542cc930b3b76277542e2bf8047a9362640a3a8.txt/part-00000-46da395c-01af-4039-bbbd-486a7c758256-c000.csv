@@ -1,0 +1,4 @@
+com/jeroensteenbeeke/hyperion/data/ModelMaker/wrap(T,boolean)
+com/jeroensteenbeeke/hyperion/data/DAO/findAll()
+com/jeroensteenbeeke/hyperion/data/DAO/countByFilter(com.jeroensteenbeeke.hyperion.data.SearchFilter)
+com/tysanclan/site/projectewok/entities/dao/filters/RegulationChangeFilter/setUser(com.tysanclan.site.projectewok.entities.User)

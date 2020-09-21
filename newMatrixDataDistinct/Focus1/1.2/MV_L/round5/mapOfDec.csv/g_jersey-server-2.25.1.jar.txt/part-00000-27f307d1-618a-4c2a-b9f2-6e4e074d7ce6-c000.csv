@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/wadl/internal/WadlBuilder/generateRequest(org.glassfish.jersey.server.model.Resource,org.glassfish.jersey.server.model.ResourceMethod,java.util.Map)@g_jersey-server-2.21.jar.txt	3
+org/glassfish/jersey/server/filter/EncodingFilter/filter(javax.ws.rs.container.ContainerRequestContext,javax.ws.rs.container.ContainerResponseContext)@g_jersey-server-2.21.jar.txt	2
+org/glassfish/jersey/server/ApplicationHandler/logApplicationInitConfiguration(org.glassfish.hk2.api.ServiceLocator,org.glassfish.jersey.server.ResourceBag,org.glassfish.jersey.server.internal.ProcessingProviders)@g_jersey-server-2.21.jar.txt	0
+org/glassfish/jersey/server/filter/EncodingFilter/filter(javax.ws.rs.container.ContainerRequestContext,javax.ws.rs.container.ContainerResponseContext)@g_jersey-server-2.19.jar.txt	4
+org/glassfish/jersey/server/ApplicationHandler/logApplicationInitConfiguration(org.glassfish.hk2.api.ServiceLocator,org.glassfish.jersey.server.ResourceBag,org.glassfish.jersey.server.internal.ProcessingProviders)@g_jersey-server-2.19.jar.txt	1

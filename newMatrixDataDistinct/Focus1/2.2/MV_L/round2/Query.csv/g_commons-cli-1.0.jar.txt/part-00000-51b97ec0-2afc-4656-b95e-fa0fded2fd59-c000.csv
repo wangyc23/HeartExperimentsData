@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+java/lang/StringBuffer/StringBuffer(int)
+java/lang/StringBuffer/append(char)

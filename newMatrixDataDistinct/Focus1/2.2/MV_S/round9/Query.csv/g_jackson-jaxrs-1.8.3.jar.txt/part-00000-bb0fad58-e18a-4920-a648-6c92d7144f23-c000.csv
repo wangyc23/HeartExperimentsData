@@ -1,0 +1,4 @@
+org/codehaus/jackson/JsonGenerator/disable(org.codehaus.jackson.JsonGenerator$Feature)
+org/codehaus/jackson/map/type/TypeFactory/constructType(java.lang.reflect.Type)
+org/codehaus/jackson/map/ObjectMapper/writeValue(org.codehaus.jackson.JsonGenerator,java.lang.Object)
+org/codehaus/jackson/map/SerializationConfig/isEnabled(org.codehaus.jackson.map.SerializationConfig$Feature)

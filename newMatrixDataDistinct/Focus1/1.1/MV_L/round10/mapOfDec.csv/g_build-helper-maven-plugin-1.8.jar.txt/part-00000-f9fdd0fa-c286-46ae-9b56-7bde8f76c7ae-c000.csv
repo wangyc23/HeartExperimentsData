@@ -1,0 +1,5 @@
+org/codehaus/mojo/buildhelper/RemoveLocalArtifactMojo/execute()@g_build-helper-maven-plugin-1.9.1.jar.txt	4
+org/codehaus/mojo/buildhelper/ReserveListenerPortMojo/getNextPortNumber()@g_build-helper-maven-plugin-1.9.1.jar.txt	1
+org/codehaus/mojo/exec/ExecJavaMojo/addRelevantProjectDependenciesToClasspath(java.util.List)@g_build-helper-maven-plugin-1.9.1.jar.txt	2
+org/codehaus/mojo/exec/ExecJavaMojo/addRelevantPluginDependenciesToClasspath(java.util.List)@g_build-helper-maven-plugin-1.9.1.jar.txt	3
+org/codehaus/mojo/buildhelper/ReserveListenerPortMojo/getServerSocket()@g_build-helper-maven-plugin-1.9.1.jar.txt	0

@@ -1,0 +1,5 @@
+org/springframework/aop/framework/Cglib2AopProxy/ProxyCallbackFilter/accept(java.lang.reflect.Method)@g_spring-aop-3.0.5.RELEASE.jar.txt	4
+org/springframework/aop/interceptor/AbstractMonitoringInterceptor/createInvocationTraceName(org.aopalliance.intercept.MethodInvocation)@g_spring-aop-3.0.5.RELEASE.jar.txt	2
+org/springframework/aop/framework/JdkDynamicAopProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-aop-3.0.5.RELEASE.jar.txt	0
+org/springframework/aop/framework/Cglib2AopProxy/DynamicAdvisedInterceptor/intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],net.sf.cglib.proxy.MethodProxy)@g_spring-aop-3.0.5.RELEASE.jar.txt	3
+org/springframework/aop/framework/JdkDynamicAopProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-aop-4.0.0.RELEASE.jar.txt	1

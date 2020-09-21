@@ -1,0 +1,4 @@
+java/util/Properties/get(java.lang.Object)
+java/lang/reflect/Method/getAnnotation(java.lang.Class)
+java/beans/PropertyDescriptor/getPropertyType()
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,5 @@
+org/apache/poi/hslf/model/Sheet/findTextRuns(org.apache.poi.hslf.record.Record[],java.util.List,org.apache.poi.hslf.record.StyleTextProp9Atom)@g_poi-scratchpad-3.9.jar.txt	3
+org/apache/poi/hwpf/model/CHPBinTable/rebuild(org.apache.poi.hwpf.model.ComplexFileTable)@g_poi-scratchpad-3.9.jar.txt	4
+org/apache/poi/hslf/extractor/PowerPointExtractor/getText(boolean,boolean,boolean,boolean)@g_poi-scratchpad-3.9.jar.txt	0
+org/apache/poi/hwpf/converter/WordToHtmlConverter/main(java.lang.String[])@g_poi-scratchpad-3.9.jar.txt	2
+org/apache/poi/hslf/extractor/PowerPointExtractor/getText(boolean,boolean,boolean,boolean)@g_poi-scratchpad-3.11.jar.txt	1

@@ -1,0 +1,5 @@
+demo/hw/server/IntegerUserMapAdapter/marshal(java.util.Map)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	4
+org/jboss/as/quickstarts/servlet/filterlistener/ParameterDumpingRequestListener/requestInitialized(javax.servlet.ServletRequestEvent)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	1
+org/apache/cxf/demo/aegis/commands/ReadZoo/go()@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	3
+demo/oauth/server/controllers/SampleOAuthDataProvider/removeRegisteredClient(java.lang.String)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	2
+org/jboss/as/quickstarts/servlet/filterlistener/VowelRemoverFilter/removeVowels(java.util.Map)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	0

@@ -1,0 +1,5 @@
+org/springframework/web/util/UriUtils/encodeUri(java.lang.String,java.lang.String)@g_spring-web-4.0.6.RELEASE.jar.txt	1
+org/springframework/web/util/UriUtils/encodeUri(java.lang.String,java.lang.String)@g_spring-web-4.0.7.RELEASE.jar.txt	4
+org/springframework/web/util/UriComponentsBuilder/fromUriString(java.lang.String)@g_spring-web-4.0.6.RELEASE.jar.txt	0
+org/springframework/web/util/UriComponentsBuilder/fromUriString(java.lang.String)@g_spring-web-4.0.7.RELEASE.jar.txt	3
+org/springframework/web/util/UriUtils/encodeHttpUrl(java.lang.String,java.lang.String)@g_spring-web-4.0.6.RELEASE.jar.txt	2

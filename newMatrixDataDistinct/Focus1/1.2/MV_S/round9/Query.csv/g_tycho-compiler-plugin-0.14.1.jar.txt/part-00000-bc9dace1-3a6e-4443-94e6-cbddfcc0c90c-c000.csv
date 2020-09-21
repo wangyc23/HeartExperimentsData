@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/List/addAll(java.util.Collection)
+java/lang/StringBuilder/StringBuilder()
+java/util/List/add(java.lang.Object)

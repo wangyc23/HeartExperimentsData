@@ -1,0 +1,5 @@
+org/jboss/weld/tests/decorators/ejb/StatelessCar/start()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	3
+org/jboss/weld/tests/extensions/sessionbean/SessionBeanExtensionTest/deploy()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	2
+org/jboss/weld/bean/proxy/ProxyFactory/getProxyName(java.lang.String,java.lang.Class,java.util.Set,org.jboss.weld.injection.Bean)@09129e1612bdf2c5c057170fceb87099207a7dab.txt	0
+org/jboss/weld/tests/event/lifecycle/phase/ContainerLifecycleEventInvocationOutsideObserverTest/getDeployment()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	4
+org/jboss/weld/tests/decorators/unwrapException/UnwrappingUncheckedExceptionTest/deploy()@09129e1612bdf2c5c057170fceb87099207a7dab.txt	1

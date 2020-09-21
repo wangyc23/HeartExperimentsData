@@ -1,0 +1,5 @@
+org/eclipse/acceleo/engine/generation/strategy/WorkspaceAwareStrategy/flushWriters(java.util.Map)@g_org.eclipse.acceleo.engine-3.5.0-20140828.085528-60.jar.txt	0
+org/eclipse/acceleo/engine/generation/strategy/PreviewStrategy/createLostFile(java.lang.String,java.util.Map)@g_org.eclipse.acceleo.engine-3.5.0-20140828.085528-60.jar.txt	2
+org/eclipse/acceleo/engine/internal/evaluation/AcceleoEvaluationContext/closeContext(org.eclipse.acceleo.model.mtl.Block,org.eclipse.emf.ecore.EObject)@g_org.eclipse.acceleo.engine-3.5.0-20140828.085528-60.jar.txt	3
+org/eclipse/acceleo/engine/service/AcceleoService/doGenerate(java.util.Map,org.eclipse.emf.ecore.EObject,boolean,java.io.File,org.eclipse.emf.common.util.Monitor)@g_org.eclipse.acceleo.engine-3.5.0-20140828.085528-60.jar.txt	4
+org/eclipse/acceleo/engine/service/AbstractAcceleoGenerator/1/normalize(org.eclipse.emf.common.util.URI)@g_org.eclipse.acceleo.engine-3.5.0-20140828.085528-60.jar.txt	1

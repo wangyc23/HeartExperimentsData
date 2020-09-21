@@ -1,0 +1,5 @@
+org/languagetool/JLanguageTool/check(org.languagetool.markup.AnnotatedText,boolean,org.languagetool.JLanguageTool$ParagraphHandling)@g_languagetool-core-3.0.jar.txt	1
+org/languagetool/tools/Tools/correctTextFromMatches(java.lang.String,java.util.List)@g_languagetool-core-3.0.jar.txt	3
+org/languagetool/rules/spelling/hunspell/HunspellRule/match(org.languagetool.AnalyzedSentence)@g_languagetool-core-3.0.jar.txt	4
+org/languagetool/rules/ConfusionSetLoader/loadConfusionSet(java.io.InputStream)@g_languagetool-core-3.0.jar.txt	2
+org/languagetool/rules/AbstractSimpleReplaceRule2/loadWords(java.io.InputStream)@g_languagetool-core-3.0.jar.txt	0

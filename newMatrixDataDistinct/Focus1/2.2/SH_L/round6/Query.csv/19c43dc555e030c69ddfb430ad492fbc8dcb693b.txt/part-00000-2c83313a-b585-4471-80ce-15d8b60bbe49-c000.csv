@@ -1,0 +1,4 @@
+alluxio/thrift/SetAttributeTOptions/setOwner(java.lang.String)
+alluxio/thrift/SetAttributeTOptions/setGroup(java.lang.String)
+alluxio/thrift/SetAttributeTOptions/setPermission(short)
+alluxio/thrift/SetAttributeTOptions/setPersisted(boolean)

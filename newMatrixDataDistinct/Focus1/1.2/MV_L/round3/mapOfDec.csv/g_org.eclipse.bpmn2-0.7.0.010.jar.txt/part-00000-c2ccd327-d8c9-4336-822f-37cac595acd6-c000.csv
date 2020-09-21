@@ -1,0 +1,5 @@
+org/eclipse/emf/ecore/xmi/impl/XMLSaveImpl/addNamespaceDeclarations()@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	2
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/handleDanglingHREF(org.eclipse.emf.ecore.EObject)@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	0
+org/eclipse/emf/ecore/xmi/impl/XMLHandler/handleProxy(org.eclipse.emf.ecore.InternalEObject,java.lang.String)@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	1
+org/eclipse/emf/ecore/xmi/impl/XMLHandler/recordUnknownFeature(java.lang.String,java.lang.String,boolean,org.eclipse.emf.ecore.EObject,java.lang.String)@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	3
+org/eclipse/emf/ecore/xmi/impl/XMLHelperImpl/updateQNamePrefix(org.eclipse.emf.ecore.EFactory,org.eclipse.emf.ecore.EDataType,java.lang.Object,boolean)@g_org.eclipse.emf.ecore.xmi-2.8.1.v20130125-0546.jar.txt	4

@@ -1,0 +1,5 @@
+org/sifarish/feature/SameTypeSimilarity/SimilarityReducer/reduce(org.sifarish.feature.TextIntInt,java.lang.Iterable,org.sifarish.social.Context)@2d0cf295c42e84ce52e065ae33e25c7e0315193c.txt	3
+org/sifarish/common/ItemDynamicAttributeSimilarity/SimilarityReducer/reduce(org.sifarish.social.Tuple,java.lang.Iterable,org.sifarish.social.Context)@2d0cf295c42e84ce52e065ae33e25c7e0315193c.txt	4
+org/sifarish/common/ResourceDescribedEntity/match(java.lang.String,java.lang.String)@2d0cf295c42e84ce52e065ae33e25c7e0315193c.txt	1
+org/sifarish/social/PearsonCorrelator/PrearsonReducer/reduce(org.sifarish.social.Tuple,java.lang.Iterable,org.sifarish.social.Context)@2d0cf295c42e84ce52e065ae33e25c7e0315193c.txt	2
+cn/lcf/controller/TicketController/localSell(long,int)@019622476a87a559da8127d1703f80813d3e7f7f.txt	0

@@ -1,0 +1,5 @@
+org/springframework/boot/devtools/restart/server/DefaultSourceFolderUrlFilter/isFolderMatch(java.lang.String,java.lang.String)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	3
+org/springframework/boot/actuate/metrics/repository/redis/RedisMetricRepository/nameFor(java.lang.String)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	1
+org/springframework/boot/loader/jar/AsciiBytes/append(java.lang.String)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	2
+org/springframework/boot/actuate/metrics/aggregate/AggregateMetricReader/findOne(java.lang.String)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	4
+org/springframework/boot/autoconfigure/amqp/RabbitProperties/Address/trimPrefix(java.lang.String)@29854a6cb9eadddcb9f1311e80d14461ad509e38.txt	0

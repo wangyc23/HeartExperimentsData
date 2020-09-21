@@ -1,0 +1,5 @@
+com/cdo/util/system/SystemUtil/getLocalServerIP()@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	2
+com/cdoframework/cdolib/data/cdo/ParseCDOBuffer/parseHierarchicCDO(com.cdoframework.cdolib.data.cdo.CDO,java.nio.ByteBuffer,java.lang.String)@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	3
+com/cdoframework/cdolib/service/framework/CacheManager/getErrorServer()@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	4
+com/cdoframework/cdolib/servicebus/ServicePlugin/init(java.lang.String,com.cdoframework.cdolib.servicebus.ServiceBus,com.cdoframework.cdolib.servicebus.xsd.ServicePlugin)@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	1
+com/cdoframework/cdolib/database/DataEngine/analyzeSourceSQL(java.lang.String)@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	0

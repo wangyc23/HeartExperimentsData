@@ -1,0 +1,4 @@
+com/spotify/folsom/client/binary/BinaryRequest/getOpaque()
+com/google/common/collect/Lists/newArrayList()
+com/google/common/util/concurrent/AbstractFuture/get()
+io/netty/buffer/ByteBuf/writeInt(int)

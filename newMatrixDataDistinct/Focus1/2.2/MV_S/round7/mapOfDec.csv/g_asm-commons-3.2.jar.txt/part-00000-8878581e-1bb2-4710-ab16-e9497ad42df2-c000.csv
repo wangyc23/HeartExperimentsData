@@ -1,0 +1,5 @@
+org/objectweb/asm/commons/Method/map(java.lang.String,boolean)@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	0
+org/parboiled/transform/AsmUtils/getClassForInternalName(java.lang.String)@g_parboiled-java-1.1.6.jar.txt	4
+org/objectweb/asm/commons/Method/getMethod(java.lang.String,boolean)@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	1
+org/parboiled/transform/AsmUtils/createClassReader(java.lang.Class)@g_parboiled-java-1.1.6.jar.txt	3
+org/objectweb/asm/util/ASMifierClassVisitor/visit(int,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@g_org.objectweb.asm-3.1.0.v200803061910.jar.txt	2

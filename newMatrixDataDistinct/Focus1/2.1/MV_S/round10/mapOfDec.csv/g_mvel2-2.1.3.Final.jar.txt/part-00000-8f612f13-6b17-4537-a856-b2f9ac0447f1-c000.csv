@@ -1,0 +1,5 @@
+ognl/ASTMethod/toSetSourceString(ognl.OgnlContext,java.lang.Object)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	1
+ognl/ArrayPropertyAccessor/getProperty(java.util.Map,java.lang.Object,java.lang.Object)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	4
+ognl/OgnlRuntime/<clinit>()@g_ognl-3.0.8.jar.txt	0
+org/codehaus/swizzle/confluence/MapObject/checkXmlRpcTypes(java.lang.Object)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	3
+ognl/ArrayPropertyAccessor/getSourceSetter(ognl.OgnlContext,java.lang.Object,java.lang.Object)@g_swizzle-confluence-1.2-20080419-xwiki.jar.txt	2

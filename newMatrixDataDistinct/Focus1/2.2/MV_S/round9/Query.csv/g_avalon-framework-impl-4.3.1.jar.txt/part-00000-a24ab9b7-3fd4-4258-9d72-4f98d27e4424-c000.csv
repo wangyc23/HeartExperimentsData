@@ -1,0 +1,4 @@
+org/w3c/dom/Element/appendChild(org.w3c.dom.Node)
+org/apache/avalon/framework/configuration/Configuration/getValue(java.lang.String)
+org/w3c/dom/Element/setAttribute(java.lang.String,java.lang.String)
+org/apache/avalon/framework/configuration/Configuration/getChildren()

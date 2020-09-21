@@ -1,0 +1,5 @@
+com/squareup/okhttp/internal/huc/JavaApiConverter/createOkBody(java.net.URLConnection)@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	4
+com/squareup/okhttp/internal/huc/ResponseCacheTest/testServerPrematureDisconnect(com.squareup.okhttp.internal.huc.ResponseCacheTest.TransferKind)@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	0
+com/squareup/okhttp/internal/huc/ResponseCacheTest/truncateViolently(com.squareup.okhttp.mockwebserver.MockResponse,int)@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	2
+com/squareup/okhttp/internal/huc/ResponseCacheTest/emptyResponseHeaderNameFromCacheIsLenient()@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	1
+com/squareup/okhttp/internal/huc/ResponseCacheTest/retainServedDateFormat()@0f946b0da553fcf5b513bbc1abd6b7049a334843.txt	3

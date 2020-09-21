@@ -1,0 +1,5 @@
+org/hsqldb/ParserDQL/readColumnOrFunctionExpression()@g_hsqldb-2.3.1.jar.txt	4
+org/hsqldb/ParserDQL/XreadSelect()@g_hsqldb-2.3.1.jar.txt	3
+org/hsqldb/ParserDQL/readTypeDefinition(boolean,boolean)@g_hsqldb-2.3.1.jar.txt	0
+org/hsqldb/ParserDQL/XreadQueryExpression()@g_hsqldb-2.3.1.jar.txt	2
+org/hsqldb/ParserDQL/XreadSimpleValueExpressionPrimary()@g_hsqldb-2.3.1.jar.txt	1

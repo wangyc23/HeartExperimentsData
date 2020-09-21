@@ -1,0 +1,5 @@
+org/jboss/marshalling/reflect/UnlockedHashMap/resize(org.jboss.marshalling.reflect.UnlockedHashMap$Table)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	4
+org/jboss/marshalling/cloner/SerializingCloner/clone(java.lang.Object,boolean)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	0
+org/jboss/marshalling/serial/SerialMarshaller/doWriteObject(java.lang.Object,boolean)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	2
+org/jboss/marshalling/river/RiverMarshaller/doWriteObject(java.lang.Object,boolean)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	1
+org/jboss/marshalling/serial/Serial/dumpObject(java.util.Map,java.util.concurrent.atomic.AtomicInteger,java.io.DataInputStream,java.io.BufferedWriter,int,int)@g_jboss-marshalling-osgi-1.4.4.Final.jar.txt	3

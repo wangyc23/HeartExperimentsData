@@ -1,0 +1,5 @@
+com/jakubstas/swagger/rest/UsersEndpoint/getUsersOptions()@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	1
+com/jakubstas/swagger/rest/UsersEndpoint/updateUsersAvatar(java.lang.String,java.io.InputStream)@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	0
+com/jakubstas/swagger/rest/ProductsEndpoint/getProducts()@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	4
+com/jakubstas/swagger/rest/EmployeeEndpoint/getProductsOptions()@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	2
+com/jakubstas/swagger/rest/UsersEndpoint/getUsers()@228da280f405fcf9a03e3754e4dfeb2e29feec7c.txt	3

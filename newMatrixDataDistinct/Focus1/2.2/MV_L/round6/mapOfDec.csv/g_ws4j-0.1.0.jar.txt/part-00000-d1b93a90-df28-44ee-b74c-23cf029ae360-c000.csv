@@ -1,0 +1,5 @@
+edu/cmu/lti/jawjaw/util/CollectionUtil/synsetToOffset(java.lang.String)@g_jawjaw-0.1.0.jar.txt	4
+edu/cmu/lti/jawjaw/db/SynsetDAO/findSynsetsByNameAndPos(java.lang.String,edu.cmu.lti.jawjaw.pobj.POS)@g_jawjaw-0.1.0.jar.txt	2
+edu/cmu/lti/jawjaw/db/WordDAO/findWordByWordid(int)@g_jawjaw-0.1.0.jar.txt	1
+edu/cmu/lti/jawjaw/db/SynsetDAO/findSynsetBySynset(java.lang.String)@g_jawjaw-0.1.0.jar.txt	0
+edu/cmu/lti/jawjaw/db/WordDAO/findWordsByLemmaAndPos(java.lang.String,edu.cmu.lti.jawjaw.pobj.POS)@g_jawjaw-0.1.0.jar.txt	3

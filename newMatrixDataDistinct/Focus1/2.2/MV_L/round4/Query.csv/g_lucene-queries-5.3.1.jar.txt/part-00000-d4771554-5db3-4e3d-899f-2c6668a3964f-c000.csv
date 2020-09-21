@@ -1,0 +1,4 @@
+org/apache/lucene/index/Terms/iterator()
+org/apache/lucene/util/BitDocIdSet$Builder/or(org.apache.lucene.search.DocIdSetIterator)
+org/apache/lucene/index/LeafReader/maxDoc()
+org/apache/lucene/index/LeafReader/fields()

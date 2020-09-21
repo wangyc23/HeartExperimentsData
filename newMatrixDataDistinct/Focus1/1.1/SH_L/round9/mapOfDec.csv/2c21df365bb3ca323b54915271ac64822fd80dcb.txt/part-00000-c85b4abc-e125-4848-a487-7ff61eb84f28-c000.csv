@@ -1,0 +1,5 @@
+com/softwaremill/common/cdi/sysprops/SystemPropertyProducerTest/shouldTreatKeyAndValueParametersInterchangeablyForPresentValues()@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	3
+com/softwaremill/common/cdi/validation/PasswordValidator/isValid(java.lang.String,javax.validation.ConstraintValidatorContext)@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	1
+com/codahale/metrics/ManualClock/getTime()@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	0
+com/softwaremill/common/test/util/FileMessageWaiter/waitFor(java.lang.String,long)@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	4
+retrofit/MockRestAdapter/calculateDelayForCall()@0fdbd91787ad62863ecc243473416c0e4e72e0c8.txt	2

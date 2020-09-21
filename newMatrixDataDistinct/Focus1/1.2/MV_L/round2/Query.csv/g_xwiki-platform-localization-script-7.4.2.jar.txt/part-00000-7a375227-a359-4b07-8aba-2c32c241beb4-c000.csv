@@ -1,0 +1,4 @@
+org/xwiki/rendering/renderer/printer/DefaultWikiPrinter/toString()
+org/xwiki/rendering/renderer/printer/DefaultWikiPrinter/DefaultWikiPrinter()
+java/util/Collection/toArray()
+org/xwiki/component/manager/ComponentManager/getInstance(java.lang.reflect.Type,java.lang.String)

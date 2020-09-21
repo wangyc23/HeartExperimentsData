@@ -1,0 +1,5 @@
+org/dyrda/javabrains/resourses/MessageResource/deleteMessage(long)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	1
+org/dyrda/javabrains/resourses/CommentResource/updateComment(javax.ws.rs.core.UriInfo,long,long,org.dyrda.javabrains.model.Comment)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	2
+com/jakubstas/swagger/service/UserService/updateAvatar(java.lang.String,java.io.InputStream)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	3
+org/dyrda/javabrains/resourses/CommentResource/addComment(javax.ws.rs.core.UriInfo,long,org.dyrda.javabrains.model.Comment)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	4
+org/dyrda/javabrains/resourses/CommentResource/deleteComment(long,long)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	0

@@ -1,0 +1,5 @@
+org/apache/maven/plugin/assembly/utils/FilterUtils/reportFilteringStatistics(java.util.Collection,org.codehaus.plexus.logging.Logger)@g_maven-repository-metadata-2.2.1.jar.txt	3
+org/apache/maven/plugin/assembly/archive/phase/FileItemAssemblyPhase/execute(org.apache.maven.plugin.assembly.model.Assembly,org.codehaus.plexus.archiver.Archiver,org.apache.maven.plugin.assembly.AssemblerConfigurationSource,org.apache.maven.plugin.assembly.AssemblyContext)@g_maven-repository-metadata-2.2.1.jar.txt	2
+org/apache/maven/plugin/assembly/model/io/xpp3/ComponentXpp3Reader/parseUnpackOptions(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-2.2.1.jar.txt	1
+org/apache/maven/plugin/assembly/model/io/xpp3/AssemblyXpp3Reader/parseDependencySet(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-2.2.1.jar.txt	0
+org/apache/maven/plugin/assembly/model/io/xpp3/ComponentXpp3Writer/writeDependencySet(org.apache.maven.plugin.assembly.model.DependencySet,java.lang.String,org.codehaus.plexus.util.xml.pull.XmlSerializer)@g_maven-repository-metadata-2.2.1.jar.txt	4

@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/lucene40/Lucene40DocValuesReader/getSorted(org.apache.lucene.index.FieldInfo)@g_lucene-core-4.2.1.jar.txt	3
+org/apache/lucene/index/ThreadAffinityDocumentsWriterThreadPool/getAndLock(java.lang.Thread,org.apache.lucene.index.DocumentsWriter)@g_lucene-core-4.5.0.jar.txt	1
+org/apache/lucene/index/ThreadAffinityDocumentsWriterThreadPool/getAndLock(java.lang.Thread,org.apache.lucene.index.DocumentsWriter)@g_lucene-core-4.2.1.jar.txt	0
+org/apache/lucene/codecs/perfield/PerFieldDocValuesFormat/FieldsWriter/getInstance(org.apache.lucene.index.FieldInfo)@g_lucene-core-4.2.1.jar.txt	4
+org/apache/lucene/util/RamUsageEstimator/<clinit>()@g_lucene-core-4.2.1.jar.txt	2

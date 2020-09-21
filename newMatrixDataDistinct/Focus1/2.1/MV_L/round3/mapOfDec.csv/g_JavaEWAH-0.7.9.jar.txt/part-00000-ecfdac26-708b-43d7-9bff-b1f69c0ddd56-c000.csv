@@ -1,0 +1,5 @@
+com/drew/metadata/exif/makernotes/OlympusFocusInfoMakernoteDescriptor/getExternalFlashZoomDescription()@g_metadata-extractor-2.10.1.jar.txt	2
+com/drew/metadata/exif/makernotes/OlympusCameraSettingsMakernoteDescriptor/getFocusModeDescription()@g_metadata-extractor-2.10.1.jar.txt	3
+opennlp/model/OnePassDataIndexer/computeEventCounts(opennlp.model.EventStream,java.util.Map,int)@g_opennlp-maxent-3.0.3.jar.txt	4
+com/drew/tools/ProcessAllImagesInFolderUtility/UnknownTagHandler/onExtractionSuccess(java.io.File,com.drew.metadata.Metadata,java.lang.String,java.io.PrintStream)@g_metadata-extractor-2.10.1.jar.txt	1
+com/drew/metadata/exif/makernotes/OlympusMakernoteDescriptor/getJpegQualityDescription()@g_metadata-extractor-2.10.1.jar.txt	0

@@ -1,0 +1,8 @@
+0	org/neo4j/rest/graphdb/index/SimpleIndexHits/SimpleIndexHits(java.util.Collection,int,java.lang.Class,org.neo4j.rest.graphdb.RestAPI)
+1	org/neo4j/rest/graphdb/RequestResult/statusIs(org.neo4j.rest.graphdb.StatusType)
+2	org/neo4j/rest/graphdb/converter/ResultTypeConverter/convertToResultType(java.lang.Object,org.neo4j.rest.graphdb.converter.TypeInformation)
+3	java/util/Collections/emptyList()
+4	org/neo4j/rest/graphdb/converter/TypeInformation/TypeInformation(java.lang.reflect.Type)
+5	org/neo4j/rest/graphdb/RestRequest/get(java.lang.String)
+6	org/neo4j/rest/graphdb/converter/RestIndexHitsConverter/convertFromRepresentation(org.neo4j.rest.graphdb.RequestResult)
+7	org/neo4j/rest/graphdb/converter/RestIndexHitsConverter/RestIndexHitsConverter(org.neo4j.rest.graphdb.RestAPI,java.lang.Class)

@@ -1,0 +1,4 @@
+java/lang/Thread/sleep(long)
+java/lang/Runtime/getRuntime()
+java/io/PrintStream/println(java.lang.String)
+java/lang/Runtime/addShutdownHook(java.lang.Thread)

@@ -1,0 +1,5 @@
+org/apache/maven/it/util/FileUtils/loadFile(java.io.File)@g_sqlite-jdbc-3.7.2.jar.txt	4
+org/ibex/nestedvm/Interpreter/sourceLine(int)@g_sqlite-jdbc-3.7.2.jar.txt	2
+org/ibex/nestedvm/JavaSourceCompiler/_go()@g_sqlite-jdbc-3.7.2.jar.txt	3
+org/sqlite/MetaData/getExportedKeys(java.lang.String,java.lang.String,java.lang.String)@g_sqlite-jdbc-3.7.2.jar.txt	1
+org/ibex/nestedvm/UnixRuntime/exec(java.lang.String,java.lang.String[],java.lang.String[])@g_sqlite-jdbc-3.7.2.jar.txt	0

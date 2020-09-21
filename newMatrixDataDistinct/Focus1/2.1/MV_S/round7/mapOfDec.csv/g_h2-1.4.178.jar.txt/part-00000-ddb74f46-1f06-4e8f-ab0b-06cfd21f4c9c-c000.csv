@@ -1,0 +1,5 @@
+org/h2/tools/Recover/createTemporaryTable(java.io.PrintWriter)@g_liquibase-core-2.0.5.jar.txt	1
+org/h2/server/web/WebServer/getSession(java.lang.String)@g_liquibase-core-2.0.5.jar.txt	0
+liquibase/sqlgenerator/core/InsertOrUpdateGeneratorHsql/getInsertStatement(liquibase.statement.core.InsertOrUpdateStatement,liquibase.database.Database,liquibase.sqlgenerator.SqlGeneratorChain)@g_liquibase-core-2.0.5.jar.txt	4
+liquibase/exception/ValidationFailedException/printDescriptiveError(java.io.PrintStream)@g_liquibase-core-2.0.5.jar.txt	3
+org/h2/util/StringUtils/urlDecode(java.lang.String)@g_liquibase-core-2.0.5.jar.txt	2

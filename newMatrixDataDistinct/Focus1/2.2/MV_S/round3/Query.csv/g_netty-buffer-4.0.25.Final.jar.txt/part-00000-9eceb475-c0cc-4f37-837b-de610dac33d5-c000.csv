@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(int)
+java/lang/String/length()
+java/util/List/size()
+java/lang/String/substring(int,int)

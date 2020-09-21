@@ -1,0 +1,5 @@
+org/apache/sis/internal/util/CollectionsExt/nonNullArraySet(java.lang.String,java.lang.Object,java.lang.Object[])@g_icu4j-50.1.1.jar.txt	3
+com/ibm/icu/text/DictionaryBasedBreakIterator/divideUpDictionaryRange(int,int)@g_icu4j-50.1.1.jar.txt	2
+com/ibm/icu/impl/locale/LanguageTag/parseLocale(com.ibm.icu.impl.locale.BaseLocale,com.ibm.icu.impl.locale.LocaleExtensions)@g_icu4j-50.1.1.jar.txt	0
+org/apache/sis/io/TabularFormat/getColumnSeparatorMatcher(java.lang.CharSequence)@g_icu4j-50.1.1.jar.txt	1
+com/ibm/icu/text/TransliteratorIDParser/parseGlobalFilter(java.lang.String,int[],int,int[],java.lang.StringBuffer)@g_icu4j-50.1.1.jar.txt	4

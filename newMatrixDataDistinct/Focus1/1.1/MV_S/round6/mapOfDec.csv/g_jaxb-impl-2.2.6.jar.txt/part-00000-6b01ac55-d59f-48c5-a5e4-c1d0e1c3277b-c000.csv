@@ -1,0 +1,5 @@
+com/sun/xml/bind/v2/ContextFactory/loadIndexedClasses(java.lang.String,java.lang.ClassLoader)@g_jaxb-impl-2.2.3-1.jar.txt	3
+javanet/staxutils/XMLStreamReaderToContentHandler/bridge()@g_stax-utils-20070216.jar.txt	2
+com/sun/istack/XMLStreamReaderToContentHandler/bridge()@g_jaxb-impl-2.2.3-1.jar.txt	0
+com/sun/xml/bind/v2/schemagen/XmlSchemaGenerator/Namespace/handleElementProp(com.sun.xml.bind.v2.model.core.ElementPropertyInfo)@g_jaxb-impl-2.2.3-1.jar.txt	4
+com/sun/xml/bind/v2/runtime/unmarshaller/StAXStreamConnector/bridge()@g_jaxb-impl-2.2.3-1.jar.txt	1

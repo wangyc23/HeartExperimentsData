@@ -1,0 +1,5 @@
+com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsPoller/MetricsPoller/getCollapserJson(com.netflix.hystrix.HystrixCollapserMetrics)@g_hystrix-metrics-event-stream-1.4.20.jar.txt	0
+org/neo4j/server/rest/batch/StreamingBatchOperationResults/writeError(int,java.lang.String)@g_neo4j-server-3.0.1.jar.txt	2
+org/neo4j/server/rest/transactional/error/ErrorDocumentationGenerator/generateDocumentation(org.neo4j.server.rest.transactional.error.ErrorDocumentationGenerator$Table,java.io.File,java.lang.String)@g_hystrix-metrics-event-stream-1.4.20.jar.txt	4
+org/neo4j/server/rest/transactional/ExecutionResultSerializer/writeStats(org.neo4j.graphdb.QueryStatistics)@g_neo4j-server-3.0.1.jar.txt	1
+org/neo4j/server/rest/batch/StreamingBatchOperationResults/writeError(int,java.lang.String)@g_hystrix-metrics-event-stream-1.4.20.jar.txt	3

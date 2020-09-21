@@ -1,0 +1,5 @@
+lombok/launch/ShadowClassLoader/getResource_(java.lang.String,boolean)@g_xwiki-commons-component-api-7.0.jar.txt	0
+lombok/launch/PatchFixesHider/PatchFixes/getRealMethodDeclarationSource(java.lang.String,java.lang.Object,org.eclipse.jdt.core.dom.MethodDeclaration)@g_xwiki-commons-component-api-7.0.jar.txt	2
+org/xwiki/component/util/ReflectionUtils/setFieldValue(java.lang.Object,java.lang.String,java.lang.Object)@g_xwiki-commons-component-api-7.0.jar.txt	4
+lombok/launch/PatchFixesHider/PatchFixes/listRewriteHandleGeneratedMethods(org.eclipse.jdt.internal.core.dom.rewrite.RewriteEvent)@g_xwiki-commons-component-api-7.0.jar.txt	3
+lombok/launch/ShadowClassLoader/loadClass(java.lang.String,boolean)@g_xwiki-commons-component-api-7.0.jar.txt	1

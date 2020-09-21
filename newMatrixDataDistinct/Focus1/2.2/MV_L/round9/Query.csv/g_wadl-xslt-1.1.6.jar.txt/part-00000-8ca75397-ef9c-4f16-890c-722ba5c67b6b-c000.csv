@@ -1,0 +1,4 @@
+java/lang/String/charAt(int)
+org/jvnet/ws/wadl/xslt/UriTemplateParser$Handler/handleText(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+org/jvnet/ws/wadl/xslt/UriTemplateParser$State/ordinal()

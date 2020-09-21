@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+org/springframework/beans/factory/support/RootBeanDefinition/setInitMethodName(java.lang.String)
+java/util/ArrayList/ArrayList(java.util.Collection)
+java/util/Iterator/next()

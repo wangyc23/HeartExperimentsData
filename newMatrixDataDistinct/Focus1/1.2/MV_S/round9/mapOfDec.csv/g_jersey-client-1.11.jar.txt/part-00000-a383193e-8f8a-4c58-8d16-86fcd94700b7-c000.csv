@@ -1,0 +1,5 @@
+com/sun/jersey/json/impl/writer/JsonXmlStreamWriter/printStack(java.lang.String)@g_jersey-json-1.9.jar.txt	3
+org/jboss/resteasy/plugins/delegates/NewCookieHeaderDelegate/toString(java.lang.Object)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	1
+org/jboss/resteasy/util/Base64/encodeBytesToBytes(byte[],int,int,int)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	2
+org/jboss/resteasy/client/core/extractors/ClientResponseProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_resteasy-jaxrs-3.0.11.Final.jar.txt	4
+org/jboss/resteasy/util/Base64/decode(byte[],int,int,int)@g_resteasy-jaxrs-3.0.11.Final.jar.txt	0

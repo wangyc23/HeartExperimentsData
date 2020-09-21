@@ -1,0 +1,5 @@
+org/apache/lucene/search/suggest/analyzing/FSTUtil/intersectPrefixPaths(org.apache.lucene.util.automaton.Automaton,org.apache.lucene.util.fst.FST)@g_lucene-suggest-6.4.1.jar.txt	4
+org/apache/lucene/search/suggest/document/ContextQuery/addContext(java.lang.CharSequence,float,boolean)@g_lucene-suggest-6.4.1.jar.txt	3
+org/apache/lucene/search/suggest/analyzing/FreeTextSuggester/build(org.apache.lucene.search.suggest.InputIterator,double)@g_lucene-suggest-6.4.1.jar.txt	1
+org/apache/lucene/search/spell/WordBreakSpellChecker/suggestWordCombinations(org.apache.lucene.index.Term[],int,org.apache.lucene.index.IndexReader,org.apache.lucene.search.spell.SuggestMode)@g_lucene-suggest-6.4.1.jar.txt	0
+org/apache/lucene/search/suggest/document/FuzzyCompletionQuery/toString(java.lang.String)@g_lucene-suggest-6.4.1.jar.txt	2

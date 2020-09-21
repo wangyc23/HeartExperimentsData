@@ -1,0 +1,4 @@
+org/apache/http/nio/protocol/HttpAsyncService$Outgoing/getContext()
+org/apache/http/nio/protocol/HttpAsyncService$PipelineEntry/PipelineEntry(org.apache.http.HttpRequest,java.lang.Object,java.lang.Exception,org.apache.http.nio.protocol.HttpAsyncRequestHandler,org.apache.http.protocol.HttpContext)
+org/apache/http/nio/protocol/HttpAsyncService$State/setOutgoing(org.apache.http.nio.protocol.HttpAsyncService$Outgoing)
+java/lang/StringBuilder/StringBuilder()

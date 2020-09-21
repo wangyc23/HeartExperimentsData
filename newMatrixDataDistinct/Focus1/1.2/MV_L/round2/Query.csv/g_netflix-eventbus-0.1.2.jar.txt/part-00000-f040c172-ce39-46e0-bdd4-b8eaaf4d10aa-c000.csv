@@ -1,0 +1,4 @@
+com/google/common/collect/PeekingIterator/hasNext()
+com/google/common/collect/PeekingIterator/peek()
+java/lang/StringBuilder/StringBuilder()
+com/netflix/eventbus/impl/EventConsumer$BatchDecorator$BatchIterator/_ensureNextEventIsConsumable()

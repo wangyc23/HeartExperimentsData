@@ -1,0 +1,5 @@
+org/apache/maven/artifact/manager/DefaultWagonManager/getProxy(java.lang.String)@g_maven-compat-3.0.jar.txt	1
+org/apache/maven/artifact/installer/DefaultArtifactInstaller/install(java.io.File,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-compat-3.0.jar.txt	4
+org/apache/maven/repository/legacy/resolver/DefaultLegacyArtifactCollector/collect(java.util.Set,org.apache.maven.artifact.Artifact,java.util.Map,org.apache.maven.artifact.resolver.ArtifactResolutionRequest,org.apache.maven.artifact.metadata.ArtifactMetadataSource,org.apache.maven.artifact.resolver.filter.ArtifactFilter,java.util.List,java.util.List)@g_maven-compat-3.0.jar.txt	0
+org/apache/maven/artifact/repository/metadata/DefaultRepositoryMetadataManager/resolve(org.apache.maven.artifact.repository.metadata.RepositoryMetadata,org.apache.maven.artifact.repository.RepositoryRequest)@g_maven-compat-3.0.jar.txt	3
+org/apache/maven/project/DefaultMavenProjectBuilder/normalizeToArtifactRepositories(java.util.List,org.apache.maven.project.ProjectBuildingRequest)@g_maven-compat-3.0.jar.txt	2

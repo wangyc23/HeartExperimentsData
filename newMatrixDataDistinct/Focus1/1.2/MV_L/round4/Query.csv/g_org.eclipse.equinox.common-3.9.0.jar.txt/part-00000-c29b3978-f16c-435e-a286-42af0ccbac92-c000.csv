@@ -1,0 +1,4 @@
+java/io/IOException/IOException(java.lang.String)
+java/net/URL/toString()
+java/lang/String/trim()
+java/net/URL/getProtocol()

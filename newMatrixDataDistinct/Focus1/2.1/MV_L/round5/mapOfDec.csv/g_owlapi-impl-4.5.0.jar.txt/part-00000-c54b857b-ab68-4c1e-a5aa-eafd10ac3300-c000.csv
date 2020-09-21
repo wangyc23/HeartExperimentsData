@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/getInstances(org.semanticweb.owlapi.model.OWLClassExpression,boolean)@g_owlapi-impl-5.1.0.jar.txt	3
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/RawObjectPropertyHierarchyProvider/rebuild()@g_owlapi-impl-5.1.0.jar.txt	4
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/RawClassHierarchyProvider/getParents(org.semanticweb.owlapi.model.OWLClass)@g_owlapi-impl-5.1.0.jar.txt	2
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/getDifferentIndividuals(org.semanticweb.owlapi.model.OWLNamedIndividual)@g_owlapi-impl-5.1.0.jar.txt	0
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/RawClassHierarchyProvider/getChildren(org.semanticweb.owlapi.model.OWLClass)@g_owlapi-impl-5.1.0.jar.txt	1

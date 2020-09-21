@@ -1,0 +1,5 @@
+org/glassfish/jersey/examples/sse/DomainResource/Process/run()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+org/glassfish/jersey/client/ClientConfig/State/configureForcedAutoDiscoverableProviders(org.glassfish.jersey.internal.ServiceLocator)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+org/glassfish/jersey/examples/entityfiltering/resource/UsersResource/getUsers(boolean)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+se/unlogic/eagledns/EagleDNS/addRRset(se.unlogic.eagledns.Name,se.unlogic.eagledns.Message,se.unlogic.eagledns.RRset,int,int)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	0
+org/jboss/resteasy/wadl/jaxb/Representation/getDoc()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4

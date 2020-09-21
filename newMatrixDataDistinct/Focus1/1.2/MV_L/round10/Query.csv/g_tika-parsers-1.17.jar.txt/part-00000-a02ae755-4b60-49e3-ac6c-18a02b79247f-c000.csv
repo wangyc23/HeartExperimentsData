@@ -1,0 +1,4 @@
+org/xml/sax/helpers/AttributesImpl/AttributesImpl()
+org/apache/poi/openxml4j/opc/OPCPackage/getPart(org.apache.poi.openxml4j.opc.PackageRelationship)
+org/apache/poi/openxml4j/opc/OPCPackage/getRelationshipsByType(java.lang.String)
+org/apache/poi/openxml4j/opc/PackagePart/getContentType()

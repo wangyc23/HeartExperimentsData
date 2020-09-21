@@ -1,0 +1,5 @@
+org/apache/batik/ext/awt/image/rendered/LRUCache/print()@g_batik-awt-util-1.8.jar.txt	0
+org/apache/batik/ext/awt/image/rendered/IndexImage/logRGB(byte[],byte[],byte[])@g_batik-awt-util-1.8.jar.txt	4
+org/apache/xmlgraphics/java2d/ps/PSGraphics2D/applyStroke(java.awt.Stroke,org.apache.xmlgraphics.ps.PSGenerator)@g_xmlgraphics-commons-1.5.jar.txt	1
+org/apache/batik/ext/awt/image/rendered/ProfileRed/copyData(java.awt.image.WritableRaster)@g_batik-awt-util-1.8.jar.txt	3
+org/apache/batik/ext/swing/DoubleDocument/insertString(int,java.lang.String,javax.swing.text.AttributeSet)@g_batik-awt-util-1.8.jar.txt	2

@@ -1,0 +1,5 @@
+org/apache/lucene/util/fst/Util/toDot(org.apache.lucene.util.fst.FST,java.io.Writer,boolean,boolean)@g_lucene-core-4.9.1.jar.txt	0
+org/apache/lucene/index/ConcurrentMergeScheduler/updateMergeThreads()@g_lucene-core-4.9.1.jar.txt	1
+org/apache/lucene/index/TieredMergePolicy/findForcedMerges(org.apache.lucene.index.SegmentInfos,int,java.util.Map,org.apache.lucene.index.IndexWriter)@g_lucene-core-4.9.1.jar.txt	2
+org/apache/lucene/codecs/blocktree/BlockTreeTermsWriter/TermsWriter/writeBlock(org.apache.lucene.util.IntsRef,int,int,int,int,int,boolean,int,boolean)@g_lucene-core-4.9.1.jar.txt	4
+org/apache/lucene/index/TieredMergePolicy/findMerges(org.apache.lucene.index.MergeTrigger,org.apache.lucene.index.SegmentInfos,org.apache.lucene.index.IndexWriter)@g_lucene-core-4.9.1.jar.txt	3

@@ -1,0 +1,4 @@
+java/util/Random/setSeed(long)
+java/lang/Runtime/getRuntime()
+java/security/SecureRandom/SecureRandom()
+java/lang/Object/hashCode()

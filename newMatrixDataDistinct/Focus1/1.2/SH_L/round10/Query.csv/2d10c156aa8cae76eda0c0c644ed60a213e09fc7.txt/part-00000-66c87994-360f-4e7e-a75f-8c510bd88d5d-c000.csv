@@ -1,0 +1,4 @@
+vaeke/restcountries/v1/rest/CountryService/getInstance()
+org/apache/log4j/Category/error(java.lang.Object,java.lang.Throwable)
+java/util/List/isEmpty()
+java/lang/Throwable/getMessage()

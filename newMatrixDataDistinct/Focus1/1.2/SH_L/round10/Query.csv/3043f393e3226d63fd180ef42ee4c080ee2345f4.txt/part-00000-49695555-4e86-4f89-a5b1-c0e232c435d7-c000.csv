@@ -1,0 +1,4 @@
+parquet/io/ColumnIO/getParent(int)
+parquet/schema/Type/getRepetition()
+parquet/io/ColumnIO/getType()
+parquet/io/ColumnIO/getParent()

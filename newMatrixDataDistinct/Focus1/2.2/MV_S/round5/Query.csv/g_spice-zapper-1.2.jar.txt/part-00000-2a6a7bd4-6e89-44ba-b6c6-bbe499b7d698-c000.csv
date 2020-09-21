@@ -1,0 +1,4 @@
+com/google/protobuf/CodedOutputStream/writeInt64(int,long)
+com/google/protobuf/CodedOutputStream/writeBytes(int,com.google.protobuf.ByteString)
+org/sonatype/spice/zapper/internal/protobuf/protos/ZapperProtos$TransferMessage/getMagicBytes()
+org/sonatype/spice/zapper/internal/protobuf/protos/ZapperProtos$TransferMessage/getSerializedSize()

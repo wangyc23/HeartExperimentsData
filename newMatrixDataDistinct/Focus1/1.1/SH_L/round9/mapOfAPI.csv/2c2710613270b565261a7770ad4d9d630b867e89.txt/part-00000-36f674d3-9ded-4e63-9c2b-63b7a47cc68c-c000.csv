@@ -1,0 +1,7 @@
+0	java/io/BufferedReader/BufferedReader(java.io.Reader)
+1	java/lang/String/String(java.lang.String)
+2	java/lang/String/substring(int)
+3	javax/crypto/CipherOutputStream/close()
+4	java/io/BufferedReader/readLine()
+5	java/io/FileReader/FileReader(java.io.File)
+6	java/lang/String/lastIndexOf(int)

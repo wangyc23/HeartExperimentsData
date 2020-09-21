@@ -1,0 +1,5 @@
+org/eclipse/xtext/web/server/XtextServiceDispatcher/getFullTextDocument(java.lang.String,java.lang.String,org.eclipse.xtext.web.server.IServiceContext)@g_org.eclipse.xtext.web-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtext/web/server/XtextServiceDispatcher/getInt(org.eclipse.xtext.web.server.IServiceContext,java.lang.String,com.google.common.base.Optional)@g_org.eclipse.xtext.web-2.10.0-SNAPSHOT.jar.txt	2
+org/eclipse/xtext/web/server/hover/HoverService/addIconDivs(org.eclipse.xtext.ide.labels.IImageDescription,java.lang.String)@g_org.eclipse.xtext.web-2.10.0-SNAPSHOT.jar.txt	4
+org/eclipse/xtext/web/server/XtextServiceDispatcher/getBoolean(org.eclipse.xtext.web.server.IServiceContext,java.lang.String,com.google.common.base.Optional)@g_org.eclipse.xtext.web-2.10.0-SNAPSHOT.jar.txt	1
+org/eclipse/xtext/web/server/XtextServiceDispatcher/getService(org.eclipse.xtext.web.server.IServiceContext)@g_org.eclipse.xtext.web-2.10.0-SNAPSHOT.jar.txt	0

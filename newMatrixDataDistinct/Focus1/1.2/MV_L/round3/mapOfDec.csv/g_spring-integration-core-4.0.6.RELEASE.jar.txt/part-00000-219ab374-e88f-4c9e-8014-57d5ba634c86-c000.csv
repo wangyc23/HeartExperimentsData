@@ -1,0 +1,5 @@
+org/springframework/integration/router/RecipientListRouter/replaceRecipients(java.util.Properties)@g_spring-integration-core-4.1.2.RELEASE.jar.txt	4
+org/springframework/integration/config/ConsumerEndpointFactoryBean/initializeEndpoint()@g_spring-integration-core-4.1.2.RELEASE.jar.txt	3
+org/springframework/integration/config/annotation/AbstractMethodAnnotationPostProcessor/configurePollingEndpoint(org.springframework.integration.endpoint.AbstractPollingEndpoint,java.util.List)@g_spring-integration-core-4.1.2.RELEASE.jar.txt	1
+org/springframework/integration/util/MessagingMethodInvokerHelper/HandlerMethod/determineHeaderExpression(java.lang.annotation.Annotation,org.springframework.core.MethodParameter)@g_spring-integration-core-4.1.2.RELEASE.jar.txt	0
+org/springframework/integration/config/SourcePollingChannelAdapterFactoryBean/initializeAdapter()@g_spring-integration-core-4.1.2.RELEASE.jar.txt	2

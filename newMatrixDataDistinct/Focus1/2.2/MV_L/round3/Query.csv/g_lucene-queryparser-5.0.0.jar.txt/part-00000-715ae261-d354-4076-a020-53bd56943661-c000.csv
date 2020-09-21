@@ -1,0 +1,4 @@
+org/apache/lucene/queryparser/flexible/core/nodes/OrQueryNode/getChildren()
+java/lang/StringBuilder/append(java.lang.CharSequence)
+java/util/Iterator/hasNext()
+org/apache/lucene/queryparser/flexible/core/nodes/OrQueryNode/getParent()

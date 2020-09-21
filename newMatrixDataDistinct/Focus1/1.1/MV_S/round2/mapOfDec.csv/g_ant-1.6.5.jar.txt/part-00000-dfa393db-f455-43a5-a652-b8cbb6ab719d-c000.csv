@@ -1,0 +1,5 @@
+org/apache/ivy/util/FileUtil/copy(java.io.File,java.io.File,org.apache.ivy.util.CopyProgressListener,boolean)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/ant/IvyBuildNumber/computeNewRevision(java.lang.String)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/settings/IvySettings/load(java.io.File)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/deliver/DeliverEngine/deliver(org.apache.ivy.core.module.id.ModuleRevisionId,java.lang.String,java.lang.String,org.apache.ivy.core.deliver.DeliverOptions)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/core/repository/RepositoryManagementEngine/load()@g_ivy-2.3.0.jar.txt	0

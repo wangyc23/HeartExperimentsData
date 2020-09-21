@@ -1,0 +1,5 @@
+org/apache/hadoop/net/DNS/getIPs(java.lang.String,boolean)@g_hadoop-common-2.6.5.jar.txt	4
+org/apache/hadoop/metrics/ganglia/GangliaContext31/emitMetric(java.lang.String,java.lang.String,java.lang.String)@g_hadoop-common-2.6.5.jar.txt	3
+org/apache/hadoop/ha/NodeFencer/fence(org.apache.hadoop.ha.HAServiceTarget)@g_hadoop-common-2.6.5.jar.txt	2
+org/apache/hadoop/yarn/client/api/impl/AMRMClientImpl/addContainerRequest(org.apache.hadoop.yarn.client.api.AMRMClient$ContainerRequest)@g_hadoop-yarn-client-2.6.5.jar.txt	1
+org/apache/hadoop/yarn/client/api/impl/AMRMClientImpl/resolveRacks(java.util.List)@g_hadoop-yarn-client-2.6.5.jar.txt	0

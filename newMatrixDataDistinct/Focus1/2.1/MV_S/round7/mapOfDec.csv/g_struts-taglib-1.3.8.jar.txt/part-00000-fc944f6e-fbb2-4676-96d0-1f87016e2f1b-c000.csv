@@ -1,0 +1,5 @@
+org/apache/struts/util/SecureRequestUtils/stowRequestAttributes(javax.servlet.http.HttpServletRequest)@g_sslext-1.2-0.jar.txt	4
+org/apache/taglibs/standard/lang/jstl/ArraySuffix/evaluate(java.lang.Object,java.lang.Object,org.apache.taglibs.standard.lang.jstl.VariableResolver,java.util.Map,java.lang.String,org.apache.taglibs.standard.lang.jstl.Logger)@g_standard-1.1.2.jar.txt	1
+org/apache/taglibs/standard/tag/common/sql/QueryTagSupport/doStartTag()@g_standard-1.1.2.jar.txt	2
+org/apache/taglibs/standard/lang/jstl/UnaryMinusOperator/apply(java.lang.Object,java.lang.Object,org.apache.taglibs.standard.lang.jstl.Logger)@g_standard-1.1.2.jar.txt	0
+org/apache/struts/taglib/html/LinkTag/calculateURL()@g_sslext-1.2-0.jar.txt	3

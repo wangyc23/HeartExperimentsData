@@ -1,0 +1,4 @@
+0	java/io/File/exists()
+1	java/io/OutputStreamWriter/OutputStreamWriter(java.io.OutputStream,java.lang.String)
+2	com/snowtide/pdf/Document/close()
+3	java/io/File/canRead()

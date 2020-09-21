@@ -1,0 +1,5 @@
+org/apache/mahout/cf/taste/hadoop/als/ParallelALSFactorizationJobTest/explicitExample(int)@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	4
+org/apache/mahout/cf/taste/impl/recommender/svd/ParallelSGDFactorizerTest/testFactorizerWithToyData()@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	1
+org/apache/mahout/cf/taste/impl/recommender/svd/ParallelSGDFactorizerTest/testRecommenderWithToyData()@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	0
+org/apache/mahout/cf/taste/impl/recommender/svd/ParallelSGDFactorizerTest/testFactorizerWithWithSyntheticData()@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	2
+org/apache/mahout/cf/taste/impl/recommender/svd/ParallelSGDFactorizerTest/testRecommenderWithSyntheticData()@251b80240c21b8dd383e4c1c01e17e7f5d7b8e3c.txt	3

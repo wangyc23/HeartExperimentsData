@@ -1,0 +1,4 @@
+java/sql/PreparedStatement/execute()
+java/util/Iterator/hasNext()
+java/lang/Integer/Integer(int)
+java/io/PrintStream/println(int)

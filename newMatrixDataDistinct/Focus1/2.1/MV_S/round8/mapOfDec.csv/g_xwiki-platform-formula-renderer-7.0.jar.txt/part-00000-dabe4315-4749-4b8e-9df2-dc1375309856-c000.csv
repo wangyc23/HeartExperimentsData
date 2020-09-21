@@ -1,0 +1,5 @@
+eu/learnpad/core/impl/cw/XwikiCoreFacadeRestResource/getKPICalculationStatus(java.lang.String)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	3
+eu/learnpad/core/impl/or/XwikiBridgeInterfaceRestResource/analyseText(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	0
+eu/learnpad/core/impl/dash/XwikiBridgeInterfaceRestResource/loadKPIValues(java.lang.String,eu.learnpad.dash.rest.data.KPIValuesFormat,java.lang.String,java.io.InputStream)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	1
+org/vafer/jdependency/Clazzpath/addClazzpathUnit(java.io.InputStream,java.lang.String)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	2
+eu/learnpad/core/impl/cw/XwikiBridgeInterfaceRestResource/notifyRecommendations(java.lang.String,java.lang.String,java.lang.String,eu.learnpad.or.rest.data.Recommendations)@g_lp-cp-xwiki-implementation-1.0-SNAPSHOT.jar.txt	4

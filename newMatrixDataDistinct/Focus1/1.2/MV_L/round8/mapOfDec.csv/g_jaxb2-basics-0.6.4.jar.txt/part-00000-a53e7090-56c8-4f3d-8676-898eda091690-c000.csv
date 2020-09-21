@@ -1,0 +1,5 @@
+org/jvnet/jaxb2_commons/xjc/outline/artificial/AnyAttributePropertyOutline/generateSetter()@g_jaxb2-basics-tools-0.6.4.jar.txt	4
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateClass(com.sun.codemodel.JDefinedClass,com.sun.codemodel.JVar)@g_wadl-core-1.1.6.jar.txt	0
+org/jvnet/jaxb2_commons/xjc/outline/artificial/AnyAttributePropertyOutline/generateGetter()@g_jaxb2-basics-tools-0.6.4.jar.txt	3
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBeanProperty(com.sun.codemodel.JDefinedClass,java.util.List,org.jvnet.ws.wadl.Param,boolean)@g_wadl-core-1.1.6.jar.txt	1
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateMethodDecl(java.util.Map,org.jvnet.ws.wadl.ast.MethodNode,boolean,org.jvnet.ws.wadl.ast.RepresentationNode,org.jvnet.ws.wadl.ast.RepresentationNode,org.jvnet.ws.wadl2java.common.BaseResourceClassGenerator$MethodType,boolean)@g_wadl-core-1.1.6.jar.txt	2

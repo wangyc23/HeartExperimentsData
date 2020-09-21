@@ -1,0 +1,4 @@
+io/netty/channel/ChannelFuture/sync()
+java/lang/String/split(java.lang.String)
+io/netty/bootstrap/AbstractBootstrap/option(io.netty.channel.ChannelOption,T)
+io/netty/bootstrap/AbstractBootstrap/bind(java.lang.String,int)

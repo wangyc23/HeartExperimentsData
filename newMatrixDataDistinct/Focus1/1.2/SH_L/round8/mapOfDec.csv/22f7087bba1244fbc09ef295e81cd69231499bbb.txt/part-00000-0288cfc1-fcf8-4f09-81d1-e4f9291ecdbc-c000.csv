@@ -1,0 +1,5 @@
+org/hoteia/qalingo/core/service/CartService/getCartItemPriceWithTaxes(org.hoteia.qalingo.core.domain.CartItem,java.lang.Long)@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	4
+org/hoteia/qalingo/core/domain/CmsContentAsset/equals(java.lang.Object)@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	3
+org/hoteia/qalingo/core/domain/ProductBrand/equals(java.lang.Object)@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	2
+org/hoteia/qalingo/core/domain/CatalogCategoryTypeAttribute/equals(java.lang.Object)@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	0
+org/hoteia/qalingo/core/domain/ProductMarketing/equals(java.lang.Object)@0ff5e507808983e58d1eeeac683c3b2116673bf9.txt	1

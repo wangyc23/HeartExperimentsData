@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/compiler/v2_1/perty/docbuilders/scalaDocBuilder$$anonfun$newNestedDocGenerator$1$$anonfun$applyOrElse$5/5(org.neo4j.cypher.internal.compiler.v2_1.perty.docbuilders.scalaDocBuilder$$anonfun$newNestedDocGenerator$1,scala.collection.immutable.Map)
+org/neo4j/cypher/internal/compiler/v2_1/perty/docbuilders/scalaDocBuilder$$anonfun$newNestedDocGenerator$1$$anonfun$applyOrElse$9/9(org.neo4j.cypher.internal.compiler.v2_1.perty.docbuilders.scalaDocBuilder$$anonfun$newNestedDocGenerator$1,scala.collection.Seq)
+org/neo4j/cypher/internal/compiler/v2_1/perty/docbuilders/scalaDocBuilder$$anonfun$newNestedDocGenerator$1$$anonfun$applyOrElse$1/1(org.neo4j.cypher.internal.compiler.v2_1.perty.docbuilders.scalaDocBuilder$$anonfun$newNestedDocGenerator$1,java.lang.String)
+scala/Product/productArity()

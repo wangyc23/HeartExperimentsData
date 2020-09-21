@@ -1,0 +1,5 @@
+org/neo4j/unsafe/batchinsert/BatchInsertTest/shouldRepopulatePreexistingIndexed()@g_neo4j-kernel-2.2.1-tests.jar.txt	2
+org/neo4j/kernel/impl/api/index/IndexingServiceTest/shouldStillReportInternalIndexStateAsPopulatingWhenConstraintIndexIsDonePopulating()@g_neo4j-kernel-2.2.1-tests.jar.txt	4
+org/neo4j/kernel/api/index/NonUniqueIndexPopulatorCompatibility/shouldProvidePopulatorThatAcceptsDuplicateEntries()@g_neo4j-kernel-2.2.1-tests.jar.txt	0
+org/neo4j/kernel/impl/api/index/IndexPopulationJobTest/shouldPopulateIndexWithOneNode()@g_neo4j-kernel-2.2.1-tests.jar.txt	1
+org/neo4j/unsafe/batchinsert/BatchInsertTest/shouldRunConstraintPopulationJobAtShutdown()@g_neo4j-kernel-2.2.1-tests.jar.txt	3

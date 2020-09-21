@@ -1,0 +1,5 @@
+com/googlecode/javaewah/benchmark/BenchmarkUnion/test(int,int,int)@g_JavaEWAH-0.7.9.jar.txt	1
+com/googlecode/javaewah/benchmark/BenchmarkXOR32/test(int,int,int)@g_JavaEWAH-0.7.9.jar.txt	2
+com/adobe/xmp/impl/XMPSchemaRegistryImpl/registerNamespace(java.lang.String,java.lang.String)@g_xmpcore-5.1.2.jar.txt	0
+com/googlecode/javaewah/benchmark/BenchmarkIntersection32/test(int,int,int)@g_JavaEWAH-0.7.9.jar.txt	3
+com/googlecode/javaewah/benchmark/BenchmarkXOR/test(int,int,int)@g_JavaEWAH-0.7.9.jar.txt	4

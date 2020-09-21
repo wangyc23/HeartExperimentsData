@@ -1,0 +1,5 @@
+org/apache/sis/math/Line/doFit(java.lang.Iterable)@g_sis-utility-0.5.jar.txt	0
+org/apache/sis/referencing/operation/DefaultConcatenatedOperation/mergeAccuracy(java.util.Map,java.util.List)@g_sis-metadata-0.6.jar.txt	2
+org/apache/sis/geometry/AbstractDirectPosition/toString(org.opengis.geometry.DirectPosition,boolean)@g_sis-metadata-0.6.jar.txt	4
+org/apache/sis/io/TabularFormat/getColumnSeparatorMatcher(java.lang.CharSequence)@g_sis-metadata-0.6.jar.txt	3
+org/apache/sis/math/Plane/fit(java.lang.Iterable,boolean,boolean,boolean)@g_sis-utility-0.5.jar.txt	1

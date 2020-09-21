@@ -1,0 +1,8 @@
+0	io/netty/util/concurrent/EventExecutorGroup/schedule(java.lang.Runnable,long,java.util.concurrent.TimeUnit)
+1	eu/matejkormuth/rpgdavid/starving/Starving/NMS/setPlayerListHeaderFooter(org.bukkit.entity.Player,java.lang.String,java.lang.String)
+2	io/netty/buffer/ByteBufHolder/content()
+3	io/netty/channel/ChannelHandlerContext/executor()
+4	me/calvinliu/netty/http2/tiles/Http1RequestHandler/sendResponse(io/netty/channel/ChannelHandlerContext,java/lang/String,int,io/netty/handler/codec/http/FullHttpResponse,io/netty/handler/codec/http/FullHttpRequest)/$anonymous1/()
+5	io/netty/handler/codec/http/HttpUtil/setContentLength(io.netty.handler.codec.http.HttpMessage,long)
+6	java/io/PrintStream/printf(java.lang.String,java.lang.Object[])
+7	io/netty/buffer/ByteBuf/readableBytes()

@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v1_9/parser/ParserPattern/anonfun/relationship/2/anonfun/4/apply(org.neo4j.cypher.internal.compiler.v1_9.parser.ParserPattern$Tail)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	3
+org/neo4j/cypher/internal/compiler/v1_9/commands/VarLengthRelatedTo/relInfo()@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	0
+org/neo4j/cypher/internal/compiler/v1_9/pipes/matching/TraversalPathExpander/expand(org.neo4j.graphdb.Path,org.neo4j.graphdb.traversal.BranchState)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	4
+org/neo4j/cypher/internal/compiler/v1_9/pipes/matching/BidirectionalTraversalMatcher/StepCollisionDetector/includePath(org.neo4j.graphdb.Path,org.neo4j.graphdb.traversal.TraversalBranch,org.neo4j.graphdb.traversal.TraversalBranch)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	2
+org/neo4j/cypher/internal/compiler/v1_9/pipes/SlicePipe/internalCreateResults(scala.collection.Iterator,org.neo4j.cypher.internal.compiler.v1_9.pipes.QueryState)@g_neo4j-cypher-compiler-1.9-2.0.3.jar.txt	1

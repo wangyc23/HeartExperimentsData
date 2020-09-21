@@ -1,0 +1,4 @@
+java/util/Stack/pop()
+java/util/Stack/push(java.lang.Object)
+java/lang/StringBuffer/append(char)
+java/lang/String/length()

@@ -1,0 +1,4 @@
+org/apache/lucene/analysis/Token/termLength()
+org/apache/lucene/analysis/Token/clone()
+java/lang/String/toLowerCase()
+org/apache/lucene/analysis/Token/setTermBuffer(java.lang.String,int,int)

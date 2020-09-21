@@ -1,0 +1,4 @@
+0	org/baeldung/common/web/AbstractLiveTest/create()
+1	org/baeldung/common/web/AbstractLiveTest/givenAuth()
+2	org/baeldung/common/web/AbstractLiveTest/getURL()
+3	org/baeldung/web/util/HTTPLinkHeaderUtil/extractURIByRel(java.lang.String,java.lang.String)

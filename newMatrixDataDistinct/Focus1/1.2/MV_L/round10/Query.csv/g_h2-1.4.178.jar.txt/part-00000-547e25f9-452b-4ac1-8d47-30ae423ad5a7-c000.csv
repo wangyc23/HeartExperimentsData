@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/lang/reflect/Array/newInstance(java.lang.Class,int)
+java/lang/Class/isPrimitive()
+java/lang/reflect/Method/getName()

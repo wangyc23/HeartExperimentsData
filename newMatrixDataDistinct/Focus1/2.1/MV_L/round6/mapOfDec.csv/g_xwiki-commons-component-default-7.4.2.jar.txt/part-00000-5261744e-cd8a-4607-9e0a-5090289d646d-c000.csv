@@ -1,0 +1,5 @@
+org/xwiki/component/annotation/ComponentAnnotationLoader/addComponent(java.util.Map,java.util.Map,org.xwiki.component.internal.RoleHint,org.xwiki.component.descriptor.ComponentDescriptor,org.xwiki.component.annotation.ComponentDeclaration,boolean)@g_xwiki-commons-component-default-7.0.jar.txt	2
+org/xwiki/component/embed/EmbeddableComponentManager/getComponentDescriptorList(java.lang.reflect.Type)@g_xwiki-commons-component-default-7.0.jar.txt	4
+org/xwiki/component/annotation/ComponentDescriptorFactory/createComponentDescriptor(java.lang.Class,java.lang.String,java.lang.reflect.Type)@g_xwiki-commons-component-default-7.0.jar.txt	3
+org/xwiki/component/annotation/DefaultComponentDependencyFactory/createComponentDependency(java.lang.reflect.Field)@g_xwiki-commons-component-default-7.4.jar.txt	1
+org/xwiki/component/annotation/DefaultComponentDependencyFactory/createComponentDependency(java.lang.reflect.Field)@g_xwiki-commons-component-default-7.0.jar.txt	0

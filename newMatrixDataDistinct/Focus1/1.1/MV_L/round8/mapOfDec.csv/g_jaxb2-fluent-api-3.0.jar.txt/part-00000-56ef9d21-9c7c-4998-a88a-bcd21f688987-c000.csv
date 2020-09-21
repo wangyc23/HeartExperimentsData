@@ -1,0 +1,5 @@
+org/jvnet/jaxb2_commons/plugin/fluent_api/FluentApiPlugin/run(com.sun.tools.xjc.outline.Outline,com.sun.tools.xjc.Options,org.xml.sax.ErrorHandler)@g_wadl-core-1.1.6.jar.txt	1
+org/jvnet/jaxb2_commons/util/FieldAccessorUtils/setter(com.sun.tools.xjc.outline.FieldOutline)@g_wadl-core-1.1.6.jar.txt	3
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateClass(com.sun.codemodel.JDefinedClass,com.sun.codemodel.JVar)@g_wadl-core-1.1.6.jar.txt	0
+org/jvnet/ws/wadl2java/common/BaseResourceClassGenerator/generateBeanProperty(com.sun.codemodel.JDefinedClass,java.util.List,org.jvnet.ws.wadl.Param,boolean)@g_wadl-core-1.1.6.jar.txt	2
+org/jvnet/jaxb2_commons/plugin/AbstractParameterizablePlugin/parseArgument(com.sun.tools.xjc.Options,java.lang.String[],int)@g_wadl-core-1.1.6.jar.txt	4

@@ -1,0 +1,5 @@
+com/sun/jna/Native/extractFromResourcePath(java.lang.String,java.lang.ClassLoader)@g_jna-4.1.0.jar.txt	1
+com/sun/jna/NativeLibrary/loadLibrary(java.lang.String,java.util.Map)@g_jna-4.1.0.jar.txt	3
+com/sun/jna/Native/loadNativeDispatchLibrary()@g_jna-4.1.0.jar.txt	2
+com/github/fommil/jni/JniLoader/extract(java.lang.String)@g_jniloader-1.1.jar.txt	0
+com/sun/jna/Native/loadNativeDispatchLibraryFromClasspath()@g_jna-4.1.0.jar.txt	4

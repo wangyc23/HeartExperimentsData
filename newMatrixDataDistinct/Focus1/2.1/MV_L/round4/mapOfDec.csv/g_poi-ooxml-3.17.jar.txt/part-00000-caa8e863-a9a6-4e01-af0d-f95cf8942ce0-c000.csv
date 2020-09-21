@@ -1,0 +1,5 @@
+org/apache/poi/xwpf/usermodel/XWPFTable/createEmptyTable(org.openxmlformats.schemas.wordprocessingml.x2006.main.CTTbl)@g_poi-ooxml-3.14.jar.txt	3
+org/apache/poi/xdgf/usermodel/XDGFBaseContents/onDocumentRead()@g_poi-ooxml-3.14.jar.txt	4
+org/apache/poi/xssf/usermodel/XSSFTextParagraph/setBullet(org.apache.poi.xssf.usermodel.ListAutoNumber)@g_poi-ooxml-3.14.jar.txt	2
+org/apache/poi/util/OOXMLLite/getLoadedClasses(java.lang.String)@g_poi-ooxml-3.14.jar.txt	1
+org/apache/poi/xwpf/usermodel/XWPFRun/getCTPictures(org.apache.xmlbeans.XmlObject)@g_poi-ooxml-3.14.jar.txt	0

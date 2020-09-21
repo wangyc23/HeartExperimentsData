@@ -1,0 +1,5 @@
+uk/ac/ic/wlgitbridge/snapshot/servermock/util/FileUtil/fileContentsEqual(java.nio.file.Path,java.nio.file.Path)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	3
+org/jboss/resteasy/jsapi/JSAPIWriter/writeJavaScript(java.lang.String,java.io.PrintWriter,org.jboss.resteasy.jsapi.ServiceRegistry)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	2
+se/unlogic/eagledns/EagleDNS/addRRset(se.unlogic.eagledns.Name,se.unlogic.eagledns.Message,se.unlogic.eagledns.RRset,int,int)@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	1
+org/jboss/resteasy/mock/MockHttpRequest/getMutableHeaders()@230287b5acd4fae55a9260732d9a739e1506c8d7.txt	4
+com/iluwatar/execute/around/SimpleFileWriterTest/testActualWrite()@1685fce06ddbbb5269e8653c92338fe26c8990e4.txt	0

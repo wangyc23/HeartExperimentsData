@@ -1,0 +1,5 @@
+org/eclipse/osgi/internal/serviceregistry/ServiceProperties/toString()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	0
+org/eclipse/m2m/atl/engine/vm/InstanceNativeOperation/exec(org.eclipse.m2m.atl.engine.vm.StackFrame)@g_engine.vm-3.4.0.jar.txt	3
+org/eclipse/osgi/framework/internal/core/BundleContextImpl/dispatchEvent(java.lang.Object,java.lang.Object,int,java.lang.Object)@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/core/runtime/internal/adaptor/EclipseStorageHook/checkManifestTimeStamp()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	4
+org/eclipse/osgi/internal/serviceregistry/ServiceUse/getService()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	2

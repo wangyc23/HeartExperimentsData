@@ -1,0 +1,5 @@
+org/dyrda/javabrains/service/CommentService/addComment(long,org.dyrda.javabrains.model.Comment)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	2
+org/dyrda/javabrains/service/ProfileService/getProfile(java.lang.String)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	4
+org/dyrda/javabrains/filters/SecuredFilter/filter(javax.ws.rs.container.ContainerRequestContext)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	3
+org/dyrda/javabrains/service/CommentService/removeComment(long,long)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	1
+org/dyrda/javabrains/service/MessageService/updateMessage(org.dyrda.javabrains.model.Message)@168b9c337aa0ae603654638f3f03a641bffc221e.txt	0

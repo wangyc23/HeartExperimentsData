@@ -1,0 +1,5 @@
+com/thoughtworks/xstream/mapper/AnnotationMapper/processImplicitCollectionAnnotation(java.lang.Class)@g_xstream-1.4.1.jar.txt	1
+com/thoughtworks/xstream/mapper/AnnotationMapper/processImplicitAnnotation(java.lang.reflect.Field)@g_xstream-1.4.1.jar.txt	2
+com/thoughtworks/xstream/mapper/AnnotationMapper/cacheConverter(java.lang.Class,java.lang.Class)@g_xstream-1.4.1.jar.txt	0
+com/thoughtworks/xstream/mapper/AnnotationMapper/processTypes(java.util.Set)@g_xstream-1.4.1.jar.txt	4
+com/thoughtworks/xstream/converters/javabean/PropertyDictionary/serializablePropertiesFor(java.lang.Class)@g_xstream-1.4.1.jar.txt	3

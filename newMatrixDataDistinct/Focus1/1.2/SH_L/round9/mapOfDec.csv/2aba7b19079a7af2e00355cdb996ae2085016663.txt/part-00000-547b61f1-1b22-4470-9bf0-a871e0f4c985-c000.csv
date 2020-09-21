@@ -1,0 +1,5 @@
+mapreduce/ParseJson/parseArgs(java.lang.String[])@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	1
+mapreduce/ImportFromFile/parseArgs(java.lang.String[])@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	4
+bulkimport/BulkImportJobExample/DeliciousRecordReader/nextKeyValue()@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	2
+mapreduce/ParseJson2/parseArgs(java.lang.String[])@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	0
+mapreduce/ParseJsonMulti/parseArgs(java.lang.String[])@000c1cc552a08fb4a235a6195597a4e52bc7dafd.txt	3

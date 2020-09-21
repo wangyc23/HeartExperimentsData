@@ -1,0 +1,4 @@
+javax/ws/rs/container/ContainerResponseContext/getHeaders()
+org/traccar/Context/getConfig()
+java/lang/String/equals(java.lang.Object)
+org/traccar/Config/getString(java.lang.String)

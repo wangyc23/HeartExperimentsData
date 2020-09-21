@@ -1,0 +1,5 @@
+net/razorvine/pickle/PrettyPrint/print(java.lang.Object,java.io.Writer,boolean)@g_android-json-0.0.20131108.vaadin1.jar.txt	2
+net/razorvine/pickle/PickleUtils/decode_unicode_escaped(java.lang.String)@g_android-json-0.0.20131108.vaadin1.jar.txt	0
+net/razorvine/pickle/Pickler/dispatch(java.lang.Class,java.lang.Object)@g_android-json-0.0.20131108.vaadin1.jar.txt	4
+net/razorvine/pyro/PyroException/__setstate__(java.util.HashMap)@g_android-json-0.0.20131108.vaadin1.jar.txt	3
+net/razorvine/pickle/PickleUtils/decode_escaped(java.lang.String)@g_android-json-0.0.20131108.vaadin1.jar.txt	1

@@ -1,0 +1,5 @@
+0	java/lang/RuntimeException/RuntimeException(java.lang.String)
+1	java/io/PrintStream/println(java.lang.String)
+2	java/lang/Object/notifyAll()
+3	net/sf/jabb/util/stat/SimpleBigIntegerStatistics/evaluate(int)
+4	oops/chapter21/section4/p43/MultiLock/f2(int)

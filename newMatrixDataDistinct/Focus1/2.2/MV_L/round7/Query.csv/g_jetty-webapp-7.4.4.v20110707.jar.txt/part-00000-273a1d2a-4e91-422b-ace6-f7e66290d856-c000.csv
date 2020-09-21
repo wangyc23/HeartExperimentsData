@@ -1,0 +1,4 @@
+org/eclipse/jetty/webapp/WebAppContext/removeAttribute(java.lang.String)
+org/eclipse/jetty/xml/XmlConfiguration/XmlConfiguration(java.net.URL)
+org/eclipse/jetty/webapp/WebAppContext/isStarted()
+org/eclipse/jetty/util/log/Log/debug(java.lang.String)

@@ -1,0 +1,5 @@
+org/apache/kylin/cube/CubeManager/buildDictionary(org.apache.kylin.cube.CubeSegment,org.apache.kylin.metadata.model.TblColRef,org.apache.kylin.dict.DistinctColumnValuesProvider)@128e4f3b827edca4c8aaa15d08d04012bafb742a.txt	2
+org/apache/kylin/cube/util/CubingUtils/writeDictionary(org.apache.kylin.cube.CubeSegment,java.util.Map,long,long)@128e4f3b827edca4c8aaa15d08d04012bafb742a.txt	3
+org/apache/kylin/engine/mr/steps/MergeCuboidMapperTest/setUp()@128e4f3b827edca4c8aaa15d08d04012bafb742a.txt	0
+org/apache/kylin/engine/mr/steps/MergeDictionaryStep/mergeDictionaries(org.apache.kylin.dict.DictionaryManager,org.apache.kylin.cube.CubeSegment,java.util.List,org.apache.kylin.metadata.model.TblColRef)@128e4f3b827edca4c8aaa15d08d04012bafb742a.txt	1
+org/apache/kylin/engine/mr/steps/MergeDictionaryStep/makeDictForNewSegment(org.apache.kylin.common.KylinConfig,org.apache.kylin.cube.CubeInstance,org.apache.kylin.cube.CubeSegment,java.util.List)@128e4f3b827edca4c8aaa15d08d04012bafb742a.txt	4

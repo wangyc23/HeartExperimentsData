@@ -1,0 +1,5 @@
+com/google/common/base/Objects/deepHashCode(java.lang.Object)@g_google-collect-snapshot-20080530.jar.txt	1
+org/glassfish/hk2/api/MultiException/getMessage()@g_google-collect-snapshot-20080530.jar.txt	3
+org/glassfish/hk2/utilities/DescriptorImpl/hashCode()@g_hk2-api-2.2.0-b21.jar.txt	2
+javax/enterprise/util/AnnotationLiteral/getMembers()@g_google-collect-snapshot-20080530.jar.txt	4
+org/glassfish/hk2/api/AnnotationLiteral/hashCode()@g_hk2-api-2.2.0-b21.jar.txt	0

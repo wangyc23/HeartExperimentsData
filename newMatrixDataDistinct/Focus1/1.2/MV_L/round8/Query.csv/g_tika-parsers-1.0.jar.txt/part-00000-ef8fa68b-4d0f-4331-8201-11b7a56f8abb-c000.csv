@@ -1,0 +1,4 @@
+org/apache/tika/parser/ParseContext/get(java.lang.Class,java.lang.Object)
+org/ccil/cowan/tagsoup/Parser/setFeature(java.lang.String,boolean)
+org/xml/sax/InputSource/InputSource(java.io.InputStream)
+org/ccil/cowan/tagsoup/Parser/setProperty(java.lang.String,java.lang.Object)

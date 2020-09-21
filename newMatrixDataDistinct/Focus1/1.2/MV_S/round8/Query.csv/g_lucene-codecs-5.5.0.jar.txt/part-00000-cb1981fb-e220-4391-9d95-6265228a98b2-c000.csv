@@ -1,0 +1,4 @@
+org/apache/lucene/util/BytesRefBuilder/BytesRefBuilder()
+org/apache/lucene/index/IndexFileNames/fileNameFromGeneration(java.lang.String,java.lang.String,long)
+org/apache/lucene/util/StringHelper/startsWith(org.apache.lucene.util.BytesRef,org.apache.lucene.util.BytesRef)
+org/apache/lucene/index/SegmentCommitInfo/getDelGen()

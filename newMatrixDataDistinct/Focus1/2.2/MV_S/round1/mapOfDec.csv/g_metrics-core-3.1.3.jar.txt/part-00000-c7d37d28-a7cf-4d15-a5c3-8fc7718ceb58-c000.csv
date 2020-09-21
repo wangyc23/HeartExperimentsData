@@ -1,0 +1,5 @@
+org/jgroups/blocks/LazyRemovalCache/retainAll(java.util.Collection,boolean)@g_jgroups-3.6.2.Final.jar.txt	4
+org/jgroups/util/AgeOutCache/toString()@g_jgroups-3.6.2.Final.jar.txt	1
+org/jgroups/blocks/Cache/evict()@g_jgroups-3.6.2.Final.jar.txt	3
+org/jgroups/blocks/Cache/1/run()@g_jgroups-3.6.2.Final.jar.txt	2
+org/jgroups/protocols/FD_SOCK/printCache()@g_jgroups-3.6.2.Final.jar.txt	0

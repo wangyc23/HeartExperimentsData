@@ -1,0 +1,4 @@
+com/facebook/hive/orc/StreamName/StreamName(int,OrcProto.Stream.Kind)
+com/facebook/hive/orc/WriterImpl/BufferedStream/BufferedStream(java.lang.String,int,com.facebook.hive.orc.CompressionCodec)
+java/util/Map/get(java.lang.Object)
+com/facebook/hive/orc/StreamName/toString()

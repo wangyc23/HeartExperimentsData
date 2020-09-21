@@ -1,0 +1,5 @@
+org/drools/template/model/AttributedDRLElement/asStringLiteral(java.lang.String)@g_simmetrics-1.6.2.jar.txt	4
+uk/ac/shef/wit/simmetrics/similaritymetrics/TagLink/getIDFMap(java.lang.String[])@g_simmetrics-1.6.2.jar.txt	1
+uk/ac/shef/wit/simmetrics/similaritymetrics/TagLink/getSimilarityExplained(java.lang.String,java.lang.String)@g_simmetrics-1.6.2.jar.txt	0
+org/drools/template/model/AttributedDRLElement/renderDRL(org.drools.template.model.DRLOutput)@g_simmetrics-1.6.2.jar.txt	3
+uk/ac/shef/wit/simmetrics/similaritymetrics/Soundex/calcSoundEx(java.lang.String,int)@g_simmetrics-1.6.2.jar.txt	2

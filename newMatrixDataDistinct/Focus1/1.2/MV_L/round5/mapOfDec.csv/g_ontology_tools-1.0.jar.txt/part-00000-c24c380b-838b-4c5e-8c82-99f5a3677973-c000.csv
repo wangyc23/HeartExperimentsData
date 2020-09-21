@@ -1,0 +1,5 @@
+gate/gui/docview/OntologyClassView/loadOntology(gate.creole.ontology.Ontology)@g_gate-core-8.1.jar.txt	0
+gate/gui/docview/CorefEditor/createAnnotSetNode(gate.AnnotationSet,boolean)@g_gate-core-8.1.jar.txt	2
+gate/gui/LuceneDataStoreSearchGUI/initGui()@g_gate-core-8.1.jar.txt	1
+gate/gui/docview/CorefEditor/createChain(gate.AnnotationSet,boolean)@g_gate-core-8.1.jar.txt	3
+weka/gui/arffviewer/ArffTable/setLayout()@g_weka-dev-3.9.1.jar.txt	4

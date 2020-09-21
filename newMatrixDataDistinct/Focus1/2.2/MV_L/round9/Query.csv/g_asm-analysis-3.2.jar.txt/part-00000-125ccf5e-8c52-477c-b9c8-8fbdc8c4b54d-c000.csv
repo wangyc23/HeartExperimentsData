@@ -1,0 +1,4 @@
+org/objectweb/asm/Type/getObjectType(java.lang.String)
+org/objectweb/asm/tree/AbstractInsnNode/getOpcode()
+java/util/HashMap/HashMap()
+org/objectweb/asm/Type/getSize()

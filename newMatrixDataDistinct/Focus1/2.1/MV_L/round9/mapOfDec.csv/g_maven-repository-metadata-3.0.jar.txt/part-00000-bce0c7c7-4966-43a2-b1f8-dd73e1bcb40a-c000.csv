@@ -1,0 +1,5 @@
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseVersioning(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-3.0.4.jar.txt	3
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseVersioning(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-3.0.3.jar.txt	1
+org/apache/maven/artifact/repository/metadata/Versioning/clone()@g_maven-repository-metadata-3.0.3.jar.txt	4
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseMetadata(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-3.0.4.jar.txt	2
+org/apache/maven/artifact/repository/metadata/io/xpp3/MetadataXpp3Reader/parseMetadata(org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_maven-repository-metadata-3.0.3.jar.txt	0

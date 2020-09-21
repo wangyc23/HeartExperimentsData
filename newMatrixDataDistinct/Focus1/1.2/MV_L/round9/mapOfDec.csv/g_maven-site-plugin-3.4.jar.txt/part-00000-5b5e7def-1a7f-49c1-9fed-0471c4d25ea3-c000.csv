@@ -1,0 +1,5 @@
+org/apache/maven/plugins/site/AbstractDeployMojo/getProxy(org.apache.maven.wagon.repository.Repository,org.apache.maven.settings.crypto.SettingsDecrypter)@g_maven-site-plugin-3.3.jar.txt	4
+org/apache/maven/plugins/site/AbstractDeployMojo/configureWagon(org.apache.maven.wagon.Wagon,java.lang.String,org.apache.maven.settings.Settings,org.codehaus.plexus.PlexusContainer,org.apache.maven.plugin.logging.Log)@g_maven-site-plugin-3.3.jar.txt	2
+org/apache/maven/plugins/site/SiteMojo/execute()@g_maven-site-plugin-3.3.jar.txt	1
+org/apache/maven/plugins/site/render/SiteMojo/execute()@g_maven-site-plugin-3.5.1.jar.txt	0
+org/apache/maven/plugins/site/ReportDocumentRenderer/renderDocument(java.io.Writer,org.apache.maven.doxia.siterenderer.Renderer,org.apache.maven.doxia.siterenderer.SiteRenderingContext)@g_maven-site-plugin-3.3.jar.txt	3

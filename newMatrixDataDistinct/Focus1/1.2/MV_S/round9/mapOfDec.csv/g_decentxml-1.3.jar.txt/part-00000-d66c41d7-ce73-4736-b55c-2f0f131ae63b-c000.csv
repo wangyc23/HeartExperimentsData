@@ -1,0 +1,5 @@
+org/apache/james/mime4j/codec/Base64InputStream/read0(byte[],int,int)@g_apache-mime4j-core-0.7.2.jar.txt	2
+org/apache/james/mime4j/stream/FallbackBodyDescriptorBuilder/parseContentType(org.apache.james.mime4j.stream.Field)@g_apache-mime4j-core-0.7.2.jar.txt	0
+org/springframework/security/crypto/bcrypt/BCrypt/hashpw(java.lang.String,java.lang.String)@g_spring-security-crypto-3.2.7.RELEASE.jar.txt	1
+de/pdark/decentxml/dtd/DocTypeEntityResolver/resolveLiteralValueOfEntity(java.lang.String,java.lang.String)@g_apache-mime4j-core-0.7.2.jar.txt	4
+de/pdark/decentxml/Element/getChild(int)@g_apache-mime4j-core-0.7.2.jar.txt	3

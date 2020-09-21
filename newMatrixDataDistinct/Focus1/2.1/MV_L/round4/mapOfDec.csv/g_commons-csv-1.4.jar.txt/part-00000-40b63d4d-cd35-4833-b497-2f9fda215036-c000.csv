@@ -1,0 +1,5 @@
+org/apache/commons/csv/CSVFormat/validate()@g_commons-csv-1.0.jar.txt	3
+org/apache/commons/csv/CSVParser/initializeHeader()@g_commons-csv-1.0.jar.txt	2
+org/apache/commons/csv/CSVPrinter/printAndQuote(java.lang.Object,java.lang.CharSequence,int,int)@g_commons-csv-1.0.jar.txt	1
+org/apache/commons/csv/CSVParser/nextRecord()@g_commons-csv-1.0.jar.txt	0
+org/apache/commons/csv/CSVFormat/printAndQuote(java.lang.Object,java.lang.CharSequence,int,int,java.lang.Appendable,boolean)@g_commons-csv-1.0.jar.txt	4

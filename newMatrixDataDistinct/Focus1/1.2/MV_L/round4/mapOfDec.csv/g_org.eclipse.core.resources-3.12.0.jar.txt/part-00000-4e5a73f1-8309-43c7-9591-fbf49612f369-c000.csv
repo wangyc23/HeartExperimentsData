@@ -1,0 +1,5 @@
+org/eclipse/core/internal/resources/Resource/checkMoveRequirements(org.eclipse.core.runtime.IPath,int,int)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	3
+org/eclipse/core/internal/resources/Resource/checkCopyRequirements(org.eclipse.core.runtime.IPath,int,int)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	0
+org/eclipse/core/internal/resources/Resource/checkCopyRequirements(org.eclipse.core.runtime.IPath,int,int)@g_org.eclipse.core.resources-3.8.101.v20130717-0806.jar.txt	2
+org/eclipse/core/internal/resources/LocationValidator/validateProjectLocationURI(org.eclipse.core.resources.IProject,java.net.URI)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	4
+org/eclipse/core/internal/resources/Resource/checkMoveRequirements(org.eclipse.core.runtime.IPath,int,int)@g_org.eclipse.core.resources-3.9.1.v20140825-1431.jar.txt	1

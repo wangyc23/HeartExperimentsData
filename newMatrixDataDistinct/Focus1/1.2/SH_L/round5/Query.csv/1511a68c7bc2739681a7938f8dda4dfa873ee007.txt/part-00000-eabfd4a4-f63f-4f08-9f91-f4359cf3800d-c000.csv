@@ -1,0 +1,4 @@
+java/io/DataInputStream/readUTF()
+java/io/DataInputStream/readByte()
+java/io/IOException/IOException(java.lang.String)
+java/io/DataInputStream/readInt()

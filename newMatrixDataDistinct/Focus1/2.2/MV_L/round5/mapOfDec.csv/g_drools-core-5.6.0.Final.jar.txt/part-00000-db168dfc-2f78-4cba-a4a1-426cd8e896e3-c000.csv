@@ -1,0 +1,5 @@
+org/drools/factmodel/traits/TraitMapPropertyWrapperClassBuilderImpl/invokeContainsKey(org.mvel2.asm.MethodVisitor,java.lang.String)@g_drools-core-5.5.0.Final.jar.txt	2
+org/drools/rule/constraint/ASMConditionEvaluatorJitter/EvaluateMethodGenerator/jitPrimitiveBinary(org.drools.rule.constraint.ConditionAnalyzer$SingleCondition,org.drools.rule.constraint.ConditionAnalyzer$Expression,org.drools.rule.constraint.ConditionAnalyzer$Expression,java.lang.Class)@g_drools-core-5.5.0.Final.jar.txt	4
+org/drools/rule/builder/dialect/asm/GeneratorHelper/DeclarationAccessorMethod/traverseTuplesUntilDeclarationWithOr(int,int,int,int)@g_drools-core-5.5.0.Final.jar.txt	0
+org/drools/factmodel/DefaultBeanClassBuilder/buildTraitMap(org.mvel2.asm.ClassWriter,org.drools.factmodel.ClassDefinition)@g_drools-core-5.5.0.Final.jar.txt	3
+org/drools/factmodel/traits/TraitMapPropertyWrapperClassBuilderImpl/invokeGet(org.mvel2.asm.MethodVisitor,java.lang.String,org.drools.factmodel.ClassDefinition,java.lang.String,org.drools.factmodel.FieldDefinition)@g_drools-core-5.5.0.Final.jar.txt	1

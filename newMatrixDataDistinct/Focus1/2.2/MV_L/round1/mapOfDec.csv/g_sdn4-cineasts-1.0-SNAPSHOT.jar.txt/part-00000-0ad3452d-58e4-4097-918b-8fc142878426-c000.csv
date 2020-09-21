@@ -1,0 +1,5 @@
+org/eclipse/osgi/util/NLS/buildVariants(java.lang.String)@g_osgi-3.10.0-v20140606-1445.jar.txt	2
+org/eclipse/osgi/internal/framework/legacy/PackageAdminImpl/getBundles(java.lang.String,java.lang.String)@g_osgi-3.10.0-v20140606-1445.jar.txt	0
+org/eclipse/osgi/util/ManifestElement/parseHeader(java.lang.String,java.lang.String)@g_osgi-3.10.0-v20140606-1445.jar.txt	4
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistry/getServiceReferences(org.eclipse.osgi.internal.framework.BundleContextImpl,java.lang.String,java.lang.String,boolean)@g_osgi-3.10.0-v20140606-1445.jar.txt	3
+org/eclipse/osgi/framework/internal/reliablefile/ReliableFile/getFileGenerations(java.io.File)@g_osgi-3.10.0-v20140606-1445.jar.txt	1

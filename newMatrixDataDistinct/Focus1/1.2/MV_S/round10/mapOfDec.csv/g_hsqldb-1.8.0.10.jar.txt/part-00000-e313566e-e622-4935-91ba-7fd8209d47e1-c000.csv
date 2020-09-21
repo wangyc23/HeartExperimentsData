@@ -1,0 +1,5 @@
+org/apache/tools/ant/taskdefs/Javac/compile()@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/LoadFile/execute()@g_ant-1.6.5.jar.txt	2
+org/apache/tools/ant/Main/runBuild(java.lang.ClassLoader)@g_ant-1.6.5.jar.txt	4
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationMinusSign(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationMinusSign)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/qdox/qdox/model/annotation/EvaluatingVisitor/visitAnnotationNot(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.annotation.AnnotationNot)@g_attributes-processor-1.0.1.jar.txt	0

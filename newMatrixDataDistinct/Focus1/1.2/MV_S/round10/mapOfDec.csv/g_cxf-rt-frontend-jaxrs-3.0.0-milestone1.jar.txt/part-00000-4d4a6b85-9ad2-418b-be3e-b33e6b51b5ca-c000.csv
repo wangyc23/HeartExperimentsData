@@ -1,0 +1,5 @@
+org/apache/cxf/jaxrs/spring/JAXRSServerFactoryBeanDefinitionParser/SpringJAXRSServerFactoryBean/createBeansFromDiscoveredClasses(java.util.Collection,java.lang.Class)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	1
+org/apache/cxf/jaxrs/impl/HttpHeadersImpl/getHeaderValues(java.lang.String,java.lang.String,java.lang.String)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	4
+org/apache/cxf/jaxrs/impl/ResponseImpl/toListOfStrings(java.lang.String,java.util.List)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	2
+org/apache/cxf/jaxrs/impl/UriInfoImpl/getMatchedURIs(boolean)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	0
+org/apache/cxf/jaxrs/utils/JAXRSUtils/injectParameters(org.apache.cxf.jaxrs.model.OperationResourceInfo,org.apache.cxf.jaxrs.model.BeanResourceInfo,java.lang.Object,org.apache.cxf.message.Message)@g_cxf-rt-frontend-jaxrs-3.0.16.jar.txt	3

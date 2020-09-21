@@ -1,0 +1,5 @@
+org/apache/maven/plugin/install/InstallFileMojo/generatePomFile()@g_maven-surefire-plugin-2.12.jar.txt	1
+org/apache/maven/plugin/deploy/DeployMojo/execute()@g_maven-surefire-plugin-2.12.jar.txt	3
+org/apache/maven/plugin/install/InstallFileMojo/readModel(java.io.File)@g_maven-install-plugin-2.3.1.jar.txt	0
+org/apache/maven/plugin/deploy/DeployMojo/getDeploymentRepository()@g_maven-surefire-plugin-2.12.jar.txt	4
+org/apache/maven/plugin/deploy/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-surefire-plugin-2.12.jar.txt	2

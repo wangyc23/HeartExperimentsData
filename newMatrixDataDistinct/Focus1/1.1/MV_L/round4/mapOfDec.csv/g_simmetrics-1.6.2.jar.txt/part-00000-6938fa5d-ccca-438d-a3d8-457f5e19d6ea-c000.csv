@@ -1,0 +1,5 @@
+com/lowagie/text/pdf/PdfCopyFieldsImp/branchForm(java.util.HashMap,com.lowagie.text.pdf.PdfIndirectReference,java.lang.String)@g_itext-2.1.2.jar.txt	3
+com/lowagie/text/pdf/PdfStamperImp/addFileAttachments()@g_itext-2.1.2.jar.txt	2
+com/lowagie/text/pdf/PdfDocument/PdfCatalog/addNames(java.util.TreeMap,java.util.HashMap,java.util.HashMap,com.lowagie.text.pdf.PdfWriter)@g_itext-2.1.2.jar.txt	1
+com/lowagie/text/pdf/PdfStamperImp/flatFields()@g_itext-2.1.2.jar.txt	4
+com/lowagie/text/pdf/AcroFields/getSignatureNames()@g_itext-2.1.2.jar.txt	0

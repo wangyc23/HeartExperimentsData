@@ -1,0 +1,4 @@
+org/infinispan/configuration/cache/PersistenceConfigurationBuilder/addSingleFileStore()
+java/util/Iterator/hasNext()
+org/infinispan/configuration/cache/PersistenceConfiguration/stores()
+org/infinispan/configuration/cache/SingleFileStoreConfiguration/location()

@@ -1,0 +1,5 @@
+gate/util/TemplateLaxErrorHandler/fatalError(org.xml.sax.SAXParseException)@g_gate-core-8.1.jar.txt	4
+gate/gui/NameBearerHandle/ExportApplicationAction/actionPerformed(java.awt.event.ActionEvent)@g_gate-core-8.1.jar.txt	0
+gate/gui/DocumentExportMenu/1/1/run()@g_gate-core-8.1.jar.txt	3
+gate/corpora/TikaFormat/extractParserTips(gate.Document)@g_gate-core-8.1.jar.txt	1
+gate/gui/MainFrame/createSearchableDataStore()@g_gate-core-8.1.jar.txt	2

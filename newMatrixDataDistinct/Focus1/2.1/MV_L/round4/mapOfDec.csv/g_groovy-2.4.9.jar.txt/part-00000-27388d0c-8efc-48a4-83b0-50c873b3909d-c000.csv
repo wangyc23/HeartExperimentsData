@@ -1,0 +1,5 @@
+groovy/json/JsonOutput/writeObject(java.lang.Object,groovy.json.internal.CharBuf)@g_groovy-all-2.4.5.jar.txt	0
+org/codehaus/groovy/runtime/DefaultGroovyMethods/sprintf(java.lang.Object,java.lang.String,java.lang.Object)@g_groovy-all-2.4.5.jar.txt	4
+org/codehaus/groovy/runtime/InvokerHelper/format(java.lang.Object,boolean,int)@g_groovy-all-2.4.5.jar.txt	2
+org/codehaus/groovy/vmplugin/v7/Selector/MethodSelector/correctParameterLength()@g_groovy-all-2.4.5.jar.txt	3
+org/codehaus/groovy/vmplugin/v7/TypeTransformers/addTransformer(java.lang.invoke.MethodHandle,int,java.lang.Object,java.lang.Class)@g_groovy-all-2.4.5.jar.txt	1

@@ -1,0 +1,5 @@
+org/apache/mahout/cf/taste/impl/recommender/svd/ParallelSGDFactorizerTest/testRecommenderWithSyntheticData()@0eb1291dc6b874ba7bbef6b3671dfe9aa09939fe.txt	3
+org/apache/mahout/cf/taste/impl/recommender/svd/SVDRecommenderTest/estimatePreference()@0eb1291dc6b874ba7bbef6b3671dfe9aa09939fe.txt	1
+org/apache/mahout/cf/taste/impl/recommender/svd/ALSWRFactorizerTest/toyExampleImplicit()@0eb1291dc6b874ba7bbef6b3671dfe9aa09939fe.txt	2
+org/apache/mahout/cf/taste/impl/recommender/svd/ParallelSGDFactorizerTest/testRecommenderWithToyData()@0eb1291dc6b874ba7bbef6b3671dfe9aa09939fe.txt	4
+org/apache/mahout/cf/taste/impl/recommender/svd/ALSWRFactorizerTest/toyExample()@0eb1291dc6b874ba7bbef6b3671dfe9aa09939fe.txt	0

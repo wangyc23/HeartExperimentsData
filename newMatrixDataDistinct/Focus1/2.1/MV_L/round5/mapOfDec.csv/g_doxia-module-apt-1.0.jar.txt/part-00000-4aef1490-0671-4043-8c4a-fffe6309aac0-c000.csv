@@ -1,0 +1,5 @@
+org/apache/maven/doxia/module/fml/FmlParser/parseFml(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-module-xhtml-1.0.jar.txt	3
+org/apache/maven/doxia/module/xhtml/XhtmlParser/handleStartTag(org.codehaus.plexus.util.xml.pull.XmlPullParser,org.apache.maven.doxia.sink.Sink)@g_doxia-module-xhtml-1.0.jar.txt	2
+org/apache/maven/doxia/module/fml/FmlParser/createSink(org.apache.maven.doxia.module.fml.model.Faqs,org.apache.maven.doxia.sink.Sink)@g_doxia-module-xhtml-1.0.jar.txt	1
+org/apache/maven/doxia/module/apt/AptParser/nextBlock(boolean)@g_doxia-module-xhtml-1.0.jar.txt	4
+org/apache/maven/doxia/module/fml/FmlParser/writeAnswerWithSource(org.apache.maven.doxia.sink.Sink,java.lang.String)@g_doxia-module-xhtml-1.0.jar.txt	0

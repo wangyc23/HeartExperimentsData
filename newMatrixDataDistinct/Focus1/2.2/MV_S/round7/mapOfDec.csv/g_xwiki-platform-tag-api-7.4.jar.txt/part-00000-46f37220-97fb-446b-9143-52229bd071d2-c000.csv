@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/feed/FeedPlugin/getFeeds(java.lang.String,boolean,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	0
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLinks(org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	4
+org/xwiki/refactoring/internal/DefaultModelBridge/getDocumentReferences(org.xwiki.model.reference.SpaceReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	3
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/updateRelativeLinks(com.xpn.xwiki.doc.XWikiDocument,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	2
+com/xpn/xwiki/plugin/feed/FeedPlugin/search(java.lang.String,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-feed-api-7.4.2.jar.txt	1

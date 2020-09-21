@@ -1,0 +1,4 @@
+java/util/Map/putAll(java.util.Map)
+org/apache/avro/Schema$Field/access$1700(org.apache.avro.Schema$Field)
+java/util/Map/containsKey(java.lang.Object)
+java/util/List/add(java.lang.Object)

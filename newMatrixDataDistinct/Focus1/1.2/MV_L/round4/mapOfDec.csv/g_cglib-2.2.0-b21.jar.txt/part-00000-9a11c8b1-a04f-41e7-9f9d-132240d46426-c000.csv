@@ -1,0 +1,5 @@
+net/sf/cglib/proxy/Enhancer/emitMethods(net.sf.cglib.core.ClassEmitter,java.util.List,java.util.List)@g_cglib-2.2.jar.txt	4
+net/sf/cglib/proxy/LazyLoaderGenerator/generate(net.sf.cglib.core.ClassEmitter,net.sf.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_cglib-2.2.2.jar.txt	3
+net/sf/cglib/proxy/LazyLoaderGenerator/generate(net.sf.cglib.core.ClassEmitter,net.sf.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_cglib-2.2.jar.txt	2
+net/sf/cglib/proxy/MethodInterceptorGenerator/generate(net.sf.cglib.core.ClassEmitter,net.sf.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_cglib-2.2.2.jar.txt	1
+net/sf/cglib/proxy/MethodInterceptorGenerator/generate(net.sf.cglib.core.ClassEmitter,net.sf.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_cglib-2.2.jar.txt	0

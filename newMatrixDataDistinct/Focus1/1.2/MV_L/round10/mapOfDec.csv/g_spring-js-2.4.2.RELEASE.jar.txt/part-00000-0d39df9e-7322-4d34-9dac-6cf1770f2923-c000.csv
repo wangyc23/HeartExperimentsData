@@ -1,0 +1,5 @@
+org/jets3t/service/impl/rest/httpclient/RestStorageService/addRequestHeadersToConnection(org.apache.http.client.methods.HttpUriRequest,java.util.Map)@g_jets3t-0.9.0.jar.txt	4
+org/jets3t/service/impl/rest/httpclient/RepeatableRequestEntity/writeTo(java.io.OutputStream)@g_jets3t-0.9.0.jar.txt	2
+org/springframework/js/resource/ResourceServlet/prepareResponse(javax.servlet.http.HttpServletResponse,java.net.URL[],java.lang.String)@g_spring-js-2.1.1.RELEASE.jar.txt	3
+org/jets3t/service/utils/ObjectUtils/transformUploadFile(java.io.File,org.jets3t.service.model.S3Object,org.jets3t.service.security.EncryptionUtil,boolean,org.jets3t.service.io.BytesProgressWatcher)@g_jets3t-0.9.0.jar.txt	1
+org/springframework/js/resource/ResourceServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-js-2.1.1.RELEASE.jar.txt	0

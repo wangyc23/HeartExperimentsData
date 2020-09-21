@@ -1,0 +1,5 @@
+liquibase/sqlgenerator/core/AddColumnGenerator/addForeignKeyStatements(liquibase.statement.core.AddColumnStatement,liquibase.database.Database,java.util.List)@g_postgresql-9.3-1102-jdbc41.jar.txt	3
+com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_postgresql-9.3-1102-jdbc41.jar.txt	0
+com/mysql/jdbc/DatabaseMetaData/getColumnPrivileges(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_postgresql-9.3-1102-jdbc41.jar.txt	2
+org/postgresql/core/v3/QueryExecutorImpl/sendBind(org.postgresql.core.v3.SimpleQuery,org.postgresql.core.v3.SimpleParameterList,org.postgresql.core.v3.Portal,boolean)@g_postgresql-9.3-1102-jdbc41.jar.txt	4
+liquibase/servicelocator/DefaultPackageScanClassResolver/loadImplementationsInJar(liquibase.servicelocator.PackageScanFilter,java.lang.String,java.io.InputStream,java.lang.String,java.util.Set)@g_postgresql-9.3-1102-jdbc41.jar.txt	1

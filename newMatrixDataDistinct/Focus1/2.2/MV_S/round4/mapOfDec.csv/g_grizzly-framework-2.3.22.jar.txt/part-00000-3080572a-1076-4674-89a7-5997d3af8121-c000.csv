@@ -1,0 +1,5 @@
+com/sun/faces/util/MojarraThreadFactory/newThread(java.lang.Runnable)@g_javax.faces-2.2.7.jar.txt	4
+com/sun/faces/util/Util/getViewStateId(javax.faces.context.FacesContext)@g_javax.faces-2.2.7.jar.txt	1
+com/sun/faces/renderkit/html_basic/OutcomeTargetRenderer/addNavigationParams(javax.faces.application.NavigationCase,java.util.Map)@g_javax.faces-2.2.7.jar.txt	3
+com/sun/faces/config/DocumentOrderingWrapper/sort(com.sun.faces.config.DocumentOrderingWrapper[])@g_javax.faces-2.2.7.jar.txt	2
+com/sun/faces/lifecycle/ClientWindowImpl/calculateClientWindow(javax.faces.context.FacesContext)@g_javax.faces-2.2.7.jar.txt	0

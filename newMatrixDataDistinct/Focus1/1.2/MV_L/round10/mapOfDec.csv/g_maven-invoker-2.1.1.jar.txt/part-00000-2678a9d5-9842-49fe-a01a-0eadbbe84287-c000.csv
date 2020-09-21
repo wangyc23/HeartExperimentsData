@@ -1,0 +1,5 @@
+org/apache/maven/shared/invoker/MavenCommandLineBuilder/setShellEnvironment(org.apache.maven.shared.invoker.InvocationRequest,org.codehaus.plexus.util.cli.Commandline)@g_maven-invoker-2.0.11.jar.txt	3
+org/apache/maven/shared/invoker/MavenCommandLineBuilder/setProperties(org.apache.maven.shared.invoker.InvocationRequest,org.codehaus.plexus.util.cli.Commandline)@g_maven-invoker-2.0.11.jar.txt	0
+org/apache/maven/shared/utils/StringUtils/interpolate(java.lang.String,java.util.Map)@g_maven-shared-utils-0.1.jar.txt	2
+org/apache/maven/shared/utils/cli/Commandline/getEnvironmentVariables()@g_maven-shared-utils-0.1.jar.txt	1
+org/apache/maven/shared/utils/cli/CommandLineUtils/ensureCaseSensitivity(java.util.Map,boolean)@g_maven-shared-utils-0.1.jar.txt	4

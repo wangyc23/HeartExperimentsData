@@ -1,0 +1,5 @@
+twitter4j/HTMLEntity/unescapeAndSlideEntityIncdices(java.lang.String,twitter4j.UserMentionEntity[],twitter4j.URLEntity[],twitter4j.HashtagEntity[],twitter4j.MediaEntity[])@099d27c4c6e7d11ebf755049b061e7b306c32dc6.txt	4
+manager/TweetManager/processTerms(java.lang.String,java.lang.String)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	2
+bing/BingSearch/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	1
+bing/BingSearch/getNews(model.Event,model.Location)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	0
+bing/BingSearch/getNewsInt(model.Event,model.Location)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	3

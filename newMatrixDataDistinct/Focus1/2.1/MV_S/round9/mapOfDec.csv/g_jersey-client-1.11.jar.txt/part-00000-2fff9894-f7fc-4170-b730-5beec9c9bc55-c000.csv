@@ -1,0 +1,5 @@
+com/sun/jersey/server/impl/modelapi/annotation/IntrospectionModeller/workOutPostConstructPreDestroy(com.sun.jersey.api.model.AbstractResource)@g_jersey-server-1.13.jar.txt	1
+com/sun/jersey/api/container/ContainerFactory/createContainer(java.lang.Class,com.sun.jersey.api.core.ResourceConfig,com.sun.jersey.core.spi.component.ioc.IoCComponentProviderFactory)@g_jersey-server-1.13.jar.txt	0
+com/sun/jersey/api/core/ResourceConfig/setPropertiesAndFeatures(java.util.Map)@g_jersey-server-1.13.jar.txt	2
+com/sun/jersey/server/impl/model/ResourceUriRules/processSubResourceLocators(com.sun.jersey.api.model.AbstractResource,com.sun.jersey.server.impl.model.RulesMap)@g_jersey-server-1.13.jar.txt	3
+com/sun/jersey/api/core/ResourceConfig/encodeKeys(java.util.Map)@g_jersey-server-1.13.jar.txt	4

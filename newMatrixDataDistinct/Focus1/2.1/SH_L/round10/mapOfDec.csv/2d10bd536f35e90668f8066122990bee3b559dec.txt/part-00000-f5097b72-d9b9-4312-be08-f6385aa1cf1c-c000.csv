@@ -1,0 +1,5 @@
+com/gs/cluster/ConsoleFormatter/displayDocument(int,org.carrot2.core.Document)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	1
+com/gs/cluster/ConsoleFormatter/displayAttributes(java.util.Map)@2aba7b19079a7af2e00355cdb996ae2085016663.txt	0
+com/gs/dao/impl/habase/TestHBaseDAO/testLoad()@2aba7b19079a7af2e00355cdb996ae2085016663.txt	3
+com/gs/extractor/TestSina/testNew()@2aba7b19079a7af2e00355cdb996ae2085016663.txt	2
+com/gs/extractor/TestWangYi/test()@2aba7b19079a7af2e00355cdb996ae2085016663.txt	4

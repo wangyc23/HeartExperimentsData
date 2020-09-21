@@ -1,0 +1,5 @@
+org/apache/ivy/osgi/core/BundleInfoAdapter/getConfigurations(org.apache.ivy.osgi.core.BundleInfo)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/core/cache/ParserSettingsMonitor/hasChanged(org.apache.ivy.plugins.parser.ParserSettings)@g_ivy-2.3.0.jar.txt	4
+org/apache/ivy/plugins/parser/m2/PomModuleDescriptorWriter/printDependencies(org.apache.ivy.core.module.descriptor.ModuleDescriptor,java.io.PrintWriter,org.apache.ivy.plugins.parser.m2.PomWriterOptions,int,boolean)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/report/ResolveReport/getArtifactsReports(org.apache.ivy.core.report.DownloadStatus,boolean)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/ant/IvyCachePath/doExecute()@g_ivy-2.3.0.jar.txt	0

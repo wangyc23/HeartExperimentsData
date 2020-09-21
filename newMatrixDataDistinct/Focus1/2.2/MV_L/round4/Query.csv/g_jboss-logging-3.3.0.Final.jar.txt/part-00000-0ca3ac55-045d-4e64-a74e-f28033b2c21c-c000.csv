@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/util/Iterator/hasNext()
+org/jboss/logging/LoggerProviders$1/1()
+java/lang/Class/forName(java.lang.String,boolean,java.lang.ClassLoader)

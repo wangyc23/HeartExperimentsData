@@ -1,0 +1,5 @@
+org/apache/tika/sax/xpath/MatchingContentHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_tika-core-1.4.jar.txt	4
+org/apache/tika/fork/ContentHandlerResource/internalProcess(java.io.DataInputStream)@g_tika-core-1.7.jar.txt	1
+org/apache/tika/fork/ContentHandlerResource/internalProcess(java.io.DataInputStream)@g_tika-core-1.4.jar.txt	0
+org/apache/tika/sax/SafeContentHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_tika-core-1.4.jar.txt	3
+org/apache/tika/sax/ElementMappingContentHandler/TargetElement/mapAttributes(org.xml.sax.Attributes)@g_tika-core-1.4.jar.txt	2

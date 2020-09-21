@@ -1,0 +1,5 @@
+org/apache/lucene/index/UpgradeIndexMergePolicy/findForcedMerges(org.apache.lucene.index.SegmentInfos,int,java.util.Map)@g_lucene-core-4.6.0.jar.txt	4
+org/apache/lucene/util/packed/PackedInts/Reader/get(int,long[],int,int)@g_lucene-core-4.6.0.jar.txt	0
+org/apache/lucene/search/BooleanQuery/BooleanWeight/explain(org.apache.lucene.index.AtomicReaderContext,int)@g_lucene-core-4.6.0.jar.txt	2
+org/apache/lucene/search/spans/SpanWeight/explain(org.apache.lucene.index.AtomicReaderContext,int)@g_lucene-core-4.6.0.jar.txt	3
+org/apache/lucene/search/SortField/getComparator(int,int)@g_lucene-core-4.6.0.jar.txt	1

@@ -1,0 +1,5 @@
+org/gagravarr/tika/SpeexParser/extractInfo(org.apache.tika.metadata.Metadata,org.gagravarr.speex.SpeexInfo)@g_vorbis-java-tika-0.8.jar.txt	1
+org/gagravarr/tika/VorbisParser/extractComments(org.apache.tika.metadata.Metadata,org.apache.tika.sax.XHTMLContentHandler,org.gagravarr.vorbis.VorbisComments)@g_vorbis-java-tika-0.8.jar.txt	2
+org/gagravarr/tika/FlacParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_vorbis-java-tika-0.8.jar.txt	4
+org/gagravarr/tika/OggParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_vorbis-java-tika-0.8.jar.txt	0
+org/gagravarr/tika/OggAudioParser/extractDuration(org.apache.tika.metadata.Metadata,org.apache.tika.sax.XHTMLContentHandler,long,org.gagravarr.ogg.OggAudioStream)@g_vorbis-java-tika-0.8.jar.txt	3

@@ -1,0 +1,5 @@
+org/eclipse/xtext/web/servlet/HttpServiceContext/initializeParameters()@g_org.eclipse.xtext.web-2.10.0-20160302.125707-29.jar.txt	4
+org/eclipse/xtext/web/server/XtextServiceDispatcher/getFormattingService(org.eclipse.xtext.web.server.IServiceContext)@g_org.eclipse.xtext.web-2.10.0-20160302.125707-29.jar.txt	3
+org/eclipse/xtext/web/server/formatting/FormattingService/format2(org.eclipse.xtext.resource.XtextResource,org.eclipse.xtext.util.ITextRegion,org.eclipse.xtext.preferences.ITypedPreferenceValues)@g_org.eclipse.xtext.web-2.10.0-20160302.125707-29.jar.txt	2
+org/eclipse/xtext/web/server/occurrences/OccurrencesService/1/exec(org.eclipse.xtext.web.server.model.IXtextWebDocument,org.eclipse.xtext.util.CancelIndicator)@g_org.eclipse.xtext.web-2.10.0-20160302.125707-29.jar.txt	1
+org/eclipse/xtext/web/server/formatting/FormattingService/1/exec(org.eclipse.xtext.web.server.model.IXtextWebDocument,org.eclipse.xtext.util.CancelIndicator)@g_org.eclipse.xtext.web-2.10.0-20160302.125707-29.jar.txt	0

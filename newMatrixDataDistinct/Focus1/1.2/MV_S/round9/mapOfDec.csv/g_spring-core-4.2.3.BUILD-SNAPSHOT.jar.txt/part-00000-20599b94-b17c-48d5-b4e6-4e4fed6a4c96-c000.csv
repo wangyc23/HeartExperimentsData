@@ -1,0 +1,5 @@
+org/springframework/cglib/transform/impl/AddDelegateTransformer/addDelegate(java.lang.reflect.Method)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	0
+org/springframework/cglib/reflect/FastMethod/helper(org.springframework.cglib.reflect.FastClass,java.lang.reflect.Method)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	1
+org/springframework/util/StringUtils/changeFirstCharacterCase(java.lang.String,boolean)@g_spring-core-4.2.1.RELEASE.jar.txt	3
+org/springframework/cglib/core/EmitUtils/push_object(org.springframework.cglib.core.CodeEmitter,java.lang.Object)@g_spring-core-4.2.3.BUILD-20151114.143958-56.jar.txt	4
+org/springframework/cglib/transform/impl/AddDelegateTransformer/addDelegate(java.lang.reflect.Method)@g_spring-core-4.2.1.RELEASE.jar.txt	2

@@ -1,0 +1,5 @@
+com/netflix/ribbon/template/TemplateParser/toData(java.util.Map,java.lang.String,java.util.List)@g_ribbon-2.1.0.jar.txt	0
+com/eureka2/shading/apache/avro/SchemaCompatibility/ReaderWriterCompatiblityChecker/calculateCompatibility(com.eureka2.shading.apache.avro.Schema,com.eureka2.shading.apache.avro.Schema)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	4
+com/eureka2/shading/codehaus/jackson/map/type/TypeFactory/constructSpecializedType(com.eureka2.shading.codehaus.jackson.type.JavaType,java.lang.Class)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	3
+com/eureka2/shading/apache/avro/file/DataFileWriter/generateSync()@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	2
+com/eureka2/shading/apache/avro/specific/SpecificData/getProtocol(java.lang.Class)@g_eureka2-client-shaded-2.0.0-rc.2.jar.txt	1

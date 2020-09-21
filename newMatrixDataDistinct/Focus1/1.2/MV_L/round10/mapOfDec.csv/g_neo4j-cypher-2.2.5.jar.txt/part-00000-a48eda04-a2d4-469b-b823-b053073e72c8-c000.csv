@@ -1,0 +1,5 @@
+org/neo4j/cypher/SyntaxException/findErrorLine(int,scala.collection.immutable.List)@g_neo4j-cypher-2.2.1.jar.txt	0
+org/neo4j/cypher/ExecutionEngine/createCompiler(org.neo4j.kernel.impl.util.StringLogger)@g_neo4j-cypher-2.2.1.jar.txt	2
+org/neo4j/cypher/internal/compiler/v1_9/parser/Base/ignoreCases(scala.collection.immutable.List)@g_neo4j-cypher-compiler-1.9-2.0.1.jar.txt	1
+org/neo4j/cypher/internal/compatibility/CompatibilityFor2_0/ExecutionPlanWrapper/run(org.neo4j.kernel.GraphDatabaseAPI,org.neo4j.cypher.internal.TransactionInfo,org.neo4j.cypher.internal.ExecutionMode,scala.collection.immutable.Map,org.neo4j.kernel.impl.query.QuerySession)@g_neo4j-cypher-2.2.1.jar.txt	4
+org/neo4j/cypher/internal/CypherCompiler/calculatePlanner(scala.Option,scala.collection.Seq,org.neo4j.cypher.CypherVersion)@g_neo4j-cypher-2.2.1.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/cxf/configuration/jsse/TLSParameterJaxBUtils/getKeyStore(org.apache.cxf.configuration.security.CertStoreType)@g_cxf-core-3.0.16.jar.txt	1
+org/apache/cxf/resource/URIResolver/tryFileSystem(java.lang.String,java.lang.String)@g_cxf-core-3.0.16.jar.txt	0
+org/apache/cxf/staxutils/StaxUtils/createXMLStreamReader(org.xml.sax.InputSource)@g_cxf-core-3.0.16.jar.txt	4
+org/apache/cxf/resource/URIResolver/tryClasspath(java.lang.String)@g_cxf-core-3.0.16.jar.txt	2
+org/apache/cxf/ws/addressing/EndpointReferenceUtils/createSchema(org.apache.cxf.service.model.ServiceInfo,org.apache.cxf.Bus)@g_cxf-core-3.0.16.jar.txt	3

@@ -1,0 +1,5 @@
+org/springframework/data/mongodb/core/MongoTemplate/doInsertAll(java.util.Collection,org.springframework.data.mongodb.core.convert.MongoWriter)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	2
+org/springframework/data/mongodb/core/ReflectiveDBCollectionInvoker/genIndexName(com.mongodb.DBObject)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	0
+org/springframework/data/mongodb/core/convert/MongoExampleMapper/applyPropertySpecs(java.lang.String,com.mongodb.DBObject,java.lang.Class,org.springframework.data.repository.core.support.ExampleMatcherAccessor)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	3
+org/springframework/data/mongodb/core/aggregation/ConditionalOperators/Cond/getClauses(org.springframework.data.mongodb.core.aggregation.AggregationOperationContext,java.lang.String,java.lang.Object)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	1
+org/springframework/data/mongodb/config/MongoDbFactoryParser/getMongoUri(org.w3c.dom.Element,org.springframework.beans.factory.xml.ParserContext)@g_spring-data-mongodb-1.10.1.RELEASE.jar.txt	4

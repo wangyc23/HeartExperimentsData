@@ -1,0 +1,5 @@
+net/nhs/esb/aggregators/DiagnosesAggregator/aggregate(net.nhs.domain.openehr.model.Diagnoses,net.nhs.domain.openehr.model.Diagnoses)@0425ed898ce22ac9320119c92ef227937ad10323.txt	4
+com/cathive/fx/inject/core/FXMLComponentBuilder/put(java.lang.String,java.lang.Object)@0425ed898ce22ac9320119c92ef227937ad10323.txt	3
+net/nhs/esb/util/CamelConverterInjector/TypeConverterExchangeWrapper/convertTo(java.lang.Class,net.nhs.esb.cancermdt.route.Exchange,java.lang.Object)@1d01ccfa5b304c867a22781eb96342ea2d3aa926.txt	2
+net/nhs/esb/util/CamelConverterInjector/TypeConverterSimpleWrapper/convertTo(java.lang.Class,net.nhs.esb.cancermdt.route.Exchange,java.lang.Object)@1d01ccfa5b304c867a22781eb96342ea2d3aa926.txt	1
+com/cathive/fx/inject/core/FXMLComponentBuilder/build()@0425ed898ce22ac9320119c92ef227937ad10323.txt	0

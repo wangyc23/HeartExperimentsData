@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+javax/imageio/stream/ImageInputStream/readBits(int)
+java/lang/StringBuilder/append(int)
+java/lang/StringBuilder/StringBuilder()

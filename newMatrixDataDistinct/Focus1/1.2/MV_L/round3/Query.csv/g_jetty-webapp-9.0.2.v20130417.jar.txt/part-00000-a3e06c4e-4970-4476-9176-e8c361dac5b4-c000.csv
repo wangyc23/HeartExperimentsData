@@ -1,0 +1,4 @@
+java/net/URL/toString()
+java/net/URI/toURL()
+org/eclipse/jetty/util/log/Logger/warn(java.lang.Throwable)
+java/lang/String/substring(int,int)

@@ -1,0 +1,5 @@
+org/eclipse/jgit/api/DeleteTagCommand/call()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	2
+org/eclipse/jgit/api/CleanCommand/call()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	0
+org/eclipse/jgit/api/DeleteBranchCommand/call()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	3
+org/eclipse/jgit/internal/storage/file/ObjectDirectory/scanPacksImpl(org.eclipse.jgit.internal.storage.file.ObjectDirectory$PackList)@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	4
+org/eclipse/jgit/transport/BundleFetchConnection/verifyPrerequisites()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	1

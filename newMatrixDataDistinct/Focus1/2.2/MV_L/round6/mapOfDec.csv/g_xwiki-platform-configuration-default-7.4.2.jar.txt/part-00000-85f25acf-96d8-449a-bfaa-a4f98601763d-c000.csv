@@ -1,0 +1,5 @@
+org/xwiki/uiextension/internal/WikiUIExtensionParameters/get()@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	4
+org/xwiki/refactoring/internal/DefaultLinkRefactoring/renameLink(org.xwiki.rendering.block.Block,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference,org.xwiki.model.reference.DocumentReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	2
+org/xwiki/uiextension/internal/WikiUIExtensionParameters/get()@g_xwiki-platform-uiextension-api-7.0.jar.txt	1
+org/xwiki/refactoring/internal/DefaultModelBridge/getDocumentReferences(org.xwiki.model.reference.SpaceReference)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	0
+org/xwiki/configuration/internal/AbstractDocumentConfigurationSource/getPropertyValue(java.lang.String,java.lang.Class)@g_xwiki-platform-refactoring-default-7.4.2.jar.txt	3

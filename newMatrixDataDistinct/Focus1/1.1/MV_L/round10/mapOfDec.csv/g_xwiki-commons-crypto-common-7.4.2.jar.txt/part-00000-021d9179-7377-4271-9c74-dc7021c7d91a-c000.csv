@@ -1,0 +1,5 @@
+org/xwiki/crypto/internal/asymmetric/generator/BcDHKeyParameterGenerator/generate(org.xwiki.crypto.params.generator.KeyParametersGenerationParameters)@g_xwiki-commons-crypto-common-7.4.jar.txt	1
+org/xwiki/crypto/internal/asymmetric/generator/BcDSAKeyParameterGenerator/generate(org.xwiki.crypto.params.generator.KeyParametersGenerationParameters)@g_xwiki-commons-crypto-common-7.0.jar.txt	3
+org/xwiki/crypto/internal/asymmetric/keyfactory/AbstractBcKeyFactory/fromKey(java.security.PrivateKey)@g_xwiki-commons-crypto-common-7.0.jar.txt	4
+org/xwiki/crypto/internal/asymmetric/generator/BcDHKeyParameterGenerator/generate(org.xwiki.crypto.params.generator.KeyParametersGenerationParameters)@g_xwiki-commons-crypto-common-7.0.jar.txt	0
+org/xwiki/crypto/internal/symmetric/generator/DefaultKeyGenerator/generate(org.xwiki.crypto.params.generator.KeyGenerationParameters)@g_xwiki-commons-crypto-common-7.0.jar.txt	2

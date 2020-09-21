@@ -1,0 +1,4 @@
+com/cloudera/oryx/computation/common/fn/OryxReduceDoFn/initialize()
+com/cloudera/oryx/computation/common/fn/OryxReduceDoFn/getPartition()
+com/cloudera/oryx/als/computation/iterate/row/YState/initialize(com.cloudera.oryx.als.computation.iterate.row.TaskInputOutputContext,int,int)
+com/cloudera/oryx/computation/common/fn/OryxReduceDoFn/getNumPartitions()

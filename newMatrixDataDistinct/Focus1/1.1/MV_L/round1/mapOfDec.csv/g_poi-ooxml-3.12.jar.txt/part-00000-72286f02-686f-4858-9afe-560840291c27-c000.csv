@@ -1,0 +1,5 @@
+org/apache/poi/POIXMLDocumentPart/read(org.apache.poi.POIXMLFactory,java.util.Map)@g_poi-ooxml-3.8.jar.txt	2
+org/apache/poi/POIXMLDocumentPart/read(org.apache.poi.POIXMLFactory,java.util.Map)@g_poi-ooxml-3.11.jar.txt	0
+org/apache/poi/openxml4j/opc/PackagingURIHelper/relativizeURI(java.net.URI,java.net.URI,boolean)@g_poi-ooxml-3.8.jar.txt	3
+org/apache/poi/openxml4j/opc/PackagingURIHelper/relativizeURI(java.net.URI,java.net.URI,boolean)@g_poi-ooxml-3.11.jar.txt	1
+org/apache/poi/xwpf/usermodel/XWPFRun/getCTPictures(org.apache.xmlbeans.XmlObject)@g_poi-ooxml-3.11.jar.txt	4

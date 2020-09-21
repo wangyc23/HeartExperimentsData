@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v2_0/executionplan/builders/IndexLookupBuilder/apply(org.neo4j.cypher.internal.compiler.v2_0.executionplan.ExecutionPlanInProgress,org.neo4j.cypher.internal.compiler.v2_0.spi.PlanContext)@g_neo4j-cypher-compiler-2.0-2.0.3.jar.txt	4
+org/neo4j/cypher/internal/compiler/v2_0/executionplan/builders/TraversalMatcherBuilder/apply(org.neo4j.cypher.internal.compiler.v2_0.executionplan.ExecutionPlanInProgress,org.neo4j.cypher.internal.compiler.v2_0.spi.PlanContext)@g_neo4j-cypher-compiler-2.0-2.0.3.jar.txt	2
+org/neo4j/cypher/internal/compiler/v2_0/executionplan/builders/TrailBuilder/anonfun/4/apply(scala.Tuple2)@g_neo4j-cypher-compiler-2.0-2.0.3.jar.txt	3
+org/neo4j/cypher/internal/compiler/v2_0/executionplan/builders/MergeStartPointBuilder/anonfun/3/apply(scala.Tuple2)@g_neo4j-cypher-compiler-2.0-2.0.1.jar.txt	1
+org/neo4j/cypher/internal/compiler/v2_0/executionplan/builders/MergeStartPointBuilder/anonfun/3/apply(scala.Tuple2)@g_neo4j-cypher-compiler-2.0-2.0.3.jar.txt	0

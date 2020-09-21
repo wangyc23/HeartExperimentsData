@@ -1,0 +1,4 @@
+java/lang/Class/getSimpleName()
+org/dcm4che3/conf/api/generic/ReflectiveConfig/storeConfig(T,org.dcm4che3.conf.api.generic.ReflectiveConfig.ConfigWriter)
+java/util/prefs/Preferences/node(java.lang.String)
+org/dcm4che3/conf/prefs/generic/PrefsConfigWriter/PrefsConfigWriter(java.util.prefs.Preferences)

@@ -1,0 +1,5 @@
+com/tdunning/math/stats/ArrayDigest/quantile(double)@g_t-digest-3.0.jar.txt	3
+com/graphbuilder/curve/BinaryCurveApproximationAlgorithm/genPts(com.graphbuilder.curve.ParametricCurve,double,double,com.graphbuilder.curve.MultiPath)@g_curvesapi-1.03.jar.txt	0
+com/graphbuilder/math/ExpressionTree/build(java.lang.String,int)@g_curvesapi-1.03.jar.txt	4
+com/tdunning/math/stats/AVLTreeDigest/quantile(double)@g_t-digest-3.0.jar.txt	2
+com/tdunning/math/stats/TreeDigest/quantile(double)@g_t-digest-3.0.jar.txt	1

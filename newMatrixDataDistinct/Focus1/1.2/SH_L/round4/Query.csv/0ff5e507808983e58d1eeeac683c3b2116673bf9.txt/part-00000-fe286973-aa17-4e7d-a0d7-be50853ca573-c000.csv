@@ -1,0 +1,4 @@
+org/hoteia/qalingo/core/service/openid/Base64/InputStream/InputStream(java.io.InputStream,int)
+java/io/PrintStream/println(java.lang.String)
+java/lang/Math/max(int,int)
+org/hoteia/qalingo/core/service/openid/Base64/InputStream/read(byte[],int,int)

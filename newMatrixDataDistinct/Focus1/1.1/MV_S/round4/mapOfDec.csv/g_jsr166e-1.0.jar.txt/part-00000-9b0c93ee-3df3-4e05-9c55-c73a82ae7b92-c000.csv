@@ -1,0 +1,5 @@
+jsr166e/ConcurrentHashMapV8/SearchValuesTask/compute()@g_servo-internal-0.10.0.jar.txt	4
+io/netty/util/concurrent/DefaultThreadFactory/newThread(java.lang.Runnable)@g_servo-internal-0.10.0.jar.txt	1
+jsr166e/ConcurrentHashMapV8/compute(java.lang.Object,jsr166e.ConcurrentHashMapV8$BiFun)@g_servo-internal-0.10.0.jar.txt	2
+io/netty/util/Version/identify(java.lang.ClassLoader)@g_servo-internal-0.10.0.jar.txt	0
+io/netty/util/internal/chmv8/ForkJoinPool/<clinit>()@g_servo-internal-0.10.0.jar.txt	3

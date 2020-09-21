@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(char)
+java/lang/StringBuffer/length()
+java/util/ArrayList/size()
+java/util/ArrayList/set(int,java.lang.Object)

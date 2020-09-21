@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/lang/StringBuilder/append(java.lang.String)
+org/apache/cxf/service/model/EndpointInfo/getAddress()
+java/lang/String/equals(java.lang.Object)

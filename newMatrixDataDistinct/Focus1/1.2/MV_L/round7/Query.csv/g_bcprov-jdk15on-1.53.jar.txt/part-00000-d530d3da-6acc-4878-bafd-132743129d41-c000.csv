@@ -1,0 +1,4 @@
+org/bouncycastle/math/Primes$MROutput/access$100(java.math.BigInteger)
+java/math/BigInteger/shiftRight(int)
+java/math/BigInteger/compareTo(java.math.BigInteger)
+java/math/BigInteger/subtract(java.math.BigInteger)

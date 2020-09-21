@@ -1,0 +1,5 @@
+org/jboss/as/quickstarts/ejbinwar/controller/Greeter/setName(java.lang.String)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	4
+org/jboss/as/quickstarts/ejb_security_interceptors/SecuredEJB/getSecurityInformation()@229a59a387073da61f904ba2e9b2a2947c27c377.txt	0
+org/jboss/as/quickstarts/tasksrs/model/TaskDaoImpl/deleteTask(org.jboss.as.quickstarts.tasksrs.model.Task)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	2
+org/jboss/as/quickstarts/ejb_security_interceptors/SecurityActions/securityContextSetPrincipalInfo(java.security.Principal,org.jboss.as.quickstarts.ejb_security_interceptors.OuterUserCredential)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	3
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@229a59a387073da61f904ba2e9b2a2947c27c377.txt	1

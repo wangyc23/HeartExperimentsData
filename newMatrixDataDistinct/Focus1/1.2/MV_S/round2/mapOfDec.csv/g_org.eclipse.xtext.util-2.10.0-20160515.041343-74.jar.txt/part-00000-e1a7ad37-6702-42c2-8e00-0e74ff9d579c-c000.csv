@@ -1,0 +1,5 @@
+org/eclipse/xtext/util/formallang/StringCfg/toString()@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	4
+org/eclipse/xtext/util/formallang/StringProduction/lex(java.lang.String)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	0
+org/eclipse/xtext/util/formallang/NfaGraphFormatter/Node/getBranchLine()@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	3
+org/eclipse/xtext/util/internal/CodeGenUtil2/format(java.lang.String,char,java.lang.String,boolean,boolean)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	1
+org/eclipse/xtext/util/formallang/ProductionFormatter/format(org.eclipse.xtext.util.formallang.Production,java.lang.Object,java.lang.Iterable,java.lang.String,boolean,boolean)@g_org.eclipse.xtext.util-2.10.0-SNAPSHOT.jar.txt	2

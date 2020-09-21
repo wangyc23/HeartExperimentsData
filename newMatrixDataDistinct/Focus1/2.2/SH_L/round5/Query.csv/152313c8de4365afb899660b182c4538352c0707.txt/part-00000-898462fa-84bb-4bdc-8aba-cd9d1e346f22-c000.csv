@@ -1,0 +1,4 @@
+org/eclipse/jetty/util/component/AbstractLifeCycle/stop()
+java/lang/Throwable/printStackTrace()
+java/net/URI/URI(java.lang.String)
+org/eclipse/jetty/websocket/client/ClientUpgradeRequest/ClientUpgradeRequest()

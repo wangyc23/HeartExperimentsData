@@ -1,0 +1,5 @@
+org/apache/tools/ant/AntClassLoader/getResourceURL(java.io.File,java.lang.String)@g_ant-1.6.5.jar.txt	3
+org/apache/tools/ant/taskdefs/DependSet/execute()@g_ant-1.6.5.jar.txt	4
+org/apache/derby/impl/sql/compile/CreateAliasNode/init(java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object,java.lang.Object)@g_ant-1.6.5.jar.txt	1
+org/apache/derby/jdbc/ReferenceableDataSource/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_ant-1.6.5.jar.txt	0
+org/apache/tools/ant/taskdefs/SignJar/isSigned(java.io.File)@g_ant-1.6.5.jar.txt	2

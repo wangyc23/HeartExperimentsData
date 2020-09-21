@@ -1,0 +1,5 @@
+org/junit/runners/BlockJUnit4ClassRunner/validateRuleField(java.lang.reflect.Field,java.util.List)@g_powermock-reflect-1.5.1.jar.txt	0
+org/powermock/reflect/internal/TypeUtils/getDefaultValue(java.lang.String)@g_powermock-reflect-1.5.1.jar.txt	1
+org/apache/xbean/recipe/ReflectionUtil/findAllSetters(java.lang.Class,java.lang.String,java.lang.Object,java.util.Set)@g_powermock-reflect-1.5.1.jar.txt	4
+org/powermock/reflect/internal/WhiteboxImpl/newInstance(java.lang.Class)@g_powermock-reflect-1.5.1.jar.txt	2
+org/apache/xbean/recipe/ObjectRecipe/extractConstructorArgs(java.util.Map,org.apache.xbean.recipe.ReflectionUtil$Factory)@g_powermock-reflect-1.5.1.jar.txt	3

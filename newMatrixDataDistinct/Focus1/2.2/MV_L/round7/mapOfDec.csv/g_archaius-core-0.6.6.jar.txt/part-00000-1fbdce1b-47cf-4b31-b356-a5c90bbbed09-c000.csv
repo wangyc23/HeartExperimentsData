@@ -1,0 +1,5 @@
+com/netflix/config/sources/URLConfigurationSource/poll(boolean,java.lang.Object)@g_archaius-core-0.6.5.jar.txt	2
+com/netflix/config/DefaultContextualPredicate/apply(java.util.Map)@g_archaius-core-0.6.5.jar.txt	4
+com/netflix/config/AbstractPollingScheduler/populateProperties(com.netflix.config.PollResult,org.apache.commons.configuration.Configuration)@g_archaius-core-0.6.5.jar.txt	0
+com/netflix/config/DynamicPropertyUpdater/updateProperties(com.netflix.config.WatchedUpdateResult,org.apache.commons.configuration.Configuration,boolean)@g_archaius-core-0.6.5.jar.txt	3
+com/netflix/config/AbstractPollingScheduler/populateProperties(com.netflix.config.PollResult,org.apache.commons.configuration.Configuration)@g_archaius-core-0.7.1.jar.txt	1

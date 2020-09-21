@@ -1,0 +1,4 @@
+0	org/openqa/selenium/By/xpath(java.lang.String)
+1	org/openqa/selenium/By/id(java.lang.String)
+2	java/net/URL/toExternalForm()
+3	org/openqa/selenium/WebElement/click()

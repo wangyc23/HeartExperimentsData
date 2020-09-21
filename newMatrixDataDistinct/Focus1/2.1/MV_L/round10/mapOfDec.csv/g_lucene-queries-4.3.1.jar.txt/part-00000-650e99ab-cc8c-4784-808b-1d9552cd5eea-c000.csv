@@ -1,0 +1,5 @@
+org/apache/lucene/queries/CustomScoreQuery/CustomWeight/doExplain(org.apache.lucene.index.AtomicReaderContext,int)@g_lucene-queries-4.2.1.jar.txt	3
+org/apache/lucene/queries/TermsFilter/getDocIdSet(org.apache.lucene.index.AtomicReaderContext,org.apache.lucene.util.Bits)@g_lucene-queries-4.5.0.jar.txt	1
+org/apache/lucene/queries/TermsFilter/getDocIdSet(org.apache.lucene.index.AtomicReaderContext,org.apache.lucene.util.Bits)@g_lucene-queries-4.2.1.jar.txt	0
+org/apache/lucene/queries/CommonTermsQuery/toString(java.lang.String)@g_lucene-queries-4.2.1.jar.txt	4
+org/apache/lucene/queries/function/BoostedQuery/CustomScorer/explain(int)@g_lucene-queries-4.2.1.jar.txt	2

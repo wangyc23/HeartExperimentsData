@@ -1,0 +1,5 @@
+com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector/findAnnotation(java.lang.Class,com.fasterxml.jackson.databind.introspect.Annotated,boolean,boolean,boolean)@g_jackson-module-jaxb-annotations-2.6.3.jar.txt	2
+com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector/findSubtypes(com.fasterxml.jackson.databind.introspect.Annotated)@g_jackson-module-jaxb-annotations-2.6.3.jar.txt	1
+org/codehaus/jackson/xc/JaxbAnnotationIntrospector/findJaxbPropertyName(org.codehaus.jackson.map.introspect.Annotated,java.lang.Class,java.lang.String)@g_jackson-module-jaxb-annotations-2.6.3.jar.txt	0
+com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector/findEnumValue(java.lang.Enum)@g_jackson-module-jaxb-annotations-2.6.3.jar.txt	4
+com/fasterxml/jackson/module/jaxb/JaxbAnnotationIntrospector/findObjectIdInfo(com.fasterxml.jackson.databind.introspect.Annotated)@g_jackson-module-jaxb-annotations-2.6.3.jar.txt	3

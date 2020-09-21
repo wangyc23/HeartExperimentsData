@@ -1,0 +1,5 @@
+test/xsv/CSVRE/main(java.lang.String[])@1c50912f1039a2f629c549d23e852666647eb2d3.txt	3
+org/deeplearning4j/ui/flow/FlowIterationListenerTest/setUp()@1c50912f1039a2f629c549d23e852666647eb2d3.txt	1
+net/miladinov/containers/CollectionDataGeneration/main(java.lang.String[])@1c50912f1039a2f629c549d23e852666647eb2d3.txt	0
+net/miladinov/generics/Mixin/getSerialNumber()@1c50912f1039a2f629c549d23e852666647eb2d3.txt	4
+org/deeplearning4j/nn/weights/WeightInitUtil/initWeights(int,int,org.deeplearning4j.nn.weights.WeightInit,org.deeplearning4j.nn.params.Distribution)@1c50912f1039a2f629c549d23e852666647eb2d3.txt	2

@@ -1,0 +1,5 @@
+org/unbescape/css/CssIdentifierEscapeUtil/escape(java.lang.String,org.unbescape.css.CssIdentifierEscapeType,org.unbescape.css.CssIdentifierEscapeLevel)@g_xmlenc-0.52.jar.txt	4
+org/znerd/xmlenc/XMLOutputter/dtd(java.lang.String,java.lang.String,java.lang.String)@g_xmlenc-0.52.jar.txt	1
+org/unbescape/javascript/JavaScriptEscapeUtil/escape(char[],int,int,java.io.Writer,org.unbescape.javascript.JavaScriptEscapeType,org.unbescape.javascript.JavaScriptEscapeLevel)@g_xmlenc-0.52.jar.txt	2
+org/znerd/xmlenc/XMLOutputter/startTag(java.lang.String)@g_xmlenc-0.52.jar.txt	0
+org/openrdf/rio/turtle/TurtleWriter/handleStatement(org.openrdf.model.Statement)@g_xmlenc-0.52.jar.txt	3

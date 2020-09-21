@@ -1,0 +1,4 @@
+org/eclipse/jetty/server/Request/isAsyncSupported()
+org/eclipse/jetty/servlet/ServletHandler/nextHandle(java.lang.String,org.eclipse.jetty.server.Request,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+java/lang/StringBuilder/append(int)

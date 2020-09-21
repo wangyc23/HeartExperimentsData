@@ -1,0 +1,5 @@
+org/antlr/runtime/SerializedGrammar/readFile(java.io.DataInputStream)@g_antlr-runtime-3.3.jar.txt	0
+org/antlr/runtime/debug/Profiler/enterDecision(int,boolean)@g_antlr-runtime-3.3.jar.txt	2
+org/antlr/runtime/SerializedGrammar/readFile(java.io.DataInputStream)@g_antlr-runtime-3.4.jar.txt	1
+org/antlr/runtime/misc/Stats/writeReport(java.lang.String,java.lang.String)@g_antlr-runtime-3.3.jar.txt	4
+org/antlr/runtime/tree/BufferedTreeNodeStream/toString(java.lang.Object,java.lang.Object)@g_antlr-runtime-3.3.jar.txt	3

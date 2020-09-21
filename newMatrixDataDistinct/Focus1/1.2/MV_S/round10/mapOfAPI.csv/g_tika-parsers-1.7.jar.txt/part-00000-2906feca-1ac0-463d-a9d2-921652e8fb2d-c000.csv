@@ -1,0 +1,4 @@
+0	org/apache/poi/openxml4j/opc/PackagePart/getContentType()
+1	org/apache/poi/openxml4j/opc/PackagePart/getPartName()
+2	org/apache/tika/sax/EmbeddedContentHandler/EmbeddedContentHandler(org.xml.sax.ContentHandler)
+3	org/apache/tika/extractor/EmbeddedDocumentExtractor/shouldParseEmbedded(org.apache.tika.metadata.Metadata)

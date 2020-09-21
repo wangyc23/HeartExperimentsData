@@ -1,0 +1,4 @@
+java/lang/String/toLowerCase()
+java/lang/StringBuffer/append(java.lang.Object)
+java/lang/Throwable/getMessage()
+java/text/DateFormat/parse(java.lang.String)

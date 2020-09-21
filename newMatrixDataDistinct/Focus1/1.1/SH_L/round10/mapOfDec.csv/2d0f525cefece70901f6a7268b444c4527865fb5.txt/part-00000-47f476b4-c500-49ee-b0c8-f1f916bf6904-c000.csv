@@ -1,0 +1,5 @@
+com/backend/collab/SessionManager/shareGroupFile(org.eclipse.jetty.websocket.api.Session,com.google.gson.JsonObject)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	1
+utils/offline/RemoteDataBaseBuilder/run(java.io.OutputStreamWriter)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	3
+tables/UserInfoDAO/UserInfoMapper/mapRow(java.sql.ResultSet,int)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	2
+tables/GroupDAO/create(java.lang.String,java.lang.String,java.lang.String,java.lang.String,int)@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	0
+ch/eitchnet/csvrestendpoint/components/CsvDataHandler/getCsvDataDir()@02e05415d6ba545a7a9a34752ce95df43b2b8636.txt	4

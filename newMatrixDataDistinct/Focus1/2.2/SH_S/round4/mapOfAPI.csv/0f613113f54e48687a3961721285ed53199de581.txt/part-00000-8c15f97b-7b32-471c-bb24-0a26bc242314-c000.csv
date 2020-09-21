@@ -1,0 +1,4 @@
+0	com/joanzapata/android/BaseAdapterHelper/setAssociatedObject(java.lang.Object)
+1	com/joanzapata/android/BaseQuickAdapter/getItem(int)
+2	com/joanzapata/android/BaseQuickAdapter/getItemViewType(int)
+3	com/joanzapata/android/BaseQuickAdapter/getAdapterHelper(int,com.joanzapata.android.View,com.joanzapata.android.ViewGroup)

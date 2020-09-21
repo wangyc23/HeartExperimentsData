@@ -1,0 +1,5 @@
+org/commoncrawl/examples/mapreduce/WordCounterMap/WordCountMapper/map(org.apache.hadoop.io.Text,org.archive.io.ArchiveReader,org.apache.hadoop.mapreduce.Mapper.Context)@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	4
+org/linkeddata/triplegeo/rest/FileUpload/uploadFiles(org.linkeddata.triplegeo.rest.HttpServletRequest,org.linkeddata.triplegeo.rest.ServletContext)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	1
+org/commoncrawl/examples/mapreduce/TagCounterMap/TagCounterMapper/map(org.apache.hadoop.io.Text,org.archive.io.ArchiveReader,org.apache.hadoop.mapreduce.Mapper.Context)@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	3
+org/commoncrawl/examples/mapreduce/ServerTypeMap/ServerMapper/map(org.apache.hadoop.io.Text,org.archive.io.ArchiveReader,org.apache.hadoop.mapreduce.Mapper.Context)@188f1cac3cc1e0de00f1a82a512d9199ad69cf48.txt	2
+org/linkeddata/triplegeo/rest/TripleGeoService/run(org.linkeddata.triplegeo.Configuration)@2116a4c4e3572fa85fe18c2bcf1fd1823128be22.txt	0

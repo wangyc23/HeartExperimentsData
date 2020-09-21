@@ -1,0 +1,5 @@
+edu/stanford/nlp/util/CollectionValuedMap/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/trees/SemanticHeadFinder/isExistential(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/sequences/SeqClassifierFlags/getNotNullTrueStringRep()@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/trees/UniversalSemanticHeadFinder/isExistential(edu.stanford.nlp.trees.Tree,edu.stanford.nlp.trees.Tree)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/trees/EnglishGrammaticalStructure/collapsePrepAndPoss(java.util.Collection)@g_stanford-parser-3.5.2.jar.txt	1

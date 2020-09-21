@@ -1,0 +1,5 @@
+com/google/common/cache/CustomConcurrentHashMap/Segment/put(java.lang.Object,int,java.lang.Object,boolean)@g_guava-10.0.1.jar.txt	3
+com/google/common/collect/CustomConcurrentHashMap/Segment/reclaimValue(java.lang.Object,int,com.google.common.collect.CustomConcurrentHashMap$ValueReference)@g_guava-10.0.1.jar.txt	2
+com/google/common/collect/ImmutableSortedMap/validateEntries(java.util.List,java.util.Comparator)@g_guava-10.0.1.jar.txt	0
+com/google/common/collect/ImmutableSortedMap/validateEntries(java.util.List,java.util.Comparator)@g_guava-r08.jar.txt	1
+com/google/common/collect/CustomConcurrentHashMap/Segment/reclaimValue(com.google.common.collect.CustomConcurrentHashMap$ReferenceEntry,int)@g_guava-10.0.1.jar.txt	4

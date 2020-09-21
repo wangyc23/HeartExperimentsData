@@ -1,0 +1,5 @@
+org/joda/time/format/DateTimeParserBucket/computeMillis(boolean,java.lang.String)@g_joda-time-2.1.jar.txt	1
+org/joda/time/convert/StringConverter/setInto(org.joda.time.ReadWritableInterval,java.lang.Object,org.joda.time.Chronology)@g_joda-time-2.1.jar.txt	0
+org/joda/time/tz/DateTimeZoneBuilder/PrecalculatedZone/create(java.lang.String,boolean,java.util.ArrayList,org.joda.time.tz.DateTimeZoneBuilder$DSTZone)@g_joda-time-2.1.jar.txt	4
+org/joda/time/format/ISODateTimeFormat/forFields(java.util.Collection,boolean,boolean)@g_joda-time-2.1.jar.txt	2
+org/joda/time/format/DateTimeFormat/parsePatternTo(org.joda.time.format.DateTimeFormatterBuilder,java.lang.String)@g_joda-time-2.1.jar.txt	3

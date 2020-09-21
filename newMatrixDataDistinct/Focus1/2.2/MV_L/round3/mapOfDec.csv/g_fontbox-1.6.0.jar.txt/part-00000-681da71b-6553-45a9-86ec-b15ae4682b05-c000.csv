@@ -1,0 +1,5 @@
+org/apache/fontbox/cff/AFMFormatter/renderFont(org.apache.fontbox.cff.CFFFont)@g_fontbox-1.7.0.jar.txt	4
+org/apache/fontbox/cff/CFFFont/getWidth(int)@g_fontbox-1.8.1.jar.txt	3
+org/apache/fontbox/cff/CFFFont/getWidth(int)@g_fontbox-1.7.0.jar.txt	1
+org/apache/fontbox/cff/CFFFontROS/getWidth(int)@g_fontbox-1.8.1.jar.txt	2
+org/apache/fontbox/cff/CFFFontROS/getWidth(int)@g_fontbox-1.7.0.jar.txt	0

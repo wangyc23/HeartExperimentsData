@@ -1,0 +1,5 @@
+org/apache/aries/blueprint/container/AggregateConverterTest/testConvertProperties()@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	3
+org/apache/aries/ant/taskdefs/EsaTask/addNewManifest(org.apache.aries.ant.taskdefs.ZipOutputStream)@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	1
+org/apache/aries/samples/ariestrader/web/prims/PingSession3/doGet(org.apache.aries.samples.blog.web.HttpServletRequest,org.apache.aries.samples.blog.web.HttpServletResponse)@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	2
+org/apache/aries/jndi/ObjectFactoryTest/testURLReferenceWithMatchingHandler()@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	4
+org/apache/aries/samples/ariestrader/web/TradeScenarioServlet/performTask(org.apache.aries.samples.blog.web.HttpServletRequest,org.apache.aries.samples.blog.web.HttpServletResponse)@0970b59de8d3b1f75c1b400a7d6338ea12eb2096.txt	0

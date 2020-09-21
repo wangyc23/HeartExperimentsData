@@ -1,0 +1,4 @@
+org/neo4j/graphalgo/impl/path/ShortestPath$DirectionData/hasNext()
+org/neo4j/graphalgo/impl/path/ShortestPath$MutableInteger/access$700(org.neo4j.graphalgo.impl.path.ShortestPath$MutableInteger)
+org/neo4j/graphalgo/impl/path/ShortestPath$LevelData/access$500(org.neo4j.graphalgo.impl.path.ShortestPath$LevelData)
+java/util/Map/get(java.lang.Object)

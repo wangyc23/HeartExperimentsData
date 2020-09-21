@@ -1,0 +1,4 @@
+org/fusesource/fabric/api/CreateContainerMetadata/getFailure()
+org/fusesource/fabric/api/CreateContainerMetadata/isSuccess()
+org/fusesource/fabric/api/CreateContainerBasicOptions/Builder/build()
+org/fusesource/fabric/api/FabricException/FabricException(java.lang.String,java.lang.Throwable)

@@ -1,0 +1,5 @@
+org/apache/maven/lifecycle/internal/DefaultLifecyclePluginAnalyzer/getPluginsBoundByDefaultToAllLifecycles(java.lang.String)@g_maven-core-3.0.4.jar.txt	2
+org/apache/maven/lifecycle/internal/ConcurrentBuildLogger/toGraph()@g_maven-core-3.0.4.jar.txt	0
+org/apache/maven/toolchain/DefaultToolchainManagerPrivate/getToolchainsForType(java.lang.String,org.apache.maven.execution.MavenSession)@g_maven-core-3.0.4.jar.txt	1
+org/apache/maven/lifecycle/internal/LifecycleThreadedBuilder/multiThreadedProjectTaskSegmentBuild(org.apache.maven.lifecycle.internal.ConcurrencyDependencyGraph,org.apache.maven.lifecycle.internal.ReactorContext,org.apache.maven.execution.MavenSession,java.util.concurrent.CompletionService,org.apache.maven.lifecycle.internal.TaskSegment,java.util.Map,org.apache.maven.lifecycle.internal.ThreadOutputMuxer)@g_maven-core-3.0.4.jar.txt	4
+org/apache/maven/project/DefaultProjectDependenciesResolver/resolve(org.apache.maven.project.DependencyResolutionRequest)@g_maven-core-3.0.4.jar.txt	3

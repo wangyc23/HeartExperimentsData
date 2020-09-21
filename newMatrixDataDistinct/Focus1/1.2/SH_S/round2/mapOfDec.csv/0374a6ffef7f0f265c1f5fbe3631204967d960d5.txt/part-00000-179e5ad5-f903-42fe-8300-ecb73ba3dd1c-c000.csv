@@ -1,0 +1,5 @@
+org/objetdirect/wickext/core/commons/WickextPluginInstantiationListener/onInstantiation(org.apache.wicket.Component)@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	3
+org/objetdirect/wickext/core/events/WickextAjaxEventBehavior/onBind()@0fefe63f4934db1780ac1e4826ef27ec00084c6d.txt	1
+org/objetdirect/wickext/core/events/WickextAjaxEventBehavior/getCallbackScript()@0009e9fdb22927351904769bd8ef160dafeaf3ed.txt	4
+org/objetdirect/wickext/core/effects/WickextAjaxEffectBehavior/onBind()@0fefe63f4934db1780ac1e4826ef27ec00084c6d.txt	0
+org/objetdirect/wickext/core/events/WickextEventBehavior/bind(org.apache.wicket.Component)@0fefe63f4934db1780ac1e4826ef27ec00084c6d.txt	2

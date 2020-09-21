@@ -1,0 +1,5 @@
+io/netty/handler/codec/compression/SnappyFrameDecoder/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@g_netty-codec-4.1.7.Final.jar.txt	3
+io/netty/channel/epoll/AbstractEpollStreamChannel/EpollStreamUnsafe/1/run()@g_netty-transport-native-epoll-4.0.27.Final.jar.txt	2
+io/netty/channel/epoll/AbstractEpollStreamChannel/filterOutboundMessage(java.lang.Object)@g_netty-transport-native-epoll-4.0.27.Final.jar.txt	1
+io/netty/channel/epoll/EpollDatagramChannel/filterOutboundMessage(java.lang.Object)@g_netty-transport-native-epoll-4.0.27.Final.jar.txt	0
+io/netty/handler/codec/protobuf/ProtobufVarint32FrameDecoder/decode(io.netty.channel.ChannelHandlerContext,io.netty.buffer.ByteBuf,java.util.List)@g_netty-codec-4.1.7.Final.jar.txt	4

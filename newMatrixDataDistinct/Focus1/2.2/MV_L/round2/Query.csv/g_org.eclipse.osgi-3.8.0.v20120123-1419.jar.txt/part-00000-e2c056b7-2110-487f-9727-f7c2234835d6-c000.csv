@@ -1,0 +1,4 @@
+java/io/File/getParent()
+java/io/File/isDirectory()
+java/util/zip/ZipEntry/getName()
+java/io/File/exists()

@@ -1,0 +1,5 @@
+org/codehaus/plexus/archiver/bzip2/BZip2Compressor/compress()@g_plexus-archiver-2.0.jar.txt	1
+org/codehaus/plexus/archiver/jar/JarArchiver/createEmptyZip(java.io.File)@g_plexus-archiver-1.2.jar.txt	3
+org/codehaus/plexus/archiver/bzip2/BZip2Compressor/compress()@g_plexus-archiver-1.2.jar.txt	0
+org/codehaus/plexus/archiver/zip/AbstractZipUnArchiver/extractFile(java.io.File,java.io.File,java.io.InputStream,java.lang.String,java.util.Date,boolean,java.lang.Integer)@g_plexus-archiver-1.2.jar.txt	2
+org/codehaus/plexus/archiver/jar/Manifest/Attribute/write(java.io.PrintWriter)@g_plexus-archiver-1.2.jar.txt	4

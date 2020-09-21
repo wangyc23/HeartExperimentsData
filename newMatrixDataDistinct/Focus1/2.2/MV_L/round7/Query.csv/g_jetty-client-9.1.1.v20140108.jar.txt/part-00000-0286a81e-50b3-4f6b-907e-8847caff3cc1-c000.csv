@@ -1,0 +1,4 @@
+org/eclipse/jetty/client/Socks4Proxy$Socks4ProxyConnection/getEndPoint()
+java/nio/ByteBuffer/get(int)
+java/io/IOException/IOException(java.lang.String)
+org/eclipse/jetty/io/EndPoint/fill(java.nio.ByteBuffer)

@@ -1,0 +1,5 @@
+org/objectweb/asm/commons/Method/map(java.lang.String,boolean)@g_asm-commons-5.1.jar.txt	1
+org/objectweb/asm/commons/Method/getMethod(java.lang.String,boolean)@g_asm-commons-5.0.1.jar.txt	2
+org/objectweb/asm/commons/RemappingSignatureAdapter/visitInnerClassType(java.lang.String)@g_asm-commons-5.0.1.jar.txt	4
+org/objectweb/asm/commons/Method/getMethod(java.lang.String,boolean)@g_asm-commons-5.1.jar.txt	3
+org/objectweb/asm/commons/Method/map(java.lang.String,boolean)@g_asm-commons-5.0.1.jar.txt	0

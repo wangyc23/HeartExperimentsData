@@ -1,0 +1,4 @@
+java/lang/Class/getMethods()
+java/util/Set/size()
+java/lang/reflect/Method/getModifiers()
+java/lang/reflect/Method/getName()

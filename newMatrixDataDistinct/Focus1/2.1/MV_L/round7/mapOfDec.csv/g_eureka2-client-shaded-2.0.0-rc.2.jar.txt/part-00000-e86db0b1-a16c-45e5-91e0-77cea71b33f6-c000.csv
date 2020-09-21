@@ -1,0 +1,5 @@
+com/eureka2/shading/codehaus/jackson/map/util/StdDateFormat/parseAsISO8601(java.lang.String,java.text.ParsePosition)@g_rxnetty-0.4.6.jar.txt	3
+com/eureka2/shading/apache/avro/file/SnappyCodec/compress(java.nio.ByteBuffer)@g_rxnetty-0.4.6.jar.txt	0
+com/netflix/eureka2/transport/utils/AvroUtils/loadSchema(java.lang.String,java.lang.String)@g_rxnetty-0.4.6.jar.txt	1
+com/eureka2/shading/thoughtworks/paranamer/AnnotationParanamer/lookupParameterNames(java.lang.reflect.AccessibleObject,boolean)@g_rxnetty-0.4.6.jar.txt	4
+com/eureka2/shading/apache/avro/specific/SpecificData/getProtocol(java.lang.Class)@g_rxnetty-0.4.6.jar.txt	2

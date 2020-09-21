@@ -1,0 +1,5 @@
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-6.0.0.jar.txt	3
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/TermsWriter/write(org.apache.lucene.util.BytesRef,org.apache.lucene.index.TermsEnum)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/search/TermAutomatonQuery/createWeight(org.apache.lucene.search.IndexSearcher,boolean)@g_lucene-sandbox-6.0.0.jar.txt	4
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/addTerms(org.apache.lucene.index.IndexReader,org.apache.lucene.sandbox.queries.FuzzyLikeThisQuery$FieldVals,org.apache.lucene.sandbox.queries.FuzzyLikeThisQuery$ScoreTermQueue)@g_lucene-sandbox-6.0.0.jar.txt	0
+org/apache/lucene/document/InetAddressPoint/toString()@g_lucene-sandbox-6.0.0.jar.txt	2

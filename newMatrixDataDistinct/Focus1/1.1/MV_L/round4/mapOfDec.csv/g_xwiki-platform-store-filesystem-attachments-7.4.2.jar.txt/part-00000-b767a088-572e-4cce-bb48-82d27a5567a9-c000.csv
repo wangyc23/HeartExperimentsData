@@ -1,0 +1,5 @@
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentStore/saveAttachmentsContent(java.util.List,com.xpn.xwiki.doc.XWikiDocument,boolean,com.xpn.xwiki.XWikiContext,boolean)@g_xwiki-platform-store-filesystem-attachments-7.0.jar.txt	3
+org/xwiki/store/legacy/doc/internal/DeletedFilesystemAttachment/restoreAttachment(com.xpn.xwiki.doc.XWikiAttachment,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-store-filesystem-attachments-7.0.jar.txt	0
+org/xwiki/store/legacy/doc/internal/ListAttachmentArchive/fromRCS(org.suigeneris.jrcs.rcs.Archive)@g_xwiki-platform-store-filesystem-attachments-7.0.jar.txt	2
+org/xwiki/store/legacy/doc/internal/DeletedFilesystemAttachment/restoreAttachment(com.xpn.xwiki.doc.XWikiAttachment,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-store-filesystem-attachments-7.4.jar.txt	1
+org/xwiki/store/legacy/store/internal/FilesystemAttachmentRecycleBinStore/getDeletedAttachmentPurgeRunnable(org.xwiki.store.filesystem.internal.DeletedAttachmentFileProvider)@g_xwiki-platform-store-filesystem-attachments-7.0.jar.txt	4

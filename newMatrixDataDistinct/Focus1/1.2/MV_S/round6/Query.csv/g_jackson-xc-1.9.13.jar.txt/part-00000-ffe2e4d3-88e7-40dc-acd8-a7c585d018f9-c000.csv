@@ -1,0 +1,4 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/lang/Class/getSuperclass()
+org/codehaus/jackson/map/introspect/Annotated/getAnnotated()
+java/lang/StringBuilder/append(java.lang.String)

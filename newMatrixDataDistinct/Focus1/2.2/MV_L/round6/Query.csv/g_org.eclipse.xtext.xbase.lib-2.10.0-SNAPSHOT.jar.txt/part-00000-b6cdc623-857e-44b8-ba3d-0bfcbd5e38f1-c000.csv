@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/ArrayStoreException/ArrayStoreException(java.lang.String)
+java/lang/reflect/Array/newInstance(java.lang.Class,int)
+java/lang/IllegalArgumentException/getMessage()

@@ -1,0 +1,5 @@
+com/thoughtworks/xstream/mapper/AnnotationMapper/cacheConverter(com.thoughtworks.xstream.annotations.XStreamConverter,java.lang.Class)@g_xstream-1.4.4.jar.txt	4
+org/carrot2/util/attribute/constraint/ConstraintFactory/createImplementation(java.lang.annotation.Annotation)@g_attributes-binder-1.3.1.jar.txt	2
+com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter/createReverseEngineeredCallbackOfProperType(net.sf.cglib.proxy.Callback,int,java.util.Map)@g_xstream-1.4.4.jar.txt	3
+org/carrot2/util/attribute/AttributeDescriptor/prepareForSerialization()@g_attributes-binder-1.3.1.jar.txt	0
+org/carrot2/util/attribute/AttributeBinder/AttributeTransformerFromString/transform(java.lang.Object,java.lang.String,java.lang.reflect.Field)@g_attributes-binder-1.3.1.jar.txt	1

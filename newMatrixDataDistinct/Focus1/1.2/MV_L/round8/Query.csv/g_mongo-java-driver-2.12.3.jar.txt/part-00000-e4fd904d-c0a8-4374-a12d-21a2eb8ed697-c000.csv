@@ -1,0 +1,4 @@
+java/nio/ByteBuffer/get(int)
+java/nio/ByteBuffer/getInt(int)
+java/lang/Double/valueOf(double)
+java/lang/StringBuilder/append(int)

@@ -1,0 +1,4 @@
+org/springframework/beans/factory/BeanCreationException/getMostSpecificCause()
+org/springframework/util/ClassUtils/getShortName(java.lang.Class)
+org/springframework/util/ClassUtils/getDescriptiveType(java.lang.Object)
+org/apache/commons/logging/Log/isDebugEnabled()

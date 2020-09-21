@@ -1,0 +1,4 @@
+scala/runtime/BoxesRunTime/boxToInteger(int)
+scala/collection/mutable/StringBuilder/StringBuilder()
+org/parboiled/scala/Parser$class/nameNTimes(org.parboiled.scala.Parser,org.parboiled.scala.rules.Rule,int)
+org/parboiled/scala/Parser$$anonfun$nTimes$1/1(org.parboiled.scala.Parser)

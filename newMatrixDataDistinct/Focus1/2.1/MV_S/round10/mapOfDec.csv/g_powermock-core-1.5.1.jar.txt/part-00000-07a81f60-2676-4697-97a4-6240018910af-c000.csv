@@ -1,0 +1,5 @@
+ognl/ASTMethod/toSetSourceString(ognl.OgnlContext,java.lang.Object)@g_reflections-0.9.9-RC2.jar.txt	0
+org/reflections/util/ClasspathHelper/forResource(java.lang.String,java.lang.ClassLoader[])@g_reflections-0.9.9-RC2.jar.txt	2
+ognl/OgnlRuntime/callConstructor(ognl.OgnlContext,java.lang.String,java.lang.Object[])@g_reflections-0.9.9-RC2.jar.txt	4
+ognl/ArrayPropertyAccessor/getSourceSetter(ognl.OgnlContext,java.lang.Object,java.lang.Object)@g_reflections-0.9.9-RC2.jar.txt	1
+ognl/OgnlRuntime/findParameterTypes(java.lang.Class,java.lang.reflect.Method)@g_reflections-0.9.9-RC2.jar.txt	3

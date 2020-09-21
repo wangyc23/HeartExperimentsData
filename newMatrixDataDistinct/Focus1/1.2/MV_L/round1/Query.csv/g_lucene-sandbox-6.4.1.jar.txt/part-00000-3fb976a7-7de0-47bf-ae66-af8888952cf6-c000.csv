@@ -1,0 +1,4 @@
+org/apache/lucene/search/spans/Spans/nextDoc()
+java/util/Iterator/hasNext()
+org/apache/lucene/search/IndexSearcher/createNormalizedWeight(org.apache.lucene.search.Query,boolean)
+java/util/Collection/addAll(java.util.Collection)

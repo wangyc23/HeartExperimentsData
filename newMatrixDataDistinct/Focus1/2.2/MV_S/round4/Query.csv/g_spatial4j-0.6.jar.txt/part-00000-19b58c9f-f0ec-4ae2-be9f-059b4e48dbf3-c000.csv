@@ -1,0 +1,4 @@
+com/vividsolutions/jts/geom/Point/getCoordinateSequence()
+com/vividsolutions/jts/geom/LineString/getCoordinateSequence()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,5 @@
+org/bson/json/JsonWriter/doWriteDateTime(long)@g_bson-3.4.2.jar.txt	0
+com/mongodb/BaseCluster/getServer(com.mongodb.ServerSelector,long,java.util.concurrent.TimeUnit)@g_mongo-java-driver-2.12.3.jar.txt	3
+org/bson/json/JsonReader/readBsonType()@g_bson-3.4.2.jar.txt	1
+com/mongodb/util/StringParseUtil/parseStrict(java.lang.String)@g_mongo-java-driver-2.12.3.jar.txt	2
+com/mongodb/DBCollection/findAndModify(com.mongodb.DBObject,com.mongodb.DBObject,com.mongodb.DBObject,boolean,com.mongodb.DBObject,boolean,boolean,long,java.util.concurrent.TimeUnit)@g_mongo-java-driver-2.12.3.jar.txt	4

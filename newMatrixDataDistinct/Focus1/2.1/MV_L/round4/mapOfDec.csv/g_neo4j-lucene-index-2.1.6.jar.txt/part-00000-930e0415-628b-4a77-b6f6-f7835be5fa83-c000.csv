@@ -1,0 +1,5 @@
+org/neo4j/kernel/api/impl/index/DirectoryFactory/InMemoryDirectoryFactory/dumpToZip(java.util.zip.ZipOutputStream,byte[])@g_neo4j-lucene-index-2.1.7.jar.txt	2
+org/neo4j/index/impl/lucene/DumpLogicalLog/main(java.lang.String[])@g_neo4j-lucene-index-2.1.7.jar.txt	3
+org/neo4j/index/impl/lucene/LuceneDataSource/listStoreFiles(boolean)@g_neo4j-lucene-index-2.1.7.jar.txt	4
+org/neo4j/index/impl/lucene/FullTxData/injectOrphans(org.apache.lucene.search.Query)@g_neo4j-lucene-index-2.1.7.jar.txt	1
+org/neo4j/index/impl/lucene/LuceneBatchInserterIndex/add(long,java.util.Map)@g_neo4j-lucene-index-2.1.7.jar.txt	0

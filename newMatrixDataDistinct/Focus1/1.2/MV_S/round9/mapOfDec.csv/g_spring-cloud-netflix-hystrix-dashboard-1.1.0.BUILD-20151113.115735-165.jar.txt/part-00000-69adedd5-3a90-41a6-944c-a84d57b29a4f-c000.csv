@@ -1,0 +1,5 @@
+com/amazonaws/util/AWSRequestMetricsFullSupport/log()@g_aws-java-sdk-core-1.9.3.jar.txt	2
+com/amazonaws/auth/profile/internal/ProfilesConfigFileLoader/loadProfiles(java.io.InputStream)@g_aws-java-sdk-core-1.9.3.jar.txt	1
+org/springframework/cloud/netflix/hystrix/dashboard/HystrixDashboardConfiguration/ProxyStreamServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-cloud-netflix-hystrix-dashboard-1.1.0.BUILD-SNAPSHOT.jar.txt	0
+com/amazonaws/util/json/JSONObject/toString()@g_aws-java-sdk-core-1.9.3.jar.txt	3
+com/amazonaws/auth/AWS4Signer/getCanonicalizedHeaderString(com.amazonaws.Request)@g_aws-java-sdk-core-1.9.3.jar.txt	4

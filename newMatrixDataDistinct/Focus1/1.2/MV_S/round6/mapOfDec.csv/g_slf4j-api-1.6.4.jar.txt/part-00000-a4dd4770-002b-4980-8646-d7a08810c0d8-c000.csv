@@ -1,0 +1,5 @@
+org/apache/ivy/util/ConfigurationUtils/replaceWildcards(java.lang.String[],org.apache.ivy.core.module.descriptor.ModuleDescriptor)@g_ivy-2.3.0.jar.txt	3
+org/apache/ivy/plugins/resolver/AbstractPatternsBasedResolver/resolveTokenValues(java.lang.String[],java.lang.String,java.util.Map,boolean)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/core/module/descriptor/DefaultDependencyDescriptor/getDependencyConfigurations(java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	2
+org/apache/ivy/core/search/SearchEngine/listModules(org.apache.ivy.plugins.resolver.DependencyResolver,org.apache.ivy.core.module.id.ModuleRevisionId,org.apache.ivy.plugins.matcher.PatternMatcher)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/core/resolve/IvyNode/getArtifacts(java.lang.String)@g_ivy-2.3.0.jar.txt	4

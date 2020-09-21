@@ -1,0 +1,5 @@
+org/apache/poi/hssf/record/RecordFactory/recordsToMap(java.lang.Class[])@g_poi-3.8-beta4.jar.txt	4
+org/apache/poi/ddf/EscherPictBlip/toString()@g_poi-3.9.jar.txt	0
+org/apache/poi/hssf/util/HSSFColor/createColorsByHexStringMap()@g_poi-3.8-beta4.jar.txt	3
+org/apache/poi/ddf/EscherPictBlip/toString()@g_poi-3.8-beta4.jar.txt	1
+org/apache/poi/ddf/EscherPictBlip/toXml(java.lang.String)@g_poi-3.9.jar.txt	2

@@ -1,0 +1,5 @@
+com/netflix/governator/lifecycle/GovernatorFileArchive/toFile(java.net.URL)@g_governator-1.2.10.jar.txt	0
+com/netflix/governator/guice/serviceloader/ServiceLoaderModule/ServiceBinderImpl/configure()@g_governator-1.2.10.jar.txt	3
+com/netflix/governator/guice/concurrent/ConcurrentProviders/1/create()@g_governator-1.2.10.jar.txt	1
+org/sonatype/guice/bean/scanners/QualifierCache/qualify(org.sonatype.guice.bean.reflect.ClassSpace,java.lang.String)@g_governator-1.2.10.jar.txt	2
+com/netflix/governator/lifecycle/LifecycleManager/internalValidateObject(com.netflix.governator.lifecycle.ValidationException,java.lang.Object,javax.validation.Validator)@g_governator-1.2.10.jar.txt	4

@@ -1,0 +1,5 @@
+ch/fhnw/cbr/model/CCOntClass/loadCCObjectProperties()@g_cbr-core-1.0.1.jar.txt	1
+org/topbraid/spin/util/LocalRangeAtClassNativeFunction/instanceOfHelper(java.util.Collection,com.hp.hpl.jena.graph.Node,com.hp.hpl.jena.graph.Graph,java.util.Set)@g_cbr-core-1.0.1.jar.txt	4
+org/topbraid/spin/arq/ARQ2SPIN/getFunction(com.hp.hpl.jena.sparql.expr.ExprFunction)@g_cbr-core-1.0.1.jar.txt	3
+ch/fhnw/cbr/model/CCTaxonomyOntClass/loadCCTaxonomyClassesAndInstances()@g_cbr-core-1.0.1.jar.txt	0
+ch/fhnw/cbr/model/CCOntClass/loadCCLiteralProperties()@g_cbr-core-1.0.1.jar.txt	2

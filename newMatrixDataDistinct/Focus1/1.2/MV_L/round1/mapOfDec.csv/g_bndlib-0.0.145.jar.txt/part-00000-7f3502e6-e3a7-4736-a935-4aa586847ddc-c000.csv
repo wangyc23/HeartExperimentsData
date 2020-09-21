@@ -1,0 +1,5 @@
+org/osgi/framework/ServicePermission/Properties/entrySet()@g_org.eclipse.osgi-3.8.0.v20120123-1419.jar.txt	1
+org/eclipse/osgi/internal/composite/CompositeHelper/getCompositeManifest(java.util.Map)@g_org.eclipse.osgi-3.7.1.jar.txt	4
+org/eclipse/osgi/internal/resolver/StateBuilder/convertValue(java.lang.String,java.lang.String)@g_org.eclipse.osgi-3.7.1.jar.txt	2
+org/eclipse/osgi/internal/serviceregistry/ServiceRegistry/publishServiceEventPrivileged(org.osgi.framework.ServiceEvent)@g_org.eclipse.osgi-3.7.1.jar.txt	3
+org/osgi/framework/ServicePermission/Properties/entrySet()@g_org.eclipse.osgi-3.7.1.jar.txt	0

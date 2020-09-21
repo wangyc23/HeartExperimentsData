@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/client/cli/LogsCLI/run(java.lang.String[])@g_hadoop-yarn-client-2.6.5.jar.txt	2
+org/apache/hadoop/ipc/proto/GenericRefreshProtocolProtos/GenericRefreshResponseProto/hashCode()@g_hadoop-yarn-client-2.6.5.jar.txt	3
+org/apache/hadoop/conf/Configuration/getPasswordFromCredentialProviders(java.lang.String)@g_hadoop-yarn-client-2.6.5.jar.txt	4
+org/apache/hadoop/yarn/client/api/impl/AMRMClientImpl/resolveRacks(java.util.List)@g_hadoop-yarn-client-2.6.5.jar.txt	0
+org/apache/hadoop/ipc/Client/Connection/setupConnection()@g_hadoop-yarn-client-2.6.5.jar.txt	1

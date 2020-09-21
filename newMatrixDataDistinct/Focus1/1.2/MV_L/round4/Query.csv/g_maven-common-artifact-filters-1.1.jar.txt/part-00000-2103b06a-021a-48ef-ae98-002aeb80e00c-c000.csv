@@ -1,0 +1,4 @@
+java/lang/StringBuffer/append(java.lang.Object)
+org/apache/maven/artifact/Artifact/getDependencyConflictId()
+org/apache/maven/artifact/Artifact/getId()
+org/apache/maven/artifact/Artifact/getScope()

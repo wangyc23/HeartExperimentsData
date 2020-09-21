@@ -1,0 +1,5 @@
+org/springframework/test/context/support/AnnotationConfigContextLoaderUtils/detectDefaultConfigurationClasses(java.lang.Class)@g_spring-test-4.0.9.RELEASE.jar.txt	0
+org/springframework/test/context/support/AbstractContextLoader/generateDefaultLocations(java.lang.Class)@g_spring-test-4.0.9.RELEASE.jar.txt	2
+org/springframework/test/context/ContextLoaderUtils/resolveActiveProfiles(java.lang.Class)@g_spring-test-4.0.9.RELEASE.jar.txt	1
+org/springframework/test/util/ReflectionTestUtils/setField(java.lang.Object,java.lang.String,java.lang.Object,java.lang.Class)@g_spring-test-4.0.9.RELEASE.jar.txt	4
+org/springframework/test/context/ContextLoaderUtils/resolveContextHierarchyAttributes(java.lang.Class)@g_spring-test-4.0.9.RELEASE.jar.txt	3

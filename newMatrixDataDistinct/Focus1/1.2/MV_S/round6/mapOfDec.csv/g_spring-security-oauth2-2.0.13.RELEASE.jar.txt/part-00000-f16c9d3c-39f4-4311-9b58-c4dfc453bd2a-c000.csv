@@ -1,0 +1,5 @@
+org/springframework/integration/config/annotation/MessagingAnnotationPostProcessor/1/doWith(java.lang.reflect.Method)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	4
+org/springframework/integration/config/IntegrationEvaluationContextFactoryBean/getObject()@g_spring-integration-core-4.0.6.RELEASE.jar.txt	1
+org/springframework/integration/transformer/HeaderEnricher/transform(org.springframework.messaging.Message)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	2
+org/springframework/integration/channel/DefaultHeaderChannelRegistry/run()@g_spring-integration-core-4.0.6.RELEASE.jar.txt	3
+org/springframework/integration/gateway/GatewayMethodInboundMessageMapper/evaluateHeaders(org.springframework.expression.EvaluationContext,java.util.Map)@g_spring-integration-core-4.0.6.RELEASE.jar.txt	0

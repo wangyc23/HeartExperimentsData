@@ -1,0 +1,5 @@
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/Commandline/getArguments(boolean)@g_maven-surefire-common-2.18.1.jar.txt	4
+org/apache/maven/plugin/surefire/report/DefaultReporterFactory/printTestFailures(org.apache.maven.surefire.report.DefaultDirectConsoleReporter,org.apache.maven.plugin.surefire.report.DefaultReporterFactory$TestResultType)@g_maven-surefire-common-2.18.1.jar.txt	0
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/io/FileUtils/copyFile(java.io.File,java.io.File)@g_maven-surefire-common-2.18.1.jar.txt	2
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/cli/CommandLineUtils/1/call()@g_maven-surefire-common-2.18.1.jar.txt	1
+org/apache/maven/plugin/surefire/booterclient/ForkConfiguration/createCommandLine(java.util.List,boolean,boolean,java.lang.String,int)@g_maven-surefire-common-2.18.1.jar.txt	3

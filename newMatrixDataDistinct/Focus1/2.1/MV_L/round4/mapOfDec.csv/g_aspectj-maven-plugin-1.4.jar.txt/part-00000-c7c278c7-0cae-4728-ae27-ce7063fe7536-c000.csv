@@ -1,0 +1,5 @@
+org/apache/maven/plugin/war/packaging/OverlayPackagingTask/unpackOverlay(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.plugin.war.Overlay)@g_maven-war-plugin-2.1.1.jar.txt	0
+org/apache/maven/plugin/dependency/analyze/AnalyzeReportView/generateReport(org.apache.maven.shared.dependency.analyzer.ProjectDependencyAnalysis,org.apache.maven.doxia.sink.Sink,java.util.ResourceBundle)@g_maven-war-plugin-2.1.1.jar.txt	1
+org/apache/maven/plugin/dependency/utils/resolvers/DefaultArtifactsResolver/resolve(java.util.Set,org.apache.maven.plugin.logging.Log)@g_maven-war-plugin-2.1.1.jar.txt	4
+org/apache/maven/plugin/war/util/WarUtils/isRelated(org.apache.maven.artifact.Artifact,org.apache.maven.model.Dependency)@g_maven-war-plugin-2.1.1.jar.txt	3
+org/apache/maven/plugin/war/packaging/DependenciesAnalysisPackagingTask/removeDependency(org.apache.maven.plugin.war.packaging.WarPackagingContext,org.apache.maven.model.Dependency)@g_maven-war-plugin-2.1.1.jar.txt	2

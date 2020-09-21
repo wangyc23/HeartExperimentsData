@@ -1,0 +1,4 @@
+java/util/Date/toString()
+dk/statsbiblioteket/scape/arcunpacker/ArcRecord/getHttpReturnCode()
+dk/statsbiblioteket/scape/arcunpacker/ArcRecord/getLength()
+java/lang/String/indexOf(java.lang.String)

@@ -1,0 +1,4 @@
+javax/swing/JFrame/setLocation(int,int)
+javax/swing/JFrame/setDefaultCloseOperation(int)
+javax/swing/JFrame/setVisible(boolean)
+javax/swing/JPanel/setLayout(java.awt.LayoutManager)

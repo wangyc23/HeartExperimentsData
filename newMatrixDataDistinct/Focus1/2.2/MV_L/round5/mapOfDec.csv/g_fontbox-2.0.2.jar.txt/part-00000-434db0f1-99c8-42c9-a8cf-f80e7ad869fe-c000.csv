@@ -1,0 +1,5 @@
+org/apache/fontbox/ttf/GlyphRenderer/quadTo(java.awt.geom.GeneralPath,org.apache.fontbox.ttf.GlyphRenderer$Point,org.apache.fontbox.ttf.GlyphRenderer$Point)@g_fontbox-2.0.7.jar.txt	0
+org/apache/fontbox/ttf/GlyphRenderer/lineTo(java.awt.geom.GeneralPath,org.apache.fontbox.ttf.GlyphRenderer$Point)@g_fontbox-2.0.7.jar.txt	2
+org/apache/fontbox/ttf/GlyphRenderer/moveTo(java.awt.geom.GeneralPath,org.apache.fontbox.ttf.GlyphRenderer$Point)@g_fontbox-2.0.8.jar.txt	4
+org/apache/fontbox/ttf/GlyphRenderer/quadTo(java.awt.geom.GeneralPath,org.apache.fontbox.ttf.GlyphRenderer$Point,org.apache.fontbox.ttf.GlyphRenderer$Point)@g_fontbox-2.0.8.jar.txt	3
+org/apache/fontbox/ttf/GlyphRenderer/moveTo(java.awt.geom.GeneralPath,org.apache.fontbox.ttf.GlyphRenderer$Point)@g_fontbox-2.0.7.jar.txt	1

@@ -1,0 +1,5 @@
+com/sun/jna/Structure/deriveLayout(boolean,boolean)@g_jna-4.2.2.jar.txt	3
+com/sun/jna/WeakIdentityHashMap/entrySet()@g_jna-4.2.2.jar.txt	2
+com/sun/jna/Structure/read()@g_jna-4.2.2.jar.txt	1
+com/sun/jna/Structure/initializeFields()@g_jna-4.2.2.jar.txt	4
+com/sun/jna/NativeLibrary/matchLibrary(java.lang.String,java.util.List)@g_jna-4.2.2.jar.txt	0

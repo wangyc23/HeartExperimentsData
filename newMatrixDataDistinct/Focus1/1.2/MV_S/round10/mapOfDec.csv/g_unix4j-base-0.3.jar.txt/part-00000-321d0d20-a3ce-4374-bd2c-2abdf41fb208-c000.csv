@@ -1,0 +1,5 @@
+org/apache/maven/it/Verifier/getMavenVersion()@g_maven-verifier-1.2.jar.txt	4
+org/apache/maven/it/util/ResourceExtractor/extractResourcePathFromJar(java.lang.Class,java.io.File,java.lang.String,java.io.File)@g_maven-verifier-1.2.jar.txt	1
+org/apache/maven/it/util/FileUtils/copyDirectoryStructure(java.io.File,java.io.File,java.io.File,boolean)@g_maven-verifier-1.2.jar.txt	3
+org/apache/maven/it/util/StringUtils/mid(java.lang.String,int,int)@g_maven-verifier-1.2.jar.txt	2
+org/apache/maven/it/Verifier/main(java.lang.String[])@g_maven-verifier-1.2.jar.txt	0

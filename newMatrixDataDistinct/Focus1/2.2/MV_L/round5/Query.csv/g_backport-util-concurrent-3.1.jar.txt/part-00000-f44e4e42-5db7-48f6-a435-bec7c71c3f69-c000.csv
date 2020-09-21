@@ -1,0 +1,4 @@
+java/lang/Thread/getPriority()
+java/lang/Thread/setPriority(int)
+java/lang/Thread/Thread(java.lang.ThreadGroup,java.lang.Runnable,java.lang.String,long)
+java/lang/Thread/setDaemon(boolean)

@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/PathTool/buildRelativePath(java.lang.String,java.lang.String,char)@g_plexus-utils-1.5.15.jar.txt	0
+org/codehaus/plexus/util/cli/CommandLineUtils/translateCommandline(java.lang.String)@g_plexus-utils-1.5.15.jar.txt	2
+org/codehaus/plexus/util/xml/XmlReader/getXmlProlog(java.io.BufferedInputStream,java.lang.String)@g_plexus-utils-1.5.15.jar.txt	4
+org/codehaus/plexus/util/xml/pull/MXSerializer/startTag(java.lang.String,java.lang.String)@g_plexus-utils-1.5.15.jar.txt	1
+org/codehaus/plexus/util/xml/pull/MXSerializer/writeAttributeValue(java.lang.String,java.io.Writer)@g_plexus-utils-1.5.15.jar.txt	3

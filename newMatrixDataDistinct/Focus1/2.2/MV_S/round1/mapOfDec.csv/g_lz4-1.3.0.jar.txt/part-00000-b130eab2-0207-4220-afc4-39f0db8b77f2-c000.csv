@@ -1,0 +1,5 @@
+org/HdrHistogram/AbstractHistogram/outputPercentileDistribution(java.io.PrintStream,int,java.lang.Double,boolean)@g_HdrHistogram-2.1.6.jar.txt	2
+morfologik/stemming/DictionaryLookup/lookup(java.lang.CharSequence)@g_morfologik-stemming-2.1.2.jar.txt	0
+org/HdrHistogram/AbstractHistogram/encodeIntoByteBuffer(java.nio.ByteBuffer)@g_HdrHistogram-2.1.6.jar.txt	3
+org/HdrHistogram/HistogramLogProcessor/run()@g_HdrHistogram-2.1.6.jar.txt	4
+morfologik/stemming/DictionaryIterator/next()@g_morfologik-stemming-2.1.2.jar.txt	1

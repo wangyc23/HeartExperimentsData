@@ -1,0 +1,5 @@
+org/eclipse/jetty/webapp/WebInfConfiguration/findExtraClasspathDirs(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-deploy-9.2.13.v20150730.jar.txt	4
+org/eclipse/jetty/webapp/WebInfConfiguration/makeTempDirectory(java.io.File,org.eclipse.jetty.webapp.WebAppContext)@g_jetty-deploy-9.2.13.v20150730.jar.txt	1
+org/eclipse/jetty/webapp/StandardDescriptorProcessor/visitLoginConfig(org.eclipse.jetty.webapp.WebAppContext,org.eclipse.jetty.webapp.Descriptor,org.eclipse.jetty.xml.XmlParser$Node)@g_jetty-deploy-9.2.13.v20150730.jar.txt	0
+org/mortbay/jetty/plugin/JettyRunWarExplodedMojo/restartWebApp(boolean)@g_jetty-deploy-9.2.13.v20150730.jar.txt	2
+org/eclipse/jetty/webapp/WebXmlConfiguration/findWebXml(org.eclipse.jetty.webapp.WebAppContext)@g_jetty-deploy-9.2.13.v20150730.jar.txt	3

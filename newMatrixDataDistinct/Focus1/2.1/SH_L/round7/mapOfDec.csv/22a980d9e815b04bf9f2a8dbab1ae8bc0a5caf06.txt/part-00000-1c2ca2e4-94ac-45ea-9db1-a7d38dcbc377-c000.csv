@@ -1,0 +1,5 @@
+org/soitoolkit/commons/studio/components/logger/LoggerModule/logTrace(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.util.Map)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	1
+org/soitoolkit/commons/studio/components/fromcommonsmule/util/XmlUtil/convertXMLStreamReaderToString(javax.xml.stream.XMLStreamReader,java.lang.String)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	2
+org/soitoolkit/tools/generator/GeneratorUtil/getGroovyClass(java.net.URL)@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	0
+soi_toolkit_generator_plugin/preferences/PreferenceInitializer/initializeDefaultPreferences()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	3
+org/soitoolkit/tools/generator/IntegrationComponentTeststubGeneratorTest/testGenerateIcAndTeststub()@02df423202bb61314ddab7bf06d6f43e2e0ff47c.txt	4

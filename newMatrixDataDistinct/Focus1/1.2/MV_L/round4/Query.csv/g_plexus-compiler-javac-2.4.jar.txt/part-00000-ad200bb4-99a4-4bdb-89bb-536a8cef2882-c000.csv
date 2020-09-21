@@ -1,0 +1,4 @@
+org/codehaus/plexus/compiler/CompilerConfiguration/isShowDeprecation()
+java/util/ArrayList/ArrayList()
+java/io/File/File(java.lang.String)
+java/util/List/toArray(java.lang.Object[])

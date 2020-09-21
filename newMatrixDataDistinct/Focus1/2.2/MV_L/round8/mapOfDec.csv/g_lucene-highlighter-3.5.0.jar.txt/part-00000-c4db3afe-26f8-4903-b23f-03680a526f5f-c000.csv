@@ -1,0 +1,5 @@
+org/apache/lucene/search/highlight/WeightedSpanTermExtractor/extractWeightedSpanTerms(java.util.Map,org.apache.lucene.search.spans.SpanQuery)@g_lucene-highlighter-4.5.0.jar.txt	2
+org/apache/lucene/search/vectorhighlight/FieldFragList/WeightedFragInfo/toString()@g_lucene-highlighter-4.5.0.jar.txt	3
+org/apache/lucene/search/vectorhighlight/FieldQuery/getKey(org.apache.lucene.search.Query)@g_lucene-highlighter-4.5.0.jar.txt	0
+org/apache/lucene/search/vectorhighlight/FieldQuery/getKey(org.apache.lucene.search.Query)@g_lucene-highlighter-4.2.1.jar.txt	1
+org/apache/lucene/search/vectorhighlight/BaseFragListBuilder/createFieldFragList(org.apache.lucene.search.vectorhighlight.FieldPhraseList,org.apache.lucene.search.vectorhighlight.FieldFragList,int)@g_lucene-highlighter-4.5.0.jar.txt	4

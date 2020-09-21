@@ -1,0 +1,5 @@
+org/neo4j/server/security/auth/FileUserRepository/loadUsersFromFile()@g_neo4j-security-3.0.1.jar.txt	1
+net/java/truevfs/driver/file/FileController/make(net.java.truecommons.shed.BitField,net.java.truevfs.kernel.spec.FsNodeName,net.java.truecommons.cio.Entry$Type,net.java.truecommons.cio.Entry)@g_neo4j-security-3.0.1.jar.txt	4
+org/neo4j/server/security/auth/FileUserRepository/saveUsersToFile()@g_neo4j-security-3.0.1.jar.txt	2
+org/neo4j/server/security/auth/Credential/hash(byte[],java.lang.String)@g_neo4j-security-3.0.1.jar.txt	0
+net/java/truevfs/driver/file/FileController/make(net.java.truecommons.shed.BitField,net.java.truevfs.kernel.spec.FsNodeName,net.java.truecommons.cio.Entry$Type,net.java.truecommons.cio.Entry)@g_truevfs-driver-file-0.11.0.jar.txt	3

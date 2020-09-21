@@ -1,0 +1,5 @@
+org/codehaus/plexus/component/configurator/converters/composite/CollectionConverter/instantiateCollection(org.codehaus.plexus.configuration.PlexusConfiguration,java.lang.Class,java.lang.ClassLoader)@g_org.eclipse.sisu.plexus-0.0.0.M5.jar.txt	1
+org/sonatype/guice/plexus/converters/PlexusXmlBeanConverter/convertText(java.lang.String,com.google.inject.TypeLiteral)@g_sisu-inject-plexus-2.3.0.jar.txt	3
+org/eclipse/sisu/plexus/CompositeBeanHelper/setProperty(java.lang.Object,java.lang.String,java.lang.Class,org.codehaus.plexus.configuration.PlexusConfiguration)@g_org.eclipse.sisu.plexus-0.0.0.M5.jar.txt	2
+org/eclipse/sisu/plexus/PlexusXmlBeanConverter/convertText(java.lang.String,com.google.inject.TypeLiteral)@g_org.eclipse.sisu.plexus-0.0.0.M5.jar.txt	0
+org/eclipse/sisu/plexus/scanners/PlexusXmlScanner/parsePlexusXml(java.net.URL,org.eclipse.sisu.plexus.scanners.PlexusTypeRegistry)@g_org.eclipse.sisu.plexus-0.0.0.M5.jar.txt	4

@@ -1,0 +1,5 @@
+org/springframework/security/web/authentication/www/DigestAuthenticationFilter/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain)@g_spring-security-web-4.0.0.RELEASE.jar.txt	2
+org/springframework/security/web/authentication/switchuser/SwitchUserFilter/createSwitchUserToken(javax.servlet.http.HttpServletRequest,org.springframework.security.core.userdetails.UserDetails)@g_spring-security-web-4.0.0.RELEASE.jar.txt	3
+org/springframework/security/web/authentication/switchuser/SwitchUserFilter/attemptSwitchUser(javax.servlet.http.HttpServletRequest)@g_spring-security-web-4.0.0.RELEASE.jar.txt	4
+org/springframework/security/web/authentication/rememberme/TokenBasedRememberMeServices/processAutoLoginCookie(java.lang.String[],javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_spring-security-web-4.0.0.RELEASE.jar.txt	1
+org/springframework/security/web/authentication/rememberme/TokenBasedRememberMeServices/onLoginSuccess(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.security.core.Authentication)@g_spring-security-web-4.0.0.RELEASE.jar.txt	0

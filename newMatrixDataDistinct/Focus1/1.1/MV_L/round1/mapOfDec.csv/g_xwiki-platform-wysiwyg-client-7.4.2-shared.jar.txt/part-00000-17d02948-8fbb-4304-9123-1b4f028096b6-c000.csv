@@ -1,0 +1,5 @@
+liquibase/servicelocator/DefaultPackageScanClassResolver/loadImplementationsInJar(liquibase.servicelocator.PackageScanFilter,java.lang.String,java.io.InputStream,java.lang.String,java.util.Set)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	0
+liquibase/executor/jvm/SingleColumnRowMapper/getColumnValue(java.sql.ResultSet,int,java.lang.Class)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	1
+liquibase/servicelocator/DefaultPackageScanClassResolver/addIfMatching(liquibase.servicelocator.PackageScanFilter,java.lang.String,java.util.Set)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	3
+org/xwiki/gwt/wysiwyg/client/plugin/line/LinePlugin/needsSpace(com.google.gwt.dom.client.Node)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	2
+org/xwiki/gwt/wysiwyg/client/plugin/macro/MacroWizard/getEditWizard()@g_xwiki-platform-gwt-api-7.4.2.jar.txt	4

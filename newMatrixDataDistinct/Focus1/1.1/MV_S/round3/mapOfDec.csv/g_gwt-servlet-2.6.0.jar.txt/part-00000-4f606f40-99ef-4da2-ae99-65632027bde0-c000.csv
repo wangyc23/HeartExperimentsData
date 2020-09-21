@@ -1,0 +1,5 @@
+com/google/web/bindery/requestfactory/shared/impl/ProxySerializerImpl/serializedId(com.google.web.bindery.requestfactory.shared.impl.SimpleProxyId)@g_vaadin-shared-7.4.5.jar.txt	2
+com/google/web/bindery/autobean/shared/AutoBeanUtils/sameOrEquals(java.util.Collection,java.util.Collection,java.util.Map,java.util.Map)@g_vaadin-shared-7.4.5.jar.txt	4
+com/google/web/bindery/requestfactory/shared/impl/AbstractRequestContext/makeOperationMessage(com.google.web.bindery.requestfactory.shared.impl.SimpleProxyId,com.google.web.bindery.autobean.shared.AutoBean,boolean)@g_vaadin-shared-7.4.5.jar.txt	1
+com/google/web/bindery/requestfactory/shared/impl/AbstractRequestContext/JsonRpcPayloadDialect/makePayload()@g_vaadin-shared-7.4.5.jar.txt	0
+com/google/web/bindery/requestfactory/shared/impl/ProxySerializerImpl/serialize(com.google.web.bindery.requestfactory.shared.BaseProxy)@g_vaadin-shared-7.4.5.jar.txt	3

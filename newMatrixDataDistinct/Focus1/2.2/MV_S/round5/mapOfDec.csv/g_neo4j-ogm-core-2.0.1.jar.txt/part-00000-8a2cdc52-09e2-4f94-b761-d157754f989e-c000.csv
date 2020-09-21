@@ -1,0 +1,5 @@
+org/neo4j/ogm/cypher/statement/ParameterisedStatement/getStatement()@g_neo4j-ogm-1.1.2.jar.txt	4
+org/neo4j/ogm/metadata/ClassPathScanner/scanClassFileEntry(java.io.InputStream,java.util.zip.ZipEntry)@g_neo4j-ogm-1.1.2.jar.txt	2
+org/neo4j/ogm/metadata/ClassUtils/getType(java.lang.String)@g_neo4j-ogm-1.1.2.jar.txt	0
+org/neo4j/ogm/metadata/ClassUtils/getUniqueClasspathElements(java.util.List)@g_neo4j-ogm-1.1.2.jar.txt	1
+org/neo4j/ogm/session/response/JsonResponse/next()@g_neo4j-ogm-1.1.2.jar.txt	3

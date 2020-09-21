@@ -1,0 +1,4 @@
+org/objectweb/asm/tree/analysis/Analyzer/analyze(java.lang.String,org.objectweb.asm.tree.MethodNode)
+org/objectweb/asm/util/CheckMethodAdapter$1/accept(org.objectweb.asm.MethodVisitor)
+java/io/PrintWriter/close()
+java/lang/StringBuffer/append(char)

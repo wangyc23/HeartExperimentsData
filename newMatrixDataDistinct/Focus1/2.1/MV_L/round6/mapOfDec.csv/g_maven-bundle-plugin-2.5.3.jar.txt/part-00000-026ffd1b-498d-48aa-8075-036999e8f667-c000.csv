@@ -1,0 +1,5 @@
+aQute/bnd/osgi/eclipse/EclipseClasspath/parse(java.io.File,boolean)@g_bndlib-2.3.0.jar.txt	3
+aQute/bnd/osgi/Analyzer/parsePackageinfo(aQute.bnd.osgi.Descriptors$PackageRef,aQute.bnd.osgi.Resource)@g_bndlib-2.3.0.jar.txt	1
+aQute/bnd/osgi/Analyzer/verifyManifestHeadersCase(java.util.Properties)@g_bndlib-2.3.0.jar.txt	2
+aQute/bnd/differ/DiffPluginImpl/manifestElement(java.util.jar.Manifest)@g_bndlib-2.3.0.jar.txt	4
+aQute/bnd/indexer/analyzers/BundleAnalyzer/doBundleAndHost(aQute.bnd.osgi.Domain,java.util.List)@g_bndlib-2.3.0.jar.txt	0

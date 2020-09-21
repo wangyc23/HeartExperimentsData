@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+org/xwiki/observation/internal/DefaultObservationManager$RegisteredListener/access$100(org.xwiki.observation.internal.DefaultObservationManager$RegisteredListener)
+org/xwiki/observation/internal/DefaultObservationManager$RegisteredListener/access$000(org.xwiki.observation.internal.DefaultObservationManager$RegisteredListener)
+org/xwiki/observation/EventListener/onEvent(org.xwiki.observation.event.Event,java.lang.Object,java.lang.Object)

@@ -1,0 +1,5 @@
+org/languagetool/language/Esperanto/getRelevantRules(java.util.ResourceBundle)@g_language-eo-3.0.jar.txt	0
+org/languagetool/tagging/eo/EsperantoTagger/tag(java.util.List)@g_language-eo-3.0.jar.txt	1
+org/apache/commons/cli/GnuParser/flatten(org.apache.commons.cli.Options,java.lang.String[],boolean)@g_language-eo-3.0.jar.txt	4
+org/apache/commons/cli/HelpFormatter/printUsage(java.io.PrintWriter,int,java.lang.String,org.apache.commons.cli.Options)@g_language-eo-3.0.jar.txt	2
+org/languagetool/language/Portuguese/getRelevantRules(java.util.ResourceBundle)@g_language-eo-3.0.jar.txt	3

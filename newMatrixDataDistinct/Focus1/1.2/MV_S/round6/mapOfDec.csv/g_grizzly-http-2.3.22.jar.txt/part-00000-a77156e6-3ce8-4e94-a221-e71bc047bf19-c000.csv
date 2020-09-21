@@ -1,0 +1,5 @@
+org/glassfish/grizzly/http/server/Response/doIsEncodeable(org.glassfish.grizzly.http.server.Request,org.glassfish.grizzly.http.server.Session,java.lang.String)@g_grizzly-http-server-2.3.16.jar.txt	0
+org/glassfish/grizzly/http/server/Request/parseSessionId()@g_grizzly-http-server-2.3.16.jar.txt	1
+org/glassfish/grizzly/http/server/Response/toAbsolute(java.lang.String,boolean)@g_grizzly-http-server-2.3.16.jar.txt	4
+org/glassfish/grizzly/http/server/filecache/FileCache/compressFile(org.glassfish.grizzly.http.server.filecache.FileCacheEntry)@g_grizzly-http-server-2.3.16.jar.txt	2
+org/glassfish/grizzly/http/server/accesslog/ApacheLogFormat/parseLocal(java.lang.String,boolean,char,java.lang.String,int)@g_grizzly-http-server-2.3.16.jar.txt	3

@@ -1,0 +1,5 @@
+rx/observers/TestSubscriber/assertError(java.lang.Class)@g_rxjava-1.0.14.jar.txt	1
+rx/Single/subscribe(rx.Subscriber)@g_rxjava-1.0.14.jar.txt	4
+rx/observers/TestObserver/assertReceivedOnNext(java.util.List)@g_rxjava-1.0.14.jar.txt	3
+rx/observables/AbstractOnSubscribe/SubscriptionProducer/doNext()@g_rxjava-1.0.14.jar.txt	2
+rx/internal/operators/OperatorOnBackpressureBuffer/BufferSubscriber/assertCapacity()@g_rxjava-1.0.14.jar.txt	0

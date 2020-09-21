@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/wikibrain/core/lang/LocalString/getString()
+java/util/Map/get(java.lang.Object)
+org/wikibrain/phrases/PhraseAnalyzer/resolve(org.wikibrain.core.lang.Language,java.lang.String,int)

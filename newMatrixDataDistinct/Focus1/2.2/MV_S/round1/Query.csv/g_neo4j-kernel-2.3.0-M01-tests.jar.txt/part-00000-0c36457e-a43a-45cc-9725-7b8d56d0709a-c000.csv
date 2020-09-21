@@ -1,0 +1,4 @@
+org/neo4j/kernel/impl/transaction/log/TransactionMetadataCache/cacheTransactionMetadata(long,org.neo4j.kernel.impl.transaction.log.LogPosition,int,int,long)
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/RuntimeException/getMessage()
+java/lang/StringBuilder/StringBuilder()

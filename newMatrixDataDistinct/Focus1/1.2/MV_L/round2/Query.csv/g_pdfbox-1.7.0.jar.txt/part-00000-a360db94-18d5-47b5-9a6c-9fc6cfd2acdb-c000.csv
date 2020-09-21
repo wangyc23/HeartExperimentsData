@@ -1,0 +1,4 @@
+java/awt/geom/AffineTransform/getScaleX()
+java/awt/geom/AffineTransform/scale(double,double)
+java/awt/geom/AffineTransform/AffineTransform(float,float,float,float,float,float)
+java/lang/Math/cos(double)

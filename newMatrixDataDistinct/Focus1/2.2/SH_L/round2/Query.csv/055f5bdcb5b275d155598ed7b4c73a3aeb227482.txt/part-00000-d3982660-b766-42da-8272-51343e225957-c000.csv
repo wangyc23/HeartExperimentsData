@@ -1,0 +1,4 @@
+java/io/File/getName()
+java/util/AbstractCollection/addAll(java.util.Collection)
+java/io/File/File(java.lang.String,java.lang.String)
+java/io/File/getAbsolutePath()

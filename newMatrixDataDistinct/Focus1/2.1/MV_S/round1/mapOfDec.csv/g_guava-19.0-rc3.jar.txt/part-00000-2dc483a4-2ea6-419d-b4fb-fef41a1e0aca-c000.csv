@@ -1,0 +1,5 @@
+com/google/common/reflect/TypeToken/TypeCollector/collectTypes(java.lang.Object,java.util.Map)@g_guava-19.0.jar.txt	4
+com/google/common/reflect/ClassPath/Scanner/getClassPathFromManifest(java.io.File,java.util.jar.Manifest)@g_guava-19.0.jar.txt	2
+com/google/common/base/Strings/repeat(java.lang.String,int)@g_guava-19.0.jar.txt	0
+org/carrot2/shaded/guava/common/cache/LocalCache/Segment/insertLoadingValueReference(java.lang.Object,int,boolean)@g_guava-19.0.jar.txt	3
+org/carrot2/shaded/guava/common/base/Strings/repeat(java.lang.String,int)@g_carrot2-guava-18.0.jar.txt	1

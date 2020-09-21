@@ -1,0 +1,4 @@
+com/google/common/collect/ImmutableList$Builder/Builder(int)
+java/util/Collection/size()
+com/google/common/collect/Multiset$Entry/getElement()
+java/util/Collection/iterator()

@@ -1,0 +1,5 @@
+com/sun/star/lib/uno/helper/UnoUrl/decodeUTF8(java.lang.String)@g_juh-3.2.1.jar.txt	3
+com/sun/star/lib/uno/helper/UnoUrl/parseUnoUrl(java.lang.String)@g_juh-3.2.1.jar.txt	1
+com/sun/star/uno/Type/determineClass()@g_ridl-3.2.1.jar.txt	4
+com/sun/star/lib/uno/helper/UnoUrl/buildParamHashMap(java.lang.String)@g_juh-3.2.1.jar.txt	2
+com/sun/star/lib/uno/typedesc/TypeDescription/create(com.sun.star.uno.Type)@g_ridl-3.2.1.jar.txt	0

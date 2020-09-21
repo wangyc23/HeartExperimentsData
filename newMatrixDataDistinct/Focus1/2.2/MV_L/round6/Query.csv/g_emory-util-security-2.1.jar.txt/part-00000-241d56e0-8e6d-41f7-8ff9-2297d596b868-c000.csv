@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList(int)
+java/util/Iterator/hasNext()
+java/security/cert/TrustAnchor/getTrustedCert()
+java/util/Iterator/next()

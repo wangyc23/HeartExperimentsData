@@ -1,0 +1,5 @@
+org/apache/hadoop/fs/AbstractFileSystem/checkPath(org.apache.hadoop.fs.Path)@g_hadoop-common-2.6.0.jar.txt	1
+org/apache/hadoop/record/compiler/generated/Rcc/driver(java.lang.String[])@g_hadoop-common-2.6.0.jar.txt	2
+org/apache/hadoop/fs/FileSystem/checkPath(org.apache.hadoop.fs.Path)@g_hadoop-common-2.6.0.jar.txt	0
+org/apache/hadoop/security/SecurityUtil/QualifiedHostResolver/getByName(java.lang.String)@g_hadoop-common-2.6.0.jar.txt	4
+org/apache/hadoop/util/GenericOptionsParser/processGeneralOptions(org.apache.hadoop.conf.Configuration,org.apache.commons.cli.CommandLine)@g_hadoop-common-2.6.0.jar.txt	3

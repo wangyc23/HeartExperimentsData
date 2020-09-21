@@ -1,0 +1,5 @@
+org/bouncycastle/mail/smime/examples/ReadEncryptedMail/main(java.lang.String[])@g_bcmail-jdk15on-1.49.jar.txt	1
+org/bouncycastle/mail/smime/SMIMEToolkit/extractCertificate(javax.mail.internet.MimeMultipart,org.bouncycastle.cms.SignerInformation)@g_bcmail-jdk15on-1.49.jar.txt	2
+org/bouncycastle/mail/smime/SMIMESigned/getContentAsMimeMessage(javax.mail.Session)@g_bcmail-jdk15on-1.49.jar.txt	4
+org/bouncycastle/mail/smime/examples/ReadSignedMail/verify(org.bouncycastle.mail.smime.SMIMESigned)@g_bcmail-jdk15on-1.49.jar.txt	3
+org/bouncycastle/mail/smime/SMIMESignedGenerator/ContentSigner/write(java.io.OutputStream)@g_bcmail-jdk15on-1.49.jar.txt	0

@@ -1,0 +1,5 @@
+com/sun/jersey/json/impl/writer/JsonXmlStreamWriter/printStack(java.lang.String)@g_jersey-json-1.17.1.jar.txt	4
+com/sun/jersey/json/impl/provider/entity/JSONListElementProvider/writeList(java.lang.Class,java.util.Collection,javax.ws.rs.core.MediaType,java.nio.charset.Charset,javax.xml.bind.Marshaller,java.io.OutputStream)@g_jersey-json-1.17.1.jar.txt	2
+com/sun/jersey/api/json/JSONJAXBContext/processProperties(java.util.Map)@g_jersey-json-1.17.1.jar.txt	1
+com/sun/jersey/json/impl/MoxyXmlStructure/XPathNodeWrapper/getEntitiesTypesMap(boolean)@g_jersey-json-1.17.1.jar.txt	0
+com/sun/jersey/json/impl/reader/JsonNamespaceContext/getPrefix(java.lang.String)@g_jersey-json-1.17.1.jar.txt	3

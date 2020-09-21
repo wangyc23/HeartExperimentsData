@@ -1,0 +1,5 @@
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/toString()@g_spring-data-commons-1.10.2.RELEASE.jar.txt	0
+org/springframework/data/repository/cdi/CdiRepositoryBean/createPassivationId(java.util.Set,java.lang.Class)@g_spring-data-commons-1.10.2.RELEASE.jar.txt	3
+org/springframework/data/transaction/ChainedTransactionManager/commit(org.springframework.transaction.TransactionStatus)@g_spring-data-commons-1.10.2.RELEASE.jar.txt	4
+org/springframework/data/mapping/model/AnnotationBasedPersistentProperty/toString()@g_spring-data-commons-1.11.1.RELEASE.jar.txt	1
+org/springframework/data/mapping/PropertyPath/from(java.lang.String,org.springframework.data.util.TypeInformation)@g_spring-data-commons-1.10.2.RELEASE.jar.txt	2

@@ -1,0 +1,4 @@
+org/eclipse/sisu/equinox/launching/internal/P2ApplicationLauncher/setApplicationName(java.lang.String)
+java/lang/StringBuilder/append(int)
+java/lang/String/length()
+org/apache/maven/project/MavenProject/getBasedir()

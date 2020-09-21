@@ -1,0 +1,5 @@
+com/netflix/hystrix/contrib/javanica/command/CommandSetterBuilder/build()@g_hystrix-javanica-1.4.20.jar.txt	4
+com/netflix/hystrix/contrib/javanica/cache/CacheInvocationContextFactory/createCacheKeyAction(java.lang.String,com.netflix.hystrix.contrib.javanica.command.MetaHolder)@g_hystrix-javanica-1.4.20.jar.txt	2
+org/eclipse/jgit/api/RenameBranchCommand/call()@g_org.eclipse.jgit-3.5.3.201412180710-r.jar.txt	1
+com/netflix/hystrix/contrib/javanica/cache/HystrixCacheKeyGenerator/generateCacheKey(com.netflix.hystrix.contrib.javanica.cache.CacheInvocationContext)@g_hystrix-javanica-1.4.20.jar.txt	0
+com/netflix/hystrix/contrib/javanica/utils/MethodProvider/getFallbackMethod(java.lang.Class,java.lang.reflect.Method,boolean)@g_hystrix-javanica-1.4.20.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/maven/toolchain/DefaultToolchain/matchesRequirements(java.util.Map)@g_maven-core-3.0.jar.txt	0
+org/apache/maven/model/plugin/DefaultLifecycleBindingsInjector/LifecycleBindingsMerger/mergePluginContainer_Plugins(org.apache.maven.model.PluginContainer,org.apache.maven.model.PluginContainer,boolean,java.util.Map)@g_maven-core-3.0.jar.txt	1
+org/apache/maven/toolchain/DefaultToolchainManagerPrivate/getToolchainsForType(java.lang.String,org.apache.maven.execution.MavenSession)@g_maven-core-3.0.jar.txt	4
+org/apache/maven/lifecycle/internal/LifecyclePluginResolver/resolveMissingPluginVersions(org.apache.maven.project.MavenProject,org.apache.maven.execution.MavenSession)@g_maven-core-3.0.jar.txt	2
+org/apache/maven/lifecycle/internal/ConcurrentBuildLogger/toGraph()@g_maven-core-3.0.jar.txt	3

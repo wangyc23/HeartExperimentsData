@@ -1,0 +1,4 @@
+0	org/apache/whirr/Cluster/Instance/getPublicAddress()
+1	org/apache/whirr/Cluster/getInstances()
+2	org/apache/whirr/Cluster/Instance/getPrivateAddress()
+3	java/net/InetAddress/getHostAddress()

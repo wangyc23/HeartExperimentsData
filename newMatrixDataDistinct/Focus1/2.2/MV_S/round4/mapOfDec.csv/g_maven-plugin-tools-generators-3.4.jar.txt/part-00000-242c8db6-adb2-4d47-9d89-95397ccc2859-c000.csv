@@ -1,0 +1,5 @@
+org/apache/maven/plugin/eclipse/reader/ReadWorkspaceLocations/detectWTPDefaultServer(org.apache.maven.plugin.eclipse.WorkspaceConfiguration,java.lang.String,org.apache.maven.plugin.logging.Log)@g_maven-eclipse-plugin-2.9.jar.txt	4
+org/apache/maven/plugin/eclipse/writers/EclipseClasspathWriter/write()@g_maven-eclipse-plugin-2.9.jar.txt	0
+org/apache/maven/plugin/eclipse/writers/EclipseLaunchConfigurationWriter/write()@g_maven-eclipse-plugin-2.9.jar.txt	3
+org/apache/maven/plugins/help/DescribeMojo/describeMojoParameters(org.apache.maven.plugin.descriptor.MojoDescriptor,java.lang.StringBuilder)@g_maven-help-plugin-2.2.jar.txt	1
+org/apache/maven/plugins/help/DescribeMojo/describeCommand(java.lang.StringBuilder)@g_maven-help-plugin-2.2.jar.txt	2

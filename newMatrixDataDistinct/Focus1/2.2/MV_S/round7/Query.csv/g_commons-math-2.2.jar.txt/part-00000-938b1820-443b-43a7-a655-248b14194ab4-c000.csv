@@ -1,0 +1,4 @@
+org/apache/commons/math/dfp/DfpDec/subtract(org.apache.commons.math.dfp.Dfp)
+org/apache/commons/math/dfp/DfpDec/power10K(int)
+org/apache/commons/math/dfp/DfpDec/power10(int)
+org/apache/commons/math/dfp/DfpDec/copysign(org.apache.commons.math.dfp.Dfp,org.apache.commons.math.dfp.Dfp)

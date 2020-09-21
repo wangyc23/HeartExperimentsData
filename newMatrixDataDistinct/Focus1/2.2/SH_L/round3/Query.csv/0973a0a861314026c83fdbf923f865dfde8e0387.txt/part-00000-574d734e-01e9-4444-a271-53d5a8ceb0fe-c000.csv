@@ -1,0 +1,4 @@
+org/graylog2/Core/getHostCounterCache()
+org/graylog2/database/HostCounterCacheImpl/reset(java.lang.String)
+java/lang/Throwable/getMessage()
+org/graylog2/database/HostCounterCacheImpl/getCount(java.lang.String)

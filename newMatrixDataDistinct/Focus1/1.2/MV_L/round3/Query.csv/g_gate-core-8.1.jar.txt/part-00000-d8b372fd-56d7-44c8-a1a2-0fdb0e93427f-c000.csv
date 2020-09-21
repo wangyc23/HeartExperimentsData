@@ -1,0 +1,4 @@
+javax/swing/table/TableModel/getValueAt(int,int)
+gate/creole/ontology/OInstance/getONodeID()
+java/util/Iterator/hasNext()
+gate/creole/ontology/ObjectProperty/getName()

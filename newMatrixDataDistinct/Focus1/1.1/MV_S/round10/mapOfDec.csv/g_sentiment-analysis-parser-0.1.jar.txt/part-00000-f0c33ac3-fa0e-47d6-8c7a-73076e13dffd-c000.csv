@@ -1,0 +1,5 @@
+opennlp/tools/tokenize/DefaultTokenContextGenerator/createContext(java.lang.String,int)@g_opennlp-tools-1.8.2.jar.txt	1
+opennlp/tools/sentdetect/SentenceDetectorME/sentPosDetect(java.lang.String)@g_opennlp-tools-1.8.2.jar.txt	0
+opennlp/tools/cmdline/ArgumentParser/createUsage(java.lang.Class[])@g_opennlp-tools-1.8.2.jar.txt	4
+opennlp/tools/formats/NameFinderCensus90NameStream/read()@g_opennlp-tools-1.8.2.jar.txt	3
+opennlp/tools/tokenize/TokenizerME/tokenizePos(java.lang.String)@g_opennlp-tools-1.8.2.jar.txt	2

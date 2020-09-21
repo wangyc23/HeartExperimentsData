@@ -1,0 +1,5 @@
+uk/ac/ed/ph/snuggletex/internal/TokenFixer/fixListEnvironmentContent(uk.ac.ed.ph.snuggletex.tokens.EnvironmentToken)@g_jempbox-1.8.13.jar.txt	4
+org/apache/jempbox/xmp/XMPMetadata/getSchemas()@g_jempbox-1.8.13.jar.txt	1
+org/xwiki/xml/html/HTMLUtils/XWikiXMLOutputter/escapeElementEntities(java.lang.String)@g_xwiki-commons-xml-7.4.2.jar.txt	3
+org/htmlcleaner/XWikiDOMSerializer/processCDATABlocks(java.lang.String)@g_xwiki-commons-xml-7.4.2.jar.txt	2
+org/apache/jempbox/impl/DateConverter/toCalendar(java.lang.String)@g_jempbox-1.8.13.jar.txt	0

@@ -1,0 +1,5 @@
+edu/stanford/nlp/io/NumberRangesFileFilter/accept(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	1
+edu/stanford/nlp/parser/ui/TreeJPanel/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/stats/Counters/hIndex(edu.stanford.nlp.stats.Counter)@g_stanford-parser-3.5.2.jar.txt	4
+opennlp/tools/coref/resolver/IsAResolver/getFeatures(opennlp.tools.coref.mention.MentionContext,opennlp.tools.coref.DiscourseEntity)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/parser/lexparser/ChineseLexiconAndWordSegmenter/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	2

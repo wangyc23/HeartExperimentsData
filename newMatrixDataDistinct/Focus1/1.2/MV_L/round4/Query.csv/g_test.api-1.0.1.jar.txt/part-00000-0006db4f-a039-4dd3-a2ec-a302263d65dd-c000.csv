@@ -1,0 +1,4 @@
+anatlyzer/atl/analyser/AnalysisResult/AnalysisResult(anatlyzer.atl.analyser.Analyser)
+org/eclipse/m2m/atl/engine/parser/AtlParser/inject(org.eclipse.m2m.atl.core.IModel,java.lang.String)
+java/io/PrintStream/println(java.lang.String)
+anatlyzer/atl/analyser/Analyser/Analyser(anatlyzer.atl.analyser.namespaces.GlobalNamespace,anatlyzer.atl.model.ATLModel)

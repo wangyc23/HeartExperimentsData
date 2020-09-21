@@ -1,0 +1,5 @@
+com/sun/xml/xsom/impl/scd/ParseException/add_escapes(java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	3
+org/kohsuke/rngom/parse/compact/TokenMgrError/addEscapes(java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	2
+com/sun/xml/xsom/impl/util/SchemaWriter/attributeUse(com.sun.xml.xsom.XSAttributeUse)@g_jaxb-xjc-2.2.6.jar.txt	4
+com/sun/tools/jxc/ApBasedTask/ApAdapter/logAndAddFilesToCompile(org.apache.tools.ant.types.Commandline)@g_jaxb-xjc-2.2.6.jar.txt	0
+com/sun/xml/xsom/impl/util/SchemaTreeTraverser/attributeUse(com.sun.xml.xsom.XSAttributeUse)@g_jaxb-xjc-2.2.6.jar.txt	1

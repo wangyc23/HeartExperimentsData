@@ -1,0 +1,5 @@
+org/apache/hadoop/mrunit/internal/driver/MultipleInputsMapReduceDriverBase/preRunChecks(java.util.Set,java.lang.Object)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3
+org/apache/hadoop/mrunit/internal/util/DistCacheUtils/extractArchiveToTemp(org.apache.hadoop.fs.Path,java.io.File)@g_spring-security-core-3.2.3.RELEASE.jar.txt	0
+org/springframework/security/access/expression/method/ExpressionBasedPreInvocationAdvice/findFilterTarget(java.lang.String,org.springframework.expression.EvaluationContext,org.aopalliance.intercept.MethodInvocation)@g_spring-security-core-3.2.3.RELEASE.jar.txt	2
+org/springframework/jdbc/datasource/WebSphereDataSourceAdapter/doGetConnection(java.lang.String,java.lang.String)@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-security-core-3.2.3.RELEASE.jar.txt	1

@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/rdf/model/RDFGraph/dumpTriples(java.io.Writer)@g_owlapi-rio-5.1.0.jar.txt	4
+org/semanticweb/owlapi/owlxml/parser/OWLOntologyHandler/attribute(java.lang.String,java.lang.String)@g_owlapi-rio-5.1.0.jar.txt	0
+org/semanticweb/owlapi/rio/RioParserImpl/parseDocumentSource(org.semanticweb.owlapi.io.OWLOntologyDocumentSource,java.lang.String,org.openrdf.rio.RDFHandler)@g_owlapi-rio-5.1.0.jar.txt	2
+org/semanticweb/owlapi/dlsyntax/parser/DLSyntaxOWLParser/parse(org.semanticweb.owlapi.io.OWLOntologyDocumentSource,org.semanticweb.owlapi.model.OWLOntology,org.semanticweb.owlapi.model.OWLOntologyLoaderConfiguration)@g_owlapi-rio-5.1.0.jar.txt	1
+org/semanticweb/owlapi/rdf/rdfxml/parser/Translators/DataMinCardinalityTranslator/translate(org.semanticweb.owlapi.model.IRI)@g_owlapi-rio-5.1.0.jar.txt	3

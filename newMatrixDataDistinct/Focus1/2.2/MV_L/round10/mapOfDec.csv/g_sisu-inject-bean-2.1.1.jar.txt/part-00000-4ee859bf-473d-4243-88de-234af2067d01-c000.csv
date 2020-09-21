@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/reflect/URLClassSpace/getClassPathEntries(java.net.URL)@g_sisu-inject-bean-1.4.2.jar.txt	3
+org/sonatype/guice/bean/scanners/index/SisuIndex/getWriter(java.lang.String)@g_sisu-inject-bean-2.3.0.jar.txt	0
+org/sonatype/guice/bean/inject/BeanListener/hear(com.google.inject.TypeLiteral,com.google.inject.spi.TypeEncounter)@g_sisu-inject-bean-1.4.2.jar.txt	4
+org/sonatype/guice/bean/locators/WatchedBeans/reportBeans(org.sonatype.guice.bean.locators.WatchedBeans$BeanEvent,java.util.List)@g_sisu-inject-bean-1.4.2.jar.txt	2
+org/sonatype/guice/bean/reflect/ResourceEnumeration/nextElement()@g_sisu-inject-bean-1.4.2.jar.txt	1

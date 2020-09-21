@@ -1,0 +1,4 @@
+com/fasterxml/jackson/core/JsonGenerator/writeEndObject()
+org/openrdf/rio/WriterConfig/get(org.openrdf.rio.RioSetting)
+com/fasterxml/jackson/core/JsonGenerator/writeArrayFieldStart(java.lang.String)
+org/openrdf/model/URI/stringValue()

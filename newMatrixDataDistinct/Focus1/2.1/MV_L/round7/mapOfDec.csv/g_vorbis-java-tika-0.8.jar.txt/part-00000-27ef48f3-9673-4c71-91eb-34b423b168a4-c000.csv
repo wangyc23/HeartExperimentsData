@@ -1,0 +1,5 @@
+org/gagravarr/tika/OpusParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_vorbis-java-tika-0.6.jar.txt	2
+org/gagravarr/tika/FlacParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_vorbis-java-tika-0.1.jar.txt	4
+org/gagravarr/tika/FlacParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_vorbis-java-tika-0.6.jar.txt	0
+org/gagravarr/tika/SpeexParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_vorbis-java-tika-0.6.jar.txt	3
+org/gagravarr/tika/VorbisParser/parse(java.io.InputStream,org.xml.sax.ContentHandler,org.apache.tika.metadata.Metadata,org.apache.tika.parser.ParseContext)@g_vorbis-java-tika-0.6.jar.txt	1

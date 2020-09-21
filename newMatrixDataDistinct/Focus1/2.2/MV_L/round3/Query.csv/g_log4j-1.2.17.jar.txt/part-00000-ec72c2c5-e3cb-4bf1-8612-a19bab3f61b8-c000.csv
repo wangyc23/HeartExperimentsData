@@ -1,0 +1,4 @@
+org/apache/log4j/Logger/addAppender(org.apache.log4j.Appender)
+java/lang/StringBuffer/toString()
+java/util/Vector/elementAt(int)
+java/lang/StringBuffer/append(java.lang.String)

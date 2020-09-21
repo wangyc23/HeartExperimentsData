@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/webdav/resources/domain/DavWikiFile/init(com.xpn.xwiki.plugin.webdav.resources.XWikiDavResource,java.lang.String,java.lang.String)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	1
+com/xpn/xwiki/plugin/webdav/resources/views/pages/PagesBySpaceNameSubView/removeMember(org.apache.jackrabbit.webdav.DavResource)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	3
+com/xpn/xwiki/gwt/api/server/XWikiServiceImpl/getDocumentContent(java.lang.String,boolean,java.util.Map)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	4
+org/apache/jackrabbit/webdav/jcr/AbstractItemResource/getCollection()@g_xwiki-platform-gwt-api-7.4.2.jar.txt	2
+com/xpn/xwiki/gwt/api/server/XWikiServiceImpl/newDocument(com.xpn.xwiki.gwt.api.client.Document,com.xpn.xwiki.doc.XWikiDocument,boolean,boolean,boolean,boolean,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-gwt-api-7.4.2.jar.txt	0

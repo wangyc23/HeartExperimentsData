@@ -1,0 +1,5 @@
+demo/hw/server/HelloWorldImplTest/testGetUsers()@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	1
+io/selendroid/standalone/server/model/SelendroidStandaloneDriverFixture/getSelendroidStandaloneDriver(io.selendroid.standalone.builder.SelendroidServerBuilder)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	3
+demo/oauth/server/spring/AuthenticationSuccessfullHandler/determineTargetUrl(demo.oauth.client.controllers.HttpServletRequest,demo.oauth.client.controllers.HttpServletResponse)@00113af92267f4b316bfbbba38f2e66bf461f665.txt	2
+demo/callback/server/Server/main(java.lang.String[])@00113af92267f4b316bfbbba38f2e66bf461f665.txt	4
+demo/hw/server/HelloWorldImpl/sayHiToUser(demo.hw.server.User)@25dabe37cd5187ff0d918d9ee517ca8f171b463a.txt	0

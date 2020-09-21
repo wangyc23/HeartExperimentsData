@@ -1,0 +1,5 @@
+dao/LocationDAOImpl/getLocation(int)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	3
+dao/MeasurementDAOImpl/deleteMeasurement(model.Measurement)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	4
+main/SongKickEventSearch/getTotalEntries(java.lang.String)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	1
+dao/LocationDAOImpl/getConnection()@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	0
+com/pms/util/ConnectionDB/getInstance()@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	2

@@ -1,0 +1,8 @@
+0	pl/pwr/news/webapp/controller/article/dto/ArticleDTO/getList(java.util.List)
+1	com/joanzapata/android/BaseAdapterHelper/setAssociatedObject(java.lang.Object)
+2	org/mockito/MockitoAnnotations/initMocks(java.lang.Object)
+3	com/joanzapata/android/BaseQuickAdapter/getItem(int)
+4	pl/pwr/news/webapp/controller/Response/Response(T)
+5	pl/pwr/news/service/article/ArticleService/findAll(java.lang.String,java.lang.String)
+6	com/joanzapata/android/BaseQuickAdapter/getItemViewType(int)
+7	com/joanzapata/android/BaseQuickAdapter/getAdapterHelper(int,com.joanzapata.android.View,com.joanzapata.android.ViewGroup)

@@ -1,0 +1,5 @@
+net/razorvine/pickle/Pickler/dispatch(java.lang.Class,java.lang.Object)@g_pyrolite-4.13.jar.txt	3
+net/razorvine/pickle/PickleUtils/decode_unicode_escaped(java.lang.String)@g_pyrolite-4.13.jar.txt	0
+net/razorvine/pickle/PrettyPrint/print(java.lang.Object,java.io.Writer,boolean)@g_pyrolite-4.13.jar.txt	2
+net/razorvine/pickle/PickleUtils/decode_escaped(java.lang.String)@g_pyrolite-4.13.jar.txt	1
+net/razorvine/pickle/Pickler/put_javabean(java.lang.Object)@g_pyrolite-4.13.jar.txt	4

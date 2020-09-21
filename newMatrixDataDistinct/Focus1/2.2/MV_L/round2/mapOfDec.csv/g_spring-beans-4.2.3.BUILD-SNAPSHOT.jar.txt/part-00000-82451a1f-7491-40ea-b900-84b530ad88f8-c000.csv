@@ -1,0 +1,5 @@
+org/springframework/beans/propertyeditors/InputSourceEditor/setAsText(java.lang.String)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	0
+org/springframework/beans/propertyeditors/InputStreamEditor/setAsText(java.lang.String)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	3
+org/springframework/beans/propertyeditors/URIEditor/setAsText(java.lang.String)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	4
+org/springframework/beans/propertyeditors/InputSourceEditor/setAsText(java.lang.String)@g_spring-beans-4.2.3.BUILD-20151114.225414-58.jar.txt	1
+org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader/importBeanDefinitionResource(org.w3c.dom.Element)@g_spring-beans-4.2.3.BUILD-20151114.143958-56.jar.txt	2

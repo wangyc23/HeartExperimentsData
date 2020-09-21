@@ -1,0 +1,4 @@
+java/util/Iterator/hasNext()
+java/util/HashMap/entrySet()
+java/util/HashSet/add(java.lang.Object)
+java/lang/Integer/valueOf(int)

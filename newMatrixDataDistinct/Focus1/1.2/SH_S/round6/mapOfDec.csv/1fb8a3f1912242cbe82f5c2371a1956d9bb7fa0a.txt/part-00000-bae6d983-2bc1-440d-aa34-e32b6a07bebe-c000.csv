@@ -1,0 +1,5 @@
+com/andy/IO/PostgresDB/getCyclesFromResults(java.sql.ResultSet)@080105b957971bcc31b18607f1c02edbfefb5d9d.txt	0
+com/andy/IO/PostgresDB/getTemperatures()@080105b957971bcc31b18607f1c02edbfefb5d9d.txt	4
+com/ibm/taste/example/movie/model/table/MovieSimilarityTable/getAllMovieSimilarities()@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	2
+com/ibm/taste/example/movie/model/table/MovieTable/getMovies(java.util.Collection)@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	1
+com/ibm/taste/example/movie/model/table/MovieTable/getAllMovies()@18ebbd5e544233c1a77783b2fd64ae7fa40352df.txt	3

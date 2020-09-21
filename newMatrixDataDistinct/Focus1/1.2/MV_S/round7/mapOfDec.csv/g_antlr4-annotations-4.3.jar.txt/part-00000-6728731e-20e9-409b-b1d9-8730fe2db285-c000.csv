@@ -1,0 +1,5 @@
+groovyjarjarantlr4/v4/runtime/misc/NullUsageProcessor/checkOverriddenMethod(javax.lang.model.element.ExecutableElement,javax.lang.model.element.ExecutableElement,java.util.Set,java.util.Set)@g_groovy-2.6.0-alpha-1.jar.txt	0
+org/codehaus/groovy/classgen/ExtendedVerifier/checkForDuplicateAnnotations(org.codehaus.groovy.ast.AnnotatedNode,java.util.Map)@g_groovy-2.6.0-alpha-1.jar.txt	2
+groovy/transform/builder/DefaultStrategy/buildClass(org.codehaus.groovy.transform.BuilderASTTransformation,org.codehaus.groovy.ast.ClassNode,org.codehaus.groovy.ast.AnnotationNode)@g_groovy-2.6.0-alpha-1.jar.txt	4
+groovyjarjarantlr4/v4/runtime/dfa/ArrayEdgeMap/putAll(groovyjarjarantlr4.v4.runtime.dfa.EdgeMap)@g_groovy-2.6.0-alpha-1.jar.txt	1
+groovyjarjarantlr4/v4/analysis/LeftRecursiveRuleAnalyzer/addPrecedenceArgToRules(groovyjarjarantlr4.v4.tool.ast.AltAST,int)@g_groovy-2.6.0-alpha-1.jar.txt	3

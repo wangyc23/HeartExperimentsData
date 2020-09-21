@@ -1,0 +1,5 @@
+ca/intelliware/ihtsdo/mlds/web/rest/AuditResource/findByFilter(java.lang.String)@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	0
+ca/intelliware/ihtsdo/mlds/web/rest/AffiliatePublicResource/getAffiliates(java.lang.String,java.lang.String,java.lang.String)@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	4
+ca/intelliware/ihtsdo/mlds/web/rest/ReleasePackagesResource/updateReleasePackage(long,ca.intelliware.ihtsdo.mlds.domain.ReleasePackage)@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	2
+ca/intelliware/ihtsdo/mlds/web/rest/ReleasePackagesResource/getReleasePackage(long)@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	3
+ca/intelliware/ihtsdo/mlds/web/rest/ReleaseVersionsResource/getReleaseVersion(long,long)@1ef65db091d4df310afcc1999d5ee9b3de4b405b.txt	1

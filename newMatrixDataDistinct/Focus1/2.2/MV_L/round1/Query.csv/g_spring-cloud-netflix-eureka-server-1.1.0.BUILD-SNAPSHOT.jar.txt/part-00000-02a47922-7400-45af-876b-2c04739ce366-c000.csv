@@ -1,0 +1,4 @@
+com/netflix/discovery/shared/Application/getInstances()
+java/util/Iterator/hasNext()
+java/lang/StringBuilder/append(java.lang.String)
+org/springframework/cloud/netflix/eureka/server/InstanceRegistry/getSortedApplications()

@@ -1,0 +1,4 @@
+org/apache/batik/dom/util/HashTable/HashTable()
+org/apache/batik/anim/dom/SVGDOMImplementation$FeDisplacementMapElementFactory/FeDisplacementMapElementFactory()
+org/apache/batik/anim/dom/SVGDOMImplementation$PolygonElementFactory/PolygonElementFactory()
+org/apache/batik/dom/util/HashTable/put(java.lang.Object,java.lang.Object)

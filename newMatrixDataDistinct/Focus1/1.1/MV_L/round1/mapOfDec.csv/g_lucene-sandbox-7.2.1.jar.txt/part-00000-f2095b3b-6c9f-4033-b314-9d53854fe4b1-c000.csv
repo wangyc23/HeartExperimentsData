@@ -1,0 +1,5 @@
+org/apache/lucene/document/LatLonPoint/nearest(org.apache.lucene.search.IndexSearcher,java.lang.String,double,double,int)@g_lucene-sandbox-7.0.0.jar.txt	4
+org/apache/lucene/codecs/idversion/VersionBlockTreeTermsWriter/TermsWriter/writeBlock(int,boolean,int,int,int,boolean,boolean)@g_lucene-sandbox-7.0.0.jar.txt	0
+org/apache/lucene/search/TermAutomatonQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-7.0.0.jar.txt	1
+org/apache/lucene/document/NearestNeighbor/nearest(double,double,java.util.List,java.util.List,java.util.List,int)@g_lucene-sandbox-7.0.0.jar.txt	3
+org/apache/lucene/sandbox/queries/FuzzyLikeThisQuery/rewrite(org.apache.lucene.index.IndexReader)@g_lucene-sandbox-7.0.0.jar.txt	2

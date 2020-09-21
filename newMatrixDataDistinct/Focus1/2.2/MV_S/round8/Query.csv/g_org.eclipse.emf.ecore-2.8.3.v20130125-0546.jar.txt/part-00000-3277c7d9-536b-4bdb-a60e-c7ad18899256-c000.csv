@@ -1,0 +1,4 @@
+org/eclipse/core/runtime/content/IContentTypeManager/getDescriptionFor(java.io.InputStream,java.lang.String,org.eclipse.core.runtime.QualifiedName[])
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/eclipse/core/runtime/Platform/getContentTypeManager()
+org/eclipse/core/runtime/content/IContentDescription/getProperty(org.eclipse.core.runtime.QualifiedName)

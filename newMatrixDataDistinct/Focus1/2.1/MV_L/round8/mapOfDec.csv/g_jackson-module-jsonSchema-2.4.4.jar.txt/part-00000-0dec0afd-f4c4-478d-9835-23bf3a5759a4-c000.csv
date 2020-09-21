@@ -1,0 +1,5 @@
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/getReachableGrantedAuthorities(java.util.Collection)@g_spring-security-core-4.2.2.RELEASE.jar.txt	1
+org/springframework/security/access/prepost/PrePostAnnotationSecurityMetadataSource/getAttributes(java.lang.reflect.Method,java.lang.Class)@g_spring-security-core-4.2.2.RELEASE.jar.txt	3
+org/springframework/security/access/event/LoggerListener/onApplicationEvent(org.springframework.security.access.event.AbstractAuthorizationEvent)@g_spring-security-core-4.2.2.RELEASE.jar.txt	2
+org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl/buildRolesReachableInOneOrMoreStepsMap()@g_spring-security-core-4.2.2.RELEASE.jar.txt	4
+com/fasterxml/jackson/module/jsonSchema/customProperties/HyperSchemaFactoryWrapper/addHyperlinks(com.fasterxml.jackson.module.jsonSchema.JsonSchema,com.fasterxml.jackson.databind.JavaType)@g_jackson-module-jsonSchema-2.8.8.jar.txt	0

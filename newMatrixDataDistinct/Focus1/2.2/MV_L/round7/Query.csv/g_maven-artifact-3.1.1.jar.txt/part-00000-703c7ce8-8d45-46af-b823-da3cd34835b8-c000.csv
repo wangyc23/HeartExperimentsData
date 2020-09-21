@@ -1,0 +1,4 @@
+java/lang/StringBuilder/append(java.lang.String)
+java/math/BigInteger/compareTo(java.math.BigInteger)
+java/lang/StringBuilder/StringBuilder()
+org/apache/maven/artifact/versioning/ComparableVersion$Item/getType()

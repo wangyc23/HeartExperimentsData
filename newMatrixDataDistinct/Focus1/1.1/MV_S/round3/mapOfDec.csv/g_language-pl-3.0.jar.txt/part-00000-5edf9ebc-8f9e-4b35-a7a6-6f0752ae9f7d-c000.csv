@@ -1,0 +1,5 @@
+org/languagetool/rules/pl/MorfologikPolishSpellerRule/getRuleMatches(java.lang.String,int)@g_language-uk-3.0.jar.txt	2
+org/languagetool/rules/en/AvsAnRule/getCorrectDeterminerFor(org.languagetool.AnalyzedTokenReadings)@g_language-en-3.0.jar.txt	0
+org/languagetool/rules/en/AvsAnRule/getCorrectDeterminerFor(org.languagetool.AnalyzedTokenReadings)@g_language-uk-3.0.jar.txt	1
+org/languagetool/tagging/uk/CompoundTagger/debug_tagged_write(java.util.List,java.io.BufferedWriter)@g_language-uk-3.0.jar.txt	4
+org/languagetool/rules/uk/UkrainianWordRepeatRule/ignore(org.languagetool.AnalyzedTokenReadings[],int)@g_language-uk-3.0.jar.txt	3

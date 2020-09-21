@@ -1,0 +1,4 @@
+java/lang/Integer/intValue()
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Map/get(java.lang.Object)
+java/lang/Integer/valueOf(int)

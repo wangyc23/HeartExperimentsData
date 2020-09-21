@@ -1,0 +1,4 @@
+org/kiji/schema/KijiURI/newBuilder(org.kiji.schema.KijiURI)
+org/kiji/schema/KijiURI/KijiURIBuilder/build()
+org/kiji/schema/KijiURI/toString()
+org/kiji/schema/KijiURI/KijiURIBuilder/withInstanceName(java.lang.String)

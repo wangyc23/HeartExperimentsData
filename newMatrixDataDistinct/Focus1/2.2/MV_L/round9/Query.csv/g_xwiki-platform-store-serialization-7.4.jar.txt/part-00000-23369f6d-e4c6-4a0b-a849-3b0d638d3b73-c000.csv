@@ -1,0 +1,4 @@
+org/dom4j/Element/getQualifiedName()
+java/util/Stack/size()
+org/xwiki/store/serialization/xml/internal/XMLWriter$LastCharWriter/getLastChar()
+java/util/Stack/pop()

@@ -1,0 +1,5 @@
+com/fasterxml/jackson/databind/ser/BasicSerializerFactory/<clinit>()@g_jackson-databind-2.8.5.jar.txt	3
+com/fasterxml/jackson/databind/introspect/BasicBeanDescription/findBackReferenceProperties()@g_jackson-databind-2.8.5.jar.txt	1
+com/fasterxml/jackson/databind/deser/std/CollectionDeserializer/CollectionReferringAccumulator/resolveForwardReference(java.lang.Object,java.lang.Object)@g_jackson-databind-2.8.5.jar.txt	0
+com/fasterxml/jackson/databind/deser/BasicDeserializerFactory/createCollectionDeserializer(com.fasterxml.jackson.databind.DeserializationContext,com.fasterxml.jackson.databind.type.CollectionType,com.fasterxml.jackson.databind.BeanDescription)@g_jackson-databind-2.8.5.jar.txt	4
+com/fasterxml/jackson/databind/deser/BasicDeserializerFactory/createMapDeserializer(com.fasterxml.jackson.databind.DeserializationContext,com.fasterxml.jackson.databind.type.MapType,com.fasterxml.jackson.databind.BeanDescription)@g_jackson-databind-2.8.5.jar.txt	2

@@ -1,0 +1,5 @@
+org/bytedeco/javacpp/Pointer/<clinit>()@g_guice-assistedinject-4.1.0.jar.txt	3
+com/google/inject/assistedinject/FactoryProvider2/getDependencies(com.google.inject.spi.InjectionPoint,com.google.inject.TypeLiteral)@g_guice-assistedinject-4.1.0.jar.txt	2
+org/bytedeco/javacpp/tools/Parser/macro(org.bytedeco.javacpp.tools.Context,org.bytedeco.javacpp.tools.DeclarationList)@g_guice-assistedinject-4.1.0.jar.txt	1
+com/google/inject/assistedinject/FactoryProvider2/removeAssistedDeps(java.util.Set)@g_guice-assistedinject-4.1.0.jar.txt	0
+org/bytedeco/javacpp/tools/Parser/commentDoc(java.lang.String,int)@g_guice-assistedinject-4.1.0.jar.txt	4

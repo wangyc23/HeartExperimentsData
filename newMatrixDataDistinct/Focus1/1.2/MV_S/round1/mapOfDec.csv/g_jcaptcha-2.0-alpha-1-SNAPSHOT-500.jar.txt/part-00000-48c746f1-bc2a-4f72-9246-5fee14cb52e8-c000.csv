@@ -1,0 +1,5 @@
+com/octo/captcha/component/image/textpaster/MutableAttributedString/moveToRandomSpot(java.awt.image.BufferedImage,java.awt.geom.Point2D)@g_filters-2.0.235.jar.txt	2
+com/octo/captcha/engine/image/utils/ImageCaptchaToJPEG/clearOutputDirectory(java.io.File)@g_filters-2.0.235.jar.txt	1
+com/jhlabs/image/MirrorFilter/filter(java.awt.image.BufferedImage,java.awt.image.BufferedImage)@g_filters-2.0.235.jar.txt	3
+com/octo/captcha/engine/image/gimpy/HotmailEngine2008/buildInitialFactories()@g_filters-2.0.235.jar.txt	4
+com/octo/captcha/module/servlet/SimpleSoundCaptchaServlet/doGet(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_jcaptcha-extension-sound-freetts-2.0-alpha-1-SNAPSHOT-500.jar.txt	0

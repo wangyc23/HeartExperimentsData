@@ -1,0 +1,4 @@
+0	org/apache/avro/mapred/AvroMapper/close()
+1	org/apache/avro/mapred/AvroCollector/collect(T)
+2	enterprisegeeks/entity/Chat/setSpeaker(enterprisegeeks.entity.Account)
+3	org/apache/avro/mapred/Pair/Pair(java.lang.Long,org.apache.avro.generic.GenericContainer)

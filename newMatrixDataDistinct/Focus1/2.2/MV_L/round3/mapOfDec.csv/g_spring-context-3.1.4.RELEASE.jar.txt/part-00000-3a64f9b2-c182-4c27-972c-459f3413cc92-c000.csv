@@ -1,0 +1,5 @@
+org/springframework/validation/beanvalidation/LocalValidatorFactoryBean/afterPropertiesSet()@g_spring-context-3.0.5.RELEASE.jar.txt	4
+org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader/loadBeanDefinitionsFromImportedResources(java.util.Map)@g_spring-context-3.0.5.RELEASE.jar.txt	0
+org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader/loadBeanDefinitionsFromImportedResources(java.util.Map)@g_spring-context-3.2.2.RELEASE.jar.txt	1
+org/springframework/context/annotation/ConfigurationClassPostProcessor/enhanceConfigurationClasses(org.springframework.beans.factory.config.ConfigurableListableBeanFactory)@g_spring-context-3.0.5.RELEASE.jar.txt	2
+org/springframework/context/annotation/ConfigurationClassParser/doProcessConfigurationClass(org.springframework.context.annotation.ConfigurationClass,org.springframework.core.type.AnnotationMetadata)@g_spring-context-3.0.5.RELEASE.jar.txt	3

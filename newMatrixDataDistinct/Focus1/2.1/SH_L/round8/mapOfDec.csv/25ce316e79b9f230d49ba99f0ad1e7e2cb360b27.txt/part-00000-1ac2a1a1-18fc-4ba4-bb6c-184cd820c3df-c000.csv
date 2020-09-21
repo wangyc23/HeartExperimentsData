@@ -1,0 +1,5 @@
+com/backend/collab/SessionManager/getPublicSessions(org.eclipse.jetty.websocket.api.Session)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	2
+uk/ac/ic/wlgitbridge/util/Log/warn(java.lang.String)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	0
+uk/ac/ic/wlgitbridge/snapshot/servermock/server/PostbackThread/run()@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	1
+com/backend/collab/PSession/getOption(java.lang.String)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	3
+uk/ac/ic/wlgitbridge/data/model/db/sql/SQLiteWLDatabase/setVersionIDForProject(java.lang.String,int)@2a8c4daf938e51f4f0f5f48dffc903f007f2e5c4.txt	4

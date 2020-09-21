@@ -1,0 +1,5 @@
+org/languagetool/rules/de/VerbAgreementRule/ruleMatchWrongVerbSubject(org.languagetool.AnalyzedTokenReadings,org.languagetool.AnalyzedTokenReadings,java.lang.String)@g_language-de-3.0.jar.txt	3
+org/languagetool/rules/de/SubjectVerbAgreementRule/getPluralMatchOrNull(org.languagetool.AnalyzedTokenReadings[],int,org.languagetool.AnalyzedTokenReadings,java.lang.String)@g_language-de-3.0.jar.txt	2
+org/languagetool/rules/de/VerbAgreementRule/match(org.languagetool.AnalyzedSentence)@g_language-de-3.0.jar.txt	0
+org/languagetool/rules/de/AgreementRule/checkDetNounAgreement(org.languagetool.AnalyzedTokenReadings,org.languagetool.AnalyzedTokenReadings)@g_language-de-3.0.jar.txt	1
+org/languagetool/rules/de/VerbAgreementRule/hasUnambiguouslyPersonAndNumber(org.languagetool.AnalyzedTokenReadings,java.lang.String,java.lang.String)@g_language-de-3.0.jar.txt	4

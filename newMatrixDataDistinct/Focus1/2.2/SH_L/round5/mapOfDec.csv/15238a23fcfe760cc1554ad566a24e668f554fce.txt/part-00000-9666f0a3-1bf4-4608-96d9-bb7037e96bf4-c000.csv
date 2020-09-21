@@ -1,0 +1,5 @@
+org/apache/oozie/command/bundle/TestBulkBundleXCommand/testBulkBundleSuspendNoOp()@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	3
+org/apache/oozie/servlet/MockCoordinatorEngineService/MockCoordinatorEngine/killActions(java.lang.String,java.lang.String,java.lang.String)@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	0
+org/apache/oozie/servlet/MockCoordinatorEngineService/MockCoordinatorEngine/reRun(java.lang.String,java.lang.String,java.lang.String,boolean,boolean,boolean,org.apache.oozie.Configuration)@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	1
+org/apache/oozie/command/coord/CoordActionsKillXCommand/killChildren()@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	4
+org/apache/oozie/executor/jpa/TestBundleJobsDeleteJPAExecutor/testDeleteBundlesRollback()@109c30ba776abc78b3ec1ed86c73d06f65d821e4.txt	2

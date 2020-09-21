@@ -1,0 +1,5 @@
+org/apache/spark/streaming/JavaAPISuite/testWindow()@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	3
+org/apache/hive/service/cli/thrift/TColumnDesc/TColumnDescTupleScheme/read(org.apache.thrift.protocol.TProtocol,org.apache.hive.service.cli.thrift.TColumnDesc)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	2
+org/apache/hive/service/cli/thrift/TFetchResultsReq/equals(org.apache.hive.service.cli.thrift.TFetchResultsReq)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	4
+org/apache/spark/sql/execution/datasources/parquet/VectorizedParquetRecordReader/initialize(org.apache.spark.sql.execution.datasources.parquet.InputSplit,org.apache.spark.sql.execution.datasources.parquet.TaskAttemptContext)@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	0
+org/apache/spark/unsafe/map/BytesToBytesMap/MapIterator/advanceToNextPage()@02588d1187e7e3ff855edf3f55f0d3a5aa10d39f.txt	1

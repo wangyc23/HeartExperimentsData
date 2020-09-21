@@ -1,0 +1,5 @@
+org/deeplearning4j/clustering/cluster/ClusterUtils/refreshClustersCenters(org.deeplearning4j.clustering.cluster.ClusterSet,org.deeplearning4j.clustering.cluster.info.ClusterSetInfo,java.util.concurrent.ExecutorService)@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	4
+org/deeplearning4j/models/word2vec/wordstore/VocabularyHolder/transferBackToVocabCache(org.deeplearning4j.models.word2vec.wordstore.VocabCache,boolean)@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	2
+org/deeplearning4j/optimize/solver/TestOptimizers/RastriginFunctionModel/computeGradientAndScore()@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	3
+org/deeplearning4j/clustering/algorithm/condition/ConvergenceCondition/isSatisfied(org.deeplearning4j.clustering.algorithm.iteration.IterationHistory)@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	0
+org/deeplearning4j/text/corpora/treeparser/TreeParserTest/testNumTrees()@22f6a74cbe87e77df491d0b9d8818cab5d48dd83.txt	1

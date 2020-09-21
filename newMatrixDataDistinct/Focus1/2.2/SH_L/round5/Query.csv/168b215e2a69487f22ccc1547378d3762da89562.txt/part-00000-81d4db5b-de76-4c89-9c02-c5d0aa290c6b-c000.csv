@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+net/lightbody/bmp/proxy/jetty/http/HttpMessage/setContentLength(int)
+net/lightbody/bmp/proxy/jetty/http/SecurityConstraint/hasDataConstraint()
+net/lightbody/bmp/proxy/jetty/http/UserRealm/isUserInRole(java.security.Principal,java.lang.String)

@@ -1,0 +1,5 @@
+org/hibernate/validator/xml/XmlMappingParser/parsePropertyLevelOverrides(java.util.List,java.lang.Class,java.lang.String)@g_hibernate-validator-4.1.0.Final.jar.txt	4
+org/hibernate/validator/engine/ValidatorFactoryImpl/createAnnotationProxy(org.hibernate.validator.cfg.ConstraintDefWrapper)@g_hibernate-validator-4.1.0.Final.jar.txt	3
+org/hibernate/validator/metadata/ConstraintHelper/getBuiltInConstraints(java.lang.Class)@g_hibernate-validator-4.1.0.Final.jar.txt	0
+org/hibernate/validator/util/annotationfactory/AnnotationProxy/toString()@g_hibernate-validator-4.1.0.Final.jar.txt	2
+org/hibernate/validator/xml/XmlMappingParser/getPayload(org.hibernate.validator.xml.PayloadType,java.lang.String)@g_hibernate-validator-4.1.0.Final.jar.txt	1

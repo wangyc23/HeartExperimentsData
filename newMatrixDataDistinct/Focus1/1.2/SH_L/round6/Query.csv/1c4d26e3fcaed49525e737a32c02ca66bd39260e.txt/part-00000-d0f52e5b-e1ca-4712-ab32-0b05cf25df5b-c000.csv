@@ -1,0 +1,4 @@
+java/util/List/isEmpty()
+java/util/List/add(E)
+java/lang/IllegalArgumentException/IllegalArgumentException(java.lang.String)
+ar/com/comunidadesfera/batallaespacial/juego/partidas/estrategias/DefinicionDeNavesAbstracta/construirNaveDeCombate(ar.com.comunidadesfera.batallaespacial.juego.Participante,ar.com.comunidadesfera.batallaespacial.Piloto)

@@ -1,0 +1,5 @@
+org/dayatang/querychannel/impl/QueryChannelServiceImplHibernateTest/tearDownClass()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	4
+org/dayatang/persistence/hibernate/EntityRepositoryHibernateTest/testNamedQueryScalar()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	3
+org/dayatang/persistence/jpa/AliasTest/testGetAlias()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	1
+org/dayatang/observer/HibernateUtils/buildSessionFactory()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	0
+org/dayatang/springtest/test/CustomBean/afterPropertiesSet()@12228140ae46ddbf7bbbc8411a32f58d2cbce191.txt	2

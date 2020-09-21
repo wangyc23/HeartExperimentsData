@@ -1,0 +1,5 @@
+org/apache/ivy/osgi/util/ParseUtil/parseDelimitedString(java.lang.String,java.lang.String)@g_ivy-2.3.0.jar.txt	3
+org/codehaus/plexus/components/interactivity/DefaultPrompter/formatMessage(java.lang.String,java.util.List,java.lang.String)@g_plexus-interactivity-api-1.0-alpha-4.jar.txt	4
+org/apache/ivy/core/IvyPatternHelper/substituteTokens(java.lang.String,java.util.Map)@g_ivy-2.3.0.jar.txt	1
+org/apache/ivy/util/FileUtil/dissect(java.lang.String)@g_ivy-2.3.0.jar.txt	0
+org/apache/ivy/plugins/repository/vsftp/VsftpRepository/2/run()@g_ivy-2.3.0.jar.txt	2

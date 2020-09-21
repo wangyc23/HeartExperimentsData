@@ -1,0 +1,5 @@
+org/wso2/carbon/deployment/synchronizer/services/DeploymentSynchronizerAdmin/getParamsByRepositoryType(java.lang.String)@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	3
+org/wso2/carbon/logging/service/provider/FileLogProvider/getSortedPerLogInfoList(java.util.List)@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	2
+com/cdo/google/protocol/GoogleCDO/CDOProto/Builder/mergeFrom(com.cdo.google.protocol.GoogleCDO.CDOProto)@0df6a5910c0de3209a3c0533b99e150a4db53fcd.txt	0
+org/wso2/carbon/logging/service/LogViewer/getPaginatedLogEvent(int,java.util.List)@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	1
+org/wso2/carbon/logging/service/LogViewer/getPaginatedLogFileInfo(int,java.util.List)@20cf5cca5296945b1fc3d9b14dceaa48d21cb3cd.txt	4

@@ -1,0 +1,5 @@
+0	javax/xml/soap/SOAPBody/addFault()
+1	javax/xml/soap/SOAPMessage/getSOAPPart()
+2	javax/xml/soap/SOAPPart/getEnvelope()
+3	org/dyrda/jersey/date/converter/MyDateStringConverter/getConverter(java/lang/Class,java/lang/reflect/Type,java/lang/annotation/Annotation[])/$anonymous1/()
+4	javax/xml/ws/soap/SOAPFaultException/SOAPFaultException(javax.xml.soap.SOAPFault)

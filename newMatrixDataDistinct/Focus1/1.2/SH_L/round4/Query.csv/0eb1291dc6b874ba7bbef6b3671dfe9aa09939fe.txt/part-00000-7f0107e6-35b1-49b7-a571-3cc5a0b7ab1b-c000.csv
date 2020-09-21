@@ -1,0 +1,4 @@
+org/apache/mahout/cf/taste/impl/recommender/svd/ParallelSGDFactorizerTest/setUpToyData()
+org/slf4j/Logger/info(java.lang.String)
+org/apache/mahout/cf/taste/impl/recommender/svd/ParallelSGDFactorizer/ParallelSGDFactorizer(org.apache.mahout.cf.taste.model.DataModel,int,double,int,double,double,int,double)
+org/junit/Assert/assertTrue(boolean)

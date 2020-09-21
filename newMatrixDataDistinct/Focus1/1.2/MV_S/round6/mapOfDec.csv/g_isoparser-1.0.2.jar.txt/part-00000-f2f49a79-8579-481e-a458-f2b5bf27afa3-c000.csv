@@ -1,0 +1,5 @@
+com/coremedia/iso/boxes/FullContainerBox/toString()@g_isoparser-1.0-RC-1.jar.txt	0
+com/coremedia/iso/boxes/fragment/TrackRunBox/toString()@g_isoparser-1.0-RC-1.jar.txt	2
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/ESDescriptor/parseDetail(java.nio.ByteBuffer)@g_isoparser-1.0-RC-1.jar.txt	4
+com/coremedia/iso/boxes/h264/AvcConfigurationBox/getSPS()@g_isoparser-1.0-RC-1.jar.txt	3
+com/coremedia/iso/boxes/AbstractContainerBox/toString()@g_isoparser-1.0-RC-1.jar.txt	1

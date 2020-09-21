@@ -1,0 +1,4 @@
+com/sun/org/apache/xml/internal/resolver/Resolver/newCatalog()
+java/util/Vector/size()
+com/sun/org/apache/xml/internal/resolver/Resolver/resolveEntity(java.lang.String,java.lang.String,java.lang.String)
+java/util/Vector/Vector()

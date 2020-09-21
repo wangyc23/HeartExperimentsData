@@ -1,0 +1,5 @@
+org/apache/lucene/queryparser/flexible/standard/nodes/LegacyNumericRangeQueryNode/toString()@g_lucene-queryparser-6.4.1.jar.txt	1
+org/apache/lucene/queryparser/flexible/standard/builders/LegacyNumericRangeQueryNodeBuilder/build(org.apache.lucene.queryparser.flexible.core.nodes.QueryNode)@g_lucene-queryparser-6.5.0.jar.txt	2
+org/apache/lucene/queryparser/flexible/standard/builders/LegacyNumericRangeQueryNodeBuilder/build(org.apache.lucene.queryparser.flexible.core.nodes.QueryNode)@g_lucene-queryparser-6.4.1.jar.txt	0
+org/apache/lucene/queryparser/xml/builders/SpanOrTermsBuilder/getSpanQuery(org.w3c.dom.Element)@g_lucene-queryparser-6.4.1.jar.txt	4
+org/apache/lucene/queryparser/flexible/standard/nodes/LegacyNumericRangeQueryNode/toString()@g_lucene-queryparser-6.5.0.jar.txt	3

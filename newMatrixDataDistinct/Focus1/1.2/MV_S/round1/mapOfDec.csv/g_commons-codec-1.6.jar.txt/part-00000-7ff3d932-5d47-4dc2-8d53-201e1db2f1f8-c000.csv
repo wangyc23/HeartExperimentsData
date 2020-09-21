@@ -1,0 +1,5 @@
+org/apache/http/impl/cookie/BrowserCompatSpec/parse(org.apache.http.Header,org.apache.http.cookie.CookieOrigin)@g_httpclient-osgi-4.5.3.jar.txt	3
+org/apache/commons/codec/language/ColognePhonetic/colognePhonetic(java.lang.String)@g_httpclient-osgi-4.5.3.jar.txt	0
+org/apache/http/impl/cookie/RFC2109DomainHandler/validate(org.apache.http.cookie.Cookie,org.apache.http.cookie.CookieOrigin)@g_httpclient-osgi-4.5.3.jar.txt	2
+org/apache/maven/plugin/surefire/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-surefire-plugin-2.12.jar.txt	1
+org/apache/commons/codec/language/bm/Rule/parseRules(java.util.Scanner,java.lang.String)@g_httpclient-osgi-4.5.3.jar.txt	4

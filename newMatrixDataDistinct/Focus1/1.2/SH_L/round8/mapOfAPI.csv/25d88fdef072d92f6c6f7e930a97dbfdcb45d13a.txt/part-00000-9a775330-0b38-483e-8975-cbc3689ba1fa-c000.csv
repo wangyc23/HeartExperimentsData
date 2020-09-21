@@ -1,0 +1,4 @@
+0	gaffer/accumulostore/AccumuloProperties/getInstanceName()
+1	gaffer/accumulostore/AccumuloProperties/getUserName()
+2	gaffer/accumulostore/AccumuloProperties/getPassword()
+3	gaffer/accumulostore/AccumuloStore/getProperties()

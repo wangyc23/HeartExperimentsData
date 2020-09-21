@@ -1,0 +1,4 @@
+org/apache/commons/logging/Log/debug(java.lang.Object)
+java/util/concurrent/locks/Lock/unlock()
+java/util/Iterator/hasNext()
+java/lang/System/runFinalization()

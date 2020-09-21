@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/lang/StringBuilder/append(java.lang.String)
+java/lang/StringBuilder/append(int)
+org/apache/lucene/search/similarities/BM25Similarity$BM25Stats/access$900(org.apache.lucene.search.similarities.BM25Similarity$BM25Stats)

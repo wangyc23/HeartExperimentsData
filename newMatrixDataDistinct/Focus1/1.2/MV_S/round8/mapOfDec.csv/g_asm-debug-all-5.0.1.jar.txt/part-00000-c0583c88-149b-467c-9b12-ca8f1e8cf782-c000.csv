@@ -1,0 +1,5 @@
+org/objectweb/asm/commons/Method/getMethod(java.lang.String,boolean)@g_asm-all-repackaged-2.2.0-b21.jar.txt	1
+org/objectweb/asm/util/CheckMethodAdapter/checkMethodIdentifier(java.lang.String,java.lang.String)@g_asm-all-repackaged-2.2.0-b21.jar.txt	2
+org/objectweb/asm/xml/Processor/OutputSlicingHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)@g_asm-all-repackaged-2.2.0-b21.jar.txt	3
+org/objectweb/asm/commons/Method/map(java.lang.String,boolean)@g_asm-all-repackaged-2.2.0-b21.jar.txt	4
+org/objectweb/asm/util/ASMifierClassVisitor/visit(int,int,java.lang.String,java.lang.String,java.lang.String,java.lang.String[])@g_asm-all-repackaged-2.2.0-b21.jar.txt	0

@@ -1,0 +1,5 @@
+org/openrdf/http/client/SesameHTTPClient/upload(org.apache.commons.httpclient.methods.RequestEntity,java.lang.String,boolean,org.openrdf.model.Resource[])@g_sesame-repository-api-2.7.9.jar.txt	4
+org/openrdf/query/resultio/binary/BinaryQueryResultWriter/handleSolution(org.openrdf.query.BindingSet)@g_onejar-2.7.9.jar.txt	1
+org/openrdf/rio/rdfxml/RDFXMLParser/parse(org.xml.sax.InputSource)@g_sesame-repository-api-2.7.9.jar.txt	3
+org/openrdf/query/parser/sparql/TupleExprBuilder/visit(org.openrdf.query.parser.sparql.ast.ASTSelect,java.lang.Object)@g_onejar-2.7.9.jar.txt	0
+org/openrdf/query/QueryResults/report(org.openrdf.query.GraphQueryResult,org.openrdf.rio.RDFHandler)@g_sesame-repository-api-2.7.9.jar.txt	2

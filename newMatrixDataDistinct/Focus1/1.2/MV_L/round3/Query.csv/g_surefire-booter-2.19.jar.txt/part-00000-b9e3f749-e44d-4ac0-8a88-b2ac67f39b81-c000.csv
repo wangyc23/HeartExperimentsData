@@ -1,0 +1,4 @@
+org/apache/maven/surefire/util/ReflectionUtils/loadClass(java.lang.ClassLoader,java.lang.String)
+java/io/File/File(java.lang.String)
+java/lang/StringBuilder/StringBuilder()
+java/lang/String/getBytes(java.lang.String)

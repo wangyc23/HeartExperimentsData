@@ -1,0 +1,4 @@
+java/lang/String/equalsIgnoreCase(java.lang.String)
+java/lang/String/toLowerCase()
+java/io/File/File(java.lang.String)
+java/util/ArrayList/add(java.lang.Object)

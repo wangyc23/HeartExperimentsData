@@ -1,0 +1,5 @@
+scala/xml/dtd/impl/WordBerrySethi/initialize(scala.collection.Seq)@g_scala-xml_2.11-1.0.5.jar.txt	4
+scala/util/parsing/combinator/Parsers/Parser/anon/4/apply(scala.util.parsing.input.Reader)@g_scala-xml_2.11-1.0.5.jar.txt	2
+scala/xml/parsing/MarkupParserCommon/class/normalizeAttributeValue(scala.xml.parsing.MarkupParserCommon,java.lang.String)@g_scala-xml_2.11-1.0.5.jar.txt	3
+org/parboiled/scala/Parser/class/noneOf(org.parboiled.scala.Parser,char[])@g_scala-xml_2.11-1.0.5.jar.txt	1
+org/parboiled/scala/Parser/class/rule(org.parboiled.scala.Parser,java.lang.String,java.lang.StackTraceElement,scala.collection.Seq,scala.Function0,scala.Function1)@g_scala-xml_2.11-1.0.5.jar.txt	0

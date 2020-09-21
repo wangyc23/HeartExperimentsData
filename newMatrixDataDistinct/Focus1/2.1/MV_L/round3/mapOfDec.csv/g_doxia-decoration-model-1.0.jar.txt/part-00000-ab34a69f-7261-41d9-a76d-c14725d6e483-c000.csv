@@ -1,0 +1,5 @@
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseIssueManagement(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-decoration-model-1.1.2.jar.txt	3
+org/apache/maven/doxia/site/decoration/io/xpp3/DecorationXpp3Reader/parseMenu(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-decoration-model-1.1.2.jar.txt	2
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseRepositoryPolicy(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-decoration-model-1.1.2.jar.txt	1
+org/apache/maven/model/io/xpp3/MavenXpp3Reader/parseReporting(java.lang.String,org.codehaus.plexus.util.xml.pull.XmlPullParser,boolean)@g_doxia-decoration-model-1.1.2.jar.txt	4
+org/apache/maven/doxia/site/decoration/inheritance/PathDescriptor/buildUrl(java.net.URL,java.lang.String)@g_doxia-decoration-model-1.1.2.jar.txt	0

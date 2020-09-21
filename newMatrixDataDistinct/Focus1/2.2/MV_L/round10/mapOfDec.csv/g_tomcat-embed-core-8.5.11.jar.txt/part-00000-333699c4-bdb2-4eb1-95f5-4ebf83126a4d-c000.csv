@@ -1,0 +1,5 @@
+org/apache/catalina/loader/WebappClassLoaderBase/clearReferencesStopTimerThread(java.lang.Thread)@g_tomcat-embed-core-8.0.28.jar.txt	1
+org/apache/catalina/loader/WebappClassLoaderBase/clearReferencesThreads()@g_tomcat-embed-core-8.0.28.jar.txt	0
+org/apache/catalina/valves/StuckThreadDetectionValve/getStuckThreadNames()@g_tomcat-embed-core-8.0.28.jar.txt	4
+org/apache/catalina/valves/StuckThreadDetectionValve/notifyStuckThreadDetected(org.apache.catalina.valves.StuckThreadDetectionValve$MonitoredThread,long,int)@g_tomcat-embed-core-8.0.28.jar.txt	3
+org/apache/tomcat/util/threads/LimitLatch/countUpOrAwait()@g_tomcat-embed-core-8.0.28.jar.txt	2

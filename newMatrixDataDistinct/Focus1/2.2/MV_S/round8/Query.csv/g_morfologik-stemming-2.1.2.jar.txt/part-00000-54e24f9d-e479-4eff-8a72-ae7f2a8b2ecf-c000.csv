@@ -1,0 +1,4 @@
+java/nio/CharBuffer/put(char)
+java/lang/StringBuilder/append(int)
+java/lang/StringBuilder/StringBuilder()
+java/nio/ByteBuffer/array()

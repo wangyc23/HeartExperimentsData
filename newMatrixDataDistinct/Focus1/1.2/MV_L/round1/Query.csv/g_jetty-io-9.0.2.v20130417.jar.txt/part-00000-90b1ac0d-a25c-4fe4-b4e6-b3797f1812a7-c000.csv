@@ -1,0 +1,4 @@
+org/eclipse/jetty/io/SelectorManager$ManagedSelector/isRunning()
+org/eclipse/jetty/io/SelectorManager$ManagedSelector/select()
+org/eclipse/jetty/util/log/Logger/debug(java.lang.String,java.lang.Object[])
+java/lang/StringBuilder/append(java.lang.String)

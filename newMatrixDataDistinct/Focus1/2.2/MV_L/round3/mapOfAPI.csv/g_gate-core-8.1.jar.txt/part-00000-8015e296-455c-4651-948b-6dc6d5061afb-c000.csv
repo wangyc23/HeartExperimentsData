@@ -1,0 +1,4 @@
+0	java/awt/geom/Area/intersect(java.awt.geom.Area)
+1	java/awt/Graphics2D/scale(double,double)
+2	java/awt/Graphics2D/dispose()
+3	java/lang/Math/min(double,double)

@@ -1,0 +1,4 @@
+java/lang/String/valueOf(java.lang.Object)
+java/lang/String/length()
+java/lang/StringBuilder/StringBuilder(java.lang.String)
+java/lang/String/indexOf(java.lang.String,int)

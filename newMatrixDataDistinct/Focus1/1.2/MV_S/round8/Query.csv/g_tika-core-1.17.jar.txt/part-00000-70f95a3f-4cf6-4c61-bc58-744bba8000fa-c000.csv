@@ -1,0 +1,4 @@
+java/lang/Process/getInputStream()
+java/lang/String/split(java.lang.String)
+java/util/Map/isEmpty()
+java/lang/Runtime/exec(java.lang.String[])

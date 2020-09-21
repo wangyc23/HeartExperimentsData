@@ -1,0 +1,5 @@
+org/apache/maven/artifact/repository/ArtifactRepositoryPolicy/checkOutOfDate(java.util.Date)@g_maven-artifact-3.0.3.jar.txt	2
+org/apache/maven/artifact/versioning/DefaultArtifactVersion/parseVersion(java.lang.String)@g_maven-artifact-3.0.3.jar.txt	4
+org/apache/maven/artifact/versioning/VersionRange/createFromVersionSpec(java.lang.String)@g_maven-artifact-3.0.3.jar.txt	3
+org/apache/maven/artifact/versioning/VersionRange/parseRestriction(java.lang.String)@g_maven-artifact-3.0.3.jar.txt	0
+org/apache/maven/artifact/versioning/VersionRange/parseRestriction(java.lang.String)@g_maven-artifact-3.0.jar.txt	1

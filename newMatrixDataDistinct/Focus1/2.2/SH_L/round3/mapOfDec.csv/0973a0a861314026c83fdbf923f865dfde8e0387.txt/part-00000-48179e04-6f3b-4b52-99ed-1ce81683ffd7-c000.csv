@@ -1,0 +1,5 @@
+org/graylog2/streams/StreamImpl/getStreamRules()@12b0514eeea57689c7f3944ac3a97b69e9930c62.txt	3
+org/graylog2/inputs/syslog/SyslogUDPInput/initialize(java.util.Map,org.graylog2.filters.GraylogServer)@12b0514eeea57689c7f3944ac3a97b69e9930c62.txt	1
+org/graylog2/filters/CounterUpdateFilter/filter(org.graylog2.buffers.LogMessage,org.graylog2.filters.GraylogServer)@12b0514eeea57689c7f3944ac3a97b69e9930c62.txt	0
+org/graylog2/streams/matchers/FileNameAndLineMatcher/match(org.graylog2.buffers.LogMessage,org.graylog2.streams.matchers.StreamRule)@12b0514eeea57689c7f3944ac3a97b69e9930c62.txt	2
+org/graylog2/streams/matchers/FacilityMatcherTest/testMissedMatch()@12b0514eeea57689c7f3944ac3a97b69e9930c62.txt	4

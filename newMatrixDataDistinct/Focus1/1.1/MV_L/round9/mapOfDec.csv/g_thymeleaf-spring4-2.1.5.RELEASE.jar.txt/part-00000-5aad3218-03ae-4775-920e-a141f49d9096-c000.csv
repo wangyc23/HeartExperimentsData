@@ -1,0 +1,5 @@
+org/thymeleaf/spring4/SpringTemplateEngine/initializeSpecific()@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	2
+org/thymeleaf/spring4/view/AjaxThymeleafViewResolver/createView(java.lang.String,java.util.Locale)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	1
+org/thymeleaf/spring4/view/ThymeleafViewResolver/createView(java.lang.String,java.util.Locale)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	4
+org/thymeleaf/spring4/view/AjaxThymeleafViewResolver/AjaxRedirectView/sendRedirect(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String,boolean)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	0
+org/thymeleaf/spring4/view/AjaxThymeleafView/render(java.util.Map,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)@g_thymeleaf-spring4-2.1.4.RELEASE.jar.txt	3

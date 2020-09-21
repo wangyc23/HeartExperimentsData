@@ -1,0 +1,5 @@
+org/neo4j/cypher/internal/compiler/v3_0/ast/convert/commands/StatementConverters/MatchConverter/addToQueryBuilder$extension(org.neo4j.cypher.internal.frontend.v3_0.ast.Match,org.neo4j.cypher.internal.compiler.v3_0.commands.QueryBuilder,org.neo4j.cypher.internal.compiler.v3_0.InternalNotificationLogger,java.lang.String)@g_neo4j-cypher-compiler-3.0-3.0.7.jar.txt	1
+org/neo4j/cypher/internal/compiler/v3_0/ast/convert/plannerQuery/PatternConverters/PatternDestructor/anonfun/destructed/extension/1/apply(org.neo4j.cypher.internal.compiler.v3_0.ast.convert.plannerQuery.PatternConverters$DestructResult,org.neo4j.cypher.internal.frontend.v3_0.ast.PatternPart)@g_neo4j-cypher-compiler-3.0-3.0.7.jar.txt	4
+org/neo4j/cypher/internal/compiler/v3_0/ast/rewriters/isolateAggregation/anonfun/1/anonfun/3/apply(org.neo4j.cypher.internal.frontend.v3_0.ast.Clause)@g_neo4j-cypher-compiler-3.0-3.0.7.jar.txt	2
+org/neo4j/cypher/internal/compiler/v3_0/ScopeTreeVerifier/anonfun/1/anonfun/apply/1/applyOrElse(scala.Tuple2,scala.Function1)@g_neo4j-cypher-compiler-3.0-3.0.7.jar.txt	3
+org/json4s/native/JsonMethods/anonfun/2/apply(scala.Tuple2)@g_json4s-native_2.11-3.4.0.jar.txt	0

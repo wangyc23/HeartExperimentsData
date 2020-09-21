@@ -1,0 +1,4 @@
+org/codehaus/plexus/logging/AbstractLogEnabled/getLogger()
+java/util/Iterator/hasNext()
+org/apache/maven/usability/diagnostics/ErrorDiagnostics$PuntErrorDiagnoser/diagnose(java.lang.Throwable)
+org/codehaus/plexus/PlexusContainer/lookupList(java.lang.String)

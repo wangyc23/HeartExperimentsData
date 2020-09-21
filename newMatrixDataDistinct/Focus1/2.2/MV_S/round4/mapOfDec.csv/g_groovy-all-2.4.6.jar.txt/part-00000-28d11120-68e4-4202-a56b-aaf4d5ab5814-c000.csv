@@ -1,0 +1,5 @@
+org/codehaus/groovy/antlr/LexerFrame/scanScript(java.io.File)@g_groovy-2.4.9.jar.txt	3
+groovy/lang/MetaClassRegistry/MetaClassCreationHandle/createWithCustomLookup(java.lang.Class,groovy.lang.MetaClassRegistry)@g_groovy-2.4.9.jar.txt	4
+org/codehaus/groovy/runtime/DefaultGroovyMethods/dump(java.lang.Object)@g_groovy-2.4.9.jar.txt	2
+org/codehaus/groovy/runtime/ProxyGeneratorAdapter/visitClass(java.lang.Class)@g_groovy-2.4.9.jar.txt	1
+groovy/inspect/Inspector/methodInfo(java.lang.reflect.Constructor)@g_groovy-2.4.9.jar.txt	0

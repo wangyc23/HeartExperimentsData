@@ -1,0 +1,5 @@
+org/sonatype/guice/bean/binders/DependencyAnalyzer/analyze(com.google.inject.TypeLiteral)@g_sisu-inject-bean-2.1.1.jar.txt	3
+org/sonatype/guice/bean/binders/QualifiedTypeBinder/bindQualifiedType(java.lang.Class,com.google.inject.Binder)@g_sisu-inject-bean-2.1.1.jar.txt	2
+org/sonatype/guice/bean/scanners/index/QualifiedIndexAPT6/process(java.util.Set,javax.annotation.processing.RoundEnvironment)@g_sisu-inject-bean-2.1.1.jar.txt	4
+org/sonatype/guice/bean/reflect/URLClassSpace/expandClassPath(java.net.URL[])@g_sisu-inject-bean-2.1.1.jar.txt	1
+org/sonatype/guice/bean/inject/BeanListener/hear(com.google.inject.TypeLiteral,com.google.inject.spi.TypeEncounter)@g_sisu-inject-bean-2.1.1.jar.txt	0

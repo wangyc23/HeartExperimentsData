@@ -1,0 +1,5 @@
+opennlp/tools/formats/Conll03NameSampleStream/read()@g_opennlp-tools-1.5.2-incubating.jar.txt	3
+opennlp/tools/coref/resolver/ResolverUtils/getPronounMatchFeatures(opennlp.tools.coref.mention.MentionContext,opennlp.tools.coref.DiscourseEntity)@g_opennlp-tools-1.5.2-incubating.jar.txt	2
+opennlp/tools/formats/BioNLP2004NameSampleStream/read()@g_opennlp-tools-1.5.2-incubating.jar.txt	1
+opennlp/tools/coref/resolver/DefaultNonReferentialResolver/getNonReferentialFeatures(opennlp.tools.coref.mention.MentionContext)@g_opennlp-tools-1.5.2-incubating.jar.txt	0
+opennlp/tools/coref/resolver/IsAResolver/getFeatures(opennlp.tools.coref.mention.MentionContext,opennlp.tools.coref.DiscourseEntity)@g_opennlp-tools-1.5.2-incubating.jar.txt	4

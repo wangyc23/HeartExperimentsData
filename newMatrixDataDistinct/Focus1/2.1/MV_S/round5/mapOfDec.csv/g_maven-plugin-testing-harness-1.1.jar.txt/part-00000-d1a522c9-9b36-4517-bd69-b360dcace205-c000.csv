@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/buffer/BlockingBuffer/get(long)@g_commons-lang-2.3.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/DoubleOrderedMap/put(java.lang.Object,java.lang.Object)@g_commons-lang-2.3.jar.txt	4
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/NumberUtils/createNumber(java.lang.String)@g_commons-lang-2.3.jar.txt	0
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/generic/ClassTool/getConstructors()@g_commons-lang-2.3.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/commons/lang/StringUtils/splitWorker(java.lang.String,java.lang.String,int,boolean)@g_commons-lang-2.3.jar.txt	1

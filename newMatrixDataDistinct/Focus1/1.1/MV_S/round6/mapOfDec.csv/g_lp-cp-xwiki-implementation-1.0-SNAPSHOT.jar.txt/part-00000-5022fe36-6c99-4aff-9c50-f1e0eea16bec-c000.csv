@@ -1,0 +1,5 @@
+org/openrdf/http/client/QueueCursor/checkException()@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	4
+eu/learnpad/core/impl/cw/XwikiCoreFacadeRestResource/getKPICalculationStatus(java.lang.String)@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	3
+eu/learnpad/core/impl/or/XwikiBridgeInterfaceRestResource/analyseText(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	0
+eu/learnpad/core/impl/qm/XwikiCoreFacadeRestResource/publish(java.lang.String,java.lang.String,byte[])@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	2
+org/openrdf/http/client/HTTPClient/getBackgroundTupleQueryResult(org.apache.commons.httpclient.HttpMethod)@g_lp-cp-controllers-server-1.0-SNAPSHOT.jar.txt	1

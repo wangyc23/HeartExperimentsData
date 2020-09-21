@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/qdox/qdox/junit/APITestCase/assertInterfacesEqual(org.carrot2.util.preprocessor.shaded.qdox.qdox.model.JavaClass,org.carrot2.util.preprocessor.shaded.qdox.qdox.model.JavaClass)@g_attributes-processor-1.0.1.jar.txt	4
+org/apache/jackrabbit/webdav/jcr/version/VersionItemCollection/initProperties()@g_jackrabbit-jcr-server-1.4.jar.txt	3
+org/apache/jackrabbit/webdav/simple/VersionResourceImpl/initProperties()@g_jackrabbit-jcr-server-1.4.jar.txt	1
+org/apache/jackrabbit/webdav/jcr/DefaultItemCollection/getMembers()@g_jackrabbit-jcr-server-1.4.jar.txt	2
+org/apache/jackrabbit/server/io/DefaultHandler/exportProperties(org.apache.jackrabbit.server.io.PropertyExportContext,boolean)@g_jackrabbit-jcr-server-1.4.jar.txt	0

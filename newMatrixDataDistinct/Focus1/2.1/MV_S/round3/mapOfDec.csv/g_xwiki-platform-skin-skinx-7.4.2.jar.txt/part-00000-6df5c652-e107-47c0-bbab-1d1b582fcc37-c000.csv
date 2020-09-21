@@ -1,0 +1,5 @@
+com/xpn/xwiki/plugin/feed/FeedPlugin/fillFeedMetadata(com.sun.syndication.feed.synd.SyndFeed,java.util.Map,com.xpn.xwiki.XWikiContext)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	3
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/buildSyndFeedInfo(java.net.URL,java.lang.String,org.apache.commons.httpclient.HttpMethod,com.sun.syndication.feed.synd.SyndFeed,int)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	4
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/retrieveFeed(java.lang.String,org.apache.commons.httpclient.HttpMethod)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	1
+org/xwiki/skinx/internal/AbstractSxExportURLFactoryActionHandler/createURL(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.xpn.xwiki.XWikiContext,org.xwiki.url.filesystem.FilesystemExportContext)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	2
+com/xpn/xwiki/plugin/feed/XWikiFeedFetcher/retrieveFeed(java.net.URL,int)@g_xwiki-platform-scheduler-api-7.4.2.jar.txt	0

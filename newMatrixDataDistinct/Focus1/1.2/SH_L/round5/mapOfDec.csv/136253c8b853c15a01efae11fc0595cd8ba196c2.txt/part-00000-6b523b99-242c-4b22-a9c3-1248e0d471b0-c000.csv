@@ -1,0 +1,5 @@
+org/apache/lens/server/query/TestQueryService/testLaunchFail()@09735e9d3bbdab9750bab90d24821488fb6b5e3c.txt	4
+org/apache/lens/cube/parse/TestJoinResolver/testAutoJoinResolver()@09735e9d3bbdab9750bab90d24821488fb6b5e3c.txt	3
+org/apache/lens/examples/DatabaseUtil/initializeDatabaseStorage()@09a110a4193b767d335f9b9e002216c64ea7436b.txt	2
+org/apache/lens/examples/DatabaseUtil/initalizeDatabaseStorage()@09735e9d3bbdab9750bab90d24821488fb6b5e3c.txt	1
+org/apache/lens/server/query/TestLensDAO/testLensServerDAO()@09735e9d3bbdab9750bab90d24821488fb6b5e3c.txt	0

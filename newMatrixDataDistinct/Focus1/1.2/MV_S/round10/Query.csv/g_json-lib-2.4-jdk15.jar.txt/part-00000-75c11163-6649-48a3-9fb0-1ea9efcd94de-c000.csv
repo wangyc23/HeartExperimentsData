@@ -1,0 +1,4 @@
+net/sf/ezmorph/MorpherRegistry/getMorpherFor(java.lang.Class)
+java/lang/StringBuilder/StringBuilder()
+java/beans/PropertyDescriptor/getWriteMethod()
+java/lang/Class/isInterface()

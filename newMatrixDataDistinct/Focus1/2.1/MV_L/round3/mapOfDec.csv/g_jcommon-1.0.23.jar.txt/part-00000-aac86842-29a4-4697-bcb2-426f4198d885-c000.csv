@@ -1,0 +1,5 @@
+org/jfree/chart/plot/Plot/fillBackground(java.awt.Graphics2D,java.awt.geom.Rectangle2D,org.jfree.chart.plot.PlotOrientation)@g_jfreechart-1.0.19.jar.txt	2
+org/jfree/chart/renderer/category/GradientBarPainter/paintBar(java.awt.Graphics2D,org.jfree.chart.renderer.category.BarRenderer,int,int,java.awt.geom.RectangularShape,org.jfree.ui.RectangleEdge)@g_jfreechart-1.0.19.jar.txt	1
+org/jfree/chart/renderer/xy/XYStepRenderer/drawItem(java.awt.Graphics2D,org.jfree.chart.renderer.xy.XYItemRendererState,java.awt.geom.Rectangle2D,org.jfree.chart.plot.PlotRenderingInfo,org.jfree.chart.plot.XYPlot,org.jfree.chart.axis.ValueAxis,org.jfree.chart.axis.ValueAxis,org.jfree.data.xy.XYDataset,int,int,org.jfree.chart.plot.CrosshairState,int)@g_jfreechart-1.0.19.jar.txt	4
+org/jfree/chart/util/DirectionalGradientPaintTransformer/transform(java.awt.GradientPaint,java.awt.Shape)@g_jfreechart-1.0.19.jar.txt	0
+org/jfree/chart/renderer/xy/GradientXYBarPainter/paintBar(java.awt.Graphics2D,org.jfree.chart.renderer.xy.XYBarRenderer,int,int,java.awt.geom.RectangularShape,org.jfree.ui.RectangleEdge)@g_jfreechart-1.0.19.jar.txt	3

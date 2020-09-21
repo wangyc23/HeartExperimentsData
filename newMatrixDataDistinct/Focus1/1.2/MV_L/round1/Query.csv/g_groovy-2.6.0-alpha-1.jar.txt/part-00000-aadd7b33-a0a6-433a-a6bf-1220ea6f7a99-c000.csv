@@ -1,0 +1,4 @@
+java/lang/Class/getField(java.lang.String)
+java/io/File/exists()
+java/io/File/File(java.lang.String)
+java/lang/String/equals(java.lang.Object)

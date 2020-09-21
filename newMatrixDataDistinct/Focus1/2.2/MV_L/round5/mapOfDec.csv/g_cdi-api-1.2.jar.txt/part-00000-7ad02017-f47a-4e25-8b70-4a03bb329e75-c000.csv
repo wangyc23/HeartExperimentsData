@@ -1,0 +1,5 @@
+com/google/common/collect/ImmutableCollection/toString()@g_google-collect-snapshot-20080530.jar.txt	3
+com/google/common/collect/Multimaps/MapMultimap/toString()@g_google-collect-snapshot-20080530.jar.txt	4
+javax/enterprise/util/AnnotationLiteral/toString()@g_cdi-api-1.0.jar.txt	0
+com/google/common/collect/Iterators/get(java.util.Iterator,int)@g_google-collect-snapshot-20080530.jar.txt	2
+javax/enterprise/util/AnnotationLiteral/invoke(java.lang.reflect.Method,java.lang.Object)@g_cdi-api-1.0.jar.txt	1

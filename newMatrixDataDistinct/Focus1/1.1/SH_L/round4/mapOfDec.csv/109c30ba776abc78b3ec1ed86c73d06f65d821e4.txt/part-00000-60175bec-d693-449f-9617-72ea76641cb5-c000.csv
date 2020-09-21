@@ -1,0 +1,5 @@
+org/apache/oozie/command/coord/CoordUpdateXCommand/getDryRun(org.apache.oozie.CoordinatorJobBean)@15238a23fcfe760cc1554ad566a24e668f554fce.txt	1
+org/apache/oozie/util/ParamChecker/checkLEZero(int,java.lang.String)@15238a23fcfe760cc1554ad566a24e668f554fce.txt	4
+org/apache/oozie/command/coord/CoordStatusTransitXCommand/getRunningState()@15238a23fcfe760cc1554ad566a24e668f554fce.txt	2
+org/apache/oozie/util/XmlUtils/createSAXBuilder()@15238a23fcfe760cc1554ad566a24e668f554fce.txt	3
+org/apache/oozie/service/TestStatusTransitService/testCoordStatusTransitServiceNoDoneWithErrorForBackwardSupport()@15238a23fcfe760cc1554ad566a24e668f554fce.txt	0

@@ -1,0 +1,5 @@
+org/neo4j/cineasts/movieimport/MovieDbImportService/relatePersonsToMovie(org.neo4j.cineasts.domain.Movie,java.util.Map)@g_feign-core-8.11.0.jar.txt	4
+org/activiti/bpmn/model/Process/setValues(org.activiti.bpmn.model.Process)@g_feign-core-8.11.0.jar.txt	3
+feign/ReflectiveFeign/BuildFormEncodedTemplateFromArgs/resolve(java.lang.Object[],feign.RequestTemplate,java.util.Map)@g_feign-core-8.11.0.jar.txt	1
+feign/RequestTemplate/replaceQueryValues(java.util.Map)@g_feign-core-8.11.0.jar.txt	2
+feign/RequestTemplate/pullAnyQueriesOutOfUrl(java.lang.StringBuilder)@g_feign-core-8.11.0.jar.txt	0

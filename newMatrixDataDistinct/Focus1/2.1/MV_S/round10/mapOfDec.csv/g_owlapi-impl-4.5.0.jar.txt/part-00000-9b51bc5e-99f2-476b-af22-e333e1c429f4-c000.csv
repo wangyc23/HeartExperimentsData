@@ -1,0 +1,5 @@
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/getObjectPropertyDomains(org.semanticweb.owlapi.model.OWLObjectPropertyExpression,boolean)@g_owlapi-tools-4.5.0.jar.txt	2
+com/clarkparsia/owlapi/modularity/locality/SyntacticLocalityEvaluator/AxiomLocalityVisitor/visit(org.semanticweb.owlapi.model.OWLDisjointDataPropertiesAxiom)@g_owlapi-tools-4.5.0.jar.txt	0
+org/semanticweb/owlapi/reasoner/structural/StructuralReasoner/RawDataPropertyHierarchyProvider/getChildren(org.semanticweb.owlapi.model.OWLDataProperty)@g_owlapi-tools-4.5.0.jar.txt	4
+org/semanticweb/owlapi/owlxml/parser/OWLOntologyHandler/attribute(java.lang.String,java.lang.String)@g_owlapi-tools-4.5.0.jar.txt	1
+org/semanticweb/owlapi/manchestersyntax/parser/ManchesterOWLSyntaxParserImpl/parseObjectPropertyCharacteristic(org.semanticweb.owlapi.model.OWLObjectPropertyExpression)@g_owlapi-tools-4.5.0.jar.txt	3

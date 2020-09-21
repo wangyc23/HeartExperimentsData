@@ -1,0 +1,5 @@
+org/springframework/data/mongodb/core/MongoTemplate/insertDBObjectList(java.lang.String,java.util.List)@g_mongodb-driver-core-3.4.2.jar.txt	3
+com/mongodb/ConnectionString/parseOptions(java.lang.String)@g_mongodb-driver-core-3.4.2.jar.txt	0
+org/springframework/data/mongodb/core/convert/MongoExampleMapper/getMappedPropertyPath(java.lang.String,java.lang.Class)@g_mongodb-driver-core-3.4.2.jar.txt	2
+com/mongodb/connection/AsynchronousSocketChannelStream/BasicCompletionHandler/completed(java.lang.Integer,java.lang.Void)@g_mongodb-driver-core-3.4.2.jar.txt	4
+com/mongodb/DBCursor/addSpecial(java.lang.String,java.lang.Object)@g_mongodb-driver-core-3.4.2.jar.txt	1

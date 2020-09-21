@@ -1,0 +1,4 @@
+java/lang/StringBuffer/charAt(int)
+java/lang/Object/toString()
+java/lang/Object/equals(java.lang.Object)
+java/lang/String/length()

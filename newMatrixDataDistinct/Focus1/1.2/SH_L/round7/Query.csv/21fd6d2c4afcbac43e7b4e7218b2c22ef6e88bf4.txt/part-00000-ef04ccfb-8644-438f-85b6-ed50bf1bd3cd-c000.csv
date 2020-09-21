@@ -1,0 +1,4 @@
+io/seldon/client/DefaultApiClient/getItems(int,java.lang.Integer,boolean,java.lang.String)
+java/io/BufferedReader/close()
+io/seldon/client/beans/ItemBean/setAttributesName(java.util.Map)
+io/seldon/client/beans/ItemBean/setName(java.lang.String)

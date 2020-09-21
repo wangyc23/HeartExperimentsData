@@ -1,0 +1,4 @@
+0	org/drools/eclipse/wizard/rule/NewRulePackagePage/createPackageName(org.drools.eclipse.debug.Composite)
+1	org/drools/eclipse/wizard/rule/NewRulePackagePage/createDSL(org.drools.eclipse.debug.Composite)
+2	org/drools/eclipse/wizard/rule/NewRulePackagePage/createFunctions(org.drools.eclipse.debug.Composite)
+3	org/drools/eclipse/wizard/rule/NewRulePackagePage/createType(org.drools.eclipse.debug.Composite)

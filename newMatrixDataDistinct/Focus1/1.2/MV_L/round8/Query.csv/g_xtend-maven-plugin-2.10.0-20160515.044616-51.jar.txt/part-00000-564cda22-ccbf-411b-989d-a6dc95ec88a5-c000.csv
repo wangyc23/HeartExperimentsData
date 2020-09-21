@@ -1,0 +1,4 @@
+org/eclipse/xtend/maven/XtendCompile/resolveToBaseDir(java.lang.String)
+org/apache/maven/project/MavenProject/getBuild()
+org/apache/maven/project/MavenProject/getCompileSourceRoots()
+org/eclipse/xtend/maven/XtendCompile/readXtendEclipseSetting(java.lang.String,org.eclipse.xtext.xbase.lib.Procedures$Procedure1)

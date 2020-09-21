@@ -1,0 +1,5 @@
+org/apache/maven/surefire/report/SmartStackTraceParser/toString(java.lang.Throwable,java.lang.Iterable)@g_surefire-junit4-2.17.jar.txt	3
+org/apache/maven/surefire/junit4/JUnit4Provider/upgradeCheck()@g_surefire-junit4-2.12.4.jar.txt	1
+org/apache/maven/surefire/junit4/JUnit4Provider/invoke(java.lang.Object)@g_surefire-junit4-2.17.jar.txt	0
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/StringUtils/unifyLineSeparators(java.lang.String,java.lang.String)@g_surefire-junit4-2.17.jar.txt	4
+org/apache/maven/surefire/junit4/JUnit4Provider/invoke(java.lang.Object)@g_surefire-junit4-2.12.4.jar.txt	2

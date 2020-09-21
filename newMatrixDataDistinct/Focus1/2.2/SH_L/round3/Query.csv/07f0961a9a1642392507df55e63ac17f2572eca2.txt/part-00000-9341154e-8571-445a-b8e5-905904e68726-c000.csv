@@ -1,0 +1,4 @@
+java/lang/String/split(java.lang.String)
+java/util/Iterator/hasNext()
+java/lang/Double/parseDouble(java.lang.String)
+java/util/Iterator/next()

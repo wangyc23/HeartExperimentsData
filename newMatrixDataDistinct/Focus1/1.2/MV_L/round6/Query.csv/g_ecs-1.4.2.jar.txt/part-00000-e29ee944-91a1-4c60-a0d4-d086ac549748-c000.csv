@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/util/Hashtable/size()
+java/util/Hashtable/get(java.lang.Object)
+java/lang/String/getBytes(java.lang.String)

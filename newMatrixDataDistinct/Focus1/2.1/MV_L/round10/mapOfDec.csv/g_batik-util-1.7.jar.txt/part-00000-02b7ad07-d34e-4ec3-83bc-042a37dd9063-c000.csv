@@ -1,0 +1,5 @@
+org/codehaus/plexus/util/PathTool/buildRelativePath(java.lang.String,java.lang.String,char)@g_batik-util-1.8.jar.txt	2
+org/codehaus/plexus/util/DirectoryWalker/scanDir(java.io.File)@g_batik-util-1.8.jar.txt	4
+hidden/org/codehaus/plexus/interpolation/reflection/ReflectionValueExtractor/evaluate(java.lang.String,java.lang.Object,boolean)@g_batik-util-1.8.jar.txt	3
+org/codehaus/plexus/util/TypeFormat/format(double,double,boolean,java.lang.StringBuffer)@g_batik-util-1.8.jar.txt	1
+org/apache/batik/i18n/LocalizableSupport/getResourceBundle(int)@g_batik-util-1.8.jar.txt	0

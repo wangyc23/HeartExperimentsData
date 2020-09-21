@@ -1,0 +1,4 @@
+0	javax/xml/bind/Unmarshaller/unmarshal(java.io.InputStream)
+1	org/humanistika/oxygen/tei/completer/response/Transformer/transform(java.io.InputStream,java.nio.file.Path,java.io.OutputStream)
+2	javax/xml/bind/JAXBContext/createUnmarshaller()
+3	java/io/ByteArrayInputStream/ByteArrayInputStream(byte[])

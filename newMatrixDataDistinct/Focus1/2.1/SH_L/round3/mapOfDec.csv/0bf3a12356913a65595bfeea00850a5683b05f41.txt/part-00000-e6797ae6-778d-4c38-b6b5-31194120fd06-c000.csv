@@ -1,0 +1,5 @@
+io/netty/example/http/upload/HttpUploadClient/formget(io.netty.bootstrap.Bootstrap,java.lang.String,int,java.lang.String,java.net.URI)@0270ddc12a280842fbf1306e8fcc2021259c9076.txt	3
+io/netty/example/qotm/QuoteOfTheMomentServer/main(java.lang.String[])@0270ddc12a280842fbf1306e8fcc2021259c9076.txt	4
+io/netty/channel/local/LocalChannelTest/testServerCloseChannelSameEventLoop()@0270ddc12a280842fbf1306e8fcc2021259c9076.txt	1
+io/netty/testsuite/transport/socket/SocketSslEchoTest/testSslEcho(io.netty.bootstrap.ServerBootstrap,io.netty.bootstrap.Bootstrap,boolean)@0270ddc12a280842fbf1306e8fcc2021259c9076.txt	2
+io/netty/test/udt/nio/NioUdtMessageRendezvousChannelTest/basicEcho()@0270ddc12a280842fbf1306e8fcc2021259c9076.txt	0

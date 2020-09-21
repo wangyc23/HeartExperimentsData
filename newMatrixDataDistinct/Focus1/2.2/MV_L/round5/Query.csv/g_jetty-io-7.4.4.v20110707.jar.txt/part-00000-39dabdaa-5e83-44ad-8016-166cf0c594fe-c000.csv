@@ -1,0 +1,4 @@
+java/nio/channels/SelectionKey/isValid()
+org/eclipse/jetty/util/log/Log/ignore(java.lang.Throwable)
+java/net/Socket/isInputShutdown()
+java/net/Socket/isOutputShutdown()

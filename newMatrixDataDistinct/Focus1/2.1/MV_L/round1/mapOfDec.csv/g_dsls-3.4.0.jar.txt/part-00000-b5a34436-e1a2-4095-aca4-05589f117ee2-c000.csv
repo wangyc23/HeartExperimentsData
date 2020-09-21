@@ -1,0 +1,5 @@
+org/apache/lucene/expressions/js/JavascriptParser/postfix()@g_lucene-expressions-5.0.0.jar.txt	4
+org/apache/lucene/expressions/ExpressionValueSource/getValues(java.util.Map,org.apache.lucene.index.LeafReaderContext)@g_lucene-expressions-5.0.0.jar.txt	3
+org/apache/lucene/expressions/ExpressionRescorer/explain(org.apache.lucene.search.IndexSearcher,org.apache.lucene.search.Explanation,int)@g_lucene-expressions-5.0.0.jar.txt	1
+org/apache/lucene/expressions/js/JavascriptCompiler/recursiveCompile(org.antlr.runtime.tree.Tree,org.objectweb.asm.Type)@g_lucene-expressions-5.0.0.jar.txt	0
+org/apache/lucene/expressions/js/JavascriptCompiler/<clinit>()@g_lucene-expressions-5.0.0.jar.txt	2

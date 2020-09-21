@@ -1,0 +1,4 @@
+io/kraken/client/model/request/DirectUploadCallbackUrlRequest/getImage()
+java/util/UUID/randomUUID()
+java/util/UUID/toString()
+io/kraken/client/impl/DefaultKrakenIoClient/directCallbackUrlUpload(io.kraken.client.model.request.AbstractUploadRequest,org.glassfish.jersey.media.multipart.BodyPart)

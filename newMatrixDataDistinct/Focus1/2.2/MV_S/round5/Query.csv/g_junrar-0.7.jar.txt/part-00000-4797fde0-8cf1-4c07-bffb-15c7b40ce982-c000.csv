@@ -1,0 +1,4 @@
+java/util/Vector/setSize(int)
+java/util/Vector/get(int)
+java/util/List/get(int)
+java/util/Vector/set(int,java.lang.Object)

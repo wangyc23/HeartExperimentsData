@@ -1,0 +1,5 @@
+pl/com/sages/hadoop/mapreduce/WordCountMR1/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	4
+pl/com/sages/hbase/api/loader/LoadMovieRatingData/run()@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	1
+main/SongKickEventSearch/getLocationIndex(java.lang.String)@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	2
+pl/com/sages/hadoop/mapreduce/wordcount/WordCountRunner/main(java.lang.String[])@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	3
+pl/com/sages/hadoop/mapreduce/hadoopinaction/join/JoinJobTest/shouldJoinCustomersAndOrders()@2df937d6ffea5189755a9aab078fca3c3e73d0ad.txt	0

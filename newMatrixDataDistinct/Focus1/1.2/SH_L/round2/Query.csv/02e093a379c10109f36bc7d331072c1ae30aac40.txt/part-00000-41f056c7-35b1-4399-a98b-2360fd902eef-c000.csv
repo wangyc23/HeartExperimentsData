@@ -1,0 +1,4 @@
+com/iluwatar/servicelayer/spellbook/Spellbook/getName()
+com/iluwatar/servicelayer/spellbook/SpellbookDaoImpl/findByName(java.lang.String)
+com/iluwatar/servicelayer/common/DaoBaseImpl/findAll()
+com/iluwatar/servicelayer/spellbook/Spellbook/getId()

@@ -1,0 +1,5 @@
+org/apache/commons/math3/util/TransformerMap/equals(java.lang.Object)@g_commons-math3-3.0.jar.txt	2
+org/apache/commons/math3/optimization/linear/SimplexSolver/getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int)@g_commons-math3-3.0.jar.txt	1
+org/apache/commons/math3/linear/AbstractFieldMatrix/power(int)@g_commons-math3-3.0.jar.txt	4
+org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet/getVertices()@g_commons-math3-3.0.jar.txt	0
+org/apache/commons/math3/ode/AbstractIntegrator/acceptStep(org.apache.commons.math3.ode.sampling.AbstractStepInterpolator,double[],double[],double)@g_commons-math3-3.0.jar.txt	3

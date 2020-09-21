@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/StringUtils/split(java.lang.String,java.lang.String)
+java/util/ArrayList/ArrayList()
+org/apache/commons/io/FileUtils/copyFileToDirectory(java.io.File,java.io.File)
+org/apache/maven/plugin/MojoFailureException/MojoFailureException(java.lang.String)

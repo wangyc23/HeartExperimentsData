@@ -1,0 +1,5 @@
+com/sun/jersey/server/impl/model/method/dispatch/EntityParamDispatchProvider/processParameters(com.sun.jersey.api.model.AbstractResourceMethod)@g_jersey-server-1.18.1.jar.txt	4
+com/sun/jersey/api/wadl/config/WadlGeneratorLoader/loadWadlGenerator(com.sun.jersey.api.wadl.config.WadlGeneratorDescription,com.sun.jersey.server.wadl.WadlGenerator)@g_jersey-server-1.18.1.jar.txt	0
+com/sun/jersey/server/impl/VariantSelector/getVariantHolderList(java.util.List)@g_jersey-server-1.18.1.jar.txt	3
+com/sun/jersey/server/impl/uri/rules/TerminatingRule/accept(java.lang.CharSequence,java.lang.Object,com.sun.jersey.spi.uri.rules.UriRuleContext)@g_jersey-server-1.18.1.jar.txt	2
+com/sun/jersey/api/wadl/config/WadlGeneratorLoader/loadWadlGenerator(com.sun.jersey.api.wadl.config.WadlGeneratorDescription,com.sun.jersey.server.wadl.WadlGenerator)@g_jersey-server-1.19.jar.txt	1

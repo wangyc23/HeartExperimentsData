@@ -1,0 +1,4 @@
+org/eclipse/ocl/ecore/util/EcoreValidator/validate_EveryProxyResolves(org.eclipse.emf.ecore.EObject,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)
+org/eclipse/ocl/ecore/util/EcoreValidator/validate_EveryReferenceIsContained(org.eclipse.emf.ecore.EObject,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)
+org/eclipse/ocl/ecore/util/EcoreValidator/validate_EveryKeyUnique(org.eclipse.emf.ecore.EObject,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)
+org/eclipse/ocl/ecore/util/EcoreValidator/validate_NoCircularContainment(org.eclipse.emf.ecore.EObject,org.eclipse.emf.common.util.DiagnosticChain,java.util.Map)

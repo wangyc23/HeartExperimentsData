@@ -1,0 +1,5 @@
+org/apache/commons/lang/ClassUtils/getPublicMethod(java.lang.Class,java.lang.String,java.lang.Class[])@g_commons-lang-2.3.jar.txt	1
+org/apache/commons/lang/exception/NestableDelegate/printStackTrace(java.io.PrintWriter)@g_commons-lang-2.3.jar.txt	2
+org/apache/commons/lang/Validate/allElementsOfType(java.util.Collection,java.lang.Class)@g_commons-lang-2.3.jar.txt	0
+org/apache/commons/text/ExtendedMessageFormat/applyPattern(java.lang.String)@g_commons-text-1.1.jar.txt	4
+org/apache/commons/text/AlphabetConverter/toString()@g_commons-text-1.1.jar.txt	3

@@ -1,0 +1,5 @@
+org/apache/lucene/codecs/idversion/IDVersionSegmentTermsEnum/seekCeil(org.apache.lucene.util.BytesRef)@g_lucene-sandbox-7.0.0.jar.txt	3
+org/apache/lucene/codecs/idversion/IDVersionSegmentTermsEnum/seekCeil(org.apache.lucene.util.BytesRef)@g_lucene-sandbox-6.0.0.jar.txt	1
+org/apache/lucene/codecs/idversion/IDVersionSegmentTermsEnum/seekExact(org.apache.lucene.util.BytesRef,long)@g_lucene-sandbox-7.0.0.jar.txt	2
+org/apache/lucene/codecs/idversion/IDVersionSegmentTermsEnum/seekExact(org.apache.lucene.util.BytesRef,long)@g_lucene-sandbox-6.0.0.jar.txt	0
+org/apache/lucene/document/NearestNeighbor/nearest(double,double,java.util.List,java.util.List,java.util.List,int)@g_lucene-sandbox-7.0.0.jar.txt	4

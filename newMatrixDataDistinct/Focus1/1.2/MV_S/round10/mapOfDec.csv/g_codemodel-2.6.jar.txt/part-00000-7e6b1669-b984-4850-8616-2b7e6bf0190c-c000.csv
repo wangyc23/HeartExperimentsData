@@ -1,0 +1,5 @@
+org/kohsuke/rngom/digested/DXMLPrinter/DXMLPrinterVisitor/onInterleave(org.kohsuke.rngom.digested.DInterleavePattern)@g_jaxb-xjc-2.2.6.jar.txt	4
+com/sun/tools/xjc/reader/relaxng/RELAXNGCompiler/mapToClass(org.kohsuke.rngom.digested.DElementPattern)@g_jaxb-xjc-2.2.6.jar.txt	1
+com/sun/tools/xjc/reader/internalizer/SCDBasedBindingSet/Target/apply(java.util.Collection)@g_jaxb-xjc-2.2.6.jar.txt	2
+com/sun/tools/xjc/reader/internalizer/DOMForest/dump(java.io.OutputStream)@g_jaxb-xjc-2.2.6.jar.txt	3
+com/sun/codemodel/JFormatter/id(java.lang.String)@g_jaxb-xjc-2.2.6.jar.txt	0

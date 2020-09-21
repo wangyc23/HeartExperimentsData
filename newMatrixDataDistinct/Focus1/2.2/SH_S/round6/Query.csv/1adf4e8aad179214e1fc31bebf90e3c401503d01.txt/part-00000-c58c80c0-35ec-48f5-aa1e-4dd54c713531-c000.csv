@@ -1,0 +1,4 @@
+java/io/PrintStream/println(int)
+org/okbqa/rocknrole/graph/interpreter/GraphReader/GraphReader()
+java/util/List/size()
+org/okbqa/rocknrole/graph/interpreter/GraphReader/interpret(java.lang.String)

@@ -1,0 +1,5 @@
+edu/stanford/nlp/trees/international/pennchinese/ChineseEnglishWordMap/readCEDict(java.lang.String,java.lang.String,java.lang.String,java.lang.String)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/ling/tokensregex/Env/getSequencePatternExpr(java.lang.String,boolean)@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/ling/tokensregex/types/ValueFunctions/39/apply(edu.stanford.nlp.ling.tokensregex.Env,java.util.List)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/ling/tokensregex/Env/getNodePattern(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/ling/tokensregex/types/Expressions/MethodCallExpression/evaluate(edu.stanford.nlp.ling.tokensregex.Env,java.lang.Object[])@g_stanford-parser-3.5.2.jar.txt	1

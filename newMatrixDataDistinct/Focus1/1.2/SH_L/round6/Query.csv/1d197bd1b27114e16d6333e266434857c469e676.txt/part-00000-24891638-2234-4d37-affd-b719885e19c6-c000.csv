@@ -1,0 +1,4 @@
+org/apache/avro/data/RecordBuilderBase/defaultValue(org.apache.avro.Schema.Field)
+org/apache/spark/streaming/flume/sink/EventBatch/EventBatch()
+org/apache/avro/AvroRuntimeException/AvroRuntimeException(java.lang.Throwable)
+org/apache/avro/data/RecordBuilderBase/fieldSetFlags()

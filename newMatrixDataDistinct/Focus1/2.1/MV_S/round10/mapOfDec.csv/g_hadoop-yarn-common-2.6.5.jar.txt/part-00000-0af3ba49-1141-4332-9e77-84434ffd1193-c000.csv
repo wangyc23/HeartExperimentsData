@@ -1,0 +1,5 @@
+org/apache/hadoop/yarn/util/ConverterUtils/getPathFromYarnURL(org.apache.hadoop.yarn.api.records.URL)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	2
+org/apache/hadoop/mapreduce/Job/getTaskFailureEventString()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	0
+org/apache/hadoop/yarn/api/protocolrecords/impl/pb/GetContainerStatusesResponsePBImpl/addFailedRequestsToProto()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	4
+org/apache/hadoop/yarn/api/records/impl/pb/ApplicationSubmissionContextPBImpl/mergeLocalToBuilder()@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	3
+org/apache/hadoop/yarn/util/ConverterUtils/toNodeId(java.lang.String)@g_hadoop-mapreduce-client-core-2.6.0.jar.txt	1

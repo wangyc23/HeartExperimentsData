@@ -1,0 +1,4 @@
+org/codehaus/plexus/util/DirectoryScanner/DirectoryScanner()
+org/codehaus/plexus/util/DirectoryScanner/scan()
+org/codehaus/plexus/util/DirectoryScanner/setFollowSymlinks(boolean)
+java/io/File/File(java.lang.String)

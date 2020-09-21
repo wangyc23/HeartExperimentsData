@@ -1,0 +1,5 @@
+anatlyzer/evaluation/tester/Tester/typing(java.lang.String)@g_mutants-1.0.0.jar.txt	0
+anatlyzer/evaluation/tester/Tester/generateTestModels()@g_mutants-1.0.0.jar.txt	2
+anatlyzer/evaluation/mutators/AbstractMutator/save(org.eclipse.m2m.atl.core.emf.EMFModel,java.lang.String)@g_mutants-1.0.0.jar.txt	3
+anatlyzer/evaluation/tester/Tester/executeTransformation(java.lang.String,boolean)@g_mutants-1.0.0.jar.txt	1
+anatlyzer/evaluation/tester/Tester/evaluateTransformation(java.lang.String)@g_mutants-1.0.0.jar.txt	4

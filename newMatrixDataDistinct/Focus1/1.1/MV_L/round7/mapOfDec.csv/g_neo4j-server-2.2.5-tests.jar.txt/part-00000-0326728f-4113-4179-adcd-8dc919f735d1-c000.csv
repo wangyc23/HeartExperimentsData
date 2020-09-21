@@ -1,0 +1,5 @@
+org/neo4j/server/rest/IndexRelationshipDocIT/shouldGet200AndArrayOfRelationshipRepsWhenGettingFromIndex()@g_neo4j-server-2.2.1-tests.jar.txt	4
+org/neo4j/server/rest/web/DatabaseActionsTest/shouldBeAbleToRemoveNodeProperty()@g_neo4j-server-2.2.1-tests.jar.txt	0
+org/neo4j/server/rest/web/RestfulGraphDatabaseTest/uniquelyIndexedNodeGetsTheSpecifiedKeyAndValueAsPropertiesIfNoPropertiesAreSpecified()@g_neo4j-server-2.2.1-tests.jar.txt	3
+org/neo4j/server/rest/web/RestfulGraphDatabaseTest/uniquelyIndexedRelationshipGetsTheSpecifiedKeyAndValueAsPropertiesIfNoPropertiesAreSpecified()@g_neo4j-server-2.2.1-tests.jar.txt	2
+org/neo4j/server/helpers/FunctionalTestHelper/removeAnyAutoIndex(java.util.Map)@g_neo4j-server-2.2.1-tests.jar.txt	1

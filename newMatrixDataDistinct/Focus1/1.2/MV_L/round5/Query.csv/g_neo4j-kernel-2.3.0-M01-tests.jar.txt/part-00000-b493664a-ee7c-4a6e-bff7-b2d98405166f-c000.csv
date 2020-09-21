@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+org/neo4j/kernel/impl/transaction/state/TransactionRecordState/TransactionRecordState(org.neo4j.kernel.impl.store.NeoStore,org.neo4j.kernel.impl.transaction.state.IntegrityValidator,org.neo4j.kernel.impl.transaction.state.NeoStoreTransactionContext)
+org/mockito/Mockito/mock(java.lang.Class)

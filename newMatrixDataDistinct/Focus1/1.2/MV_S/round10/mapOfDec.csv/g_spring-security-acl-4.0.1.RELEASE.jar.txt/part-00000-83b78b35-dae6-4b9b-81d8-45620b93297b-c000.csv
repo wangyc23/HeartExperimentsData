@@ -1,0 +1,5 @@
+org/springframework/security/access/intercept/AbstractSecurityInterceptor/afterPropertiesSet()@g_spring-security-core-3.2.3.RELEASE.jar.txt	2
+org/springframework/security/provisioning/JdbcUserDetailsManager/createGroup(java.lang.String,java.util.List)@g_spring-security-core-3.2.3.RELEASE.jar.txt	4
+org/springframework/security/authentication/jaas/AbstractJaasAuthenticationProvider/handleLogout(org.springframework.security.core.session.SessionDestroyedEvent)@g_spring-security-core-3.2.3.RELEASE.jar.txt	0
+org/springframework/security/core/token/KeyBasedPersistenceTokenService/verifyToken(java.lang.String)@g_spring-security-core-3.2.3.RELEASE.jar.txt	1
+org/springframework/security/access/method/MapBasedMethodSecurityMetadataSource/addSecureMethod(java.lang.Class,java.lang.String,java.util.List)@g_spring-security-core-3.2.3.RELEASE.jar.txt	3

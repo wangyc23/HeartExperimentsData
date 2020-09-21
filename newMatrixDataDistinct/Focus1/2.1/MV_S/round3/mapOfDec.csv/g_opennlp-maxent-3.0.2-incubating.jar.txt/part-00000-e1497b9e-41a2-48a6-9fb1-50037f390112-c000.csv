@@ -1,0 +1,5 @@
+opennlp/perceptron/PerceptronModel/main(java.lang.String[])@g_opennlp-maxent-3.0.3.jar.txt	0
+opennlp/maxent/GISModel/main(java.lang.String[])@g_opennlp-maxent-3.0.3.jar.txt	1
+edu/stanford/nlp/stats/ClassicCounter/fromString(java.lang.String)@g_stanford-parser-3.5.2.jar.txt	2
+edu/stanford/nlp/tagger/io/TSVTaggedFileReader/primeNext()@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/util/Execution/getVisibleClasses()@g_stanford-parser-3.5.2.jar.txt	3

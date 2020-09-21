@@ -1,0 +1,4 @@
+org/apache/commons/configuration/INIConfiguration/addProperty(java.lang.String,java.lang.Object)
+java/lang/String/trim()
+java/lang/String/length()
+java/lang/StringBuffer/toString()

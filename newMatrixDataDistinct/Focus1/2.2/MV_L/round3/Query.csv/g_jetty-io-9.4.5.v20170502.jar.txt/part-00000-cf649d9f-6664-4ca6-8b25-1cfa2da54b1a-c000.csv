@@ -1,0 +1,4 @@
+java/util/Queue/isEmpty()
+java/lang/Throwable/addSuppressed(java.lang.Throwable)
+java/util/Queue/poll()
+org/eclipse/jetty/util/BufferUtil/hasContent(java.nio.ByteBuffer)

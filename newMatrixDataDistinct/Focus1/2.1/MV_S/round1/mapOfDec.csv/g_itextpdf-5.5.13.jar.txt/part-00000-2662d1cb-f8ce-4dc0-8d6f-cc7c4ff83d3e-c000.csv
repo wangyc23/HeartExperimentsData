@@ -1,0 +1,5 @@
+com/itextpdf/text/pdf/PdfReader/PageRefs/iteratePages(com.itextpdf.text.pdf.PRIndirectReference)@g_itext-2.1.2.jar.txt	4
+com/itextpdf/text/pdf/AcroFields/setFieldProperty(java.lang.String,java.lang.String,java.lang.Object,int[])@g_itext-2.1.2.jar.txt	1
+com/itextpdf/text/pdf/PdfReader/readDocObj()@g_itext-2.1.2.jar.txt	3
+com/itextpdf/text/pdf/PdfStamperImp/close(java.util.Map)@g_itext-2.1.2.jar.txt	2
+com/lowagie/text/pdf/codec/Base64/encodeObject(java.io.Serializable,int)@g_itext-2.1.2.jar.txt	0

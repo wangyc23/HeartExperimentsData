@@ -1,0 +1,4 @@
+java/lang/Thread/sleep(long)
+org/apache/camel/component/mock/MockEndpoint/expectedBodiesReceived(java.lang.Object[])
+org/apache/camel/component/mock/MockEndpoint/assertIsSatisfied()
+java/io/File/File(java.lang.String)

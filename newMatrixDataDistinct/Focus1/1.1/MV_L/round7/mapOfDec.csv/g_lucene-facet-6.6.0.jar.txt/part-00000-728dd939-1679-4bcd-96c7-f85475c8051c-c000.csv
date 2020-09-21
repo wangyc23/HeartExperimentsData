@@ -1,0 +1,5 @@
+org/apache/lucene/facet/sortedset/ConcurrentSortedSetDocValuesFacetCounts/CountOneSegment/call()@g_lucene-join-6.5.0.jar.txt	0
+org/apache/lucene/facet/sortedset/ConcurrentSortedSetDocValuesFacetCounts/count(java.util.List)@g_lucene-join-6.5.0.jar.txt	3
+org/apache/lucene/facet/DrillSidewaysScorer/score(org.apache.lucene.search.LeafCollector,org.apache.lucene.util.Bits,int,int)@g_lucene-join-6.5.0.jar.txt	2
+org/apache/lucene/search/join/TermsWithScoreCollector/MV/collect(int)@g_lucene-join-6.5.0.jar.txt	4
+org/apache/lucene/facet/range/DoubleRange/ValueSourceQuery/1/scorer(org.apache.lucene.index.LeafReaderContext)@g_lucene-join-6.5.0.jar.txt	1

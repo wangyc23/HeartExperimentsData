@@ -1,0 +1,4 @@
+com/yahoo/platform/yui/compressor/javascript/EvaluatorException/getMessage()
+com/xpn/xwiki/web/sx/JsExtension$JsCompressor$CustomErrorReporter/CustomErrorReporter(com.xpn.xwiki.web.sx.JsExtension$JsCompressor$CustomErrorReporter)
+org/slf4j/Logger/warn(java.lang.String)
+java/lang/StringBuilder/append(java.lang.String)

@@ -1,0 +1,4 @@
+0	org/javaee7/ejb/stateful/remote/Cart/getItems()
+1	java/util/Arrays/asList(T[])
+2	org/javaee7/ejb/stateful/remote/Cart/addItem(java.lang.String)
+3	org/neo4j/bolt/v1/runtime/Session/pullAll(A,org.neo4j.bolt.v1.runtime.Session.Callback)

@@ -1,0 +1,8 @@
+0	org/keycloak/events/admin/AuthDetails/getIpAddress()
+1	org/keycloak/models/RealmModel/getPasswordPolicy()
+2	org/keycloak/events/admin/AuthDetails/getRealmId()
+3	org/keycloak/events/admin/AdminEvent/getResourcePath()
+4	org/keycloak/models/RealmModel/isEnabled()
+5	org/keycloak/events/admin/AdminEvent/getAuthDetails()
+6	org/keycloak/models/cache/entities/CachedRealm/isEnabled()
+7	org/keycloak/models/PasswordPolicy/getHashIterations()

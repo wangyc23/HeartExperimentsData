@@ -1,0 +1,5 @@
+org/codehaus/jackson/map/util/EnumValues/constructFromToString(java.lang.Class,org.codehaus.jackson.map.AnnotationIntrospector)@g_jackson-mapper-asl-1.8.9.jar.txt	1
+org/codehaus/jackson/map/util/EnumValues/constructFromName(java.lang.Class,org.codehaus.jackson.map.AnnotationIntrospector)@g_jackson-mapper-asl-1.7.4.jar.txt	2
+org/codehaus/jackson/map/ser/CustomSerializerFactory/addSpecificMapping(java.lang.Class,org.codehaus.jackson.map.JsonSerializer)@g_jackson-mapper-asl-1.8.9.jar.txt	4
+org/codehaus/jackson/map/util/EnumValues/constructFromToString(java.lang.Class,org.codehaus.jackson.map.AnnotationIntrospector)@g_jackson-mapper-asl-1.7.4.jar.txt	3
+org/codehaus/jackson/map/util/EnumValues/constructFromName(java.lang.Class,org.codehaus.jackson.map.AnnotationIntrospector)@g_jackson-mapper-asl-1.8.9.jar.txt	0

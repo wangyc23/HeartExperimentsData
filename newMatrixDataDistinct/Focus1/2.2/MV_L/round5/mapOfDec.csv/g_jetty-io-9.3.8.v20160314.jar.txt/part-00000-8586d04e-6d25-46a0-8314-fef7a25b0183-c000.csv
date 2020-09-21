@@ -1,0 +1,5 @@
+org/eclipse/jetty/io/ByteArrayEndPoint/flush(java.nio.ByteBuffer[])@g_jetty-io-9.4.5.v20170502.jar.txt	3
+org/eclipse/jetty/io/ByteArrayEndPoint/addInput(java.nio.ByteBuffer)@g_jetty-io-9.4.5.v20170502.jar.txt	2
+org/eclipse/jetty/io/ManagedSelector/SelectorProducer/nextAction()@g_jetty-io-9.4.5.v20170502.jar.txt	0
+org/eclipse/jetty/io/ByteArrayEndPoint/waitForOutput(long,java.util.concurrent.TimeUnit)@g_jetty-io-9.4.5.v20170502.jar.txt	4
+org/eclipse/jetty/io/ByteArrayEndPoint/fill(java.nio.ByteBuffer)@g_jetty-io-9.4.5.v20170502.jar.txt	1

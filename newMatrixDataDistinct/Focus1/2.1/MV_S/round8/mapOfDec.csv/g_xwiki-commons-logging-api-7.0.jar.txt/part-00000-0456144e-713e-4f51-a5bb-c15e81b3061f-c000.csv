@@ -1,0 +1,5 @@
+org/mvel2/sh/command/basic/Help/execute(org.mvel2.sh.ShellSession,java.lang.String[])@g_xpp3_min-1.1.4c.jar.txt	2
+org/mvel2/conversion/DoubleCH/<clinit>()@g_xpp3_min-1.1.4c.jar.txt	1
+org/mvel2/optimizers/impl/refl/ReflectiveAccessorOptimizer/getCollectionProperty(java.lang.Object,java.lang.String)@g_xpp3_min-1.1.4c.jar.txt	0
+org/mvel2/util/ParseTools/handleNumericConversion(char[],int,int)@g_xpp3_min-1.1.4c.jar.txt	3
+org/mvel2/debug/DebugTools/decompile(org.mvel2.compiler.CompiledExpression,boolean,org.mvel2.debug.DebugTools$DecompileContext)@g_xpp3_min-1.1.4c.jar.txt	4

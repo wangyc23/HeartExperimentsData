@@ -1,0 +1,5 @@
+org/apache/maven/surefire/shade/org/apache/maven/shared/utils/io/DirectoryScanner/scandir(java.io.File,java.lang.String,boolean)@g_maven-dependency-analyzer-1.4.jar.txt	3
+org/apache/maven/shared/utils/StringUtils/quoteAndEscape(java.lang.String,char,char[],char[],char,boolean)@g_maven-dependency-analyzer-1.4.jar.txt	2
+org/apache/maven/internal/commons/io/output/XmlStreamWriter/detectEncoding(char[],int,int)@g_maven-dependency-analyzer-1.4.jar.txt	1
+org/apache/maven/shared/utils/xml/XmlWriterUtil/writeComment(org.apache.maven.shared.utils.xml.XMLWriter,java.lang.String,int,int,int)@g_maven-dependency-analyzer-1.4.jar.txt	0
+org/apache/maven/shared/utils/io/FileUtils/loadFile(java.io.File)@g_maven-dependency-analyzer-1.4.jar.txt	4

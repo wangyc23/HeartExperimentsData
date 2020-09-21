@@ -1,0 +1,5 @@
+org/xwiki/component/annotation/ComponentAnnotationLoader/unregister(org.xwiki.component.manager.ComponentManager,java.lang.ClassLoader,java.util.List)@g_xwiki-commons-component-default-7.4.2.jar.txt	3
+org/xwiki/component/annotation/ComponentAnnotationLoader/unregister(org.xwiki.component.manager.ComponentManager,java.lang.ClassLoader,java.util.List)@g_xwiki-commons-component-default-7.0.jar.txt	0
+org/xwiki/component/embed/EmbeddableComponentManager/dispose()@g_xwiki-commons-component-default-7.0.jar.txt	2
+org/xwiki/component/annotation/ComponentAnnotationLoader/register(org.xwiki.component.manager.ComponentManager,java.lang.ClassLoader,java.util.List)@g_xwiki-commons-component-default-7.4.2.jar.txt	4
+org/xwiki/component/annotation/ComponentAnnotationLoader/register(org.xwiki.component.manager.ComponentManager,java.lang.ClassLoader,java.util.List)@g_xwiki-commons-component-default-7.0.jar.txt	1

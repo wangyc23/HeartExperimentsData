@@ -1,0 +1,5 @@
+org/xwiki/rest/internal/resources/wikis/WikiSearchQueryResourceImpl/search(java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer,java.lang.Boolean,java.lang.String,java.lang.String,java.lang.Boolean,java.lang.String)@g_xwiki-platform-rest-server-7.4.jar.txt	2
+org/xwiki/rest/internal/resources/BaseSearchResult/searchPages(java.util.List,java.lang.String,java.lang.String,java.lang.String,boolean,int,int,java.lang.String,java.lang.String,java.lang.Boolean)@g_xwiki-platform-rest-server-7.4.jar.txt	1
+org/xwiki/rest/internal/resources/BaseSearchResult/searchSpaces(java.lang.String,java.lang.String,int,int)@g_xwiki-platform-rest-server-7.4.jar.txt	4
+org/xwiki/rest/internal/resources/objects/ObjectPropertyResourceImpl/getObjectProperty(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.Integer,java.lang.String,java.lang.Boolean)@g_xwiki-platform-rest-server-7.4.jar.txt	0
+org/xwiki/rest/internal/ModelFactory/toRestPageSummary(java.net.URI,com.xpn.xwiki.api.Document,java.lang.Boolean)@g_xwiki-platform-rest-server-7.4.jar.txt	3

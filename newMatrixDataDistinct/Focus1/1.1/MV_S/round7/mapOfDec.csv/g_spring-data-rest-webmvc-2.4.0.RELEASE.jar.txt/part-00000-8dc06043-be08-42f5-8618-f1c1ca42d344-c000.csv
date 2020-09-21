@@ -1,0 +1,5 @@
+org/springframework/data/config/TypeFilterParser/parseTypeFilters(org.w3c.dom.Element,org.springframework.data.config.TypeFilterParser$Type)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	3
+org/springframework/data/mapping/context/AbstractMappingContext/addPersistentEntity(org.springframework.data.util.TypeInformation)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	4
+org/springframework/data/web/MapDataBinder/MapPropertyAccessor/setPropertyValue(java.lang.String,java.lang.Object)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	2
+org/springframework/data/rest/webmvc/BaseUri/getRepositoryLookupPath(java.lang.String)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	1
+org/springframework/data/rest/core/UriToEntityConverter/convert(java.lang.Object,org.springframework.core.convert.TypeDescriptor,org.springframework.core.convert.TypeDescriptor)@g_spring-data-rest-core-2.4.0.RELEASE.jar.txt	0

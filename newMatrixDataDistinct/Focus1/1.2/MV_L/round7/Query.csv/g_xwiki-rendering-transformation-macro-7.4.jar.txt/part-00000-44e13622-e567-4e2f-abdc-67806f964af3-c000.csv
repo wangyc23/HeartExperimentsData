@@ -1,0 +1,4 @@
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Properties/getProperty(java.lang.String)
+java/util/Map/get(java.lang.Object)
+java/util/Set/iterator()

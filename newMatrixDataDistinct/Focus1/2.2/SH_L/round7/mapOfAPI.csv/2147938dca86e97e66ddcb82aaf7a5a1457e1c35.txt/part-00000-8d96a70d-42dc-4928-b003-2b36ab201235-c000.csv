@@ -1,0 +1,4 @@
+0	com/howbuy/hadoop/hbase/orm/util/Utils/getFromField(T,java.lang.reflect.Field)
+1	com/howbuy/hadoop/hbase/orm/dao/HDaoImpl/getFamilyByFieldName(java.lang.reflect.Field,java.lang.String)
+2	java/lang/Class/getDeclaredField(java.lang.String)
+3	com/howbuy/hadoop/hbase/orm/dao/HDaoImpl/getQualiferByFamilyOrSublevelFieldName(java.lang.reflect.Field,java.lang.String)

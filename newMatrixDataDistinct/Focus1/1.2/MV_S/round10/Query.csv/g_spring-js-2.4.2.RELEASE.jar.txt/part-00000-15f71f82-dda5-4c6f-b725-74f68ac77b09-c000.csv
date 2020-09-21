@@ -1,0 +1,4 @@
+java/io/OutputStream/close()
+org/apache/commons/logging/Log/debug(java.lang.Object)
+java/net/URL/openConnection()
+java/io/InputStream/read(byte[])

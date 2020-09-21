@@ -1,0 +1,5 @@
+com/lowagie/text/Section/add(java.lang.Object)@g_itext-2.1.2.jar.txt	1
+com/lowagie/text/Section/add(int,java.lang.Object)@g_itext-2.1.2.jar.txt	0
+com/itextpdf/text/pdf/AcroFields/setFieldProperty(java.lang.String,java.lang.String,java.lang.Object,int[])@g_itext-2.1.2.jar.txt	3
+com/lowagie/text/pdf/PdfGraphics2D/doAttributes(java.text.AttributedCharacterIterator)@g_itext-2.1.2.jar.txt	4
+com/lowagie/text/pdf/codec/Base64/encodeObject(java.io.Serializable,int)@g_itext-2.1.2.jar.txt	2

@@ -1,0 +1,4 @@
+org/neo4j/cypher/internal/compiler/v3_0/commands/CreateIndex$/apply$default$3()
+org/neo4j/cypher/internal/compiler/v3_0/commands/DropUniqueConstraint$/apply$default$5()
+org/neo4j/cypher/internal/frontend/v3_0/ast/Property/propertyKey()
+org/neo4j/cypher/internal/frontend/v3_0/ast/DropNodePropertyExistenceConstraint/variable()

@@ -1,0 +1,5 @@
+org/hoteia/qalingo/core/service/WebManagementService/buildAndSaveNewCustomer(org.hoteia.qalingo.core.web.resolver.RequestData,org.hoteia.qalingo.core.domain.Market,org.hoteia.qalingo.core.domain.MarketArea,org.hoteia.qalingo.core.domain.Customer)@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	1
+org/hoteia/qalingo/core/service/EngineSessionService/addNewCart(org.hoteia.qalingo.core.domain.EngineEcoSession)@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	3
+org/hoteia/qalingo/core/domain/AbstractExtendEntity/getGlobalAttributes()@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	2
+org/hoteia/qalingo/core/service/AttributeService/sortAttributes(java.util.List)@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	4
+org/hoteia/qalingo/core/domain/Tag/hashCode()@02cfdd61a961b12c7957a6a321c9a5ebea2af7ac.txt	0

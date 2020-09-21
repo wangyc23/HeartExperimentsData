@@ -1,0 +1,5 @@
+org/eclipse/osgi/framework/util/FilePath/initialize(java.lang.String)@g_org.eclipse.osgi-3.11.3.jar.txt	1
+org/osgi/framework/FrameworkUtil/DNChainMatching/parseDNchainPattern(java.lang.String)@g_org.eclipse.osgi-3.11.3.jar.txt	4
+org/eclipse/osgi/internal/signedcontent/SignedBundleFile/getEntry(java.lang.String)@g_org.eclipse.osgi-3.11.3.jar.txt	0
+org/eclipse/osgi/storage/bundlefile/ZipBundleFile/getExtractFile(java.lang.String)@g_org.eclipse.osgi-3.11.3.jar.txt	2
+org/eclipse/osgi/storage/bundlefile/ZipBundleFile/containsDir(java.lang.String)@g_org.eclipse.osgi-3.11.3.jar.txt	3

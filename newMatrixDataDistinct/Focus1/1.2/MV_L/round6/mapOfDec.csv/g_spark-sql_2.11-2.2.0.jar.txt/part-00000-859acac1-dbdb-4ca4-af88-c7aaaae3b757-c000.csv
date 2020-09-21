@@ -1,0 +1,5 @@
+org/apache/spark/sql/catalyst/planning/ExtractFiltersAndInnerJoins/flattenJoin(org.apache.spark.sql.catalyst.plans.logical.LogicalPlan,org.apache.spark.sql.catalyst.plans.InnerLike)@g_spark-catalyst_2.11-2.2.0.jar.txt	3
+org/apache/spark/sql/catalyst/analysis/ResolveTableValuedFunctions/anonfun/apply/1/anonfun/6/apply(scala.Tuple2)@g_spark-catalyst_2.11-2.2.0.jar.txt	2
+org/apache/spark/sql/catalyst/optimizer/SimplifyConditionals/anonfun/apply/6/anonfun/applyOrElse/6/applyOrElse(org.apache.spark.sql.catalyst.expressions.Expression,scala.Function1)@g_spark-catalyst_2.11-2.2.0.jar.txt	0
+org/apache/spark/sql/catalyst/analysis/Analyzer/ResolveReferences/org$apache$spark$sql$catalyst$analysis$Analyzer$ResolveReferences$$dedupRight(org.apache.spark.sql.catalyst.plans.logical.LogicalPlan,org.apache.spark.sql.catalyst.plans.logical.LogicalPlan)@g_spark-catalyst_2.11-2.2.0.jar.txt	1
+org/apache/spark/sql/catalyst/parser/AstBuilder/anonfun/org/apache/spark/sql/catalyst/parser/AstBuilder/withQuerySpecification/1/apply()@g_spark-catalyst_2.11-2.2.0.jar.txt	4

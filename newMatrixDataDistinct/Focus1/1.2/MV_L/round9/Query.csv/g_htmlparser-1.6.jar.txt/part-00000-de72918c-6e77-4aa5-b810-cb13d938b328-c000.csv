@@ -1,0 +1,4 @@
+java/lang/Class/getDeclaredMethod(java.lang.String,java.lang.Class[])
+java/io/PrintStream/println(java.lang.String)
+java/awt/event/ActionEvent/getSource()
+java/lang/Object/getClass()

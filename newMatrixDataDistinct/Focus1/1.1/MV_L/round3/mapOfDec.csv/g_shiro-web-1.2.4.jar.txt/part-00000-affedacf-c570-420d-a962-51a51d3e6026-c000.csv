@@ -1,0 +1,5 @@
+org/apache/shiro/realm/activedirectory/ActiveDirectoryRealm/getRoleNamesForUser(java.lang.String,javax.naming.ldap.LdapContext)@g_shiro-core-1.2.2.jar.txt	4
+org/apache/shiro/config/ReflectionBuilder/toMap(java.lang.String)@g_shiro-core-1.2.2.jar.txt	3
+org/apache/shiro/io/DefaultSerializer/serialize(java.lang.Object)@g_shiro-core-1.2.2.jar.txt	0
+org/apache/shiro/crypto/hash/format/Shiro1CryptFormat/parse(java.lang.String)@g_shiro-core-1.2.2.jar.txt	2
+org/apache/shiro/config/ReflectionBuilder/applyGlobalProperty(java.util.Map,java.lang.String,java.lang.String)@g_shiro-core-1.2.2.jar.txt	1

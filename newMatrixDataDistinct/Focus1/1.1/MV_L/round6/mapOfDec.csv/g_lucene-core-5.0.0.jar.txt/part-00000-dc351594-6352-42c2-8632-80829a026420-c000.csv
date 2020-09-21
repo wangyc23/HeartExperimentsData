@@ -1,0 +1,5 @@
+org/apache/lucene/index/IndexWriter/applyAllDeletesAndUpdates()@g_lucene-core-5.5.0.jar.txt	4
+org/apache/lucene/index/SegmentCommitInfo/clone()@g_lucene-core-5.5.0.jar.txt	2
+org/apache/lucene/index/IndexWriter/addIndexes(org.apache.lucene.store.Directory[])@g_lucene-core-5.5.0.jar.txt	1
+org/apache/lucene/index/IndexFileDeleter/inflateGens(org.apache.lucene.index.SegmentInfos,java.util.Collection,org.apache.lucene.util.InfoStream)@g_lucene-core-5.5.0.jar.txt	0
+org/apache/lucene/codecs/lucene54/Lucene54DocValuesConsumer/docToSetId(java.util.SortedSet,java.lang.Iterable,java.lang.Iterable)@g_lucene-core-5.5.0.jar.txt	3

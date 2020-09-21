@@ -1,0 +1,4 @@
+java/util/concurrent/locks/Lock/unlock()
+java/lang/StringBuffer/StringBuffer()
+java/lang/StringBuffer/setLength(int)
+org/hsqldb/Table/getColumnCount()

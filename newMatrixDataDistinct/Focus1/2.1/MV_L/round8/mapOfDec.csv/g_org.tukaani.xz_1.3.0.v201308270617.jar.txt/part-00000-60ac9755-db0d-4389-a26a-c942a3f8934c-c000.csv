@@ -1,0 +1,4 @@
+org/tukaani/xz/lzma/LZMAEncoderNormal/getNextSymbol()@g_xz-1.0.jar.txt	2
+org/tukaani/xz/index/IndexEncoder/encode(java.io.OutputStream)@g_xz-1.0.jar.txt	0
+org/tukaani/xz/index/IndexEncoder/encode(java.io.OutputStream)@g_xz-1.2.jar.txt	1
+org/tukaani/xz/lzma/LZMAEncoderNormal/getNextSymbol()@g_xz-1.2.jar.txt	3

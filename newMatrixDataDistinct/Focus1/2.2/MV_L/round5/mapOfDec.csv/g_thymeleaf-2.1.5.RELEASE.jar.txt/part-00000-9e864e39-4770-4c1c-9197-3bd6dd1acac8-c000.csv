@@ -1,0 +1,5 @@
+org/apache/shiro/realm/activedirectory/ActiveDirectoryRealm/getRoleNamesForUser(java.lang.String,javax.naming.ldap.LdapContext)@g_shiro-core-1.2.2.jar.txt	4
+org/thymeleaf/Configuration/mergeDialects(java.util.Set)@g_thymeleaf-2.1.4.RELEASE.jar.txt	2
+org/thymeleaf/Configuration/getApplicableNonSpecificProcessorsToNodeClass(java.lang.Class)@g_thymeleaf-2.1.4.RELEASE.jar.txt	1
+org/thymeleaf/context/WrappingVariablesMap/entrySet()@g_thymeleaf-2.1.4.RELEASE.jar.txt	0
+org/apache/shiro/subject/SimplePrincipalCollection/asSet()@g_shiro-core-1.2.2.jar.txt	3

@@ -1,0 +1,5 @@
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/map/TransformedMap/transformMap(java.util.Map)@g_attributes-processor-1.0.1.jar.txt	2
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/generic/ValueParser/getSubkey(java.lang.String)@g_attributes-processor-1.0.1.jar.txt	1
+org/carrot2/util/preprocessor/shaded/apache/commons/collections/MapUtils/invertMap(java.util.Map)@g_attributes-processor-1.0.1.jar.txt	0
+org/carrot2/util/attribute/BindableDescriptor/only(com.google.common.base.Predicate)@g_attributes-processor-1.0.1.jar.txt	3
+org/carrot2/util/preprocessor/shaded/apache/velocity/tools/Toolbox/getToolClassMap()@g_attributes-processor-1.0.1.jar.txt	4

@@ -1,0 +1,5 @@
+org/xerial/snappy/SnappyFramedInputStream/getFrameMetaData(java.nio.ByteBuffer)@g_snappy-java-1.1.2.6.jar.txt	4
+org/apache/commons/io/FileSystemUtils/parseDir(java.lang.String,java.lang.String)@g_commons-io-2.5.jar.txt	1
+org/apache/commons/io/FileUtils/decodeUrl(java.lang.String)@g_commons-io-2.5.jar.txt	0
+org/apache/commons/io/output/XmlStreamWriter/detectEncoding(char[],int,int)@g_snappy-java-1.1.2.6.jar.txt	3
+jline/console/completer/ArgumentCompleter/complete(java.lang.String,int,java.util.List)@g_snappy-java-1.1.2.6.jar.txt	2

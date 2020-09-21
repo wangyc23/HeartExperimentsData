@@ -1,0 +1,5 @@
+edu/stanford/nlp/parser/lexparser/SisterAnnotationStats/printStats()@g_stanford-parser-3.5.2.jar.txt	3
+edu/stanford/nlp/neural/NeuralUtils/dot(org.ejml.simple.SimpleMatrix,org.ejml.simple.SimpleMatrix)@g_stanford-parser-3.5.2.jar.txt	4
+edu/stanford/nlp/parser/lexparser/MLEDependencyGrammar/readData(java.io.BufferedReader)@g_stanford-corenlp-3.5.0.jar.txt	1
+edu/stanford/nlp/parser/lexparser/MLEDependencyGrammar/readData(java.io.BufferedReader)@g_stanford-parser-3.5.2.jar.txt	0
+edu/stanford/nlp/trees/tregex/TregexPattern/main(java.lang.String[])@g_stanford-parser-3.5.2.jar.txt	2

@@ -1,0 +1,4 @@
+com/netflix/hystrix/HystrixCommand$Setter/withGroupKey(com.netflix.hystrix.HystrixCommandGroupKey)
+feign/hystrix/HystrixInvocationHandler$1/1(feign.hystrix.HystrixInvocationHandler,com.netflix.hystrix.HystrixCommand$Setter,java.lang.reflect.Method,java.lang.Object[])
+java/lang/reflect/Method/getReturnType()
+com/netflix/hystrix/HystrixCommand$Setter/andCommandKey(com.netflix.hystrix.HystrixCommandKey)

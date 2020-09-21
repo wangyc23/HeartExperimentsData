@@ -1,0 +1,5 @@
+com/sun/jersey/core/impl/provider/entity/RenderedImageProvider/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation[],javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)@g_aspectjrt-1.8.5.jar.txt	0
+org/aspectj/internal/lang/reflect/AjTypeImpl/getDeclareSofts()@g_aspectjrt-1.8.5.jar.txt	3
+org/jboss/resteasy/specimpl/ResteasyUriBuilder/replaceParameter(java.util.Map,boolean,boolean,java.lang.String,java.lang.StringBuffer,boolean)@g_aspectjrt-1.8.5.jar.txt	4
+com/sun/jersey/core/spi/component/ProviderServices/getInstances(java.lang.Class,java.lang.String[])@g_aspectjrt-1.8.5.jar.txt	2
+org/jboss/resteasy/client/core/extractors/ClientResponseProxy/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_aspectjrt-1.8.5.jar.txt	1

@@ -1,0 +1,5 @@
+flexjson/ObjectBinder/bindPrimitive(java.lang.Object,java.lang.Class)@g_flexjson-2.1.jar.txt	1
+org/easymock/internal/RecordState/createNumberObject(java.lang.Object,java.lang.Class)@g_easymock-2.4.jar.txt	0
+org/easymock/internal/LegacyMatcherProvider/setMatcher(java.lang.reflect.Method,org.easymock.ArgumentsMatcher)@g_easymock-2.4.jar.txt	4
+flexjson/JSONTokener/stringToValue(java.lang.String)@g_flexjson-2.1.jar.txt	3
+flexjson/transformer/HtmlEncoderTransformer/transform(java.lang.Object)@g_flexjson-2.1.jar.txt	2

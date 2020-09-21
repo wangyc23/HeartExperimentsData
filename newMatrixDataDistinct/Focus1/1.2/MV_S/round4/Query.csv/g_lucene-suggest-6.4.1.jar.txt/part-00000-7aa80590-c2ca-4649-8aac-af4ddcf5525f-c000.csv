@@ -1,0 +1,4 @@
+org/apache/lucene/util/BytesRefBuilder/BytesRefBuilder()
+java/util/ArrayList/ArrayList(int)
+org/apache/lucene/util/BytesRefBuilder/copyChars(java.lang.CharSequence)
+org/apache/lucene/util/BytesRefBuilder/setLength(int)

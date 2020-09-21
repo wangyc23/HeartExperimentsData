@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+org/eclipse/core/runtime/Platform/getExtensionRegistry()
+org/eclipse/core/runtime/Platform/isRunning()
+org/eclipse/core/runtime/IConfigurationElement/getAttribute(java.lang.String)

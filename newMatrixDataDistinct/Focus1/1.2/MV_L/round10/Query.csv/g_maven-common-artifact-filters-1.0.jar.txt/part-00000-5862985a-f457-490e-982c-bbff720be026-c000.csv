@@ -1,0 +1,4 @@
+org/codehaus/plexus/logging/Logger/isDebugEnabled()
+java/util/Iterator/hasNext()
+java/lang/StringBuffer/append(char)
+java/util/List/isEmpty()

@@ -1,0 +1,5 @@
+org/apache/mahout/classifier/sequencelearning/hmm/HMMTrainerTest/testScaledViterbiTraining()@1684556c1de3abe0c4042ddc576ae5fedd7de8df.txt	3
+org/apache/mahout/classifier/bayes/InMemoryBayesDatastore/getWeight(java.lang.String,java.lang.String,java.lang.String)@1684556c1de3abe0c4042ddc576ae5fedd7de8df.txt	0
+org/apache/mahout/cf/taste/hadoop/als/eval/DatasetSplitter/WritePrefsMapper/map(org.apache.mahout.cf.taste.hadoop.item.Text,org.apache.mahout.cf.taste.hadoop.item.Text,org.apache.mahout.cf.taste.hadoop.item.Context)@1684556c1de3abe0c4042ddc576ae5fedd7de8df.txt	2
+org/apache/mahout/df/data/DataConverter/convert(int,java.lang.String)@1684556c1de3abe0c4042ddc576ae5fedd7de8df.txt	4
+org/apache/mahout/classifier/sgd/AdaptiveLogisticModelParameters/createPrior(java.lang.String,double)@1684556c1de3abe0c4042ddc576ae5fedd7de8df.txt	1

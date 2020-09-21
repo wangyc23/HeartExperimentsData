@@ -1,0 +1,5 @@
+javassist/Loader/findClass(java.lang.String)@g_javassist-3.18.0-GA.jar.txt	3
+javassist/compiler/Javac/compileMethod(javassist.compiler.Parser,javassist.compiler.ast.MethodDecl)@g_javassist-3.18.0-GA.jar.txt	2
+javassist/bytecode/analysis/FramePrinter/print(javassist.CtMethod)@g_javassist-3.18.0-GA.jar.txt	1
+javassist/DirClassPath/find(java.lang.String)@g_javassist-3.18.0-GA.jar.txt	4
+javassist/util/HotSwapper/reload(java.util.Map)@g_javassist-3.18.0-GA.jar.txt	0

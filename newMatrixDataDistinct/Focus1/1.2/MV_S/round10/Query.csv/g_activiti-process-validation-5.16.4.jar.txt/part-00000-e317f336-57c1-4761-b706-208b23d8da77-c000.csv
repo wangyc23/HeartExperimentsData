@@ -1,0 +1,4 @@
+org/activiti/validation/validator/impl/ExclusiveGatewayValidator/addWarning(java.util.List,java.lang.String,org.activiti.bpmn.model.Process,org.activiti.bpmn.model.BaseElement,java.lang.String)
+java/util/ArrayList/ArrayList()
+java/util/Iterator/hasNext()
+org/activiti/bpmn/model/ExclusiveGateway/getOutgoingFlows()

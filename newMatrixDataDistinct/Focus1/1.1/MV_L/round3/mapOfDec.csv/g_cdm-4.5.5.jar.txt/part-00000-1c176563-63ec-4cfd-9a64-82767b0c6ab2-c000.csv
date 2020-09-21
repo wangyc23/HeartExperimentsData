@@ -1,0 +1,5 @@
+thredds/catalog/InvDatasetFmrc/makeRunDatasets()@g_netcdf-4.2-min.jar.txt	1
+ucar/nc2/dataset/CoordTransBuilder/makeCoordinateTransform(ucar.nc2.dataset.NetcdfDataset,ucar.nc2.Variable,java.util.Formatter,java.util.Formatter)@g_netcdf-4.2-min.jar.txt	2
+ucar/nc2/dt/grid/GridDatasetInfo/writeAxis(ucar.nc2.dataset.CoordinateAxis)@g_netcdf-4.2-min.jar.txt	0
+ucar/nc2/EnumTypedef/writeCDL(boolean)@g_netcdf-4.2-min.jar.txt	4
+ucar/nc2/ft/point/standard/plug/CFpointObs/makeMultidimInner3D(ucar.nc2.dataset.NetcdfDataset,ucar.nc2.ft.point.standard.TableConfig,ucar.nc2.ft.point.standard.TableConfig,ucar.nc2.Dimension,java.util.Formatter)@g_netcdf-4.2-min.jar.txt	3

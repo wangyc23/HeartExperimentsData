@@ -1,0 +1,4 @@
+0	com/gs/collections/impl/block/factory/primitive/CharPredicates$IsWhiteSpaceCharPredicate/IsWhiteSpaceCharPredicate(com.gs.collections.impl.block.factory.primitive.CharPredicates$1)
+1	com/gs/collections/impl/block/factory/primitive/CharPredicates$IsLetterCharPredicate/IsLetterCharPredicate(com.gs.collections.impl.block.factory.primitive.CharPredicates$1)
+2	com/gs/collections/impl/block/factory/primitive/CharPredicates$IsDigitOrDotCharPredicate/IsDigitOrDotCharPredicate(com.gs.collections.impl.block.factory.primitive.CharPredicates$1)
+3	com/gs/collections/impl/block/factory/primitive/CharPredicates$AlwaysTrueCharPredicate/AlwaysTrueCharPredicate(com.gs.collections.impl.block.factory.primitive.CharPredicates$1)

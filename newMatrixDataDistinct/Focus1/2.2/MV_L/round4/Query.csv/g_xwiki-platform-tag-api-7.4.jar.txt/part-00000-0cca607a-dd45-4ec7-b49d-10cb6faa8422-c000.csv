@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+com/xpn/xwiki/XWikiContext/getWiki()
+org/xwiki/query/Query/addFilter(org.xwiki.query.QueryFilter)
+com/xpn/xwiki/store/XWikiStoreInterface/getQueryManager()

@@ -1,0 +1,5 @@
+groovyjarjarantlr4/v4/runtime/misc/NullUsageProcessor/checkOverriddenMethod(javax.lang.model.element.ExecutableElement,javax.lang.model.element.ExecutableElement,java.util.Set,java.util.Set)@g_groovy-2.6.0-alpha-1.jar.txt	1
+groovyjarjarantlr4/v4/runtime/misc/NullUsageProcessor/checkVoidMethodAnnotations(java.util.Set,javax.lang.model.element.TypeElement)@g_groovy-2.6.0-alpha-1.jar.txt	0
+groovyjarjarantlr4/v4/runtime/misc/NullUsageProcessor/checkPrimitiveTypeAnnotations(java.util.Set,javax.tools.Diagnostic$Kind,javax.lang.model.element.TypeElement)@g_groovy-2.6.0-alpha-1.jar.txt	2
+org/codehaus/groovy/control/io/FileReaderSource/getReader()@g_xwiki-commons-tool-verification-resources-7.4.2.jar.txt	4
+groovyjarjarantlr4/v4/runtime/misc/RuleDependencyProcessor/findRuleDependencyProperty(groovyjarjarantlr4.v4.runtime.misc.Tuple2,javax.lang.model.element.AnnotationMirror,groovyjarjarantlr4.v4.runtime.misc.RuleDependencyProcessor$RuleDependencyProperty)@g_groovy-2.6.0-alpha-1.jar.txt	3

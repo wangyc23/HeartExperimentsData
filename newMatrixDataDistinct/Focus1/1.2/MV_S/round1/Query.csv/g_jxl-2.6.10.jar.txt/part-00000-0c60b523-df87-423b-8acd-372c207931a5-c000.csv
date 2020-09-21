@@ -1,0 +1,4 @@
+java/util/ArrayList/ArrayList()
+jxl/write/Blank/setCellFeatures(jxl.write.WritableCellFeatures)
+jxl/write/Label/getString()
+jxl/write/WritableHyperlink/getRow()

@@ -1,0 +1,5 @@
+com/mchange/v2/lang/Coerce/toObject(java.lang.String,java.lang.Class)@g_c3p0-0.9.1.1.jar.txt	1
+org/apache/commons/dbcp2/cpdsadapter/PStmtKeyCPDS/toString()@g_commons-dbcp2-2.1.jar.txt	2
+org/apache/commons/dbcp2/DelegatingConnection/toString()@g_commons-dbcp2-2.1.jar.txt	4
+org/apache/commons/dbcp2/BasicDataSourceFactory/createDataSource(java.util.Properties)@g_commons-dbcp2-2.1.jar.txt	0
+org/apache/commons/dbcp2/cpdsadapter/DriverAdapterCPDS/getObjectInstance(java.lang.Object,javax.naming.Name,javax.naming.Context,java.util.Hashtable)@g_commons-dbcp2-2.1.jar.txt	3

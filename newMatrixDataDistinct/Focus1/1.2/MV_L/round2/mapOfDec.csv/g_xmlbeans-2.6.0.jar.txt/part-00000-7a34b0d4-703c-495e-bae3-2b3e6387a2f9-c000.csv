@@ -1,0 +1,5 @@
+org/apache/xmlbeans/impl/common/XmlStreamUtils/printEvent(javax.xml.stream.XMLStreamReader)@g_xmlbeans-2.3.0.jar.txt	2
+org/apache/xmlbeans/impl/tool/StreamInstanceValidator/validateFiles(java.io.File[],org.apache.xmlbeans.SchemaTypeLoader,org.apache.xmlbeans.XmlOptions)@g_xmlbeans-2.3.0.jar.txt	4
+org/apache/xmlbeans/impl/common/XmlReaderToWriter/write(javax.xml.stream.XMLStreamReader,javax.xml.stream.XMLStreamWriter)@g_xmlbeans-2.3.0.jar.txt	1
+org/apache/xmlbeans/impl/store/Locale/loadXMLStreamReader(javax.xml.stream.XMLStreamReader,org.apache.xmlbeans.XmlOptions)@g_xmlbeans-2.3.0.jar.txt	3
+org/apache/xmlbeans/impl/common/LoadSaveUtils/xmlStreamReader2XmlText(javax.xml.stream.XMLStreamReader,java.io.OutputStream)@g_xmlbeans-2.3.0.jar.txt	0

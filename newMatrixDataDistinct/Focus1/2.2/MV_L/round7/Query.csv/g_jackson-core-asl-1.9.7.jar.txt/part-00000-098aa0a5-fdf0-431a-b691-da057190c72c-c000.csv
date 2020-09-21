@@ -1,0 +1,4 @@
+org/codehaus/jackson/impl/ReaderBasedParser/_decodeBase64(java.lang.String,org.codehaus.jackson.util.ByteArrayBuilder,org.codehaus.jackson.Base64Variant)
+java/lang/StringBuilder/append(java.lang.String)
+org/codehaus/jackson/impl/ReaderBasedParser/_getByteArrayBuilder()
+java/lang/StringBuilder/append(java.lang.Object)

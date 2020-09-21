@@ -1,0 +1,5 @@
+org/json4s/Extraction/CollectionBuilder/result()@g_json4s-core_2.11-3.4.0.jar.txt	1
+org/json4s/MonadicJValue/org$json4s$MonadicJValue$$find$3(org.json4s.JsonAST$JValue,scala.Function1)@g_json4s-core_2.11-3.4.0.jar.txt	0
+org/json4s/native/Printer/class/layout$1(org.json4s.native.Printer,scala.collection.immutable.List,java.io.Writer)@g_json4s-core_2.11-3.4.0.jar.txt	3
+org/json4s/reflect/Reflector/ClassDescriptorBuilder/constructorsAndCompanion()@g_json4s-core_2.11-3.4.0.jar.txt	4
+org/json4s/Formats/class/withCompanions(org.json4s.Formats,scala.collection.Seq)@g_json4s-core_2.11-3.4.0.jar.txt	2

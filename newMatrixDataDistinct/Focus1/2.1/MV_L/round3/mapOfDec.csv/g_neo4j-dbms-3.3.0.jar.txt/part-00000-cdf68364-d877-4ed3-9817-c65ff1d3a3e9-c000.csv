@@ -1,0 +1,5 @@
+org/neo4j/commandline/dbms/CsvImporter/doImport()@g_neo4j-dbms-3.1.0.jar.txt	0
+org/neo4j/dbms/archive/Utils/checkWritableDirectory(java.nio.file.Path)@g_neo4j-dbms-3.1.0.jar.txt	4
+org/neo4j/consistency/checking/cache/CacheTask/CacheNextRel/processCache()@g_neo4j-dbms-3.1.0.jar.txt	2
+org/neo4j/consistency/checking/full/CountsBuilderDecorator/RelationshipCounts/check(org.neo4j.kernel.impl.store.record.RelationshipRecord,org.neo4j.consistency.checking.CheckerEngine,org.neo4j.consistency.store.RecordAccess)@g_neo4j-dbms-3.1.0.jar.txt	3
+org/neo4j/consistency/checking/full/CountsBuilderDecorator/NodeCounts/check(org.neo4j.kernel.impl.store.record.NodeRecord,org.neo4j.consistency.checking.CheckerEngine,org.neo4j.consistency.store.RecordAccess)@g_neo4j-dbms-3.1.0.jar.txt	1

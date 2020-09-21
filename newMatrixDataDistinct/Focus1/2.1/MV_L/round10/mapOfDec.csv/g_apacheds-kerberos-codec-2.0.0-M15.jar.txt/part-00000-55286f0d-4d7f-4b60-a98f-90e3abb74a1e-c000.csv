@@ -1,0 +1,5 @@
+org/apache/directory/shared/kerberos/components/Checksum/encode(java.nio.ByteBuffer)@g_ehcache-core-1.7.2.jar.txt	4
+net/sf/ehcache/distribution/RMIAsynchronousCacheReplicator/replicationThreadMain()@g_ehcache-core-1.7.2.jar.txt	0
+org/apache/directory/shared/kerberos/codec/kdcReqBody/actions/AddTicket/action(org.apache.directory.shared.kerberos.codec.kdcReqBody.KdcReqBodyContainer)@g_ehcache-core-1.7.2.jar.txt	3
+org/apache/directory/api/util/GeneralizedTime/parseTimezone(int)@g_ehcache-core-1.7.2.jar.txt	1
+org/apache/directory/shared/kerberos/components/EncKrbPrivPart/encode(java.nio.ByteBuffer)@g_ehcache-core-1.7.2.jar.txt	2

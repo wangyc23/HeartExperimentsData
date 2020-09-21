@@ -1,0 +1,5 @@
+org/xwiki/rendering/wikimodel/internal/mediawiki/javacc/TokenMgrError/addEscapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	1
+org/xwiki/rendering/wikimodel/internal/common/javacc/TokenMgrError/addEscapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	4
+org/xwiki/rendering/wikimodel/internal/confluence/javacc/ParseException/add_escapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	0
+org/xwiki/rendering/wikimodel/internal/gwiki/javacc/ParseException/add_escapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	2
+org/xwiki/rendering/wikimodel/internal/creole/javacc/TokenMgrError/addEscapes(java.lang.String)@g_xwiki-rendering-wikimodel-7.4.jar.txt	3

@@ -1,0 +1,4 @@
+org/xwiki/rendering/wikimodel/xhtml/impl/TagStack/popStackParameter(java.lang.String)
+java/lang/Object/toString()
+org/xwiki/rendering/wikimodel/xhtml/impl/TagStack/getStackParameter(java.lang.String)
+org/xwiki/rendering/wikimodel/impl/WikiScannerContext/onReference(org.xwiki.rendering.wikimodel.WikiReference)

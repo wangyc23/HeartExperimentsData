@@ -1,0 +1,4 @@
+0	org/junit/Assert/assertTrue(boolean)
+1	org/isisaddons/wicket/svg/cpt/applib/InteractiveMap/parse()
+2	org/isisaddons/wicket/svg/cpt/applib/InteractiveMap/addElement(org.isisaddons.wicket.svg.cpt.applib.InteractiveMapElement)
+3	org/isisaddons/wicket/svg/cpt/applib/InteractiveMapElement/addAttribute(org.isisaddons.wicket.svg.cpt.applib.InteractiveMapAttribute)

@@ -1,0 +1,4 @@
+java/lang/String/valueOf(java.lang.Object)
+java/net/URL/getProtocol()
+java/net/URL/getFile()
+java/lang/StringBuffer/toString()

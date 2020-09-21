@@ -1,0 +1,5 @@
+com/google/inject/servlet/ServletScopes/scopeRequest(java.util.concurrent.Callable,java.util.Map)@g_guice-servlet-3.0.jar.txt	3
+com/google/inject/assistedinject/FactoryProvider2/getDependencies(com.google.inject.spi.InjectionPoint,com.google.inject.TypeLiteral)@g_guice-assistedinject-4.1.0.jar.txt	1
+com/google/inject/assistedinject/FactoryProvider/createMethodMapping(com.google.inject.TypeLiteral,com.google.inject.TypeLiteral)@g_guice-assistedinject-4.1.0.jar.txt	2
+com/google/inject/assistedinject/FactoryProvider2/removeAssistedDeps(java.util.Set)@g_guice-assistedinject-4.1.0.jar.txt	0
+com/google/inject/assistedinject/FactoryProvider/getDependencies()@g_guice-assistedinject-4.1.0.jar.txt	4

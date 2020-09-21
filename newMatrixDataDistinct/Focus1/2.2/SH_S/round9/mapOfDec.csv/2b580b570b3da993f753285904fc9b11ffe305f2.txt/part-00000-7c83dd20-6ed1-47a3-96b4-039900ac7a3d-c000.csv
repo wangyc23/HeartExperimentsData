@@ -1,0 +1,5 @@
+com/github/jakz/nit/batch/BatchOperations/loadExpectedGameSetList(com.github.jakz.nit.batch.BatchOptions,com.github.jakz.nit.Options)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	3
+com/guillaumecl/caskdays/external/BeerListParser/getSite()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2
+br/com/tecsinapse/camel/repository/SocialRepository/arriveTwitterSearchResult(java.util.List)@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	1
+br/com/tecsinapse/camel/repository/SocialRepository/getLatests(int,java.util.Map,java.util.Comparator,java.util.function.Function)@1ad698eeac78466229f0af09bf348c4a1f3ec44b.txt	0
+com/github/jakz/nit/config/Config/PlatformDeserializer/deserialize(com.google.gson.JsonElement,java.lang.reflect.Type,com.google.gson.JsonDeserializationContext)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	4

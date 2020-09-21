@@ -1,0 +1,4 @@
+java/lang/Object/toString()
+java/util/Iterator/hasNext()
+java/util/Collection/size()
+java/util/Iterator/next()

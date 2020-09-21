@@ -1,0 +1,4 @@
+com/sonal/flashcardapp/domain/FcCard/getAnswer()
+com/sonal/flashcardapp/domain/FcCard/getDeckid()
+com/sonal/flashcardapp/domain/FcCard/getQuestion()
+com/sonal/flashcardapp/domain/FcCard/getCardId()

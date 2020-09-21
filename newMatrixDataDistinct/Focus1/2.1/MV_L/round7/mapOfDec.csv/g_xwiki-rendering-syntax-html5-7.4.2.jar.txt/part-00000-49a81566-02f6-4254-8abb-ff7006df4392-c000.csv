@@ -1,0 +1,5 @@
+org/xwiki/rendering/internal/renderer/xhtml/link/InterWikiXHTMLLinkTypeRenderer/beginLinkExtraAttributes(org.xwiki.rendering.listener.reference.ResourceReference,java.util.Map,java.util.Map)@g_xwiki-rendering-syntax-xhtml-7.0.jar.txt	2
+org/xwiki/rendering/internal/renderer/xhtml/XHTMLChainingRenderer/beginHeader(org.xwiki.rendering.listener.HeaderLevel,java.lang.String,java.util.Map)@g_xwiki-rendering-syntax-xhtml-7.0.jar.txt	0
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XWikiCommentHandler/handleImageCommentStop(java.lang.String,org.xwiki.rendering.wikimodel.xhtml.impl.XhtmlHandler$TagStack)@g_xwiki-rendering-syntax-html5-7.4.jar.txt	4
+org/xwiki/rendering/internal/renderer/xhtml/link/DocumentXHTMLLinkTypeRenderer/beginInternalLink(org.xwiki.rendering.listener.reference.ResourceReference,boolean,java.util.Map)@g_xwiki-rendering-syntax-xhtml-7.0.jar.txt	1
+org/xwiki/rendering/internal/parser/xhtml/wikimodel/XHTMLXWikiGeneratorListener/onReference(org.xwiki.rendering.wikimodel.WikiReference)@g_xwiki-rendering-syntax-html5-7.4.jar.txt	3

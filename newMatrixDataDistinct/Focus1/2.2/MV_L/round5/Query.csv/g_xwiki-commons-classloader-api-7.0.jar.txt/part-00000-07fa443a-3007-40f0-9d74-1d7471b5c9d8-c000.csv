@@ -1,0 +1,4 @@
+java/net/URI/URI(java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String,java.lang.String)
+org/xwiki/classloader/internal/ResourceLoader$JarInfo/getResource(java.lang.String,java.util.Set,java.util.Set)
+java/lang/StringBuilder/append(java.lang.String)
+java/util/Map/get(java.lang.Object)

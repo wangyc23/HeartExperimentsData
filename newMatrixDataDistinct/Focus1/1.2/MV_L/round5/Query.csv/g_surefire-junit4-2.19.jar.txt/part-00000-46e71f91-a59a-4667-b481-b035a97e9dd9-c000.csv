@@ -1,0 +1,4 @@
+java/io/StringWriter/getBuffer()
+java/lang/StringBuilder/append(java.lang.String)
+java/io/StringWriter/flush()
+java/lang/StringBuilder/StringBuilder()

@@ -1,0 +1,4 @@
+org/xwiki/wiki/script/WikiManagerScriptService/saveDescriptor(org.xwiki.wiki.descriptor.WikiDescriptor)@g_xwiki-platform-wiki-script-7.0.jar.txt	0
+org/xwiki/wiki/script/WikiManagerScriptService/canDeleteWiki(java.lang.String,java.lang.String)@g_xwiki-platform-wiki-script-7.0.jar.txt	2
+org/xwiki/wiki/script/WikiManagerScriptService/canDeleteWiki(java.lang.String,java.lang.String)@g_xwiki-platform-wiki-script-7.4.2.jar.txt	3
+org/xwiki/wiki/script/WikiManagerScriptService/saveDescriptor(org.xwiki.wiki.descriptor.WikiDescriptor)@g_xwiki-platform-wiki-script-7.4.2.jar.txt	1

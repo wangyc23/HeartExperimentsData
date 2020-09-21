@@ -1,0 +1,4 @@
+org/apache/jena/iri/impl/IRIFactoryImpl$2/2(org.apache.jena.iri.impl.IRIFactoryImpl)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+org/apache/jena/iri/impl/IRIFactoryImpl$NoScheme/NoScheme(org.apache.jena.iri.impl.IRIFactoryImpl,int)
+java/lang/String/toLowerCase()

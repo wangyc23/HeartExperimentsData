@@ -1,0 +1,5 @@
+org/eclipse/xtext/ide/editor/contentassist/antlr/ContentAssistContextFactory/doCreateContext(org.eclipse.xtext.nodemodel.INode,org.eclipse.emf.ecore.EObject,org.eclipse.emf.ecore.EObject,org.eclipse.xtext.nodemodel.INode,java.lang.String)@g_org.eclipse.xtext.ide-2.10.0-20160515.041749-73.jar.txt	0
+org/eclipse/xtext/web/server/XtextServiceDispatcher/getContentAssistService(org.eclipse.xtext.web.server.IServiceContext)@g_org.eclipse.xtext.web-2.10.0-20160302.125707-29.jar.txt	4
+org/eclipse/xtext/web/server/XtextServiceDispatcher/getFormattingService(org.eclipse.xtext.web.server.IServiceContext)@g_org.eclipse.xtext.web-2.10.0-20160302.125707-29.jar.txt	2
+org/eclipse/xtext/web/server/occurrences/OccurrencesService/1/exec(org.eclipse.xtext.web.server.model.IXtextWebDocument,org.eclipse.xtext.util.CancelIndicator)@g_org.eclipse.xtext.web-2.10.0-20160302.125707-29.jar.txt	3
+org/eclipse/xtext/web/server/formatting/FormattingService/1/exec(org.eclipse.xtext.web.server.model.IXtextWebDocument,org.eclipse.xtext.util.CancelIndicator)@g_org.eclipse.xtext.web-2.10.0-20160302.125707-29.jar.txt	1

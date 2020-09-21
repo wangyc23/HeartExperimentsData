@@ -1,0 +1,5 @@
+org/apache/xmlgraphics/image/codec/tiff/TIFFImage/getTile(int,int)@g_xmlgraphics-commons-1.5.jar.txt	0
+org/apache/xmlgraphics/image/codec/tiff/TIFFImageEncoder/encode(java.awt.image.RenderedImage,org.apache.xmlgraphics.image.codec.tiff.TIFFEncodeParam,int,boolean)@g_xmlgraphics-commons-1.5.jar.txt	2
+org/apache/xmlgraphics/image/codec/png/PNGRed/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_xmlgraphics-commons-1.5.jar.txt	1
+org/apache/xmlgraphics/ps/ImageEncodingHelper/encodeAlpha(java.io.OutputStream)@g_xmlgraphics-commons-1.5.jar.txt	3
+org/apache/xmlgraphics/image/codec/png/PNGImage/decodePass(java.awt.image.WritableRaster,int,int,int,int,int,int)@g_xmlgraphics-commons-1.5.jar.txt	4

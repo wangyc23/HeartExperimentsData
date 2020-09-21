@@ -1,0 +1,8 @@
+0	org/spout/api/geo/cuboid/Region/unload(boolean)
+1	org/spout/api/component/Component/onDetached()
+2	java/lang/StringBuilder/StringBuilder(java.lang.String)
+3	java/lang/StringBuilder/toString()
+4	java/lang/StringBuilder/append(java.lang.String)
+5	org/spout/engine/SpoutEngine/getLogger()
+6	java/lang/StringBuilder/append(java.lang.Object)
+7	java/lang/Math/max(int,int)

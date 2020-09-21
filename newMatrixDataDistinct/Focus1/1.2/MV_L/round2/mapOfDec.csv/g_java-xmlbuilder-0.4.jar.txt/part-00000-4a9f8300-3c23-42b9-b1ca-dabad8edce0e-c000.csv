@@ -1,0 +1,5 @@
+net/iharder/base64/Base64/encodeBytes(byte[],int,int,int)@g_chill-java-0.8.0.jar.txt	4
+net/iharder/base64/Base64/decodeFromFile(java.lang.String)@g_chill-java-0.8.0.jar.txt	3
+net/iharder/Base64/decode(java.lang.String,int)@g_base64-2.3.8.jar.txt	1
+net/iharder/Base64/decodeFromFile(java.lang.String)@g_chill-java-0.8.0.jar.txt	2
+com/twitter/chill/Base64/decode(java.lang.String,int)@g_chill-java-0.8.0.jar.txt	0

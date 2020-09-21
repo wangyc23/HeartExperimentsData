@@ -1,0 +1,5 @@
+org/apache/maven/plugins/clean/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-enforcer-plugin-1.3.1.jar.txt	0
+org/apache/maven/plugins/clean/HelpMojo/build()@g_maven-enforcer-plugin-1.3.1.jar.txt	1
+org/codehaus/mojo/buildhelper/AddTestResourceMojo/addResource(org.apache.maven.model.Resource)@g_maven-enforcer-plugin-1.3.1.jar.txt	4
+org/apache/maven/plugins/clean/CleanMojo/execute()@g_maven-enforcer-plugin-1.3.1.jar.txt	2
+org/codehaus/mojo/buildhelper/ReserveListenerPortMojo/getServerSocket()@g_maven-enforcer-plugin-1.3.1.jar.txt	3

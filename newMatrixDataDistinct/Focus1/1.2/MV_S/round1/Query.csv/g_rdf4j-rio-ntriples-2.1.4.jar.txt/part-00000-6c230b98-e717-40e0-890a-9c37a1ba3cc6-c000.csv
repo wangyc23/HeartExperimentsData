@@ -1,0 +1,4 @@
+org/eclipse/rdf4j/rio/ntriples/NTriplesParser/getParserConfig()
+java/lang/String/String(char[])
+java/lang/StringBuilder/append(java.lang.String)
+org/eclipse/rdf4j/rio/ntriples/NTriplesParser/createStatement(org.eclipse.rdf4j.model.Resource,org.eclipse.rdf4j.model.IRI,org.eclipse.rdf4j.model.Value)

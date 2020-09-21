@@ -1,0 +1,4 @@
+org/xwiki/velocity/tools/EscapeTool/url(java.util.Map)
+java/util/Map/put(java.lang.Object,java.lang.Object)
+java/util/Map/putAll(java.util.Map)
+java/lang/String/format(java.lang.String,java.lang.Object[])

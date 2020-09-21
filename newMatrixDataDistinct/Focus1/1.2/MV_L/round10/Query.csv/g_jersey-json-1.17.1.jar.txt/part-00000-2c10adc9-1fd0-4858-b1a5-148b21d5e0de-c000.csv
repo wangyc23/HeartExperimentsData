@@ -1,0 +1,4 @@
+java/lang/Character/toUpperCase(char)
+java/lang/String/toLowerCase()
+java/lang/String/length()
+java/lang/String/substring(int)

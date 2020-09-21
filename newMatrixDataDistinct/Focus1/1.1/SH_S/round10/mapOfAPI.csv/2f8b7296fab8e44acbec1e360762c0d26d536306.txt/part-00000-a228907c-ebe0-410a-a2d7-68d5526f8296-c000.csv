@@ -1,0 +1,3 @@
+0	java/util/HashMap/HashMap()
+1	com/porterhead/mail/MailSenderServiceImpl/sendVerificationEmail(com.porterhead.mail.EmailServiceTokenModel,java.lang.String,java.lang.String,java.util.Map)
+2	java/lang/Throwable/printStackTrace()

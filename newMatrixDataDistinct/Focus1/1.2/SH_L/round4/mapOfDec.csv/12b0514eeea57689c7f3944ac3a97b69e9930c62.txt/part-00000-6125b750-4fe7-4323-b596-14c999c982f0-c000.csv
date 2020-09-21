@@ -1,0 +1,5 @@
+org/graylog2/streams/matchers/FacilityMatcherTest/testMissedMatch()@0973a0a861314026c83fdbf923f865dfde8e0387.txt	3
+org/graylog2/inputs/syslog/SyslogTCPPipelineFactory/getPipeline()@0973a0a861314026c83fdbf923f865dfde8e0387.txt	4
+org/graylog2/periodical/StatisticsPrinterThread/print(java.lang.String,java.lang.String)@0973a0a861314026c83fdbf923f865dfde8e0387.txt	2
+org/graylog2/inputs/syslog/SyslogUDPInput/initialize(java.util.Map,org.graylog2.filters.GraylogServer)@0973a0a861314026c83fdbf923f865dfde8e0387.txt	1
+org/graylog2/filters/CounterUpdateFilter/filter(org.graylog2.buffers.LogMessage,org.graylog2.filters.GraylogServer)@0973a0a861314026c83fdbf923f865dfde8e0387.txt	0

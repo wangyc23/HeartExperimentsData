@@ -1,0 +1,5 @@
+javassist/util/proxy/RuntimeSupport/makeDesc(java.lang.StringBuffer,java.lang.Class)@g_javassist-3.18.1-GA.jar.txt	3
+javassist/bytecode/annotation/AnnotationImpl/hashCode()@g_javassist-3.18.1-GA.jar.txt	2
+javassist/util/proxy/RuntimeSupport/makeDesc(java.lang.StringBuffer,java.lang.Class)@g_javassist-3.18.0-GA.jar.txt	1
+javassist/bytecode/annotation/AnnotationImpl/hashCode()@g_javassist-3.18.0-GA.jar.txt	0
+javassist/util/HotSwapper/reload(java.util.Map)@g_javassist-3.18.0-GA.jar.txt	4

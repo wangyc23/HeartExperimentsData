@@ -1,0 +1,4 @@
+com/google/code/ssm/spring/SSMCache/SSMCache(com.google.code.ssm.Cache,int,boolean)
+com/google/code/ssm/spring/ExtendedSSMCacheManager/ExtendedSSMCacheManager()
+com/google/code/ssm/spring/SSMCacheManager/afterPropertiesSet()
+java/util/Arrays/asList(T[])

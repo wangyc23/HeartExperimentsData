@@ -1,0 +1,5 @@
+anatlyzer/atl/model/TypeUtils/typeToString(anatlyzer.atl.types.Type)@g_typing-1.0.1.jar.txt	3
+anatlyzer/atl/util/ATLSerializer/inSimpleOutPatternElement(anatlyzer.atlext.ATL.SimpleOutPatternElement)@g_typing-1.0.1.jar.txt	0
+anatlyzer/atl/graph/BindingPossiblyUnresolvedNode/genProblemSpecificCondition(anatlyzer.atl.analyser.generators.CSPModel,java.lang.String,java.util.List,anatlyzer.atlext.OCL.OclExpression,anatlyzer.atlext.OCL.OclExpression)@g_typing-1.0.1.jar.txt	1
+anatlyzer/atl/util/ErrorReport/printErrorsByType(anatlyzer.atl.analyser.Analyser,java.io.OutputStream)@g_typing-1.0.1.jar.txt	4
+anatlyzer/atl/analyser/batch/RuleConflictAnalysis/perform()@g_typing-1.0.1.jar.txt	2

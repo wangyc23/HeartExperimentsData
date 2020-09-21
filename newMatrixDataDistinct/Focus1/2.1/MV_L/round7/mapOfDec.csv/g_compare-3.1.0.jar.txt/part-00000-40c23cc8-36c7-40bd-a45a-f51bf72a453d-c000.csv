@@ -1,0 +1,5 @@
+org/eclipse/m2m/atl/emftvm/impl/ModuleImpl/toString()@g_emftvm-3.6.0.jar.txt	0
+org/eclipse/m2m/atl/emftvm/impl/resource/ConstantPool/writeConstant(java.io.DataOutputStream,java.lang.Object)@g_emftvm-3.6.0.jar.txt	3
+org/eclipse/m2m/atl/emftvm/util/StackFrame/toString()@g_emftvm-3.6.0.jar.txt	1
+org/eclipse/m2m/atl/emftvm/jit/JITCodeBlock/add(java.lang.Object,java.lang.Object,int,java.lang.String,org.eclipse.m2m.atl.emftvm.CodeBlock,org.eclipse.m2m.atl.emftvm.util.StackFrame)@g_emftvm-3.6.0.jar.txt	4
+org/eclipse/m2m/atl/emftvm/util/EMFTVMUtil/convertEnumLiteral(org.eclipse.m2m.atl.emftvm.util.EnumLiteral,java.lang.Class)@g_emftvm-3.6.0.jar.txt	2

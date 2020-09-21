@@ -1,0 +1,4 @@
+org/antlr/stringtemplate/language/GroupParser/LT(int)
+org/antlr/stringtemplate/language/GroupParser/getFilename()
+antlr/Token/getLine()
+java/lang/StringBuffer/toString()

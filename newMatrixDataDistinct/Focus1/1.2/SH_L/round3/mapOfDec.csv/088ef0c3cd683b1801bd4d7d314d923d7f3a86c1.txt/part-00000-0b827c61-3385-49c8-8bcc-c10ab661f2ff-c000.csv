@@ -1,0 +1,5 @@
+com/guillaumecl/caskdays/Main/configureStyleGuesses(com.guillaumecl.caskdays.Config)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	2
+com/guillaumecl/caskdays/external/BeerListParser/extractBeerList(org.jsoup.nodes.Document)@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	1
+com/guillaumecl/caskdays/external/BeerListParser/getList()@1f881f6d90b18585b75bf4bede73743ec5d7e185.txt	0
+es/uam/eps/ir/ranksys/rec/fast/FastRankingRecommender/getRecommendation(int,int,java.util.function.IntPredicate)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	4
+es/uam/eps/ir/ranksys/rec/fast/basic/PopularityRecommender/getRecommendation(int,int,java.util.function.IntPredicate)@28d637bbc7ed0ce20984cf606c442eaeeb0a6d72.txt	3

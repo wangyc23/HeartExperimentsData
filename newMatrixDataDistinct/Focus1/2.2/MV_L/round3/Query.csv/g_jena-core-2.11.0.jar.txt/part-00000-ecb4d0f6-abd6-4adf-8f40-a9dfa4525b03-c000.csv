@@ -1,0 +1,4 @@
+org/slf4j/Logger/debug(java.lang.String)
+java/lang/Object/toString()
+java/lang/StringBuilder/append(java.lang.String)
+com/hp/hpl/jena/rdf/model/StmtIterator/next()

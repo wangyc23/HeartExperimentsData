@@ -1,0 +1,5 @@
+org/apache/zookeeper/server/upgrade/UpgradeSnapShotV1/recurseThroughDataTree(org.apache.zookeeper.server.DataTree,java.lang.String)@g_zookeeper-3.4.6.jar.txt	4
+org/apache/jute/compiler/JRecord/getCsharpNameSpace()@g_zookeeper-3.4.6.jar.txt	0
+org/apache/zookeeper/ZooKeeperMain/parseACLs(java.lang.String)@g_zookeeper-3.4.6.jar.txt	2
+org/apache/zookeeper/server/DataTree/deserialize(org.apache.jute.InputArchive,java.lang.String)@g_zookeeper-3.4.6.jar.txt	1
+org/apache/zookeeper/server/DataTree/deleteNode(java.lang.String,long)@g_zookeeper-3.4.6.jar.txt	3

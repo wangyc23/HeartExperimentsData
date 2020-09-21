@@ -1,0 +1,4 @@
+org/apache/maven/artifact/manager/DefaultWagonManager/getLogger()
+org/codehaus/plexus/logging/Logger/warn(java.lang.String)
+org/apache/maven/wagon/UnsupportedProtocolException/getMessage()
+java/io/File/exists()

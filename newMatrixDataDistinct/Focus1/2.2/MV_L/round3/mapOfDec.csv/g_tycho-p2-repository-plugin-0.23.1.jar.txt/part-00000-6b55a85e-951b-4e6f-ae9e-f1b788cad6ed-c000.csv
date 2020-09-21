@@ -1,0 +1,5 @@
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/deploy(java.io.File,org.apache.maven.artifact.Artifact,org.apache.maven.artifact.repository.ArtifactRepository,org.apache.maven.artifact.repository.ArtifactRepository)@g_maven-gpg-plugin-1.6.jar.txt	3
+org/eclipse/tycho/plugins/p2/P2MetadataMojo/writeArtifactLocations(java.io.File,java.util.Map)@g_tycho-p2-plugin-0.14.1.jar.txt	0
+org/apache/maven/plugin/gpg/HelpMojo/toLines(java.util.List,java.lang.String,int,int)@g_maven-gpg-plugin-1.6.jar.txt	4
+org/eclipse/tycho/plugins/p2/AbstractP2MetadataMojo/generateMetadata()@g_tycho-p2-plugin-0.14.1.jar.txt	1
+org/apache/maven/plugin/gpg/SignAndDeployFileMojo/generatePomFile()@g_maven-gpg-plugin-1.6.jar.txt	2

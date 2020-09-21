@@ -1,0 +1,4 @@
+java/lang/IllegalStateException/IllegalStateException(java.lang.String)
+java/lang/Thread/setContextClassLoader(java.lang.ClassLoader)
+java/lang/ThreadLocal/set(java.lang.Object)
+java/lang/Thread/currentThread()

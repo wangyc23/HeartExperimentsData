@@ -1,0 +1,5 @@
+com/thoughtworks/xstream/converters/extended/ISO8601SqlTimestampConverter/toString(java.lang.Object)@g_spark-unsafe_2.11-2.2.0.jar.txt	4
+com/thoughtworks/xstream/converters/extended/SqlTimestampConverter/fromString(java.lang.String)@g_spark-unsafe_2.11-2.2.0.jar.txt	3
+com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter/getCallbacks(java.lang.Object)@g_spark-unsafe_2.11-2.2.0.jar.txt	0
+com/thoughtworks/xstream/converters/reflection/SerializableConverter/1/writeFieldsToStream(java.util.Map)@g_spark-unsafe_2.11-2.2.0.jar.txt	2
+com/thoughtworks/xstream/io/xml/XmlFriendlyNameCoder/decodeName(java.lang.String)@g_spark-unsafe_2.11-2.2.0.jar.txt	1

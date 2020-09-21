@@ -1,0 +1,5 @@
+org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader/loadBeanDefinitionsForBeanMethod(org.springframework.context.annotation.BeanMethod)@g_spring-context-3.2.2.RELEASE.jar.txt	1
+org/springframework/context/support/DefaultLifecycleProcessor/startBeans(boolean)@g_spring-context-3.1.4.RELEASE.jar.txt	4
+org/springframework/cache/ehcache/EhCacheFactoryBean/afterPropertiesSet()@g_spring-context-3.1.4.RELEASE.jar.txt	2
+org/springframework/context/annotation/ConfigurationClassBeanDefinitionReader/loadBeanDefinitionsForBeanMethod(org.springframework.context.annotation.BeanMethod)@g_spring-context-3.1.4.RELEASE.jar.txt	0
+org/springframework/jmx/export/MBeanExporter/autodetect(org.springframework.jmx.export.MBeanExporter$AutodetectCallback)@g_spring-context-3.1.4.RELEASE.jar.txt	3

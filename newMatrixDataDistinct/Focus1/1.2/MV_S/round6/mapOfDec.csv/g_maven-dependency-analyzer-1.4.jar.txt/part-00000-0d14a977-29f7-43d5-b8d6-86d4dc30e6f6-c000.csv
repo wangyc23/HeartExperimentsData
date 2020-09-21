@@ -1,0 +1,5 @@
+org/apache/maven/tools/plugin/extractor/AbstractScriptedMojoDescriptorExtractor/gatherFilesByBasedir(java.io.File,java.util.List,java.lang.String,org.apache.maven.tools.plugin.PluginToolsRequest)@g_maven-plugin-tools-api-3.4.jar.txt	3
+org/codehaus/plexus/compiler/util/scan/mapping/SuffixMapping/getTargetFiles(java.io.File,java.lang.String)@g_plexus-compiler-api-1.5.3.jar.txt	0
+org/codehaus/plexus/compiler/util/scan/StaleSourceScanner/getIncludedSources(java.io.File,java.io.File)@g_plexus-compiler-api-1.5.3.jar.txt	2
+org/codehaus/plexus/compiler/AbstractCompiler/getSourceFiles(org.codehaus.plexus.compiler.CompilerConfiguration)@g_plexus-compiler-api-1.5.3.jar.txt	1
+org/apache/maven/tools/plugin/scanner/DefaultMojoScanner/populatePluginDescriptor(org.apache.maven.tools.plugin.PluginToolsRequest)@g_maven-plugin-tools-api-3.4.jar.txt	4

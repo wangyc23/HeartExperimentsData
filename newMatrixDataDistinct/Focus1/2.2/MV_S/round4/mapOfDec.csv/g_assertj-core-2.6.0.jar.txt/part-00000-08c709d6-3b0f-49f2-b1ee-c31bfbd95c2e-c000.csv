@@ -1,0 +1,5 @@
+org/mockito/cglib/reflect/FastMethod/helper(org.mockito.cglib.reflect.FastClass,java.lang.reflect.Method)@g_mockito-all-1.9.5.jar.txt	3
+org/mockito/exceptions/Reporter/wantedButNotInvoked(org.mockito.invocation.DescribedInvocation,java.util.List)@g_mockito-all-1.9.5.jar.txt	2
+org/mockito/cglib/proxy/LazyLoaderGenerator/generate(org.mockito.cglib.core.ClassEmitter,org.mockito.cglib.proxy.CallbackGenerator$Context,java.util.List)@g_mockito-all-1.9.5.jar.txt	1
+org/mockito/cglib/core/DebuggingClassWriter/1/run()@g_mockito-all-1.9.5.jar.txt	0
+org/mockito/cglib/transform/impl/AddDelegateTransformer/addDelegate(java.lang.reflect.Method)@g_mockito-all-1.9.5.jar.txt	4

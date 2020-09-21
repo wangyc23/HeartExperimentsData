@@ -1,0 +1,4 @@
+java/io/PrintStream/println(java.lang.String)
+java/util/Map/get(java.lang.Object)
+demo/jaxrs/service/Customer/getId()
+java/util/Map/put(K,V)

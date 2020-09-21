@@ -1,0 +1,5 @@
+org/apache/felix/utils/service/BaseManagedServiceFactory/internalUpdate(java.lang.String,java.util.Dictionary)@g_maven-surefire-plugin-2.12.jar.txt	4
+org/apache/felix/utils/filter/FilterImpl/compare_Collection(int,java.util.Collection,java.lang.Object)@g_maven-surefire-plugin-2.12.jar.txt	1
+org/apache/felix/utils/extender/AbstractExtender/stop(org.osgi.framework.BundleContext)@g_maven-surefire-plugin-2.12.jar.txt	2
+javax/servlet/http/HttpUtils/parseQueryString(java.lang.String)@g_maven-surefire-plugin-2.12.jar.txt	0
+org/apache/felix/utils/filter/FilterImpl/Parser/parse_value()@g_maven-surefire-plugin-2.12.jar.txt	3

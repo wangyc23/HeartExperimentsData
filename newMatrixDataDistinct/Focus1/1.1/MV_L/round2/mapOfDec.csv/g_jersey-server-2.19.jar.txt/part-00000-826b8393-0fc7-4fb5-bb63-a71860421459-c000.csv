@@ -1,0 +1,5 @@
+org/glassfish/jersey/server/ApplicationHandler/initialize()@g_jersey-server-2.17.jar.txt	1
+org/glassfish/jersey/server/ApplicationHandler/initialize(java.lang.Iterable)@g_jersey-server-2.21.jar.txt	3
+org/glassfish/jersey/server/TracingUtils/logStart(org.glassfish.jersey.server.ContainerRequest)@g_jersey-server-2.17.jar.txt	4
+org/glassfish/jersey/server/ApplicationHandler/bindProvidersAndResources(java.lang.Iterable,org.glassfish.jersey.model.internal.ComponentBag,java.util.Collection,java.util.Collection)@g_jersey-server-2.21.jar.txt	2
+org/glassfish/jersey/server/ApplicationHandler/bindProvidersAndResources(java.lang.Iterable,org.glassfish.jersey.model.internal.ComponentBag,java.util.Collection,java.util.Collection)@g_jersey-server-2.17.jar.txt	0

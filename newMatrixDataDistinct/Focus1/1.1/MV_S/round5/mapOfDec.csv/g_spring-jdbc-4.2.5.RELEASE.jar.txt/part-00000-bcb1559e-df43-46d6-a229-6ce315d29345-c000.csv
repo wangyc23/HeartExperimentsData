@@ -1,0 +1,5 @@
+org/springframework/jms/connection/ConnectionFactoryUtils/doGetTransactionalSession(javax.jms.ConnectionFactory,org.springframework.jms.connection.ConnectionFactoryUtils$ResourceFactory,boolean)@g_spring-2.5.6.jar.txt	4
+org/springframework/jdbc/datasource/TransactionAwareDataSourceProxy/TransactionAwareInvocationHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])@g_spring-2.5.6.jar.txt	2
+org/springframework/aop/aspectj/annotation/BeanFactoryAspectJAdvisorsBuilder/buildAspectJAdvisors()@g_spring-2.5.6.jar.txt	1
+org/springframework/asm/commons/SerialVersionUIDAdder/computeSVUID()@g_spring-2.5.6.jar.txt	3
+org/springframework/jdbc/support/SQLErrorCodeSQLExceptionTranslator/createCustomException(java.lang.String,java.lang.String,java.sql.SQLException,java.lang.Class)@g_spring-2.5.6.jar.txt	0

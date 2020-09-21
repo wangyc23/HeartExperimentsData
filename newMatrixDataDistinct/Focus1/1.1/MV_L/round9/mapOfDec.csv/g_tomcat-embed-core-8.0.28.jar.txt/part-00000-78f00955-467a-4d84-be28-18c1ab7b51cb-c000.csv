@@ -1,0 +1,5 @@
+org/apache/catalina/realm/JNDIRealm/addAttributeValues(java.lang.String,javax.naming.directory.Attributes,java.util.ArrayList)@g_tomcat-embed-core-8.0.26.jar.txt	4
+org/apache/catalina/ssi/SSIExec/process(org.apache.catalina.ssi.SSIMediator,java.lang.String,java.lang.String[],java.lang.String[],java.io.PrintWriter)@g_tomcat-embed-core-8.0.26.jar.txt	0
+org/apache/catalina/ssi/SSIExec/process(org.apache.catalina.ssi.SSIMediator,java.lang.String,java.lang.String[],java.lang.String[],java.io.PrintWriter)@g_tomcat-embed-core-8.0.23.jar.txt	2
+org/apache/catalina/servlets/CGIServlet/CGIRunner/run()@g_tomcat-embed-core-8.0.26.jar.txt	1
+org/apache/catalina/servlets/CGIServlet/CGIRunner/run()@g_tomcat-embed-core-8.0.23.jar.txt	3

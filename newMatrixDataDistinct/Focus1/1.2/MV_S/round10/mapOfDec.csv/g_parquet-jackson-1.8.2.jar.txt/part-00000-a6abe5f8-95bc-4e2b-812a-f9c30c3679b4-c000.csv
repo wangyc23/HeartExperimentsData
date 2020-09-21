@@ -1,0 +1,5 @@
+org/apache/xbean/recipe/ReflectionUtil/findAllSetters(java.lang.Class,java.lang.String,java.lang.Object,java.util.Set)@g_xbean-reflect-3.4.jar.txt	3
+org/apache/xbean/propertyeditor/EnumConverter/toObjectImpl(java.lang.String)@g_xbean-reflect-3.4.jar.txt	0
+org/apache/xbean/recipe/ReflectionUtil/findField(java.lang.Class,java.lang.String,java.lang.Object,java.util.Set)@g_xbean-reflect-3.4.jar.txt	4
+org/apache/xbean/recipe/CollectionRecipe/internalCreate(java.lang.reflect.Type,boolean)@g_xbean-reflect-3.4.jar.txt	1
+org/apache/xbean/recipe/ObjectRecipe/extractConstructorArgs(java.util.Map,org.apache.xbean.recipe.ReflectionUtil$Factory)@g_xbean-reflect-3.4.jar.txt	2

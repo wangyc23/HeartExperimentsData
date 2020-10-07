@@ -1,0 +1,9 @@
+org\focus\ContextAwareRecommendation.class
+org\focus\Runner.class
+org\focus\APIUsagePatternMatcher.class
+org\focus\ValueComparator.class
+org\focus\SuccessCalculator.class
+org\focus\DataReader.class
+org\focus\SimilarityCalculator$1.class
+org\focus\Configuration.class
+org\focus\SimilarityCalculator.class

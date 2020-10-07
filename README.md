@@ -1,5 +1,7 @@
 # HeartExperimentData
+Environment:
+Java 1.8
+Scala 2.11.12
+Spark 2.4.3
 
 ****************************************
-1. newMatrixDataDistinct: 
-Data in the matrix form used for training the model

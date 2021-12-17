@@ -1,4 +1,0 @@
-
-test1: 是原版的对filter数据集的处理方法
-test1ForOut: 是仅仅处理Out数据集的程序
-test1ForAll 是对filtered和Out统一处理的尝试
